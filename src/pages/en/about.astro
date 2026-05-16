@@ -34,7 +34,7 @@ const anchorItems = [
 
       <!-- MISSION block -->
       <div
-        class="pl-6 mb-12"
+        class="pl-6 mb-8"
         style="border-left: 4px solid var(--color-brand);"
       >
         <p
@@ -57,9 +57,20 @@ const anchorItems = [
         </p>
       </div>
 
+      <!-- Event group photo -->
+      <div class="mb-16">
+        <img
+          src="/images/about/event-group.webp"
+          alt="Gate to India & Africa event group photo"
+          class="w-full rounded-lg"
+          loading="lazy"
+          decoding="async"
+        />
+      </div>
+
       <!-- VISION block -->
       <div
-        class="pl-6"
+        class="pl-6 mb-8"
         style="border-left: 4px solid var(--color-brand);"
       >
         <p
@@ -80,6 +91,17 @@ const anchorItems = [
         <p class="text-sm md:text-base leading-relaxed" style="color: var(--color-text);">
           {t('about.vision.body2')}
         </p>
+      </div>
+
+      <!-- Cherry blossom + Mt. Fuji photo -->
+      <div>
+        <img
+          src="/images/about/sakura-fuji.jpg"
+          alt="Cherry blossoms and Mt. Fuji - Japan landscape"
+          class="w-full rounded-lg"
+          loading="lazy"
+          decoding="async"
+        />
       </div>
     </div>
   </section>
@@ -139,14 +161,15 @@ const anchorItems = [
           </div>
         </div>
 
-        <!-- Photo placeholder -->
+        <!-- CEO photo -->
         <div class="flex justify-center md:justify-end">
-          <!-- TODO: Replace with actual CEO photo -->
-          <div
-            class="rounded-lg w-full max-w-sm aspect-[3/4]"
-            style="background: #cccccc;"
-            aria-hidden="true"
-          ></div>
+          <img
+            src="/images/about/ceo.jpg"
+            alt="Shintaro Hari - Founder & CEO"
+            class="rounded-lg w-full max-w-sm object-cover aspect-[3/4]"
+            loading="lazy"
+            decoding="async"
+          />
         </div>
       </div>
     </div>
@@ -203,14 +226,15 @@ const anchorItems = [
           </table>
         </div>
 
-        <!-- Office photo placeholder -->
+        <!-- Office photo -->
         <div class="flex justify-center md:justify-end">
-          <!-- TODO: Replace with actual office photo -->
-          <div
-            class="rounded-lg w-full max-w-sm aspect-video"
-            style="background: #cccccc;"
-            aria-hidden="true"
-          ></div>
+          <img
+            src="/images/about/office.jpg"
+            alt="Conectando office"
+            class="rounded-lg w-full max-w-sm object-cover aspect-video"
+            loading="lazy"
+            decoding="async"
+          />
         </div>
       </div>
     </div>
@@ -222,4 +246,3 @@ const anchorItems = [
     href="/en/contact"
   />
 </BaseLayout>
-
