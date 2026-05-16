@@ -14,7 +14,7 @@ const anchorItems = [
 ];
 ---
 
-<BaseLayout title={t('nav.about')}>
+<BaseLayout title={t('page.about.title')} description={t('page.about.description')}>
   <PageHero title="ABOUT" />
   <AnchorNav items={anchorItems} />
 
@@ -176,7 +176,6 @@ const anchorItems = [
                 { label: t('about.company.name.label'), value: t('about.company.name.value') },
                 { label: t('about.company.ceo.label'), value: t('about.company.ceo.value') },
                 { label: t('about.company.established.label'), value: t('about.company.established.value') },
-                { label: t('about.company.business.label'), value: t('about.company.business.value') },
               ].map(({ label, value }) => (
                 <tr style="border-bottom: 1px solid var(--color-border);">
                   <td
@@ -190,6 +189,16 @@ const anchorItems = [
                   </td>
                 </tr>
               ))}
+              <tr style="border-bottom: 1px solid var(--color-border);">
+                <td class="py-4 pr-6 font-semibold whitespace-nowrap w-36" style="color: var(--color-brand);">
+                  {t('about.company.business.label')}
+                </td>
+                <td class="py-4" style="color: var(--color-text);">
+                  <span class="block">イベント運営事業</span>
+                  <span class="block">日本進出支援</span>
+                  <span class="block">日本ツアー</span>
+                </td>
+              </tr>
             </tbody>
           </table>
         </div>

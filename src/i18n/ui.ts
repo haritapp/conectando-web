@@ -8,6 +8,8 @@ export const defaultLang = 'ja';
 export const ui = {
   ja: {
     'nav.home': 'ホーム',
+    'page.about.title': '会社概要・経営理念',
+    'page.about.description': 'Conectando.Incは「世界中のネットワークを繋ぎ日本を強くする」を理念に、グローバルビジネスの架け橋となる企業です。代表メッセージや会社概要をご紹介します。',
     'nav.about': '会社概要',
     'nav.service': 'サービス',
     'nav.case': '事例',
@@ -48,6 +50,8 @@ export const ui = {
   },
   en: {
     'nav.home': 'Home',
+    'page.about.title': 'About Us | Mission & Company Profile',
+    'page.about.description': 'Conectando Inc. connects global networks to strengthen Japan. Learn about our mission, vision, CEO message, and company profile.',
     'nav.about': 'About',
     'nav.service': 'Services',
     'nav.case': 'Case Studies',
