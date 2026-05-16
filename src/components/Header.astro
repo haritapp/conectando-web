@@ -1,0 +1,122 @@
+---
+import { getLangFromUrl, useTranslations } from '../i18n/utils';
+
+const lang = getLangFromUrl(Astro.url);
+const t = useTranslations(lang);
+
+const navLinks = [
+  { key: 'nav.about' as const, href: lang === 'en' ? '/en/about' : '/about' },
+  { key: 'nav.service' as const, href: lang === 'en' ? '/en/service' : '/service' },
+  { key: 'nav.case' as const, href: lang === 'en' ? '/en/case' : '/case' },
+  { key: 'nav.blog' as const, href: lang === 'en' ? '/en/blog' : '/blog' },
+  { key: 'nav.news' as const, href: lang === 'en' ? '/en/news' : '/news' },
+  { key: 'nav.contact' as const, href: lang === 'en' ? '/en/contact' : '/contact' },
+];
+
+const currentPath = Astro.url.pathname;
+---
+
+<header class="bg-white shadow-sm sticky top-0 z-50">
+  <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
+    <div class="flex items-center justify-between h-16">
+      <!-- Logo -->
+      <a
+        href={lang === 'en' ? '/en/' : '/'}
+        class="text-xl font-bold"
+        style="color: var(--color-brand); text-decoration: none;"
+      >
+        Conectando
+      </a>
+
+      <!-- Desktop nav -->
+      <nav class="hidden md:flex items-center gap-6">
+        {navLinks.map(({ key, href }) => (
+          <a
+            href={href}
+            class="text-sm font-medium transition-colors hover:opacity-70"
+            style={currentPath === href ? 'color: var(--color-brand); font-weight: 700;' : 'color: var(--color-text);'}
+          >
+            {t(key)}
+          </a>
+        ))}
+      </nav>
+
+      <!-- Lang toggle + hamburger -->
+      <div class="flex items-center gap-3">
+        <!-- Language toggle -->
+        <div class="flex items-center gap-1 border rounded-full overflow-hidden" style="border-color: var(--color-border);">
+          <a
+            href={lang === 'en' ? '/' : '#'}
+            class="px-3 py-1 text-xs font-semibold transition-colors"
+            style={lang === 'ja' ? 'background: var(--color-brand); color: white;' : 'color: var(--color-text-muted);'}
+          >
+            JA
+          </a>
+          <a
+            href={lang === 'ja' ? '/en/' : '#'}
+            class="px-3 py-1 text-xs font-semibold transition-colors"
+            style={lang === 'en' ? 'background: var(--color-brand); color: white;' : 'color: var(--color-text-muted);'}
+          >
+            EN
+          </a>
+        </div>
+
+        <!-- Hamburger (mobile) -->
+        <button
+          id="menu-toggle"
+          aria-label={t('header.menu.open')}
+          class="md:hidden flex flex-col gap-1.5 p-1"
+        >
+          <span class="block w-6 h-0.5 bg-current transition-all" id="ham-line1"></span>
+          <span class="block w-6 h-0.5 bg-current transition-all" id="ham-line2"></span>
+          <span class="block w-6 h-0.5 bg-current transition-all" id="ham-line3"></span>
+        </button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Mobile menu -->
+  <div
+    id="mobile-menu"
+    class="md:hidden hidden border-t"
+    style="border-color: var(--color-border);"
+  >
+    <nav class="flex flex-col px-4 py-3 gap-0">
+      {navLinks.map(({ key, href }) => (
+        <a
+          href={href}
+          class="py-3 text-sm font-medium border-b"
+          style={`color: var(--color-text); border-color: var(--color-border);`}
+        >
+          {t(key)}
+        </a>
+      ))}
+    </nav>
+  </div>
+</header>
+
+<script>
+  const toggle = document.getElementById('menu-toggle');
+  const menu = document.getElementById('mobile-menu');
+  const line1 = document.getElementById('ham-line1');
+  const line2 = document.getElementById('ham-line2');
+  const line3 = document.getElementById('ham-line3');
+
+  let open = false;
+
+  toggle?.addEventListener('click', () => {
+    open = !open;
+    if (open) {
+      menu?.classList.remove('hidden');
+      line1?.classList.add('rotate-45', 'translate-y-2');
+      line2?.classList.add('opacity-0');
+      line3?.classList.add('-rotate-45', '-translate-y-2');
+    } else {
+      menu?.classList.add('hidden');
+      line1?.classList.remove('rotate-45', 'translate-y-2');
+      line2?.classList.remove('opacity-0');
+      line3?.classList.remove('-rotate-45', '-translate-y-2');
+    }
+  });
+</script>
+

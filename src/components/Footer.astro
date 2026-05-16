@@ -1,0 +1,29 @@
+---
+import { getLangFromUrl, useTranslations } from '../i18n/utils';
+
+const lang = getLangFromUrl(Astro.url);
+const t = useTranslations(lang);
+---
+
+<footer style="background: #111111; color: #ffffff;">
+  <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+    <div class="flex flex-col md:flex-row md:items-center md:justify-between gap-4">
+      <div>
+        <p class="text-lg font-bold mb-1">Conectando Inc.</p>
+        <p class="text-sm" style="color: #aaaaaa;">{t('footer.rights')}</p>
+      </div>
+      <nav class="flex flex-wrap gap-4 text-sm" style="color: #aaaaaa;">
+        <a href={lang === 'en' ? '/en/about' : '/about'} class="hover:text-white transition-colors" style="color: #aaaaaa; text-decoration: none;">
+          {t('nav.about')}
+        </a>
+        <a href={lang === 'en' ? '/en/service' : '/service'} class="hover:text-white transition-colors" style="color: #aaaaaa; text-decoration: none;">
+          {t('nav.service')}
+        </a>
+        <a href={lang === 'en' ? '/en/contact' : '/contact'} class="hover:text-white transition-colors" style="color: #aaaaaa; text-decoration: none;">
+          {t('nav.contact')}
+        </a>
+      </nav>
+    </div>
+  </div>
+</footer>
+

@@ -1,0 +1,216 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import PageHero from '../../components/PageHero.astro';
+import AnchorNav from '../../components/AnchorNav.astro';
+import ContactCTA from '../../components/ContactCTA.astro';
+import { useTranslations } from '../../i18n/utils';
+
+const t = useTranslations('en');
+
+const anchorItems = [
+  { label: t('about.anchor.mission'), href: '#mission' },
+  { label: t('about.anchor.ceo'), href: '#ceo' },
+  { label: t('about.anchor.company'), href: '#company' },
+];
+---
+
+<BaseLayout title={t('nav.about')}>
+  <PageHero title="ABOUT" />
+  <AnchorNav items={anchorItems} />
+
+  <!-- ── MISSION / VISION ── -->
+  <section id="mission" class="py-16 scroll-mt-20">
+    <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
+      <!-- Section title -->
+      <div class="mb-10">
+        <p
+          class="text-xs font-bold tracking-widest uppercase mb-2"
+          style="color: var(--color-brand);"
+        >
+          {t('about.mission.title')}
+        </p>
+        <hr style="border-color: var(--color-brand); border-top-width: 2px; max-width: 48px;" />
+      </div>
+
+      <!-- MISSION block -->
+      <div
+        class="pl-6 mb-12"
+        style="border-left: 4px solid var(--color-brand);"
+      >
+        <p
+          class="text-xs font-bold tracking-widest uppercase mb-3"
+          style="color: var(--color-brand);"
+        >
+          MISSION
+        </p>
+        <h2
+          class="text-xl md:text-2xl font-bold mb-4 leading-snug"
+          style="color: var(--color-brand);"
+        >
+          {t('about.mission.heading')}
+        </h2>
+        <p class="text-sm md:text-base leading-relaxed mb-3" style="color: var(--color-text);">
+          {t('about.mission.body1')}
+        </p>
+        <p class="text-sm md:text-base leading-relaxed" style="color: var(--color-text);">
+          {t('about.mission.body2')}
+        </p>
+      </div>
+
+      <!-- VISION block -->
+      <div
+        class="pl-6"
+        style="border-left: 4px solid var(--color-brand);"
+      >
+        <p
+          class="text-xs font-bold tracking-widest uppercase mb-3"
+          style="color: var(--color-brand);"
+        >
+          VISION
+        </p>
+        <h2
+          class="text-xl md:text-2xl font-bold mb-4 leading-snug"
+          style="color: var(--color-brand);"
+        >
+          {t('about.vision.heading')}
+        </h2>
+        <p class="text-sm md:text-base leading-relaxed mb-3" style="color: var(--color-text);">
+          {t('about.vision.body1')}
+        </p>
+        <p class="text-sm md:text-base leading-relaxed" style="color: var(--color-text);">
+          {t('about.vision.body2')}
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <!-- ── CEO MESSAGE ── -->
+  <section id="ceo" class="py-16 scroll-mt-20" style="background: var(--color-accent);">
+    <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
+      <!-- Section title -->
+      <div class="mb-10">
+        <p
+          class="text-xs font-bold tracking-widest uppercase mb-2"
+          style="color: var(--color-brand);"
+        >
+          {t('about.ceo.title')}
+        </p>
+        <hr style="border-color: var(--color-brand); border-top-width: 2px; max-width: 48px;" />
+      </div>
+
+      <!-- 2-col: text left, photo right -->
+      <div class="grid grid-cols-1 md:grid-cols-2 gap-10 items-start">
+        <!-- Text -->
+        <div>
+          <p
+            class="text-xs font-bold tracking-widest uppercase mb-1"
+            style="color: var(--color-brand);"
+          >
+            {t('about.ceo.role')}
+          </p>
+          <h2
+            class="text-2xl font-bold mb-6"
+            style="color: var(--color-brand);"
+          >
+            {t('about.ceo.name')}
+          </h2>
+
+          <p class="text-sm md:text-base leading-relaxed mb-4" style="color: var(--color-text);">
+            {t('about.ceo.msg1')}
+          </p>
+          <p class="text-sm md:text-base leading-relaxed mb-8" style="color: var(--color-text);">
+            {t('about.ceo.msg2')}
+          </p>
+
+          <!-- Profile sub-section -->
+          <div
+            class="pt-6"
+            style="border-top: 1px solid var(--color-border);"
+          >
+            <p
+              class="text-xs font-bold tracking-widest uppercase mb-3"
+              style="color: var(--color-brand);"
+            >
+              {t('about.ceo.profile.heading')}
+            </p>
+            <p class="text-sm leading-relaxed" style="color: var(--color-text-muted);">
+              {t('about.ceo.profile.body')}
+            </p>
+          </div>
+        </div>
+
+        <!-- Photo placeholder -->
+        <div class="flex justify-center md:justify-end">
+          <!-- TODO: Replace with actual CEO photo -->
+          <div
+            class="rounded-lg w-full max-w-sm aspect-[3/4]"
+            style="background: #cccccc;"
+            aria-hidden="true"
+          ></div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ── COMPANY TABLE ── -->
+  <section id="company" class="py-16 scroll-mt-20">
+    <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
+      <!-- Section title -->
+      <div class="mb-10">
+        <p
+          class="text-xs font-bold tracking-widest uppercase mb-2"
+          style="color: var(--color-brand);"
+        >
+          {t('about.company.title')}
+        </p>
+        <hr style="border-color: var(--color-brand); border-top-width: 2px; max-width: 48px;" />
+      </div>
+
+      <!-- 2-col: table left, office photo right -->
+      <div class="grid grid-cols-1 md:grid-cols-2 gap-10 items-start">
+        <!-- Table -->
+        <div>
+          <table class="w-full text-sm">
+            <tbody>
+              {[
+                { label: t('about.company.name.label'), value: t('about.company.name.value') },
+                { label: t('about.company.ceo.label'), value: t('about.company.ceo.value') },
+                { label: t('about.company.established.label'), value: t('about.company.established.value') },
+                { label: t('about.company.business.label'), value: t('about.company.business.value') },
+              ].map(({ label, value }) => (
+                <tr style="border-bottom: 1px solid var(--color-border);">
+                  <td
+                    class="py-4 pr-6 font-semibold whitespace-nowrap w-40"
+                    style="color: var(--color-brand);"
+                  >
+                    {label}
+                  </td>
+                  <td class="py-4" style="color: var(--color-text);">
+                    {value}
+                  </td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        </div>
+
+        <!-- Office photo placeholder -->
+        <div class="flex justify-center md:justify-end">
+          <!-- TODO: Replace with actual office photo -->
+          <div
+            class="rounded-lg w-full max-w-sm aspect-video"
+            style="background: #cccccc;"
+            aria-hidden="true"
+          ></div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <ContactCTA
+    text={t('contact.cta.text')}
+    buttonText={t('contact.cta.button')}
+    href="/en/contact"
+  />
+</BaseLayout>
+
