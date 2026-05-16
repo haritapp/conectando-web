@@ -1,0 +1,38 @@
+@import "tailwindcss";
+@import "@tailwindcss/typography";
+
+/* ── Conectando Design Tokens ── */
+:root {
+  --color-brand: #1A1AB4;        /* Conectando Blue */
+  --color-brand-dark: #12128a;
+  --color-brand-light: #3030cc;
+  --color-accent: #F5F5FF;       /* Soft blue tint */
+  --color-text: #111111;
+  --color-text-muted: #666666;
+  --color-bg: #FFFFFF;
+  --color-border: #E5E5E5;
+
+  --font-sans: 'Noto Sans JP', 'Helvetica Neue', Arial, sans-serif;
+  --font-display: 'Noto Sans JP', 'Helvetica Neue', Arial, sans-serif;
+
+  --radius-sm: 4px;
+  --radius-md: 8px;
+  --radius-lg: 16px;
+}
+
+/* ── Base ── */
+html {
+  font-family: var(--font-sans);
+  color: var(--color-text);
+  background: var(--color-bg);
+  -webkit-font-smoothing: antialiased;
+}
+
+a {
+  color: var(--color-brand);
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
