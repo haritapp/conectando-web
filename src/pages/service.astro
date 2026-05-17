@@ -1,0 +1,496 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import PageHero from '../components/PageHero.astro';
+import AnchorNav from '../components/AnchorNav.astro';
+import ContactCTA from '../components/ContactCTA.astro';
+
+const navItems = [
+  { label: 'イベント運営支援', href: '#service-1' },
+  { label: '日本ツアー',       href: '#service-2' },
+  { label: '日本進出支援',     href: '#service-3' },
+  { label: 'メディア運営',     href: '#service-4' },
+];
+
+const cases = [
+  { title: 'Gate to India & Africa 2025',    date: '2025年7月7日開催',  href: '/case/detail/gatetoindiaafrica',   img: '/images/about/event-group.webp' },
+  { title: 'New York Silicon Alley Meetup #12', date: '2025年5月8日開催', href: '/case/detail/newyorksiliconalley', img: '/images/about/event-group.webp' },
+  { title: '【インド・アフリカ】起業家・投資家交流会', date: '2025年7月4日開催', href: '/case/detail/gatetoindiaafrica', img: '/images/about/event-group.webp' },
+];
+---
+
+<BaseLayout title="サービス一覧 | イベント運営・日本ツアー・日本進出支援" description="Conectandoのサービス一覧。イベント運営支援・日本ツアー・日本進出支援・メディア運営をご紹介します。">
+
+  <PageHero label="SERVICE" title="SERVICE" />
+
+  <div class="page-wrap">
+
+    <p class="page-lead">
+      Conectandoの提供するサービスのご紹介です。<br>
+      各サービスの特徴、導入の流れ、導入事例をご紹介します。
+    </p>
+
+    <AnchorNav items={navItems} />
+
+    <!-- ① イベント運営支援 -->
+    <section id="service-1" class="svc-section">
+      <h2 class="svc-h2">イベント運営支援</h2>
+      <hr class="svc-rule" />
+
+      <p class="svc-lead">
+        主にスタートアップやWEB3に関連するイベントの運営を、企画から実行までワンストップで支援します。私たちのサービスは、イベントの企画立案、会場手配、当日の運営サポートに至るまで、すべてのプロセスを一貫してサポートします。さらに、英語での対応が可能なため、海外からの主催者も言語の壁を感じることなく、安心してイベントを開催できます。日本市場への理解を深めつつ、国際的な視点を持ったイベント運営を実現します。
+      </p>
+
+      <h3 class="sub-heading">サービスの特徴</h3>
+      <div class="features">
+        <div class="feature">
+          <span class="feat-num">01</span>
+          <h4 class="feat-title">ワンストップサポート</h4>
+          <p class="feat-desc">企画立案から会場手配、当日の運営まで、イベント全体を一貫してサポートし、主催者の負担を軽減します。特にスタートアップや国際会議の開催経験が豊富で、専門性の高いサポートを提供します。</p>
+        </div>
+        <div class="feature">
+          <span class="feat-num">02</span>
+          <h4 class="feat-title">英語対応</h4>
+          <p class="feat-desc">海外の主催者に向けた英語対応が可能で、言語の壁を感じることなくイベントを円滑に進行できます。さらに、日本人スタッフが常にサポートするため、国際イベントでも安心して進行できます。</p>
+        </div>
+        <div class="feature">
+          <span class="feat-num">03</span>
+          <h4 class="feat-title">国際的視点</h4>
+          <p class="feat-desc">日本市場に精通しつつ、国際的な視点を持ったイベント運営を実現し、多様なニーズに応えます。また、国際イベントでよくある日本人が参加しづらい環境を避け、英語が苦手な日本人でも参加しやすいイベントを開催します。</p>
+        </div>
+      </div>
+
+      <h3 class="sub-heading">導入の流れ</h3>
+      <ol class="flow-list">
+        <li class="flow-step">
+          <span class="flow-num">01</span>
+          <div>
+            <h4 class="flow-title">ヒアリング</h4>
+            <p class="flow-desc">ニーズ確認：クライアントの目的、ターゲット層、希望する開催日、会場、予算など、イベントに関する具体的な要望を詳細にヒアリングします。課題とゴールの設定：イベントで達成したい目標や期待する成果を明確にします。</p>
+          </div>
+        </li>
+        <li class="flow-step">
+          <span class="flow-num">02</span>
+          <div>
+            <h4 class="flow-title">企画・提案</h4>
+            <p class="flow-desc">コンセプト設計：ヒアリング内容を基に、イベントのテーマやコンセプトを設計します。スケジュール案・プラン提案：会場選定、プログラム内容、ゲストスピーカー、設備、進行方法など、具体的な企画内容を提案します。</p>
+          </div>
+        </li>
+        <li class="flow-step">
+          <span class="flow-num">03</span>
+          <div>
+            <h4 class="flow-title">ご提案・お見積</h4>
+            <p class="flow-desc">費用計算：提案内容に基づき、イベント全体の予算見積もりを作成します。項目ごとに費用を詳細に提示し、クライアントに納得してもらえるようにします。クライアントの予算に合わせて調整も可能です。</p>
+          </div>
+        </li>
+        <li class="flow-step">
+          <span class="flow-num">04</span>
+          <div>
+            <h4 class="flow-title">事前準備</h4>
+            <p class="flow-desc">詳細プランニング・会場手配：会場の予約、レイアウトの決定、設備の確認など。ゲスト・スピーカーの調整、マーケティング・プロモーション：イベントの集客に向けたプロモーション活動を開始します。</p>
+          </div>
+        </li>
+        <li class="flow-step">
+          <span class="flow-num">05</span>
+          <div>
+            <h4 class="flow-title">イベント開催</h4>
+            <p class="flow-desc">当日運営：イベントの進行管理、会場内外のサポート、トラブル対応など、スムーズな運営を行います。各担当者が役割を果たし、予定通りにイベントが進行するよう監督します。</p>
+          </div>
+        </li>
+      </ol>
+
+      <h3 class="sub-heading">導入事例</h3>
+      <div class="cases-grid">
+        {cases.map(c => (
+          <a href={c.href} class="case-card">
+            <img src={c.img} alt={c.title} class="case-img" loading="lazy" />
+            <div class="case-body">
+              <time class="case-date">{c.date}</time>
+              <p class="case-title">{c.title}</p>
+              <span class="case-badge">イベント運営支援</span>
+            </div>
+          </a>
+        ))}
+      </div>
+      <div class="right-cta">
+        <a href="/case" class="text-cta">すべて見る <span class="btn-dot">●</span></a>
+      </div>
+    </section>
+
+    <!-- ② 日本ツアー -->
+    <section id="service-2" class="svc-section">
+      <h2 class="svc-h2">日本ツアー</h2>
+      <hr class="svc-rule" />
+
+      <p class="svc-lead">
+        視察や業界イベントへの参加を通じ、クライアントが日本市場を深く理解し、現地のビジネスパートナーとのマッチングを実現するための日本ツアーを開催します。クライアントのニーズに合わせた訪問先やイベントの選定、スケジュール調整を行い、効果的なビジネスマッチングの機会を提供します。日本での新たなビジネスチャンスを発見し、確かなネットワークを構築するための最適なツアーです。
+      </p>
+
+      <h3 class="sub-heading">サービスの特徴</h3>
+      <div class="features">
+        <div class="feature">
+          <span class="feat-num">01</span>
+          <h4 class="feat-title">オーダーメイドのツアープラン</h4>
+          <p class="feat-desc">クライアントのニーズに合わせ、視察先やイベント参加、ビジネスマッチングの機会を厳選したオーダーメイドのツアーを企画します。日本市場の理解を深めると同時に、最適なビジネスパートナーとの出会いを実現します。</p>
+        </div>
+        <div class="feature">
+          <span class="feat-num">02</span>
+          <h4 class="feat-title">ビジネスマッチングのサポート</h4>
+          <p class="feat-desc">業界イベントや企業訪問を通じて、日本国内でのビジネスマッチングを強力にサポートします。クライアントが求めるパートナーやネットワークを築くための機会を提供し、ビジネスの成功を後押しします。</p>
+        </div>
+        <div class="feature">
+          <span class="feat-num">03</span>
+          <h4 class="feat-title">柔軟な対応とフォローアップ</h4>
+          <p class="feat-desc">ツアーの予約手配から現地でのサポートまで、クライアントの要望に応じた柔軟な対応を行います。さらに、ツアー後の振り返りやフォローアップを通じて、次のビジネスステップをサポートします。</p>
+        </div>
+      </div>
+
+      <h3 class="sub-heading">導入の流れ</h3>
+      <ol class="flow-list">
+        <li class="flow-step">
+          <span class="flow-num">01</span>
+          <div>
+            <h4 class="flow-title">ヒアリング</h4>
+            <p class="flow-desc">クライアントのツアー目的、対象市場、希望する訪問先、参加したいイベント、ビジネスマッチングのニーズなどを詳細にヒアリングします。</p>
+          </div>
+        </li>
+        <li class="flow-step">
+          <span class="flow-num">02</span>
+          <div>
+            <h4 class="flow-title">ツアー企画提案</h4>
+            <p class="flow-desc">ヒアリング内容に基づき、視察先やイベント参加、マッチングの機会を組み込んだオーダーメイドのツアー企画を提案します。※企画のみの場合有料</p>
+          </div>
+        </li>
+        <li class="flow-step">
+          <span class="flow-num">03</span>
+          <div>
+            <h4 class="flow-title">見積もり提出</h4>
+            <p class="flow-desc">提案したツアー企画に基づき、訪問先・移動手段・宿泊施設・イベント参加費用など、必要なすべての項目の詳細な見積もりを作成し提出します。</p>
+          </div>
+        </li>
+        <li class="flow-step">
+          <span class="flow-num">04</span>
+          <div>
+            <h4 class="flow-title">ツアー予約・準備</h4>
+            <p class="flow-desc">訪問先や宿泊施設、移動手段、イベント参加などの予約を代行し、ツアーの準備を進めます。クライアントと密に連携し、ツアーのスケジュールを最終調整します。</p>
+          </div>
+        </li>
+        <li class="flow-step">
+          <span class="flow-num">05</span>
+          <div>
+            <h4 class="flow-title">ツアー実施</h4>
+            <p class="flow-desc">ツアー当日は、スムーズな進行をサポートするため、現地でのコーディネートやトラブル対応などを行い、クライアントが日本での体験を最大限に活用できるよう支援します。</p>
+          </div>
+        </li>
+      </ol>
+    </section>
+
+    <!-- ③ 日本進出支援 -->
+    <section id="service-3" class="svc-section">
+      <h2 class="svc-h2">日本進出支援</h2>
+      <hr class="svc-rule" />
+
+      <p class="svc-lead">
+        私たちは、海外企業が日本市場に進出する際の課題をトータルでサポートします。まず、市場調査を通じてターゲット市場や競合状況を分析し、日本での成功戦略を構築します。次に、現地での採用活動を支援し、企業に最適な人材を確保します。また、オフィス探しでは、ニーズや予算に合わせた最適なロケーションを提案し、スムーズな設立準備をサポートします。
+      </p>
+
+      <h3 class="sub-heading">サービスの特徴</h3>
+      <div class="features">
+        <div class="feature">
+          <span class="feat-num">01</span>
+          <h4 class="feat-title">市場調査とトライアル営業</h4>
+          <p class="feat-desc">ターゲット市場の調査に加え、実際のトライアル営業を通じて、日本市場でのビジネス可能性を検証し、成功に向けたデータと戦略を提供します。</p>
+        </div>
+        <div class="feature">
+          <span class="feat-num">02</span>
+          <h4 class="feat-title">採用とオフィス選定サポート</h4>
+          <p class="feat-desc">現地での優秀な人材の採用を支援するとともに、クライアントのニーズや予算に合わせた最適なオフィスロケーションを提案し、スムーズな設立準備をサポートします。</p>
+        </div>
+        <div class="feature">
+          <span class="feat-num">03</span>
+          <h4 class="feat-title">営業サポート</h4>
+          <p class="feat-desc">日本市場での営業活動を支援し、現地のビジネス文化や商習慣に基づいた効果的な営業戦略の立案と実施をサポートします。</p>
+        </div>
+      </div>
+
+      <h3 class="sub-heading">導入の流れ</h3>
+      <ol class="flow-list">
+        <li class="flow-step">
+          <span class="flow-num">01</span>
+          <div>
+            <h4 class="flow-title">初回ヒアリング</h4>
+            <p class="flow-desc">クライアントの業界や日本市場への進出目的、目標、ターゲット市場を詳細にヒアリングします。市場調査、トライアル営業、採用やオフィス選定のニーズを確認し、初期的な進出計画の概要を提示します。</p>
+          </div>
+        </li>
+        <li class="flow-step">
+          <span class="flow-num">02</span>
+          <div>
+            <h4 class="flow-title">見積もり提出</h4>
+            <p class="flow-desc">具体的なサポート内容の確定後、市場調査・採用支援・オフィス探し・営業サポートを含む全体的なサポート内容に応じた見積もりを提示します。</p>
+          </div>
+        </li>
+        <li class="flow-step">
+          <span class="flow-num">03</span>
+          <div>
+            <h4 class="flow-title">市場調査とトライアル営業</h4>
+            <p class="flow-desc">日本市場のターゲット層、競合分析、消費者ニーズを調査しレポートとして提出します。実際のトライアル営業活動を通じて、商談や現地の反応を確認し、ビジネスの可能性を評価します。</p>
+          </div>
+        </li>
+        <li class="flow-step">
+          <span class="flow-num">04</span>
+          <div>
+            <h4 class="flow-title">営業サポート（必要に応じて）</h4>
+            <p class="flow-desc">現地での営業活動を支援し、日本市場での効果的な営業戦略を実施します。クライアントが新規顧客やビジネスパートナーを開拓できるようサポートします。</p>
+          </div>
+        </li>
+        <li class="flow-step">
+          <span class="flow-num">05</span>
+          <div>
+            <h4 class="flow-title">採用とオフィス選定（必要に応じて）</h4>
+            <p class="flow-desc">日本で必要な人材を確保するための採用プロセスを開始し、最適な人材を紹介・面接します。クライアントのニーズと予算に合ったオフィスの選定を行い、契約までのサポートを提供します。</p>
+          </div>
+        </li>
+      </ol>
+    </section>
+
+    <!-- ④ メディア運営 -->
+    <section id="service-4" class="svc-section">
+      <h2 class="svc-h2">メディア運営</h2>
+      <hr class="svc-rule" />
+
+      <p class="svc-lead">
+        自社運営のバイリンガルメディア「BizinTokyo」を通じて、東京で開催されるビジネスイベント情報を日本語・英語で発信しています。イベント主催者様のプロモーション支援から、参加者向けの会場・宿泊・交通情報の提供まで、メディアの力でイベントの集客と参加者体験の向上をサポートします。
+      </p>
+
+      <h3 class="sub-heading">サービスの特徴</h3>
+      <div class="features">
+        <div class="feature">
+          <span class="feat-num">01</span>
+          <h4 class="feat-title">バイリンガルメディア</h4>
+          <p class="feat-desc">日本語と英語の両方でコンテンツを制作・配信。国内の参加者はもちろん、海外からのビジネスパーソンにも効果的にリーチし、イベントの集客力を最大化します。</p>
+        </div>
+        <div class="feature">
+          <span class="feat-num">02</span>
+          <h4 class="feat-title">イベントプロモーション支援</h4>
+          <p class="feat-desc">イベント掲載記事の制作、SNSでの情報拡散、ニュースレター配信など、多角的なプロモーションでイベントの認知度を向上させます。</p>
+        </div>
+        <div class="feature">
+          <span class="feat-num">03</span>
+          <h4 class="feat-title">参加者向け情報コンテンツ</h4>
+          <p class="feat-desc">会場ガイド、周辺ホテル情報、インターネット環境ガイドなど、参加者が必要とする実用的な情報コンテンツを提供し、イベント体験の質を高めます。</p>
+        </div>
+      </div>
+
+      <h3 class="sub-heading">導入の流れ</h3>
+      <ol class="flow-list">
+        <li class="flow-step">
+          <span class="flow-num">01</span>
+          <div>
+            <h4 class="flow-title">ヒアリング</h4>
+            <p class="flow-desc">メディア掲載についてのご要望をヒアリングします。イベントの概要、ターゲット読者層、プロモーションの目的、掲載希望時期などを詳しくお伺いします。</p>
+          </div>
+        </li>
+        <li class="flow-step">
+          <span class="flow-num">02</span>
+          <div>
+            <h4 class="flow-title">プロモーション企画・提案</h4>
+            <p class="flow-desc">ヒアリング内容を基に、イベントの特徴を活かしたプロモーション企画をご提案します。記事コンテンツの方向性、SNS拡散プラン、ニュースレター配信スケジュールなど、多角的なメディア戦略を立案します。</p>
+          </div>
+        </li>
+        <li class="flow-step">
+          <span class="flow-num">03</span>
+          <div>
+            <h4 class="flow-title">コンテンツ制作・掲載</h4>
+            <p class="flow-desc">承認いただいた企画に基づき、プロのライターがバイリンガルコンテンツを制作します。イベント紹介記事、参加者向けガイド、SNS投稿素材などを作成し、BizinTokyoメディアに掲載・配信します。</p>
+          </div>
+        </li>
+        <li class="flow-step">
+          <span class="flow-num">04</span>
+          <div>
+            <h4 class="flow-title">レポート・フォローアップ</h4>
+            <p class="flow-desc">掲載コンテンツの効果測定レポートをお届けします。PV数、読者の反応、SNSでのシェア状況などを分析し、次回のプロモーション改善に活かすためのフィードバックを提供します。</p>
+          </div>
+        </li>
+        <li class="flow-step">
+          <span class="flow-num">05</span>
+          <div>
+            <h4 class="flow-title">継続サポート</h4>
+            <p class="flow-desc">イベント終了後も継続的なメディア連携が可能です。次回イベントに向けたコンテンツ戦略の立案や、読者コミュニティへのアプローチを支援します。</p>
+          </div>
+        </li>
+      </ol>
+    </section>
+
+  </div><!-- /page-wrap -->
+
+  <ContactCTA />
+
+</BaseLayout>
+
+<style>
+.page-wrap {
+  max-width: 80rem;
+  margin: 0 auto;
+  padding: 0 2rem 4rem;
+}
+.page-lead {
+  color: var(--color-text-muted);
+  line-height: 1.8;
+  margin: 2rem 0 2.5rem;
+  font-size: .9375rem;
+}
+
+/* ── Service section ── */
+.svc-section {
+  padding-top: 4rem;
+  margin-bottom: 2rem;
+  scroll-margin-top: 5rem;
+}
+.svc-h2 {
+  font-size: clamp(1.5rem, 3vw, 2.25rem);
+  font-weight: 800;
+  color: var(--color-brand);
+  margin-bottom: .75rem;
+}
+.svc-rule {
+  border: none;
+  border-top: 2px solid var(--color-brand);
+  margin-bottom: 2rem;
+}
+.svc-lead {
+  color: var(--color-text-muted);
+  line-height: 1.85;
+  max-width: 52rem;
+  font-size: .9375rem;
+  margin-bottom: 3rem;
+}
+
+/* ── Sub heading ── */
+.sub-heading {
+  font-size: 1rem;
+  font-weight: 700;
+  color: var(--color-text);
+  margin: 2.5rem 0 1.5rem;
+  padding-bottom: .5rem;
+  border-bottom: 1px solid #e5e7eb;
+}
+
+/* ── Features ── */
+.features {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 1.5rem;
+  margin-bottom: 1rem;
+}
+.feature {
+  background: var(--color-accent);
+  border-radius: .5rem;
+  padding: 1.5rem;
+}
+.feat-num {
+  display: block;
+  font-size: 1.75rem;
+  font-weight: 900;
+  color: var(--color-brand);
+  opacity: .25;
+  line-height: 1;
+  margin-bottom: .5rem;
+}
+.feat-title {
+  font-size: 1rem;
+  font-weight: 700;
+  color: var(--color-brand);
+  margin-bottom: .5rem;
+}
+.feat-desc {
+  font-size: .875rem;
+  color: var(--color-text-muted);
+  line-height: 1.75;
+}
+
+/* ── Flow ── */
+.flow-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+}
+.flow-step {
+  display: flex;
+  gap: 1.5rem;
+  padding: 1.5rem 0;
+  border-bottom: 1px solid #e5e7eb;
+  align-items: flex-start;
+}
+.flow-step:first-child { border-top: 1px solid #e5e7eb; }
+.flow-num {
+  font-size: 1.5rem;
+  font-weight: 900;
+  color: var(--color-brand);
+  opacity: .3;
+  flex-shrink: 0;
+  width: 2.5rem;
+  line-height: 1;
+  padding-top: .125rem;
+}
+.flow-title {
+  font-size: 1rem;
+  font-weight: 700;
+  color: var(--color-text);
+  margin-bottom: .375rem;
+}
+.flow-desc {
+  font-size: .875rem;
+  color: var(--color-text-muted);
+  line-height: 1.75;
+}
+
+/* ── Cases ── */
+.cases-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1rem;
+  margin-top: 1rem;
+}
+.case-card {
+  display: block;
+  text-decoration: none;
+  color: inherit;
+  border: 1px solid #e5e7eb;
+  border-radius: .5rem;
+  overflow: hidden;
+}
+.case-img {
+  width: 100%;
+  aspect-ratio: 16/9;
+  object-fit: cover;
+  display: block;
+}
+.case-body {
+  padding: .875rem;
+}
+.case-date  { display: block; font-size: .75rem; color: var(--color-text-muted); margin-bottom: .25rem; }
+.case-title { font-size: .875rem; font-weight: 600; color: var(--color-text); line-height: 1.5; margin-bottom: .5rem; }
+.case-badge {
+  font-size: .6875rem;
+  padding: .125rem .5rem;
+  background: var(--color-brand);
+  color: #fff;
+  border-radius: 9999px;
+}
+
+/* ── Right CTA ── */
+.right-cta { display: flex; justify-content: flex-end; margin-top: 1.5rem; }
+.text-cta {
+  display: inline-flex;
+  align-items: center;
+  gap: .375rem;
+  color: var(--color-brand);
+  font-weight: 700;
+  font-size: .9375rem;
+  text-decoration: none;
+}
+.text-cta:hover { opacity: .75; }
+.btn-dot { font-size: .55em; }
+</style>

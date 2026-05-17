@@ -1,0 +1,496 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import PageHero from '../../components/PageHero.astro';
+import AnchorNav from '../../components/AnchorNav.astro';
+import ContactCTA from '../../components/ContactCTA.astro';
+
+const navItems = [
+  { label: 'Event Management',  href: '#service-1' },
+  { label: 'Japan Tours',       href: '#service-2' },
+  { label: 'Japan Entry',       href: '#service-3' },
+  { label: 'Media Operations',  href: '#service-4' },
+];
+
+const cases = [
+  { title: 'Gate to India & Africa 2025',       date: 'July 7, 2025',  href: '/en/case/detail/gatetoindiaafrica',   img: '/images/about/event-group.webp' },
+  { title: 'New York Silicon Alley Meetup #12', date: 'May 8, 2025',   href: '/en/case/detail/newyorksiliconalley', img: '/images/about/event-group.webp' },
+  { title: 'India & Africa Entrepreneur Mixer', date: 'July 4, 2025',  href: '/en/case/detail/gatetoindiaafrica',   img: '/images/about/event-group.webp' },
+];
+---
+
+<BaseLayout title="Services | Event Management, Japan Tours & Market Entry" description="Conectando's full service lineup: event management support, Japan tours, Japan market entry, and bilingual media operations.">
+
+  <PageHero label="SERVICE" title="SERVICE" />
+
+  <div class="page-wrap">
+
+    <p class="page-lead">
+      Explore Conectando's service offerings.<br>
+      Learn about our features, process, and real-world case studies for each service.
+    </p>
+
+    <AnchorNav items={navItems} />
+
+    <!-- ① Event Management Support -->
+    <section id="service-1" class="svc-section">
+      <h2 class="svc-h2">Event Management Support</h2>
+      <hr class="svc-rule" />
+
+      <p class="svc-lead">
+        We provide one-stop support for the planning and execution of events — primarily startup and Web3 events. From concept development and venue arrangement to on-site operations, we handle every step of the process. Because we offer full English-language support, overseas organizers can host events in Japan with complete confidence. We deliver internationally minded event management grounded in a deep understanding of the Japanese market.
+      </p>
+
+      <h3 class="sub-heading">Key Features</h3>
+      <div class="features">
+        <div class="feature">
+          <span class="feat-num">01</span>
+          <h4 class="feat-title">One-Stop Support</h4>
+          <p class="feat-desc">From planning and venue coordination to on-the-day operations, we manage the entire event lifecycle — reducing the burden on organizers. We bring particular expertise in startup and international conference formats.</p>
+        </div>
+        <div class="feature">
+          <span class="feat-num">02</span>
+          <h4 class="feat-title">English-Language Operations</h4>
+          <p class="feat-desc">Full English support for overseas organizers, enabling seamless event execution without language barriers. Japanese staff are always on hand to ensure international events run smoothly from start to finish.</p>
+        </div>
+        <div class="feature">
+          <span class="feat-num">03</span>
+          <h4 class="feat-title">International Perspective</h4>
+          <p class="feat-desc">We combine deep knowledge of the Japanese market with a global outlook to meet diverse client needs. We also create environments where Japanese attendees who are not confident in English can participate comfortably alongside international guests.</p>
+        </div>
+      </div>
+
+      <h3 class="sub-heading">How It Works</h3>
+      <ol class="flow-list">
+        <li class="flow-step">
+          <span class="flow-num">01</span>
+          <div>
+            <h4 class="flow-title">Discovery Call</h4>
+            <p class="flow-desc">We conduct a detailed consultation to understand your objectives, target audience, preferred dates, venue requirements, and budget. We also clarify the goals and expected outcomes you want the event to achieve.</p>
+          </div>
+        </li>
+        <li class="flow-step">
+          <span class="flow-num">02</span>
+          <div>
+            <h4 class="flow-title">Planning & Proposal</h4>
+            <p class="flow-desc">Based on the consultation, we design the event concept and theme, then present a concrete proposal covering venue selection, programming, guest speakers, equipment, and the overall run-of-show.</p>
+          </div>
+        </li>
+        <li class="flow-step">
+          <span class="flow-num">03</span>
+          <div>
+            <h4 class="flow-title">Quotation</h4>
+            <p class="flow-desc">We prepare an itemised budget estimate for the entire event based on the agreed proposal. All costs are presented in detail so you can review and approve with confidence. Adjustments to fit your budget are always possible.</p>
+          </div>
+        </li>
+        <li class="flow-step">
+          <span class="flow-num">04</span>
+          <div>
+            <h4 class="flow-title">Pre-Event Preparation</h4>
+            <p class="flow-desc">We handle venue booking, layout planning, and equipment checks, while also coordinating with guests and speakers. Promotional and marketing activities to drive attendance are launched at this stage.</p>
+          </div>
+        </li>
+        <li class="flow-step">
+          <span class="flow-num">05</span>
+          <div>
+            <h4 class="flow-title">Event Day Operations</h4>
+            <p class="flow-desc">On the day, we manage the full run-of-show — overseeing logistics inside and outside the venue, handling any issues that arise, and ensuring the event proceeds exactly as planned.</p>
+          </div>
+        </li>
+      </ol>
+
+      <h3 class="sub-heading">Case Studies</h3>
+      <div class="cases-grid">
+        {cases.map(c => (
+          <a href={c.href} class="case-card">
+            <img src={c.img} alt={c.title} class="case-img" loading="lazy" />
+            <div class="case-body">
+              <time class="case-date">{c.date}</time>
+              <p class="case-title">{c.title}</p>
+              <span class="case-badge">Event Management</span>
+            </div>
+          </a>
+        ))}
+      </div>
+      <div class="right-cta">
+        <a href="/en/case" class="text-cta">View All <span class="btn-dot">●</span></a>
+      </div>
+    </section>
+
+    <!-- ② Japan Tours -->
+    <section id="service-2" class="svc-section">
+      <h2 class="svc-h2">Japan Tours</h2>
+      <hr class="svc-rule" />
+
+      <p class="svc-lead">
+        We organise Japan tours designed to help clients gain a deeper understanding of the Japanese market and connect with local business partners — through site visits, industry events, and curated networking opportunities. We select destinations and events tailored to your specific needs, handle all scheduling, and create the ideal conditions for meaningful business matching. It's the perfect tour for discovering new business opportunities in Japan and building a lasting network.
+      </p>
+
+      <h3 class="sub-heading">Key Features</h3>
+      <div class="features">
+        <div class="feature">
+          <span class="feat-num">01</span>
+          <h4 class="feat-title">Bespoke Tour Planning</h4>
+          <p class="feat-desc">We design fully customised itineraries built around your goals — curating site visits, event participation, and business matching opportunities. You deepen your understanding of Japan while meeting exactly the right partners.</p>
+        </div>
+        <div class="feature">
+          <span class="feat-num">02</span>
+          <h4 class="feat-title">Business Matching Support</h4>
+          <p class="feat-desc">Through industry events and company visits, we actively facilitate introductions and networking within Japan. We create the opportunities you need to forge the partnerships and connections that drive your business forward.</p>
+        </div>
+        <div class="feature">
+          <span class="feat-num">03</span>
+          <h4 class="feat-title">Flexible Support & Follow-up</h4>
+          <p class="feat-desc">From booking and logistics to on-the-ground support during the tour, we adapt to your needs at every step. After the tour, we provide a debrief and follow-up support to help you take the next steps in your business journey.</p>
+        </div>
+      </div>
+
+      <h3 class="sub-heading">How It Works</h3>
+      <ol class="flow-list">
+        <li class="flow-step">
+          <span class="flow-num">01</span>
+          <div>
+            <h4 class="flow-title">Discovery Call</h4>
+            <p class="flow-desc">We conduct a detailed consultation to understand your tour objectives, target market, preferred destinations, events of interest, and business matching needs.</p>
+          </div>
+        </li>
+        <li class="flow-step">
+          <span class="flow-num">02</span>
+          <div>
+            <h4 class="flow-title">Tour Proposal</h4>
+            <p class="flow-desc">Based on your requirements, we propose a bespoke tour itinerary incorporating site visits, event participation, and matching opportunities. Note: planning-only services are available for a fee.</p>
+          </div>
+        </li>
+        <li class="flow-step">
+          <span class="flow-num">03</span>
+          <div>
+            <h4 class="flow-title">Quotation</h4>
+            <p class="flow-desc">We prepare a detailed estimate covering all items in the proposed tour — destinations, transportation, accommodation, event fees, and other relevant costs.</p>
+          </div>
+        </li>
+        <li class="flow-step">
+          <span class="flow-num">04</span>
+          <div>
+            <h4 class="flow-title">Booking & Preparation</h4>
+            <p class="flow-desc">We handle all reservations — venues, accommodation, transport, event registrations — and work closely with you to finalise the tour schedule.</p>
+          </div>
+        </li>
+        <li class="flow-step">
+          <span class="flow-num">05</span>
+          <div>
+            <h4 class="flow-title">Tour Execution</h4>
+            <p class="flow-desc">On the ground in Japan, we provide coordination, troubleshooting, and on-site support throughout the tour — ensuring you get the most out of every moment.</p>
+          </div>
+        </li>
+      </ol>
+    </section>
+
+    <!-- ③ Japan Entry Support -->
+    <section id="service-3" class="svc-section">
+      <h2 class="svc-h2">Japan Entry Support</h2>
+      <hr class="svc-rule" />
+
+      <p class="svc-lead">
+        We provide comprehensive support for overseas companies looking to enter the Japanese market. We start with market research to analyse your target segments and the competitive landscape, then build a winning strategy for Japan. We assist with local recruitment to secure the right talent, and help identify office locations that match your needs and budget — supporting a smooth market entry from start to finish.
+      </p>
+
+      <h3 class="sub-heading">Key Features</h3>
+      <div class="features">
+        <div class="feature">
+          <span class="feat-num">01</span>
+          <h4 class="feat-title">Market Research & Trial Sales</h4>
+          <p class="feat-desc">Beyond target market analysis, we run actual trial sales activities to validate your product or service in Japan — delivering the data and strategy you need to succeed.</p>
+        </div>
+        <div class="feature">
+          <span class="feat-num">02</span>
+          <h4 class="feat-title">Recruitment & Office Search</h4>
+          <p class="feat-desc">We support local talent acquisition and help identify the ideal office location for your budget and operational needs — making your market entry as smooth as possible.</p>
+        </div>
+        <div class="feature">
+          <span class="feat-num">03</span>
+          <h4 class="feat-title">Sales Support</h4>
+          <p class="feat-desc">We assist with sales activities in the Japanese market, helping you craft and execute effective sales strategies grounded in local business culture and commercial practices.</p>
+        </div>
+      </div>
+
+      <h3 class="sub-heading">How It Works</h3>
+      <ol class="flow-list">
+        <li class="flow-step">
+          <span class="flow-num">01</span>
+          <div>
+            <h4 class="flow-title">Initial Consultation</h4>
+            <p class="flow-desc">We discuss your industry, the purpose of your Japan entry, your goals, and your target market in detail. We confirm your needs around market research, trial sales, recruitment, and office search, then present an initial entry plan.</p>
+          </div>
+        </li>
+        <li class="flow-step">
+          <span class="flow-num">02</span>
+          <div>
+            <h4 class="flow-title">Quotation</h4>
+            <p class="flow-desc">Once the scope of support is confirmed, we prepare a comprehensive estimate covering market research, recruitment support, office search, and sales assistance as applicable.</p>
+          </div>
+        </li>
+        <li class="flow-step">
+          <span class="flow-num">03</span>
+          <div>
+            <h4 class="flow-title">Market Research & Trial Sales</h4>
+            <p class="flow-desc">We research your target audience, competitive landscape, and consumer needs in Japan, then deliver a detailed report. We then conduct trial sales activities to test market reception and assess business viability.</p>
+          </div>
+        </li>
+        <li class="flow-step">
+          <span class="flow-num">04</span>
+          <div>
+            <h4 class="flow-title">Sales Support (as needed)</h4>
+            <p class="flow-desc">We support ongoing sales activities in Japan — helping you plan and execute an effective strategy to acquire new customers and build local business partnerships.</p>
+          </div>
+        </li>
+        <li class="flow-step">
+          <span class="flow-num">05</span>
+          <div>
+            <h4 class="flow-title">Recruitment & Office Setup (as needed)</h4>
+            <p class="flow-desc">We launch the hiring process to secure the local talent your Japanese operation needs, and help identify and finalise the right office space — providing support through to contract signing.</p>
+          </div>
+        </li>
+      </ol>
+    </section>
+
+    <!-- ④ Media Operations -->
+    <section id="service-4" class="svc-section">
+      <h2 class="svc-h2">Media Operations</h2>
+      <hr class="svc-rule" />
+
+      <p class="svc-lead">
+        Through our own bilingual media platform "BizinTokyo," we publish business event information from Tokyo in both Japanese and English. From promotional support for event organisers to providing venue guides, hotel recommendations, and transport information for attendees — we leverage the power of media to boost event attendance and enhance the participant experience.
+      </p>
+
+      <h3 class="sub-heading">Key Features</h3>
+      <div class="features">
+        <div class="feature">
+          <span class="feat-num">01</span>
+          <h4 class="feat-title">Bilingual Media</h4>
+          <p class="feat-desc">We produce and distribute content in both Japanese and English — reaching domestic attendees and international business professionals alike, maximising the visibility and reach of your event.</p>
+        </div>
+        <div class="feature">
+          <span class="feat-num">02</span>
+          <h4 class="feat-title">Event Promotion Support</h4>
+          <p class="feat-desc">We raise awareness of your event through a multi-channel approach — editorial coverage, social media amplification, and newsletter distribution — driving meaningful attendance growth.</p>
+        </div>
+        <div class="feature">
+          <span class="feat-num">03</span>
+          <h4 class="feat-title">Attendee Information Content</h4>
+          <p class="feat-desc">We create practical content for attendees — venue guides, nearby hotel recommendations, internet access guides — enhancing the overall event experience and making participation as easy as possible.</p>
+        </div>
+      </div>
+
+      <h3 class="sub-heading">How It Works</h3>
+      <ol class="flow-list">
+        <li class="flow-step">
+          <span class="flow-num">01</span>
+          <div>
+            <h4 class="flow-title">Discovery Call</h4>
+            <p class="flow-desc">We discuss your media coverage needs in detail — event overview, target readership, promotional goals, and preferred publication timeline.</p>
+          </div>
+        </li>
+        <li class="flow-step">
+          <span class="flow-num">02</span>
+          <div>
+            <h4 class="flow-title">Promotion Strategy & Proposal</h4>
+            <p class="flow-desc">Based on your brief, we propose a tailored promotion plan that highlights what makes your event unique — covering editorial direction, social media strategy, and newsletter scheduling.</p>
+          </div>
+        </li>
+        <li class="flow-step">
+          <span class="flow-num">03</span>
+          <div>
+            <h4 class="flow-title">Content Production & Publication</h4>
+            <p class="flow-desc">Our professional writers produce bilingual content aligned with the approved plan — event features, attendee guides, and social media assets — which are then published and distributed across BizinTokyo.</p>
+          </div>
+        </li>
+        <li class="flow-step">
+          <span class="flow-num">04</span>
+          <div>
+            <h4 class="flow-title">Reporting & Follow-up</h4>
+            <p class="flow-desc">We deliver a performance report on published content — analysing page views, audience engagement, and social shares — and provide actionable feedback to improve your next promotion.</p>
+          </div>
+        </li>
+        <li class="flow-step">
+          <span class="flow-num">05</span>
+          <div>
+            <h4 class="flow-title">Ongoing Support</h4>
+            <p class="flow-desc">Our media partnership doesn't end with the event. We can continue supporting you with content strategy for future events and ongoing outreach to the BizinTokyo reader community.</p>
+          </div>
+        </li>
+      </ol>
+    </section>
+
+  </div><!-- /page-wrap -->
+
+  <ContactCTA />
+
+</BaseLayout>
+
+<style>
+.page-wrap {
+  max-width: 80rem;
+  margin: 0 auto;
+  padding: 0 2rem 4rem;
+}
+.page-lead {
+  color: var(--color-text-muted);
+  line-height: 1.8;
+  margin: 2rem 0 2.5rem;
+  font-size: .9375rem;
+}
+
+/* ── Service section ── */
+.svc-section {
+  padding-top: 4rem;
+  margin-bottom: 2rem;
+  scroll-margin-top: 5rem;
+}
+.svc-h2 {
+  font-size: clamp(1.5rem, 3vw, 2.25rem);
+  font-weight: 800;
+  color: var(--color-brand);
+  margin-bottom: .75rem;
+}
+.svc-rule {
+  border: none;
+  border-top: 2px solid var(--color-brand);
+  margin-bottom: 2rem;
+}
+.svc-lead {
+  color: var(--color-text-muted);
+  line-height: 1.85;
+  max-width: 52rem;
+  font-size: .9375rem;
+  margin-bottom: 3rem;
+}
+
+/* ── Sub heading ── */
+.sub-heading {
+  font-size: 1rem;
+  font-weight: 700;
+  color: var(--color-text);
+  margin: 2.5rem 0 1.5rem;
+  padding-bottom: .5rem;
+  border-bottom: 1px solid #e5e7eb;
+}
+
+/* ── Features ── */
+.features {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 1.5rem;
+  margin-bottom: 1rem;
+}
+.feature {
+  background: var(--color-accent);
+  border-radius: .5rem;
+  padding: 1.5rem;
+}
+.feat-num {
+  display: block;
+  font-size: 1.75rem;
+  font-weight: 900;
+  color: var(--color-brand);
+  opacity: .25;
+  line-height: 1;
+  margin-bottom: .5rem;
+}
+.feat-title {
+  font-size: 1rem;
+  font-weight: 700;
+  color: var(--color-brand);
+  margin-bottom: .5rem;
+}
+.feat-desc {
+  font-size: .875rem;
+  color: var(--color-text-muted);
+  line-height: 1.75;
+}
+
+/* ── Flow ── */
+.flow-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+}
+.flow-step {
+  display: flex;
+  gap: 1.5rem;
+  padding: 1.5rem 0;
+  border-bottom: 1px solid #e5e7eb;
+  align-items: flex-start;
+}
+.flow-step:first-child { border-top: 1px solid #e5e7eb; }
+.flow-num {
+  font-size: 1.5rem;
+  font-weight: 900;
+  color: var(--color-brand);
+  opacity: .3;
+  flex-shrink: 0;
+  width: 2.5rem;
+  line-height: 1;
+  padding-top: .125rem;
+}
+.flow-title {
+  font-size: 1rem;
+  font-weight: 700;
+  color: var(--color-text);
+  margin-bottom: .375rem;
+}
+.flow-desc {
+  font-size: .875rem;
+  color: var(--color-text-muted);
+  line-height: 1.75;
+}
+
+/* ── Cases ── */
+.cases-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1rem;
+  margin-top: 1rem;
+}
+.case-card {
+  display: block;
+  text-decoration: none;
+  color: inherit;
+  border: 1px solid #e5e7eb;
+  border-radius: .5rem;
+  overflow: hidden;
+}
+.case-img {
+  width: 100%;
+  aspect-ratio: 16/9;
+  object-fit: cover;
+  display: block;
+}
+.case-body {
+  padding: .875rem;
+}
+.case-date  { display: block; font-size: .75rem; color: var(--color-text-muted); margin-bottom: .25rem; }
+.case-title { font-size: .875rem; font-weight: 600; color: var(--color-text); line-height: 1.5; margin-bottom: .5rem; }
+.case-badge {
+  font-size: .6875rem;
+  padding: .125rem .5rem;
+  background: var(--color-brand);
+  color: #fff;
+  border-radius: 9999px;
+}
+
+/* ── Right CTA ── */
+.right-cta { display: flex; justify-content: flex-end; margin-top: 1.5rem; }
+.text-cta {
+  display: inline-flex;
+  align-items: center;
+  gap: .375rem;
+  color: var(--color-brand);
+  font-weight: 700;
+  font-size: .9375rem;
+  text-decoration: none;
+}
+.text-cta:hover { opacity: .75; }
+.btn-dot { font-size: .55em; }
+</style>
