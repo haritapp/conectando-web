@@ -1,29 +1,195 @@
 ---
-import { getLangFromUrl, useTranslations } from '../i18n/utils';
+import { getLangFromUrl } from '../i18n/utils';
 
 const lang = getLangFromUrl(Astro.url);
-const t = useTranslations(lang);
+const isEn = lang === 'en';
+const base  = isEn ? '/en' : '';
+
+const cols = isEn
+  ? [
+      {
+        heading: 'ABOUT',
+        links: [
+          { label: 'About Us',        href: `${base}/about` },
+          { label: 'News & Updates',  href: `${base}/news` },
+          { label: 'BizinTokyo',      href: 'https://bizintokyo.com', external: true },
+        ],
+      },
+      {
+        heading: 'SERVICE',
+        links: [
+          { label: 'Event Management Support', href: `${base}/service#service-1` },
+          { label: 'Japan Tours',              href: `${base}/service#service-2` },
+          { label: 'Japan Entry Support',      href: `${base}/service#service-3` },
+          { label: 'Media Operations',         href: `${base}/service#service-4` },
+        ],
+      },
+      {
+        heading: 'CASE / BLOG',
+        links: [
+          { label: 'Case Studies', href: `${base}/case` },
+          { label: 'Blog',         href: `${base}/blog` },
+        ],
+      },
+      {
+        heading: 'CONTACT',
+        links: [
+          { label: 'Contact Us',      href: `${base}/contact` },
+          { label: 'Privacy Policy',  href: `${base}/policy` },
+        ],
+      },
+    ]
+  : [
+      {
+        heading: 'ABOUT',
+        links: [
+          { label: '会社概要',      href: `${base}/about` },
+          { label: 'お知らせ',     href: `${base}/news` },
+          { label: 'BizinTokyo',  href: 'https://bizintokyo.com', external: true },
+        ],
+      },
+      {
+        heading: 'SERVICE',
+        links: [
+          { label: 'イベント運営支援', href: `${base}/service#service-1` },
+          { label: '日本ツアー',       href: `${base}/service#service-2` },
+          { label: '日本進出支援',     href: `${base}/service#service-3` },
+          { label: 'メディア運用',     href: `${base}/service#service-4` },
+        ],
+      },
+      {
+        heading: 'CASE / BLOG',
+        links: [
+          { label: '導入事例', href: `${base}/case` },
+          { label: 'ブログ',   href: `${base}/blog` },
+        ],
+      },
+      {
+        heading: 'CONTACT',
+        links: [
+          { label: 'お問い合わせ',             href: `${base}/contact` },
+          { label: 'プライバシーポリシー',     href: `${base}/policy` },
+        ],
+      },
+    ];
 ---
 
-<footer style="background: #111111; color: #ffffff;">
-  <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
-    <div class="flex flex-col md:flex-row md:items-center md:justify-between gap-4">
-      <div>
-        <p class="text-lg font-bold mb-1">Conectando Inc.</p>
-        <p class="text-sm" style="color: #aaaaaa;">{t('footer.rights')}</p>
+<footer class="site-footer">
+  <!-- 4カラム -->
+  <div class="footer-grid">
+    {cols.map(col => (
+      <div class="footer-col">
+        <p class="col-heading">{col.heading}</p>
+        <ul class="col-links">
+          {col.links.map(l => (
+            <li>
+              <a
+                href={l.href}
+                class="col-link"
+                target={l.external ? '_blank' : undefined}
+                rel={l.external ? 'noopener' : undefined}
+              >
+                {l.label}{l.external && <span class="ext-icon" aria-hidden="true"> ↗</span>}
+              </a>
+            </li>
+          ))}
+        </ul>
       </div>
-      <nav class="flex flex-wrap gap-4 text-sm" style="color: #aaaaaa;">
-        <a href={lang === 'en' ? '/en/about' : '/about'} class="hover:text-white transition-colors" style="color: #aaaaaa; text-decoration: none;">
-          {t('nav.about')}
-        </a>
-        <a href={lang === 'en' ? '/en/service' : '/service'} class="hover:text-white transition-colors" style="color: #aaaaaa; text-decoration: none;">
-          {t('nav.service')}
-        </a>
-        <a href={lang === 'en' ? '/en/contact' : '/contact'} class="hover:text-white transition-colors" style="color: #aaaaaa; text-decoration: none;">
-          {t('nav.contact')}
-        </a>
-      </nav>
-    </div>
+    ))}
+  </div>
+
+  <!-- ボトムバー -->
+  <div class="footer-bottom">
+    <a href={isEn ? '/en/' : '/'} class="footer-logo">Conectando</a>
+    <p class="footer-copy">© {new Date().getFullYear()} Conectando Inc. All rights reserved.</p>
   </div>
 </footer>
 
+<style>
+.site-footer {
+  background: #111111;
+  color: #ffffff;
+  padding: 4rem 2rem 2rem;
+}
+
+/* ── 4カラムグリッド ── */
+.footer-grid {
+  max-width: 72rem;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 2.5rem;
+  padding-bottom: 3rem;
+  border-bottom: 1px solid #2a2a2a;
+}
+
+@media (max-width: 768px) {
+  .footer-grid {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 2rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .footer-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* ── 各カラム ── */
+.col-heading {
+  font-size: .6875rem;
+  font-weight: 700;
+  letter-spacing: .1em;
+  color: #888888;
+  margin-bottom: 1rem;
+}
+
+.col-links {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  gap: .625rem;
+}
+
+.col-link {
+  font-size: .875rem;
+  color: #aaaaaa;
+  text-decoration: none;
+  transition: color .15s;
+}
+.col-link:hover { color: #ffffff; }
+
+.ext-icon {
+  font-size: .75em;
+  opacity: .7;
+}
+
+/* ── ボトムバー ── */
+.footer-bottom {
+  max-width: 72rem;
+  margin: 0 auto;
+  padding-top: 2rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+.footer-logo {
+  font-size: 1.25rem;
+  font-weight: 800;
+  color: #ffffff;
+  text-decoration: none;
+  letter-spacing: -.01em;
+}
+.footer-logo:hover { opacity: .8; }
+
+.footer-copy {
+  font-size: .8125rem;
+  color: #666666;
+}
+</style>
