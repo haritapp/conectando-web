@@ -4,103 +4,109 @@ import BaseLayout from '../../../layouts/BaseLayout.astro';
 import ContactCTA from '../../../components/ContactCTA.astro';
 
 export async function getStaticPaths() {
-  return cases.map(c => ({ params: { slug: c.slug } }));
+  const cases = [
+    {
+      slug:     'gatetoindiaafrica',
+      title:    'Gate to India & Africa 2024',
+      date:     '2024年7月9日開催',
+      service:  'イベント運営支援',
+      services: ['企画・運営', '会場手配', 'セッション構築', '集客・プロモーション', 'イベントサイト制作'],
+      overview: 'このイベントは、IVS（Infinity Venture Summit）の公式サイドイベントの一環で、日本企業とアフリカ、インドのスタートアップの間でのつながりと協力を深めることを目指し、京都と東京で開催されました。\n\nネットワーキングおよびセッションを通じて、新たなビジネスチャンスとグローバルパートナーシップの構築を支援しました。',
+      organizers: [
+        { label: 'SGgrow Pte Ltd', href: 'https://sggrow.notion.site/SGgrow-Pte-Ltd-1d01610ae4e245de80d850b1bd5fc117' },
+        { label: 'Uncovered Fund', href: 'https://uncoveredfund.com/' },
+      ],
+      website:  'https://gatetoindiaafrica.studio.site',
+      scale:    '200名',
+      venue:    'Tokyo Innovation Base (TIB)',
+      articles: [],
+      img:      '/images/about/event-group.webp',
+    },
+    {
+      slug:     'newyorksiliconalley',
+      title:    'New York Silicon Alley Meetup #11',
+      date:     '2024年5月9日開催',
+      service:  'イベント運営支援',
+      services: ['会場手配', 'レイアウト設計', 'ケータリング手配', '集客・プロモーション', 'イベントサイト制作'],
+      overview: '「New York Silicon Alley Meetup」は、ニューヨークのスタートアップエコシステムに焦点を当てた特別イベントです。シリコンアレー（Silicon Alley）は、マンハッタンを中心としたニューヨーク都市圏に広がるハイテク産業の集積地であり、世界のスタートアップランキングではシリコンバレーに次ぐ位置を常に維持しています。\n\n今回のイベントは、約6年ぶりの開催となり、ニューヨークで活躍する投資家、起業家、支援者たちをゲストに迎え、シリコンバレーを超えるマーケットの強みを持つニューヨークの最新エコシステムと投資環境について語り合いました。',
+      organizers: [
+        { label: 'SQRP NY', href: 'https://sqrpny.com/' },
+      ],
+      website:  'https://nysiliconalley11.peatix.com/',
+      scale:    '100名',
+      venue:    'Shibuya Open Innovation Lab（SOIL）',
+      articles: [
+        { label: 'イベントレポート（Pilotboat）', href: 'https://pilotboat.jp/en/2024/06/ny-silicon-alley-meetup/' },
+      ],
+      img:      '/images/about/event-group.webp',
+    },
+    {
+      slug:     'startupdiversityday',
+      title:    'Startup Diversity Day',
+      date:     '2024年5月14日開催',
+      service:  'イベント運営支援',
+      services: ['会場手配', 'レイアウト設計', 'セッション構築', '集客・プロモーション', 'ケータリング手配', 'イベントサイト制作'],
+      overview: '2024年5月14日、「Tokyo Startup Diversity Day」がGoogle for Startups Campus Tokyoにて開催されました。\n\nこのイベントは、東京都主催のSusHiTech Tokyoのサイドイベントとして、多様性（ダイバーシティ）とスタートアップにおけるイノベーションの重要性を探るために企画されました。Yazawa Venturesが主催し、デル・テクノロジーズ株式会社の協賛のもと、ジェンダーバランスや多国籍チーム、スタートアップと育児など、多様性のテーマに関する深い議論が行われました。',
+      organizers: [
+        { label: 'Yazawa Ventures', href: 'https://yazawa.vc/' },
+      ],
+      website:  'https://tokyostartupdiversityday.studio.site/',
+      scale:    '100名',
+      venue:    'Google for Startups Campus Tokyo',
+      articles: [],
+      img:      '/images/about/event-group.webp',
+    },
+    {
+      slug:     'gatetoindiaafrica2025',
+      title:    'Gate to India & Africa 2025',
+      date:     '2025年7月7日開催',
+      service:  'イベント運営支援',
+      services: ['企画・運営', '会場手配', 'セッション構築', '集客・プロモーション'],
+      overview: 'Gate to India & Africa の2025年版。インドとアフリカのスタートアップと日本企業をつなぐネットワーキングイベント。',
+      organizers: [],
+      website:  '',
+      scale:    '',
+      venue:    'Tokyo Innovation Base (TIB)',
+      articles: [],
+      img:      '/images/about/event-group.webp',
+    },
+    {
+      slug:     'newyorksiliconalley12',
+      title:    'New York Silicon Alley Meetup #12',
+      date:     '2025年5月8日開催',
+      service:  'イベント運営支援',
+      services: ['会場手配', 'レイアウト設計', '集客・プロモーション'],
+      overview: 'New York Silicon Alley Meetup シリーズ第12回。ニューヨークのスタートアップエコシステムの最前線を東京で紹介。',
+      organizers: [],
+      website:  '',
+      scale:    '',
+      venue:    '東京都内',
+      articles: [],
+      img:      '/images/about/event-group.webp',
+    },
+    {
+      slug:     'indoafrica2025',
+      title:    '【インド・アフリカ】起業家・投資家交流会 〜京都で感じるグローバルサウスの勢い〜',
+      date:     '2025年7月4日開催',
+      service:  'イベント運営支援',
+      services: ['企画・運営', '会場手配', '集客・プロモーション'],
+      overview: 'IVS 2025開催期間中の京都サイドイベント。インドとアフリカのグローバルサウス起業家・投資家と日本の参加者が交流。',
+      organizers: [],
+      website:  '',
+      scale:    '',
+      venue:    '京都',
+      articles: [],
+      img:      '/images/about/event-group.webp',
+    },
+  ];
+
+  return cases.map(c => ({
+    params: { slug: c.slug },
+    props:  { caseData: c },
+  }));
 }
 
-const cases = [
-  {
-    slug:     'gatetoindiaafrica',
-    title:    'Gate to India & Africa 2024',
-    date:     '2024年7月9日開催',
-    service:  'イベント運営支援',
-    services: ['企画・運営', '会場手配', 'セッション構築', '集客・プロモーション', 'イベントサイト制作'],
-    overview: 'このイベントは、IVS（Infinity Venture Summit）の公式サイドイベントの一環で、日本企業とアフリカ、インドのスタートアップの間でのつながりと協力を深めることを目指し、京都と東京で開催されました。\n\nネットワーキングおよびセッションを通じて、新たなビジネスチャンスとグローバルパートナーシップの構築を支援しました。',
-    organizers: [
-      { label: 'SGgrow Pte Ltd', href: 'https://sggrow.notion.site/SGgrow-Pte-Ltd-1d01610ae4e245de80d850b1bd5fc117' },
-      { label: 'Uncovered Fund', href: 'https://uncoveredfund.com/' },
-    ],
-    website:  'https://gatetoindiaafrica.studio.site',
-    scale:    '200名',
-    venue:    'Tokyo Innovation Base (TIB)',
-    img:      '/images/about/event-group.webp',
-  },
-  {
-    slug:     'newyorksiliconalley',
-    title:    'New York Silicon Alley Meetup #11',
-    date:     '2024年5月9日開催',
-    service:  'イベント運営支援',
-    services: ['会場手配', 'レイアウト設計', 'ケータリング手配', '集客・プロモーション', 'イベントサイト制作'],
-    overview: '「New York Silicon Alley Meetup」は、ニューヨークのスタートアップエコシステムに焦点を当てた特別イベントです。シリコンアレー（Silicon Alley）は、マンハッタンを中心としたニューヨーク都市圏に広がるハイテク産業の集積地であり、世界のスタートアップランキングではシリコンバレーに次ぐ位置を常に維持しています。\n\n今回のイベントは、約6年ぶりの開催となり、ニューヨークで活躍する投資家、起業家、支援者たちをゲストに迎え、シリコンバレーを超えるマーケットの強みを持つニューヨークの最新エコシステムと投資環境について語り合いました。',
-    organizers: [
-      { label: 'SQRP NY', href: 'https://sqrpny.com/' },
-    ],
-    website:  'https://nysiliconalley11.peatix.com/',
-    scale:    '100名',
-    venue:    'Shibuya Open Innovation Lab（SOIL）',
-    articles: [
-      { label: 'イベントレポート（Pilotboat）', href: 'https://pilotboat.jp/en/2024/06/ny-silicon-alley-meetup/' },
-    ],
-    img:      '/images/about/event-group.webp',
-  },
-  {
-    slug:     'startupdiversityday',
-    title:    'Startup Diversity Day',
-    date:     '2024年5月14日開催',
-    service:  'イベント運営支援',
-    services: ['会場手配', 'レイアウト設計', 'セッション構築', '集客・プロモーション', 'ケータリング手配', 'イベントサイト制作'],
-    overview: '2024年5月14日、「Tokyo Startup Diversity Day」がGoogle for Startups Campus Tokyoにて開催されました。\n\nこのイベントは、東京都主催のSusHiTech Tokyoのサイドイベントとして、多様性（ダイバーシティ）とスタートアップにおけるイノベーションの重要性を探るために企画されました。Yazawa Venturesが主催し、デル・テクノロジーズ株式会社の協賛のもと、ジェンダーバランスや多国籍チーム、スタートアップと育児など、多様性のテーマに関する深い議論が行われました。',
-    organizers: [
-      { label: 'Yazawa Ventures', href: 'https://yazawa.vc/' },
-    ],
-    website:  'https://tokyostartupdiversityday.studio.site/',
-    scale:    '100名',
-    venue:    'Google for Startups Campus Tokyo',
-    img:      '/images/about/event-group.webp',
-  },
-  {
-    slug:     'gatetoindiaafrica2025',
-    title:    'Gate to India & Africa 2025',
-    date:     '2025年7月7日開催',
-    service:  'イベント運営支援',
-    services: ['企画・運営', '会場手配', 'セッション構築', '集客・プロモーション'],
-    overview: 'Gate to India & Africa の2025年版。インドとアフリカのスタートアップと日本企業をつなぐネットワーキングイベント。',
-    organizers: [],
-    website:  '',
-    scale:    '',
-    venue:    'Tokyo Innovation Base (TIB)',
-    img:      '/images/about/event-group.webp',
-  },
-  {
-    slug:     'newyorksiliconalley12',
-    title:    'New York Silicon Alley Meetup #12',
-    date:     '2025年5月8日開催',
-    service:  'イベント運営支援',
-    services: ['会場手配', 'レイアウト設計', '集客・プロモーション'],
-    overview: 'New York Silicon Alley Meetup シリーズ第12回。ニューヨークのスタートアップエコシステムの最前線を東京で紹介。',
-    organizers: [],
-    website:  '',
-    scale:    '',
-    venue:    '東京都内',
-    img:      '/images/about/event-group.webp',
-  },
-  {
-    slug:     'indoafrica2025',
-    title:    '【インド・アフリカ】起業家・投資家交流会 〜京都で感じるグローバルサウスの勢い〜',
-    date:     '2025年7月4日開催',
-    service:  'イベント運営支援',
-    services: ['企画・運営', '会場手配', '集客・プロモーション'],
-    overview: 'IVS 2025開催期間中の京都サイドイベント。インドとアフリカのグローバルサウス起業家・投資家と日本の参加者が交流。',
-    organizers: [],
-    website:  '',
-    scale:    '',
-    venue:    '京都',
-    img:      '/images/about/event-group.webp',
-  },
-];
-
-const { slug } = Astro.params;
-const c = cases.find(x => x.slug === slug);
-if (!c) return Astro.redirect('/case');
+const { caseData: c } = Astro.props;
 ---
 
 <BaseLayout title={`${c.title} | 導入事例`} description={`${c.title}（${c.date}）の導入事例をご紹介します。`}>
@@ -165,7 +171,7 @@ if (!c) return Astro.redirect('/case');
       </section>
     )}
 
-    {c.articles && c.articles.length > 0 && (
+    {c.articles.length > 0 && (
       <section class="detail-section">
         <h2 class="detail-h2">イベントについての記事</h2>
         <ul class="link-list">

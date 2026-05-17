@@ -4,103 +4,109 @@ import BaseLayout from '../../../../layouts/BaseLayout.astro';
 import ContactCTA from '../../../../components/ContactCTA.astro';
 
 export async function getStaticPaths() {
-  return cases.map(c => ({ params: { slug: c.slug } }));
+  const cases = [
+    {
+      slug:     'gatetoindiaafrica',
+      title:    'Gate to India & Africa 2024',
+      date:     'July 9, 2024',
+      service:  'Event Management Support',
+      services: ['Planning & Operations', 'Venue Arrangement', 'Session Building', 'Marketing & Promotion', 'Event Website'],
+      overview: 'This event was held as part of the official side events of IVS (Infinity Venture Summit), with the aim of deepening connections and cooperation between Japanese companies and startups from Africa and India. It was held in both Kyoto and Tokyo.\n\nThrough networking sessions and panel discussions, we facilitated new business opportunities and the formation of global partnerships.',
+      organizers: [
+        { label: 'SGgrow Pte Ltd', href: 'https://sggrow.notion.site/SGgrow-Pte-Ltd-1d01610ae4e245de80d850b1bd5fc117' },
+        { label: 'Uncovered Fund', href: 'https://uncoveredfund.com/' },
+      ],
+      website:  'https://gatetoindiaafrica.studio.site',
+      scale:    '200 attendees',
+      venue:    'Tokyo Innovation Base (TIB)',
+      articles: [],
+      img:      '/images/about/event-group.webp',
+    },
+    {
+      slug:     'newyorksiliconalley',
+      title:    'New York Silicon Alley Meetup #11',
+      date:     'May 9, 2024',
+      service:  'Event Management Support',
+      services: ['Venue Arrangement', 'Layout Design', 'Catering', 'Marketing & Promotion', 'Event Website'],
+      overview: '"New York Silicon Alley Meetup" is a special event focused on the New York startup ecosystem. Silicon Alley — the high-tech hub centred on Manhattan — consistently ranks second only to Silicon Valley in global startup rankings.\n\nThis edition marked a return after nearly six years, welcoming investors, entrepreneurs, and supporters active in New York to discuss the latest developments in the NY ecosystem and investment landscape.',
+      organizers: [
+        { label: 'SQRP NY', href: 'https://sqrpny.com/' },
+      ],
+      website:  'https://nysiliconalley11.peatix.com/',
+      scale:    '100 attendees',
+      venue:    'Shibuya Open Innovation Lab (SOIL)',
+      articles: [
+        { label: 'Event Report (Pilotboat)', href: 'https://pilotboat.jp/en/2024/06/ny-silicon-alley-meetup/' },
+      ],
+      img:      '/images/about/event-group.webp',
+    },
+    {
+      slug:     'startupdiversityday',
+      title:    'Startup Diversity Day',
+      date:     'May 14, 2024',
+      service:  'Event Management Support',
+      services: ['Venue Arrangement', 'Layout Design', 'Session Building', 'Marketing & Promotion', 'Catering', 'Event Website'],
+      overview: 'On May 14, 2024, "Tokyo Startup Diversity Day" was held at Google for Startups Campus Tokyo.\n\nOrganised as a side event of SusHiTech Tokyo — a Tokyo Metropolitan Government initiative — this event was designed to explore diversity and the importance of innovation in startups. Hosted by Yazawa Ventures and co-sponsored by Dell Technologies, the event featured in-depth discussions on topics including gender balance, multinational teams, and the intersection of startups and parenting.',
+      organizers: [
+        { label: 'Yazawa Ventures', href: 'https://yazawa.vc/' },
+      ],
+      website:  'https://tokyostartupdiversityday.studio.site/',
+      scale:    '100 attendees',
+      venue:    'Google for Startups Campus Tokyo',
+      articles: [],
+      img:      '/images/about/event-group.webp',
+    },
+    {
+      slug:     'gatetoindiaafrica2025',
+      title:    'Gate to India & Africa 2025',
+      date:     'July 7, 2025',
+      service:  'Event Management Support',
+      services: ['Planning & Operations', 'Venue Arrangement', 'Session Building', 'Marketing & Promotion'],
+      overview: 'The 2025 edition of Gate to India & Africa. A networking event connecting Indian and African startups with Japanese companies.',
+      organizers: [],
+      website:  '',
+      scale:    '',
+      venue:    'Tokyo Innovation Base (TIB)',
+      articles: [],
+      img:      '/images/about/event-group.webp',
+    },
+    {
+      slug:     'newyorksiliconalley12',
+      title:    'New York Silicon Alley Meetup #12',
+      date:     'May 8, 2025',
+      service:  'Event Management Support',
+      services: ['Venue Arrangement', 'Layout Design', 'Marketing & Promotion'],
+      overview: 'The 12th edition of the New York Silicon Alley Meetup series. Bringing the cutting edge of the New York startup ecosystem to Tokyo.',
+      organizers: [],
+      website:  '',
+      scale:    '',
+      venue:    'Tokyo',
+      articles: [],
+      img:      '/images/about/event-group.webp',
+    },
+    {
+      slug:     'indoafrica2025',
+      title:    'India & Africa Entrepreneur & Investor Mixer — Feeling the Global South Momentum in Kyoto',
+      date:     'July 4, 2025',
+      service:  'Event Management Support',
+      services: ['Planning & Operations', 'Venue Arrangement', 'Marketing & Promotion'],
+      overview: 'A Kyoto side event held during IVS 2025. Indian and African Global South entrepreneurs and investors connect with Japanese participants.',
+      organizers: [],
+      website:  '',
+      scale:    '',
+      venue:    'Kyoto',
+      articles: [],
+      img:      '/images/about/event-group.webp',
+    },
+  ];
+
+  return cases.map(c => ({
+    params: { slug: c.slug },
+    props:  { caseData: c },
+  }));
 }
 
-const cases = [
-  {
-    slug:     'gatetoindiaafrica',
-    title:    'Gate to India & Africa 2024',
-    date:     'July 9, 2024',
-    service:  'Event Management Support',
-    services: ['Planning & Operations', 'Venue Arrangement', 'Session Building', 'Marketing & Promotion', 'Event Website'],
-    overview: 'This event was held as part of the official side events of IVS (Infinity Venture Summit), with the aim of deepening connections and cooperation between Japanese companies and startups from Africa and India. It was held in both Kyoto and Tokyo.\n\nThrough networking sessions and panel discussions, we facilitated new business opportunities and the formation of global partnerships.',
-    organizers: [
-      { label: 'SGgrow Pte Ltd', href: 'https://sggrow.notion.site/SGgrow-Pte-Ltd-1d01610ae4e245de80d850b1bd5fc117' },
-      { label: 'Uncovered Fund', href: 'https://uncoveredfund.com/' },
-    ],
-    website:  'https://gatetoindiaafrica.studio.site',
-    scale:    '200 attendees',
-    venue:    'Tokyo Innovation Base (TIB)',
-    img:      '/images/about/event-group.webp',
-  },
-  {
-    slug:     'newyorksiliconalley',
-    title:    'New York Silicon Alley Meetup #11',
-    date:     'May 9, 2024',
-    service:  'Event Management Support',
-    services: ['Venue Arrangement', 'Layout Design', 'Catering', 'Marketing & Promotion', 'Event Website'],
-    overview: '"New York Silicon Alley Meetup" is a special event focused on the New York startup ecosystem. Silicon Alley — the high-tech hub centred on Manhattan — consistently ranks second only to Silicon Valley in global startup rankings.\n\nThis edition marked a return after nearly six years, welcoming investors, entrepreneurs, and supporters active in New York to discuss the latest developments in the NY ecosystem and investment landscape.',
-    organizers: [
-      { label: 'SQRP NY', href: 'https://sqrpny.com/' },
-    ],
-    website:  'https://nysiliconalley11.peatix.com/',
-    scale:    '100 attendees',
-    venue:    'Shibuya Open Innovation Lab (SOIL)',
-    articles: [
-      { label: 'Event Report (Pilotboat)', href: 'https://pilotboat.jp/en/2024/06/ny-silicon-alley-meetup/' },
-    ],
-    img:      '/images/about/event-group.webp',
-  },
-  {
-    slug:     'startupdiversityday',
-    title:    'Startup Diversity Day',
-    date:     'May 14, 2024',
-    service:  'Event Management Support',
-    services: ['Venue Arrangement', 'Layout Design', 'Session Building', 'Marketing & Promotion', 'Catering', 'Event Website'],
-    overview: 'On May 14, 2024, "Tokyo Startup Diversity Day" was held at Google for Startups Campus Tokyo.\n\nOrganised as a side event of SusHiTech Tokyo — a Tokyo Metropolitan Government initiative — this event was designed to explore diversity and the importance of innovation in startups. Hosted by Yazawa Ventures and co-sponsored by Dell Technologies, the event featured in-depth discussions on topics including gender balance, multinational teams, and the intersection of startups and parenting.',
-    organizers: [
-      { label: 'Yazawa Ventures', href: 'https://yazawa.vc/' },
-    ],
-    website:  'https://tokyostartupdiversityday.studio.site/',
-    scale:    '100 attendees',
-    venue:    'Google for Startups Campus Tokyo',
-    img:      '/images/about/event-group.webp',
-  },
-  {
-    slug:     'gatetoindiaafrica2025',
-    title:    'Gate to India & Africa 2025',
-    date:     'July 7, 2025',
-    service:  'Event Management Support',
-    services: ['Planning & Operations', 'Venue Arrangement', 'Session Building', 'Marketing & Promotion'],
-    overview: 'The 2025 edition of Gate to India & Africa. A networking event connecting Indian and African startups with Japanese companies.',
-    organizers: [],
-    website:  '',
-    scale:    '',
-    venue:    'Tokyo Innovation Base (TIB)',
-    img:      '/images/about/event-group.webp',
-  },
-  {
-    slug:     'newyorksiliconalley12',
-    title:    'New York Silicon Alley Meetup #12',
-    date:     'May 8, 2025',
-    service:  'Event Management Support',
-    services: ['Venue Arrangement', 'Layout Design', 'Marketing & Promotion'],
-    overview: 'The 12th edition of the New York Silicon Alley Meetup series. Bringing the cutting edge of the New York startup ecosystem to Tokyo.',
-    organizers: [],
-    website:  '',
-    scale:    '',
-    venue:    'Tokyo',
-    img:      '/images/about/event-group.webp',
-  },
-  {
-    slug:     'indoafrica2025',
-    title:    'India & Africa Entrepreneur & Investor Mixer — Feeling the Global South Momentum in Kyoto',
-    date:     'July 4, 2025',
-    service:  'Event Management Support',
-    services: ['Planning & Operations', 'Venue Arrangement', 'Marketing & Promotion'],
-    overview: 'A Kyoto side event held during IVS 2025. Indian and African Global South entrepreneurs and investors connect with Japanese participants.',
-    organizers: [],
-    website:  '',
-    scale:    '',
-    venue:    'Kyoto',
-    img:      '/images/about/event-group.webp',
-  },
-];
-
-const { slug } = Astro.params;
-const c = cases.find(x => x.slug === slug);
-if (!c) return Astro.redirect('/en/case');
+const { caseData: c } = Astro.props;
 ---
 
 <BaseLayout title={`${c.title} | Case Study`} description={`Case study: ${c.title} (${c.date}).`}>
@@ -165,7 +171,7 @@ if (!c) return Astro.redirect('/en/case');
       </section>
     )}
 
-    {c.articles && c.articles.length > 0 && (
+    {c.articles.length > 0 && (
       <section class="detail-section">
         <h2 class="detail-h2">Related Articles</h2>
         <ul class="link-list">
