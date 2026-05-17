@@ -1,0 +1,126 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import PageHero from '../components/PageHero.astro';
+import ContactCTA from '../components/ContactCTA.astro';
+
+const cases = [
+  {
+    slug:    'gatetoindiaafrica2025',
+    title:   'Gate to India & Africa 2025',
+    date:    '2025年7月7日開催',
+    service: 'イベント運営支援',
+    img:     '/images/about/event-group.webp',
+    href:    '/case/detail/gatetoindiaafrica2025',
+  },
+  {
+    slug:    'newyorksiliconalley12',
+    title:   'New York Silicon Alley Meetup #12',
+    date:    '2025年5月8日開催',
+    service: 'イベント運営支援',
+    img:     '/images/about/event-group.webp',
+    href:    '/case/detail/newyorksiliconalley12',
+  },
+  {
+    slug:    'indoafrica2025',
+    title:   '【インド・アフリカ】起業家・投資家交流会 〜京都で感じるグローバルサウスの勢い〜',
+    date:    '2025年7月4日開催',
+    service: 'イベント運営支援',
+    img:     '/images/about/event-group.webp',
+    href:    '/case/detail/indoafrica2025',
+  },
+  {
+    slug:    'newyorksiliconalley',
+    title:   'New York Silicon Alley Meetup #11',
+    date:    '2024年5月9日開催',
+    service: 'イベント運営支援',
+    img:     '/images/about/event-group.webp',
+    href:    '/case/detail/newyorksiliconalley',
+  },
+  {
+    slug:    'startupdiversityday',
+    title:   'Startup Diversity Day',
+    date:    '2024年5月14日開催',
+    service: 'イベント運営支援',
+    img:     '/images/about/event-group.webp',
+    href:    '/case/detail/startupdiversityday',
+  },
+  {
+    slug:    'gatetoindiaafrica',
+    title:   'Gate to India & Africa 2024',
+    date:    '2024年7月9日開催',
+    service: 'イベント運営支援',
+    img:     '/images/about/event-group.webp',
+    href:    '/case/detail/gatetoindiaafrica',
+  },
+];
+---
+
+<BaseLayout title="導入事例・実績紹介" description="Conectandoの導入事例・実績紹介。スタートアップやWeb3イベントの運営支援事例を掲載しています。">
+
+  <PageHero label="CASE" title="CASE" />
+
+  <div class="page-wrap">
+    <p class="page-lead">すべての導入事例</p>
+
+    <div class="case-grid">
+      {cases.map(c => (
+        <a href={c.href} class="case-card">
+          <img src={c.img} alt={c.title} class="case-img" loading="lazy" />
+          <div class="case-body">
+            <time class="case-date">{c.date}</time>
+            <p class="case-title">{c.title}</p>
+            <span class="case-badge">{c.service}</span>
+          </div>
+        </a>
+      ))}
+    </div>
+  </div>
+
+  <ContactCTA />
+
+</BaseLayout>
+
+<style>
+.page-wrap {
+  max-width: 80rem;
+  margin: 0 auto;
+  padding: 0 2rem 5rem;
+}
+.page-lead {
+  color: var(--color-text-muted);
+  font-size: .9375rem;
+  margin: 2rem 0 2rem;
+  font-weight: 600;
+}
+.case-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 1.5rem;
+}
+.case-card {
+  display: block;
+  text-decoration: none;
+  color: inherit;
+  border: 1px solid #e5e7eb;
+  border-radius: .5rem;
+  overflow: hidden;
+  transition: box-shadow .2s;
+}
+.case-card:hover { box-shadow: 0 4px 16px rgba(0,0,0,.08); }
+.case-img {
+  width: 100%;
+  aspect-ratio: 16/9;
+  object-fit: cover;
+  display: block;
+}
+.case-body { padding: 1rem 1.125rem 1.25rem; }
+.case-date { display: block; font-size: .75rem; color: var(--color-text-muted); margin-bottom: .375rem; }
+.case-title { font-size: .9375rem; font-weight: 600; color: var(--color-text); line-height: 1.5; margin-bottom: .625rem; }
+.case-badge {
+  font-size: .6875rem;
+  padding: .1875rem .625rem;
+  background: var(--color-brand);
+  color: #fff;
+  border-radius: 9999px;
+}
+</style>

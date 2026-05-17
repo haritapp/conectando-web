@@ -1,0 +1,115 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import PageHero from '../components/PageHero.astro';
+import ContactCTA from '../components/ContactCTA.astro';
+
+const news = [
+  {
+    date:  '2026/03/13',
+    badge: 'コーポレート',
+    title: '東京のビジネスイベント情報メディア「BizinTokyo」を開設しました',
+    href:  'https://bizintokyo.com',
+    external: true,
+  },
+  {
+    date:  '2025/11/07',
+    badge: 'note更新',
+    title: '"Rice Capital Fukuyama × Globis Takamiya | 「Rice Capital福山×グロービス高宮 | 米国起業、Yコン採択、M&Aを経て感じたスタートアップ創業のリアル」を公開しました',
+    href:  'https://note.com',
+    external: true,
+  },
+  {
+    date:  '2025/10/29',
+    badge: 'note更新',
+    title: '「エンジニアから執行役員になって変わった役割。LayerXが語る、AI時代の経営プレイブック」を公開しました',
+    href:  'https://note.com',
+    external: true,
+  },
+  {
+    date:  '2025/10/24',
+    badge: 'note更新',
+    title: '「スタートアップの成長にあわせて、役割はどんどん変えていく。ログラス × Luupの、CTO兼共同創業者のキャリア論」を公開しました',
+    href:  'https://note.com',
+    external: true,
+  },
+  {
+    date:  '2025/10/21',
+    badge: 'note更新',
+    title: '「東京都の起業支援をフル活用！今日からできる5ステップ」を公開しました',
+    href:  'https://note.com',
+    external: true,
+  },
+];
+
+const badgeColors: Record<string, string> = {
+  'コーポレート': '#1A1AB4',
+  'note更新': '#41c9b4',
+  'ブログ': '#f59e0b',
+  'ケーススタディ': '#6366f1',
+};
+---
+
+<BaseLayout title="お知らせ" description="Conectandoからのお知らせ。コーポレート・プレスリリース・イベント情報などを発信しています。">
+
+  <PageHero label="NEWS" title="NEWS" />
+
+  <div class="page-wrap">
+    <p class="page-lead">Conectandoからのお知らせです。<br>コーポレート、プレスリリース、イベント情報などを発信しています。</p>
+
+    <ul class="news-list">
+      {news.map(n => (
+        <li class="news-item">
+          <a
+            href={n.href}
+            class="news-link"
+            target={n.external ? '_blank' : undefined}
+            rel={n.external ? 'noopener' : undefined}
+          >
+            <time class="news-date">{n.date}</time>
+            <span
+              class="news-badge"
+              style={`background:${badgeColors[n.badge] ?? '#1A1AB4'}`}
+            >{n.badge}</span>
+            <span class="news-text">{n.title}</span>
+          </a>
+        </li>
+      ))}
+    </ul>
+  </div>
+
+  <ContactCTA />
+
+</BaseLayout>
+
+<style>
+.page-wrap { max-width: 56rem; margin: 0 auto; padding: 0 2rem 5rem; }
+.page-lead {
+  color: var(--color-text-muted);
+  line-height: 1.8;
+  font-size: .9375rem;
+  margin: 2rem 0 2.5rem;
+}
+.news-list { list-style: none; padding: 0; margin: 0; }
+.news-item { border-bottom: 1px solid #d1d5db; }
+.news-item:first-child { border-top: 1px solid #d1d5db; }
+.news-link {
+  display: flex;
+  align-items: baseline;
+  flex-wrap: wrap;
+  gap: .75rem;
+  padding: 1rem 0;
+  text-decoration: none;
+  color: inherit;
+  transition: opacity .15s;
+}
+.news-link:hover { opacity: .75; }
+.news-date { font-size: .8125rem; color: var(--color-text-muted); white-space: nowrap; }
+.news-badge {
+  font-size: .6875rem;
+  padding: .1875rem .625rem;
+  color: #fff;
+  border-radius: 9999px;
+  white-space: nowrap;
+}
+.news-text { font-size: .9375rem; color: var(--color-text); line-height: 1.5; }
+</style>

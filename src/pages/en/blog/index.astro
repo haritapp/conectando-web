@@ -1,0 +1,71 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import PageHero from '../../components/PageHero.astro';
+import ContactCTA from '../../components/ContactCTA.astro';
+
+const blogs = [
+  {
+    date:  '2024/10/7',
+    tag:   'event',
+    title: '4 Key Considerations for Foreign Company Japan Representatives When Hosting Events in Japan',
+    href:  '/en/blog/4-points-for-foreign-company-japan-reps',
+    img:   'https://images.unsplash.com/photo-1521737604893-d14cc237f11d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=600',
+  },
+  {
+    date:  '2024/9/19',
+    tag:   'event',
+    title: 'The One Key Point for English-Speaking Organizers to Successfully Run Events in Japan',
+    href:  '/en/blog/one-key-point-for-english-organizers',
+    img:   'https://images.unsplash.com/photo-1540575467063-178a50c2df87?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=600',
+  },
+];
+---
+
+<BaseLayout title="Blog | Event & Business Insights" description="Conectando's blog — insights on event management and doing business in Japan.">
+
+  <PageHero label="BLOG" title="BLOG" />
+
+  <div class="page-wrap">
+    <p class="page-lead">All Posts</p>
+
+    <div class="blog-list">
+      {blogs.map(b => (
+        <a href={b.href} class="blog-card">
+          <img src={b.img} alt={b.title} class="blog-img" loading="lazy" />
+          <div class="blog-body">
+            <div class="blog-meta">
+              <time class="blog-date">{b.date}</time>
+              <span class="blog-tag">{b.tag}</span>
+            </div>
+            <p class="blog-title">{b.title}</p>
+          </div>
+        </a>
+      ))}
+    </div>
+  </div>
+
+  <ContactCTA />
+
+</BaseLayout>
+
+<style>
+.page-wrap { max-width: 80rem; margin: 0 auto; padding: 0 2rem 5rem; }
+.page-lead { color: var(--color-text-muted); font-size: .9375rem; font-weight: 600; margin: 2rem 0 2rem; }
+.blog-list { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 2rem; }
+.blog-card { display: block; text-decoration: none; color: inherit; transition: opacity .2s; }
+.blog-card:hover { opacity: .85; }
+.blog-img { width: 100%; aspect-ratio: 4/3; object-fit: cover; border-radius: .5rem; display: block; margin-bottom: .875rem; }
+.blog-body { padding: 0 .125rem; }
+.blog-meta { display: flex; align-items: center; gap: .625rem; margin-bottom: .5rem; }
+.blog-date { font-size: .8125rem; color: var(--color-text-muted); }
+.blog-tag {
+  font-size: .6875rem;
+  padding: .1875rem .5rem;
+  background: var(--color-accent);
+  color: var(--color-brand);
+  border: 1px solid #c7c7f5;
+  border-radius: 9999px;
+  font-weight: 600;
+}
+.blog-title { font-size: 1rem; font-weight: 600; color: var(--color-brand); line-height: 1.55; }
+</style>

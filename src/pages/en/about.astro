@@ -3,246 +3,210 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 import PageHero from '../../components/PageHero.astro';
 import AnchorNav from '../../components/AnchorNav.astro';
 import ContactCTA from '../../components/ContactCTA.astro';
-import { useTranslations } from '../../i18n/utils';
 
-const t = useTranslations('en');
-
-const anchorItems = [
-  { label: t('about.anchor.mission'), href: '#mission' },
-  { label: t('about.anchor.ceo'), href: '#ceo' },
-  { label: t('about.anchor.company'), href: '#company' },
+const navItems = [
+  { label: 'Mission & Vision', href: '#mission'  },
+  { label: 'CEO Message',      href: '#message'  },
+  { label: 'Company Profile',  href: '#company'  },
 ];
 ---
 
-<BaseLayout title={t('page.about.title')} description={t('page.about.description')}>
-  <PageHero title="ABOUT" />
-  <AnchorNav items={anchorItems} />
+<BaseLayout title="About Us | Mission & Company Profile" description="Learn about Conectando Inc.'s mission, vision, founder message, and company profile. Connecting networks, boosting Japan.">
 
-  <!-- ── MISSION / VISION ── -->
-  <section id="mission" class="py-16 scroll-mt-20">
-    <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
-      <!-- Section title -->
-      <div class="mb-10">
-        <p
-          class="text-xs font-bold tracking-widest uppercase mb-2"
-          style="color: var(--color-brand);"
-        >
-          {t('about.mission.title')}
-        </p>
-        <hr style="border-color: var(--color-brand); border-top-width: 2px; max-width: 48px;" />
-      </div>
+  <PageHero label="ABOUT" title="ABOUT" />
 
-      <!-- MISSION block -->
-      <div
-        class="pl-6 mb-8"
-        style="border-left: 4px solid var(--color-brand);"
-      >
-        <p
-          class="text-xs font-bold tracking-widest uppercase mb-3"
-          style="color: var(--color-brand);"
-        >
-          MISSION
-        </p>
-        <h2
-          class="text-xl md:text-2xl font-bold mb-4 leading-snug"
-          style="color: var(--color-brand);"
-        >
-          {t('about.mission.heading')}
-        </h2>
-        <p class="text-sm md:text-base leading-relaxed mb-3" style="color: var(--color-text);">
-          {t('about.mission.body1')}
-        </p>
-        <p class="text-sm md:text-base leading-relaxed" style="color: var(--color-text);">
-          {t('about.mission.body2')}
+  <div class="page-wrap">
+    <AnchorNav items={navItems} />
+
+    <!-- ① Mission & Vision -->
+    <section id="mission" class="about-section">
+
+      <div class="philosophy-block">
+        <p class="phil-label">MISSION</p>
+        <h2 class="phil-h2">Connecting Networks,<br>Boosting Japan</h2>
+        <p class="phil-body">
+          We leverage our global network to support the growth of Japan's businesses and society. With our accumulated experience, we connect overseas companies with Japanese companies, creating new opportunities for growth.<br><br>
+          Through our work supporting entry into the Japanese market, we provide concrete advice to overcome cultural differences and business practices. Valuing partnerships with our clients, we aim for mutual success in the Japanese market. Strengthening networks and enhancing Japan's competitiveness is our mission.
         </p>
       </div>
 
-      <!-- Event group photo -->
-      <div class="mb-16">
-        <img
-          src="/images/about/event-group.webp"
-          alt="Gate to India & Africa event group photo"
-          class="w-full rounded-lg"
-          loading="lazy"
-          decoding="async"
-        />
-      </div>
-
-      <!-- VISION block -->
-      <div
-        class="pl-6 mb-8"
-        style="border-left: 4px solid var(--color-brand);"
-      >
-        <p
-          class="text-xs font-bold tracking-widest uppercase mb-3"
-          style="color: var(--color-brand);"
-        >
-          VISION
-        </p>
-        <h2
-          class="text-xl md:text-2xl font-bold mb-4 leading-snug"
-          style="color: var(--color-brand);"
-        >
-          {t('about.vision.heading')}
-        </h2>
-        <p class="text-sm md:text-base leading-relaxed mb-3" style="color: var(--color-text);">
-          {t('about.vision.body1')}
-        </p>
-        <p class="text-sm md:text-base leading-relaxed" style="color: var(--color-text);">
-          {t('about.vision.body2')}
+      <div class="philosophy-block phil-vision">
+        <p class="phil-label">VISION</p>
+        <h2 class="phil-h2">Maximizing<br>Japan's Potential</h2>
+        <p class="phil-body">
+          We strive to harness Japan's full potential by highlighting its many advantages. By connecting with talented individuals and innovative technologies from around the world, we aim to promote the growth and development of Japanese companies.<br><br>
+          Through actively generating foreign capital, we contribute to Japan's economic growth. Leveraging a global perspective and our networks, we are guiding Japan's future toward a more sustainable and prosperous path.
         </p>
       </div>
 
-      <!-- Cherry blossom + Mt. Fuji photo -->
-      <div>
-        <img
-          src="/images/about/sakura-fuji.jpg"
-          alt="Cherry blossoms and Mt. Fuji - Japan landscape"
-          class="w-full rounded-lg"
-          loading="lazy"
-          decoding="async"
-        />
-      </div>
-    </div>
-  </section>
+    </section>
 
-  <!-- ── CEO MESSAGE ── -->
-  <section id="ceo" class="py-16 scroll-mt-20" style="background: var(--color-accent);">
-    <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
-      <!-- Section title -->
-      <div class="mb-10">
-        <p
-          class="text-xs font-bold tracking-widest uppercase mb-2"
-          style="color: var(--color-brand);"
-        >
-          {t('about.ceo.title')}
-        </p>
-        <hr style="border-color: var(--color-brand); border-top-width: 2px; max-width: 48px;" />
-      </div>
+    <!-- ② CEO Message -->
+    <section id="message" class="about-section">
+      <hr class="section-rule" />
+      <h2 class="section-h2">Founder &amp; CEO Message</h2>
 
-      <!-- 2-col: text left, photo right -->
-      <div class="grid grid-cols-1 md:grid-cols-2 gap-10 items-start">
-        <!-- Text -->
-        <div>
-          <p
-            class="text-xs font-bold tracking-widest uppercase mb-1"
-            style="color: var(--color-brand);"
-          >
-            {t('about.ceo.role')}
+      <div class="ceo-block">
+        <div class="ceo-photo-wrap">
+          <img src="/images/about/ceo.jpg" alt="Shintaro Hari, Founder & CEO" class="ceo-photo" loading="lazy" />
+        </div>
+        <div class="ceo-content">
+          <p class="ceo-role">Founder &amp; CEO</p>
+          <p class="ceo-name">Shintaro Hari</p>
+          <p class="ceo-quote">
+            Many people say they want to start a business in Japan, but language barriers and uncertainty about where to begin often hold them back.
           </p>
-          <h2
-            class="text-2xl font-bold mb-6"
-            style="color: var(--color-brand);"
-          >
-            {t('about.ceo.name')}
-          </h2>
-
-          <p class="text-sm md:text-base leading-relaxed mb-4" style="color: var(--color-text);">
-            {t('about.ceo.msg1')}
+          <p class="ceo-quote" style="margin-top:1rem">
+            At Conectando, we help unlock business potential in Japan. By leveraging our network and experience, we aim to support growth in the Japanese market — and to partner with you in building a brighter future for Japan.
           </p>
-          <p class="text-sm md:text-base leading-relaxed mb-8" style="color: var(--color-text);">
-            {t('about.ceo.msg2')}
-          </p>
-
-          <!-- Profile sub-section -->
-          <div
-            class="pt-6"
-            style="border-top: 1px solid var(--color-border);"
-          >
-            <p
-              class="text-xs font-bold tracking-widest uppercase mb-3"
-              style="color: var(--color-brand);"
-            >
-              {t('about.ceo.profile.heading')}
-            </p>
-            <p class="text-sm leading-relaxed" style="color: var(--color-text-muted);">
-              {t('about.ceo.profile.body')}
+          <div class="profile-box">
+            <p class="profile-label">Profile</p>
+            <p class="profile-body">
+              I started my career at a Japanese startup, launching new services, and later helped establish its US subsidiary. I then supported the setup of Japanese branches for startups from Singapore and the US. Seeing the need for international business to address Japan's demographic challenges, I founded Conectando.
             </p>
           </div>
         </div>
-
-        <!-- CEO photo -->
-        <div class="flex justify-center md:justify-end">
-          <img
-            src="/images/about/ceo.jpg"
-            alt="Shintaro Hari - Founder & CEO"
-            class="rounded-lg w-full max-w-sm object-cover aspect-[3/4]"
-            loading="lazy"
-            decoding="async"
-          />
-        </div>
       </div>
-    </div>
-  </section>
+    </section>
 
-  <!-- ── COMPANY TABLE ── -->
-  <section id="company" class="py-16 scroll-mt-20">
-    <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
-      <!-- Section title -->
-      <div class="mb-10">
-        <p
-          class="text-xs font-bold tracking-widest uppercase mb-2"
-          style="color: var(--color-brand);"
-        >
-          {t('about.company.title')}
-        </p>
-        <hr style="border-color: var(--color-brand); border-top-width: 2px; max-width: 48px;" />
-      </div>
+    <!-- ③ Company Profile -->
+    <section id="company" class="about-section">
+      <hr class="section-rule" />
+      <h2 class="section-h2">Company Overview</h2>
 
-      <!-- 2-col: table left, office photo right -->
-      <div class="grid grid-cols-1 md:grid-cols-2 gap-10 items-start">
-        <!-- Table -->
-        <div>
-          <table class="w-full text-sm">
-            <tbody>
-              {[
-                { label: t('about.company.name.label'), value: t('about.company.name.value') },
-                { label: t('about.company.ceo.label'), value: t('about.company.ceo.value') },
-                { label: t('about.company.established.label'), value: t('about.company.established.value') },
-              ].map(({ label, value }) => (
-                <tr style="border-bottom: 1px solid var(--color-border);">
-                  <td
-                    class="py-4 pr-6 font-semibold whitespace-nowrap w-40"
-                    style="color: var(--color-brand);"
-                  >
-                    {label}
-                  </td>
-                  <td class="py-4" style="color: var(--color-text);">
-                    {value}
-                  </td>
-                </tr>
-              ))}
-              <tr style="border-bottom: 1px solid var(--color-border);">
-                <td class="py-4 pr-6 font-semibold whitespace-nowrap w-40" style="color: var(--color-brand);">
-                  {t('about.company.business.label')}
-                </td>
-                <td class="py-4" style="color: var(--color-text);">
-                  <span class="block">Event Management</span>
-                  <span class="block">Japan Market Entry Support</span>
-                  <span class="block">Japan Tours</span>
-                </td>
-              </tr>
-            </tbody>
-          </table>
-        </div>
+      <table class="company-table">
+        <tbody>
+          <tr>
+            <th>Company Name</th>
+            <td>Ｃｏｎｅｃｔａｎｄｏ.Inc</td>
+          </tr>
+          <tr>
+            <th>Founder &amp; CEO</th>
+            <td>Shintaro Hari</td>
+          </tr>
+          <tr>
+            <th>Established</th>
+            <td>July 1, 2018</td>
+          </tr>
+          <tr>
+            <th>Business Activities</th>
+            <td>
+              Event Management<br>
+              Japan Market Entry Support<br>
+              Japan Tours
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </section>
 
-        <!-- Office photo -->
-        <div class="flex justify-center md:justify-end">
-          <img
-            src="/images/about/office.jpg"
-            alt="Conectando office"
-            class="rounded-lg w-full max-w-sm object-cover aspect-video"
-            loading="lazy"
-            decoding="async"
-          />
-        </div>
-      </div>
-    </div>
-  </section>
+  </div>
 
-  <ContactCTA
-    text={t('contact.cta.text')}
-    buttonText={t('contact.cta.button')}
-    href="/en/contact"
-  />
+  <ContactCTA />
+
 </BaseLayout>
+
+<style>
+.page-wrap {
+  max-width: 56rem;
+  margin: 0 auto;
+  padding: 0 2rem 5rem;
+}
+.about-section {
+  padding-top: 3.5rem;
+  scroll-margin-top: 5rem;
+  margin-bottom: 1rem;
+}
+.philosophy-block {
+  padding: 3rem 0;
+  border-bottom: 1px solid #e5e7eb;
+}
+.phil-vision { border-bottom: none; }
+.phil-label {
+  font-size: clamp(2.5rem, 6vw, 4.5rem);
+  font-weight: 900;
+  color: var(--color-brand);
+  opacity: .12;
+  line-height: 1;
+  margin-bottom: 1rem;
+  letter-spacing: .05em;
+}
+.phil-h2 {
+  font-size: clamp(1.375rem, 3vw, 2.125rem);
+  font-weight: 800;
+  color: var(--color-brand);
+  line-height: 1.4;
+  margin-bottom: 1.5rem;
+}
+.phil-body {
+  color: var(--color-text-muted);
+  line-height: 1.9;
+  font-size: .9375rem;
+  max-width: 44rem;
+}
+.section-rule {
+  border: none;
+  border-top: 2px solid var(--color-brand);
+  margin-bottom: 2rem;
+}
+.section-h2 {
+  font-size: clamp(1.25rem, 2.5vw, 1.75rem);
+  font-weight: 800;
+  color: var(--color-brand);
+  margin-bottom: 2rem;
+}
+.ceo-block {
+  display: flex;
+  gap: 2.5rem;
+  align-items: flex-start;
+}
+.ceo-photo-wrap { flex-shrink: 0; width: 180px; }
+.ceo-photo {
+  width: 180px;
+  height: 220px;
+  object-fit: cover;
+  border-radius: .5rem;
+  display: block;
+  background: #e5e7eb;
+}
+.ceo-content { flex: 1; }
+.ceo-role { font-size: .8125rem; color: var(--color-text-muted); margin-bottom: .25rem; }
+.ceo-name { font-size: 1.25rem; font-weight: 800; color: var(--color-brand); margin-bottom: 1.25rem; }
+.ceo-quote { color: var(--color-text-muted); line-height: 1.9; font-size: .9375rem; }
+.profile-box {
+  background: var(--color-accent);
+  border-radius: .5rem;
+  padding: 1.25rem 1.5rem;
+  margin-top: 1.75rem;
+}
+.profile-label { font-size: .8125rem; font-weight: 700; color: var(--color-brand); margin-bottom: .625rem; }
+.profile-body { font-size: .875rem; color: var(--color-text-muted); line-height: 1.85; }
+.company-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: .9375rem;
+}
+.company-table th,
+.company-table td {
+  padding: 1rem 1.25rem;
+  text-align: left;
+  border-bottom: 1px solid #e5e7eb;
+  vertical-align: top;
+}
+.company-table tr:first-child th,
+.company-table tr:first-child td { border-top: 1px solid #e5e7eb; }
+.company-table th {
+  width: 180px;
+  font-weight: 700;
+  color: var(--color-text);
+  white-space: nowrap;
+  background: var(--color-accent);
+}
+.company-table td { color: var(--color-text-muted); line-height: 1.8; }
+@media (max-width: 640px) {
+  .ceo-block { flex-direction: column; }
+  .ceo-photo-wrap { width: 100%; }
+  .ceo-photo { width: 100%; height: auto; aspect-ratio: 4/3; }
+  .company-table th { width: 120px; }
+}
+</style>
