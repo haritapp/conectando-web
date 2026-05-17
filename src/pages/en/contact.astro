@@ -1,0 +1,285 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import PageHero from '../../components/PageHero.astro';
+
+// TODO: Replace with your Formspree endpoint after signing up at https://formspree.io/
+const FORM_ACTION = 'https://formspree.io/f/XXXXXXXX';
+---
+
+<BaseLayout title="Contact Us | Get in Touch for Event & Business Support in Japan" description="Get in touch with Conectando. We're here to help with event management, Japan tours, market entry support, and more.">
+
+  <PageHero label="CONTACT" title="CONTACT" />
+
+  <div class="page-wrap">
+
+    <p class="page-lead">Contact Form</p>
+
+    <form
+      class="contact-form"
+      action={FORM_ACTION}
+      method="POST"
+    >
+      <!-- Formspree: redirect after submission -->
+      <input type="hidden" name="_next" value="https://conectando-web.pages.dev/en/contact?sent=true" />
+      <input type="hidden" name="_language" value="en" />
+
+      <div class="field-group">
+        <label class="field-label" for="name">
+          Name <span class="required">Required</span>
+        </label>
+        <input
+          class="field-input"
+          type="text"
+          id="name"
+          name="name"
+          required
+          autocomplete="name"
+        />
+      </div>
+
+      <div class="field-group">
+        <label class="field-label" for="company">
+          Company <span class="required">Required</span>
+        </label>
+        <input
+          class="field-input"
+          type="text"
+          id="company"
+          name="company"
+          required
+          autocomplete="organization"
+        />
+      </div>
+
+      <div class="field-group">
+        <label class="field-label" for="phone">
+          Phone Number <span class="optional">Optional</span>
+        </label>
+        <input
+          class="field-input"
+          type="tel"
+          id="phone"
+          name="phone"
+          autocomplete="tel"
+        />
+      </div>
+
+      <div class="field-group">
+        <label class="field-label" for="email">
+          Email Address <span class="required">Required</span>
+        </label>
+        <input
+          class="field-input"
+          type="email"
+          id="email"
+          name="email"
+          required
+          autocomplete="email"
+        />
+      </div>
+
+      <div class="field-group">
+        <label class="field-label" for="source">
+          How Did You Know <span class="optional">Optional</span>
+        </label>
+        <div class="select-wrap">
+          <select class="field-select" id="source" name="source">
+            <option value="">Please select</option>
+            <option value="Introduction">Introduction</option>
+            <option value="Web search">Web search</option>
+            <option value="SNS">SNS</option>
+            <option value="Advertisement">Advertisement</option>
+            <option value="Other">Other</option>
+          </select>
+        </div>
+      </div>
+
+      <div class="field-group">
+        <label class="field-label" for="type">
+          Type <span class="required">Required</span>
+        </label>
+        <div class="select-wrap">
+          <select class="field-select" id="type" name="type" required>
+            <option value="">Please select</option>
+            <option value="Event Management Support">Event Management Support</option>
+            <option value="Japan Tours">Japan Tours</option>
+            <option value="Japan Entry Support">Japan Entry Support</option>
+            <option value="Collaboration">Collaboration</option>
+            <option value="Other">Other</option>
+          </select>
+        </div>
+      </div>
+
+      <div class="field-group">
+        <label class="field-label" for="message">
+          Inquiry Details <span class="required">Required</span>
+        </label>
+        <textarea
+          class="field-textarea"
+          id="message"
+          name="message"
+          rows="6"
+          required
+        ></textarea>
+      </div>
+
+      <div class="privacy-row">
+        <a href="/en/policy" class="privacy-link" target="_blank" rel="noopener">
+          For information on how we handle personal information, please click here
+        </a>
+      </div>
+
+      <div class="field-group checkbox-group">
+        <label class="checkbox-label">
+          <input type="checkbox" class="checkbox-input" name="_consent" required />
+          <span>Agree to Privacy Policy</span>
+        </label>
+      </div>
+
+      <div class="submit-row">
+        <button type="submit" class="submit-btn">Submit</button>
+      </div>
+    </form>
+
+  </div>
+
+</BaseLayout>
+
+<style>
+.page-wrap {
+  max-width: 48rem;
+  margin: 0 auto;
+  padding: 0 2rem 5rem;
+}
+.page-lead {
+  color: var(--color-text-muted);
+  line-height: 1.8;
+  margin: 2rem 0 2.5rem;
+  font-size: .9375rem;
+}
+
+/* ── Form ── */
+.contact-form {
+  display: flex;
+  flex-direction: column;
+  gap: 1.75rem;
+}
+
+.field-group {
+  display: flex;
+  flex-direction: column;
+  gap: .5rem;
+}
+
+.field-label {
+  font-size: .9375rem;
+  font-weight: 600;
+  color: var(--color-text);
+  display: flex;
+  align-items: center;
+  gap: .5rem;
+}
+
+.required {
+  font-size: .6875rem;
+  font-weight: 700;
+  padding: .1875rem .5rem;
+  background: var(--color-brand);
+  color: #fff;
+  border-radius: 9999px;
+}
+.optional {
+  font-size: .6875rem;
+  font-weight: 700;
+  padding: .1875rem .5rem;
+  background: #e5e7eb;
+  color: var(--color-text-muted);
+  border-radius: 9999px;
+}
+
+.field-input,
+.field-textarea,
+.field-select {
+  width: 100%;
+  padding: .75rem 1rem;
+  border: 1px solid #d1d5db;
+  border-radius: .375rem;
+  font-size: .9375rem;
+  color: var(--color-text);
+  background: #fff;
+  font-family: inherit;
+  transition: border-color .15s;
+  appearance: none;
+}
+.field-input:focus,
+.field-textarea:focus,
+.field-select:focus {
+  outline: none;
+  border-color: var(--color-brand);
+  box-shadow: 0 0 0 3px rgba(26,26,180,.12);
+}
+.field-textarea {
+  resize: vertical;
+  min-height: 10rem;
+}
+
+.select-wrap {
+  position: relative;
+}
+.select-wrap::after {
+  content: '▾';
+  position: absolute;
+  right: 1rem;
+  top: 50%;
+  transform: translateY(-50%);
+  pointer-events: none;
+  color: var(--color-text-muted);
+  font-size: .875rem;
+}
+
+/* ── Privacy & checkbox ── */
+.privacy-row {
+  margin-top: -.5rem;
+}
+.privacy-link {
+  font-size: .875rem;
+  color: var(--color-brand);
+  text-decoration: underline;
+}
+.checkbox-group { margin-top: -.75rem; }
+.checkbox-label {
+  display: flex;
+  align-items: center;
+  gap: .625rem;
+  font-size: .9375rem;
+  color: var(--color-text);
+  cursor: pointer;
+}
+.checkbox-input {
+  width: 1.125rem;
+  height: 1.125rem;
+  accent-color: var(--color-brand);
+  flex-shrink: 0;
+  cursor: pointer;
+}
+
+/* ── Submit ── */
+.submit-row {
+  display: flex;
+  justify-content: center;
+  padding-top: .5rem;
+}
+.submit-btn {
+  background: var(--color-brand);
+  color: #fff;
+  border: none;
+  padding: .875rem 3rem;
+  border-radius: 9999px;
+  font-size: 1rem;
+  font-weight: 700;
+  font-family: inherit;
+  cursor: pointer;
+  transition: opacity .2s;
+}
+.submit-btn:hover { opacity: .85; }
+</style>
