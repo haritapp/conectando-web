@@ -4,10 +4,10 @@ import ContactCTA from '../../components/ContactCTA.astro';
 
 // ── Stub data (migrate to CMS/Content Collections later) ──
 const caseSlides = [
-  { title: 'Gate to India & Africa',   badge: 'Event Case', href: '/en/case/detail/gatetoindiaafrica',   bg: '#1a237e' },
-  { title: 'New York Silicon Alley',   badge: 'Event Case', href: '/en/case/detail/newyorksiliconalley', bg: '#0d47a1' },
-  { title: 'SushiTech Tokyo',          badge: 'Column',     href: 'https://bizintokyo.com/en/column/sushitech_column', bg: '#1b5e20' },
-  { title: 'Startup Diversity Day',    badge: 'Event Case', href: '/en/case/detail/startupdiversityday', bg: '#4a148c' },
+  { title: 'Gate to India & Africa', badge: 'Event Case', href: '/en/case/detail/gatetoindiaafrica', bg: '#1a237e' },
+  { title: 'New York Silicon Alley', badge: 'Event Case', href: '/en/case/detail/newyorksiliconalley', bg: '#0d47a1' },
+  { title: 'SushiTech Tokyo', badge: 'Column', href: 'https://bizintokyo.com/en/column/sushitech_column', bg: '#1b5e20' },
+  { title: 'Startup Diversity Day', badge: 'Event Case', href: '/en/case/detail/startupdiversityday', bg: '#4a148c' },
 ];
 
 const services = [
@@ -32,15 +32,15 @@ const services = [
   {
     title: 'Japan Entry Support',
     desc:  'We provide comprehensive support for entering the Japanese market, from market research to recruitment support and office search.',
-    href:  '/en/service',
+    href:  '/en/service#service-3',
     img:   'https://storage.stock.studio.design/optimized/2nmh0zT5szPfjE4lrwQXm.webp',
   },
 ];
 
 const cases = [
-  { title: 'Gate to India & Africa', href: '/en/case/detail/gatetoindiaafrica',   img: '/images/about/event-group.webp' },
+  { title: 'Gate to India & Africa', href: '/en/case/detail/gatetoindiaafrica', img: '/images/about/event-group.webp' },
   { title: 'New York Silicon Alley', href: '/en/case/detail/newyorksiliconalley', img: '/images/about/event-group.webp' },
-  { title: 'Startup Diversity Day',  href: '/en/case/detail/startupdiversityday', img: '/images/about/event-group.webp' },
+  { title: 'Startup Diversity Day',  href: '/en/case/detail/startupdiversityday',  img: '/images/about/event-group.webp' },
 ];
 
 const blogs = [
@@ -60,138 +60,163 @@ const blogs = [
 
 const news = [
   {
+    date:  '2026/03/13',
+    badge: 'Corporate',
+    title: 'Launched "BizinTokyo" — a bilingual media platform for business events in Tokyo',
+    href:  'https://bizintokyo.com',
+    external: true,
+  },
+  {
+    date:  '2025/11/07',
+    badge: 'note',
+    title: 'Published: "Rice Capital Fukuyama × Globis Takamiya — The Real Story of Startup Founding After US Entrepreneurship, YC Acceptance & M&A"',
+    href:  '/en/news',
+    external: false,
+  },
+  {
     date:  '2025/10/29',
     badge: 'note',
     title: 'Published: "How My Role Changed Moving from Engineer to Executive — LayerX on the AI Era Management Playbook"',
     href:  '/en/news',
+    external: false,
   },
 ];
+
+const badgeColors: Record<string, string> = {
+  'Corporate': '#1A1AB4',
+  'note': '#41c9b4',
+};
 ---
 
-<BaseLayout title="Conectando Inc. | Bilingual Event Management in Tokyo" description="Conectando connects global networks to support Japan's business growth — event management, media, Japan tours, and market entry support.">
+<BaseLayout title="Bilingual Event Management in Tokyo" description="Conectando connects global networks to support Japan's business growth — event management, media, Japan tours, and market entry support.">
 
-  <!-- ① Hero -->
-  <section class="top-hero">
-    <h1 class="hero-h1">Connecting Networks<br>Boosting Japan</h1>
-  </section>
+<!-- ① Hero -->
+<section class="top-hero">
+  <h1 class="hero-h1">Connecting Networks<br>Boosting Japan</h1>
+</section>
 
-  <!-- ② Case Slider -->
-  <div class="slider-wrap">
-    <ul class="slider-track" role="list">
-      {caseSlides.map(s => (
-        <li>
-          <a href={s.href} class="slide-card" style={`--bg:${s.bg}`}>
-            <div class="slide-bg"></div>
-            <div class="slide-overlay">
-              <span class="slide-badge">{s.badge}</span>
-              <span class="slide-title">{s.title}</span>
+<!-- ② Case Slider -->
+<div class="slider-wrap">
+  <ul class="slider-track" role="list">
+    {caseSlides.map(s => (
+      <li>
+        <a href={s.href} class="slide-card" style={`--bg:${s.bg}`}>
+          <div class="slide-bg"></div>
+          <div class="slide-overlay">
+            <span class="slide-badge">{s.badge}</span>
+            <span class="slide-title">{s.title}</span>
+          </div>
+        </a>
+      </li>
+    ))}
+  </ul>
+</div>
+
+<!-- ③ About Preview -->
+<section class="about-sec">
+  <div class="dot-rule"></div>
+  <div class="sec-body">
+    <h2 class="about-h2">Connecting Networks<br>Boosting Japan</h2>
+    <p class="about-p">
+      We leverage our global network to support Japanese businesses, connecting overseas companies with local partners to create new growth opportunities.
+    </p>
+    <p class="about-p" style="margin-top:1rem">
+      As we assist with market entry, we offer practical advice to navigate cultural differences and business practices. Our mission is to strengthen networks and enhance Japan's competitiveness.
+    </p>
+    <a href="/en/about" class="pill-btn" style="display:inline-flex;margin-top:2rem">
+      View Detail <span class="btn-dot">●</span>
+    </a>
+  </div>
+</section>
+
+<!-- ④ Services -->
+<section class="svc-sec">
+  <div class="dot-rule"></div>
+  <div class="sec-body">
+    <ul class="svc-list" role="list">
+      {services.map(s => (
+        <li class="svc-item">
+          <a href={s.href} class="svc-link">
+            <img src={s.img} alt={s.title} class="svc-img" loading="lazy" />
+            <div>
+              <h3 class="svc-title">{s.title}</h3>
+              <p class="svc-desc">{s.desc}</p>
             </div>
           </a>
         </li>
       ))}
     </ul>
+    <div class="right-cta">
+      <a href="/en/service" class="text-cta">View All <span class="btn-dot">●</span></a>
+    </div>
   </div>
+</section>
 
-  <!-- ③ About Preview -->
-  <section class="about-sec">
-    <div class="dot-rule"></div>
-    <div class="sec-body">
-      <h2 class="about-h2">Connecting Networks<br>Boosting Japan</h2>
-      <p class="about-p">
-        We leverage our global network to support Japanese businesses, connecting overseas companies with local partners to create new growth opportunities.
-      </p>
-      <p class="about-p" style="margin-top:1rem">
-        As we assist with market entry, we offer practical advice to navigate cultural differences and business practices. Our mission is to strengthen networks and enhance Japan's competitiveness.
-      </p>
-      <a href="/en/about" class="pill-btn" style="display:inline-flex;margin-top:2rem">
-        View Detail <span class="btn-dot">●</span>
-      </a>
+<!-- ⑤ Case Studies Grid -->
+<section class="cases-sec">
+  <div class="dot-rule"></div>
+  <div class="sec-body">
+    <div class="case-grid">
+      {cases.map(c => (
+        <a href={c.href} class="case-card">
+          <img src={c.img} alt={c.title} class="case-img" loading="lazy" />
+        </a>
+      ))}
     </div>
-  </section>
-
-  <!-- ④ Services -->
-  <section class="svc-sec">
-    <div class="dot-rule"></div>
-    <div class="sec-body">
-      <ul class="svc-list" role="list">
-        {services.map(s => (
-          <li class="svc-item">
-            <a href={s.href} class="svc-link">
-              <img src={s.img} alt={s.title} class="svc-img" loading="lazy" />
-              <div>
-                <h3 class="svc-title">{s.title}</h3>
-                <p class="svc-desc">{s.desc}</p>
-              </div>
-            </a>
-          </li>
-        ))}
-      </ul>
-      <div class="right-cta">
-        <a href="/en/service" class="text-cta">View All <span class="btn-dot">●</span></a>
-      </div>
+    <div class="right-cta">
+      <a href="/en/case" class="text-cta">View All <span class="btn-dot">●</span></a>
     </div>
-  </section>
+  </div>
+</section>
 
-  <!-- ⑤ Case Studies Grid -->
-  <section class="cases-sec">
-    <div class="dot-rule"></div>
-    <div class="sec-body">
-      <div class="case-grid">
-        {cases.map(c => (
-          <a href={c.href} class="case-card">
-            <img src={c.img} alt={c.title} class="case-img" loading="lazy" />
+<!-- ⑥ Blog -->
+<section class="blog-sec">
+  <div class="dot-rule"></div>
+  <div class="sec-body">
+    <div class="blog-grid">
+      {blogs.map(b => (
+        <a href={b.href} class="blog-card">
+          <img src={b.img} alt={b.title} class="blog-img" loading="lazy" />
+          <div class="blog-meta">
+            <time class="blog-date">{b.date}</time>
+            <p class="blog-title">{b.title}</p>
+          </div>
+        </a>
+      ))}
+    </div>
+    <div class="right-cta">
+      <a href="/en/blog" class="text-cta">View All <span class="btn-dot">●</span></a>
+    </div>
+  </div>
+</section>
+
+<!-- ⑦ News -->
+<section class="news-sec">
+  <div class="dot-rule"></div>
+  <div class="sec-body">
+    <ul class="news-list" role="list">
+      {news.map(n => (
+        <li class="news-item">
+          <a
+            href={n.href}
+            class="news-link"
+            target={n.external ? '_blank' : undefined}
+            rel={n.external ? 'noopener' : undefined}
+          >
+            <time class="news-date">{n.date}</time>
+            <span class="news-badge" style={`background:${badgeColors[n.badge] ?? '#1A1AB4'}`}>{n.badge}</span>
+            <span class="news-text">{n.title}</span>
           </a>
-        ))}
-      </div>
-      <div class="right-cta">
-        <a href="/en/case" class="text-cta">View All <span class="btn-dot">●</span></a>
-      </div>
+        </li>
+      ))}
+    </ul>
+    <div class="right-cta">
+      <a href="/en/news" class="text-cta">View All <span class="btn-dot">●</span></a>
     </div>
-  </section>
+  </div>
+</section>
 
-  <!-- ⑥ Blog -->
-  <section class="blog-sec">
-    <div class="dot-rule"></div>
-    <div class="sec-body">
-      <div class="blog-grid">
-        {blogs.map(b => (
-          <a href={b.href} class="blog-card">
-            <img src={b.img} alt={b.title} class="blog-img" loading="lazy" />
-            <div class="blog-meta">
-              <time class="blog-date">{b.date}</time>
-              <p class="blog-title">{b.title}</p>
-            </div>
-          </a>
-        ))}
-      </div>
-      <div class="right-cta">
-        <a href="/en/blog" class="text-cta">View All <span class="btn-dot">●</span></a>
-      </div>
-    </div>
-  </section>
-
-  <!-- ⑦ News -->
-  <section class="news-sec">
-    <div class="dot-rule"></div>
-    <div class="sec-body">
-      <ul class="news-list" role="list">
-        {news.map(n => (
-          <li class="news-item">
-            <a href={n.href} class="news-link">
-              <time class="news-date">{n.date}</time>
-              <span class="news-badge">{n.badge}</span>
-              <span class="news-text">{n.title}</span>
-            </a>
-          </li>
-        ))}
-      </ul>
-      <div class="right-cta">
-        <a href="/en/news" class="text-cta">View All <span class="btn-dot">●</span></a>
-      </div>
-    </div>
-  </section>
-
-  <ContactCTA />
+<ContactCTA />
 
 </BaseLayout>
 
@@ -247,7 +272,7 @@ const news = [
   gap: .2rem;
 }
 .slide-badge { font-size: .6875rem; opacity: .85; }
-.slide-title  { font-size: .875rem; font-weight: 700; line-height: 1.3; }
+.slide-title { font-size: .875rem; font-weight: 700; line-height: 1.3; }
 
 /* ─── Dot rule ─── */
 .dot-rule {
@@ -370,7 +395,7 @@ const news = [
   display: block;
 }
 .blog-meta { padding: 0 .125rem; }
-.blog-date  { display: block; font-size: .8125rem; color: var(--color-text-muted); margin-bottom: .375rem; }
+.blog-date { display: block; font-size: .8125rem; color: var(--color-text-muted); margin-bottom: .375rem; }
 .blog-title { font-size: .9375rem; font-weight: 600; color: var(--color-brand); line-height: 1.5; }
 
 /* ─── News ─── */
@@ -387,11 +412,10 @@ const news = [
   text-decoration: none;
   color: inherit;
 }
-.news-date  { font-size: .8125rem; color: var(--color-text-muted); white-space: nowrap; }
+.news-date { font-size: .8125rem; color: var(--color-text-muted); white-space: nowrap; }
 .news-badge {
   font-size: .6875rem;
   padding: .1875rem .625rem;
-  background: var(--color-brand);
   color: #fff;
   border-radius: 9999px;
   white-space: nowrap;
