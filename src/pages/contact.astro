@@ -2,9 +2,8 @@
 import BaseLayout from '../layouts/BaseLayout.astro';
 import PageHero from '../components/PageHero.astro';
 
-// TODO: Formspreeに登録後、以下のURLを置き換えてください
-// https://formspree.io/ でアカウント作成 → New Form → エンドポイントURLをコピー
-const FORM_ACTION = 'https://formspree.io/f/XXXXXXXX';
+const APPS_SCRIPT_URL    = "https://script.google.com/macros/s/AKfycbyGCdFNh_QWh_2LEs2StsQg8EY-2_aJfqxFDgt1vaRMbrE80qF7agSp5bGB4CrNYwMjpw/exec";
+const TURNSTILE_SITE_KEY = ""; // Cloudflare Turnstile サイトキーをここに設定
 ---
 
 <BaseLayout title="お問い合わせ" description="Conectandoへのお問い合わせはこちら。イベント開催支援・日本ツアー・日本進出支援など、お気軽にご相談ください。">
@@ -13,138 +12,233 @@ const FORM_ACTION = 'https://formspree.io/f/XXXXXXXX';
 
   <div class="page-wrap">
 
-    <p class="page-lead">Conectandoへのお問い合わせはこちら。</p>
+    <p class="page-lead">Conectandoへのお問い合わせはこちら。原則として2〜3営業日以内にご返信します。</p>
 
-    <form
-      class="contact-form"
-      action={FORM_ACTION}
-      method="POST"
-    >
-      <!-- Formspree: 送信後リダイレクト先 -->
-      <input type="hidden" name="_next" value="https://conectando-web.pages.dev/contact?sent=true" />
-      <input type="hidden" name="_language" value="ja" />
+    <!-- フォーム本体 -->
+    <div id="formContainer">
+      <form class="contact-form" id="contactForm" novalidate>
 
-      <div class="field-group">
-        <label class="field-label" for="name">
-          お名前 <span class="required">必須</span>
-        </label>
-        <input
-          class="field-input"
-          type="text"
-          id="name"
-          name="name"
-          required
-          autocomplete="name"
-        />
-      </div>
-
-      <div class="field-group">
-        <label class="field-label" for="company">
-          会社名 <span class="required">必須</span>
-        </label>
-        <input
-          class="field-input"
-          type="text"
-          id="company"
-          name="company"
-          required
-          autocomplete="organization"
-        />
-      </div>
-
-      <div class="field-group">
-        <label class="field-label" for="phone">
-          電話番号 <span class="optional">任意</span>
-        </label>
-        <input
-          class="field-input"
-          type="tel"
-          id="phone"
-          name="phone"
-          autocomplete="tel"
-        />
-      </div>
-
-      <div class="field-group">
-        <label class="field-label" for="email">
-          メールアドレス <span class="required">必須</span>
-        </label>
-        <input
-          class="field-input"
-          type="email"
-          id="email"
-          name="email"
-          required
-          autocomplete="email"
-        />
-      </div>
-
-      <div class="field-group">
-        <label class="field-label" for="source">
-          弊社を知ったきっかけ <span class="optional">任意</span>
-        </label>
-        <div class="select-wrap">
-          <select class="field-select" id="source" name="source">
-            <option value="">選択してください</option>
-            <option value="知人からの紹介">知人からの紹介</option>
-            <option value="WEB検索">WEB検索</option>
-            <option value="SNS">SNS</option>
-            <option value="広告">広告</option>
-            <option value="その他">その他</option>
-          </select>
+        <div class="field-group">
+          <label class="field-label" for="name">
+            お名前 <span class="required">必須</span>
+          </label>
+          <input class="field-input" type="text" id="name" name="name" required autocomplete="name" />
         </div>
-      </div>
 
-      <div class="field-group">
-        <label class="field-label" for="type">
-          種別 <span class="required">必須</span>
-        </label>
-        <div class="select-wrap">
-          <select class="field-select" id="type" name="type" required>
-            <option value="">選択してください</option>
-            <option value="イベント開催">イベント開催</option>
-            <option value="日本ツアー">日本ツアー</option>
-            <option value="日本進出支援">日本進出支援</option>
-            <option value="協業">協業</option>
-            <option value="その他">その他</option>
-          </select>
+        <div class="field-group">
+          <label class="field-label" for="company">
+            会社名 <span class="required">必須</span>
+          </label>
+          <input class="field-input" type="text" id="company" name="company" required autocomplete="organization" />
         </div>
-      </div>
 
-      <div class="field-group">
-        <label class="field-label" for="message">
-          お問い合わせ内容 <span class="required">必須</span>
-        </label>
-        <textarea
-          class="field-textarea"
-          id="message"
-          name="message"
-          rows="6"
-          required
-        ></textarea>
-      </div>
+        <div class="field-group">
+          <label class="field-label" for="phone">
+            電話番号 <span class="optional">任意</span>
+          </label>
+          <input class="field-input" type="tel" id="phone" name="phone" autocomplete="tel" />
+        </div>
 
-      <div class="privacy-row">
-        <a href="/policy" class="privacy-link" target="_blank" rel="noopener">
-          弊社の個人情報の取り扱いについてはこちら
-        </a>
-      </div>
+        <div class="field-group">
+          <label class="field-label" for="email">
+            メールアドレス <span class="required">必須</span>
+          </label>
+          <input class="field-input" type="email" id="email" name="email" required autocomplete="email" />
+        </div>
 
-      <div class="field-group checkbox-group">
-        <label class="checkbox-label">
-          <input type="checkbox" class="checkbox-input" name="_consent" required />
-          <span>プライバシーポリシーに同意する</span>
-        </label>
-      </div>
+        <div class="field-group">
+          <label class="field-label" for="source">
+            弊社を知ったきっかけ <span class="optional">任意</span>
+          </label>
+          <div class="select-wrap">
+            <select class="field-select" id="source" name="source">
+              <option value="">選択してください</option>
+              <option value="知人からの紹介">知人からの紹介</option>
+              <option value="WEB検索">WEB検索</option>
+              <option value="SNS">SNS</option>
+              <option value="広告">広告</option>
+              <option value="その他">その他</option>
+            </select>
+          </div>
+        </div>
 
-      <div class="submit-row">
-        <button type="submit" class="submit-btn">送信する</button>
+        <div class="field-group">
+          <label class="field-label" for="type">
+            種別 <span class="required">必須</span>
+          </label>
+          <div class="select-wrap">
+            <select class="field-select" id="type" name="type" required>
+              <option value="">選択してください</option>
+              <option value="イベント開催">イベント開催</option>
+              <option value="日本ツアー">日本ツアー</option>
+              <option value="日本進出支援">日本進出支援</option>
+              <option value="協業">協業</option>
+              <option value="その他">その他</option>
+            </select>
+          </div>
+        </div>
+
+        <div class="field-group">
+          <label class="field-label" for="message">
+            お問い合わせ内容 <span class="required">必須</span>
+          </label>
+          <textarea class="field-textarea" id="message" name="message" rows="6" required></textarea>
+        </div>
+
+        <!-- ハニーポット（ボット対策、非表示） -->
+        <div class="hp-field" aria-hidden="true">
+          <label for="website">Website</label>
+          <input type="text" id="website" name="website" tabindex="-1" autocomplete="off" />
+        </div>
+
+        <!-- Turnstile ウィジェット -->
+        <div class="form-turnstile" id="turnstileWidget"></div>
+
+        <div class="privacy-row">
+          <a href="/policy" class="privacy-link" target="_blank" rel="noopener">
+            弊社の個人情報の取り扱いについてはこちら
+          </a>
+        </div>
+
+        <div class="field-group checkbox-group">
+          <label class="checkbox-label">
+            <input type="checkbox" class="checkbox-input" name="_consent" required />
+            <span>プライバシーポリシーに同意する</span>
+          </label>
+        </div>
+
+        <div class="submit-row">
+          <button type="submit" class="submit-btn" id="submitBtn">送信する</button>
+        </div>
+      </form>
+    </div>
+
+    <!-- 送信完了 -->
+    <div id="formSuccess" class="form-success" style="display:none;">
+      <div class="form-success-icon" aria-hidden="true">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+          <polyline points="20 6 9 17 4 12" />
+        </svg>
       </div>
-    </form>
+      <h3>お問い合わせを受け付けました</h3>
+      <p>
+        ご入力いただいたメールアドレスに確認メールをお送りしました。<br>
+        原則として<strong>2〜3営業日以内</strong>にご返信いたします。
+      </p>
+      <p class="form-note">
+        メールが届かない場合は迷惑メールフォルダもご確認ください。
+      </p>
+      <div class="form-actions">
+        <a href="/" class="action-btn">トップへ戻る</a>
+        <button type="button" class="action-btn secondary" id="resetFormBtn">もう一度送る</button>
+      </div>
+    </div>
+
+    <!-- 送信エラー -->
+    <div id="formError" class="form-error" style="display:none;">
+      <div class="form-error-icon" aria-hidden="true">!</div>
+      <h3>送信に失敗しました</h3>
+      <p id="formErrorMessage">
+        通信エラーが発生しました。しばらく時間をおいて再度お試しください。
+      </p>
+      <div class="form-actions">
+        <button type="button" class="action-btn" id="retryFormBtn">フォームに戻る</button>
+      </div>
+    </div>
 
   </div>
 
 </BaseLayout>
+
+<!-- Turnstile スクリプト -->
+{TURNSTILE_SITE_KEY && (
+  <script src="https://challenges.cloudflare.com/turnstile/v0/api.js?onload=onTurnstileLoad" defer></script>
+)}
+
+<script define:vars={{ TURNSTILE_SITE_KEY, APPS_SCRIPT_URL }}>
+  function onTurnstileLoad() {
+    if (TURNSTILE_SITE_KEY && typeof turnstile !== 'undefined') {
+      turnstile.render('#turnstileWidget', { sitekey: TURNSTILE_SITE_KEY, theme: 'light' });
+    }
+  }
+  window.onTurnstileLoad = onTurnstileLoad;
+
+  var form       = document.getElementById('contactForm');
+  var container  = document.getElementById('formContainer');
+  var successDiv = document.getElementById('formSuccess');
+  var errorDiv   = document.getElementById('formError');
+  var errorMsg   = document.getElementById('formErrorMessage');
+  var submitBtn  = document.getElementById('submitBtn');
+
+  function showView(view) {
+    container.style.display  = view === 'form'    ? '' : 'none';
+    successDiv.style.display = view === 'success' ? '' : 'none';
+    errorDiv.style.display   = view === 'error'   ? '' : 'none';
+    var target = view === 'success' ? successDiv : view === 'error' ? errorDiv : container;
+    target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+  }
+
+  function resetForm() {
+    form.reset();
+    if (typeof turnstile !== 'undefined') turnstile.reset('#turnstileWidget');
+    showView('form');
+  }
+
+  document.getElementById('resetFormBtn').addEventListener('click', resetForm);
+  document.getElementById('retryFormBtn').addEventListener('click', resetForm);
+
+  form.addEventListener('submit', async function(e) {
+    e.preventDefault();
+
+    // ハニーポット検査
+    if ((document.getElementById('website') || {}).value) return;
+
+    // Turnstile トークン
+    var turnstileInput = form.querySelector('input[name="cf-turnstile-response"]');
+    var turnstileToken = turnstileInput ? turnstileInput.value : '';
+
+    submitBtn.disabled     = true;
+    submitBtn.textContent  = '送信中...';
+
+    var payload = {
+      lang:           'ja',
+      name:           document.getElementById('name').value,
+      company:        document.getElementById('company').value,
+      phone:          document.getElementById('phone').value,
+      email:          document.getElementById('email').value,
+      source:         document.getElementById('source').value,
+      type:           document.getElementById('type').value,
+      message:        document.getElementById('message').value,
+      turnstileToken: turnstileToken,
+      website:        ''
+    };
+
+    try {
+      var res    = await fetch(APPS_SCRIPT_URL, {
+        method: 'POST',
+        headers: { 'Content-Type': 'text/plain' },
+        body: JSON.stringify(payload)
+      });
+      var result = await res.json();
+
+      if (result.status === 'ok') {
+        showView('success');
+      } else {
+        if (errorMsg) errorMsg.textContent = result.message || '送信に失敗しました。しばらく時間をおいて再度お試しください。';
+        showView('error');
+      }
+    } catch (err) {
+      if (errorMsg) errorMsg.textContent = '通信エラーが発生しました。インターネット接続を確認し、再度お試しください。';
+      showView('error');
+    } finally {
+      submitBtn.disabled    = false;
+      submitBtn.textContent = '送信する';
+      if (result && result.status !== 'ok' && typeof turnstile !== 'undefined') {
+        turnstile.reset('#turnstileWidget');
+      }
+    }
+  });
+</script>
 
 <style>
 .page-wrap {
@@ -165,13 +259,11 @@ const FORM_ACTION = 'https://formspree.io/f/XXXXXXXX';
   flex-direction: column;
   gap: 1.75rem;
 }
-
 .field-group {
   display: flex;
   flex-direction: column;
   gap: .5rem;
 }
-
 .field-label {
   font-size: .9375rem;
   font-weight: 600;
@@ -180,7 +272,6 @@ const FORM_ACTION = 'https://formspree.io/f/XXXXXXXX';
   align-items: center;
   gap: .5rem;
 }
-
 .required {
   font-size: .6875rem;
   font-weight: 700;
@@ -197,7 +288,6 @@ const FORM_ACTION = 'https://formspree.io/f/XXXXXXXX';
   color: var(--color-text-muted);
   border-radius: 9999px;
 }
-
 .field-input,
 .field-textarea,
 .field-select {
@@ -223,10 +313,7 @@ const FORM_ACTION = 'https://formspree.io/f/XXXXXXXX';
   resize: vertical;
   min-height: 10rem;
 }
-
-.select-wrap {
-  position: relative;
-}
+.select-wrap { position: relative; }
 .select-wrap::after {
   content: '▾';
   position: absolute;
@@ -238,10 +325,20 @@ const FORM_ACTION = 'https://formspree.io/f/XXXXXXXX';
   font-size: .875rem;
 }
 
-/* ── Privacy & checkbox ── */
-.privacy-row {
-  margin-top: -.5rem;
+/* ハニーポット */
+.hp-field {
+  position: absolute;
+  left: -9999px;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
 }
+
+/* Turnstile */
+.form-turnstile { margin-bottom: .5rem; }
+
+/* ── Privacy & checkbox ── */
+.privacy-row { margin-top: -.5rem; }
 .privacy-link {
   font-size: .875rem;
   color: var(--color-brand);
@@ -283,4 +380,118 @@ const FORM_ACTION = 'https://formspree.io/f/XXXXXXXX';
   transition: opacity .2s;
 }
 .submit-btn:hover { opacity: .85; }
+.submit-btn:disabled { opacity: .6; cursor: not-allowed; }
+
+/* ── Success ── */
+.form-success {
+  background: #f0fdf4;
+  border: 1px solid #bbf7d0;
+  border-top: 3px solid #16a34a;
+  border-radius: .5rem;
+  padding: 3rem 2rem;
+  text-align: center;
+}
+.form-success-icon {
+  width: 3.5rem;
+  height: 3.5rem;
+  margin: 0 auto 1.5rem;
+  border-radius: 50%;
+  background: #16a34a;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.form-success-icon svg { width: 1.75rem; height: 1.75rem; }
+.form-success h3 {
+  font-size: 1.5rem;
+  font-weight: 700;
+  margin: 0 0 1rem;
+  color: var(--color-text);
+}
+.form-success p {
+  font-size: .9375rem;
+  line-height: 1.8;
+  color: var(--color-text-muted);
+  margin: 0 auto 1rem;
+  max-width: 34rem;
+}
+.form-note {
+  font-size: .8125rem !important;
+  color: #6b7280 !important;
+  padding-top: 1rem;
+  border-top: 1px dashed #d1d5db;
+  margin-top: 1rem !important;
+}
+
+/* ── Error ── */
+.form-error {
+  background: #fef2f2;
+  border: 1px solid #fecaca;
+  border-top: 3px solid #dc2626;
+  border-radius: .5rem;
+  padding: 3rem 2rem;
+  text-align: center;
+}
+.form-error-icon {
+  width: 3.5rem;
+  height: 3.5rem;
+  margin: 0 auto 1.5rem;
+  border-radius: 50%;
+  background: #dc2626;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.75rem;
+  font-weight: 700;
+}
+.form-error h3 {
+  font-size: 1.5rem;
+  font-weight: 700;
+  margin: 0 0 1rem;
+  color: var(--color-text);
+}
+.form-error p {
+  font-size: .9375rem;
+  line-height: 1.8;
+  color: var(--color-text-muted);
+  max-width: 34rem;
+  margin: 0 auto 2rem;
+}
+
+/* ── Actions ── */
+.form-actions {
+  display: flex;
+  gap: .75rem;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-top: 2rem;
+}
+.action-btn {
+  display: inline-flex;
+  align-items: center;
+  background: var(--color-brand);
+  color: #fff;
+  font-family: inherit;
+  font-size: .9375rem;
+  font-weight: 600;
+  padding: .75rem 1.75rem;
+  border-radius: 9999px;
+  border: 2px solid transparent;
+  cursor: pointer;
+  text-decoration: none;
+  transition: opacity .2s;
+}
+.action-btn:hover { opacity: .85; }
+.action-btn.secondary {
+  background: transparent;
+  color: var(--color-text-muted);
+  border-color: #d1d5db;
+}
+.action-btn.secondary:hover {
+  color: var(--color-brand);
+  border-color: var(--color-brand);
+  opacity: 1;
+}
 </style>

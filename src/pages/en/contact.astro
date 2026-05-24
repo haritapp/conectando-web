@@ -2,8 +2,8 @@
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import PageHero from '../../components/PageHero.astro';
 
-// TODO: Replace with your Formspree endpoint after signing up at https://formspree.io/
-const FORM_ACTION = 'https://formspree.io/f/XXXXXXXX';
+const APPS_SCRIPT_URL    = "https://script.google.com/macros/s/AKfycbyGCdFNh_QWh_2LEs2StsQg8EY-2_aJfqxFDgt1vaRMbrE80qF7agSp5bGB4CrNYwMjpw/exec";
+const TURNSTILE_SITE_KEY = ""; // Set Cloudflare Turnstile site key here
 ---
 
 <BaseLayout title="Contact Us | Get in Touch for Event & Business Support in Japan" description="Get in touch with Conectando. We're here to help with event management, Japan tours, market entry support, and more.">
@@ -12,138 +12,234 @@ const FORM_ACTION = 'https://formspree.io/f/XXXXXXXX';
 
   <div class="page-wrap">
 
-    <p class="page-lead">Contact Form</p>
+    <p class="page-lead">Contact us via the form below. We will reply within 2–3 business days.</p>
 
-    <form
-      class="contact-form"
-      action={FORM_ACTION}
-      method="POST"
-    >
-      <!-- Formspree: redirect after submission -->
-      <input type="hidden" name="_next" value="https://conectando-web.pages.dev/en/contact?sent=true" />
-      <input type="hidden" name="_language" value="en" />
+    <!-- Form container -->
+    <div id="formContainer">
+      <form class="contact-form" id="contactForm" novalidate>
 
-      <div class="field-group">
-        <label class="field-label" for="name">
-          Name <span class="required">Required</span>
-        </label>
-        <input
-          class="field-input"
-          type="text"
-          id="name"
-          name="name"
-          required
-          autocomplete="name"
-        />
-      </div>
-
-      <div class="field-group">
-        <label class="field-label" for="company">
-          Company <span class="required">Required</span>
-        </label>
-        <input
-          class="field-input"
-          type="text"
-          id="company"
-          name="company"
-          required
-          autocomplete="organization"
-        />
-      </div>
-
-      <div class="field-group">
-        <label class="field-label" for="phone">
-          Phone Number <span class="optional">Optional</span>
-        </label>
-        <input
-          class="field-input"
-          type="tel"
-          id="phone"
-          name="phone"
-          autocomplete="tel"
-        />
-      </div>
-
-      <div class="field-group">
-        <label class="field-label" for="email">
-          Email Address <span class="required">Required</span>
-        </label>
-        <input
-          class="field-input"
-          type="email"
-          id="email"
-          name="email"
-          required
-          autocomplete="email"
-        />
-      </div>
-
-      <div class="field-group">
-        <label class="field-label" for="source">
-          How Did You Know <span class="optional">Optional</span>
-        </label>
-        <div class="select-wrap">
-          <select class="field-select" id="source" name="source">
-            <option value="">Please select</option>
-            <option value="Introduction">Introduction</option>
-            <option value="Web search">Web search</option>
-            <option value="SNS">SNS</option>
-            <option value="Advertisement">Advertisement</option>
-            <option value="Other">Other</option>
-          </select>
+        <div class="field-group">
+          <label class="field-label" for="name">
+            Name <span class="required">Required</span>
+          </label>
+          <input class="field-input" type="text" id="name" name="name" required autocomplete="name" />
         </div>
-      </div>
 
-      <div class="field-group">
-        <label class="field-label" for="type">
-          Type <span class="required">Required</span>
-        </label>
-        <div class="select-wrap">
-          <select class="field-select" id="type" name="type" required>
-            <option value="">Please select</option>
-            <option value="Event Management Support">Event Management Support</option>
-            <option value="Japan Tours">Japan Tours</option>
-            <option value="Japan Entry Support">Japan Entry Support</option>
-            <option value="Collaboration">Collaboration</option>
-            <option value="Other">Other</option>
-          </select>
+        <div class="field-group">
+          <label class="field-label" for="company">
+            Company <span class="required">Required</span>
+          </label>
+          <input class="field-input" type="text" id="company" name="company" required autocomplete="organization" />
         </div>
-      </div>
 
-      <div class="field-group">
-        <label class="field-label" for="message">
-          Inquiry Details <span class="required">Required</span>
-        </label>
-        <textarea
-          class="field-textarea"
-          id="message"
-          name="message"
-          rows="6"
-          required
-        ></textarea>
-      </div>
+        <div class="field-group">
+          <label class="field-label" for="phone">
+            Phone Number <span class="optional">Optional</span>
+          </label>
+          <input class="field-input" type="tel" id="phone" name="phone" autocomplete="tel" />
+        </div>
 
-      <div class="privacy-row">
-        <a href="/en/policy" class="privacy-link" target="_blank" rel="noopener">
-          For information on how we handle personal information, please click here
-        </a>
-      </div>
+        <div class="field-group">
+          <label class="field-label" for="email">
+            Email Address <span class="required">Required</span>
+          </label>
+          <input class="field-input" type="email" id="email" name="email" required autocomplete="email" />
+        </div>
 
-      <div class="field-group checkbox-group">
-        <label class="checkbox-label">
-          <input type="checkbox" class="checkbox-input" name="_consent" required />
-          <span>Agree to Privacy Policy</span>
-        </label>
-      </div>
+        <div class="field-group">
+          <label class="field-label" for="source">
+            How did you hear about us? <span class="optional">Optional</span>
+          </label>
+          <div class="select-wrap">
+            <select class="field-select" id="source" name="source">
+              <option value="">Please select</option>
+              <option value="Introduction">Introduction</option>
+              <option value="Web search">Web search</option>
+              <option value="SNS">SNS</option>
+              <option value="Advertisement">Advertisement</option>
+              <option value="Other">Other</option>
+            </select>
+          </div>
+        </div>
 
-      <div class="submit-row">
-        <button type="submit" class="submit-btn">Submit</button>
+        <div class="field-group">
+          <label class="field-label" for="type">
+            Inquiry Type <span class="required">Required</span>
+          </label>
+          <div class="select-wrap">
+            <select class="field-select" id="type" name="type" required>
+              <option value="">Please select</option>
+              <option value="Event Management Support">Event Management Support</option>
+              <option value="Japan Tours">Japan Tours</option>
+              <option value="Japan Entry Support">Japan Entry Support</option>
+              <option value="Collaboration">Collaboration</option>
+              <option value="Other">Other</option>
+            </select>
+          </div>
+        </div>
+
+        <div class="field-group">
+          <label class="field-label" for="message">
+            Inquiry Details <span class="required">Required</span>
+          </label>
+          <textarea class="field-textarea" id="message" name="message" rows="6" required></textarea>
+        </div>
+
+        <!-- Honeypot (bot protection, hidden) -->
+        <div class="hp-field" aria-hidden="true">
+          <label for="website">Website</label>
+          <input type="text" id="website" name="website" tabindex="-1" autocomplete="off" />
+        </div>
+
+        <!-- Turnstile widget -->
+        <div class="form-turnstile" id="turnstileWidget"></div>
+
+        <div class="privacy-row">
+          <a href="/en/policy" class="privacy-link" target="_blank" rel="noopener">
+            For information on how we handle personal data, click here
+          </a>
+        </div>
+
+        <div class="field-group checkbox-group">
+          <label class="checkbox-label">
+            <input type="checkbox" class="checkbox-input" name="_consent" required />
+            <span>I agree to the Privacy Policy</span>
+          </label>
+        </div>
+
+        <div class="submit-row">
+          <button type="submit" class="submit-btn" id="submitBtn">Submit</button>
+        </div>
+      </form>
+    </div>
+
+    <!-- Success -->
+    <div id="formSuccess" class="form-success" style="display:none;">
+      <div class="form-success-icon" aria-hidden="true">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+          <polyline points="20 6 9 17 4 12" />
+        </svg>
       </div>
-    </form>
+      <h3>Your inquiry has been received</h3>
+      <p>
+        A confirmation email has been sent to your address.<br>
+        We will reply within <strong>2–3 business days</strong>.
+      </p>
+      <p class="form-note">
+        If you don't receive the email, please check your spam folder.
+      </p>
+      <div class="form-actions">
+        <a href="/en/" class="action-btn">Back to Top</a>
+        <button type="button" class="action-btn secondary" id="resetFormBtn">Send another inquiry</button>
+      </div>
+    </div>
+
+    <!-- Error -->
+    <div id="formError" class="form-error" style="display:none;">
+      <div class="form-error-icon" aria-hidden="true">!</div>
+      <h3>Submission failed</h3>
+      <p id="formErrorMessage">
+        A network error occurred. Please wait a moment and try again.
+      </p>
+      <div class="form-actions">
+        <button type="button" class="action-btn" id="retryFormBtn">Back to form</button>
+      </div>
+    </div>
 
   </div>
 
 </BaseLayout>
+
+<!-- Turnstile script -->
+{TURNSTILE_SITE_KEY && (
+  <script src="https://challenges.cloudflare.com/turnstile/v0/api.js?onload=onTurnstileLoad" defer></script>
+)}
+
+<script define:vars={{ TURNSTILE_SITE_KEY, APPS_SCRIPT_URL }}>
+  function onTurnstileLoad() {
+    if (TURNSTILE_SITE_KEY && typeof turnstile !== 'undefined') {
+      turnstile.render('#turnstileWidget', { sitekey: TURNSTILE_SITE_KEY, theme: 'light' });
+    }
+  }
+  window.onTurnstileLoad = onTurnstileLoad;
+
+  var form       = document.getElementById('contactForm');
+  var container  = document.getElementById('formContainer');
+  var successDiv = document.getElementById('formSuccess');
+  var errorDiv   = document.getElementById('formError');
+  var errorMsg   = document.getElementById('formErrorMessage');
+  var submitBtn  = document.getElementById('submitBtn');
+
+  function showView(view) {
+    container.style.display  = view === 'form'    ? '' : 'none';
+    successDiv.style.display = view === 'success' ? '' : 'none';
+    errorDiv.style.display   = view === 'error'   ? '' : 'none';
+    var target = view === 'success' ? successDiv : view === 'error' ? errorDiv : container;
+    target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+  }
+
+  function resetForm() {
+    form.reset();
+    if (typeof turnstile !== 'undefined') turnstile.reset('#turnstileWidget');
+    showView('form');
+  }
+
+  document.getElementById('resetFormBtn').addEventListener('click', resetForm);
+  document.getElementById('retryFormBtn').addEventListener('click', resetForm);
+
+  form.addEventListener('submit', async function(e) {
+    e.preventDefault();
+
+    // Honeypot check
+    if ((document.getElementById('website') || {}).value) return;
+
+    // Turnstile token
+    var turnstileInput = form.querySelector('input[name="cf-turnstile-response"]');
+    var turnstileToken = turnstileInput ? turnstileInput.value : '';
+
+    submitBtn.disabled    = true;
+    submitBtn.textContent = 'Submitting...';
+
+    var payload = {
+      lang:           'en',
+      name:           document.getElementById('name').value,
+      company:        document.getElementById('company').value,
+      phone:          document.getElementById('phone').value,
+      email:          document.getElementById('email').value,
+      source:         document.getElementById('source').value,
+      type:           document.getElementById('type').value,
+      message:        document.getElementById('message').value,
+      turnstileToken: turnstileToken,
+      website:        ''
+    };
+
+    var result;
+    try {
+      var res = await fetch(APPS_SCRIPT_URL, {
+        method: 'POST',
+        headers: { 'Content-Type': 'text/plain' },
+        body: JSON.stringify(payload)
+      });
+      result = await res.json();
+
+      if (result.status === 'ok') {
+        showView('success');
+      } else {
+        if (errorMsg) errorMsg.textContent = result.message || 'Submission failed. Please try again later.';
+        showView('error');
+      }
+    } catch (err) {
+      if (errorMsg) errorMsg.textContent = 'A network error occurred. Please check your connection and try again.';
+      showView('error');
+    } finally {
+      submitBtn.disabled    = false;
+      submitBtn.textContent = 'Submit';
+      if (result && result.status !== 'ok' && typeof turnstile !== 'undefined') {
+        turnstile.reset('#turnstileWidget');
+      }
+    }
+  });
+</script>
 
 <style>
 .page-wrap {
@@ -164,13 +260,11 @@ const FORM_ACTION = 'https://formspree.io/f/XXXXXXXX';
   flex-direction: column;
   gap: 1.75rem;
 }
-
 .field-group {
   display: flex;
   flex-direction: column;
   gap: .5rem;
 }
-
 .field-label {
   font-size: .9375rem;
   font-weight: 600;
@@ -179,7 +273,6 @@ const FORM_ACTION = 'https://formspree.io/f/XXXXXXXX';
   align-items: center;
   gap: .5rem;
 }
-
 .required {
   font-size: .6875rem;
   font-weight: 700;
@@ -196,7 +289,6 @@ const FORM_ACTION = 'https://formspree.io/f/XXXXXXXX';
   color: var(--color-text-muted);
   border-radius: 9999px;
 }
-
 .field-input,
 .field-textarea,
 .field-select {
@@ -222,10 +314,7 @@ const FORM_ACTION = 'https://formspree.io/f/XXXXXXXX';
   resize: vertical;
   min-height: 10rem;
 }
-
-.select-wrap {
-  position: relative;
-}
+.select-wrap { position: relative; }
 .select-wrap::after {
   content: '▾';
   position: absolute;
@@ -237,10 +326,20 @@ const FORM_ACTION = 'https://formspree.io/f/XXXXXXXX';
   font-size: .875rem;
 }
 
-/* ── Privacy & checkbox ── */
-.privacy-row {
-  margin-top: -.5rem;
+/* Honeypot */
+.hp-field {
+  position: absolute;
+  left: -9999px;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
 }
+
+/* Turnstile */
+.form-turnstile { margin-bottom: .5rem; }
+
+/* ── Privacy & checkbox ── */
+.privacy-row { margin-top: -.5rem; }
 .privacy-link {
   font-size: .875rem;
   color: var(--color-brand);
@@ -282,4 +381,118 @@ const FORM_ACTION = 'https://formspree.io/f/XXXXXXXX';
   transition: opacity .2s;
 }
 .submit-btn:hover { opacity: .85; }
+.submit-btn:disabled { opacity: .6; cursor: not-allowed; }
+
+/* ── Success ── */
+.form-success {
+  background: #f0fdf4;
+  border: 1px solid #bbf7d0;
+  border-top: 3px solid #16a34a;
+  border-radius: .5rem;
+  padding: 3rem 2rem;
+  text-align: center;
+}
+.form-success-icon {
+  width: 3.5rem;
+  height: 3.5rem;
+  margin: 0 auto 1.5rem;
+  border-radius: 50%;
+  background: #16a34a;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.form-success-icon svg { width: 1.75rem; height: 1.75rem; }
+.form-success h3 {
+  font-size: 1.5rem;
+  font-weight: 700;
+  margin: 0 0 1rem;
+  color: var(--color-text);
+}
+.form-success p {
+  font-size: .9375rem;
+  line-height: 1.8;
+  color: var(--color-text-muted);
+  margin: 0 auto 1rem;
+  max-width: 34rem;
+}
+.form-note {
+  font-size: .8125rem !important;
+  color: #6b7280 !important;
+  padding-top: 1rem;
+  border-top: 1px dashed #d1d5db;
+  margin-top: 1rem !important;
+}
+
+/* ── Error ── */
+.form-error {
+  background: #fef2f2;
+  border: 1px solid #fecaca;
+  border-top: 3px solid #dc2626;
+  border-radius: .5rem;
+  padding: 3rem 2rem;
+  text-align: center;
+}
+.form-error-icon {
+  width: 3.5rem;
+  height: 3.5rem;
+  margin: 0 auto 1.5rem;
+  border-radius: 50%;
+  background: #dc2626;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.75rem;
+  font-weight: 700;
+}
+.form-error h3 {
+  font-size: 1.5rem;
+  font-weight: 700;
+  margin: 0 0 1rem;
+  color: var(--color-text);
+}
+.form-error p {
+  font-size: .9375rem;
+  line-height: 1.8;
+  color: var(--color-text-muted);
+  max-width: 34rem;
+  margin: 0 auto 2rem;
+}
+
+/* ── Actions ── */
+.form-actions {
+  display: flex;
+  gap: .75rem;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-top: 2rem;
+}
+.action-btn {
+  display: inline-flex;
+  align-items: center;
+  background: var(--color-brand);
+  color: #fff;
+  font-family: inherit;
+  font-size: .9375rem;
+  font-weight: 600;
+  padding: .75rem 1.75rem;
+  border-radius: 9999px;
+  border: 2px solid transparent;
+  cursor: pointer;
+  text-decoration: none;
+  transition: opacity .2s;
+}
+.action-btn:hover { opacity: .85; }
+.action-btn.secondary {
+  background: transparent;
+  color: var(--color-text-muted);
+  border-color: #d1d5db;
+}
+.action-btn.secondary:hover {
+  color: var(--color-brand);
+  border-color: var(--color-brand);
+  opacity: 1;
+}
 </style>
