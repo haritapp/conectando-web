@@ -1,6 +1,5 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
-import PageHero from '../components/PageHero.astro';
 import AnchorNav from '../components/AnchorNav.astro';
 import ContactCTA from '../components/ContactCTA.astro';
 
@@ -13,13 +12,23 @@ const navItems = [
 
 <BaseLayout title="会社概要・経営理念" description="コネクタンド株式会社の経営理念・代表メッセージ・会社概要をご紹介します。世界中のネットワークを繋ぎ、日本を強くする。">
 
-  <PageHero label="ABOUT" title="ABOUT" />
-
   <div class="page-wrap">
+    <div class="about-hero">
+      <div class="hero-row">
+        <span class="hero-dot"></span>
+        <div class="hero-text">
+          <p class="hero-label">ABOUT</p>
+          <h1 class="hero-title">ABOUT</h1>
+        </div>
+      </div>
+    </div>
+
     <AnchorNav items={navItems} />
 
     <!-- ① 経営理念 -->
     <section id="mission" class="about-section">
+      <hr class="section-rule" />
+      <h2 class="section-h2">経営理念</h2>
 
       <div class="philosophy-block">
         <p class="phil-label">MISSION</p>
@@ -28,6 +37,7 @@ const navItems = [
           私たちは、グローバルなネットワークを活かし、日本のビジネスと社会の発展を支援しています。これまでの豊富な経験をもとに、海外企業と日本企業を結びつけ、新たな成長の機会を創出しています。<br><br>
           日本市場への進出においては、文化的な違いやビジネス慣習の壁を乗り越えるための具体的なアドバイスを提供し、クライアントとのパートナーシップを大切にしながら、日本での成功を共に目指します。私たちのミッションは、ネットワークを強化し、日本の競争力をさらに高めることです。
         </p>
+        <img src="/images/about/event-group.webp" alt="国際的なネットワークイベントの様子" class="phil-photo" loading="lazy" />
       </div>
 
       <div class="philosophy-block phil-vision">
@@ -37,6 +47,7 @@ const navItems = [
           私たちは、日本の魅力を世界に発信し、国際社会における日本の存在感を高めています。世界各地から優れた人材や革新的な技術を日本に招き入れ、日本企業のさらなる成長を後押しします。<br><br>
           また、私たちは外貨を積極的に獲得し、経済的な発展を通じて日本全体の成長に貢献しています。グローバルな視点とネットワークを活用しながら、日本の未来をより持続可能で豊かなものへと導いていきます。
         </p>
+        <img src="/images/about/sakura-fuji.jpg" alt="桜と富士山" class="phil-photo" loading="lazy" />
       </div>
 
     </section>
@@ -47,9 +58,6 @@ const navItems = [
       <h2 class="section-h2">代表メッセージ</h2>
 
       <div class="ceo-block">
-        <div class="ceo-photo-wrap">
-          <img src="/images/about/ceo.jpg" alt="播 信太郎 Founder & CEO" class="ceo-photo" loading="lazy" />
-        </div>
         <div class="ceo-content">
           <p class="ceo-role">Founder &amp; CEO</p>
           <p class="ceo-name">播 信太郎</p>
@@ -66,6 +74,9 @@ const navItems = [
             </p>
           </div>
         </div>
+        <div class="ceo-photo-wrap">
+          <img src="/images/about/ceo.jpg" alt="Founder & CEO 播 信太郎" class="ceo-photo" loading="lazy" />
+        </div>
       </div>
     </section>
 
@@ -74,30 +85,33 @@ const navItems = [
       <hr class="section-rule" />
       <h2 class="section-h2">会社概要</h2>
 
-      <table class="company-table">
-        <tbody>
-          <tr>
-            <th>会社名</th>
-            <td>Ｃｏｎｅｃｔａｎｄｏ株式会社</td>
-          </tr>
-          <tr>
-            <th>Founder &amp; CEO</th>
-            <td>播 信太郎</td>
-          </tr>
-          <tr>
-            <th>設立</th>
-            <td>2018年7月1日</td>
-          </tr>
-          <tr>
-            <th>事業内容</th>
-            <td>
-              イベント運営事業<br>
-              日本進出支援<br>
-              日本ツアー
-            </td>
-          </tr>
-        </tbody>
-      </table>
+      <div class="company-block">
+        <table class="company-table">
+          <tbody>
+            <tr>
+              <th>会社名</th>
+              <td>Ｃｏｎｅｃｔａｎｄｏ株式会社</td>
+            </tr>
+            <tr>
+              <th>Founder &amp; CEO</th>
+              <td>播 信太郎</td>
+            </tr>
+            <tr>
+              <th>設立</th>
+              <td>2018年7月1日</td>
+            </tr>
+            <tr>
+              <th>事業内容</th>
+              <td>
+                イベント運営事業<br>
+                日本進出支援<br>
+                日本ツアー
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <img src="/images/about/office.jpg" alt="Conectando オフィス" class="company-photo" loading="lazy" />
+      </div>
     </section>
 
   </div>
@@ -108,9 +122,46 @@ const navItems = [
 
 <style>
 .page-wrap {
-  max-width: 56rem;
+  max-width: 64rem;
   margin: 0 auto;
   padding: 0 2rem 5rem;
+}
+
+/* ── Hero ── */
+.about-hero {
+  padding-top: 3rem;
+  margin-bottom: 2rem;
+}
+.hero-row {
+  display: flex;
+  align-items: center;
+  gap: .9rem;
+}
+.hero-dot {
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  background: var(--color-brand);
+  box-shadow: 0 0 0 8px var(--color-accent);
+  flex-shrink: 0;
+}
+.hero-text {
+  display: flex;
+  flex-direction: column;
+}
+.hero-label {
+  font-size: .6875rem;
+  font-weight: 600;
+  letter-spacing: .1em;
+  text-transform: uppercase;
+  color: var(--color-text-muted);
+  margin-bottom: .25rem;
+}
+.hero-title {
+  font-size: clamp(2rem, 5vw, 3.5rem);
+  font-weight: 900;
+  color: var(--color-brand);
+  line-height: 1;
 }
 
 /* ── About sections ── */
@@ -127,13 +178,22 @@ const navItems = [
 }
 .phil-vision { border-bottom: none; }
 .phil-label {
-  font-size: clamp(2.5rem, 6vw, 4.5rem);
-  font-weight: 900;
+  display: flex;
+  align-items: center;
+  gap: .75rem;
+  font-size: 1.375rem;
+  font-weight: 800;
   color: var(--color-brand);
-  opacity: .12;
   line-height: 1;
-  margin-bottom: 1rem;
-  letter-spacing: .05em;
+  margin-bottom: 1.25rem;
+}
+.phil-label::before {
+  content: '';
+  display: inline-block;
+  width: 4px;
+  height: 1.375rem;
+  background: var(--color-brand);
+  border-radius: 2px;
 }
 .phil-h2 {
   font-size: clamp(1.375rem, 3vw, 2.125rem);
@@ -146,7 +206,15 @@ const navItems = [
   color: var(--color-text-muted);
   line-height: 1.9;
   font-size: .9375rem;
-  max-width: 44rem;
+}
+.phil-photo {
+  width: 100%;
+  height: 280px;
+  object-fit: cover;
+  border-radius: .75rem;
+  display: block;
+  margin-top: 2rem;
+  background: #e5e7eb;
 }
 
 /* ── Section rule & heading ── */
@@ -168,19 +236,19 @@ const navItems = [
   gap: 2.5rem;
   align-items: flex-start;
 }
+.ceo-content { flex: 1; }
 .ceo-photo-wrap {
   flex-shrink: 0;
-  width: 180px;
+  width: 380px;
 }
 .ceo-photo {
-  width: 180px;
-  height: 220px;
+  width: 100%;
+  aspect-ratio: 1 / 1;
   object-fit: cover;
-  border-radius: .5rem;
+  border-radius: .75rem;
   display: block;
   background: #e5e7eb;
 }
-.ceo-content { flex: 1; }
 .ceo-role {
   font-size: .8125rem;
   color: var(--color-text-muted);
@@ -215,15 +283,31 @@ const navItems = [
   line-height: 1.85;
 }
 
-/* ── Company table ── */
+/* ── Company overview ── */
+.company-block {
+  display: flex;
+  gap: 2.5rem;
+  align-items: stretch;
+}
+.company-photo {
+  flex-shrink: 0;
+  width: 380px;
+  height: 100%;
+  min-height: 280px;
+  object-fit: cover;
+  border-radius: .75rem;
+  background: #e5e7eb;
+}
 .company-table {
+  flex: 1;
   width: 100%;
   border-collapse: collapse;
   font-size: .9375rem;
+  align-self: flex-start;
 }
 .company-table th,
 .company-table td {
-  padding: 1rem 1.25rem;
+  padding: 1rem 1.25rem 1rem 0;
   text-align: left;
   border-bottom: 1px solid #e5e7eb;
   vertical-align: top;
@@ -233,9 +317,8 @@ const navItems = [
 .company-table th {
   width: 160px;
   font-weight: 700;
-  color: var(--color-text);
+  color: var(--color-brand);
   white-space: nowrap;
-  background: var(--color-accent);
 }
 .company-table td {
   color: var(--color-text-muted);
@@ -245,7 +328,8 @@ const navItems = [
 @media (max-width: 640px) {
   .ceo-block { flex-direction: column; }
   .ceo-photo-wrap { width: 100%; }
-  .ceo-photo { width: 100%; height: auto; aspect-ratio: 4/3; }
+  .company-block { flex-direction: column-reverse; }
+  .company-photo { width: 100%; aspect-ratio: 4/3; }
   .company-table th { width: 110px; }
 }
 </style>
