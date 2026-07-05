@@ -4,10 +4,10 @@ import ContactCTA from '../components/ContactCTA.astro';
 
 // ── スタブデータ（将来的に CMS/Content Collections に移行）──
 const caseSlides = [
-  { title: 'Gate to India & Africa', badge: 'イベント事例', href: '/case/detail/gatetoindiaafrica', bg: '#1a237e' },
-  { title: 'New York Silicon Alley', badge: 'イベント事例', href: '/case/detail/newyorksiliconalley', bg: '#0d47a1' },
-  { title: 'SushiTech Tokyo', badge: 'コラム記事', href: 'https://bizintokyo.com/column/sushitech_column', bg: '#1b5e20' },
-  { title: 'Startup Diversity Day', badge: 'イベント事例', href: '/case/detail/startupdiversityday', bg: '#4a148c' },
+  { title: 'Gate to India & Africa', badge: 'イベント事例', href: '/case/detail/gatetoindiaafrica', img: '/images/top/hero-gatetoindiaafrica.webp' },
+  { title: 'New York Silicon Alley', badge: 'イベント事例', href: '/case/detail/newyorksiliconalley', img: '/images/top/hero-newyorksiliconalley.png' },
+  { title: 'SushiTech Tokyo', badge: 'コラム記事', href: 'https://bizintokyo.com/column/sushitech_column', img: '/images/top/hero-sushitechtokyo.webp' },
+  { title: 'Startup Diversity Day', badge: 'イベント事例', href: '/case/detail/startupdiversityday', img: '/images/top/hero-startupdiversityday.webp' },
 ];
 
 const services = [
@@ -38,9 +38,27 @@ const services = [
 ];
 
 const cases = [
-  { title: 'Gate to India & Africa', href: '/case/detail/gatetoindiaafrica', img: '/images/about/event-group.webp' },
-  { title: 'New York Silicon Alley', href: '/case/detail/newyorksiliconalley', img: '/images/about/office.jpg' },
-  { title: 'Startup Diversity Day',  href: '/case/detail/startupdiversityday', img: '/images/about/sakura-fuji.jpg' },
+  {
+    date:  '2025年7月7日開催',
+    title: 'Gate to India & Africa 2025',
+    badge: 'イベント運営支援',
+    href:  '/case/detail/gatetoindiaafrica_2025',
+    img:   '/images/top/case-gatetoindiaafrica2025.png',
+  },
+  {
+    date:  '2025年5月8日開催',
+    title: 'New York Silicon Alley Meetup #12',
+    badge: 'イベント運営支援',
+    href:  '/case/detail/newyorksiliconalley_2025',
+    img:   '/images/top/case-newyorksiliconalley.png',
+  },
+  {
+    date:  '2025年7月4日開催',
+    title: '【インド・アフリカ】起業家・投資家交流会 〜京都で感じるグローバルサウスの勢い〜',
+    badge: 'イベント運営支援',
+    href:  '/case/detail/indiaafrica_2025',
+    img:   '/images/top/case-indiaafrica-kyoto.png',
+  },
 ];
 
 const blogs = [
@@ -96,13 +114,13 @@ const badgeColors: Record<string, string> = {
   <p class="hero-sub">世界中のネットワークを繋ぎ、日本を強くする</p>
 </section>
 
-<!-- ② ケーススライダー -->
-<div class="slider-wrap">
-  <ul class="slider-track" role="list">
-    {caseSlides.map(s => (
-      <li>
-        <a href={s.href} class="slide-card" style={`--bg:${s.bg}`}>
-          <div class="slide-bg"></div>
+<!-- ② ケーススライダー（自動カルーセル・中央表示＋前後ちら見せ） -->
+<div class="slider-wrap" id="case-slider">
+  <ul class="slider-track" id="case-slider-track" role="list">
+    {[caseSlides[caseSlides.length - 1], ...caseSlides, caseSlides[0]].map(s => (
+      <li class="slide-item">
+        <a href={s.href} class="slide-card">
+          <img src={s.img} alt={s.title} class="slide-bg" loading="lazy" />
           <div class="slide-overlay">
             <span class="slide-badge">{s.badge}</span>
             <span class="slide-title">{s.title}</span>
@@ -113,20 +131,93 @@ const badgeColors: Record<string, string> = {
   </ul>
 </div>
 
+<script>
+  const wrap = document.getElementById('case-slider');
+  const track = document.getElementById('case-slider-track');
+
+  if (wrap && track) {
+    const items = Array.from(track.children);
+    const total = items.length; // [lastClone, ...slides, firstClone]
+    const gap = 35;
+    let index = 1; // 最初の実スライド
+    let timer;
+
+    const slideWidth = () => items[0].getBoundingClientRect().width;
+
+    function center(withTransition) {
+      const w = slideWidth();
+      const offset = index * (w + gap) - (wrap.clientWidth - w) / 2;
+      track.style.transition = withTransition ? '' : 'none';
+      track.style.transform = `translateX(${-offset}px)`;
+      if (!withTransition) {
+        track.getBoundingClientRect(); // reflow してから transition を戻す
+        track.style.transition = '';
+      }
+    }
+
+    let resetTimer;
+
+    function next() {
+      index++;
+      center(true);
+      clearTimeout(resetTimer);
+      if (index >= total - 1) {
+        // クローンに到達 → トランジション完了後に実スライドへ瞬間移動（transitionend に頼らない）
+        resetTimer = setTimeout(() => {
+          index = 1;
+          center(false);
+        }, 650);
+      }
+    }
+
+    const reduceMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+    function start() {
+      clearInterval(timer);
+      timer = setInterval(next, 4000);
+    }
+    function stop() {
+      clearInterval(timer);
+    }
+
+    if (!reduceMotion) {
+      start();
+      wrap.addEventListener('mouseenter', stop);
+      wrap.addEventListener('mouseleave', start);
+      document.addEventListener('visibilitychange', () => {
+        if (document.hidden) {
+          stop();
+        } else {
+          clearTimeout(resetTimer);
+          index = ((index - 1) % (total - 2) + (total - 2)) % (total - 2) + 1;
+          center(false);
+          start();
+        }
+      });
+    }
+
+    window.addEventListener('resize', () => center(false));
+    center(false);
+  }
+</script>
+
 <!-- ③ About プレビュー -->
 <section class="about-sec">
   <div class="dot-rule"></div>
   <div class="sec-body">
     <h2 class="about-h2">世界中のネットワークを繋ぎ<br>日本を強くする</h2>
-    <p class="about-p">
-      私たちは、グローバルなネットワークを活かし、日本のビジネスと社会の発展を支援しています。これまでの豊富な経験をもとに、海外企業と日本企業を結びつけ、新たな成長の機会を創出しています。
-    </p>
-    <p class="about-p" style="margin-top:1rem">
-      日本市場への進出においては、文化的な違いやビジネス慣習の壁を乗り越えるための具体的なアドバイスを提供し、クライアントとのパートナーシップを大切にしながら、日本での成功を共に目指します。私たちのミッションは、ネットワークを強化し、日本の競争力をさらに高めることです。
-    </p>
-    <a href="/about" class="pill-btn" style="display:inline-flex;margin-top:2rem">
-      詳しく見る <span class="btn-dot">●</span>
-    </a>
+    <div class="about-p-wrap">
+      <p class="about-p">
+        私たちは、グローバルなネットワークを活かし、日本のビジネスと社会の発展を支援しています。これまでの豊富な経験をもとに、海外企業と日本企業を結びつけ、新たな成長の機会を創出しています。
+      </p>
+      <p class="about-p" style="margin-top:1rem">
+        日本市場への進出においては、文化的な違いやビジネス慣習の壁を乗り越えるための具体的なアドバイスを提供し、クライアントとのパートナーシップを大切にしながら、日本での成功を共に目指します。私たちのミッションは、ネットワークを強化し、日本の競争力をさらに高めることです。
+      </p>
+    </div>
+    <div class="right-cta">
+      <a href="/about" class="pill-btn">
+        詳しく見る <span class="btn-dot">●</span>
+      </a>
+    </div>
   </div>
 </section>
 
@@ -161,6 +252,11 @@ const badgeColors: Record<string, string> = {
       {cases.map(c => (
         <a href={c.href} class="case-card">
           <img src={c.img} alt={c.title} class="case-img" loading="lazy" />
+          <div class="case-body">
+            <time class="case-date">{c.date}</time>
+            <p class="case-title">{c.title}</p>
+            <span class="case-badge">{c.badge}</span>
+          </div>
         </a>
       ))}
     </div>
@@ -241,34 +337,38 @@ const badgeColors: Record<string, string> = {
   color: var(--color-text-muted);
 }
 
-/* ─── Slider ─── */
+/* ─── Slider（自動カルーセル・中央表示＋前後ちら見せ） ─── */
 .slider-wrap {
-  overflow-x: auto;
-  padding: 0 2rem 2.5rem;
-  scrollbar-width: none;
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+  padding: 0 0 2.5rem;
 }
-.slider-wrap::-webkit-scrollbar { display: none; }
 .slider-track {
   display: flex;
-  gap: 1rem;
+  gap: 35px;
   list-style: none;
   padding: 0;
   margin: 0;
   width: max-content;
+  transition: transform 0.6s cubic-bezier(0.65, 0, 0.35, 1);
+  will-change: transform;
 }
+.slide-item { flex-shrink: 0; }
 .slide-card {
   position: relative;
   display: block;
-  width: 260px;
-  height: 200px;
-  border-radius: 0.5rem;
+  width: min(816px, 70vw);
+  aspect-ratio: 816 / 540;
+  border-radius: 0.75rem;
   overflow: hidden;
   text-decoration: none;
 }
 .slide-bg {
   width: 100%;
   height: 100%;
-  background: var(--bg, #1a237e);
+  object-fit: cover;
+  display: block;
 }
 .slide-overlay {
   position: absolute;
@@ -321,6 +421,9 @@ const badgeColors: Record<string, string> = {
   line-height: 1.35;
   margin-bottom: 1.5rem;
 }
+.about-p-wrap {
+  padding-left: clamp(0px, 8vw, 8rem);
+}
 .about-p {
   color: var(--color-text-muted);
   line-height: 1.85;
@@ -328,6 +431,7 @@ const badgeColors: Record<string, string> = {
   font-size: .9375rem;
 }
 .pill-btn {
+  display: inline-flex;
   align-items: center;
   gap: .5rem;
   background: var(--color-brand);
@@ -393,8 +497,28 @@ const badgeColors: Record<string, string> = {
   grid-template-columns: repeat(3, 1fr);
   gap: 1rem;
 }
-.case-card { display: block; border-radius: .5rem; overflow: hidden; text-decoration: none; }
-.case-img { width: 100%; aspect-ratio: 3/2; object-fit: cover; display: block; }
+.case-card {
+  display: block;
+  border-radius: .5rem;
+  overflow: hidden;
+  text-decoration: none;
+  color: inherit;
+  background: #fff;
+  border: 1px solid var(--color-border);
+}
+.case-img { width: 100%; aspect-ratio: 16/9; object-fit: cover; display: block; }
+.case-body { padding: 1.25rem 1.25rem 1.5rem; }
+.case-date { display: block; font-size: .8125rem; color: #9999ce; margin-bottom: .5rem; }
+.case-title { font-size: 1.0625rem; font-weight: 700; color: var(--color-brand); line-height: 1.5; margin-bottom: 1rem; }
+.case-badge {
+  display: inline-block;
+  font-size: .75rem;
+  font-weight: 600;
+  padding: .3125rem .875rem;
+  background: var(--color-brand);
+  color: #fff;
+  border-radius: 9999px;
+}
 
 /* ─── Blog ─── */
 .blog-sec { padding-top: 3rem; }

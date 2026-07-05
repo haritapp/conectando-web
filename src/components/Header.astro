@@ -31,8 +31,8 @@ const enPath = pathname.startsWith('/en') ? pathname : `/en${pathname}`;
         Conectando
       </a>
 
-      <!-- Desktop nav -->
-      <nav class="hidden md:flex items-center gap-6">
+      <!-- Desktop nav (hidden; real site only exposes nav via the hamburger menu) -->
+      <nav class="hidden items-center gap-6">
         {navLinks.map(({ key, href }) => (
           <a
             href={href}
@@ -64,11 +64,11 @@ const enPath = pathname.startsWith('/en') ? pathname : `/en${pathname}`;
           </a>
         </div>
 
-        <!-- Hamburger (mobile) -->
+        <!-- Hamburger (all breakpoints; real site keeps nav collapsed at desktop too) -->
         <button
           id="menu-toggle"
           aria-label={t('header.menu.open')}
-          class="md:hidden flex flex-col gap-1.5 p-1"
+          class="flex flex-col gap-1.5 p-1"
         >
           <span class="block w-6 h-0.5 bg-current transition-all" id="ham-line1"></span>
           <span class="block w-6 h-0.5 bg-current transition-all" id="ham-line2"></span>
@@ -81,7 +81,7 @@ const enPath = pathname.startsWith('/en') ? pathname : `/en${pathname}`;
   <!-- Mobile menu -->
   <div
     id="mobile-menu"
-    class="md:hidden hidden border-t"
+    class="hidden border-t"
     style="border-color: var(--color-border);"
   >
     <nav class="flex flex-col px-4 py-3 gap-0">

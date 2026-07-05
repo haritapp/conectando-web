@@ -9,14 +9,16 @@ const cols = isEn
   ? [
       {
         heading: 'ABOUT',
+        href: `${base}/about`,
         links: [
           { label: 'About Us',        href: `${base}/about` },
           { label: 'News & Updates',  href: `${base}/news` },
-          { label: 'BizinTokyo',      href: 'https://bizintokyo.com', external: true },
         ],
       },
+      { heading: 'BLOG', href: `${base}/blog`, links: [] },
       {
         heading: 'SERVICE',
+        href: `${base}/service`,
         links: [
           { label: 'Event Management Support', href: `${base}/service#service-1` },
           { label: 'Japan Tours',              href: `${base}/service#service-2` },
@@ -24,32 +26,20 @@ const cols = isEn
           { label: 'Media Operations',         href: `${base}/service#service-4` },
         ],
       },
-      {
-        heading: 'CASE / BLOG',
-        links: [
-          { label: 'Case Studies', href: `${base}/case` },
-          { label: 'Blog',         href: `${base}/blog` },
-        ],
-      },
-      {
-        heading: 'CONTACT',
-        links: [
-          { label: 'Contact Us',      href: `${base}/contact` },
-          { label: 'Privacy Policy',  href: `${base}/policy` },
-        ],
-      },
     ]
   : [
       {
         heading: 'ABOUT',
+        href: `${base}/about`,
         links: [
-          { label: '会社概要',      href: `${base}/about` },
-          { label: 'お知らせ',     href: `${base}/news` },
-          { label: 'BizinTokyo',  href: 'https://bizintokyo.com', external: true },
+          { label: '会社概要',  href: `${base}/about` },
+          { label: 'お知らせ', href: `${base}/news` },
         ],
       },
+      { heading: 'BLOG', href: `${base}/blog`, links: [] },
       {
         heading: 'SERVICE',
+        href: `${base}/service`,
         links: [
           { label: 'イベント運営支援', href: `${base}/service#service-1` },
           { label: '日本ツアー',       href: `${base}/service#service-2` },
@@ -57,21 +47,14 @@ const cols = isEn
           { label: 'メディア運用',     href: `${base}/service#service-4` },
         ],
       },
-      {
-        heading: 'CASE / BLOG',
-        links: [
-          { label: '導入事例', href: `${base}/case` },
-          { label: 'ブログ',   href: `${base}/blog` },
-        ],
-      },
-      {
-        heading: 'CONTACT',
-        links: [
-          { label: 'お問い合わせ',             href: `${base}/contact` },
-          { label: 'プライバシーポリシー',     href: `${base}/policy` },
-        ],
-      },
     ];
+
+const stackLinks = [
+  { label: 'CONTACT',  href: `${base}/contact` },
+  { label: 'POLICY',   href: `${base}/policy` },
+  { label: isEn ? 'CASE STUDIES' : '導入事例', href: `${base}/case` },
+  { label: 'MEDIA',    href: 'https://bizintokyo.com', external: true },
+];
 ---
 
 <footer class="site-footer">
@@ -79,23 +62,30 @@ const cols = isEn
   <div class="footer-grid">
     {cols.map(col => (
       <div class="footer-col">
-        <p class="col-heading">{col.heading}</p>
-        <ul class="col-links">
-          {col.links.map(l => (
-            <li>
-              <a
-                href={l.href}
-                class="col-link"
-                target={l.external ? '_blank' : undefined}
-                rel={l.external ? 'noopener' : undefined}
-              >
-                {l.label}{l.external && <span class="ext-icon" aria-hidden="true"> ↗</span>}
-              </a>
-            </li>
-          ))}
-        </ul>
+        <a href={col.href} class="col-heading">{col.heading}</a>
+        {col.links.length > 0 && (
+          <ul class="col-links">
+            {col.links.map(l => (
+              <li>
+                <a href={l.href} class="col-link">{l.label}</a>
+              </li>
+            ))}
+          </ul>
+        )}
       </div>
     ))}
+    <div class="footer-col footer-col-stack">
+      {stackLinks.map(l => (
+        <a
+          href={l.href}
+          class="col-heading"
+          target={l.external ? '_blank' : undefined}
+          rel={l.external ? 'noopener' : undefined}
+        >
+          {l.label}{l.external && <span class="ext-icon" aria-hidden="true"> ↗</span>}
+        </a>
+      ))}
+    </div>
   </div>
 
   <!-- ボトムバー -->
@@ -107,7 +97,7 @@ const cols = isEn
 
 <style>
 .site-footer {
-  background: #111111;
+  background: #1515b3;
   color: #ffffff;
   padding: 4rem 2rem 2rem;
 }
@@ -120,7 +110,6 @@ const cols = isEn
   grid-template-columns: repeat(4, 1fr);
   gap: 2.5rem;
   padding-bottom: 3rem;
-  border-bottom: 1px solid #2a2a2a;
 }
 
 @media (max-width: 768px) {
@@ -137,13 +126,26 @@ const cols = isEn
 }
 
 /* ── 各カラム ── */
-.col-heading {
-  font-size: .6875rem;
-  font-weight: 700;
-  letter-spacing: .1em;
-  color: #888888;
-  margin-bottom: 1rem;
+.footer-col {
+  display: flex;
+  flex-direction: column;
 }
+
+.footer-col-stack {
+  gap: 1.25rem;
+}
+
+.col-heading {
+  display: block;
+  font-size: .9375rem;
+  font-weight: 700;
+  color: #ffffff;
+  text-decoration: none;
+  margin-bottom: 1rem;
+  transition: opacity .15s;
+}
+.col-heading:hover { opacity: .8; }
+.footer-col-stack .col-heading { margin-bottom: 0; }
 
 .col-links {
   list-style: none;
@@ -156,11 +158,12 @@ const cols = isEn
 
 .col-link {
   font-size: .875rem;
-  color: #aaaaaa;
+  color: #ffffff;
+  opacity: .85;
   text-decoration: none;
-  transition: color .15s;
+  transition: opacity .15s;
 }
-.col-link:hover { color: #ffffff; }
+.col-link:hover { opacity: 1; }
 
 .ext-icon {
   font-size: .75em;
@@ -172,6 +175,7 @@ const cols = isEn
   max-width: 72rem;
   margin: 0 auto;
   padding-top: 2rem;
+  border-top: 1px solid rgba(255,255,255,.2);
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -190,6 +194,6 @@ const cols = isEn
 
 .footer-copy {
   font-size: .8125rem;
-  color: #666666;
+  color: rgba(255,255,255,.65);
 }
 </style>
