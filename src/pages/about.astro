@@ -12,6 +12,11 @@ const navItems = [
 
 <BaseLayout title="会社概要・経営理念" description="コネクタンド株式会社の経営理念・代表メッセージ・会社概要をご紹介します。世界中のネットワークを繋ぎ、日本を強くする。">
 
+  <section class="mission-hero">
+    <h1 class="mission-hero-h1">Connecting Networks<br>Boosting Japan</h1>
+    <p class="mission-hero-sub">世界中のネットワークを繋ぎ、日本を強くする</p>
+  </section>
+
   <div class="page-wrap">
     <div class="about-hero">
       <div class="hero-row">
@@ -103,9 +108,10 @@ const navItems = [
             <tr>
               <th>事業内容</th>
               <td>
-                イベント運営事業<br>
-                日本進出支援<br>
-                日本ツアー
+                英語イベント運営事業<br>
+                メディア運用事業<br>
+                視察・アテンド・ツアー手配<br>
+                日本進出支援
               </td>
             </tr>
           </tbody>
@@ -125,6 +131,25 @@ const navItems = [
   max-width: 64rem;
   margin: 0 auto;
   padding: 0 2rem 5rem;
+}
+
+/* ── Mission hero (moved from TOP page) ── */
+.mission-hero {
+  max-width: 64rem;
+  margin: 0 auto;
+  padding: 4rem 2rem 0;
+}
+.mission-hero-h1 {
+  font-size: clamp(2.25rem, 5vw, 4rem);
+  font-weight: 900;
+  line-height: 1.15;
+  color: var(--color-heading);
+  letter-spacing: -0.02em;
+  margin-bottom: 1rem;
+}
+.mission-hero-sub {
+  font-size: 1.0625rem;
+  color: var(--color-text-muted);
 }
 
 /* ── Hero ── */
