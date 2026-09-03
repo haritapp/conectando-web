@@ -5,10 +5,10 @@ import AnchorNav from '../components/AnchorNav.astro';
 import ContactCTA from '../components/ContactCTA.astro';
 
 const navItems = [
-  { label: 'イベント運営支援', href: '#service-1' },
-  { label: '日本ツアー',       href: '#service-2' },
-  { label: '日本進出支援',     href: '#service-3' },
-  { label: 'メディア運営',     href: '#service-4' },
+  { label: '英語イベント運営',           href: '#service-1' },
+  { label: 'メディア運用',               href: '#service-4' },
+  { label: '視察・アテンド・ツアー手配', href: '#service-2' },
+  { label: '日本進出支援',               href: '#service-3' },
 ];
 
 const cases = [
@@ -18,7 +18,7 @@ const cases = [
 ];
 ---
 
-<BaseLayout title="サービス一覧 | イベント運営・日本ツアー・日本進出支援" description="Conectandoのサービス一覧。イベント運営支援・日本ツアー・日本進出支援・メディア運営をご紹介します。">
+<BaseLayout title="サービス一覧 | 英語イベント運営・視察アテンドツアー手配・日本進出支援" description="Conectandoのサービス一覧。英語イベント運営・メディア運用・視察アテンドツアー手配・日本進出支援をご紹介します。">
 
   <PageHero label="SERVICE" title="SERVICE" />
 
@@ -31,13 +31,13 @@ const cases = [
 
     <AnchorNav items={navItems} />
 
-    <!-- ① イベント運営支援 -->
+    <!-- ① 英語イベント運営（主軸） -->
     <section id="service-1" class="svc-section">
-      <h2 class="svc-h2">イベント運営支援</h2>
+      <h2 class="svc-h2">英語イベント運営<span class="main-badge">主軸</span></h2>
       <hr class="svc-rule" />
 
       <p class="svc-lead">
-        主にスタートアップやWEB3に関連するイベントの運営を、企画から実行までワンストップで支援します。私たちのサービスは、イベントの企画立案、会場手配、当日の運営サポートに至るまで、すべてのプロセスを一貫してサポートします。さらに、英語での対応が可能なため、海外からの主催者も言語の壁を感じることなく、安心してイベントを開催できます。日本市場への理解を深めつつ、国際的な視点を持ったイベント運営を実現します。
+        英語対応が必要なイベントの運営を、企画から実行までワンストップで支援します。私たちのサービスは、イベントの企画立案、会場手配、当日の運営サポートに至るまで、すべてのプロセスを一貫してサポートします。さらに、英語での対応が可能なため、海外からの主催者も言語の壁を感じることなく、安心してイベントを開催できます。テック・イノベーション分野を得意としています。
       </p>
 
       <h3 class="sub-heading">サービスの特徴</h3>
@@ -59,7 +59,7 @@ const cases = [
           </div>
         </div>
         <div class="feature-row">
-          <img src="/images/service/feature-event-3.jpg" alt="国際的視点" class="feature-img" loading="lazy" />
+          <img src="/images/service/feature-event-3-international-group.webp" alt="多国籍のビジネスパーソンが交流するイベントの様子" class="feature-img" loading="lazy" />
           <div class="feature-text">
             <span class="feature-num">03</span>
             <h4 class="feature-title">国際的視点</h4>
@@ -68,49 +68,50 @@ const cases = [
         </div>
       </div>
 
-      <h3 class="sub-heading">導入の流れ</h3>
+      <h3 class="sub-heading">サービスの流れ</h3>
       <ol class="flow-list">
         <li class="flow-step">
           <span class="flow-num">01</span>
           <div>
-            <h4 class="flow-title">ヒアリング</h4>
-            <p class="flow-desc">ニーズ確認：クライアントの目的、ターゲット層、希望する開催日、会場、予算など、イベントに関する具体的な要望を詳細にヒアリングします。課題とゴールの設定：イベントで達成したい目標や期待する成果を明確にします。</p>
+            <h4 class="flow-title">企画</h4>
+            <p class="flow-desc">目的、ターゲット層、開催日、予算など要望をヒアリングし、コンセプトとプログラム内容を設計します。</p>
           </div>
         </li>
         <li class="flow-step">
           <span class="flow-num">02</span>
           <div>
-            <h4 class="flow-title">企画・提案</h4>
-            <p class="flow-desc">コンセプト設計：ヒアリング内容を基に、イベントのテーマやコンセプトを設計します。スケジュール案：イベントの全体スケジュールを作成し、提案します。プラン提案：会場選定、プログラム内容、ゲストスピーカー、設備、進行方法など、具体的な企画内容を提案します。</p>
+            <h4 class="flow-title">会場手配</h4>
+            <p class="flow-desc">会場の選定・予約、レイアウトや設備の確認、契約手続きまでを代行します。</p>
           </div>
         </li>
         <li class="flow-step">
           <span class="flow-num">03</span>
           <div>
-            <h4 class="flow-title">ご提案・お見積</h4>
-            <p class="flow-desc">費用計算：提案内容に基づき、イベント全体の予算見積もりを作成します。項目ごとに費用を詳細に提示し、クライアントに納得してもらえるようにします。調整：クライアントの予算に合わせて、見積もり内容を調整します。。</p>
+            <h4 class="flow-title">登壇者・来場者対応（英語）</h4>
+            <p class="flow-desc">登壇者や海外からの来場者とのやり取りを英語で直接行い、担当者を介さずに調整します。</p>
           </div>
         </li>
         <li class="flow-step">
           <span class="flow-num">04</span>
           <div>
-            <h4 class="flow-title">事前準備</h4>
-            <p class="flow-desc">詳細プランニング：イベントの詳細なタイムスケジュールや進行内容、必要な準備事項を計画します。会場手配：会場の予約、レイアウトの決定、設備の確認など、会場に関する手配を行います。ゲスト・スピーカーの調整：登壇者やゲストの手配を行い、リハーサルや当日の流れを確認します。マーケティング・プロモーション：イベントの集客に向けたプロモーション活動を開始します。チケット販売やSNSでの告知などを行います。</p>
+            <h4 class="flow-title">当日運営</h4>
+            <p class="flow-desc">受付・進行管理・トラブル対応など、当日の運営全般をサポートします。</p>
           </div>
         </li>
         <li class="flow-step">
           <span class="flow-num">05</span>
           <div>
-            <h4 class="flow-title">イベント開催</h4>
-            <p class="flow-desc">当日運営：イベントの進行管理、会場内外のサポート、トラブル対応など、スムーズな運営を行います。各担当者が役割を果たし、予定通りにイベントが進行するよう監督します。</p>
+            <h4 class="flow-title">振り返り</h4>
+            <p class="flow-desc">開催後のレポートをまとめ、次回に向けた改善点を共有します。</p>
           </div>
         </li>
       </ol>
+      <p class="flow-note">「当日運営のみ」「会場手配のみ」など、一部だけのご依頼も承ります。</p>
     </section>
 
-    <!-- ④ メディア運営 -->
+    <!-- ④ メディア運用 -->
     <section id="service-4" class="svc-section">
-      <h2 class="svc-h2">メディア運営</h2>
+      <h2 class="svc-h2">メディア運用</h2>
       <hr class="svc-rule" />
 
       <p class="svc-lead">
@@ -185,29 +186,9 @@ const cases = [
       </ol>
     </section>
 
-    <!-- 導入事例（共通・ナビ対象外） -->
-    <section class="svc-section cases-section">
-      <h3 class="sub-heading">導入事例</h3>
-      <div class="cases-grid">
-        {cases.map(c => (
-          <a href={c.href} class="case-card">
-            <img src={c.img} alt={c.title} class="case-img" loading="lazy" />
-            <div class="case-body">
-              <time class="case-date">{c.date}</time>
-              <p class="case-title">{c.title}</p>
-              <span class="case-badge">イベント運営支援</span>
-            </div>
-          </a>
-        ))}
-      </div>
-      <div class="center-cta">
-        <a href="/case" class="pill-btn">すべて見る <span class="btn-dot">●</span></a>
-      </div>
-    </section>
-
-    <!-- ② 日本ツアー -->
+    <!-- ② 視察・アテンド・ツアー手配 -->
     <section id="service-2" class="svc-section">
-      <h2 class="svc-h2">日本ツアー</h2>
+      <h2 class="svc-h2">視察・アテンド・ツアー手配</h2>
       <hr class="svc-rule" />
 
       <p class="svc-lead">
@@ -217,7 +198,7 @@ const cases = [
       <h3 class="sub-heading">サービスの特徴</h3>
       <div class="features">
         <div class="feature-row">
-          <img src="/images/service/feature-tour-1.jpg" alt="オーダーメイドのツアープラン" class="feature-img" loading="lazy" />
+          <img src="/images/service/feature-tour-1-seminar-venue.webp" alt="視察・アテンドセミナーに参加するビジネスパーソンの様子" class="feature-img" loading="lazy" />
           <div class="feature-text">
             <span class="feature-num">01</span>
             <h4 class="feature-title">オーダーメイドのツアープラン</h4>
@@ -359,6 +340,26 @@ const cases = [
       </ol>
     </section>
 
+    <!-- 導入事例（共通・ナビ対象外） -->
+    <section class="svc-section cases-section">
+      <h3 class="sub-heading">導入事例</h3>
+      <div class="cases-grid">
+        {cases.map(c => (
+          <a href={c.href} class="case-card">
+            <img src={c.img} alt={c.title} class="case-img" loading="lazy" />
+            <div class="case-body">
+              <time class="case-date">{c.date}</time>
+              <p class="case-title">{c.title}</p>
+              <span class="case-badge">イベント運営支援</span>
+            </div>
+          </a>
+        ))}
+      </div>
+      <div class="center-cta">
+        <a href="/case" class="pill-btn">すべて見る <span class="btn-dot">●</span></a>
+      </div>
+    </section>
+
   </div><!-- /page-wrap -->
 
   <ContactCTA />
@@ -389,6 +390,22 @@ const cases = [
   font-weight: 800;
   color: var(--color-brand);
   margin-bottom: .75rem;
+  display: flex;
+  align-items: center;
+  gap: .75rem;
+}
+.main-badge {
+  font-size: .6875rem;
+  font-weight: 600;
+  color: #fff;
+  background: var(--color-brand);
+  padding: .1875rem .625rem;
+  border-radius: 9999px;
+}
+.flow-note {
+  font-size: .875rem;
+  color: var(--color-text-muted);
+  margin-top: 1.25rem;
 }
 .svc-rule {
   border: none;
