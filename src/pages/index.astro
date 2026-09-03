@@ -3,37 +3,53 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 import ContactCTA from '../components/ContactCTA.astro';
 
 // ── スタブデータ（将来的に CMS/Content Collections に移行）──
-const caseSlides = [
-  { title: 'Gate to India & Africa', badge: 'イベント事例', href: '/case/detail/gatetoindiaafrica', img: '/images/top/hero-gatetoindiaafrica.webp' },
-  { title: 'New York Silicon Alley', badge: 'イベント事例', href: '/case/detail/newyorksiliconalley', img: '/images/top/hero-newyorksiliconalley.png' },
-  { title: 'SushiTech Tokyo', badge: 'コラム記事', href: 'https://bizintokyo.com/column/sushitech_column', img: '/images/top/hero-sushitechtokyo.webp' },
-  { title: 'Startup Diversity Day', badge: 'イベント事例', href: '/case/detail/startupdiversityday', img: '/images/top/hero-startupdiversityday.webp' },
+const thumbs = [
+  { title: 'Gate to India & Africa 2025', href: '/case/detail/gatetoindiaafrica2025', img: '/images/top/case-gatetoindiaafrica2025.png' },
+  { title: 'New York Silicon Alley Meetup #12', href: '/case/detail/newyorksiliconalley12', img: '/images/top/case-newyorksiliconalley.png' },
+  { title: 'インド・アフリカ起業家交流会（京都）', href: '/case/detail/indoafrica2025', img: '/images/top/case-indiaafrica-kyoto.png' },
+  { title: 'Startup Diversity Day', href: '/case/detail/startupdiversityday', img: '/images/top/hero-startupdiversityday.webp' },
+];
+
+const why = [
+  {
+    title: '英語で直接話せる',
+    desc: '本国のチームや海外の登壇者と、担当者を介さずに直接やり取りします。通訳役を担当者に押しつけません。',
+  },
+  {
+    title: '業界が分かる',
+    desc: 'スタートアップ・テック・イノベーション分野のイベントを長く手がけてきました。話が通じる相手です。',
+  },
+  {
+    title: 'イベント全体に責任を持つ',
+    desc: '企画・会場・スタッフ・当日進行まで一つの窓口で引き受けます。「ここは別会社」がありません。',
+  },
 ];
 
 const services = [
   {
-    title: 'イベント運営支援',
-    desc:  '主にスタートアップ、WEB3イベントの運営をワンストップで支援します。英語での対応が可能なので、海外の主催者も安心して開催が可能です。',
+    title: '英語イベント運営',
+    desc:  '企画立案、会場手配、登壇者・来場者との英語でのやり取り、当日運営、終了後の振り返りまで。カンファレンス、ミートアップ、社内イベント、海外ゲストを招くレセプションなど。',
     href:  '/service#service-1',
-    img:   'https://images.unsplash.com/photo-1511578314322-379afb476865?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=480',
+    img:   '/images/service/feature-event-1.jpg',
+    main:  true,
   },
   {
     title: 'メディア運用',
-    desc:  'バイリンガルメディア「BizinTokyo」を通じて、イベントの集客支援と情報発信を行います。',
+    desc:  'バイリンガルメディア「BizinTokyo」での集客支援と情報発信。会場・ホテル・レストランの自社データをイベント設計にも活かします。',
     href:  '/service#service-4',
-    img:   'https://storage.stock.studio.design/optimized/ZQ41L1OlPx7nbUqIEWpez.webp',
+    img:   '/images/service/feature-media-1.jpg',
   },
   {
-    title: '日本ツアー',
-    desc:  '視察やイベント参加を通じ、ビジネスマッチングを実現する日本ツアーを開催。',
+    title: '視察・アテンド・ツアー手配',
+    desc:  '来日するビジネス訪問客の視察、企業訪問、イベント参加の手配とアテンド。ビジネスマッチングの場づくりまで。',
     href:  '/service#service-2',
-    img:   '/images/about/sakura-fuji.jpg',
+    img:   '/images/service/feature-tour-venue.webp',
   },
   {
     title: '日本進出支援',
-    desc:  '市場調査から採用支援、オフィス探しまで日本進出を全面サポート。',
+    desc:  '市場調査、採用支援、オフィス探しなど、イベントをきっかけに日本での展開を考える企業を支援します。',
     href:  '/service#service-3',
-    img:   'https://storage.stock.studio.design/optimized/2nmh0zT5szPfjE4lrwQXm.webp',
+    img:   '/images/service/feature-expansion-1.jpg',
   },
 ];
 
@@ -42,21 +58,21 @@ const cases = [
     date:  '2025年7月7日開催',
     title: 'Gate to India & Africa 2025',
     badge: 'イベント運営支援',
-    href:  '/case/detail/gatetoindiaafrica_2025',
+    href:  '/case/detail/gatetoindiaafrica2025',
     img:   '/images/top/case-gatetoindiaafrica2025.png',
   },
   {
     date:  '2025年5月8日開催',
     title: 'New York Silicon Alley Meetup #12',
     badge: 'イベント運営支援',
-    href:  '/case/detail/newyorksiliconalley_2025',
+    href:  '/case/detail/newyorksiliconalley12',
     img:   '/images/top/case-newyorksiliconalley.png',
   },
   {
     date:  '2025年7月4日開催',
     title: '【インド・アフリカ】起業家・投資家交流会 〜京都で感じるグローバルサウスの勢い〜',
     badge: 'イベント運営支援',
-    href:  '/case/detail/indiaafrica_2025',
+    href:  '/case/detail/indoafrica2025',
     img:   '/images/top/case-indiaafrica-kyoto.png',
   },
 ];
@@ -108,130 +124,63 @@ const badgeColors: Record<string, string> = {
 
 <BaseLayout title="英語対応イベント運営・企画（東京）" description="グローバルなネットワークを活かし、日本のビジネス発展を支援するConectando株式会社の公式サイト">
 
-<!-- ① ヒーロー -->
-<section class="top-hero">
-  <h1 class="hero-h1">Connecting Networks<br>Boosting Japan</h1>
-  <p class="hero-sub">世界中のネットワークを繋ぎ、日本を強くする</p>
-</section>
-
-<!-- ② ケーススライダー（自動カルーセル・中央表示＋前後ちら見せ） -->
-<div class="slider-wrap" id="case-slider">
-  <ul class="slider-track" id="case-slider-track" role="list">
-    {[caseSlides[caseSlides.length - 1], ...caseSlides, caseSlides[0]].map(s => (
-      <li class="slide-item">
-        <a href={s.href} class="slide-card">
-          <img src={s.img} alt={s.title} class="slide-bg" loading="lazy" />
-          <div class="slide-overlay">
-            <span class="slide-badge">{s.badge}</span>
-            <span class="slide-title">{s.title}</span>
-          </div>
-        </a>
-      </li>
-    ))}
-  </ul>
-</div>
-
-<script>
-  const wrap = document.getElementById('case-slider');
-  const track = document.getElementById('case-slider-track');
-
-  if (wrap && track) {
-    const items = Array.from(track.children);
-    const total = items.length; // [lastClone, ...slides, firstClone]
-    const gap = 35;
-    let index = 1; // 最初の実スライド
-    let timer;
-
-    const slideWidth = () => items[0].getBoundingClientRect().width;
-
-    function center(withTransition) {
-      const w = slideWidth();
-      const offset = index * (w + gap) - (wrap.clientWidth - w) / 2;
-      track.style.transition = withTransition ? '' : 'none';
-      track.style.transform = `translateX(${-offset}px)`;
-      if (!withTransition) {
-        track.getBoundingClientRect(); // reflow してから transition を戻す
-        track.style.transition = '';
-      }
-    }
-
-    let resetTimer;
-
-    function next() {
-      index++;
-      center(true);
-      clearTimeout(resetTimer);
-      if (index >= total - 1) {
-        // クローンに到達 → トランジション完了後に実スライドへ瞬間移動（transitionend に頼らない）
-        resetTimer = setTimeout(() => {
-          index = 1;
-          center(false);
-        }, 650);
-      }
-    }
-
-    const reduceMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
-    function start() {
-      clearInterval(timer);
-      timer = setInterval(next, 4000);
-    }
-    function stop() {
-      clearInterval(timer);
-    }
-
-    if (!reduceMotion) {
-      start();
-      wrap.addEventListener('mouseenter', stop);
-      wrap.addEventListener('mouseleave', start);
-      document.addEventListener('visibilitychange', () => {
-        if (document.hidden) {
-          stop();
-        } else {
-          clearTimeout(resetTimer);
-          index = ((index - 1) % (total - 2) + (total - 2)) % (total - 2) + 1;
-          center(false);
-          start();
-        }
-      });
-    }
-
-    window.addEventListener('resize', () => center(false));
-    center(false);
-  }
-</script>
-
-<!-- ③ About プレビュー -->
-<section class="about-sec">
-  <div class="dot-rule"></div>
-  <div class="sec-body">
-    <h2 class="about-h2">世界中のネットワークを繋ぎ<br>日本を強くする</h2>
-    <div class="about-p-wrap">
-      <p class="about-p">
-        私たちは、グローバルなネットワークを活かし、日本のビジネスと社会の発展を支援しています。これまでの豊富な経験をもとに、海外企業と日本企業を結びつけ、新たな成長の機会を創出しています。
-      </p>
-      <p class="about-p" style="margin-top:1rem">
-        日本市場への進出においては、文化的な違いやビジネス慣習の壁を乗り越えるための具体的なアドバイスを提供し、クライアントとのパートナーシップを大切にしながら、日本での成功を共に目指します。私たちのミッションは、ネットワークを強化し、日本の競争力をさらに高めることです。
-      </p>
+<!-- ①②③ ヒーロー（大見出し→説明文→ボタン→大きな写真1枚→小さな写真4枚の縦積み） -->
+<section class="hero1">
+  <div class="hero-body">
+    <h1 class="hero-h1">英語で行うビジネスイベントを、<br>企画から当日運営まで。</h1>
+    <p class="hero-lead">外資系企業の日本担当者、海外ゲストを迎える日本企業のために。<br>東京を拠点に、英語でイベントを企画・運営します。</p>
+    <div class="hero-btns">
+      <a href="/contact" class="btn">イベントの相談をする</a>
+      <a href="/case" class="btn ghost">事例を見る</a>
     </div>
-    <div class="right-cta">
-      <a href="/about" class="pill-btn">
-        詳しく見る <span class="btn-dot">●</span>
-      </a>
+
+    <div class="hero-photo">
+      <img src="/images/top/hero-gatetoindiaafrica.webp" alt="Gate to India & Africa の集合写真" loading="eager" />
     </div>
+
+    <ul class="thumbs" role="list">
+      {thumbs.map(t => (
+        <li>
+          <a href={t.href}>
+            <img src={t.img} alt={t.title} loading="lazy" />
+            <span>{t.title}</span>
+          </a>
+        </li>
+      ))}
+    </ul>
   </div>
 </section>
 
-<!-- ④ サービス一覧 -->
+<!-- ④ Conectandoが選ばれる理由 -->
+<section class="why-sec">
+  <div class="dot-rule"></div>
+  <div class="sec-body">
+    <h2 class="sec-h2">Conectandoが選ばれる理由</h2>
+    <p class="sec-sub">通訳や翻訳の代わりではなく、「英語で直接話せて、イベントに責任を持つ相手」がいること。</p>
+    <ul class="why-grid" role="list">
+      {why.map(w => (
+        <li class="why-item">
+          <h3 class="why-title">{w.title}</h3>
+          <p class="why-desc">{w.desc}</p>
+        </li>
+      ))}
+    </ul>
+  </div>
+</section>
+
+<!-- ⑤ サービス一覧 -->
 <section class="svc-sec">
   <div class="dot-rule"></div>
   <div class="sec-body">
+    <h2 class="sec-h2">サービス</h2>
+    <p class="sec-sub">英語イベント運営を中心に、その前後をまとめてお手伝いします。</p>
     <ul class="svc-list" role="list">
       {services.map(s => (
         <li class="svc-item">
           <a href={s.href} class="svc-link">
             <img src={s.img} alt={s.title} class="svc-img" loading="lazy" />
             <div>
-              <h3 class="svc-title">{s.title}</h3>
+              <h3 class="svc-title">{s.title}{s.main && <span class="main-badge">主軸</span>}</h3>
               <p class="svc-desc">{s.desc}</p>
             </div>
           </a>
@@ -244,10 +193,12 @@ const badgeColors: Record<string, string> = {
   </div>
 </section>
 
-<!-- ⑤ 導入事例グリッド -->
+<!-- ⑥ 導入事例グリッド -->
 <section class="cases-sec">
   <div class="dot-rule"></div>
   <div class="sec-body">
+    <h2 class="sec-h2">事例</h2>
+    <p class="sec-sub">英語イベント運営の実績です。</p>
     <div class="case-grid">
       {cases.map(c => (
         <a href={c.href} class="case-card">
@@ -266,10 +217,12 @@ const badgeColors: Record<string, string> = {
   </div>
 </section>
 
-<!-- ⑥ ブログ -->
+<!-- ⑦ コラム -->
 <section class="blog-sec">
   <div class="dot-rule"></div>
   <div class="sec-body">
+    <h2 class="sec-h2">コラム</h2>
+    <p class="sec-sub">英語でイベントを開く担当者のための、運営会社からのメモ。</p>
     <div class="blog-grid">
       {blogs.map(b => (
         <a href={b.href} class="blog-card">
@@ -287,10 +240,11 @@ const badgeColors: Record<string, string> = {
   </div>
 </section>
 
-<!-- ⑦ お知らせ -->
+<!-- ⑧ お知らせ -->
 <section class="news-sec">
   <div class="dot-rule"></div>
   <div class="sec-body">
+    <h2 class="sec-h2">お知らせ</h2>
     <ul class="news-list" role="list">
       {news.map(n => (
         <li class="news-item">
@@ -319,69 +273,80 @@ const badgeColors: Record<string, string> = {
 
 <style>
 /* ─── Hero ─── */
-.top-hero {
-  max-width: 80rem;
-  margin: 0 auto;
-  padding: 5rem 2rem 3rem;
-}
+.hero1 { padding: 2rem 0 1.5rem; }
+.hero-body { max-width: 80rem; margin: 0 auto; padding: 0 2rem; }
 .hero-h1 {
-  font-size: clamp(2.75rem, 6vw, 5.5rem);
-  font-weight: 900;
-  line-height: 1.1;
-  color: var(--color-text);
-  letter-spacing: -0.02em;
-  margin-bottom: 1.25rem;
+  font-size: clamp(1.625rem, 2.6vw, 2.375rem);
+  font-weight: 700;
+  line-height: 1.35;
+  color: var(--color-heading);
+  letter-spacing: -0.01em;
+  margin-bottom: 1rem;
 }
-.hero-sub {
-  font-size: 1.0625rem;
-  color: var(--color-text-muted);
+.hero-lead {
+  font-size: .9375rem;
+  color: var(--color-text);
+  line-height: 1.7;
+  margin-bottom: 1.5rem;
+  max-width: 40rem;
+}
+.hero-btns { display: flex; gap: 1rem; flex-wrap: wrap; }
+.btn {
+  display: inline-flex;
+  align-items: center;
+  background: var(--color-brand);
+  color: #fff;
+  padding: .875rem 2rem;
+  border-radius: 9999px;
+  font-weight: 600;
+  font-size: .9375rem;
+  text-decoration: none;
+  transition: opacity .2s;
+}
+.btn:hover { opacity: .85; }
+.btn.ghost {
+  background: transparent;
+  color: var(--color-brand);
+  border: 1px solid var(--color-brand);
 }
 
-/* ─── Slider（自動カルーセル・中央表示＋前後ちら見せ） ─── */
-.slider-wrap {
-  position: relative;
+.hero-photo {
+  margin-top: 1.5rem;
+  aspect-ratio: 5 / 2;
+  border-radius: .375rem;
   overflow: hidden;
-  width: 100%;
-  padding: 0 0 2.5rem;
 }
-.slider-track {
-  display: flex;
-  gap: 35px;
-  list-style: none;
-  padding: 0;
-  margin: 0;
-  width: max-content;
-  transition: transform 0.6s cubic-bezier(0.65, 0, 0.35, 1);
-  will-change: transform;
-}
-.slide-item { flex-shrink: 0; }
-.slide-card {
-  position: relative;
-  display: block;
-  width: min(816px, 70vw);
-  aspect-ratio: 816 / 540;
-  border-radius: 0.75rem;
-  overflow: hidden;
-  text-decoration: none;
-}
-.slide-bg {
+.hero-photo img {
   width: 100%;
   height: 100%;
   object-fit: cover;
+  object-position: center 82%;
   display: block;
 }
-.slide-overlay {
-  position: absolute;
-  inset: auto 0 0 0;
-  padding: 0.75rem 1rem;
-  background: linear-gradient(to top, rgba(0,0,0,.75), transparent);
-  color: #fff;
-  display: flex;
-  flex-direction: column;
-  gap: 0.2rem;
+
+.thumbs {
+  list-style: none;
+  padding: 0;
+  margin: .875rem 0 0;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: .75rem;
 }
-.slide-badge { font-size: .6875rem; opacity: .85; }
-.slide-title { font-size: .875rem; font-weight: 700; line-height: 1.3; }
+.thumbs a { display: block; text-decoration: none; color: inherit; }
+.thumbs img {
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
+  border-radius: .375rem;
+  display: block;
+  margin-bottom: .375rem;
+}
+.thumbs span {
+  font-size: .75rem;
+  color: var(--color-text);
+  line-height: 1.4;
+  display: block;
+}
 
 /* ─── Dot rule (セクション区切り) ─── */
 .dot-rule {
@@ -406,45 +371,31 @@ const badgeColors: Record<string, string> = {
 }
 
 /* ─── Section body ─── */
-.sec-body {
-  max-width: 80rem;
-  margin: 0 auto;
-  padding: 0 2rem 4rem;
+.sec-body { max-width: 80rem; margin: 0 auto; padding: 0 2rem 4rem; }
+.sec-h2 {
+  font-size: clamp(1.375rem, 2.6vw, 1.875rem);
+  font-weight: 700;
+  color: var(--color-heading);
+  margin-bottom: .5rem;
+}
+.sec-sub {
+  font-size: .9375rem;
+  color: #9999CE;
+  margin-bottom: 2rem;
 }
 
-/* ─── About ─── */
-.about-sec { background: var(--color-accent); padding-top: 3rem; }
-.about-h2 {
-  font-size: clamp(1.625rem, 3.5vw, 2.75rem);
-  font-weight: 800;
-  color: var(--color-brand);
-  line-height: 1.35;
-  margin-bottom: 1.5rem;
+/* ─── Why (選ばれる理由) ─── */
+.why-sec { background: var(--color-accent); padding-top: 3rem; }
+.why-grid {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 2rem;
 }
-.about-p-wrap {
-  padding-left: clamp(0px, 8vw, 8rem);
-}
-.about-p {
-  color: var(--color-text-muted);
-  line-height: 1.85;
-  max-width: 42rem;
-  font-size: .9375rem;
-}
-.pill-btn {
-  display: inline-flex;
-  align-items: center;
-  gap: .5rem;
-  background: var(--color-brand);
-  color: #fff;
-  padding: .75rem 1.75rem;
-  border-radius: 9999px;
-  font-weight: 600;
-  font-size: .9375rem;
-  text-decoration: none;
-  transition: opacity .2s;
-}
-.pill-btn:hover { opacity: .85; }
-.btn-dot { font-size: .55em; }
+.why-title { font-size: 1.0625rem; font-weight: 700; color: var(--color-brand); margin-bottom: .75rem; }
+.why-desc { font-size: .875rem; color: var(--color-text); line-height: 1.8; }
 
 /* ─── Services ─── */
 .svc-sec { padding-top: 3rem; }
@@ -470,10 +421,21 @@ const badgeColors: Record<string, string> = {
   font-weight: 700;
   color: var(--color-brand);
   margin-bottom: .5rem;
+  display: flex;
+  align-items: center;
+  gap: .625rem;
+}
+.main-badge {
+  font-size: .6875rem;
+  font-weight: 600;
+  color: #fff;
+  background: var(--color-brand);
+  padding: .1875rem .625rem;
+  border-radius: 9999px;
 }
 .svc-desc {
   font-size: .9375rem;
-  color: var(--color-text-muted);
+  color: #666666;
   line-height: 1.7;
 }
 
@@ -532,7 +494,7 @@ const badgeColors: Record<string, string> = {
   display: block;
 }
 .blog-meta { padding: 0 .125rem; }
-.blog-date { display: block; font-size: .8125rem; color: var(--color-text-muted); margin-bottom: .375rem; }
+.blog-date { display: block; font-size: .8125rem; color: #666666; margin-bottom: .375rem; }
 .blog-title { font-size: .9375rem; font-weight: 600; color: var(--color-brand); line-height: 1.5; }
 
 /* ─── News ─── */
@@ -549,7 +511,7 @@ const badgeColors: Record<string, string> = {
   text-decoration: none;
   color: inherit;
 }
-.news-date { font-size: .8125rem; color: var(--color-text-muted); white-space: nowrap; }
+.news-date { font-size: .8125rem; color: #666666; white-space: nowrap; }
 .news-badge {
   font-size: .6875rem;
   padding: .1875rem .625rem;
@@ -557,5 +519,15 @@ const badgeColors: Record<string, string> = {
   border-radius: 9999px;
   white-space: nowrap;
 }
-.news-text { font-size: .9375rem; color: var(--color-text); line-height: 1.5; }
+.news-text { font-size: .9375rem; color: var(--color-heading); line-height: 1.5; }
+
+@media (max-width: 700px) {
+  .thumbs { grid-template-columns: repeat(2, 1fr); }
+}
+
+@media (max-width: 768px) {
+  .why-grid { grid-template-columns: 1fr; }
+  .case-grid { grid-template-columns: 1fr; }
+  .blog-grid { grid-template-columns: 1fr; }
+}
 </style>

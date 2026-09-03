@@ -13,7 +13,7 @@ export const ui = {
     'nav.about': '会社概要',
     'nav.service': 'サービス',
     'nav.case': '事例',
-    'nav.blog': 'ブログ',
+    'nav.blog': 'コラム',
     'nav.news': 'お知らせ',
     'nav.contact': 'お問い合わせ',
     'footer.rights': '© 2025 Conectando Inc. All rights reserved.',

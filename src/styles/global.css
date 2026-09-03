@@ -6,14 +6,15 @@
   --color-brand: #1515B3;        /* Conectando Blue */
   --color-brand-dark: #0f0f8a;
   --color-brand-light: #3030cc;
-  --color-accent: #F7F7FB;       /* Soft blue tint */
-  --color-text: #1A1A1A;
+  --color-accent: #F7F7FB;       /* Soft blue tint (light background) */
+  --color-heading: #1A1A1A;      /* 大見出し */
+  --color-text: #333333;         /* 本文 */
   --color-text-muted: #666666;
   --color-bg: #FFFFFF;
-  --color-border: #DFDFEE;
+  --color-border: #DFDFEE;       /* 線 */
 
-  --font-sans: 'Noto Sans JP', 'Helvetica Neue', Arial, sans-serif;
-  --font-display: 'Noto Sans JP', 'Helvetica Neue', Arial, sans-serif;
+  --font-sans: 'Nunito Sans', 'Zen Kaku Gothic New', 'Hiragino Kaku Gothic ProN', 'Helvetica Neue', Arial, sans-serif;
+  --font-display: 'Nunito Sans', 'Zen Kaku Gothic New', 'Hiragino Kaku Gothic ProN', 'Helvetica Neue', Arial, sans-serif;
 
   --radius-sm: 4px;
   --radius-md: 8px;
