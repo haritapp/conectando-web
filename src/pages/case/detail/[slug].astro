@@ -16,6 +16,7 @@ export async function getStaticPaths() {
         { label: 'SGgrow Pte Ltd', href: 'https://sggrow.notion.site/SGgrow-Pte-Ltd-1d01610ae4e245de80d850b1bd5fc117' },
         { label: 'Uncovered Fund', href: 'https://uncoveredfund.com/' },
       ],
+      coorganizers: [],
       website:  'https://gatetoindiaafrica.studio.site',
       scale:    '200名',
       venue:    'Tokyo Innovation Base (TIB)',
@@ -32,6 +33,7 @@ export async function getStaticPaths() {
       organizers: [
         { label: 'SQRP NY', href: 'https://sqrpny.com/' },
       ],
+      coorganizers: [],
       website:  'https://nysiliconalley11.peatix.com/',
       scale:    '100名',
       venue:    'Shibuya Open Innovation Lab（SOIL）',
@@ -50,6 +52,7 @@ export async function getStaticPaths() {
       organizers: [
         { label: 'Yazawa Ventures', href: 'https://yazawa.vc/' },
       ],
+      coorganizers: [],
       website:  'https://tokyostartupdiversityday.studio.site/',
       scale:    '100名',
       venue:    'Google for Startups Campus Tokyo',
@@ -62,10 +65,14 @@ export async function getStaticPaths() {
       date:     '2025年7月7日開催',
       service:  '英語イベント運営',
       services: ['企画・運営', '会場手配', 'セッション構築', '集客・プロモーション'],
-      overview: 'Gate to India & Africa の2025年版。インドとアフリカのスタートアップと日本企業をつなぐネットワーキングイベント。',
-      organizers: [],
-      website:  '',
-      scale:    '',
+      overview: 'Gate to India & Africa の2025年版。インドとアフリカのスタートアップと日本企業をつなぐネットワーキングイベント。\n\nIVS 2025 の公式サイドイベントとして開催されました。',
+      organizers: [
+        { label: 'SGgrow Pte Ltd', href: 'https://sggrow.notion.site/SGgrow-Pte-Ltd-1d01610ae4e245de80d850b1bd5fc117' },
+        { label: 'Uncovered Fund', href: 'https://uncoveredfund.com/' },
+      ],
+      coorganizers: [],
+      website:  'https://gatetoindiaafrica.studio.site',
+      scale:    '約200名',
       venue:    'Tokyo Innovation Base (TIB)',
       articles: [],
       img:      '/images/about/event-group.webp',
@@ -76,12 +83,21 @@ export async function getStaticPaths() {
       date:     '2025年5月8日開催',
       service:  '英語イベント運営',
       services: ['会場手配', 'レイアウト設計', '集客・プロモーション'],
-      overview: 'New York Silicon Alley Meetup シリーズ第12回。ニューヨークのスタートアップエコシステムの最前線を東京で紹介。',
-      organizers: [],
+      overview: 'New York Silicon Alley Meetup シリーズ第12回。ニューヨークのスタートアップエコシステムの最前線を東京で紹介。\n\n東京都主催 SusHi Tech Tokyo 2025 のサイドイベント。ニューヨーク市経済開発公社（NYCEDC）、Newlab が登壇しました。',
+      organizers: [
+        { label: 'Square Up New York', href: '' },
+      ],
+      coorganizers: [
+        { label: 'pilot boat', href: '' },
+        { label: 'Deloitte Tohmatsu Venture Support', href: '' },
+        { label: 'Conectando', href: '' },
+      ],
       website:  '',
-      scale:    '',
-      venue:    '東京都内',
-      articles: [],
+      scale:    '131名',
+      venue:    'Google for Startups Campus Tokyo',
+      articles: [
+        { label: 'イベントレポート（Pilotboat）', href: 'https://pilotboat.jp/2025/05/nysam12/' },
+      ],
       img:      '/images/about/event-group.webp',
     },
     {
@@ -91,9 +107,13 @@ export async function getStaticPaths() {
       service:  '英語イベント運営',
       services: ['企画・運営', '会場手配', '集客・プロモーション'],
       overview: 'IVS 2025開催期間中の京都サイドイベント。インドとアフリカのグローバルサウス起業家・投資家と日本の参加者が交流。',
-      organizers: [],
+      organizers: [
+        { label: 'SGgrow Pte Ltd', href: 'https://sggrow.notion.site/SGgrow-Pte-Ltd-1d01610ae4e245de80d850b1bd5fc117' },
+        { label: 'Uncovered Fund', href: 'https://uncoveredfund.com/' },
+      ],
+      coorganizers: [],
       website:  '',
-      scale:    '',
+      scale:    '100名',
       venue:    '京都',
       articles: [],
       img:      '/images/about/event-group.webp',
@@ -139,7 +159,22 @@ const { caseData: c } = Astro.props;
         <h2 class="detail-h2">主催</h2>
         <ul class="link-list">
           {c.organizers.map(o => (
-            <li><a href={o.href} class="ext-link" target="_blank" rel="noopener">{o.label}</a></li>
+            <li>{o.href
+              ? <a href={o.href} class="ext-link" target="_blank" rel="noopener">{o.label}</a>
+              : o.label}</li>
+          ))}
+        </ul>
+      </section>
+    )}
+
+    {c.coorganizers.length > 0 && (
+      <section class="detail-section">
+        <h2 class="detail-h2">共催</h2>
+        <ul class="link-list">
+          {c.coorganizers.map(o => (
+            <li>{o.href
+              ? <a href={o.href} class="ext-link" target="_blank" rel="noopener">{o.label}</a>
+              : o.label}</li>
           ))}
         </ul>
       </section>

@@ -55,25 +55,28 @@ const services = [
 
 const cases = [
   {
-    date:  '2025年7月7日開催',
-    title: 'Gate to India & Africa 2025',
-    badge: '英語イベント運営',
-    href:  '/case/detail/gatetoindiaafrica2025',
-    img:   '/images/top/case-gatetoindiaafrica2025.png',
+    date:      '2025年7月7日開催',
+    title:     'Gate to India & Africa 2025',
+    organizer: 'SGgrow Pte Ltd／Uncovered Fund',
+    badge:     '英語イベント運営',
+    href:      '/case/detail/gatetoindiaafrica2025',
+    img:       '/images/top/case-gatetoindiaafrica2025.png',
   },
   {
-    date:  '2025年5月8日開催',
-    title: 'New York Silicon Alley Meetup #12',
-    badge: '英語イベント運営',
-    href:  '/case/detail/newyorksiliconalley12',
-    img:   '/images/top/case-newyorksiliconalley.png',
+    date:      '2025年5月8日開催',
+    title:     'New York Silicon Alley Meetup #12',
+    organizer: 'Square Up New York',
+    badge:     '英語イベント運営',
+    href:      '/case/detail/newyorksiliconalley12',
+    img:       '/images/top/case-newyorksiliconalley.png',
   },
   {
-    date:  '2025年7月4日開催',
-    title: '【インド・アフリカ】起業家・投資家交流会 〜京都で感じるグローバルサウスの勢い〜',
-    badge: '英語イベント運営',
-    href:  '/case/detail/indoafrica2025',
-    img:   '/images/top/case-indiaafrica-kyoto.png',
+    date:      '2025年7月4日開催',
+    title:     '【インド・アフリカ】起業家・投資家交流会 〜京都で感じるグローバルサウスの勢い〜',
+    organizer: 'SGgrow Pte Ltd／Uncovered Fund',
+    badge:     '英語イベント運営',
+    href:      '/case/detail/indoafrica2025',
+    img:       '/images/top/case-indiaafrica-kyoto.png',
   },
 ];
 
@@ -206,6 +209,7 @@ const badgeColors: Record<string, string> = {
           <div class="case-body">
             <time class="case-date">{c.date}</time>
             <p class="case-title">{c.title}</p>
+            <p class="case-organizer">主催：{c.organizer}</p>
             <span class="case-badge">{c.badge}</span>
           </div>
         </a>
@@ -471,7 +475,8 @@ const badgeColors: Record<string, string> = {
 .case-img { width: 100%; aspect-ratio: 16/9; object-fit: cover; display: block; }
 .case-body { padding: 1.25rem 1.25rem 1.5rem; }
 .case-date { display: block; font-size: .8125rem; color: #9999ce; margin-bottom: .5rem; }
-.case-title { font-size: 1.0625rem; font-weight: 700; color: var(--color-brand); line-height: 1.5; margin-bottom: 1rem; }
+.case-title { font-size: 1.0625rem; font-weight: 700; color: var(--color-brand); line-height: 1.5; margin-bottom: .5rem; }
+.case-organizer { font-size: .8125rem; color: var(--color-text-muted); margin-bottom: 1rem; }
 .case-badge {
   display: inline-block;
   font-size: .75rem;
