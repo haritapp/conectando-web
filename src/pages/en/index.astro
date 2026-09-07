@@ -3,56 +3,98 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 import ContactCTA from '../../components/ContactCTA.astro';
 
 // ── Stub data (migrate to CMS/Content Collections later) ──
-const caseSlides = [
-  { title: 'Gate to India & Africa', badge: 'Event Case', href: '/en/case/detail/gatetoindiaafrica', bg: '#1a237e' },
-  { title: 'New York Silicon Alley', badge: 'Event Case', href: '/en/case/detail/newyorksiliconalley', bg: '#0d47a1' },
-  { title: 'SushiTech Tokyo', badge: 'Column', href: 'https://bizintokyo.com/en/column/sushitech_column', bg: '#1b5e20' },
-  { title: 'Startup Diversity Day', badge: 'Event Case', href: '/en/case/detail/startupdiversityday', bg: '#4a148c' },
+const thumbs = [
+  { title: 'Gate to India & Africa 2025', href: '/en/case/detail/gatetoindiaafrica2025', img: '/images/top/case-gatetoindiaafrica2025.png' },
+  { title: 'New York Silicon Alley Meetup #12', href: '/en/case/detail/newyorksiliconalley12', img: '/images/top/case-newyorksiliconalley.png' },
+  { title: 'India & Africa Entrepreneur & Investor Mixer (Kyoto)', href: '/en/case/detail/indoafrica2025', img: '/images/top/case-indiaafrica-kyoto.png' },
+  { title: 'Startup Diversity Day', href: '/en/case/detail/startupdiversityday', img: '/images/top/hero-startupdiversityday.webp' },
+];
+
+const why = [
+  {
+    title: 'You talk to us directly, in English',
+    desc: 'No interpreter in the middle, no Japanese-only vendor to manage. Emails, calls, and on-site decisions all happen in English with the people actually running your event.',
+  },
+  {
+    title: 'We know your industry',
+    desc: "Since 2018 we have run events for tech companies, startups and investors, and corporate innovation teams. Founded by a former Tech in Asia Japan event lead, so you won't need to explain what a demo day is.",
+  },
+  {
+    title: 'On-site only, or end to end',
+    desc: 'Bring us in for the day-of operations, the venue search, or the whole thing from planning to wrap-up. Start with one piece.',
+  },
 ];
 
 const services = [
   {
-    title: 'Event Management Support',
-    desc:  'We provide one-stop support for the operation of events, mainly for startups and Web3 events. Since we can offer support in English, overseas organizers can also hold events with confidence.',
+    title: 'Event operations in English',
+    desc:  'Planning, venue booking, speaker and attendee communication, and on-site management. Full events or single components.',
     href:  '/en/service#service-1',
-    img:   'https://images.unsplash.com/photo-1511578314322-379afb476865?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=480',
+    img:   '/images/service/case-1-gate-india-africa.webp',
   },
   {
-    title: 'Media Operations',
-    desc:  'Through our bilingual media "BizinTokyo," we support event promotion and information dissemination.',
+    title: 'Attendee logistics (via BizinTokyo)',
+    desc:  "Our bilingual Tokyo venue guide answers your attendees' “where do I stay, how do I get there” questions, and helps promote your event to English-speaking audiences.",
     href:  '/en/service#service-4',
-    img:   'https://storage.stock.studio.design/optimized/ZQ41L1OlPx7nbUqIEWpez.webp',
+    img:   '/images/service/feature-media-1.jpg',
   },
   {
-    title: 'Japan Tours',
-    desc:  'We organize Japan tours that facilitate business matching through site visits and event participation.',
+    title: 'Delegations: company visits and investor meetings',
+    desc:  'We arrange company visits and meetings with Japanese companies and investors, and accompany your delegation in English.',
     href:  '/en/service#service-2',
-    img:   '/images/about/sakura-fuji.jpg',
+    img:   '/images/top/hero-sushitechtokyo.webp',
   },
   {
-    title: 'Japan Entry Support',
-    desc:  'We provide comprehensive support for entering the Japanese market, from market research to recruitment support and office search.',
+    title: 'Japan market entry',
+    desc:  'An honest first read on whether Japan makes sense for you, and introductions to English-speaking specialists for incorporation, hiring and office space.',
     href:  '/en/service#service-3',
-    img:   'https://storage.stock.studio.design/optimized/2nmh0zT5szPfjE4lrwQXm.webp',
+    img:   '/images/service/feature-expansion-1.jpg',
   },
 ];
 
 const cases = [
-  { title: 'Gate to India & Africa', href: '/en/case/detail/gatetoindiaafrica', img: '/images/top/hero-gatetoindiaafrica.webp' },
-  { title: 'New York Silicon Alley', href: '/en/case/detail/newyorksiliconalley', img: '/images/about/office.jpg' },
-  { title: 'Startup Diversity Day',  href: '/en/case/detail/startupdiversityday',  img: '/images/about/sakura-fuji.jpg' },
+  {
+    date:      'July 7, 2025',
+    title:     'Gate to India & Africa 2025',
+    organizer: 'SGgrow / Uncovered Fund',
+    badge:     'Event operations in English',
+    format:    'Conference',
+    summary:   'Official IVS 2025 side event connecting Indian and African startups with Japanese companies. Approx. 200 attendees, Tokyo Innovation Base.',
+    href:      '/en/case/detail/gatetoindiaafrica2025',
+    img:       '/images/top/case-gatetoindiaafrica2025.png',
+  },
+  {
+    date:      'May 8, 2025',
+    title:     'New York Silicon Alley Meetup #12',
+    organizer: 'Square Up New York',
+    badge:     'Event operations in English',
+    format:    'Meetup',
+    summary:   'SusHi Tech Tokyo 2025 side event with speakers from NYCEDC and Newlab. 131 attendees, Google for Startups Campus Tokyo.',
+    href:      '/en/case/detail/newyorksiliconalley12',
+    img:       '/images/top/case-newyorksiliconalley.png',
+  },
+  {
+    date:      'May 14, 2024',
+    title:     'Startup Diversity Day',
+    organizer: 'Yazawa Ventures',
+    badge:     'Event operations in English',
+    format:    'Conference',
+    summary:   'A conference on diversity and innovation in startups. 100 attendees, Google for Startups Campus Tokyo.',
+    href:      '/en/case/detail/startupdiversityday',
+    img:       '/images/top/hero-startupdiversityday.webp',
+  },
 ];
 
 const blogs = [
   {
     date:  '2024/10/7',
-    title: '4 Key Considerations for Foreign Company Japan Representatives When Hosting Events in Japan',
+    title: 'Four Things to Consider When Hosting an Event in Japan as an Overseas Company’s Japan Lead',
     href:  '/en/blog',
     img:   'https://images.unsplash.com/photo-1521737604893-d14cc237f11d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=500',
   },
   {
     date:  '2024/9/19',
-    title: 'The One Key Point for English-Speaking Organizers to Successfully Run Events in Japan',
+    title: 'The One Thing English-Speaking Organizers Need to Get Right to Succeed in Japan',
     href:  '/en/blog',
     img:   'https://images.unsplash.com/photo-1540575467063-178a50c2df87?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=500',
   },
@@ -62,21 +104,21 @@ const news = [
   {
     date:  '2026/03/13',
     badge: 'Corporate',
-    title: 'Launched "BizinTokyo" — a bilingual media platform for business events in Tokyo',
+    title: 'Launched "BizinTokyo," a bilingual media platform for business events in Tokyo',
     href:  'https://bizintokyo.com',
     external: true,
   },
   {
     date:  '2025/11/07',
     badge: 'note',
-    title: 'Published: "Rice Capital Fukuyama × Globis Takamiya — The Real Story of Startup Founding After US Entrepreneurship, YC Acceptance & M&A"',
+    title: 'Published: "Rice Capital Fukuyama x Globis Takamiya — The Real Story of Startup Founding, from a US Startup and YC to an M&A"',
     href:  'https://note.com/firstfollowers/n/ndfa752c7b6bb',
     external: true,
   },
   {
     date:  '2025/10/29',
     badge: 'note',
-    title: 'Published: "How My Role Changed Moving from Engineer to Executive — LayerX on the AI Era Management Playbook"',
+    title: 'Published: "From Engineer to Executive Officer — LayerX on the Management Playbook for the AI Era"',
     href:  'https://note.com/firstfollowers/n/n461becdd12b9',
     external: true,
   },
@@ -88,51 +130,59 @@ const badgeColors: Record<string, string> = {
 };
 ---
 
-<BaseLayout title="Bilingual Event Management in Tokyo" description="Conectando connects global networks to support Japan's business growth — event management, media, Japan tours, and market entry support.">
+<BaseLayout title="Conectando | English-speaking event partner in Tokyo" rawTitle description="English-speaking event partner in Tokyo. Planning, venues, and on-site operations for tech and startup events.">
 
-<!-- ① Hero -->
-<section class="top-hero">
-  <h1 class="hero-h1">Connecting Networks<br>Boosting Japan</h1>
-</section>
+<!-- ①②③ Hero (eyebrow → H1 → lead → buttons → one large photo → four small photos) -->
+<section class="hero1">
+  <div class="hero-body">
+    <p class="hero-eyebrow">For overseas teams bringing an event to Tokyo, and Japanese companies hosting international guests</p>
+    <h1 class="hero-h1">Your Tokyo event, run in English.</h1>
+    <p class="hero-lead">English-speaking event partner in Tokyo. Planning, venues, and on-site operations for tech and startup events.</p>
+    <div class="hero-btns">
+      <a href="/en/contact" class="btn">Talk to us about your event</a>
+      <a href="/en/case" class="btn ghost">See our work</a>
+    </div>
 
-<!-- ② Case Slider -->
-<div class="slider-wrap">
-  <ul class="slider-track" role="list">
-    {caseSlides.map(s => (
-      <li>
-        <a href={s.href} class="slide-card" style={`--bg:${s.bg}`}>
-          <div class="slide-bg"></div>
-          <div class="slide-overlay">
-            <span class="slide-badge">{s.badge}</span>
-            <span class="slide-title">{s.title}</span>
-          </div>
-        </a>
-      </li>
-    ))}
-  </ul>
-</div>
+    <div class="hero-photo">
+      <img src="/images/top/hero-gatetoindiaafrica.webp" alt="Group photo from Gate to India & Africa" loading="eager" />
+    </div>
 
-<!-- ③ About Preview -->
-<section class="about-sec">
-  <div class="dot-rule"></div>
-  <div class="sec-body">
-    <h2 class="about-h2">Connecting Networks<br>Boosting Japan</h2>
-    <p class="about-p">
-      We leverage our global network to support Japanese businesses, connecting overseas companies with local partners to create new growth opportunities.
-    </p>
-    <p class="about-p" style="margin-top:1rem">
-      As we assist with market entry, we offer practical advice to navigate cultural differences and business practices. Our mission is to strengthen networks and enhance Japan's competitiveness.
-    </p>
-    <a href="/en/about" class="pill-btn" style="display:inline-flex;margin-top:2rem">
-      View Detail <span class="btn-dot">●</span>
-    </a>
+    <ul class="thumbs" role="list">
+      {thumbs.map(t => (
+        <li>
+          <a href={t.href}>
+            <img src={t.img} alt={t.title} loading="lazy" />
+            <span>{t.title}</span>
+          </a>
+        </li>
+      ))}
+    </ul>
   </div>
 </section>
 
-<!-- ④ Services -->
+<!-- ④ Why Conectando -->
+<section class="why-sec">
+  <div class="dot-rule"></div>
+  <div class="sec-body">
+    <h2 class="sec-h2">Why Conectando</h2>
+    <ul class="why-grid" role="list">
+      {why.map(w => (
+        <li class="why-item">
+          <h3 class="why-title">{w.title}</h3>
+          <p class="why-desc">{w.desc}</p>
+        </li>
+      ))}
+    </ul>
+  </div>
+</section>
+
+<ContactCTA text="Not sure yet what you need? Talk to us anyway." buttonText="Talk to us about your event" />
+
+<!-- ⑤ Services -->
 <section class="svc-sec">
   <div class="dot-rule"></div>
   <div class="sec-body">
+    <h2 class="sec-h2">Services</h2>
     <ul class="svc-list" role="list">
       {services.map(s => (
         <li class="svc-item">
@@ -152,14 +202,25 @@ const badgeColors: Record<string, string> = {
   </div>
 </section>
 
-<!-- ⑤ Case Studies Grid -->
+<!-- ⑥ Case studies grid -->
 <section class="cases-sec">
   <div class="dot-rule"></div>
   <div class="sec-body">
+    <h2 class="sec-h2">Case studies</h2>
     <div class="case-grid">
       {cases.map(c => (
         <a href={c.href} class="case-card">
           <img src={c.img} alt={c.title} class="case-img" loading="lazy" />
+          <div class="case-body">
+            <time class="case-date">{c.date}</time>
+            <p class="case-title">{c.title}</p>
+            <p class="case-summary">{c.summary}</p>
+            <p class="case-organizer">Organizer: {c.organizer}</p>
+            <div class="case-badges">
+              <span class="case-badge">{c.badge}</span>
+              <span class="case-badge case-badge-format">{c.format}</span>
+            </div>
+          </div>
         </a>
       ))}
     </div>
@@ -169,10 +230,11 @@ const badgeColors: Record<string, string> = {
   </div>
 </section>
 
-<!-- ⑥ Blog -->
+<!-- ⑦ Column -->
 <section class="blog-sec">
   <div class="dot-rule"></div>
   <div class="sec-body">
+    <h2 class="sec-h2">Column</h2>
     <div class="blog-grid">
       {blogs.map(b => (
         <a href={b.href} class="blog-card">
@@ -190,10 +252,11 @@ const badgeColors: Record<string, string> = {
   </div>
 </section>
 
-<!-- ⑦ News -->
+<!-- ⑧ News -->
 <section class="news-sec">
   <div class="dot-rule"></div>
   <div class="sec-body">
+    <h2 class="sec-h2">News</h2>
     <ul class="news-list" role="list">
       {news.map(n => (
         <li class="news-item">
@@ -216,65 +279,94 @@ const badgeColors: Record<string, string> = {
   </div>
 </section>
 
-<ContactCTA />
+<ContactCTA text="Tell us about your event — no dates, venue or headcount needed yet. We reply within 2–3 business days, in English." buttonText="Contact us" />
 
 </BaseLayout>
 
 <style>
 /* ─── Hero ─── */
-.top-hero {
-  max-width: 80rem;
-  margin: 0 auto;
-  padding: 5rem 2rem 3rem;
+.hero1 { padding: 2rem 0 1.5rem; }
+.hero-body { max-width: 80rem; margin: 0 auto; padding: 0 2rem; }
+.hero-eyebrow {
+  font-size: .8125rem;
+  font-weight: 600;
+  color: var(--color-brand);
+  margin-bottom: .375rem;
 }
 .hero-h1 {
-  font-size: clamp(2.75rem, 6vw, 5.5rem);
-  font-weight: 900;
-  line-height: 1.1;
+  font-size: clamp(1.625rem, 2.6vw, 2.375rem);
+  font-weight: 700;
+  line-height: 1.35;
+  color: var(--color-heading);
+  letter-spacing: -0.01em;
+  margin-bottom: 1rem;
+}
+.hero-lead {
+  font-size: .9375rem;
   color: var(--color-text);
-  letter-spacing: -0.02em;
-  margin-bottom: 1.25rem;
+  line-height: 1.7;
+  margin-bottom: 1.5rem;
+  max-width: 40rem;
+}
+.hero-btns { display: flex; gap: 1rem; flex-wrap: wrap; }
+.btn {
+  display: inline-flex;
+  align-items: center;
+  background: var(--color-brand);
+  color: #fff;
+  padding: .875rem 2rem;
+  border-radius: 9999px;
+  font-weight: 600;
+  font-size: .9375rem;
+  text-decoration: none;
+  transition: opacity .2s;
+}
+.btn:hover { opacity: .85; }
+.btn.ghost {
+  background: transparent;
+  color: var(--color-brand);
+  border: 1px solid var(--color-brand);
 }
 
-/* ─── Slider ─── */
-.slider-wrap {
-  overflow-x: auto;
-  padding: 0 2rem 2.5rem;
-  scrollbar-width: none;
+.hero-photo {
+  margin-top: 1.5rem;
+  aspect-ratio: 5 / 2;
+  border-radius: .375rem;
+  overflow: hidden;
 }
-.slider-wrap::-webkit-scrollbar { display: none; }
-.slider-track {
-  display: flex;
-  gap: 1rem;
+.hero-photo img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center 82%;
+  display: block;
+}
+
+.thumbs {
   list-style: none;
   padding: 0;
-  margin: 0;
-  width: max-content;
+  margin: .875rem 0 0;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: .75rem;
 }
-.slide-card {
-  position: relative;
+.thumbs a { display: block; text-decoration: none; color: inherit; }
+.thumbs img {
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
+  border-radius: .375rem;
   display: block;
-  width: 260px;
-  height: 200px;
-  border-radius: .5rem;
-  overflow: hidden;
-  text-decoration: none;
+  margin-bottom: .375rem;
 }
-.slide-bg { width: 100%; height: 100%; background: var(--bg, #1a237e); }
-.slide-overlay {
-  position: absolute;
-  inset: auto 0 0 0;
-  padding: .75rem 1rem;
-  background: linear-gradient(to top, rgba(0,0,0,.75), transparent);
-  color: #fff;
-  display: flex;
-  flex-direction: column;
-  gap: .2rem;
+.thumbs span {
+  font-size: .75rem;
+  color: var(--color-text);
+  line-height: 1.4;
+  display: block;
 }
-.slide-badge { font-size: .6875rem; opacity: .85; }
-.slide-title { font-size: .875rem; font-weight: 700; line-height: 1.3; }
 
-/* ─── Dot rule ─── */
+/* ─── Dot rule (section divider) ─── */
 .dot-rule {
   display: flex;
   align-items: center;
@@ -297,41 +389,26 @@ const badgeColors: Record<string, string> = {
 }
 
 /* ─── Section body ─── */
-.sec-body {
-  max-width: 80rem;
-  margin: 0 auto;
-  padding: 0 2rem 4rem;
+.sec-body { max-width: 80rem; margin: 0 auto; padding: 0 2rem 4rem; }
+.sec-h2 {
+  font-size: clamp(1.375rem, 2.6vw, 1.875rem);
+  font-weight: 700;
+  color: var(--color-heading);
+  margin-bottom: 2rem;
 }
 
-/* ─── About ─── */
-.about-sec { background: var(--color-accent); padding-top: 3rem; }
-.about-h2 {
-  font-size: clamp(1.625rem, 3.5vw, 2.75rem);
-  font-weight: 800;
-  color: var(--color-brand);
-  line-height: 1.35;
-  margin-bottom: 1.5rem;
+/* ─── Why ─── */
+.why-sec { background: var(--color-accent); padding-top: 3rem; }
+.why-grid {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 2rem;
 }
-.about-p {
-  color: var(--color-text-muted);
-  line-height: 1.85;
-  max-width: 42rem;
-  font-size: .9375rem;
-}
-.pill-btn {
-  align-items: center;
-  gap: .5rem;
-  background: var(--color-brand);
-  color: #fff;
-  padding: .75rem 1.75rem;
-  border-radius: 9999px;
-  font-weight: 600;
-  font-size: .9375rem;
-  text-decoration: none;
-  transition: opacity .2s;
-}
-.pill-btn:hover { opacity: .85; }
-.btn-dot { font-size: .55em; }
+.why-title { font-size: 1.0625rem; font-weight: 700; color: var(--color-brand); margin-bottom: .75rem; }
+.why-desc { font-size: .875rem; color: var(--color-text); line-height: 1.8; }
 
 /* ─── Services ─── */
 .svc-sec { padding-top: 3rem; }
@@ -357,10 +434,13 @@ const badgeColors: Record<string, string> = {
   font-weight: 700;
   color: var(--color-brand);
   margin-bottom: .5rem;
+  display: flex;
+  align-items: center;
+  gap: .625rem;
 }
 .svc-desc {
   font-size: .9375rem;
-  color: var(--color-text-muted);
+  color: #666666;
   line-height: 1.7;
 }
 
@@ -377,13 +457,44 @@ const badgeColors: Record<string, string> = {
 }
 .text-cta:hover { opacity: .75; }
 
-/* ─── Cases ─── */
+/* ─── Cases grid ─── */
 .cases-sec { background: var(--color-accent); padding-top: 3rem; }
-.case-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1rem; }
-.case-card { display: block; border-radius: .5rem; overflow: hidden; text-decoration: none; }
-.case-img { width: 100%; aspect-ratio: 3/2; object-fit: cover; display: block; }
+.case-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1rem;
+}
+.case-card {
+  display: block;
+  border-radius: .5rem;
+  overflow: hidden;
+  text-decoration: none;
+  color: inherit;
+  background: #fff;
+  border: 1px solid var(--color-border);
+}
+.case-img { width: 100%; aspect-ratio: 16/9; object-fit: cover; display: block; }
+.case-body { padding: 1.25rem 1.25rem 1.5rem; }
+.case-date { display: block; font-size: .8125rem; color: #9999ce; margin-bottom: .5rem; }
+.case-title { font-size: 1.0625rem; font-weight: 700; color: var(--color-brand); line-height: 1.5; margin-bottom: .5rem; }
+.case-summary { font-size: .8125rem; color: var(--color-text-muted); line-height: 1.6; margin-bottom: .625rem; }
+.case-organizer { font-size: .8125rem; color: var(--color-text-muted); margin-bottom: 1rem; }
+.case-badges { display: flex; flex-wrap: wrap; gap: .375rem; }
+.case-badge {
+  display: inline-block;
+  font-size: .75rem;
+  font-weight: 600;
+  padding: .3125rem .875rem;
+  background: var(--color-brand);
+  color: #fff;
+  border-radius: 9999px;
+}
+.case-badge-format {
+  background: var(--color-accent);
+  color: var(--color-brand);
+}
 
-/* ─── Blog ─── */
+/* ─── Column ─── */
 .blog-sec { padding-top: 3rem; }
 .blog-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 1.5rem; }
 .blog-card { display: block; text-decoration: none; color: inherit; }
@@ -395,7 +506,7 @@ const badgeColors: Record<string, string> = {
   display: block;
 }
 .blog-meta { padding: 0 .125rem; }
-.blog-date { display: block; font-size: .8125rem; color: var(--color-text-muted); margin-bottom: .375rem; }
+.blog-date { display: block; font-size: .8125rem; color: #666666; margin-bottom: .375rem; }
 .blog-title { font-size: .9375rem; font-weight: 600; color: var(--color-brand); line-height: 1.5; }
 
 /* ─── News ─── */
@@ -412,7 +523,7 @@ const badgeColors: Record<string, string> = {
   text-decoration: none;
   color: inherit;
 }
-.news-date { font-size: .8125rem; color: var(--color-text-muted); white-space: nowrap; }
+.news-date { font-size: .8125rem; color: #666666; white-space: nowrap; }
 .news-badge {
   font-size: .6875rem;
   padding: .1875rem .625rem;
@@ -420,5 +531,15 @@ const badgeColors: Record<string, string> = {
   border-radius: 9999px;
   white-space: nowrap;
 }
-.news-text { font-size: .9375rem; color: var(--color-text); line-height: 1.5; }
+.news-text { font-size: .9375rem; color: var(--color-heading); line-height: 1.5; }
+
+@media (max-width: 700px) {
+  .thumbs { grid-template-columns: repeat(2, 1fr); }
+}
+
+@media (max-width: 768px) {
+  .why-grid { grid-template-columns: 1fr; }
+  .case-grid { grid-template-columns: 1fr; }
+  .blog-grid { grid-template-columns: 1fr; }
+}
 </style>
