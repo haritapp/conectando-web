@@ -1,135 +1,230 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
-import PageHero from '../../components/PageHero.astro';
 import AnchorNav from '../../components/AnchorNav.astro';
 import ContactCTA from '../../components/ContactCTA.astro';
 
 const navItems = [
-  { label: 'Mission & Vision', href: '#mission'  },
-  { label: 'CEO Message',      href: '#message'  },
-  { label: 'Company Profile',  href: '#company'  },
+  { label: 'Mission & Vision',        href: '#mission' },
+  { label: 'Message from the Founder', href: '#message' },
+  { label: 'Company',                 href: '#company' },
 ];
 ---
 
-<BaseLayout title="About Us" description="Learn about Conectando Inc.'s mission, vision, founder message, and company profile. Connecting networks, boosting Japan.">
+<BaseLayout title="About | Conectando" rawTitle description="Learn about Conectando Inc.'s mission, vision, founder message, and company profile. Connecting the world's networks to make Japan stronger.">
 
-  <PageHero label="ABOUT" title="ABOUT" />
+  <section class="mission-hero">
+    <h1 class="mission-hero-h1">Connecting Networks<br>Boosting Japan</h1>
+    <p class="mission-hero-sub">Connecting the world's networks to make Japan stronger.</p>
+  </section>
 
   <div class="page-wrap">
+    <div class="about-hero">
+      <div class="hero-row">
+        <span class="hero-dot"></span>
+        <div class="hero-text">
+          <p class="hero-label">ABOUT</p>
+          <h1 class="hero-title">ABOUT</h1>
+        </div>
+      </div>
+    </div>
+
     <AnchorNav items={navItems} />
 
     <!-- ① Mission & Vision -->
     <section id="mission" class="about-section">
+      <hr class="section-rule" />
+      <h2 class="section-h2">Mission &amp; Vision</h2>
 
       <div class="philosophy-block">
         <p class="phil-label">MISSION</p>
-        <h2 class="phil-h2">Connecting Networks,<br>Boosting Japan</h2>
+        <h2 class="phil-h2">Connecting the world's networks to make Japan stronger</h2>
         <p class="phil-body">
-          We leverage our global network to support the growth of Japan's businesses and society. With our accumulated experience, we connect overseas companies with Japanese companies, creating new opportunities for growth.<br><br>
-          Through our work supporting entry into the Japanese market, we provide concrete advice to overcome cultural differences and business practices. Valuing partnerships with our clients, we aim for mutual success in the Japanese market. Strengthening networks and enhancing Japan's competitiveness is our mission.
+          We use our global network to support the growth of Japanese business and society. Drawing on years of experience, we bring overseas companies and Japanese companies together and create new opportunities for growth.<br><br>
+          When overseas companies and people engage with Japan, language and business customs get in the way. We stand in between and get the work done in a way both sides understand, so that you succeed in Japan. Our mission is to strengthen these networks and make Japan more competitive.
         </p>
+        <img src="/images/about/event-group.webp" alt="International network event" class="phil-photo" loading="lazy" />
       </div>
 
       <div class="philosophy-block phil-vision">
         <p class="phil-label">VISION</p>
-        <h2 class="phil-h2">Maximizing<br>Japan's Potential</h2>
+        <h2 class="phil-h2">Bringing out Japan's full potential</h2>
         <p class="phil-body">
-          We strive to harness Japan's full potential by highlighting its many advantages. By connecting with talented individuals and innovative technologies from around the world, we aim to promote the growth and development of Japanese companies.<br><br>
-          Through actively generating foreign capital, we contribute to Japan's economic growth. Leveraging a global perspective and our networks, we are guiding Japan's future toward a more sustainable and prosperous path.
+          We show the world what Japan has to offer and raise Japan's presence internationally. We bring talented people and new technology from around the world into Japan, and help Japanese companies grow further.<br><br>
+          We also actively bring international business into Japan, contributing to the country's economic growth. With a global perspective and network, we work toward a more sustainable and prosperous future for Japan.
         </p>
+        <img src="/images/about/sakura-fuji.jpg" alt="Cherry blossoms and Mt. Fuji" class="phil-photo" loading="lazy" />
       </div>
 
     </section>
 
-    <!-- ② CEO Message -->
+    <!-- ② Message from the Founder -->
     <section id="message" class="about-section">
       <hr class="section-rule" />
-      <h2 class="section-h2">Founder &amp; CEO Message</h2>
+      <h2 class="section-h2">Message from the Founder</h2>
 
       <div class="ceo-block">
-        <div class="ceo-photo-wrap">
-          <img src="/images/about/ceo.jpg" alt="Shintaro Hari, Founder & CEO" class="ceo-photo" loading="lazy" />
-        </div>
         <div class="ceo-content">
           <p class="ceo-role">Founder &amp; CEO</p>
           <p class="ceo-name">Shintaro Hari</p>
           <p class="ceo-quote">
-            Many people say they want to start a business in Japan, but language barriers and uncertainty about where to begin often hold them back.
+            Standing between overseas teams and Japanese venues and vendors, and turning an event into reality in words both sides understand — that is the work I have always done.
           </p>
           <p class="ceo-quote" style="margin-top:1rem">
-            At Conectando, we help unlock business potential in Japan. By leveraging our network and experience, we aim to support growth in the Japanese market — and to partner with you in building a brighter future for Japan.
+            When you hold an English-language event in Japan, the problem is rarely English itself. It is not having someone you can talk to directly in English, who knows your industry, and who can explain the Japanese side to you. With an interpreter in the middle, the details and the on-the-day decisions get lost. I started Conectando to be that person.
+          </p>
+          <p class="ceo-quote" style="margin-top:1rem">
+            An event is often how an overseas company or person begins a long relationship with Japan. I believe those relationships, built one by one, make Japan stronger — and that is why we take on each event the way we do.
           </p>
           <div class="profile-box">
             <p class="profile-label">Profile</p>
             <p class="profile-body">
-              I started my career at a Japanese startup, launching new services, and later helped establish its US subsidiary. I then supported the setup of Japanese branches for startups from Singapore and the US. Seeing the need for international business to address Japan's demographic challenges, I founded Conectando.
+              Shintaro Hari launched new services and helped set up the US office at a Japanese startup, then ran Japan events for Tech in Asia, the Singapore-based tech media company, working between the headquarters and the Japanese operations partners. He later joined a US startup in the early stage of its Japan entry. He founded Conectando to run events that connect overseas teams and Japan.
             </p>
           </div>
+        </div>
+        <div class="ceo-photo-wrap">
+          <img src="/images/about/ceo.jpg" alt="Shintaro Hari, Founder & CEO" class="ceo-photo" loading="lazy" />
         </div>
       </div>
     </section>
 
-    <!-- ③ Company Profile -->
+    <!-- ③ Company -->
     <section id="company" class="about-section">
       <hr class="section-rule" />
-      <h2 class="section-h2">Company Overview</h2>
+      <h2 class="section-h2">Company</h2>
 
-      <table class="company-table">
-        <tbody>
-          <tr>
-            <th>Company Name</th>
-            <td>Ｃｏｎｅｃｔａｎｄｏ.Inc</td>
-          </tr>
-          <tr>
-            <th>Founder &amp; CEO</th>
-            <td>Shintaro Hari</td>
-          </tr>
-          <tr>
-            <th>Established</th>
-            <td>July 1, 2018</td>
-          </tr>
-          <tr>
-            <th>Business Activities</th>
-            <td>
-              Event Management<br>
-              Japan Market Entry Support<br>
-              Japan Tours
-            </td>
-          </tr>
-        </tbody>
-      </table>
+      <div class="company-block">
+        <table class="company-table">
+          <tbody>
+            <tr>
+              <th>Company name</th>
+              <td>Ｃｏｎｅｃｔａｎｄｏ.Inc</td>
+            </tr>
+            <tr>
+              <th>Founder &amp; CEO</th>
+              <td>Shintaro Hari</td>
+            </tr>
+            <tr>
+              <th>Founded</th>
+              <td>July 1, 2018</td>
+            </tr>
+            <tr>
+              <th>Business</th>
+              <td>
+                Event operations in English<br>
+                Attendee logistics and promotion (via BizinTokyo)<br>
+                Delegations: company visits and investor meetings<br>
+                Japan market entry
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <img src="/images/about/office.jpg" alt="Conectando office" class="company-photo" loading="lazy" />
+      </div>
     </section>
 
   </div>
 
-  <ContactCTA />
+  <ContactCTA
+    text="Tell us about your event — no dates, venue or headcount needed yet. We reply within 2–3 business days, in English."
+    buttonText="Contact us"
+  />
 
 </BaseLayout>
 
 <style>
 .page-wrap {
-  max-width: 56rem;
+  max-width: 64rem;
   margin: 0 auto;
   padding: 0 2rem 5rem;
 }
+
+/* ── Mission hero (moved from TOP page) ── */
+.mission-hero {
+  max-width: 64rem;
+  margin: 0 auto;
+  padding: 4rem 2rem 0;
+}
+.mission-hero-h1 {
+  font-size: clamp(2.25rem, 5vw, 4rem);
+  font-weight: 900;
+  line-height: 1.15;
+  color: var(--color-heading);
+  letter-spacing: -0.02em;
+  margin-bottom: 1rem;
+}
+.mission-hero-sub {
+  font-size: 1.0625rem;
+  color: var(--color-text-muted);
+}
+
+/* ── Hero ── */
+.about-hero {
+  padding-top: 3rem;
+  margin-bottom: 2rem;
+}
+.hero-row {
+  display: flex;
+  align-items: center;
+  gap: .9rem;
+}
+.hero-dot {
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  background: var(--color-brand);
+  box-shadow: 0 0 0 8px var(--color-accent);
+  flex-shrink: 0;
+}
+.hero-text {
+  display: flex;
+  flex-direction: column;
+}
+.hero-label {
+  font-size: .6875rem;
+  font-weight: 600;
+  letter-spacing: .1em;
+  text-transform: uppercase;
+  color: var(--color-text-muted);
+  margin-bottom: .25rem;
+}
+.hero-title {
+  font-size: clamp(2rem, 5vw, 3.5rem);
+  font-weight: 900;
+  color: var(--color-brand);
+  line-height: 1;
+}
+
+/* ── About sections ── */
 .about-section {
   padding-top: 3.5rem;
   scroll-margin-top: 5rem;
   margin-bottom: 1rem;
 }
+
+/* ── Philosophy ── */
 .philosophy-block {
   padding: 3rem 0;
   border-bottom: 1px solid #e5e7eb;
 }
 .phil-vision { border-bottom: none; }
 .phil-label {
-  font-size: clamp(2.5rem, 6vw, 4.5rem);
-  font-weight: 900;
+  display: flex;
+  align-items: center;
+  gap: .75rem;
+  font-size: 1.375rem;
+  font-weight: 800;
   color: var(--color-brand);
-  opacity: .12;
   line-height: 1;
-  margin-bottom: 1rem;
-  letter-spacing: .05em;
+  margin-bottom: 1.25rem;
+}
+.phil-label::before {
+  content: '';
+  display: inline-block;
+  width: 4px;
+  height: 1.375rem;
+  background: var(--color-brand);
+  border-radius: 2px;
 }
 .phil-h2 {
   font-size: clamp(1.375rem, 3vw, 2.125rem);
@@ -142,8 +237,18 @@ const navItems = [
   color: var(--color-text-muted);
   line-height: 1.9;
   font-size: .9375rem;
-  max-width: 44rem;
 }
+.phil-photo {
+  width: 100%;
+  height: 280px;
+  object-fit: cover;
+  border-radius: .75rem;
+  display: block;
+  margin-top: 2rem;
+  background: #e5e7eb;
+}
+
+/* ── Section rule & heading ── */
 .section-rule {
   border: none;
   border-top: 2px solid var(--color-brand);
@@ -155,40 +260,85 @@ const navItems = [
   color: var(--color-brand);
   margin-bottom: 2rem;
 }
+
+/* ── CEO ── */
 .ceo-block {
   display: flex;
   gap: 2.5rem;
   align-items: flex-start;
 }
-.ceo-photo-wrap { flex-shrink: 0; width: 180px; }
+.ceo-content { flex: 1; }
+.ceo-photo-wrap {
+  flex-shrink: 0;
+  width: 380px;
+}
 .ceo-photo {
-  width: 180px;
-  height: 220px;
+  width: 100%;
+  aspect-ratio: 1 / 1;
   object-fit: cover;
-  border-radius: .5rem;
+  border-radius: .75rem;
   display: block;
   background: #e5e7eb;
 }
-.ceo-content { flex: 1; }
-.ceo-role { font-size: .8125rem; color: var(--color-text-muted); margin-bottom: .25rem; }
-.ceo-name { font-size: 1.25rem; font-weight: 800; color: var(--color-brand); margin-bottom: 1.25rem; }
-.ceo-quote { color: var(--color-text-muted); line-height: 1.9; font-size: .9375rem; }
+.ceo-role {
+  font-size: .8125rem;
+  color: var(--color-text-muted);
+  margin-bottom: .25rem;
+}
+.ceo-name {
+  font-size: 1.25rem;
+  font-weight: 800;
+  color: var(--color-brand);
+  margin-bottom: 1.25rem;
+}
+.ceo-quote {
+  color: var(--color-text-muted);
+  line-height: 1.9;
+  font-size: .9375rem;
+}
 .profile-box {
   background: var(--color-accent);
   border-radius: .5rem;
   padding: 1.25rem 1.5rem;
   margin-top: 1.75rem;
 }
-.profile-label { font-size: .8125rem; font-weight: 700; color: var(--color-brand); margin-bottom: .625rem; }
-.profile-body { font-size: .875rem; color: var(--color-text-muted); line-height: 1.85; }
+.profile-label {
+  font-size: .8125rem;
+  font-weight: 700;
+  color: var(--color-brand);
+  margin-bottom: .625rem;
+}
+.profile-body {
+  font-size: .875rem;
+  color: var(--color-text-muted);
+  line-height: 1.85;
+}
+
+/* ── Company overview ── */
+.company-block {
+  display: flex;
+  gap: 2.5rem;
+  align-items: stretch;
+}
+.company-photo {
+  flex-shrink: 0;
+  width: 380px;
+  height: 100%;
+  min-height: 280px;
+  object-fit: cover;
+  border-radius: .75rem;
+  background: #e5e7eb;
+}
 .company-table {
+  flex: 1;
   width: 100%;
   border-collapse: collapse;
   font-size: .9375rem;
+  align-self: flex-start;
 }
 .company-table th,
 .company-table td {
-  padding: 1rem 1.25rem;
+  padding: 1rem 1.25rem 1rem 0;
   text-align: left;
   border-bottom: 1px solid #e5e7eb;
   vertical-align: top;
@@ -196,17 +346,21 @@ const navItems = [
 .company-table tr:first-child th,
 .company-table tr:first-child td { border-top: 1px solid #e5e7eb; }
 .company-table th {
-  width: 180px;
+  width: 160px;
   font-weight: 700;
-  color: var(--color-text);
+  color: var(--color-brand);
   white-space: nowrap;
-  background: var(--color-accent);
 }
-.company-table td { color: var(--color-text-muted); line-height: 1.8; }
+.company-table td {
+  color: var(--color-text-muted);
+  line-height: 1.8;
+}
+
 @media (max-width: 640px) {
   .ceo-block { flex-direction: column; }
   .ceo-photo-wrap { width: 100%; }
-  .ceo-photo { width: 100%; height: auto; aspect-ratio: 4/3; }
-  .company-table th { width: 120px; }
+  .company-block { flex-direction: column-reverse; }
+  .company-photo { width: 100%; aspect-ratio: 4/3; }
+  .company-table th { width: 110px; }
 }
 </style>
