@@ -2,459 +2,249 @@
 import BaseLayout from '../layouts/BaseLayout.astro';
 import ContactCTA from '../components/ContactCTA.astro';
 
-// ── スタブデータ（将来的に CMS/Content Collections に移行）──
-const thumbs = [
-  { title: 'Gate to India & Africa 2025', href: '/case/detail/gatetoindiaafrica2025', img: '/images/top/case-gatetoindiaafrica2025.png' },
-  { title: 'New York Silicon Alley Meetup #12', href: '/case/detail/newyorksiliconalley12', img: '/images/top/case-newyorksiliconalley.png' },
-  { title: 'インド・アフリカ起業家交流会（京都）', href: '/case/detail/indoafrica2025', img: '/images/top/case-indiaafrica-kyoto.png' },
-  { title: 'Startup Diversity Day', href: '/case/detail/startupdiversityday', img: '/images/top/hero-startupdiversityday.webp' },
-];
-
-const why = [
-  {
-    title: '英語で直接話せる担当がつく',
-    desc: '本国のチームや海外の登壇者と、担当者を介さずに直接やり取りします。通訳役を担当者に押しつけません。',
-  },
-  {
-    title: '業界が分かる',
-    desc: 'テクノロジー企業、スタートアップ・投資家、大企業の新規事業部門が集まるイベントを長く手がけてきました。用語も登壇者の顔ぶれも、説明なしで通じます。',
-  },
-  {
-    title: '当日のみでも、一括でも',
-    desc: '当日運営だけ、会場手配だけ、といった部分的なご依頼から、企画から当日までの一括まで。必要なところだけ使えます。',
-  },
-];
-
 const services = [
   {
+    num: '01',
+    tag: '主軸',
     title: '英語イベント運営',
-    desc:  '企画立案、会場手配、登壇者・来場者との英語でのやり取り、当日運営、終了後の振り返りまで。カンファレンス、ミートアップ、社内イベント、海外ゲストを招くレセプションなど。',
-    href:  '/service#service-1',
-    img:   '/images/service/case-1-gate-india-africa.webp',
+    desc: '企画・会場・登壇者調整から当日まで一括で。',
+    href: '/service#service-1',
   },
   {
+    num: '02',
+    tag: '',
     title: 'メディア運用',
-    desc:  'バイリンガルメディア「BizinTokyo」での集客支援と情報発信。会場・ホテル・レストランの自社データをイベント設計にも活かします。',
-    href:  '/service#service-4',
-    img:   '/images/service/feature-media-1.jpg',
+    desc: '自社メディア BizinTokyo で集客。',
+    href: '/service#service-4',
   },
   {
+    num: '03',
+    tag: '',
     title: '視察・アテンド・ツアー手配',
-    desc:  '来日するビジネス訪問客の視察、企業訪問、イベント参加の手配とアテンド。ビジネスマッチングの場づくりまで。',
-    href:  '/service#service-2',
-    img:   '/images/top/hero-sushitechtokyo.webp',
+    desc: '来日ゲストの視察と企業訪問を手配。',
+    href: '/service#service-2',
   },
   {
+    num: '04',
+    tag: '',
     title: '日本進出支援',
-    desc:  '市場調査、採用支援、オフィス探しなど、イベントをきっかけに日本での展開を考える企業を支援します。',
-    href:  '/service#service-3',
-    img:   '/images/service/feature-expansion-1.jpg',
+    desc: 'イベントを入口に、日本展開を支援。',
+    href: '/service#service-3',
   },
 ];
 
 const cases = [
   {
-    date:      '2025年7月7日開催',
-    title:     'Gate to India & Africa 2025',
-    organizer: 'SGgrow Pte Ltd／Uncovered Fund',
-    badge:     '英語イベント運営',
-    format:    'カンファレンス',
-    summary:   'IVS公式サイドイベント。日本とインド・アフリカのスタートアップをつなぐカンファレンス。',
-    href:      '/case/detail/gatetoindiaafrica2025',
-    img:       '/images/top/case-gatetoindiaafrica2025.png',
+    title: 'Gate to India & Africa 2025',
+    summary: 'IVS公式サイドイベント · 約200名',
+    href: '/case/detail/gatetoindiaafrica2025',
+    img: '/images/top/hero-gatetoindiaafrica.webp',
   },
   {
-    date:      '2025年5月8日開催',
-    title:     'New York Silicon Alley Meetup #12',
-    organizer: 'Square Up New York',
-    badge:     '英語イベント運営',
-    format:    'ミートアップ',
-    summary:   'SusHi Tech Tokyo 2025サイドイベント。NYのスタートアップエコシステムを紹介。',
-    href:      '/case/detail/newyorksiliconalley12',
-    img:       '/images/top/case-newyorksiliconalley.png',
+    title: 'New York Silicon Alley Meetup #12',
+    summary: 'SusHi Tech Tokyo サイドイベント · 131名',
+    href: '/case/detail/newyorksiliconalley12',
+    img: '/images/top/case-newyorksiliconalley-2.webp',
   },
   {
-    date:      '2025年7月4日開催',
-    title:     '【インド・アフリカ】起業家・投資家交流会 〜京都で感じるグローバルサウスの勢い〜',
-    organizer: 'SGgrow Pte Ltd／Uncovered Fund',
-    badge:     '英語イベント運営',
-    format:    '交流会',
-    summary:   'IVS開催期間中の京都サイドイベント。インド・アフリカと日本の起業家・投資家が交流。',
-    href:      '/case/detail/indoafrica2025',
-    img:       '/images/top/case-indiaafrica-kyoto.png',
+    title: 'India & Africa Founders and Investors Meetup in Kyoto',
+    summary: 'IVS期間中の京都サイドイベント · 100名',
+    href: '/case/detail/indoafrica2025',
+    img: '/images/top/case-indiaafrica-kyoto-2.webp',
   },
 ];
 
-const blogs = [
-  {
-    date:  '2024年10月7日',
-    title: '外資系企業の日本担当者が日本でイベントを開催する際に考慮すべき4つのポイント',
-    href:  '/blog',
-    img:   'https://images.unsplash.com/photo-1521737604893-d14cc237f11d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=500',
-  },
-  {
-    date:  '2024年9月19日',
-    title: '英語の主催者が日本でイベントを成功させるたった1つのポイント',
-    href:  '/blog',
-    img:   'https://images.unsplash.com/photo-1540575467063-178a50c2df87?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=500',
-  },
+const why = [
+  '英語で直接話せる担当がつく',
+  'テック・スタートアップの業界が分かる',
+  '当日のみでも、一括でも',
+];
+
+const columns = [
+  { date: '2024.10.07', title: '外資系企業の日本担当者が日本でイベントを開催する際に考慮すべき4つのポイント' },
+  { date: '2024.09.19', title: '英語の主催者が日本でイベントを成功させるたった1つのポイント' },
 ];
 
 const news = [
-  {
-    date:  '2026年3月13日',
-    badge: 'コーポレート',
-    title: '東京のビジネスイベント情報メディア「BizinTokyo」を開設しました',
-    href:  'https://bizintokyo.com',
-    external: true,
-  },
-  {
-    date:  '2025年11月7日',
-    badge: 'note更新',
-    title: '「Rice Capital福山×グロービス高宮 | 米国起業、Yコン採択、M&Aを経て感じたスタートアップ創業のリアル」を公開しました',
-    href:  'https://note.com/firstfollowers/n/ndfa752c7b6bb',
-    external: true,
-  },
-  {
-    date:  '2025年10月29日',
-    badge: 'note更新',
-    title: '「エンジニアから執行役員になって変わった役割。LayerXが語る、AI時代の経営プレイブック」を公開しました',
-    href:  'https://note.com/firstfollowers/n/n461becdd12b9',
-    external: true,
-  },
+  { date: '2026.03.13', title: '東京のビジネスイベント情報メディア「BizinTokyo」を開設しました' },
+  { date: '2025.11.07', title: 'note「Rice Capital福山×グロービス高宮」を公開しました' },
+  { date: '2025.10.29', title: 'note「LayerXが語る、AI時代の経営プレイブック」を公開しました' },
 ];
-
-const badgeColors: Record<string, string> = {
-  'コーポレート': '#1A1AB4',
-  'note更新': '#41c9b4',
-};
 ---
 
 <BaseLayout title="Conectando｜英語で行うビジネスイベントを、企画から当日運営まで" rawTitle description="グローバルなネットワークを活かし、日本のビジネス発展を支援するConectando株式会社の公式サイト">
 
-<!-- ①②③ ヒーロー（大見出し→説明文→ボタン→大きな写真1枚→小さな写真4枚の縦積み） -->
+<!-- ① ヒーロー：写真→ラベル→見出し→一文→ボタン -->
+<section class="hero-photo-band">
+  <img src="/images/top/hero-gatetoindiaafrica.webp" alt="Gate to India & Africa 2025 集合写真" loading="eager" />
+</section>
 <section class="hero1">
   <div class="hero-body">
-    <p class="hero-eyebrow">外資系企業の日本担当者と、海外ゲストを迎える日本企業のために</p>
-    <h1 class="hero-h1">英語で行うビジネスイベントを、<br>企画から当日運営まで。</h1>
-    <p class="hero-lead">東京を拠点に、テクノロジー・スタートアップ関連のイベントを英語で企画し、会場を手配し、当日を運営します。</p>
+    <p class="hero-eyebrow">TOKYO · ENGLISH BUSINESS EVENTS</p>
+    <h1 class="hero-h1">
+      英語で行うビジネスイベントを、<br>
+      企画から当日運営まで。
+    </h1>
+    <p class="hero-lead">海外から東京でイベントを開く企業と、海外ゲストを迎える日本企業のための運営会社です。</p>
     <div class="hero-btns">
-      <a href="/contact" class="btn">イベントの相談をする</a>
-      <a href="/case" class="btn ghost">事例を見る</a>
+      <a href="/contact" class="btn">イベントの相談をする →</a>
     </div>
-
-    <div class="hero-photo">
-      <img src="/images/top/hero-gatetoindiaafrica.webp" alt="Gate to India & Africa の集合写真" loading="eager" />
-    </div>
-
-    <ul class="thumbs" role="list">
-      {thumbs.map(t => (
-        <li>
-          <a href={t.href}>
-            <img src={t.img} alt={t.title} loading="lazy" />
-            <span>{t.title}</span>
-          </a>
-        </li>
-      ))}
-    </ul>
   </div>
 </section>
 
-<!-- ④ Conectandoが選ばれる理由 -->
-<section class="why-sec">
-  <div class="dot-rule"></div>
-  <div class="sec-body">
-    <h2 class="sec-h2">Conectandoが選ばれる理由</h2>
-    <p class="sec-sub">通訳や翻訳の代わりではなく、「英語で直接話せて、イベントに責任を持つ相手」がいること。</p>
-    <ul class="why-grid" role="list">
-      {why.map(w => (
-        <li class="why-item">
-          <h3 class="why-title">{w.title}</h3>
-          <p class="why-desc">{w.desc}</p>
-        </li>
-      ))}
-    </ul>
-  </div>
-</section>
-
-<ContactCTA text="まずは1回、相談してみませんか" buttonText="イベントの相談をする" />
-
-<!-- ⑤ サービス一覧 -->
+<!-- ② SERVICE -->
 <section class="svc-sec">
-  <div class="dot-rule"></div>
   <div class="sec-body">
-    <h2 class="sec-h2">サービス</h2>
-    <p class="sec-sub">英語イベント運営を中心に、その前後をまとめてお手伝いします。</p>
-    <ul class="svc-list" role="list">
+    <div class="sec-label">SERVICE</div>
+    <ul class="svc-grid" role="list">
       {services.map(s => (
-        <li class="svc-item">
+        <li class:list={['svc-item', { 'svc-item-core': s.tag }]}>
           <a href={s.href} class="svc-link">
-            <img src={s.img} alt={s.title} class="svc-img" loading="lazy" />
-            <div>
-              <h3 class="svc-title">{s.title}</h3>
-              <p class="svc-desc">{s.desc}</p>
-            </div>
+            <div class="svc-eyebrow">{s.num}{s.tag && <> · {s.tag}</>}</div>
+            <h3 class="svc-title">{s.title}<span class="svc-tag-mobile">{s.tag}</span></h3>
+            <p class="svc-desc">{s.desc}</p>
           </a>
         </li>
       ))}
     </ul>
-    <div class="right-cta">
-      <a href="/service" class="text-cta">すべて見る <span class="btn-dot">●</span></a>
-    </div>
   </div>
 </section>
 
-<!-- ⑥ 導入事例グリッド -->
+<!-- ③ CASE -->
 <section class="cases-sec">
-  <div class="dot-rule"></div>
   <div class="sec-body">
-    <h2 class="sec-h2">事例</h2>
-    <p class="sec-sub">英語イベント運営の実績です。</p>
+    <div class="sec-head-row">
+      <div class="sec-label">CASE</div>
+      <a href="/case" class="text-cta">すべての事例 <span class="btn-dot">●</span></a>
+    </div>
     <div class="case-grid">
       {cases.map(c => (
         <a href={c.href} class="case-card">
           <img src={c.img} alt={c.title} class="case-img" loading="lazy" />
-          <div class="case-body">
-            <time class="case-date">{c.date}</time>
-            <p class="case-title">{c.title}</p>
-            <p class="case-summary">{c.summary}</p>
-            <p class="case-organizer">主催：{c.organizer}</p>
-            <div class="case-badges">
-              <span class="case-badge">{c.badge}</span>
-              <span class="case-badge case-badge-format">{c.format}</span>
-            </div>
-          </div>
+          <h3 class="case-title">{c.title}</h3>
+          <p class="case-summary">{c.summary}</p>
         </a>
       ))}
     </div>
-    <div class="right-cta">
-      <a href="/case" class="text-cta">すべて見る <span class="btn-dot">●</span></a>
-    </div>
   </div>
 </section>
 
-<!-- ⑦ コラム -->
-<section class="blog-sec">
-  <div class="dot-rule"></div>
+<!-- ④ WHY -->
+<section class="why-sec">
   <div class="sec-body">
-    <h2 class="sec-h2">コラム</h2>
-    <p class="sec-sub">英語でイベントを開く担当者のための、運営会社からのメモ。</p>
-    <div class="blog-grid">
-      {blogs.map(b => (
-        <a href={b.href} class="blog-card">
-          <img src={b.img} alt={b.title} class="blog-img" loading="lazy" />
-          <div class="blog-meta">
-            <time class="blog-date">{b.date}</time>
-            <p class="blog-title">{b.title}</p>
-          </div>
-        </a>
-      ))}
-    </div>
-    <div class="right-cta">
-      <a href="/blog" class="text-cta">すべて見る <span class="btn-dot">●</span></a>
+    <div class="why-box">
+      <div class="sec-label">WHY</div>
+      <ul class="why-grid" role="list">
+        {why.map(w => (
+          <li class="why-item">{w}</li>
+        ))}
+      </ul>
     </div>
   </div>
 </section>
 
-<!-- ⑧ お知らせ -->
-<section class="news-sec">
-  <div class="dot-rule"></div>
+<!-- ⑤ COLUMN / NEWS -->
+<section class="cn-sec">
   <div class="sec-body">
-    <h2 class="sec-h2">お知らせ</h2>
-    <ul class="news-list" role="list">
-      {news.map(n => (
-        <li class="news-item">
-          <a
-            href={n.href}
-            class="news-link"
-            target={n.external ? '_blank' : undefined}
-            rel={n.external ? 'noopener' : undefined}
-          >
-            <time class="news-date">{n.date}</time>
-            <span class="news-badge" style={`background:${badgeColors[n.badge] ?? '#1A1AB4'}`}>{n.badge}</span>
-            <span class="news-text">{n.title}</span>
-          </a>
-        </li>
-      ))}
-    </ul>
-    <div class="right-cta">
-      <a href="/news" class="text-cta">すべて見る <span class="btn-dot">●</span></a>
+    <div class="cn-grid">
+      <div>
+        <div class="sec-label">COLUMN</div>
+        <ul class="cn-list" role="list">
+          {columns.map(c => (
+            <li class="cn-item">
+              <span class="cn-date">{c.date}</span>
+              <span class="cn-text">{c.title}</span>
+            </li>
+          ))}
+        </ul>
+      </div>
+      <div>
+        <div class="sec-label">NEWS</div>
+        <ul class="cn-list" role="list">
+          {news.map(n => (
+            <li class="cn-item">
+              <span class="cn-date">{n.date}</span>
+              <span class="cn-text">{n.title}</span>
+            </li>
+          ))}
+        </ul>
+      </div>
     </div>
   </div>
 </section>
 
-<ContactCTA />
+<ContactCTA text="まずは1回、相談してみませんか。" buttonText="イベントの相談をする →" />
 
 </BaseLayout>
 
 <style>
 /* ─── Hero ─── */
-.hero1 { padding: 2rem 0 1.5rem; }
-.hero-body { max-width: 80rem; margin: 0 auto; padding: 0 2rem; }
-.hero-eyebrow {
-  font-size: .8125rem;
-  font-weight: 600;
-  color: var(--color-brand);
-  margin-bottom: .375rem;
-}
-.hero-h1 {
-  font-size: clamp(1.625rem, 2.6vw, 2.375rem);
-  font-weight: 700;
-  line-height: 1.35;
-  color: var(--color-heading);
-  letter-spacing: -0.01em;
-  margin-bottom: 1rem;
-}
-.hero-lead {
-  font-size: .9375rem;
-  color: var(--color-text);
-  line-height: 1.7;
-  margin-bottom: 1.5rem;
-  max-width: 40rem;
-}
-.hero-btns { display: flex; gap: 1rem; flex-wrap: wrap; }
-.btn {
-  display: inline-flex;
-  align-items: center;
-  background: var(--color-brand);
-  color: #fff;
-  padding: .875rem 2rem;
-  border-radius: 9999px;
-  font-weight: 600;
-  font-size: .9375rem;
-  text-decoration: none;
-  transition: opacity .2s;
-}
-.btn:hover { opacity: .85; }
-.btn.ghost {
-  background: transparent;
-  color: var(--color-brand);
-  border: 1px solid var(--color-brand);
-}
-
-.hero-photo {
-  margin-top: 1.5rem;
-  aspect-ratio: 5 / 2;
-  border-radius: .375rem;
-  overflow: hidden;
-}
-.hero-photo img {
+.hero-photo-band { width: 100%; height: 400px; overflow: hidden; }
+.hero-photo-band img {
   width: 100%;
   height: 100%;
   object-fit: cover;
-  object-position: center 82%;
+  object-position: center 78%;
   display: block;
 }
 
-.thumbs {
-  list-style: none;
-  padding: 0;
-  margin: .875rem 0 0;
-  display: grid;
-  grid-template-columns: repeat(4, 1fr);
-  gap: .75rem;
-}
-.thumbs a { display: block; text-decoration: none; color: inherit; }
-.thumbs img {
-  width: 100%;
-  aspect-ratio: 16 / 9;
-  object-fit: cover;
-  border-radius: .375rem;
-  display: block;
-  margin-bottom: .375rem;
-}
-.thumbs span {
-  font-size: .75rem;
-  color: var(--color-text);
-  line-height: 1.4;
-  display: block;
-}
-
-/* ─── Dot rule (セクション区切り) ─── */
-.dot-rule {
-  display: flex;
-  align-items: center;
-  padding: 0 2rem;
-  margin-bottom: 2rem;
-}
-.dot-rule::before {
-  content: '';
-  width: 10px; height: 10px;
-  border-radius: 50%;
-  background: var(--color-brand);
-  flex-shrink: 0;
-  margin-right: .5rem;
-}
-.dot-rule::after {
-  content: '';
-  flex: 1;
-  height: 1px;
-  background: #d1d5db;
-}
-
-/* ─── Section body ─── */
-.sec-body { max-width: 80rem; margin: 0 auto; padding: 0 2rem 4rem; }
-.sec-h2 {
-  font-size: clamp(1.375rem, 2.6vw, 1.875rem);
-  font-weight: 700;
-  color: var(--color-heading);
-  margin-bottom: .5rem;
-}
-.sec-sub {
-  font-size: .9375rem;
-  color: #9999CE;
-  margin-bottom: 2rem;
-}
-
-/* ─── Why (選ばれる理由) ─── */
-.why-sec { background: var(--color-accent); padding-top: 3rem; }
-.why-grid {
-  list-style: none;
-  padding: 0;
-  margin: 0;
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: 2rem;
-}
-.why-title { font-size: 1.0625rem; font-weight: 700; color: var(--color-brand); margin-bottom: .75rem; }
-.why-desc { font-size: .875rem; color: var(--color-text); line-height: 1.8; }
-
-/* ─── Services ─── */
-.svc-sec { padding-top: 3rem; }
-.svc-list { list-style: none; padding: 0; margin: 0; }
-.svc-item { border-bottom: 1px solid #e5e7eb; }
-.svc-item:first-child { border-top: 1px solid #e5e7eb; }
-.svc-link {
-  display: flex;
-  align-items: flex-start;
-  gap: 1.5rem;
-  padding: 1.5rem 0;
-  text-decoration: none;
-  color: inherit;
-}
-.svc-img {
-  width: 180px; height: 120px;
-  object-fit: cover;
-  border-radius: .375rem;
-  flex-shrink: 0;
-}
-.svc-title {
-  font-size: 1.125rem;
+.hero1 { padding: 2.5rem 0 1.5rem; }
+.hero-body { max-width: 80rem; margin: 0 auto; padding: 0 2rem; }
+.hero-eyebrow {
+  font-size: .8125rem;
+  letter-spacing: .16em;
   font-weight: 700;
   color: var(--color-brand);
-  margin-bottom: .5rem;
-  display: flex;
-  align-items: center;
-  gap: .625rem;
+  margin-bottom: .875rem;
 }
-.svc-desc {
-  font-size: .9375rem;
-  color: #666666;
+.hero-h1 {
+  font-size: clamp(1.875rem, 1.1rem + 3vw, 3rem);
+  font-weight: 700;
+  line-height: 1.3;
+  color: var(--color-heading);
+  letter-spacing: -0.01em;
+  word-break: keep-all;
+  margin-bottom: 1.25rem;
+}
+.hero-lead {
+  font-size: clamp(1.0625rem, .95rem + .5vw, 1.375rem);
+  color: var(--color-text);
   line-height: 1.7;
+  margin-bottom: 1.75rem;
+  max-width: 42rem;
 }
+.hero-btns { display: flex; }
+.btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  background: var(--color-brand);
+  color: #fff;
+  padding: 1.0625rem 2rem;
+  border-radius: 9999px;
+  font-weight: 700;
+  font-size: 1rem;
+  text-decoration: none;
+  transition: opacity .2s;
+}
+.btn:hover { opacity: .85; text-decoration: none; }
 
-/* ─── Right CTA ─── */
-.right-cta { display: flex; justify-content: flex-end; margin-top: 1.5rem; }
+/* ─── Section body / labels ─── */
+.sec-body { max-width: 80rem; margin: 0 auto; padding: 0 2rem; }
+.sec-label {
+  font-size: .8125rem;
+  letter-spacing: .16em;
+  font-weight: 700;
+  color: var(--color-brand);
+}
+.sec-head-row { display: flex; align-items: baseline; justify-content: space-between; }
+
+.svc-sec { padding-top: 6rem; }
+.cases-sec { padding-top: 7rem; }
+.why-sec { padding-top: 7rem; }
+.cn-sec { padding-top: 7rem; }
+
+/* ─── Right CTA (view all) ─── */
 .text-cta {
   display: inline-flex;
   align-items: center;
@@ -464,91 +254,118 @@ const badgeColors: Record<string, string> = {
   font-size: .9375rem;
   text-decoration: none;
 }
-.text-cta:hover { opacity: .75; }
+.text-cta:hover { opacity: .75; text-decoration: none; }
+.btn-dot { font-size: .55em; }
 
-/* ─── Cases grid ─── */
-.cases-sec { background: var(--color-accent); padding-top: 3rem; }
+/* ─── Services ─── */
+.svc-grid {
+  list-style: none;
+  padding: 0;
+  margin: 1.75rem 0 0;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 2rem;
+  border-top: 1px solid var(--color-border);
+}
+.svc-item { padding-top: 1.5rem; margin-top: -1px; border-top: 1px solid transparent; }
+.svc-item-core { border-top: 3px solid var(--color-brand); }
+.svc-link { display: block; text-decoration: none; color: inherit; }
+.svc-eyebrow {
+  font-size: .75rem;
+  font-weight: 700;
+  letter-spacing: .1em;
+  color: var(--color-text-muted);
+}
+.svc-item-core .svc-eyebrow { color: var(--color-brand); }
+.svc-title {
+  font-size: 1.375rem;
+  font-weight: 700;
+  color: var(--color-heading);
+  line-height: 1.4;
+  margin-top: .75rem;
+}
+.svc-tag-mobile {
+  display: none;
+  font-size: .6875rem;
+  font-weight: 700;
+  color: var(--color-brand);
+  margin-left: .5rem;
+  vertical-align: middle;
+}
+.svc-desc {
+  font-size: .875rem;
+  color: var(--color-text-muted);
+  line-height: 1.7;
+  margin-top: .625rem;
+}
+
+/* ─── Cases ─── */
 .case-grid {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
-  gap: 1rem;
+  gap: 2rem;
+  margin-top: 1.75rem;
 }
-.case-card {
-  display: block;
-  border-radius: .5rem;
-  overflow: hidden;
-  text-decoration: none;
-  color: inherit;
-  background: #fff;
-  border: 1px solid var(--color-border);
-}
-.case-img { width: 100%; aspect-ratio: 16/9; object-fit: cover; display: block; }
-.case-body { padding: 1.25rem 1.25rem 1.5rem; }
-.case-date { display: block; font-size: .8125rem; color: #9999ce; margin-bottom: .5rem; }
-.case-title { font-size: 1.0625rem; font-weight: 700; color: var(--color-brand); line-height: 1.5; margin-bottom: .5rem; }
-.case-summary { font-size: .8125rem; color: var(--color-text-muted); line-height: 1.6; margin-bottom: .625rem; }
-.case-organizer { font-size: .8125rem; color: var(--color-text-muted); margin-bottom: 1rem; }
-.case-badges { display: flex; flex-wrap: wrap; gap: .375rem; }
-.case-badge {
-  display: inline-block;
-  font-size: .75rem;
-  font-weight: 600;
-  padding: .3125rem .875rem;
-  background: var(--color-brand);
-  color: #fff;
-  border-radius: 9999px;
-}
-.case-badge-format {
+.case-card { display: flex; flex-direction: column; gap: .875rem; text-decoration: none; color: inherit; }
+.case-card:hover { text-decoration: none; }
+.case-img { width: 100%; aspect-ratio: 3/2; object-fit: cover; border-radius: .5rem; display: block; }
+.case-title { font-size: 1.25rem; font-weight: 700; color: var(--color-heading); line-height: 1.4; }
+.case-summary { font-size: .875rem; color: var(--color-text-muted); }
+
+/* ─── Why ─── */
+.why-box {
   background: var(--color-accent);
-  color: var(--color-brand);
+  border-radius: .5rem;
+  padding: 3.5rem;
 }
+.why-grid {
+  list-style: none;
+  padding: 0;
+  margin: 1rem 0 0;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 2.5rem;
+}
+.why-item { font-size: 1.375rem; font-weight: 700; color: var(--color-heading); line-height: 1.4; }
 
-/* ─── Blog ─── */
-.blog-sec { padding-top: 3rem; }
-.blog-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 1.5rem; }
-.blog-card { display: block; text-decoration: none; color: inherit; }
-.blog-img {
-  width: 100%; aspect-ratio: 4/3;
-  object-fit: cover;
-  border-radius: .375rem;
-  margin-bottom: .75rem;
-  display: block;
+/* ─── Column / News ─── */
+.cn-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 4rem;
 }
-.blog-meta { padding: 0 .125rem; }
-.blog-date { display: block; font-size: .8125rem; color: #666666; margin-bottom: .375rem; }
-.blog-title { font-size: .9375rem; font-weight: 600; color: var(--color-brand); line-height: 1.5; }
-
-/* ─── News ─── */
-.news-sec { background: var(--color-accent); padding-top: 3rem; }
-.news-list { list-style: none; padding: 0; margin: 0; }
-.news-item { border-bottom: 1px solid #d1d5db; }
-.news-item:first-child { border-top: 1px solid #d1d5db; }
-.news-link {
-  display: flex;
-  align-items: baseline;
-  flex-wrap: wrap;
-  gap: .75rem;
-  padding: 1rem 0;
-  text-decoration: none;
-  color: inherit;
-}
-.news-date { font-size: .8125rem; color: #666666; white-space: nowrap; }
-.news-badge {
-  font-size: .6875rem;
-  padding: .1875rem .625rem;
-  color: #fff;
-  border-radius: 9999px;
-  white-space: nowrap;
-}
-.news-text { font-size: .9375rem; color: var(--color-heading); line-height: 1.5; }
-
-@media (max-width: 700px) {
-  .thumbs { grid-template-columns: repeat(2, 1fr); }
-}
+.cn-list { list-style: none; padding: 0; margin: 1.25rem 0 0; border-top: 1px solid var(--color-border); }
+.cn-item { display: flex; gap: 1.25rem; padding: 1.25rem 0; border-bottom: 1px solid var(--color-border); }
+.cn-date { flex: none; width: 6rem; font-size: .8125rem; color: var(--color-text-muted); }
+.cn-text { font-size: .9375rem; color: var(--color-heading); line-height: 1.6; }
 
 @media (max-width: 768px) {
-  .why-grid { grid-template-columns: 1fr; }
-  .case-grid { grid-template-columns: 1fr; }
-  .blog-grid { grid-template-columns: 1fr; }
+  .hero-photo-band { height: 340px; }
+  .hero-photo-band img { object-position: 45% 75%; }
+  .hero-body { padding: 0 1.25rem; }
+  .sec-body { padding: 0 1.25rem; }
+  .hero-btns .btn { width: 100%; }
+  .hero-h1 { font-size: clamp(1.125rem, 5.5vw, 1.75rem); }
+
+  .svc-sec { padding-top: 3.5rem; }
+  .cases-sec { padding-top: 3.5rem; }
+  .why-sec { padding-top: 3.5rem; }
+  .cn-sec { padding-top: 3.5rem; }
+
+  .svc-grid { grid-template-columns: 1fr; gap: 0; }
+  .svc-item { border-top: none; border-bottom: 1px solid var(--color-border); padding: 1.125rem 0; }
+  .svc-item-core { border-top: none; }
+  .svc-item-core .svc-eyebrow { display: none; }
+  .svc-eyebrow { display: none; }
+  .svc-tag-mobile { display: inline; }
+  .svc-title { margin-top: 0; font-size: 1.25rem; }
+
+  .case-grid { grid-template-columns: 1fr; gap: 2rem; }
+
+  .why-box { padding: 1.75rem 1.5rem; }
+  .why-grid { grid-template-columns: 1fr; gap: 1.25rem; }
+  .why-item { font-size: 1.25rem; }
+
+  .cn-grid { grid-template-columns: 1fr; gap: 3rem; }
 }
 </style>
