@@ -6,13 +6,13 @@ const APPS_SCRIPT_URL    = "https://script.google.com/macros/s/AKfycbyGCdFNh_QWh
 const TURNSTILE_SITE_KEY = ""; // Set Cloudflare Turnstile site key here
 ---
 
-<BaseLayout title="Contact Us" description="Get in touch with Conectando. We're here to help with event management, Japan tours, market entry support, and more.">
+<BaseLayout title="Contact | Conectando" rawTitle description="Get in touch with Conectando. We're here to help with event management, Japan tours, market entry support, and more.">
 
   <PageHero label="CONTACT" title="CONTACT" />
 
   <div class="page-wrap">
 
-    <p class="page-lead">Contact us via the form below. We will reply within 2–3 business days.</p>
+    <p class="page-lead">Tell us about your event or visit — no dates, venue or headcount needed yet. We reply within 2–3 business days, in English.</p>
 
     <!-- Form container -->
     <div id="formContainer">
@@ -53,10 +53,10 @@ const TURNSTILE_SITE_KEY = ""; // Set Cloudflare Turnstile site key here
           <div class="select-wrap">
             <select class="field-select" id="source" name="source">
               <option value="">Please select</option>
-              <option value="Introduction">Introduction</option>
+              <option value="Referral">Referral</option>
               <option value="Web search">Web search</option>
-              <option value="SNS">SNS</option>
-              <option value="Advertisement">Advertisement</option>
+              <option value="Social media">Social media</option>
+              <option value="Advertising">Advertising</option>
               <option value="Other">Other</option>
             </select>
           </div>
@@ -64,15 +64,16 @@ const TURNSTILE_SITE_KEY = ""; // Set Cloudflare Turnstile site key here
 
         <div class="field-group">
           <label class="field-label" for="type">
-            Inquiry Type <span class="required">Required</span>
+            What is this about? <span class="required">Required</span>
           </label>
           <div class="select-wrap">
             <select class="field-select" id="type" name="type" required>
               <option value="">Please select</option>
-              <option value="Event Management Support">Event Management Support</option>
-              <option value="Japan Tours">Japan Tours</option>
-              <option value="Japan Entry Support">Japan Entry Support</option>
-              <option value="Collaboration">Collaboration</option>
+              <option value="Event in Tokyo">Event in Tokyo</option>
+              <option value="Attendee logistics and promotion (BizinTokyo)">Attendee logistics and promotion (BizinTokyo)</option>
+              <option value="Delegation or company visits">Delegation or company visits</option>
+              <option value="Japan market entry">Japan market entry</option>
+              <option value="Partnership">Partnership</option>
               <option value="Other">Other</option>
             </select>
           </div>
@@ -80,7 +81,7 @@ const TURNSTILE_SITE_KEY = ""; // Set Cloudflare Turnstile site key here
 
         <div class="field-group">
           <label class="field-label" for="message">
-            Inquiry Details <span class="required">Required</span>
+            Your message <span class="required">Required</span>
           </label>
           <textarea class="field-textarea" id="message" name="message" rows="6" required></textarea>
         </div>
@@ -120,13 +121,12 @@ const TURNSTILE_SITE_KEY = ""; // Set Cloudflare Turnstile site key here
           <polyline points="20 6 9 17 4 12" />
         </svg>
       </div>
-      <h3>Your inquiry has been received</h3>
+      <h3>Thanks — we've received your message.</h3>
       <p>
-        A confirmation email has been sent to your address.<br>
-        We will reply within <strong>2–3 business days</strong>.
+        A confirmation email has been sent to your address. We reply within <strong>2–3 business days</strong>, in English.
       </p>
       <p class="form-note">
-        If you don't receive the email, please check your spam folder.
+        If it doesn't arrive, please check your spam folder.
       </p>
       <div class="form-actions">
         <a href="/en/" class="action-btn">Back to Top</a>
