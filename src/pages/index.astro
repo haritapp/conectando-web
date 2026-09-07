@@ -30,8 +30,7 @@ const services = [
     title: '英語イベント運営',
     desc:  '企画立案、会場手配、登壇者・来場者との英語でのやり取り、当日運営、終了後の振り返りまで。カンファレンス、ミートアップ、社内イベント、海外ゲストを招くレセプションなど。',
     href:  '/service#service-1',
-    img:   '/images/service/feature-event-1.jpg',
-    main:  true,
+    img:   '/images/service/case-1-gate-india-africa.webp',
   },
   {
     title: 'メディア運用',
@@ -43,7 +42,7 @@ const services = [
     title: '視察・アテンド・ツアー手配',
     desc:  '来日するビジネス訪問客の視察、企業訪問、イベント参加の手配とアテンド。ビジネスマッチングの場づくりまで。',
     href:  '/service#service-2',
-    img:   '/images/service/feature-tour-venue.webp',
+    img:   '/images/top/hero-sushitechtokyo.webp',
   },
   {
     title: '日本進出支援',
@@ -192,7 +191,7 @@ const badgeColors: Record<string, string> = {
           <a href={s.href} class="svc-link">
             <img src={s.img} alt={s.title} class="svc-img" loading="lazy" />
             <div>
-              <h3 class="svc-title">{s.title}{s.main && <span class="main-badge">主軸</span>}</h3>
+              <h3 class="svc-title">{s.title}</h3>
               <p class="svc-desc">{s.desc}</p>
             </div>
           </a>
@@ -447,14 +446,6 @@ const badgeColors: Record<string, string> = {
   display: flex;
   align-items: center;
   gap: .625rem;
-}
-.main-badge {
-  font-size: .6875rem;
-  font-weight: 600;
-  color: #fff;
-  background: var(--color-brand);
-  padding: .1875rem .625rem;
-  border-radius: 9999px;
 }
 .svc-desc {
   font-size: .9375rem;
