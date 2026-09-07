@@ -21,7 +21,7 @@ export async function getStaticPaths() {
       scale:    '200名',
       venue:    'Tokyo Innovation Base (TIB)',
       articles: [],
-      img:      '/images/about/event-group.webp',
+      img:      '/images/top/hero-gatetoindiaafrica.webp',
     },
     {
       slug:     'newyorksiliconalley',
@@ -40,7 +40,7 @@ export async function getStaticPaths() {
       articles: [
         { label: 'イベントレポート（Pilotboat）', href: 'https://pilotboat.jp/en/2024/06/ny-silicon-alley-meetup/' },
       ],
-      img:      '/images/about/event-group.webp',
+      img:      '/images/top/hero-main-nysiliconalley.webp',
     },
     {
       slug:     'startupdiversityday',
@@ -57,7 +57,7 @@ export async function getStaticPaths() {
       scale:    '100名',
       venue:    'Google for Startups Campus Tokyo',
       articles: [],
-      img:      '/images/about/event-group.webp',
+      img:      '/images/top/hero-startupdiversityday.webp',
     },
     {
       slug:     'gatetoindiaafrica2025',
@@ -75,7 +75,7 @@ export async function getStaticPaths() {
       scale:    '約200名',
       venue:    'Tokyo Innovation Base (TIB)',
       articles: [],
-      img:      '/images/about/event-group.webp',
+      img:      '/images/top/case-gatetoindiaafrica2025.png',
     },
     {
       slug:     'newyorksiliconalley12',
@@ -98,7 +98,7 @@ export async function getStaticPaths() {
       articles: [
         { label: 'イベントレポート（Pilotboat）', href: 'https://pilotboat.jp/2025/05/nysam12/' },
       ],
-      img:      '/images/about/event-group.webp',
+      img:      '/images/top/case-newyorksiliconalley.png',
     },
     {
       slug:     'indoafrica2025',
@@ -116,7 +116,7 @@ export async function getStaticPaths() {
       scale:    '100名',
       venue:    '京都',
       articles: [],
-      img:      '/images/about/event-group.webp',
+      img:      '/images/top/case-indiaafrica-kyoto.png',
     },
   ];
 
@@ -129,7 +129,7 @@ export async function getStaticPaths() {
 const { caseData: c } = Astro.props;
 ---
 
-<BaseLayout title={`${c.title} | 導入事例`} description={`${c.title}（${c.date}）の導入事例をご紹介します。`}>
+<BaseLayout title={c.title} description={`${c.title}（${c.date}）の導入事例をご紹介します。`}>
 
   <div class="detail-hero">
     <img src={c.img} alt={c.title} class="hero-img" />

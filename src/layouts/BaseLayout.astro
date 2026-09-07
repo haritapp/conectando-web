@@ -8,11 +8,13 @@ interface Props {
   title: string;
   description?: string;
   ogImage?: string;
+  rawTitle?: boolean;
 }
 
-const { title, description = 'Bilingual event planning & management in Tokyo.', ogImage = 'https://www.conec-tando.com/images/og-default.jpg' } = Astro.props;
+const { title, description = 'Bilingual event planning & management in Tokyo.', ogImage = 'https://www.conec-tando.com/images/og-default.jpg', rawTitle = false } = Astro.props;
 const lang = getLangFromUrl(Astro.url);
 const canonicalURL = new URL(Astro.url.pathname, Astro.site);
+const pageTitle = rawTitle ? title : `${title}｜Conectando`;
 ---
 
 <!doctype html>
@@ -20,10 +22,10 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.site);
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>{title} | Conectando Inc.</title>
+    <title>{pageTitle}</title>
     <meta name="description" content={description} />
     <link rel="canonical" href={canonicalURL} />
-    <meta property="og:title" content={`${title} | Conectando Inc.`} />
+    <meta property="og:title" content={pageTitle} />
     <meta property="og:description" content={description} />
     <meta property="og:url" content={canonicalURL} />
     <meta property="og:type" content="website" />

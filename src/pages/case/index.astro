@@ -9,8 +9,10 @@ const cases = [
     title:     'Gate to India & Africa 2025',
     date:      '2025年7月7日開催',
     service:   '英語イベント運営',
+    format:    'カンファレンス',
+    summary:   'IVS公式サイドイベント。日本とインド・アフリカのスタートアップをつなぐカンファレンス。',
     organizer: 'SGgrow Pte Ltd／Uncovered Fund',
-    img:       '/images/about/event-group.webp',
+    img:       '/images/top/case-gatetoindiaafrica2025.png',
     href:      '/case/detail/gatetoindiaafrica2025',
   },
   {
@@ -18,8 +20,10 @@ const cases = [
     title:     'New York Silicon Alley Meetup #12',
     date:      '2025年5月8日開催',
     service:   '英語イベント運営',
+    format:    'ミートアップ',
+    summary:   'SusHi Tech Tokyo 2025サイドイベント。NYのスタートアップエコシステムを紹介。',
     organizer: 'Square Up New York',
-    img:       '/images/about/event-group.webp',
+    img:       '/images/top/case-newyorksiliconalley.png',
     href:      '/case/detail/newyorksiliconalley12',
   },
   {
@@ -27,8 +31,10 @@ const cases = [
     title:     '【インド・アフリカ】起業家・投資家交流会 〜京都で感じるグローバルサウスの勢い〜',
     date:      '2025年7月4日開催',
     service:   '英語イベント運営',
+    format:    '交流会',
+    summary:   'IVS開催期間中の京都サイドイベント。インド・アフリカと日本の起業家・投資家が交流。',
     organizer: 'SGgrow Pte Ltd／Uncovered Fund',
-    img:       '/images/about/event-group.webp',
+    img:       '/images/top/case-indiaafrica-kyoto.png',
     href:      '/case/detail/indoafrica2025',
   },
   {
@@ -36,8 +42,10 @@ const cases = [
     title:     'New York Silicon Alley Meetup #11',
     date:      '2024年5月9日開催',
     service:   '英語イベント運営',
+    format:    'ミートアップ',
+    summary:   '約6年ぶりのNY拠点投資家・起業家イベント。ニューヨークの最新エコシステムを紹介。',
     organizer: 'SQRP NY',
-    img:       '/images/about/event-group.webp',
+    img:       '/images/top/hero-main-nysiliconalley.webp',
     href:      '/case/detail/newyorksiliconalley',
   },
   {
@@ -45,8 +53,10 @@ const cases = [
     title:     'Startup Diversity Day',
     date:      '2024年5月14日開催',
     service:   '英語イベント運営',
+    format:    'カンファレンス',
+    summary:   'SusHiTech Tokyoサイドイベント。多様性とスタートアップの革新性を議論。',
     organizer: 'Yazawa Ventures',
-    img:       '/images/about/event-group.webp',
+    img:       '/images/top/hero-startupdiversityday.webp',
     href:      '/case/detail/startupdiversityday',
   },
   {
@@ -54,14 +64,16 @@ const cases = [
     title:     'Gate to India & Africa 2024',
     date:      '2024年7月9日開催',
     service:   '英語イベント運営',
+    format:    'カンファレンス',
+    summary:   'IVS公式サイドイベント。日本とインド・アフリカのスタートアップをつなぐカンファレンス。',
     organizer: 'SGgrow Pte Ltd／Uncovered Fund',
-    img:       '/images/about/event-group.webp',
+    img:       '/images/top/hero-gatetoindiaafrica.webp',
     href:      '/case/detail/gatetoindiaafrica',
   },
 ];
 ---
 
-<BaseLayout title="導入事例・実績紹介" description="海外ゲストを迎える英語イベントの運営事例。カンファレンス、ミートアップ、交流会など">
+<BaseLayout title="導入事例" description="海外ゲストを迎える英語イベントの運営事例。カンファレンス、ミートアップ、交流会など">
 
   <PageHero label="CASE" title="CASE" />
 
@@ -75,8 +87,12 @@ const cases = [
           <div class="case-body">
             <time class="case-date">{c.date}</time>
             <p class="case-title">{c.title}</p>
+            <p class="case-summary">{c.summary}</p>
             <p class="case-organizer">主催：{c.organizer}</p>
-            <span class="case-badge">{c.service}</span>
+            <div class="case-badges">
+              <span class="case-badge">{c.service}</span>
+              <span class="case-badge case-badge-format">{c.format}</span>
+            </div>
           </div>
         </a>
       ))}
@@ -123,12 +139,18 @@ const cases = [
 .case-body { padding: 1rem 1.125rem 1.25rem; }
 .case-date { display: block; font-size: .75rem; color: var(--color-text-muted); margin-bottom: .375rem; }
 .case-title { font-size: .9375rem; font-weight: 600; color: var(--color-text); line-height: 1.5; margin-bottom: .375rem; }
+.case-summary { font-size: .8125rem; color: var(--color-text-muted); line-height: 1.6; margin-bottom: .625rem; }
 .case-organizer { font-size: .75rem; color: var(--color-text-muted); margin-bottom: .625rem; }
+.case-badges { display: flex; flex-wrap: wrap; gap: .375rem; }
 .case-badge {
   font-size: .6875rem;
   padding: .1875rem .625rem;
   background: var(--color-brand);
   color: #fff;
   border-radius: 9999px;
+}
+.case-badge-format {
+  background: var(--color-accent);
+  color: var(--color-brand);
 }
 </style>

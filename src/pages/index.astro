@@ -12,7 +12,7 @@ const thumbs = [
 
 const why = [
   {
-    title: '英語で直接話せる',
+    title: '英語で直接話せる担当がつく',
     desc: '本国のチームや海外の登壇者と、担当者を介さずに直接やり取りします。通訳役を担当者に押しつけません。',
   },
   {
@@ -20,7 +20,7 @@ const why = [
     desc: 'テクノロジー企業、スタートアップ・投資家、大企業の新規事業部門が集まるイベントを長く手がけてきました。用語も登壇者の顔ぶれも、説明なしで通じます。',
   },
   {
-    title: '一部からでも、全体でも',
+    title: '当日のみでも、一括でも',
     desc: '当日運営だけ、会場手配だけ、といった部分的なご依頼から、企画から当日までの一括まで。必要なところだけ使えます。',
   },
 ];
@@ -59,6 +59,8 @@ const cases = [
     title:     'Gate to India & Africa 2025',
     organizer: 'SGgrow Pte Ltd／Uncovered Fund',
     badge:     '英語イベント運営',
+    format:    'カンファレンス',
+    summary:   'IVS公式サイドイベント。日本とインド・アフリカのスタートアップをつなぐカンファレンス。',
     href:      '/case/detail/gatetoindiaafrica2025',
     img:       '/images/top/case-gatetoindiaafrica2025.png',
   },
@@ -67,6 +69,8 @@ const cases = [
     title:     'New York Silicon Alley Meetup #12',
     organizer: 'Square Up New York',
     badge:     '英語イベント運営',
+    format:    'ミートアップ',
+    summary:   'SusHi Tech Tokyo 2025サイドイベント。NYのスタートアップエコシステムを紹介。',
     href:      '/case/detail/newyorksiliconalley12',
     img:       '/images/top/case-newyorksiliconalley.png',
   },
@@ -75,6 +79,8 @@ const cases = [
     title:     '【インド・アフリカ】起業家・投資家交流会 〜京都で感じるグローバルサウスの勢い〜',
     organizer: 'SGgrow Pte Ltd／Uncovered Fund',
     badge:     '英語イベント運営',
+    format:    '交流会',
+    summary:   'IVS開催期間中の京都サイドイベント。インド・アフリカと日本の起業家・投資家が交流。',
     href:      '/case/detail/indoafrica2025',
     img:       '/images/top/case-indiaafrica-kyoto.png',
   },
@@ -82,13 +88,13 @@ const cases = [
 
 const blogs = [
   {
-    date:  '2024/10/7',
+    date:  '2024年10月7日',
     title: '外資系企業の日本担当者が日本でイベントを開催する際に考慮すべき4つのポイント',
     href:  '/blog',
     img:   'https://images.unsplash.com/photo-1521737604893-d14cc237f11d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=500',
   },
   {
-    date:  '2024/9/19',
+    date:  '2024年9月19日',
     title: '英語の主催者が日本でイベントを成功させるたった1つのポイント',
     href:  '/blog',
     img:   'https://images.unsplash.com/photo-1540575467063-178a50c2df87?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=500',
@@ -97,21 +103,21 @@ const blogs = [
 
 const news = [
   {
-    date:  '2026/03/13',
+    date:  '2026年3月13日',
     badge: 'コーポレート',
     title: '東京のビジネスイベント情報メディア「BizinTokyo」を開設しました',
     href:  'https://bizintokyo.com',
     external: true,
   },
   {
-    date:  '2025/11/07',
+    date:  '2025年11月7日',
     badge: 'note更新',
     title: '「Rice Capital福山×グロービス高宮 | 米国起業、Yコン採択、M&Aを経て感じたスタートアップ創業のリアル」を公開しました',
     href:  'https://note.com/firstfollowers/n/ndfa752c7b6bb',
     external: true,
   },
   {
-    date:  '2025/10/29',
+    date:  '2025年10月29日',
     badge: 'note更新',
     title: '「エンジニアから執行役員になって変わった役割。LayerXが語る、AI時代の経営プレイブック」を公開しました',
     href:  'https://note.com/firstfollowers/n/n461becdd12b9',
@@ -125,7 +131,7 @@ const badgeColors: Record<string, string> = {
 };
 ---
 
-<BaseLayout title="英語対応イベント運営・企画（東京）" description="グローバルなネットワークを活かし、日本のビジネス発展を支援するConectando株式会社の公式サイト">
+<BaseLayout title="Conectando｜英語で行うビジネスイベントを、企画から当日運営まで" rawTitle description="グローバルなネットワークを活かし、日本のビジネス発展を支援するConectando株式会社の公式サイト">
 
 <!-- ①②③ ヒーロー（大見出し→説明文→ボタン→大きな写真1枚→小さな写真4枚の縦積み） -->
 <section class="hero1">
@@ -172,6 +178,8 @@ const badgeColors: Record<string, string> = {
   </div>
 </section>
 
+<ContactCTA text="まずは1回、相談してみませんか" buttonText="イベントの相談をする" />
+
 <!-- ⑤ サービス一覧 -->
 <section class="svc-sec">
   <div class="dot-rule"></div>
@@ -210,8 +218,12 @@ const badgeColors: Record<string, string> = {
           <div class="case-body">
             <time class="case-date">{c.date}</time>
             <p class="case-title">{c.title}</p>
+            <p class="case-summary">{c.summary}</p>
             <p class="case-organizer">主催：{c.organizer}</p>
-            <span class="case-badge">{c.badge}</span>
+            <div class="case-badges">
+              <span class="case-badge">{c.badge}</span>
+              <span class="case-badge case-badge-format">{c.format}</span>
+            </div>
           </div>
         </a>
       ))}
@@ -483,7 +495,9 @@ const badgeColors: Record<string, string> = {
 .case-body { padding: 1.25rem 1.25rem 1.5rem; }
 .case-date { display: block; font-size: .8125rem; color: #9999ce; margin-bottom: .5rem; }
 .case-title { font-size: 1.0625rem; font-weight: 700; color: var(--color-brand); line-height: 1.5; margin-bottom: .5rem; }
+.case-summary { font-size: .8125rem; color: var(--color-text-muted); line-height: 1.6; margin-bottom: .625rem; }
 .case-organizer { font-size: .8125rem; color: var(--color-text-muted); margin-bottom: 1rem; }
+.case-badges { display: flex; flex-wrap: wrap; gap: .375rem; }
 .case-badge {
   display: inline-block;
   font-size: .75rem;
@@ -492,6 +506,10 @@ const badgeColors: Record<string, string> = {
   background: var(--color-brand);
   color: #fff;
   border-radius: 9999px;
+}
+.case-badge-format {
+  background: var(--color-accent);
+  color: var(--color-brand);
 }
 
 /* ─── Blog ─── */

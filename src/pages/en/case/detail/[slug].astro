@@ -20,7 +20,7 @@ export async function getStaticPaths() {
       scale:    '200 attendees',
       venue:    'Tokyo Innovation Base (TIB)',
       articles: [],
-      img:      '/images/about/event-group.webp',
+      img:      '/images/top/hero-gatetoindiaafrica.webp',
     },
     {
       slug:     'newyorksiliconalley',
@@ -38,7 +38,7 @@ export async function getStaticPaths() {
       articles: [
         { label: 'Event Report (Pilotboat)', href: 'https://pilotboat.jp/en/2024/06/ny-silicon-alley-meetup/' },
       ],
-      img:      '/images/about/event-group.webp',
+      img:      '/images/top/hero-main-nysiliconalley.webp',
     },
     {
       slug:     'startupdiversityday',
@@ -54,7 +54,7 @@ export async function getStaticPaths() {
       scale:    '100 attendees',
       venue:    'Google for Startups Campus Tokyo',
       articles: [],
-      img:      '/images/about/event-group.webp',
+      img:      '/images/top/hero-startupdiversityday.webp',
     },
     {
       slug:     'gatetoindiaafrica2025',
@@ -68,7 +68,7 @@ export async function getStaticPaths() {
       scale:    '',
       venue:    'Tokyo Innovation Base (TIB)',
       articles: [],
-      img:      '/images/about/event-group.webp',
+      img:      '/images/top/case-gatetoindiaafrica2025.png',
     },
     {
       slug:     'newyorksiliconalley12',
@@ -82,7 +82,7 @@ export async function getStaticPaths() {
       scale:    '',
       venue:    'Tokyo',
       articles: [],
-      img:      '/images/about/event-group.webp',
+      img:      '/images/top/case-newyorksiliconalley.png',
     },
     {
       slug:     'indoafrica2025',
@@ -96,7 +96,7 @@ export async function getStaticPaths() {
       scale:    '',
       venue:    'Kyoto',
       articles: [],
-      img:      '/images/about/event-group.webp',
+      img:      '/images/top/case-indiaafrica-kyoto.png',
     },
   ];
 
@@ -109,7 +109,7 @@ export async function getStaticPaths() {
 const { caseData: c } = Astro.props;
 ---
 
-<BaseLayout title={`${c.title} | Case Study`} description={`Case study: ${c.title} (${c.date}).`}>
+<BaseLayout title={c.title} description={`Case study: ${c.title} (${c.date}).`}>
 
   <div class="detail-hero">
     <img src={c.img} alt={c.title} class="hero-img" />
