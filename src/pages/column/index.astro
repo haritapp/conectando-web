@@ -8,11 +8,13 @@ const columns = [
     date:  '2024年10月7日',
     title: '外資系企業の日本担当者が日本でイベントを開催する際に考慮すべき4つのポイント',
     href:  '/column/4point',
+    img:   '/images/column/4point-hero.webp',
   },
   {
     date:  '2024年9月19日',
     title: '英語の主催者が日本でイベントを成功させるたった1つのポイント',
     href:  '/column/eigoevent',
+    img:   '/images/column/eigoevent-hero.webp',
   },
 ];
 ---
@@ -28,8 +30,13 @@ const columns = [
       {columns.map(c => (
         <li class="column-item">
           <a href={c.href} class="column-link">
-            <time class="column-date">{c.date}</time>
-            <span class="column-text">{c.title}</span>
+            {c.img && (
+              <img src={c.img} alt={c.title} class="column-thumb" loading="lazy" />
+            )}
+            <span class="column-body">
+              <time class="column-date">{c.date}</time>
+              <span class="column-text">{c.title}</span>
+            </span>
           </a>
         </li>
       ))}
@@ -53,15 +60,33 @@ const columns = [
 .column-item:first-child { border-top: 1px solid #d1d5db; }
 .column-link {
   display: flex;
-  align-items: baseline;
-  flex-wrap: wrap;
-  gap: .75rem;
+  align-items: center;
+  gap: 1.25rem;
   padding: 1rem 0;
   text-decoration: none;
   color: inherit;
   transition: opacity .15s;
 }
 .column-link:hover { opacity: .75; }
+.column-thumb {
+  width: 7.5rem;
+  aspect-ratio: 16/9;
+  object-fit: cover;
+  border-radius: .375rem;
+  flex-shrink: 0;
+}
+.column-body {
+  display: flex;
+  flex-direction: column;
+  gap: .375rem;
+  min-width: 0;
+}
 .column-date { font-size: .8125rem; color: var(--color-text-muted); white-space: nowrap; }
 .column-text { font-size: .9375rem; color: var(--color-text); line-height: 1.5; }
+
+@media (max-width: 640px) {
+  .column-link { gap: .875rem; }
+  .column-thumb { width: 5rem; }
+  .column-text { font-size: .875rem; }
+}
 </style>
