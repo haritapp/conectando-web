@@ -11,10 +11,16 @@ interface Props {
   rawTitle?: boolean;
 }
 
-const { title, description = 'Bilingual event planning & management in Tokyo.', ogImage = 'https://www.conec-tando.com/images/og-default.jpg', rawTitle = false } = Astro.props;
+const { title, description = 'Bilingual event planning & management in Tokyo.', ogImage = 'https://www.conec-tando.com/images/top/hero-gatetoindiaafrica.webp', rawTitle = false } = Astro.props;
 const lang = getLangFromUrl(Astro.url);
 const canonicalURL = new URL(Astro.url.pathname, Astro.site);
 const pageTitle = rawTitle ? title : `${title}｜Conectando`;
+
+const pathname = Astro.url.pathname;
+const isColumnPath = pathname === '/column' || pathname.startsWith('/column/');
+const jaAltPath = pathname.startsWith('/en') ? pathname.replace(/^\/en/, '') || '/' : pathname;
+const enAltPath = pathname.startsWith('/en') ? pathname : `/en${pathname}`;
+const hasAltLang = !isColumnPath;
 ---
 
 <!doctype html>
@@ -25,6 +31,13 @@ const pageTitle = rawTitle ? title : `${title}｜Conectando`;
     <title>{pageTitle}</title>
     <meta name="description" content={description} />
     <link rel="canonical" href={canonicalURL} />
+    {hasAltLang && (
+      <>
+        <link rel="alternate" hreflang="ja" href={new URL(jaAltPath, Astro.site)} />
+        <link rel="alternate" hreflang="en" href={new URL(enAltPath, Astro.site)} />
+        <link rel="alternate" hreflang="x-default" href={new URL(jaAltPath, Astro.site)} />
+      </>
+    )}
     <meta property="og:title" content={pageTitle} />
     <meta property="og:description" content={description} />
     <meta property="og:url" content={canonicalURL} />
@@ -35,6 +48,13 @@ const pageTitle = rawTitle ? title : `${title}｜Conectando`;
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link href="https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@400;600;700&family=Zen+Kaku+Gothic+New:wght@400;500;700&display=swap" rel="stylesheet" />
     <link rel="sitemap" href="/sitemap-index.xml" />
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-8X3TF7N11H"></script>
+    <script define:vars={{ gaId: 'G-8X3TF7N11H' }}>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() { dataLayer.push(arguments); }
+      gtag('js', new Date());
+      gtag('config', gaId);
+    </script>
   </head>
   <body>
     <Header />

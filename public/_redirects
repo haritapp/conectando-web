@@ -1,0 +1,53 @@
+# conectando-web _redirects
+# 本番は https://www.conec-tando.com/ を正とする。apex(conec-tando.com)は www へ301。
+# Cloudflare Pages にはこのプロジェクトへ conec-tando.com / www.conec-tando.com の両方が
+# カスタムドメインとして追加されている前提（どちらで来ても以下が同じように効く）。
+https://conec-tando.com/*  https://www.conec-tando.com/:splat  301
+
+# ── 事例詳細: スラッグ変更 (旧 → 新) ─────────────────────────
+/case/detail/gatetoindiaafrica_2025   /case/detail/gatetoindiaafrica2025/   301
+/case/detail/newyorksiliconalley_2025 /case/detail/newyorksiliconalley12/  301
+/case/detail/indiaafrica_2025         /case/detail/indoafrica2025/         301
+
+/en/case/detail/newyorksiliconalley_2025 /en/case/detail/newyorksiliconalley12/ 301
+/en/case/detail/gatetoindiaafrica_2025   /en/case/detail/gatetoindiaafrica2025/ 301
+/en/case/detail/indiaafrica_2025         /en/case/detail/indoafrica2025/        301
+/en/case/detail/solanasupertokyoen       /en/case/detail/solanasupertokyo/      301
+/en/case/detail/gatetoindiaafricaen      /en/case/detail/gatetoindiaafrica/     301
+/en/case/detail/startupdiversitydayen    /en/case/detail/startupdiversityday/   301
+/en/case/detail/newyorksiliconalleyen    /en/case/detail/newyorksiliconalley/   301
+
+# 事例カテゴリ一覧（新サイトに無い）→ 事例一覧トップへ
+/case/category/*     /case/     301
+/en/case/category/*  /en/case/  301
+
+# ── ブログ → コラム へリネーム ───────────────────────────
+/blog                 /column/            301
+/blog/detail/4point   /column/4point/     301
+/blog/detail/eigoevent /column/eigoevent/ 301
+/blog/category/*      /column/            301
+/blog/detail/*         /column/            301
+
+# 英語版コラムは未提供のため、旧英語ブログ関連はすべて英語トップへ
+/en/blog       /en/  301
+/en/blog/*     /en/  301
+
+# ── お知らせ詳細: 不透明IDスラッグ → 読みやすいスラッグ（現存する3件のみ） ─
+/news/detail/pD0byN39   /news/bizintokyo/                          301
+/news/detail/2025-1-24  /news/sushitech-tokyo-2025-ambassador/     301
+/news/detail/2024-09-12 /news/site-open/                           301
+
+/en/news/detail/2025-1-24  /en/news/sushitech-tokyo-2025-ambassador/ 301
+/en/news/detail/2024-09-12 /en/news/site-open/                       301
+
+# 上記以外の旧お知らせ詳細（新サイトに個別ページなし）→ お知らせ一覧へ
+/news/detail/*     /news/     301
+/en/news/detail/*  /en/news/  301
+
+# お知らせカテゴリ一覧（新サイトに無い）→ お知らせ一覧トップへ
+/news/category/*     /news/     301
+/en/news/category/*  /en/news/  301
+
+# ── フォーム送信後の /thanks（新サイトはフォーム内に成功表示、専用ページ無し）→ お問い合わせへ
+/thanks     /contact/     301
+/en/thanks  /en/contact/  301

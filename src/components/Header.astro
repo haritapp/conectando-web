@@ -15,8 +15,10 @@ const navLinks = [
 
 const currentPath = Astro.url.pathname;
 const pathname = Astro.url.pathname;
+const isColumnPath = pathname === '/column' || pathname.startsWith('/column/');
 const jaPath = pathname.startsWith('/en') ? pathname.replace(/^\/en/, '') || '/' : pathname;
-const enPath = pathname.startsWith('/en') ? pathname : `/en${pathname}`;
+// /column has no English equivalent, so send the EN toggle to the English top page instead of a dead /en/column link.
+const enPath = isColumnPath ? '/en/' : pathname.startsWith('/en') ? pathname : `/en${pathname}`;
 ---
 
 <header class="bg-white shadow-sm sticky top-0 z-50">
