@@ -11,11 +11,17 @@ const cols = isEn
         heading: 'ABOUT',
         href: `${base}/about`,
         links: [
-          { label: 'About Us',        href: `${base}/about` },
-          { label: 'News & Updates',  href: `${base}/news` },
+          { label: 'About Us', href: `${base}/about` },
         ],
       },
-      { heading: 'BLOG', href: '/column', links: [] },
+      {
+        heading: 'BLOG',
+        href: '/column',
+        links: [
+          { label: 'Column', href: '/column' },
+          { label: 'News',   href: `${base}/news` },
+        ],
+      },
       {
         heading: 'SERVICE',
         href: `${base}/service`,
@@ -32,11 +38,17 @@ const cols = isEn
         heading: 'ABOUT',
         href: `${base}/about`,
         links: [
-          { label: '会社概要',  href: `${base}/about` },
+          { label: '会社概要', href: `${base}/about` },
+        ],
+      },
+      {
+        heading: 'COLUMN',
+        href: '/column',
+        links: [
+          { label: 'コラム',  href: '/column' },
           { label: 'お知らせ', href: `${base}/news` },
         ],
       },
-      { heading: 'COLUMN', href: '/column', links: [] },
       {
         heading: 'SERVICE',
         href: `${base}/service`,
