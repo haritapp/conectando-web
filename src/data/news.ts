@@ -129,8 +129,7 @@ export const newsItems: NewsItem[] = [
     date: '2024-08-18',
     badge: 'ケーススタディ',
     title: '「Solana Super Tokyo - Main Conference」を実施しました',
-    // 元サイトに対応する導入事例ページ（/case/detail/solanasupertokyo 相当）が存在しないため未リンク。
-    href: null,
+    href: '/case/detail/solanasupertokyo',
     external: false,
   },
   {

@@ -1,6 +1,7 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import ContactCTA from '../../components/ContactCTA.astro';
+import { newsItemsEN, formatNewsDateDotEN } from '../../data/news-en';
 
 const services = [
   {
@@ -77,11 +78,7 @@ const columns = [
   { date: '2024.09.19', title: '英語の主催者が日本でイベントを成功させるたった1つのポイント', href: '/column/eigoevent' },
 ];
 
-const news = [
-  { date: '2026.03.13', title: '東京のビジネスイベント情報メディア「BizinTokyo」を開設しました', href: 'https://bizintokyo.com', external: true },
-  { date: '2025.11.07', title: 'note「Rice Capital福山×グロービス高宮」を公開しました', href: 'https://note.com/firstfollowers/n/ndfa752c7b6bb', external: true },
-  { date: '2025.10.29', title: 'note「LayerXが語る、AI時代の経営プレイブック」を公開しました', href: 'https://note.com/firstfollowers/n/n461becdd12b9', external: true },
-];
+const news = newsItemsEN.slice(0, 3).map(n => ({ date: formatNewsDateDotEN(n.date), title: n.title, href: n.href, external: n.external }));
 ---
 
 <BaseLayout title="Conectando | Run your Tokyo event in English, from planning to on-site" rawTitle description="Conectando is an event operations partner for overseas teams bringing an event to Tokyo, and Japanese companies hosting international guests.">
@@ -182,7 +179,7 @@ const news = [
       <div>
         <div class="sec-head-row">
           <div class="sec-label">NEWS</div>
-          <a href="/news" class="text-cta">See all news <span class="btn-dot">●</span></a>
+          <a href="/en/news" class="text-cta">See all news <span class="btn-dot">●</span></a>
         </div>
         <ul class="cn-list" role="list">
           {news.map(n => (

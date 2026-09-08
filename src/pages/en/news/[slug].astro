@@ -1,0 +1,195 @@
+---
+// src/pages/en/news/[slug].astro
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import ContactCTA from '../../../components/ContactCTA.astro';
+import { formatNewsDateEN } from '../../../data/news-en';
+
+export async function getStaticPaths() {
+  const items = [
+    {
+      slug: 'sushitech-tokyo-2025-ambassador',
+      title: 'Announcement of Ambassador Appointment for SusHi Tech Tokyo 2025',
+      date: '2025-01-24',
+      badge: 'CORPORATE',
+      blocks: [
+        { type: 'p', text: 'We are pleased to announce that Conectando .Inc (Headquarters: Tokyo, CEO: Shintaro Hari, hereinafter referred to as "our company"), has been appointed as an ambassador for the Global Innovation Conference "SusHi Tech Tokyo 2025", which will be held in Tokyo, Japan, from May 8 (Thursday) to May 10 (Saturday), 2025.' },
+
+        { type: 'h2', text: 'Overview of "SusHi Tech Tokyo 2025"' },
+        { type: 'label', text: 'What is "SusHi Tech Tokyo"?' },
+        { type: 'p', text: '"SusHi Tech Tokyo" (Sustainable High-City Tech) is a Tokyo-based global conference aimed at creating "sustainable new value" to address global urban challenges through cutting-edge technologies, diverse ideas, and digital expertise. The event showcases innovations designed to create sustainable urban environments.' },
+        { type: 'label', text: 'Event Details' },
+        { type: 'ul', items: [
+          'Dates: May 8 (Thursday) – May 10 (Saturday), 2025 (3 days)',
+          'Venue: Tokyo Big Sight East Halls 4–6 (3-11-1 Ariake, Koto-ku, Tokyo) ※Hybrid event: In-person and online participation',
+          'Organizer: SusHi Tech Tokyo 2025 Executive Committee',
+          'Programs: Keynotes, sessions, booth exhibitions, pitch contests, business matchmaking, and more',
+        ]},
+        { type: 'label', text: 'Projected Scale' },
+        { type: 'ul', items: [
+          'Total Participants (Online and Offline): Over 50,000 attendees',
+          'Exhibiting Startups: Over 500 companies',
+          'Startup Representatives: Over 5,000 attendees',
+        ]},
+
+        { type: 'h2', text: 'Ambassador Appointment Overview' },
+        { type: 'ul', items: [
+          'Activity Period: From 24th Jan to the event dates (May 8–10, 2025)',
+          'Role: As an officially recognized ambassador, contribute to the event’s promotional activities',
+          'Venue: Tokyo Big Sight East Halls 4–6 (3-11-1 Ariake, Koto-ku, Tokyo)',
+          'Organizer: SusHi Tech Tokyo 2025 Executive Committee',
+          'URL: https://sushitech-startup.metro.tokyo.lg.jp/',
+        ]},
+
+        { type: 'h2', text: 'Website and Social Media' },
+        { type: 'ul', items: [
+          'Event Website: https://sushitech-startup.metro.tokyo.lg.jp/',
+          'X (formerly Twitter) JP: https://x.com/SusHiTech_SUJP',
+          'X (formerly Twitter) EN: https://x.com/SusHiTech_SUEN',
+          'LinkedIn: https://www.linkedin.com/company/sushi-tech-tokyo-official-account/',
+        ]},
+
+        { type: 'h2', text: 'About the Organizer' },
+        { type: 'p', text: 'The SusHi Tech Tokyo 2025 Executive Committee consists of the following organizations.' },
+        { type: 'ul', items: [
+          'Tokyo Metropolitan Government',
+          'Japan Business Federation (Keidanren)',
+          'Japan Association of Corporate Executives',
+          'New Economy Federation',
+          'Tokyo Chamber of Commerce and Industry',
+          'Japan Venture Capital Association',
+          'Startup Ecosystem Association',
+          'Startup Studio Association',
+        ]},
+
+        { type: 'h2', text: 'Contact Information' },
+        { type: 'p', text: 'SusHi Tech Tokyo 2025 Secretariat' },
+        { type: 'p', text: 'https://sushitech-startup.metro.tokyo.lg.jp/inquiry/' },
+      ],
+    },
+    {
+      slug: 'site-open',
+      title: 'Welcome to Conectando’s Official Website',
+      date: '2024-04-01',
+      badge: 'CORPORATE',
+      blocks: [
+        { type: 'p', text: 'We are excited to introduce the official Conectando website!' },
+        { type: 'p', text: 'Through this platform, we aim to connect with businesses and individuals looking to enter the Japanese market, offering resources and support for a successful transition.' },
+        { type: 'p', text: 'We appreciate your ongoing support and look forward to growing together.' },
+        { type: 'p', text: 'Stay tuned for updates, insights, and more as we continue our mission to bridge international and Japanese business communities.' },
+        { type: 'p', text: 'Founder & CEO　Shintaro Hari' },
+      ],
+    },
+  ];
+
+  return items.map(n => ({
+    params: { slug: n.slug },
+    props:  { newsData: n },
+  }));
+}
+
+const { newsData: n } = Astro.props;
+const displayDate = formatNewsDateEN(n.date);
+---
+
+<BaseLayout title={`${n.title} | Conectando`} rawTitle description={`${n.title} (${displayDate})`}>
+
+  <div class="page-wrap">
+    <h1 class="detail-h1">{n.title}</h1>
+    <div class="detail-meta">
+      <time class="detail-date">{displayDate}</time>
+      <span class="detail-tag">{n.badge}</span>
+    </div>
+
+    <div class="detail-body-wrap">
+      {n.blocks.map(b => {
+        if (b.type === 'h2') return <h2 class="detail-h2">{b.text}</h2>;
+        if (b.type === 'label') return <p class="detail-label">{b.text}</p>;
+        if (b.type === 'link') return <p class="detail-body"><a href={b.text} target="_blank" rel="noopener" class="detail-link">{b.text}</a></p>;
+        if (b.type === 'ul') return (
+          <ul class="detail-ul">
+            {b.items.map(i => <li>{i}</li>)}
+          </ul>
+        );
+        return <p class="detail-body">{b.text}</p>;
+      })}
+    </div>
+
+    <div class="back-row">
+      <a href="/en/news" class="back-link">← Back to News</a>
+    </div>
+  </div>
+
+  <ContactCTA />
+
+</BaseLayout>
+
+<style>
+.page-wrap { max-width: 52rem; margin: 0 auto; padding: 0 2rem 5rem; }
+.detail-h1 {
+  font-size: clamp(1.375rem, 3vw, 2rem);
+  font-weight: 800;
+  color: var(--color-brand);
+  margin: 2rem 0 .75rem;
+  line-height: 1.5;
+  word-break: keep-all;
+  overflow-wrap: anywhere;
+}
+.detail-meta {
+  display: flex;
+  align-items: center;
+  gap: .625rem;
+  margin-bottom: 2.5rem;
+  padding-bottom: 1.5rem;
+  border-bottom: 1px solid #e5e7eb;
+}
+.detail-date { font-size: .875rem; color: var(--color-text-muted); }
+.detail-tag {
+  font-size: .6875rem;
+  padding: .1875rem .5rem;
+  background: var(--color-accent);
+  color: var(--color-brand);
+  border: 1px solid #c7c7f5;
+  border-radius: 9999px;
+  font-weight: 600;
+}
+
+.detail-body-wrap { margin-bottom: 2.5rem; }
+.detail-h2 {
+  font-size: 1.125rem;
+  font-weight: 700;
+  color: var(--color-brand);
+  margin: 2.5rem 0 1rem;
+  line-height: 1.5;
+}
+.detail-h2:first-child { margin-top: 0; }
+.detail-body {
+  color: var(--color-text-muted);
+  line-height: 1.9;
+  font-size: .9375rem;
+  margin-bottom: 1rem;
+}
+.detail-body:last-child { margin-bottom: 0; }
+.detail-link { color: var(--color-brand); font-weight: 600; word-break: break-all; }
+.detail-label {
+  font-weight: 700;
+  color: var(--color-text);
+  font-size: .9375rem;
+  margin: 1rem 0 .5rem;
+}
+.detail-ul {
+  margin: 0 0 1rem;
+  padding-left: 1.25rem;
+  color: var(--color-text-muted);
+  font-size: .9375rem;
+  line-height: 1.8;
+}
+
+.back-row { margin-top: 1rem; }
+.back-link {
+  font-size: .9375rem;
+  color: var(--color-brand);
+  font-weight: 600;
+  text-decoration: none;
+}
+.back-link:hover { opacity: .75; }
+</style>
