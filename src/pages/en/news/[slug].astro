@@ -7,6 +7,18 @@ import { formatNewsDateEN } from '../../../data/news-en';
 export async function getStaticPaths() {
   const items = [
     {
+      slug: 'bizintokyo',
+      title: 'Launched "BizinTokyo," a bilingual media site for business events in Tokyo',
+      date: '2026-03-13',
+      badge: 'CORPORATE',
+      blocks: [
+        { type: 'p', text: 'Conectando.Inc has launched "BizinTokyo," a media site delivering information on business conferences, exhibitions, networking events, and other events held in Tokyo.' },
+        { type: 'p', text: 'BizinTokyo provides bilingual (Japanese/English) content useful for the Tokyo business scene, including the latest updates on major events such as SusHi Tech Tokyo 2025, venue guides, and event reports.' },
+        { type: 'p', text: 'We hope you’ll take a look.' },
+        { type: 'link', text: 'https://bizintokyo.com' },
+      ],
+    },
+    {
       slug: 'sushitech-tokyo-2025-ambassador',
       title: 'Announcement of Ambassador Appointment for SusHi Tech Tokyo 2025',
       date: '2025-01-24',

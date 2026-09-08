@@ -13,6 +13,13 @@ export type NewsItemEN = {
 
 export const newsItemsEN: NewsItemEN[] = [
   {
+    date: '2026-03-13',
+    badge: 'CORPORATE',
+    title: 'Launched "BizinTokyo," a bilingual media site for business events in Tokyo',
+    href: '/en/news/bizintokyo',
+    external: false,
+  },
+  {
     date: '2025-11-07',
     badge: 'note UPDATE',
     title: '"Rice Capital Fukuyama × Globis Takamiya | The Realities of Startup Founding: Insights from U.S. Entrepreneurship, Y Combinator Selection, and M&A" has been released.',
