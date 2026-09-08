@@ -1,0 +1,205 @@
+---
+// src/pages/news/[slug].astro
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import ContactCTA from '../../components/ContactCTA.astro';
+import { formatNewsDateJP } from '../../data/news';
+
+export async function getStaticPaths() {
+  const items = [
+    {
+      slug: 'bizintokyo',
+      title: '東京のビジネスイベント情報メディア「BizinTokyo」を開設しました',
+      date: '2026-03-13',
+      badge: 'コーポレート',
+      blocks: [
+        { type: 'p', text: 'Conectando.Incは、東京で開催されるビジネスカンファレンス、展示会、ネットワーキングイベントなどの情報を発信するメディアサイト「BizinTokyo）を開設いたしました。' },
+        { type: 'p', text: 'BizinTokyoでは、SusHi Tech Tokyo 2025をはじめとする大型イベントの最新情報、会場ガイド、参加レポートなど、東京のビジネスシーンに役立つコンテンツを日英バイリンガルでお届けしています。' },
+        { type: 'p', text: 'ぜひご覧ください。' },
+        { type: 'link', text: 'https://bizintokyo.com' },
+      ],
+    },
+    {
+      slug: 'sushitech-tokyo-2025-ambassador',
+      title: '「SusHi Tech Tokyo 2025」のアンバサダー就任',
+      date: '2025-01-24',
+      badge: 'コーポレート',
+      blocks: [
+        { type: 'p', text: 'Conectando株式会社（本社：東京、代表取締役播 信太郎、以下「当社」）は、2025年5月8日（木）～10日（土）に日本・東京にて開催される、グローバルイノベーションカンファレンス「SusHi Tech Tokyo 2025 (スシテックトウキョウ2025)」のアンバサダー就任が決まりましたのでお知らせいたします。' },
+
+        { type: 'h2', text: '■「SusHi Tech Tokyo 2025」概要' },
+        { type: 'label', text: '【「SusHi Tech Tokyo」とは】' },
+        { type: 'p', text: '「持続可能な都市をハイテクノロジーで実現」するSustainable High-City Tech (=SusHi Tech)。SusHi Tech Tokyoは、最先端のテクノロジー、多彩なアイデアやデジタルノウハウによって、世界共通の都市課題を克服する「持続可能な新しい価値」を生み出す東京発のコンセプトのグローバルカンファレンスです。' },
+        { type: 'label', text: '【開催概要】' },
+        { type: 'ul', items: [
+          '開催日：令和7年(2025年) 5月8日(木)-10日(土)の3日間',
+          '主な開催場所：東京ビッグサイト 東展示棟4～6ホール(東京江東区有明3-11-1)※会場とオンラインのハイブリッド開催',
+          '主催者：SusHi Tech Tokyo 2025実行委員会',
+          'プログラム：Keynote・セッション、ブース展示、ピッチコンテスト、ビジネスマッチング etc...',
+        ]},
+        { type: 'label', text: '【想定規模】' },
+        { type: 'ul', items: [
+          '累計参加者数(オンライン/オフライン計)：50,000人超',
+          '展示スタートアップ企業数：500社超',
+          '参加予定スタートアップ関係者：5,000人超',
+        ]},
+
+        { type: 'h2', text: '■アンバサダー就任概要' },
+        { type: 'ul', items: [
+          '活動期間：1月24（就任日）～イベント当日 ※イベント会期：2025年5月8日（木）～10日（土）',
+          '役割：同イベントが公式に認定するアンバサダーとして、イベントの広報活動に寄与する',
+          '会場：東京ビッグサイト東展示棟4～6ホール(東京都江東区有明3-11-1)',
+          '主催：SusHi Tech Tokyo 2025実行委員会',
+          'URL：https://sushitech-startup.metro.tokyo.lg.jp/',
+        ]},
+
+        { type: 'h2', text: '■Web・SNS' },
+        { type: 'ul', items: [
+          'イベントホームページ：https://sushitech-startup.metro.tokyo.lg.jp/',
+          'X（旧Twitter）（JP）：https://x.com/SusHiTech_SUJP',
+          'X（旧Twitter）（EN）：https://x.com/SusHiTech_SUEN',
+          'LinkedIn：https://www.linkedin.com/company/sushi-tech-tokyo-official-account/',
+        ]},
+
+        { type: 'h2', text: '■主催者概要' },
+        { type: 'p', text: 'SusHi Tech Tokyo 2025ム実行委員会は、以下の組織から構成されています。' },
+        { type: 'ul', items: [
+          '東京都',
+          '一般社団法人日本経済団体連合会',
+          '公益社団法人経済同友会',
+          '一般社団法人新経済連盟',
+          '東京商工会議所',
+          '一般社団法人日本ベンチャーキャピタル協会',
+          '一般社団法人スタートアップエコシステム協会',
+          '一般社団法人スタートアップスタジオ協会',
+        ]},
+
+        { type: 'h2', text: '■お問合せ先' },
+        { type: 'p', text: 'SusHi Tech Tokyo 2025運営事務局' },
+        { type: 'p', text: 'お問合せフォーム：https://sushitech-startup.metro.tokyo.lg.jp/inquiry/' },
+      ],
+    },
+    {
+      slug: 'site-open',
+      title: 'Conectando サイトオープンのお知らせ',
+      date: '2024-09-12',
+      badge: 'コーポレート',
+      blocks: [
+        { type: 'p', text: '平素よりご愛顧いただき、誠にありがとうございます。このたび、Conectandoの公式ウェブサイトをオープンいたしました。私たちのミッションやサービス内容、最新情報をお届けする場として、今後も皆さまに有益な情報を提供してまいります。' },
+        { type: 'p', text: '引き続き、Conectandoをどうぞよろしくお願い申し上げます。皆さまのご期待に応えられるよう、精一杯努力してまいります。' },
+        { type: 'p', text: 'Founder & CEO 播 信太郎' },
+      ],
+    },
+  ];
+
+  return items.map(n => ({
+    params: { slug: n.slug },
+    props:  { newsData: n },
+  }));
+}
+
+const { newsData: n } = Astro.props;
+const displayDate = formatNewsDateJP(n.date);
+---
+
+<BaseLayout title={`${n.title} | Conectando`} rawTitle description={`${n.title}（${displayDate}）`}>
+
+  <div class="page-wrap">
+    <h1 class="detail-h1">{n.title}</h1>
+    <div class="detail-meta">
+      <time class="detail-date">{displayDate}</time>
+      <span class="detail-tag">{n.badge}</span>
+    </div>
+
+    <div class="detail-body-wrap">
+      {n.blocks.map(b => {
+        if (b.type === 'h2') return <h2 class="detail-h2">{b.text}</h2>;
+        if (b.type === 'label') return <p class="detail-label">{b.text}</p>;
+        if (b.type === 'link') return <p class="detail-body"><a href={b.text} target="_blank" rel="noopener" class="detail-link">{b.text}</a></p>;
+        if (b.type === 'ul') return (
+          <ul class="detail-ul">
+            {b.items.map(i => <li>{i}</li>)}
+          </ul>
+        );
+        return <p class="detail-body">{b.text}</p>;
+      })}
+    </div>
+
+    <div class="back-row">
+      <a href="/news" class="back-link">← 一覧に戻る</a>
+    </div>
+  </div>
+
+  <ContactCTA />
+
+</BaseLayout>
+
+<style>
+.page-wrap { max-width: 52rem; margin: 0 auto; padding: 0 2rem 5rem; }
+.detail-h1 {
+  font-size: clamp(1.375rem, 3vw, 2rem);
+  font-weight: 800;
+  color: var(--color-brand);
+  margin: 2rem 0 .75rem;
+  line-height: 1.5;
+  word-break: keep-all;
+  overflow-wrap: anywhere;
+}
+.detail-meta {
+  display: flex;
+  align-items: center;
+  gap: .625rem;
+  margin-bottom: 2.5rem;
+  padding-bottom: 1.5rem;
+  border-bottom: 1px solid #e5e7eb;
+}
+.detail-date { font-size: .875rem; color: var(--color-text-muted); }
+.detail-tag {
+  font-size: .6875rem;
+  padding: .1875rem .5rem;
+  background: var(--color-accent);
+  color: var(--color-brand);
+  border: 1px solid #c7c7f5;
+  border-radius: 9999px;
+  font-weight: 600;
+}
+
+.detail-body-wrap { margin-bottom: 2.5rem; }
+.detail-h2 {
+  font-size: 1.125rem;
+  font-weight: 700;
+  color: var(--color-brand);
+  margin: 2.5rem 0 1rem;
+  line-height: 1.5;
+}
+.detail-h2:first-child { margin-top: 0; }
+.detail-body {
+  color: var(--color-text-muted);
+  line-height: 1.9;
+  font-size: .9375rem;
+  margin-bottom: 1rem;
+}
+.detail-body:last-child { margin-bottom: 0; }
+.detail-link { color: var(--color-brand); font-weight: 600; word-break: break-all; }
+.detail-label {
+  font-weight: 700;
+  color: var(--color-text);
+  font-size: .9375rem;
+  margin: 1rem 0 .5rem;
+}
+.detail-ul {
+  margin: 0 0 1rem;
+  padding-left: 1.25rem;
+  color: var(--color-text-muted);
+  font-size: .9375rem;
+  line-height: 1.8;
+}
+
+.back-row { margin-top: 1rem; }
+.back-link {
+  font-size: .9375rem;
+  color: var(--color-brand);
+  font-weight: 600;
+  text-decoration: none;
+}
+.back-link:hover { opacity: .75; }
+</style>
