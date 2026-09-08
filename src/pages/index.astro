@@ -20,7 +20,7 @@ const services = [
   {
     num: '03',
     tag: '',
-    title: '視察・アテンド・ツアー手配',
+    title: '視察・アテンド・｜ツアー手配',
     desc: '来日ゲストの視察と企業訪問を手配。',
     href: '/service#service-2',
   },
@@ -55,20 +55,32 @@ const cases = [
 ];
 
 const why = [
-  '英語で直接話せる担当がつく',
-  'テック・スタートアップの業界が分かる',
-  '当日のみでも、一括でも',
+  {
+    num: '01',
+    headline: '英語で直接話せる担当がつく',
+    sub: '本国のチームや登壇者と、通訳を介さず直接やり取りします。',
+  },
+  {
+    num: '02',
+    headline: 'テック・スタートアップの業界が分かる',
+    sub: '用語も登壇者の顔ぶれも、説明なしで通じます。',
+  },
+  {
+    num: '03',
+    headline: '当日のみでも、一括でも',
+    sub: '会場手配だけ、当日運営だけ、といった部分依頼も受けます。',
+  },
 ];
 
 const columns = [
-  { date: '2024.10.07', title: '外資系企業の日本担当者が日本でイベントを開催する際に考慮すべき4つのポイント' },
-  { date: '2024.09.19', title: '英語の主催者が日本でイベントを成功させるたった1つのポイント' },
+  { date: '2024.10.07', title: '外資系企業の日本担当者が日本でイベントを開催する際に考慮すべき4つのポイント', href: '/column/4point' },
+  { date: '2024.09.19', title: '英語の主催者が日本でイベントを成功させるたった1つのポイント', href: '/column/eigoevent' },
 ];
 
 const news = [
-  { date: '2026.03.13', title: '東京のビジネスイベント情報メディア「BizinTokyo」を開設しました' },
-  { date: '2025.11.07', title: 'note「Rice Capital福山×グロービス高宮」を公開しました' },
-  { date: '2025.10.29', title: 'note「LayerXが語る、AI時代の経営プレイブック」を公開しました' },
+  { date: '2026.03.13', title: '東京のビジネスイベント情報メディア「BizinTokyo」を開設しました', href: 'https://bizintokyo.com', external: true },
+  { date: '2025.11.07', title: 'note「Rice Capital福山×グロービス高宮」を公開しました', href: 'https://note.com/firstfollowers/n/ndfa752c7b6bb', external: true },
+  { date: '2025.10.29', title: 'note「LayerXが語る、AI時代の経営プレイブック」を公開しました', href: 'https://note.com/firstfollowers/n/n461becdd12b9', external: true },
 ];
 ---
 
@@ -101,7 +113,9 @@ const news = [
         <li class:list={['svc-item', { 'svc-item-core': s.tag }]}>
           <a href={s.href} class="svc-link">
             <div class="svc-eyebrow">{s.num}{s.tag && <> · {s.tag}</>}</div>
-            <h3 class="svc-title">{s.title}<span class="svc-tag-mobile">{s.tag}</span></h3>
+            <h3 class="svc-title">{s.title.split('｜').map((part, i, arr) => (
+              <>{part}{i < arr.length - 1 && <br />}</>
+            ))}<span class="svc-tag-mobile">{s.tag}</span></h3>
             <p class="svc-desc">{s.desc}</p>
           </a>
         </li>
@@ -136,7 +150,11 @@ const news = [
       <div class="sec-label">WHY</div>
       <ul class="why-grid" role="list">
         {why.map(w => (
-          <li class="why-item">{w}</li>
+          <li class="why-item">
+            <div class="why-num">{w.num}</div>
+            <p class="why-headline">{w.headline}</p>
+            <p class="why-sub">{w.sub}</p>
+          </li>
         ))}
       </ul>
     </div>
@@ -148,23 +166,33 @@ const news = [
   <div class="sec-body">
     <div class="cn-grid">
       <div>
-        <div class="sec-label">COLUMN</div>
+        <div class="sec-head-row">
+          <div class="sec-label">COLUMN</div>
+          <a href="/column" class="text-cta">すべてのコラム <span class="btn-dot">●</span></a>
+        </div>
         <ul class="cn-list" role="list">
           {columns.map(c => (
             <li class="cn-item">
-              <span class="cn-date">{c.date}</span>
-              <span class="cn-text">{c.title}</span>
+              <a href={c.href} class="cn-link">
+                <span class="cn-date">{c.date}</span>
+                <span class="cn-text">{c.title}</span>
+              </a>
             </li>
           ))}
         </ul>
       </div>
       <div>
-        <div class="sec-label">NEWS</div>
+        <div class="sec-head-row">
+          <div class="sec-label">NEWS</div>
+          <a href="/news" class="text-cta">すべてのお知らせ <span class="btn-dot">●</span></a>
+        </div>
         <ul class="cn-list" role="list">
           {news.map(n => (
             <li class="cn-item">
-              <span class="cn-date">{n.date}</span>
-              <span class="cn-text">{n.title}</span>
+              <a href={n.href} class="cn-link" target={n.external ? '_blank' : undefined} rel={n.external ? 'noopener' : undefined}>
+                <span class="cn-date">{n.date}</span>
+                <span class="cn-text">{n.title}</span>
+              </a>
             </li>
           ))}
         </ul>
@@ -283,6 +311,8 @@ const news = [
   color: var(--color-heading);
   line-height: 1.4;
   margin-top: .75rem;
+  word-break: keep-all;
+  overflow-wrap: anywhere;
 }
 .svc-tag-mobile {
   display: none;
@@ -326,7 +356,28 @@ const news = [
   grid-template-columns: repeat(3, 1fr);
   gap: 2.5rem;
 }
-.why-item { font-size: 1.375rem; font-weight: 700; color: var(--color-heading); line-height: 1.4; }
+.why-item { display: flex; flex-direction: column; }
+.why-num {
+  font-size: .8125rem;
+  font-weight: 700;
+  letter-spacing: .1em;
+  color: var(--color-brand);
+  margin-bottom: .75rem;
+}
+.why-headline {
+  font-size: 1.25rem;
+  font-weight: 700;
+  color: var(--color-heading);
+  line-height: 1.45;
+  word-break: keep-all;
+  overflow-wrap: anywhere;
+  margin-bottom: .625rem;
+}
+.why-sub {
+  font-size: .875rem;
+  color: var(--color-text-muted);
+  line-height: 1.7;
+}
 
 /* ─── Column / News ─── */
 .cn-grid {
@@ -335,7 +386,9 @@ const news = [
   gap: 4rem;
 }
 .cn-list { list-style: none; padding: 0; margin: 1.25rem 0 0; border-top: 1px solid var(--color-border); }
-.cn-item { display: flex; gap: 1.25rem; padding: 1.25rem 0; border-bottom: 1px solid var(--color-border); }
+.cn-item { border-bottom: 1px solid var(--color-border); }
+.cn-link { display: flex; gap: 1.25rem; padding: 1.25rem 0; text-decoration: none; transition: opacity .15s; }
+.cn-link:hover { opacity: .75; text-decoration: none; }
 .cn-date { flex: none; width: 6rem; font-size: .8125rem; color: var(--color-text-muted); }
 .cn-text { font-size: .9375rem; color: var(--color-heading); line-height: 1.6; }
 
@@ -363,8 +416,8 @@ const news = [
   .case-grid { grid-template-columns: 1fr; gap: 2rem; }
 
   .why-box { padding: 1.75rem 1.5rem; }
-  .why-grid { grid-template-columns: 1fr; gap: 1.25rem; }
-  .why-item { font-size: 1.25rem; }
+  .why-grid { grid-template-columns: 1fr; gap: 1.5rem; }
+  .why-headline { font-size: 1.125rem; }
 
   .cn-grid { grid-template-columns: 1fr; gap: 3rem; }
 }

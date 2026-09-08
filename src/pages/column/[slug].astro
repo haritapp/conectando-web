@@ -1,0 +1,212 @@
+---
+// src/pages/column/[slug].astro
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import ContactCTA from '../../components/ContactCTA.astro';
+
+export async function getStaticPaths() {
+  const columns = [
+    {
+      slug: '4point',
+      title: '外資系企業の日本担当者が日本でイベントを開催する際に考慮すべき4つのポイント',
+      date: '2024年10月7日',
+      tag: 'event',
+      heroImage: '/images/column/4point-hero.webp',
+      blocks: [
+        { type: 'p', text: '外資系企業の日本担当者にとって、日本でのイベント開催には、文化的・物流的・ビジネス的な特有の課題に直面します。特に本社からの指示を受けてイベントを企画する際には、成功を収めるための具体的なステップが必要です。ここでは、日本でのイベントを成功させるために考慮すべき4つの重要なポイントを紹介します。' },
+        { type: 'h2', text: '1. イベントの目的とターゲットを明確にする' },
+        { type: 'p', text: '外資系企業の日本担当者がまず行うべきことは、イベントの目的を明確に定めることです。このイベントを通じて何を達成したいのかを明確にすることで、全体の方向性が決まります。新製品の発表、ブランド認知度の向上、またはステークホルダーとの関係強化など、目的に応じてイベントの内容や対象が異なります。' },
+        { type: 'p', text: 'たとえば、ターゲットが大手企業のマーケティング担当者である場合、その層に適したセッション内容やテーマを設定する必要があります。また、目的が明確であれば、成功の評価基準も自然と決まってくるでしょう。' },
+        { type: 'label', text: '重要ポイント:' },
+        { type: 'ul', items: [
+          'イベントの対象は誰か？（マーケティングマネージャー、意思決定者、または技術専門家など）',
+          '参加者にどのようなメッセージや学びを持ち帰ってもらいたいか？',
+        ]},
+        { type: 'h2', text: '2. 目標とする参加人数と属性を見極める' },
+        { type: 'p', text: '日本担当者として、次に考慮すべきは、参加予定人数とその属性です。参加者数によって、会場選定や予算配分が大きく変わります。50人規模のイベントと500人規模のイベントでは、まったく異なる準備が求められます。' },
+        { type: 'p', text: 'たとえば、大手企業のマーケティング担当者200名をターゲットにする場合、会場のキャパシティやセッションの内容は、それに見合った規模で計画しなければなりません。逆に、専門性の高い少人数のグループをターゲットにする場合は、親密でインタラクティブな環境を提供する方が効果的です。' },
+        { type: 'label', text: '重要ポイント:' },
+        { type: 'ul', items: [
+          '何人の参加者を想定しているか？（小規模、中規模、大規模イベント）',
+          '参加者の属性はどうか？（経営層、マネージャー、それとも初級レベルの専門家か？）',
+        ]},
+        { type: 'h2', text: '3. 開催時期と場所を選定する' },
+        { type: 'p', text: '外資系企業の日本担当者は、イベントの開催地として東京を選ぶことが多いですが、必ずしも東京がベストとは限りません。東京はアクセスの良さやインフラの整備で優れていますが、イベントの目的や参加者層によっては、大阪や横浜など他の都市が適している場合もあります。コスト面や地域の特性を考慮し、最適な場所を選定しましょう。' },
+        { type: 'p', text: 'また、開催時期も重要です。日本のビジネスカレンダーや祝日を考慮し、ゴールデンウィーク（4月下旬〜5月初旬）やお盆（8月中旬）など、多くのビジネスパーソンが休暇を取る時期は避けるべきです。春や秋は気候が良く、イベント開催には理想的な時期です。' },
+        { type: 'label', text: '重要ポイント:' },
+        { type: 'ul', items: [
+          '東京がイベントに最適か、それとも他の都市の方が目的に合っているか？',
+          '日本のビジネス慣習や気候を踏まえて、どの時期が最適か？',
+        ]},
+        { type: 'h2', text: '4. リソースと予算の洗い出し' },
+        { type: 'p', text: '日本担当者として、イベントに必要なリソースを詳細に確認することが重要です。本社からどれだけのサポートが得られるのか、または日本に現地オフィスがあるのかが、計画の成否に大きく影響します。もし現地に十分なリソースがない場合は、日本のイベント運営会社との提携が不可欠です。物流や文化的配慮、ベンダー調整をサポートしてもらうことができます。' },
+        { type: 'p', text: 'また、予算の策定も成功の鍵です。イベントの規模や目的に応じて、会場費、ケータリング、技術サポート、翻訳サービス、プロモーション活動などの費用を見積もりましょう。特に東京では他の都市と比べてコストが高くなる可能性があるため、予算配分には十分注意が必要です。' },
+        { type: 'label', text: '重要ポイント:' },
+        { type: 'ul', items: [
+          '本社からどれだけのサポートが得られるか？',
+          '現地のパートナーやスタッフ、またはエージェンシーの協力を得られるか？',
+          '予算内で効果的にリソースを配分するために、どの分野に重点を置くべきか？',
+        ]},
+        { type: 'h2', text: '結論' },
+        { type: 'p', text: '外資系企業の日本担当者にとって、日本でのイベント開催は、綿密な計画と日本特有のビジネス慣習の理解が必要です。イベントの目的を明確にし、適切な参加者数と属性を見極め、最適な場所と時期を選び、十分なリソースと予算を確保することで、日本市場で成功を収めるイベントを実現できるでしょう。' },
+      ],
+    },
+    {
+      slug: 'eigoevent',
+      title: '英語の主催者が日本でイベントを成功させるたった1つのポイント',
+      date: '2024年9月19日',
+      tag: 'event',
+      heroImage: '',
+      blocks: [
+        { type: 'lead', text: '言語の壁は本当に大きな障害？日本でのイベント開催の現実' },
+        { type: 'p', text: '多くの人が「日本語を話せない主催者が日本でイベントを成功させるのは難しいのではないか」と感じるかもしれません。確かに、日本語はイベントの現場で使われる主要な言語ですが、主催者が日本語を話せなくても、工夫次第で問題なくイベントを運営することが可能です。特に、日本国内でのイベント運営には、必ずしも高い日本語力が求められるわけではありません。' },
+        { type: 'h2', text: '日本語を話せない主催者でも問題ない理由' },
+        { type: 'p', text: 'まず、日本国内の会場や協力会社のスタッフは通常、日本語を使って業務を行います。そのため、主催者が日本語を話せなくても、現地スタッフに任せることでイベント運営は十分に行えます。ただし、外国人や英語話者への対応が求められる場面では、英語でのコミュニケーションが可能なスタッフの確保が成功のポイントとなります。日本のイベント業界においても、こうしたスタッフを見つけることは難しい場合があり、その点をしっかりと準備しておくことが鍵です。' },
+        { type: 'h2', text: '必要なのは「イベントに詳しい通訳者」' },
+        { type: 'p', text: '言語の壁を乗り越えるために重要なのは、主催者や全てのスタッフが日本語を話せることではなく、イベントに詳しい通訳者を一人確保しておくことです。このような通訳者がいれば、イベント特有の用語や流れを理解しているため、通常の通訳者よりもスムーズに運営をサポートできます。通訳者がいれば、主催者が日本語を話せなくても、必要な情報は確実に伝わり、現場での細かな調整にも迅速に対応することができます。' },
+        { type: 'h2', text: '日本語に頼りすぎない工夫' },
+        { type: 'p', text: 'また、イベント運営においては、言語に頼りすぎない工夫も大切です。例えば、会場の案内や説明を視覚的に分かりやすく表示することや、事前にしっかりと準備をして、必要な情報を整理・共有することがポイントです。これにより、主催者が日本語を話せなくてもスムーズな進行が可能になります。さらに、翻訳アプリやデジタルツールを活用することで、言語の壁を低くする方法もあります。' },
+        { type: 'h2', text: 'まとめ' },
+        { type: 'p', text: '「日本語を話せない主催者が日本でイベントを主催するのは難しいのか？」という問いに対して、答えは「必ずしもそうではない」です。イベントに詳しい通訳者を配置し、英語でのコミュニケーションが可能なスタッフの確保を徹底すれば、言語の壁を乗り越えることができます。しっかりとした準備と適切なサポートがあれば、日本語を話せなくても、イベントを成功させることは十分に可能なのです。' },
+      ],
+    },
+  ];
+
+  return columns.map(c => ({
+    params: { slug: c.slug },
+    props:  { columnData: c },
+  }));
+}
+
+const { columnData: c } = Astro.props;
+---
+
+<BaseLayout title={`${c.title} | Conectando`} rawTitle description={`${c.title}（${c.date}）`}>
+
+  {c.heroImage && (
+    <div class="detail-hero">
+      <img src={c.heroImage} alt={c.title} class="hero-img" />
+    </div>
+  )}
+
+  <div class="page-wrap">
+    <h1 class="detail-h1">{c.title}</h1>
+    <div class="detail-meta">
+      <time class="detail-date">{c.date}</time>
+      <span class="detail-tag">{c.tag}</span>
+    </div>
+
+    <div class="detail-body-wrap">
+      {c.blocks.map(b => {
+        if (b.type === 'h2') return <h2 class="detail-h2">{b.text}</h2>;
+        if (b.type === 'lead') return <p class="detail-lead">{b.text}</p>;
+        if (b.type === 'label') return <p class="detail-label">{b.text}</p>;
+        if (b.type === 'ul') return (
+          <ul class="detail-ul">
+            {b.items.map(i => <li>{i}</li>)}
+          </ul>
+        );
+        return <p class="detail-body">{b.text}</p>;
+      })}
+    </div>
+
+    <div class="back-row">
+      <a href="/column" class="back-link">← 一覧に戻る</a>
+    </div>
+  </div>
+
+  <ContactCTA />
+
+</BaseLayout>
+
+<style>
+.detail-hero {
+  width: 100%;
+  max-height: 360px;
+  overflow: hidden;
+}
+.hero-img {
+  width: 100%;
+  max-height: 360px;
+  object-fit: cover;
+  display: block;
+}
+
+.page-wrap {
+  max-width: 52rem;
+  margin: 0 auto;
+  padding: 0 2rem 5rem;
+}
+.detail-h1 {
+  font-size: clamp(1.375rem, 3vw, 2rem);
+  font-weight: 800;
+  color: var(--color-brand);
+  margin: 2rem 0 .75rem;
+  line-height: 1.5;
+  word-break: keep-all;
+  overflow-wrap: anywhere;
+}
+.detail-meta {
+  display: flex;
+  align-items: center;
+  gap: .625rem;
+  margin-bottom: 2.5rem;
+  padding-bottom: 1.5rem;
+  border-bottom: 1px solid #e5e7eb;
+}
+.detail-date { font-size: .875rem; color: var(--color-text-muted); }
+.detail-tag {
+  font-size: .6875rem;
+  padding: .1875rem .5rem;
+  background: var(--color-accent);
+  color: var(--color-brand);
+  border: 1px solid #c7c7f5;
+  border-radius: 9999px;
+  font-weight: 600;
+}
+
+.detail-body-wrap { margin-bottom: 2.5rem; }
+.detail-h2 {
+  font-size: 1.125rem;
+  font-weight: 700;
+  color: var(--color-brand);
+  margin: 2.5rem 0 1rem;
+  line-height: 1.5;
+}
+.detail-h2:first-child { margin-top: 0; }
+.detail-lead {
+  font-size: 1.0625rem;
+  font-weight: 700;
+  color: var(--color-brand);
+  line-height: 1.6;
+  margin-bottom: 1rem;
+}
+.detail-body {
+  color: var(--color-text-muted);
+  line-height: 1.9;
+  font-size: .9375rem;
+  margin-bottom: 1rem;
+}
+.detail-body:last-child { margin-bottom: 0; }
+.detail-label {
+  font-weight: 700;
+  color: var(--color-text);
+  font-size: .9375rem;
+  margin: 1rem 0 .5rem;
+}
+.detail-ul {
+  margin: 0 0 1rem;
+  padding-left: 1.25rem;
+  color: var(--color-text-muted);
+  font-size: .9375rem;
+  line-height: 1.8;
+}
+
+.back-row { margin-top: 1rem; }
+.back-link {
+  font-size: .9375rem;
+  color: var(--color-brand);
+  font-weight: 600;
+  text-decoration: none;
+}
+.back-link:hover { opacity: .75; }
+</style>

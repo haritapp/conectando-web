@@ -1,0 +1,67 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import PageHero from '../../components/PageHero.astro';
+import ContactCTA from '../../components/ContactCTA.astro';
+
+const columns = [
+  {
+    date:  '2024年10月7日',
+    title: '外資系企業の日本担当者が日本でイベントを開催する際に考慮すべき4つのポイント',
+    href:  '/column/4point',
+  },
+  {
+    date:  '2024年9月19日',
+    title: '英語の主催者が日本でイベントを成功させるたった1つのポイント',
+    href:  '/column/eigoevent',
+  },
+];
+---
+
+<BaseLayout title="Column | Conectando" rawTitle description="Conectandoのコラム。イベント運営・日本進出支援に関する情報を発信しています。">
+
+  <PageHero label="COLUMN" title="COLUMN" />
+
+  <div class="page-wrap">
+    <p class="page-lead">すべてのコラム</p>
+
+    <ul class="column-list">
+      {columns.map(c => (
+        <li class="column-item">
+          <a href={c.href} class="column-link">
+            <time class="column-date">{c.date}</time>
+            <span class="column-text">{c.title}</span>
+          </a>
+        </li>
+      ))}
+    </ul>
+  </div>
+
+  <ContactCTA />
+
+</BaseLayout>
+
+<style>
+.page-wrap { max-width: 56rem; margin: 0 auto; padding: 0 2rem 5rem; }
+.page-lead {
+  color: var(--color-text-muted);
+  font-size: .9375rem;
+  font-weight: 600;
+  margin: 2rem 0 2rem;
+}
+.column-list { list-style: none; padding: 0; margin: 0; }
+.column-item { border-bottom: 1px solid #d1d5db; }
+.column-item:first-child { border-top: 1px solid #d1d5db; }
+.column-link {
+  display: flex;
+  align-items: baseline;
+  flex-wrap: wrap;
+  gap: .75rem;
+  padding: 1rem 0;
+  text-decoration: none;
+  color: inherit;
+  transition: opacity .15s;
+}
+.column-link:hover { opacity: .75; }
+.column-date { font-size: .8125rem; color: var(--color-text-muted); white-space: nowrap; }
+.column-text { font-size: .9375rem; color: var(--color-text); line-height: 1.5; }
+</style>
