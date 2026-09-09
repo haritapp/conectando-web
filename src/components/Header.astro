@@ -7,7 +7,7 @@ const t = useTranslations(lang);
 const navLinks = [
   { key: 'nav.service' as const, href: lang === 'en' ? '/en/service' : '/service' },
   { key: 'nav.case' as const, href: lang === 'en' ? '/en/case' : '/case' },
-  { key: 'nav.blog' as const, href: '/column' },
+  { key: 'nav.blog' as const, href: lang === 'en' ? '/en/column' : '/column' },
   { key: 'nav.about' as const, href: lang === 'en' ? '/en/about' : '/about' },
   { key: 'nav.news' as const, href: lang === 'en' ? '/en/news' : '/news' },
   { key: 'nav.contact' as const, href: lang === 'en' ? '/en/contact' : '/contact' },
@@ -15,10 +15,18 @@ const navLinks = [
 
 const currentPath = Astro.url.pathname;
 const pathname = Astro.url.pathname;
+const isEnEigoeventPath = pathname === '/en/column/running-an-event-in-japan-without-japanese' || pathname === '/en/column/running-an-event-in-japan-without-japanese/';
+const jaPath = isEnEigoeventPath
+  ? '/column/eigoevent/'
+  : pathname.startsWith('/en') ? pathname.replace(/^\/en/, '') || '/' : pathname;
+// The eigoevent column article has an English counterpart; other JA column pages (4point, the /column index) don't, so send those to the English top page instead of a dead /en/column link.
+const isEigoeventPath = pathname === '/column/eigoevent' || pathname === '/column/eigoevent/';
 const isColumnPath = pathname === '/column' || pathname.startsWith('/column/');
-const jaPath = pathname.startsWith('/en') ? pathname.replace(/^\/en/, '') || '/' : pathname;
-// /column has no English equivalent, so send the EN toggle to the English top page instead of a dead /en/column link.
-const enPath = isColumnPath ? '/en/' : pathname.startsWith('/en') ? pathname : `/en${pathname}`;
+const enPath = isEigoeventPath
+  ? '/en/column/running-an-event-in-japan-without-japanese/'
+  : isColumnPath
+  ? '/en/'
+  : pathname.startsWith('/en') ? pathname : `/en${pathname}`;
 ---
 
 <header class="bg-white shadow-sm sticky top-0 z-50">

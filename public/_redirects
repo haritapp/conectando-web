@@ -28,9 +28,9 @@ https://conec-tando.com/*  https://www.conec-tando.com/:splat  301
 /blog/category/*      /column/            301
 /blog/detail/*         /column/            301
 
-# 英語版コラムは未提供のため、旧英語ブログ関連はすべて英語トップへ
-/en/blog       /en/  301
-/en/blog/*     /en/  301
+# 旧英語ブログ関連は英語版コラムへ
+/en/blog       /en/column/  301
+/en/blog/*     /en/column/  301
 
 # ── お知らせ詳細: 不透明IDスラッグ → 読みやすいスラッグ（現存する3件のみ） ─
 /news/detail/pD0byN39   /news/bizintokyo/                          301

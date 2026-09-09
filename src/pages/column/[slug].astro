@@ -78,9 +78,12 @@ export async function getStaticPaths() {
 }
 
 const { columnData: c } = Astro.props;
+
+// eigoevent has an English counterpart article; 4point does not.
+const enAltPath = c.slug === 'eigoevent' ? '/en/column/running-an-event-in-japan-without-japanese/' : undefined;
 ---
 
-<BaseLayout title={`${c.title} | Conectando`} rawTitle description={`${c.title}（${c.date}）`}>
+<BaseLayout title={`${c.title} | Conectando`} rawTitle description={`${c.title}（${c.date}）`} altEnPath={enAltPath}>
 
   {c.heroImage && (
     <div class="detail-hero">

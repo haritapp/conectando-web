@@ -74,8 +74,7 @@ const why = [
 ];
 
 const columns = [
-  { date: '2024.10.07', title: '外資系企業の日本担当者が日本でイベントを開催する際に考慮すべき4つのポイント', href: '/column/4point' },
-  { date: '2024.09.19', title: '英語の主催者が日本でイベントを成功させるたった1つのポイント', href: '/column/eigoevent' },
+  { date: '2024.09.19', title: "You don't need to speak Japanese to run an event in Tokyo. You need one person who does.", href: '/en/column/running-an-event-in-japan-without-japanese/' },
 ];
 
 const news = newsItemsEN.slice(0, 3).map(n => ({ date: formatNewsDateDotEN(n.date), title: n.title, href: n.href, external: n.external }));
@@ -156,14 +155,14 @@ const news = newsItemsEN.slice(0, 3).map(n => ({ date: formatNewsDateDotEN(n.dat
   </div>
 </section>
 
-<!-- ⑤ COLUMN / NEWS (Japanese-language content, no English version yet) -->
+<!-- ⑤ COLUMN / NEWS -->
 <section class="cn-sec">
   <div class="sec-body">
     <div class="cn-grid">
       <div>
         <div class="sec-head-row">
           <div class="sec-label">COLUMN</div>
-          <a href="/column" class="text-cta">See all columns <span class="btn-dot">●</span></a>
+          <a href="/en/column" class="text-cta">See all columns <span class="btn-dot">●</span></a>
         </div>
         <ul class="cn-list" role="list">
           {columns.map(c => (

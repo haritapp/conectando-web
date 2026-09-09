@@ -9,18 +9,21 @@ interface Props {
   description?: string;
   ogImage?: string;
   rawTitle?: boolean;
+  /** Overrides the auto-computed ja/en counterpart path for pages whose slug differs between languages (e.g. a JA column article and its EN counterpart). */
+  altJaPath?: string;
+  altEnPath?: string;
 }
 
-const { title, description = 'Bilingual event planning & management in Tokyo.', ogImage = 'https://www.conec-tando.com/images/top/hero-gatetoindiaafrica.webp', rawTitle = false } = Astro.props;
+const { title, description = 'Bilingual event planning & management in Tokyo.', ogImage = 'https://www.conec-tando.com/images/top/hero-gatetoindiaafrica.webp', rawTitle = false, altJaPath, altEnPath } = Astro.props;
 const lang = getLangFromUrl(Astro.url);
 const canonicalURL = new URL(Astro.url.pathname, Astro.site);
 const pageTitle = rawTitle ? title : `${title}｜Conectando`;
 
 const pathname = Astro.url.pathname;
 const isColumnPath = pathname === '/column' || pathname.startsWith('/column/');
-const jaAltPath = pathname.startsWith('/en') ? pathname.replace(/^\/en/, '') || '/' : pathname;
-const enAltPath = pathname.startsWith('/en') ? pathname : `/en${pathname}`;
-const hasAltLang = !isColumnPath;
+const jaAltPath = altJaPath ?? (pathname.startsWith('/en') ? pathname.replace(/^\/en/, '') || '/' : pathname);
+const enAltPath = altEnPath ?? (pathname.startsWith('/en') ? pathname : `/en${pathname}`);
+const hasAltLang = altJaPath !== undefined || altEnPath !== undefined || !isColumnPath;
 ---
 
 <!doctype html>

@@ -1,0 +1,86 @@
+---
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import PageHero from '../../../components/PageHero.astro';
+import ContactCTA from '../../../components/ContactCTA.astro';
+
+const columns = [
+  {
+    date:  'September 19, 2024',
+    title: "You don't need to speak Japanese to run an event in Tokyo. You need one person who does.",
+    href:  '/en/column/running-an-event-in-japan-without-japanese/',
+    img:   '/images/column/eigoevent-hero.webp',
+  },
+];
+---
+
+<BaseLayout title="Column | Conectando" rawTitle description="Column from Conectando — insights on event operations and Japan market entry.">
+
+  <PageHero label="COLUMN" title="Column" />
+
+  <div class="page-wrap">
+    <p class="page-lead">All columns</p>
+
+    <ul class="column-list">
+      {columns.map(c => (
+        <li class="column-item">
+          <a href={c.href} class="column-link">
+            {c.img && (
+              <img src={c.img} alt={c.title} class="column-thumb" loading="lazy" />
+            )}
+            <span class="column-body">
+              <time class="column-date">{c.date}</time>
+              <span class="column-text">{c.title}</span>
+            </span>
+          </a>
+        </li>
+      ))}
+    </ul>
+  </div>
+
+  <ContactCTA />
+
+</BaseLayout>
+
+<style>
+.page-wrap { max-width: 56rem; margin: 0 auto; padding: 0 2rem 5rem; }
+.page-lead {
+  color: var(--color-text-muted);
+  font-size: .9375rem;
+  font-weight: 600;
+  margin: 2rem 0 2rem;
+}
+.column-list { list-style: none; padding: 0; margin: 0; }
+.column-item { border-bottom: 1px solid #d1d5db; }
+.column-item:first-child { border-top: 1px solid #d1d5db; }
+.column-link {
+  display: flex;
+  align-items: center;
+  gap: 1.25rem;
+  padding: 1rem 0;
+  text-decoration: none;
+  color: inherit;
+  transition: opacity .15s;
+}
+.column-link:hover { opacity: .75; }
+.column-thumb {
+  width: 7.5rem;
+  aspect-ratio: 16/9;
+  object-fit: cover;
+  border-radius: .375rem;
+  flex-shrink: 0;
+}
+.column-body {
+  display: flex;
+  flex-direction: column;
+  gap: .375rem;
+  min-width: 0;
+}
+.column-date { font-size: .8125rem; color: var(--color-text-muted); white-space: nowrap; }
+.column-text { font-size: .9375rem; color: var(--color-text); line-height: 1.5; }
+
+@media (max-width: 640px) {
+  .column-link { gap: .875rem; }
+  .column-thumb { width: 5rem; }
+  .column-text { font-size: .875rem; }
+}
+</style>
