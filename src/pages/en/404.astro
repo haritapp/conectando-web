@@ -3,13 +3,21 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 import PageHero from '../../components/PageHero.astro';
 ---
 
-<BaseLayout title="Page not found | Conectando" rawTitle description="The page you're looking for could not be found.">
+<BaseLayout title="ページが見つかりません" description="お探しのページが見つかりませんでした。">
 
   <PageHero label="ERROR" title="404" />
 
   <div class="page-wrap">
+    <p class="not-found-lead">ページが見つかりません</p>
+    <p class="not-found-desc">お探しのページは見つかりませんでした。</p>
+    <a href="/" class="back-btn">トップページへ戻る →</a>
+  </div>
+
+  <hr class="lang-divider" />
+
+  <div class="page-wrap">
     <p class="not-found-lead">Page not found</p>
-    <p class="not-found-desc">The page you're looking for may have been moved or removed.</p>
+    <p class="not-found-desc">The page you're looking for doesn't exist.</p>
     <a href="/en/" class="back-btn">Back to home →</a>
   </div>
 
@@ -21,6 +29,18 @@ import PageHero from '../../components/PageHero.astro';
   margin: 0 auto;
   padding: 4rem 2rem 6rem;
   text-align: center;
+}
+.page-wrap + .lang-divider {
+  margin-top: -4rem;
+}
+.lang-divider {
+  max-width: 40rem;
+  margin: 0 auto;
+  border: none;
+  border-top: 1px solid var(--color-border, #e5e5e5);
+}
+.lang-divider + .page-wrap {
+  padding-top: 3rem;
 }
 .not-found-lead {
   font-size: 1.375rem;
