@@ -1,16 +1,19 @@
 ---
+import { getCollection } from 'astro:content';
 import BaseLayout from '../../../layouts/BaseLayout.astro';
 import PageHero from '../../../components/PageHero.astro';
 import ContactCTA from '../../../components/ContactCTA.astro';
+import { formatDateEN } from '../../../lib/date';
 
-const columns = [
-  {
-    date:  'September 19, 2024',
-    title: "You don't need to speak Japanese to run an event in Tokyo. You need one person who does.",
-    href:  '/en/column/running-an-event-in-japan-without-japanese/',
-    img:   '/images/column/eigoevent-hero.webp',
-  },
-];
+const entries = await getCollection('column', (entry) => entry.data.lang === 'en');
+entries.sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
+
+const columns = entries.map((entry) => ({
+  date: formatDateEN(entry.data.date),
+  title: entry.data.title,
+  href: `/en/column/${entry.data.slug}/`,
+  img: entry.data.heroImage,
+}));
 ---
 
 <BaseLayout title="Column | Conectando" rawTitle description="Column from Conectando — insights on event operations and Japan market entry.">

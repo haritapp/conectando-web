@@ -1,22 +1,19 @@
 ---
+import { getCollection } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import PageHero from '../../components/PageHero.astro';
 import ContactCTA from '../../components/ContactCTA.astro';
+import { formatDateJP } from '../../lib/date';
 
-const columns = [
-  {
-    date:  '2024年10月7日',
-    title: '外資系企業の日本担当者が日本でイベントを開催する際に考慮すべき4つのポイント',
-    href:  '/column/4point',
-    img:   '/images/column/4point-hero.webp',
-  },
-  {
-    date:  '2024年9月19日',
-    title: '英語の主催者が日本でイベントを成功させるたった1つのポイント',
-    href:  '/column/eigoevent',
-    img:   '/images/column/eigoevent-hero.webp',
-  },
-];
+const entries = await getCollection('column', (entry) => entry.data.lang === 'ja');
+entries.sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
+
+const columns = entries.map((entry) => ({
+  date: formatDateJP(entry.data.date),
+  title: entry.data.title,
+  href: `/column/${entry.data.slug}`,
+  img: entry.data.heroImage,
+}));
 ---
 
 <BaseLayout title="Column | Conectando" rawTitle description="Conectandoのコラム。イベント運営・日本進出支援に関する情報を発信しています。">

@@ -24,15 +24,17 @@ const cases = defineCollection({
   }),
 });
 
-// Blog articles (イベント運営者向けメディア)
-const blog = defineCollection({
+// Column articles (イベント運営者向けメディア)
+const column = defineCollection({
   loader: glob({
     pattern: '**/*.md',
-    base: './src/content/blog',
+    base: './src/content/column',
     generateId: ({ entry }) => entry.replace(/\.md$/, ''),
   }),
   schema: z.object({
     title: z.string(),
+    /** Shorter <title>-tag variant, when the on-page title is too long for search results. Falls back to `title`. */
+    pageTitle: z.string().optional(),
     description: z.string().max(200),
     date: z.coerce.date(),
     updated: z.coerce.date().optional(),
@@ -40,6 +42,8 @@ const blog = defineCollection({
     lang: z.enum(['ja', 'en']),
     category: z.enum(['planning', 'venue', 'operations', 'global', 'tips']),
     author: z.enum(['shintaro', 'editorial']).default('editorial'),
+    /** Slug of this article's counterpart in the other language, when one exists. */
+    altSlug: z.string().optional(),
     heroImage: z.string().optional().default(''),
     ogImage: z.string().optional().default(''),
     featured: z.boolean().default(false),
@@ -65,4 +69,4 @@ const news = defineCollection({
   }),
 });
 
-export const collections = { cases, blog, news };
+export const collections = { cases, column, news };

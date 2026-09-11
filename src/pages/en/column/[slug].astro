@@ -1,12 +1,12 @@
 ---
-// src/pages/column/[slug].astro
+// src/pages/en/column/[slug].astro
 import { getCollection, render } from 'astro:content';
-import BaseLayout from '../../layouts/BaseLayout.astro';
-import ContactCTA from '../../components/ContactCTA.astro';
-import { formatDateJP } from '../../lib/date';
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import ContactCTA from '../../../components/ContactCTA.astro';
+import { formatDateEN } from '../../../lib/date';
 
 export async function getStaticPaths() {
-  const entries = await getCollection('column', (entry) => entry.data.lang === 'ja');
+  const entries = await getCollection('column', (entry) => entry.data.lang === 'en');
 
   return entries.map((entry) => ({
     params: { slug: entry.data.slug },
@@ -16,13 +16,13 @@ export async function getStaticPaths() {
 
 const { entry } = Astro.props;
 const { Content } = await render(entry);
-const displayDate = formatDateJP(entry.data.date);
+const displayDate = formatDateEN(entry.data.date);
 
-// Articles with an English counterpart carry its slug in `altSlug`.
-const enAltPath = entry.data.altSlug ? `/en/column/${entry.data.altSlug}/` : undefined;
+// Articles with a Japanese counterpart carry its slug in `altSlug`.
+const jaAltPath = entry.data.altSlug ? `/column/${entry.data.altSlug}/` : undefined;
 ---
 
-<BaseLayout title={`${entry.data.title} | Conectando`} rawTitle description={entry.data.description} altEnPath={enAltPath}>
+<BaseLayout title={`${entry.data.pageTitle ?? entry.data.title} | Conectando`} rawTitle description={entry.data.description} altJaPath={jaAltPath}>
 
   {entry.data.heroImage && (
     <div class="detail-hero">
@@ -34,7 +34,7 @@ const enAltPath = entry.data.altSlug ? `/en/column/${entry.data.altSlug}/` : und
     <h1 class="detail-h1">{entry.data.title}</h1>
     <div class="detail-meta">
       <time class="detail-date">{displayDate}</time>
-      <span class="detail-tag">event</span>
+      <span class="detail-tag">Event</span>
     </div>
 
     <div class="detail-body-wrap">
@@ -42,7 +42,7 @@ const enAltPath = entry.data.altSlug ? `/en/column/${entry.data.altSlug}/` : und
     </div>
 
     <div class="back-row">
-      <a href="/column" class="back-link">← 一覧に戻る</a>
+      <a href="/en/column" class="back-link">← Back to all columns</a>
     </div>
   </div>
 
@@ -118,27 +118,4 @@ const enAltPath = entry.data.altSlug ? `/en/column/${entry.data.altSlug}/` : und
   margin-bottom: 1rem;
 }
 .detail-body-wrap :global(p:last-child) { margin-bottom: 0; }
-/* A paragraph that is a single bold run (**text**) stands in for the old "label" block. */
-.detail-body-wrap :global(p:has(> strong:only-child)) {
-  font-weight: 700;
-  color: var(--color-text);
-  font-size: .9375rem;
-  margin: 1rem 0 .5rem;
-}
-.detail-body-wrap :global(ul) {
-  margin: 0 0 1rem;
-  padding-left: 1.25rem;
-  color: var(--color-text-muted);
-  font-size: .9375rem;
-  line-height: 1.8;
-}
-
-.back-row { margin-top: 1rem; }
-.back-link {
-  font-size: .9375rem;
-  color: var(--color-brand);
-  font-weight: 600;
-  text-decoration: none;
-}
-.back-link:hover { opacity: .75; }
 </style>
