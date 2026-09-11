@@ -4,13 +4,12 @@ description: "英語の主催者が日本でイベントを成功させるたっ
 date: 2024-09-19
 slug: "eigoevent"
 lang: "ja"
-category: "operations"
+category: "language"
 author: "shintaro"
 altSlug: "running-an-event-in-japan-without-japanese"
 heroImage: "/images/column/eigoevent-hero.webp"
+lead: "言語の壁は本当に大きな障害？日本でのイベント開催の現実"
 ---
-
-<p class="lead">言語の壁は本当に大きな障害？日本でのイベント開催の現実</p>
 
 多くの人が「日本語を話せない主催者が日本でイベントを成功させるのは難しいのではないか」と感じるかもしれません。確かに、日本語はイベントの現場で使われる主要な言語ですが、主催者が日本語を話せなくても、工夫次第で問題なくイベントを運営することが可能です。特に、日本国内でのイベント運営には、必ずしも高い日本語力が求められるわけではありません。
 

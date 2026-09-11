@@ -5,13 +5,12 @@ description: "You don't need to speak Japanese to run an event in Tokyo. You nee
 date: 2024-09-19
 slug: "running-an-event-in-japan-without-japanese"
 lang: "en"
-category: "operations"
+category: "language"
 author: "shintaro"
 altSlug: "eigoevent"
 heroImage: "/images/column/eigoevent-hero.webp"
+lead: "Is the language barrier really the problem?"
 ---
-
-<p class="lead">Is the language barrier really the problem?</p>
 
 Many overseas organizers assume that running an event in Japan without speaking Japanese is a long shot. Venues, caterers, AV crews and printers all work in Japanese, and most of them won't switch to English for you. That part is true. But it doesn't follow that you, the organizer, need to speak Japanese. In practice, plenty of events in Tokyo are run by people who don't.
 

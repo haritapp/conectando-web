@@ -4,7 +4,7 @@ description: "外資系企業の日本担当者が日本でイベントを開催
 date: 2024-10-07
 slug: "4point"
 lang: "ja"
-category: "operations"
+category: "planning"
 author: "shintaro"
 heroImage: "/images/column/4point-hero.webp"
 ---

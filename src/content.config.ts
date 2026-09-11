@@ -40,10 +40,12 @@ const column = defineCollection({
     updated: z.coerce.date().optional(),
     slug: z.string(),
     lang: z.enum(['ja', 'en']),
-    category: z.enum(['planning', 'venue', 'operations', 'global', 'tips']),
+    category: z.enum(['cost', 'venue', 'language', 'planning', 'operations']),
     author: z.enum(['shintaro', 'editorial']).default('editorial'),
     /** Slug of this article's counterpart in the other language, when one exists. */
     altSlug: z.string().optional(),
+    /** Lead-in emphasis text shown before the body, rendered as <p class="lead">. */
+    lead: z.string().optional(),
     heroImage: z.string().optional().default(''),
     ogImage: z.string().optional().default(''),
     featured: z.boolean().default(false),
