@@ -65,7 +65,11 @@ const stackLinks = [
   { label: 'CONTACT',  href: `${base}/contact` },
   { label: 'POLICY',   href: `${base}/policy` },
   { label: isEn ? 'CASE STUDIES' : '導入事例', href: `${base}/case` },
-  { label: 'MEDIA',    href: 'https://bizintokyo.com', external: true },
+];
+
+const mediaLinks = [
+  { label: 'BizinTokyo',  href: 'https://bizintokyo.com' },
+  { label: 'BizinKansai', href: 'https://bizinkansai.com' },
 ];
 ---
 
@@ -88,15 +92,20 @@ const stackLinks = [
     ))}
     <div class="footer-col footer-col-stack">
       {stackLinks.map(l => (
-        <a
-          href={l.href}
-          class="col-heading"
-          target={l.external ? '_blank' : undefined}
-          rel={l.external ? 'noopener' : undefined}
-        >
-          {l.label}{l.external && <span class="ext-icon" aria-hidden="true"> ↗</span>}
-        </a>
+        <a href={l.href} class="col-heading">{l.label}</a>
       ))}
+      <div class="footer-media">
+        <span class="col-heading">MEDIA</span>
+        <ul class="col-links">
+          {mediaLinks.map(l => (
+            <li>
+              <a href={l.href} class="col-link" target="_blank" rel="noopener">
+                {l.label}<span class="ext-icon" aria-hidden="true"> ↗</span>
+              </a>
+            </li>
+          ))}
+        </ul>
+      </div>
     </div>
   </div>
 
@@ -158,6 +167,7 @@ const stackLinks = [
 }
 .col-heading:hover { opacity: .8; }
 .footer-col-stack .col-heading { margin-bottom: 0; }
+.footer-media .col-heading { margin-bottom: .625rem; }
 
 .col-links {
   list-style: none;
