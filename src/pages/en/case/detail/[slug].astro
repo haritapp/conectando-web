@@ -177,7 +177,7 @@ const { caseData: c } = Astro.props;
         <ul class="link-list">
           {c.organizers.map(o => (
             <li>{o.href
-              ? <a href={o.href} class="ext-link" target="_blank" rel="noopener">{o.label}</a>
+              ? <a href={o.href} class="ext-link" target="_blank" rel="noopener noreferrer">{o.label}</a>
               : o.label}</li>
           ))}
         </ul>
@@ -190,7 +190,7 @@ const { caseData: c } = Astro.props;
         <ul class="link-list">
           {c.coorganizers.map(o => (
             <li>{o.href
-              ? <a href={o.href} class="ext-link" target="_blank" rel="noopener">{o.label}</a>
+              ? <a href={o.href} class="ext-link" target="_blank" rel="noopener noreferrer">{o.label}</a>
               : o.label}</li>
           ))}
         </ul>
@@ -200,7 +200,7 @@ const { caseData: c } = Astro.props;
     {c.website && (
       <section class="detail-section">
         <h2 class="detail-h2">Event website</h2>
-        <a href={c.website} class="ext-link" target="_blank" rel="noopener">{c.website}</a>
+        <a href={c.website} class="ext-link" target="_blank" rel="noopener noreferrer">{c.website}</a>
       </section>
     )}
 
@@ -228,7 +228,7 @@ const { caseData: c } = Astro.props;
         <h2 class="detail-h2">Related article</h2>
         <ul class="link-list">
           {c.articles.map(a => (
-            <li><a href={a.href} class="ext-link" target="_blank" rel="noopener">{a.label}</a></li>
+            <li><a href={a.href} class="ext-link" target="_blank" rel="noopener noreferrer">{a.label}</a></li>
           ))}
         </ul>
       </section>

@@ -183,7 +183,7 @@ const news = newsItemsEN.slice(0, 3).map(n => ({ date: formatNewsDateDotEN(n.dat
         <ul class="cn-list" role="list">
           {news.map(n => (
             <li class="cn-item">
-              <a href={n.href} class="cn-link" target={n.external ? '_blank' : undefined} rel={n.external ? 'noopener' : undefined}>
+              <a href={n.href} class="cn-link" target={n.external ? '_blank' : undefined} rel={n.external ? 'noopener noreferrer' : undefined}>
                 <span class="cn-date">{n.date}</span>
                 <span class="cn-text">{n.title}</span>
               </a>

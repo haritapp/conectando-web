@@ -26,7 +26,7 @@ const badgeColors: Record<string, string> = {
               href={n.href}
               class="news-link"
               target={n.external ? '_blank' : undefined}
-              rel={n.external ? 'noopener' : undefined}
+              rel={n.external ? 'noopener noreferrer' : undefined}
             >
               <time class="news-date">{formatNewsDateEN(n.date)}</time>
               <span

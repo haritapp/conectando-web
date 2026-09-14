@@ -2,7 +2,25 @@
 import { defineConfig } from 'astro/config';
 import tailwindcss from '@tailwindcss/vite';
 import sitemap from '@astrojs/sitemap';
+import rehypeExternalLinks from 'rehype-external-links';
 import { remarkVenueCards } from './src/lib/remark-venue-cards.ts';
+
+const SITE_HOSTNAMES = new Set(['conec-tando.com', 'www.conec-tando.com']);
+
+// remark-venue-cards already renders venue-card links with their own
+// target/rel (see src/lib/remark-venue-cards.ts), so this plugin skips any
+// `<a>` that already has a `target` to avoid double-applying attributes.
+function isPlainExternalLink(element) {
+  if (typeof element.properties?.target === 'string') return false;
+  const href = element.properties?.href;
+  if (typeof href !== 'string') return false;
+  try {
+    const url = new URL(href, 'https://www.conec-tando.com');
+    return !SITE_HOSTNAMES.has(url.hostname);
+  } catch {
+    return false;
+  }
+}
 
 // https://astro.build/config
 export default defineConfig({
@@ -19,6 +37,16 @@ export default defineConfig({
   markdown: {
     smartypants: false,
     remarkPlugins: [remarkVenueCards],
+    rehypePlugins: [
+      [
+        rehypeExternalLinks,
+        {
+          target: '_blank',
+          rel: ['noopener', 'noreferrer'],
+          test: isPlainExternalLink,
+        },
+      ],
+    ],
   },
   vite: {
     plugins: [tailwindcss()],
