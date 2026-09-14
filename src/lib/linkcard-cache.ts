@@ -62,10 +62,16 @@ export async function getLinkCardData(url: string): Promise<LinkCardData | null>
   const store = loadCache();
   if (store[url]) return store[url];
 
+  // Cloudflare Pages builds can't reach the outside network reliably (a
+  // request can hang well past its abort timeout instead of failing fast).
+  // Never fetch there: only cache entries committed ahead of time are used,
+  // and anything missing falls back to a photo-less card.
+  if (process.env.CF_PAGES) return null;
+
   try {
     const res = await fetch(url, {
       headers: { 'User-Agent': 'Mozilla/5.0 (compatible; conectando-linkcard-bot)' },
-      signal: AbortSignal.timeout(10_000),
+      signal: AbortSignal.timeout(5_000),
     });
     if (!res.ok) return null;
     const html = await res.text();
