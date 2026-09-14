@@ -2,6 +2,7 @@
 import { defineConfig } from 'astro/config';
 import tailwindcss from '@tailwindcss/vite';
 import sitemap from '@astrojs/sitemap';
+import { remarkVenueCards } from './src/lib/remark-venue-cards.ts';
 
 // https://astro.build/config
 export default defineConfig({
@@ -17,6 +18,7 @@ export default defineConfig({
   // default smartypants typographic transform is disabled site-wide.
   markdown: {
     smartypants: false,
+    remarkPlugins: [remarkVenueCards],
   },
   vite: {
     plugins: [tailwindcss()],

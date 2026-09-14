@@ -47,6 +47,8 @@ const column = defineCollection({
     /** Lead-in emphasis text shown before the body, rendered as <p class="lead">. */
     lead: z.string().optional(),
     heroImage: z.string().optional().default(''),
+    /** Attribution shown under the hero image, e.g. "Photo by X on Unsplash". */
+    heroCredit: z.string().optional(),
     ogImage: z.string().optional().default(''),
     featured: z.boolean().default(false),
     keywords: z.array(z.string()).optional(),

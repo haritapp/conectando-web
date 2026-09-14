@@ -1,4 +1,5 @@
 ---
+import { getCollection } from 'astro:content';
 import { getLangFromUrl, useTranslations } from '../i18n/utils';
 
 const lang = getLangFromUrl(Astro.url);
@@ -15,19 +16,30 @@ const navLinks = [
 
 const currentPath = Astro.url.pathname;
 const pathname = Astro.url.pathname;
-const isEnRunningEventPath = pathname === '/en/column/running-an-event-in-japan-without-japanese' || pathname === '/en/column/running-an-event-in-japan-without-japanese/';
-const jaPath = isEnRunningEventPath
-  ? '/column/4point/'
-  : pathname.startsWith('/en') ? pathname.replace(/^\/en/, '') || '/' : pathname;
-// The 4point column article has an English counterpart (running-an-event-in-japan-without-japanese);
-// other JA column pages (eigoevent, the /column index) don't, so send those to the English top page instead of a dead /en/column link.
-const isFourPointPath = pathname === '/column/4point' || pathname === '/column/4point/';
+
+let jaPath = pathname.startsWith('/en') ? pathname.replace(/^\/en/, '') || '/' : pathname;
+let enPath = pathname.startsWith('/en') ? pathname : `/en${pathname}`;
+
+// Column article slugs can differ (or have no counterpart at all) between languages,
+// unlike every other section, which mirrors 1:1 — so look up the real pairing via
+// each entry's `altSlug` instead of assuming the path translates directly. Falls back
+// to the other language's top page when a given article has no counterpart.
 const isColumnPath = pathname === '/column' || pathname.startsWith('/column/');
-const enPath = isFourPointPath
-  ? '/en/column/running-an-event-in-japan-without-japanese/'
-  : isColumnPath
-  ? '/en/'
-  : pathname.startsWith('/en') ? pathname : `/en${pathname}`;
+const enArticleMatch = pathname.match(/^\/en\/column\/([^/]+)\/?$/);
+const jaArticleMatch = pathname.match(/^\/column\/([^/]+)\/?$/);
+
+if (enArticleMatch || jaArticleMatch) {
+  const columnEntries = await getCollection('column');
+  if (enArticleMatch) {
+    const entry = columnEntries.find((e) => e.data.lang === 'en' && e.data.slug === enArticleMatch[1]);
+    jaPath = entry?.data.altSlug ? `/column/${entry.data.altSlug}/` : '/';
+  } else if (jaArticleMatch) {
+    const entry = columnEntries.find((e) => e.data.lang === 'ja' && e.data.slug === jaArticleMatch[1]);
+    enPath = entry?.data.altSlug ? `/en/column/${entry.data.altSlug}/` : '/en/';
+  }
+} else if (isColumnPath) {
+  enPath = '/en/';
+}
 ---
 
 <header class="bg-white shadow-sm sticky top-0 z-50">

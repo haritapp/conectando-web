@@ -30,6 +30,7 @@ const ogImage = entry.data.heroImage ? new URL(entry.data.heroImage, Astro.site)
   {entry.data.heroImage && (
     <div class="detail-hero">
       <img src={entry.data.heroImage} alt={entry.data.title} class="hero-img" />
+      {entry.data.heroCredit && <p class="hero-credit">{entry.data.heroCredit}</p>}
     </div>
   )}
 
@@ -64,6 +65,12 @@ const ogImage = entry.data.heroImage ? new URL(entry.data.heroImage, Astro.site)
   width: 100%;
   height: auto;
   display: block;
+}
+.hero-credit {
+  font-size: .75rem;
+  color: var(--color-text-muted);
+  margin: .5rem 0 0;
+  text-align: right;
 }
 
 .page-wrap {
@@ -153,11 +160,93 @@ const ogImage = entry.data.heroImage ? new URL(entry.data.heroImage, Astro.site)
   margin: 1.5rem 0;
 }
 
+.detail-body-wrap :global(table) {
+  display: block;
+  width: 100%;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  border-collapse: collapse;
+  margin: 1.5rem 0;
+  font-size: .9375rem;
+}
+.detail-body-wrap :global(th),
+.detail-body-wrap :global(td) {
+  padding: .625rem .75rem;
+  border: 1px solid #e5e7eb;
+  text-align: left;
+  white-space: nowrap;
+  color: var(--color-text);
+}
+.detail-body-wrap :global(th) {
+  background: var(--color-accent);
+  color: var(--color-brand);
+  font-weight: 700;
+}
+
+.detail-body-wrap :global(a.venue-card) {
+  display: flex;
+  align-items: stretch;
+  gap: 1rem;
+  margin: 1.5rem 0;
+  padding: .75rem;
+  border: 1px solid #e5e7eb;
+  border-radius: var(--radius-md);
+  text-decoration: none;
+  color: inherit;
+  transition: border-color .15s, background-color .15s;
+}
+.detail-body-wrap :global(a.venue-card:hover) {
+  border-color: var(--color-brand-light);
+  background: var(--color-accent);
+}
+.detail-body-wrap :global(.venue-card-img) {
+  width: 40%;
+  max-width: 12rem;
+  aspect-ratio: 16/9;
+  object-fit: cover;
+  border-radius: var(--radius-sm);
+  flex-shrink: 0;
+  margin: 0;
+}
+.detail-body-wrap :global(.venue-card-body) {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: .25rem;
+  min-width: 0;
+}
+.detail-body-wrap :global(.venue-card-title) {
+  font-size: 1rem;
+  font-weight: 700;
+  color: var(--color-brand);
+  line-height: 1.4;
+}
+.detail-body-wrap :global(.venue-card-desc) {
+  font-size: .875rem;
+  color: var(--color-text-muted);
+  line-height: 1.5;
+  display: -webkit-box;
+  -webkit-line-clamp: 1;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+.detail-body-wrap :global(.venue-card-domain) {
+  font-size: .75rem;
+  color: var(--color-text-muted);
+}
+
 @media (max-width: 640px) {
   .detail-body-wrap :global(p),
   .detail-body-wrap :global(ul),
   .detail-body-wrap :global(ol) {
     font-size: 1rem;
+  }
+  .detail-body-wrap :global(a.venue-card) {
+    flex-direction: column;
+  }
+  .detail-body-wrap :global(.venue-card-img) {
+    width: 100%;
+    max-width: none;
   }
 }
 

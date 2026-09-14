@@ -20,7 +20,9 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.site);
 const pageTitle = rawTitle ? title : `${title}｜Conectando`;
 
 const pathname = Astro.url.pathname;
-const isColumnPath = pathname === '/column' || pathname.startsWith('/column/');
+const isColumnPath =
+  pathname === '/column' || pathname.startsWith('/column/') ||
+  pathname === '/en/column' || pathname.startsWith('/en/column/');
 const jaAltPath = altJaPath ?? (pathname.startsWith('/en') ? pathname.replace(/^\/en/, '') || '/' : pathname);
 const enAltPath = altEnPath ?? (pathname.startsWith('/en') ? pathname : `/en${pathname}`);
 const hasAltLang = altJaPath !== undefined || altEnPath !== undefined || !isColumnPath;
