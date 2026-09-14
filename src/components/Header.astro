@@ -15,14 +15,15 @@ const navLinks = [
 
 const currentPath = Astro.url.pathname;
 const pathname = Astro.url.pathname;
-const isEnEigoeventPath = pathname === '/en/column/running-an-event-in-japan-without-japanese' || pathname === '/en/column/running-an-event-in-japan-without-japanese/';
-const jaPath = isEnEigoeventPath
-  ? '/column/eigoevent/'
+const isEnRunningEventPath = pathname === '/en/column/running-an-event-in-japan-without-japanese' || pathname === '/en/column/running-an-event-in-japan-without-japanese/';
+const jaPath = isEnRunningEventPath
+  ? '/column/4point/'
   : pathname.startsWith('/en') ? pathname.replace(/^\/en/, '') || '/' : pathname;
-// The eigoevent column article has an English counterpart; other JA column pages (4point, the /column index) don't, so send those to the English top page instead of a dead /en/column link.
-const isEigoeventPath = pathname === '/column/eigoevent' || pathname === '/column/eigoevent/';
+// The 4point column article has an English counterpart (running-an-event-in-japan-without-japanese);
+// other JA column pages (eigoevent, the /column index) don't, so send those to the English top page instead of a dead /en/column link.
+const isFourPointPath = pathname === '/column/4point' || pathname === '/column/4point/';
 const isColumnPath = pathname === '/column' || pathname.startsWith('/column/');
-const enPath = isEigoeventPath
+const enPath = isFourPointPath
   ? '/en/column/running-an-event-in-japan-without-japanese/'
   : isColumnPath
   ? '/en/'

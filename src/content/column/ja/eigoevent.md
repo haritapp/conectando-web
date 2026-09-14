@@ -6,7 +6,6 @@ slug: "eigoevent"
 lang: "ja"
 category: "language"
 author: "shintaro"
-altSlug: "running-an-event-in-japan-without-japanese"
 heroImage: "/images/column/eigoevent-hero.webp"
 lead: "言語の壁は本当に大きな障害？日本でのイベント開催の現実"
 ---

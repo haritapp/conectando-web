@@ -22,9 +22,10 @@ const badgeLabel = categoryLabel(entry.data.category, 'en');
 
 // Articles with a Japanese counterpart carry its slug in `altSlug`.
 const jaAltPath = entry.data.altSlug ? `/column/${entry.data.altSlug}/` : undefined;
+const ogImage = entry.data.heroImage ? new URL(entry.data.heroImage, Astro.site).toString() : undefined;
 ---
 
-<BaseLayout title={`${entry.data.pageTitle ?? entry.data.title} | Conectando`} rawTitle description={entry.data.description} altJaPath={jaAltPath}>
+<BaseLayout title={`${entry.data.pageTitle ?? entry.data.title} | Conectando`} rawTitle description={entry.data.description} altJaPath={jaAltPath} ogImage={ogImage}>
 
   {entry.data.heroImage && (
     <div class="detail-hero">
@@ -66,13 +67,13 @@ const jaAltPath = entry.data.altSlug ? `/column/${entry.data.altSlug}/` : undefi
 }
 
 .page-wrap {
-  max-width: 52rem;
+  max-width: 42rem;
   margin: 0 auto;
   padding: 0 2rem 5rem;
 }
 .detail-h1 {
   font-size: clamp(1.375rem, 3vw, 2rem);
-  font-weight: 800;
+  font-weight: 700;
   color: var(--color-brand);
   margin: 2rem 0 .75rem;
   line-height: 1.5;
@@ -103,22 +104,60 @@ const jaAltPath = entry.data.altSlug ? `/column/${entry.data.altSlug}/` : undefi
   font-size: 1.125rem;
   font-weight: 700;
   color: var(--color-brand);
-  margin: 2.5rem 0 1rem;
+  margin: 2.25rem 0 .75rem;
   line-height: 1.5;
 }
 .detail-body-wrap :global(h2:first-child) { margin-top: 0; }
-.detail-body-wrap :global(p.lead) {
-  font-size: 1.0625rem;
-  font-weight: 700;
+.detail-body-wrap :global(h3) {
+  font-size: 1rem;
+  font-weight: 600;
   color: var(--color-brand);
-  line-height: 1.6;
+  margin: 2.25rem 0 .75rem;
+  line-height: 1.5;
+}
+.detail-body-wrap :global(p.lead) {
+  font-size: 1.125rem;
+  font-weight: 600;
+  color: var(--color-text);
+  line-height: 1.75;
   margin-bottom: 1rem;
 }
 .detail-body-wrap :global(p) {
-  color: var(--color-text-muted);
-  line-height: 1.9;
-  font-size: .9375rem;
+  color: var(--color-text);
+  line-height: 1.75;
+  font-size: 1.0625rem;
   margin-bottom: 1rem;
 }
 .detail-body-wrap :global(p:last-child) { margin-bottom: 0; }
+/* A paragraph that is a single bold run (**text**) stands in for the old "label" block. */
+.detail-body-wrap :global(p:has(> strong:only-child)) {
+  font-weight: 700;
+  color: var(--color-text);
+  font-size: 1.0625rem;
+  margin: 1rem 0 .5rem;
+}
+.detail-body-wrap :global(ul),
+.detail-body-wrap :global(ol) {
+  margin: 0 0 1rem;
+  padding-left: 1.25rem;
+  color: var(--color-text);
+  font-size: 1.0625rem;
+  line-height: 1.75;
+}
+.detail-body-wrap :global(ol) { list-style: decimal; }
+.detail-body-wrap :global(li) { margin-bottom: .375rem; }
+.detail-body-wrap :global(img) {
+  display: block;
+  width: 100%;
+  height: auto;
+  margin: 1.5rem 0;
+}
+
+@media (max-width: 640px) {
+  .detail-body-wrap :global(p),
+  .detail-body-wrap :global(ul),
+  .detail-body-wrap :global(ol) {
+    font-size: 1rem;
+  }
+}
 </style>
