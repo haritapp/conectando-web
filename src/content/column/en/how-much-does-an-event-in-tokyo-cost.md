@@ -30,14 +30,14 @@ Some venues do publish their fees. For reference, here are published rates for m
 
 | Venue | Seats / capacity | Weekday, event day (full day) | Set-up day (full day) | Weekend / holiday, event day | Tax |
 |---|---|---|---|---|---|
-| [Tokyo International Forum](https://bizintokyo.com/en/hotels/international-forum/) — Hall C | 1,502 seats | ¥1,221,000 (≈$7,900) | ¥854,700 (≈$5,600) | ¥1,465,200 (≈$9,500) | incl. |
-| [Tokyo International Forum](https://bizintokyo.com/en/hotels/international-forum/) — Hall A | 5,012 seats | ¥4,140,400 (≈$26,900) | ¥2,484,240 (≈$16,100) | ¥4,968,480 (≈$32,300) | incl. |
-| [Tokyo Big Sight](https://bizintokyo.com/en/hotels/tokyo-big-sight/) — International Conference Hall | 1,000 seats | ¥1,100,000 (≈$7,100) | ¥550,000 (≈$3,600) (half rate) | same as weekday | incl. |
-| [Tokyo Big Sight](https://bizintokyo.com/en/hotels/tokyo-big-sight/) — Reception Hall A+B | approx. 1,100 | ¥1,870,000 (≈$12,100) | ¥935,000 (≈$6,100) (half rate) | same as weekday | incl. |
-| [Pacifico Yokohama](https://bizintokyo.com/en/hotels/pacifico-yokohama/) — National Convention Hall (full hall) | 5,002 seats | ¥2,662,000 (≈$17,300) (9:00–17:00) | ¥1,597,200 (≈$10,400) | ¥3,146,000 (≈$20,400) | incl. |
-| [Tokyo Conference Center Shinagawa](https://bizintokyo.com/en/hotels/tokyo-cc-shinagawa/) — Main Hall | 420 (school style) | ¥1,100,000 (≈$7,100) | not listed | not listed | + 10% service charge + 10% tax |
-| [Hikarie Hall](https://bizintokyo.com/en/hotels/hikarie/) — Hall A | approx. 1,000 m² | ¥2,100,000 (≈$13,600) | ¥1,260,000 (≈$8,200) | same as weekday | + 10% tax |
-| [BASE Q, Tokyo Midtown Hibiya](https://bizintokyo.com/en/hotels/midtown_hibiya/) — Hall 1+2 + Kitchen + Studio | 432 (theatre style) | ¥1,560,000 (≈$10,100) | 30% off | same as weekday | + 10% tax |
+| [Tokyo International Forum](https://bizintokyo.com/en/venues/international_forum/) — Hall C | 1,502 seats | ¥1,221,000 (≈$7,900) | ¥854,700 (≈$5,600) | ¥1,465,200 (≈$9,500) | incl. |
+| [Tokyo International Forum](https://bizintokyo.com/en/venues/international_forum/) — Hall A | 5,012 seats | ¥4,140,400 (≈$26,900) | ¥2,484,240 (≈$16,100) | ¥4,968,480 (≈$32,300) | incl. |
+| [Tokyo Big Sight](https://bizintokyo.com/en/venues/tokyo_big_sight/) — International Conference Hall | 1,000 seats | ¥1,100,000 (≈$7,100) | ¥550,000 (≈$3,600) (half rate) | same as weekday | incl. |
+| [Tokyo Big Sight](https://bizintokyo.com/en/venues/tokyo_big_sight/) — Reception Hall A+B | approx. 1,100 | ¥1,870,000 (≈$12,100) | ¥935,000 (≈$6,100) (half rate) | same as weekday | incl. |
+| [Pacifico Yokohama](https://bizintokyo.com/en/venues/pacifico_yokohama/) — National Convention Hall (full hall) | 5,002 seats | ¥2,662,000 (≈$17,300) (9:00–17:00) | ¥1,597,200 (≈$10,400) | ¥3,146,000 (≈$20,400) | incl. |
+| [Tokyo Conference Center Shinagawa](https://bizintokyo.com/en/venues/tokyo-cc-shinagawa/) — Main Hall | 420 (school style) | ¥1,100,000 (≈$7,100) | not listed | not listed | + 10% service charge + 10% tax |
+| [Hikarie Hall](https://bizintokyo.com/en/venues/hikarie/) — Hall A | approx. 1,000 m² | ¥2,100,000 (≈$13,600) | ¥1,260,000 (≈$8,200) | same as weekday | + 10% tax |
+| [BASE Q, Tokyo Midtown Hibiya](https://bizintokyo.com/en/venues/midtown_hibiya/) — Hall 1+2 + Kitchen + Studio | 432 (theatre style) | ¥1,560,000 (≈$10,100) | 30% off | same as weekday | + 10% tax |
 | Bellesalle (various locations) | — | on request | on request | on request | — |
 
 Two things to keep in mind. First, this is the exception rather than the rule: many Tokyo venues do not publish fees at all, and you get a number only by asking. Second, these figures are the room only. Audio-visual equipment, catering, staff, and operations come on top.
@@ -46,11 +46,11 @@ And the part that is hardest to predict is the small items. Take something as or
 
 If you want to see what these venues are actually like — access, nearby hotels, what to know before you book — I keep detailed guides on bizintokyo:
 
-https://bizintokyo.com/en/hotels/international-forum/
+https://bizintokyo.com/en/venues/international_forum/
 
-https://bizintokyo.com/en/hotels/tokyo-big-sight/
+https://bizintokyo.com/en/venues/tokyo_big_sight/
 
-https://bizintokyo.com/en/hotels/hikarie/
+https://bizintokyo.com/en/venues/hikarie/
 
 ## What to tell us first, so you get a useful quote
 

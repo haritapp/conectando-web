@@ -48,11 +48,13 @@ function extractMeta(html: string, property: string): string | undefined {
 
 function decodeEntities(str: string): string {
   return str
+    .replace(/&#x([0-9a-f]+);/gi, (_, hex) => String.fromCodePoint(parseInt(hex, 16)))
+    .replace(/&#(\d+);/g, (_, dec) => String.fromCodePoint(parseInt(dec, 10)))
     .replace(/&amp;/g, '&')
     .replace(/&lt;/g, '<')
     .replace(/&gt;/g, '>')
     .replace(/&quot;/g, '"')
-    .replace(/&#0*39;|&apos;/g, "'");
+    .replace(/&apos;/g, "'");
 }
 
 /** Returns cached/fetched og data for a URL, or null if it could not be fetched. */

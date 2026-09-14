@@ -1,17 +1,17 @@
 {
-  "https://bizintokyo.com/en/hotels/international-forum/": {
-    "title": "10 Best Hotels near Tokyo International Forum | BizinTokyo",
-    "description": "Attending a conference or exhibition at Tokyo International Forum? Compare 10 hotels near the venue by distance, price tier, and book directly on Expedia.",
-    "image": "https://bizintokyo.com/images/heroes/international_forum_hotels_en.png"
+  "https://bizintokyo.com/en/venues/international_forum/": {
+    "title": "Tokyo International Forum Access & Visitor Guide | BizinTokyo",
+    "description": "For those returning to Japan after a long time, you may notice that the cityscape and transportation systems have changed quite a bit. Many visitors find navigating Tokyo",
+    "image": "https://bizintokyo.com/images/heroes/international_forum_en.png"
   },
-  "https://bizintokyo.com/en/hotels/tokyo-big-sight/": {
-    "title": "10 Best Hotels near Tokyo Big Sight | BizinTokyo",
-    "description": "Attending a trade show at Tokyo Big Sight? Compare 10 hotels near the venue by distance, price tier, and book directly on Expedia.",
-    "image": "https://bizintokyo.com/images/heroes/tokyo_big_sight_hotels_en.png"
+  "https://bizintokyo.com/en/venues/tokyo_big_sight/": {
+    "title": "Tokyo Big Sight Access & Visitor Guide | BizinTokyo",
+    "description": "Is this your first time back in Japan in a while? The cityscape may look familiar, but much has changed—including public transport systems, services, and travel rules. If you’re visiting Japan for bus",
+    "image": "https://bizintokyo.com/images/heroes/tokyo_big_sight_en.png"
   },
-  "https://bizintokyo.com/en/hotels/hikarie/": {
-    "title": "10 Best Hotels near Shibuya Hikarie | BizinTokyo",
-    "description": "Attending an event at Shibuya Hikarie? Compare 10 hotels near the venue by distance, price tier, and book directly on Expedia.",
-    "image": "https://bizintokyo.com/images/heroes/hikarie_hotels_en.png"
+  "https://bizintokyo.com/en/venues/hikarie/": {
+    "title": "Shibuya Hikarie Access & Visitor Guide | BizinTokyo",
+    "description": "Planning a trip to Japan for a business event or startup fair at Shibuya Hikarie? Whether you’re returning to Japan after a decade or visiting for business for the very first time, navigating transpor",
+    "image": "https://bizintokyo.com/images/heroes/hikarie_en.png"
   }
 }
