@@ -6,6 +6,7 @@ slug: "4point"
 lang: "ja"
 category: "planning"
 author: "shintaro"
+altSlug: "running-an-event-in-japan-without-japanese"
 heroImage: "/images/column/4point-hero.webp"
 ---
 

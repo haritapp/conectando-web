@@ -22,9 +22,10 @@ const badgeLabel = categoryLabel(entry.data.category, 'en');
 
 // Articles with a Japanese counterpart carry its slug in `altSlug`.
 const jaAltPath = entry.data.altSlug ? `/column/${entry.data.altSlug}/` : undefined;
+const ogImage = entry.data.heroImage ? new URL(entry.data.heroImage, Astro.site).toString() : undefined;
 ---
 
-<BaseLayout title={`${entry.data.pageTitle ?? entry.data.title} | Conectando`} rawTitle description={entry.data.description} altJaPath={jaAltPath}>
+<BaseLayout title={`${entry.data.pageTitle ?? entry.data.title} | Conectando`} rawTitle description={entry.data.description} altJaPath={jaAltPath} ogImage={ogImage}>
 
   {entry.data.heroImage && (
     <div class="detail-hero">
@@ -121,4 +122,21 @@ const jaAltPath = entry.data.altSlug ? `/column/${entry.data.altSlug}/` : undefi
   margin-bottom: 1rem;
 }
 .detail-body-wrap :global(p:last-child) { margin-bottom: 0; }
+.detail-body-wrap :global(ul),
+.detail-body-wrap :global(ol) {
+  margin: 0 0 1rem;
+  padding-left: 1.25rem;
+  color: var(--color-text-muted);
+  font-size: .9375rem;
+  line-height: 1.8;
+}
+.detail-body-wrap :global(ol) { list-style: decimal; }
+.detail-body-wrap :global(li) { margin-bottom: .375rem; }
+.detail-body-wrap :global(img) {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: .375rem;
+  margin: 1.5rem 0;
+}
 </style>

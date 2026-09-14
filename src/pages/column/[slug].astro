@@ -22,9 +22,10 @@ const badgeLabel = categoryLabel(entry.data.category, 'ja');
 
 // Articles with an English counterpart carry its slug in `altSlug`.
 const enAltPath = entry.data.altSlug ? `/en/column/${entry.data.altSlug}/` : undefined;
+const ogImage = entry.data.heroImage ? new URL(entry.data.heroImage, Astro.site).toString() : undefined;
 ---
 
-<BaseLayout title={`${entry.data.title} | Conectando`} rawTitle description={entry.data.description} altEnPath={enAltPath}>
+<BaseLayout title={`${entry.data.title} | Conectando`} rawTitle description={entry.data.description} altEnPath={enAltPath} ogImage={ogImage}>
 
   {entry.data.heroImage && (
     <div class="detail-hero">
