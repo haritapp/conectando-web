@@ -223,6 +223,9 @@ const TURNSTILE_SITE_KEY = ""; // Cloudflare Turnstile サイトキーをここ�
       var result = await res.json();
 
       if (result.status === 'ok') {
+        if (typeof window.gtag === 'function') {
+          window.gtag('event', 'generate_lead', { lang: 'ja', type: payload.type });
+        }
         showView('success');
       } else {
         if (errorMsg) errorMsg.textContent = result.message || '送信に失敗しました。しばらく時間をおいて再度お試しください。';

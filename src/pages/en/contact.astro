@@ -223,6 +223,9 @@ const TURNSTILE_SITE_KEY = ""; // Set Cloudflare Turnstile site key here
       result = await res.json();
 
       if (result.status === 'ok') {
+        if (typeof window.gtag === 'function') {
+          window.gtag('event', 'generate_lead', { lang: 'en', type: payload.type });
+        }
         showView('success');
       } else {
         if (errorMsg) errorMsg.textContent = result.message || 'Submission failed. Please try again later.';
