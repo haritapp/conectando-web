@@ -1,0 +1,55 @@
+---
+// Lightweight inline contact nudge shown right after a column article's body.
+// Distinct from ContactCTA.astro (the full-bleed banner used site-wide) — this
+// one stays inside the article's own text column and matches its width.
+import { getLangFromUrl } from '../i18n/utils';
+
+const lang = getLangFromUrl(Astro.url);
+const isEn = lang === 'en';
+
+const text = isEn
+  ? 'Planning an event in Tokyo? A rough idea is enough to start.'
+  : '東京でのイベント、まだざっくりの段階でも大丈夫です。';
+const buttonText = isEn ? 'Contact' : 'お問い合わせ';
+const href = isEn ? '/en/contact' : '/contact';
+---
+
+<div class="column-contact-prompt">
+  <p class="column-contact-prompt-text">{text}</p>
+  <a href={href} class="column-contact-prompt-button">{buttonText}</a>
+</div>
+
+<style>
+.column-contact-prompt {
+  max-width: 42rem;
+  margin: 0 auto;
+  padding: 2rem 2rem 0;
+  border-top: 1px solid #e5e7eb;
+  text-align: center;
+}
+.column-contact-prompt-text {
+  color: var(--color-text);
+  font-size: 1.0625rem;
+  line-height: 1.75;
+  margin: 0 0 1.25rem;
+}
+.column-contact-prompt-button {
+  display: inline-block;
+  padding: 1rem 2.5rem;
+  font-size: .875rem;
+  font-weight: 700;
+  border-radius: 9999px;
+  background: var(--color-brand);
+  color: white;
+  text-decoration: none;
+  transition: opacity .15s;
+}
+.column-contact-prompt-button:hover { opacity: .8; }
+
+@media (max-width: 640px) {
+  .column-contact-prompt-button {
+    display: block;
+    width: 100%;
+  }
+}
+</style>

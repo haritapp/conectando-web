@@ -3,6 +3,7 @@
 import { getCollection, render } from 'astro:content';
 import BaseLayout from '../../../layouts/BaseLayout.astro';
 import ContactCTA from '../../../components/ContactCTA.astro';
+import ColumnContactPrompt from '../../../components/ColumnContactPrompt.astro';
 import { formatDateEN } from '../../../lib/date';
 import { categoryLabel } from '../../../lib/categories';
 
@@ -45,6 +46,8 @@ const ogImage = entry.data.heroImage ? new URL(entry.data.heroImage, Astro.site)
       {entry.data.lead && <p class="lead">{entry.data.lead}</p>}
       <Content />
     </div>
+
+    <ColumnContactPrompt />
 
     <div class="back-row">
       <a href="/en/column" class="back-link">← Back to all columns</a>
