@@ -5,6 +5,9 @@ interface Props {
   text?: string;
   buttonText?: string;
   href?: string;
+  // Set only on column article pages to enable GA4 contact_click tracking.
+  // Other pages (top, about, etc.) leave this unset and are left untouched.
+  trackSource?: string;
 }
 
 const lang = getLangFromUrl(Astro.url);
@@ -12,6 +15,7 @@ const {
   text       = lang === 'en' ? 'Please feel free to contact us.'   : 'お問い合わせはこちら',
   buttonText = lang === 'en' ? 'Contact Us'                         : 'お問い合わせ',
   href       = lang === 'en' ? '/en/contact'                        : '/contact',
+  trackSource,
 } = Astro.props;
 ---
 
@@ -32,10 +36,26 @@ const {
 
     <a
       href={href}
-      class="inline-block px-10 py-4 text-sm font-bold rounded-full transition-all hover:opacity-80"
+      class="contact-cta-button inline-block px-10 py-4 text-sm font-bold rounded-full transition-all hover:opacity-80"
       style="background: var(--color-brand); color: white; text-decoration: none;"
+      data-gtag-contact-source={trackSource}
     >
       {buttonText}
     </a>
   </div>
 </section>
+
+{trackSource && (
+  <script>
+    document.addEventListener('click', function (e) {
+      var link = e.target.closest ? e.target.closest('.contact-cta-button[data-gtag-contact-source]') : null;
+      if (!link || typeof window.gtag !== 'function') return;
+      var parts = location.pathname.split('/').filter(Boolean);
+      var slug = parts.length ? parts[parts.length - 1] : '';
+      window.gtag('event', 'contact_click', {
+        source: link.dataset.gtagContactSource,
+        item_id: slug,
+      });
+    });
+  </script>
+)}

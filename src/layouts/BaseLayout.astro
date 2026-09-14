@@ -57,9 +57,13 @@ const hasAltLang = altJaPath !== undefined || altEnPath !== undefined || !isColu
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-8X3TF7N11H"></script>
     <script define:vars={{ gaId: 'G-8X3TF7N11H' }}>
       window.dataLayer = window.dataLayer || [];
-      function gtag() { dataLayer.push(arguments); }
-      gtag('js', new Date());
-      gtag('config', gaId);
+      // Astro wraps define:vars scripts in an IIFE, so a plain top-level
+      // `function gtag(){}` never becomes a global — assign it explicitly
+      // so other scripts (share/contact click tracking, form scripts) can
+      // call window.gtag(...).
+      window.gtag = window.gtag || function () { window.dataLayer.push(arguments); };
+      window.gtag('js', new Date());
+      window.gtag('config', gaId);
     </script>
   </head>
   <body>

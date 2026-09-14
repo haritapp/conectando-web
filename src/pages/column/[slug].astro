@@ -4,6 +4,7 @@ import { getCollection, render } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import ContactCTA from '../../components/ContactCTA.astro';
 import ColumnContactPrompt from '../../components/ColumnContactPrompt.astro';
+import ShareButtons from '../../components/ShareButtons.astro';
 import { formatDateJP } from '../../lib/date';
 import { categoryLabel } from '../../lib/categories';
 
@@ -38,14 +39,19 @@ const ogImage = entry.data.heroImage ? new URL(entry.data.heroImage, Astro.site)
   <div class="page-wrap">
     <h1 class="detail-h1">{entry.data.title}</h1>
     <div class="detail-meta">
-      <time class="detail-date">{displayDate}</time>
-      <span class="detail-tag">{badgeLabel}</span>
+      <div class="detail-meta-info">
+        <time class="detail-date">{displayDate}</time>
+        <span class="detail-tag">{badgeLabel}</span>
+      </div>
+      <ShareButtons lang="ja" size="small" />
     </div>
 
     <div class="detail-body-wrap">
       {entry.data.lead && <p class="lead">{entry.data.lead}</p>}
       <Content />
     </div>
+
+    <ShareButtons lang="ja" size="normal" />
 
     <ColumnContactPrompt />
 
@@ -54,7 +60,7 @@ const ogImage = entry.data.heroImage ? new URL(entry.data.heroImage, Astro.site)
     </div>
   </div>
 
-  <ContactCTA />
+  <ContactCTA trackSource="column_banner" />
 
 </BaseLayout>
 
@@ -92,11 +98,18 @@ const ogImage = entry.data.heroImage ? new URL(entry.data.heroImage, Astro.site)
 }
 .detail-meta {
   display: flex;
+  flex-wrap: wrap;
   align-items: center;
-  gap: .625rem;
+  justify-content: space-between;
+  gap: .625rem .75rem;
   margin-bottom: 2.5rem;
   padding-bottom: 1.5rem;
   border-bottom: 1px solid #e5e7eb;
+}
+.detail-meta-info {
+  display: flex;
+  align-items: center;
+  gap: .625rem;
 }
 .detail-date { font-size: .875rem; color: var(--color-text-muted); }
 .detail-tag {

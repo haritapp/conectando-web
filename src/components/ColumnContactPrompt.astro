@@ -16,7 +16,7 @@ const href = isEn ? '/en/contact' : '/contact';
 
 <div class="column-contact-prompt">
   <p class="column-contact-prompt-text">{text}</p>
-  <a href={href} class="column-contact-prompt-button">{buttonText}</a>
+  <a href={href} class="column-contact-prompt-button" data-gtag-contact-source="column_prompt">{buttonText}</a>
 </div>
 
 <style>
@@ -53,3 +53,16 @@ const href = isEn ? '/en/contact' : '/contact';
   }
 }
 </style>
+
+<script>
+  document.addEventListener('click', function (e) {
+    var link = e.target.closest ? e.target.closest('.column-contact-prompt-button[data-gtag-contact-source]') : null;
+    if (!link || typeof window.gtag !== 'function') return;
+    var parts = location.pathname.split('/').filter(Boolean);
+    var slug = parts.length ? parts[parts.length - 1] : '';
+    window.gtag('event', 'contact_click', {
+      source: link.dataset.gtagContactSource,
+      item_id: slug,
+    });
+  });
+</script>

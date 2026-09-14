@@ -1,0 +1,228 @@
+---
+// Share buttons for column article pages. Used twice per page: a small,
+// label-less row next to the date/category meta, and a larger labelled row
+// right after the article body. Icons reused from bizintokyo's article
+// template share row (X / LinkedIn / Facebook); the 4th button opens the
+// device share sheet where available and falls back to copying the URL.
+interface Props {
+  lang: 'ja' | 'en';
+  size: 'small' | 'normal';
+}
+
+const { lang, size } = Astro.props;
+const isEn = lang === 'en';
+const position = size === 'small' ? 'top' : 'bottom';
+
+const L = {
+  sectionLabel: isEn ? 'Share this article' : 'この記事をシェア',
+  x: isEn ? 'Share on X' : 'Xでシェア',
+  linkedin: isEn ? 'Share on LinkedIn' : 'LinkedInでシェア',
+  facebook: isEn ? 'Share on Facebook' : 'Facebookでシェア',
+  nativeShare: isEn ? 'Share' : 'シェア',
+  copyUrl: isEn ? 'Copy URL' : 'URLをコピー',
+  copied: isEn ? 'Copied!' : 'コピーしました',
+};
+---
+
+<div class:list={['share-buttons', `share-${size}`]} data-position={position}>
+  {size === 'normal' && <span class="share-buttons-label">{L.sectionLabel}</span>}
+  <div class="share-buttons-row">
+    <button type="button" class="share-btn" data-share-action="x" aria-label={L.x}>
+      <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+        <path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"></path>
+      </svg>
+    </button>
+    <button type="button" class="share-btn" data-share-action="linkedin" aria-label={L.linkedin}>
+      <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+        <path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433a2.062 2.062 0 01-2.063-2.065 2.063 2.063 0 112.063 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"></path>
+      </svg>
+    </button>
+    <button type="button" class="share-btn" data-share-action="facebook" aria-label={L.facebook}>
+      <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+        <path d="M9.101 23.691v-7.98H6.627v-3.667h2.474v-1.58c0-4.085 1.848-5.978 5.858-5.978.401 0 .955.042 1.468.103a8.68 8.68 0 0 1 1.141.195v3.325a8.623 8.623 0 0 0-.653-.036 26.805 26.805 0 0 0-.733-.009c-.707 0-1.259.096-1.675.309a1.686 1.686 0 0 0-.679.622c-.258.42-.374.995-.374 1.752v1.297h3.919l-.386 2.103-.287 1.564h-3.246v8.245C19.396 23.238 24 18.179 24 12.044c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.628 3.874 10.35 9.101 11.647Z"></path>
+      </svg>
+    </button>
+    <span class="share-btn-wrap">
+      <button
+        type="button"
+        class="share-btn"
+        data-share-action="native-copy"
+        aria-label={L.nativeShare}
+        data-native-label={L.nativeShare}
+        data-copy-label={L.copyUrl}
+      >
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+          <path d="M4 12v7a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2v-7"></path>
+          <polyline points="16 6 12 2 8 6"></polyline>
+          <line x1="12" y1="2" x2="12" y2="15"></line>
+        </svg>
+      </button>
+      <span class="share-copied-toast" role="status" aria-live="polite">{L.copied}</span>
+    </span>
+  </div>
+</div>
+
+<style>
+.share-buttons {
+  display: flex;
+  align-items: center;
+}
+.share-small {
+  flex-shrink: 0;
+}
+.share-normal {
+  flex-direction: column;
+  text-align: center;
+  padding-top: 2rem;
+  margin-bottom: 2.5rem;
+  border-top: 1px solid #e5e7eb;
+}
+.share-buttons-label {
+  font-size: .875rem;
+  font-weight: 700;
+  color: var(--color-text);
+  margin-bottom: 1rem;
+}
+.share-buttons-row {
+  display: flex;
+  align-items: center;
+}
+.share-small .share-buttons-row { gap: .375rem; }
+.share-normal .share-buttons-row { justify-content: center; gap: .875rem; }
+
+.share-btn-wrap {
+  position: relative;
+  display: inline-flex;
+}
+.share-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border: none;
+  background: transparent;
+  padding: 0;
+  border-radius: 50%;
+  cursor: pointer;
+  color: var(--color-text-muted);
+  transition: color .15s;
+}
+.share-btn:hover { color: var(--color-text); }
+.share-btn svg { width: 58%; height: 58%; }
+
+.share-small .share-btn { width: 26px; height: 26px; }
+.share-normal .share-btn { width: 36px; height: 36px; }
+
+.share-copied-toast {
+  position: absolute;
+  bottom: calc(100% + .375rem);
+  left: 50%;
+  transform: translateX(-50%) translateY(4px);
+  background: var(--color-text);
+  color: #fff;
+  font-size: .6875rem;
+  font-weight: 600;
+  line-height: 1;
+  padding: .375rem .625rem;
+  border-radius: .25rem;
+  white-space: nowrap;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity .15s, transform .15s;
+  z-index: 5;
+}
+.share-copied-toast.is-visible {
+  opacity: 1;
+  transform: translateX(-50%) translateY(0);
+}
+</style>
+
+<script>
+  function getArticleSlug() {
+    var parts = location.pathname.split('/').filter(Boolean);
+    return parts.length ? parts[parts.length - 1] : '';
+  }
+
+  function trackShare(method, position) {
+    if (typeof window.gtag === 'function') {
+      window.gtag('event', 'share', {
+        method: method,
+        content_type: 'column',
+        item_id: getArticleSlug(),
+        position: position || 'top',
+      });
+    }
+  }
+
+  function fallbackCopy(text) {
+    var ta = document.createElement('textarea');
+    ta.value = text;
+    ta.style.position = 'fixed';
+    ta.style.opacity = '0';
+    document.body.appendChild(ta);
+    ta.select();
+    try { document.execCommand('copy'); } catch (err) {}
+    document.body.removeChild(ta);
+  }
+
+  function showCopiedToast(button) {
+    var toast = button.parentElement && button.parentElement.querySelector('.share-copied-toast');
+    if (!toast) return;
+    toast.classList.add('is-visible');
+    setTimeout(function () { toast.classList.remove('is-visible'); }, 1500);
+  }
+
+  var nativeCopyBtns = document.querySelectorAll('[data-share-action="native-copy"]');
+  for (var i = 0; i < nativeCopyBtns.length; i++) {
+    var b = nativeCopyBtns[i];
+    var isNative = typeof navigator.share === 'function';
+    var label = isNative ? b.dataset.nativeLabel : b.dataset.copyLabel;
+    if (label) b.setAttribute('aria-label', label);
+  }
+
+  document.addEventListener('click', function (e) {
+    var btn = e.target.closest ? e.target.closest('[data-share-action]') : null;
+    if (!btn) return;
+
+    var action = btn.dataset.shareAction;
+    var container = btn.closest('[data-position]');
+    var position = container ? container.dataset.position : 'top';
+    var url = location.href;
+    var text = document.title;
+
+    if (action === 'x') {
+      trackShare('x', position);
+      window.open('https://twitter.com/intent/tweet?url=' + encodeURIComponent(url) + '&text=' + encodeURIComponent(text), '_blank', 'noopener');
+      return;
+    }
+    if (action === 'linkedin') {
+      trackShare('linkedin', position);
+      window.open('https://www.linkedin.com/sharing/share-offsite/?url=' + encodeURIComponent(url), '_blank', 'noopener');
+      return;
+    }
+    if (action === 'facebook') {
+      trackShare('facebook', position);
+      window.open('https://www.facebook.com/sharer/sharer.php?u=' + encodeURIComponent(url), '_blank', 'noopener');
+      return;
+    }
+    if (action === 'native-copy') {
+      if (typeof navigator.share === 'function') {
+        trackShare('native', position);
+        navigator.share({ title: text, url: url }).catch(function () {});
+        return;
+      }
+      trackShare('copy', position);
+      if (navigator.clipboard && navigator.clipboard.writeText) {
+        navigator.clipboard.writeText(url).then(
+          function () { showCopiedToast(btn); },
+          function () {
+            fallbackCopy(url);
+            showCopiedToast(btn);
+          }
+        );
+      } else {
+        fallbackCopy(url);
+        showCopiedToast(btn);
+      }
+    }
+  });
+</script>
