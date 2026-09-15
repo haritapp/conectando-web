@@ -7,14 +7,16 @@
 interface Props {
   lang: 'ja' | 'en';
   size: 'small' | 'normal';
+  contentType?: 'column' | 'case' | 'news' | 'service';
+  label?: string;
 }
 
-const { lang, size } = Astro.props;
+const { lang, size, contentType = 'column', label } = Astro.props;
 const isEn = lang === 'en';
 const position = size === 'small' ? 'top' : 'bottom';
 
 const L = {
-  sectionLabel: isEn ? 'Share this article' : 'この記事をシェア',
+  sectionLabel: label ?? (isEn ? 'Share this article' : 'この記事をシェア'),
   x: isEn ? 'Share on X' : 'Xでシェア',
   linkedin: isEn ? 'Share on LinkedIn' : 'LinkedInでシェア',
   facebook: isEn ? 'Share on Facebook' : 'Facebookでシェア',
@@ -24,7 +26,7 @@ const L = {
 };
 ---
 
-<div class:list={['share-buttons', `share-${size}`]} data-position={position}>
+<div class:list={['share-buttons', `share-${size}`]} data-position={position} data-content-type={contentType}>
   {size === 'normal' && <span class="share-buttons-label">{L.sectionLabel}</span>}
   <div class="share-buttons-row">
     <button type="button" class="share-btn" data-share-action="x" aria-label={L.x}>
@@ -142,11 +144,11 @@ const L = {
     return parts.length ? parts[parts.length - 1] : '';
   }
 
-  function trackShare(method, position) {
+  function trackShare(method, position, contentType) {
     if (typeof window.gtag === 'function') {
       window.gtag('event', 'share', {
         method: method,
-        content_type: 'column',
+        content_type: contentType || 'column',
         item_id: getArticleSlug(),
         position: position || 'top',
       });
@@ -186,31 +188,32 @@ const L = {
     var action = btn.dataset.shareAction;
     var container = btn.closest('[data-position]');
     var position = container ? container.dataset.position : 'top';
+    var contentType = container ? container.dataset.contentType : 'column';
     var url = location.href;
     var text = document.title;
 
     if (action === 'x') {
-      trackShare('x', position);
+      trackShare('x', position, contentType);
       window.open('https://twitter.com/intent/tweet?url=' + encodeURIComponent(url) + '&text=' + encodeURIComponent(text), '_blank', 'noopener');
       return;
     }
     if (action === 'linkedin') {
-      trackShare('linkedin', position);
+      trackShare('linkedin', position, contentType);
       window.open('https://www.linkedin.com/sharing/share-offsite/?url=' + encodeURIComponent(url), '_blank', 'noopener');
       return;
     }
     if (action === 'facebook') {
-      trackShare('facebook', position);
+      trackShare('facebook', position, contentType);
       window.open('https://www.facebook.com/sharer/sharer.php?u=' + encodeURIComponent(url), '_blank', 'noopener');
       return;
     }
     if (action === 'native-copy') {
       if (typeof navigator.share === 'function') {
-        trackShare('native', position);
+        trackShare('native', position, contentType);
         navigator.share({ title: text, url: url }).catch(function () {});
         return;
       }
-      trackShare('copy', position);
+      trackShare('copy', position, contentType);
       if (navigator.clipboard && navigator.clipboard.writeText) {
         navigator.clipboard.writeText(url).then(
           function () { showCopiedToast(btn); },

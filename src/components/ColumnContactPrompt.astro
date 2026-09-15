@@ -4,6 +4,12 @@
 // one stays inside the article's own text column and matches its width.
 import { getLangFromUrl } from '../i18n/utils';
 
+interface Props {
+  source?: string;
+}
+
+const { source = 'column_prompt' } = Astro.props;
+
 const lang = getLangFromUrl(Astro.url);
 const isEn = lang === 'en';
 
@@ -16,7 +22,7 @@ const href = isEn ? '/en/contact' : '/contact';
 
 <div class="column-contact-prompt">
   <p class="column-contact-prompt-text">{text}</p>
-  <a href={href} class="column-contact-prompt-button" data-gtag-contact-source="column_prompt">{buttonText}</a>
+  <a href={href} class="column-contact-prompt-button" data-gtag-contact-source={source}>{buttonText}</a>
 </div>
 
 <style>
