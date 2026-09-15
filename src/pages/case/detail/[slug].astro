@@ -2,6 +2,8 @@
 // src/pages/case/detail/[slug].astro
 import BaseLayout from '../../../layouts/BaseLayout.astro';
 import ContactCTA from '../../../components/ContactCTA.astro';
+import ShareButtons from '../../../components/ShareButtons.astro';
+import ColumnContactPrompt from '../../../components/ColumnContactPrompt.astro';
 
 export async function getStaticPaths() {
   const cases = [
@@ -157,7 +159,10 @@ const { caseData: c } = Astro.props;
 
   <div class="page-wrap">
     <h1 class="detail-h1">{c.title}</h1>
-    <p class="detail-date">{c.date}</p>
+    <div class="detail-meta">
+      <p class="detail-date">{c.date}</p>
+      <ShareButtons lang="ja" size="small" contentType="case" />
+    </div>
 
     <section class="detail-section">
       <h2 class="detail-h2">ご利用いただいたサービス</h2>
@@ -234,6 +239,10 @@ const { caseData: c } = Astro.props;
       </section>
     )}
 
+    <ShareButtons lang="ja" size="normal" contentType="case" />
+
+    <ColumnContactPrompt source="case_prompt" />
+
     <div class="back-row">
       <a href="/case" class="back-link">← 一覧に戻る</a>
     </div>
@@ -284,10 +293,17 @@ const { caseData: c } = Astro.props;
   margin: 2rem 0 .5rem;
   line-height: 1.35;
 }
+.detail-meta {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: .625rem .75rem;
+  margin-bottom: 2.5rem;
+}
 .detail-date {
   font-size: .875rem;
   color: var(--color-text-muted);
-  margin-bottom: 2.5rem;
 }
 .detail-section {
   margin-bottom: 2.5rem;

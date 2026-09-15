@@ -3,6 +3,7 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 import PageHero from '../components/PageHero.astro';
 import AnchorNav from '../components/AnchorNav.astro';
 import ContactCTA from '../components/ContactCTA.astro';
+import ShareButtons from '../components/ShareButtons.astro';
 
 const navItems = [
   { label: '英語イベント運営',           href: '#service-1' },
@@ -332,6 +333,8 @@ const cases = [
         </li>
       </ol>
     </section>
+
+    <ShareButtons lang="ja" size="normal" contentType="service" label="このページをシェア" />
 
     <!-- 導入事例（共通・ナビ対象外） -->
     <section class="svc-section cases-section">

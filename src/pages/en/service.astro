@@ -3,6 +3,7 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 import PageHero from '../../components/PageHero.astro';
 import AnchorNav from '../../components/AnchorNav.astro';
 import ContactCTA from '../../components/ContactCTA.astro';
+import ShareButtons from '../../components/ShareButtons.astro';
 
 const navItems = [
   { label: 'Event Operations',       href: '#service-1' },
@@ -313,6 +314,8 @@ const cases = [
         </li>
       </ol>
     </section>
+
+    <ShareButtons lang="en" size="normal" contentType="service" label="Share this page" />
 
     <!-- Case studies (shared, not part of anchor nav) -->
     <section class="svc-section cases-section">

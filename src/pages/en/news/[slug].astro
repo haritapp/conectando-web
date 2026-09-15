@@ -2,6 +2,7 @@
 // src/pages/en/news/[slug].astro
 import BaseLayout from '../../../layouts/BaseLayout.astro';
 import ContactCTA from '../../../components/ContactCTA.astro';
+import ShareButtons from '../../../components/ShareButtons.astro';
 import { formatNewsDateEN } from '../../../data/news-en';
 
 export async function getStaticPaths() {
@@ -108,8 +109,11 @@ const displayDate = formatNewsDateEN(n.date);
   <div class="page-wrap">
     <h1 class="detail-h1">{n.title}</h1>
     <div class="detail-meta">
-      <time class="detail-date">{displayDate}</time>
-      <span class="detail-tag">{n.badge}</span>
+      <div class="detail-meta-info">
+        <time class="detail-date">{displayDate}</time>
+        <span class="detail-tag">{n.badge}</span>
+      </div>
+      <ShareButtons lang="en" size="small" contentType="news" />
     </div>
 
     <div class="detail-body-wrap">
@@ -125,6 +129,8 @@ const displayDate = formatNewsDateEN(n.date);
         return <p class="detail-body">{b.text}</p>;
       })}
     </div>
+
+    <ShareButtons lang="en" size="normal" contentType="news" />
 
     <div class="back-row">
       <a href="/en/news" class="back-link">← Back to News</a>
@@ -148,11 +154,18 @@ const displayDate = formatNewsDateEN(n.date);
 }
 .detail-meta {
   display: flex;
+  flex-wrap: wrap;
   align-items: center;
-  gap: .625rem;
+  justify-content: space-between;
+  gap: .625rem .75rem;
   margin-bottom: 2.5rem;
   padding-bottom: 1.5rem;
   border-bottom: 1px solid #e5e7eb;
+}
+.detail-meta-info {
+  display: flex;
+  align-items: center;
+  gap: .625rem;
 }
 .detail-date { font-size: .875rem; color: var(--color-text-muted); }
 .detail-tag {
