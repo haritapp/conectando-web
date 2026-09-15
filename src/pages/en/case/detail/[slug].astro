@@ -146,9 +146,10 @@ export async function getStaticPaths() {
 }
 
 const { caseData: c } = Astro.props;
+const ogImage = c.img ? new URL(c.img, Astro.site).toString() : undefined;
 ---
 
-<BaseLayout title={`${c.title} | Conectando`} rawTitle description={`Case study: ${c.title} (${c.date}).`}>
+<BaseLayout title={`${c.title} | Conectando`} rawTitle description={`Case study: ${c.title} (${c.date}).`} ogImage={ogImage}>
 
   <div class="detail-hero">
     <img src={c.img} alt={c.title} class="hero-img" />
