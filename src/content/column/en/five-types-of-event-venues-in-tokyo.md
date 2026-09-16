@@ -6,7 +6,7 @@ slug: "five-types-of-event-venues-in-tokyo"
 lang: "en"
 category: "venue"
 author: "shintaro"
-lead: "In the previous article, we said: decide your date, headcount, budget and purpose before you look at venues. Once those are set, the next question is usually \"OK, so what kind of venue?\" Tokyo's venues fall into roughly five types. But let's say the conclusion up front: our advice is not to choose by type."
+lead: "Tokyo's venues fall into roughly five types: hotels, large convention centers, rental halls, unique venues, and small spaces. Here is what each one is good for, what to watch out for — and why we don't recommend choosing by type."
 heroImage: "/images/column/five-types-of-event-venues-in-tokyo-hero.webp"
 heroCredit: "Photo by Florencia Gonzalez Bazzano on Unsplash"
 featured: true
