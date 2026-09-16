@@ -19,7 +19,7 @@ In the [previous article](https://www.conec-tando.com/en/column/what-to-decide-b
 
 Many Tokyo hotels have not just banquet rooms but full-size conference halls, and large corporate events are often held there. The strength is that catering and accommodation are all in one place. If you want prestige and a strong brand impression, a hotel is the natural choice — but it will cost considerably more.
 
-https://bizintokyo.com/en/hotels/hotel_newotani/
+https://bizintokyo.com/en/venues/hotel_newotani/
 
 ## 2. Large convention centers
 
