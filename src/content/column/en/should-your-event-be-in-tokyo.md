@@ -27,8 +27,6 @@ Three reasons, and they are all numbers.
 
 **Flights.** Narita and Haneda together handled roughly 55% of all international passengers arriving in or departing from Japan in 2024 (※2). Most of your overseas guests will land in Tokyo whether you hold the event there or not.
 
-Hotels follow the same pattern: Tokyo has the largest stock of hotel rooms in the country, so accommodation for a large group is easier to arrange here than anywhere else (※3).
-
 There is also a practical reason that has nothing to do with statistics. "Tokyo first, then regional" is the order most companies follow when they come to Japan. It is not a rule, but it is the path with the fewest surprises.
 
 ## Tokyo's two real downsides
@@ -76,6 +74,3 @@ https://www.investtokyo.metro.tokyo.lg.jp/en/whytokyo/tokyos-urban-strength.html
 
 ※2 nippon.com, "Full Recovery in Number of International Passengers at Japanese Airports in 2024" (based on MLIT airport management data) — Narita 33%, Haneda 22% of international passengers in 2024.
 https://www.nippon.com/en/japan-data/h02505/
-
-※3 Ministry of Health, Labour and Welfare, Report on Public Health Administration and Services, FY2021 (in Japanese) — Tokyo ranked first among prefectures in hotel and ryokan rooms (about 205,000 of roughly 1.76 million nationwide).
-https://www.mhlw.go.jp/toukei/list/36-19.html
