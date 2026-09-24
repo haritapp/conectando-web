@@ -15,3 +15,10 @@ export function formatDateJP(date: Date): string {
 export function formatDateEN(date: Date): string {
   return `${MONTHS_EN[date.getUTCMonth()]} ${date.getUTCDate()}, ${date.getUTCFullYear()}`;
 }
+
+/** '2024.10.07' 形式（トップページのコラム欄用） */
+export function formatDateDot(date: Date): string {
+  const mm = String(date.getUTCMonth() + 1).padStart(2, '0');
+  const dd = String(date.getUTCDate()).padStart(2, '0');
+  return `${date.getUTCFullYear()}.${mm}.${dd}`;
+}

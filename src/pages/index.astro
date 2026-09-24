@@ -1,5 +1,7 @@
 ---
+import { getCollection } from 'astro:content';
 import BaseLayout from '../layouts/BaseLayout.astro';
+import { formatDateDot } from '../lib/date';
 import ContactCTA from '../components/ContactCTA.astro';
 import { newsItems, formatNewsDateDot } from '../data/news';
 
@@ -73,10 +75,14 @@ const why = [
   },
 ];
 
-const columns = [
-  { date: '2024.10.07', title: '外資系企業の日本担当者が日本でイベントを開催する際に考慮すべき4つのポイント', href: '/column/4point' },
-  { date: '2024.09.19', title: '英語の主催者が日本でイベントを成功させるたった1つのポイント', href: '/column/eigoevent' },
-];
+const columnEntries = await getCollection('column', (entry) => entry.data.lang === 'ja');
+columnEntries.sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
+
+const columns = columnEntries.slice(0, 3).map((entry) => ({
+  date: formatDateDot(entry.data.date),
+  title: entry.data.title,
+  href: `/column/${entry.data.slug}`,
+}));
 
 const news = newsItems.slice(0, 3).map(n => ({
   date: formatNewsDateDot(n.date),
