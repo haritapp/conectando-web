@@ -22,3 +22,12 @@ export function formatDateDot(date: Date): string {
   const dd = String(date.getUTCDate()).padStart(2, '0');
   return `${date.getUTCFullYear()}.${mm}.${dd}`;
 }
+
+/** UTC暦日が同じかどうか（`updated` が `date` と同日なら更新日表示を出さない判定に使う） */
+export function isSameUTCDate(a: Date, b: Date): boolean {
+  return (
+    a.getUTCFullYear() === b.getUTCFullYear() &&
+    a.getUTCMonth() === b.getUTCMonth() &&
+    a.getUTCDate() === b.getUTCDate()
+  );
+}

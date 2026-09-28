@@ -5,7 +5,7 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 import ContactCTA from '../../components/ContactCTA.astro';
 import ColumnContactPrompt from '../../components/ColumnContactPrompt.astro';
 import ShareButtons from '../../components/ShareButtons.astro';
-import { formatDateJP } from '../../lib/date';
+import { formatDateJP, isSameUTCDate } from '../../lib/date';
 import { categoryLabel } from '../../lib/categories';
 
 export async function getStaticPaths() {
@@ -21,6 +21,8 @@ const { entry } = Astro.props;
 const { Content } = await render(entry);
 const displayDate = formatDateJP(entry.data.date);
 const badgeLabel = categoryLabel(entry.data.category, 'ja');
+const hasUpdate = Boolean(entry.data.updated) && !isSameUTCDate(entry.data.updated!, entry.data.date);
+const updatedDisplay = hasUpdate ? formatDateJP(entry.data.updated!) : undefined;
 
 // Articles with an English counterpart carry its slug in `altSlug`.
 const enAltPath = entry.data.altSlug ? `/en/column/${entry.data.altSlug}/` : undefined;
@@ -40,7 +42,7 @@ const ogImage = entry.data.heroImage ? new URL(entry.data.heroImage, Astro.site)
     <h1 class="detail-h1">{entry.data.title}</h1>
     <div class="detail-meta">
       <div class="detail-meta-info">
-        <time class="detail-date">{displayDate}</time>
+        <time class="detail-date"><span class="detail-date-value">{displayDate}</span>{updatedDisplay && <>{'　'}<span class="detail-updated">更新：{updatedDisplay}</span></>}</time>
         <span class="detail-tag">{badgeLabel}</span>
       </div>
       <ShareButtons lang="ja" size="small" />
@@ -108,10 +110,13 @@ const ogImage = entry.data.heroImage ? new URL(entry.data.heroImage, Astro.site)
 }
 .detail-meta-info {
   display: flex;
+  flex-wrap: wrap;
   align-items: center;
-  gap: .625rem;
+  gap: .375rem .625rem;
 }
 .detail-date { font-size: .875rem; color: var(--color-text-muted); }
+.detail-date-value,
+.detail-updated { white-space: nowrap; }
 .detail-tag {
   font-size: .6875rem;
   padding: .1875rem .5rem;
@@ -120,6 +125,7 @@ const ogImage = entry.data.heroImage ? new URL(entry.data.heroImage, Astro.site)
   border: 1px solid #c7c7f5;
   border-radius: 9999px;
   font-weight: 600;
+  white-space: nowrap;
 }
 
 .detail-body-wrap { margin-bottom: 2.5rem; }
