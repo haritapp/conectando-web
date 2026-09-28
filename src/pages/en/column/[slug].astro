@@ -5,7 +5,7 @@ import BaseLayout from '../../../layouts/BaseLayout.astro';
 import ContactCTA from '../../../components/ContactCTA.astro';
 import ColumnContactPrompt from '../../../components/ColumnContactPrompt.astro';
 import ShareButtons from '../../../components/ShareButtons.astro';
-import { formatDateEN } from '../../../lib/date';
+import { formatDateEN, isSameUTCDate } from '../../../lib/date';
 import { categoryLabel } from '../../../lib/categories';
 
 export async function getStaticPaths() {
@@ -21,6 +21,8 @@ const { entry } = Astro.props;
 const { Content } = await render(entry);
 const displayDate = formatDateEN(entry.data.date);
 const badgeLabel = categoryLabel(entry.data.category, 'en');
+const hasUpdate = Boolean(entry.data.updated) && !isSameUTCDate(entry.data.updated!, entry.data.date);
+const updatedDisplay = hasUpdate ? formatDateEN(entry.data.updated!) : undefined;
 
 // Articles with a Japanese counterpart carry its slug in `altSlug`.
 const jaAltPath = entry.data.altSlug ? `/column/${entry.data.altSlug}/` : undefined;
@@ -40,7 +42,7 @@ const ogImage = entry.data.heroImage ? new URL(entry.data.heroImage, Astro.site)
     <h1 class="detail-h1">{entry.data.title}</h1>
     <div class="detail-meta">
       <div class="detail-meta-info">
-        <time class="detail-date">{displayDate}</time>
+        <time class="detail-date">{displayDate}{updatedDisplay && <span class="detail-updated"> · Updated: {updatedDisplay}</span>}</time>
         <span class="detail-tag">{badgeLabel}</span>
       </div>
       <ShareButtons lang="en" size="small" />
