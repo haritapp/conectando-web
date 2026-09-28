@@ -111,7 +111,7 @@ const mediaLinks = [
 
   <!-- ボトムバー -->
   <div class="footer-bottom">
-    <a href={isEn ? '/en/' : '/'} class="footer-logo">Conectando</a>
+    <a href={isEn ? '/en/' : '/'} class="footer-logo"><img src="/logo-white.svg" alt="Conectando" width="112" height="114" /></a>
     <p class="footer-copy">© {new Date().getFullYear()} Conectando Inc. All rights reserved.</p>
   </div>
 </footer>
@@ -213,6 +213,7 @@ const mediaLinks = [
   letter-spacing: -.01em;
 }
 .footer-logo:hover { opacity: .8; }
+.footer-logo img { display: block; width: 112px; height: auto; }
 
 .footer-copy {
   font-size: .8125rem;
