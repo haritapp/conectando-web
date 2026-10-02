@@ -82,6 +82,7 @@ const columns = columnEntries.slice(0, 3).map((entry) => ({
   date: formatDateDot(entry.data.date),
   title: entry.data.title,
   href: `/en/column/${entry.data.slug}/`,
+  img: entry.data.heroImage,
 }));
 
 const news = newsItemsEN.slice(0, 3).map(n => ({ date: formatNewsDateDotEN(n.date), title: n.title, href: n.href, external: n.external }));
@@ -165,39 +166,36 @@ const news = newsItemsEN.slice(0, 3).map(n => ({ date: formatNewsDateDotEN(n.dat
 <!-- ⑤ COLUMN / NEWS -->
 <section class="cn-sec">
   <div class="sec-body">
-    <div class="cn-grid">
-      <div>
-        <div class="sec-head-row">
-          <div class="sec-label">COLUMN</div>
-          <a href="/en/column" class="text-cta">See all columns <span class="btn-dot">●</span></a>
-        </div>
-        <ul class="cn-list" role="list">
-          {columns.map(c => (
-            <li class="cn-item">
-              <a href={c.href} class="cn-link">
-                <span class="cn-date">{c.date}</span>
-                <span class="cn-text">{c.title}</span>
-              </a>
-            </li>
-          ))}
-        </ul>
+    <div class="col-block">
+      <div class="sec-head-row">
+        <div class="sec-label">COLUMN</div>
+        <a href="/en/column" class="text-cta">See all columns <span class="btn-dot">●</span></a>
       </div>
-      <div>
-        <div class="sec-head-row">
-          <div class="sec-label">NEWS</div>
-          <a href="/en/news" class="text-cta">See all news <span class="btn-dot">●</span></a>
-        </div>
-        <ul class="cn-list" role="list">
-          {news.map(n => (
-            <li class="cn-item">
-              <a href={n.href} class="cn-link" target={n.external ? '_blank' : undefined} rel={n.external ? 'noopener noreferrer' : undefined}>
-                <span class="cn-date">{n.date}</span>
-                <span class="cn-text">{n.title}</span>
-              </a>
-            </li>
-          ))}
-        </ul>
+      <div class="col-grid">
+        {columns.map(c => (
+          <a href={c.href} class="col-card">
+            {c.img && <img src={c.img} alt={c.title} class="col-img" loading="lazy" />}
+            <span class="col-date">{c.date}</span>
+            <span class="col-title">{c.title}</span>
+          </a>
+        ))}
       </div>
+    </div>
+    <div class="news-block">
+      <div class="sec-head-row">
+        <div class="sec-label">NEWS</div>
+        <a href="/en/news" class="text-cta">See all news <span class="btn-dot">●</span></a>
+      </div>
+      <ul class="cn-list" role="list">
+        {news.map(n => (
+          <li class="cn-item">
+            <a href={n.href} class="cn-link" target={n.external ? '_blank' : undefined} rel={n.external ? 'noopener noreferrer' : undefined}>
+              <span class="cn-date">{n.date}</span>
+              <span class="cn-text">{n.title}</span>
+            </a>
+          </li>
+        ))}
+      </ul>
     </div>
   </div>
 </section>
@@ -378,11 +376,20 @@ const news = newsItemsEN.slice(0, 3).map(n => ({ date: formatNewsDateDotEN(n.dat
 }
 
 /* ─── Column / News ─── */
-.cn-grid {
+.col-grid {
   display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 4rem;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 2rem;
+  margin-top: 1.75rem;
 }
+.col-card { display: flex; flex-direction: column; gap: .625rem; text-decoration: none; color: inherit; }
+.col-card:hover { text-decoration: none; }
+.col-img { width: 100%; aspect-ratio: 16/9; object-fit: cover; border-radius: .5rem; display: block; }
+.col-date { font-size: .8125rem; color: var(--color-text-muted); }
+.col-title { font-size: 1.0625rem; font-weight: 700; color: var(--color-heading); line-height: 1.45; }
+
+.news-block { margin-top: 4rem; }
+
 .cn-list { list-style: none; padding: 0; margin: 1.25rem 0 0; border-top: 1px solid var(--color-border); }
 .cn-item { border-bottom: 1px solid var(--color-border); }
 .cn-link { display: flex; gap: 1.25rem; padding: 1.25rem 0; text-decoration: none; transition: opacity .15s; }
@@ -416,6 +423,7 @@ const news = newsItemsEN.slice(0, 3).map(n => ({ date: formatNewsDateDotEN(n.dat
   .why-grid { grid-template-columns: 1fr; gap: 1.5rem; }
   .why-headline { font-size: 1.125rem; }
 
-  .cn-grid { grid-template-columns: 1fr; gap: 3rem; }
+  .col-grid { grid-template-columns: 1fr; gap: 2rem; }
+  .news-block { margin-top: 3rem; }
 }
 </style>
