@@ -13,6 +13,8 @@ heroCredit: "Photo by Andrej Lišakov on Unsplash (text added by Conectando)"
 keywords: ["event venue Tokyo 300 people", "Tokyo event venues 100 to 300", "compare event venues Tokyo", "Tokyo venue capacity list"]
 ---
 
+→ For larger events: [Event Venues in Tokyo for 301–500 People](https://www.conec-tando.com/en/column/tokyo-event-venues-301-to-500-people/)
+
 Planning an event in Tokyo for 100 to 300 people? Here are 14 venues that fit, listed with capacity, area and nearest station, based on each venue's official website (as of October 2026).
 
 Contact venues early. Some start taking bookings a year in advance, and there is no downside to asking early. When you ask, they should be able to tell you when they start taking bookings.
@@ -169,3 +171,7 @@ https://bizintokyo.com/en/venues/taito-millennium-hall/
 - Capacity: 300 fixed seats
 - Note: closed for renovation until November 14, 2026 (per Taito City)
 - Nearest station: about 8 minutes' walk from Iriya Station Exit 1 (Hibiya Line); about 8 minutes' walk from Asakusa Station Exit A2 (Tsukuba Express)
+
+---
+
+→ [Event Venues in Tokyo for 301–500 People](https://www.conec-tando.com/en/column/tokyo-event-venues-301-to-500-people/)

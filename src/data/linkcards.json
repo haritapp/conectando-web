@@ -273,5 +273,305 @@
     "title": "10 Best Hotels near Shibuya QWS | BizinTokyo",
     "description": "Attending an event at Shibuya QWS? Compare 10 hotels near the venue by distance, price tier, and book directly on Expedia.",
     "image": "https://bizintokyo.com/images/heroes/shibuyaqws_hotels_en.png"
+  },
+  "https://bizintokyo.com/en/venues/bellesalle-mita-garden/": {
+    "title": "Bellesalle Mita Garden Access & Visitor Guide | BizinTokyo",
+    "description": "Guide to Bellesalle Mita Garden, Minato-ku: access from Narita and Haneda, nearby hotels and restaurants, and tips for visiting business events in Tokyo.",
+    "image": "https://bizintokyo.com/images/heroes/bellesalle-mita-garden_en.png"
+  },
+  "https://bizintokyo.com/venues/bellesalle-mita-garden/": {
+    "title": "ベルサール三田ガーデン アクセス｜最寄り駅・出口からの行き方と周辺ホテル | BizinTokyo",
+    "description": "ベルサール三田ガーデンは都営三田線・浅草線「三田駅」A3出口から徒歩約4分。JR田町駅からのルート、周辺ホテル・レストラン、来場時の注意点をまとめた行き方ガイド。",
+    "image": "https://bizintokyo.com/images/heroes/bellesalle-mita-garden_ja.png"
+  },
+  "https://bizintokyo.com/en/venues/owlspot/": {
+    "title": "OWLSPOT THEATRE Access & Visitor Guide | BizinTokyo",
+    "description": "How to reach OWLSPOT THEATRE in Higashi-Ikebukuro, Tokyo — airport access from Narita and Haneda, nearby hotels, and restaurants for business event attendees.",
+    "image": "https://bizintokyo.com/images/heroes/owlspot_en.png"
+  },
+  "https://bizintokyo.com/venues/owlspot/": {
+    "title": "あうるすぽっと アクセス｜最寄り駅・出口からの行き方と周辺ホテル | BizinTokyo",
+    "description": "あうるすぽっとは東京メトロ有楽町線 東池袋駅6・7番出口に直結。成田・羽田空港からの経路、周辺ホテル・レストラン、来場時の注意点をまとめた行き方ガイド。",
+    "image": "https://bizintokyo.com/images/heroes/owlspot_ja.png"
+  },
+  "https://bizintokyo.com/en/venues/peninsula-tokyo/": {
+    "title": "Event at The Peninsula Tokyo | Access & Stay Guide | BizinTokyo",
+    "description": "The Peninsula Tokyo is a five-star hotel at Hibiya with direct underground station access and four elegant banquet halls including the Grand Ballroom.",
+    "image": "https://bizintokyo.com/images/heroes/peninsula-tokyo_en.png"
+  },
+  "https://bizintokyo.com/venues/peninsula-tokyo/": {
+    "title": "ザ・ペニンシュラ東京 アクセス｜最寄り駅・出口からの行き方と周辺ホテル | BizinTokyo",
+    "description": "ザ・ペニンシュラ東京は日比谷駅地下直結の5つ星ホテル。天井高6.5mのスワロフスキー製シャンデリアが輝くグランドボールルームなど4つの宴会場を備え、国際会議・企業イベントに対応。成田・羽田からのアクセスと周辺情報をまとめました。",
+    "image": "https://bizintokyo.com/images/heroes/peninsula-tokyo_ja.png"
+  },
+  "https://bizintokyo.com/venues/marunouchi_building/": {
+    "title": "丸ビルホール アクセス｜最寄り駅・出口からの行き方と周辺ホテル | BizinTokyo",
+    "description": "丸ビルホールはJR東京駅丸の内南口から徒歩1分。周辺ホテル・ランチ、来場時の注意点をまとめた行き方ガイド。",
+    "image": "https://bizintokyo.com/images/heroes/marunouchi_building_ja.png"
+  },
+  "https://bizintokyo.com/en/venues/marunouchi_building/": {
+    "title": "First-Time Visitor’s Guide to Marunouchi Building Hall | BizinTokyo",
+    "description": "Marunouchi Building Hall is a 1-minute walk from JR Tokyo Station's Marunouchi South Exit. A guide covering nearby hotels, lunch spots, and visitor tips.",
+    "image": "https://bizintokyo.com/images/heroes/marunouchi_building_en.png"
+  },
+  "https://bizintokyo.com/venues/toshima-civic-center/": {
+    "title": "としま区民センター アクセス｜最寄り駅・出口からの行き方と周辺ホテル | BizinTokyo",
+    "description": "としま区民センターは池袋駅東口から徒歩約7分。成田・羽田空港からのルート、周辺ホテル・レストラン、来場時の注意点をまとめた行き方ガイド。",
+    "image": "https://bizintokyo.com/images/heroes/toshima-civic-center_ja.png"
+  },
+  "https://bizintokyo.com/en/venues/toshima-civic-center/": {
+    "title": "Toshima Civic Center Access & Visitor Guide | BizinTokyo",
+    "description": "Toshima Civic Center, 7 min from Ikebukuro Station. Main hall 480 seats, small hall 160 for concerts and theater. Narita/Haneda access, hotels, dining tips.",
+    "image": "https://bizintokyo.com/images/heroes/toshima-civic-center_en.png"
+  },
+  "https://bizintokyo.com/venues/tokyo-node-hall/": {
+    "title": "TOKYO NODE HALL アクセス｜最寄り駅・出口からの行き方と周辺ホテル | BizinTokyo",
+    "description": "TOKYO NODE HALLは東京メトロ日比谷線虎ノ門ヒルズ駅から直結（A2出口方面よりシャトルエレベーターで8Fへ）。銀座線虎ノ門駅からのルート、周辺ホテル・レストラン、来場時の注意点をまとめた行き方ガイド。",
+    "image": "https://bizintokyo.com/images/heroes/tokyo-node-hall_ja.png"
+  },
+  "https://bizintokyo.com/en/venues/tokyo-node-hall/": {
+    "title": "TOKYO NODE HALL Access & Visitor Guide | BizinTokyo",
+    "description": "TOKYO NODE HALL is an event space on the upper floors of Toranomon Hills Station Tower. A bilingual guide to access, halls, nearby hotels and dining in Tokyo.",
+    "image": "https://bizintokyo.com/images/heroes/tokyo-node-hall_en.png"
+  },
+  "https://bizintokyo.com/venues/sunshine_city/": {
+    "title": "サンシャインシティ アクセス｜最寄り駅・出口からの行き方と周辺ホテル | BizinTokyo",
+    "description": "サンシャインシティは東京メトロ有楽町線 東池袋駅6・7番出口から地下通路で徒歩約3分（池袋駅35番出口からは徒歩約8分）。成田・羽田空港からのルート、周辺ホテル・レストラン、来場時の注意点をまとめた行き方ガイド。",
+    "image": "https://bizintokyo.com/images/heroes/sunshine_city_ja.png"
+  },
+  "https://bizintokyo.com/en/venues/sunshine_city/": {
+    "title": "Sunshine City Access & Visitor Guide | BizinTokyo",
+    "description": "Sunshine City in Ikebukuro offers Exhibition Halls A–D and 17 conference rooms for up to 1,005 attendees, connected underground to Higashi-Ikebukuro Station.",
+    "image": "https://bizintokyo.com/images/heroes/sunshine_city_en.png"
+  },
+  "https://bizintokyo.com/venues/bellesalle-yaesu/": {
+    "title": "ベルサール八重洲 アクセス｜最寄り駅・出口からの行き方と周辺ホテル | BizinTokyo",
+    "description": "ベルサール八重洲は東京メトロ日本橋駅A7出口から直結。東京駅八重洲北口からのルート、周辺ホテル・ランチ、来場時の注意点をまとめた行き方ガイド。",
+    "image": "https://bizintokyo.com/images/heroes/bellesalle-yaesu_ja.png"
+  },
+  "https://bizintokyo.com/en/venues/bellesalle-yaesu/": {
+    "title": "Bellesalle Yaesu Access & Visitor Guide | BizinTokyo",
+    "description": "A practical guide to Bellesalle Yaesu, directly connected to Nihombashi Station Exit A7 and about a 4-minute walk from Tokyo Station Yaesu North Exit: how to get there, nearby hotels and restaurants in the Yaesu and Nihombashi area, plus area tips for business travelers.",
+    "image": "https://bizintokyo.com/images/heroes/bellesalle-yaesu_en.png"
+  },
+  "https://bizintokyo.com/venues/bellesalle-shibakoen/": {
+    "title": "ベルサール芝公園 アクセス｜最寄り駅・出口からの行き方と周辺ホテル | BizinTokyo",
+    "description": "ベルサール芝公園は都営三田線「芝公園駅」A1b出口直結。三田駅・浜松町駅からのルート、周辺ホテル・レストラン、来場時の注意点をまとめた行き方ガイド。",
+    "image": "https://bizintokyo.com/images/heroes/bellesalle-shibakoen_ja.png"
+  },
+  "https://bizintokyo.com/en/venues/bellesalle-shibakoen/": {
+    "title": "Bellesalle Shibakoen Access & Visitor Guide | BizinTokyo",
+    "description": "Bellesalle Shibakoen, Tokyo: access from Narita and Haneda airports, recommended hotels and restaurants nearby, and tips for business event attendees.",
+    "image": "https://bizintokyo.com/images/heroes/bellesalle-shibakoen_en.png"
+  },
+  "https://bizintokyo.com/venues/prince-sakura-tower-tokyo/": {
+    "title": "ザ・プリンス さくらタワー東京 アクセス｜最寄り駅・出口からの行き方と周辺ホテル | BizinTokyo",
+    "description": "高輪エリアの格調ある宴会・会議施設。品川駅高輪口徒歩3分・羽田から最短17分。コンファレンスフロア（360名）への成田・羽田アクセス、周辺グルメ・宿泊情報をまとめて解説。",
+    "image": "https://bizintokyo.com/images/heroes/prince-sakura-tower-tokyo_ja.png"
+  },
+  "https://bizintokyo.com/en/venues/prince-sakura-tower-tokyo/": {
+    "title": "The Prince Sakura Tower Tokyo | Access & Stay Guide | BizinTokyo",
+    "description": "The Prince Sakura Tower Tokyo: 3-min from Shinagawa, 17 min from Haneda. 360-seat conference floor. Access guide with hotels and dining near Takanawa.",
+    "image": "https://bizintokyo.com/images/heroes/prince-sakura-tower-tokyo_en.png"
+  },
+  "https://bizintokyo.com/venues/midtown-yaesu-conference/": {
+    "title": "東京ミッドタウン八重洲カンファレンス アクセス｜最寄り駅・出口からの行き方と周辺ホテル | BizinTokyo",
+    "description": "東京ミッドタウン八重洲カンファレンスはJR・東京メトロ丸ノ内線「東京」駅から八重洲地下街経由で地下直結、銀座線「京橋」駅からは徒歩約3分。周辺ホテル・レストラン、来場時の注意点までまとめた行き方ガイド。",
+    "image": "https://bizintokyo.com/images/heroes/midtown-yaesu-conference_ja.png"
+  },
+  "https://bizintokyo.com/en/venues/midtown-yaesu-conference/": {
+    "title": "Tokyo Midtown Yaesu Conference Access & Visitor Guide | BizinTokyo",
+    "description": "Tokyo Midtown Yaesu Conference is inside Tokyo Midtown Yaesu, linked underground to Tokyo Station. This guide covers access, venues, hotels, and dining nearby.",
+    "image": "https://bizintokyo.com/images/heroes/midtown-yaesu-conference_en.png"
+  },
+  "https://bizintokyo.com/venues/bellesalle-nishi-shinjuku/": {
+    "title": "ベルサール西新宿 アクセス｜最寄り駅・出口からの行き方と周辺ホテル | BizinTokyo",
+    "description": "ベルサール西新宿は都営大江戸線「都庁前駅」A5出口から徒歩約4分。西新宿五丁目駅・西新宿駅からのルート、周辺ホテル・レストラン、来場時の注意点をまとめた行き方ガイド。",
+    "image": "https://bizintokyo.com/images/heroes/bellesalle-nishi-shinjuku_ja.png"
+  },
+  "https://bizintokyo.com/en/venues/bellesalle-nishi-shinjuku/": {
+    "title": "Bellesalle Nishi-Shinjuku Access & Visitor Guide | BizinTokyo",
+    "description": "Access guide to Bellesalle Nishi-Shinjuku in Shinjuku, Tokyo: airport routes from Narita and Haneda, station directions, nearby hotels, and dining tips.",
+    "image": "https://bizintokyo.com/images/heroes/bellesalle-nishi-shinjuku_en.png"
+  },
+  "https://bizintokyo.com/venues/kanda-myojin-hall/": {
+    "title": "神田明神ホール アクセス｜最寄り駅・出口からの行き方と周辺ホテル | BizinTokyo",
+    "description": "神田明神ホールはJR御茶ノ水駅聖橋口から徒歩約5分。秋葉原駅・末広町駅からもアクセス可能。神社境内のホールまでの行き方、周辺ホテル・レストラン、来場時の注意点をまとめたガイド。",
+    "image": "https://bizintokyo.com/images/heroes/kanda-myojin-hall_ja.png"
+  },
+  "https://bizintokyo.com/en/venues/kanda-myojin-hall/": {
+    "title": "Kanda Myojin Hall Access & Visitor Guide | BizinTokyo",
+    "description": "Event hall inside Kanda Myojin Shrine. 5 min from Ochanomizu Stn, 7 min from Akihabara. Holds 700 standing, 316.6 m² floor. Narita ~60 min, Haneda ~40 min.",
+    "image": "https://bizintokyo.com/images/heroes/kanda-myojin-hall_en.png"
+  },
+  "https://bizintokyo.com/en/venues/four_seasons_otemachi/": {
+    "title": "Attending an Event at Four Seasons Hotel Tokyo at Otemachi | Access & Stay Guide | BizinTokyo",
+    "description": "Four Seasons Hotel Tokyo at Otemachi occupies floors 34–39 of Otemachi One Tower, directly connected to Otemachi Station Exit C4 (1-min walk) and an 8-minute walk from Tokyo Station's Marunouchi North Exit. Its Grand Ballroom holds up to 300 guests (standing reception) and is a refined fit for international conference receptions and corporate VIP events.",
+    "image": "https://bizintokyo.com/images/heroes/four_seasons_otemachi_en.png"
+  },
+  "https://bizintokyo.com/venues/four_seasons_otemachi/": {
+    "title": "フォーシーズンズホテル東京大手町 アクセス｜最寄り駅・出口からの行き方と周辺ホテル | BizinTokyo",
+    "description": "フォーシーズンズホテル東京大手町は、大手町駅C4出口直結のラグジュアリーホテル。最大300名（立食形式）収容のグランドボールルームを擁し、国際会議やVIPイベントに最適な拠点です。",
+    "image": "https://bizintokyo.com/images/heroes/four_seasons_otemachi_ja.png"
+  },
+  "https://bizintokyo.com/en/venues/bellesalle-jimbocho-annex/": {
+    "title": "Bellesalle Jimbocho Annex Access & Visitor Guide | BizinTokyo",
+    "description": "Bellesalle Jimbocho Annex visitor guide: how to get there from Narita and Haneda, nearby hotels, dining options, and tips for business travelers in Tokyo.",
+    "image": "https://bizintokyo.com/images/heroes/bellesalle-jimbocho-annex_en.png"
+  },
+  "https://bizintokyo.com/venues/bellesalle-jimbocho-annex/": {
+    "title": "ベルサール神保町アネックス アクセス｜最寄り駅・出口からの行き方と周辺ホテル | BizinTokyo",
+    "description": "ベルサール神保町アネックスは神保町駅A2出口から徒歩約2分。九段下駅・水道橋駅からのルート、周辺ホテル・レストラン、来場時の注意点をまとめた行き方ガイド。",
+    "image": "https://bizintokyo.com/images/heroes/bellesalle-jimbocho-annex_ja.png"
+  },
+  "https://bizintokyo.com/en/venues/muromachi-mitsui-hall/": {
+    "title": "Muromachi Mitsui Hall & Conference Access & Visitor Guide | BizinTokyo",
+    "description": "A practical guide to Muromachi Mitsui Hall & Conference, located in the Nihonbashi Muromachi Mitsui Tower (COREDO Muromachi Terrace): how to get there, nearby hotels and restaurants in Nihonbashi, plus area tips for business travelers.",
+    "image": "https://bizintokyo.com/images/heroes/muromachi-mitsui-hall_en.png"
+  },
+  "https://bizintokyo.com/venues/muromachi-mitsui-hall/": {
+    "title": "室町三井ホール＆カンファレンス アクセス｜最寄り駅・出口からの行き方と周辺ホテル | BizinTokyo",
+    "description": "室町三井ホール＆カンファレンスは東京メトロ銀座線・半蔵門線『三越前』駅、JR『新日本橋』駅から地下直結。周辺のおすすめホテル・レストラン、訪問前に知っておきたいエリア情報をまとめた行き方ガイド。",
+    "image": "https://bizintokyo.com/images/heroes/muromachi-mitsui-hall_ja.png"
+  },
+  "https://bizintokyo.com/en/venues/zendentsu-hall/": {
+    "title": "Zendentsu Hall Access & Visitor Guide | BizinTokyo",
+    "description": "A practical guide to Zendentsu Hall in Kanda, Tokyo: access from Narita and Haneda airports, nearby hotels, restaurants, and area tips for business travelers.",
+    "image": "https://bizintokyo.com/images/heroes/zendentsu-hall_en.png"
+  },
+  "https://bizintokyo.com/venues/zendentsu-hall/": {
+    "title": "全電通ホール アクセス｜最寄り駅・出口からの行き方と周辺ホテル | BizinTokyo",
+    "description": "全電通ホールは東京メトロ千代田線 新御茶ノ水駅B3出口・JR御茶ノ水駅聖橋口からそれぞれ徒歩約5分。成田・羽田空港からのルート、周辺ホテル・レストラン、来場時の注意点をまとめた行き方ガイド。",
+    "image": "https://bizintokyo.com/images/heroes/zendentsu-hall_ja.png"
+  },
+  "https://bizintokyo.com/en/venues/kinokuniya-hall/": {
+    "title": "Kinokuniya Hall Access & Visitor Guide | BizinTokyo",
+    "description": "Kinokuniya Hall — 427-seat proscenium theatre inside the Shinjuku Kinokuniya bookstore, 1 min from Shinjuku-sanchome. Access, hotels, dining, and tips.",
+    "image": "https://bizintokyo.com/images/heroes/kinokuniya-hall_en.png"
+  },
+  "https://bizintokyo.com/venues/kinokuniya-hall/": {
+    "title": "紀伊國屋ホール アクセス｜最寄り駅・出口からの行き方と周辺ホテル | BizinTokyo",
+    "description": "紀伊國屋ホールは新宿三丁目駅B7出口から地下直結で徒歩約1分。新宿本店4Fのホールまでの行き方、周辺ホテル・レストラン、来場時の注意点をまとめたガイド。",
+    "image": "https://bizintokyo.com/images/heroes/kinokuniya-hall_ja.png"
+  },
+  "https://bizintokyo.com/venues/intercontinental-tokyo-bay/": {
+    "title": "ホテル インターコンチネンタル 東京ベイ アクセス｜最寄り駅・出口からの行き方と周辺ホテル | BizinTokyo",
+    "description": "東京湾に面した5つ星ホテル・ホテル インターコンチネンタル 東京ベイの完全ガイド。ゆりかもめ竹芝駅直結、浜松町駅徒歩8分。大小13の宴会場、成田・羽田からのアクセスと周辺情報をまとめました。",
+    "image": "https://bizintokyo.com/images/heroes/intercontinental-tokyo-bay_ja.png"
+  },
+  "https://bizintokyo.com/venues/station-conference-tokyo/": {
+    "title": "ステーションコンファレンス東京 アクセス｜最寄り駅・出口からの行き方と周辺ホテル | BizinTokyo",
+    "description": "ステーションコンファレンス東京はJR東京駅日本橋口から徒歩約1分（八重洲北口徒歩2分）、東京メトロ東西線大手町駅からも利用可。成田・羽田空港からのルート、周辺ホテル・レストラン、来場時の注意点をまとめた行き方ガイド。",
+    "image": "https://bizintokyo.com/images/heroes/station-conference-tokyo_ja.png"
+  },
+  "https://bizintokyo.com/venues/akihabara-convention-hall/": {
+    "title": "秋葉原コンベンションホール アクセス｜最寄り駅・出口からの行き方と周辺ホテル | BizinTokyo",
+    "description": "秋葉原コンベンションホールはJR秋葉原駅電気街口から徒歩約1分、ペデストリアンデッキ「アキバブリッジ」直結。周辺ホテル・レストラン、来場時の注意点をまとめた行き方ガイド。",
+    "image": "https://bizintokyo.com/images/heroes/akihabara-convention-hall_ja.png"
+  },
+  "https://bizintokyo.com/en/venues/intercontinental-tokyo-bay/": {
+    "title": "Attending an Event at Hotel InterContinental Tokyo Bay | Access & Stay Guide | BizinTokyo",
+    "description": "Hotel InterContinental Tokyo Bay — a five-star waterfront hotel on Tokyo Bay. Directly connected to Takeshiba Station (Yurikamome), 8 min from Hamamatsucho. 13 banquet halls, 7 restaurants and bars, 330 guest rooms, plus airport access and area tips for international business event attendees.",
+    "image": "https://bizintokyo.com/images/heroes/intercontinental-tokyo-bay_en.png"
+  },
+  "https://bizintokyo.com/venues/osaki-bright-core-hall/": {
+    "title": "大崎ブライトコアホール アクセス｜最寄り駅・出口からの行き方と周辺ホテル | BizinTokyo",
+    "description": "大崎ブライトコアホールはJR・りんかい線「大崎駅」南口改札から徒歩約5分。成田・羽田空港からのルート、周辺ホテル・レストラン、来場時の注意点をまとめた行き方ガイド。",
+    "image": "https://bizintokyo.com/images/heroes/osaki-bright-core-hall_ja.png"
+  },
+  "https://bizintokyo.com/venues/kioi_terrace/": {
+    "title": "東京ガーデンテラス紀尾井町 アクセス｜最寄り駅・出口からの行き方と周辺ホテル | BizinTokyo",
+    "description": "東京ガーデンテラス紀尾井町は永田町駅9a出口から地下通路で直結。赤坂見附駅からも徒歩1分。紀尾井カンファレンスまでの行き方、周辺ホテル・レストラン、来場時の注意点をまとめたガイド。",
+    "image": "https://bizintokyo.com/images/heroes/kioi_terrace_ja.png"
+  },
+  "https://bizintokyo.com/en/venues/station-conference-tokyo/": {
+    "title": "Station Conference Tokyo Access & Visitor Guide | BizinTokyo",
+    "description": "A conference facility on floors 4–6 of Sapia Tower, directly linked to JR Tokyo Station's Nihonbashi Exit — 26 room types up to a 500-seat main hall.",
+    "image": "https://bizintokyo.com/images/heroes/station-conference-tokyo_en.png"
+  },
+  "https://bizintokyo.com/venues/bellesalle-kudan/": {
+    "title": "ベルサール九段 アクセス｜最寄り駅・出口からの行き方と周辺ホテル | BizinTokyo",
+    "description": "ベルサール九段は東京メトロ東西線「九段下駅」7番出口から徒歩約2分。神保町駅・飯田橋駅からのルート、周辺ホテル・レストラン、来場時の注意点をまとめた行き方ガイド。",
+    "image": "https://bizintokyo.com/images/heroes/bellesalle-kudan_ja.png"
+  },
+  "https://bizintokyo.com/en/venues/akihabara-convention-hall/": {
+    "title": "Akihabara Convention Hall Access & Visitor Guide | BizinTokyo",
+    "description": "A practical guide to Akihabara Convention Hall in the Akihabara Dai Building: how to get there, nearby hotels and restaurants in Akihabara, Kanda and Ueno, plus area tips for business travelers.",
+    "image": "https://bizintokyo.com/images/heroes/akihabara-convention-hall_en.png"
+  },
+  "https://bizintokyo.com/venues/shinagawa-the-grand-hall/": {
+    "title": "品川ザ・グランドホール アクセス｜最寄り駅・出口からの行き方と周辺ホテル | BizinTokyo",
+    "description": "品川ザ・グランドホールはJR品川駅港南口から徒歩3分、屋根付きデッキでアクセス可能。京急品川駅からのルート、周辺ホテル・レストラン、来場時の注意点をまとめた行き方ガイド。",
+    "image": "https://bizintokyo.com/images/heroes/shinagawa-the-grand-hall_ja.png"
+  },
+  "https://bizintokyo.com/venues/akasaka_intercity/": {
+    "title": "赤坂インターシティコンファレンス アクセス｜最寄り駅・出口からの行き方と周辺ホテル | BizinTokyo",
+    "description": "赤坂インターシティコンファレンス（AICC）は東京メトロ溜池山王駅・国会議事堂前駅から地下通路直結（地上ルートは9番出口から徒歩約2分）。周辺ホテル・レストラン、来場時の注意点をまとめた行き方ガイド。",
+    "image": "https://bizintokyo.com/images/heroes/akasaka_intercity_ja.png"
+  },
+  "https://bizintokyo.com/en/venues/osaki-bright-core-hall/": {
+    "title": "Osaki Bright Core Hall Access & Visitor Guide | BizinTokyo",
+    "description": "A practical guide to Osaki Bright Core Hall: how to get there from Narita and Haneda, directions from Osaki Station, recommended nearby hotels and restaurants, and useful tips for the Osaki area.",
+    "image": "https://bizintokyo.com/images/heroes/osaki-bright-core-hall_en.png"
+  },
+  "https://bizintokyo.com/en/venues/kioi_terrace/": {
+    "title": "Tokyo Garden Terrace Kioicho Access & Visitor Guide | BizinTokyo",
+    "description": "Mixed-use complex in Chiyoda, directly linked to Nagatacho Station Exit 9a. Kioi Conference holds up to 372; direct buses from Narita and Haneda available.",
+    "image": "https://bizintokyo.com/images/heroes/kioi_terrace_en.png"
+  },
+  "https://bizintokyo.com/venues/tokyo_convention_hall/": {
+    "title": "東京コンベンションホール アクセス｜最寄り駅・出口からの行き方と周辺ホテル | BizinTokyo",
+    "description": "東京コンベンションホールは東京メトロ銀座線京橋駅から直結。周辺ホテル・ランチ、来場時の注意点をまとめた行き方ガイド。",
+    "image": "https://bizintokyo.com/images/heroes/tokyo_convention_hall_ja.png"
+  },
+  "https://bizintokyo.com/en/venues/bellesalle-kudan/": {
+    "title": "Bellesalle Kudan Access & Visitor Guide | BizinTokyo",
+    "description": "A practical guide to Bellesalle Kudan, a multi-hall venue 2 min from Kudanshita Station: access from Narita and Haneda, nearby hotels, dining, and area tips.",
+    "image": "https://bizintokyo.com/images/heroes/bellesalle-kudan_en.png"
+  },
+  "https://bizintokyo.com/venues/capitol-hotel-tokyu/": {
+    "title": "ザ・キャピトルホテル東急 アクセス｜最寄り駅・出口からの行き方と周辺ホテル | BizinTokyo",
+    "description": "ザ・キャピトルホテル東急は溜池山王駅・国会議事堂前駅に地下直結のラグジュアリーホテル。最大500名収容の大宴会場「鳳凰」など複数の宴会場を備える。成田・羽田からのアクセスと周辺情報をまとめました。",
+    "image": "https://bizintokyo.com/images/heroes/capitol-hotel-tokyu_ja.png"
+  },
+  "https://bizintokyo.com/venues/mandarin-oriental-tokyo/": {
+    "title": "マンダリン オリエンタル 東京 アクセス｜最寄り駅・出口からの行き方と周辺ホテル | BizinTokyo",
+    "description": "マンダリン オリエンタル 東京は三越前駅・新日本橋駅に地下直結の五つ星ホテル。天井高6m・360度ビデオウォールのグランドボールルームを備え、宴会場と宿泊が一体の環境です。成田・羽田からのアクセスと日本橋周辺情報をまとめました。",
+    "image": "https://bizintokyo.com/images/heroes/mandarin-oriental-tokyo_ja.png"
+  },
+  "https://bizintokyo.com/en/venues/shinagawa-the-grand-hall/": {
+    "title": "Shinagawa The Grand Hall Access & Visitor Guide | BizinTokyo",
+    "description": "Business event hall in Shinagawa Grand Central Tower 3F. 3 min from JR Shinagawa Station Konan Exit. Access from Narita/Haneda, hotels, dining, and venue tips.",
+    "image": "https://bizintokyo.com/images/heroes/shinagawa-the-grand-hall_en.png"
+  },
+  "https://bizintokyo.com/venues/ritz-carlton-tokyo/": {
+    "title": "ザ・リッツ・カールトン東京 アクセス｜最寄り駅・出口からの行き方と周辺ホテル | BizinTokyo",
+    "description": "ザ・リッツ・カールトン東京は東京ミッドタウン内の超高層ラグジュアリーホテル。六本木駅地下通路直結で、グランドボールルーム（立食400名）など国際会議・企業イベント向けの宴会場を備えます。成田・羽田からのアクセスと周辺情報をまとめました。",
+    "image": "https://bizintokyo.com/images/heroes/ritz-carlton-tokyo_ja.png"
+  },
+  "https://bizintokyo.com/en/venues/akasaka_intercity/": {
+    "title": "Your Complete Guide to Akasaka Intercity Conference (AICC) | BizinTokyo",
+    "description": "AICC links to Tameike-sanno Station underground and offers 12 meeting rooms including the 304-seat 'the AIR' hall. Access, hotels, and dining guide for Akasaka.",
+    "image": "https://bizintokyo.com/images/heroes/akasaka_intercity_en.png"
+  },
+  "https://bizintokyo.com/en/venues/tokyo_convention_hall/": {
+    "title": "First-Time Visitor’s Guide to TOKYO Convention Hall | BizinTokyo",
+    "description": "TOKYO Convention Hall connects directly to Kyobashi Station on the Tokyo Metro Ginza Line, a visitor guide to nearby hotels, dining, and tips for your visit.",
+    "image": "https://bizintokyo.com/images/heroes/tokyo_convention_hall_en.png"
+  },
+  "https://bizintokyo.com/en/venues/capitol-hotel-tokyu/": {
+    "title": "The Capitol Hotel Tokyu | Access & Stay Guide | BizinTokyo",
+    "description": "The Capitol Hotel Tokyu in Nagatacho offers underground access to two Tokyo Metro lines and banquet halls including the Ho'oh Ballroom for 500 guests.",
+    "image": "https://bizintokyo.com/images/heroes/capitol-hotel-tokyu_en.png"
+  },
+  "https://bizintokyo.com/en/venues/mandarin-oriental-tokyo/": {
+    "title": "Mandarin Oriental, Tokyo | Access & Stay Guide | BizinTokyo",
+    "description": "Mandarin Oriental, Tokyo is a luxury hotel in Nihonbashi with underground access from Mitsukoshimae. Covers airport routes, Grand Ballroom, and nearby dining.",
+    "image": "https://bizintokyo.com/images/heroes/mandarin-oriental-tokyo_en.png"
+  },
+  "https://bizintokyo.com/en/venues/ritz-carlton-tokyo/": {
+    "title": "The Ritz-Carlton Tokyo | Access & Stay Guide | BizinTokyo",
+    "description": "The Ritz-Carlton, Tokyo is a luxury high-rise hotel in Tokyo Midtown with underground access to Roppongi Station and banquet halls for up to 400 guests.",
+    "image": "https://bizintokyo.com/images/heroes/ritz-carlton-tokyo_en.png"
   }
 }
