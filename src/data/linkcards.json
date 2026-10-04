@@ -168,5 +168,60 @@
     "title": "台東区生涯学習センター ミレニアムホール アクセス｜最寄り駅・出口からの行き方と周辺ホテル | BizinTokyo",
     "description": "台東区生涯学習センター ミレニアムホールは東京メトロ日比谷線 入谷駅1番出口から徒歩約8分（つくばエクスプレス浅草駅からも徒歩約8分）。成田・羽田空港からのルート、周辺ホテル・レストラン、来場時の注意点をまとめた行き方ガイド。",
     "image": "https://bizintokyo.com/images/heroes/taito-millennium-hall_ja.png"
+  },
+  "https://bizintokyo.com/venues/bs_shibuyagarden/": {
+    "title": "ベルサール渋谷ガーデン アクセス｜最寄り駅・出口からの行き方と周辺ホテル | BizinTokyo",
+    "description": "ベルサール渋谷ガーデンはJR渋谷駅西口から徒歩10分。東京メトロ・東急渋谷駅A0出口からのルート、周辺ホテル・ランチ、来場時の注意点をまとめた行き方ガイド。",
+    "image": "https://bizintokyo.com/images/heroes/bs_shibuyagarden_ja.png"
+  },
+  "https://bizintokyo.com/venues/westin-tokyo/": {
+    "title": "ウェスティンホテル東京 アクセス｜最寄り駅・出口からの行き方と周辺ホテル | BizinTokyo",
+    "description": "ウェスティンホテル東京は恵比寿ガーデンプレイスに隣接、恵比寿駅から徒歩約7分。最大1,440名収容のギャラクシールームなど16室の宴会場を有するラグジュアリーホテル。成田・羽田からのアクセスと周辺情報をまとめました。",
+    "image": "https://bizintokyo.com/images/heroes/westin-tokyo_ja.png"
+  },
+  "https://bizintokyo.com/venues/cerulean-tower-tokyu/": {
+    "title": "セルリアンタワー東急ホテル アクセス｜最寄り駅・出口からの行き方と周辺ホテル | BizinTokyo",
+    "description": "渋谷駅西口から徒歩5分、成田エクスプレス直通のセルリアンタワー東急ホテル。最大1,400名対応のボールルームと全11室の宴会場を備え、渋谷エリアの主要ビジネスイベント会場として機能します。",
+    "image": "https://bizintokyo.com/images/heroes/cerulean-tower-tokyu_ja.png"
+  },
+  "https://bizintokyo.com/venues/bs_shibuyafirst/": {
+    "title": "ベルサール渋谷ファースト アクセス｜最寄り駅・出口からの行き方と周辺ホテル | BizinTokyo",
+    "description": "ベルサール渋谷ファーストは渋谷駅C1出口から徒歩6分。周辺ホテル・ランチ、来場時の注意点をまとめた行き方ガイド。",
+    "image": "https://bizintokyo.com/images/heroes/bs_shibuyafirst_ja.png"
+  },
+  "https://bizintokyo.com/venues/hikarie/": {
+    "title": "渋谷ヒカリエ アクセス｜最寄り駅・出口からの行き方と周辺ホテル | BizinTokyo",
+    "description": "渋谷ヒカリエは、東急東横線・田園都市線・東京メトロ各線の渋谷駅に直結する複合施設内のイベント会場。渋谷ヒカリエ1改札からB5出口を出ればすぐ、JR・京王井の頭線・銀座線からも地下通路で徒歩数分でアクセスできます。ホールA・Bを備え、セミナーや展覧会など幅広い用途に対応します。",
+    "image": "https://bizintokyo.com/images/heroes/hikarie_ja.png"
+  },
+  "https://bizintokyo.com/hotels/hikarie/": {
+    "title": "渋谷ヒカリエ周辺のおすすめホテル10選｜BizinTokyo",
+    "description": "渋谷ヒカリエでのイベントに行くなら、会場周辺のホテル10軒のアクセス・価格帯・Expedia予約リンクを紹介します。",
+    "image": "https://bizintokyo.com/images/heroes/hikarie_hotels_ja.png"
+  },
+  "https://bizintokyo.com/hotels/bs_shibuyagarden/": {
+    "title": "ベルサール渋谷ガーデン周辺のおすすめホテル10選｜BizinTokyo",
+    "description": "ベルサール渋谷ガーデンでのイベントに行くなら、会場周辺のホテル10軒のアクセス・価格帯・Expedia予約リンクを紹介します。",
+    "image": "https://bizintokyo.com/images/heroes/bs_shibuyagarden_hotels_ja.png"
+  },
+  "https://bizintokyo.com/hotels/bs_shibuyafirst/": {
+    "title": "ベルサール渋谷ファースト周辺のおすすめホテル10選｜BizinTokyo",
+    "description": "ベルサール渋谷ファーストでのイベントに行くなら、会場周辺のホテル10軒のアクセス・価格帯・Expedia予約リンクを紹介します。",
+    "image": "https://bizintokyo.com/images/heroes/bs_shibuyafirst_hotels_ja.png"
+  },
+  "https://bizintokyo.com/hotels/cerulean-tower-tokyu/": {
+    "title": "セルリアンタワー東急ホテル周辺のおすすめホテル10選｜BizinTokyo",
+    "description": "セルリアンタワー東急ホテルでの宴会・イベントに参加するなら、会場ホテル自身も含めて渋谷エリアのホテル10軒を会場からの距離順に紹介します。",
+    "image": "https://bizintokyo.com/images/heroes/cerulean-tower-tokyu_hotels_ja.png"
+  },
+  "https://bizintokyo.com/hotels/westin-tokyo/": {
+    "title": "ウェスティンホテル東京周辺のおすすめホテル10選｜BizinTokyo",
+    "description": "ウェスティンホテル東京での宴会・イベントに参加するなら、会場ホテル自身も含めて恵比寿・渋谷エリアのホテル10軒を会場からの距離順に紹介します。",
+    "image": "https://bizintokyo.com/images/heroes/westin-tokyo_hotels_ja.png"
+  },
+  "https://bizintokyo.com/hotels/shibuyaqws/": {
+    "title": "渋谷QWS周辺のおすすめホテル10選｜BizinTokyo",
+    "description": "渋谷QWSでのイベントに行くなら、会場周辺のホテル10軒のアクセス・価格帯・Expedia予約リンクを紹介します。",
+    "image": "https://bizintokyo.com/images/heroes/shibuyaqws_hotels_ja.png"
   }
 }
