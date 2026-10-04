@@ -35,13 +35,16 @@ function saveCache() {
 
 function extractMeta(html: string, property: string): string | undefined {
   // Matches <meta property="og:title" content="..."> in either attribute order.
+  // The content value is captured up to its own opening quote character (via
+  // backreference), so an apostrophe inside the text (e.g. "Visitor's Guide")
+  // does not truncate the match the way a `[^"']*` character class would.
   const patterns = [
-    new RegExp(`<meta[^>]*property=["']${property}["'][^>]*content=["']([^"']*)["']`, 'i'),
-    new RegExp(`<meta[^>]*content=["']([^"']*)["'][^>]*property=["']${property}["']`, 'i'),
+    new RegExp(`<meta[^>]*property=["']${property}["'][^>]*content=(["'])(.*?)\\1`, 'i'),
+    new RegExp(`<meta[^>]*content=(["'])(.*?)\\1[^>]*property=["']${property}["']`, 'i'),
   ];
   for (const re of patterns) {
     const match = html.match(re);
-    if (match) return match[1];
+    if (match) return match[2];
   }
   return undefined;
 }
