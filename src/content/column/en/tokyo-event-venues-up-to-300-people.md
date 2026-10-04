@@ -21,20 +21,20 @@ Contact venues early. Some start taking bookings a year in advance, and there is
 
 | Venue | Capacity (chairs only) | Area |
 |---|---|---|
-| CIC Tokyo | approx. 60–80 seated | Toranomon / Roppongi / Akasaka |
-| The Royal Park Hotel Iconic Tokyo Shiodome | 180 | Shimbashi / Shiodome / Hamamatsucho / Shibakoen |
-| SHIBUYA QWS Scramble Hall | approx. 200 | Shibuya / Ebisu |
-| K-Stage O! | 207 seats (seated layout) | Shinjuku |
-| Andaz Tokyo | 224 | Toranomon / Roppongi / Akasaka |
-| Shinagawa Season Terrace Conference | 247 | Shinagawa / Takanawa / Tamachi / Tennozu |
-| IKE Biz Toshima Plaza | 250 | Ikebukuro / Mejiro |
-| Hotel Sunroute Plaza Shinjuku | 250 | Shinjuku |
-| Bellesalle Jimbocho | 266 | Kanda / Akihabara / Iidabashi / Suidobashi |
-| Jiyu Gakuen Myonichikan | 272 | Ikebukuro / Mejiro |
-| Bellesalle Toranomon | 285 | Toranomon / Roppongi / Akasaka |
-| Shangri-La Tokyo | 300 | Tokyo Station / Marunouchi / Otemachi / Nihonbashi |
-| Tekko Executive Lounge & Conference Rooms | 300 | Tokyo Station / Marunouchi / Otemachi / Nihonbashi |
-| Taito Millennium Hall | 300 seats | Ueno / Asakusa |
+| [CIC Tokyo](#cic-tokyo) | approx. 60–80 seated | Toranomon / Roppongi / Akasaka |
+| [The Royal Park Hotel Iconic Tokyo Shiodome](#the-royal-park-hotel-iconic-tokyo-shiodome) | 180 | Shimbashi / Shiodome / Hamamatsucho / Shibakoen |
+| [SHIBUYA QWS Scramble Hall](#shibuya-qws-scramble-hall) | approx. 200 | Shibuya / Ebisu |
+| [K-Stage O!](#k-stage-o) | 207 seats (seated layout) | Shinjuku |
+| [Andaz Tokyo](#andaz-tokyo) | 224 | Toranomon / Roppongi / Akasaka |
+| [Shinagawa Season Terrace Conference](#shinagawa-season-terrace-conference) | 247 | Shinagawa / Takanawa / Tamachi / Tennozu |
+| [IKE Biz Toshima Plaza](#ike-biz-toshima-plaza) | 250 | Ikebukuro / Mejiro |
+| [Hotel Sunroute Plaza Shinjuku](#hotel-sunroute-plaza-shinjuku) | 250 | Shinjuku |
+| [Bellesalle Jimbocho](#bellesalle-jimbocho) | 266 | Kanda / Akihabara / Iidabashi / Suidobashi |
+| [Jiyu Gakuen Myonichikan](#jiyu-gakuen-myonichikan) | 272 | Ikebukuro / Mejiro |
+| [Bellesalle Toranomon](#bellesalle-toranomon) | 285 | Toranomon / Roppongi / Akasaka |
+| [Shangri-La Tokyo](#shangri-la-tokyo) | 300 | Tokyo Station / Marunouchi / Otemachi / Nihonbashi |
+| [Tekko Executive Lounge & Conference Rooms](#tekko-executive-lounge--conference-rooms) | 300 | Tokyo Station / Marunouchi / Otemachi / Nihonbashi |
+| [Taito Millennium Hall](#taito-millennium-hall) | 300 seats | Ueno / Asakusa |
 
 ## How capacity is counted here
 
