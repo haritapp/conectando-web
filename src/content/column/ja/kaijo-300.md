@@ -48,7 +48,7 @@ keywords: ["東京 イベント会場 300人", "東京 会場 100人 300人", "�
 
 ### CIC Tokyo
 
-https://bizintokyo.com/en/venues/cic-tokyo/
+https://bizintokyo.com/venues/cic-tokyo/
 
 - 一番大きい部屋：Venture Café
 - 人数：着席60〜80人程度＋立ち見40人程度（並べ方の記載なし）
@@ -62,7 +62,7 @@ https://bizintokyo.com/en/venues/cic-tokyo/
 
 ### ザ ロイヤルパークホテル アイコニック 東京汐留
 
-https://bizintokyo.com/en/venues/royal-park-hotel-iconic-shiodome/
+https://bizintokyo.com/venues/royal-park-hotel-iconic-shiodome/
 
 - 一番大きい部屋：しおさい A+B（25階）
 - 椅子だけ：180人／立食：160人
@@ -70,7 +70,7 @@ https://bizintokyo.com/en/venues/royal-park-hotel-iconic-shiodome/
 
 ### SHIBUYA QWS スクランブルホール
 
-https://bizintokyo.com/en/venues/shibuyaqws/
+https://bizintokyo.com/venues/shibuyaqws/
 
 - 一番大きい部屋：スクランブルホール
 - 椅子だけ：約200人／パーティー：約100人
@@ -82,7 +82,7 @@ https://bizintokyo.com/en/venues/shibuyaqws/
 
 ### K-Stage O!
 
-https://bizintokyo.com/en/venues/k-stage-o/
+https://bizintokyo.com/venues/k-stage-o/
 
 - 一番大きい部屋：K-Stage O!（大ホール）
 - 人数：207席（着席時。並べ方の記載なし）
@@ -90,7 +90,7 @@ https://bizintokyo.com/en/venues/k-stage-o/
 
 ### アンダーズ 東京
 
-https://bizintokyo.com/en/venues/andaz-tokyo/
+https://bizintokyo.com/venues/andaz-tokyo/
 
 - 一番大きい部屋：Tokyo Studio
 - 椅子だけ：224人／レセプション：150人
@@ -98,7 +98,7 @@ https://bizintokyo.com/en/venues/andaz-tokyo/
 
 ### 品川シーズンテラスカンファレンス
 
-https://bizintokyo.com/en/venues/shinagawa-season-terrace-conference/
+https://bizintokyo.com/venues/shinagawa-season-terrace-conference/
 
 - 一番大きい部屋：カンファレンス A+B+C
 - 椅子だけ：247人／立食パーティー：200人
@@ -106,7 +106,7 @@ https://bizintokyo.com/en/venues/shinagawa-season-terrace-conference/
 
 ### としま産業振興プラザ（IKE・Biz）
 
-https://bizintokyo.com/en/venues/ike-biz/
+https://bizintokyo.com/venues/ike-biz/
 
 - 一番大きい部屋：多目的ホール
 - 椅子だけ：250人
@@ -114,7 +114,7 @@ https://bizintokyo.com/en/venues/ike-biz/
 
 ### ホテルサンルートプラザ新宿
 
-https://bizintokyo.com/en/venues/hotel-sunroute-plaza-shinjuku/
+https://bizintokyo.com/venues/hotel-sunroute-plaza-shinjuku/
 
 - 一番大きい部屋：芙蓉（全室）
 - 椅子だけ：250人／立食：150人
@@ -122,7 +122,7 @@ https://bizintokyo.com/en/venues/hotel-sunroute-plaza-shinjuku/
 
 ### ベルサール神保町
 
-https://bizintokyo.com/en/venues/bellesalle-jimbocho/
+https://bizintokyo.com/venues/bellesalle-jimbocho/
 
 - 一番大きい部屋：Room3+4+5
 - 椅子だけ：266人
@@ -130,7 +130,7 @@ https://bizintokyo.com/en/venues/bellesalle-jimbocho/
 
 ### 自由学園明日館
 
-https://bizintokyo.com/en/venues/jiyu-gakuen-myonichikan/
+https://bizintokyo.com/venues/jiyu-gakuen-myonichikan/
 
 - 一番大きい部屋：講堂
 - 人数：272人（並べ方の記載なし）
@@ -139,7 +139,7 @@ https://bizintokyo.com/en/venues/jiyu-gakuen-myonichikan/
 
 ### ベルサール虎ノ門
 
-https://bizintokyo.com/en/venues/bellesalle-toranomon/
+https://bizintokyo.com/venues/bellesalle-toranomon/
 
 - 一番大きい部屋：HALL
 - 椅子だけ：285人
@@ -147,7 +147,7 @@ https://bizintokyo.com/en/venues/bellesalle-toranomon/
 
 ### シャングリ・ラ 東京
 
-https://bizintokyo.com/en/venues/shangri-la-tokyo/
+https://bizintokyo.com/venues/shangri-la-tokyo/
 
 - 一番大きい部屋：シャングリ・ラ ボールルーム
 - 椅子だけ：300人／レセプション：250人
@@ -155,7 +155,7 @@ https://bizintokyo.com/en/venues/shangri-la-tokyo/
 
 ### 鉃鋼エグゼクティブラウンジ＆カンファレンスルーム
 
-https://bizintokyo.com/en/venues/tekko-conference/
+https://bizintokyo.com/venues/tekko-conference/
 
 - 一番大きい部屋：ROOM2+3+4+5（つなげた場合）
 - 椅子だけ：300人／立食：300人
@@ -163,7 +163,7 @@ https://bizintokyo.com/en/venues/tekko-conference/
 
 ### 台東区生涯学習センター ミレニアムホール
 
-https://bizintokyo.com/en/venues/taito-millennium-hall/
+https://bizintokyo.com/venues/taito-millennium-hall/
 
 - 一番大きい部屋：ミレニアムホール
 - 人数：300席（固定席）
