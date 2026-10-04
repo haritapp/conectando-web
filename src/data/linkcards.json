@@ -223,5 +223,55 @@
     "title": "渋谷QWS周辺のおすすめホテル10選｜BizinTokyo",
     "description": "渋谷QWSでのイベントに行くなら、会場周辺のホテル10軒のアクセス・価格帯・Expedia予約リンクを紹介します。",
     "image": "https://bizintokyo.com/images/heroes/shibuyaqws_hotels_ja.png"
+  },
+  "https://bizintokyo.com/en/venues/bs_shibuyagarden/": {
+    "title": "First-Time Visitor",
+    "description": "Bellesalle Shibuya Garden is a large event hall located in Nampeidaicho, Shibuya-ku, Tokyo, occupying the B1 and 1st floors of Sumitomo Fudosan Shibuya Garden Tower.",
+    "image": "https://bizintokyo.com/images/heroes/bs_shibuyagarden_en.png"
+  },
+  "https://bizintokyo.com/en/venues/westin-tokyo/": {
+    "title": "Attending an Event at The Westin Tokyo | Access & Stay Guide | BizinTokyo",
+    "description": "The Westin Tokyo stands beside Ebisu Garden Place, 7 min from Ebisu Station by covered walkway. Its 16 event spaces include the Galaxy Room for 1,440.",
+    "image": "https://bizintokyo.com/images/heroes/westin-tokyo_en.png"
+  },
+  "https://bizintokyo.com/en/venues/cerulean-tower-tokyu/": {
+    "title": "Attending an Event at Cerulean Tower Tokyu Hotel | Access & Stay Guide | BizinTokyo",
+    "description": "Cerulean Tower Tokyu Hotel is a 5-min walk from Shibuya Station with a grand ballroom for 1,400 guests and direct airport access from Narita and Haneda.",
+    "image": "https://bizintokyo.com/images/heroes/cerulean-tower-tokyu_en.png"
+  },
+  "https://bizintokyo.com/en/venues/bs_shibuyafirst/": {
+    "title": "First-Time Visitor",
+    "description": "Bellesalle Shibuya First is a large event hall located on the B1 and 2nd floors of Sumitomo Fudosan Shibuya First Tower in Higashi, Shibuya-ku, Tokyo.",
+    "image": "https://bizintokyo.com/images/heroes/bs_shibuyafirst_en.png"
+  },
+  "https://bizintokyo.com/en/hotels/hikarie/": {
+    "title": "10 Best Hotels near Shibuya Hikarie | BizinTokyo",
+    "description": "Attending an event at Shibuya Hikarie? Compare 10 hotels near the venue by distance, price tier, and book directly on Expedia.",
+    "image": "https://bizintokyo.com/images/heroes/hikarie_hotels_en.png"
+  },
+  "https://bizintokyo.com/en/hotels/bs_shibuyagarden/": {
+    "title": "10 Best Hotels near Bellesalle Shibuya Garden | BizinTokyo",
+    "description": "Attending an event at Bellesalle Shibuya Garden? Compare 10 hotels near the venue by distance, price tier, and book directly on Expedia.",
+    "image": "https://bizintokyo.com/images/heroes/bs_shibuyagarden_hotels_en.png"
+  },
+  "https://bizintokyo.com/en/hotels/bs_shibuyafirst/": {
+    "title": "10 Best Hotels near Bellesalle Shibuya First | BizinTokyo",
+    "description": "Attending an event at Bellesalle Shibuya First? Compare 10 hotels near the venue by distance, price tier, and book directly on Expedia.",
+    "image": "https://bizintokyo.com/images/heroes/bs_shibuyafirst_hotels_en.png"
+  },
+  "https://bizintokyo.com/en/hotels/cerulean-tower-tokyu/": {
+    "title": "10 Best Hotels near Cerulean Tower Tokyu Hotel | BizinTokyo",
+    "description": "Attending an event at Cerulean Tower Tokyu Hotel? Compare 10 hotels near the venue — including the venue hotel itself — by distance and book directly on Expedia.",
+    "image": "https://bizintokyo.com/images/heroes/cerulean-tower-tokyu_hotels_en.png"
+  },
+  "https://bizintokyo.com/en/hotels/westin-tokyo/": {
+    "title": "10 Best Hotels near The Westin Tokyo | BizinTokyo",
+    "description": "Attending an event at The Westin Tokyo? Compare 10 hotels near the venue — including the venue hotel itself — by distance and book directly on Expedia.",
+    "image": "https://bizintokyo.com/images/heroes/westin-tokyo_hotels_en.png"
+  },
+  "https://bizintokyo.com/en/hotels/shibuyaqws/": {
+    "title": "10 Best Hotels near Shibuya QWS | BizinTokyo",
+    "description": "Attending an event at Shibuya QWS? Compare 10 hotels near the venue by distance, price tier, and book directly on Expedia.",
+    "image": "https://bizintokyo.com/images/heroes/shibuyaqws_hotels_en.png"
   }
 }
