@@ -28,5 +28,75 @@
     "title": "First-Time Visitor’s Guide to TORANOMON HILLS FORUM | BizinTokyo",
     "description": "Thanks to rapid redevelopment in recent years, the Toranomon area has evolved into one of Tokyo’s most innovative global business hubs. If you’re visiting Japan for the first time in a few years—or at",
     "image": "https://bizintokyo.com/images/heroes/toranomon_hills_forum_en.png"
+  },
+  "https://bizintokyo.com/en/venues/cic-tokyo/": {
+    "title": "CIC Tokyo Access & Visitor Guide | BizinTokyo",
+    "description": "CIC Tokyo (Toranomon Hills Business Tower, 15F–16F) hosts events for around 100–120 guests with direct underground access from Toranomon Hills Station (Hibiya Line).",
+    "image": "https://bizintokyo.com/images/heroes/cic-tokyo_en.png"
+  },
+  "https://bizintokyo.com/en/venues/royal-park-hotel-iconic-shiodome/": {
+    "title": "Royal Park Hotel Iconic Shiodome | Access & Stay Guide | BizinTokyo",
+    "description": "Walk 1 min from Shiodome Station to this hotel venue. The 25F Shiosai Ballroom seats 180 theatre-style under 4.7 m ceilings with Tokyo Bay and garden views.",
+    "image": "https://bizintokyo.com/images/heroes/royal-park-hotel-iconic-shiodome_en.png"
+  },
+  "https://bizintokyo.com/en/venues/k-stage-o/": {
+    "title": "K-Stage O! Access & Visitor Guide | BizinTokyo",
+    "description": "A complete access guide to K-Stage O! in Shin-Okubo, Shinjuku, Tokyo: airport routes, station directions, hotels, dining, and local tips for event visitors.",
+    "image": "https://bizintokyo.com/images/heroes/k-stage-o_en.png"
+  },
+  "https://bizintokyo.com/en/venues/andaz-tokyo/": {
+    "title": "Attending an Event at Andaz Tokyo | Access & Stay Guide | BizinTokyo",
+    "description": "Andaz Tokyo is a luxury hotel in Toranomon Hills Mori Tower, 3 min underground from Toranomon Hills Station. The 51F TOKYO Studio holds up to 160 guests.",
+    "image": "https://bizintokyo.com/images/heroes/andaz-tokyo_en.png"
+  },
+  "https://bizintokyo.com/en/venues/shinagawa-season-terrace-conference/": {
+    "title": "Shinagawa Season Terrace Conference Access & Visitor Guide | BizinTokyo",
+    "description": "Conference venue 6 min from JR Shinagawa Station",
+    "image": "https://bizintokyo.com/images/heroes/shinagawa-season-terrace-conference_en.png"
+  },
+  "https://bizintokyo.com/en/venues/ike-biz/": {
+    "title": "IKE Biz Toshima Plaza Access & Visitor Guide | BizinTokyo",
+    "description": "IKE Biz Toshima Plaza, 7 min from Ikebukuro Station Metropolitan Exit. Full access guide with Narita/Haneda routes, 250-seat hall overview, nearby hotels, and dining.",
+    "image": "https://bizintokyo.com/images/heroes/ike-biz_en.png"
+  },
+  "https://bizintokyo.com/en/venues/hotel-sunroute-plaza-shinjuku/": {
+    "title": "Hotel Sunroute Plaza Shinjuku | Access & Stay Guide | BizinTokyo",
+    "description": "Step-by-step access guide for event attendees at Hotel Sunroute Plaza Shinjuku in Tokyo — transit from Narita and Haneda, banquet halls, and dining picks.",
+    "image": "https://bizintokyo.com/images/heroes/hotel-sunroute-plaza-shinjuku_en.png"
+  },
+  "https://bizintokyo.com/en/venues/bellesalle-jimbocho/": {
+    "title": "Bellesalle Jimbocho Access & Visitor Guide | BizinTokyo",
+    "description": "A complete access guide to Bellesalle Jimbocho, Chiyoda, Tokyo: airport routes, station directions, hotels, dining, and local tips for business event visitors.",
+    "image": "https://bizintokyo.com/images/heroes/bellesalle-jimbocho_en.png"
+  },
+  "https://bizintokyo.com/en/venues/jiyu-gakuen-myonichikan/": {
+    "title": "Jiyu Gakuen Myonichikan Access & Visitor Guide | BizinTokyo",
+    "description": "Frank Lloyd Wright-designed historic hall in Ikebukuro. Three event spaces up to 272 seats. Access guide, nearby hotels, dining, and visitor tips.",
+    "image": "https://bizintokyo.com/images/heroes/jiyu-gakuen-myonichikan_en.png"
+  },
+  "https://bizintokyo.com/en/venues/bellesalle-toranomon/": {
+    "title": "Bellesalle Toranomon Access & Visitor Guide | BizinTokyo",
+    "description": "Bellesalle Toranomon: how to reach the venue from Narita and Haneda, station walking routes, recommended hotels and restaurants, and area tips for visitors.",
+    "image": "https://bizintokyo.com/images/heroes/bellesalle-toranomon_en.png"
+  },
+  "https://bizintokyo.com/en/venues/shangri-la-tokyo/": {
+    "title": "Attending an Event at Shangri-La Tokyo | Access & Stay Guide | BizinTokyo",
+    "description": "Shangri-La Tokyo is 1 min from Tokyo Station by foot, with a grand ballroom and meeting rooms in Marunouchi. Guide to airport access and dining nearby.",
+    "image": "https://bizintokyo.com/images/heroes/shangri-la-tokyo_en.png"
+  },
+  "https://bizintokyo.com/en/venues/tekko-conference/": {
+    "title": "Tekko Executive Lounge & Conference Rooms | Access Guide | BizinTokyo",
+    "description": "Complete visitor guide to Tekko Executive Lounge & Conference Rooms in Marunouchi — airport access, nearby hotels, dining options, and tips for a smooth visit.",
+    "image": "https://bizintokyo.com/images/heroes/tekko-conference_en.png"
+  },
+  "https://bizintokyo.com/en/venues/taito-millennium-hall/": {
+    "title": "Taito Millennium Hall | Access & Visitor Guide | BizinTokyo",
+    "description": "Community venue with 300 seats in Nishi-Asakusa. 8 min from Iriya Station (Hibiya Line). 65 min from Narita, 55 min from Haneda. Reopening November 2026.",
+    "image": "https://bizintokyo.com/images/heroes/taito-millennium-hall_en.png"
+  },
+  "https://bizintokyo.com/en/venues/shibuyaqws/": {
+    "title": "First-Time Visitor's Guide to SHIBUYA QWS | BizinTokyo",
+    "description": "SHIBUYA QWS is a membership-based collaboration space dedicated to creating innovation, located on the 15th floor of the East Building of Shibuya Scramble Square.",
+    "image": "https://bizintokyo.com/images/heroes/shibuyaqws_en.png"
   }
 }
