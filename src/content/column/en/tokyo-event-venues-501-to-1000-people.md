@@ -1,13 +1,13 @@
 ---
-title: "Conference Venues in Tokyo for 501–1,000 People: 39 Options Compared"
-description: "39 Tokyo venues for conferences, seminars and other events of 501 to 1,000 people, compared by capacity, venue type, area and nearest station, based on each venue's official website."
+title: "Conference Venues in Tokyo for 501–1,000 People: 40 Options Compared"
+description: "40 Tokyo venues for conferences, seminars and other events of 501 to 1,000 people, compared by capacity, venue type, area and nearest station, based on each venue's official website."
 date: 2026-10-05
 slug: "tokyo-event-venues-501-to-1000-people"
 lang: "en"
 category: "venue"
 author: "shintaro"
 altSlug: "kaijo-1000"
-lead: "Thirty-nine Tokyo venues for conferences and seminars of 501 to 1,000 people, listed from smallest to largest."
+lead: "Forty Tokyo venues for conferences and seminars of 501 to 1,000 people, listed from smallest to largest."
 heroImage: "/images/column/tokyo-event-venues-501-to-1000-people-hero.webp"
 heroCredit: "Photo by ARTO SURAJ on Unsplash (text added by Conectando)"
 keywords: ["event venue Tokyo 1000 people", "Tokyo event venues 501 to 1000", "compare event venues Tokyo", "Tokyo venue capacity list"]
@@ -15,11 +15,11 @@ keywords: ["event venue Tokyo 1000 people", "Tokyo event venues 501 to 1000", "c
 
 Tokyo venues by size: [Up to 300](https://www.conec-tando.com/en/column/tokyo-event-venues-up-to-300-people/) / [301–500](https://www.conec-tando.com/en/column/tokyo-event-venues-301-to-500-people/) / **501–1,000 (this article)** / [1,001+](https://www.conec-tando.com/en/column/tokyo-event-venues-1001-plus-people/)
 
-Planning a conference, seminar or other event in Tokyo for 501 to 1,000 people? Here are 39 venues that fit, listed with capacity, venue type, area and nearest station, based on each venue's official website (as of October 2026).
+Planning a conference, seminar or other event in Tokyo for 501 to 1,000 people? Here are 40 venues that fit, listed with capacity, venue type, area and nearest station, based on each venue's official website (as of October 2026).
 
 Contact venues early. Some start taking bookings a year in advance, and there is no downside to asking early. When you ask, they should be able to tell you when they start taking bookings.
 
-## The 39 venues at a glance
+## The 40 venues at a glance
 
 | Venue | Capacity (chairs only) | Venue type | Area |
 |---|---|---|---|
@@ -49,6 +49,7 @@ Contact venues early. Some start taking bookings a year in advance, and there is
 | [Toranomon Hills Forum](#toranomon-hills-forum) | 720 | Rental hall | Toranomon / Roppongi / Akasaka |
 | [Otemachi Place Hall & Conference](#otemachi-place-hall--conference) | 744 | Rental hall | Tokyo Station / Marunouchi / Otemachi / Nihonbashi |
 | [Tennoz Galaxy Theatre](#tennoz-galaxy-theatre) | 746 seats | Rental hall | Shinagawa / Takanawa / Tamachi / Tennozu |
+| [Tokyo Midtown Hibiya Hall & Conference](#tokyo-midtown-hibiya-hall--conference) | 760 | Rental hall | Yurakucho / Hibiya / Ginza |
 | [New Pier Hall](#new-pier-hall) | 796 | Rental hall | Shimbashi / Shiodome / Hamamatsucho / Shibakoen |
 | [Hotel Metropolitan Ikebukuro](#hotel-metropolitan-ikebukuro) | 800 | Hotel | Ikebukuro / Mejiro |
 | [JEC Hitotsubashi Hall](#jec-hitotsubashi-hall) | 802 seats | Rental hall | Kanda / Akihabara / Iidabashi / Suidobashi |
@@ -169,7 +170,7 @@ https://bizintokyo.com/en/venues/nikkei-hall/
 
 - Largest room: Nikkei Hall (in the Nikkei Building, Otemachi)
 - Capacity: 610 seats (layout not specified)
-- Nearest station: [TO BE CONFIRMED] could not be checked on the official website
+- Nearest station: directly connected to Otemachi Station via Exit C2b (about 2 minutes' walk from the Kandabashi-side ticket gate of the Chiyoda Line); about 2 minutes' walk from Takebashi Station, Exit 4 (Tozai Line)
 
 ### Ochanomizu Sola City Conference Center
 
@@ -291,6 +292,15 @@ https://bizintokyo.com/en/venues/tennoz-galaxy-theatre/
 - Nearest station: 1 minute's walk from the Central Ticket Gate of Tennozu Isle Station (Tokyo Monorail); 5 minutes' walk from Tennozu Isle Station, Exit A (Rinkai Line)
 - Note: rented out only on days without the theater's own shows. Apply at least 12 months before your date; the program is reviewed in advance
 
+### Tokyo Midtown Hibiya Hall & Conference
+
+https://bizintokyo.com/en/venues/midtown_hibiya/
+
+- Largest room: HALL 1+2+3 (6th floor)
+- Chairs only: 760 / Classroom: 438 / Standing reception: 384
+- Nearest station: directly connected to Hibiya Station (Chiyoda, Hibiya and Toei Mita Lines) and Yurakucho Station (Yurakucho Line, 4 minutes' walk); 5 minutes' walk from JR Yurakucho Station
+- Note: opened on September 1, 2026, rebuilt from the former BASE Q. HALL 1, 2 and 3 can also be used separately (HALL 1 alone holds 360 in theater style)
+
 ### New Pier Hall
 
 https://bizintokyo.com/en/venues/newpier-hall/
@@ -321,7 +331,7 @@ https://bizintokyo.com/en/venues/midtown/
 
 - Largest room: Hall A (whole)
 - Chairs only: 810 (chairs facing the long way; 697 the other way)
-- Nearest station: [TO BE CONFIRMED] could not be checked on the official website
+- Nearest station: directly connected by underground passage to Roppongi Station (Toei Oedo Line, Exit 8, and Hibiya Line)
 - *The price list on the official website (PDF) says 816 in theater style, which differs from 810 (to be confirmed)
 
 ### Bellesalle Akihabara
