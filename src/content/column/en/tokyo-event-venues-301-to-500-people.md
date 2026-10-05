@@ -15,6 +15,8 @@ keywords: ["event venue Tokyo 500 people", "Tokyo event venues 301 to 500", "com
 
 ← For smaller events: [Event Venues in Tokyo for Up to 300 People](https://www.conec-tando.com/en/column/tokyo-event-venues-up-to-300-people/)
 
+→ For larger events: [Event Venues in Tokyo for 501–1,000 People](https://www.conec-tando.com/en/column/tokyo-event-venues-501-to-1000-people/)
+
 Planning an event in Tokyo for 301 to 500 people? Here are 30 venues that fit, listed with capacity, area and nearest station, based on each venue's official website (as of October 2026).
 
 Contact venues early. Some start taking bookings a year in advance, and there is no downside to asking early. When you ask, they should be able to tell you when they start taking bookings.
@@ -314,3 +316,5 @@ https://bizintokyo.com/en/venues/ritz-carlton-tokyo/
 ---
 
 ← [Event Venues in Tokyo for Up to 300 People](https://www.conec-tando.com/en/column/tokyo-event-venues-up-to-300-people/)
+
+→ [Event Venues in Tokyo for 501–1,000 People](https://www.conec-tando.com/en/column/tokyo-event-venues-501-to-1000-people/)
