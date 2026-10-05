@@ -948,5 +948,340 @@
     "title": "Attending an Event at Hilton Tokyo | Access & Stay Guide | BizinTokyo",
     "description": "Hilton Tokyo in Nishi-Shinjuku has a 1,000-guest ballroom with subway-direct underground access. A practical guide to airport access, dining, and accommodation.",
     "image": "https://bizintokyo.com/images/heroes/hilton_tokyo_en.png"
+  },
+  "https://bizintokyo.com/venues/shinjuku-sumitomo-hall/": {
+    "title": "新宿住友ホール アクセス｜最寄り駅・出口からの行き方と周辺ホテル | BizinTokyo",
+    "description": "新宿住友ホールは都営大江戸線 都庁前駅A6出口から直結。西新宿駅・新宿駅からの行き方、周辺ホテル・レストラン、来場時の注意点をまとめた行き方ガイド。",
+    "image": "https://bizintokyo.com/images/heroes/shinjuku-sumitomo-hall_ja.png"
+  },
+  "https://bizintokyo.com/en/venues/shinjuku-sumitomo-hall/": {
+    "title": "Shinjuku Sumitomo Hall Access & Visitor Guide | BizinTokyo",
+    "description": "Event venue access guide for Shinjuku Sumitomo Hall (B1F). Direct link to Tochomae Station Exit A6, plus Narita/Haneda routes, hotels, dining, and tips.",
+    "image": "https://bizintokyo.com/images/heroes/shinjuku-sumitomo-hall_en.png"
+  },
+  "https://bizintokyo.com/venues/asakusa-public-hall/": {
+    "title": "台東区立浅草公会堂 アクセス｜最寄り駅・出口からの行き方と周辺ホテル | BizinTokyo",
+    "description": "台東区立浅草公会堂はつくばエクスプレス浅草駅A1出口から徒歩約3分。銀座線・都営浅草線からのルート、周辺ホテル・レストラン、来場時の注意点をまとめた行き方ガイド。",
+    "image": "https://bizintokyo.com/images/heroes/asakusa-public-hall_ja.png"
+  },
+  "https://bizintokyo.com/venues/tokyo_big_sight/": {
+    "title": "東京ビッグサイト アクセス｜最寄り駅・出口からの行き方と周辺ホテル | BizinTokyo",
+    "description": "東京ビッグサイト（東京国際展示場）は、お台場・有明エリアに位置する日本最大級のコンベンションセンター。りんかい線「国際展示場駅」から徒歩約7分、ゆりかもめ「東京ビッグサイト駅」から徒歩約3分でアクセスできます。東・西・南3展示棟と会議棟を備え、大規模展示会から国際会議まで幅広いイベントに対応します。",
+    "image": "https://bizintokyo.com/images/heroes/tokyo_big_sight_ja.png"
+  },
+  "https://bizintokyo.com/en/venues/asakusa-public-hall/": {
+    "title": "Asakusa Public Hall Access & Visitor Guide | BizinTokyo",
+    "description": "Civic hall in Asakusa, 1,070 seats. TX Asakusa Station 3 min walk. ~40 min from Haneda, ~55 min from Narita. Access guide, nearby hotels, dining, and tips.",
+    "image": "https://bizintokyo.com/images/heroes/asakusa-public-hall_en.png"
+  },
+  "https://bizintokyo.com/venues/waseda-okuma-auditorium/": {
+    "title": "早稲田大学大隈記念講堂 アクセス｜最寄り駅・出口からの行き方と周辺ホテル | BizinTokyo",
+    "description": "早稲田大学大隈記念講堂は東京メトロ東西線 早稲田駅3a出口から徒歩約5分。成田・羽田空港からのルート、周辺ホテル・レストラン、来場時の注意点をまとめた行き方ガイド。",
+    "image": "https://bizintokyo.com/images/heroes/waseda-okuma-auditorium_ja.png"
+  },
+  "https://bizintokyo.com/en/venues/waseda-okuma-auditorium/": {
+    "title": "Waseda University Okuma Auditorium Access & Visitor Guide | BizinTokyo",
+    "description": "How to reach Waseda University Okuma Auditorium in Tokyo: airport routes, station directions, and nearby hotels and restaurants for business event visitors.",
+    "image": "https://bizintokyo.com/images/heroes/waseda-okuma-auditorium_en.png"
+  },
+  "https://bizintokyo.com/venues/gakushuin-centennial-hall/": {
+    "title": "学習院創立百周年記念会館 アクセス｜最寄り駅・出口からの行き方と周辺ホテル | BizinTokyo",
+    "description": "学習院創立百周年記念会館はJR山手線「目白駅」から徒歩約1分。雑司が谷駅からのルートや周辺ホテル・レストラン、式典シーズンの注意点までまとめた行き方ガイド。",
+    "image": "https://bizintokyo.com/images/heroes/gakushuin-centennial-hall_ja.png"
+  },
+  "https://bizintokyo.com/venues/grand_hyatt_tokyo/": {
+    "title": "グランドハイアット東京 アクセス｜最寄り駅・出口からの行き方と周辺ホテル | BizinTokyo",
+    "description": "六本木の一流ホテル・グランドハイアット東京でのビジネスイベント参加を徹底解説。成田・羽田からのアクセス、バンケット施設、周辺レストラン、訪問前に知っておきたいエリア情報をまとめました。",
+    "image": "https://bizintokyo.com/images/heroes/grand_hyatt_tokyo_ja.png"
+  },
+  "https://bizintokyo.com/venues/brillia-hall-ikebukuro/": {
+    "title": "東京建物Brillia HALL アクセス｜最寄り駅・出口からの行き方と周辺ホテル | BizinTokyo",
+    "description": "東京建物Brillia HALL（豊島区立芸術文化劇場）は池袋駅東口（北）32番出口から徒歩4分。成田・羽田空港からのアクセス、周辺ホテル・レストラン、公演前後の注意点をまとめた行き方ガイド。",
+    "image": "https://bizintokyo.com/images/heroes/brillia-hall-ikebukuro_ja.png"
+  },
+  "https://bizintokyo.com/venues/bellesalle_shiodome/": {
+    "title": "ベルサール汐留 アクセス｜最寄り駅・出口からの行き方と周辺ホテル | BizinTokyo",
+    "description": "ベルサール汐留は都営大江戸線「汐留駅」から徒歩約4分（ゆりかもめは徒歩約5分）。JR・東京メトロ銀座線・都営浅草線「新橋駅」からのルート、周辺ホテル・レストラン、来場時の注意点をまとめた行き方ガイド。",
+    "image": "https://bizintokyo.com/images/heroes/bellesalle_shiodome_ja.png"
+  },
+  "https://bizintokyo.com/en/venues/gakushuin-centennial-hall/": {
+    "title": "Gakushuin Centennial Hall Access & Visitor Guide | BizinTokyo",
+    "description": "Access guide to Gakushuin University Centennial Memorial Hall. Mejiro Station, 1 min walk. Narita/Haneda access, nearby hotels, dining, and seasonal crowd tips.",
+    "image": "https://bizintokyo.com/images/heroes/gakushuin-centennial-hall_en.png"
+  },
+  "https://bizintokyo.com/venues/tokyo-dome-hotel/": {
+    "title": "東京ドームホテル アクセス｜最寄り駅・出口からの行き方と周辺ホテル | BizinTokyo",
+    "description": "東京ドームホテルは水道橋駅から徒歩1分、東京ドームシティに直結するシティホテルです。地下1階の大宴会場「天空」（収容1,000名）や42階スカイバンケットなど多彩な会場を備えます。成田・羽田からのアクセスと周辺情報をまとめました。",
+    "image": "https://bizintokyo.com/images/heroes/tokyo-dome-hotel_ja.png"
+  },
+  "https://bizintokyo.com/en/venues/grand_hyatt_tokyo/": {
+    "title": "Attending an Event at Grand Hyatt Tokyo | Access & Stay Guide | BizinTokyo",
+    "description": "Grand Hyatt Tokyo in Roppongi — banquet halls up to 1,200 guests, airport access, dining, and tips for international business event attendees.",
+    "image": "https://bizintokyo.com/images/heroes/grand_hyatt_tokyo_en.png"
+  },
+  "https://bizintokyo.com/venues/shin-yokohama-prince-hotel/": {
+    "title": "新横浜プリンスホテル アクセス｜最寄り駅・出口からの行き方と周辺ホテル | BizinTokyo",
+    "description": "新横浜プリンスホテルは東海道新幹線・相鉄線など複数路線の新横浜駅から徒歩2分のホテル型会場。最大1,300名のシンフォニアをはじめ10の宴会場を備え、大規模会議から小宴会まで対応します。成田・羽田からのアクセスと周辺情報をまとめました。",
+    "image": "https://bizintokyo.com/images/heroes/shin-yokohama-prince-hotel_ja.png"
+  },
+  "https://bizintokyo.com/venues/bellesalle-tokyo-nihonbashi/": {
+    "title": "ベルサール東京日本橋 アクセス｜最寄り駅・出口からの行き方と周辺ホテル | BizinTokyo",
+    "description": "ベルサール東京日本橋は東京メトロ・都営日本橋駅B6出口から直結。東京メトロ三越前駅からのルート、周辺ホテル・ランチ、来場時の注意点をまとめた行き方ガイド。",
+    "image": "https://bizintokyo.com/images/heroes/bellesalle-tokyo-nihonbashi_ja.png"
+  },
+  "https://bizintokyo.com/en/venues/brillia-hall-ikebukuro/": {
+    "title": "Tokyo Tatemono Brillia HALL Access & Visitor Guide | BizinTokyo",
+    "description": "Access guide to Tokyo Tatemono Brillia HALL in Ikebukuro. Narita/Haneda routes, hotels, dining spots, and tips for your visit to Toshima Arts Culture Theater.",
+    "image": "https://bizintokyo.com/images/heroes/brillia-hall-ikebukuro_en.png"
+  },
+  "https://bizintokyo.com/venues/hilton-tokyo-bay/": {
+    "title": "ヒルトン東京ベイ アクセス｜最寄り駅・出口からの行き方と周辺ホテル | BizinTokyo",
+    "description": "ヒルトン東京ベイは千葉・舞浜のリゾート型MICEホテル。立食最大1,200名収容の大宴会場ソアラなど5ホールを備え、羽田から直行バスで約60分。東京ディズニーリゾートに隣接し、非日常空間で企業イベントを開催できます。",
+    "image": "https://bizintokyo.com/images/heroes/hilton-tokyo-bay_ja.png"
+  },
+  "https://bizintokyo.com/venues/bellesalle_shinjuku/": {
+    "title": "ベルサール新宿グランド アクセス｜最寄り駅・出口からの行き方と周辺ホテル | BizinTokyo",
+    "description": "ベルサール新宿グランドは東京メトロ丸ノ内線「西新宿駅」1番出口から徒歩約4分。都庁前駅・新宿駅からのルート、周辺ホテル・レストラン、来場時の注意点をまとめた行き方ガイド。",
+    "image": "https://bizintokyo.com/images/heroes/bellesalle_shinjuku_ja.png"
+  },
+  "https://bizintokyo.com/en/venues/bellesalle_shiodome/": {
+    "title": "Your Complete Guide to Bellesalle Shiodome | BizinTokyo",
+    "description": "Bellesalle Shiodome is 4 min from Shiodome Station (Toei Oedo Line; 5 min via Yurikamome), with halls seating up to 1,260 guests beside Hamarikyu Gardens.",
+    "image": "https://bizintokyo.com/images/heroes/bellesalle_shiodome_en.png"
+  },
+  "https://bizintokyo.com/venues/palace_hotel_tokyo/": {
+    "title": "パレスホテル東京 アクセス｜最寄り駅・出口からの行き方と周辺ホテル | BizinTokyo",
+    "description": "パレスホテル東京は丸の内・皇居外苑に面する5つ星ホテル。最大1,440名収容の葵をはじめ多彩な宴会場を擁し、大手町駅C13b出口から地下通路直結。東京駅丸の内北口からも徒歩8分のホテルバンケット会場です。",
+    "image": "https://bizintokyo.com/images/heroes/palace_hotel_tokyo_ja.png"
+  },
+  "https://bizintokyo.com/en/venues/tokyo-dome-hotel/": {
+    "title": "Attending an Event at Tokyo Dome Hotel | Access & Stay Guide | BizinTokyo",
+    "description": "Tokyo Dome Hotel, one minute from Suidobashi Station inside Tokyo Dome City, hosts events from the 1,000-guest B1F Tenkuu ballroom to 42F sky banquets.",
+    "image": "https://bizintokyo.com/images/heroes/tokyo-dome-hotel_en.png"
+  },
+  "https://bizintokyo.com/venues/tokyo_prince_hotel/": {
+    "title": "東京プリンスホテル アクセス｜最寄り駅・出口からの行き方と周辺ホテル | BizinTokyo",
+    "description": "東京プリンスホテルは芝公園・東京タワー至近の老舗ホテル。最大2,000名収容の鳳凰の間など多彩な宴会場を擁し、御成門駅A1出口から徒歩1分。成田空港からリムジンバスでアクセスできるホテルバンケットの定番会場。",
+    "image": "https://bizintokyo.com/images/heroes/tokyo_prince_hotel_ja.png"
+  },
+  "https://bizintokyo.com/en/venues/shin-yokohama-prince-hotel/": {
+    "title": "Shin Yokohama Prince Hotel | Access & Stay Guide | BizinTokyo",
+    "description": "Shin Yokohama Prince Hotel is a 2-minute walk from Shin-Yokohama Station. Ten banquet halls, led by the 1,300-seat Sinfonia, suit events of all scales.",
+    "image": "https://bizintokyo.com/images/heroes/shin-yokohama-prince-hotel_en.png"
+  },
+  "https://bizintokyo.com/venues/hilton-tokyo-odaiba/": {
+    "title": "ヒルトン東京お台場 アクセス｜最寄り駅・出口からの行き方と周辺ホテル | BizinTokyo",
+    "description": "ヒルトン東京お台場はゆりかもめ台場駅直結のMICEホテル。最大1,600名収容の「ペガサス」宴会場に国内最大級の常設LEDスクリーンを備えます。成田・羽田からのアクセスと周辺情報をまとめました。",
+    "image": "https://bizintokyo.com/images/heroes/hilton-tokyo-odaiba_ja.png"
+  },
+  "https://bizintokyo.com/en/venues/bellesalle-tokyo-nihonbashi/": {
+    "title": "Bellesalle Tokyo Nihonbashi Access & Visitor Guide | BizinTokyo",
+    "description": "A practical guide to Bellesalle Tokyo Nihonbashi in the Tokyo Nihonbashi Tower, directly connected to Nihombashi Station (Exit B6): how to get there, nearby hotels and restaurants in Nihonbashi and Muromachi, plus area tips for business travelers.",
+    "image": "https://bizintokyo.com/images/heroes/bellesalle-tokyo-nihonbashi_en.png"
+  },
+  "https://bizintokyo.com/venues/tokyo-opera-city-concert-hall/": {
+    "title": "東京オペラシティ コンサートホール アクセス｜最寄り駅・出口からの行き方と周辺ホテル | BizinTokyo",
+    "description": "東京オペラシティ コンサートホールは京王新線 初台駅東口から地下通路直結で徒歩5分以内。新宿駅からの乗り換えルート、成田・羽田両空港からのアクセス、周辺ホテル・レストラン、来場時の注意点をまとめた行き方ガイド。",
+    "image": "https://bizintokyo.com/images/heroes/tokyo-opera-city-concert-hall_ja.png"
+  },
+  "https://bizintokyo.com/en/venues/hilton-tokyo-bay/": {
+    "title": "Attending an Event at Hilton Tokyo Bay | Access & Stay Guide | BizinTokyo",
+    "description": "Hilton Tokyo Bay is a resort MICE hotel in Maihama with five banquet halls (up to 1,200 guests) and direct limo bus connections from Haneda and Narita airports.",
+    "image": "https://bizintokyo.com/images/heroes/hilton-tokyo-bay_en.png"
+  },
+  "https://bizintokyo.com/venues/imperial-hotel-tokyo/": {
+    "title": "帝国ホテル東京 アクセス｜最寄り駅・出口からの行き方と周辺ホテル | BizinTokyo",
+    "description": "帝国ホテル東京は日比谷・内幸町に立つ5つ星ホテル。最大1,000名収容の富士の間をはじめ多彩な宴会場を擁し、日比谷駅A13出口から徒歩3分。成田・羽田両空港から直行リムジンバスでアクセスできるホテルバンケットの定番会場。",
+    "image": "https://bizintokyo.com/images/heroes/imperial-hotel-tokyo_ja.png"
+  },
+  "https://bizintokyo.com/venues/keio_plaza/": {
+    "title": "京王プラザホテル アクセス｜最寄り駅・出口からの行き方と周辺ホテル | BizinTokyo",
+    "description": "京王プラザホテルは新宿西新宿の大型ラグジュアリーホテル。最大1,824名収容のコンコードボールルームを擁し、都営大江戸線都庁前駅B1出口から徒歩1分、成田・羽田両空港から直行リムジンバスでホテル正面に到着できる老舗ホテルバンケット。",
+    "image": "https://bizintokyo.com/images/heroes/keio_plaza_ja.png"
+  },
+  "https://bizintokyo.com/venues/tokyo-tama-mirai-messe/": {
+    "title": "東京たま未来メッセ アクセス｜最寄り駅・出口からの行き方と周辺ホテル | BizinTokyo",
+    "description": "東京たま未来メッセは京王線 京王八王子駅3番出口から徒歩約2分（JR八王子駅北口からは徒歩約5分）。成田・羽田空港からのルート、周辺ホテル・レストラン、来場時の注意点をまとめた行き方ガイド。",
+    "image": "https://bizintokyo.com/images/heroes/tokyo-tama-mirai-messe_ja.png"
+  },
+  "https://bizintokyo.com/venues/ana_intercontinental/": {
+    "title": "ANAインターコンチネンタルホテル東京 アクセス｜最寄り駅・出口からの行き方と周辺ホテル | BizinTokyo",
+    "description": "ANAインターコンチネンタルホテル東京は溜池山王駅直結のラグジュアリーホテル。都内最大級の柱のない大宴会場「プロミネンス」など国際会議に対応する会場と宿泊を備えます。成田・羽田からのアクセスと周辺情報をまとめました。",
+    "image": "https://bizintokyo.com/images/heroes/ana_intercontinental_ja.png"
+  },
+  "https://bizintokyo.com/venues/hotel-chinzanso-tokyo/": {
+    "title": "ホテル椿山荘東京 アクセス｜最寄り駅・出口からの行き方と周辺ホテル | BizinTokyo",
+    "description": "ホテル椿山荘東京は都内有数の日本庭園を擁する文京区の格式あるホテル。着席770名のグランドホール 椿をはじめ多彩な宴会場を備え、国際会議・大型レセプションに対応。成田・羽田の直行リムジンや各種アクセス情報をまとめました。",
+    "image": "https://bizintokyo.com/images/heroes/hotel-chinzanso-tokyo_ja.png"
+  },
+  "https://bizintokyo.com/en/venues/bellesalle_shinjuku/": {
+    "title": "Bellesalle Shinjuku Grand Access & Visitor Guide | BizinTokyo",
+    "description": "Bellesalle Shinjuku Grand is an event and conference venue inside Shinjuku Grand Tower in Nishi-Shinjuku, Tokyo, a 4-minute walk from Nishi-Shinjuku Station.",
+    "image": "https://bizintokyo.com/images/heroes/bellesalle_shinjuku_en.png"
+  },
+  "https://bizintokyo.com/venues/sheraton-grande-tokyo-bay/": {
+    "title": "シェラトン・グランデ・トーキョーベイ・ホテル アクセス｜最寄り駅・出口からの行き方と周辺ホテル | BizinTokyo",
+    "description": "千葉・舞浜のMICE対応ホテル、シェラトン・グランデ・トーキョーベイ。最大2,000名収容の宴会場14室を完備。成田・羽田から直行リムジンバスでアクセス可能。ビジネスイベント参加者向けの会場・宿泊・アクセスガイド。",
+    "image": "https://bizintokyo.com/images/heroes/sheraton-grande-tokyo-bay_ja.png"
+  },
+  "https://bizintokyo.com/venues/shinjuku-sumitomo-sankaku-hiroba/": {
+    "title": "新宿住友ビル三角広場 アクセス｜最寄り駅・出口からの行き方と周辺ホテル | BizinTokyo",
+    "description": "新宿住友ビル三角広場は都営大江戸線 都庁前駅A6出口から地下直結。西新宿駅・新宿駅からの行き方、周辺ホテル・レストラン、来場時の注意点をまとめた行き方ガイド。",
+    "image": "https://bizintokyo.com/images/heroes/shinjuku-sumitomo-sankaku-hiroba_ja.png"
+  },
+  "https://bizintokyo.com/en/venues/palace_hotel_tokyo/": {
+    "title": "Attending an Event at Palace Hotel Tokyo | Access & Stay Guide | BizinTokyo",
+    "description": "Palace Hotel Tokyo: a five-star Marunouchi hotel by the Imperial Palace gardens, with the 1,440-seat Aoi ballroom and underground access from Otemachi Station.",
+    "image": "https://bizintokyo.com/images/heroes/palace_hotel_tokyo_en.png"
+  },
+  "https://bizintokyo.com/venues/bellesalle-takadanobaba/": {
+    "title": "ベルサール高田馬場 アクセス｜最寄り駅・出口からの行き方と周辺ホテル | BizinTokyo",
+    "description": "ベルサール高田馬場はJR高田馬場駅戸山口から徒歩約4分。東京メトロ副都心線西早稲田駅2番出口からのルート、周辺ホテル・ランチ、来場時の注意点をまとめた行き方ガイド。",
+    "image": "https://bizintokyo.com/images/heroes/bellesalle-takadanobaba_ja.png"
+  },
+  "https://bizintokyo.com/venues/hotel_newotani/": {
+    "title": "ホテルニューオータニ東京 アクセス｜最寄り駅・出口からの行き方と周辺ホテル | BizinTokyo",
+    "description": "ホテルニューオータニ東京で開催されるビジネスイベントに参加する海外ゲスト向けの完全ガイド。成田・羽田からのアクセス、宴会場、館内宿泊、周辺レストランまでを実用的に解説します。",
+    "image": "https://bizintokyo.com/images/heroes/hotel_newotani_ja.png"
+  },
+  "https://bizintokyo.com/en/venues/tokyo_prince_hotel/": {
+    "title": "Attending an Event at Tokyo Prince Hotel | Access & Stay Guide | BizinTokyo",
+    "description": "Tokyo Prince Hotel sits by Shiba Park and Tokyo Tower with banquet halls up to 2,000 guests, including the Ho-O-no-Ma. Onarimon Station Exit A1, a 1-min walk.",
+    "image": "https://bizintokyo.com/images/heroes/tokyo_prince_hotel_en.png"
+  },
+  "https://bizintokyo.com/venues/okura-tokyo/": {
+    "title": "オークラ東京 アクセス｜最寄り駅・出口からの行き方と周辺ホテル | BizinTokyo",
+    "description": "オークラ東京は虎ノ門に位置する老舗ラグジュアリーホテル。収容2,300名の「平安の間」をはじめ19の会場を備え、国際会議・大型宴会の実績が豊富。成田・羽田から直行リムジンバスが運行され、虎ノ門ヒルズ駅（日比谷線）から徒歩5分のアクセス。",
+    "image": "https://bizintokyo.com/images/heroes/okura-tokyo_ja.png"
+  },
+  "https://bizintokyo.com/en/venues/hilton-tokyo-odaiba/": {
+    "title": "Attending an Event at Hilton Tokyo Odaiba | Access & Stay Guide | BizinTokyo",
+    "description": "Hilton Tokyo Odaiba, above Yurikamome Daiba Station, hosts MICE events for 1,600 guests in the Pegasus Ballroom. Narita/Haneda access, dining, and Odaiba tips.",
+    "image": "https://bizintokyo.com/images/heroes/hilton-tokyo-odaiba_en.png"
+  },
+  "https://bizintokyo.com/venues/omiya-sonic-city/": {
+    "title": "大宮ソニックシティ アクセス｜最寄り駅・出口からの行き方と周辺ホテル | BizinTokyo",
+    "description": "大宮ソニックシティはJR大宮駅西口から歩行者デッキ直結で徒歩約3分。成田・羽田からのルート、周辺ホテル・レストラン、来場時の注意点をまとめた行き方ガイド。",
+    "image": "https://bizintokyo.com/images/heroes/omiya-sonic-city_ja.png"
+  },
+  "https://bizintokyo.com/venues/grand_prince_takanawa/": {
+    "title": "グランドプリンスホテル新高輪 アクセス｜最寄り駅・出口からの行き方と周辺ホテル | BizinTokyo",
+    "description": "グランドプリンスホテル新高輪は、品川駅高輪口より徒歩約5分のラグジュアリーホテル。天井高23mの大宴会場「飛天」など国際会議に対応する会場群と宿泊施設を兼ね備えます。成田・羽田からのアクセスと周辺情報をまとめました。",
+    "image": "https://bizintokyo.com/images/heroes/grand_prince_takanawa_ja.png"
+  },
+  "https://bizintokyo.com/en/venues/tokyo-opera-city-concert-hall/": {
+    "title": "Tokyo Opera City Concert Hall Access & Visitor Guide | BizinTokyo",
+    "description": "Access guide to Tokyo Opera City Concert Hall — routes from Narita and Haneda airports, hotels and dining nearby, and practical tips for visitors to Hatsudai.",
+    "image": "https://bizintokyo.com/images/heroes/tokyo-opera-city-concert-hall_en.png"
+  },
+  "https://bizintokyo.com/venues/pacifico-yokohama-north/": {
+    "title": "パシフィコ横浜ノース アクセス｜最寄り駅・出口からの行き方と周辺ホテル | BizinTokyo",
+    "description": "パシフィコ横浜ノースはみなとみらい線 みなとみらい駅から徒歩約5分。JR・横浜市営地下鉄 桜木町駅からのルート、周辺ホテル・レストラン、来場時の注意点をまとめた行き方ガイド。",
+    "image": "https://bizintokyo.com/images/heroes/pacifico-yokohama-north_ja.png"
+  },
+  "https://bizintokyo.com/venues/prince-park-tower-tokyo/": {
+    "title": "ザ・プリンス パークタワー東京 アクセス｜最寄り駅・出口からの行き方と周辺ホテル | BizinTokyo",
+    "description": "都営大江戸線 赤羽橋駅から徒歩2分、東京タワーを望む「ザ・プリンス パークタワー東京」。ボールルームは最大3,600名収容の大規模イベントに対応し、館内宿泊も完備。成田・羽田からのアクセスと周辺情報をまとめました。",
+    "image": "https://bizintokyo.com/images/heroes/prince-park-tower-tokyo_ja.png"
+  },
+  "https://bizintokyo.com/en/venues/imperial-hotel-tokyo/": {
+    "title": "Attending an Event at Imperial Hotel Tokyo | Access & Stay Guide | BizinTokyo",
+    "description": "Imperial Hotel Tokyo: 5-star hotel in Hibiya with a 1,000-seat ballroom and direct limousine bus from both airports. Hibiya Station Exit A13, 3 minutes.",
+    "image": "https://bizintokyo.com/images/heroes/imperial-hotel-tokyo_en.png"
+  },
+  "https://bizintokyo.com/venues/makuhari/": {
+    "title": "幕張メッセ アクセス｜最寄り駅・出口からの行き方と周辺ホテル | BizinTokyo",
+    "description": "幕張メッセはJR京葉線海浜幕張駅南口から徒歩約5分。周辺ホテル・ランチ、来場時の注意点をまとめた行き方ガイド。",
+    "image": "https://bizintokyo.com/images/heroes/makuhari_ja.png"
+  },
+  "https://bizintokyo.com/en/venues/keio_plaza/": {
+    "title": "Attending an Event at Keio Plaza Hotel Tokyo | Access & Stay Guide | BizinTokyo",
+    "description": "Keio Plaza Hotel Tokyo: a large luxury hotel in Nishi-Shinjuku with the 1,824-capacity Concord Ballroom, directly connected to Toei Oedo Line Tochomae Station Exit B1 (1-minute walk), and served by direct limousine bus services from both Narita and Haneda airports.",
+    "image": "https://bizintokyo.com/images/heroes/keio_plaza_en.png"
+  },
+  "https://bizintokyo.com/venues/tokyo-ryutsu-center/": {
+    "title": "東京流通センター（TRC） アクセス｜最寄り駅・出口からの行き方と周辺ホテル | BizinTokyo",
+    "description": "東京流通センター（TRC）は東京モノレール「流通センター」駅前、徒歩約1分。浜松町・羽田空港からのルート、周辺ホテル・レストラン、来場時の注意点をまとめた行き方ガイド。",
+    "image": "https://bizintokyo.com/images/heroes/tokyo-ryutsu-center_ja.png"
+  },
+  "https://bizintokyo.com/venues/pacifico_yokohama/": {
+    "title": "パシフィコ横浜 アクセス｜最寄り駅・出口からの行き方と周辺ホテル | BizinTokyo",
+    "description": "パシフィコ横浜はみなとみらい線みなとみらい駅から徒歩5分。周辺ホテル・ランチ、来場時の注意点をまとめた行き方ガイド。",
+    "image": "https://bizintokyo.com/images/heroes/pacifico_yokohama_ja.png"
+  },
+  "https://bizintokyo.com/en/venues/tokyo-tama-mirai-messe/": {
+    "title": "Tokyo Tama Mirai Messe Access & Visitor Guide | BizinTokyo",
+    "description": "Visitor guide to Tokyo Tama Mirai Messe in Hachioji: access from Narita and Haneda airports, nearby hotels and restaurants, and tips for business travelers.",
+    "image": "https://bizintokyo.com/images/heroes/tokyo-tama-mirai-messe_en.png"
+  },
+  "https://bizintokyo.com/venues/international_forum/": {
+    "title": "東京国際フォーラム アクセス｜最寄り駅・出口からの行き方と周辺ホテル | BizinTokyo",
+    "description": "東京国際フォーラムはJR有楽町駅「国際フォーラム口」から徒歩約1分。東京メトロ有楽町線・JR東京駅からのルート、周辺ホテル・レストラン、来場時の注意点をまとめた行き方ガイド。",
+    "image": "https://bizintokyo.com/images/heroes/international_forum_ja.png"
+  },
+  "https://bizintokyo.com/en/venues/ana_intercontinental/": {
+    "title": "Attending an Event at ANA InterContinental Tokyo | Access & Stay Guide | BizinTokyo",
+    "description": "ANA InterContinental Tokyo is a luxury hotel linked to Tameike-sanno Station, home to Prominence, one of Tokyo's largest pillarless ballrooms for 2,000 guests.",
+    "image": "https://bizintokyo.com/images/heroes/ana_intercontinental_en.png"
+  },
+  "https://bizintokyo.com/en/venues/hotel-chinzanso-tokyo/": {
+    "title": "Hotel Chinzanso Tokyo | Event Access & Stay Guide | BizinTokyo",
+    "description": "Hotel Chinzanso Tokyo is a prestigious garden hotel in Bunkyo-ku. Grand Hall Tsubaki seats 770 guests. Direct limousines from Narita and Haneda are available.",
+    "image": "https://bizintokyo.com/images/heroes/hotel-chinzanso-tokyo_en.png"
+  },
+  "https://bizintokyo.com/en/venues/sheraton-grande-tokyo-bay/": {
+    "title": "Sheraton Grande Tokyo Bay Hotel | Access & Stay Guide | BizinTokyo",
+    "description": "Sheraton Grande Tokyo Bay is a MICE hotel in Maihama with 14 banquet rooms for up to 2,000 guests. Direct airport bus from Narita (86 min) and Haneda (66 min).",
+    "image": "https://bizintokyo.com/images/heroes/sheraton-grande-tokyo-bay_en.png"
+  },
+  "https://bizintokyo.com/en/venues/shinjuku-sumitomo-sankaku-hiroba/": {
+    "title": "Shinjuku Sumitomo Building Sankaku Hiroba Access & Visitor Guide | BizinTokyo",
+    "description": "Access guide to Shinjuku Sumitomo Building Sankaku Hiroba. Direct underground link from Tochomae Station A6. Narita/Haneda routes, hotels, dining, and tips.",
+    "image": "https://bizintokyo.com/images/heroes/shinjuku-sumitomo-sankaku-hiroba_en.png"
+  },
+  "https://bizintokyo.com/en/venues/bellesalle-takadanobaba/": {
+    "title": "Bellesalle Takadanobaba Access & Visitor Guide | BizinTokyo",
+    "description": "A practical guide to Bellesalle Takadanobaba in the Sumitomo Fudosan Shinjuku Garden Tower: how to get there, nearby hotels and restaurants in Takadanobaba and Shinjuku, plus area tips for business travelers.",
+    "image": "https://bizintokyo.com/images/heroes/bellesalle-takadanobaba_en.png"
+  },
+  "https://bizintokyo.com/en/venues/okura-tokyo/": {
+    "title": "Attending an Event at The Okura Tokyo | Access & Stay Guide | BizinTokyo",
+    "description": "The Okura Tokyo in Toranomon has 19 event venues, including the 2,300-person Heian Room. Direct limousines from Narita and Haneda stop at the entrance.",
+    "image": "https://bizintokyo.com/images/heroes/okura-tokyo_en.png"
+  },
+  "https://bizintokyo.com/en/venues/omiya-sonic-city/": {
+    "title": "Omiya Sonic City Access & Visitor Guide | BizinTokyo",
+    "description": "Practical guide to Omiya Sonic City in Saitama: airport access from Narita and Haneda, recommended hotels, dining options, and area tips for event visitors.",
+    "image": "https://bizintokyo.com/images/heroes/omiya-sonic-city_en.png"
+  },
+  "https://bizintokyo.com/en/venues/grand_prince_takanawa/": {
+    "title": "Grand Prince Shin Takanawa | Access & Stay Guide | BizinTokyo",
+    "description": "A luxury hotel 5 min from Shinagawa Station, Grand Prince Hotel Shin Takanawa hosts international conferences with halls for 2,880 guests. Access and stay guide",
+    "image": "https://bizintokyo.com/images/heroes/grand_prince_takanawa_en.png"
+  },
+  "https://bizintokyo.com/en/venues/pacifico-yokohama-north/": {
+    "title": "Pacifico Yokohama North Access & Visitor Guide | BizinTokyo",
+    "description": "Pacifico Yokohama North is a 5-min walk from Minatomirai Station, with a route from JR/Yokohama Subway Sakuragicho Station, plus hotel and visitor tips.",
+    "image": "https://bizintokyo.com/images/heroes/pacifico-yokohama-north_en.png"
+  },
+  "https://bizintokyo.com/en/venues/prince-park-tower-tokyo/": {
+    "title": "Events at Prince Park Tower Tokyo | Access & Stay Guide | BizinTokyo",
+    "description": "The Prince Park Tower Tokyo, located 2 min from Akabane-bashi Station in Shibakoen, features a ballroom for 3,600 and in-house accommodation near Tokyo Tower.",
+    "image": "https://bizintokyo.com/images/heroes/prince-park-tower-tokyo_en.png"
+  },
+  "https://bizintokyo.com/en/venues/makuhari/": {
+    "title": "Makuhari Messe Access & Visitor Guide | BizinTokyo",
+    "description": "Makuhari Messe is about a 5-minute walk from JR Kaihin-Makuhari Station's South Exit. A guide covering nearby hotels, dining, and visitor tips.",
+    "image": "https://bizintokyo.com/images/heroes/makuhari_en.png"
+  },
+  "https://bizintokyo.com/en/venues/tokyo-ryutsu-center/": {
+    "title": "Tokyo Ryutsu Center (TRC) Access & Visitor Guide | BizinTokyo",
+    "description": "A practical guide to Tokyo Ryutsu Center (TRC) in Heiwajima: Tokyo Monorail access from Hamamatsucho and Haneda, nearby hotels, dining options, and visitor tips.",
+    "image": "https://bizintokyo.com/images/heroes/tokyo-ryutsu-center_en.png"
+  },
+  "https://bizintokyo.com/en/venues/pacifico_yokohama/": {
+    "title": "PACIFICO Yokohama Access & Visitor Guide | BizinTokyo",
+    "description": "PACIFICO Yokohama is a major international convention and exhibition complex in Yokohama's Minato Mirai district, just 5 minutes from Minatomirai Station.",
+    "image": "https://bizintokyo.com/images/heroes/pacifico_yokohama_en.png"
   }
 }

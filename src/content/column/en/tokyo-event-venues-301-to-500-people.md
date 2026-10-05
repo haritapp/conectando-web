@@ -1,60 +1,58 @@
 ---
-title: "Event Venues in Tokyo for 301–500 People: 30 Options Compared"
-description: "30 Tokyo event venues for 301 to 500 people, compared by capacity, area and nearest station, based on each venue's official website."
+title: "Conference Venues in Tokyo for 301–500 People: 30 Options Compared"
+description: "30 Tokyo venues for conferences, seminars and other events of 301 to 500 people, compared by capacity, venue type, area and nearest station, based on each venue's official website."
 date: 2026-10-05
 slug: "tokyo-event-venues-301-to-500-people"
 lang: "en"
 category: "venue"
 author: "shintaro"
 altSlug: "kaijo-500"
-lead: "Thirty Tokyo venues for events of 301 to 500 people, listed from smallest to largest."
+lead: "Thirty Tokyo venues for conferences and seminars of 301 to 500 people, listed from smallest to largest."
 heroImage: "/images/column/tokyo-event-venues-301-to-500-people-hero.webp"
 heroCredit: "Photo by CHUTTERSNAP on Unsplash (text added by Conectando)"
 keywords: ["event venue Tokyo 500 people", "Tokyo event venues 301 to 500", "compare event venues Tokyo", "Tokyo venue capacity list"]
 ---
 
-← For smaller events: [Event Venues in Tokyo for Up to 300 People](https://www.conec-tando.com/en/column/tokyo-event-venues-up-to-300-people/)
+Tokyo venues by size: [Up to 300](https://www.conec-tando.com/en/column/tokyo-event-venues-up-to-300-people/) / **301–500 (this article)** / [501–1,000](https://www.conec-tando.com/en/column/tokyo-event-venues-501-to-1000-people/) / [1,001+](https://www.conec-tando.com/en/column/tokyo-event-venues-1001-plus-people/)
 
-→ For larger events: [Event Venues in Tokyo for 501–1,000 People](https://www.conec-tando.com/en/column/tokyo-event-venues-501-to-1000-people/)
-
-Planning an event in Tokyo for 301 to 500 people? Here are 30 venues that fit, listed with capacity, area and nearest station, based on each venue's official website (as of October 2026).
+Planning a conference, seminar or other event in Tokyo for 301 to 500 people? Here are 30 venues that fit, listed with capacity, venue type, area and nearest station, based on each venue's official website (as of October 2026).
 
 Contact venues early. Some start taking bookings a year in advance, and there is no downside to asking early. When you ask, they should be able to tell you when they start taking bookings.
 
 ## The 30 venues at a glance
 
-| Venue | Capacity (chairs only) | Area |
-|---|---|---|
-| [Bellesalle Mita Garden](#bellesalle-mita-garden) | 301 | Shinagawa / Takanawa / Tamachi / Tennozu |
-| [OWLSPOT THEATRE](#owlspot-theatre) | 301 seats | Ikebukuro / Mejiro |
-| [The Peninsula Tokyo](#the-peninsula-tokyo) | 304 | Yurakucho / Hibiya / Ginza |
-| [Marunouchi Building Hall](#marunouchi-building-hall) | 314 seats | Tokyo Station / Marunouchi / Otemachi / Nihonbashi |
-| [Toshima Civic Center](#toshima-civic-center) | 324 | Ikebukuro / Mejiro |
-| [TOKYO NODE HALL](#tokyo-node-hall) | approx. 330 seated | Toranomon / Roppongi / Akasaka |
-| [Sunshine City Conference Rooms](#sunshine-city-conference-rooms) | 336 | Ikebukuro / Mejiro |
-| [Bellesalle Yaesu](#bellesalle-yaesu) | 359 | Tokyo Station / Marunouchi / Otemachi / Nihonbashi |
-| [Bellesalle Shibakoen](#bellesalle-shibakoen) | 360 | Shimbashi / Shiodome / Hamamatsucho / Shibakoen |
-| [The Prince Sakura Tower Tokyo](#the-prince-sakura-tower-tokyo) | 360 | Shinagawa / Takanawa / Tamachi / Tennozu |
-| [Tokyo Midtown Yaesu Conference](#tokyo-midtown-yaesu-conference) | 378 | Tokyo Station / Marunouchi / Otemachi / Nihonbashi |
-| [Bellesalle Nishi-Shinjuku](#bellesalle-nishi-shinjuku) | 378 | Shinjuku |
-| [Kanda Myojin Hall](#kanda-myojin-hall) | 392 | Kanda / Akihabara / Iidabashi / Suidobashi |
-| [Four Seasons Hotel Tokyo at Otemachi](#four-seasons-hotel-tokyo-at-otemachi) | 400 | Tokyo Station / Marunouchi / Otemachi / Nihonbashi |
-| [Bellesalle Jimbocho Annex](#bellesalle-jimbocho-annex) | 400 | Kanda / Akihabara / Iidabashi / Suidobashi |
-| [Muromachi Mitsui Hall & Conference](#muromachi-mitsui-hall--conference) | approx. 420 | Tokyo Station / Marunouchi / Otemachi / Nihonbashi |
-| [Zendentsu Hall](#zendentsu-hall) | 420–464 seats | Kanda / Akihabara / Iidabashi / Suidobashi |
-| [Kinokuniya Hall](#kinokuniya-hall) | 427 seats | Shinjuku |
-| [Hotel InterContinental Tokyo Bay](#hotel-intercontinental-tokyo-bay) | 428 | Shimbashi / Shiodome / Hamamatsucho / Shibakoen |
-| [Station Conference Tokyo](#station-conference-tokyo) | 436 | Tokyo Station / Marunouchi / Otemachi / Nihonbashi |
-| [Akihabara Convention Hall](#akihabara-convention-hall) | 450 | Kanda / Akihabara / Iidabashi / Suidobashi |
-| [Osaki Bright Core Hall](#osaki-bright-core-hall) | 460 | Shinagawa / Takanawa / Tamachi / Tennozu |
-| [Tokyo Garden Terrace Kioi Conference](#tokyo-garden-terrace-kioi-conference) | 469 | Toranomon / Roppongi / Akasaka |
-| [Bellesalle Kudan](#bellesalle-kudan) | 475 | Kanda / Akihabara / Iidabashi / Suidobashi |
-| [Shinagawa The Grand Hall](#shinagawa-the-grand-hall) | 484 | Shinagawa / Takanawa / Tamachi / Tennozu |
-| [Akasaka Intercity Conference](#akasaka-intercity-conference) | 500 | Toranomon / Roppongi / Akasaka |
-| [TOKYO Convention Hall](#tokyo-convention-hall) | 500 | Tokyo Station / Marunouchi / Otemachi / Nihonbashi |
-| [The Capitol Hotel Tokyu](#the-capitol-hotel-tokyu) | 500 | Toranomon / Roppongi / Akasaka |
-| [Mandarin Oriental, Tokyo](#mandarin-oriental-tokyo) | 80–500 | Tokyo Station / Marunouchi / Otemachi / Nihonbashi |
-| [The Ritz-Carlton, Tokyo](#the-ritz-carlton-tokyo) | 500 | Toranomon / Roppongi / Akasaka |
+| Venue | Capacity (chairs only) | Venue type | Area |
+|---|---|---|---|
+| [Bellesalle Mita Garden](#bellesalle-mita-garden) | 301 | Rental hall | Shinagawa / Takanawa / Tamachi / Tennozu |
+| [OWLSPOT THEATRE](#owlspot-theatre) | 301 seats | Rental hall | Ikebukuro / Mejiro |
+| [The Peninsula Tokyo](#the-peninsula-tokyo) | 304 | Hotel | Yurakucho / Hibiya / Ginza |
+| [Marunouchi Building Hall](#marunouchi-building-hall) | 314 seats | Rental hall | Tokyo Station / Marunouchi / Otemachi / Nihonbashi |
+| [Toshima Civic Center](#toshima-civic-center) | 324 | Rental hall | Ikebukuro / Mejiro |
+| [TOKYO NODE HALL](#tokyo-node-hall) | approx. 330 seated | Rental hall | Toranomon / Roppongi / Akasaka |
+| [Sunshine City Conference Rooms](#sunshine-city-conference-rooms) | 336 | Rental hall | Ikebukuro / Mejiro |
+| [Bellesalle Yaesu](#bellesalle-yaesu) | 359 | Rental hall | Tokyo Station / Marunouchi / Otemachi / Nihonbashi |
+| [Bellesalle Shibakoen](#bellesalle-shibakoen) | 360 | Rental hall | Shimbashi / Shiodome / Hamamatsucho / Shibakoen |
+| [The Prince Sakura Tower Tokyo](#the-prince-sakura-tower-tokyo) | 360 | Hotel | Shinagawa / Takanawa / Tamachi / Tennozu |
+| [Tokyo Midtown Yaesu Conference](#tokyo-midtown-yaesu-conference) | 378 | Rental hall | Tokyo Station / Marunouchi / Otemachi / Nihonbashi |
+| [Bellesalle Nishi-Shinjuku](#bellesalle-nishi-shinjuku) | 378 | Rental hall | Shinjuku |
+| [Kanda Myojin Hall](#kanda-myojin-hall) | 392 | Rental hall | Kanda / Akihabara / Iidabashi / Suidobashi |
+| [Four Seasons Hotel Tokyo at Otemachi](#four-seasons-hotel-tokyo-at-otemachi) | 400 | Hotel | Tokyo Station / Marunouchi / Otemachi / Nihonbashi |
+| [Bellesalle Jimbocho Annex](#bellesalle-jimbocho-annex) | 400 | Rental hall | Kanda / Akihabara / Iidabashi / Suidobashi |
+| [Muromachi Mitsui Hall & Conference](#muromachi-mitsui-hall--conference) | approx. 420 | Rental hall | Tokyo Station / Marunouchi / Otemachi / Nihonbashi |
+| [Zendentsu Hall](#zendentsu-hall) | 420–464 seats | Rental hall | Kanda / Akihabara / Iidabashi / Suidobashi |
+| [Kinokuniya Hall](#kinokuniya-hall) | 427 seats | Rental hall | Shinjuku |
+| [Hotel InterContinental Tokyo Bay](#hotel-intercontinental-tokyo-bay) | 428 | Hotel | Shimbashi / Shiodome / Hamamatsucho / Shibakoen |
+| [Station Conference Tokyo](#station-conference-tokyo) | 436 | Rental hall | Tokyo Station / Marunouchi / Otemachi / Nihonbashi |
+| [Akihabara Convention Hall](#akihabara-convention-hall) | 450 | Rental hall | Kanda / Akihabara / Iidabashi / Suidobashi |
+| [Osaki Bright Core Hall](#osaki-bright-core-hall) | 460 | Rental hall | Shinagawa / Takanawa / Tamachi / Tennozu |
+| [Tokyo Garden Terrace Kioi Conference](#tokyo-garden-terrace-kioi-conference) | 469 | Rental hall | Toranomon / Roppongi / Akasaka |
+| [Bellesalle Kudan](#bellesalle-kudan) | 475 | Rental hall | Kanda / Akihabara / Iidabashi / Suidobashi |
+| [Shinagawa The Grand Hall](#shinagawa-the-grand-hall) | 484 | Rental hall | Shinagawa / Takanawa / Tamachi / Tennozu |
+| [Akasaka Intercity Conference](#akasaka-intercity-conference) | 500 | Rental hall | Toranomon / Roppongi / Akasaka |
+| [TOKYO Convention Hall](#tokyo-convention-hall) | 500 | Rental hall | Tokyo Station / Marunouchi / Otemachi / Nihonbashi |
+| [The Capitol Hotel Tokyu](#the-capitol-hotel-tokyu) | 500 | Hotel | Toranomon / Roppongi / Akasaka |
+| [Mandarin Oriental, Tokyo](#mandarin-oriental-tokyo) | 80–500 | Hotel | Tokyo Station / Marunouchi / Otemachi / Nihonbashi |
+| [The Ritz-Carlton, Tokyo](#the-ritz-carlton-tokyo) | 500 | Hotel | Toranomon / Roppongi / Akasaka |
 
 ## How capacity is counted here
 
@@ -315,6 +313,4 @@ https://bizintokyo.com/en/venues/ritz-carlton-tokyo/
 
 ---
 
-← [Event Venues in Tokyo for Up to 300 People](https://www.conec-tando.com/en/column/tokyo-event-venues-up-to-300-people/)
-
-→ [Event Venues in Tokyo for 501–1,000 People](https://www.conec-tando.com/en/column/tokyo-event-venues-501-to-1000-people/)
+Tokyo venues by size: [Up to 300](https://www.conec-tando.com/en/column/tokyo-event-venues-up-to-300-people/) / **301–500 (this article)** / [501–1,000](https://www.conec-tando.com/en/column/tokyo-event-venues-501-to-1000-people/) / [1,001+](https://www.conec-tando.com/en/column/tokyo-event-venues-1001-plus-people/)
