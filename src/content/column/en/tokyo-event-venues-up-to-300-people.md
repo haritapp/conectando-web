@@ -1,42 +1,42 @@
 ---
-title: "Event Venues in Tokyo for Up to 300 People: 14 Options Compared"
-description: "14 Tokyo event venues for 100 to 300 people, compared by capacity, area and nearest station, based on each venue's official website."
+title: "Conference Venues in Tokyo for Up to 300 People: 14 Options Compared"
+description: "14 Tokyo venues for conferences, seminars and other events of up to 300 people, compared by capacity, venue type, area and nearest station, based on each venue's official website."
 date: 2026-10-04
 slug: "tokyo-event-venues-up-to-300-people"
 lang: "en"
 category: "venue"
 author: "shintaro"
 altSlug: "kaijo-300"
-lead: "Fourteen Tokyo venues for events of 100 to 300 people, listed from smallest to largest."
+lead: "Fourteen Tokyo venues for conferences and seminars of up to 300 people, listed from smallest to largest."
 heroImage: "/images/column/tokyo-event-venues-up-to-300-people-hero.webp"
 heroCredit: "Photo by Andrej Lišakov on Unsplash (text added by Conectando)"
-keywords: ["event venue Tokyo 300 people", "Tokyo event venues 100 to 300", "compare event venues Tokyo", "Tokyo venue capacity list"]
+keywords: ["event venue Tokyo 300 people", "Tokyo conference venues up to 300", "compare event venues Tokyo", "Tokyo venue capacity list"]
 ---
 
-→ For larger events: [Event Venues in Tokyo for 301–500 People](https://www.conec-tando.com/en/column/tokyo-event-venues-301-to-500-people/)
+Tokyo venues by size: **Up to 300 (this article)** / [301–500](https://www.conec-tando.com/en/column/tokyo-event-venues-301-to-500-people/) / [501–1,000](https://www.conec-tando.com/en/column/tokyo-event-venues-501-to-1000-people/) / [1,001+](https://www.conec-tando.com/en/column/tokyo-event-venues-1001-plus-people/)
 
-Planning an event in Tokyo for 100 to 300 people? Here are 14 venues that fit, listed with capacity, area and nearest station, based on each venue's official website (as of October 2026).
+Planning a conference, seminar or other event in Tokyo for up to 300 people? Here are 14 venues that fit, listed with capacity, venue type, area and nearest station, based on each venue's official website (as of October 2026).
 
 Contact venues early. Some start taking bookings a year in advance, and there is no downside to asking early. When you ask, they should be able to tell you when they start taking bookings.
 
 ## The 14 venues at a glance
 
-| Venue | Capacity (chairs only) | Area |
-|---|---|---|
-| [CIC Tokyo](#cic-tokyo) | approx. 60–80 seated | Toranomon / Roppongi / Akasaka |
-| [The Royal Park Hotel Iconic Tokyo Shiodome](#the-royal-park-hotel-iconic-tokyo-shiodome) | 180 | Shimbashi / Shiodome / Hamamatsucho / Shibakoen |
-| [SHIBUYA QWS Scramble Hall](#shibuya-qws-scramble-hall) | approx. 200 | Shibuya / Ebisu |
-| [K-Stage O!](#k-stage-o) | 207 seats (seated layout) | Shinjuku |
-| [Andaz Tokyo](#andaz-tokyo) | 224 | Toranomon / Roppongi / Akasaka |
-| [Shinagawa Season Terrace Conference](#shinagawa-season-terrace-conference) | 247 | Shinagawa / Takanawa / Tamachi / Tennozu |
-| [IKE Biz Toshima Plaza](#ike-biz-toshima-plaza) | 250 | Ikebukuro / Mejiro |
-| [Hotel Sunroute Plaza Shinjuku](#hotel-sunroute-plaza-shinjuku) | 250 | Shinjuku |
-| [Bellesalle Jimbocho](#bellesalle-jimbocho) | 266 | Kanda / Akihabara / Iidabashi / Suidobashi |
-| [Jiyu Gakuen Myonichikan](#jiyu-gakuen-myonichikan) | 272 | Ikebukuro / Mejiro |
-| [Bellesalle Toranomon](#bellesalle-toranomon) | 285 | Toranomon / Roppongi / Akasaka |
-| [Shangri-La Tokyo](#shangri-la-tokyo) | 300 | Tokyo Station / Marunouchi / Otemachi / Nihonbashi |
-| [Tekko Executive Lounge & Conference Rooms](#tekko-executive-lounge--conference-rooms) | 300 | Tokyo Station / Marunouchi / Otemachi / Nihonbashi |
-| [Taito Millennium Hall](#taito-millennium-hall) | 300 seats | Ueno / Asakusa |
+| Venue | Capacity (chairs only) | Venue type | Area |
+|---|---|---|---|
+| [CIC Tokyo](#cic-tokyo) | approx. 60–80 seated | Small/mid-size space | Toranomon / Roppongi / Akasaka |
+| [The Royal Park Hotel Iconic Tokyo Shiodome](#the-royal-park-hotel-iconic-tokyo-shiodome) | 180 | Hotel | Shimbashi / Shiodome / Hamamatsucho / Shibakoen |
+| [SHIBUYA QWS Scramble Hall](#shibuya-qws-scramble-hall) | approx. 200 | Small/mid-size space | Shibuya / Ebisu |
+| [K-Stage O!](#k-stage-o) | 207 seats (seated layout) | Small/mid-size space | Shinjuku |
+| [Andaz Tokyo](#andaz-tokyo) | 224 | Hotel | Toranomon / Roppongi / Akasaka |
+| [Shinagawa Season Terrace Conference](#shinagawa-season-terrace-conference) | 247 | Small/mid-size space | Shinagawa / Takanawa / Tamachi / Tennozu |
+| [IKE Biz Toshima Plaza](#ike-biz-toshima-plaza) | 250 | Small/mid-size space | Ikebukuro / Mejiro |
+| [Hotel Sunroute Plaza Shinjuku](#hotel-sunroute-plaza-shinjuku) | 250 | Hotel | Shinjuku |
+| [Bellesalle Jimbocho](#bellesalle-jimbocho) | 266 | Rental hall | Kanda / Akihabara / Iidabashi / Suidobashi |
+| [Jiyu Gakuen Myonichikan](#jiyu-gakuen-myonichikan) | 272 | Unique venue | Ikebukuro / Mejiro |
+| [Bellesalle Toranomon](#bellesalle-toranomon) | 285 | Rental hall | Toranomon / Roppongi / Akasaka |
+| [Shangri-La Tokyo](#shangri-la-tokyo) | 300 | Hotel | Tokyo Station / Marunouchi / Otemachi / Nihonbashi |
+| [Tekko Executive Lounge & Conference Rooms](#tekko-executive-lounge--conference-rooms) | 300 | Small/mid-size space | Tokyo Station / Marunouchi / Otemachi / Nihonbashi |
+| [Taito Millennium Hall](#taito-millennium-hall) | 300 seats | Rental hall | Ueno / Asakusa |
 
 ## How capacity is counted here
 
@@ -174,4 +174,4 @@ https://bizintokyo.com/en/venues/taito-millennium-hall/
 
 ---
 
-→ [Event Venues in Tokyo for 301–500 People](https://www.conec-tando.com/en/column/tokyo-event-venues-301-to-500-people/)
+Tokyo venues by size: **Up to 300 (this article)** / [301–500](https://www.conec-tando.com/en/column/tokyo-event-venues-301-to-500-people/) / [501–1,000](https://www.conec-tando.com/en/column/tokyo-event-venues-501-to-1000-people/) / [1,001+](https://www.conec-tando.com/en/column/tokyo-event-venues-1001-plus-people/)
