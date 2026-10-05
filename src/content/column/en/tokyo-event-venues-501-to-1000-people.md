@@ -1,13 +1,13 @@
 ---
-title: "Conference Venues in Tokyo for 501–1,000 People: 38 Options Compared"
-description: "38 Tokyo venues for conferences, seminars and other events of 501 to 1,000 people, compared by capacity, venue type, area and nearest station, based on each venue's official website."
+title: "Conference Venues in Tokyo for 501–1,000 People: 39 Options Compared"
+description: "39 Tokyo venues for conferences, seminars and other events of 501 to 1,000 people, compared by capacity, venue type, area and nearest station, based on each venue's official website."
 date: 2026-10-05
 slug: "tokyo-event-venues-501-to-1000-people"
 lang: "en"
 category: "venue"
 author: "shintaro"
 altSlug: "kaijo-1000"
-lead: "Thirty-eight Tokyo venues for conferences and seminars of 501 to 1,000 people, listed from smallest to largest."
+lead: "Thirty-nine Tokyo venues for conferences and seminars of 501 to 1,000 people, listed from smallest to largest."
 heroImage: "/images/column/tokyo-event-venues-501-to-1000-people-hero.webp"
 heroCredit: "Photo by ARTO SURAJ on Unsplash (text added by Conectando)"
 keywords: ["event venue Tokyo 1000 people", "Tokyo event venues 501 to 1000", "compare event venues Tokyo", "Tokyo venue capacity list"]
@@ -15,11 +15,11 @@ keywords: ["event venue Tokyo 1000 people", "Tokyo event venues 501 to 1000", "c
 
 Tokyo venues by size: [Up to 300](https://www.conec-tando.com/en/column/tokyo-event-venues-up-to-300-people/) / [301–500](https://www.conec-tando.com/en/column/tokyo-event-venues-301-to-500-people/) / **501–1,000 (this article)** / [1,001+](https://www.conec-tando.com/en/column/tokyo-event-venues-1001-plus-people/)
 
-Planning a conference, seminar or other event in Tokyo for 501 to 1,000 people? Here are 38 venues that fit, listed with capacity, venue type, area and nearest station, based on each venue's official website (as of October 2026).
+Planning a conference, seminar or other event in Tokyo for 501 to 1,000 people? Here are 39 venues that fit, listed with capacity, venue type, area and nearest station, based on each venue's official website (as of October 2026).
 
 Contact venues early. Some start taking bookings a year in advance, and there is no downside to asking early. When you ask, they should be able to tell you when they start taking bookings.
 
-## The 38 venues at a glance
+## The 39 venues at a glance
 
 | Venue | Capacity (chairs only) | Venue type | Area |
 |---|---|---|---|
@@ -40,6 +40,7 @@ Contact venues early. Some start taking bookings a year in advance, and there is
 | [Hotel Grand Arc Hanzomon](#hotel-grand-arc-hanzomon) | 660 | Hotel | Toranomon / Roppongi / Akasaka |
 | [Bellesalle Roppongi](#bellesalle-roppongi) | 665 | Rental hall | Toranomon / Roppongi / Akasaka |
 | [Bellesalle Shinjuku Minamiguchi](#bellesalle-shinjuku-minamiguchi) | 684 | Rental hall | Shinjuku |
+| [Nihonbashi Mitsui Hall](#nihonbashi-mitsui-hall) | 690 | Rental hall | Tokyo Station / Marunouchi / Otemachi / Nihonbashi |
 | [JP Tower Hall & Conference](#jp-tower-hall--conference) | 693 | Rental hall | Tokyo Station / Marunouchi / Otemachi / Nihonbashi |
 | [Shinagawa Intercity Hall](#shinagawa-intercity-hall) | 700 | Rental hall | Shinagawa / Takanawa / Tamachi / Tennozu |
 | [InterContinental Yokohama Grand](#intercontinental-yokohama-grand) | 700 | Hotel | Yokohama |
@@ -210,6 +211,14 @@ https://bizintokyo.com/en/venues/bellesalle-shinjuku-minamiguchi/
 - Largest room: 3F HALL
 - Chairs only: 684
 - Nearest station: 2 minutes' walk from Shinjuku-sanchome Station, Exit E8; 4 minutes' walk from the New South Exit of JR Shinjuku Station
+
+### Nihonbashi Mitsui Hall
+
+https://bizintokyo.com/en/venues/nihonbashi-hall/
+
+- Largest room: Nihonbashi Mitsui Hall
+- Chairs only: 690
+- Nearest station: directly connected to Mitsukoshimae Station (Ginza and Hanzomon Lines) and JR Shin-Nihombashi Station (Sobu Rapid and Yokosuka Lines); 9 minutes' walk from JR Kanda Station
 
 ### JP Tower Hall & Conference
 

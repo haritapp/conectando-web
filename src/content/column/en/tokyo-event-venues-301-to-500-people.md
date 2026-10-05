@@ -1,13 +1,13 @@
 ---
-title: "Conference Venues in Tokyo for 301–500 People: 30 Options Compared"
-description: "30 Tokyo venues for conferences, seminars and other events of 301 to 500 people, compared by capacity, venue type, area and nearest station, based on each venue's official website."
+title: "Conference Venues in Tokyo for 301–500 People: 32 Options Compared"
+description: "32 Tokyo venues for conferences, seminars and other events of 301 to 500 people, compared by capacity, venue type, area and nearest station, based on each venue's official website."
 date: 2026-10-05
 slug: "tokyo-event-venues-301-to-500-people"
 lang: "en"
 category: "venue"
 author: "shintaro"
 altSlug: "kaijo-500"
-lead: "Thirty Tokyo venues for conferences and seminars of 301 to 500 people, listed from smallest to largest."
+lead: "Thirty-two Tokyo venues for conferences and seminars of 301 to 500 people, listed from smallest to largest."
 heroImage: "/images/column/tokyo-event-venues-301-to-500-people-hero.webp"
 heroCredit: "Photo by CHUTTERSNAP on Unsplash (text added by Conectando)"
 keywords: ["event venue Tokyo 500 people", "Tokyo event venues 301 to 500", "compare event venues Tokyo", "Tokyo venue capacity list"]
@@ -15,11 +15,11 @@ keywords: ["event venue Tokyo 500 people", "Tokyo event venues 301 to 500", "com
 
 Tokyo venues by size: [Up to 300](https://www.conec-tando.com/en/column/tokyo-event-venues-up-to-300-people/) / **301–500 (this article)** / [501–1,000](https://www.conec-tando.com/en/column/tokyo-event-venues-501-to-1000-people/) / [1,001+](https://www.conec-tando.com/en/column/tokyo-event-venues-1001-plus-people/)
 
-Planning a conference, seminar or other event in Tokyo for 301 to 500 people? Here are 30 venues that fit, listed with capacity, venue type, area and nearest station, based on each venue's official website (as of October 2026).
+Planning a conference, seminar or other event in Tokyo for 301 to 500 people? Here are 32 venues that fit, listed with capacity, venue type, area and nearest station, based on each venue's official website (as of October 2026).
 
 Contact venues early. Some start taking bookings a year in advance, and there is no downside to asking early. When you ask, they should be able to tell you when they start taking bookings.
 
-## The 30 venues at a glance
+## The 32 venues at a glance
 
 | Venue | Capacity (chairs only) | Venue type | Area |
 |---|---|---|---|
@@ -27,6 +27,7 @@ Contact venues early. Some start taking bookings a year in advance, and there is
 | [OWLSPOT THEATRE](#owlspot-theatre) | 301 seats | Rental hall | Ikebukuro / Mejiro |
 | [The Peninsula Tokyo](#the-peninsula-tokyo) | 304 | Hotel | Yurakucho / Hibiya / Ginza |
 | [Marunouchi Building Hall](#marunouchi-building-hall) | 314 seats | Rental hall | Tokyo Station / Marunouchi / Otemachi / Nihonbashi |
+| [Station Conference Manseibashi](#station-conference-manseibashi) | 323 | Rental hall | Kanda / Akihabara / Iidabashi / Suidobashi |
 | [Toshima Civic Center](#toshima-civic-center) | 324 | Rental hall | Ikebukuro / Mejiro |
 | [TOKYO NODE HALL](#tokyo-node-hall) | approx. 330 seated | Rental hall | Toranomon / Roppongi / Akasaka |
 | [Sunshine City Conference Rooms](#sunshine-city-conference-rooms) | 336 | Rental hall | Ikebukuro / Mejiro |
@@ -44,6 +45,7 @@ Contact venues early. Some start taking bookings a year in advance, and there is
 | [Hotel InterContinental Tokyo Bay](#hotel-intercontinental-tokyo-bay) | 428 | Hotel | Shimbashi / Shiodome / Hamamatsucho / Shibakoen |
 | [Station Conference Tokyo](#station-conference-tokyo) | 436 | Rental hall | Tokyo Station / Marunouchi / Otemachi / Nihonbashi |
 | [Akihabara Convention Hall](#akihabara-convention-hall) | 450 | Rental hall | Kanda / Akihabara / Iidabashi / Suidobashi |
+| [Bellesalle Roppongi Grand Conference Center](#bellesalle-roppongi-grand-conference-center) | 456 | Rental hall | Toranomon / Roppongi / Akasaka |
 | [Osaki Bright Core Hall](#osaki-bright-core-hall) | 460 | Rental hall | Shinagawa / Takanawa / Tamachi / Tennozu |
 | [Tokyo Garden Terrace Kioi Conference](#tokyo-garden-terrace-kioi-conference) | 469 | Rental hall | Toranomon / Roppongi / Akasaka |
 | [Bellesalle Kudan](#bellesalle-kudan) | 475 | Rental hall | Kanda / Akihabara / Iidabashi / Suidobashi |
@@ -96,6 +98,14 @@ https://bizintokyo.com/en/venues/marunouchi_building/
 - Largest room: Marunouchi Building Hall
 - Capacity: 314 seats (234 standard seats plus 80 extra seats for a fee; layout not specified)
 - Nearest station: directly connected to Tokyo Station (Marunouchi Line); 1 minute's walk from the Marunouchi South Exit of JR Tokyo Station
+
+### Station Conference Manseibashi
+
+https://bizintokyo.com/en/venues/station-conference-manseibashi/
+
+- Largest room: 404ABC (all rooms on the 4th floor combined)
+- Chairs only: 323 / Classroom: 130
+- Nearest station: 2 minutes' walk from Kanda Station, Exit 6 (Ginza Line); 3 minutes' walk from Exit A3 of Awajicho Station (Marunouchi Line), Ogawamachi Station (Toei Shinjuku Line) and Shin-Ochanomizu Station (Chiyoda Line); 4 minutes' walk from the Electric Town Exit of JR Akihabara Station
 
 ### Toshima Civic Center
 
@@ -238,6 +248,14 @@ https://bizintokyo.com/en/venues/akihabara-convention-hall/
 - Largest room: Hall 2F, Entire Hall
 - Chairs only: 450 / Buffet: 300
 - Nearest station: 1 minute's walk from the Electric Town Exit of JR Akihabara Station
+
+### Bellesalle Roppongi Grand Conference Center
+
+https://bizintokyo.com/en/venues/bellesalle-roppongi-gcc/
+
+- Largest room: Room H+I
+- Chairs only: 456 / Classroom (3 per table): 357
+- Nearest station: directly connected to Roppongi-itchome Station (Namboku Line) via the West Ticket Gate; 6 minutes' walk from Roppongi Station, Exit 5; 8 minutes' walk from Tameike-sanno Station, Exit 13
 
 ### Osaki Bright Core Hall
 

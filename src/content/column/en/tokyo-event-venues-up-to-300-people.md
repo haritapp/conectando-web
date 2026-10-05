@@ -1,13 +1,13 @@
 ---
-title: "Conference Venues in Tokyo for Up to 300 People: 14 Options Compared"
-description: "14 Tokyo venues for conferences, seminars and other events of up to 300 people, compared by capacity, venue type, area and nearest station, based on each venue's official website."
+title: "Conference Venues in Tokyo for Up to 300 People: 16 Options Compared"
+description: "16 Tokyo venues for conferences, seminars and other events of up to 300 people, compared by capacity, venue type, area and nearest station, based on each venue's official website."
 date: 2026-10-04
 slug: "tokyo-event-venues-up-to-300-people"
 lang: "en"
 category: "venue"
 author: "shintaro"
 altSlug: "kaijo-300"
-lead: "Fourteen Tokyo venues for conferences and seminars of up to 300 people, listed from smallest to largest."
+lead: "Sixteen Tokyo venues for conferences and seminars of up to 300 people, listed from smallest to largest."
 heroImage: "/images/column/tokyo-event-venues-up-to-300-people-hero.webp"
 heroCredit: "Photo by Andrej Lišakov on Unsplash (text added by Conectando)"
 keywords: ["event venue Tokyo 300 people", "Tokyo conference venues up to 300", "compare event venues Tokyo", "Tokyo venue capacity list"]
@@ -15,18 +15,20 @@ keywords: ["event venue Tokyo 300 people", "Tokyo conference venues up to 300", 
 
 Tokyo venues by size: **Up to 300 (this article)** / [301–500](https://www.conec-tando.com/en/column/tokyo-event-venues-301-to-500-people/) / [501–1,000](https://www.conec-tando.com/en/column/tokyo-event-venues-501-to-1000-people/) / [1,001+](https://www.conec-tando.com/en/column/tokyo-event-venues-1001-plus-people/)
 
-Planning a conference, seminar or other event in Tokyo for up to 300 people? Here are 14 venues that fit, listed with capacity, venue type, area and nearest station, based on each venue's official website (as of October 2026).
+Planning a conference, seminar or other event in Tokyo for up to 300 people? Here are 16 venues that fit, listed with capacity, venue type, area and nearest station, based on each venue's official website (as of October 2026).
 
 Contact venues early. Some start taking bookings a year in advance, and there is no downside to asking early. When you ask, they should be able to tell you when they start taking bookings.
 
-## The 14 venues at a glance
+## The 16 venues at a glance
 
 | Venue | Capacity (chairs only) | Venue type | Area |
 |---|---|---|---|
 | [CIC Tokyo](#cic-tokyo) | approx. 60–80 seated | Small/mid-size space | Toranomon / Roppongi / Akasaka |
 | [The Royal Park Hotel Iconic Tokyo Shiodome](#the-royal-park-hotel-iconic-tokyo-shiodome) | 180 | Hotel | Shimbashi / Shiodome / Hamamatsucho / Shibakoen |
 | [SHIBUYA QWS Scramble Hall](#shibuya-qws-scramble-hall) | approx. 200 | Small/mid-size space | Shibuya / Ebisu |
+| [Global Business Hub Tokyo](#global-business-hub-tokyo) | up to approx. 200 | Small/mid-size space | Tokyo Station / Marunouchi / Otemachi / Nihonbashi |
 | [K-Stage O!](#k-stage-o) | 207 seats (seated layout) | Small/mid-size space | Shinjuku |
+| [Libra Hall](#libra-hall-minato-city-gender-equality-center) | 208 (capacity) | Rental hall | Shinagawa / Takanawa / Tamachi / Tennozu |
 | [Andaz Tokyo](#andaz-tokyo) | 224 | Hotel | Toranomon / Roppongi / Akasaka |
 | [Shinagawa Season Terrace Conference](#shinagawa-season-terrace-conference) | 247 | Small/mid-size space | Shinagawa / Takanawa / Tamachi / Tennozu |
 | [IKE Biz Toshima Plaza](#ike-biz-toshima-plaza) | 250 | Small/mid-size space | Ikebukuro / Mejiro |
@@ -78,6 +80,14 @@ https://bizintokyo.com/en/venues/shibuyaqws/
 - Chairs only: approx. 200 / Party: approx. 100
 - Nearest station: directly connected to Shibuya Station
 
+### Global Business Hub Tokyo
+
+https://bizintokyo.com/en/venues/global-business-hub-tokyo/
+
+- Largest room: Event space
+- Capacity: up to approx. 200 (layout not specified) / Classroom style: approx. 100
+- Nearest station: directly connected to Otemachi Station (Hanzomon, Chiyoda, Marunouchi, Tozai and Toei Mita Lines); direct underground access from JR Tokyo Station
+
 ---
 
 ## 201–300 people
@@ -89,6 +99,15 @@ https://bizintokyo.com/en/venues/k-stage-o/
 - Largest room: K-Stage O! (main hall)
 - Capacity: 207 seats when seated (layout not specified)
 - Nearest station: 3 minutes' walk from Higashi-Shinjuku Station, Exit A1
+
+### Libra Hall (Minato City Gender Equality Center)
+
+https://bizintokyo.com/en/venues/minato-libra-hall/
+
+- Largest room: Libra Hall
+- Capacity: 208 (layout not specified)
+- Nearest station: 5 minutes' walk from the East Exit of JR Tamachi Station; 6 minutes' walk from Mita Station (Toei), Exit A6
+- Note: the hall is normally rented with a flat floor. To use the stage or the seating, contact the venue at least one month before your event (per the official website)
 
 ### Andaz Tokyo
 
