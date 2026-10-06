@@ -307,7 +307,7 @@ https://bizintokyo.com/en/venues/newpier-hall/
 
 - Largest room: Hall (1st floor of New Pier Takeshiba North Tower)
 - Chairs only: 796 (including 396 movable seats) / Standing reception: approx. 200
-- Nearest station: [TO BE CONFIRMED] could not be checked on the official website
+- Nearest station: about 1 minute's walk from Takeshiba Station (Yurikamome); about 7 minutes' walk from Hamamatsucho Station, North Exit (JR and Tokyo Monorail)
 
 ### Hotel Metropolitan Ikebukuro
 

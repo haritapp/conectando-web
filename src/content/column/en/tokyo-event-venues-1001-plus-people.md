@@ -154,8 +154,7 @@ https://bizintokyo.com/en/venues/tokyo-dome-hotel/
 
 - Largest room: Tenku (B1 grand ballroom)
 - Chairs only: 1,266 / Buffet: 1,000
-- Nearest station: [to be confirmed] not found on the official website
-- Note: The hotel's English page says 1,000 with chairs only, which differs from the 1,266 on the Japanese page (to be confirmed)
+- Nearest station: about 1 minute's walk from Suidobashi Station, Exit A2 (Mita Line); about 2 minutes' walk from Suidobashi Station, East Exit (JR Sobu Line); about 5 minutes' walk from Korakuen Station, Exit 2 (Marunouchi and Namboku lines); about 6 minutes' walk from Kasuga Station, Exit 6 (Oedo Line)
 
 ### Shin Yokohama Prince Hotel
 
@@ -220,7 +219,8 @@ https://bizintokyo.com/en/venues/westin-tokyo/
 
 - Largest room: Galaxy
 - Chairs only: 1,440 / Reception: 900
-- Nearest station: Ebisu Station (JR Yamanote Line and Hibiya Line); exit and walking time [to be confirmed] not found on the official website
+- Nearest station: about 5 minutes' walk from JR Ebisu Station, East Exit, to Yebisu Garden Place via the Ebisu Skywalk
+- Note: The hotel is at the far end of Yebisu Garden Place, so allow a little more time to reach the hotel itself
 
 ### Tokyo Prince Hotel
 
@@ -228,7 +228,7 @@ https://bizintokyo.com/en/venues/tokyo_prince_hotel/
 
 - Largest room: Hoo-no-ma (whole)
 - Chairs only: 1,500 / Buffet: 2,000
-- Nearest station: Onarimon Station (Mita Line), Daimon Station (Asakusa and Oedo lines), Hamamatsucho Station (JR and Tokyo Monorail); walking times [to be confirmed] not found on the official website
+- Nearest station: 1 minute's walk from Onarimon Station, Exit A1 (Mita Line); 7 minutes' walk from Daimon Station, Exit A6 (Asakusa and Oedo lines); 10 minutes' walk from Hamamatsucho Station (JR and Tokyo Monorail)
 
 ---
 
@@ -241,7 +241,7 @@ https://bizintokyo.com/en/venues/hilton-tokyo-odaiba/
 - Largest room: Pegasus (whole)
 - Chairs only: 1,564 / Standing reception: 1,600
 - Nearest station: directly connected to Daiba Station (Yurikamome); about 10 minutes' walk from Tokyo Teleport Station (Rinkai Line)
-- Note: The hotel's PDF fact sheet says 1,600 theater style, which differs from 1,564 (to be confirmed)
+- Note: A floor plan (PDF) on the official website says 1,600 theater style, which differs from 1,564 (to be confirmed)
 
 ### Tokyo Opera City Concert Hall
 
@@ -369,7 +369,7 @@ https://bizintokyo.com/en/venues/pacifico-yokohama-north/
 
 - Largest room: Multipurpose Hall G1–G4
 - Chairs only: 3,024
-- Nearest station: [to be confirmed] not found on the official website
+- Nearest station: from Minatomirai Station, Exit 2 (Icho-dori Exit) (Minatomirai Line). The official website gives no walking time to the North building; for Pacifico Yokohama as a whole it says 5 minutes' walk from Minatomirai Station
 - Note: The official materials give no chairs-only figure for the whole Multipurpose Hall (G1–G8)
 
 ### Prince Park Tower Tokyo
