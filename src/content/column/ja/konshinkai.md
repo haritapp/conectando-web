@@ -8,7 +8,7 @@ category: "venue"
 author: "shintaro"
 altSlug: "networking-reception-tokyo"
 lead: "イベントのあとの懇親会は、会場が離れていたり始まるまでに時間が空いたりすると、人が帰ってしまいます。人に残ってもらうには、場所と「つなぐ人」が大事です。"
-heroImage: "/images/column/networking-reception-tokyo-hero.webp"
+heroImage: "/images/column/konshinkai-hero.webp"
 heroCredit: "Photo by Filip Rankovic Grobgaard on Unsplash (text overlay: Conectando)"
 keywords: ["イベント 懇親会 会場", "懇親会 人が帰る", "外資系 イベント 懇親会", "懇親会 バイリンガル"]
 ---
