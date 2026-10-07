@@ -13,7 +13,7 @@ heroCredit: "Photo by Yuika Takamura on Unsplash"
 keywords: ["event venues Ikebukuro", "event venues Mejiro", "Ikebukuro conference venue", "Tokyo event venue by area"]
 ---
 
-This series compares event venues in Tokyo area by area. This article covers Ikebukuro and Mejiro. For step-by-step directions to each venue, see the venue guides on BizinTokyo linked below.
+This series compares event venues in Tokyo area by area. This article covers Ikebukuro and Mejiro. For step-by-step directions to each venue, see [the venue guides on BizinTokyo](#venue-guides) linked below.
 
 The eight venues compared in this article are 5 rental halls, 1 hotel, 1 unique venue (a special place such as a historic building) and 1 small to mid-size space. The largest room is the theater at Tokyo Tatemono Brillia HALL, with 1,248 seats. Only two venues have a room for more than 1,000 people: Brillia HALL and Gakushuin Centennial Hall. OWLSPOT THEATRE is directly connected to an exit of Higashi-Ikebukuro Station on the Tokyo Metro Yurakucho Line. At Hotel Metropolitan Ikebukuro, the event rooms and the hotel are in the same building, and airport limousine buses come from both Narita and Haneda.
 

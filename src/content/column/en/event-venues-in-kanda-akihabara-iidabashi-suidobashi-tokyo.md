@@ -13,7 +13,7 @@ heroCredit: "Photo by Sebastian Kurpiel on Unsplash"
 keywords: ["event venues Akihabara", "event venues Kanda", "event venues Iidabashi", "event venues Suidobashi"]
 ---
 
-This series compares event venues in Tokyo area by area. This article covers Kanda, Akihabara, Iidabashi and Suidobashi. For step-by-step directions to each venue, see the venue guides on BizinTokyo linked below.
+This series compares event venues in Tokyo area by area. This article covers Kanda, Akihabara, Iidabashi and Suidobashi. For step-by-step directions to each venue, see [the venue guides on BizinTokyo](#venue-guides) linked below.
 
 Of the 18 venues covered in this area, 15 are rental halls, 2 are hotels and 1 is Tokyo Dome City (a mixed-use complex). Seven of the rental halls are Bellesalle venues, in Akihabara, Iidabashi Ekimae, Iidabashi First, Jimbocho, Jimbocho Annex, Kanda and Kudan. The largest room among the rental halls is the full 2F HALL at Bellesalle Akihabara (865 in theater style). The large banquet halls at the hotels are Grand Hall Tsubaki at Hotel Chinzanso Tokyo, for 2,000 people, and Tenku at Tokyo Dome Hotel, for 1,266 people (both in theater style). Three venues are within 3 minutes on foot of JR Akihabara Station (Akihabara Convention Hall, Akihabara UDX and Bellesalle Akihabara). Tokyo Dome Hotel is inside Tokyo Dome City.
 

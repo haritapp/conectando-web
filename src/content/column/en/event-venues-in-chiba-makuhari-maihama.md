@@ -13,7 +13,7 @@ heroCredit: "Photo by Kenjiro Yagi on Unsplash"
 keywords: ["event venues Makuhari", "event venues Maihama", "Makuhari Messe capacity", "Maihama hotel event venue"]
 ---
 
-This series compares event venues in and around Tokyo area by area. This article covers Makuhari and Maihama in Chiba Prefecture. For step-by-step directions to each venue, see the venue guides on BizinTokyo linked below.
+This series compares event venues in and around Tokyo area by area. This article covers Makuhari and Maihama in Chiba Prefecture. For step-by-step directions to each venue, see [the venue guides on BizinTokyo](#venue-guides) linked below.
 
 Of the four venues here, three are hotels and one is Makuhari Messe (a large convention facility). At Makuhari Messe, the largest space, Makuhari Event Hall, has 3,948 fixed seats. The largest rooms at the hotels hold 1,400 to 2,500 people (theater style). Makuhari Messe is in Chiba City and the three hotel venues are in Maihama 1-chome, Urayasu City. Makuhari and Maihama are two different places.
 

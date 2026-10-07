@@ -13,7 +13,7 @@ heroCredit: "Photo by Moiz K. Malik on Unsplash"
 keywords: ["event venues Ueno", "event venues Asakusa", "Asakusa venue capacity", "Ueno banquet hall"]
 ---
 
-This series compares event venues in Tokyo area by area. This article covers Ueno and Asakusa. For step-by-step directions to each venue, see the venue guides on BizinTokyo linked below.
+This series compares event venues in Tokyo area by area. This article covers Ueno and Asakusa. For step-by-step directions to each venue, see [the venue guides on BizinTokyo](#venue-guides) linked below.
 
 The five venues in this article are one hotel, two rental halls, one facility with exhibition rooms and one banquet hall (restaurant). The only hall with more than 1,000 seats is Asakusa Public Hall (1,070 seats). Asakusa View Hotel is directly connected to Asakusa Station on the Tsukuba Express, and airport limousine buses run directly to it from both Narita and Haneda.
 

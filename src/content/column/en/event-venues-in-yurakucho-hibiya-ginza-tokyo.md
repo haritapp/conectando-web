@@ -13,7 +13,7 @@ heroCredit: "Photo by Se. Tsuchiya on Unsplash"
 keywords: ["event venues Yurakucho", "event venues Ginza", "Tokyo International Forum capacity", "Tokyo event venue by area"]
 ---
 
-This series compares event venues in Tokyo area by area. This article covers Yurakucho, Hibiya and Ginza. For step-by-step directions to each venue, see the venue guides on BizinTokyo linked below.
+This series compares event venues in Tokyo area by area. This article covers Yurakucho, Hibiya and Ginza. For step-by-step directions to each venue, see [the venue guides on BizinTokyo](#venue-guides) linked below.
 
 The largest room in this area is Hall A at Tokyo International Forum, with 5,012 seats (fixed seating). Three venues have rooms for more than 1,000 people: Tokyo International Forum, Imperial Hotel Tokyo and Yomiuri Hall. Tokyo Midtown Hibiya and The Peninsula Tokyo are connected to Hibiya Station. Two of the venues are hotels: Imperial Hotel Tokyo and The Peninsula Tokyo.
 

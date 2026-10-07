@@ -13,7 +13,7 @@ heroCredit: "Photo by Cem Ersozlu on Unsplash"
 keywords: ["event venues Roppongi", "event venues Toranomon", "Akasaka conference venue", "Tokyo event venue by area"]
 ---
 
-This series compares event venues in Tokyo area by area. This article covers Toranomon, Roppongi and Akasaka. For step-by-step directions to each venue, see the venue guides on BizinTokyo linked below.
+This series compares event venues in Tokyo area by area. This article covers Toranomon, Roppongi and Akasaka. For step-by-step directions to each venue, see [the venue guides on BizinTokyo](#venue-guides) linked below.
 
 This area has 19 main venues: 7 hotels, 11 rental halls and 1 small to mid-size space. The largest room is Heian at The Okura Tokyo, with 2,300 (theater). Three hotels have rooms for 2,000 people or more: The Okura Tokyo, Hotel New Otani Tokyo and ANA InterContinental Tokyo. Five of the hotels have direct buses from Narita Airport.
 

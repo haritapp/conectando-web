@@ -13,7 +13,7 @@ heroCredit: "Photo by Nagatoshi Shimamura on Unsplash"
 keywords: ["event venues Yokohama", "event venues Minato Mirai", "event venues Shin-Yokohama", "PACIFICO Yokohama capacity"]
 ---
 
-This series compares event venues area by area. This article covers Yokohama (Kanagawa Prefecture). For step-by-step directions to each venue, see the venue guides on BizinTokyo linked below.
+This series compares event venues area by area. This article covers Yokohama (Kanagawa Prefecture). For step-by-step directions to each venue, see [the venue guides on BizinTokyo](#venue-guides) linked below.
 
 Of the five rows in the comparison table, two are PACIFICO Yokohama (the main facility and North). The largest room is PACIFICO Yokohama's National Convention Hall, with more than 5,000 seats theater style (chairs only). Three of the venues are hotels. Four venues are around Minatomirai Station and one is around Shin-Yokohama Station. Yokohama Bay Hotel Tokyu says on its official website that it is directly connected to Minatomirai Station.
 
