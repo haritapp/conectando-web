@@ -1,6 +1,6 @@
 ---
 title: "Event Venues in Shibuya & Ebisu, Tokyo: Capacity, Hotels and Airport Access"
-description: "Planning an event in Shibuya or Ebisu, Tokyo? Compare six major venues by capacity, see where to put your guests up, how to get there from Narita and Haneda, and where to hold a reception."
+description: "Planning an event in Shibuya or Ebisu, Tokyo? Compare six major venues by capacity, see where to put your guests up, and how to get there from Narita and Haneda."
 date: 2026-10-05
 slug: "event-venues-in-shibuya-ebisu-tokyo"
 lang: "en"
@@ -13,7 +13,7 @@ heroCredit: "Photo by Muhammad Faiz Zulkeflee on Unsplash"
 keywords: ["event venues Shibuya", "event venues Ebisu", "Shibuya conference venue", "Tokyo event venue by area"]
 ---
 
-This series compares event venues in Tokyo area by area. This article covers Shibuya and Ebisu. For step-by-step directions to each venue, see the venue guides on BizinTokyo linked below.
+This series compares event venues in Tokyo area by area. This article covers Shibuya and Ebisu. For step-by-step directions to each venue, see [the venue guides on BizinTokyo](https://bizintokyo.com/en/) linked below.
 
 Shibuya is home to many IT companies, startups and creative firms. For tech and startup events, it is one of the first areas people consider, along with Roppongi. Both hotels and rental halls here have large rooms for more than 1,000 people. The area around Shibuya Station is in the middle of a large redevelopment, so station exits and passageways sometimes change. In Ebisu, The Westin Tokyo has its event rooms and guest rooms in the same building, and there is a direct airport bus from Narita.
 
@@ -97,19 +97,6 @@ https://bizintokyo.com/en/hotels/cerulean-tower-tokyu/
 https://bizintokyo.com/en/hotels/westin-tokyo/
 
 https://bizintokyo.com/en/hotels/shibuyaqws/
-
-## Places for an evening reception
-
-Only rooms with a standing capacity listed in the venue guides are included.
-
-| Room | Standing capacity |
-|---|---|
-| Cerulean Tower Tokyu Hotel, Ballroom | 1,300 |
-| The Westin Tokyo, Galaxy | 900 |
-| Shibuya Hikarie, Hall A | About 600 |
-| The Westin Tokyo, Kaede | 300 |
-| The Westin Tokyo, Sakura | 150 |
-| Cerulean Tower Tokyu Hotel, Asagiri | 110 |
 
 ## Related articles
 
