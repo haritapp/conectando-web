@@ -13,7 +13,7 @@ heroCredit: "Photo by Cem Ersozlu on Unsplash"
 keywords: ["event venues Odaiba", "event venues Ariake", "venues near Tokyo Big Sight", "Odaiba hotel event venue"]
 ---
 
-This series compares event venues in Tokyo area by area. This article covers Odaiba and Ariake. For step-by-step directions to each venue, see [the venue guides on BizinTokyo](#venue-guides) linked below.
+This series compares event venues in Tokyo area by area. This article covers Odaiba and Ariake. For step-by-step directions to each venue, see [the venue guides on BizinTokyo](https://bizintokyo.com/en/) linked below.
 
 There are seven venues in this area: two hotels, one arena, one large convention facility and three rental halls and similar spaces. TOKYO ARIAKE ARENA has up to about 15,000 seats, and the largest room at the Grand Nikko Tokyo Daiba hotel holds 3,300 people theater style. Both hotels (Grand Nikko Tokyo Daiba and Hilton Tokyo Odaiba) are directly connected to Daiba Station on the Yurikamome Line.
 

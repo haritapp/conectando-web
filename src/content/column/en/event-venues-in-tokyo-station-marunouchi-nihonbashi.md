@@ -13,7 +13,7 @@ heroCredit: "Photo by Dmitrijs Tokyo on Unsplash"
 keywords: ["event venues Marunouchi", "event venues Nihonbashi", "Otemachi conference venue", "Tokyo event venue by area"]
 ---
 
-This series compares event venues in Tokyo area by area. This article covers Tokyo Station, Marunouchi, Otemachi and Nihonbashi. For step-by-step directions to each venue, see [the venue guides on BizinTokyo](#venue-guides) linked below.
+This series compares event venues in Tokyo area by area. This article covers Tokyo Station, Marunouchi, Otemachi and Nihonbashi. For step-by-step directions to each venue, see [the venue guides on BizinTokyo](https://bizintokyo.com/en/) linked below.
 
 This area has 20 main venues: 13 rental halls, 5 hotels and 2 small to mid-size spaces. The largest room is Aoi at Palace Hotel Tokyo (1,440, theater). Many venues are directly connected to Otemachi Station. Seven of them are connected to the station directly or by an underground passage: Global Business Hub Tokyo, Tekko Executive Lounge & Conference Rooms, Four Seasons Hotel Tokyo at Otemachi, Nikkei Hall, Otemachi Mitsui Hall, Otemachi Sankei Plaza and Palace Hotel Tokyo.
 

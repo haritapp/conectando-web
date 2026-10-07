@@ -13,7 +13,7 @@ heroCredit: "Photo by Nichika Sakurai on Unsplash"
 keywords: ["event venues Shinagawa", "event venues Takanawa", "event venues Tennozu", "Haneda Airport event venue"]
 ---
 
-This series compares event venues in Tokyo area by area. This article covers Shinagawa, Takanawa, Tamachi and Tennozu, including a venue at Haneda Airport. For step-by-step directions to each venue, see [the venue guides on BizinTokyo](#venue-guides) linked below.
+This series compares event venues in Tokyo area by area. This article covers Shinagawa, Takanawa, Tamachi and Tennozu, including a venue at Haneda Airport. For step-by-step directions to each venue, see [the venue guides on BizinTokyo](https://bizintokyo.com/en/) linked below.
 
 Of the 14 venues in this article, 2 are hotels and 7 are rental halls. The largest room is Konron at Grand Prince Shin Takanawa, with 2,880 people in theater style. TAKANAWA GATEWAY Convention Center also has a room for 1,924 people in theater style. On the Konan Exit side of Shinagawa Station are Shinagawa Intercity Hall, Shinagawa The Grand Hall, Shinagawa Season Terrace Conference and Tokyo Conference Center Shinagawa, all 2 to 6 minutes on foot from the station. The Prince Sakura Tower Tokyo and Grand Prince Shin Takanawa have direct buses from Narita Airport.
 

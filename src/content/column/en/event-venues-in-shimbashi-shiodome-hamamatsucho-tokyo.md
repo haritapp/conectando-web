@@ -13,7 +13,7 @@ heroCredit: "Photo by Maximilian Brand on Unsplash"
 keywords: ["event venues Shiodome", "event venues Hamamatsucho", "Shimbashi conference venue", "Tokyo event venue by area"]
 ---
 
-This series compares event venues in Tokyo area by area. This article covers Shimbashi, Shiodome, Hamamatsucho and Shibakoen. For step-by-step directions to each venue, see [the venue guides on BizinTokyo](#venue-guides) linked below.
+This series compares event venues in Tokyo area by area. This article covers Shimbashi, Shiodome, Hamamatsucho and Shibakoen. For step-by-step directions to each venue, see [the venue guides on BizinTokyo](https://bizintokyo.com/en/) linked below.
 
 This area has 11 venues: 5 hotels, 4 rental halls, 1 rental meeting room facility and 1 facility with exhibition halls. The largest room is the Ballroom at Prince Park Tower Tokyo, with 3,600 (theater, chairs only). Besides this hotel, Tokyo Prince Hotel and Bellesalle Shiodome also have rooms for more than 1,000 people. Four venues are about 1–4 min walk from Shiodome Station. Direct limousine buses from Narita Airport serve Conrad Tokyo, Tokyo Prince Hotel, Prince Park Tower Tokyo, Hotel InterContinental Tokyo Bay and Royal Park Hotel Iconic Shiodome.
 

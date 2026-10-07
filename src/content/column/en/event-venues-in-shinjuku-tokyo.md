@@ -13,7 +13,7 @@ heroCredit: "Photo by Jezael Melgoza on Unsplash"
 keywords: ["event venues Shinjuku", "event venues Nishi-Shinjuku", "Shinjuku conference venue", "Tokyo event venue by area"]
 ---
 
-This series compares event venues in Tokyo area by area. This article covers Shinjuku. For step-by-step directions to each venue, see [the venue guides on BizinTokyo](#venue-guides) linked below.
+This series compares event venues in Tokyo area by area. This article covers Shinjuku. For step-by-step directions to each venue, see [the venue guides on BizinTokyo](https://bizintokyo.com/en/) linked below.
 
 Of the 14 venues in this article, 9 are rental halls, 3 are hotels, 1 is a unique venue (Shinjuku Sumitomo Building Sankaku Hiroba) and 1 is a small to mid-size space. Nine venues have a largest room for 1,000 people or more. In Nishi-Shinjuku, five venues are within 4 minutes on foot of Tochomae Station: Bellesalle Nishi-Shinjuku, Keio Plaza Hotel Tokyo, Hilton Tokyo, Shinjuku Sumitomo Hall and Shinjuku Sumitomo Building Sankaku Hiroba. Airport limousine buses from both Narita and Haneda stop at Keio Plaza Hotel Tokyo, Hilton Tokyo and Hotel Sunroute Plaza Shinjuku.
 
