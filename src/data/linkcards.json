@@ -1343,5 +1343,805 @@
     "title": "First-Time Visitor’s Guide to Tokyo Midtown Hibiya Hall (formerly BASE Q) | BizinTokyo",
     "description": "Tokyo Midtown Hibiya Hall (formerly BASE Q) is directly connected to Hibiya Station (Tokyo Metro Hibiya Line, Chiyoda Line, Toei Mita Line), and about a 4-minute walk from Yurakucho Station (Yurakucho Line) via Exit A11. This access guide also covers nearby hotels, restaurants, and visitor tips.",
     "image": "https://bizintokyo.com/images/heroes/midtown_hibiya_en.png"
+  },
+  "https://bizintokyo.com/en/venues/takanawagateway/": {
+    "title": "First-Time Visitor's Guide to TAKANAWA GATEWAY Convention Center | BizinTokyo",
+    "description": "TAKANAWA GATEWAY Convention Center is a MICE venue in TAKANAWA GATEWAY CITY, Minato-ku, directly connected to JR Takanawa Gateway Station, with halls and meeting rooms.",
+    "image": "https://bizintokyo.com/images/heroes/takanawagateway_en.png"
+  },
+  "https://bizintokyo.com/en/hotels/brillia-hall-ikebukuro/": {
+    "title": "10 Recommended Hotels near Tokyo Tatemono Brillia HALL | BizinTokyo",
+    "description": "Heading to an event at Tokyo Tatemono Brillia HALL? Here are 10 nearby hotels with access info, price tiers, and Expedia booking links.",
+    "image": "https://bizintokyo.com/images/heroes/brillia-hall-ikebukuro_hotels_en.png"
+  },
+  "https://bizintokyo.com/en/venues/royal-park-hotel-nihombashi/": {
+    "title": "Attending an Event at Royal Park Hotel | Access & Stay Guide | BizinTokyo",
+    "description": "Royal Park Hotel, Nihonbashi — indoor link to Suitengumae Station Exit 4 and T-CAT limousine bus terminal. The Royal Hall seats 1,200 in theater style.",
+    "image": "https://bizintokyo.com/images/heroes/royal-park-hotel-nihombashi_en.png"
+  },
+  "https://bizintokyo.com/en/hotels/okura-tokyo/": {
+    "title": "10 Best Hotels near The Okura Tokyo | BizinTokyo",
+    "description": "Attending an event at The Okura Tokyo? Compare 10 hotels near the venue — including the venue hotel itself — by distance and book directly on Expedia.",
+    "image": "https://bizintokyo.com/images/heroes/okura-tokyo_hotels_en.png"
+  },
+  "https://bizintokyo.com/en/venues/tokyo_dome_city/": {
+    "title": "Tokyo Dome City Access & Visitor Guide | BizinTokyo",
+    "description": "Complete guide to Tokyo Dome City — access from Narita & Haneda airports, nearby hotels, restaurants, and essential tips for international event visitors.",
+    "image": "https://bizintokyo.com/images/heroes/tokyo_dome_city_en.png"
+  },
+  "https://bizintokyo.com/en/venues/ariake_arena/": {
+    "title": "First-Time Visitor’s Guide to TOKYO ARIAKE ARENA | BizinTokyo",
+    "description": "TOKYO ARIAKE ARENA is an 8-min walk from Ariake-tennis-no-mori Station (Yurikamome), with the Kokusai-tenjijo Station route, hotels, and dining nearby.",
+    "image": "https://bizintokyo.com/images/heroes/ariake_arena_en.png"
+  },
+  "https://bizintokyo.com/en/venues/shinjuku-bunka-center/": {
+    "title": "Shinjuku Bunka Center Access & Visitor Guide | BizinTokyo",
+    "description": "Visitor guide to Shinjuku Bunka Center (Grand Hall) — transit from Narita and Haneda, nearby hotels, dining, and tips for event attendees in Higashi-Shinjuku.",
+    "image": "https://bizintokyo.com/images/heroes/shinjuku-bunka-center_en.png"
+  },
+  "https://bizintokyo.com/en/venues/grand-nikko-tokyo-bay-maihama/": {
+    "title": "Attending an Event at Grand Nikko Tokyo Bay Maihama | Access & Stay Guide | BizinTokyo",
+    "description": "Grand Nikko Tokyo Bay Maihama: a luxury MICE hotel near Tokyo Disney with a Grand Ballroom for up to 2,500 and direct airport buses from Narita and Haneda.",
+    "image": "https://bizintokyo.com/images/heroes/grand-nikko-tokyo-bay-maihama_en.png"
+  },
+  "https://bizintokyo.com/en/venues/asakusa-view-hotel/": {
+    "title": "Event at Asakusa View Hotel | Access & Stay Guide | BizinTokyo",
+    "description": "Asakusa View Hotel links directly to TX Asakusa Station. Nine banquet halls including Hisho (600 seats). About 55 min from both airports. Access & stay guide.",
+    "image": "https://bizintokyo.com/images/heroes/asakusa-view-hotel_en.png"
+  },
+  "https://bizintokyo.com/en/hotels/palace_hotel_tokyo/": {
+    "title": "10 Best Hotels near Palace Hotel Tokyo | BizinTokyo",
+    "description": "Attending an event at Palace Hotel Tokyo? Compare 10 hotels near the venue by distance, price tier, and book directly on Expedia.",
+    "image": "https://bizintokyo.com/images/heroes/palace_hotel_tokyo_hotels_en.png"
+  },
+  "https://bizintokyo.com/en/hotels/tokyo_dome_city/": {
+    "title": "10 Best Hotels near Tokyo Dome City | BizinTokyo",
+    "description": "Attending an event at Tokyo Dome City? Compare 10 hotels near the venue by distance, price tier, and book directly on Expedia.",
+    "image": "https://bizintokyo.com/images/heroes/tokyo_dome_city_hotels_en.png"
+  },
+  "https://bizintokyo.com/en/venues/grand-nikko-tokyo-daiba/": {
+    "title": "Grand Nikko Tokyo Daiba | Event Access & Stay Guide | BizinTokyo",
+    "description": "Grand Nikko Tokyo Daiba links directly to Daiba Station on the Yurikamome line, with the Palace Royale for 3,300 guests and high-floor bay-view halls in Odaiba.",
+    "image": "https://bizintokyo.com/images/heroes/grand-nikko-tokyo-daiba_en.png"
+  },
+  "https://bizintokyo.com/en/hotels/bellesalle-takadanobaba/": {
+    "title": "10 Best Hotels near Bellesalle Takadanobaba | BizinTokyo",
+    "description": "Attending an event at Bellesalle Takadanobaba? Compare 10 hotels near the venue by distance, price tier, and book directly on Expedia.",
+    "image": "https://bizintokyo.com/images/heroes/bellesalle-takadanobaba_hotels_en.png"
+  },
+  "https://bizintokyo.com/en/hotels/makuhari/": {
+    "title": "10 Best Hotels near Makuhari Messe | BizinTokyo",
+    "description": "Attending a trade show at Makuhari Messe? Compare 10 hotels near the venue by distance, price tier, and book directly on Expedia.",
+    "image": "https://bizintokyo.com/images/heroes/makuhari_hotels_en.png"
+  },
+  "https://bizintokyo.com/en/hotels/gakushuin-centennial-hall/": {
+    "title": "10 Recommended Hotels near Gakushuin Centennial Memorial Hall | BizinTokyo",
+    "description": "Heading to an event at Gakushuin Centennial Memorial Hall? Here are 10 nearby hotels with access info, price tiers, and Expedia booking links.",
+    "image": "https://bizintokyo.com/images/heroes/gakushuin-centennial-hall_hotels_en.png"
+  },
+  "https://bizintokyo.com/en/hotels/grand-nikko-tokyo-bay-maihama/": {
+    "title": "10 Best Hotels near Grand Nikko Tokyo Bay Maihama | BizinTokyo",
+    "description": "Attending an event at Grand Nikko Tokyo Bay Maihama? Compare 10 hotels near the venue — including the venue hotel itself — by distance and book directly on Expedia.",
+    "image": "https://bizintokyo.com/images/heroes/grand-nikko-tokyo-bay-maihama_hotels_en.png"
+  },
+  "https://bizintokyo.com/en/venues/bellesalle-ariake-conference/": {
+    "title": "Bellesalle Ariake Conference Center Access & Visitor Guide | BizinTokyo",
+    "description": "Complete visitor and access guide for Bellesalle Ariake Conference Center (Ariake Garden 4F/5F). Transport from Narita/Haneda, hotels, dining, and area tips.",
+    "image": "https://bizintokyo.com/images/heroes/bellesalle-ariake-conference_en.png"
+  },
+  "https://bizintokyo.com/en/hotels/bellesalle-tokyo-nihonbashi/": {
+    "title": "10 Best Hotels near Bellesalle Tokyo Nihonbashi | BizinTokyo",
+    "description": "Attending an event at Bellesalle Tokyo Nihonbashi? Compare 10 hotels near the venue by distance, price tier, and book directly on Expedia.",
+    "image": "https://bizintokyo.com/images/heroes/bellesalle-tokyo-nihonbashi_hotels_en.png"
+  },
+  "https://bizintokyo.com/en/hotels/hotel-metropolitan-ikebukuro/": {
+    "title": "10 Best Hotels near Hotel Metropolitan Tokyo Ikebukuro | BizinTokyo",
+    "description": "Attending an event at Hotel Metropolitan Tokyo Ikebukuro? Compare 10 hotels near the venue — including the venue hotel itself — by distance and book directly on Expedia.",
+    "image": "https://bizintokyo.com/images/heroes/hotel-metropolitan-ikebukuro_hotels_en.png"
+  },
+  "https://bizintokyo.com/en/hotels/ariake_arena/": {
+    "title": "10 Best Hotels near Ariake Arena | BizinTokyo",
+    "description": "Attending an event at Ariake Arena? Compare 10 hotels near the venue by distance, price tier, and book directly on Expedia.",
+    "image": "https://bizintokyo.com/images/heroes/ariake_arena_hotels_en.png"
+  },
+  "https://bizintokyo.com/en/hotels/shinjuku-sumitomo-sankaku-hiroba/": {
+    "title": "10 Recommended Hotels near Shinjuku Sumitomo Bldg. Sankaku Hiroba | BizinTokyo",
+    "description": "Heading to an event at Shinjuku Sumitomo Bldg. Sankaku Hiroba? Here are 10 nearby hotels with access info, price tiers, and Expedia booking links.",
+    "image": "https://bizintokyo.com/images/heroes/shinjuku-sumitomo-sankaku-hiroba_hotels_en.png"
+  },
+  "https://bizintokyo.com/en/hotels/sunshine-city/": {
+    "title": "10 Best Hotels near Sunshine City | BizinTokyo",
+    "description": "Attending a trade show or event at Sunshine City? Compare 10 hotels near the venue by distance, price tier, and book directly on Expedia.",
+    "image": "https://bizintokyo.com/images/heroes/sunshine_city_hotels_en.png"
+  },
+  "https://bizintokyo.com/en/venues/warehouse-terrada-tennoz/": {
+    "title": "Warehouse TERRADA Tennoz Access & Visitor Guide | BizinTokyo",
+    "description": "Warehouse TERRADA Tennoz in Tennozu Isle offers seven converted warehouse spaces for events, 18 min from Haneda by monorail. Hotels and dining guide included.",
+    "image": "https://bizintokyo.com/images/heroes/warehouse-terrada-tennoz_en.png"
+  },
+  "https://bizintokyo.com/en/hotels/toshima-civic-center/": {
+    "title": "10 Recommended Hotels near Toshima Civic Center | BizinTokyo",
+    "description": "Heading to an event at Toshima Civic Center? Here are 10 nearby hotels with access info, price tiers, and Expedia booking links.",
+    "image": "https://bizintokyo.com/images/heroes/toshima-civic-center_hotels_en.png"
+  },
+  "https://bizintokyo.com/en/hotels/keio_plaza/": {
+    "title": "10 Best Hotels near Keio Plaza Hotel Tokyo | BizinTokyo",
+    "description": "Attending an event at Keio Plaza Hotel Tokyo? Compare 10 hotels near the venue by distance, price tier, and book directly on Expedia.",
+    "image": "https://bizintokyo.com/images/heroes/keio_plaza_hotels_en.png"
+  },
+  "https://bizintokyo.com/en/hotels/sheraton-grande-tokyo-bay/": {
+    "title": "10 Best Hotels near Sheraton Grande Tokyo Bay Hotel | BizinTokyo",
+    "description": "Attending an event at Sheraton Grande Tokyo Bay Hotel? Compare 10 hotels near the venue — including the venue hotel itself — by distance and book directly on Expedia.",
+    "image": "https://bizintokyo.com/images/heroes/sheraton-grande-tokyo-bay_hotels_en.png"
+  },
+  "https://bizintokyo.com/en/hotels/hotel_newotani/": {
+    "title": "10 Best Hotels near Hotel New Otani Tokyo | BizinTokyo",
+    "description": "Attending an event at Hotel New Otani Tokyo? Compare 10 hotels near the venue by distance, price tier, and book directly on Expedia.",
+    "image": "https://bizintokyo.com/images/heroes/hotel_newotani_hotels_en.png"
+  },
+  "https://bizintokyo.com/en/hotels/grand_prince_takanawa/": {
+    "title": "10 Best Hotels near Grand Prince Hotel New Takanawa | BizinTokyo",
+    "description": "Attending an event at Grand Prince Hotel New Takanawa? Compare 10 hotels near the venue by distance, price tier, and book directly on Expedia.",
+    "image": "https://bizintokyo.com/images/heroes/grand_prince_takanawa_hotels_en.png"
+  },
+  "https://bizintokyo.com/en/hotels/owlspot/": {
+    "title": "10 Recommended Hotels near Owlspot Theatre | BizinTokyo",
+    "description": "Heading to an event at Owlspot Theatre? Here are 10 nearby hotels with access info, price tiers, and Expedia booking links.",
+    "image": "https://bizintokyo.com/images/heroes/owlspot_hotels_en.png"
+  },
+  "https://bizintokyo.com/en/hotels/ana_intercontinental/": {
+    "title": "10 Best Hotels near ANA InterContinental Tokyo | BizinTokyo",
+    "description": "Attending an event at ANA InterContinental Tokyo? Compare 10 hotels near the venue by distance, price tier, and book directly on Expedia.",
+    "image": "https://bizintokyo.com/images/heroes/ana_intercontinental_hotels_en.png"
+  },
+  "https://bizintokyo.com/en/hotels/hilton-tokyo-bay/": {
+    "title": "10 Best Hotels near Hilton Tokyo Bay | BizinTokyo",
+    "description": "Attending an event at Hilton Tokyo Bay? Compare 10 hotels near the venue — including the venue hotel itself — by distance and book directly on Expedia.",
+    "image": "https://bizintokyo.com/images/heroes/hilton-tokyo-bay_hotels_en.png"
+  },
+  "https://bizintokyo.com/en/hotels/grand_hyatt_tokyo/": {
+    "title": "10 Best Hotels near Grand Hyatt Tokyo | BizinTokyo",
+    "description": "Attending an event at Grand Hyatt Tokyo? Compare 10 hotels near the venue by distance, price tier, and book directly on Expedia.",
+    "image": "https://bizintokyo.com/images/heroes/grand_hyatt_tokyo_hotels_en.png"
+  },
+  "https://bizintokyo.com/en/hotels/grand-nikko-tokyo-daiba/": {
+    "title": "10 Best Hotels near Grand Nikko Tokyo Daiba | BizinTokyo",
+    "description": "Attending an event at Grand Nikko Tokyo Daiba? Compare 10 hotels near the venue — including the venue hotel itself — by distance and book directly on Expedia.",
+    "image": "https://bizintokyo.com/images/heroes/grand-nikko-tokyo-daiba_hotels_en.png"
+  },
+  "https://bizintokyo.com/en/venues/ueno-seiyoken/": {
+    "title": "Ueno Seiyoken Access & Visitor Guide | BizinTokyo",
+    "description": "Historic Western restaurant in Ueno Park with 12 event halls. 5-min walk from Ueno Station, 55 min from Narita, 45 min from Haneda. Access and visitor guide.",
+    "image": "https://bizintokyo.com/images/heroes/ueno-seiyoken_en.png"
+  },
+  "https://bizintokyo.com/en/hotels/royal-park-hotel-nihombashi/": {
+    "title": "10 Best Hotels near Royal Park Hotel | BizinTokyo",
+    "description": "Attending an event at Royal Park Hotel? Compare 10 hotels near the venue — including the venue hotel itself — by distance and book directly on Expedia.",
+    "image": "https://bizintokyo.com/images/heroes/royal-park-hotel-nihombashi_hotels_en.png"
+  },
+  "https://bizintokyo.com/en/hotels/takanawagateway/": {
+    "title": "10 Best Hotels near Takanawa Gateway | BizinTokyo",
+    "description": "Attending an event at Takanawa Gateway? Compare 10 hotels near the venue by distance, price tier, and book directly on Expedia.",
+    "image": "https://bizintokyo.com/images/heroes/takanawagateway_hotels_en.png"
+  },
+  "https://bizintokyo.com/en/venues/yomiuri-hall/": {
+    "title": "Yomiuri Hall Access & Visitor Guide | BizinTokyo",
+    "description": "Practical guide to Yomiuri Hall in Yurakucho, Tokyo: access from Narita and Haneda airports, nearby hotels, restaurants, and area tips for business travelers.",
+    "image": "https://bizintokyo.com/images/heroes/yomiuri-hall_en.png"
+  },
+  "https://bizintokyo.com/en/venues/yokohama-bay-hotel-tokyu/": {
+    "title": "Yokohama Bay Hotel Tokyu | Access & Stay Guide | BizinTokyo",
+    "description": "Luxury hotel directly connected to Minatomirai Station, with ballrooms for up to 1,200 guests standing. About 35 min from Haneda and 95 min from Narita by train.",
+    "image": "https://bizintokyo.com/images/heroes/yokohama-bay-hotel-tokyu_en.png"
+  },
+  "https://bizintokyo.com/en/hotels/prince-park-tower-tokyo/": {
+    "title": "10 Best Hotels near The Prince Park Tower Tokyo | BizinTokyo",
+    "description": "Attending an event at The Prince Park Tower Tokyo? Compare 10 hotels near the venue — including the venue hotel itself — by distance and book directly on Expedia.",
+    "image": "https://bizintokyo.com/images/heroes/prince-park-tower-tokyo_hotels_en.png"
+  },
+  "https://bizintokyo.com/en/hotels/nissho-hall/": {
+    "title": "10 Recommended Hotels near Nissho Hall | BizinTokyo",
+    "description": "Heading to an event at Nissho Hall? Here are 10 nearby hotels with access info, price tiers, and Expedia booking links.",
+    "image": "https://bizintokyo.com/images/heroes/nissho-hall_hotels_en.png"
+  },
+  "https://bizintokyo.com/en/hotels/asakusa-public-hall/": {
+    "title": "10 Recommended Hotels near Asakusa Public Hall | BizinTokyo",
+    "description": "Heading to an event at Asakusa Public Hall? Here are 10 nearby hotels with access info, price tiers, and Expedia booking links.",
+    "image": "https://bizintokyo.com/images/heroes/asakusa-public-hall_hotels_en.png"
+  },
+  "https://bizintokyo.com/en/hotels/hilton-tokyo-odaiba/": {
+    "title": "10 Best Hotels near Hilton Tokyo Odaiba | BizinTokyo",
+    "description": "Attending an event at Hilton Tokyo Odaiba? Compare 10 hotels near the venue — including the venue hotel itself — by distance and book directly on Expedia.",
+    "image": "https://bizintokyo.com/images/heroes/hilton-tokyo-odaiba_hotels_en.png"
+  },
+  "https://bizintokyo.com/en/hotels/otemachi_place/": {
+    "title": "10 Best Hotels near Otemachi Place | BizinTokyo",
+    "description": "Attending an event at Otemachi Place? Compare 10 hotels near the venue by distance, price tier, and book directly on Expedia.",
+    "image": "https://bizintokyo.com/images/heroes/otemachi_place_hotels_en.png"
+  },
+  "https://bizintokyo.com/en/hotels/bellesalle_haneda/": {
+    "title": "10 Best Hotels near Bellesalle Haneda Airport | BizinTokyo",
+    "description": "Attending an event at Bellesalle Haneda Airport? Compare 10 hotels near the venue by distance, price tier, and book directly on Expedia.",
+    "image": "https://bizintokyo.com/images/heroes/bellesalle_haneda_hotels_en.png"
+  },
+  "https://bizintokyo.com/en/hotels/pacifico-yokohama-north/": {
+    "title": "10 Best Hotels near Pacifico Yokohama North | BizinTokyo",
+    "description": "Attending a conference or exhibition at Pacifico Yokohama North? Compare 10 hotels near the venue by distance, price tier, and book directly on Expedia.",
+    "image": "https://bizintokyo.com/images/heroes/pacifico-yokohama-north_hotels_en.png"
+  },
+  "https://bizintokyo.com/en/hotels/midtown/": {
+    "title": "10 Best Hotels near Tokyo Midtown | BizinTokyo",
+    "description": "Attending an event at Tokyo Midtown? Compare 10 hotels near the venue by distance, price tier, and book directly on Expedia.",
+    "image": "https://bizintokyo.com/images/heroes/midtown_hotels_en.png"
+  },
+  "https://bizintokyo.com/en/hotels/asakusa-view-hotel/": {
+    "title": "10 Recommended Hotels near Asakusa View Hotel | BizinTokyo",
+    "description": "Heading to an event at Asakusa View Hotel? Here are 10 nearby hotels with access info, price tiers, and Expedia booking links.",
+    "image": "https://bizintokyo.com/images/heroes/asakusa-view-hotel_hotels_en.png"
+  },
+  "https://bizintokyo.com/en/hotels/tft-hall/": {
+    "title": "10 Best Hotels near TFT Hall | BizinTokyo",
+    "description": "Attending a trade show or event at Tokyo Fashion Town (TFT) Hall? Compare 10 hotels near the venue by distance, price tier, and book directly on Expedia.",
+    "image": "https://bizintokyo.com/images/heroes/tft-hall_hotels_en.png"
+  },
+  "https://bizintokyo.com/en/hotels/jp_tower/": {
+    "title": "10 Best Hotels near JP Tower | BizinTokyo",
+    "description": "Attending an event at JP Tower? Compare 10 hotels near the venue by distance, price tier, and book directly on Expedia.",
+    "image": "https://bizintokyo.com/images/heroes/jp_tower_hotels_en.png"
+  },
+  "https://bizintokyo.com/en/hotels/tokyo_prince_hotel/": {
+    "title": "10 Best Hotels near Tokyo Prince Hotel | BizinTokyo",
+    "description": "Attending an event at Tokyo Prince Hotel? Compare 10 hotels near the venue — including the venue hotel itself — by distance and book directly on Expedia.",
+    "image": "https://bizintokyo.com/images/heroes/tokyo_prince_hotel_hotels_en.png"
+  },
+  "https://bizintokyo.com/en/hotels/yokohama-bay-hotel-tokyu/": {
+    "title": "10 Best Hotels near The Yokohama Bay Hotel Tokyu | BizinTokyo",
+    "description": "Attending an event at The Yokohama Bay Hotel Tokyu? Compare 10 hotels near the venue — including the venue hotel itself by distance and book directly on Expedia.",
+    "image": "https://bizintokyo.com/images/heroes/yokohama-bay-hotel-tokyu_hotels_en.png"
+  },
+  "https://bizintokyo.com/en/hotels/hotel-chinzanso-tokyo/": {
+    "title": "10 Best Hotels near Hotel Chinzanso Tokyo | BizinTokyo",
+    "description": "Attending an event at Hotel Chinzanso Tokyo? Compare 10 hotels near the venue — including the venue hotel itself — by distance and book directly on Expedia.",
+    "image": "https://bizintokyo.com/images/heroes/hotel-chinzanso-tokyo_hotels_en.png"
+  },
+  "https://bizintokyo.com/en/hotels/sanbo-taito/": {
+    "title": "10 Recommended Hotels near Tokyo Metropolitan Industrial Trade Center (Taito) | BizinTokyo",
+    "description": "Heading to an event at Tokyo Metropolitan Industrial Trade Center (Taito)? Here are 10 nearby hotels with access info, price tiers, and Expedia booking links.",
+    "image": "https://bizintokyo.com/images/heroes/sanbo-taito_hotels_en.png"
+  },
+  "https://bizintokyo.com/venues/grand-nikko-tokyo-bay-maihama/": {
+    "title": "グランドニッコー東京ベイ 舞浜 アクセス｜最寄り駅・出口からの行き方と周辺ホテル | BizinTokyo",
+    "description": "グランドニッコー東京ベイ 舞浜は舞浜エリア最大の宴会場（立食最大2,500名）を持つラグジュアリーホテル。成田・羽田から直行リムジンバスでアクセス可能なMICE向け施設です。",
+    "image": "https://bizintokyo.com/images/heroes/grand-nikko-tokyo-bay-maihama_ja.png"
+  },
+  "https://bizintokyo.com/en/hotels/nihonbashi-hall/": {
+    "title": "10 Best Hotels near Nihonbashi Hall | BizinTokyo",
+    "description": "Attending an event at Nihonbashi Hall? Compare 10 hotels near the venue by distance, price tier, and book directly on Expedia.",
+    "image": "https://bizintokyo.com/images/heroes/nihonbashi-hall_hotels_en.png"
+  },
+  "https://bizintokyo.com/en/hotels/shin-yokohama-prince-hotel/": {
+    "title": "10 Best Hotels near Shin Yokohama Prince Hotel | BizinTokyo",
+    "description": "Attending an event at Shin Yokohama Prince Hotel? Compare 10 hotels near the venue — including the venue hotel itself — by distance and book directly on Expedia.",
+    "image": "https://bizintokyo.com/images/heroes/shin-yokohama-prince-hotel_hotels_en.png"
+  },
+  "https://bizintokyo.com/en/hotels/ueno-seiyoken/": {
+    "title": "10 Recommended Hotels near Ueno Seiyoken | BizinTokyo",
+    "description": "Heading to an event at Ueno Seiyoken? Here are 10 nearby hotels with access info, price tiers, and Expedia booking links.",
+    "image": "https://bizintokyo.com/images/heroes/ueno-seiyoken_hotels_en.png"
+  },
+  "https://bizintokyo.com/en/hotels/tokyo-dome-hotel/": {
+    "title": "10 Best Hotels near Tokyo Dome Hotel | BizinTokyo",
+    "description": "Attending an event at Tokyo Dome Hotel? Compare 10 hotels near the venue — including the venue hotel itself — by distance and book directly on Expedia.",
+    "image": "https://bizintokyo.com/images/heroes/tokyo-dome-hotel_hotels_en.png"
+  },
+  "https://bizintokyo.com/en/hotels/tennoz-galaxy-theatre/": {
+    "title": "10 Recommended Hotels near Tennoz Galaxy Theatre | BizinTokyo",
+    "description": "Heading to an event at Tennoz Galaxy Theatre? Here are 10 nearby hotels with access info, price tiers, and Expedia booking links.",
+    "image": "https://bizintokyo.com/images/heroes/tennoz-galaxy-theatre_hotels_en.png"
+  },
+  "https://bizintokyo.com/en/hotels/bellesalle_shiodome/": {
+    "title": "10 Best Hotels near Bellesalle Shiodome | BizinTokyo",
+    "description": "Attending an event at Bellesalle Shiodome? Compare 10 hotels near the venue by distance, price tier, and book directly on Expedia.",
+    "image": "https://bizintokyo.com/images/heroes/bellesalle_shiodome_hotels_en.png"
+  },
+  "https://bizintokyo.com/hotels/makuhari/": {
+    "title": "幕張メッセ周辺のおすすめホテル10選｜BizinTokyo",
+    "description": "幕張メッセでの展示会・イベントに行くなら、会場周辺のホテル10軒のアクセス・価格帯・Expedia予約リンクを写真付きで紹介します。",
+    "image": "https://bizintokyo.com/images/heroes/makuhari_hotels_ja.png"
+  },
+  "https://bizintokyo.com/hotels/brillia-hall-ikebukuro/": {
+    "title": "東京建物Brillia HALL池袋(豊島区立芸術文化劇場)周辺のおすすめホテル10選｜BizinTokyo",
+    "description": "東京建物Brillia HALL池袋(豊島区立芸術文化劇場)でのイベントに行くなら、会場周辺のホテル10軒のアクセス・価格帯・Expedia予約リンクを紹介します。",
+    "image": "https://bizintokyo.com/images/heroes/brillia-hall-ikebukuro_hotels_ja.png"
+  },
+  "https://bizintokyo.com/en/hotels/intercontinental-yokohama-grand/": {
+    "title": "10 Best Hotels near InterContinental Yokohama Grand | BizinTokyo",
+    "description": "Attending an event at InterContinental Yokohama Grand? Compare 10 hotels near the venue — including the venue hotel itself by distance and book directly on Expedia.",
+    "image": "https://bizintokyo.com/images/heroes/intercontinental-yokohama-grand_hotels_en.png"
+  },
+  "https://bizintokyo.com/venues/tokyo_dome_city/": {
+    "title": "東京ドームシティ アクセス｜最寄り駅・出口からの行き方と周辺ホテル | BizinTokyo",
+    "description": "東京ドームシティはJR水道橋駅西口から後楽園ブリッジ経由で徒歩約5分。東京メトロ後楽園駅・都営大江戸線春日駅からのルート、周辺ホテル・レストラン、来場時の注意点をまとめた行き方ガイド。",
+    "image": "https://bizintokyo.com/images/heroes/tokyo_dome_city_ja.png"
+  },
+  "https://bizintokyo.com/hotels/tokyo_dome_city/": {
+    "title": "東京ドームシティ周辺のおすすめホテル10選｜BizinTokyo",
+    "description": "東京ドームシティでのイベントに行くなら、会場周辺のホテル10軒のアクセス・価格帯・Expedia予約リンクを紹介します。",
+    "image": "https://bizintokyo.com/images/heroes/tokyo_dome_city_hotels_ja.png"
+  },
+  "https://bizintokyo.com/en/hotels/bellesalle-akihabara/": {
+    "title": "10 Best Hotels near Bellesalle Akihabara | BizinTokyo",
+    "description": "Attending an event at Bellesalle Akihabara? Compare 10 hotels near the venue by distance, price tier, and book directly on Expedia.",
+    "image": "https://bizintokyo.com/images/heroes/bellesalle-akihabara_hotels_en.png"
+  },
+  "https://bizintokyo.com/hotels/gakushuin-centennial-hall/": {
+    "title": "学習院創立百周年記念会館周辺のおすすめホテル10選｜BizinTokyo",
+    "description": "学習院創立百周年記念会館でのイベントに行くなら、会場周辺のホテル10軒のアクセス・価格帯・Expedia予約リンクを紹介します。",
+    "image": "https://bizintokyo.com/images/heroes/gakushuin-centennial-hall_hotels_ja.png"
+  },
+  "https://bizintokyo.com/hotels/hotel-chinzanso-tokyo/": {
+    "title": "ホテル椿山荘東京周辺のおすすめホテル10選｜BizinTokyo",
+    "description": "ホテル椿山荘東京での宴会・イベントに参加するなら、会場ホテル自身も含めて江戸川橋・文京区エリアのホテル10軒を会場からの距離順に紹介します。",
+    "image": "https://bizintokyo.com/images/heroes/hotel-chinzanso-tokyo_hotels_ja.png"
+  },
+  "https://bizintokyo.com/hotels/grand-nikko-tokyo-bay-maihama/": {
+    "title": "グランドニッコー東京ベイ 舞浜周辺のおすすめホテル10選｜BizinTokyo",
+    "description": "グランドニッコー東京ベイ 舞浜でのイベントに参加するなら、会場ホテル自身も含めて舞浜エリアのホテル10軒を会場からの距離順に紹介します。",
+    "image": "https://bizintokyo.com/images/heroes/grand-nikko-tokyo-bay-maihama_hotels_ja.png"
+  },
+  "https://bizintokyo.com/en/hotels/nihon-kyoiku-kaikan-hall/": {
+    "title": "10 Best Hotels near JEC Hitotsubashi Hall | BizinTokyo",
+    "description": "Attending an event at JEC Hitotsubashi Hall? Compare 10 hotels near the venue by distance, price tier, and book directly on Expedia.",
+    "image": "https://bizintokyo.com/images/heroes/nihon-kyoiku-kaikan-hall_hotels_en.png"
+  },
+  "https://bizintokyo.com/hotels/hotel-metropolitan-ikebukuro/": {
+    "title": "ホテルメトロポリタン池袋周辺のおすすめホテル10選｜BizinTokyo",
+    "description": "ホテルメトロポリタン池袋での宴会・イベントに参加するなら、会場ホテル自身も含めて池袋エリアのホテル10軒を会場からの距離順に紹介します。",
+    "image": "https://bizintokyo.com/images/heroes/hotel-metropolitan-ikebukuro_hotels_ja.png"
+  },
+  "https://bizintokyo.com/hotels/sheraton-grande-tokyo-bay/": {
+    "title": "シェラトン・グランデ・トーキョーベイ・ホテル周辺のおすすめホテル10選｜BizinTokyo",
+    "description": "シェラトン・グランデ・トーキョーベイ・ホテルでのイベントに参加するなら、会場ホテル自身も含めて舞浜エリアのホテル10軒を会場からの距離順に紹介します。",
+    "image": "https://bizintokyo.com/images/heroes/sheraton-grande-tokyo-bay_hotels_ja.png"
+  },
+  "https://bizintokyo.com/en/hotels/bellesalle-iidabashi-first/": {
+    "title": "10 Best Hotels near Bellesalle Iidabashi First | BizinTokyo",
+    "description": "Attending an event at Bellesalle Iidabashi First? Compare 10 hotels near the venue by distance, price tier, and book directly on Expedia.",
+    "image": "https://bizintokyo.com/images/heroes/bellesalle-iidabashi-first_hotels_en.png"
+  },
+  "https://bizintokyo.com/en/hotels/sanbo-hamamatsucho/": {
+    "title": "10 Recommended Hotels near Tokyo Metropolitan Industrial Trade Center (Hamamatsucho) | BizinTokyo",
+    "description": "Heading to an event at Tokyo Metropolitan Industrial Trade Center (Hamamatsucho)? Here are 10 nearby hotels with access info, price tiers, and Expedia booking links.",
+    "image": "https://bizintokyo.com/images/heroes/sanbo-hamamatsucho_hotels_en.png"
+  },
+  "https://bizintokyo.com/venues/royal-park-hotel-nihombashi/": {
+    "title": "ロイヤルパークホテル アクセス｜最寄り駅・出口からの行き方と周辺ホテル | BizinTokyo",
+    "description": "ロイヤルパークホテルは日本橋蛎殻町のT-CAT隣接ホテル。水天宮前駅4番出口から屋内直結でアクセスでき、成田・羽田両空港のリムジンバスも屋内移動のみで利用可能。最大1,200名収容のロイヤルホールを擁する。",
+    "image": "https://bizintokyo.com/images/heroes/royal-park-hotel-nihombashi_ja.png"
+  },
+  "https://bizintokyo.com/en/hotels/ariake-central-tower-hall-conference/": {
+    "title": "10 Recommended Hotels near Ariake Central Tower Hall & Conference | BizinTokyo",
+    "description": "Heading to an event at Ariake Central Tower Hall & Conference? Here are 10 nearby hotels with access info, price tiers, and Expedia booking links.",
+    "image": "https://bizintokyo.com/images/heroes/ariake-central-tower-hall-conference_hotels_en.png"
+  },
+  "https://bizintokyo.com/en/hotels/imperial-hotel-tokyo/": {
+    "title": "10 Best Hotels near Imperial Hotel Tokyo | BizinTokyo",
+    "description": "Attending an event at Imperial Hotel Tokyo? Compare 10 hotels near the venue — including the venue hotel itself — by distance and book directly on Expedia.",
+    "image": "https://bizintokyo.com/images/heroes/imperial-hotel-tokyo_hotels_en.png"
+  },
+  "https://bizintokyo.com/en/hotels/newpier-hall/": {
+    "title": "10 Recommended Hotels near New Pier Hall | BizinTokyo",
+    "description": "Heading to an event at New Pier Hall? Here are 10 nearby hotels with access info, price tiers, and Expedia booking links.",
+    "image": "https://bizintokyo.com/images/heroes/newpier-hall_hotels_en.png"
+  },
+  "https://bizintokyo.com/hotels/palace_hotel_tokyo/": {
+    "title": "パレスホテル東京周辺のおすすめホテル10選｜BizinTokyo",
+    "description": "パレスホテル東京でのイベントに行くなら、会場周辺のホテル10軒のアクセス・価格帯・Expedia予約リンクを紹介します。",
+    "image": "https://bizintokyo.com/images/heroes/palace_hotel_tokyo_hotels_ja.png"
+  },
+  "https://bizintokyo.com/en/hotels/yomiuri-hall/": {
+    "title": "10 Best Hotels near Yomiuri Hall | BizinTokyo",
+    "description": "Attending an event at Yomiuri Hall? Compare 10 hotels near the venue by distance, price tier, and book directly on Expedia.",
+    "image": "https://bizintokyo.com/images/heroes/yomiuri-hall_hotels_en.png"
+  },
+  "https://bizintokyo.com/en/hotels/taito-millennium-hall/": {
+    "title": "10 Recommended Hotels near Taito Millennium Hall | BizinTokyo",
+    "description": "Heading to an event at Taito Millennium Hall? Here are 10 nearby hotels with access info, price tiers, and Expedia booking links.",
+    "image": "https://bizintokyo.com/images/heroes/taito-millennium-hall_hotels_en.png"
+  },
+  "https://bizintokyo.com/en/hotels/bellesalle-onarimon-tower/": {
+    "title": "10 Recommended Hotels near Bellesalle Onarimon Tower | BizinTokyo",
+    "description": "Heading to an event at Bellesalle Onarimon Tower? Here are 10 nearby hotels with access info, price tiers, and Expedia booking links.",
+    "image": "https://bizintokyo.com/images/heroes/bellesalle-onarimon-tower_hotels_en.png"
+  },
+  "https://bizintokyo.com/hotels/bellesalle-tokyo-nihonbashi/": {
+    "title": "ベルサール東京日本橋周辺のおすすめホテル10選｜BizinTokyo",
+    "description": "ベルサール東京日本橋でのイベントに行くなら、会場周辺のホテル10軒のアクセス・価格帯・Expedia予約リンクを紹介します。",
+    "image": "https://bizintokyo.com/images/heroes/bellesalle-tokyo-nihonbashi_hotels_ja.png"
+  },
+  "https://bizintokyo.com/en/hotels/ginza-blossom/": {
+    "title": "10 Best Hotels near Ginza Blossom Central Hall | BizinTokyo",
+    "description": "Attending an event at Ginza Blossom Central Hall? Compare 10 hotels near the venue by distance, price tier, and book directly on Expedia.",
+    "image": "https://bizintokyo.com/images/heroes/ginza-blossom_hotels_en.png"
+  },
+  "https://bizintokyo.com/venues/ariake_arena/": {
+    "title": "有明アリーナ アクセス｜最寄り駅・出口からの行き方と周辺ホテル | BizinTokyo",
+    "description": "有明アリーナはゆりかもめ有明テニスの森駅から徒歩8分。りんかい線国際展示場駅からのルート、周辺ホテル・ランチ、来場時の注意点をまとめた行き方ガイド。",
+    "image": "https://bizintokyo.com/images/heroes/ariake_arena_ja.png"
+  },
+  "https://bizintokyo.com/hotels/hilton-tokyo-bay/": {
+    "title": "ヒルトン東京ベイ周辺のおすすめホテル10選｜BizinTokyo",
+    "description": "ヒルトン東京ベイでのイベントに参加するなら、会場ホテル自身も含めて舞浜エリアのホテル10軒を会場からの距離順に紹介します。",
+    "image": "https://bizintokyo.com/images/heroes/hilton-tokyo-bay_hotels_ja.png"
+  },
+  "https://bizintokyo.com/hotels/prince-park-tower-tokyo/": {
+    "title": "ザ・プリンス パークタワー東京周辺のおすすめホテル10選｜BizinTokyo",
+    "description": "ザ・プリンス パークタワー東京での宴会・イベントに参加するなら、会場ホテル自身も含めて芝公園・赤羽橋エリアのホテル10軒を会場からの距離順に紹介します。",
+    "image": "https://bizintokyo.com/images/heroes/prince-park-tower-tokyo_hotels_ja.png"
+  },
+  "https://bizintokyo.com/hotels/tokyo-dome-hotel/": {
+    "title": "東京ドームホテル周辺のおすすめホテル10選｜BizinTokyo",
+    "description": "東京ドームホテルでの宴会・イベントに参加するなら、会場ホテル自身も含めて後楽園・水道橋エリアのホテル10軒を会場からの距離順に紹介します。",
+    "image": "https://bizintokyo.com/images/heroes/tokyo-dome-hotel_hotels_ja.png"
+  },
+  "https://bizintokyo.com/hotels/royal-park-hotel-nihombashi/": {
+    "title": "ロイヤルパークホテル周辺のおすすめホテル10選｜BizinTokyo",
+    "description": "ロイヤルパークホテルでの宴会・イベントに参加するなら、会場ホテル自身も含めて日本橋・京橋・東京駅エリアのホテル10軒を会場からの距離順に紹介します。",
+    "image": "https://bizintokyo.com/images/heroes/royal-park-hotel-nihombashi_hotels_ja.png"
+  },
+  "https://bizintokyo.com/venues/takanawagateway/": {
+    "title": "高輪ゲートウェイコンベンションセンター アクセス｜最寄り駅・出口からの行き方と周辺ホテル | BizinTokyo",
+    "description": "高輪ゲートウェイコンベンションセンターはJR高輪ゲートウェイ駅南改札から徒歩約1分。周辺ホテル・ランチ、来場時の注意点をまとめた行き方ガイド。",
+    "image": "https://bizintokyo.com/images/heroes/takanawagateway_ja.png"
+  },
+  "https://bizintokyo.com/venues/warehouse-terrada-tennoz/": {
+    "title": "寺田倉庫 天王洲 アクセス｜最寄り駅・出口からの行き方と周辺ホテル | BizinTokyo",
+    "description": "寺田倉庫 天王洲（B&C HALL）は東京モノレール天王洲アイル駅中央口から徒歩約6分、りんかい線B出口から徒歩約8分。羽田空港から直通約18分、周辺ホテル・レストラン、来場時の注意点をまとめた行き方ガイド。",
+    "image": "https://bizintokyo.com/images/heroes/warehouse-terrada-tennoz_ja.png"
+  },
+  "https://bizintokyo.com/hotels/sunshine-city/": {
+    "title": "サンシャインシティ周辺のおすすめホテル10選｜BizinTokyo",
+    "description": "サンシャインシティでの展示会・イベントに行くなら、会場周辺のホテル10軒のアクセス・価格帯・Expedia予約リンクを写真付きで紹介します。",
+    "image": "https://bizintokyo.com/images/heroes/sunshine_city_hotels_ja.png"
+  },
+  "https://bizintokyo.com/venues/grand-nikko-tokyo-daiba/": {
+    "title": "グランドニッコー東京 台場 アクセス｜最寄り駅・出口からの行き方と周辺ホテル | BizinTokyo",
+    "description": "グランドニッコー東京 台場は、ゆりかもめ台場駅直結の大型ラグジュアリーホテル。最大3,300名を収容するパレ・ロワイヤルをはじめ、東京湾を望む高層宴会場を擁するMICE対応ホテル。成田・羽田からのアクセスと周辺情報を網羅しました。",
+    "image": "https://bizintokyo.com/images/heroes/grand-nikko-tokyo-daiba_ja.png"
+  },
+  "https://bizintokyo.com/hotels/tokyo_prince_hotel/": {
+    "title": "東京プリンスホテル周辺のおすすめホテル10選｜BizinTokyo",
+    "description": "東京プリンスホテルでの宴会・イベントに参加するなら、会場ホテル自身も含めて芝公園エリアのホテル10軒を会場からの距離順に紹介します。",
+    "image": "https://bizintokyo.com/images/heroes/tokyo_prince_hotel_hotels_ja.png"
+  },
+  "https://bizintokyo.com/hotels/bellesalle-akihabara/": {
+    "title": "ベルサール秋葉原周辺のおすすめホテル10選｜BizinTokyo",
+    "description": "ベルサール秋葉原でのイベントに行くなら、会場周辺のホテル10軒のアクセス・価格帯・Expedia予約リンクを紹介します。",
+    "image": "https://bizintokyo.com/images/heroes/bellesalle-akihabara_hotels_ja.png"
+  },
+  "https://bizintokyo.com/hotels/toshima-civic-center/": {
+    "title": "としま区民センター周辺のおすすめホテル10選｜BizinTokyo",
+    "description": "としま区民センターでのイベントに行くなら、会場周辺のホテル10軒のアクセス・価格帯・Expedia予約リンクを紹介します。",
+    "image": "https://bizintokyo.com/images/heroes/toshima-civic-center_hotels_ja.png"
+  },
+  "https://bizintokyo.com/hotels/grand_prince_takanawa/": {
+    "title": "グランドプリンスホテル新高輪周辺のおすすめホテル10選｜BizinTokyo",
+    "description": "グランドプリンスホテル新高輪でのイベントに行くなら、会場周辺のホテル10軒のアクセス・価格帯・Expedia予約リンクを紹介します。",
+    "image": "https://bizintokyo.com/images/heroes/grand_prince_takanawa_hotels_ja.png"
+  },
+  "https://bizintokyo.com/venues/bellesalle-ariake-conference/": {
+    "title": "ベルサール有明コンファレンスセンター アクセス｜最寄り駅・出口からの行き方と周辺ホテル | BizinTokyo",
+    "description": "ベルサール有明コンファレンスセンターはゆりかもめ有明テニスの森駅から徒歩約4分。有明駅・国際展示場駅からのルート、周辺ホテル・レストラン、来場時の注意点をまとめた行き方ガイド。",
+    "image": "https://bizintokyo.com/images/heroes/bellesalle-ariake-conference_ja.png"
+  },
+  "https://bizintokyo.com/hotels/bellesalle_shiodome/": {
+    "title": "ベルサール汐留周辺のおすすめホテル10選｜BizinTokyo",
+    "description": "ベルサール汐留でのイベントに行くなら、会場周辺のホテル10軒のアクセス・価格帯・Expedia予約リンクを紹介します。",
+    "image": "https://bizintokyo.com/images/heroes/bellesalle_shiodome_hotels_ja.png"
+  },
+  "https://bizintokyo.com/en/hotels/tokyo-opera-city-concert-hall/": {
+    "title": "10 Recommended Hotels near Tokyo Opera City Concert Hall | BizinTokyo",
+    "description": "Heading to an event at Tokyo Opera City Concert Hall? Here are 10 nearby hotels with access info, price tiers, and Expedia booking links.",
+    "image": "https://bizintokyo.com/images/heroes/tokyo-opera-city-concert-hall_hotels_en.png"
+  },
+  "https://bizintokyo.com/hotels/owlspot/": {
+    "title": "あうるすぽっと(豊島区立舞台芸術交流センター)周辺のおすすめホテル10選｜BizinTokyo",
+    "description": "あうるすぽっと(豊島区立舞台芸術交流センター)でのイベントに行くなら、会場周辺のホテル10軒のアクセス・価格帯・Expedia予約リンクを紹介します。",
+    "image": "https://bizintokyo.com/images/heroes/owlspot_hotels_ja.png"
+  },
+  "https://bizintokyo.com/venues/shinjuku-bunka-center/": {
+    "title": "新宿文化センター アクセス｜最寄り駅・出口からの行き方と周辺ホテル | BizinTokyo",
+    "description": "新宿文化センターは都営大江戸線・東京メトロ副都心線 東新宿駅A3出口から徒歩5分。新宿三丁目駅・新宿駅からの行き方、周辺ホテル・レストラン、来場時の注意点をまとめた行き方ガイド。",
+    "image": "https://bizintokyo.com/images/heroes/shinjuku-bunka-center_ja.png"
+  },
+  "https://bizintokyo.com/hotels/bellesalle-takadanobaba/": {
+    "title": "ベルサール高田馬場周辺のおすすめホテル10選｜BizinTokyo",
+    "description": "ベルサール高田馬場でのイベントに行くなら、会場周辺のホテル10軒のアクセス・価格帯・Expedia予約リンクを紹介します。",
+    "image": "https://bizintokyo.com/images/heroes/bellesalle-takadanobaba_hotels_ja.png"
+  },
+  "https://bizintokyo.com/en/hotels/shinjuku-bunka-center/": {
+    "title": "10 Recommended Hotels near Shinjuku Culture Center | BizinTokyo",
+    "description": "Heading to an event at Shinjuku Culture Center? Here are 10 nearby hotels with access info, price tiers, and Expedia booking links.",
+    "image": "https://bizintokyo.com/images/heroes/shinjuku-bunka-center_hotels_en.png"
+  },
+  "https://bizintokyo.com/en/hotels/hulic-hall-tokyo/": {
+    "title": "10 Best Hotels near Hulic Hall Tokyo | BizinTokyo",
+    "description": "Attending an event at Hulic Hall Tokyo? Compare 10 hotels near the venue by distance, price tier, and book directly on Expedia.",
+    "image": "https://bizintokyo.com/images/heroes/hulic-hall-tokyo_hotels_en.png"
+  },
+  "https://bizintokyo.com/en/hotels/bellesalle-ariake-conference/": {
+    "title": "10 Recommended Hotels near Bellesalle Ariake Conference Center | BizinTokyo",
+    "description": "Heading to an event at Bellesalle Ariake Conference Center? Here are 10 nearby hotels with access info, price tiers, and Expedia booking links.",
+    "image": "https://bizintokyo.com/images/heroes/bellesalle-ariake-conference_hotels_en.png"
+  },
+  "https://bizintokyo.com/hotels/sanbo-hamamatsucho/": {
+    "title": "東京都立産業貿易センター 浜松町館周辺のおすすめホテル10選｜BizinTokyo",
+    "description": "東京都立産業貿易センター 浜松町館でのイベントに行くなら、会場周辺のホテル10軒のアクセス・価格帯・Expedia予約リンクを紹介します。",
+    "image": "https://bizintokyo.com/images/heroes/sanbo-hamamatsucho_hotels_ja.png"
+  },
+  "https://bizintokyo.com/en/hotels/bellesalle_shinjuku/": {
+    "title": "10 Best Hotels near Bellesalle Shinjuku Grand | BizinTokyo",
+    "description": "Attending an event at Bellesalle Shinjuku Grand? Compare 10 hotels near the venue by distance, price tier, and book directly on Expedia.",
+    "image": "https://bizintokyo.com/images/heroes/bellesalle_shinjuku_hotels_en.png"
+  },
+  "https://bizintokyo.com/hotels/takanawagateway/": {
+    "title": "高輪ゲートウェイ周辺のおすすめホテル10選｜BizinTokyo",
+    "description": "高輪ゲートウェイでのイベントに行くなら、会場周辺のホテル10軒のアクセス・価格帯・Expedia予約リンクを紹介します。",
+    "image": "https://bizintokyo.com/images/heroes/takanawagateway_hotels_ja.png"
+  },
+  "https://bizintokyo.com/en/hotels/midtown_hibiya/": {
+    "title": "10 Best Hotels near Tokyo Midtown Hibiya | BizinTokyo",
+    "description": "Attending an event at Tokyo Midtown Hibiya? Compare 10 hotels near the venue by distance, price tier, and book directly on Expedia.",
+    "image": "https://bizintokyo.com/images/heroes/midtown_hibiya_hotels_en.png"
+  },
+  "https://bizintokyo.com/hotels/okura-tokyo/": {
+    "title": "ザ・オークラ東京周辺のおすすめホテル10選｜BizinTokyo",
+    "description": "ザ・オークラ東京での宴会・イベントに参加するなら、会場ホテル自身も含めて虎ノ門・六本木エリアのホテル10軒を会場からの距離順に紹介します。",
+    "image": "https://bizintokyo.com/images/heroes/okura-tokyo_hotels_ja.png"
+  },
+  "https://bizintokyo.com/hotels/newpier-hall/": {
+    "title": "ニューピアホール周辺のおすすめホテル10選｜BizinTokyo",
+    "description": "ニューピアホールでのイベントに行くなら、会場周辺のホテル10軒のアクセス・価格帯・Expedia予約リンクを紹介します。",
+    "image": "https://bizintokyo.com/images/heroes/newpier-hall_hotels_ja.png"
+  },
+  "https://bizintokyo.com/hotels/shinjuku-sumitomo-sankaku-hiroba/": {
+    "title": "新宿住友ビル三角広場周辺のおすすめホテル10選｜BizinTokyo",
+    "description": "新宿住友ビル三角広場でのイベントに行くなら、会場周辺のホテル10軒のアクセス・価格帯・Expedia予約リンクを紹介します。",
+    "image": "https://bizintokyo.com/images/heroes/shinjuku-sumitomo-sankaku-hiroba_hotels_ja.png"
+  },
+  "https://bizintokyo.com/en/hotels/tokyo_convention_hall/": {
+    "title": "10 Best Hotels near Tokyo Convention Hall | BizinTokyo",
+    "description": "Attending an event at Tokyo Convention Hall? Compare 10 hotels near the venue by distance, price tier, and book directly on Expedia.",
+    "image": "https://bizintokyo.com/images/heroes/tokyo_convention_hall_hotels_en.png"
+  },
+  "https://bizintokyo.com/venues/asakusa-view-hotel/": {
+    "title": "浅草ビューホテル アクセス｜最寄り駅・出口からの行き方と周辺ホテル | BizinTokyo",
+    "description": "つくばエクスプレス浅草駅に直結。成田から最短約55分、羽田から最短約55分。9つのバンケットホールを持つ浅草の老舗ホテルへのアクセスと宿泊、周辺グルメを網羅したガイド。",
+    "image": "https://bizintokyo.com/images/heroes/asakusa-view-hotel_ja.png"
+  },
+  "https://bizintokyo.com/hotels/hotel_newotani/": {
+    "title": "ホテルニューオータニ東京周辺のおすすめホテル10選｜BizinTokyo",
+    "description": "ホテルニューオータニ東京でのイベントに行くなら、会場周辺のホテル10軒のアクセス・価格帯・Expedia予約リンクを紹介します。",
+    "image": "https://bizintokyo.com/images/heroes/hotel_newotani_hotels_ja.png"
+  },
+  "https://bizintokyo.com/hotels/keio_plaza/": {
+    "title": "京王プラザホテル周辺のおすすめホテル10選｜BizinTokyo",
+    "description": "京王プラザホテルでのイベントに行くなら、会場周辺のホテル10軒のアクセス・価格帯・Expedia予約リンクを紹介します。",
+    "image": "https://bizintokyo.com/images/heroes/keio_plaza_hotels_ja.png"
+  },
+  "https://bizintokyo.com/en/hotels/shinagawa_intercity/": {
+    "title": "10 Best Hotels near Shinagawa Intercity Hall | BizinTokyo",
+    "description": "Attending an event at Shinagawa Intercity Hall? Compare 10 hotels near the venue by distance, price tier, and book directly on Expedia.",
+    "image": "https://bizintokyo.com/images/heroes/shinagawa_intercity_hotels_en.png"
+  },
+  "https://bizintokyo.com/venues/ueno-seiyoken/": {
+    "title": "上野精養軒 アクセス｜最寄り駅・出口からの行き方と周辺ホテル | BizinTokyo",
+    "description": "上野精養軒はJR上野駅公園口・京成上野駅正面口・東京メトロ上野駅7番口からそれぞれ徒歩5分。成田・羽田空港からのルート、周辺ホテル・レストラン、来場時の注意点をまとめた行き方ガイド。",
+    "image": "https://bizintokyo.com/images/heroes/ueno-seiyoken_ja.png"
+  },
+  "https://bizintokyo.com/hotels/ana_intercontinental/": {
+    "title": "ANAインターコンチネンタルホテル東京周辺のおすすめホテル10選｜BizinTokyo",
+    "description": "ANAインターコンチネンタルホテル東京でのイベントに行くなら、会場周辺のホテル10軒のアクセス・価格帯・Expedia予約リンクを紹介します。",
+    "image": "https://bizintokyo.com/images/heroes/ana_intercontinental_hotels_ja.png"
+  },
+  "https://bizintokyo.com/hotels/tokyo-opera-city-concert-hall/": {
+    "title": "東京オペラシティ コンサートホール周辺のおすすめホテル10選｜BizinTokyo",
+    "description": "東京オペラシティ コンサートホールでのイベントに行くなら、会場周辺のホテル10軒のアクセス・価格帯・Expedia予約リンクを紹介します。",
+    "image": "https://bizintokyo.com/images/heroes/tokyo-opera-city-concert-hall_hotels_ja.png"
+  },
+  "https://bizintokyo.com/hotels/otemachi_place/": {
+    "title": "大手町プレイス周辺のおすすめホテル10選｜BizinTokyo",
+    "description": "大手町プレイスでのイベントに行くなら、会場周辺のホテル10軒のアクセス・価格帯・Expedia予約リンクを紹介します。",
+    "image": "https://bizintokyo.com/images/heroes/otemachi_place_hotels_ja.png"
+  },
+  "https://bizintokyo.com/hotels/asakusa-public-hall/": {
+    "title": "台東区立浅草公会堂周辺のおすすめホテル10選｜BizinTokyo",
+    "description": "台東区立浅草公会堂でのイベントに行くなら、会場周辺のホテル10軒のアクセス・価格帯・Expedia予約リンクを紹介します。",
+    "image": "https://bizintokyo.com/images/heroes/asakusa-public-hall_hotels_ja.png"
+  },
+  "https://bizintokyo.com/hotels/ariake_arena/": {
+    "title": "有明アリーナ周辺のおすすめホテル10選｜BizinTokyo",
+    "description": "有明アリーナでのイベントに行くなら、会場周辺のホテル10軒のアクセス・価格帯・Expedia予約リンクを写真付きで紹介します。",
+    "image": "https://bizintokyo.com/images/heroes/ariake_arena_hotels_ja.png"
+  },
+  "https://bizintokyo.com/hotels/shinjuku-bunka-center/": {
+    "title": "新宿文化センター(大ホール)周辺のおすすめホテル10選｜BizinTokyo",
+    "description": "新宿文化センター(大ホール)でのイベントに行くなら、会場周辺のホテル10軒のアクセス・価格帯・Expedia予約リンクを紹介します。",
+    "image": "https://bizintokyo.com/images/heroes/shinjuku-bunka-center_hotels_ja.png"
+  },
+  "https://bizintokyo.com/hotels/bellesalle_haneda/": {
+    "title": "ベルサール羽田空港周辺のおすすめホテル10選｜BizinTokyo",
+    "description": "ベルサール羽田空港でのイベントに行くなら、会場周辺のホテル10軒のアクセス・価格帯・Expedia予約リンクを紹介します。",
+    "image": "https://bizintokyo.com/images/heroes/bellesalle_haneda_hotels_ja.png"
+  },
+  "https://bizintokyo.com/hotels/bellesalle_shinjuku/": {
+    "title": "ベルサール新宿グランド周辺のおすすめホテル10選｜BizinTokyo",
+    "description": "ベルサール新宿グランドでのイベントに行くなら、会場周辺のホテル10軒のアクセス・価格帯・Expedia予約リンクを紹介します。",
+    "image": "https://bizintokyo.com/images/heroes/bellesalle_shinjuku_hotels_ja.png"
+  },
+  "https://bizintokyo.com/hotels/jp_tower/": {
+    "title": "JPタワー周辺のおすすめホテル10選｜BizinTokyo",
+    "description": "JPタワーでのイベントに行くなら、会場周辺のホテル10軒のアクセス・価格帯・Expedia予約リンクを紹介します。",
+    "image": "https://bizintokyo.com/images/heroes/jp_tower_hotels_ja.png"
+  },
+  "https://bizintokyo.com/hotels/asakusa-view-hotel/": {
+    "title": "浅草ビューホテル周辺のおすすめホテル10選｜BizinTokyo",
+    "description": "浅草ビューホテルでのイベントに行くなら、会場周辺のホテル10軒のアクセス・価格帯・Expedia予約リンクを紹介します。",
+    "image": "https://bizintokyo.com/images/heroes/asakusa-view-hotel_hotels_ja.png"
+  },
+  "https://bizintokyo.com/hotels/grand_hyatt_tokyo/": {
+    "title": "グランドハイアット東京周辺のおすすめホテル10選｜BizinTokyo",
+    "description": "グランドハイアット東京でのイベントに行くなら、会場周辺のホテル10軒のアクセス・価格帯・Expedia予約リンクを紹介します。",
+    "image": "https://bizintokyo.com/images/heroes/grand_hyatt_tokyo_hotels_ja.png"
+  },
+  "https://bizintokyo.com/hotels/bellesalle-onarimon-tower/": {
+    "title": "ベルサール御成門タワー周辺のおすすめホテル10選｜BizinTokyo",
+    "description": "ベルサール御成門タワーでのイベントに行くなら、会場周辺のホテル10軒のアクセス・価格帯・Expedia予約リンクを紹介します。",
+    "image": "https://bizintokyo.com/images/heroes/bellesalle-onarimon-tower_hotels_ja.png"
+  },
+  "https://bizintokyo.com/hotels/tennoz-galaxy-theatre/": {
+    "title": "天王洲 銀河劇場周辺のおすすめホテル10選｜BizinTokyo",
+    "description": "天王洲 銀河劇場でのイベントに行くなら、会場周辺のホテル10軒のアクセス・価格帯・Expedia予約リンクを紹介します。",
+    "image": "https://bizintokyo.com/images/heroes/tennoz-galaxy-theatre_hotels_ja.png"
+  },
+  "https://bizintokyo.com/en/hotels/warehouse-terrada-tennoz/": {
+    "title": "10 Recommended Hotels near Warehouse TERRADA Tennoz | BizinTokyo",
+    "description": "Heading to an event at Warehouse TERRADA Tennoz? Here are 10 nearby hotels with access info, price tiers, and Expedia booking links.",
+    "image": "https://bizintokyo.com/images/heroes/warehouse-terrada-tennoz_hotels_en.png"
+  },
+  "https://bizintokyo.com/hotels/sanbo-taito/": {
+    "title": "東京都立産業貿易センター 台東館周辺のおすすめホテル10選｜BizinTokyo",
+    "description": "東京都立産業貿易センター 台東館でのイベントに行くなら、会場周辺のホテル10軒のアクセス・価格帯・Expedia予約リンクを紹介します。",
+    "image": "https://bizintokyo.com/images/heroes/sanbo-taito_hotels_ja.png"
+  },
+  "https://bizintokyo.com/venues/yokohama-bay-hotel-tokyu/": {
+    "title": "横浜ベイホテル東急 アクセス｜最寄り駅・出口からの行き方と周辺ホテル | BizinTokyo",
+    "description": "横浜ベイホテル東急はみなとみらい駅直結の大型ラグジュアリーホテル。立食形式で最大1,200名収容のボールルームを擁し、羽田から約35分とアクセスも優秀。成田・羽田からのルートと周辺情報をまとめました。",
+    "image": "https://bizintokyo.com/images/heroes/yokohama-bay-hotel-tokyu_ja.png"
+  },
+  "https://bizintokyo.com/hotels/pacifico-yokohama-north/": {
+    "title": "パシフィコ横浜ノース周辺のおすすめホテル10選｜BizinTokyo",
+    "description": "パシフィコ横浜ノースでの国際会議・展示会に行くなら、会場周辺のホテル10軒のアクセス・価格帯・Expedia予約リンクを写真付きで紹介します。",
+    "image": "https://bizintokyo.com/images/heroes/pacifico-yokohama-north_hotels_ja.png"
+  },
+  "https://bizintokyo.com/hotels/nissho-hall/": {
+    "title": "ニッショーホール周辺のおすすめホテル10選｜BizinTokyo",
+    "description": "ニッショーホールでのイベントに行くなら、会場周辺のホテル10軒のアクセス・価格帯・Expedia予約リンクを紹介します。",
+    "image": "https://bizintokyo.com/images/heroes/nissho-hall_hotels_ja.png"
+  },
+  "https://bizintokyo.com/hotels/midtown/": {
+    "title": "東京ミッドタウン周辺のおすすめホテル10選｜BizinTokyo",
+    "description": "東京ミッドタウンでのイベントに行くなら、会場周辺のホテル10軒のアクセス・価格帯・Expedia予約リンクを紹介します。",
+    "image": "https://bizintokyo.com/images/heroes/midtown_hotels_ja.png"
+  },
+  "https://bizintokyo.com/hotels/ueno-seiyoken/": {
+    "title": "上野精養軒周辺のおすすめホテル10選｜BizinTokyo",
+    "description": "上野精養軒でのイベントに行くなら、会場周辺のホテル10軒のアクセス・価格帯・Expedia予約リンクを紹介します。",
+    "image": "https://bizintokyo.com/images/heroes/ueno-seiyoken_hotels_ja.png"
+  },
+  "https://bizintokyo.com/venues/yomiuri-hall/": {
+    "title": "よみうりホール アクセス｜最寄り駅・出口からの行き方と周辺ホテル | BizinTokyo",
+    "description": "よみうりホールはJR有楽町駅「国際フォーラム口」から徒歩約1分。東京メトロ有楽町線・日比谷線からのルート、周辺ホテル・レストラン、来場時の注意点をまとめた行き方ガイド。",
+    "image": "https://bizintokyo.com/images/heroes/yomiuri-hall_ja.png"
+  },
+  "https://bizintokyo.com/hotels/taito-millennium-hall/": {
+    "title": "台東区生涯学習センター ミレニアムホール周辺のおすすめホテル10選｜BizinTokyo",
+    "description": "台東区生涯学習センター ミレニアムホールでのイベントに行くなら、会場周辺のホテル10軒のアクセス・価格帯・Expedia予約リンクを紹介します。",
+    "image": "https://bizintokyo.com/images/heroes/taito-millennium-hall_hotels_ja.png"
+  },
+  "https://bizintokyo.com/hotels/shinagawa_intercity/": {
+    "title": "品川インターシティホール周辺のおすすめホテル10選｜BizinTokyo",
+    "description": "品川インターシティホールでのイベントに行くなら、会場周辺のホテル10軒のアクセス・価格帯・Expedia予約リンクを紹介します。",
+    "image": "https://bizintokyo.com/images/heroes/shinagawa_intercity_hotels_ja.png"
+  },
+  "https://bizintokyo.com/hotels/yokohama-bay-hotel-tokyu/": {
+    "title": "横浜ベイホテル東急周辺のおすすめホテル10選｜BizinTokyo",
+    "description": "横浜ベイホテル東急での宴会・イベントに参加するなら、会場ホテル自身も含めて周辺のホテル10軒を会場からの距離順に紹介します。",
+    "image": "https://bizintokyo.com/images/heroes/yokohama-bay-hotel-tokyu_hotels_ja.png"
+  },
+  "https://bizintokyo.com/hotels/nihon-kyoiku-kaikan-hall/": {
+    "title": "一ツ橋ホール（日本教育会館）周辺のおすすめホテル10選｜BizinTokyo",
+    "description": "一ツ橋ホール（日本教育会館）でのイベントに行くなら、会場周辺のホテル10軒のアクセス・価格帯・Expedia予約リンクを紹介します。",
+    "image": "https://bizintokyo.com/images/heroes/nihon-kyoiku-kaikan-hall_hotels_ja.png"
+  },
+  "https://bizintokyo.com/hotels/shin-yokohama-prince-hotel/": {
+    "title": "新横浜プリンスホテル周辺のおすすめホテル10選｜BizinTokyo",
+    "description": "新横浜プリンスホテルでのイベントに参加するなら、会場ホテル自身も含めて新横浜駅エリアのホテル10軒を会場からの距離順に紹介します。",
+    "image": "https://bizintokyo.com/images/heroes/shin-yokohama-prince-hotel_hotels_ja.png"
+  },
+  "https://bizintokyo.com/hotels/imperial-hotel-tokyo/": {
+    "title": "帝国ホテル東京周辺のおすすめホテル10選｜BizinTokyo",
+    "description": "帝国ホテル東京での宴会・イベントに参加するなら、会場ホテル自身も含めて日比谷・銀座エリアのホテル10軒を会場からの距離順に紹介します。",
+    "image": "https://bizintokyo.com/images/heroes/imperial-hotel-tokyo_hotels_ja.png"
+  },
+  "https://bizintokyo.com/hotels/nihonbashi-hall/": {
+    "title": "日本橋ホール周辺のおすすめホテル10選｜BizinTokyo",
+    "description": "日本橋ホールでのイベントに行くなら、会場周辺のホテル10軒のアクセス・価格帯・Expedia予約リンクを紹介します。",
+    "image": "https://bizintokyo.com/images/heroes/nihonbashi-hall_hotels_ja.png"
+  },
+  "https://bizintokyo.com/hotels/intercontinental-yokohama-grand/": {
+    "title": "ヨコハマ グランド インターコンチネンタル ホテル周辺のおすすめホテル10選｜BizinTokyo",
+    "description": "ヨコハマ グランド インターコンチネンタル ホテルでの宴会・イベントに参加するなら、会場ホテル自身も含めて周辺のホテル10軒を会場からの距離順に紹介します。",
+    "image": "https://bizintokyo.com/images/heroes/intercontinental-yokohama-grand_hotels_ja.png"
+  },
+  "https://bizintokyo.com/hotels/warehouse-terrada-tennoz/": {
+    "title": "寺田倉庫 天王洲周辺のおすすめホテル10選｜BizinTokyo",
+    "description": "寺田倉庫 天王洲でのイベントに行くなら、会場周辺のホテル10軒のアクセス・価格帯・Expedia予約リンクを紹介します。",
+    "image": "https://bizintokyo.com/images/heroes/warehouse-terrada-tennoz_hotels_ja.png"
+  },
+  "https://bizintokyo.com/hotels/bellesalle-iidabashi-first/": {
+    "title": "ベルサール飯田橋ファースト周辺のおすすめホテル10選｜BizinTokyo",
+    "description": "ベルサール飯田橋ファーストでのイベントに行くなら、会場周辺のホテル10軒のアクセス・価格帯・Expedia予約リンクを紹介します。",
+    "image": "https://bizintokyo.com/images/heroes/bellesalle-iidabashi-first_hotels_ja.png"
+  },
+  "https://bizintokyo.com/hotels/yomiuri-hall/": {
+    "title": "よみうりホール周辺のおすすめホテル10選｜BizinTokyo",
+    "description": "よみうりホールでのイベントに行くなら、会場周辺のホテル10軒のアクセス・価格帯・Expedia予約リンクを紹介します。",
+    "image": "https://bizintokyo.com/images/heroes/yomiuri-hall_hotels_ja.png"
+  },
+  "https://bizintokyo.com/hotels/ginza-blossom/": {
+    "title": "銀座ブロッサム（中央会館）周辺のおすすめホテル10選｜BizinTokyo",
+    "description": "銀座ブロッサム（中央会館）でのイベントに行くなら、会場周辺のホテル10軒のアクセス・価格帯・Expedia予約リンクを紹介します。",
+    "image": "https://bizintokyo.com/images/heroes/ginza-blossom_hotels_ja.png"
+  },
+  "https://bizintokyo.com/hotels/grand-nikko-tokyo-daiba/": {
+    "title": "グランドニッコー東京 台場周辺のおすすめホテル10選｜BizinTokyo",
+    "description": "グランドニッコー東京 台場での宴会・イベントに参加するなら、会場ホテル自身も含めて台場エリアのホテル10軒を会場からの距離順に紹介します。",
+    "image": "https://bizintokyo.com/images/heroes/grand-nikko-tokyo-daiba_hotels_ja.png"
+  },
+  "https://bizintokyo.com/hotels/hulic-hall-tokyo/": {
+    "title": "ヒューリックホール東京周辺のおすすめホテル10選｜BizinTokyo",
+    "description": "ヒューリックホール東京でのイベントに行くなら、会場周辺のホテル10軒のアクセス・価格帯・Expedia予約リンクを紹介します。",
+    "image": "https://bizintokyo.com/images/heroes/hulic-hall-tokyo_hotels_ja.png"
+  },
+  "https://bizintokyo.com/hotels/hilton-tokyo-odaiba/": {
+    "title": "ヒルトン東京お台場周辺のおすすめホテル10選｜BizinTokyo",
+    "description": "ヒルトン東京お台場での宴会・イベントに参加するなら、会場ホテル自身も含めてお台場エリアのホテル10軒を会場からの距離順に紹介します。",
+    "image": "https://bizintokyo.com/images/heroes/hilton-tokyo-odaiba_hotels_ja.png"
+  },
+  "https://bizintokyo.com/hotels/tft-hall/": {
+    "title": "TFTビル周辺のおすすめホテル10選｜BizinTokyo",
+    "description": "東京ファッションタウン（TFT）ビルでの展示会・イベントに行くなら、会場周辺のホテル10軒のアクセス・価格帯・Expedia予約リンクを写真付きで紹介します。",
+    "image": "https://bizintokyo.com/images/heroes/tft-hall_hotels_ja.png"
+  },
+  "https://bizintokyo.com/hotels/ariake-central-tower-hall-conference/": {
+    "title": "有明セントラルタワーホール＆カンファレンス周辺のおすすめホテル10選｜BizinTokyo",
+    "description": "有明セントラルタワーホール＆カンファレンスでのイベントに行くなら、会場周辺のホテル10軒のアクセス・価格帯・Expedia予約リンクを紹介します。",
+    "image": "https://bizintokyo.com/images/heroes/ariake-central-tower-hall-conference_hotels_ja.png"
+  },
+  "https://bizintokyo.com/hotels/midtown_hibiya/": {
+    "title": "東京ミッドタウン日比谷周辺のおすすめホテル10選｜BizinTokyo",
+    "description": "東京ミッドタウン日比谷でのイベントに行くなら、会場周辺のホテル10軒のアクセス・価格帯・Expedia予約リンクを紹介します。",
+    "image": "https://bizintokyo.com/images/heroes/midtown_hibiya_hotels_ja.png"
+  },
+  "https://bizintokyo.com/hotels/bellesalle-ariake-conference/": {
+    "title": "ベルサール有明コンファレンスセンター周辺のおすすめホテル10選｜BizinTokyo",
+    "description": "ベルサール有明コンファレンスセンターでのイベントに行くなら、会場周辺のホテル10軒のアクセス・価格帯・Expedia予約リンクを紹介します。",
+    "image": "https://bizintokyo.com/images/heroes/bellesalle-ariake-conference_hotels_ja.png"
+  },
+  "https://bizintokyo.com/hotels/tokyo_convention_hall/": {
+    "title": "東京コンベンションホール周辺のおすすめホテル10選｜BizinTokyo",
+    "description": "東京コンベンションホールでのイベントに行くなら、会場周辺のホテル10軒のアクセス・価格帯・Expedia予約リンクを紹介します。",
+    "image": "https://bizintokyo.com/images/heroes/tokyo_convention_hall_hotels_ja.png"
   }
 }
