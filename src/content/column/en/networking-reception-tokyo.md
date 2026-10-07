@@ -20,10 +20,16 @@ When your event ends, if the reception is held somewhere far away, or if there i
 
 The basic rule is to hold the reception right next to your event venue and start it without a gap. When you plan the reception, decide the location and budget first.
 
-The best options are one of these two:
+I recommend one of these three setups:
 
-- A venue with restaurants in the same building. For example, Shibuya Hikarie has event halls and restaurants in one building.
-- Book two rooms, and turn one of them into the reception space partway through the event.
+**1. A venue with restaurants in the same building**
+For example, Shibuya Hikarie has event halls and restaurants in one building.
+
+**2. Use a large hall for the daytime event, and a separate room in the same venue for the evening reception**
+I have run receptions this way myself. Because there was no travel time at all, a very large number of people joined the reception.
+
+**3. Use the event hall itself for the reception**
+When the event ends, ask people to wait just a little, then start the reception in the same space.
 
 If you have room in your budget, a hotel is also a good choice. It costs more, but hotels can handle special meals such as vegan menus, which makes things much easier.
 
