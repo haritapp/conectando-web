@@ -53,6 +53,13 @@ const description = `${v.nameJa}でイベントを運営する人向けに、部
       {v.nameEn && <p class="vd-en">{v.nameEn}</p>}
     </header>
 
+    {v.photo && (
+      <figure class="vd-photo">
+        <img src={v.photo.src} alt={`${v.nameJa}の外観`} width="1200" loading="eager" />
+        <figcaption>{v.photo.sourceUrl ? <a href={v.photo.sourceUrl} target="_blank" rel="noopener">{v.photo.credit}</a> : v.photo.credit}</figcaption>
+      </figure>
+    )}
+
     {notice && (
       <div class="vd-notice">
         <strong>お知らせ</strong>
@@ -183,6 +190,10 @@ const description = `${v.nameJa}でイベントを運営する人向けに、部
 .vd-area { font-size: .8125rem; }
 .vd-h1 { font-size: clamp(1.5rem, 4vw, 2rem); font-weight: 700; color: var(--color-heading); margin: .5rem 0 .25rem; line-height: 1.35; }
 .vd-en { color: var(--color-text-muted); margin: 0; font-size: .9375rem; }
+.vd-photo { margin: 1.25rem 0 0; }
+.vd-photo img { width: 100%; aspect-ratio: 16 / 9; object-fit: cover; border-radius: var(--radius-md); display: block; background: var(--color-accent); }
+.vd-photo figcaption { font-size: .6875rem; color: var(--color-text-muted); margin-top: .25rem; text-align: right; }
+.vd-photo figcaption a { color: inherit; }
 .vd-notice { margin: 1.25rem 0; padding: .875rem 1rem; border-left: 4px solid #d97706; background: #fffbeb; border-radius: var(--radius-sm); }
 .vd-notice strong { color: #92400e; font-size: .875rem; }
 .vd-notice p { margin: .25rem 0 0; font-size: .9375rem; line-height: 1.7; }

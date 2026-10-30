@@ -730,5 +730,10 @@
  "drinkDelivery": {
   "available": true
  },
+ "photo": {
+  "src": "/images/venues/tokyo-big-sight.jpg",
+  "credit": "© Morio / CC BY-SA 3.0 · Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:20030727_27_July_2003_Tokyo_International_Exhibition_Center_Big_Sight_Odaiba_Tokyo_Japan.jpg"
+ },
  "checkedAt": "2026-10-30"
 }

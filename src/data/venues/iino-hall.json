@@ -401,5 +401,6 @@
  "drinkDelivery": {
   "available": true
  },
+ "photo": null,
  "checkedAt": "2026-10-30"
 }

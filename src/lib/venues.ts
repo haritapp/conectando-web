@@ -59,6 +59,7 @@ export interface Venue {
     donki?: Shop[];
   };
   drinkDelivery?: { available: boolean; note?: string } | null;
+  photo?: { src: string; credit: string; sourceUrl?: string | null } | null;
   checkedAt: string;
 }
 
@@ -123,11 +124,13 @@ export function getVenue(slug: string): Venue | undefined {
 
 // ---- 集計 ----
 const LAYOUTS: Layout[] = ['theater', 'school', 'ushape', 'standing', 'banquet'];
+/** 貸出を止めている部屋は最大値の計算に入れない */
+const rentable = (r: Room) => !/貸出を中止|貸出中止/.test(r.note ?? '');
 
 /** 全部屋・全レイアウトの中で最大の人数 */
 export function maxCapacity(v: Venue): { people: number; layout: Layout; room: string } | null {
   let best: { people: number; layout: Layout; room: string } | null = null;
-  for (const r of v.rooms ?? []) {
+  for (const r of (v.rooms ?? []).filter(rentable)) {
     for (const l of LAYOUTS) {
       const n = r[l];
       if (typeof n === 'number' && (!best || n > best.people)) best = { people: n, layout: l, room: r.name };
@@ -139,7 +142,7 @@ export function maxCapacity(v: Venue): { people: number; layout: Layout; room: s
 /** レイアウトごとの最大人数（一覧の絞り込み用） */
 export function capacityByLayout(v: Venue): Partial<Record<Layout, number>> {
   const out: Partial<Record<Layout, number>> = {};
-  for (const r of v.rooms ?? []) {
+  for (const r of (v.rooms ?? []).filter(rentable)) {
     for (const l of LAYOUTS) {
       const n = r[l];
       if (typeof n === 'number' && n > (out[l] ?? 0)) out[l] = n;
@@ -151,7 +154,7 @@ export function capacityByLayout(v: Venue): Partial<Record<Layout, number>> {
 /** 一番広い部屋の面積 */
 export function maxArea(v: Venue): number | null {
   let best: number | null = null;
-  for (const r of v.rooms ?? []) {
+  for (const r of (v.rooms ?? []).filter(rentable)) {
     if (typeof r.areaM2 === 'number' && (best === null || r.areaM2 > best)) best = r.areaM2;
   }
   return best;

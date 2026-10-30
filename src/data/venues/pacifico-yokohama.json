@@ -1077,5 +1077,10 @@
  "drinkDelivery": {
   "available": true
  },
+ "photo": {
+  "src": "/images/venues/pacifico-yokohama.jpg",
+  "credit": "© Kakidai / CC BY-SA 4.0 · Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pacifico_Yokohama_National_Convention_Hall_2024.jpg"
+ },
  "checkedAt": "2026-10-30"
 }

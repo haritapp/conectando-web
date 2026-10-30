@@ -288,5 +288,10 @@
  "drinkDelivery": {
   "available": true
  },
+ "photo": {
+  "src": "/images/venues/tokyo-conference-center-shinagawa.jpg",
+  "credit": "© 江戸村のとくぞう / CC BY-SA 4.0 · Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Shinagawa_Eastone-1a.jpg"
+ },
  "checkedAt": "2026-10-30"
 }

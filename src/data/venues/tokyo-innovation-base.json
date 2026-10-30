@@ -144,5 +144,10 @@
  "drinkDelivery": {
   "available": true
  },
+ "photo": {
+  "src": "/images/venues/tokyo-innovation-base.jpg",
+  "credit": "写真：Conectando",
+  "sourceUrl": null
+ },
  "checkedAt": "2026-10-30"
 }

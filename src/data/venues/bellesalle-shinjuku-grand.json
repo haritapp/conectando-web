@@ -485,5 +485,10 @@
  "drinkDelivery": {
   "available": true
  },
+ "photo": {
+  "src": "/images/venues/bellesalle-shinjuku-grand.jpg",
+  "credit": "© Mountainlife / CC BY-SA 3.0 · Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Shinjuku_Grand_Tower_from_north-east2012.3.12.JPG"
+ },
  "checkedAt": "2026-10-30"
 }
