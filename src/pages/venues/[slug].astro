@@ -72,11 +72,42 @@ const description = `${v.nameJa}でイベントを運営する人向けに、部
     </section>
 
     <nav class="vd-toc" aria-label="このページの内容">
+      {v.rooms.length > 0 && <a href="#rooms">部屋と収容人数</a>}
+      {(v.documents?.length ?? 0) > 0 && <a href="#docs">図面・料金表など公式資料</a>}
       {opsItems.length > 0 && <a href="#ops">運営のルール</a>}
       <a href="#shops">近くの店</a>
-      {v.rooms.length > 0 && <a href="#rooms">部屋と収容人数</a>}
-      {(v.documents?.length ?? 0) > 0 && <a href="#docs">公式資料</a>}
     </nav>
+
+    {v.rooms.length > 0 && (
+      <section id="rooms" class="vd-sec">
+        <h2>部屋と収容人数</h2>
+        <div class="vd-tablewrap">
+          <table class="vd-table">
+            <thead><tr><th>部屋</th>{cols.map((c) => <th>{colLabel[c]}</th>)}</tr></thead>
+            <tbody>
+              {v.rooms.map((r) => (
+                <tr>
+                  <th scope="row">{r.name}{r.note && <small>{r.note}</small>}</th>
+                  {cols.map((c) => <td>{formatNumber(r[c])}</td>)}
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        </div>
+        {v.roomsSource && /^https?:/.test(v.roomsSource) && (
+          <p class="vd-small">出典：<a href={v.roomsSource} target="_blank" rel="noopener">{hostOf(v.roomsSource)}</a>（人数は会場が示す最大値。レイアウトや設備で変わります）</p>
+        )}
+      </section>
+    )}
+
+    {(v.documents?.length ?? 0) > 0 && (
+      <section id="docs" class="vd-sec">
+        <h2>公式の資料（図面・料金表・規約など）</h2>
+        <ul class="vd-docs">
+          {v.documents!.map((d) => <li><a href={d.url} target="_blank" rel="noopener">{d.title}</a>{isPdf(d.url) && <span>PDF</span>}</li>)}
+        </ul>
+      </section>
+    )}
 
     {opsItems.length > 0 && (
       <section id="ops" class="vd-sec">
@@ -127,37 +158,6 @@ const description = `${v.nameJa}でイベントを運営する人向けに、部
       )}
       <p class="vd-small">{COMMON.walkNote} 店名・営業時間は各社の公式店舗ページで確認しています（{checked}時点）。</p>
     </section>
-
-    {v.rooms.length > 0 && (
-      <section id="rooms" class="vd-sec">
-        <h2>部屋と収容人数</h2>
-        <div class="vd-tablewrap">
-          <table class="vd-table">
-            <thead><tr><th>部屋</th>{cols.map((c) => <th>{colLabel[c]}</th>)}</tr></thead>
-            <tbody>
-              {v.rooms.map((r) => (
-                <tr>
-                  <th scope="row">{r.name}{r.note && <small>{r.note}</small>}</th>
-                  {cols.map((c) => <td>{formatNumber(r[c])}</td>)}
-                </tr>
-              ))}
-            </tbody>
-          </table>
-        </div>
-        {v.roomsSource && /^https?:/.test(v.roomsSource) && (
-          <p class="vd-small">出典：<a href={v.roomsSource} target="_blank" rel="noopener">{hostOf(v.roomsSource)}</a>（人数は会場が示す最大値。レイアウトや設備で変わります）</p>
-        )}
-      </section>
-    )}
-
-    {(v.documents?.length ?? 0) > 0 && (
-      <section id="docs" class="vd-sec">
-        <h2>公式の資料（規約・図面・料金表など）</h2>
-        <ul class="vd-docs">
-          {v.documents!.map((d) => <li><a href={d.url} target="_blank" rel="noopener">{d.title}</a>{isPdf(d.url) && <span>PDF</span>}</li>)}
-        </ul>
-      </section>
-    )}
 
     <section class="vd-sec vd-related">
       <h2>あわせて読みたい</h2>
