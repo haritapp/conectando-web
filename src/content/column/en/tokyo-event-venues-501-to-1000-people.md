@@ -410,3 +410,5 @@ https://bizintokyo.com/en/venues/hilton_tokyo/
 ---
 
 Tokyo venues by size: [Up to 300](https://www.conec-tando.com/en/column/tokyo-event-venues-up-to-300-people/) / [301–500](https://www.conec-tando.com/en/column/tokyo-event-venues-301-to-500-people/) / **501–1,000 (this article)** / [1,001+](https://www.conec-tando.com/en/column/tokyo-event-venues-1001-plus-people/)
+
+Beyond capacity, you can also filter by room size and area, and check floor plans, price lists and the official load-in and waiting-room rules, in the [venue list](/en/venues/?people=501).

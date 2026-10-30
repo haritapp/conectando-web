@@ -1,0 +1,297 @@
+{
+ "slug": "tokyo-big-sight",
+ "name": "TOKYO BIG SIGHT (Tokyo International Exhibition Center)",
+ "address": "Tokyo 135-0063 3-11-1 Ariake, Koto-ku",
+ "accessSummary": "Yurikamome Line, Tokyo Big Sight Station: about 3 min walk / Rinkai Line, Kokusai-tenjijo Station: about 7 min walk",
+ "hours": null,
+ "notice": null,
+ "rooms": [
+  {
+   "name": "East Hall 1",
+   "note": "Approx. 90×90 m, floor load capacity 5 t/m², 4 load-in and load-out entrances, 1 organizer's office, 4 meeting rooms, 1 rest and changing room"
+  },
+  {
+   "name": "East Hall 2",
+   "note": "Approx. 90×90 m, floor load capacity 5 t/m², 2 load-in and load-out entrances, 1 organizer's office, 4 meeting rooms, 1 rest and changing room"
+  },
+  {
+   "name": "East Hall 3",
+   "note": "Approx. 90×90 m, floor load capacity 5 t/m², 4 load-in and load-out entrances, 1 organizer's office, 4 meeting rooms, 1 rest and changing room"
+  },
+  {
+   "name": "East Hall 4",
+   "note": "Approx. 90×90 m, floor load capacity 5 t/m², 4 load-in and load-out entrances, 1 organizer's office, 4 meeting rooms, 1 rest and changing room"
+  },
+  {
+   "name": "East Hall 5",
+   "note": "Approx. 90×90 m, floor load capacity 5 t/m², 2 load-in and load-out entrances, 1 organizer's office, 4 meeting rooms, 1 rest and changing room"
+  },
+  {
+   "name": "East Hall 6",
+   "note": "Approx. 90×90 m, floor load capacity 5 t/m², 4 load-in and load-out entrances, 1 organizer's office, 4 meeting rooms, 1 rest and changing room"
+  },
+  {
+   "name": "East Hall 7",
+   "note": "Floor load capacity 5 t/m², 4 load-in and load-out entrances, 1 organizer's office (84 m²), 2 meeting rooms (55 m² and 54 m²). Areas of the organizer's office and meeting rooms are as stated in the Exhibition Facility Overview PDF"
+  },
+  {
+   "name": "East Hall 8",
+   "note": "Floor load capacity 5 t/m², 2 load-in and load-out entrances, 1 organizer's office (65 m²), 3 meeting rooms (94 m² each). Areas of the organizer's office and meeting rooms are as stated in the Exhibition Facility Overview PDF"
+  },
+  {
+   "name": "East Link Space",
+   "note": "Floor load capacity 5 t/m². Space available to users of East Halls 7 and 8 (in principle, only users of the adjacent halls)"
+  },
+  {
+   "name": "West Hall 1",
+   "note": "Approx. (135×45) + (45×45) m, floor load capacity 5 t/m², 5 load-in and load-out entrances, 2 organizer's offices, 7 meeting rooms, 1 rest and changing room"
+  },
+  {
+   "name": "West Hall 2",
+   "note": "Approx. (135×45) + (45×45) m, floor load capacity 5 t/m², 5 load-in and load-out entrances, 2 organizer's offices, 7 meeting rooms, 1 rest and changing room"
+  },
+  {
+   "name": "West Hall 3",
+   "note": "Approx. 90×45 m, floor load capacity 2 t/m², 2 load-in and load-out entrances, 1 organizer's office, 4 meeting rooms, rest and changing room shared with West Hall 4. 4th floor (load-in and load-out via slope)"
+  },
+  {
+   "name": "West Hall 4",
+   "note": "Approx. 45×135 m, floor load capacity 2 t/m², 4 load-in and load-out entrances, 1 organizer's office, 5 meeting rooms, rest and changing room shared with West Hall 3. 4th floor (load-in and load-out via slope)"
+  },
+  {
+   "name": "West Atrium (portion available for exhibition use)",
+   "note": "Approx. 45×45 m, floor load capacity 360 kg/m². The atrium as a whole is approx. 5,800 m², of which 2,000 m² can be used for exhibitions and events (in principle, only users of the adjacent halls)"
+  },
+  {
+   "name": "West Rooftop Exhibition Area",
+   "note": "Vehicles entering the rooftop are limited to a gross weight of 10 t"
+  },
+  {
+   "name": "South Hall 1",
+   "note": "Approx. 72×72 m, floor load capacity 5 t/m², 3 load-in and load-out entrances, 1 organizer's office, 4 meeting rooms"
+  },
+  {
+   "name": "South Hall 2",
+   "note": "Approx. 72×72 m, floor load capacity 5 t/m², 2 load-in and load-out entrances, 1 organizer's office, 6 meeting rooms"
+  },
+  {
+   "name": "South Hall 3",
+   "note": "Approx. 72×72 m, floor load capacity 2 t/m², 3 load-in and load-out entrances, 1 organizer's office, 7 meeting rooms"
+  },
+  {
+   "name": "South Hall 4",
+   "note": "Approx. 72×72 m, floor load capacity 2 t/m², 2 load-in and load-out entrances, 1 organizer's office, 8 meeting rooms"
+  },
+  {
+   "name": "South Conference Room A",
+   "note": "Next to South Hall 1. In principle, only for users of the exhibition halls. Tables, chairs and special equipment to be provided by the user"
+  },
+  {
+   "name": "South Conference Room B",
+   "note": "Next to South Hall 1. Can be used together with Room A as A+B (390 m²) using the movable partition"
+  },
+  {
+   "name": "East VIP Room",
+   "note": "Next to East Hall 1. Only for users of the exhibition halls. Available from 7:00 to 21:00 at the latest (overnight rental not available)"
+  },
+  {
+   "name": "International Conference Hall (7F)",
+   "note": "Fixed seating. Simultaneous interpretation equipment for 8 languages. Comes with 2 organizer's offices (20 m² each) and 12 speaker waiting rooms (25 m² each) (the fee includes use of 2 rooms)"
+  },
+  {
+   "name": "Reception Hall A+B (1F)",
+   "note": "Rising stage, sound and lighting, simultaneous interpretation. Hall A and Hall B (700 m² each) can be used separately (one half: theater 500, classroom 420). Comes with Waiting Room A (35 m²) and B (40 m²)"
+  },
+  {
+   "name": "Conference Room 701",
+   "note": null
+  },
+  {
+   "name": "Conference Room 702",
+   "note": null
+  },
+  {
+   "name": "Conference Room 701+702",
+   "note": null
+  },
+  {
+   "name": "Conference Room 703",
+   "note": null
+  },
+  {
+   "name": "Conference Room 601",
+   "note": null
+  },
+  {
+   "name": "Conference Room 602",
+   "note": null
+  },
+  {
+   "name": "Conference Room 603",
+   "note": null
+  },
+  {
+   "name": "Conference Room 604",
+   "note": null
+  },
+  {
+   "name": "Conference Room 605",
+   "note": null
+  },
+  {
+   "name": "Conference Room 606",
+   "note": null
+  },
+  {
+   "name": "Conference Room 607",
+   "note": null
+  },
+  {
+   "name": "Conference Room 608",
+   "note": null
+  },
+  {
+   "name": "Conference Room 609",
+   "note": null
+  },
+  {
+   "name": "Conference Room 610",
+   "note": null
+  },
+  {
+   "name": "Conference Room 605+606",
+   "note": "Combined use. Values from the Maximum Capacity List PDF (2022 edition)"
+  },
+  {
+   "name": "Conference Room 607+608",
+   "note": "Combined use. Values from the Maximum Capacity List PDF (2022 edition)"
+  },
+  {
+   "name": "Conference Rooms 605-608 (all combined)",
+   "note": "Combined use. Values from the Maximum Capacity List PDF (2022 edition)"
+  },
+  {
+   "name": "Conference Room 801",
+   "note": null
+  },
+  {
+   "name": "Conference Room 802",
+   "note": null
+  },
+  {
+   "name": "Conference Room 803",
+   "note": "Fixed seating"
+  },
+  {
+   "name": "Conference Room 804",
+   "note": "Fixed seating"
+  },
+  {
+   "name": "Room 805 Special Reception Room",
+   "note": "Fixed seating"
+  },
+  {
+   "name": "Conference Room 101",
+   "note": null
+  },
+  {
+   "name": "Conference Room 102",
+   "note": null
+  },
+  {
+   "name": "Conference Room 103",
+   "note": null
+  },
+  {
+   "name": "Conference Room 104",
+   "note": null
+  },
+  {
+   "name": "Conference Room 103+104",
+   "note": "Combined use. Values from the Maximum Capacity List PDF (2022 edition)"
+  }
+ ],
+ "ops": {
+  "catering": "Eating and drinking in the exhibition halls requires notification to and permission from the Koto City Public Health Center, and must also be stated in the \"Exhibition Outline\" (no notification is needed when an exhibitor serves only light refreshments such as tea and sweets at its own booth). In the Conference Tower, if catering is provided by a registered vendor such as an in-house restaurant (Hibiya Matsumotoro, 50 guests or more; Hong Kong Yum Cha Lou Le Parc, 50 to 1,000 guests) or a hotel, the registered vendor's setup time is not included in the usage time, and no pantry usage fee or table fee is charged. Catering by outside vendors is also possible, but the application must include setup and removal time, the pantry, round tables and bar counters are charged, and an application for a business permit to the public health center is required. Eating and drinking is in principle prohibited in the International Conference Hall (only bento boxes brought in from outside may be discussed, subject to conditions). (Source: Conference Facility Guide PDF as of September 2025, Exhibition Facility Guide PDF as of October 2026)",
+  "restaurants": "There are restaurants in the Restaurant Street (1F: Cafeteria Mermaid, Udon and Onigiri Daikichi, Hibiya Matsumotoro, Starbucks), the Conference Tower (1F Food Court & Beer Eat iT!, 2F Tully's Coffee and PRONTO, 8F Italian restaurant Al Porto), the East Exhibition Hall building (2F Tokyo Bay Kitchen and other Japanese and Western restaurants, 3F Hong Kong Yum Cha Lou Le Parc), the West Exhibition Hall building (2F Cafe Terrace Royal), and the South Exhibition Hall building (light meals on the 3rd and 4th floors). Parties and receptions can be held at Hibiya Matsumotoro (Restaurant Street, 160 seats, reservation up to 1 week before), Eat iT! (Conference Tower, 422 seats, from 3,500 yen per person excluding tax, up to 1 week before), Al Porto (Conference Tower 8F, seated 30-50 guests or standing 30-100 guests, from 6,600 yen per person with a minimum guarantee of 300,000 yen or more, up to 1 month before), and Le Parc (East Building 3F, seated up to 100 guests or standing up to 200 guests, up to 1 month before). (Source: official website, retrieved October 2026)",
+  "prevDaySetup": "The exhibition halls are available 24 hours a day, and fees are charged per day (0:00-24:00) or per half day (0:00-12:00 / 12:00-24:00). The shortest rental is 1 day, and rentals of 1.5 days and 2.5 days are also possible (a half day is half the one-day fee). For the International Conference Hall and Reception Hall in the Conference Tower, the usage fee is halved when used only for preparation or rehearsal (on days other than the event day), and conference rooms are available from 8:00 to 22:00 (including setup and removal; final end time 22:00).",
+  "waitingRooms": "The exhibition halls come with an organizer's office, meeting rooms (can be used for individual business meetings, waiting rooms, etc.) and a rest and changing room, and the number of rooms differs by hall (East Hall 1: 1 organizer's office, 4 meeting rooms, 1 rest and changing room; West Halls 1 and 2: 2 organizer's offices and 7 meeting rooms each; South Halls 1-4: 1 organizer's office each and 4 to 8 meeting rooms). The International Conference Hall in the Conference Tower comes with 2 organizer's offices (20 m² each) and 12 speaker waiting rooms (25 m² each), and the fee includes use of 2 of these rooms. The Reception Hall comes with Waiting Room A (35 m²) and B (40 m²).",
+  "loadingHours": "The exhibition halls are available 24 hours a day. The automatic doors are normally open from 8:00 to 20:00; at other times the night entrance is used, and if access is needed before 8:00 or after 20:00, prior consultation is required (on the condition that the organizer manages building entry, for example by assigning security guards). Load-in and load-out entrances number 2 to 4 each for East Halls 1-8, 5 each for West Halls 1 and 2, 2 for West Hall 3, 4 for West Hall 4, and 2 to 3 each for South Halls 1-4; shutter dimensions are given in Figures 4 to 6 of the guide (examples: on the East Halls 1-3 side, width 7.2 m x height 4.9-5.8 m and width 9.2 m x height 8.0 m; on the East Halls 7-8 side, width 7.4 m x height 5.9 m). The \"Exhibition Outline,\" \"Waiting Area Use Application\" and \"Terminal Use Application,\" among others, are due 1 month before the start of load-in, and the event notification to the police is due 10 days before the start of load-in. For the Conference Tower, load-in is through load-in entrances 1 to 3 of the Central Terminal. (Source: Exhibition Facility Guide PDF as of October 2026, Required Documents List PDF revised October 2026, Conference Facility Guide PDF as of September 2025)",
+  "parking": "The truck yards of the exhibition halls have parking for event staff, and paid parking is used when it is insufficient. The Conference Tower underground (62 spaces; height 2.5 m, width 1.9 m, length 5.3 m, weight 2.5 t), East Building underground (189 spaces; height 2.1 m, width 1.9 m, length 5.3 m, weight 2.5 t) and South Building multi-level (349 spaces; height 2.1 m, width 1.9 m, length 5.0 m, weight 2.5 t) are open 8:00-22:00, with passenger cars at 250 yen per 30 minutes and a daily maximum of 2,000 yen (tax included). Temporary parking lots are the East Building outdoor lot (up to 1,932 spaces, 7:00-23:00, passenger cars daily maximum 1,500 yen), Ariake East (330 spaces) and Shinonome (514 spaces); Ariake East and Shinonome are open 8:00-23:00, with passenger cars at 1,500 yen per entry and large vehicles at 4,000 yen per entry (500 yen after 16:00). Overnight parking is not allowed. (Source: Exhibition Facility Guide PDF, as of October 2026)",
+  "vehicleRules": "Forklifts and similar vehicles may not be left in the exhibition halls; after work is finished, vehicles must be moved promptly, and parking on roads around the venue is prohibited (only designated waiting areas, hall truck yards and designated parking lots may be used). To use a paid vehicle waiting area (examples: East Building outdoor Block A, entire 14,900 m² = 671,000 yen; Block E, 2,800 m² = 126,000 yen; both excluding tax), coordinate with the venue operator and submit a \"Waiting Area Use Application\" (due 1 month before the start of load-in) and a security placement drawing. Weight limits: for East Halls 1-8, West Halls 1 and 2, and South Halls 1 and 2, vehicles over 45 t gross weight cannot enter; the slopes of West Halls 3 and 4 and South Halls 3 and 4, and the West Rooftop Exhibition Area, are limited to 10 t gross weight. For the Conference Tower, general vehicles are in principle not allowed into the Central Terminal, a \"Central Terminal Load-in/Load-out Notification\" must be submitted in advance, and vehicles cannot be left in the terminal. (Source: Exhibition Facility Guide PDF as of October 2026, Conference Facility Guide PDF as of September 2025)"
+ },
+ "documents": [
+  {
+   "title": "Exhibition Facility Guide"
+  },
+  {
+   "title": "Conference Facility Guide"
+  },
+  {
+   "title": "Common Area Use Regulations"
+  },
+  {
+   "title": "Exhibition Facility Usage Guide (Usage Regulations)"
+  },
+  {
+   "title": "Conference Facility Usage Guide (Usage Regulations)"
+  },
+  {
+   "title": "Facility Fee Schedule"
+  },
+  {
+   "title": "Required Documents List (Exhibition Facilities)"
+  },
+  {
+   "title": "Exhibition Facility Overview"
+  },
+  {
+   "title": "Conference Tower Basic Layout"
+  },
+  {
+   "title": "Maximum Capacity List for Each Conference Facility"
+  },
+  {
+   "title": "Download List for Organizers"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "7-Eleven ROYAL Tokyo Big Sight",
+    "hours": "7:00-18:00 (daily, including holidays)",
+    "note": null
+   },
+   {
+    "name": "FamilyMart Tokyo Big Sight Station",
+    "hours": "7:00-22:00",
+    "note": null
+   },
+   {
+    "name": "FamilyMart Ariake Frontier",
+    "hours": "Open 24 hours",
+    "note": null
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Can Do Wanza Ariake",
+    "hours": "10:00-19:30 (daily)",
+    "note": null
+   },
+   {
+    "name": "DAISO Ariake Garden",
+    "hours": "10:00-21:00",
+    "note": null
+   }
+  ],
+  "donki": [
+   {
+    "name": "Kirakira Donki Diver City Tokyo Plaza (Don Quijote group; cosmetics-focused format)",
+    "hours": "10:00-21:00 (the official site has a notice of changed business hours: Weekdays 11:00-20:00)",
+    "note": null
+   }
+  ]
+ },
+ "photoCredit": null
+}

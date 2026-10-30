@@ -16,6 +16,8 @@ export interface Room {
   standing?: number | null;
   banquet?: number | null;
   note?: string | null;
+  /** 英語表示など、note の文言から貸出可否を判定できない場合に明示する（未指定なら note から判定） */
+  rentable?: boolean;
 }
 
 export interface OpsItem { text: string; source: string }
@@ -31,6 +33,8 @@ export interface Shop {
   verified: boolean;
   source?: string | null;
   note?: string | null;
+  /** note を画面に出すか（英語表示など、note の文言から判定できない場合に明示する） */
+  showNote?: boolean;
 }
 
 export interface Venue {
@@ -125,7 +129,7 @@ export function getVenue(slug: string): Venue | undefined {
 // ---- 集計 ----
 const LAYOUTS: Layout[] = ['theater', 'school', 'ushape', 'standing', 'banquet'];
 /** 貸出を止めている部屋は最大値の計算に入れない */
-const rentable = (r: Room) => !/貸出を中止|貸出中止/.test(r.note ?? '');
+export const rentable = (r: Room) => r.rentable ?? !/貸出を中止|貸出中止/.test(r.note ?? '');
 
 /** 全部屋・全レイアウトの中で最大の人数 */
 export function maxCapacity(v: Venue): { people: number; layout: Layout; room: string } | null {

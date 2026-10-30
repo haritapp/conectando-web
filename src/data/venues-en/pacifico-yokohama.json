@@ -1,0 +1,428 @@
+{
+  "slug": "pacifico-yokohama",
+  "name": "PACIFICO Yokohama",
+  "address": "Kanagawa 220-0012 1-1-1 Minatomirai, Nishi-ku, Yokohama",
+  "accessSummary": "5 min walk from Minatomirai Station (Minatomirai Line) / 12 min walk from JR Sakuragicho Station",
+  "hours": null,
+  "notice": null,
+  "rooms": [
+    {
+      "name": "National Convention Hall (Seating)",
+      "note": "Total of fixed and movable seats. 5,002 seats in the basic stage configuration (1F 3,260 [710 movable] + 2F 994 [60 movable] + 3F 748). 4,538-5,002 seats depending on the stage shape. On 1F, the backrests of odd-numbered rows can be folded down to change the layout to 1,670 seats. Multilingual simultaneous interpretation: 8 ch, 5 booths"
+    },
+    {
+      "name": "National Convention Hall Marine Lobby",
+      "note": null
+    },
+    {
+      "name": "National Convention Hall Waiting Rooms and Dressing Rooms (11 rooms total)",
+      "note": "Waiting room N101 258 m², N111 38 m², N112 78 m², special waiting rooms N302 89 m² and N303 20 m², waiting rooms N304 10 m² and N306 23 m², dressing rooms N1 20 m², N2 61 m² and N3 40 m², waiting room N401 15 m²"
+    },
+    {
+      "name": "Conference Center Main Hall",
+      "note": "Fixed seating (including 10 wheelchair spaces). Permanent screen W13,500 x H7,800 mm, and others"
+    },
+    {
+      "name": "Conference Center 211+212",
+      "note": "Island layout 76"
+    },
+    {
+      "name": "Conference Center 211, 212, 213 (each)",
+      "note": "Island layout 32"
+    },
+    {
+      "name": "Conference Center Special Reception Room",
+      "note": "Fixed layout (sofa set)"
+    },
+    {
+      "name": "Conference Center 301-304 (large conference rooms)",
+      "note": "Classroom horizontal 680 / vertical 704. Theater horizontal 1320 / vertical 1392. Island layout 576. Poster display 533 panels"
+    },
+    {
+      "name": "Conference Center 301+302",
+      "note": "Classroom horizontal 320 / vertical 288. Theater horizontal 672 / vertical 644. Island layout 320. Poster display 241 panels"
+    },
+    {
+      "name": "Conference Center 303+304",
+      "note": "Classroom horizontal 256 / vertical 288. Theater horizontal 512 / vertical 575. Island layout 288. Poster display 224 panels"
+    },
+    {
+      "name": "Conference Center 301, 302 (each)",
+      "note": "Classroom horizontal 140 / vertical 158. Theater horizontal 260 / vertical 285. Island layout 160. Poster display 121 panels"
+    },
+    {
+      "name": "Conference Center 303, 304 (each)",
+      "note": "Classroom horizontal 112 / vertical 126. Theater horizontal 250 / vertical 232. Island layout 160. Poster display 107 panels"
+    },
+    {
+      "name": "Conference Center 311+312, 313+314 (each)",
+      "note": "Island layout 76. Poster display 62 panels"
+    },
+    {
+      "name": "Conference Center 311, 314 (each)",
+      "note": "Island layout 32. Poster display 35 panels"
+    },
+    {
+      "name": "Conference Center 312, 313 (each)",
+      "note": "Island layout 28. Poster display 34 panels"
+    },
+    {
+      "name": "Conference Center 315",
+      "note": "Island layout 104. Poster display 121 panels"
+    },
+    {
+      "name": "Conference Center 316, 317, 318 (each)",
+      "note": "Island layout 24. Poster display 21 panels"
+    },
+    {
+      "name": "Conference Center 411+412",
+      "note": "Island layout 80. Poster display 55 panels"
+    },
+    {
+      "name": "Conference Center 411, 412 (each)",
+      "note": "Island layout 32. Poster display 29 panels"
+    },
+    {
+      "name": "Conference Center 413",
+      "note": "Island layout 64. Poster display 55 panels"
+    },
+    {
+      "name": "Conference Center 414+415, 416+417 (each)",
+      "note": "Island layout 100. Poster display 65 panels"
+    },
+    {
+      "name": "Conference Center 414, 415, 416, 417 (each)",
+      "note": "Island layout 40. Poster display 34 panels"
+    },
+    {
+      "name": "Conference Center 418, 419 (each)",
+      "note": "Island layout 60. Poster display 62 panels"
+    },
+    {
+      "name": "Conference Center 421-424 (each)",
+      "note": "Island layout 24. Poster display 23 panels"
+    },
+    {
+      "name": "Conference Center 501+502",
+      "note": "Ceiling height 3.0 m near the entrance only. Classroom horizontal 384. Theater horizontal 736 / vertical 748. Island layout 432. Poster display 312 panels"
+    },
+    {
+      "name": "Conference Center 501, 502 (each)",
+      "note": "Ceiling height 3.0 m near the entrance only. Classroom horizontal 168 / vertical 192. Theater horizontal 320 / vertical 340. Island layout 176. Poster display 142 panels"
+    },
+    {
+      "name": "Conference Center 503",
+      "note": "Ceiling height 2.8-3.5 m on both sides. Island layout 220. Poster display 180 panels"
+    },
+    {
+      "name": "Conference Center 511+512",
+      "note": "Island layout 60. Poster display 48 panels"
+    },
+    {
+      "name": "Conference Center 511, 512 (each)",
+      "note": "Island layout 24. Poster display 27 panels"
+    },
+    {
+      "name": "Conference Center 513, 514 (each)",
+      "note": "Island layout 24. Poster display 24 panels"
+    },
+    {
+      "name": "Conference Center Waiting Rooms (10 rooms + Special Reception Room)",
+      "note": "Waiting rooms 021 26 m², 022 25 m², 023 10 m², 024 94 m² (with pantry and shower room), 121+122+123 91 m², 124 19 m², 221+222+223 110 m², 224 18 m², 321 28 m², 425 31 m² (waiting rooms cannot be used on their own)"
+    },
+    {
+      "name": "Exhibition Hall ABCD (entire hall)",
+      "note": "Ceiling height 13-19 m, depth approx. 81 m. Floor load capacity 5 t/m² (1 t/m² around pits and trench hatches). Vehicles driven in: up to 10.5 t"
+    },
+    {
+      "name": "Exhibition Hall BCD",
+      "note": "Ceiling height 13-19 m"
+    },
+    {
+      "name": "Exhibition Hall ABC",
+      "note": "Ceiling height 13-19 m"
+    },
+    {
+      "name": "Exhibition Hall AB, BC, CD (each)",
+      "note": "Ceiling height 13-19 m"
+    },
+    {
+      "name": "Exhibition Hall B, D (each)",
+      "note": "Ceiling height 13-19 m. Full width: B 87 m (land side)/80 m (sea side), D 84 m/84 m"
+    },
+    {
+      "name": "Exhibition Hall A, C (each)",
+      "note": "Ceiling height 13-19 m. Full width: A 45 m/41 m, C 42 m/42 m"
+    },
+    {
+      "name": "Exhibition Hall Attached Waiting Rooms (A-D, 31 rooms total)",
+      "note": "Hall A: A11 and A12 (30 m² each), AM1 (54), AM2 (38), AM3 (30), AM4 (54). Hall B: B11-B14 (30 each), BM1 (54), BM2 (38), BM3 (30), BM4 (54), BM5 (54), BM6 (38), BM7 (30), BM8 (54). Hall C: C11 (90), CM1 (42), CM2 (35), CM3 (79), CM4 (41). Hall D: D11 (90), D12 (83), DM1 (25+58), DM2 (79), DM3 (66), DM4 (25+58), DM5 (36), DM6 (76). Included in the venue usage fee"
+    },
+    {
+      "name": "Annex Hall F201-F206 (6/6)",
+      "note": "Ceiling height 5.4-6.7 m (folded ceiling; foyer area 4.0 m). Classroom horizontal 792 / vertical 930. Theater horizontal 1184 / vertical 1312. Island layout 960. Poster display 582 panels"
+    },
+    {
+      "name": "Annex Hall 4/6 (F201-F204 or F203-F206)",
+      "note": "Ceiling height 5.4-6.7 m. Classroom horizontal 504 / vertical 600. Theater horizontal 768 / vertical 832. Island layout 600. Poster display 392 panels"
+    },
+    {
+      "name": "Annex Hall 2/6 (F201+F202, F203+F204, F205+F206; each)",
+      "note": "Ceiling height 5.4-6.7 m. Classroom horizontal 210 / vertical 234. Theater horizontal 320 / vertical 374. Island layout 300. Poster display 202 panels"
+    },
+    {
+      "name": "Annex Hall 1/6 (F201-F206; each)",
+      "note": "Ceiling height 5.4-6.7 m. Island layout 150. Poster display 88 panels"
+    },
+    {
+      "name": "Annex Hall Waiting Rooms F1 and F2",
+      "note": "F1 18 m², F2 10 m² (waiting rooms cannot be used on their own)"
+    },
+    {
+      "name": "Exhibition Hall 2F E21",
+      "note": "Island layout 18"
+    },
+    {
+      "name": "Exhibition Hall 2F E22",
+      "note": "Island layout 24"
+    },
+    {
+      "name": "Exhibition Hall 2F E23 (VIP waiting room)",
+      "note": "Fixed layout (sofa set)"
+    },
+    {
+      "name": "Exhibition Hall 2F E24, E26 (each)",
+      "note": "Island layout 54"
+    },
+    {
+      "name": "Exhibition Hall 2F E25",
+      "note": "Island layout 36"
+    },
+    {
+      "name": "Harbor Lounge A",
+      "note": "Ceiling height 2.4-6.0 m. Island layout 66"
+    },
+    {
+      "name": "Harbor Lounge B",
+      "note": "Ceiling height 2.4-6.0 m. Island layout 72"
+    },
+    {
+      "name": "North Multipurpose Hall G1-G8 (8/8)",
+      "note": "Ceiling height 3.0 m near the entrance only. Permanent screen up to 500 inches. Island layout 2856"
+    },
+    {
+      "name": "North Multipurpose Hall 6/8 (G1-G6 or G3-G8)",
+      "note": "Classroom horizontal 2728 / vertical 3024. Theater horizontal 4608 / vertical 5112. Island layout 2184"
+    },
+    {
+      "name": "North Multipurpose Hall 4/8 (G1-G4 or G5-G8)",
+      "note": "Island layout 1344. Poster display 1040 panels"
+    },
+    {
+      "name": "North Multipurpose Hall 4/8 (G3-G6)",
+      "note": "Island layout 1,344 and poster display 1,040 panels are shown in a merged cell shared with the upper row (G1-G4/G5-G8)"
+    },
+    {
+      "name": "North Multipurpose Hall 2/8 (G1+G2 or G7+G8)",
+      "note": "Classroom horizontal 672 / vertical 744. Theater horizontal 1244 / vertical 1296. Island layout 504. Poster display 480 panels"
+    },
+    {
+      "name": "North Multipurpose Hall 2/8 (G3+G4 or G5+G6)",
+      "note": "Island layout, standing, round tables and posters are shown in a common notation spanning the two 2/8 rows in the official table. Classroom horizontal 720 / vertical 868. Theater horizontal 1296 / vertical 1440. Island layout 504. Poster display 480 panels"
+    },
+    {
+      "name": "North Multipurpose Hall 1/8 (G1, G2, G7, G8: 681 m² each / G3-G6: 739 m² each)",
+      "note": "G3-G6 are 739 m² each. Capacity figures are shown in a common notation spanning the two 1/8 rows in the official table. Island layout 288. Poster display 240 panels"
+    },
+    {
+      "name": "North Waiting Rooms G101-G104",
+      "note": "G101 30 m², G102 (VIP waiting room) 74 m², G103 34 m², G104 32 m². G102-G104 have a fixed layout (sofa set); G102 ceiling height 2.7 m"
+    },
+    {
+      "name": "North G211",
+      "note": "Island layout 48. Poster display 28 panels"
+    },
+    {
+      "name": "North G212",
+      "note": "Island layout 36. Poster display 23 panels"
+    },
+    {
+      "name": "North G213",
+      "note": "Island layout 72. Poster display 43 panels"
+    },
+    {
+      "name": "North G214",
+      "note": "Island layout 72. Poster display 42 panels"
+    },
+    {
+      "name": "North G215-G220 (each) and G221",
+      "note": "G221 is 127 m², G215-G220 are 130 m² each (same values). Island layout 64. Poster display 53 panels"
+    },
+    {
+      "name": "North Garden Lounge A, C (each)",
+      "note": "Island layout 48. Poster display 24 panels"
+    },
+    {
+      "name": "North Garden Lounge B",
+      "note": "Island layout 60. Poster display 44 panels"
+    },
+    {
+      "name": "North G301+G302 / G401+G402",
+      "note": "Classroom horizontal 240 / vertical 224. Theater horizontal 396 / vertical 442. Island layout 256. Poster display 174 panels"
+    },
+    {
+      "name": "North G301 / G401",
+      "note": "Island layout 128. Poster display 90 panels"
+    },
+    {
+      "name": "North G302 / G402",
+      "note": "Island layout 128. Poster display 92 panels"
+    },
+    {
+      "name": "North G303+G304 / G403+G404",
+      "note": "Classroom horizontal 288 / vertical 260. Theater horizontal 504 / vertical 480. Island layout 280. Poster display 207 panels"
+    },
+    {
+      "name": "North G303 / G403",
+      "note": "Island layout 120. Poster display 108 panels"
+    },
+    {
+      "name": "North G304 / G404",
+      "note": "Island layout 120. Poster display 105 panels"
+    },
+    {
+      "name": "North G311",
+      "note": "Island layout 60. Poster display 28 panels"
+    },
+    {
+      "name": "North G411",
+      "note": "Island layout 60. Poster display 28 panels"
+    },
+    {
+      "name": "North G312+G313 / G412+G413",
+      "note": "Island layout 80. Poster display 60 panels"
+    },
+    {
+      "name": "North G312 / G412",
+      "note": "Island layout 48. Poster display 32 panels"
+    },
+    {
+      "name": "North G313 / G413",
+      "note": "Island layout 48. Poster display 32 panels"
+    },
+    {
+      "name": "North G314+G315, G316+G317, G318+G319 (4F: G414+G415, etc.; each)",
+      "note": "Island layout 80. Poster display 66 panels"
+    },
+    {
+      "name": "North G314-G319 / G414-G419 (each)",
+      "note": "Island layout 48. Poster display 34 panels"
+    },
+    {
+      "name": "North G320",
+      "note": "Island layout 48. Poster display 39 panels"
+    },
+    {
+      "name": "North G420",
+      "note": "Island layout 48. Poster display 39 panels"
+    }
+  ],
+  "ops": {
+    "catering": "Catering is limited to designated vendors; outside catering companies may not bring in food or drink. For the National Convention Hall, Conference Center, Exhibition Hall and Annex Hall, the only vendor is the Yokohama Grand InterContinental Hotel (up to 7,000 guests). For the North, the organizer chooses one company per event from the designated hotels (Yokohama Bay Hotel Tokyu and The Kahala Hotel & Resort Yokohama: up to around 500 guests; the Catering Service Guide PDF also lists Yokohama Royal Park Hotel). The catering company must be decided by 6 months before the event, and the menu and quantities by 1 month before. (Source: plan site, catering arrangements; Explanation of Important Matters 2025.9; Catering Service Guide PDF)",
+    "restaurants": "On the Exhibition Hall 2F: Ristorante Attimo (Italian), DANZERO (French), Pizza-La Express, Doutor Coffee Shop and 7-Eleven. On the Exhibition Hall 1F: Daily Yamazaki. On the North 2F: UNI COFFEE ROASTERY and Doutor Coffee Shop. On the Conference Center 6F: Bay Bridge Cafeteria (hotel-operated). Each tenant accepts \"store parties\". The restaurants of the Yokohama Grand InterContinental Hotel (Chinese, French, buffet, Japanese, lounge & bar) are also listed on the same page.",
+    "prevDaySetup": "The Exhibition Hall has a \"setup and teardown\" time category, and it can be rented in half-day units (0:00-12:00 / 12:00-24:00) only when it is continuous with a full-day rental (0:00-24:00). Prices including tax (from October 2026): ABCD, 4,092,000 yen per half day; B and D, 1,364,000 yen each; A and C, 682,000 yen each. The National Convention Hall has a \"use on days other than the event day\" category: for 1-8 hours, 1,597,200 yen on weekdays and 1,887,600 yen on Sat, Sun & holidays (tax included). For the Conference Center, Annex Hall and North as well, the rental time runs from unlocking to locking (including setup and teardown time). (Source: Exhibition Hall and National Convention Hall price list PDFs, from October 2026; Facility Usage Regulations, Appendix 2)",
+    "waitingRooms": "Waiting rooms are provided per building. The National Convention Hall has 11 waiting rooms and dressing rooms (N101 258 m² and others, special waiting rooms N302 89 m² and N303 20 m²); N101, N111 and N112 are included in the venue usage fee. The Exhibition Hall has 31 attached waiting rooms for Halls A-D (25-90 m²), which are included in the venue usage fee. The Conference Center has 10 waiting rooms (10-110 m²) and a special reception room of 46 m²; the Annex Hall has F1 18 m², F2 10 m² and the E23 VIP waiting room 69 m²; the North has 4 rooms, G101-G104 (30-74 m²). These have individual fees in the price lists, and the waiting rooms cannot be used on their own. (Source: capacity tables and price lists of each facility, from October 2026)",
+    "loadingHours": "Load-in and load-out is possible during the rental time itself (from unlocking to locking, including setup and teardown). The Exhibition Hall is rented for a full day, 0:00-24:00; the National Convention Hall, Conference Center, Annex Hall and North are rented by time category, such as 9:00-17:00 or 9:00-21:00. Load-in facilities of the National Convention Hall: freight elevator (W3.0 x D5.0 x H2.6 m, 4 t capacity), loading storage (W5.0 x H3.55 m) and lift pit (W5.0 x D6.8 x H2.85 m, 5.9 t capacity, only when the lift stage is used). The load-in/load-out entrance of the Conference Center Main Hall is W3.2 x H2.6 m. Vehicles can drive into the Exhibition Hall from the 1F loading entrance, up to 10.5 t. Parcel delivery loads in via the PACIFICO Logistics Center on the Exhibition Hall 2F. (Source: Facility Usage Regulations, Appendix 2; capacity and equipment list sheet; Exhibition Hall facility overview sheet; parcel load-in and load-out guide PDF)",
+    "parking": "There are 4 on-site parking lots. Minatomirai Public Parking (P1): 1,154 cars and 44 motorcycles, open 24 hours with entry 7:00-24:00, no reservations; vehicle limits are height 2.1 m, length 6.0 m, width 2.2 m and weight 4.0 t or less. North Parking (P4): 152 spaces (height 2.3 m, length 5.0 m, width 2.3 m, 3.5 t or less). Rinko Park Parking (P2): 90 spaces (height 2.0 m or less, 8:00-21:00, no overnight parking). Bus and large vehicle parking (P3): 8 spaces (entry and exit 7:00-22:00, reservation required, accepted from 1 month in advance). The maximum charge for P1 and North Parking from 7:00 to 24:00 is 1,800 yen on weekdays and 2,400 yen on Sat, Sun, holidays and specified days. (Source: Parking Guide PDF, official parking page)",
+    "vehicleRules": "Parking on public roads and cargo handling on the street are prohibited; for delivery vehicles, the user must secure a vehicle waiting area and assign guides and security staff. Waiting areas are paid and require advance application (up to 1 month before). There are 6 locations, including the seismic-resistant berth (1 block, 110,000 yen per 12 hours, 55,000 yen for load-out, about 40 vehicles), the piloti (110,000 yen per 12 hours, entry height up to 3.8 m, in principle for Exhibition Hall D users) and Yamauchi Wharf (Triangular Lot (Large) 6,300 m², about 180 vehicles, 554,400 yen per 12 hours, and others). On-site restrictions on the service passage: height 3.8 m or less, 8 km/h or less, 4 t vehicles or less (over 4 t, consult in advance). (Source: Vehicle Waiting Area Guide PDF, June 2024 edition; Explanation of Important Matters 2025.9)"
+  },
+  "documents": [
+    {
+      "title": "Facility Usage Regulations"
+    },
+    {
+      "title": "Explanation of Important Matters (2025.9)"
+    },
+    {
+      "title": "Vehicle Waiting Area Guide"
+    },
+    {
+      "title": "Guide to Parcel Load-in and Load-out"
+    },
+    {
+      "title": "General Brochure (2025.3)"
+    },
+    {
+      "title": "Catering Service Guide"
+    },
+    {
+      "title": "Parking Guide"
+    },
+    {
+      "title": "Exhibition Hall Price List (from October 2026)"
+    },
+    {
+      "title": "National Convention Hall Price List (from October 2026)"
+    },
+    {
+      "title": "Conference Center Price List (from October 2026)"
+    },
+    {
+      "title": "North Price List (from October 2026)"
+    },
+    {
+      "title": "Annex Hall Price List (from October 2026)"
+    }
+  ],
+  "nearby": {
+    "convenience": [
+      {
+        "name": "7-Eleven DJ PACIFICO Yokohama",
+        "hours": "Daily 7:00-21:00 (including holidays)",
+        "note": "Within the venue grounds. Official business hours are 7:00-21:00"
+      },
+      {
+        "name": "7-Eleven Yokohama Minatomirai 3-chome",
+        "hours": "Open 24 hours",
+        "note": null
+      },
+      {
+        "name": "7-Eleven Yokohama Minatomirai Park Building",
+        "hours": "Open 24 hours",
+        "note": null
+      }
+    ],
+    "copyshop": [
+      {
+        "name": "Kinko's PACIFICO Yokohama",
+        "hours": "Varies by event period and by month (see the official business calendar; regular weekday and Sat, Sun & holiday hours are not listed officially)",
+        "note": "Inside the venue. Distance is approximate because it is inside the venue"
+      },
+      {
+        "name": "ACCEA Yokohama Landmark Tower",
+        "hours": "Weekdays 8:00-20:00 / Sat, Sun & holidays 10:00-19:00",
+        "note": "Distance is calculated from the position of the address (lot number)"
+      }
+    ],
+    "hundredYen": [
+      {
+        "name": "DAISO Minatomirai Tokyu Square",
+        "hours": "11:00-20:00",
+        "note": "Distance is calculated from the position of the address (lot number)"
+      },
+      {
+        "name": "DAISO MARK IS Minatomirai",
+        "hours": "10:00-20:00",
+        "note": "Distance is calculated from the position of the address (lot number)"
+      }
+    ],
+    "donki": [
+      {
+        "name": "Don Quijote Yokohama Nishiguchi",
+        "hours": "Open 24 hours",
+        "note": "Far (21 min walk). Distance is calculated from the position of the address"
+      }
+    ]
+  },
+  "photoCredit": null
+}

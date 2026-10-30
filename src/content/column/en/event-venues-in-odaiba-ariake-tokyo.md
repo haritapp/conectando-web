@@ -110,6 +110,8 @@ https://bizintokyo.com/en/hotels/ariake-central-tower-hall-conference/
 
 https://bizintokyo.com/en/hotels/bellesalle-ariake-conference/
 
+To compare venues in this area by capacity and size, and to check floor plans, price lists, the official load-in and waiting-room rules and nearby print shops, see the [venue list](/en/venues/?area=odaiba-ariake-venues).
+
 ## Related articles
 
 - [What to Decide Before Choosing an Event Venue in Tokyo](/en/column/what-to-decide-before-choosing-an-event-venue-in-tokyo/)

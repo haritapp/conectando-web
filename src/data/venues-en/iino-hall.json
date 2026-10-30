@@ -1,0 +1,159 @@
+{
+ "slug": "iino-hall",
+ "name": "IINO HALL & CONFERENCE CENTER",
+ "address": "Tokyo 100-0011, 4F-6F Iino Building, 2-1-1 Uchisaiwaicho, Chiyoda-ku",
+ "accessSummary": "Tokyo Metro Hibiya Line and Chiyoda Line, Kasumigaseki Station, directly connected to Exit C4",
+ "hours": null,
+ "notice": "IINO HALL is closed for facility renovation work from July 1, 2026 to the end of March 2027 (planned). The Conference Center operates as usual. The closure period may change depending on construction progress. The timing and method for Hall applications after the closure will be announced on the official website. In addition, some ancillary fees will be revised from April 1, 2027 (announced October 6, 2026).",
+ "rooms": [
+  {
+   "name": "IINO HALL",
+   "note": "500 fixed seats (including 15 movable seats), 4F. Under the Fire Service Act, the capacity of 500 must be strictly observed and standing in the seating area is prohibited. Closed for renovation work from July 1, 2026 to the end of March 2027 (planned). Full day (9:00-21:30) ¥839,740 (tax included, as of April 1, 2024)"
+  },
+  {
+   "name": "Room A1+A2+A3",
+   "note": "Room A (entire room). Dedicated foyer available. Layout examples: 32 seats hollow square + 128 seats theater. Full day ¥750,200. The Room A layout page lists 234 seats classroom (the fee table says 252)"
+  },
+  {
+   "name": "Room A1+A2",
+   "note": "Full day ¥590,480"
+  },
+  {
+   "name": "Room A1",
+   "note": "Full day ¥296,560"
+  },
+  {
+   "name": "Room A2",
+   "note": "Full day ¥296,560"
+  },
+  {
+   "name": "Room A3",
+   "note": "Full day ¥296,560"
+  },
+  {
+   "name": "Conference Waiting Room",
+   "note": "Waiting room adjoining Room A. Morning ¥3,740, full day ¥7,260"
+  },
+  {
+   "name": "Room B1+B2+B3",
+   "note": "Room B (entire room). Full day ¥590,480. The Room B layout page lists 232 seats theater and 168 seats classroom (the fee table says 238 and 180)"
+  },
+  {
+   "name": "Room B1+B2",
+   "note": "Full day ¥435,600"
+  },
+  {
+   "name": "Room B1",
+   "note": "Full day ¥236,060"
+  },
+  {
+   "name": "Room B2",
+   "note": "Full day ¥217,800"
+  },
+  {
+   "name": "Room B3",
+   "note": "Full day ¥217,800"
+  },
+  {
+   "name": "Room C",
+   "note": "20 seats U-shape (Room C layout page). Full day ¥181,500"
+  },
+  {
+   "name": "Room D1+D2",
+   "note": "16 seats island layout (Room D layout page). Full day ¥121,000"
+  },
+  {
+   "name": "Room D1",
+   "note": "12 seats island layout (Room D layout page). Full day ¥75,020"
+  },
+  {
+   "name": "Room D2",
+   "note": "Full day ¥75,020"
+  },
+  {
+   "name": "Room E",
+   "note": "16 seats hollow square (round). Dedicated restroom. Full day ¥161,040"
+  },
+  {
+   "name": "Roof Gallery",
+   "note": "6F. In principle for Hall users only; available from 2 hours within the Hall's usage period. Bar corner attached. Full day ¥459,800"
+  }
+ ],
+ "ops": {
+  "catering": "Organizers may not bring in outside food or drink (Usage Rules Article 16 (13) and Article 17 (3), FAQ). Boxed meals, drinks and reception catering can be arranged through partner companies. Parties: Tokyo Kaikan, Dai-ichi Hotel Tokyo, Cordon Bleu, FUORICLASSE, Sankei Kaikan, Nirax Catering Service. Boxed meals: Ningyocho Imahan, Kameido Masumoto, Izutsu Maisen, Blossom & Bouquet, Minokichi, Kyoka, Nihonbashi Hamacho Ebisuya. Eating and drinking in the Hall seating area is prohibited.",
+  "restaurants": "Restaurants, a convenience store and other shops are in \"IINO DINING\" on the B1 floor of Iino Building (except Sundays, holidays and the year-end and New Year period). A kiosk in the Hall foyer sells light meals and drinks. A reception can be held on the same floor; the example given is \"lecture in the Hall, then reception in Room A\".",
+  "prevDaySetup": "Usage time includes entry and setup through cleanup and departure, so entry earlier than the usage time is not possible (FAQ). For the Hall only, use for preparation work, rehearsals, etc. is charged at half the usage-slot fee (Facility Fee Table, as of April 1, 2024).",
+  "waitingRooms": "Six rooms for the Hall on 5F: Waiting Room 1 (28 m²), Waiting Rooms 2 and 3 (25 m² each, can be used connected), Waiting Room 4 = special room (25 m², dedicated restroom), Waiting Room 5 = Japanese-style room (35 m²), and the Organizer's Waiting Room (16.5 m²). The Organizer's Waiting Room fee is included in the Hall fee; Waiting Rooms 1-3 are from ¥2,420 (tax included) per usage slot. On the Conference Center side there is a Conference Waiting Room (20 m²), and Room D and Room E can also be used as waiting rooms or an event office.",
+  "loadingHours": "Opening hours are in principle 9:00-21:30 (Usage Rules Article 3). The load-in elevator drawing gives these dimensions: inside the elevator width 1800 × depth 2250 × height 2500 mm, entrance width 1400 mm, width between the handrails 1650 mm. For parcel deliveries, the venue specifies the date, time, volume and contents of delivery, and does not accept parcels arriving outside business hours or parcels without prior inquiry (Article 22). The storage fee for items sent in advance is ¥330 per item. (Source: Usage Rules as of April 1, 2024; Ancillary Fee Table as of September 1, 2024)",
+  "parking": "There is no parking for organizers; use the hourly parking on B2 of Iino Building. Hours are 7:00-23:00 (open every day), and entry and exit are not possible from 23:00 to 7:00. Fees are ¥400 per 30 minutes, with a 12-hour maximum of ¥3,200. Reservations are not possible.",
+  "vehicleRules": "There is no parking dedicated to the facility, and parking reservations are not accepted. If parking is needed for load-in and load-out, inquire in advance because conditions such as vehicle restrictions apply (Usage Rules Article 21, as of April 1, 2024)."
+ },
+ "documents": [
+  { "title": "Usage Rules (as of April 1, 2024)" },
+  { "title": "Facility Fees (as of April 1, 2024)" },
+  { "title": "Facility Fee Table (PDF)" },
+  { "title": "Ancillary Fee Table (PDF)" },
+  { "title": "[From April 1, 2027] Ancillary Fee Table" },
+  { "title": "Load-in Elevator Dimensions" },
+  { "title": "Parking Information" },
+  { "title": "Floor Map" },
+  { "title": "FAQ" },
+  { "title": "Catering" }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "7-Eleven Uchisaiwaicho 2-chome",
+    "hours": "Mon-Fri 7:00-23:00 / Sat 7:00-22:00 / Sun & holidays 7:00-20:00",
+    "note": "Same address as the venue (inside Iino Building). The name shown on the official page is \"Uchisaiwaicho 2-chome\""
+   },
+   {
+    "name": "FamilyMart Uchisaiwaicho Fukoku Seimei Building",
+    "hours": "7:00-22:00",
+    "note": "The official hours field has only one line (differences by day of the week not confirmed)"
+   },
+   {
+    "name": "Lawson Hibiya Kokusai Building",
+    "hours": "7:00-21:00 (as shown in the official list, as of Friday; hours by day of the week not confirmed)",
+    "note": "The name shown in the official search list is \"Hibiya Kokusai Building\""
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "Accea Toranomon",
+    "hours": "Weekdays open 24 hours (open continuously from Monday 8:00 to Saturday 19:00), Sat until 19:00, Sun & holidays 10:00-19:00",
+    "note": null
+   },
+   {
+    "name": "Kinko's Toranomon",
+    "hours": "Weekdays 9:00-20:00 / Sat, Sun & holidays closed",
+    "note": null
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Seria Exit Melsa Ginza",
+    "hours": "11:00-20:00 (official \"today's business hours\", as of Friday, October 30, 2026)",
+    "note": null
+   },
+   {
+    "name": "Can Do Shiroyama Hills",
+    "hours": "Mon-Sun 9:00-23:00",
+    "note": null
+   }
+  ],
+  "donki": [
+   {
+    "name": "Don Quijote Ginza Honkan",
+    "hours": "Open 24 hours",
+    "note": "The name shown in the official list is \"Ginza Honkan\""
+   },
+   {
+    "name": "Don Quijote Roppongi",
+    "hours": "Open 24 hours",
+    "note": "Far (about 25 min walk). The name shown in the official list is \"Roppongi\". Picasso Akasaka (1462 m) is excluded because it is a Picasso-format store"
+   }
+  ]
+ },
+ "photoCredit": null
+}

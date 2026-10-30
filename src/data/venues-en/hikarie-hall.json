@@ -1,0 +1,64 @@
+{
+ "slug": "hikarie-hall",
+ "name": "Hikarie Hall",
+ "address": "Tokyo 150-8510, Shibuya Hikarie 9F, 2-21-1 Shibuya, Shibuya-ku",
+ "accessSummary": "Directly connected to JR and Keio Inokashira Line Shibuya Station via the 2nd-floor connecting passage / Directly connected to Tokyo Metro Ginza Line Shibuya Station on the 1st floor / Directly connected to Exit B5 of Shibuya Station (Tokyu Toyoko Line, Tokyu Den-en-toshi Line, Tokyo Metro Hanzomon Line, Fukutoshin Line)",
+ "hours": null,
+ "notice": null,
+ "rooms": [
+  { "name": "Hall A", "note": "38.5m x 26.0m, flat floor. Official maximum capacity is 1,004. Usable area including the foyer etc. is about 1,400 m². Standing capacity is about 600" },
+  { "name": "Hall B", "note": "24.0m x 12.0m, flat floor. Official maximum capacity is 301. Usable area including the foyer etc. is about 650 m². Standing capacity is about 160" },
+  { "name": "Hall A and B Combined", "note": "Usable area about 2,500 m² (including the foyers etc.)" },
+  { "name": "Foyer A", "note": "Dedicated to Hall A. Standing capacity about 150-200 (area is about 300 m² in the equipment description)" },
+  { "name": "Foyer B", "note": "Dedicated to Hall B. Standing capacity about 100 (area is about 250 m² in the equipment description)" },
+  { "name": "Free Space A/B", "note": "Between Hall A and Hall B. Has a movable wall in the center" },
+  { "name": "Organizer Waiting Room A", "note": "9F. Included in the basic rental fee when Hall A is used" },
+  { "name": "Organizer Waiting Room B1", "note": "9F. Included in the basic rental fee when Hall B is used" },
+  { "name": "Organizer Waiting Room B2", "note": "9F. Included in the basic rental fee when Hall B is used" },
+  { "name": "Dressing Room 1", "note": "10F. When Hall A or Hall A and B combined is used. Can be connected to Dressing Room 2. 10,000 yen per day (excl. tax)" },
+  { "name": "Dressing Room 2", "note": "10F. When Hall A or Hall A and B combined is used. Can be connected to Dressing Room 1. 10,000 yen per day (excl. tax)" },
+  { "name": "Dressing Room 3", "note": "10F. When Hall A or Hall A and B combined is used. VIP specification (sofa, private restroom). 10,000 yen per day (excl. tax)" },
+  { "name": "Dressing Room 4", "note": "10F. When Hall A or Hall A and B combined is used. 7,500 yen per day (excl. tax)" },
+  { "name": "Dressing Room 5", "note": "10F. When Hall B or Hall A and B combined is used. 7,500 yen per day (excl. tax) in the fee schedule" },
+  { "name": "Dressing Room 6", "note": "10F. When Hall B or Hall A and B combined is used. VIP specification. 10,000 yen per day (excl. tax)" },
+  { "name": "Dressing Room Office 1", "note": "Free when any of Dressing Rooms 1-4 is used" },
+  { "name": "Dressing Room Office 2", "note": "Free when either of Dressing Rooms 5-6 is used" }
+ ],
+ "ops": {
+  "catering": "The hall arranges everything from placing the catering order through load-in and load-out and delivery (orders must be placed by 1 month before the day of use; minimum order amount from 126,000 yen; taking food home is not allowed). Bento boxes (each supplier has a minimum order amount), beverages by the case, and pot service (coffee, tea, cake) can also be arranged. Eating and drinking is allowed in the hall and foyers; simple cooking is allowed only in designated places (such as the bar counter in the foyer). (Source: catering page, FAQ, as of October 2026)",
+  "restaurants": "Shibuya Hikarie has 29 cafes and restaurants in total on the 6F, 7F, 8F and 11F (13 on 6F, 13 on 7F, 1 on 8F, 2 on 11F), and one each on B2, B1, 1F, 4F and 5F as well. The official page says they can be used for any occasion, such as welcome and farewell parties (6F 'dining6' offers cuisines from various countries; 7F 'TABLE7' is for all-day dining).",
+  "prevDaySetup": "If you wish to set up at night the day before, the setup start time is set according to instructions from the facility manager. Setup and teardown days apply for up to 2 days per event (Hall A 1,260,000 yen / Hall B 540,000 yen, each 10:00-22:00, excl. tax); from the 3rd day, the event-day rate applies. Outside hours (22:00 to 10:00 the next day) require prior approval, at 210,000 yen per hour for Hall A / 90,000 yen per hour for Hall B (excl. tax). (Source: Rules of Use PDF, October 2022 edition; fee schedule, May 2025 edition)",
+  "waitingRooms": "Hall A use: 1 organizer waiting room (9F, 45 m², included in the basic rental fee), 4 dressing rooms (10F, 41 / 42 / 19 / 25 m²), 1 dressing room office (8 m²). Hall B use: 2 organizer waiting rooms (9F, 43 / 17 m², included in the basic rental fee), 2 dressing rooms (10F, 30 / 19 m²), 1 dressing room office (13 m²). Dressing rooms cost 7,500-10,000 yen per day (excl. tax); dressing room offices are free when a 10F dressing room is used.",
+  "loadingHours": "The loading room on 1F (the entrance for delivery vehicles) accepts vehicles up to 11 t; berth opening W4,000 mm (depth W3,500 mm), platform height 1,000 mm. The large load-in and load-out elevator is W8,000 x D3,000 x H4,500 mm (opening H3,400 mm), maximum load 10,000 kg (plus 2 small elevators, 1,600 kg). The loading room and elevators are shared with other facilities in the building and can be used exclusively only during the requested time slot. The usage hours (10:00-22:00) include setup and teardown time; a meeting with the facility manager on the schedule, setup, etc. is held by 30 days before the start of use, and load-in and load-out are discussed in advance with the facility manager and carried out with the facility manager present. (Source: FAQ, facility page, Rules of Use PDF October 2022 edition)",
+  "parking": "When using the hall, use the Shibuya Hikarie parking lot or a nearby coin parking lot. The Hikarie parking lot is mechanical, open 6:50-24:00 (last entry 23:30), 400 yen per 30 min (tax included), maximum charge 3,200 yen (weekdays during business hours only). Vehicle size limits for entry: standard cars L5,300 x W1,900 x H1,550 mm, weight 2,300 kg; high-roof vehicles up to a height of 2,000 mm. Use of Hikarie Hall is not eligible for the parking discount service, and there is no parking for group buses.",
+  "vehicleRules": "Load-in and load-out must use the designated entrance, and street parking or illegal parking on surrounding roads is not allowed. Load-in and load-out are discussed in advance with the facility manager and carried out with the facility manager present. Depending on events at other facilities in the building, the use of the parking lot and the load-in and load-out elevator may be adjusted. Do not wait on public roads when the building parking lot is full. (Source: Rules of Use PDF October 2022 edition, access page)"
+ },
+ "documents": [
+  { "title": "Rules of Use (October 2022 edition)" },
+  { "title": "Fee Schedule (May 2025 edition)" },
+  { "title": "Process Until Hall Use (October 2022 edition)" },
+  { "title": "Equipment List (February 2026 edition)" },
+  { "title": "Whole-Floor Plan (with dimensions)" },
+  { "title": "FAQ" },
+  { "title": "Parking Guide (Shibuya Hikarie)" }
+ ],
+ "nearby": {
+  "convenience": [
+   { "name": "FamilyMart Miyamasuzaka-shita", "hours": "Open 24 hours", "note": null },
+   { "name": "7-Eleven Shibuya 3-chome Roppongi-dori", "hours": "Open 24 hours", "note": null }
+  ],
+  "copyshop": [
+   { "name": "Accea Shibuya", "hours": "Open 24 hours, every day of the year", "note": null },
+   { "name": "Kinko's Shibuya Sakura Stage", "hours": "Weekdays, Sat, Sun & holidays 9:00-22:00", "note": null }
+  ],
+  "hundredYen": [
+   { "name": "DAISO Shibuya Mark City", "hours": "9:30-21:00", "note": null },
+   { "name": "DAISO Shibuya Center-gai", "hours": "10:00-21:30", "note": null }
+  ],
+  "donki": [
+   { "name": "MEGA Don Quijote Shibuya Main Store", "hours": "Open 24 hours", "note": null },
+   { "name": "MEGA Don Quijote Shibuya Annex", "hours": "Open 24 hours", "note": null }
+  ]
+ },
+ "photoCredit": null
+}

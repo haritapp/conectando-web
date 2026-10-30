@@ -98,6 +98,8 @@ https://bizintokyo.com/en/hotels/westin-tokyo/
 
 https://bizintokyo.com/en/hotels/shibuyaqws/
 
+To compare venues in this area by capacity and size, and to check floor plans, price lists, the official load-in and waiting-room rules and nearby print shops, see the [venue list](/en/venues/?area=shibuya-ebisu-venues).
+
 ## Related articles
 
 - [What to Decide Before Choosing an Event Venue in Tokyo](/en/column/what-to-decide-before-choosing-an-event-venue-in-tokyo/)

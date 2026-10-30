@@ -1,0 +1,323 @@
+{
+  "slug": "tokyo-international-forum",
+  "name": "Tokyo International Forum",
+  "address": "Tokyo 100-0005 3-5-1 Marunouchi, Chiyoda-ku, Tokyo",
+  "accessSummary": "JR Yurakucho Station: 1 min walk / JR Tokyo Station: 5 min walk (connected to the Keiyo Line Tokyo Station via the basement level 1 concourse) / Tokyo Metro Yurakucho Line Yurakucho Station (connected via the basement level 1 concourse)",
+  "hours": null,
+  "notice": null,
+  "rooms": [
+    {
+      "name": "Hall A",
+      "note": "Fixed seating, two-level theater style. 1st floor 3,025 seats (2,926 when the orchestra pit is used), 2nd floor 1,987. Stage 57.7 m wide x 16 m deep; simultaneous interpretation equipment for 16 languages"
+    },
+    {
+      "name": "Hall C",
+      "note": "Fixed seating, three-level theater style. 1st floor 739 seats (653 when the pit is used), 2nd floor 363, 3rd floor 400. Stage 43 m wide x 15 m deep; simultaneous interpretation equipment for 8 languages"
+    },
+    {
+      "name": "Hall B7",
+      "note": "Flat floor, about 37.5 m x 37.5 m; 502 poster display panels, 98 exhibition booths; can be divided into 2; simultaneous interpretation for 16 languages"
+    },
+    {
+      "name": "Hall B7 (1)",
+      "note": "When used as 2 divisions. 154 poster panels, 51 booths"
+    },
+    {
+      "name": "Hall B7 (2)",
+      "note": "When used as 2 divisions. 261 poster panels, 43 booths"
+    },
+    {
+      "name": "Hall B5",
+      "note": "Flat floor 25 m x 24 m, 252 poster display panels, kitchen facilities available, can be divided into 2"
+    },
+    {
+      "name": "Hall B5 (1)",
+      "note": "When used as 2 divisions. 93 poster panels"
+    },
+    {
+      "name": "Hall B5 (2)",
+      "note": "When used as 2 divisions. 96 poster panels"
+    },
+    {
+      "name": "Hall D7",
+      "note": "Flat floor, 114 poster display panels, retractable seating for 100/180, freight elevator available, 7th floor (dedicated lobby on 6th floor)"
+    },
+    {
+      "name": "Hall D5",
+      "note": "16.5 m x 17.2 m, 107 poster display panels, 5th floor. Meeting rooms D502 and D503 can be used as waiting rooms, etc."
+    },
+    {
+      "name": "Hall D1",
+      "note": "13.7 m x 10 m, 1st floor"
+    },
+    {
+      "name": "Hall E",
+      "note": "2nd basement floor. Booth exhibits: 241 booths (2 m x 3 m), 187 booths (3 m x 3 m); 1,022 poster panels; island layout for 1,956 people. Floor load capacity 1.0 t/m²; exhibition power supply 1,736 KVA. Can be divided into 2 (E1 3,000 m² / E2 2,000 m²)"
+    },
+    {
+      "name": "Hall E1",
+      "note": "When divided. Booths 147/115, 655 poster panels, island layout for 1,236 people"
+    },
+    {
+      "name": "Hall E2",
+      "note": "When divided. Booths 102/72, 367 poster panels, island layout for 720 people"
+    },
+    {
+      "name": "Lobby Gallery",
+      "note": "Whole space use. When divided, 350 m² each. Used together with Hall E, Glass Building conference rooms, etc., it becomes \"Lobby Gallery EX\" (800 m²)"
+    },
+    {
+      "name": "Lounge",
+      "note": null
+    },
+    {
+      "name": "Ground Plaza A (whole)",
+      "note": "Outdoor, about 880 m². Can be divided into A-1 (about 530 m²) and A-2 (about 350 m²). Hours of use 8:00-23:00"
+    },
+    {
+      "name": "Ground Plaza B (whole)",
+      "note": "Outdoor, about 670 m². Can be divided into B-1 (about 350 m²) and B-2 (about 320 m²)"
+    },
+    {
+      "name": "Ground Plaza C",
+      "note": "Outdoor, about 380 m²"
+    },
+    {
+      "name": "Ground Plaza D",
+      "note": "Outdoor, about 160 m²"
+    },
+    {
+      "name": "Conference Room D401",
+      "note": "Only when used together with a hall"
+    },
+    {
+      "name": "Conference Room D502",
+      "note": "Hall D5 users only"
+    },
+    {
+      "name": "Conference Room D503",
+      "note": "Hall D5 users only"
+    },
+    {
+      "name": "Conference Room G401",
+      "note": null
+    },
+    {
+      "name": "Conference Room G402",
+      "note": null
+    },
+    {
+      "name": "Conference Room G403",
+      "note": null
+    },
+    {
+      "name": "Conference Room G404",
+      "note": null
+    },
+    {
+      "name": "Conference Room G405",
+      "note": null
+    },
+    {
+      "name": "Conference Room G406",
+      "note": "Desk and chair layout cannot be changed (not available for exhibition use)"
+    },
+    {
+      "name": "Conference Room G407",
+      "note": null
+    },
+    {
+      "name": "Conference Room G408",
+      "note": null
+    },
+    {
+      "name": "Conference Room G409",
+      "note": null
+    },
+    {
+      "name": "Conference Room G410",
+      "note": null
+    },
+    {
+      "name": "Conference Room G501",
+      "note": null
+    },
+    {
+      "name": "Conference Room G502",
+      "note": null
+    },
+    {
+      "name": "Conference Room G503",
+      "note": null
+    },
+    {
+      "name": "Conference Room G504",
+      "note": null
+    },
+    {
+      "name": "Conference Room G505",
+      "note": null
+    },
+    {
+      "name": "Conference Room G506",
+      "note": "Desk and chair layout cannot be changed (not available for exhibition use)"
+    },
+    {
+      "name": "Conference Room G507",
+      "note": null
+    },
+    {
+      "name": "Conference Room G508",
+      "note": null
+    },
+    {
+      "name": "Conference Room G509",
+      "note": null
+    },
+    {
+      "name": "Conference Room G510",
+      "note": null
+    },
+    {
+      "name": "Conference Room G601",
+      "note": null
+    },
+    {
+      "name": "Conference Room G602",
+      "note": null
+    },
+    {
+      "name": "Conference Room G603",
+      "note": null
+    },
+    {
+      "name": "Conference Room G604",
+      "note": null
+    },
+    {
+      "name": "Conference Room G605",
+      "note": null
+    },
+    {
+      "name": "Conference Room G606",
+      "note": "Desk and chair layout cannot be changed (not available for exhibition use)"
+    },
+    {
+      "name": "Conference Room G607",
+      "note": null
+    },
+    {
+      "name": "Conference Room G608",
+      "note": null
+    },
+    {
+      "name": "Conference Room G609",
+      "note": null
+    },
+    {
+      "name": "Conference Room G610",
+      "note": null
+    },
+    {
+      "name": "Conference Room G701",
+      "note": "Private waiting room (22.6 m²) attached"
+    }
+  ],
+  "ops": {
+    "catering": "Outside food and drink may not be brought into the building for food hygiene reasons, and food and drink service is limited to designated companies (bringing food or drink into the seating areas of Hall A and Hall C, and cooking there, is also prohibited). Catering is delivered directly from the central kitchen in the building; options include party menus, boxed meals, breakfast/lunch/dinner, and light meals and drinks, and there are limited menus for conference rooms used on their own. The catering service application form must be submitted 2 weeks in advance. Hall E has electrical and water supply/drainage pits, so exhibits involving cooking or food and drink are also possible, but the Tokyo International Forum rules on bringing in food and drink and the guidance of the Chiyoda Public Health Center must be followed. (Source: Facility Usage Guide, as of September 2025; Documents to Submit After Booking)",
+    "restaurants": "In the building there is Toutenkou (Chinese) on the 7th floor of the Glass Building, and Sizzler, Saigon (Vietnamese), Papa Milano (Italian), Sakagura Restaurant Takara and Pronto on the 1st basement floor; all offer party menus. There are also Hama-zushi on the 1st floor, cafes, FamilyMart and others. In the Glass Building conference rooms, a private-room buffet party plan by a chef from the Imperial Hotel (free drinks, room fee, tax and service charge included) is also available. (Source: Official website, Shops & Restaurants, retrieved October 2026)",
+    "prevDaySetup": "Hours of use run from entry to exit, including setup and teardown. Basic hours of use are 9:00-23:00 for Hall A, 9:00-22:00 for Halls B7, B5, C, D7, D5, D1 and E, and 9:00-21:00 for conference rooms (extensions in 1-hour units; late-night and early-morning use by prior consultation). When a hall is used on a day other than the event day only for setup, teardown or rehearsal, a dedicated \"setup, teardown and rehearsal\" rate applies (examples: Hall A weekdays, full day: 2,484,240 yen [event rate: 4,140,400 yen]; Hall B7 weekdays, full day: 1,201,200 yen [event rate: 2,002,000 yen]; tax included). Setup, teardown and rehearsal on the event day itself are charged at the event rate, and air conditioning in Hall E is charged separately only on setup/teardown days (cooling 35,200 yen/hour, heating 27,500 yen/hour). (Source: Facility Usage Guide, as of September 2025; Capacity and Rental Fee List PDF)",
+    "waitingRooms": "Hall A has dressing rooms, waiting rooms and a VIP waiting room, and the fees for ancillary facilities such as dressing rooms and waiting rooms are included in the hall rental fee (Hall C also has dressing rooms and waiting rooms, likewise included in the rental fee). Halls B7, B5, D7 and D1 also have waiting rooms (B7 and D7 have dressing rooms and waiting rooms); Hall D7 has 6 dressing rooms and waiting rooms on the same floor, and Hall D5 can use the 2 meeting rooms connected to its lobby as waiting rooms as well. Hall E has an organizer's waiting room, and among the Glass Building conference rooms only G701 comes with a dedicated waiting room (22.6 m²).",
+    "loadingHours": "The building is open 7:00-23:30. After closing and before opening (23:30 to 7:00 the next day), use the night entrance on the 1st floor, and event staff wear a \"staff badge\". Delivery vehicles enter from the \"general parking and loading area entrance\" on the 1st floor of the Glass Building on the JR Yurakucho Station side, split from general vehicles (which continue to the 3rd basement floor) on the 2nd basement floor, and proceed to the dedicated space for each facility in the loading area on the 2nd basement floor. The \"load-in and load-out plan\" and the \"load-in/load-out vehicle pass\" must be submitted 1 week in advance, and the venue management plan for setup and teardown 10 days in advance. Hall D7 has a freight elevator. (Source: Loading Area, Parking Entrance and Staff Entrance page; Documents to Submit After Booking page)",
+    "parking": "The parking lot on the 3rd basement floor has 417 spaces for standard passenger cars (including 7 for people with disabilities, 2 EV rapid-charging only and 10 EV standard-charging priority) and 10 for motorcycles, open 7:00-23:30 (open every day of the year; no entry or exit outside these hours). It is for standard passenger cars up to 2.2 m high, 1.9 m wide and 5.4 m long; large buses, trucks and bicycles cannot park. The fee for standard passenger cars is 200 yen per 30 minutes (on weekdays there is a long-stay discount of 2,000 yen for more than 5 hours up to 10 hours), and for organizers 2-hour tickets (normally 800 yen) are sold at 700 yen each. (Source: Parking page; Event Support Services, Other Services, retrieved October 2026)",
+    "vehicleRules": "Vehicles cannot be left in the loading area; if a vehicle must be left, use the paid parking lot on the 3rd basement floor. A \"load-in/load-out vehicle pass\" is required to enter the loading area and must be displayed on the windshield. The loading space differs by facility used, so the \"load-in and load-out plan\" must be submitted in advance. The general parking lot on the 3rd basement floor is only for standard passenger cars up to 2.2 m high, 1.9 m wide and 5.4 m long. Buses carrying participants use the bus drop-off area on the Tokyo Station side of the Glass Building, and a \"bus drop-off area use notification\" must be submitted 2 weeks in advance (consult the sales representative beforehand)."
+  },
+  "documents": [
+    {
+      "title": "Facility Usage Guide (Usage Regulations)"
+    },
+    {
+      "title": "Facility Usage Guide (Web Version)"
+    },
+    {
+      "title": "Capacity and Rental Fee List"
+    },
+    {
+      "title": "Floor Plans and Materials"
+    },
+    {
+      "title": "Documents to Submit After Booking"
+    },
+    {
+      "title": "Hall Booking: Process to Use"
+    },
+    {
+      "title": "Conference Room Booking (Standalone Use): Process to Use"
+    },
+    {
+      "title": "Loading Area, Parking Entrance and Staff Entrance"
+    },
+    {
+      "title": "Parking"
+    },
+    {
+      "title": "Event Support Services"
+    }
+  ],
+  "nearby": {
+    "convenience": [
+      {
+        "name": "FamilyMart Tokyo International Forum",
+        "hours": "7:00-23:30",
+        "note": null
+      },
+      {
+        "name": "FamilyMart Marunouchi Shin-Kokusai Building",
+        "hours": "7:00-22:00",
+        "note": null
+      },
+      {
+        "name": "7-Eleven Marunouchi Tokyo Building",
+        "hours": "7:00-23:00 (Mon and Sun: confirm)",
+        "note": null
+      }
+    ],
+    "copyshop": [
+      {
+        "name": "Kinko's Ginza 1-chome",
+        "hours": "Weekdays 9:00-20:00 / Sat 10:00-19:00 / Closed Sun & holidays (last reception 30 min before closing)",
+        "note": null
+      },
+      {
+        "name": "Kinko's Otemachi",
+        "hours": "Weekdays 9:00-20:00 / Closed Sat, Sun & holidays (last reception 30 min before closing)",
+        "note": null
+      }
+    ],
+    "hundredYen": [
+      {
+        "name": "DAISO Marronnier Gate Ginza",
+        "hours": "11:00-21:00",
+        "note": null
+      },
+      {
+        "name": "Standard Products Marronnier Gate Ginza",
+        "hours": "11:00-21:00",
+        "note": null
+      }
+    ],
+    "donki": [
+      {
+        "name": "Okashi Donki / Osake Donki (Yaesu Underground Mall store; small-format Don Quijote brand)",
+        "hours": "9:00-21:30",
+        "note": null
+      },
+      {
+        "name": "Don Quijote Ginza Honkan",
+        "hours": "Open 24 hours",
+        "note": null
+      }
+    ]
+  },
+  "photoCredit": null
+}

@@ -1,0 +1,52 @@
+{
+  "slug": "tokyo-conference-center-shinagawa",
+  "name": "Tokyo Conference Center Shinagawa",
+  "address": "Tokyo 108-0075 Area Shinagawa 3F-5F, 1-9-36 Konan, Minato-ku",
+  "accessSummary": "2 min walk from JR Shinagawa Station, Konan Exit (East Exit)",
+  "hours": null,
+  "notice": null,
+  "rooms": [
+    { "name": "Hall (entire)", "note": "5F. Screen 13.0 x 6.0 m. Full day (9:00-21:00) ¥1,100,000, afternoon (13:00-18:00) ¥600,000 (excluding 10% service charge and 10% consumption tax; as of June 1, 2024)" },
+    { "name": "Hall A", "note": "5F. One half of the Hall when divided in two. Screen 13.0 x 6.0 m. Full day ¥650,000" },
+    { "name": "Hall B", "note": "5F. One half of the Hall when divided in two. Screen 6.0 x 6.0 m. Full day ¥650,000" },
+    { "name": "501", "note": "5F. Full day ¥453,000" },
+    { "name": "Speaker's Lounge", "note": "5F. Morning and afternoon (9:00-18:00) ¥50,000" },
+    { "name": "401", "note": "4F. Full day ¥170,000" },
+    { "name": "402N", "note": "4F. Full day ¥480,000" },
+    { "name": "Boardroom N", "note": "4F. Full day ¥325,000" },
+    { "name": "404", "note": "4F. Full day ¥60,000" },
+    { "name": "405", "note": "4F. Full day ¥81,000" },
+    { "name": "406", "note": "4F. Full day ¥480,000" },
+    { "name": "407", "note": "4F. Full day ¥97,000" }
+  ],
+  "ops": {
+    "catering": "The facility has its own food and beverage division (restaurant division), and food and drinks are provided by the facility. The Terms of Use state \"Please refrain from bringing food and drinks from outside the facility,\" and the Party Terms of Use prohibit \"bringing in food and drinks, and taking home food and drinks served.\" Parties are applied for separately using a \"food and beverage application form.\" (Source: Terms of Use and Party Terms of Use PDF, as of February 9, 2015)",
+    "restaurants": "The restaurant \"Something Delicious\" on 3F is described in a notice dated March 5, 2025 as \"currently not open to the general public.\" The glass-walled foyer on 5F is intended for post-conference parties and cocktail receptions; use for exhibitions or parties is paid (quote required). Party use is 17:00-21:00 on weekdays and 12:00-21:00 on Sat, Sun & holidays, for up to 2 hours (Party Terms of Use, as of February 9, 2015).",
+    "loadingHours": "Standard operating hours are 9:00-21:00. Early morning (8:00-9:00) is available for a fee in 1-hour units (priced per room, e.g. Hall (entire) ¥126,000). Hours outside this are by consultation. Consult the facility in advance when bringing equipment or fixtures into a room (Terms of Use 5(2), as of February 9, 2015).",
+    "parking": "Parking is by advance reservation; consult the facility when using it (Terms of Use 5(3), as of February 9, 2015)."
+  },
+  "documents": [
+    { "title": "Price list and floor plan (as of June 1, 2024)" },
+    { "title": "Terms of Use and Party Terms of Use (as of February 9, 2015)" }
+  ],
+  "nearby": {
+    "convenience": [
+      { "name": "FamilyMart Shinagawa Station Konan Exit", "hours": "Open 24 hours", "note": null },
+      { "name": "Lawson Konan 1-chome", "hours": "Open 24 hours", "note": "Displayed name in the official store search list is \"Konan 1-chome\"" },
+      { "name": "7-Eleven Shinagawa Station Konan Exit", "hours": "Open 24 hours", "note": "Displayed name on the official page is \"Shinagawa Station Konan Exit\"" }
+    ],
+    "copyshop": [
+      { "name": "Accea Shinagawa Station Konan Exit", "hours": "Weekdays 8:00-21:00, Sat, Sun & holidays 10:00-19:00", "note": null },
+      { "name": "Kinko's Shinagawa", "hours": "Weekdays 8:00-22:00 / Sat 9:00-18:00 / Sun & holidays 9:00-18:00", "note": null }
+    ],
+    "hundredYen": [
+      { "name": "Seria Wing Takanawa WEST", "hours": "10:00-21:00 (official \"today's hours\", as of Friday, October 30, 2026)", "note": "On the west side of Shinagawa Station (Takanawa Exit side). The venue is on the east side (Konan Exit side), so you need to cross the station." },
+      { "name": "Can Do Shin-Baba", "hours": "Mon-Sun 10:00-20:00", "note": null }
+    ],
+    "donki": [
+      { "name": "Don Quijote Gotanda East Exit", "hours": "8:00-5:00 (next day)", "note": "Far (about 19 min walk)" },
+      { "name": "Platinum Don Quijote Shirokanedai", "hours": "Open 24 hours", "note": "Far (about 22 min walk)" }
+    ]
+  },
+  "photoCredit": null
+}
