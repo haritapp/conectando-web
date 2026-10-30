@@ -32,7 +32,6 @@ const areaOptions = Object.entries(AREA_LABEL).filter(([k]) => usedAreas.include
 const typeOptions = Object.entries(TYPE_LABEL);
 const layoutOptions = Object.entries(LAYOUT_LABEL) as [Layout, string][];
 const flagGroups: { title: string; keys: (keyof VenueFlags)[] }[] = [
-  { title: '近くの店', keys: ['convenience5', 'copyshop10', 'hundredYen10', 'donki15', 'drinkDelivery'] },
   { title: '公式に運営ルールの案内がある', keys: ['prevDaySetup', 'loadingHours', 'waitingRooms', 'parking', 'catering'] },
 ];
 ---
@@ -46,8 +45,8 @@ const flagGroups: { title: string; keys: (keyof VenueFlags)[] }[] = [
 
   <div class="vl-wrap">
     <p class="vl-lead">
-      イベントを運営する人のための会場リストです。人数や広さに加えて、<strong>搬入・前日設営・控室・駐車場の公式ルール</strong>と、
-      当日困ったときに走れる<strong>近くの印刷店・コンビニ・100円ショップ・ドン・キホーテ</strong>で探せます。
+      イベントを運営する人のための会場リストです。人数・広さ・エリアで探せます。各会場のページには、図面・料金表などの公式資料、<strong>搬入・前日設営・控室・駐車場の公式ルール</strong>、
+      当日困ったときに行ける<strong>近くの印刷店・コンビニ・100円ショップ・ドン・キホーテ</strong>をまとめています。
     </p>
 
     <form id="vl-filter" class="vl-filter" onsubmit="return false">
@@ -130,10 +129,6 @@ const flagGroups: { title: string; keys: (keyof VenueFlags)[] }[] = [
               {flags.loadingHours && <li>搬入</li>}
               {flags.waitingRooms && <li>控室</li>}
               {flags.parking && <li>駐車場</li>}
-              {flags.copyshop10 && <li class="t-shop">印刷店10分</li>}
-              {flags.hundredYen10 && <li class="t-shop">100円ショップ10分</li>}
-              {flags.donki15 && <li class="t-shop">ドンキ15分</li>}
-              {flags.drinkDelivery && <li class="t-shop">飲料当日配達</li>}
             </ul>
           </a>
         </li>
