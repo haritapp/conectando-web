@@ -1,0 +1,536 @@
+{
+ "slug": "ariake-central-tower-hall",
+ "nameJa": "有明セントラルタワーホール＆カンファレンス",
+ "nameEn": "Ariake Central Tower Hall & Conference",
+ "type": "conference",
+ "area": "odaiba-ariake-venues",
+ "address": "〒135-0063 東京都江東区有明3-7-18 有明セントラルタワー3F・4F",
+ "officialUrl": "https://ariake-hall.jp/",
+ "organizerUrl": "https://ariake-hall.jp/download/",
+ "bizintokyoSlug": "ariake-central-tower-hall-conference",
+ "accessSummary": "ゆりかもめ「東京ビッグサイト」駅から徒歩4分／りんかい線「国際展示場」駅から徒歩5分",
+ "notice": null,
+ "hours": "4Fホール：終日利用9:00〜19:00、または9:00〜21:00の間で連続6時間（延長は8:00〜22:00、22:00〜8:00は準備・撤収のみ。ホールA/B全体は24時間貸出可）。3F会議室：終日9:00〜21:00ほか時間区分あり（単体利用の貸出可能時間は8:00〜22:00、ホールと併用なら24時間貸出可）。問い合わせ窓口は平日10:00〜19:00",
+ "rooms": [
+  {
+   "name": "4F ホールA",
+   "areaM2": 414,
+   "ceilingM": 6.4,
+   "theater": 360,
+   "school": 270,
+   "ushape": null,
+   "standing": 320,
+   "banquet": 150,
+   "note": "125坪。スクールは3名掛け。基本レイアウト（入室時）はスクール2名掛け180名。グループ（3名掛け）264名。立食は推奨人数、正餐は円卓（Φ1800mm）に10名掛けを想定（円卓は会場備品になく外部レンタル）。シアター360名は無料の椅子（270脚）を超えるため追加料金。200㎡のホワイエが付属"
+  },
+  {
+   "name": "4F ホールB",
+   "areaM2": 610,
+   "ceilingM": 6.4,
+   "theater": 595,
+   "school": 462,
+   "ushape": null,
+   "standing": 470,
+   "banquet": 220,
+   "note": "184坪。スクールは3名掛け。基本レイアウトはスクール2名掛け308名。グループ（3名掛け）441名。立食は推奨人数、正餐は円卓に10名掛けを想定。シアターの無料椅子はホールB 432脚まで。分割してB1・B2として利用可"
+  },
+  {
+   "name": "4F ホールB1（分割）",
+   "areaM2": 280,
+   "ceilingM": 6.4,
+   "theater": 216,
+   "school": 162,
+   "ushape": null,
+   "standing": 200,
+   "banquet": 70,
+   "note": "84坪。スクールは3名掛け。基本レイアウトはスクール2名掛け108名。グループ（3名掛け）135名。シアターの無料椅子は216脚まで"
+  },
+  {
+   "name": "4F ホールB2（分割）",
+   "areaM2": 320,
+   "ceilingM": 6.4,
+   "theater": 275,
+   "school": 210,
+   "ushape": null,
+   "standing": 240,
+   "banquet": 100,
+   "note": "96坪。スクールは3名掛け。基本レイアウトはスクール2名掛け140名。グループ（3名掛け）171名"
+  },
+  {
+   "name": "4F 控室1",
+   "areaM2": 36,
+   "ceilingM": 3.0,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "10坪。8名ミーティング形式。窓を備えた最も広い控室。ホールを利用する場合のみ貸出可"
+  },
+  {
+   "name": "4F 控室2",
+   "areaM2": 30,
+   "ceilingM": 3.0,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "9坪。8名ミーティング形式。ホールを利用する場合のみ貸出可"
+  },
+  {
+   "name": "4F 控室3",
+   "areaM2": 17,
+   "ceilingM": 3.0,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "5坪。8名ミーティング形式。ホールを利用する場合のみ貸出可"
+  },
+  {
+   "name": "3F Room1",
+   "areaM2": 250,
+   "ceilingM": 3.5,
+   "theater": 234,
+   "school": 180,
+   "ushape": 48,
+   "standing": 125,
+   "banquet": null,
+   "note": "76坪。スクールは3名掛け。基本レイアウトはスクール2名掛け120名。グループ（3名掛け）144名。ロの字は2名掛け"
+  },
+  {
+   "name": "3F Room2",
+   "areaM2": 89,
+   "ceilingM": 3.5,
+   "theater": 69,
+   "school": 54,
+   "ushape": 24,
+   "standing": 45,
+   "banquet": null,
+   "note": "27坪。スクールは3名掛け。基本レイアウトはスクール2名掛け36名。グループ（3名掛け）54名。ロの字は2名掛け"
+  },
+  {
+   "name": "3F Room3",
+   "areaM2": 35,
+   "ceilingM": 3.5,
+   "theater": 32,
+   "school": 18,
+   "ushape": 12,
+   "standing": 18,
+   "banquet": null,
+   "note": "10坪。スクールは3名掛け。基本レイアウトはスクール2名掛け12名。グループ（3名掛け）18名。ロの字は2名掛け"
+  },
+  {
+   "name": "3F Room4",
+   "areaM2": 35,
+   "ceilingM": 3.5,
+   "theater": 32,
+   "school": 18,
+   "ushape": 12,
+   "standing": 18,
+   "banquet": null,
+   "note": "10坪。スクールは3名掛け。基本レイアウトはスクール2名掛け12名。グループ（3名掛け）18名。ロの字は2名掛け"
+  },
+  {
+   "name": "3F Room5",
+   "areaM2": 31,
+   "ceilingM": 3.5,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "9坪。12名ミーティング形式"
+  },
+  {
+   "name": "3F Room6",
+   "areaM2": 90,
+   "ceilingM": 3.5,
+   "theater": 84,
+   "school": 66,
+   "ushape": 28,
+   "standing": 45,
+   "banquet": null,
+   "note": "27坪。スクールは3名掛け。基本レイアウトはスクール2名掛け48名。グループ（3名掛け）54名。ロの字は2名掛け。会場一覧の料金ページでは面積89㎡の表記もある"
+  },
+  {
+   "name": "3F Room7",
+   "areaM2": 17,
+   "ceilingM": 3.5,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "5坪。8名ミーティング形式。天井高は会場概要ページ・Room7ページで3.5m、料金表PDFでは3.0m"
+  },
+  {
+   "name": "3F ボードルーム",
+   "areaM2": 130,
+   "ceilingM": 3.5,
+   "theater": 74,
+   "school": 54,
+   "ushape": 24,
+   "standing": 40,
+   "banquet": null,
+   "note": "39坪。スクールは3名掛け。基本レイアウトはスクール2名掛け36名。グループ（3名掛け）54名。ロの字は2名掛け。前室が付属"
+  },
+  {
+   "name": "3F レセプションルーム1",
+   "areaM2": 250,
+   "ceilingM": 3.5,
+   "theater": 194,
+   "school": 132,
+   "ushape": 48,
+   "standing": 125,
+   "banquet": null,
+   "note": "76坪。スクールは3名掛け。基本レイアウトはスクール2名掛け88名。グループ（3名掛け）108名。ロの字は2名掛け"
+  },
+  {
+   "name": "3F レセプションルーム2",
+   "areaM2": 97,
+   "ceilingM": 3.5,
+   "theater": 48,
+   "school": 48,
+   "ushape": 22,
+   "standing": 45,
+   "banquet": null,
+   "note": "29坪。スクールは3名掛け。基本レイアウトはスクール2名掛け30名。グループ（3名掛け）36名。ロの字は2名掛け"
+  },
+  {
+   "name": "3F貸切（3F全体）",
+   "areaM2": 1300,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "収容人数200〜500名（公式表記）。レイアウト別の人数表示なし"
+  },
+  {
+   "name": "全館貸切（3F+4F）",
+   "areaM2": 3000,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "収容人数500〜1,500名（公式表記）。レイアウト別の人数表示なし"
+  }
+ ],
+ "roomsSource": "https://ariake-hall.jp/overview-hall/ ／ https://ariake-hall.jp/overview-conference/",
+ "ops": {
+  "prevDaySetup": {
+   "text": "使用規約上の利用期間は、催事の準備を始める時刻から、原状回復を終えて退出する時刻までで、設営・撤去の時間も利用時間に含まれる。ホールAまたはホールB（全体）は24時間貸出が可能で、22:00〜8:00の深夜早朝は準備・撤収作業のみの貸出（深夜早朝延長料は1時間あたりホールA 84,000円、ホールB 98,000円、ホールB1 60,000円、ホールB2 68,000円、税抜）。ホールの終日利用は9:00〜19:00で、料金はホールA 600,000円、ホールB 700,000円、ホールB1 400,000円、ホールB2 450,000円（税抜）。荷物の事前預かりは前日午前着・発払い限定で、ダンボール20箱まで（超過は20,000円＋税）。（出典：会場利用料一覧 2026年版、使用規約、荷物の受け取り／発送について）",
+   "source": "https://ariake-hall.jp/hubfs/%E6%9C%89%E6%98%8E%E3%82%BB%E3%83%B3%E3%83%88%E3%83%A9%E3%83%AB%E3%82%BF%E3%83%AF%E3%83%BC%E3%83%9B%E3%83%BC%E3%83%AB/03%EF%BD%9C%E8%B3%87%E6%96%99%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89-ACT/ACT_%20price%20list.pdf"
+  },
+  "loadingHours": {
+   "text": "搬入出はご利用時間内に行う。早朝・夜間の搬入出は相談。搬入出は1Fの荷捌場を使い、荷捌場のシャッターは22:00〜6:00が閉鎖時間で、時間外の搬入出はビルの許可が必要なため事前に申請する。搬入出車両リスト（搬入出時間帯・会社名・車種・車両ナンバー・台数）を利用日の1週間前までに提出し、作業員全員がホール作業ストラップを着け、入館後に会場スタッフからストラップを受け取って防災センターで搬入出の手続きをする。搬入動線の間口は、風除室4（防災センター前）が高さ2,400mm×幅1,300mm、附室2（EV前）が高さ2,300mm×幅1,400mm（ドアノブ込みで1,240mm）。搬入エレベーターは積載2,000kg、内寸 幅1,600×奥行2,100×高さ2,800mm（一部3,300mm）、扉口 幅1,300×高さ2,400mmで、商業施設・テナントと共用。会場内で施工する場合は、2週間前までに施工図面・仕込み図・電気図面を提出する。（出典：1F 搬入出の注意事項 2026.06.30更新、使用規約）",
+   "source": "https://ariake-hall.jp/hubfs/%E6%9C%89%E6%98%8E%E3%82%BB%E3%83%B3%E3%83%88%E3%83%A9%E3%83%AB%E3%82%BF%E3%83%AF%E3%83%BC%E3%83%9B%E3%83%BC%E3%83%AB/03%EF%BD%9C%E8%B3%87%E6%96%99%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89-ACT/ACT_%20Loading%20dock.pdf"
+  },
+  "vehicleRules": {
+   "text": "荷捌場の車両制限は高さ3,800mm、2tロングまで（4t車は相談）。荷捌場は商業施設・テナントと共用で、車両の駐車はできず、作業が終わり次第すぐ退出する。複数台を使う場合は会場指定の車枠内で調整し、車枠は原則6・7番。作業後に留め置きが必要な車両は、セントラルタワー駐車場（高さ2.1m・幅1.9m・最低地上高15cmまで）を使う。荷捌きと駐車場は入口が別で、駐車場は一般駐車場入口から進入する。ビル周辺での路上駐車は使用規約で禁止。（出典：1F 搬入出の注意事項 2026.06.30更新、よくある質問、使用規約第17条）",
+   "source": "https://ariake-hall.jp/hubfs/%E6%9C%89%E6%98%8E%E3%82%BB%E3%83%B3%E3%83%88%E3%83%A9%E3%83%AB%E3%82%BF%E3%83%AF%E3%83%BC%E3%83%9B%E3%83%BC%E3%83%AB/03%EF%BD%9C%E8%B3%87%E6%96%99%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89-ACT/ACT_%20Loading%20dock.pdf"
+  },
+  "parking": {
+   "text": "ビル横の「Dパーキング有明セントラルタワー」を使う。24時間営業、214台、入庫サイズは全長4,800mm×全幅1,900mm×全高2,000mm（アクセスページ・近隣コインパーキング図。1F 搬入出の注意事項では高さ2.1m・最低地上高15cm、近隣コインパーキング図では重量2tまで）、料金は20分300円（上限2,800円）で、特定日は上限が適用されない場合がある。会場利用による駐車割引はなく、事前予約は原則不可。駐車料金を請求書に含められるのはこの駐車場のみ。近隣には有明パークビル駐車場（250台、全長5.5m×全幅1.9m×全高2.1m、最初の1時間440円・以降30分110円、24時間）、タイムズ有明フロンティア（141台、全長5m×全幅1.9m×全高1.55m、重量1.7t、7〜23時は440円/30分で最大1,540円、入庫7〜22時）がある。（出典：アクセスページ、よくある質問、近隣コインパーキング 2026年3月22日現在。同図ではDパーキングの料金が300円/30分と表記）",
+   "source": "https://ariake-hall.jp/access/"
+  },
+  "waitingRooms": {
+   "text": "4Fホール階に控室が3室あり、控室1は36㎡、控室2は30㎡、控室3は17㎡（天井高3.0m、いずれも8名ミーティング形式）。ホールを利用する場合のみ貸出可で、終日利用料は控室1・2が各20,000円、控室3が10,000円（税抜）。控室1は窓がある最も広い控室。3Fのボードルーム（130㎡）には前室が付属する。3Fカンファレンスの会議室（Room1〜7、レセプションルーム）も控室として併用できる。（出典：4Fホール概要、控室1ページ、会場利用料一覧 2026年版）",
+   "source": "https://ariake-hall.jp/overview-hall/"
+  },
+  "catering": {
+   "text": "飲食の持込は可能で、持込による飲食物のごみは持ち帰る（会場のごみ処理は1袋45Lで1,000円・税抜）。ケータリング会社は会場から紹介してもらえ、予算や要望に合う業者を案内する。公式サイトで紹介されているのは人形町 今半、ゆしま扇、神田明神下みやび。懇親会ケータリングは2時間制・フード・フリードリンク・サービススタッフ付きで1名5,000円〜、お弁当は1個1,000円〜（いずれも税抜、提携業者を紹介）。外部業者の利用は事前に会場担当者と打合せ、当日は指示に従う。使用規約により、運営者が承諾していない調理行為と、指定場所以外での飲食・喫煙は禁止。（出典：よくある質問、4Fホール利用料金、使用規約第17条）",
+   "source": "https://ariake-hall.jp/faq/"
+  },
+  "restaurants": {
+   "text": "ビル2Fに飲食店4店舗、1Fにカフェがあり、平日はキッチンカーの出店もある（休業日に注意）。1〜2階にはコンビニエンスストアやカフェ、各種飲食店が入居している。会議やセミナーの終了後に懇親会を開くことができ、ケータリング会社は会場が紹介する。3Fのレセプションルーム1・2は懇親会・パーティー向けの会場として案内されており、4FのホールAには200㎡のホワイエが付属し、懇親会や展示スペースに使える。（出典：よくある質問、アクセスページ、3Fカンファレンス概要、4Fホール概要）",
+   "source": "https://ariake-hall.jp/faq/"
+  }
+ },
+ "documents": [
+  {
+   "title": "会場利用料一覧（2026年版）",
+   "url": "https://ariake-hall.jp/hubfs/%E6%9C%89%E6%98%8E%E3%82%BB%E3%83%B3%E3%83%88%E3%83%A9%E3%83%AB%E3%82%BF%E3%83%AF%E3%83%BC%E3%83%9B%E3%83%BC%E3%83%AB/03%EF%BD%9C%E8%B3%87%E6%96%99%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89-ACT/ACT_%20price%20list.pdf"
+  },
+  {
+   "title": "1F 搬入出の注意事項（2026.06.30更新）",
+   "url": "https://ariake-hall.jp/hubfs/%E6%9C%89%E6%98%8E%E3%82%BB%E3%83%B3%E3%83%88%E3%83%A9%E3%83%AB%E3%82%BF%E3%83%AF%E3%83%BC%E3%83%9B%E3%83%BC%E3%83%AB/03%EF%BD%9C%E8%B3%87%E6%96%99%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89-ACT/ACT_%20Loading%20dock.pdf"
+  },
+  {
+   "title": "荷物の受け取り／発送について",
+   "url": "https://ariake-hall.jp/hubfs/%E6%9C%89%E6%98%8E%E3%82%BB%E3%83%B3%E3%83%88%E3%83%A9%E3%83%AB%E3%82%BF%E3%83%AF%E3%83%BC%E3%83%9B%E3%83%BC%E3%83%AB/03%EF%BD%9C%E8%B3%87%E6%96%99%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89-ACT/ACT_receiving%20and%20sending%20package.pdf"
+  },
+  {
+   "title": "ゴミの分別・回収について",
+   "url": "https://ariake-hall.jp/hubfs/%E6%9C%89%E6%98%8E%E3%82%BB%E3%83%B3%E3%83%88%E3%83%A9%E3%83%AB%E3%82%BF%E3%83%AF%E3%83%BC%E3%83%9B%E3%83%BC%E3%83%AB/03%EF%BD%9C%E8%B3%87%E6%96%99%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89-ACT/ACT_garbage%20separation.pdf"
+  },
+  {
+   "title": "近隣コインパーキング（2026年3月22日現在）",
+   "url": "https://ariake-hall.jp/hubfs/%E6%9C%89%E6%98%8E%E3%82%BB%E3%83%B3%E3%83%88%E3%83%A9%E3%83%AB%E3%82%BF%E3%83%AF%E3%83%BC%E3%83%9B%E3%83%BC%E3%83%AB/03%EF%BD%9C%E8%B3%87%E6%96%99%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89-ACT/ACT_parking.pdf"
+  },
+  {
+   "title": "アクセスマップ",
+   "url": "https://ariake-hall.jp/hubfs/%E6%9C%89%E6%98%8E%E3%82%BB%E3%83%B3%E3%83%88%E3%83%A9%E3%83%AB%E3%82%BF%E3%83%AF%E3%83%BC%E3%83%9B%E3%83%BC%E3%83%AB/03%EF%BD%9C%E8%B3%87%E6%96%99%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89-ACT/ACT_access.pdf"
+  },
+  {
+   "title": "ホールA/B 機材料金表",
+   "url": "https://ariake-hall.jp/hubfs/%E6%9C%89%E6%98%8E%E3%82%BB%E3%83%B3%E3%83%88%E3%83%A9%E3%83%AB%E3%82%BF%E3%83%AF%E3%83%BC%E3%83%9B%E3%83%BC%E3%83%AB/03%EF%BD%9C%E8%B3%87%E6%96%99%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89-ACT/Hall_equipment%20price%20list.pdf"
+  },
+  {
+   "title": "ホールB1/B2 機材料金表",
+   "url": "https://ariake-hall.jp/hubfs/%E6%9C%89%E6%98%8E%E3%82%BB%E3%83%B3%E3%83%88%E3%83%A9%E3%83%AB%E3%82%BF%E3%83%AF%E3%83%BC%E3%83%9B%E3%83%BC%E3%83%AB/03%EF%BD%9C%E8%B3%87%E6%96%99%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89-ACT/HallB1%26B2_equipment%20price%20list.pdf"
+  },
+  {
+   "title": "カンファレンス 機材料金表",
+   "url": "https://ariake-hall.jp/hubfs/%E6%9C%89%E6%98%8E%E3%82%BB%E3%83%B3%E3%83%88%E3%83%A9%E3%83%AB%E3%82%BF%E3%83%AF%E3%83%BC%E3%83%9B%E3%83%BC%E3%83%AB/03%EF%BD%9C%E8%B3%87%E6%96%99%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89-ACT/Conference_equipment2.pdf"
+  },
+  {
+   "title": "備品一覧（ホール）",
+   "url": "https://ariake-hall.jp/hubfs/%E6%9C%89%E6%98%8E%E3%82%BB%E3%83%B3%E3%83%88%E3%83%A9%E3%83%AB%E3%82%BF%E3%83%AF%E3%83%BC%E3%83%9B%E3%83%BC%E3%83%AB/03%EF%BD%9C%E8%B3%87%E6%96%99%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89-ACT/Hall_equipment.pdf"
+  },
+  {
+   "title": "備品一覧（カンファレンス）",
+   "url": "https://ariake-hall.jp/hubfs/%E6%9C%89%E6%98%8E%E3%82%BB%E3%83%B3%E3%83%88%E3%83%A9%E3%83%AB%E3%82%BF%E3%83%AF%E3%83%BC%E3%83%9B%E3%83%BC%E3%83%AB/03%EF%BD%9C%E8%B3%87%E6%96%99%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89-ACT/Conference_equipment1.pdf"
+  },
+  {
+   "title": "ホールA 音響・照明・映像機材リスト",
+   "url": "https://ariake-hall.jp/hubfs/%E6%9C%89%E6%98%8E%E3%82%BB%E3%83%B3%E3%83%88%E3%83%A9%E3%83%AB%E3%82%BF%E3%83%AF%E3%83%BC%E3%83%9B%E3%83%BC%E3%83%AB/03%EF%BD%9C%E8%B3%87%E6%96%99%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89-ACT/HallA_equipment.pdf"
+  },
+  {
+   "title": "ホールB 音響・照明・映像機材リスト",
+   "url": "https://ariake-hall.jp/hubfs/%E6%9C%89%E6%98%8E%E3%82%BB%E3%83%B3%E3%83%88%E3%83%A9%E3%83%AB%E3%82%BF%E3%83%AF%E3%83%BC%E3%83%9B%E3%83%BC%E3%83%AB/03%EF%BD%9C%E8%B3%87%E6%96%99%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89-ACT/HallB_equipment.pdf"
+  },
+  {
+   "title": "ワイヤレスマイク周波数一覧（ホール）",
+   "url": "https://ariake-hall.jp/hubfs/%E6%9C%89%E6%98%8E%E3%82%BB%E3%83%B3%E3%83%88%E3%83%A9%E3%83%AB%E3%82%BF%E3%83%AF%E3%83%BC%E3%83%9B%E3%83%BC%E3%83%AB/03%EF%BD%9C%E8%B3%87%E6%96%99%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89-ACT/Hall_Wireless%20microphone%20radio%20waves.pdf"
+  },
+  {
+   "title": "ホールA 照明基本吊り込み図",
+   "url": "https://ariake-hall.jp/hubfs/%E6%9C%89%E6%98%8E%E3%82%BB%E3%83%B3%E3%83%88%E3%83%A9%E3%83%AB%E3%82%BF%E3%83%AF%E3%83%BC%E3%83%9B%E3%83%BC%E3%83%AB/03%EF%BD%9C%E8%B3%87%E6%96%99%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89-ACT/HallA_lighting.pdf"
+  },
+  {
+   "title": "ホールA 照明現状復帰図",
+   "url": "https://ariake-hall.jp/hubfs/%E6%9C%89%E6%98%8E%E3%82%BB%E3%83%B3%E3%83%88%E3%83%A9%E3%83%AB%E3%82%BF%E3%83%AF%E3%83%BC%E3%83%9B%E3%83%BC%E3%83%AB/03%EF%BD%9C%E8%B3%87%E6%96%99%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89-ACT/HallA_lighting%20restore.pdf"
+  },
+  {
+   "title": "ホールB 照明基本吊り込み図",
+   "url": "https://ariake-hall.jp/hubfs/%E6%9C%89%E6%98%8E%E3%82%BB%E3%83%B3%E3%83%88%E3%83%A9%E3%83%AB%E3%82%BF%E3%83%AF%E3%83%BC%E3%83%9B%E3%83%BC%E3%83%AB/03%EF%BD%9C%E8%B3%87%E6%96%99%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89-ACT/HallB_lighting.pdf"
+  },
+  {
+   "title": "ホールB 照明現状復帰図",
+   "url": "https://ariake-hall.jp/hubfs/%E6%9C%89%E6%98%8E%E3%82%BB%E3%83%B3%E3%83%88%E3%83%A9%E3%83%AB%E3%82%BF%E3%83%AF%E3%83%BC%E3%83%9B%E3%83%BC%E3%83%AB/03%EF%BD%9C%E8%B3%87%E6%96%99%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89-ACT/HallB_lighting%20restore.pdf"
+  },
+  {
+   "title": "ホールA 吊物設備図面・照明回路図（バトン図）",
+   "url": "https://ariake-hall.jp/hubfs/%E6%9C%89%E6%98%8E%E3%82%BB%E3%83%B3%E3%83%88%E3%83%A9%E3%83%AB%E3%82%BF%E3%83%AF%E3%83%BC%E3%83%9B%E3%83%BC%E3%83%AB/03%EF%BD%9C%E8%B3%87%E6%96%99%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89-ACT/HallA_Rigging.pdf"
+  },
+  {
+   "title": "ホールB 吊物設備図面・照明回路図（バトン図）",
+   "url": "https://ariake-hall.jp/hubfs/%E6%9C%89%E6%98%8E%E3%82%BB%E3%83%B3%E3%83%88%E3%83%A9%E3%83%AB%E3%82%BF%E3%83%AF%E3%83%BC%E3%83%9B%E3%83%BC%E3%83%AB/03%EF%BD%9C%E8%B3%87%E6%96%99%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89-ACT/HallB_Rigging.pdf"
+  },
+  {
+   "title": "ホール弱電図（4F）",
+   "url": "https://ariake-hall.jp/hubfs/%E6%9C%89%E6%98%8E%E3%82%BB%E3%83%B3%E3%83%88%E3%83%A9%E3%83%AB%E3%82%BF%E3%83%AF%E3%83%BC%E3%83%9B%E3%83%BC%E3%83%AB/03%EF%BD%9C%E8%B3%87%E6%96%99%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89-ACT/Hall_electric.pdf"
+  },
+  {
+   "title": "弱電図（3F カンファレンス）",
+   "url": "https://ariake-hall.jp/hubfs/%E6%9C%89%E6%98%8E%E3%82%BB%E3%83%B3%E3%83%88%E3%83%A9%E3%83%AB%E3%82%BF%E3%83%AF%E3%83%BC%E3%83%9B%E3%83%BC%E3%83%AB/03%EF%BD%9C%E8%B3%87%E6%96%99%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89-ACT/Conference_electric.pdf"
+  },
+  {
+   "title": "ネット回線詳細",
+   "url": "https://ariake-hall.jp/hubfs/%E6%9C%89%E6%98%8E%E3%82%BB%E3%83%B3%E3%83%88%E3%83%A9%E3%83%AB%E3%82%BF%E3%83%AF%E3%83%BC%E3%83%9B%E3%83%BC%E3%83%AB/03%EF%BD%9C%E8%B3%87%E6%96%99%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89-ACT/ACT_net.pdf"
+  },
+  {
+   "title": "ホール平面図（4F）",
+   "url": "https://ariake-hall.jp/hubfs/%E6%9C%89%E6%98%8E%E3%82%BB%E3%83%B3%E3%83%88%E3%83%A9%E3%83%AB%E3%82%BF%E3%83%AF%E3%83%BC%E3%83%9B%E3%83%BC%E3%83%AB/03%EF%BD%9C%E8%B3%87%E6%96%99%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89-ACT/Hall_flat.pdf"
+  },
+  {
+   "title": "ホール スケール入り平面図（4F）",
+   "url": "https://ariake-hall.jp/hubfs/%E6%9C%89%E6%98%8E%E3%82%BB%E3%83%B3%E3%83%88%E3%83%A9%E3%83%AB%E3%82%BF%E3%83%AF%E3%83%BC%E3%83%9B%E3%83%BC%E3%83%AB/03%EF%BD%9C%E8%B3%87%E6%96%99%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89-ACT/Hall_flat%26scale.pdf"
+  },
+  {
+   "title": "カンファレンス平面図（3F）",
+   "url": "https://ariake-hall.jp/hubfs/%E6%9C%89%E6%98%8E%E3%82%BB%E3%83%B3%E3%83%88%E3%83%A9%E3%83%AB%E3%82%BF%E3%83%AF%E3%83%BC%E3%83%9B%E3%83%BC%E3%83%AB/03%EF%BD%9C%E8%B3%87%E6%96%99%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89-ACT/Conference_flat.pdf"
+  },
+  {
+   "title": "カンファレンス スケール入り平面図（3F）",
+   "url": "https://ariake-hall.jp/hubfs/%E6%9C%89%E6%98%8E%E3%82%BB%E3%83%B3%E3%83%88%E3%83%A9%E3%83%AB%E3%82%BF%E3%83%AF%E3%83%BC%E3%83%9B%E3%83%BC%E3%83%AB/03%EF%BD%9C%E8%B3%87%E6%96%99%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89-ACT/Conference_flat%26scale.pdf"
+  },
+  {
+   "title": "レイアウト図 ホール スクール形式（2名掛け）",
+   "url": "https://ariake-hall.jp/hubfs/%E6%9C%89%E6%98%8E%E3%82%BB%E3%83%B3%E3%83%88%E3%83%A9%E3%83%AB%E3%82%BF%E3%83%AF%E3%83%BC%E3%83%9B%E3%83%BC%E3%83%AB/03%EF%BD%9C%E8%B3%87%E6%96%99%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89-ACT/Hall_school(2).pdf"
+  },
+  {
+   "title": "レイアウト図 ホール スクール形式（3名掛け）",
+   "url": "https://ariake-hall.jp/hubfs/%E6%9C%89%E6%98%8E%E3%82%BB%E3%83%B3%E3%83%88%E3%83%A9%E3%83%AB%E3%82%BF%E3%83%AF%E3%83%BC%E3%83%9B%E3%83%BC%E3%83%AB/03%EF%BD%9C%E8%B3%87%E6%96%99%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89-ACT/Hall_school(3).pdf"
+  },
+  {
+   "title": "レイアウト図 ホール グループ形式（Tの字/3名掛け）",
+   "url": "https://ariake-hall.jp/hubfs/%E6%9C%89%E6%98%8E%E3%82%BB%E3%83%B3%E3%83%88%E3%83%A9%E3%83%AB%E3%82%BF%E3%83%AF%E3%83%BC%E3%83%9B%E3%83%BC%E3%83%AB/03%EF%BD%9C%E8%B3%87%E6%96%99%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89-ACT/Hall_group.pdf"
+  },
+  {
+   "title": "レイアウト図 ホール シアター形式",
+   "url": "https://ariake-hall.jp/hubfs/%E6%9C%89%E6%98%8E%E3%82%BB%E3%83%B3%E3%83%88%E3%83%A9%E3%83%AB%E3%82%BF%E3%83%AF%E3%83%BC%E3%83%9B%E3%83%BC%E3%83%AB/03%EF%BD%9C%E8%B3%87%E6%96%99%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89-ACT/Hall_theater.pdf"
+  },
+  {
+   "title": "レイアウト図 ホールB分割 スクール形式（2名掛け）",
+   "url": "https://ariake-hall.jp/hubfs/%E6%9C%89%E6%98%8E%E3%82%BB%E3%83%B3%E3%83%88%E3%83%A9%E3%83%AB%E3%82%BF%E3%83%AF%E3%83%BC%E3%83%9B%E3%83%BC%E3%83%AB/03%EF%BD%9C%E8%B3%87%E6%96%99%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89-ACT/HallBseparate_school(2).pdf"
+  },
+  {
+   "title": "レイアウト図 ホールB分割 スクール形式（3名掛け）",
+   "url": "https://ariake-hall.jp/hubfs/%E6%9C%89%E6%98%8E%E3%82%BB%E3%83%B3%E3%83%88%E3%83%A9%E3%83%AB%E3%82%BF%E3%83%AF%E3%83%BC%E3%83%9B%E3%83%BC%E3%83%AB/03%EF%BD%9C%E8%B3%87%E6%96%99%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89-ACT/HallBseparate_school(3).pdf"
+  },
+  {
+   "title": "レイアウト図 ホールB分割 グループ形式（Tの字/3名掛け）",
+   "url": "https://ariake-hall.jp/hubfs/%E6%9C%89%E6%98%8E%E3%82%BB%E3%83%B3%E3%83%88%E3%83%A9%E3%83%AB%E3%82%BF%E3%83%AF%E3%83%BC%E3%83%9B%E3%83%BC%E3%83%AB/03%EF%BD%9C%E8%B3%87%E6%96%99%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89-ACT/HallBseparate_group.pdf"
+  },
+  {
+   "title": "レイアウト図 ホールB分割 シアター形式",
+   "url": "https://ariake-hall.jp/hubfs/%E6%9C%89%E6%98%8E%E3%82%BB%E3%83%B3%E3%83%88%E3%83%A9%E3%83%AB%E3%82%BF%E3%83%AF%E3%83%BC%E3%83%9B%E3%83%BC%E3%83%AB/03%EF%BD%9C%E8%B3%87%E6%96%99%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89-ACT/HallBseparate_theater.pdf"
+  },
+  {
+   "title": "レイアウト図 カンファレンス スクール形式（2名掛け）",
+   "url": "https://ariake-hall.jp/hubfs/%E6%9C%89%E6%98%8E%E3%82%BB%E3%83%B3%E3%83%88%E3%83%A9%E3%83%AB%E3%82%BF%E3%83%AF%E3%83%BC%E3%83%9B%E3%83%BC%E3%83%AB/03%EF%BD%9C%E8%B3%87%E6%96%99%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89-ACT/Conference_school(2).pdf"
+  },
+  {
+   "title": "レイアウト図 カンファレンス スクール形式（3名掛け）",
+   "url": "https://ariake-hall.jp/hubfs/%E6%9C%89%E6%98%8E%E3%82%BB%E3%83%B3%E3%83%88%E3%83%A9%E3%83%AB%E3%82%BF%E3%83%AF%E3%83%BC%E3%83%9B%E3%83%BC%E3%83%AB/03%EF%BD%9C%E8%B3%87%E6%96%99%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89-ACT/Conference_school(3).pdf"
+  },
+  {
+   "title": "レイアウト図 カンファレンス グループ形式（Tの字/3名掛け）",
+   "url": "https://ariake-hall.jp/hubfs/%E6%9C%89%E6%98%8E%E3%82%BB%E3%83%B3%E3%83%88%E3%83%A9%E3%83%AB%E3%82%BF%E3%83%AF%E3%83%BC%E3%83%9B%E3%83%BC%E3%83%AB/03%EF%BD%9C%E8%B3%87%E6%96%99%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89-ACT/Conference_group.pdf"
+  },
+  {
+   "title": "レイアウト図 カンファレンス シアター形式",
+   "url": "https://ariake-hall.jp/hubfs/%E6%9C%89%E6%98%8E%E3%82%BB%E3%83%B3%E3%83%88%E3%83%A9%E3%83%AB%E3%82%BF%E3%83%AF%E3%83%BC%E3%83%9B%E3%83%BC%E3%83%AB/03%EF%BD%9C%E8%B3%87%E6%96%99%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89-ACT/Conference_theater.pdf"
+  },
+  {
+   "title": "トランシーバー使用検討時の注意事項",
+   "url": "https://ariake-hall.jp/hubfs/%E6%9C%89%E6%98%8E%E3%82%BB%E3%83%B3%E3%83%88%E3%83%A9%E3%83%AB%E3%82%BF%E3%83%AF%E3%83%BC%E3%83%9B%E3%83%BC%E3%83%AB/03%EF%BD%9C%E8%B3%87%E6%96%99%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89-ACT/ACT_transceiver.pdf"
+  },
+  {
+   "title": "近隣病院について",
+   "url": "https://ariake-hall.jp/hubfs/%E6%9C%89%E6%98%8E%E3%82%BB%E3%83%B3%E3%83%88%E3%83%A9%E3%83%AB%E3%82%BF%E3%83%AF%E3%83%BC%E3%83%9B%E3%83%BC%E3%83%AB/03%EF%BD%9C%E8%B3%87%E6%96%99%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89-ACT/ACT_hospital.pdf"
+  },
+  {
+   "title": "使用規約（2021年4月制定）",
+   "url": "https://ariake-hall.jp/tos/"
+  },
+  {
+   "title": "ご利用までの流れ",
+   "url": "https://ariake-hall.jp/flow/"
+  },
+  {
+   "title": "よくある質問",
+   "url": "https://ariake-hall.jp/faq/"
+  },
+  {
+   "title": "資料ダウンロード（公式一覧）",
+   "url": "https://ariake-hall.jp/download/"
+  }
+ ],
+ "checkedAt": "2026-10-30",
+ "lat": 35.6321695,
+ "lng": 139.7938498,
+ "nearby": {
+  "convenience": [
+   {
+    "name": "ローソン 有明セントラルタワー店",
+    "brand": "ローソン",
+    "distanceM": 70,
+    "walkMin": 1,
+    "hours": "24時間営業",
+    "address": "東京都江東区有明3-7-18",
+    "verified": true,
+    "source": "https://www.areamarker.com/lawson/info/201483",
+    "note": "距離は住所の位置で計算。会場と同じ建物"
+   },
+   {
+    "name": "ローソン 東京ビッグサイトエントランス店",
+    "brand": "ローソン",
+    "distanceM": 231,
+    "walkMin": 3,
+    "hours": "8:00-20:00",
+    "address": "東京都江東区有明3-11-1",
+    "verified": true,
+    "source": "https://www.areamarker.com/lawson/info/243174",
+    "note": "距離は住所の位置で計算。東京ビッグサイト構内の店舗。営業時間が短い"
+   },
+   {
+    "name": "ファミリーマート 有明フロンティア店",
+    "brand": "ファミリーマート",
+    "distanceM": 236,
+    "walkMin": 3,
+    "hours": "24時間",
+    "address": "東京都江東区有明3-7-26-106",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/26539",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "アクセア 東京ビッグサイト前店",
+    "brand": "アクセア",
+    "distanceM": 236,
+    "walkMin": 3,
+    "hours": "平日8:00〜22:00、土日祝10:00〜19:00",
+    "address": "東京都江東区有明3-7-26 有明フロンティアビル1F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/map/tokyobigsightmae.html",
+    "note": "距離は住所の位置で計算。公式の設備欄に「平日24時間営業」の表示あり（セルフ設備）"
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Can★Do ワンザ有明店",
+    "brand": "キャンドゥ",
+    "distanceM": 257,
+    "walkMin": 4,
+    "hours": "10:00-19:30（月〜日）",
+    "address": "東京都江東区有明3-6-11 TFTビル東館2階",
+    "verified": true,
+    "source": "https://shopinfo.cando-web.co.jp/detail/shop-1346/",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "DAISO 有明ガーデン店",
+    "brand": "ダイソー",
+    "distanceM": 687,
+    "walkMin": 9,
+    "hours": "10:00-21:00",
+    "address": "東京都江東区有明2-1-8 有明ガーデン3階",
+    "verified": true,
+    "source": "https://www.daiso-sangyo.co.jp/shop/detail/002129",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "donki": [
+   {
+    "name": "キラキラドンキ ダイバーシティ東京 プラザ店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 1953,
+    "walkMin": 25,
+    "hours": "10:00〜21:00",
+    "address": "東京都江東区青海1-1-10 ダイバーシティ東京 プラザ 2階",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_list.php?pref=13",
+    "note": "距離は住所の位置で計算。ドン・キホーテ本体ではなく、コスメ・雑貨が中心のドン・キホーテ系の別業態。徒歩25分で遠い。公式の営業時間のお知らせでは平日11:00〜20:00／土日祝10:00〜21:00"
+   }
+  ]
+ },
+ "drinkDelivery": {
+  "available": true
+ },
+ "photo": {
+  "src": "/images/venues/ariake-central-tower-hall.jpg",
+  "credit": "© Lombroso / CC BY-SA 4.0 · Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ariake_Central_Tower,_at_Ariake,_Koto,_Tokyo_(2019-01-01)_03.jpg"
+ }
+}

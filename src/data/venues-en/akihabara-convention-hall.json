@@ -1,0 +1,157 @@
+{
+ "slug": "akihabara-convention-hall",
+ "name": "AKIHABARA Convention Hall",
+ "address": "Tokyo 101-0021 Akihabara Daibiru 4F (the hall is on the 2F and the Conference Floor on the 5F), 1-18-13 Sotokanda, Chiyoda-ku, Tokyo",
+ "accessSummary": "1 min walk from JR Akihabara Station (Electric Town Exit) / 3 min walk from Suehirocho Station (Tokyo Metro Ginza Line) Exit 1 / 4 min walk from Akihabara Station (Tokyo Metro Hibiya Line) Exit 3 / 3 min walk from Akihabara Station (Tsukuba Express) Exit A1",
+ "hours": "Basic use is 9:00-21:00 (for security reasons). If you unavoidably use the venue 7:00-8:00 or 22:00-23:00, an early-morning or late-night fee (33,000 yen each, tax included) applies in addition to the room fee. The building entrances are: service entrance daily 7:00-21:00, 2F deck entrance daily 7:00-22:00, 1F main south entrance weekdays 8:00-20:00 and Sat, Sun & holidays 8:30-19:00. Secretariat telephone reception is 9:00-18:00 (except the year-end and New Year holidays). (Usage Regulations as of January 2026)",
+ "notice": null,
+ "rooms": [
+  {
+   "name": "2F Convention Hall - Full Hall",
+   "note": "26m x 18m. Standing is buffet style for 300 people. Can also be used crosswise, but capacity decreases slightly. Permanent screen 306 inches (16:9). Free equipment: 450 conference chairs and 110 folding tables. A separate 165㎡ foyer can be reserved for exclusive use."
+  },
+  {
+   "name": "2F Convention Hall - Split A",
+   "note": "18m x 13m. Standing is buffet style for 150 people."
+  },
+  {
+   "name": "2F Convention Hall - Split B",
+   "note": "18m x 13m. Standing is buffet style for 150 people. The permanent 306-inch screen can be used with the full hall or Split B."
+  },
+  {
+   "name": "5F 5A (5A-1/5A-2)",
+   "note": "13.7m x 10.5m. The permanent 120-inch (4:3) screen can be used in 5A-2 when split. The free equipment listing of 256 conference chairs and 76 conference tables is shared between 5A and 5B."
+  },
+  {
+   "name": "5F 5B (5B-1/5B-2/5B-3)",
+   "note": "20.1m x 10.5m. The permanent 120-inch (4:3) screen can be used in 5B-1 when split."
+  },
+  {
+   "name": "5F 5C (5C-1/5C-2)",
+   "note": "13.7m x 12.8m. The permanent 120-inch (4:3) screen can be used in 5C-1 when split. Free equipment: 153 conference chairs and 30 conference tables."
+  },
+  {
+   "name": "5F 5D",
+   "note": "6.4m x 3.84m. Classroom is an island layout for 12 people. No video or audio equipment. Fixed layout (1 conference table and 12 caster chairs with armrests)."
+  },
+  {
+   "name": "5F 5E",
+   "note": "7.3m x 3.84m. Classroom is an island layout for 12 people. No video or audio equipment. Fixed layout (1 conference table and 12 caster chairs with armrests)."
+  }
+ ],
+ "ops": {
+  "prevDaySetup": "The rental time runs from unlocking (entry and preparation) to locking (removal and exit), and preparation and removal time are included in it. The official guidance says that if you unavoidably want to use the venue between 7:00 and 8:00, you should \"set a setup day and consider an undemanding usage plan.\" Advance delivery of courier packages and mail must arrive between 10:00 and 17:00 on the day before use (the preceding weekday if that is a weekend or holiday), and the office can hold up to about 10 boxes per booking (if more, rent a separate room for luggage). Changing the layout setup during the usage time on the same day incurs a separate fee. (Source: User Guide, revised January 2026)",
+  "loadingHours": "Preparation and removal time are included in the rental time. For load-in and load-out by vehicle, a load-in/load-out application to the building (work notice and vehicle entry notice) must be submitted, and the secretariat must be contacted at least 1 week before (details: vehicle type, number of vehicles, load-in/load-out times, contractor name). Hand trucks can be moved only by the freight elevator. Carpets and walls must be protected during load-in and load-out; damage to facilities or equipment must be compensated, and if the carpet is soiled, a cleaning fee of 3,300 yen (tax included) per sheet applies. (Source: User Guide, revised January 2026; Operations Support)",
+  "vehicleRules": "Vehicles up to 2-ton trucks can be used for load-in and load-out. On the work notice (also serving as the vehicle entry notice), enter the vehicle type (2-ton truck, passenger car, wagon), number of vehicles, load-in/load-out times and contractor name, and submit it at least 1 week before. (Source: User Guide, revised January 2026; Operations Support)",
+  "parking": "There is an underground parking lot with space for 112 vehicles.",
+  "waitingRooms": "As free rental equipment for use of the 2F hall, 2 waiting rooms on the 3F (shown on the floor plan as \"Waiting Room (1)(2)\") are listed. Each room has 4 folding chairs, 2 folding tables, 6 armchairs, 1 center table and 1 three-unit locker. The 5F Conference Floor is described as a floor that can handle multiple rooms and waiting rooms. The venue cannot be used as a rest space or luggage storage. (Source: User Guide, revised January 2026; top page)",
+  "catering": "The venue has designated catering vendors (including boxed meals and drinks), and customers are asked to refrain from bringing in food and drink from anyone other than themselves and the venue's designated vendors. On the other hand, the price list in the User Guide lists a bring-in fee of 110,000 yen (tax included) per day per vendor, including catering, for cases where the organizer arranges a vendor and brings it in. Use involving food and drink requires advance application and permission. The deadline for ordering catering menus and final counts is 1 week before. (Source: Operations Support; User Guide, revised January 2026)",
+  "restaurants": "The hall (458㎡, 7 m ceiling height) is described as accepting catering arrangements and usable for receptions (buffet for 300). On the 5F Conference Floor as well, a reception can be held on the same floor after a meeting (details by consultation). The evening slot from 17:00 to 21:00 (Slot F) is limited to the Conference Floor. The 1F floor plan shows a cafe. (Source: Official news, April 28, 2024, April 1, 2025 and January 6, 2026; 1F floor plan)"
+ },
+ "documents": [
+  {
+   "title": "User Guide (regulations, price list, facility overview, equipment list, load-in/load-out, order schedule; revised January 2026)"
+  },
+  {
+   "title": "Usage Fees (official page)"
+  },
+  {
+   "title": "Operations Support and Order Schedule (official page)"
+  },
+  {
+   "title": "User Guide (official page; the end of the page is dated August 1, 2020)"
+  },
+  {
+   "title": "Facility Guide and Stage Lighting Mechanisms (official page)"
+  },
+  {
+   "title": "1F Floor Plan"
+  },
+  {
+   "title": "2F Floor Plan"
+  },
+  {
+   "title": "3F Floor Plan"
+  },
+  {
+   "title": "5F Floor Plan"
+  },
+  {
+   "title": "Access Map"
+  },
+  {
+   "title": "Floor Map"
+  },
+  {
+   "title": "Sample Layout: Convention Hall (Full), Classroom Style 330"
+  },
+  {
+   "title": "Sample Layout: Convention Hall (Full), Theater Style 450"
+  },
+  {
+   "title": "Sample Layout: Convention Hall (Split)"
+  },
+  {
+   "title": "Sample Layout: Conference Floor, Classroom Style"
+  },
+  {
+   "title": "Sample Layout: Conference Floor, Theater Style"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "7-Eleven Akihabara Denkigai-guchi",
+    "hours": "Open 24 hours",
+    "note": null
+   },
+   {
+    "name": "FamilyMart Famima!! Akihabara UDX",
+    "hours": "7:00-23:00 (Sat, Sun & holidays: 7:00-18:00)",
+    "note": null
+   },
+   {
+    "name": "FamilyMart Akihabara Radio Kaikan",
+    "hours": "Open 24 hours",
+    "note": null
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "Kinko's Akihabara",
+    "hours": "Weekdays 9:00-19:00 / Sat 10:00-19:00 / Sun & holidays 10:00-19:00 (reception until 30 min before closing)",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Accea Akihabara Showa-dori",
+    "hours": "Weekdays 9:00-20:00 / Closed Sat, Sun & holidays",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Can Do Akihabara",
+    "hours": "Daily 10:00-21:00",
+    "note": null
+   },
+   {
+    "name": "DAISO Yodobashi Akiba",
+    "hours": "9:30-22:00",
+    "note": null
+   }
+  ],
+  "donki": [
+   {
+    "name": "Don Quijote Akihabara",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Don Quijote Ueno",
+    "hours": "9:00-4:00",
+    "note": "Distance is calculated from the address location."
+   }
+  ]
+ },
+ "photoCredit": "© Kure / CC BY-SA 2.5 · Wikimedia Commons"
+}

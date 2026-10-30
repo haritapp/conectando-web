@@ -1,0 +1,375 @@
+{
+ "slug": "bellesalle-akihabara",
+ "nameJa": "ベルサール秋葉原",
+ "nameEn": "",
+ "type": "exhibition",
+ "area": "kanda-suidobashi-venues",
+ "address": "〒101-0021 東京都千代田区外神田3-12-8 住友不動産秋葉原ビルB1・1F・2F",
+ "officialUrl": "https://www.bellesalle.co.jp/shisetsu/tokyo/bs_akihabara/",
+ "organizerUrl": "https://www.bellesalle.co.jp/download/bs_akihabara/",
+ "bizintokyoSlug": "bellesalle-akihabara",
+ "accessSummary": "秋葉原駅（JR）電気街改札 北口 徒歩3分／秋葉原駅（つくばエクスプレス）A3出口 徒歩5分／秋葉原駅（日比谷線）2番出口 徒歩6分／末広町駅（銀座線）1又は3番出口 徒歩4分",
+ "notice": null,
+ "hours": "ビルエントランス開放時間 7:30〜20:00（イベントホール設備表）",
+ "rooms": [
+  {
+   "name": "2F HALL 全体",
+   "areaM2": 869,
+   "ceilingM": 6.0,
+   "theater": 865,
+   "school": 384,
+   "ushape": null,
+   "standing": 520,
+   "banquet": null,
+   "note": "スクールは2名掛け。スクール3名掛け 576席。島型 504席（84島）"
+  },
+  {
+   "name": "2F HALL A",
+   "areaM2": 556,
+   "ceilingM": 6.0,
+   "theater": 548,
+   "school": 228,
+   "ushape": null,
+   "standing": 350,
+   "banquet": null,
+   "note": "スクールは2名掛け。スクール3名掛け 342席。島型 288席（48島）"
+  },
+  {
+   "name": "2F HALL B",
+   "areaM2": 313,
+   "ceilingM": 6.0,
+   "theater": 308,
+   "school": 120,
+   "ushape": null,
+   "standing": 170,
+   "banquet": null,
+   "note": "スクールは2名掛け。スクール3名掛け 180席。島型 120席（20島）"
+  },
+  {
+   "name": "B1 HALL",
+   "areaM2": 595,
+   "ceilingM": 6.0,
+   "theater": 594,
+   "school": 240,
+   "ushape": null,
+   "standing": 350,
+   "banquet": null,
+   "note": "スクールは2名掛け。スクール3名掛け 360席。島型 324席（54島）。直接搬入できる地下のホールで、裏動線あり。演奏や音楽イベントも可能（公式施設ページ）"
+  },
+  {
+   "name": "1F HALL",
+   "areaM2": 499,
+   "ceilingM": 6.0,
+   "theater": 498,
+   "school": 200,
+   "ushape": null,
+   "standing": 300,
+   "banquet": null,
+   "note": "スクールは2名掛け。スクール3名掛け 300席。島型 324席（54島）。給排水設備あり。交差点側のガラスウォールを開放できる（公式施設ページ）"
+  },
+  {
+   "name": "1F イベントスペース",
+   "areaM2": 412,
+   "ceilingM": 6.0,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "キッチンカーの使用が可能（公式施設ページ）。大型の柱巻広告を設置できる"
+  },
+  {
+   "name": "1F HALL＋1F イベントスペース",
+   "areaM2": 911,
+   "ceilingM": 6.0,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "1F HALLとイベントスペースの一体利用"
+  },
+  {
+   "name": "2F 控室A",
+   "areaM2": 15,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "使用料0円。テーブル1・イス8・ハンガーラック・姿見・専用トイレ。控室のみの利用はできない"
+  },
+  {
+   "name": "2F 控室B",
+   "areaM2": 9,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "使用料0円。テーブル1・ローチェア4・ハンガーラック・姿見・専用トイレ。控室のみの利用はできない"
+  },
+  {
+   "name": "B1 控室",
+   "areaM2": 20,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "使用料0円。テーブル1・ソファ4・ハンガーラック・姿見・専用トイレ。控室のみの利用はできない"
+  }
+ ],
+ "roomsSource": "https://www.bellesalle.co.jp/wp-content/uploads/akihabara_price.pdf",
+ "ops": {
+  "prevDaySetup": {
+   "text": "使用時間には準備・後片付けの時間も含まれる（料金表）。ホールは8時間・12時間・24時間の料金があり、夜間利用や24時間利用は前後の予約状況で使えない場合があるため事前に相談する。会場は一部を除き365日24時間利用できる。荷物の事前到着は開催日の前日着の指定が原則で、事前搬入届を搬入日の1週間前までに出す（貴重品は不可、荷物の破損の責任は負わない）。事前に申し出のない多量・大きな荷物は、保管場所として会場を有料で借り上げる扱いになる。（出典：ホール料金表 2026/7/3更新、よくあるご質問、使用規約 2026ver2 第20条）",
+   "source": "https://www.bellesalle.co.jp/wp-content/uploads/akihabara_price.pdf"
+  },
+  "loadingHours": {
+   "text": "搬出入がある場合は事前搬入届を作業日の1週間前までに提出する（未提出だと荷捌き場は使えない）。搬入・搬出車の出入りは使用時間内に所定の場所から行い、搬入時間などは会場側が調整することがある。積み下ろしの作業は原則20分以内。荷捌き場の許容寸法は全高3,200×全長7,000mm。ホールごとの搬入経路は、2FがB2「ベルサール専用駐車場」から搬入用EV（入口扉 幅900×高2,300mm、かご内 幅1,200×高2,450×奥行1,400mm、積載荷重900kg）、B1がB1F荷捌きから（搬入口 幅2,500×高3,150mm）、1Fが道路沿いの北側搬入口から直接（幅2,500×高3,000mm、道路使用許可が必要）。現場責任者は作業前に住友不動産秋葉原ビル1Fサービスセンターで入館手続きをする。ビルエントランスの開放時間は7:30〜20:00。事前到着荷物の受取は原則各ホール5箱まで。（出典：事前搬入届（イベントホール）、イベントホール設備表 B1F・1F 2026/9/11更新・2F 2026/10/27更新、使用規約 2026ver2 第16条）",
+   "source": "https://www.bellesalle.co.jp/wp-content/uploads/akihabara_jizen.pdf"
+  },
+  "vehicleRules": {
+   "text": "荷捌き所は荷物の積み下ろしのみに使い、駐車が必要なときは外の駐車場を使う。車両を複数台使うときは1台分の荷捌場を時間差で使う。違法駐車、指定駐車場以外、ビル廻りの路上駐車は厳禁。使用期間中の荷捌き場には商品・梱包材・装飾資材・ゴミなどを置けない。搬入出車両が混雑しそうなときは出入口などに整理員を置く。設備表の車両制限は、2FとB1が高さ3,200×長さ7,000mm・重2.0t、1Fが屋外・重2.0t（道路使用許可が必要）。（出典：事前搬入届（イベントホール）、使用規約 2026ver2 第15条・第16条、イベントホール設備表）",
+   "source": "https://www.bellesalle.co.jp/wp-content/uploads/akihabara_jizen.pdf"
+  },
+  "parking": {
+   "text": "設備表の駐車場欄は、ベルサール専用・時間貸し・車寄せのいずれも「無」で、近隣のパーキングを使うと案内している。近隣の時間貸し駐車場は、公式施設ページのリンク先「s-park」（公財 東京都道路整備保全公社）で「ベルサール秋葉原」を検索して探す。（出典：公式施設ページ、イベントホール設備表 B1F・1F 2026/9/11更新・2F 2026/10/27更新）",
+   "source": "https://www.bellesalle.co.jp/shisetsu/tokyo/bs_akihabara/"
+  },
+  "waitingRooms": {
+   "text": "控室は3室で、2F 控室A（15㎡）・2F 控室B（9㎡）・B1 控室（20㎡）。いずれも使用料0円で、専用トイレがある。控室のみの利用はできない。1Fホールの控室欄は「無」。（出典：公式施設ページ、イベントホール設備表）",
+   "source": "https://www.bellesalle.co.jp/shisetsu/tokyo/bs_akihabara/"
+  },
+  "catering": {
+   "text": "飲食物の持込は可能。ただし飲食の手配に当社指定業者以外を使う場合は「飲食持込手数料」がかかる（パーティー利用時のみ。飲料のみ・弁当の持込は対象外、イベントスペースは対象外）。金額は会場面積別で、〜300㎡ 100,000円、〜600㎡ 200,000円、〜900㎡ 300,000円、〜1,200㎡ 400,000円、1,201㎡〜 500,000円（税込 各110,000〜550,000円）。懇親会向けのパーティーメニューは住友不動産グループ泉レストランのサイトで案内されている。（出典：持込料のご案内PDF、よくあるご質問、使用規約 2026ver2 第4条）",
+   "source": "https://www.bellesalle.co.jp/wp-content/uploads/mochikomi_price.pdf"
+  }
+ },
+ "documents": [
+  {
+   "title": "利用料金一覧表（2026/7/3更新）",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/akihabara_price.pdf"
+  },
+  {
+   "title": "料金カレンダー（取引条件有効期限 2027年1月末日）",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/eventhall_calender1.pdf"
+  },
+  {
+   "title": "事前搬入届（イベントホール）",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/akihabara_jizen.pdf"
+  },
+  {
+   "title": "使用規約（2026ver2）",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/kiyaku.pdf"
+  },
+  {
+   "title": "持込料のご案内",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/mochikomi_price.pdf"
+  },
+  {
+   "title": "反社会的勢力でないことの表明・確約書",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/bellesalle_bouhai.pdf"
+  },
+  {
+   "title": "イベントホール 設備・備品一覧（B1F・1F 2026/9/11更新、2F 2026/10/27更新）",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/akihabara_hall_b.pdf"
+  },
+  {
+   "title": "アクセスMAP",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/access_akihabara.pdf"
+  },
+  {
+   "title": "2F 平面図",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/akihabara_plane_2f.pdf"
+  },
+  {
+   "title": "2F 天井図",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/akihabara_ceiling_2f.pdf"
+  },
+  {
+   "title": "2F 床図",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/akihabara_floor_2f.pdf"
+  },
+  {
+   "title": "2F イベント電源図",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/akihabara_electric_2f.pdf"
+  },
+  {
+   "title": "2F 避難経路図",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/akihabara_escape_2f.pdf"
+  },
+  {
+   "title": "1F 平面図",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/akihabara_plane_1f.pdf"
+  },
+  {
+   "title": "1F 天井図",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/akihabara_ceiling_1f.pdf"
+  },
+  {
+   "title": "1F 床図",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/akihabara_floor_1f.pdf"
+  },
+  {
+   "title": "1F イベント電源図",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/akihabara_electric_1f.pdf"
+  },
+  {
+   "title": "1F 避難経路図",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/akihabara_escape_1f.pdf"
+  },
+  {
+   "title": "B1 平面図",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/akihabara_plane_b1f.pdf"
+  },
+  {
+   "title": "B1 天井図",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/akihabara_ceiling_b1f.pdf"
+  },
+  {
+   "title": "B1 床図",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/akihabara_floor_b1f.pdf"
+  },
+  {
+   "title": "B1 イベント電源図",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/akihabara_electric_b1f.pdf"
+  },
+  {
+   "title": "B1 避難経路図",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/akihabara_escape_b1.pdf"
+  },
+  {
+   "title": "資料ダウンロード（公式一覧）",
+   "url": "https://www.bellesalle.co.jp/download/bs_akihabara/"
+  },
+  {
+   "title": "よくあるご質問",
+   "url": "https://www.bellesalle.co.jp/faq/"
+  }
+ ],
+ "checkedAt": "2026-10-30",
+ "lat": 35.700123,
+ "lng": 139.77124,
+ "nearby": {
+  "convenience": [
+   {
+    "name": "ローソン 外神田三丁目店",
+    "brand": "ローソン",
+    "distanceM": 77,
+    "walkMin": 1,
+    "hours": "24時間営業",
+    "address": "東京都千代田区外神田3-1-10",
+    "verified": true,
+    "source": "https://www.areamarker.com/lawson/info/221190",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "ファミリーマート 外神田一丁目店",
+    "brand": "ファミリーマート",
+    "distanceM": 112,
+    "walkMin": 2,
+    "hours": "24時間営業",
+    "address": "東京都千代田区外神田1丁目7番-5",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/24163",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "ファミリーマート 外神田三丁目東店",
+    "brand": "ファミリーマート",
+    "distanceM": 123,
+    "walkMin": 2,
+    "hours": "24時間営業",
+    "address": "東京都千代田区外神田3丁目14番地3号",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/26952",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "アクセア 秋葉原店",
+    "brand": "アクセア",
+    "distanceM": 240,
+    "walkMin": 3,
+    "hours": "平日・土日祝 8:00-22:00",
+    "address": "東京都千代田区外神田3-16-14 秋葉原ビル",
+    "verified": true,
+    "source": "https://www.accea.co.jp/entry.html",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "キンコーズ・秋葉原店",
+    "brand": "キンコーズ",
+    "distanceM": 332,
+    "walkMin": 5,
+    "hours": "平日 9:00-19:00／土日祝 10:00-19:00（受付は閉店30分前まで）",
+    "address": "東京都千代田区神田松永町4-1 ラウンドクロス秋葉原1F",
+    "verified": true,
+    "source": "https://www.kinkos.co.jp/store/tokyo/t032/",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Can★Do 秋葉原店",
+    "brand": "キャンドゥ",
+    "distanceM": 98,
+    "walkMin": 2,
+    "hours": "毎日 10:00-21:00",
+    "address": "東京都千代田区外神田3-3-10",
+    "verified": true,
+    "source": "https://shopinfo.cando-web.co.jp/detail/shop-2832/",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "DAISO ヨドバシAKIBA店",
+    "brand": "ダイソー",
+    "distanceM": 346,
+    "walkMin": 5,
+    "hours": "9:30-22:00",
+    "address": "東京都千代田区神田花岡町1-1 ヨドバシカメラ マルチメディアAkiba7階",
+    "verified": true,
+    "source": "https://www.daiso-sangyo.co.jp/shop/detail/007127",
+    "note": "店舗は7階。距離は住所の位置で計算"
+   }
+  ],
+  "donki": [
+   {
+    "name": "ドン・キホーテ 秋葉原店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 73,
+    "walkMin": 1,
+    "hours": "24時間営業",
+    "address": "東京都千代田区外神田4丁目3-3",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=98",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "ドン・キホーテ 上野店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 884,
+    "walkMin": 12,
+    "hours": "9:00-4:00",
+    "address": "東京都文京区湯島3-38-10",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=107",
+    "note": "距離は住所の位置で計算。遠め"
+   }
+  ]
+ },
+ "drinkDelivery": {
+  "available": true
+ },
+ "photo": {
+  "src": "/images/venues/bellesalle-akihabara.jpg",
+  "credit": "© Olaf2 / CC BY-SA 4.0 · Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sumitomo_Fudosan_Akihabara_Geb%C3%A4ude.jpg"
+ }
+}

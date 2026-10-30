@@ -1,0 +1,58 @@
+{
+ "slug": "andaz-tokyo",
+ "name": "Andaz Tokyo Toranomon Hills",
+ "address": "Tokyo 105-0001 Toranomon Hills Mori Tower, 1-23-4 Toranomon, Minato-ku, Tokyo",
+ "accessSummary": "Toranomon Hills Station (Hibiya Line): directly connected to Exit B1 via the subway pedestrian passage, about 3 min walk / Toranomon Station (Ginza Line): directly connected to Exit B1, about 5 min walk / Kasumigaseki Station (Chiyoda Line / Marunouchi Line) Exit A12: about 8 min walk / Uchisaiwaicho Station (Mita Line) Exit A3: about 8 min walk / Shimbashi Station Karasumori Exit: about 11 min walk",
+ "hours": null,
+ "notice": null,
+ "rooms": [
+  {"name": "52F Rooftop Studio", "note": "Board style: 30 guests. Using the terrace, standing reception for up to 300 guests."},
+  {"name": "52F Rooftop Studio + Terrace", "note": "Maximum number of guests when the terrace is included (standing reception). As stated on the official page."},
+  {"name": "51F Tokyo Studio", "note": "Board style: 40 guests. The top of the official page shows 105 for classroom, while the table and PDF give 108."},
+  {"name": "51F Chef's Studio", "note": "Board style: 12 guests. Show kitchen available."},
+  {"name": "51F Andaz Studio A/B", "note": "Combined space of A and B. Board style: 24 guests. Standing reception: 50 on the official page, 40 in the 2020 capacity chart PDF."},
+  {"name": "51F Andaz Studio C/D", "note": "Combined space of C and D. Board style: 24 guests. Standing reception: 50 on the official page, 40 in the 2020 capacity chart PDF."},
+  {"name": "51F Andaz Studio A, B, C and D (each)", "note": "There are 4 rooms, each 50㎡. Board style: 18 guests. Standing reception: 30 on the official page."}
+ ],
+ "ops": {
+  "parking": "The parking lot is inside Toranomon Hills Mori Tower. For in-building use other than staying overnight, the rate is 200 yen per 15 minutes. Guests attending a banquet receive a parking service ticket that is free for up to 4 hours. Valet parking (reception 7:00-23:00) costs 2,000 yen per day, and the parking fee is charged separately. Barrier-free parking spaces are available. (Source: official access page, Hyatt parking and access page, Hyatt FAQ)",
+  "catering": "The hotel provides catering services only for events held inside the hotel. Catering to outside venues is not offered. (Source: Hyatt FAQ)",
+  "restaurants": "The restaurants in the hotel are The Tavern Grill & Lounge on the 51st floor, BeBu on the 1st floor, the SUSHI and the Rooftop Bar on the 52nd floor, and the Pastry Shop on the 1st floor. The official site states that parties of up to 100 guests can be held at The Tavern Grill & Lounge and up to 80 guests at BeBu."
+ },
+ "documents": [
+  {"title": "Events & Meetings (official, Japanese)"},
+  {"title": "Meetings & Events (Hyatt official)"},
+  {"title": "Floor Plan (PDF, posted October 2, 2025)"},
+  {"title": "Capacity Chart (PDF, Japanese, created July 2020, updated October 2025)"},
+  {"title": "Capacity Chart (PDF, English, created July 2020, updated October 2025)"},
+  {"title": "MICE Brochure (Japanese and English, file name 230824_mice_bro_v9)"},
+  {"title": "Rooftop Studio (PDF, file name 231110)"},
+  {"title": "Rooftop Terrace (PDF, file name 231120)"},
+  {"title": "Tokyo Studio (PDF, file name 231120)"},
+  {"title": "Chef's Studio (PDF, file name 231121)"},
+  {"title": "Andaz Studio (PDF, file name 231121)"},
+  {"title": "Access and Parking Guide (official)"},
+  {"title": "Access and Parking Guide (Hyatt)"},
+  {"title": "FAQ (Hyatt)"}
+ ],
+ "nearby": {
+  "convenience": [
+   {"name": "FamilyMart Toranomon Hills", "hours": "7:00-23:00", "note": "Distance is calculated from the address location."},
+   {"name": "7-Eleven Toranomon Hills Residential Tower", "hours": "7:00-23:00 (Mon-Sun & holidays)", "note": "Distance is calculated from the address location."},
+   {"name": "Urban FamilyMart Toranomon HBT", "hours": "7:00-23:00", "note": "Distance is calculated from the address location."}
+  ],
+  "copyshop": [
+   {"name": "Kinko's Toranomon", "hours": "Weekdays 9:00-20:00 / Closed Sat, Sun & holidays (full-service reception until 30 min before closing)", "note": "Distance is calculated from the address location."},
+   {"name": "Accea Toranomon", "hours": "Open 24 hours on weekdays (non-stop from Monday 8:00 to Saturday 19:00) / Sat until 19:00, Sun & holidays 10:00-19:00 (open non-stop on weekdays before a holiday)", "note": "Distance is calculated from the address location."}
+  ],
+  "hundredYen": [
+   {"name": "Can Do Shiroyama Hills", "hours": "Daily 9:00-23:00", "note": "Distance is calculated from the address location."},
+   {"name": "Can Do Akasaka Hitotsugi-dori", "hours": "Mon-Fri 9:00-21:00 / Sat, Sun & holidays 9:00-20:00", "note": "Distance is calculated from the address location. Rather far."}
+  ],
+  "donki": [
+   {"name": "Don Quijote Ginza Main Building (Ginza Nine Building No. 3)", "hours": "Open 24 hours", "note": "Distance is calculated from the address location. Rather far."},
+   {"name": "Picasso Akasaka (Don Quijote)", "hours": "7:00-3:00", "note": "Distance is calculated from the address location. Rather far. The store name on the Don Quijote official website is \"Picasso Akasaka\" (ピカソ赤坂店)."}
+  ]
+ },
+ "photoCredit": "© おつみださ / CC BY 3.0 · Wikimedia Commons"
+}

@@ -1,0 +1,212 @@
+{
+ "slug": "akasaka-intercity-conference",
+ "name": "Akasaka Intercity Conference Center (AICC)",
+ "address": "Tokyo 107-0052 Akasaka Intercity AIR 3F and 4F, 1-8-1 Akasaka, Minato-ku, Tokyo",
+ "accessSummary": "Tameike-Sanno Station (Tokyo Metro Ginza Line / Namboku Line) Exit 14: directly connected to the building's B1F / Exit 9 of the same station: 2 min walk / Kokkai-gijidomae Station (Marunouchi Line / Chiyoda Line) Exit 14: directly connected, Exit 9: 2 min walk (both via Tameike-Sanno Station)",
+ "hours": "Open every day of the year (may close temporarily for facility or equipment inspections). The regular hours for venue fees are 7:00-22:00; 22:00 to 7:00 the next day is subject to a late-night extension fee. Telephone reception is weekdays 9:00-18:00. (Terms of Use as of March 1, 2026; price list as of June 1, 2024)",
+ "notice": null,
+ "rooms": [
+  {
+   "name": "4F the AIR (Entire)",
+   "note": "Island layout: 192 seats. No pillars, so both lengthwise and widthwise layouts are possible. Comes with 2 dedicated waiting rooms, a dedicated reception, simultaneous interpretation booths and a control room."
+  },
+  {
+   "name": "4F the AIR (2/3)",
+   "note": "Island layout: 120 seats. Comes with a dedicated waiting room (Guest Room B). 250-inch screen."
+  },
+  {
+   "name": "4F the AIR (1/3)",
+   "note": "Island layout: 60 seats. Comes with a dedicated waiting room (Guest Room A, seats for 6). Standing parties possible."
+  },
+  {
+   "name": "4F the Green",
+   "note": "Island layout: 54 seats. Dedicated reception desk available."
+  },
+  {
+   "name": "4F the Amphitheater",
+   "note": "Official listing: classroom 65-100 people. Tiered, fan-shaped room. Comes with a dedicated waiting room and simultaneous interpretation booths."
+  },
+  {
+   "name": "4F 401",
+   "note": "Island layout: 72 seats. Equipment includes a stage, a lectern and microphones."
+  },
+  {
+   "name": "4F 402",
+   "note": "Island layout: 30 seats."
+  },
+  {
+   "name": "4F 403",
+   "note": "Island layout: 12 seats."
+  },
+  {
+   "name": "4F 404",
+   "note": "Island layout: 30 seats."
+  },
+  {
+   "name": "4F 405",
+   "note": "Island layout: 30 seats."
+  },
+  {
+   "name": "3F 301",
+   "note": "Island layout: 72 seats. Equipment includes a stage, a lectern and microphones."
+  },
+  {
+   "name": "3F 302",
+   "note": "Island layout: 30 seats."
+  },
+  {
+   "name": "3F 303",
+   "note": "Island layout: 12 seats."
+  },
+  {
+   "name": "3F Boardroom",
+   "note": "Island layout: 20 seats. Comes with a dedicated anteroom of 64㎡ (the price list PDF gives 179㎡, including the anteroom). 98-inch monitor."
+  }
+ ],
+ "ops": {
+  "prevDaySetup": "Usage time includes everything from entry to exit, from setup through removal of all items the user installed and restoration to original condition. In principle, entry is from the reserved start time; on request, entry is possible from 15 minutes before the reserved time, and earlier than that an extension fee applies. Courier packages should be arranged to arrive on the day before the event. For consecutive-day use, items other than valuables can be left in the venue. (Source: Terms of Use as of March 1, 2026; FAQ; About Courier Deliveries, January 2026)",
+  "loadingHours": "Load-in and load-out require advance application. Obtain an event ID on the dedicated portal (Akasaka Intercity AIR Portal System) and submit the \"Event Load-in/Load-out Application\" at least 1 week before the planned work date. After approval, a load-in/load-out permit is issued; on the day, print it and submit it to the Logistics Management Center on B2F. In the load-in/load-out route guide, the \"Temporary Load-in/Load-out Application\" is submitted to the secretariat at least 7 days before, and 2 \"Temporary Load-in/Load-out Permits\" (one for display on the vehicle, one to show at reception) are issued. Large-scale load-in/load-out of exhibits and equipment is possible only between 18:00 and 9:00 the next morning, and a separate logistics management fee applies (only for load-in/load-out in this time slot, the extension fee is 20% off the venue fee). The only freight elevator is Unit E2: maximum load 2,200 kg, car size W1800 x D2100 x H3000-4300 mm, door W1100 x H2600 mm. The Logistics Management Center is open weekdays 7:00-20:00 and Sat, Sun & holidays 8:00-18:00; outside these hours the shutter is closed and you contact the disaster prevention center by intercom (load-in/load-out route map). For large or heavy items (over 200 kg per piece, more than 3 hand trucks, roll box pallets, dedicated carts, etc.), write the weight and number of workers on the application form; a separate in-building elevator coordination operator fee may apply. (Source: Load-in/Load-out Guide; price list as of June 1, 2024 and the revised version from April 1, 2027; Temporary Load-in/Load-out Application; B2F Load-in/Load-out Route Map)",
+  "vehicleRules": "Load-in/load-out vehicles park in the loading zone (Zone K) on B2F as directed by staff. The loading area can be used by up to 1 vehicle at a time per event; if there are 2 or more, vehicles take turns. Vehicles may not be left in the loading parking area; if there is work inside the building, move to the general parking lot after unloading (the general parking lot may be full; the load-in/load-out page lists two fees, \"500 yen/30 min\" and \"400 yen/30 min\", and the basic rate on the parking page is 500 yen per 30 minutes). Vehicles that can enter: height 3,200 mm or less, length 6,700 mm or less, width 2,400 mm or less (some spaces have a height limit of 2.9 m). Microbuses cannot enter. The loading parking area cannot be used unless the \"Temporary Load-in/Load-out Permit\" is displayed on the windshield. Temporary storage of items inside the loading parking area is prohibited, and all waste must be taken away. Heavy items (about 100 kg as a guide) must be protected with blue-coated plywood boards (aobeni) or similar. The loading parking area fee is free for up to 1 hour (as stated on the Temporary Load-in/Load-out Application). (Source: Load-in/Load-out Guide; Temporary Load-in/Load-out Application; B2F Load-in/Load-out Route Map)",
+  "parking": "The underground parking lot has 171 spaces and is open 6:30-23:30. The basic rate is 500 yen per 30 minutes (tax included). The mechanical type (152 spaces in total, regular and high-roof) accepts vehicles up to 5,300 mm long, 2,050 mm wide, 1,550 mm high (high-roof 2,000 mm) and 2,500 kg, with a maximum fee of 2,200 yen (high-roof 3,000 yen). The 19 flat spaces accept vehicles up to 6,000 mm long, 2,050 mm wide and 3,150 mm high, with a maximum fee of 3,900 yen. After midnight, a charge for a second day is newly added.",
+  "waitingRooms": "The AIR (Entire) has 2 dedicated waiting rooms; when 1/3 is used, Guest Room A (seats for 6) is included, and when 2/3 is used, Guest Room B is included. The Amphitheater also comes with a dedicated waiting room. The Boardroom has a dedicated anteroom (64㎡) that can be used as a waiting room, break space or reception. The Green is described as usable as a waiting room, breakout session room, exhibition space or reception space. Rooms 302, 303 and 402-405 are described as usable as waiting rooms for people involved in international conferences and symposiums.",
+  "catering": "Organizers are asked to refrain from bringing in boxed meals and drinks (items that participants bring individually are not restricted). The Terms of Use also prohibit \"bringing in food and drink from vendors other than those designated by the operator\" (as of March 1, 2026). For food and drink, use the boxed meals, drinks and reception catering partners arranged by the facility. Partner vendors that can hold a party inside a meeting room are listed as: Folie Classe (40 people or more, total 200,000 yen or more), CB Service (30 people or more, 165,000 yen or more), Cordon Bleu (50 people or more, 300,000 yen or more), Aporte Food Factory (50 people or more, 250,000 yen or more), Midorie (30 people or more, 150,000 yen or more; party service until 20:30), and Sankei Kaikan (30 people or more, 180,000 yen or more); ANA InterContinental Tokyo and The Okura Tokyo respond to inquiries. New orders are due 2 weeks before the event and changes 1 week before (the usual guideline is 1 month before for new orders and 10 days before for quantity changes). (Source: Catering for Parties and Receptions; FAQ; Terms of Use)",
+  "restaurants": "The official FAQ states that there are restaurants and cafes on the 1st floor and B1F of Akasaka Intercity AIR. There is a Lawson on B1F (closed on Sundays and holidays). The official access page says there are many restaurants in and around the building suitable for after-parties, and directs readers to the surrounding-area page of the building's official website. For receptions, a party inside a meeting room (partner catering) is offered."
+ },
+ "documents": [
+  {
+   "title": "Venue Price List (PRICE LIST, as of June 1, 2024)"
+  },
+  {
+   "title": "Notice of Fee Revision and Price List (for use from April 1, 2027; applies to new bookings received from October 1, 2026)"
+  },
+  {
+   "title": "Terms of Use (as of March 1, 2026)"
+  },
+  {
+   "title": "Equipment List (paid, October 2026)"
+  },
+  {
+   "title": "Free Equipment List (January 2025)"
+  },
+  {
+   "title": "Equipment Photos"
+  },
+  {
+   "title": "Venue Drawings (plain)"
+  },
+  {
+   "title": "Venue Drawings (to scale)"
+  },
+  {
+   "title": "Reference Layout Drawings"
+  },
+  {
+   "title": "Reference Layout Drawings (Social Distancing)"
+  },
+  {
+   "title": "AV Input and LAN Locations"
+  },
+  {
+   "title": "Power Circuit Diagram (use of the event panel requires advance application and a separate fee)"
+  },
+  {
+   "title": "Projector, Screen and Rail Locations"
+  },
+  {
+   "title": "Signage Locations"
+  },
+  {
+   "title": "Access Map"
+  },
+  {
+   "title": "Floor Guide"
+  },
+  {
+   "title": "B1F Drop-off Flow Line (November 2024)"
+  },
+  {
+   "title": "Load-in/Load-out Flow Line, B2F Floor Plan"
+  },
+  {
+   "title": "Basement-to-Conference Flow Line (Building Floor Plan, May 2025)"
+  },
+  {
+   "title": "Temporary Load-in/Load-out Application (Excel)"
+  },
+  {
+   "title": "Load-in/Load-out Elevator Dimensions (Unit E2)"
+  },
+  {
+   "title": "About Courier Deliveries (January 2026)"
+  },
+  {
+   "title": "Entry and Exit Flow Line for Late Night and Early Morning (23:30-7:00)"
+  },
+  {
+   "title": "KIOSK MENU"
+  },
+  {
+   "title": "Pamphlet"
+  },
+  {
+   "title": "Evacuation Routes (Emergency Response)"
+  },
+  {
+   "title": "Load-in/Load-out Guide (official page)"
+  },
+  {
+   "title": "FAQ"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "Lawson Akasaka Intercity AIR",
+    "hours": "7:00-23:00",
+    "note": "Same address as the venue."
+   },
+   {
+    "name": "7-Eleven Minato-ku Tameike-Sanno",
+    "hours": "7:00-23:00",
+    "note": null
+   },
+   {
+    "name": "FamilyMart Akasaka Intercity/S",
+    "hours": "7:00-20:00",
+    "note": null
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "Accea Tameike-Sanno",
+    "hours": "Weekdays 8:00-22:00 / Closed Sat, Sun & holidays",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Accea Roppongi-itchome",
+    "hours": "Weekdays 9:00-20:00 / Closed Sat, Sun & holidays",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Can Do Akasaka Hitotsugi-dori",
+    "hours": "Mon-Fri 9:00-21:00 / Sat, Sun & holidays 9:00-20:00",
+    "note": null
+   }
+  ],
+  "donki": [
+   {
+    "name": "Don Quijote Picasso Akasaka",
+    "hours": "7:00-3:00",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Don Quijote Roppongi",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. Rather far."
+   }
+  ]
+ },
+ "photoCredit": "© Akonnchiroll / CC BY-SA 4.0 · Wikimedia Commons"
+}

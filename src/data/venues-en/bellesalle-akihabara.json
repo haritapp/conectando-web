@@ -1,0 +1,75 @@
+{
+ "slug": "bellesalle-akihabara",
+ "name": "Bellesalle Akihabara",
+ "address": "Tokyo 101-0021 Sumitomo Fudosan Akihabara Building B1, 1F and 2F, 3-12-8 Sotokanda, Chiyoda-ku",
+ "accessSummary": "Akihabara Station (JR) Electric Town Exit, North Gate: 3 min walk / Akihabara Station (Tsukuba Express) Exit A3: 5 min walk / Akihabara Station (Hibiya Line) Exit 2: 6 min walk / Suehirocho Station (Ginza Line) Exit 1 or 3: 4 min walk",
+ "hours": "Building entrance open 7:30-20:00 (Event Hall equipment list)",
+ "notice": null,
+ "rooms": [
+  {"name": "2F HALL - Entire Hall", "note": "Classroom is 2 per desk. Classroom, 3 per desk: 576 seats. Island layout: 504 seats (84 islands)."},
+  {"name": "2F HALL A", "note": "Classroom is 2 per desk. Classroom, 3 per desk: 342 seats. Island layout: 288 seats (48 islands)."},
+  {"name": "2F HALL B", "note": "Classroom is 2 per desk. Classroom, 3 per desk: 180 seats. Island layout: 120 seats (20 islands)."},
+  {"name": "B1 HALL", "note": "Classroom is 2 per desk. Classroom, 3 per desk: 360 seats. Island layout: 324 seats (54 islands). A basement hall with direct load-in and a back-of-house route. Performances and music events are also possible (official facility page)."},
+  {"name": "1F HALL", "note": "Classroom is 2 per desk. Classroom, 3 per desk: 300 seats. Island layout: 324 seats (54 islands). Water supply and drainage available. The glass wall facing the intersection can be opened (official facility page)."},
+  {"name": "1F Event Space", "note": "Food trucks can be used (official facility page). Large pillar-wrap advertisements can be installed."},
+  {"name": "1F HALL + 1F Event Space", "note": "The 1F HALL and the Event Space used together."},
+  {"name": "2F Waiting Room A", "note": "Usage fee 0 yen. 1 table, 8 chairs, clothes rack, full-length mirror, private restroom. Cannot be used on its own."},
+  {"name": "2F Waiting Room B", "note": "Usage fee 0 yen. 1 table, 4 low chairs, clothes rack, full-length mirror, private restroom. Cannot be used on its own."},
+  {"name": "B1 Waiting Room", "note": "Usage fee 0 yen. 1 table, 4 sofas, clothes rack, full-length mirror, private restroom. Cannot be used on its own."}
+ ],
+ "ops": {
+  "prevDaySetup": "Usage time includes setup and cleanup time (price list). The halls have 8-hour, 12-hour and 24-hour rates; night-time or 24-hour use may not be available depending on the bookings before and after, so consult in advance. Except for some areas, the venue can be used 24 hours a day, 365 days a year. Advance arrival of packages is in principle designated for the day before the event, and an advance load-in notice must be submitted at least 1 week before the load-in date (valuables are not accepted, and the venue takes no responsibility for damage to packages). Large or numerous packages not notified in advance are treated as renting the venue as a storage space for a fee. (Source: Hall price list, updated July 3, 2026; FAQ; Terms of Use 2026ver2 Article 20)",
+  "loadingHours": "When there is load-in or load-out, an advance load-in notice must be submitted at least 1 week before the work date (the loading area cannot be used if it is not submitted). Delivery vehicles for load-in and load-out must enter and leave from the designated place within the usage time, and the venue may adjust load-in times and the like. Loading and unloading work is in principle limited to 20 minutes. The permitted dimensions of the loading area are 3,200 mm high x 7,000 mm long. The load-in route differs by hall: for 2F, from the B2 \"Bellesalle-only parking\" via the load-in elevator (entrance door 900 mm wide x 2,300 mm high; inside the car 1,200 mm wide x 2,450 mm high x 1,400 mm deep; load capacity 900 kg); for B1, from the B1F loading area (entrance 2,500 mm wide x 3,150 mm high); for 1F, directly from the north-side load-in entrance along the road (2,500 mm wide x 3,000 mm high; a road use permit is required). The on-site manager must complete entry procedures at the Sumitomo Fudosan Akihabara Building 1F Service Center before starting work. The building entrance is open 7:30-20:00. Packages received in advance are in principle limited to 5 boxes per hall. (Source: Advance Load-in Notice (Event Hall), Event Hall equipment list [B1F and 1F updated September 11, 2026; 2F updated October 27, 2026], Terms of Use 2026ver2 Article 16)",
+  "vehicleRules": "The loading area is used only for loading and unloading; if parking is needed, use an outside parking lot. When multiple vehicles are used, they share one vehicle's loading space in staggered turns. Illegal parking, parking outside the designated parking lot, and roadside parking around the building are strictly prohibited. Products, packing materials, decoration materials, trash and the like may not be left in the loading area during the usage period. If delivery vehicle traffic is expected to be congested, traffic staff are placed at the entrance and similar points. The vehicle restrictions in the equipment list are: for 2F and B1, 3,200 mm high x 7,000 mm long and 2.0 t; for 1F, outdoors and 2.0 t (a road use permit is required). (Source: Advance Load-in Notice (Event Hall), Terms of Use 2026ver2 Articles 15 and 16, Event Hall equipment list)",
+  "parking": "The parking column of the equipment list shows \"none\" for Bellesalle-only parking, hourly parking and drop-off area alike, and the venue advises using nearby parking. To find nearby hourly parking lots, search for \"Bellesalle Akihabara\" on \"s-park\" (Tokyo Metropolitan Road Improvement and Conservation Corporation), which is linked from the official facility page. (Source: Official facility page, Event Hall equipment list [B1F and 1F updated September 11, 2026; 2F updated October 27, 2026])",
+  "waitingRooms": "There are 3 waiting rooms: 2F Waiting Room A (15㎡), 2F Waiting Room B (9㎡) and B1 Waiting Room (20㎡). All have a usage fee of 0 yen and a private restroom. Waiting rooms cannot be used on their own. The waiting room column for the 1F Hall shows \"none\". (Source: Official facility page, Event Hall equipment list)",
+  "catering": "Outside food/drink brought in is allowed. However, if a caterer other than the operator's designated vendors is used, an \"outside food/drink fee\" applies (party use only; bringing in drinks only or boxed meals is not covered, and the Event Space is not covered). The amount depends on venue area: up to 300㎡ 100,000 yen, up to 600㎡ 200,000 yen, up to 900㎡ 300,000 yen, up to 1,200㎡ 400,000 yen, 1,201㎡ and above 500,000 yen (110,000 to 550,000 yen each, tax included). Party menus for receptions are introduced on the website of Izumi Restaurant, a Sumitomo Fudosan Group company. (Source: Outside Food/Drink Fee Guide PDF, FAQ, Terms of Use 2026ver2 Article 4)"
+ },
+ "documents": [
+  {"title": "Price List (updated July 3, 2026)"},
+  {"title": "Price Calendar (terms valid until the end of January 2027)"},
+  {"title": "Advance Load-in Notice (Event Hall)"},
+  {"title": "Terms of Use (2026ver2)"},
+  {"title": "Outside Food/Drink Fee Guide"},
+  {"title": "Statement and Pledge that You Are Not an Anti-Social Force"},
+  {"title": "Event Hall Equipment and Fixtures List (B1F and 1F updated September 11, 2026; 2F updated October 27, 2026)"},
+  {"title": "Access Map"},
+  {"title": "2F Floor Plan"},
+  {"title": "2F Ceiling Plan"},
+  {"title": "2F Floor Drawing"},
+  {"title": "2F Event Power Supply Diagram"},
+  {"title": "2F Evacuation Route Map"},
+  {"title": "1F Floor Plan"},
+  {"title": "1F Ceiling Plan"},
+  {"title": "1F Floor Drawing"},
+  {"title": "1F Event Power Supply Diagram"},
+  {"title": "1F Evacuation Route Map"},
+  {"title": "B1 Floor Plan"},
+  {"title": "B1 Ceiling Plan"},
+  {"title": "B1 Floor Drawing"},
+  {"title": "B1 Event Power Supply Diagram"},
+  {"title": "B1 Evacuation Route Map"},
+  {"title": "Document Downloads (official list)"},
+  {"title": "FAQ"}
+ ],
+ "nearby": {
+  "convenience": [
+   {"name": "Lawson Sotokanda 3-chome", "hours": "Open 24 hours", "note": "Distance is calculated from the address location."},
+   {"name": "FamilyMart Sotokanda 1-chome", "hours": "Open 24 hours", "note": "Distance is calculated from the address location."},
+   {"name": "FamilyMart Sotokanda 3-chome Higashi", "hours": "Open 24 hours", "note": "Distance is calculated from the address location."}
+  ],
+  "copyshop": [
+   {"name": "Accea Akihabara", "hours": "Weekdays, Sat, Sun & holidays 8:00-22:00", "note": "Distance is calculated from the address location."},
+   {"name": "Kinko's Akihabara", "hours": "Weekdays 9:00-19:00 / Sat, Sun & holidays 10:00-19:00 (reception until 30 min before closing)", "note": "Distance is calculated from the address location."}
+  ],
+  "hundredYen": [
+   {"name": "Can Do Akihabara", "hours": "Daily 10:00-21:00", "note": "Distance is calculated from the address location."},
+   {"name": "DAISO Yodobashi AKIBA", "hours": "9:30-22:00", "note": "The store is on the 7th floor. Distance is calculated from the address location."}
+  ],
+  "donki": [
+   {"name": "Don Quijote Akihabara", "hours": "Open 24 hours", "note": "Distance is calculated from the address location."},
+   {"name": "Don Quijote Ueno", "hours": "9:00-4:00", "note": "Distance is calculated from the address location. Rather far."}
+  ]
+ },
+ "photoCredit": null
+}
