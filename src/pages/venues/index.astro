@@ -1,0 +1,242 @@
+---
+// src/pages/venues/index.astro — イベント運営者向け 会場リスト（検索つき一覧）
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import PageHero from '../../components/PageHero.astro';
+import ContactCTA from '../../components/ContactCTA.astro';
+import {
+  getVenues, maxCapacity, maxArea, capacityByLayout, venueFlags,
+  TYPE_LABEL, LAYOUT_LABEL, AREA_LABEL, FLAG_LABEL, formatNumber,
+  type Layout, type VenueFlags,
+} from '../../lib/venues';
+
+const venues = getVenues();
+const rows = venues.map((v) => {
+  const cap = maxCapacity(v);
+  const byLayout = capacityByLayout(v);
+  const flags = venueFlags(v);
+  return {
+    v, cap, area: maxArea(v), flags,
+    data: {
+      name: `${v.nameJa} ${v.nameEn ?? ''}`.toLowerCase(),
+      type: v.type,
+      area: v.area,
+      cap: JSON.stringify(byLayout),
+      maxarea: String(maxArea(v) ?? 0),
+      flags: Object.entries(flags).filter(([, on]) => on).map(([k]) => k).join(' '),
+    },
+  };
+});
+
+const usedAreas = [...new Set(venues.map((v) => v.area))];
+const areaOptions = Object.entries(AREA_LABEL).filter(([k]) => usedAreas.includes(k));
+const typeOptions = Object.entries(TYPE_LABEL);
+const layoutOptions = Object.entries(LAYOUT_LABEL) as [Layout, string][];
+const flagGroups: { title: string; keys: (keyof VenueFlags)[] }[] = [
+  { title: '近くの店', keys: ['convenience5', 'copyshop10', 'hundredYen10', 'donki15', 'drinkDelivery'] },
+  { title: '公式に運営ルールの案内がある', keys: ['prevDaySetup', 'loadingHours', 'waitingRooms', 'parking', 'catering'] },
+];
+---
+
+<BaseLayout
+  title="イベント会場リスト（運営者向け）｜東京・横浜 | Conectando"
+  rawTitle
+  description="東京・横浜のイベント会場を、収容人数・広さ・エリアに加えて、搬入・前日設営・控室・駐車場の公式ルールと、近くの印刷店・100円ショップ・ドン・キホーテで探せる運営者向けリスト。"
+>
+  <PageHero label="VENUES" title="会場リスト" />
+
+  <div class="vl-wrap">
+    <p class="vl-lead">
+      イベントを運営する人のための会場リストです。人数や広さに加えて、<strong>搬入・前日設営・控室・駐車場の公式ルール</strong>と、
+      当日困ったときに走れる<strong>近くの印刷店・コンビニ・100円ショップ・ドン・キホーテ</strong>で探せます。
+    </p>
+
+    <form id="vl-filter" class="vl-filter" onsubmit="return false">
+      <div class="vl-field vl-field-wide">
+        <label for="f-name">会場名</label>
+        <input id="f-name" type="search" placeholder="例：フォーラム、ベルサール" autocomplete="off" />
+      </div>
+      <div class="vl-field">
+        <label for="f-type">種類</label>
+        <select id="f-type">
+          <option value="">すべて</option>
+          {typeOptions.map(([k, label]) => <option value={k}>{label}</option>)}
+        </select>
+      </div>
+      <div class="vl-field">
+        <label for="f-area">エリア</label>
+        <select id="f-area">
+          <option value="">すべて</option>
+          {areaOptions.map(([k, label]) => <option value={k}>{label}</option>)}
+        </select>
+      </div>
+      <div class="vl-field">
+        <label for="f-people">人数（以上）</label>
+        <div class="vl-inline">
+          <select id="f-layout" aria-label="レイアウト">
+            {layoutOptions.map(([k, label]) => <option value={k}>{label}</option>)}
+          </select>
+          <input id="f-people" type="number" min="0" step="10" inputmode="numeric" placeholder="例：300" />
+          <span class="vl-unit">人</span>
+        </div>
+      </div>
+      <div class="vl-field">
+        <label for="f-m2">一番広い部屋（以上）</label>
+        <div class="vl-inline">
+          <input id="f-m2" type="number" min="0" step="50" inputmode="numeric" placeholder="例：500" />
+          <span class="vl-unit">㎡</span>
+        </div>
+      </div>
+
+      {flagGroups.map((g) => (
+        <fieldset class="vl-flags">
+          <legend>{g.title}</legend>
+          {g.keys.map((k) => (
+            <label class="vl-check"><input type="checkbox" value={k} data-flag /> {FLAG_LABEL[k]}</label>
+          ))}
+        </fieldset>
+      ))}
+
+      <div class="vl-actions">
+        <button type="reset" class="vl-reset">条件をクリア</button>
+      </div>
+    </form>
+
+    <p class="vl-count"><span id="vl-count">{rows.length}</span> 会場</p>
+
+    <ul class="vl-list" id="vl-list">
+      {rows.map(({ v, cap, area, flags, data }) => (
+        <li
+          class="vl-item"
+          data-name={data.name}
+          data-type={data.type}
+          data-area={data.area}
+          data-cap={data.cap}
+          data-maxarea={data.maxarea}
+          data-flags={data.flags}
+        >
+          <a href={`/venues/${v.slug}/`} class="vl-card">
+            <div class="vl-card-head">
+              <span class="vl-badge">{TYPE_LABEL[v.type]}</span>
+              <span class="vl-areaname">{AREA_LABEL[v.area] ?? ''}</span>
+            </div>
+            <h2 class="vl-name">{v.nameJa}</h2>
+            <dl class="vl-specs">
+              <div><dt>最大</dt><dd>{cap ? `${formatNumber(cap.people)}人（${LAYOUT_LABEL[cap.layout]}）` : '—'}</dd></div>
+              <div><dt>一番広い部屋</dt><dd>{area ? `${formatNumber(area)}㎡` : '—'}</dd></div>
+              <div><dt>部屋数</dt><dd>{v.rooms.length ? `${v.rooms.length}` : '—'}</dd></div>
+            </dl>
+            <ul class="vl-tags">
+              {flags.prevDaySetup && <li>前日設営</li>}
+              {flags.loadingHours && <li>搬入</li>}
+              {flags.waitingRooms && <li>控室</li>}
+              {flags.parking && <li>駐車場</li>}
+              {flags.copyshop10 && <li class="t-shop">印刷店10分</li>}
+              {flags.hundredYen10 && <li class="t-shop">100円ショップ10分</li>}
+              {flags.donki15 && <li class="t-shop">ドンキ15分</li>}
+              {flags.drinkDelivery && <li class="t-shop">飲料当日配達</li>}
+            </ul>
+          </a>
+        </li>
+      ))}
+    </ul>
+    <p id="vl-empty" class="vl-empty" hidden>条件に合う会場がありません。条件をゆるめてください。</p>
+
+    <p class="vl-note">
+      人数・広さは各会場の公式サイトの数字です。運営ルールは公式サイト・公式PDFに書かれているものだけを載せています。
+      会場は順次追加しています。参加者向けのアクセス・ホテル情報は <a href="https://www.bizintokyo.com/" target="_blank" rel="noopener">BizinTokyo</a> にあります。
+    </p>
+  </div>
+
+  <ContactCTA trackSource="venues_list" />
+</BaseLayout>
+
+<script>
+  const form = document.getElementById('vl-filter') as HTMLFormElement;
+  const items = Array.from(document.querySelectorAll<HTMLLIElement>('#vl-list .vl-item'));
+  const countEl = document.getElementById('vl-count')!;
+  const emptyEl = document.getElementById('vl-empty')!;
+  const $ = <T extends HTMLElement>(id: string) => document.getElementById(id) as T;
+
+  function apply() {
+    const name = $<HTMLInputElement>('f-name').value.trim().toLowerCase();
+    const type = $<HTMLSelectElement>('f-type').value;
+    const area = $<HTMLSelectElement>('f-area').value;
+    const layout = $<HTMLSelectElement>('f-layout').value;
+    const people = Number($<HTMLInputElement>('f-people').value) || 0;
+    const m2 = Number($<HTMLInputElement>('f-m2').value) || 0;
+    const flags = Array.from(form.querySelectorAll<HTMLInputElement>('input[data-flag]:checked')).map((c) => c.value);
+
+    let shown = 0;
+    for (const li of items) {
+      const d = li.dataset;
+      const cap = JSON.parse(d.cap || '{}') as Record<string, number>;
+      const have = (d.flags || '').split(' ');
+      const ok =
+        (!name || (d.name || '').includes(name)) &&
+        (!type || d.type === type) &&
+        (!area || d.area === area) &&
+        (!people || (cap[layout] ?? 0) >= people) &&
+        (!m2 || Number(d.maxarea) >= m2) &&
+        flags.every((f) => have.includes(f));
+      li.hidden = !ok;
+      if (ok) shown++;
+    }
+    countEl.textContent = String(shown);
+    emptyEl.hidden = shown !== 0;
+  }
+
+  form.addEventListener('input', apply);
+  form.addEventListener('change', apply);
+  form.addEventListener('reset', () => setTimeout(apply, 0));
+</script>
+
+<style>
+.vl-wrap { max-width: 64rem; margin: 0 auto; padding: 2rem 1rem 4rem; }
+.vl-lead { font-size: 1rem; line-height: 1.8; color: var(--color-text); margin: 0 0 1.75rem; }
+.vl-filter {
+  display: grid; grid-template-columns: repeat(auto-fit, minmax(13rem, 1fr)); gap: 1rem 1.25rem;
+  background: var(--color-accent); border: 1px solid var(--color-border); border-radius: var(--radius-md);
+  padding: 1.25rem;
+}
+.vl-field { display: flex; flex-direction: column; gap: .375rem; min-width: 0; }
+.vl-field-wide { grid-column: 1 / -1; }
+.vl-field label, .vl-flags legend { font-size: .8125rem; font-weight: 700; color: var(--color-heading); }
+.vl-field input, .vl-field select {
+  font: inherit; font-size: 16px; padding: .5rem .625rem; border: 1px solid #c9c9dd; border-radius: var(--radius-sm);
+  background: #fff; min-width: 0; width: 100%;
+}
+.vl-inline { display: flex; gap: .5rem; align-items: center; }
+.vl-inline select { width: auto; flex: 0 0 auto; }
+.vl-unit { font-size: .875rem; color: var(--color-text-muted); flex: 0 0 auto; }
+.vl-flags { grid-column: 1 / -1; border: 0; padding: 0; margin: 0; display: flex; flex-wrap: wrap; gap: .5rem 1rem; }
+.vl-flags legend { margin-bottom: .5rem; padding: 0; }
+.vl-check { font-size: .875rem; display: inline-flex; align-items: center; gap: .375rem; cursor: pointer; }
+.vl-check input { width: 1.05rem; height: 1.05rem; accent-color: var(--color-brand); }
+.vl-actions { grid-column: 1 / -1; }
+.vl-reset { font: inherit; font-size: .875rem; background: none; border: 1px solid var(--color-border); padding: .375rem .875rem; border-radius: 999px; cursor: pointer; color: var(--color-text-muted); }
+.vl-count { margin: 1.5rem 0 .75rem; font-weight: 700; color: var(--color-heading); }
+.vl-count span { color: var(--color-brand); font-size: 1.25rem; }
+.vl-list { list-style: none; padding: 0; margin: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(18rem, 1fr)); gap: 1rem; }
+.vl-item[hidden] { display: none; }
+.vl-card {
+  display: flex; flex-direction: column; gap: .625rem; height: 100%; padding: 1.125rem; border: 1px solid var(--color-border);
+  border-radius: var(--radius-md); color: inherit; text-decoration: none; background: #fff; transition: border-color .15s, box-shadow .15s;
+}
+.vl-card:hover { text-decoration: none; border-color: var(--color-brand); box-shadow: 0 2px 10px rgba(21, 21, 179, .08); }
+.vl-card-head { display: flex; gap: .5rem; align-items: center; flex-wrap: wrap; }
+.vl-badge { font-size: .75rem; font-weight: 700; color: #fff; background: var(--color-brand); padding: .125rem .5rem; border-radius: 999px; }
+.vl-areaname { font-size: .75rem; color: var(--color-text-muted); }
+.vl-name { font-size: 1.125rem; font-weight: 700; color: var(--color-heading); margin: 0; line-height: 1.4; }
+.vl-specs { display: grid; grid-template-columns: repeat(3, auto); gap: .25rem 1rem; margin: 0; justify-content: start; }
+.vl-specs div { min-width: 0; }
+.vl-specs dt { font-size: .6875rem; color: var(--color-text-muted); }
+.vl-specs dd { margin: 0; font-size: .875rem; font-weight: 700; color: var(--color-text); }
+.vl-tags { list-style: none; padding: 0; margin: auto 0 0; display: flex; flex-wrap: wrap; gap: .375rem; }
+.vl-tags li { font-size: .6875rem; padding: .125rem .5rem; border-radius: 999px; background: var(--color-accent); border: 1px solid var(--color-border); color: var(--color-brand); }
+.vl-tags li.t-shop { background: #fff7e6; border-color: #f3dcae; color: #8a5a00; }
+.vl-empty { padding: 2rem 0; color: var(--color-text-muted); }
+.vl-note { margin-top: 2rem; font-size: .8125rem; color: var(--color-text-muted); line-height: 1.7; }
+@media (max-width: 480px) {
+  .vl-specs { grid-template-columns: repeat(2, auto); }
+}
+</style>

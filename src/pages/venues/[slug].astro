@@ -1,0 +1,228 @@
+---
+// src/pages/venues/[slug].astro — 会場ごとの運営者向けページ
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import ContactCTA from '../../components/ContactCTA.astro';
+import { COMMON } from '../../data/venue-common';
+import {
+  getVenues, maxCapacity, maxArea, verifiedShops,
+  TYPE_LABEL, LAYOUT_LABEL, AREA_LABEL, OPS_LABEL, OPS_ORDER, areaColumnPath, formatNumber,
+  type Venue, type Shop,
+} from '../../lib/venues';
+
+export function getStaticPaths() {
+  return getVenues().map((v) => ({ params: { slug: v.slug }, props: { v } }));
+}
+
+const { v } = Astro.props as { v: Venue };
+const cap = maxCapacity(v);
+const area = maxArea(v);
+const notice = typeof v.notice === 'string' ? { text: v.notice } : v.notice ?? null;
+const opsItems = OPS_ORDER.filter((k) => v.ops?.[k]).map((k) => ({ key: k, label: OPS_LABEL[k], ...v.ops[k]! }));
+
+const shopGroups: { title: string; hint: string; list: Shop[] }[] = [
+  { title: '印刷店（大量・大判）', hint: 'ポスター・パネル・大量の資料はこちら。', list: verifiedShops(v.nearby?.copyshop) },
+  { title: 'コンビニ（マルチコピー機）', hint: '少部数の印刷、飲み物、テープ・電池など。', list: verifiedShops(v.nearby?.convenience) },
+  { title: '100円ショップ', hint: '養生テープ、ハサミ、名札ケース、延長コード、ビニール袋など。', list: verifiedShops(v.nearby?.hundredYen) },
+  { title: 'ドン・キホーテ', hint: '夜中や当日朝の買い出しに。', list: verifiedShops(v.nearby?.donki) },
+];
+const hasShops = shopGroups.some((g) => g.list.length);
+
+const hostOf = (u: string) => { try { return new URL(u).hostname.replace(/^www\./, ''); } catch { return u; } };
+const isPdf = (u: string) => /\.pdf($|\?)/i.test(u);
+const showCol = (k: 'areaM2' | 'ceilingM' | 'theater' | 'school' | 'ushape' | 'standing' | 'banquet') =>
+  v.rooms.some((r) => typeof r[k] === 'number' || (typeof r[k] === 'string' && r[k] !== ''));
+const cols = (['areaM2', 'ceilingM', 'theater', 'school', 'ushape', 'standing', 'banquet'] as const).filter(showCol);
+const colLabel: Record<(typeof cols)[number], string> = {
+  areaM2: '面積（㎡）', ceilingM: '天井高（m）', theater: 'シアター', school: 'スクール', ushape: 'ロの字', standing: '立食', banquet: '正餐',
+};
+const checked = v.checkedAt.replace(/^(\d{4})-(\d{2})-(\d{2})$/, (_, y, m, d) => `${y}年${Number(m)}月${Number(d)}日`);
+const title = `${v.nameJa}｜イベント運営者向け会場情報（搬入・控室・近くの店）`;
+const description = `${v.nameJa}でイベントを運営する人向けに、部屋ごとの収容人数・広さ、搬入・前日設営・控室・駐車場の公式ルール、近くの印刷店・コンビニ・100円ショップ・ドン・キホーテをまとめました。`;
+---
+
+<BaseLayout title={`${title} | Conectando`} rawTitle description={description}>
+  <div class="vd-wrap">
+    <nav class="vd-crumb"><a href="/venues/">会場リスト</a> <span>›</span> {v.nameJa}</nav>
+
+    <header class="vd-head">
+      <div class="vd-badges">
+        <span class="vd-badge">{TYPE_LABEL[v.type]}</span>
+        {AREA_LABEL[v.area] && <a class="vd-area" href={areaColumnPath(v.area)}>{AREA_LABEL[v.area]}</a>}
+      </div>
+      <h1 class="vd-h1">{v.nameJa}</h1>
+      {v.nameEn && <p class="vd-en">{v.nameEn}</p>}
+    </header>
+
+    {notice && (
+      <div class="vd-notice">
+        <strong>お知らせ</strong>
+        <p>{notice.text}{notice.source && <> （<a href={notice.source} target="_blank" rel="noopener">公式のお知らせ</a>）</>}</p>
+      </div>
+    )}
+
+    <section class="vd-summary">
+      <dl>
+        <div><dt>最大収容</dt><dd>{cap ? <>{formatNumber(cap.people)}人<small>（{cap.room}・{LAYOUT_LABEL[cap.layout]}）</small></> : '—'}</dd></div>
+        <div><dt>一番広い部屋</dt><dd>{area ? `${formatNumber(area)}㎡` : '—'}</dd></div>
+        <div><dt>住所</dt><dd>{v.address}</dd></div>
+        {v.accessSummary && <div><dt>最寄り駅</dt><dd>{v.accessSummary}</dd></div>}
+        {v.hours && <div><dt>開館時間</dt><dd>{v.hours}</dd></div>}
+        <div><dt>公式サイト</dt><dd><a href={v.officialUrl} target="_blank" rel="noopener">{hostOf(v.officialUrl)}</a>{v.organizerUrl && <>　<a href={v.organizerUrl} target="_blank" rel="noopener">主催者向け案内</a></>}</dd></div>
+      </dl>
+    </section>
+
+    <nav class="vd-toc" aria-label="このページの内容">
+      {opsItems.length > 0 && <a href="#ops">運営のルール</a>}
+      <a href="#shops">近くの店</a>
+      {v.rooms.length > 0 && <a href="#rooms">部屋と収容人数</a>}
+      {(v.documents?.length ?? 0) > 0 && <a href="#docs">公式資料</a>}
+    </nav>
+
+    {opsItems.length > 0 && (
+      <section id="ops" class="vd-sec">
+        <h2>運営のルール（公式サイト・公式資料より）</h2>
+        <div class="vd-ops">
+          {opsItems.map((o) => (
+            <div class="vd-op">
+              <h3>{o.label}</h3>
+              <p>{o.text}</p>
+              <a class="vd-src" href={o.source} target="_blank" rel="noopener">出典：{hostOf(o.source)}{isPdf(o.source) ? '（PDF）' : ''}</a>
+            </div>
+          ))}
+        </div>
+        <p class="vd-small">{COMMON.opsNote}（確認日：{checked}）</p>
+      </section>
+    )}
+
+    <section id="shops" class="vd-sec">
+      <h2>当日困ったときに行ける近くの店</h2>
+      {hasShops ? (
+        <div class="vd-shops">
+          {shopGroups.filter((g) => g.list.length).map((g) => (
+            <div class="vd-shopgroup">
+              <h3>{g.title}</h3>
+              <p class="vd-hint">{g.hint}</p>
+              <ul>
+                {g.list.map((s) => (
+                  <li>
+                    <span class="vd-walk">徒歩{s.walkMin}分</span>
+                    <span class="vd-shopname">{s.source ? <a href={s.source} target="_blank" rel="noopener">{s.name}</a> : s.name}</span>
+                    {s.hours && <span class="vd-hours">{s.hours}</span>}
+                    {s.note && /横断|遠い|会場内|敷地内|同じ住所/.test(s.note) && <span class="vd-hours">{s.note.split('。')[0]}</span>}
+                  </li>
+                ))}
+              </ul>
+            </div>
+          ))}
+        </div>
+      ) : (
+        <p>近くの店の情報は準備中です。</p>
+      )}
+      {v.drinkDelivery?.available && (
+        <div class="vd-delivery">
+          <h3>飲み物が足りなくなったら（当日配達）</h3>
+          <p>この会場は{COMMON.drinkDelivery.provider}の当日配達エリアです。{COMMON.drinkDelivery.text}</p>
+          <p class="vd-small">出典：{COMMON.drinkDelivery.sources.map((s, i) => <>{i > 0 && '・'}<a href={s.url} target="_blank" rel="noopener">{s.title}</a></>)}</p>
+        </div>
+      )}
+      <p class="vd-small">{COMMON.walkNote} 店名・営業時間は各社の公式店舗ページで確認しています（{checked}時点）。</p>
+    </section>
+
+    {v.rooms.length > 0 && (
+      <section id="rooms" class="vd-sec">
+        <h2>部屋と収容人数</h2>
+        <div class="vd-tablewrap">
+          <table class="vd-table">
+            <thead><tr><th>部屋</th>{cols.map((c) => <th>{colLabel[c]}</th>)}</tr></thead>
+            <tbody>
+              {v.rooms.map((r) => (
+                <tr>
+                  <th scope="row">{r.name}{r.note && <small>{r.note}</small>}</th>
+                  {cols.map((c) => <td>{formatNumber(r[c])}</td>)}
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        </div>
+        {v.roomsSource && /^https?:/.test(v.roomsSource) && (
+          <p class="vd-small">出典：<a href={v.roomsSource} target="_blank" rel="noopener">{hostOf(v.roomsSource)}</a>（人数は会場が示す最大値。レイアウトや設備で変わります）</p>
+        )}
+      </section>
+    )}
+
+    {(v.documents?.length ?? 0) > 0 && (
+      <section id="docs" class="vd-sec">
+        <h2>公式の資料（規約・図面・料金表など）</h2>
+        <ul class="vd-docs">
+          {v.documents!.map((d) => <li><a href={d.url} target="_blank" rel="noopener">{d.title}</a>{isPdf(d.url) && <span>PDF</span>}</li>)}
+        </ul>
+      </section>
+    )}
+
+    <section class="vd-sec vd-related">
+      <h2>あわせて読みたい</h2>
+      <ul>
+        {AREA_LABEL[v.area] && <li><a href={areaColumnPath(v.area)}>{AREA_LABEL[v.area]}のイベント会場（エリア別まとめ）</a></li>}
+        <li><a href="/column/mitsumori/">見積もり、金額だけ見ていませんか？比べる時に確認したいこと</a></li>
+        {v.bizintokyoSlug && <li><a href={`https://www.bizintokyo.com/venues/${v.bizintokyoSlug}/`} target="_blank" rel="noopener">参加者向け：{v.nameJa}への行き方・近くのホテル（BizinTokyo）</a></li>}
+      </ul>
+    </section>
+
+    <div class="vd-back"><a href="/venues/">← 会場リストに戻る</a></div>
+  </div>
+
+  <ContactCTA trackSource="venue_detail" />
+</BaseLayout>
+
+<style>
+.vd-wrap { max-width: 52rem; margin: 0 auto; padding: 1.5rem 1rem 4rem; }
+.vd-crumb { font-size: .8125rem; color: var(--color-text-muted); margin-bottom: 1.25rem; }
+.vd-crumb span { margin: 0 .25rem; }
+.vd-badges { display: flex; gap: .5rem; flex-wrap: wrap; align-items: center; }
+.vd-badge { font-size: .75rem; font-weight: 700; color: #fff; background: var(--color-brand); padding: .125rem .625rem; border-radius: 999px; }
+.vd-area { font-size: .8125rem; }
+.vd-h1 { font-size: clamp(1.5rem, 4vw, 2rem); font-weight: 700; color: var(--color-heading); margin: .5rem 0 .25rem; line-height: 1.35; }
+.vd-en { color: var(--color-text-muted); margin: 0; font-size: .9375rem; }
+.vd-notice { margin: 1.25rem 0; padding: .875rem 1rem; border-left: 4px solid #d97706; background: #fffbeb; border-radius: var(--radius-sm); }
+.vd-notice strong { color: #92400e; font-size: .875rem; }
+.vd-notice p { margin: .25rem 0 0; font-size: .9375rem; line-height: 1.7; }
+.vd-summary { margin: 1.5rem 0; background: var(--color-accent); border: 1px solid var(--color-border); border-radius: var(--radius-md); padding: 1rem 1.25rem; }
+.vd-summary dl { margin: 0; display: grid; gap: .625rem; }
+.vd-summary div { display: grid; grid-template-columns: 7.5rem 1fr; gap: .75rem; }
+.vd-summary dt { font-size: .8125rem; color: var(--color-text-muted); font-weight: 700; }
+.vd-summary dd { margin: 0; font-size: .9375rem; overflow-wrap: anywhere; }
+.vd-summary small { color: var(--color-text-muted); margin-left: .25rem; }
+.vd-toc { display: flex; flex-wrap: wrap; gap: .5rem; margin-bottom: 1rem; }
+.vd-toc a { font-size: .8125rem; padding: .25rem .75rem; border: 1px solid var(--color-border); border-radius: 999px; }
+.vd-sec { margin-top: 2.5rem; }
+.vd-sec h2 { font-size: 1.25rem; font-weight: 700; color: var(--color-heading); border-bottom: 2px solid var(--color-brand); padding-bottom: .375rem; margin: 0 0 1rem; }
+.vd-sec h3 { font-size: 1rem; font-weight: 700; color: var(--color-heading); margin: 0 0 .375rem; }
+.vd-ops { display: grid; gap: 1rem; }
+.vd-op { padding: 1rem; border: 1px solid var(--color-border); border-radius: var(--radius-md); }
+.vd-op p { margin: 0 0 .5rem; line-height: 1.8; font-size: .9375rem; }
+.vd-src { font-size: .75rem; }
+.vd-small { font-size: .75rem; color: var(--color-text-muted); line-height: 1.7; margin-top: .75rem; }
+.vd-shops { display: grid; grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr)); gap: 1rem; }
+.vd-shopgroup { padding: 1rem; border: 1px solid #f3dcae; background: #fffcf5; border-radius: var(--radius-md); }
+.vd-hint { font-size: .8125rem; color: var(--color-text-muted); margin: 0 0 .625rem; }
+.vd-shopgroup ul { list-style: none; padding: 0; margin: 0; display: grid; gap: .5rem; }
+.vd-shopgroup li { display: grid; grid-template-columns: auto 1fr; gap: .125rem .625rem; font-size: .875rem; }
+.vd-walk { font-weight: 700; color: #8a5a00; white-space: nowrap; }
+.vd-shopname { min-width: 0; overflow-wrap: anywhere; }
+.vd-hours { grid-column: 2; font-size: .75rem; color: var(--color-text-muted); }
+.vd-delivery { margin-top: 1rem; padding: 1rem; border: 1px solid var(--color-border); border-radius: var(--radius-md); }
+.vd-delivery p { margin: 0; font-size: .9375rem; line-height: 1.8; }
+.vd-tablewrap { overflow-x: auto; -webkit-overflow-scrolling: touch; border: 1px solid var(--color-border); border-radius: var(--radius-md); }
+.vd-table { width: 100%; border-collapse: collapse; font-size: .875rem; min-width: 32rem; }
+.vd-table th, .vd-table td { padding: .5rem .625rem; border-bottom: 1px solid var(--color-border); text-align: right; white-space: nowrap; }
+.vd-table thead th { background: var(--color-accent); font-size: .75rem; color: var(--color-heading); }
+.vd-table th[scope='row'], .vd-table thead th:first-child { text-align: left; white-space: normal; min-width: 9rem; }
+.vd-table th[scope='row'] small { display: block; font-weight: 400; font-size: .6875rem; color: var(--color-text-muted); line-height: 1.5; margin-top: .125rem; }
+.vd-docs { padding-left: 1.25rem; line-height: 2; }
+.vd-docs span { font-size: .6875rem; margin-left: .375rem; padding: 0 .375rem; border: 1px solid var(--color-border); border-radius: 3px; color: var(--color-text-muted); }
+.vd-related ul { padding-left: 1.25rem; line-height: 2; }
+.vd-back { margin-top: 2.5rem; }
+@media (max-width: 480px) {
+  .vd-summary div { grid-template-columns: 1fr; gap: .125rem; }
+}
+</style>

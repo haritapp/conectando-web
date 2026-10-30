@@ -1,0 +1,235 @@
+{
+ "slug": "bunkyo-civic-hall",
+ "nameJa": "文京シビックホール",
+ "nameEn": "",
+ "type": "public",
+ "area": "kanda-suidobashi-venues",
+ "address": "〒112-0003 東京都文京区春日1-16-21 文京シビックセンター",
+ "lat": 35.708012,
+ "lng": 139.752224,
+ "officialUrl": "https://www.b-academy.jp/",
+ "organizerUrl": "https://www.b-academy.jp/rental/bc/mainhall.html",
+ "bizintokyoSlug": null,
+ "accessSummary": "東京メトロ丸ノ内線・南北線 後楽園駅直結／都営地下鉄三田線・大江戸線 春日駅直結／JR水道橋駅（東口）徒歩約10分",
+ "notice": null,
+ "hours": null,
+ "rooms": [
+  {
+   "name": "大ホール",
+   "areaM2": null,
+   "ceilingM": null,
+   "theater": 1802,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "固定席（1階1,242席・2階560席。ほか親子室5席・車椅子スペース6席）。オーケストラピット使用時は1,080席。プロセニアム形式、舞台 幅45m×奥行20m（舞台袖25mを含む）、プロセニアム間口20m×高さ14m。1階"
+  },
+  {
+   "name": "小ホール",
+   "areaM2": null,
+   "ceilingM": 7,
+   "theater": 341,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "客席341席（電動可動椅子299席＋移動椅子42席）。電動可動椅子を収納した平土間形式は間口15m×奥行21m、天井高7m。舞台は昇降式で幅12.9m×奥行4.9m。2階南側"
+  },
+  {
+   "name": "スカイホール",
+   "areaM2": 215.9,
+   "ceilingM": null,
+   "theater": null,
+   "school": 99,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "約18m×11.5m。26階。公式ページで「文京区議会の委員会室として利用するため当面の間貸出を中止」と告知。営利性のある催し物・不特定の方を入場させる催し物は不可。併設の会議室（39.3㎡・8名程度）あり"
+  },
+  {
+   "name": "会議室1",
+   "areaM2": 105.87,
+   "ceilingM": 2.79,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "定員60人（レイアウトの指定なし）。3階北側。机20台・椅子60脚。会議室2との間仕切りを外して一体利用可"
+  },
+  {
+   "name": "会議室2",
+   "areaM2": 54.22,
+   "ceilingM": 2.79,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "定員30人（レイアウトの指定なし）。3階北側。机10台・椅子30脚。会議室1との間仕切りを外して一体利用可"
+  },
+  {
+   "name": "会議室1・2（一体利用）",
+   "areaM2": 160.09,
+   "ceilingM": 2.79,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "定員90人（レイアウトの指定なし）。机30台・椅子90脚。一体利用時のみマイク等の音響機器が使える。大ホール・小ホールの控室としても利用可と公式に記載"
+  }
+ ],
+ "roomsSource": "https://www.b-academy.jp/rental/bc/mainhall.html",
+ "ops": {
+  "catering": {
+   "text": "客席内での飲食は禁止。ロビーでの飲食は可能で、スタッフ・出演者の食事場所は楽屋や会議室を利用できる。許可なく飲食物の陳列・販売・提供はできない。楽屋で出たゴミ・弁当箱・生花は主催者が持ち帰る（ホールで引き取る場合は有料）。（出典：大ホール利用の手引き PDF、2026年2月版）",
+   "source": "https://www.b-academy.jp/rental/upload/bunkyo_main_hall.pdf"
+  },
+  "restaurants": {
+   "text": "ロビー（1階）にカフェがある。ロビーカフェの出店の有無は、使用日の1か月前頃に行う舞台打合せの確認項目になっている。（出典：大ホール利用の手引き PDF、2026年2月版）",
+   "source": "https://www.b-academy.jp/rental/upload/bunkyo_main_hall.pdf"
+  },
+  "prevDaySetup": {
+   "text": "使用承認書に記載された利用時間に、搬入・準備・後片付け・搬出の全てが含まれ、時間外の早開け・延長は不可。準備・後片付けの目安の表で、シンポジウム・学会の準備欄が「前日仕込」、後片付けが1時間30分（備考：全国大会など大規模な催事の場合）。公演日当日以外に仕込み・バラシ・リハーサルで舞台面のみを使う場合は、客席を使わないことを条件に使用料が50%減額される（1,000円未満繰り上げ）。（出典：大ホール利用の手引き PDF 2026年2月版、大ホール公式ページ）",
+   "source": "https://www.b-academy.jp/rental/upload/bunkyo_main_hall.pdf"
+  },
+  "waitingRooms": {
+   "text": "大ホールの楽屋は8室で全室有料。楽屋1・2（2階）は各71.03㎡・30人（2分割使用可）、楽屋3・4（1階）は各15.06㎡・1人（ユニットバス付）、楽屋5（1階）34.29㎡・9人、楽屋6（地下1階）35.93㎡・15人、楽屋7（地下1階）57.13㎡・24人（和・洋室）、楽屋8（地下1階）52.72㎡・24人（和室）。ロビーに主催者控室（6人）がある。小ホールは楽屋A 19.53㎡・6人、楽屋B 12.85㎡・4人のほか、有料の楽屋9（32.37㎡・12人）と楽屋10（34.92㎡・12人）。（出典：大ホール利用の手引き PDF 2026年2月版、小ホール公式ページ）",
+   "source": "https://www.b-academy.jp/rental/upload/bunkyo_main_hall.pdf"
+  },
+  "loadingHours": {
+   "text": "大ホールの搬入口は1階で、11tトラック2台を収容でき、舞台袖に隣接（奥行14.8m×幅8.3m×高さ3.88m）。搬入出は承認された利用時間内に行い、利用時間より前には入館できない（開館時間は9時〜22時）。入館は文京アカデミー事務室（2階）で手続きをしたうえで楽屋口・搬入口から。楽屋口から入る業者は事前に「入館業者一覧」の申請が必要。搬入・搬出は使用日の1か月前頃の舞台打合せで確認する。（出典：大ホール利用の手引き PDF、2026年2月版）",
+   "source": "https://www.b-academy.jp/rental/upload/bunkyo_main_hall.pdf"
+  },
+  "parking": {
+   "text": "主催者専用駐車場は文京シビックセンター地下2階に6台分で、利用時間内に限り無料。サイズは奥行6m×幅2m×高さ2.5m。台数に限りがあり、利用の可否は打合せ時に相談する。それ以外の車両はシビックセンターの一般地下駐車場（B1・B2、130台、高さ制限2.5m、30分250円）を使うが、満車になることがあり予約はできない。小ホールの主催者専用駐車場は1階駐車場内に3台。（出典：大ホール利用の手引き PDF 2026年2月版、公式アクセスページ、小ホール公式ページ）",
+   "source": "https://www.b-academy.jp/rental/upload/bunkyo_main_hall.pdf"
+  },
+  "vehicleRules": {
+   "text": "大ホール1階の搬入口と地下2階の専用駐車場（6台分）は施設利用時間内に限り無料で使え、退館時刻の遵守は駐車時間を含む。専用駐車場を使う場合は、入庫前に駐車票（ピンク色・舞台打合せ時に渡される）をフロントガラスに掲げて所定の場所に駐車する。道路使用許可が必要な場合は富坂警察署（03-3817-0110）へ届出する。（出典：大ホール利用の手引き PDF、2026年2月版、大ホール公式ページ）",
+   "source": "https://www.b-academy.jp/rental/upload/bunkyo_main_hall.pdf"
+  }
+ },
+ "documents": [
+  {
+   "title": "大ホール 利用の手引き（2026年2月）",
+   "url": "https://www.b-academy.jp/rental/upload/bunkyo_main_hall.pdf"
+  },
+  {
+   "title": "大ホール 附帯設備使用料一覧",
+   "url": "https://www.b-academy.jp/upload/futai-daihall.pdf"
+  },
+  {
+   "title": "禁止行為の解除承認申請書の手続き手順",
+   "url": "https://www.b-academy.jp/rental/upload/kinshi.pdf"
+  },
+  {
+   "title": "アクセス",
+   "url": "https://www.b-academy.jp/access/index.html"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "ファミリーマート 文京シビックセンター店",
+    "brand": "ファミリーマート",
+    "distanceM": 0,
+    "walkMin": 1,
+    "hours": "7:30-20:00",
+    "address": "東京都文京区春日一丁目16-21 文京シビックセンター1F（会場と同じ建物）",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/57070",
+    "note": null
+   },
+   {
+    "name": "ローソン ＭＳ ＧＡＲＤＥＮ（公式表記：ＭＳ　ＧＡＲＤＥＮ）",
+    "brand": "ローソン",
+    "distanceM": 73,
+    "walkMin": 1,
+    "hours": "24時間営業",
+    "address": "東京都文京区小石川1-1-1",
+    "verified": true,
+    "source": "https://www.areamarker.com/lawson/map?latlon=35.708336,139.752411（ローソン公式 店舗検索）",
+    "note": null
+   },
+   {
+    "name": "ファミリーマート 文京小石川二丁目店",
+    "brand": "ファミリーマート",
+    "distanceM": 92,
+    "walkMin": 2,
+    "hours": "24時間",
+    "address": "東京都文京区小石川2丁目1-13",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/21420",
+    "note": null
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "アクセア 春日店",
+    "brand": "アクセア",
+    "distanceM": 228,
+    "walkMin": 3,
+    "hours": "平日10:00～21:00、土日祝休み",
+    "address": "東京都文京区本郷4-23-14 TIS春日ビル1F（あおい書店内）",
+    "verified": true,
+    "source": "https://www.accea.co.jp/entry.html",
+    "note": null
+   },
+   {
+    "name": "アクセア 水道橋店",
+    "brand": "アクセア",
+    "distanceM": 812,
+    "walkMin": 11,
+    "hours": "平日8:00～22:00、土日祝10:00～19:00",
+    "address": "東京都千代田区神田三崎町2-9-18 TDCビル1F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/entry.html",
+    "note": null
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "DAISO メトロ・エム後楽園店",
+    "brand": "ダイソー",
+    "distanceM": 138,
+    "walkMin": 2,
+    "hours": "10:00-21:00",
+    "address": "東京都文京区春日1-2-3 メトロ・エム後楽園店4階",
+    "verified": true,
+    "source": "https://www.daiso-sangyo.co.jp/shop/pref/13",
+    "note": null
+   },
+   {
+    "name": "Can★Do エルアージュ小石川店",
+    "brand": "キャンドゥ",
+    "distanceM": 641,
+    "walkMin": 9,
+    "hours": "月〜日 10:00〜21:00",
+    "address": "東京都文京区小石川1-17-1 エルアージュ小石川2階",
+    "verified": true,
+    "source": "https://shopinfo.cando-web.co.jp/detail/shop-5143/",
+    "note": null
+   }
+  ],
+  "donki": [
+   {
+    "name": "ドン・キホーテ 後楽園店（公式一覧の表記：後楽園店）",
+    "brand": "ドン・キホーテ",
+    "distanceM": 324,
+    "walkMin": 5,
+    "hours": "24時間営業",
+    "address": "東京都文京区本郷1-33-9",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_list.php?pre=ft",
+    "note": null
+   }
+  ]
+ },
+ "drinkDelivery": {
+  "available": true
+ },
+ "checkedAt": "2026-10-30"
+}

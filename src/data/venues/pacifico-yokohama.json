@@ -1,0 +1,1081 @@
+{
+ "slug": "pacifico-yokohama",
+ "nameJa": "パシフィコ横浜",
+ "nameEn": "PACIFICO Yokohama",
+ "type": "exhibition",
+ "area": "yokohama-venues",
+ "address": "〒220-0012 神奈川県横浜市西区みなとみらい1-1-1",
+ "lat": 35.4575,
+ "lng": 139.6371,
+ "officialUrl": "https://www.pacifico.co.jp/",
+ "organizerUrl": "https://plan.pacifico.co.jp/planning-resources",
+ "bizintokyoSlug": "pacifico_yokohama",
+ "accessSummary": "みなとみらい線みなとみらい駅 徒歩5分／JR桜木町駅 徒歩12分",
+ "notice": null,
+ "hours": null,
+ "rooms": [
+  {
+   "name": "国立大ホール（客席）",
+   "areaM2": null,
+   "ceilingM": null,
+   "theater": 5002,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "固定席・可動席の合計。基本舞台時5,002席（1階3,260〈可動710〉＋2階994〈可動60〉＋3階748）。舞台形状により4,538〜5,002席。1階は奇数列の背もたれを倒して1,670席に変更可。多国語同時通訳8ch・ブース5"
+  },
+  {
+   "name": "国立大ホール マリンロビー",
+   "areaM2": 1400,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": null
+  },
+  {
+   "name": "国立大ホール 控室・楽屋（計11室）",
+   "areaM2": null,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "控室N101 258㎡、N111 38㎡、N112 78㎡、特別控室N302 89㎡・N303 20㎡、控室N304 10㎡・N306 23㎡、楽屋N1 20㎡・N2 61㎡・N3 40㎡、控室N401 15㎡"
+  },
+  {
+   "name": "会議センター メインホール",
+   "areaM2": 1323,
+   "ceilingM": null,
+   "theater": 1004,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "固定席（うち車椅子席10）。常設スクリーン W13,500×H7,800mm 他"
+  },
+  {
+   "name": "会議センター 211+212",
+   "areaM2": 158,
+   "ceilingM": 3.0,
+   "theater": 130,
+   "school": 70,
+   "ushape": 44,
+   "standing": 100,
+   "banquet": null,
+   "note": "島組 76"
+  },
+  {
+   "name": "会議センター 211・212・213（各）",
+   "areaM2": 79,
+   "ceilingM": 3.0,
+   "theater": 60,
+   "school": 32,
+   "ushape": 28,
+   "standing": 50,
+   "banquet": null,
+   "note": "島組 32"
+  },
+  {
+   "name": "会議センター 特別応接室",
+   "areaM2": 46,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "固定レイアウト（ソファセット）"
+  },
+  {
+   "name": "会議センター 301〜304（大会議室）",
+   "areaM2": 1366,
+   "ceilingM": 6.5,
+   "theater": 1392,
+   "school": 704,
+   "ushape": null,
+   "standing": 1000,
+   "banquet": 630,
+   "note": "スクール 横680/縦704。シアター 横1320/縦1392。島組 576。ポスター展示 533面"
+  },
+  {
+   "name": "会議センター 301+302",
+   "areaM2": 670,
+   "ceilingM": 6.5,
+   "theater": 672,
+   "school": 320,
+   "ushape": 116,
+   "standing": 400,
+   "banquet": 280,
+   "note": "スクール 横320/縦288。シアター 横672/縦644。島組 320。ポスター展示 241面"
+  },
+  {
+   "name": "会議センター 303+304",
+   "areaM2": 588,
+   "ceilingM": 6.5,
+   "theater": 575,
+   "school": 288,
+   "ushape": 108,
+   "standing": 360,
+   "banquet": 240,
+   "note": "スクール 横256/縦288。シアター 横512/縦575。島組 288。ポスター展示 224面"
+  },
+  {
+   "name": "会議センター 301・302（各）",
+   "areaM2": 335,
+   "ceilingM": 6.5,
+   "theater": 285,
+   "school": 158,
+   "ushape": 68,
+   "standing": 200,
+   "banquet": 160,
+   "note": "スクール 横140/縦158。シアター 横260/縦285。島組 160。ポスター展示 121面"
+  },
+  {
+   "name": "会議センター 303・304（各）",
+   "areaM2": 294,
+   "ceilingM": 6.5,
+   "theater": 250,
+   "school": 126,
+   "ushape": 64,
+   "standing": 170,
+   "banquet": 120,
+   "note": "スクール 横112/縦126。シアター 横250/縦232。島組 160。ポスター展示 107面"
+  },
+  {
+   "name": "会議センター 311+312、313+314（各）",
+   "areaM2": 152,
+   "ceilingM": 3.0,
+   "theater": 144,
+   "school": 72,
+   "ushape": 44,
+   "standing": 100,
+   "banquet": null,
+   "note": "島組 76。ポスター展示 62面"
+  },
+  {
+   "name": "会議センター 311・314（各）",
+   "areaM2": 79,
+   "ceilingM": 3.0,
+   "theater": 70,
+   "school": 32,
+   "ushape": 28,
+   "standing": 60,
+   "banquet": null,
+   "note": "島組 32。ポスター展示 35面"
+  },
+  {
+   "name": "会議センター 312・313（各）",
+   "areaM2": 73,
+   "ceilingM": 3.0,
+   "theater": 70,
+   "school": 24,
+   "ushape": 24,
+   "standing": 50,
+   "banquet": null,
+   "note": "島組 28。ポスター展示 34面"
+  },
+  {
+   "name": "会議センター 315",
+   "areaM2": 319,
+   "ceilingM": 3.0,
+   "theater": 168,
+   "school": 80,
+   "ushape": 56,
+   "standing": 150,
+   "banquet": 100,
+   "note": "島組 104。ポスター展示 121面"
+  },
+  {
+   "name": "会議センター 316・317・318（各）",
+   "areaM2": 63,
+   "ceilingM": 3.0,
+   "theater": 50,
+   "school": 24,
+   "ushape": 20,
+   "standing": 40,
+   "banquet": null,
+   "note": "島組 24。ポスター展示 21面"
+  },
+  {
+   "name": "会議センター 411+412",
+   "areaM2": 150,
+   "ceilingM": 3.0,
+   "theater": 144,
+   "school": 72,
+   "ushape": 48,
+   "standing": 100,
+   "banquet": null,
+   "note": "島組 80。ポスター展示 55面"
+  },
+  {
+   "name": "会議センター 411・412（各）",
+   "areaM2": 75,
+   "ceilingM": 3.0,
+   "theater": 72,
+   "school": 32,
+   "ushape": 28,
+   "standing": 50,
+   "banquet": null,
+   "note": "島組 32。ポスター展示 29面"
+  },
+  {
+   "name": "会議センター 413",
+   "areaM2": 124,
+   "ceilingM": 3.0,
+   "theater": 120,
+   "school": 56,
+   "ushape": 40,
+   "standing": 90,
+   "banquet": null,
+   "note": "島組 64。ポスター展示 55面"
+  },
+  {
+   "name": "会議センター 414+415、416+417（各）",
+   "areaM2": 154,
+   "ceilingM": 2.7,
+   "theater": 154,
+   "school": 72,
+   "ushape": 48,
+   "standing": 100,
+   "banquet": null,
+   "note": "島組 100。ポスター展示 65面"
+  },
+  {
+   "name": "会議センター 414・415・416・417（各）",
+   "areaM2": 77,
+   "ceilingM": 2.7,
+   "theater": 72,
+   "school": 32,
+   "ushape": 28,
+   "standing": 50,
+   "banquet": null,
+   "note": "島組 40。ポスター展示 34面"
+  },
+  {
+   "name": "会議センター 418・419（各）",
+   "areaM2": 172,
+   "ceilingM": 3.0,
+   "theater": 140,
+   "school": 56,
+   "ushape": 40,
+   "standing": 80,
+   "banquet": 60,
+   "note": "島組 60。ポスター展示 62面"
+  },
+  {
+   "name": "会議センター 421〜424（各）",
+   "areaM2": 69,
+   "ceilingM": 3.0,
+   "theater": 54,
+   "school": 24,
+   "ushape": 24,
+   "standing": 40,
+   "banquet": null,
+   "note": "島組 24。ポスター展示 23面"
+  },
+  {
+   "name": "会議センター 501+502",
+   "areaM2": 792,
+   "ceilingM": 5.6,
+   "theater": 748,
+   "school": 384,
+   "ushape": 124,
+   "standing": 450,
+   "banquet": 390,
+   "note": "入口付近のみ天井高3.0m。スクールは横384。シアター 横736/縦748。島組 432。ポスター展示 312面"
+  },
+  {
+   "name": "会議センター 501・502（各）",
+   "areaM2": 396,
+   "ceilingM": 5.6,
+   "theater": 340,
+   "school": 192,
+   "ushape": 80,
+   "standing": 220,
+   "banquet": 170,
+   "note": "入口付近のみ天井高3.0m。スクール 横168/縦192。シアター 横320/縦340。島組 176。ポスター展示 142面"
+  },
+  {
+   "name": "会議センター 503",
+   "areaM2": 500,
+   "ceilingM": 6.0,
+   "theater": 432,
+   "school": 208,
+   "ushape": 88,
+   "standing": 240,
+   "banquet": 220,
+   "note": "両脇は天井高2.8〜3.5m。島組 220。ポスター展示 180面"
+  },
+  {
+   "name": "会議センター 511+512",
+   "areaM2": 142,
+   "ceilingM": 3.0,
+   "theater": 121,
+   "school": 70,
+   "ushape": 44,
+   "standing": 100,
+   "banquet": null,
+   "note": "島組 60。ポスター展示 48面"
+  },
+  {
+   "name": "会議センター 511・512（各）",
+   "areaM2": 71,
+   "ceilingM": 3.0,
+   "theater": 55,
+   "school": 32,
+   "ushape": 24,
+   "standing": 50,
+   "banquet": null,
+   "note": "島組 24。ポスター展示 27面"
+  },
+  {
+   "name": "会議センター 513・514（各）",
+   "areaM2": 59,
+   "ceilingM": 3.0,
+   "theater": 48,
+   "school": 24,
+   "ushape": 20,
+   "standing": 40,
+   "banquet": null,
+   "note": "島組 24。ポスター展示 24面"
+  },
+  {
+   "name": "会議センター 控室（計10室＋特別応接室）",
+   "areaM2": null,
+   "ceilingM": 2.6,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "控室021 26㎡、022 25㎡、023 10㎡、024 94㎡（給湯室・シャワー室あり）、121+122+123 91㎡、124 19㎡、221+222+223 110㎡、224 18㎡、321 28㎡、425 31㎡（控室のみの利用は不可）"
+  },
+  {
+   "name": "展示ホール ABCD（全面）",
+   "areaM2": 20000,
+   "ceilingM": 19.0,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "天井高13〜19m・奥行約81m。床耐荷重5t/㎡（ピット・トレンチハッチ周辺は1t/㎡）。乗り入れ車両は最大10.5tまで"
+  },
+  {
+   "name": "展示ホール BCD",
+   "areaM2": 16700,
+   "ceilingM": 19.0,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "天井高13〜19m"
+  },
+  {
+   "name": "展示ホール ABC",
+   "areaM2": 13300,
+   "ceilingM": 19.0,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "天井高13〜19m"
+  },
+  {
+   "name": "展示ホール AB・BC・CD（各）",
+   "areaM2": 10000,
+   "ceilingM": 19.0,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "天井高13〜19m"
+  },
+  {
+   "name": "展示ホール B・D（各）",
+   "areaM2": 6700,
+   "ceilingM": 19.0,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "天井高13〜19m。全幅 B 87m(陸側)/80m(海側)、D 84m/84m"
+  },
+  {
+   "name": "展示ホール A・C（各）",
+   "areaM2": 3300,
+   "ceilingM": 19.0,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "天井高13〜19m。全幅 A 45m/41m、C 42m/42m"
+  },
+  {
+   "name": "展示ホール 付帯控室（A〜D 計31室）",
+   "areaM2": null,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "ホールA: A11・A12(各30㎡)、AM1(54)・AM2(38)・AM3(30)・AM4(54)。ホールB: B11〜B14(各30)、BM1(54)・BM2(38)・BM3(30)・BM4(54)・BM5(54)・BM6(38)・BM7(30)・BM8(54)。ホールC: C11(90)、CM1(42)・CM2(35)・CM3(79)・CM4(41)。ホールD: D11(90)・D12(83)、DM1(25+58)・DM2(79)・DM3(66)・DM4(25+58)・DM5(36)・DM6(76)。会場使用料金に含まれる"
+  },
+  {
+   "name": "アネックスホール F201〜F206（6/6）",
+   "areaM2": 1350,
+   "ceilingM": null,
+   "theater": 1312,
+   "school": 930,
+   "ushape": null,
+   "standing": 1000,
+   "banquet": 650,
+   "note": "天井高5.4〜6.7m（折り天井、フォワイエ部分4.0m）。スクール 横792/縦930。シアター 横1184/縦1312。島組 960。ポスター展示 582面"
+  },
+  {
+   "name": "アネックスホール 4/6（F201〜F204 または F203〜F206）",
+   "areaM2": 900,
+   "ceilingM": null,
+   "theater": 832,
+   "school": 600,
+   "ushape": null,
+   "standing": 600,
+   "banquet": 400,
+   "note": "天井高5.4〜6.7m。スクール 横504/縦600。シアター 横768/縦832。島組 600。ポスター展示 392面"
+  },
+  {
+   "name": "アネックスホール 2/6（F201+F202、F203+F204、F205+F206 各）",
+   "areaM2": 450,
+   "ceilingM": null,
+   "theater": 374,
+   "school": 234,
+   "ushape": 114,
+   "standing": 300,
+   "banquet": 180,
+   "note": "天井高5.4〜6.7m。スクール 横210/縦234。シアター 横320/縦374。島組 300。ポスター展示 202面"
+  },
+  {
+   "name": "アネックスホール 1/6（F201〜F206 各）",
+   "areaM2": 225,
+   "ceilingM": null,
+   "theater": 176,
+   "school": 96,
+   "ushape": 72,
+   "standing": 150,
+   "banquet": 80,
+   "note": "天井高5.4〜6.7m。島組 150。ポスター展示 88面"
+  },
+  {
+   "name": "アネックスホール 控室 F1・F2",
+   "areaM2": null,
+   "ceilingM": 2.7,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "F1 18㎡、F2 10㎡（控室のみの利用は不可）"
+  },
+  {
+   "name": "展示ホール2F E21",
+   "areaM2": 43,
+   "ceilingM": 2.4,
+   "theater": 29,
+   "school": 15,
+   "ushape": 18,
+   "standing": null,
+   "banquet": null,
+   "note": "島組 18"
+  },
+  {
+   "name": "展示ホール2F E22",
+   "areaM2": 49,
+   "ceilingM": 2.4,
+   "theater": 40,
+   "school": 24,
+   "ushape": 24,
+   "standing": null,
+   "banquet": null,
+   "note": "島組 24"
+  },
+  {
+   "name": "展示ホール2F E23（VIP控室）",
+   "areaM2": 69,
+   "ceilingM": 2.4,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "固定レイアウト（ソファセット）"
+  },
+  {
+   "name": "展示ホール2F E24・E26（各）",
+   "areaM2": 98,
+   "ceilingM": 2.4,
+   "theater": 80,
+   "school": 54,
+   "ushape": 42,
+   "standing": null,
+   "banquet": null,
+   "note": "島組 54"
+  },
+  {
+   "name": "展示ホール2F E25",
+   "areaM2": 88,
+   "ceilingM": 2.4,
+   "theater": 72,
+   "school": 36,
+   "ushape": 36,
+   "standing": null,
+   "banquet": null,
+   "note": "島組 36"
+  },
+  {
+   "name": "ハーバーラウンジA",
+   "areaM2": 176,
+   "ceilingM": null,
+   "theater": 91,
+   "school": 60,
+   "ushape": 60,
+   "standing": 100,
+   "banquet": 60,
+   "note": "天井高2.4〜6.0m。島組 66"
+  },
+  {
+   "name": "ハーバーラウンジB",
+   "areaM2": 158,
+   "ceilingM": null,
+   "theater": 120,
+   "school": 72,
+   "ushape": 54,
+   "standing": 85,
+   "banquet": 70,
+   "note": "天井高2.4〜6.0m。島組 72"
+  },
+  {
+   "name": "ノース 多目的ホール G1〜G8（8/8）",
+   "areaM2": 6337,
+   "ceilingM": 10.0,
+   "theater": 5984,
+   "school": 3600,
+   "ushape": null,
+   "standing": 5000,
+   "banquet": 2340,
+   "note": "入口付近のみ天井高3.0m。常設スクリーン最大500インチ。島組 2856"
+  },
+  {
+   "name": "ノース 多目的ホール 6/8（G1〜G6 または G3〜G8）",
+   "areaM2": 4824,
+   "ceilingM": 10.0,
+   "theater": 5112,
+   "school": 3024,
+   "ushape": null,
+   "standing": 3500,
+   "banquet": 1800,
+   "note": "スクール 横2728/縦3024。シアター 横4608/縦5112。島組 2184"
+  },
+  {
+   "name": "ノース 多目的ホール 4/8（G1〜G4 または G5〜G8）",
+   "areaM2": 2991,
+   "ceilingM": 10.0,
+   "theater": 3024,
+   "school": 1736,
+   "ushape": null,
+   "standing": 2300,
+   "banquet": 1100,
+   "note": "島組 1344。ポスター展示 1040面"
+  },
+  {
+   "name": "ノース 多目的ホール 4/8（G3〜G6）",
+   "areaM2": 3311,
+   "ceilingM": 10.0,
+   "theater": 3312,
+   "school": 1984,
+   "ushape": null,
+   "standing": 2500,
+   "banquet": 1300,
+   "note": "島組1,344・ポスター展示1,040は上段（G1〜G4/G5〜G8）と結合セルで共通表記"
+  },
+  {
+   "name": "ノース 多目的ホール 2/8（G1+G2 または G7+G8）",
+   "areaM2": 1362,
+   "ceilingM": 10.0,
+   "theater": 1296,
+   "school": 744,
+   "ushape": null,
+   "standing": 1000,
+   "banquet": 500,
+   "note": "スクール 横672/縦744。シアター 横1244/縦1296。島組 504。ポスター展示 480面"
+  },
+  {
+   "name": "ノース 多目的ホール 2/8（G3+G4 または G5+G6）",
+   "areaM2": 1478,
+   "ceilingM": 10.0,
+   "theater": 1440,
+   "school": 868,
+   "ushape": null,
+   "standing": 1000,
+   "banquet": 500,
+   "note": "島組・立食・丸卓・ポスターは公式表で2/8の2行にまたがる共通表記。スクール 横720/縦868。シアター 横1296/縦1440。島組 504。ポスター展示 480面"
+  },
+  {
+   "name": "ノース 多目的ホール 1/8（G1・G2・G7・G8 各681㎡／G3〜G6 各739㎡）",
+   "areaM2": 681,
+   "ceilingM": 10.0,
+   "theater": 612,
+   "school": 336,
+   "ushape": 120,
+   "standing": 500,
+   "banquet": 240,
+   "note": "G3〜G6は各739㎡。人数は公式表で1/8の2行にまたがる共通表記。島組 288。ポスター展示 240面"
+  },
+  {
+   "name": "ノース 控室 G101〜G104",
+   "areaM2": null,
+   "ceilingM": 2.4,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "G101 30㎡、G102（VIP控室）74㎡、G103 34㎡、G104 32㎡。G102〜G104は固定レイアウト（ソファセット）、G102の天井高2.7m"
+  },
+  {
+   "name": "ノース G211",
+   "areaM2": 87,
+   "ceilingM": 3.0,
+   "theater": 70,
+   "school": 32,
+   "ushape": 32,
+   "standing": 70,
+   "banquet": null,
+   "note": "島組 48。ポスター展示 28面"
+  },
+  {
+   "name": "ノース G212",
+   "areaM2": 76,
+   "ceilingM": 3.0,
+   "theater": 56,
+   "school": 32,
+   "ushape": 28,
+   "standing": 50,
+   "banquet": null,
+   "note": "島組 36。ポスター展示 23面"
+  },
+  {
+   "name": "ノース G213",
+   "areaM2": 130,
+   "ceilingM": 3.0,
+   "theater": 126,
+   "school": 64,
+   "ushape": 44,
+   "standing": 90,
+   "banquet": null,
+   "note": "島組 72。ポスター展示 43面"
+  },
+  {
+   "name": "ノース G214",
+   "areaM2": 137,
+   "ceilingM": 3.0,
+   "theater": 126,
+   "school": 64,
+   "ushape": 40,
+   "standing": 90,
+   "banquet": null,
+   "note": "島組 72。ポスター展示 42面"
+  },
+  {
+   "name": "ノース G215〜G220（各）・G221",
+   "areaM2": 130,
+   "ceilingM": 3.0,
+   "theater": 110,
+   "school": 72,
+   "ushape": 44,
+   "standing": 90,
+   "banquet": null,
+   "note": "G221は127㎡、G215〜G220は各130㎡（同数値）。島組 64。ポスター展示 53面"
+  },
+  {
+   "name": "ノース ガーデンラウンジA・C（各）",
+   "areaM2": 110,
+   "ceilingM": 2.7,
+   "theater": 84,
+   "school": 44,
+   "ushape": 48,
+   "standing": 50,
+   "banquet": null,
+   "note": "島組 48。ポスター展示 24面"
+  },
+  {
+   "name": "ノース ガーデンラウンジB",
+   "areaM2": 137,
+   "ceilingM": 2.4,
+   "theater": 100,
+   "school": 48,
+   "ushape": 36,
+   "standing": 60,
+   "banquet": null,
+   "note": "島組 60。ポスター展示 44面"
+  },
+  {
+   "name": "ノース G301+G302／G401+G402",
+   "areaM2": 541,
+   "ceilingM": 5.7,
+   "theater": 442,
+   "school": 240,
+   "ushape": 100,
+   "standing": 300,
+   "banquet": 180,
+   "note": "スクール 横240/縦224。シアター 横396/縦442。島組 256。ポスター展示 174面"
+  },
+  {
+   "name": "ノース G301／G401",
+   "areaM2": 267,
+   "ceilingM": 5.7,
+   "theater": 192,
+   "school": 120,
+   "ushape": 68,
+   "standing": 150,
+   "banquet": 90,
+   "note": "島組 128。ポスター展示 90面"
+  },
+  {
+   "name": "ノース G302／G402",
+   "areaM2": 274,
+   "ceilingM": 5.7,
+   "theater": 192,
+   "school": 120,
+   "ushape": 68,
+   "standing": 150,
+   "banquet": 90,
+   "note": "島組 128。ポスター展示 92面"
+  },
+  {
+   "name": "ノース G303+G304／G403+G404",
+   "areaM2": 589,
+   "ceilingM": 5.7,
+   "theater": 504,
+   "school": 288,
+   "ushape": 96,
+   "standing": 350,
+   "banquet": 200,
+   "note": "スクール 横288/縦260。シアター 横504/縦480。島組 280。ポスター展示 207面"
+  },
+  {
+   "name": "ノース G303／G403",
+   "areaM2": 296,
+   "ceilingM": 5.7,
+   "theater": 240,
+   "school": 144,
+   "ushape": 72,
+   "standing": 170,
+   "banquet": 120,
+   "note": "島組 120。ポスター展示 108面"
+  },
+  {
+   "name": "ノース G304／G404",
+   "areaM2": 293,
+   "ceilingM": 5.7,
+   "theater": 240,
+   "school": 144,
+   "ushape": 72,
+   "standing": 170,
+   "banquet": 120,
+   "note": "島組 120。ポスター展示 105面"
+  },
+  {
+   "name": "ノース G311",
+   "areaM2": 122,
+   "ceilingM": 5.0,
+   "theater": 110,
+   "school": 54,
+   "ushape": 44,
+   "standing": null,
+   "banquet": null,
+   "note": "島組 60。ポスター展示 28面"
+  },
+  {
+   "name": "ノース G411",
+   "areaM2": 128,
+   "ceilingM": 5.0,
+   "theater": 110,
+   "school": 54,
+   "ushape": 44,
+   "standing": null,
+   "banquet": null,
+   "note": "島組 60。ポスター展示 28面"
+  },
+  {
+   "name": "ノース G312+G313／G412+G413",
+   "areaM2": 204,
+   "ceilingM": 5.0,
+   "theater": 144,
+   "school": 72,
+   "ushape": 56,
+   "standing": 100,
+   "banquet": 80,
+   "note": "島組 80。ポスター展示 60面"
+  },
+  {
+   "name": "ノース G312／G412",
+   "areaM2": 100,
+   "ceilingM": 5.0,
+   "theater": 72,
+   "school": 40,
+   "ushape": 32,
+   "standing": 50,
+   "banquet": 40,
+   "note": "島組 48。ポスター展示 32面"
+  },
+  {
+   "name": "ノース G313／G413",
+   "areaM2": 104,
+   "ceilingM": 5.0,
+   "theater": 72,
+   "school": 40,
+   "ushape": 32,
+   "standing": 50,
+   "banquet": 40,
+   "note": "島組 48。ポスター展示 32面"
+  },
+  {
+   "name": "ノース G314+G315、G316+G317、G318+G319（4Fは G414+G415 等、各）",
+   "areaM2": 218,
+   "ceilingM": 5.0,
+   "theater": 176,
+   "school": 72,
+   "ushape": 56,
+   "standing": 120,
+   "banquet": 80,
+   "note": "島組 80。ポスター展示 66面"
+  },
+  {
+   "name": "ノース G314〜G319／G414〜G419（各）",
+   "areaM2": 109,
+   "ceilingM": 5.0,
+   "theater": 96,
+   "school": 48,
+   "ushape": 36,
+   "standing": 60,
+   "banquet": 50,
+   "note": "島組 48。ポスター展示 34面"
+  },
+  {
+   "name": "ノース G320",
+   "areaM2": 117,
+   "ceilingM": null,
+   "theater": 95,
+   "school": 48,
+   "ushape": 36,
+   "standing": 60,
+   "banquet": null,
+   "note": "島組 48。ポスター展示 39面"
+  },
+  {
+   "name": "ノース G420",
+   "areaM2": 117,
+   "ceilingM": 4.0,
+   "theater": 95,
+   "school": 48,
+   "ushape": 36,
+   "standing": 60,
+   "banquet": null,
+   "note": "島組 48。ポスター展示 39面"
+  }
+ ],
+ "roomsSource": "https://plan.pacifico.co.jp/planning-resources",
+ "ops": {
+  "catering": {
+   "text": "ケータリングは指定業者制で、外部ケータリング会社による飲食の持込はできない。国立大ホール・会議センター・展示ホール・アネックスホールは「ヨコハマ グランド インターコンチネンタル ホテル」1社（最大7,000名）。ノースは指定ホテルから1催事につき1社を選ぶ（横浜ベイホテル東急・ザ・カハラ・ホテル＆リゾート横浜は500名規模まで。ケータリングサービス案内PDFには横浜ロイヤルパークホテルも記載）。ケータリング会社の決定は6か月前まで、メニュー・数量の決定は1か月前まで。（出典：plan サイト ケータリング手配、重要事項説明書 2025.9、ケータリングサービスのご案内PDF）",
+   "source": "https://plan.pacifico.co.jp/food-beverage"
+  },
+  "restaurants": {
+   "text": "展示ホール2Fにリストランテ アッティモ（イタリアン）・DANZERO（フレンチ）・ピザーラエクスプレス・ドトールコーヒーショップ・セブン-イレブン、展示ホール1Fにデイリーヤマザキ。ノース2Fに UNI COFFEE ROASTERY・ドトールコーヒーショップ、会議センター6Fにベイブリッジカフェテリア（ホテル直営）。各テナントで「店舗パーティー」を受け付けている。ヨコハマ グランド インターコンチネンタル ホテルのレストラン（中国料理、フランス料理、ブッフェ、日本料理、ラウンジ＆バー）も同ページに掲載。",
+   "source": "https://www.pacifico.co.jp/shop"
+  },
+  "prevDaySetup": {
+   "text": "展示ホールは利用時間区分に「準備・撤去」があり、全日利用（0:00〜24:00）に連続する場合に限り半日単位（0:00〜12:00／12:00〜24:00）で借りられる。税込料金（2026年10月〜）は ABCD 各半日4,092,000円、B・D 各1,364,000円、A・C 各682,000円。国立大ホールには「本番日以外の利用」区分があり、1〜8時間で平日1,597,200円・土日祝1,887,600円（税込）。会議センター・アネックスホール・ノースも、貸出時間は開錠から施錠まで（準備・撤去時間を含む）。（出典：展示ホール・国立大ホール利用料金表PDF 2026年10月〜、施設利用規則 別表2）",
+   "source": "https://lp.pacifico.co.jp/hubfs/exhi/Price_list_exhi.pdf"
+  },
+  "waitingRooms": {
+   "text": "控室は館ごと。国立大ホールは控室・楽屋11室（N101 258㎡ほか、特別控室N302 89㎡・N303 20㎡）で、N101・N111・N112は会場使用料金に含まれる。展示ホールはホールA〜Dの付帯控室31室（25〜90㎡）が会場使用料金に含まれる。会議センターは控室10室（10〜110㎡）と特別応接室46㎡、アネックスホールはF1 18㎡・F2 10㎡と E23 VIP控室69㎡、ノースはG101〜G104の4室（30〜74㎡）で、これらは料金表に個別料金があり控室のみの利用はできない。（出典：各施設の収容人数表・利用料金表 2026年10月〜）",
+   "source": "https://lp.pacifico.co.jp/hubfs/exhi/Price_list_exhi.pdf"
+  },
+  "loadingHours": {
+   "text": "搬入出ができる時間は貸出時間そのもの（開錠から施錠まで、準備・撤去を含む）。展示ホールは1日0:00〜24:00、国立大ホール・会議センター・アネックスホール・ノースは9:00〜17:00／9:00〜21:00など時間区分で借りる。国立大ホールの搬入設備は荷物用エレベーター（幅3.0×奥行5.0×高さ2.6m、積載4t）・搬入倉庫（幅5.0×高さ3.55m）・迫ピット（幅5.0×奥行6.8×高さ2.85m、積載5.9t、迫舞台使用時のみ）、会議センター メインホールの搬入出入口は W3.2×H2.6m。展示ホールは1F搬入口から乗り入れでき、車両は最大10.5tまで。宅配便の搬入は展示ホール2Fのパシフィコ ロジスティクス センター経由。（出典：施設利用規則 別表2、収容人数・設備一覧シート、展示ホール施設概要シート、宅急便搬入出のご案内PDF）",
+   "source": "https://plan.pacifico.co.jp/planning-resources"
+  },
+  "parking": {
+   "text": "併設駐車場は4か所。みなとみらい公共駐車場（P1）は四輪1,154台・二輪44台、24時間営業で入庫は7:00〜24:00、予約不可、車両制限は車高2.1m・車長6.0m・車幅2.2m・重量4.0t以下。ノース駐車場（P4）は152台（車高2.3m・車長5.0m・車幅2.3m・3.5t以下）、臨港パーク駐車場（P2）は90台（車高2.0m以下、8:00〜21:00で夜間駐車不可）、バス・大型車駐車場（P3）は8台（入出庫7:00〜22:00、要予約で1か月前から受付）。P1・ノース駐車場の7:00〜24:00の最大料金は平日1,800円、土日祝・特定日2,400円。（出典：駐車場ガイドPDF、公式駐車場ページ）",
+   "source": "https://www.pacifico.co.jp/access/parking"
+  },
+  "vehicleRules": {
+   "text": "公道への路上駐車と路上での荷捌きは禁止で、搬入出車両は利用者が車両待機場を確保し、誘導・警備員を配置する。待機場は有料・事前申込（1か月前まで）で、耐震バース（1ブロック・12時間110,000円、搬出時55,000円、約40台）、ピロティ（12時間110,000円、進入高3.8mまで、原則展示ホールD利用者）、山内ふ頭（三角地〈大〉6,300㎡・約180台・12時間554,400円ほか）など6か所。管理用通路の構内規制は高さ3.8m以下・時速8km以下・4t車以下（4t超は事前相談）。（出典：車両待機場のご案内PDF 2024年6月版、重要事項説明書 2025.9）",
+   "source": "https://lp.pacifico.co.jp/hubfs/dl/all/Vehicle_waitin_areas.pdf"
+  }
+ },
+ "documents": [
+  {
+   "title": "施設利用規則",
+   "url": "https://lp.pacifico.co.jp/hubfs/rules_jpn.pdf"
+  },
+  {
+   "title": "重要事項説明書（2025.9）",
+   "url": "https://lp.pacifico.co.jp/hubfs/dl/open/Important%20description.pdf"
+  },
+  {
+   "title": "車両待機場のご案内",
+   "url": "https://lp.pacifico.co.jp/hubfs/dl/all/Vehicle_waitin_areas.pdf"
+  },
+  {
+   "title": "宅急便による搬入出等のご案内",
+   "url": "https://lp.pacifico.co.jp/hubfs/dl/all/Carrying_in_and_out.pdf"
+  },
+  {
+   "title": "総合パンフレット（2025.3）",
+   "url": "https://lp.pacifico.co.jp/hubfs/dl/open/digital_brochure_JP.pdf"
+  },
+  {
+   "title": "ケータリングサービスのご案内",
+   "url": "https://lp.pacifico.co.jp/hubfs/party_catering/catering_service.pdf"
+  },
+  {
+   "title": "駐車場ガイド",
+   "url": "https://lp.pacifico.co.jp/hubfs/common/parking_ja.pdf"
+  },
+  {
+   "title": "展示ホール利用料金表（2026年10月〜）",
+   "url": "https://lp.pacifico.co.jp/hubfs/exhi/Price_list_exhi.pdf"
+  },
+  {
+   "title": "国立大ホール利用料金表（2026年10月〜）",
+   "url": "https://lp.pacifico.co.jp/hubfs/Price_list_Natinal_convention.pdf"
+  },
+  {
+   "title": "会議センター利用料金表（2026年10月〜）",
+   "url": "https://lp.pacifico.co.jp/hubfs/conf/Price_list_conf.pdf"
+  },
+  {
+   "title": "ノース利用料金表（2026年10月〜）",
+   "url": "https://lp.pacifico.co.jp/hubfs/north/Price_list_north.pdf"
+  },
+  {
+   "title": "アネックスホール利用料金表（2026年10月〜）",
+   "url": "https://lp.pacifico.co.jp/hubfs/annex/Price_list_annex.pdf"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "セブン-イレブン ＤＪパシフィコ横浜店",
+    "brand": "セブン-イレブン",
+    "distanceM": 115,
+    "walkMin": 2,
+    "hours": "毎日 7:00-21:00（祝日含む）",
+    "address": "神奈川県横浜市西区みなとみらい1-1-1",
+    "verified": true,
+    "source": "https://seven-eleven.areamarker.com/711map/info/401986",
+    "note": "会場敷地内。公式の営業時間は7:00-21:00"
+   },
+   {
+    "name": "セブン-イレブン 横浜みなとみらい3丁目店",
+    "brand": "セブン-イレブン",
+    "distanceM": 233,
+    "walkMin": 3,
+    "hours": "24時間営業",
+    "address": "神奈川県横浜市西区みなとみらい3-7-1",
+    "verified": true,
+    "source": "https://seven-eleven.areamarker.com/711map/info/438038",
+    "note": null
+   },
+   {
+    "name": "セブン-イレブン 横浜みなとみらいパークビル店",
+    "brand": "セブン-イレブン",
+    "distanceM": 274,
+    "walkMin": 4,
+    "hours": "24時間営業",
+    "address": "神奈川県横浜市西区みなとみらい3-6-3",
+    "verified": true,
+    "source": "https://seven-eleven.areamarker.com/711map/info/253735",
+    "note": null
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "キンコーズ・パシフィコ横浜店",
+    "brand": "キンコーズ",
+    "distanceM": 0,
+    "walkMin": 1,
+    "hours": "イベント開催時期・月ごとに異なる（公式の営業日カレンダー参照。平日・土日祝の定時営業時間は公式に記載なし）",
+    "address": "神奈川県横浜市西区みなとみらい1-1-1 パシフィコ横浜 展示ホール内［展示ホール2F・会議センター1F・ノース2F］ TEL 045-222-7025",
+    "verified": true,
+    "source": "https://www.kinkos.co.jp/store/kanagawa/y004/",
+    "note": "会場内。距離は会場内のため概算"
+   },
+   {
+    "name": "アクセア 横浜ランドマークタワー店",
+    "brand": "アクセア",
+    "distanceM": 647,
+    "walkMin": 9,
+    "hours": "平日 8:00-20:00／土日祝 10:00-19:00",
+    "address": "神奈川県横浜市西区みなとみらい2-2-1 ランドマークプラザ5F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/map/yokohamalm.html",
+    "note": "距離は住所（番地）の位置で計算"
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "ダイソー みなとみらい東急スクエア店",
+    "brand": "ダイソー",
+    "distanceM": 388,
+    "walkMin": 5,
+    "hours": "11:00-20:00",
+    "address": "神奈川県横浜市西区みなとみらい2-3-2 みなとみらい東急スクエア地下1階",
+    "verified": true,
+    "source": "https://www.daiso-sangyo.co.jp/shop/pref/14",
+    "note": "距離は住所（番地）の位置で計算"
+   },
+   {
+    "name": "ダイソー マークイズみなとみらい店",
+    "brand": "ダイソー",
+    "distanceM": 456,
+    "walkMin": 6,
+    "hours": "10:00-20:00",
+    "address": "神奈川県横浜市西区みなとみらい3-5-1 地下1階",
+    "verified": true,
+    "source": "https://www.daiso-sangyo.co.jp/shop/pref/14",
+    "note": "距離は住所（番地）の位置で計算"
+   }
+  ],
+  "donki": [
+   {
+    "name": "ドン・キホーテ 横浜西口店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 1607,
+    "walkMin": 21,
+    "hours": "24時間営業",
+    "address": "神奈川県横浜市西区南幸2-15-5",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_list.php?bsns=1&pre=ft",
+    "note": "遠い（徒歩21分）。距離は住所の位置で計算"
+   }
+  ]
+ },
+ "drinkDelivery": {
+  "available": true
+ },
+ "checkedAt": "2026-10-30"
+}

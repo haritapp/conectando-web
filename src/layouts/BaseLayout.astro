@@ -25,7 +25,8 @@ const isColumnPath =
   pathname === '/en/column' || pathname.startsWith('/en/column/');
 const jaAltPath = altJaPath ?? (pathname.startsWith('/en') ? pathname.replace(/^\/en/, '') || '/' : pathname);
 const enAltPath = altEnPath ?? (pathname.startsWith('/en') ? pathname : `/en${pathname}`);
-const hasAltLang = altJaPath !== undefined || altEnPath !== undefined || !isColumnPath;
+const isJaOnlyPath = pathname === '/venues' || pathname.startsWith('/venues/');
+const hasAltLang = altJaPath !== undefined || altEnPath !== undefined || (!isColumnPath && !isJaOnlyPath);
 ---
 
 <!doctype html>

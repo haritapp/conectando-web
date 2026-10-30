@@ -1,0 +1,148 @@
+{
+ "slug": "tokyo-innovation-base",
+ "nameJa": "Tokyo Innovation Base（TIB）",
+ "nameEn": "Tokyo Innovation Base",
+ "type": "public",
+ "area": "yurakucho-ginza-venues",
+ "address": "〒100-0005 東京都千代田区丸の内3-8-3 Tokyo Innovation Base",
+ "lat": 35.6755586,
+ "lng": 139.7650418,
+ "officialUrl": "https://tib.metro.tokyo.lg.jp/",
+ "organizerUrl": "https://tib.metro.tokyo.lg.jp/partner",
+ "bizintokyoSlug": "tokyo-innovation-base",
+ "accessSummary": "JR山手線・京浜東北線「有楽町駅」京橋口 徒歩1分／東京メトロ有楽町線「有楽町駅」D9出口すぐ／東京メトロ有楽町線「銀座一丁目駅」1出口 徒歩3分",
+ "notice": "イベント・セミナーの開催はTIBパートナー登録団体のみ可能（登録に2〜3か月、開催日まで1か月を切る受付は不可）。",
+ "hours": "開館 平日10:00〜21:00・土日祝10:00〜17:00（イベント実施時は22:00まで）。最終入館は閉館30分前",
+ "rooms": [],
+ "roomsSource": "公式に部屋表なし",
+ "ops": {
+  "catering": {
+   "text": "持込は、自分で食べる臭いの出ない軽食（おにぎり・サンドイッチなど）と飲料に限り可。アルコールは原則持込不可だが、イベント・セミナーの実施上必要な場合は、TIBパートナー等の主催者が事務局の承認を受ければ持込可。（出典：FAQ、施設利用規約 2025年5月8日改定）",
+   "source": "https://tib.metro.tokyo.lg.jp/faq"
+  },
+  "restaurants": {
+   "text": "館内1階にCAFE＆BARとSHOPがある。館内に自動販売機はない。",
+   "source": "https://tib.metro.tokyo.lg.jp/faq"
+  },
+  "parking": {
+   "text": "施設に駐車場・駐輪場はなく、周辺の有料駐車場等を利用する。（出典：施設利用規約 2025年5月8日改定）",
+   "source": "https://tib.metro.tokyo.lg.jp/terms"
+  }
+ },
+ "documents": [
+  {
+   "title": "施設利用規約（2025年5月8日改定）",
+   "url": "https://tib.metro.tokyo.lg.jp/terms"
+  },
+  {
+   "title": "よくあるご質問",
+   "url": "https://tib.metro.tokyo.lg.jp/faq"
+  },
+  {
+   "title": "TIBパートナー",
+   "url": "https://tib.metro.tokyo.lg.jp/partner"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "ファミリーマート 東京国際フォーラム店",
+    "brand": "ファミリーマート",
+    "distanceM": 168,
+    "walkMin": 3,
+    "hours": "7:00-23:30",
+    "address": "東京都千代田区丸の内3-5-1",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/58164",
+    "note": null
+   },
+   {
+    "name": "セブン-イレブン 有楽町イトシア店",
+    "brand": "セブン-イレブン",
+    "distanceM": 296,
+    "walkMin": 4,
+    "hours": "7:00-23:00（月〜日・祝）",
+    "address": "東京都千代田区有楽町2-7-1",
+    "verified": true,
+    "source": "https://seven-eleven.areamarker.com/711map/info/318571",
+    "note": null
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "アクセア 京橋店",
+    "brand": "アクセア",
+    "distanceM": 241,
+    "walkMin": 4,
+    "hours": "平日8:00〜22:00、土日祝10:00〜19:00",
+    "address": "東京都中央区八重洲2-8-8",
+    "verified": true,
+    "source": "https://www.accea.co.jp/entry.html",
+    "note": null
+   },
+   {
+    "name": "キンコーズ・銀座一丁目店",
+    "brand": "キンコーズ",
+    "distanceM": 317,
+    "walkMin": 4,
+    "hours": "平日 9:00-20:00／土 10:00-19:00／日祝 休業",
+    "address": "東京都中央区銀座1丁目7-3 京橋三菱ビル1F",
+    "verified": true,
+    "source": "https://www.kinkos.co.jp/store/tokyo/",
+    "note": null
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "DAISO マロニエゲート銀座店",
+    "brand": "ダイソー",
+    "distanceM": 308,
+    "walkMin": 4,
+    "hours": "11:00-21:00",
+    "address": "東京都中央区銀座3-2-1 マロニエゲート銀座2 6階",
+    "verified": true,
+    "source": "https://www.daiso-sangyo.co.jp/shop/detail/009168",
+    "note": null
+   },
+   {
+    "name": "Standard Products ヤエチカ店",
+    "brand": "Standard Products",
+    "distanceM": 526,
+    "walkMin": 7,
+    "hours": "10:00-20:00",
+    "address": "東京都中央区八重洲2-1 八重洲地下街 地下1階",
+    "verified": true,
+    "source": "https://www.daiso-sangyo.co.jp/shop/detail/001475",
+    "note": null
+   }
+  ],
+  "donki": [
+   {
+    "name": "お菓子ドンキ・お酒ドンキ（ヤエチカ／八重洲地下街）",
+    "brand": "ドン・キホーテ",
+    "distanceM": 531,
+    "walkMin": 7,
+    "hours": "9:00～21:30",
+    "address": "東京都中央区八重洲2-1 八重洲地下街北1号（外堀地下2番通り）",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_list.php?pref=13",
+    "note": null
+   },
+   {
+    "name": "ドン・キホーテ 銀座本館（銀座ナイン3号館）",
+    "brand": "ドン・キホーテ",
+    "distanceM": 997,
+    "walkMin": 13,
+    "hours": "24時間営業",
+    "address": "東京都中央区銀座8-10 銀座ナイン3号館",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_list.php?pref=13",
+    "note": null
+   }
+  ]
+ },
+ "drinkDelivery": {
+  "available": true
+ },
+ "checkedAt": "2026-10-30"
+}
