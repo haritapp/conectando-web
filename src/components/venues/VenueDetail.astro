@@ -4,6 +4,7 @@
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import ContactCTA from '../ContactCTA.astro';
 import { COMMON_I } from '../../data/venue-common';
+import VENUE_HOTELS from '../../data/venue-hotels.json';
 import { getVenue, maxCapacity, maxArea, verifiedShops, OPS_ORDER, type Shop } from '../../lib/venues';
 import {
   localizeVenue, UI, TYPE_LABEL_I, LAYOUT_LABEL_I, AREA_LABEL_I, OPS_LABEL_I,
@@ -46,6 +47,13 @@ const colLabel: Record<(typeof cols)[number], string> = {
   areaM2: t.areaCol, ceilingM: t.ceilingCol, ...LAYOUT_LABEL,
 };
 const checked = formatDateI(v.checkedAt, lang);
+const hotelData = (VENUE_HOTELS as Record<string, { pageJa: string | null; pageEn: string | null; hotels: { nameJa: string; nameEn: string; accessJa: string; accessEn: string; urlJa: string; urlEn: string }[] }>)[slug];
+const hotels = (hotelData?.hotels ?? []).map((h) => ({
+  name: lang === 'en' ? h.nameEn : h.nameJa,
+  access: lang === 'en' ? h.accessEn : h.accessJa,
+  url: lang === 'en' ? h.urlEn : h.urlJa,
+}));
+const hotelsPage = lang === 'en' ? hotelData?.pageEn : hotelData?.pageJa;
 const title = t.detailTitle(name);
 const description = t.detailDesc(name);
 const areaPath = AREA_LABEL[v.area] ? areaColumnPathI(v.area, lang) : null;
@@ -94,6 +102,7 @@ const areaPath = AREA_LABEL[v.area] ? areaColumnPathI(v.area, lang) : null;
       {(v.documents?.length ?? 0) > 0 && <a href="#docs">{t.tocDocs}</a>}
       {opsItems.length > 0 && <a href="#ops">{t.tocOps}</a>}
       <a href="#shops">{t.tocShops}</a>
+      {hotels.length > 0 && <a href="#hotels">{t.tocHotels}</a>}
     </nav>
 
     {v.rooms.length > 0 && (
@@ -186,6 +195,23 @@ const areaPath = AREA_LABEL[v.area] ? areaColumnPathI(v.area, lang) : null;
       </ul>
     </section>
 
+    {hotels.length > 0 && (
+      <section id="hotels" class="vd-sec vd-hotels">
+        <h2>{t.hotelsH2}</h2>
+        <p>{t.hotelsLead(name)}</p>
+        <ul>
+          {hotels.map((h) => (
+            <li>
+              <a href={h.url} target="_blank" rel="sponsored noopener">{h.name}</a>
+              <span>{h.access}</span>
+            </li>
+          ))}
+        </ul>
+        <p class="vd-small">{t.hotelsAd}</p>
+        {hotelsPage && <p><a href={hotelsPage} target="_blank" rel="noopener">{t.hotelsMore(name)}</a></p>}
+      </section>
+    )}
+
     <div class="vd-back"><a href={t.listHref}>{t.back}</a></div>
   </div>
 
@@ -243,6 +269,11 @@ const areaPath = AREA_LABEL[v.area] ? areaColumnPathI(v.area, lang) : null;
 .vd-docs { padding-left: 1.25rem; line-height: 2; }
 .vd-docs span { font-size: .6875rem; margin-left: .375rem; padding: 0 .375rem; border: 1px solid var(--color-border); border-radius: 3px; color: var(--color-text-muted); }
 .vd-related ul { padding-left: 1.25rem; line-height: 2; }
+.vd-hotels p { font-size: .9375rem; line-height: 1.8; margin: 0 0 .75rem; }
+.vd-hotels ul { list-style: none; padding: 0; margin: 0 0 .5rem; display: grid; gap: .5rem; }
+.vd-hotels li { display: grid; gap: .125rem; padding: .625rem .875rem; border: 1px solid var(--color-border); border-radius: var(--radius-md); font-size: .9375rem; }
+.vd-hotels li span { font-size: .75rem; color: var(--color-text-muted); }
+.vd-hotels p.vd-small { font-size: .75rem; margin: 0 0 .75rem; }
 .vd-back { margin-top: 2.5rem; }
 @media (max-width: 480px) {
   .vd-summary div { grid-template-columns: 1fr; gap: .125rem; }
