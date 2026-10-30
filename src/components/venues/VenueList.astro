@@ -69,7 +69,7 @@ const layoutOptions = Object.entries(LAYOUT_LABEL) as [Layout, string][];
           {areaOptions.map(([k, label]) => <option value={k}>{label}</option>)}
         </select>
       </div>
-      <div class="vl-field">
+      <div class={lang === 'en' ? 'vl-field vl-field-cap' : 'vl-field'}>
         <label for="f-people">{t.fPeople}</label>
         <div class="vl-inline">
           <select id="f-layout" aria-label={t.fLayoutAria}>
@@ -197,6 +197,8 @@ const layoutOptions = Object.entries(LAYOUT_LABEL) as [Layout, string][];
 }
 .vl-inline { display: flex; gap: .5rem; align-items: center; }
 .vl-inline select { width: auto; flex: 0 0 auto; }
+.vl-inline input { min-width: 5rem; }
+@media (min-width: 48rem) { .vl-field-cap { grid-column: span 2; } }
 .vl-unit { font-size: .875rem; color: var(--color-text-muted); flex: 0 0 auto; }
 .vl-flags { grid-column: 1 / -1; border: 0; padding: 0; margin: 0; display: flex; flex-wrap: wrap; gap: .5rem 1rem; }
 .vl-flags legend { margin-bottom: .5rem; padding: 0; }
