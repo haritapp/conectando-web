@@ -1,0 +1,321 @@
+{
+ "slug": "bellesalle-iidabashi-first",
+ "nameJa": "ベルサール飯田橋ファースト",
+ "nameEn": "",
+ "type": "exhibition",
+ "area": "kanda-suidobashi-venues",
+ "address": "〒112-0004 東京都文京区後楽2-6-1 住友不動産飯田橋ファーストタワーB1F",
+ "officialUrl": "https://www.bellesalle.co.jp/shisetsu/iidabashi/bs_iidabashifirst/",
+ "organizerUrl": "https://www.bellesalle.co.jp/download/bs_iidabashifirst/",
+ "bizintokyoSlug": "bellesalle-iidabashi-first",
+ "accessSummary": "飯田橋駅 C3出口 徒歩3分（大江戸線）／飯田橋駅 東口 徒歩5分（JR線）／飯田橋駅 B1出口 徒歩5分（東西線・有楽町線・南北線）／後楽園駅 1番出口 徒歩8分（丸ノ内線・南北線）",
+ "notice": null,
+ "hours": "ビルエントランス開放時間 平日7:00〜21:00（設備表 2026/9/28更新）",
+ "rooms": [
+  {
+   "name": "B1 HALL 全体",
+   "areaM2": 713,
+   "ceilingM": 4.8,
+   "theater": 712,
+   "school": 324,
+   "ushape": null,
+   "standing": 430,
+   "banquet": null,
+   "note": "スクールは2名掛け。スクール3名掛け 486席。島型 396席（66島）。床荷重800kg/㎡。最低利用時間は8時間または12時間。予約受付は2年前から"
+  },
+  {
+   "name": "B1 HALL A",
+   "areaM2": 499,
+   "ceilingM": 4.8,
+   "theater": 498,
+   "school": 216,
+   "ushape": null,
+   "standing": 300,
+   "banquet": null,
+   "note": "スクールは2名掛け。スクール3名掛け 324席。島型 252席（42島）。予約受付は2ヶ月前から。電動スクリーン・天吊プロジェクターは「ホールAに有」（設備表）"
+  },
+  {
+   "name": "B1 HALL B",
+   "areaM2": 214,
+   "ceilingM": 4.8,
+   "theater": 176,
+   "school": 80,
+   "ushape": null,
+   "standing": 130,
+   "banquet": null,
+   "note": "スクールは2名掛け。スクール3名掛け 120席。島型 96席（16島）。予約受付は1ヶ月前から"
+  },
+  {
+   "name": "B1 Room（会議室）",
+   "areaM2": 173,
+   "ceilingM": 3.5,
+   "theater": 162,
+   "school": 72,
+   "ushape": 66,
+   "standing": 100,
+   "banquet": null,
+   "note": "スクールは2名掛け。スクール3名掛け 108席。島型 96席（16島）、T字島型 72席（12島）。最低利用時間は4時間。予約受付は6ヶ月前から"
+  },
+  {
+   "name": "B1 控室1",
+   "areaM2": 11,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "使用料0円。ローテーブル×2・チェアー×4・ハンガーラック×1・姿見×1・傘立て×1（設備表）。控室のみの利用はできない"
+  },
+  {
+   "name": "B1 控室2",
+   "areaM2": 18,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "使用料0円。ローテーブル×2・ソファー×8・ハンガーラック×1・姿見×1・傘立て×1（設備表）。控室のみの利用はできない"
+  },
+  {
+   "name": "B1 控室3",
+   "areaM2": 16,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "使用料0円。テーブル×4・イス×8・ハンガーラック×1・姿見×1・傘立て×1（設備表）。控室のみの利用はできない"
+  },
+  {
+   "name": "B1 控室4",
+   "areaM2": 38,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "使用料0円。テーブル×6・イス×18・ハンガーラック×1・姿見×1・傘立て×1（設備表）。控室のみの利用はできない"
+  }
+ ],
+ "roomsSource": "https://www.bellesalle.co.jp/wp-content/uploads/iidabashif_price.pdf",
+ "ops": {
+  "prevDaySetup": {
+   "text": "使用時間には準備・後片付けの時間も含まれる（料金表）。ホールの料金区分は8時間と12時間で、24時間料金は設定されていない（料金表は「-」）。前後に延長する場合は当日延長料金（30分単位。7〜22時と22時〜翌7時で単価が異なる）がかかり、夜間利用や延長は前後の予約状況で使えない場合があるため事前に相談する。公式のよくあるご質問には「一部会場を除き365日24時間利用できる」とある。荷物の事前到着は開催日の前日着の指定が原則で、事前搬入届を搬入日の1週間前までに出す（貴重品は不可、荷物の破損の責任は負わない）。事前に申し出のない多量・大きな荷物は、保管場所として会場を有料で借り上げる扱いになる。使用予定日の前日や使用期間中の突発的なレイアウト変更は、当社に依頼できない。（出典：ホール料金表 2026/7/3更新、よくあるご質問、使用規約 2026ver2 第20条）",
+   "source": "https://www.bellesalle.co.jp/wp-content/uploads/iidabashif_price.pdf"
+  },
+  "loadingHours": {
+   "text": "搬出入がある場合は事前搬入届を作業日の1週間前までに出す（未提出だと荷捌き場は使えない）。積み下ろしの作業は原則20分以内。搬入・搬出車の出入りは使用時間内に所定の場所から行い、搬入時間などは会場側が調整することがある。ホールはB1F、会議室はB1F荷捌きBから搬入し、ホールの搬入扉は幅3,000×高3,200mm、入口扉は幅1,200×高2,300mm、搬入出用EVはかご内 幅1,800×高2,900×奥行2,300mm・積載荷重2,700kg。施設ページは「地下荷捌きスペースからイベントホールまでフラットなアプローチで、3,000mm幅の搬入口で車両の搬入も行える」と案内。現場責任者は作業前に飯田橋ファーストタワー1Fサービスセンターで入館手続きをし、終了後に完了報告・退館手続きをする。ビルエントランスの開放時間は平日7:00〜21:00。事前到着荷物の受取は原則ホールで5箱、ルームで2箱まで。（出典：事前搬入届（イベントホール・貸会議室）、イベントホール備品・会議室備品の設備表 2026/9/28更新、使用規約 2026ver2 第16条）",
+   "source": "https://www.bellesalle.co.jp/wp-content/uploads/iidabashif_jizen.pdf"
+  },
+  "vehicleRules": {
+   "text": "荷捌き所は荷物の積み下ろしのみに使い、駐車が必要なときは外の駐車場を使う。車両を複数台使うときは1台分の荷捌場を時間差で使う。違法駐車、指定駐車場以外、ビル廻りの路上駐車は厳禁。荷捌場はイベントホール使用者が優先（使用規約）。使用期間中の荷捌き場には商品・梱包材・装飾資材・ゴミなどを置けない。荷捌き場（地下）の許容寸法は全高3,200×全長6,000mm（事前搬入届）。設備表の車両制限は、ホールが高さ3,200×長さ6,000mm・重3.0t、会議室が同寸法で重4.0tと、重量の数字が食い違う。（出典：事前搬入届、使用規約 2026ver2 第15条・第16条・第21条、イベントホール設備表・会議室設備表 2026/9/28更新）",
+   "source": "https://www.bellesalle.co.jp/wp-content/uploads/iidabashif_jizen.pdf"
+  },
+  "parking": {
+   "text": "ホール設備表の駐車場欄は、ベルサール専用が「有（3台 留め置き可能）」、時間貸しが「無」、車寄せが1Fエントランス後方。会議室の設備表ではベルサール専用・時間貸しとも「無」。一方、公式のよくあるご質問は、このファーストを「施設が入居しているビルに時間貸し駐車場がある（台数に限りあり）」施設に挙げ、各会場の詳細ページにも「時間貸し駐車場あり」の表示があり、設備表と食い違う。近隣の時間貸し駐車場は、公式施設ページのリンク先「s-park」（公財 東京都道路整備保全公社）で「ベルサール飯田橋ファースト」を検索して探す。（出典：イベントホール設備表・会議室設備表 2026/9/28更新、よくあるご質問、公式施設ページ）",
+   "source": "https://www.bellesalle.co.jp/wp-content/uploads/iidabashif_hall_b.pdf"
+  },
+  "waitingRooms": {
+   "text": "ホールの控室は4室で、控室1 11㎡・控室2 18㎡・控室3 16㎡・控室4 38㎡（合計83㎡）。いずれも使用料0円で、控室のみの利用はできない。ホールには天吊の定点カメラがあり、控室のモニターで会場の進行を確認できる。VIPや来場者に配慮した動線の控室を用意していると施設ページが案内している。会議室の設備表では控室は「無」。（出典：イベントホール設備表 2026/9/28更新、公式施設ページ）",
+   "source": "https://www.bellesalle.co.jp/wp-content/uploads/iidabashif_hall_b.pdf"
+  },
+  "catering": {
+   "text": "指定業者以外の業者で飲食を手配する場合は「飲食持込手数料」がかかる（パーティー利用時のみ。飲料のみ・弁当の持込は対象外）。金額は会場面積別で、〜300㎡ 100,000円、〜600㎡ 200,000円、〜900㎡ 300,000円、〜1,200㎡ 400,000円、1,201㎡〜 500,000円（税込 各110,000〜550,000円）。懇親会向けのパーティーメニューは住友不動産グループ泉レストランのサイトで案内されている。（出典：持込料のご案内PDF、よくあるご質問、使用規約 2026ver2 第4条）",
+   "source": "https://www.bellesalle.co.jp/wp-content/uploads/mochikomi_price.pdf"
+  },
+  "restaurants": {
+   "text": "公式のよくあるご質問は、懇親会に適したパーティーメニューを取り揃えており、詳細は住友不動産グループ泉レストランのホームページのメニュー欄で見られると案内している。（出典：よくあるご質問）",
+   "source": "https://www.bellesalle.co.jp/faq/"
+  }
+ },
+ "documents": [
+  {
+   "title": "利用料金一覧表（2026/7/3更新）",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/iidabashif_price.pdf"
+  },
+  {
+   "title": "料金カレンダー（取引条件有効期限 2027年1月末日）",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/eventhall_calender1.pdf"
+  },
+  {
+   "title": "事前搬入届（イベントホール・貸会議室）",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/iidabashif_jizen.pdf"
+  },
+  {
+   "title": "使用規約（2026ver2）",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/kiyaku.pdf"
+  },
+  {
+   "title": "持込料のご案内",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/mochikomi_price.pdf"
+  },
+  {
+   "title": "反社会的勢力でないことの表明・確約書",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/bellesalle_bouhai.pdf"
+  },
+  {
+   "title": "イベントホール 設備・備品一覧（B1Fホール 2026/9/28更新）",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/iidabashif_hall_b.pdf"
+  },
+  {
+   "title": "会議室 設備・備品一覧（B1F 2026/9/28更新）",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/iidabashif_roombihin.pdf"
+  },
+  {
+   "title": "アクセスMAP",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/access_iidabashif.pdf"
+  },
+  {
+   "title": "B1 平面図",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/iidabashif_plane.pdf"
+  },
+  {
+   "title": "B1 天井図",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/iidabashif_ceiling.pdf"
+  },
+  {
+   "title": "B1 床図",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/iidabashif_floor.pdf"
+  },
+  {
+   "title": "B1 イベント電源図",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/iidabashi_f_electric.pdf"
+  },
+  {
+   "title": "B1 避難経路図",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/iidabashif_escape_b1.pdf"
+  },
+  {
+   "title": "資料ダウンロード（公式一覧）",
+   "url": "https://www.bellesalle.co.jp/download/bs_iidabashifirst/"
+  },
+  {
+   "title": "よくあるご質問",
+   "url": "https://www.bellesalle.co.jp/faq/"
+  }
+ ],
+ "checkedAt": "2026-10-30",
+ "lat": 35.704945,
+ "lng": 139.745453,
+ "nearby": {
+  "convenience": [
+   {
+    "name": "ファミリーマート 後楽店",
+    "brand": "ファミリーマート",
+    "distanceM": 73,
+    "walkMin": 1,
+    "hours": "24時間営業",
+    "address": "東京都文京区後楽2-3-25 金子ビル",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/19337",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "セブン-イレブン 飯田橋駅北店",
+    "brand": "セブン-イレブン",
+    "distanceM": 78,
+    "walkMin": 1,
+    "hours": "24時間営業",
+    "address": "東京都文京区後楽2-3-13",
+    "verified": true,
+    "source": "https://seven-eleven.areamarker.com/711map/info/363100",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "ファミリーマート 飯田橋駅北店",
+    "brand": "ファミリーマート",
+    "distanceM": 144,
+    "walkMin": 2,
+    "hours": "24時間営業",
+    "address": "東京都新宿区新小川町1-16",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/23031",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "アクセア 飯田橋駅前店",
+    "brand": "アクセア",
+    "distanceM": 313,
+    "walkMin": 4,
+    "hours": "平日24時間営業（月曜朝8時から土曜夜19時まで休まず営業）／土〜19:00、日祝 10:00〜19:00（平日の祝前日は休まず営業）",
+    "address": "東京都新宿区揚場町1-16 山路飯店ビル",
+    "verified": true,
+    "source": "https://www.accea.co.jp/entry.html",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "アクセア 飯田橋店",
+    "brand": "アクセア",
+    "distanceM": 671,
+    "walkMin": 9,
+    "hours": "平日8:00〜22:00、土10:00〜19:00／日祝休み",
+    "address": "東京都千代田区飯田橋1-8-10 キャッスルウェルビル1F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/entry.html",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "DAISO 飯田橋店",
+    "brand": "ダイソー",
+    "distanceM": 307,
+    "walkMin": 4,
+    "hours": "9:00-21:00",
+    "address": "東京都新宿区揚場町1-11 飯田橋中央ビル1階・2階・3階",
+    "verified": true,
+    "source": "https://www.daiso-sangyo.co.jp/shop/detail/001604",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "Can★Do 飯田橋ラムラ店",
+    "brand": "キャンドゥ",
+    "distanceM": 481,
+    "walkMin": 7,
+    "hours": "毎日 10:00-21:00",
+    "address": "東京都新宿区神楽河岸1-1 飯田橋ラムラ2階",
+    "verified": true,
+    "source": "https://shopinfo.cando-web.co.jp/detail/shop-5182/",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "donki": [
+   {
+    "name": "ドン・キホーテ 後楽園店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 831,
+    "walkMin": 11,
+    "hours": "24時間営業",
+    "address": "東京都文京区本郷1-33-9",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=343",
+    "note": "距離は住所の位置で計算。ドン・キホーテ公式サイトの店舗名は「後楽園店」"
+   },
+   {
+    "name": "ドン・キホーテ 上野店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 2334,
+    "walkMin": 30,
+    "hours": "9:00-4:00",
+    "address": "東京都文京区湯島3-38-10",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=107",
+    "note": "距離は住所の位置で計算。遠め。ドン・キホーテ公式サイトの店舗名は「上野店」"
+   }
+  ]
+ },
+ "drinkDelivery": {
+  "available": true
+ },
+ "photo": {
+  "src": "/images/venues/bellesalle-iidabashi-first.jpg",
+  "credit": "© 運動会プロテインパワー / CC BY-SA 4.0 · Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sumitomofudosan_Iidabashi_first_tower_202502-2.jpg"
+ }
+}

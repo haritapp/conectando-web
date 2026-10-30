@@ -1,0 +1,391 @@
+{
+ "slug": "bellesalle-shibakoen",
+ "nameJa": "ベルサール芝公園",
+ "nameEn": "",
+ "type": "conference",
+ "area": "shimbashi-hamamatsucho-venues",
+ "address": "〒105-0014 東京都港区芝二丁目7番17号 住友芝公園ビル 5F・6F",
+ "officialUrl": "https://www.bellesalle.co.jp/shisetsu/higashiginza/bs_shibakoen/",
+ "organizerUrl": "https://www.bellesalle.co.jp/download/bs_shibakoen/",
+ "bizintokyoSlug": "bellesalle-shibakoen",
+ "accessSummary": "芝公園駅（都営三田線）A1b出口 直結／三田駅（都営三田線・都営浅草線）A9出口 徒歩5分／赤羽橋駅（都営大江戸線）赤羽橋口 徒歩8分／大門駅（都営大江戸線・都営浅草線）A3出口 徒歩10分／浜松町駅（JR線・東京モノレール）南口 徒歩10分",
+ "notice": null,
+ "hours": "ビルエントランス開放時間 7:00〜20:00（会議室設備表 2026/9/11更新）",
+ "rooms": [
+  {
+   "name": "6F Room 1",
+   "areaM2": 124,
+   "ceilingM": 4.1,
+   "theater": 120,
+   "school": 52,
+   "ushape": 48,
+   "standing": 70,
+   "banquet": null,
+   "note": "スクールは2名掛け。スクール3名掛け 78席。島型 66席（11島）。T字島型 48席（8島）。予約受付は2か月前から"
+  },
+  {
+   "name": "6F Room 2",
+   "areaM2": 110,
+   "ceilingM": 4.1,
+   "theater": 100,
+   "school": 36,
+   "ushape": 42,
+   "standing": 60,
+   "banquet": null,
+   "note": "スクールは2名掛け。スクール3名掛け 54席。島型 48席（8島）。T字島型 36席（6島）。電動スクリーン150インチ・天吊プロジェクター7,500lm・メインスピーカーあり。予約受付は2か月前から"
+  },
+  {
+   "name": "6F Room 3",
+   "areaM2": 101,
+   "ceilingM": 4.1,
+   "theater": 72,
+   "school": 32,
+   "ushape": 36,
+   "standing": 60,
+   "banquet": null,
+   "note": "スクールは2名掛け。スクール3名掛け 48席。島型 36席（6島）。T字島型 24席（4島）。予約受付は6か月前から"
+  },
+  {
+   "name": "6F Room 4",
+   "areaM2": 278,
+   "ceilingM": 4.1,
+   "theater": 180,
+   "school": 100,
+   "ushape": 72,
+   "standing": 160,
+   "banquet": null,
+   "note": "スクールは2名掛け。スクール3名掛け 150席。島型 96席（16島）。T字島型 72席（12島）。電動スクリーン170インチ・天吊プロジェクター11,000lm・メインスピーカーあり。照明は調光あり。予約受付は6か月前から"
+  },
+  {
+   "name": "6F Room 5",
+   "areaM2": 175,
+   "ceilingM": 4.1,
+   "theater": 144,
+   "school": 64,
+   "ushape": 54,
+   "standing": 100,
+   "banquet": null,
+   "note": "スクールは2名掛け。スクール3名掛け 96席。島型 72席（12島）。T字島型 60席（10島）。照明は調光あり。予約受付は6か月前から"
+  },
+  {
+   "name": "6F Room 1+2",
+   "areaM2": 234,
+   "ceilingM": 4.1,
+   "theater": 180,
+   "school": 90,
+   "ushape": 66,
+   "standing": 140,
+   "banquet": null,
+   "note": "スクールは2名掛け。スクール3名掛け 135席。島型 96席（16島）。T字島型 72席（12島）。予約受付は6か月前から"
+  },
+  {
+   "name": "6F Room 4+5",
+   "areaM2": 453,
+   "ceilingM": 4.1,
+   "theater": 360,
+   "school": 180,
+   "ushape": 108,
+   "standing": 270,
+   "banquet": null,
+   "note": "スクールは2名掛け。スクール3名掛け 270席。島型 180席（30島）。T字島型 132席（22島）。ロの字は料金表PDF（2026/7/3更新）の108席を採用。公式施設ページの表示は180席で食い違う。予約受付は1年前から"
+  },
+  {
+   "name": "6F 控室 1",
+   "areaM2": 8,
+   "ceilingM": 2.6,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "有料（通常料金 4時間 税込11,000円）。席数はスクール3名掛けで6席"
+  },
+  {
+   "name": "6F 控室 2",
+   "areaM2": 11,
+   "ceilingM": 2.6,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "有料（通常料金 4時間 税込15,400円）。席数はスクール3名掛けで6席"
+  },
+  {
+   "name": "5F Room A",
+   "areaM2": 124,
+   "ceilingM": 3.5,
+   "theater": 120,
+   "school": 52,
+   "ushape": 48,
+   "standing": 70,
+   "banquet": null,
+   "note": "スクールは2名掛け。スクール3名掛け 78席。島型 66席（11島）。T字島型 48席（8島）。予約受付は2か月前から"
+  },
+  {
+   "name": "5F Room B",
+   "areaM2": 110,
+   "ceilingM": 3.5,
+   "theater": 100,
+   "school": 36,
+   "ushape": 42,
+   "standing": 60,
+   "banquet": null,
+   "note": "スクールは2名掛け。スクール3名掛け 54席。島型 48席（8島）。T字島型 36席（6島）。電動スクリーン150インチ・天吊プロジェクター7,500lm・メインスピーカーあり。予約受付は2か月前から"
+  },
+  {
+   "name": "5F Room C",
+   "areaM2": 78,
+   "ceilingM": 3.5,
+   "theater": 52,
+   "school": 24,
+   "ushape": 30,
+   "standing": 40,
+   "banquet": null,
+   "note": "スクールは2名掛け。スクール3名掛け 36席。島型 24席（4島）。T字島型 18席（3島）。予約受付は2か月前から"
+  },
+  {
+   "name": "5F Room A+B",
+   "areaM2": 234,
+   "ceilingM": 3.5,
+   "theater": 180,
+   "school": 90,
+   "ushape": 66,
+   "standing": 140,
+   "banquet": null,
+   "note": "スクールは2名掛け。スクール3名掛け 135席。島型 96席（16島）。T字島型 72席（12島）。予約受付は6か月前から"
+  },
+  {
+   "name": "5F 控室 A",
+   "areaM2": 6,
+   "ceilingM": 2.6,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "有料（通常料金 4時間 税込11,000円）。席数はスクール3名掛けで3席"
+  }
+ ],
+ "roomsSource": "https://www.bellesalle.co.jp/wp-content/uploads/shibakoen_price.pdf",
+ "ops": {
+  "prevDaySetup": {
+   "text": "使用時間には準備・後片付けの時間も含まれ、営業時間外の使用は別途相談になる（料金表）。料金表にあるのは4時間・8時間・12時間の使用料と、当日の前延長・後延長（30分あたり。7時〜22時と22時〜翌7時の2区分）の料金。公式FAQは「一部会場を除き、365日24時間利用できる」と案内している。荷物の事前到着は原則 開催日の前日着の指定で、事前搬入届を作業日の1週間前までに出す（貴重品は不可、荷物の破損の責任は負わない）。事前到着荷物の受取は原則各ルーム2箱まで。事前に申し出のない多量・大きな荷物は、保管場所として会場を有料で借り上げる扱いになる。（出典：会議室料金表 2026/7/3更新、よくあるご質問、事前搬入届、使用規約 2026ver2 第20条）",
+   "source": "https://www.bellesalle.co.jp/wp-content/uploads/shibakoen_price.pdf"
+  },
+  "loadingHours": {
+   "text": "搬出入がある場合は事前搬入届を作業日の1週間前までに提出する（未提出だと荷捌き場は使えない）。搬入・搬出車の出入りは使用時間内に所定の場所から行い、搬入時間などは会場側が調整することがある。積み下ろしの作業は原則20分以内。荷捌き場は地下1階（B1F）で、許容寸法は全高3,200×全長6,600×幅2,500mm。搬出入用エレベーターは入口扉 幅1,200×高2,800mm、かご内 幅2,000×奥行2,000×高3,000mm、積載荷重2,000kg。乗用エレベーターは入口扉 幅1,100×高2,600mm、かご内 幅1,750×奥行1,800×高2,850mm、積載荷重1,400kg。現場責任者は作業前に住友芝公園ビル1Fサービスセンターで入館手続きをし、作業後に完了報告・退館手続きをする。ビルエントランスの開放時間は7:00〜20:00。（出典：事前搬入届、会議室 設備・備品一覧 2026/9/11更新、使用規約 2026ver2 第16条）",
+   "source": "https://www.bellesalle.co.jp/wp-content/uploads/shibakoen_jizen.pdf"
+  },
+  "vehicleRules": {
+   "text": "荷捌き所は荷物の積み下ろしのみに使い、駐車が必要なときは外の駐車場を使う。車両を複数台使うときは1台分の荷捌場を時間差で使う。違法駐車、指定駐車場以外、ビル廻りの路上駐車は厳禁。使用期間中の荷捌き場には商品・梱包材・装飾資材・ゴミなどを置けず、各搬出入用扉は常時閉じておく。搬入出車両が混雑しそうなときは出入口などに整理員を置く。設備表の車両制限は、高さ3,200mm未満×長さ6,600mm以下、重量2.0t。（出典：事前搬入届、使用規約 2026ver2 第15条・第16条、会議室 設備・備品一覧 2026/9/11更新）",
+   "source": "https://www.bellesalle.co.jp/wp-content/uploads/shibakoen_jizen.pdf"
+  },
+  "parking": {
+   "text": "設備表の駐車場欄は、ベルサール専用・時間貸し・車寄せのいずれも「無」。近隣の時間貸し駐車場は、公式施設ページのリンク先「s-park」（公財 東京都道路整備保全公社）で「ベルサール芝公園」を検索して探す。（出典：公式施設ページ、会議室 設備・備品一覧 2026/9/11更新）",
+   "source": "https://www.bellesalle.co.jp/shisetsu/higashiginza/bs_shibakoen/"
+  },
+  "waitingRooms": {
+   "text": "控室は3室で、6F 控室1（8㎡）・6F 控室2（11㎡）・5F 控室A（6㎡）。いずれも天井高2.6mで有料（通常料金 4時間 税込 控室1 11,000円・控室2 15,400円・控室A 11,000円）。5Fの給湯室は控室内にある。（出典：会議室料金表 2026/7/3更新、会議室 設備・備品一覧 2026/9/11更新）",
+   "source": "https://www.bellesalle.co.jp/wp-content/uploads/shibakoen_price.pdf"
+  },
+  "catering": {
+   "text": "飲食物の持込は可能。ただし飲食の手配に当社指定業者以外を使う場合は「飲食持込手数料」がかかる（パーティー利用時のみ。飲料のみ・弁当の持込は対象外）。金額は会場面積別で、〜300㎡ 100,000円、〜600㎡ 200,000円、〜900㎡ 300,000円、〜1,200㎡ 400,000円、1,201㎡〜 500,000円（税込 各110,000〜550,000円）。懇親会向けのパーティーメニューは住友不動産グループ泉レストランのサイトで案内されている。（出典：持込料のご案内PDF、よくあるご質問、使用規約 2026ver2 第4条）",
+   "source": "https://www.bellesalle.co.jp/wp-content/uploads/mochikomi_price.pdf"
+  }
+ },
+ "documents": [
+  {
+   "title": "会議室 料金表・収容人数（2026/7/3更新）",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/shibakoen_price.pdf"
+  },
+  {
+   "title": "料金カレンダー（取引条件有効期限 2027年1月末日）",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/eventhall_calender1.pdf"
+  },
+  {
+   "title": "事前搬入届",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/shibakoen_jizen.pdf"
+  },
+  {
+   "title": "使用規約（2026ver2）",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/kiyaku.pdf"
+  },
+  {
+   "title": "持込料のご案内",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/mochikomi_price.pdf"
+  },
+  {
+   "title": "反社会的勢力でないことの表明・確約書",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/bellesalle_bouhai.pdf"
+  },
+  {
+   "title": "会議室 設備・備品一覧（2026/9/11更新）",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/shibakoen_roombihin.pdf"
+  },
+  {
+   "title": "アクセスMAP",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/access_shibakoen.pdf"
+  },
+  {
+   "title": "5F 平面図（2026.7.3更新）",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/shibakoen_plane_5f.pdf"
+  },
+  {
+   "title": "6F 平面図（2026.7.3更新）",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/shibakoen_plane_6f.pdf"
+  },
+  {
+   "title": "5F 天井図（2025.9.1更新）",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/shibakoen_ceiling_5f.pdf"
+  },
+  {
+   "title": "6F 天井図（2025.9.1更新）",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/shibakoen_ceiling_6f.pdf"
+  },
+  {
+   "title": "5F 床図（2026.7.3更新）",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/shibakoen_floor_5f.pdf"
+  },
+  {
+   "title": "6F 床図（2026.7.3更新）",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/shibakoen_floor_6f.pdf"
+  },
+  {
+   "title": "5F 避難経路図・消防設備図（2026.1.8更新）",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/shibakoen_plane_escape_5f.pdf"
+  },
+  {
+   "title": "6F 避難経路図・消防設備図（2026.1.8更新）",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/shibakoen_plane_escape_6f.pdf"
+  },
+  {
+   "title": "資料ダウンロード（公式一覧）",
+   "url": "https://www.bellesalle.co.jp/download/bs_shibakoen/"
+  },
+  {
+   "title": "よくあるご質問",
+   "url": "https://www.bellesalle.co.jp/faq/"
+  }
+ ],
+ "checkedAt": "2026-10-30",
+ "lat": 35.652313,
+ "lng": 139.749939,
+ "nearby": {
+  "convenience": [
+   {
+    "name": "ファミリーマート 芝公園店",
+    "brand": "ファミリーマート",
+    "distanceM": 76,
+    "walkMin": 1,
+    "hours": "24時間営業",
+    "address": "東京都港区芝3-5-5",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/58541",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "ローソン 芝公園南店",
+    "brand": "ローソン",
+    "distanceM": 220,
+    "walkMin": 3,
+    "hours": "24時間営業",
+    "address": "東京都港区芝3-3-12",
+    "verified": true,
+    "source": "https://www.areamarker.com/lawson/info/137130",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "ファミリーマート 芝二丁目店",
+    "brand": "ファミリーマート",
+    "distanceM": 223,
+    "walkMin": 3,
+    "hours": "24時間営業",
+    "address": "東京都港区芝2丁目5-10",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/58220",
+    "note": "距離は公式の店舗位置で計算"
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "アクセア 浜松町店",
+    "brand": "アクセア",
+    "distanceM": 620,
+    "walkMin": 8,
+    "hours": "平日8:00〜22:00／土日祝10:00〜19:00",
+    "address": "東京都港区浜松町2-1-12 VORT浜松町Ⅲ 1F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/entry.html",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "アクセア 田町店",
+    "brand": "アクセア",
+    "distanceM": 758,
+    "walkMin": 10,
+    "hours": "24時間営業",
+    "address": "東京都港区三田3-1-11 エック三田ビル1F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/entry.html",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Seria 田町センタービル店",
+    "brand": "セリア",
+    "distanceM": 774,
+    "walkMin": 10,
+    "hours": "毎日 10:00-21:00",
+    "address": "東京都港区芝5-34-7 田町センタービルB1F",
+    "verified": true,
+    "source": "https://shop.seria-group.com/seria/info/000002840",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "Can★Do 麻布十番店",
+    "brand": "キャンドゥ",
+    "distanceM": 1463,
+    "walkMin": 19,
+    "hours": "毎日 10:00-21:00",
+    "address": "東京都港区麻布十番2-4-1 ウィン麻布十番ハラビル1階",
+    "verified": true,
+    "source": "https://shopinfo.cando-web.co.jp/detail/shop-1930/",
+    "note": "距離は住所の位置で計算。遠め"
+   }
+  ],
+  "donki": [
+   {
+    "name": "ドン・キホーテ 六本木店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 1786,
+    "walkMin": 23,
+    "hours": "24時間営業",
+    "address": "東京都港区六本木3-14-10",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=31",
+    "note": "距離は住所の位置で計算。遠い。ドン・キホーテ公式サイトの店舗名は「六本木店」"
+   },
+   {
+    "name": "ドン・キホーテ 銀座本館（銀座ナイン3号館）",
+    "brand": "ドン・キホーテ",
+    "distanceM": 2052,
+    "walkMin": 26,
+    "hours": "24時間営業",
+    "address": "東京都中央区銀座8-10 銀座ナイン3号館",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=92",
+    "note": "距離は住所の位置で計算。遠い。ドン・キホーテ公式サイトの店舗名は「銀座本館」"
+   }
+  ]
+ },
+ "drinkDelivery": {
+  "available": true
+ },
+ "photo": {
+  "src": "/images/venues/bellesalle-shibakoen.jpg",
+  "credit": "© Hamihoko / CC BY-SA 3.0 · Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sumitomo_Shibakoen(Shiba-park)_building_14-01.JPG"
+ }
+}

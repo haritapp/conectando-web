@@ -1,0 +1,172 @@
+{
+ "slug": "bellesalle-kudan",
+ "name": "Bellesalle Kudan",
+ "address": "Tokyo 102-0073 Sumitomo Fudosan Kudan Building 3F and 4F, 1-8-10 Kudankita, Chiyoda-ku",
+ "accessSummary": "Kudanshita Station (Tozai Line) Exit 7: 2 min walk / Kudanshita Station (Hanzomon Line / Shinjuku Line) Exit 5: 3 min walk / Jimbocho Station Exit A2: 6 min walk / Suidobashi Station (JR) West Exit: 8 min walk / Iidabashi Station Exit A2: 9 min walk / Iidabashi Station (JR) East Exit: 10 min walk",
+ "hours": "Building entrance open hours Weekdays 7:30-22:00, Saturday 8:00-22:00, Sunday by consultation (3F Hall Facility List)",
+ "notice": null,
+ "rooms": [
+  {
+   "name": "3F Hall - Entire Hall",
+   "note": "Classroom is 2 per desk. Classroom, 3 per desk: 306 seats. Island layout: 252 seats (42 islands)."
+  },
+  {
+   "name": "3F Hall - Hall A",
+   "note": "Classroom is 2 per desk. Classroom, 3 per desk: 162 seats. Island layout: 144 seats (24 islands)."
+  },
+  {
+   "name": "3F Hall - Hall B",
+   "note": "Classroom is 2 per desk. Classroom, 3 per desk: 132 seats. Island layout: 84 seats (14 islands)."
+  },
+  {
+   "name": "3F Waiting Room",
+   "note": "Usage fee 0 yen. Equipment: 1 large table, 4 chairs, 2 small tables, 4 small sofas. The waiting room cannot be used on its own."
+  },
+  {
+   "name": "3F Room 1",
+   "note": "Classroom is 2 per desk. Classroom, 3 per desk: 36 seats. Island layout: 36 seats (6 islands). T-shaped island layout: 24 seats (4 islands)."
+  },
+  {
+   "name": "3F Room 2",
+   "note": "Classroom is 2 per desk. Classroom, 3 per desk: 84 seats. Island layout: 72 seats (12 islands). T-shaped island layout: 36 seats (6 islands)."
+  },
+  {
+   "name": "3F Room 1+2",
+   "note": "Classroom is 2 per desk. Classroom, 3 per desk: 156 seats. Island layout: 132 seats (22 islands). T-shaped island layout: 66 seats (11 islands)."
+  },
+  {
+   "name": "4F Room 3",
+   "note": "Classroom is 2 per desk. Classroom, 3 per desk: 60 seats. Island layout: 60 seats (10 islands). T-shaped island layout: 36 seats (6 islands)."
+  },
+  {
+   "name": "4F Room 4",
+   "note": "Classroom is 2 per desk. Classroom, 3 per desk: 132 seats. Island layout: 114 seats (19 islands). T-shaped island layout: 90 seats (15 islands)."
+  }
+ ],
+ "ops": {
+  "prevDaySetup": "Usage time includes setup and cleanup time (price list). The hall rates are for 8 hours and 12 hours (the 24-hour column is \"-\"), and the conference room rates are for 4 hours, 8 hours and 12 hours. Night-time use of the hall may not be available depending on the bookings before and after, so consult in advance. Advance arrival of packages is in principle specified as arrival on the day before the event, and an advance load-in notice must be submitted at least 1 week before the load-in date (valuables are not accepted, and the operator takes no responsibility for damage to packages). Large quantities of packages or large packages that have not been notified in advance are treated as renting the venue for a fee as a storage space. (Source: Price List, updated July 3, 2026; Advance Load-in Notice; FAQ; Terms of Use 2026ver2 Article 20)",
+  "loadingHours": "If there is load-in or load-out, an advance load-in notice must be submitted at least 1 week before the work date (the loading area cannot be used if it is not submitted). Delivery vehicles for load-in and load-out must enter and leave within the usage time from the designated location, and the venue may adjust load-in times and the like. The loading area is on the 1F, and loading and unloading work is in principle limited to 20 minutes. The permitted dimensions of the loading area are 3,000 mm total height x 6,000 mm total length (including when the gate is lowered). The load-in door is 1,900 mm wide x 2,300 mm high, and the load-in elevator is used to reach the 3F and 4F (entrance door 1,280 mm wide x 2,250 mm high; inside the car 1,530 mm wide x 2,500 mm high x 2,150 mm deep; load capacity 1,650 kg). The person in charge on site completes entry procedures at the Service Center on the 1F of Sumitomo Fudosan Kudan Building before work. The building entrance is open 7:30-22:00 on weekdays and 8:00-22:00 on Saturdays (Sundays by consultation). Packages received in advance are in principle limited to 5 boxes for the hall and 2 boxes per room. (Source: Advance Load-in Notice, 3F Hall / 3F & 4F Conference Rooms Facility List, updated September 11, 2026, Terms of Use 2026ver2 Article 16)",
+  "vehicleRules": "The loading area is used only for loading and unloading; if parking is needed, use an outside parking lot. When multiple vehicles are used, they share one vehicle's loading space in staggered turns. Illegal parking and roadside parking around the building outside the designated parking lot are strictly prohibited (roadside parking around the building is grounds for cancellation of the usage contract or suspension of use). Products, packing materials, decoration materials, trash and the like may not be left in the loading area during the usage period. If delivery vehicle traffic is expected to be congested, traffic staff are placed at the entrance and similar points. The vehicle restriction in the facility list is 3,000 mm high x 6,000 mm long, weight 2.0 t (including when the gate is lowered). Bellesalle's dedicated parking lot has 1 space, and leaving a vehicle parked is allowed (advance reservation required). (Source: Advance Load-in Notice, Terms of Use 2026ver2 Articles 9, 15 and 16, 3F Hall Facility List)",
+  "parking": "In the facility list, the parking field shows 1 Bellesalle-dedicated space (shared by the hall and the conference rooms; leaving a vehicle parked is allowed, advance reservation required), and \"None\" for hourly parking and the vehicle drop-off area. To find nearby hourly parking lots, search for \"Bellesalle Kudan\" on \"s-park\" (Tokyo Metropolitan Road Improvement and Conservation Corporation), which is linked from the official facility page. (Source: 3F Hall / 3F & 4F Conference Rooms Facility List, updated September 11, 2026, official facility page)",
+  "waitingRooms": "There is 1 waiting room, on the 3F hall; its area is 22㎡ and the usage fee is 0 yen. It is equipped with 1 large table, 4 chairs, 2 small tables and 4 small sofas, and the fixed camera video can be viewed in the waiting room. The waiting room cannot be used on its own. In the conference room (Rooms 1-4) facility list, the waiting room field is \"None\". (Source: 3F Hall Facility List updated September 11, 2026, Conference Room Facility List, official venue detail page)",
+  "catering": "Outside food/drink brought in is allowed. However, if a caterer other than the operator's designated vendors is used, an \"outside food/drink fee\" applies (party use only; bringing in drinks only or boxed meals is not covered). The amount depends on venue area: up to 300㎡ 100,000 yen, up to 600㎡ 200,000 yen, up to 900㎡ 300,000 yen, up to 1,200㎡ 400,000 yen, 1,201㎡ and above 500,000 yen (110,000 to 550,000 yen each, tax included). Party menus for receptions are introduced on the website of Izumi Restaurant, a Sumitomo Fudosan Group company. (Source: Outside Food/Drink Fee Guide PDF, FAQ, Terms of Use 2026ver2 Article 4)"
+ },
+ "documents": [
+  {
+   "title": "Price List (updated July 3, 2026)"
+  },
+  {
+   "title": "Price Calendar (transaction terms valid until the end of January 2027)"
+  },
+  {
+   "title": "Advance Load-in Notice (Kudan)"
+  },
+  {
+   "title": "Terms of Use (2026ver2)"
+  },
+  {
+   "title": "Outside Food/Drink Fee Guide"
+  },
+  {
+   "title": "Declaration and Pledge of Non-Affiliation with Antisocial Forces"
+  },
+  {
+   "title": "3F Hall Facilities and Equipment List (updated September 11, 2026)"
+  },
+  {
+   "title": "3F & 4F Conference Rooms Facilities and Equipment List (updated September 11, 2026)"
+  },
+  {
+   "title": "Access Map"
+  },
+  {
+   "title": "3F Floor Plan"
+  },
+  {
+   "title": "3F Ceiling Plan"
+  },
+  {
+   "title": "3F Floor Surface Plan"
+  },
+  {
+   "title": "3F Event Power Supply Plan"
+  },
+  {
+   "title": "3F Evacuation Route Map"
+  },
+  {
+   "title": "4F Floor Plan"
+  },
+  {
+   "title": "4F Ceiling Plan"
+  },
+  {
+   "title": "4F Floor Surface Plan"
+  },
+  {
+   "title": "4F Evacuation Route Map"
+  },
+  {
+   "title": "Document Downloads (official list)"
+  },
+  {
+   "title": "FAQ"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "Lawson Kudankita Mejiro-dori",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Lawson Kudankita 1-chome",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "FamilyMart Kudankita 1-chome",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "Accea Kudanshita",
+    "hours": "Weekdays 9:00-20:00 / Closed Sat, Sun & holidays",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Kinko's Jimbocho",
+    "hours": "Weekdays 8:00-20:00 / Closed Sat / Closed Sun & holidays (reception until 30 min before closing)",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Can Do Jimbocho",
+    "hours": "Daily 10:00-21:00",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Can Do Iidabashi Lamla",
+    "hours": "Daily 10:00-21:00",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "donki": [
+   {
+    "name": "Don Quijote Korakuen",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. The store name on the Don Quijote official site is \"Korakuen\"."
+   },
+   {
+    "name": "Don Quijote Akihabara",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. Rather far. The store name on the Don Quijote official site is \"Akihabara\"."
+   }
+  ]
+ },
+ "photoCredit": null
+}

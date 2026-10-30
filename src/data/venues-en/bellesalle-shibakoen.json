@@ -1,0 +1,186 @@
+{
+ "slug": "bellesalle-shibakoen",
+ "name": "Bellesalle Shibakoen",
+ "address": "Tokyo 105-0014 Sumitomo Shibakoen Building 5F & 6F, 2-7-17 Shiba, Minato-ku, Tokyo",
+ "accessSummary": "Direct connection from Exit A1b of Shibakoen Station (Toei Mita Line) / 5 min walk from Exit A9 of Mita Station (Toei Mita Line / Toei Asakusa Line) / 8 min walk from Akabanebashi Exit of Akabanebashi Station (Toei Oedo Line) / 10 min walk from Exit A3 of Daimon Station (Toei Oedo Line / Toei Asakusa Line) / 10 min walk from the South Exit of Hamamatsucho Station (JR lines / Tokyo Monorail)",
+ "hours": "Building entrance open 7:00-20:00 (Meeting Room Equipment List, updated September 11, 2026)",
+ "notice": null,
+ "rooms": [
+  {
+   "name": "6F Room 1",
+   "note": "Classroom is 2 per desk. Classroom, 3 per desk: 78 seats. Island layout: 66 seats (11 islands). T-shaped island layout: 48 seats (8 islands). Reservations are accepted from 2 months before."
+  },
+  {
+   "name": "6F Room 2",
+   "note": "Classroom is 2 per desk. Classroom, 3 per desk: 54 seats. Island layout: 48 seats (8 islands). T-shaped island layout: 36 seats (6 islands). 150-inch motorized screen, ceiling-mounted projector (7,500lm) and main speakers available. Reservations are accepted from 2 months before."
+  },
+  {
+   "name": "6F Room 3",
+   "note": "Classroom is 2 per desk. Classroom, 3 per desk: 48 seats. Island layout: 36 seats (6 islands). T-shaped island layout: 24 seats (4 islands). Reservations are accepted from 6 months before."
+  },
+  {
+   "name": "6F Room 4",
+   "note": "Classroom is 2 per desk. Classroom, 3 per desk: 150 seats. Island layout: 96 seats (16 islands). T-shaped island layout: 72 seats (12 islands). 170-inch motorized screen, ceiling-mounted projector (11,000lm) and main speakers available. Lighting is dimmable. Reservations are accepted from 6 months before."
+  },
+  {
+   "name": "6F Room 5",
+   "note": "Classroom is 2 per desk. Classroom, 3 per desk: 96 seats. Island layout: 72 seats (12 islands). T-shaped island layout: 60 seats (10 islands). Lighting is dimmable. Reservations are accepted from 6 months before."
+  },
+  {
+   "name": "6F Room 1+2",
+   "note": "Classroom is 2 per desk. Classroom, 3 per desk: 135 seats. Island layout: 96 seats (16 islands). T-shaped island layout: 72 seats (12 islands). Reservations are accepted from 6 months before."
+  },
+  {
+   "name": "6F Room 4+5",
+   "note": "Classroom is 2 per desk. Classroom, 3 per desk: 270 seats. Island layout: 180 seats (30 islands). T-shaped island layout: 132 seats (22 islands). For the hollow square layout, the 108 seats in the price list PDF (updated July 3, 2026) are used. The official facility page shows 180 seats, which differs. Reservations are accepted from 1 year before."
+  },
+  {
+   "name": "6F Waiting Room 1",
+   "note": "Paid (regular rate 11,000 yen for 4 hours, tax included). Seats: 6 with classroom, 3 per desk."
+  },
+  {
+   "name": "6F Waiting Room 2",
+   "note": "Paid (regular rate 15,400 yen for 4 hours, tax included). Seats: 6 with classroom, 3 per desk."
+  },
+  {
+   "name": "5F Room A",
+   "note": "Classroom is 2 per desk. Classroom, 3 per desk: 78 seats. Island layout: 66 seats (11 islands). T-shaped island layout: 48 seats (8 islands). Reservations are accepted from 2 months before."
+  },
+  {
+   "name": "5F Room B",
+   "note": "Classroom is 2 per desk. Classroom, 3 per desk: 54 seats. Island layout: 48 seats (8 islands). T-shaped island layout: 36 seats (6 islands). 150-inch motorized screen, ceiling-mounted projector (7,500lm) and main speakers available. Reservations are accepted from 2 months before."
+  },
+  {
+   "name": "5F Room C",
+   "note": "Classroom is 2 per desk. Classroom, 3 per desk: 36 seats. Island layout: 24 seats (4 islands). T-shaped island layout: 18 seats (3 islands). Reservations are accepted from 2 months before."
+  },
+  {
+   "name": "5F Room A+B",
+   "note": "Classroom is 2 per desk. Classroom, 3 per desk: 135 seats. Island layout: 96 seats (16 islands). T-shaped island layout: 72 seats (12 islands). Reservations are accepted from 6 months before."
+  },
+  {
+   "name": "5F Waiting Room A",
+   "note": "Paid (regular rate 11,000 yen for 4 hours, tax included). Seats: 3 with classroom, 3 per desk."
+  }
+ ],
+ "ops": {
+  "prevDaySetup": "Usage time includes setup and cleanup time, and use outside business hours is a matter for separate consultation (price list). The price list gives the usage fees for 4, 8 and 12 hours, and the fees for same-day pre-extension and post-extension (per 30 minutes; two bands, 7:00-22:00 and 22:00 to 7:00 the next morning). The official FAQ says \"Except for some venues, the venue can be used 24 hours a day, 365 days a year.\" Advance arrival of packages is in principle designated for the day before the event, and an advance load-in notice must be submitted at least 1 week before the work date (valuables are not accepted, and the operator takes no responsibility for damage to packages). Packages received in advance are in principle limited to 2 boxes per room. Large quantities or large items not notified in advance are treated as renting the venue as a storage space, for a fee. (Source: Meeting Room Price List, updated July 3, 2026; FAQ; Advance Load-in Notice; Terms of Use 2026ver2 Article 20)",
+  "loadingHours": "When there is load-in or load-out, an advance load-in notice must be submitted at least 1 week before the work date (the loading area cannot be used if it is not submitted). Load-in and load-out vehicles must enter and leave from the designated place within the usage time, and the venue may adjust load-in times and the like. Loading and unloading work is in principle limited to 20 minutes. The loading area is on B1F, with permitted dimensions of 3,200 mm in height x 6,600 mm in length x 2,500 mm in width. The load-in/out elevator has an entrance door 1,200 mm wide x 2,800 mm high, a car interior 2,000 mm wide x 2,000 mm deep x 3,000 mm high, and a load capacity of 2,000 kg. The passenger elevator has an entrance door 1,100 mm wide x 2,600 mm high, a car interior 1,750 mm wide x 1,800 mm deep x 2,850 mm high, and a load capacity of 1,400 kg. The on-site manager completes entry procedures at the Service Center on the 1F of Sumitomo Shibakoen Building before starting work, and reports completion and completes exit procedures after the work. The building entrance is open 7:00-20:00. (Source: Advance Load-in Notice, Meeting Room Equipment List updated September 11, 2026, Terms of Use 2026ver2 Article 16)",
+  "vehicleRules": "The loading area is used only for loading and unloading; if parking is needed, use an outside parking lot. When multiple vehicles are used, they share one vehicle's loading space in staggered turns. Illegal parking, parking outside the designated parking lot, and roadside parking around the building are strictly prohibited. Products, packing materials, decorative materials, trash and the like may not be left in the loading area during the usage period, and each load-in/out door must be kept closed at all times. If load-in/out vehicle traffic is expected to be congested, traffic staff are placed at the entrance and elsewhere. The vehicle limits in the equipment list are under 3,200 mm in height x 6,600 mm or less in length, and a weight of 2.0t. (Source: Advance Load-in Notice, Terms of Use 2026ver2 Articles 15 and 16, Meeting Room Equipment List updated September 11, 2026)",
+  "parking": "In the parking column of the equipment list, Bellesalle-exclusive parking, hourly parking and drop-off area are all \"none\". To find nearby hourly parking lots, search for \"Bellesalle Shibakoen\" on \"s-park\" (Tokyo Metropolitan Road Improvement and Conservation Corporation, a public interest foundation), which is linked from the official facility page. (Source: Official facility page, Meeting Room Equipment List updated September 11, 2026)",
+  "waitingRooms": "There are 3 waiting rooms: 6F Waiting Room 1 (8㎡), 6F Waiting Room 2 (11㎡) and 5F Waiting Room A (6㎡). All have a ceiling height of 2.6 m and are paid (regular rate for 4 hours, tax included: Waiting Room 1 11,000 yen, Waiting Room 2 15,400 yen, Waiting Room A 11,000 yen). The 5F kitchenette is inside the waiting room. (Source: Meeting Room Price List updated July 3, 2026, Meeting Room Equipment List updated September 11, 2026)",
+  "catering": "Outside food/drink brought in is allowed. However, if a caterer other than the operator's designated vendors is used, an \"outside food/drink fee\" applies (party use only; bringing in drinks only or boxed meals is not covered). The amount depends on venue area: up to 300㎡ 100,000 yen, up to 600㎡ 200,000 yen, up to 900㎡ 300,000 yen, up to 1,200㎡ 400,000 yen, 1,201㎡ and above 500,000 yen (110,000 to 550,000 yen each, tax included). Party menus for receptions are introduced on the website of Izumi Restaurant, a Sumitomo Fudosan Group company. (Source: Outside Food/Drink Fee Guide PDF, FAQ, Terms of Use 2026ver2 Article 4)"
+ },
+ "documents": [
+  {
+   "title": "Meeting Room Price List and Capacity (updated July 3, 2026)"
+  },
+  {
+   "title": "Price Calendar (transaction terms valid until end of January 2027)"
+  },
+  {
+   "title": "Advance Load-in Notice"
+  },
+  {
+   "title": "Terms of Use (2026ver2)"
+  },
+  {
+   "title": "Outside Food/Drink Fee Guide"
+  },
+  {
+   "title": "Declaration and Pledge of Non-Affiliation with Antisocial Forces"
+  },
+  {
+   "title": "Meeting Room Equipment List (updated September 11, 2026)"
+  },
+  {
+   "title": "Access Map"
+  },
+  {
+   "title": "5F Floor Plan (updated July 3, 2026)"
+  },
+  {
+   "title": "6F Floor Plan (updated July 3, 2026)"
+  },
+  {
+   "title": "5F Ceiling Plan (updated September 1, 2025)"
+  },
+  {
+   "title": "6F Ceiling Plan (updated September 1, 2025)"
+  },
+  {
+   "title": "5F Flooring Plan (updated July 3, 2026)"
+  },
+  {
+   "title": "6F Flooring Plan (updated July 3, 2026)"
+  },
+  {
+   "title": "5F Evacuation Route and Fire Equipment Plan (updated January 8, 2026)"
+  },
+  {
+   "title": "6F Evacuation Route and Fire Equipment Plan (updated January 8, 2026)"
+  },
+  {
+   "title": "Document Downloads (official list)"
+  },
+  {
+   "title": "FAQ"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "FamilyMart Shibakoen",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the store's official location."
+   },
+   {
+    "name": "Lawson Shibakoen Minami",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "FamilyMart Shiba 2-chome",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the store's official location."
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "Accea Hamamatsucho",
+    "hours": "Weekdays 8:00-22:00 / Sat, Sun & holidays 10:00-19:00",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Accea Tamachi",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Seria Tamachi Center Building",
+    "hours": "Daily 10:00-21:00",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Can Do Azabu-Juban",
+    "hours": "Daily 10:00-21:00",
+    "note": "Distance is calculated from the address location. Rather far."
+   }
+  ],
+  "donki": [
+   {
+    "name": "Don Quijote Roppongi",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. Far. The store name on the Don Quijote official website is \"Roppongi\"."
+   },
+   {
+    "name": "Don Quijote Ginza Main Building (Ginza Nine Building No. 3)",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. Far. The store name on the Don Quijote official website is \"Ginza Main Building\"."
+   }
+  ]
+ },
+ "photoCredit": "© Hamihoko / CC BY-SA 3.0 · Wikimedia Commons"
+}

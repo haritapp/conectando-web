@@ -1,0 +1,67 @@
+{
+ "slug": "bellesalle-ariake-conference",
+ "name": "Bellesalle Ariake Conference Center",
+ "address": "Tokyo 135-0063 Ariake Garden Mall & Spa 4F and 5F, 2-1-7 Ariake, Koto-ku",
+ "accessSummary": "Ariake-Tennis-no-Mori Station (Yurikamome): 4 min walk (about 320 m) / Ariake Station (Yurikamome): 6 min walk (about 430 m) / Kokusai-tenjijo Station (Rinkai Line): 8 min walk (about 610 m)",
+ "hours": "Basic usage hours are 8:00-22:00 (price list updated April 1, 2026). The usage manual sets the standard usage times as 4, 9 and 12 hours within 8:00-21:00, so the two official documents state this differently. Generally open all year (temporary closures for equipment inspection and the like), and applications for use are accepted except for the year-end and New Year period (December 28 to January 4) (Usage Manual created April 1, 2026).",
+ "notice": null,
+ "rooms": [
+  {"name": "Room 1", "note": "Classroom is 2 per desk. Classroom, 3 per desk: 54 seats. Island / T-shaped island layout: 24 seats (4 islands). Round tables (8 per table): 24 seats (3 tables)."},
+  {"name": "Room 2", "note": "Classroom is 2 per desk. Classroom, 3 per desk: 72 seats. Island / T-shaped island layout: 30 seats (5 islands). Round tables (8 per table): 40 seats (5 tables)."},
+  {"name": "Room 1+2", "note": "Classroom is 2 per desk. Classroom, 3 per desk: 126 seats. Island / T-shaped island layout: 66 seats (11 islands). Round tables (8 per table): 72 seats (9 tables). Combined use of Room 1 and Room 2."},
+  {"name": "Room 3", "note": "Classroom is 2 per desk. Classroom, 3 per desk: 51 seats. Island / T-shaped island layout: 24 seats (4 islands). Round tables (8 per table): 32 seats (4 tables)."},
+  {"name": "Room 4", "note": "Classroom is 2 per desk. Classroom, 3 per desk: 51 seats. Island / T-shaped island layout: 24 seats (4 islands). Round tables (8 per table): 32 seats (4 tables)."},
+  {"name": "Room 5", "note": "Classroom is 2 per desk. Classroom, 3 per desk: 72 seats. Island / T-shaped island layout: 30 seats (5 islands). Round tables (8 per table): 40 seats (5 tables)."},
+  {"name": "Room 6", "note": "Classroom is 2 per desk. Classroom, 3 per desk: 84 seats. Island / T-shaped island layout: 36 seats (6 islands). Round tables (8 per table): 40 seats (5 tables)."},
+  {"name": "Room 7", "note": "Classroom is 2 per desk. Classroom, 3 per desk: 72 seats. Island / T-shaped island layout: 30 seats (5 islands). Round tables (8 per table): 40 seats (5 tables)."},
+  {"name": "Room 5+6", "note": "Classroom is 2 per desk. Classroom, 3 per desk: 156 seats. Island / T-shaped island layout: 66 seats (11 islands). Round tables (8 per table): 80 seats (10 tables). Combined use of Room 5 and Room 6."},
+  {"name": "Room 6+7", "note": "Classroom is 2 per desk. Classroom, 3 per desk: 156 seats. Island / T-shaped island layout: 66 seats (11 islands). Round tables (8 per table): 80 seats (10 tables). Combined use of Room 6 and Room 7."},
+  {"name": "Room 5+6+7", "note": "Classroom is 2 per desk. Classroom, 3 per desk: 228 seats. Island / T-shaped island layout: 90 seats (15 islands). Round tables (8 per table): 120 seats (15 tables). Combined use of Rooms 5, 6 and 7. The largest conference room with the movable partitions open (official facility page)."},
+  {"name": "Room 8", "note": "Classroom is 2 per desk. Classroom, 3 per desk: 63 seats. Island / T-shaped island layout: 30 seats (5 islands). Round tables (8 per table): 40 seats (5 tables)."},
+  {"name": "Room 9", "note": "Classroom is 2 per desk. Classroom, 3 per desk: 69 seats. Island / T-shaped island layout: 48 seats (8 islands). Round tables (8 per table): 48 seats (6 tables). The number of round tables is stated differently: 6 tables in the price list and 8 tables in the table on the hotel's official banquet page (48 seats, which would be 6 tables at 8 per table)."},
+  {"name": "Meeting Room", "note": "2 seats. 11,000 yen for 4 hours, 22,000 yen for 9 hours, 27,500 yen for 12 hours (tax included, price list). The Bellesalle official facility page says \"9 rooms in total\", while the hotel's official banquet page says \"10 rooms in total\" including this room."},
+  {"name": "Ariake Garden Lounge (5F)", "note": "5th floor. 300 seats (150 tables) for banquet use. Fees are 154,000 yen for 2 hours and 286,000 yen for 4 hours (tax included, banquet use). Can be used for reception parties and get-togethers (official facility page)."}
+ ],
+ "ops": {
+  "prevDaySetup": "Usage time includes setup and cleanup time. Basic usage hours are 8:00-22:00; other hours incur an early-morning/night-time surcharge, which for conference rooms (excluding the Meeting Room) is 15,400 to 49,500 yen per 30 minutes including tax (15,400 yen for Rooms 3, 4 and 1; 49,500 yen for Room 5+6+7). You can enter from 15 minutes before the reserved time; earlier entry is charged as a 30-minute extension. For advance arrival of packages, the facility specifies the arrival date and time, an advance load-in notice is submitted, and then you ask the courier (large or numerous packages that were not notified in advance are treated as renting the venue as a storage space, for a fee; the venue is not responsible for damage or shortage). The layout deadline is 10 days before the day of use (excluding Saturdays, Sundays and holidays). (Source: Room price list updated April 1, 2026; Usage Manual created April 1, 2026, Article 18; Fee schedules updated April 1, 2026)",
+  "loadingHours": "When there is load-in or load-out, the \"Advance Load-in Notice\" or the \"Load-in/Load-out Schedule\" must be submitted at least 1 week before the first day of use. Delivery vehicles for load-in and load-out must enter and leave from the designated place within the usage time, and the facility may adjust load-in times and the like. If vehicle traffic is expected to be congested, traffic staff are placed at the entrance, and during load-in and load-out the \"Sumitomo Fudosan protection (yojo) standards\" must be followed. Products, packing materials, decoration materials, trash and the like may not be left in the loading area during the usage period, and the doors used for load-in and load-out must be kept closed at all times. A copy of any notification filed with government offices must be submitted at least 1 week before the first day of use. (Source: Usage Manual (also serving as Terms of Use) created April 1, 2026, Articles 11, 15 and 16)",
+  "vehicleRules": "Parking a car, motorcycle or bicycle on the street around the building can lead to suspension of use. Delivery vehicles for load-in and load-out must enter and leave from the designated place within the usage time, and if traffic is expected to be congested, traffic staff are placed at the entrance. Products, packing materials, decoration materials, trash and the like may not be left in the loading area during the usage period. (Source: Usage Manual (also serving as Terms of Use) created April 1, 2026, Articles 9, 15 and 16)",
+  "parking": "The official facility page posts a link to \"s-park\" of the Tokyo Metropolitan Road Improvement and Conservation Corporation (a public interest incorporated foundation) as a search for nearby parking lots (around Ariake Garden City). (Source: Official facility page)",
+  "catering": "Eating and drinking is allowed inside the conference rooms. For boxed meals and catering, the facility's designated vendors are used in principle. Outside food can be brought in only when the facility approves, with a bring-in fee of 55,000 yen and up per occasion for catering such as for get-together parties, and 220 yen per boxed meal (tax included). Trash must be taken away (collection is available for a fee; cardboard boxes from 2,200 yen per box of size 120). Empty containers are not collected. The hotel's party menu has buffets (from 30 people) at 4,400 yen, 5,500 yen or 6,600 yen per person including tax, and free-flow drinks (120 minutes) at 2,200 yen, 2,750 yen or 3,300 yen per person including tax (venue fee is separate). (Source: Fee schedules updated April 1, 2026; Usage Manual created April 1, 2026, Article 17; Conference Room Application Form; Party Menu)",
+  "restaurants": "The hotel's official banquet page says meals can be provided from \"All Day Dining Grand Aile\", the buffet restaurant run directly by the attached hotel \"Villa Fontaine Grand Tokyo-Ariake\". The official facility page says the Ariake Garden Lounge on 5F (471㎡) can be used for banquets, and that reception parties and get-togethers can be held there with standing or seated buffets and the like. The venue is inside a complex that includes a shopping mall of about 200 stores (official facility page)."
+ },
+ "documents": [
+  {"title": "Conference Room Price List (updated April 1, 2026)"},
+  {"title": "Fee Schedules (layout changes, outside food fees, trash disposal, etc.; updated April 1, 2026)"},
+  {"title": "Rental Equipment List and Application Form (updated April 1, 2026)"},
+  {"title": "Conference Room Application Form (with confirmation of main precautions)"},
+  {"title": "Usage Manual (also serving as Terms of Use) (created April 1, 2026)"},
+  {"title": "4F Floor Diagram"},
+  {"title": "4F Floor Plan (Bellesalle official)"},
+  {"title": "5F Floor Plan (Bellesalle official)"},
+  {"title": "4F Layout Example (4F_ROOM_2.pdf)"},
+  {"title": "4F Layout Example (4F_ROOM_3.pdf)"},
+  {"title": "4F Layout Example (4F_ROOM_T.pdf)"},
+  {"title": "4F Layout Example (4F_ROOM_shima.pdf)"},
+  {"title": "Party Menu (Buffet and Drinks)"},
+  {"title": "Conference Rooms and Banquets (hotel's official banquet page)"}
+ ],
+ "nearby": {
+  "convenience": [
+   {"name": "Lawson Ariake Colosseum-mae", "hours": "Open 24 hours", "note": "Distance is calculated from the address location."},
+   {"name": "Lawson Kokusai-tenjijo Ekimae", "hours": "Open 24 hours", "note": "Distance is calculated from the address location."},
+   {"name": "7-Eleven DR Kokusai-tenjijo Ekimae", "hours": "Open 24 hours", "note": "Distance is calculated from the address location."}
+  ],
+  "copyshop": [
+   {"name": "Accea Tokyo Big Sight-mae", "hours": "Weekdays 8:00-22:00, Sat, Sun & holidays 10:00-19:00", "note": "Distance is calculated from the address location. The official equipment column shows \"open 24 hours on weekdays\" (self-service equipment)."}
+  ],
+  "hundredYen": [
+   {"name": "DAISO Ariake Garden", "hours": "10:00-21:00", "note": "Distance is calculated from the address location. There is also \"THREEPPY Ariake Garden\" (10:00-21:00) on the 2nd floor of the same building."},
+   {"name": "Seria minamoni Ariake", "hours": "Daily 10:00-21:00", "note": "Distance is calculated from the address location."}
+  ],
+  "donki": [
+   {"name": "Kirakira Donki Diversity Tokyo Plaza", "hours": "10:00-21:00", "note": "Distance is calculated from the address location. This is not Don Quijote itself but a separate Don Quijote-group format centered on cosmetics and sundries. It is a 26-minute walk, so far. According to the official business hours notice, the hours are weekdays 11:00-20:00 / Sat, Sun & holidays 10:00-21:00."}
+  ]
+ },
+ "photoCredit": "© Mizushimasea / CC BY-SA 4.0 · Wikimedia Commons"
+}

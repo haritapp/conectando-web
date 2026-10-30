@@ -1,0 +1,413 @@
+{
+ "slug": "bellesalle-jimbocho",
+ "nameJa": "ベルサール神保町",
+ "nameEn": "",
+ "type": "conference",
+ "area": "kanda-suidobashi-venues",
+ "address": "〒101-0065 東京都千代田区西神田3-2-1 住友不動産千代田ファーストビル南館2・3F",
+ "officialUrl": "https://www.bellesalle.co.jp/shisetsu/iidabashi/bs_jimbocho/",
+ "organizerUrl": "https://www.bellesalle.co.jp/download/bs_jimbocho/",
+ "bizintokyoSlug": "bellesalle-jimbocho",
+ "accessSummary": "九段下駅（半蔵門線・東西線・新宿線）5番出口 徒歩3分／神保町駅（半蔵門線・新宿線・三田線）A2出口 徒歩4分／水道橋駅（JR線）西口 徒歩7分",
+ "notice": null,
+ "hours": "ビルエントランス開放時間 平日7:30〜22:00（土日祝は応相談）（2F・3F会議室 設備表 2026/9/11更新）",
+ "rooms": [
+  {
+   "name": "2F Room A",
+   "areaM2": 83,
+   "ceilingM": 3.5,
+   "theater": 64,
+   "school": 28,
+   "ushape": 36,
+   "standing": 50,
+   "banquet": null,
+   "note": "スクールは2名掛け。スクール3名掛け 42席。島型 36席（6島）。T字島型 24席（4島）。シアターは料金表で「ご相談ください」"
+  },
+  {
+   "name": "2F Room B",
+   "areaM2": 78,
+   "ceilingM": 3.5,
+   "theater": 56,
+   "school": 24,
+   "ushape": 36,
+   "standing": 50,
+   "banquet": null,
+   "note": "スクールは2名掛け。スクール3名掛け 36席。島型 36席（6島）。T字島型 24席（4島）。シアターは料金表で「ご相談ください」"
+  },
+  {
+   "name": "2F Room C",
+   "areaM2": 84,
+   "ceilingM": 3.5,
+   "theater": 56,
+   "school": 24,
+   "ushape": 30,
+   "standing": 50,
+   "banquet": null,
+   "note": "スクールは2名掛け。スクール3名掛け 36席。島型 36席（6島）。T字島型 24席（4島）。シアターは料金表で「ご相談ください」"
+  },
+  {
+   "name": "2F Room D",
+   "areaM2": 53,
+   "ceilingM": 3.5,
+   "theater": 40,
+   "school": 18,
+   "ushape": 24,
+   "standing": 30,
+   "banquet": null,
+   "note": "スクールは2名掛け。スクール3名掛け 27席。島型 24席（4島）。T字島型 12席（2島）。シアターは料金表で「ご相談ください」"
+  },
+  {
+   "name": "2F Room A+B",
+   "areaM2": 161,
+   "ceilingM": 3.5,
+   "theater": 140,
+   "school": 72,
+   "ushape": 54,
+   "standing": 100,
+   "banquet": null,
+   "note": "スクールは2名掛け。スクール3名掛け 108席。島型 72席（12島）。T字島型 54席（9島）。スクール3名掛け・シアターは料金表で「ご相談ください」"
+  },
+  {
+   "name": "2F Room B+C",
+   "areaM2": 162,
+   "ceilingM": 3.5,
+   "theater": 140,
+   "school": 72,
+   "ushape": 54,
+   "standing": 100,
+   "banquet": null,
+   "note": "スクールは2名掛け。スクール3名掛け 108席。島型 72席（12島）。T字島型 54席（9島）。スクール3名掛け・シアターは料金表で「ご相談ください」"
+  },
+  {
+   "name": "2F Room A+B+C",
+   "areaM2": 245,
+   "ceilingM": 3.5,
+   "theater": 224,
+   "school": 120,
+   "ushape": 78,
+   "standing": 150,
+   "banquet": null,
+   "note": "スクールは2名掛け。スクール3名掛け 180席。島型 108席（18島）。T字島型 90席（15島）。スクール3名掛け・シアターは料金表で「ご相談ください」"
+  },
+  {
+   "name": "3F Room 1",
+   "areaM2": 148,
+   "ceilingM": 3.5,
+   "theater": 120,
+   "school": 72,
+   "ushape": 54,
+   "standing": 90,
+   "banquet": null,
+   "note": "スクールは2名掛け。スクール3名掛け 108席。島型 72席（12島）。T字島型 54席（9島）。スクール3名掛け・シアターは料金表で「ご相談ください」"
+  },
+  {
+   "name": "3F Room 2",
+   "areaM2": 78,
+   "ceilingM": 3.5,
+   "theater": 48,
+   "school": 24,
+   "ushape": 30,
+   "standing": 50,
+   "banquet": null,
+   "note": "スクールは2名掛け。スクール3名掛け 36席。島型 36席（6島）。T字島型 24席（4島）。シアターは料金表で「ご相談ください」"
+  },
+  {
+   "name": "3F Room 3",
+   "areaM2": 80,
+   "ceilingM": 3.5,
+   "theater": 64,
+   "school": 28,
+   "ushape": 36,
+   "standing": 50,
+   "banquet": null,
+   "note": "スクールは2名掛け。スクール3名掛け 42席。島型 36席（6島）。T字島型 24席（4島）。スクール3名掛け・シアターは料金表で「ご相談ください」"
+  },
+  {
+   "name": "3F Room 5",
+   "areaM2": 120,
+   "ceilingM": 3.5,
+   "theater": 98,
+   "school": 48,
+   "ushape": 48,
+   "standing": 70,
+   "banquet": null,
+   "note": "スクールは2名掛け。スクール3名掛け 72席。島型 54席（9島）。T字島型 36席（6島）。スクール3名掛け・シアターは料金表で「ご相談ください」"
+  },
+  {
+   "name": "3F Room 1+2",
+   "areaM2": 226,
+   "ceilingM": 3.5,
+   "theater": 192,
+   "school": 120,
+   "ushape": 72,
+   "standing": 130,
+   "banquet": null,
+   "note": "スクールは2名掛け。スクール3名掛け 180席。島型 108席（18島）。T字島型 90席（15島）。スクール3名掛け・シアターは料金表で「ご相談ください」"
+  },
+  {
+   "name": "3F Room 3+4",
+   "areaM2": 162,
+   "ceilingM": 3.5,
+   "theater": 140,
+   "school": 64,
+   "ushape": 54,
+   "standing": 100,
+   "banquet": null,
+   "note": "スクールは2名掛け。スクール3名掛け 96席。島型 90席（15島）。T字島型 60席（10島）。スクール3名掛け・シアター・島型は料金表で「ご相談ください」。Room 4 単独の料金は料金表に載っていない"
+  },
+  {
+   "name": "3F Room 4+5",
+   "areaM2": 202,
+   "ceilingM": 3.5,
+   "theater": 196,
+   "school": 96,
+   "ushape": 66,
+   "standing": 120,
+   "banquet": null,
+   "note": "スクールは2名掛け。スクール3名掛け 144席。島型 108席（18島）。T字島型 72席（12島）。スクール3名掛け・シアター・島型は料金表で「ご相談ください」"
+  },
+  {
+   "name": "3F Room 3+4+5",
+   "areaM2": 282,
+   "ceilingM": 3.5,
+   "theater": 266,
+   "school": 136,
+   "ushape": 84,
+   "standing": 170,
+   "banquet": null,
+   "note": "スクールは2名掛け。スクール3名掛け 204席。島型 126席（21島）。T字島型 108席（18島）。スクール3名掛け・シアターは料金表で「ご相談ください」"
+  },
+  {
+   "name": "2F 控室",
+   "areaM2": 17,
+   "ceilingM": 3.5,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "島型 8席（1島）。4時間20,900円・8時間31,900円・12時間35,200円（税込、通常料金）。備品はテーブル4・イス8・ハンガーラック・姿見・冷蔵庫（小）"
+  }
+ ],
+ "roomsSource": "https://www.bellesalle.co.jp/wp-content/uploads/jimbocho_price.pdf",
+ "ops": {
+  "prevDaySetup": {
+   "text": "使用時間には準備・後片付けの時間も含まれる。営業時間外の使用は別途相談（料金表）。会議室の料金は4時間・8時間・12時間で、使用日当日の前延長・後延長は30分ごとに別料金（例：Room A は7〜22時 15,400円、22時〜翌7時 17,600円〈税込〉。金額は部屋ごとに異なる）。荷物の事前受け取りは開催日の前日着が原則で、事前搬入届が必要（搬入物は使用前日のみの受付）。（出典：利用料金一覧表 2026/7/3更新、公式 資料ダウンロードページ、よくあるご質問）",
+   "source": "https://www.bellesalle.co.jp/wp-content/uploads/jimbocho_price.pdf"
+  },
+  "loadingHours": {
+   "text": "搬出入がある場合は事前搬入届を作業日の1週間前までに提出する（未提出だと荷捌き場は使えない）。搬入・搬出車の出入りは使用時間内に所定の場所から行い、搬入時間などは会場側が調整することがある。積み下ろしの作業は原則20分以内。搬入場所は1F荷捌で、通用口は幅1,200×高2,000mm、正面自動ドアは幅1,700×高2,500mm、EVは入口扉 幅1,100×高2,500mm・かご内 幅2,000×高2,800×奥行1,500mm・積載荷重2,000kg。荷捌き場の許容寸法は全高3,000×全長5,700×巾3,400mm。現場責任者は作業前に住友不動産千代田ファーストビル南館1Fサービスセンターで入館手続きをする。ビルエントランスの開放時間は平日7:30〜22:00（土日祝は応相談）。事前到着荷物の受取は原則各ルーム2箱まで。（出典：事前搬入届、2F・3F会議室 設備表 2026/9/11更新、使用規約 2026ver2 第16条）",
+   "source": "https://www.bellesalle.co.jp/wp-content/uploads/jimbocho_jizen.pdf"
+  },
+  "vehicleRules": {
+   "text": "荷捌き所は荷物の積み下ろしのみに使い、駐車が必要なときは外の駐車場を使う。車両を複数台使うときは1台分の荷捌場を時間差で使う。違法駐車、指定駐車場以外、ビル廻りの路上駐車は厳禁。使用期間中の荷捌き場には商品・梱包材・装飾資材・ゴミなどを置けない。搬入出車両が混雑しそうなときは出入口などに整理員を置く。設備表の車両制限は、高さ3,000×長さ5,700mm（1台）、高さ3,200×長さ6,000mm（2台）、重量2.0t。（出典：事前搬入届、使用規約 2026ver2 第15条・第16条、2F・3F会議室 設備表 2026/9/11更新）",
+   "source": "https://www.bellesalle.co.jp/wp-content/uploads/jimbocho_jizen.pdf"
+  },
+  "parking": {
+   "text": "設備表の駐車場欄は、ベルサール専用・時間貸し・車寄せのいずれも「無」。近隣の時間貸し駐車場は、公式施設ページのリンク先「s-park」（公財 東京都道路整備保全公社）で「ベルサール神保町」を検索して探す。（出典：公式施設ページ、2F・3F会議室 設備表 2026/9/11更新）",
+   "source": "https://www.bellesalle.co.jp/shisetsu/iidabashi/bs_jimbocho/"
+  },
+  "waitingRooms": {
+   "text": "控室は2Fに1室（17㎡）で、有料（4時間20,900円・8時間31,900円・12時間35,200円〈税込、通常料金〉）。備品はテーブル4・イス8・ハンガーラック・姿見・冷蔵庫（小）。（出典：利用料金一覧表 2026/7/3更新、2F・3F会議室 設備表 2026/9/11更新）",
+   "source": "https://www.bellesalle.co.jp/wp-content/uploads/jimbocho_roombihin.pdf"
+  },
+  "catering": {
+   "text": "飲食物の持込は可能。ただし飲食の手配に当社指定業者以外を使う場合は「飲食持込手数料」がかかる（パーティー利用時のみ。飲料のみ・弁当の持込は対象外）。金額は会場面積別で、〜300㎡ 100,000円、〜600㎡ 200,000円、〜900㎡ 300,000円、〜1,200㎡ 400,000円、1,201㎡〜 500,000円（税込 各110,000〜550,000円）。この会場の貸室は最大282㎡（3F Room 3+4+5）。懇親会向けのパーティーメニューは住友不動産グループ泉レストランのサイトで案内されている。（出典：持込料のご案内PDF、よくあるご質問）",
+   "source": "https://www.bellesalle.co.jp/wp-content/uploads/mochikomi_price.pdf"
+  }
+ },
+ "documents": [
+  {
+   "title": "利用料金一覧表（2026/7/3更新）",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/jimbocho_price.pdf"
+  },
+  {
+   "title": "料金カレンダー",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/eventhall_calender1.pdf"
+  },
+  {
+   "title": "事前搬入届",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/jimbocho_jizen.pdf"
+  },
+  {
+   "title": "使用規約（2026ver2）",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/kiyaku.pdf"
+  },
+  {
+   "title": "持込料のご案内",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/mochikomi_price.pdf"
+  },
+  {
+   "title": "反社会的勢力でないことの表明・確約書",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/bellesalle_bouhai.pdf"
+  },
+  {
+   "title": "2F・3F会議室 設備・備品一覧（2026/9/11更新）",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/jimbocho_roombihin.pdf"
+  },
+  {
+   "title": "アクセスMAP",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/access_jimbocho.pdf"
+  },
+  {
+   "title": "2F 平面図",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/jimbocho_plane_2f.pdf"
+  },
+  {
+   "title": "2F 天井図",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/jimbocho_ceiling_2f.pdf"
+  },
+  {
+   "title": "2F 床図",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/jimbocho_floor_2f.pdf"
+  },
+  {
+   "title": "2F 避難経路図",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/jimbocho_escape_2f.pdf"
+  },
+  {
+   "title": "3F 平面図",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/jimbocho_plane_3f.pdf"
+  },
+  {
+   "title": "3F 天井図",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/jimbocho_ceiling_3f.pdf"
+  },
+  {
+   "title": "3F 床図",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/jimbocho_floor_3f.pdf"
+  },
+  {
+   "title": "3F 避難経路図",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/jimbocho_escape_3f.pdf"
+  },
+  {
+   "title": "資料ダウンロード（公式一覧）",
+   "url": "https://www.bellesalle.co.jp/download/bs_jimbocho/"
+  },
+  {
+   "title": "よくあるご質問",
+   "url": "https://www.bellesalle.co.jp/faq/"
+  }
+ ],
+ "checkedAt": "2026-10-30",
+ "lat": 35.697464,
+ "lng": 139.753296,
+ "nearby": {
+  "convenience": [
+   {
+    "name": "セブン-イレブン 神田専大通り店",
+    "brand": "セブン-イレブン",
+    "distanceM": 139,
+    "walkMin": 2,
+    "hours": "24時間営業",
+    "address": "東京都千代田区神田神保町2-38-1",
+    "verified": true,
+    "source": "https://seven-eleven.areamarker.com/711map/info/282702",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "ローソン 九段北一丁目店",
+    "brand": "ローソン",
+    "distanceM": 147,
+    "walkMin": 2,
+    "hours": "24時間営業",
+    "address": "東京都千代田区九段北1-5-10",
+    "verified": true,
+    "source": "https://www.areamarker.com/lawson/info/164724",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "セブン-イレブン 神田神保町3丁目店",
+    "brand": "セブン-イレブン",
+    "distanceM": 186,
+    "walkMin": 3,
+    "hours": "24時間営業",
+    "address": "東京都千代田区神田神保町3-2-6",
+    "verified": true,
+    "source": "https://seven-eleven.areamarker.com/711map/info/321365",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "キンコーズ・神保町店",
+    "brand": "キンコーズ",
+    "distanceM": 124,
+    "walkMin": 2,
+    "hours": "平日 8:00-20:00／土 休業／日・祝日 休業（受付は閉店30分前まで）",
+    "address": "東京都千代田区神田神保町3丁目10-4 NABOCUL TOWER 1F",
+    "verified": true,
+    "source": "https://www.kinkos.co.jp/store/tokyo/t038/",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "アクセア 九段下店",
+    "brand": "アクセア",
+    "distanceM": 219,
+    "walkMin": 3,
+    "hours": "平日9:00〜20:00／土日祝休み",
+    "address": "東京都千代田区九段北1-3-2 1F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/entry.html",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Can★Do 神保町店",
+    "brand": "キャンドゥ",
+    "distanceM": 369,
+    "walkMin": 5,
+    "hours": "毎日 10:00-21:00",
+    "address": "東京都千代田区神田神保町2-14",
+    "verified": true,
+    "source": "https://shopinfo.cando-web.co.jp/detail/shop-5053/",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "DAISO 神田神保町すずらん通り店",
+    "brand": "ダイソー",
+    "distanceM": 692,
+    "walkMin": 9,
+    "hours": "10:00-21:00",
+    "address": "東京都千代田区神田神保町1-1-17東京堂神保町第3ビルディング 1階",
+    "verified": true,
+    "source": "https://www.daiso-sangyo.co.jp/shop/detail/008732",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "donki": [
+   {
+    "name": "ドン・キホーテ 後楽園店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 956,
+    "walkMin": 12,
+    "hours": "24時間営業",
+    "address": "東京都文京区本郷1-33-9",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=343",
+    "note": "距離は住所の位置で計算。ドン・キホーテ公式サイトの店舗名は「後楽園店」"
+   },
+   {
+    "name": "ドン・キホーテ 秋葉原店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 1699,
+    "walkMin": 22,
+    "hours": "24時間営業",
+    "address": "東京都千代田区外神田4丁目3-3",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=98",
+    "note": "距離は住所の位置で計算。遠め。ドン・キホーテ公式サイトの店舗名は「秋葉原店」"
+   }
+  ]
+ },
+ "drinkDelivery": {
+  "available": true
+ },
+ "photo": {
+  "src": "/images/venues/bellesalle-jimbocho.jpg",
+  "credit": "© Saoyagi2 / CC0 · Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chiyoda_first_building_south.jpg"
+ }
+}

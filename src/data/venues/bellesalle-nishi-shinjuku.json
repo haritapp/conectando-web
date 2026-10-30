@@ -1,0 +1,360 @@
+{
+ "slug": "bellesalle-nishi-shinjuku",
+ "nameJa": "ベルサール西新宿",
+ "nameEn": "",
+ "type": "conference",
+ "area": "shinjuku-venues",
+ "address": "〒160-0023 東京都新宿区西新宿4-15-3 住友不動産西新宿ビル3号館1・2・8F",
+ "officialUrl": "https://www.bellesalle.co.jp/shisetsu/shinjuku/bs_nishishinjuku/",
+ "organizerUrl": "https://www.bellesalle.co.jp/download/bs_nishishinjuku/",
+ "bizintokyoSlug": "bellesalle-nishi-shinjuku",
+ "accessSummary": "都庁前駅（大江戸線）A5出口 徒歩4分／西新宿五丁目駅（大江戸線）A1出口 徒歩6分／西新宿駅（丸ノ内線）2番出口 徒歩11分／新宿駅（新宿線・大江戸線）7番出口 徒歩13分／新宿駅（JR線・小田急線・京王線）西口 徒歩15分",
+ "notice": null,
+ "hours": "ビルエントランス開放時間 7:30〜22:00（イベントホール設備表・会議室設備表）",
+ "rooms": [
+  {
+   "name": "1F HALL",
+   "areaM2": 303,
+   "ceilingM": 5.0,
+   "theater": 255,
+   "school": 180,
+   "ushape": null,
+   "standing": 250,
+   "banquet": null,
+   "note": "スクールは2名掛け。スクール3名掛け 225席。島型 144席（24島）。電動昇降式ステージ（9分割・20cm単位で調整）と250インチ相当の投影（公式施設ページ・設備表）。床耐荷重は1,000kg/㎡（可動床使用時500kg）。予約受付は2年前から"
+  },
+  {
+   "name": "2F Room 1",
+   "areaM2": 221,
+   "ceilingM": 2.6,
+   "theater": 204,
+   "school": 120,
+   "ushape": 56,
+   "standing": 120,
+   "banquet": null,
+   "note": "スクールは2名掛け。島型 84席（21島）、T字島型 90席（15島）。予約受付は6ヶ月前から"
+  },
+  {
+   "name": "2F Room 2",
+   "areaM2": 159,
+   "ceilingM": 2.6,
+   "theater": 140,
+   "school": 80,
+   "ushape": 40,
+   "standing": 70,
+   "banquet": null,
+   "note": "スクールは2名掛け。島型 64席（16島）、T字島型 72席（12島）。予約受付は6ヶ月前から"
+  },
+  {
+   "name": "2F Room 3",
+   "areaM2": 47,
+   "ceilingM": 2.6,
+   "theater": 40,
+   "school": 18,
+   "ushape": 16,
+   "standing": 20,
+   "banquet": null,
+   "note": "スクールは2名掛け。島型 16席（4島）、T字島型 12席（2島）。予約受付は6ヶ月前から"
+  },
+  {
+   "name": "8F Room 4",
+   "areaM2": 274,
+   "ceilingM": 2.6,
+   "theater": 240,
+   "school": 132,
+   "ushape": 60,
+   "standing": 150,
+   "banquet": null,
+   "note": "スクールは2名掛け。スクール3名掛け 198席。島型 96席（16島）、T字島型 78席（13島）。天吊スクリーン（100インチ）と天吊プロジェクターあり。予約受付は6ヶ月前から"
+  },
+  {
+   "name": "2F Room 5",
+   "areaM2": 105,
+   "ceilingM": 2.6,
+   "theater": 96,
+   "school": 48,
+   "ushape": 32,
+   "standing": 50,
+   "banquet": null,
+   "note": "スクールは2名掛け。島型 48席（12島）、T字島型 36席（6島）。予約受付は6ヶ月前から"
+  },
+  {
+   "name": "8F Room 6",
+   "areaM2": 380,
+   "ceilingM": 2.6,
+   "theater": 378,
+   "school": 228,
+   "ushape": 84,
+   "standing": 200,
+   "banquet": null,
+   "note": "スクールは2名掛け。島型 144席（36島）、T字島型 126席（21島）。予約受付は6ヶ月前から"
+  },
+  {
+   "name": "1F ホール控室",
+   "areaM2": 25,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "使用料0円。テーブル（W2,400×D1,200）1・イス8。控室のみの利用はできない"
+  },
+  {
+   "name": "8F 控室",
+   "areaM2": 20,
+   "ceilingM": 2.6,
+   "theater": 4,
+   "school": 4,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "有料（4時間 税込18,700円、8時間 税込26,400円、12時間 税込33,000円、通常料金）。テーブル1・イス4・ハンガーラック1・姿見1・小型冷蔵庫1。控室のみの利用はできない"
+  }
+ ],
+ "roomsSource": "https://www.bellesalle.co.jp/wp-content/uploads/nishishinjuku_price.pdf",
+ "ops": {
+  "prevDaySetup": {
+   "text": "使用時間には準備・後片付けの時間も含まれる（料金表）。ホールの料金区分は8時間・12時間（24時間の欄は「-」）、会議室は4時間・8時間・12時間。夜間利用や24時間利用は前後の予約状況で使えない場合があるため事前に相談する。公式FAQは「一部会場を除き365日24時間利用できる」と案内している。荷物の事前到着は開催日の前日着の指定が原則で、事前搬入届を搬入日の1週間前までに出す（貴重品は不可、荷物の破損の責任は負わない）。事前到着荷物の受取は原則ホール5箱・各ルーム2箱まで。事前に申し出のない多量・大きな荷物は、保管場所として会場を有料で借り上げる扱いになる。（出典：ホール・会議室料金表 2026/7/3更新、事前搬入届、よくあるご質問、使用規約 2026ver2 第20条）",
+   "source": "https://www.bellesalle.co.jp/wp-content/uploads/nishishinjuku_price.pdf"
+  },
+  "loadingHours": {
+   "text": "搬出入がある場合は事前搬入届を作業日の1週間前までに提出する（未提出だと荷捌き場は使えない）。搬入・搬出車の出入りは使用時間内に所定の場所から行い、搬入時間などは会場側が調整することがある。積み下ろしの作業は原則20分以内（事前搬入届）。会議室の設備表には、2F・8FへはEVを使い積み下ろしは30分程度との記載がある。ホールの搬入は1F荷捌きから、搬入扉は幅2,450×高2,200mm。会議室（2F・8F）は1F荷捌きからEVで運び、入口扉 幅900×高2,100mm、かご内 幅1,500×高2,200×奥行1,600mm、積載荷重1,000kg。現場責任者は作業前に住友不動産西新宿ビル3号館1Fサービスセンターで入館手続きをする。ビルエントランスの開放時間は7:30〜22:00。（出典：事前搬入届、イベントホール・会議室の設備表、使用規約 2026ver2 第16条）",
+   "source": "https://www.bellesalle.co.jp/wp-content/uploads/nishishinjuku_jizen.pdf"
+  },
+  "vehicleRules": {
+   "text": "荷捌き所は荷物の積み下ろしのみに使い、駐車が必要なときは外の駐車場を使う。車両を複数台使うときは1台分の荷捌場を時間差で使う。違法駐車、指定駐車場以外、ビル廻りの路上駐車は厳禁。使用期間中の荷捌き場には商品・梱包材・装飾資材・ゴミなどを置けない。搬入出車両が混雑しそうなときは出入口などに整理員を置く。荷捌き場の許容寸法は、全高2,800×全長5,700×巾2,200mm（重量4t車 1台）と、全高2,800×全長5,700×巾3,700mm（重量4t車 1台）の2通りが事前搬入届に記載されている。設備表の車両制限は、ホールが高さ2,800×長さ5,700mm・重4.0t、会議室が高さ2,800×長さ5,000mm・重2.0t（会議室の荷捌きはイベントホールの使用状況による。要事前確認）。（出典：事前搬入届、イベントホール・会議室の設備表、使用規約 2026ver2 第15条・第16条）",
+   "source": "https://www.bellesalle.co.jp/wp-content/uploads/nishishinjuku_jizen.pdf"
+  },
+  "parking": {
+   "text": "設備表の駐車場欄は、ベルサール専用・時間貸し・車寄せのいずれも「無」。近隣の時間貸し駐車場は、公式施設ページのリンク先「s-park」（公財 東京都道路整備保全公社）で「ベルサール西新宿」を検索して探す。（出典：公式施設ページ、イベントホール設備表 2026/10/19更新・会議室設備表 2026/9/11更新）",
+   "source": "https://www.bellesalle.co.jp/shisetsu/shinjuku/bs_nishishinjuku/"
+  },
+  "waitingRooms": {
+   "text": "控室は2室で、1F ホール控室（25㎡、使用料0円、テーブル1・イス8）と8F 控室（20㎡、有料）。どちらも控室のみの利用はできない。（出典：公式施設ページ、イベントホール設備表、会議室設備表）",
+   "source": "https://www.bellesalle.co.jp/shisetsu/shinjuku/bs_nishishinjuku/"
+  },
+  "catering": {
+   "text": "飲食物の持込は可能。ただし飲食の手配に当社指定業者以外を使う場合は「飲食持込手数料」がかかる（パーティー利用時のみ。飲料のみ・弁当の持込は対象外）。金額は会場面積別で、〜300㎡ 100,000円、〜600㎡ 200,000円、〜900㎡ 300,000円、〜1,200㎡ 400,000円、1,201㎡〜 500,000円（税込 各110,000〜550,000円）。懇親会向けのパーティーメニューは住友不動産グループ泉レストランのサイトで案内されている。（出典：持込料のご案内PDF、よくあるご質問、使用規約 2026ver2 第4条）",
+   "source": "https://www.bellesalle.co.jp/wp-content/uploads/mochikomi_price.pdf"
+  },
+  "restaurants": {
+   "text": "ホールの特長に「パーティ・懇親会」が挙がっている。ホールの立食は250人（料金表）。（出典：公式ホールページ、ホール料金表 2026/7/3更新）",
+   "source": "https://www.bellesalle.co.jp/shisetsu/shinjuku/bs_nishishinjuku/detail/bs_nishishinjuku_hall/"
+  }
+ },
+ "documents": [
+  {
+   "title": "ホール・会議室 利用料金一覧表（2026/7/3更新）",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/nishishinjuku_price.pdf"
+  },
+  {
+   "title": "料金カレンダー（取引条件有効期限 2027年1月末日）",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/eventhall_calender1.pdf"
+  },
+  {
+   "title": "事前搬入届",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/nishishinjuku_jizen.pdf"
+  },
+  {
+   "title": "使用規約（2026ver2）",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/kiyaku.pdf"
+  },
+  {
+   "title": "持込料のご案内",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/mochikomi_price.pdf"
+  },
+  {
+   "title": "反社会的勢力でないことの表明・確約書",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/bellesalle_bouhai.pdf"
+  },
+  {
+   "title": "1Fイベントホール 設備・備品一覧（2026/10/19更新）",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/nishishinjuku_hall_b.pdf"
+  },
+  {
+   "title": "2F・8F会議室 設備・備品一覧（2026/9/11更新）",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/nishishinjuku_roombihin.pdf"
+  },
+  {
+   "title": "アクセスMAP",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/access_nishishinjuku.pdf"
+  },
+  {
+   "title": "1F 平面図",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/nishishinjuku_plane_1f.pdf"
+  },
+  {
+   "title": "2F 平面図",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/nishishinjuku_plane_2f.pdf"
+  },
+  {
+   "title": "8F 平面図",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/nishishinjuku_plane_8f.pdf"
+  },
+  {
+   "title": "1F 天井図",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/nishishinjuku_ceiling_1f.pdf"
+  },
+  {
+   "title": "8F 天井図",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/nishishinjuku_ceiling_8f.pdf"
+  },
+  {
+   "title": "1F 床図",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/nishishinjuku_floor_1f.pdf"
+  },
+  {
+   "title": "2F 床図",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/nishishinjuku_floor_2f.pdf"
+  },
+  {
+   "title": "8F 床図",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/nishishinjuku_floor_8f.pdf"
+  },
+  {
+   "title": "1F イベント電源図",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/nishishinjuku_electric_1f.pdf"
+  },
+  {
+   "title": "1F 避難経路図",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/nishishinjuku_escape_1f.pdf"
+  },
+  {
+   "title": "2F 避難経路図",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/nishishinjuku_escape_2f.pdf"
+  },
+  {
+   "title": "8F 避難経路図",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/nishishinjuku_escape_8f.pdf"
+  },
+  {
+   "title": "資料ダウンロード（公式一覧）",
+   "url": "https://www.bellesalle.co.jp/download/bs_nishishinjuku/"
+  },
+  {
+   "title": "よくあるご質問",
+   "url": "https://www.bellesalle.co.jp/faq/"
+  }
+ ],
+ "checkedAt": "2026-10-30",
+ "lat": 35.689606,
+ "lng": 139.688141,
+ "nearby": {
+  "convenience": [
+   {
+    "name": "ファミリーマート 新宿十二社店",
+    "brand": "ファミリーマート",
+    "distanceM": 192,
+    "walkMin": 3,
+    "hours": "24時間",
+    "address": "東京都新宿区西新宿4-2-18",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/26470",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "セブン-イレブン 十二社店",
+    "brand": "セブン-イレブン",
+    "distanceM": 217,
+    "walkMin": 3,
+    "hours": "24時間営業",
+    "address": "東京都新宿区西新宿4-2-15-101",
+    "verified": true,
+    "source": "https://seven-eleven.areamarker.com/711map/info/007195",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "ファミリーマート 西新宿五丁目店",
+    "brand": "ファミリーマート",
+    "distanceM": 234,
+    "walkMin": 3,
+    "hours": "24時間",
+    "address": "東京都新宿区西新宿5-10-14 小野木ビル・西新宿",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/26892",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "アクセア 新宿南口店",
+    "brand": "アクセア",
+    "distanceM": 674,
+    "walkMin": 9,
+    "hours": "平日24時間営業（月曜朝8時から土曜夜19時まで休まず営業）／土～19:00、日祝10:00～19:00",
+    "address": "東京都新宿区西新宿3-1-4 第2佐山ビル1F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/entry.html",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "キンコーズ・西新宿店",
+    "brand": "キンコーズ",
+    "distanceM": 733,
+    "walkMin": 10,
+    "hours": "平日 8:00-20:00／土 10:00-20:00／日祝 10:00-20:00（受付は閉店30分前まで）",
+    "address": "東京都新宿区西新宿8-1-1 アゼリアビル1F",
+    "verified": true,
+    "source": "https://www.kinkos.co.jp/store/tokyo/t008/",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Can★Do 薬ヒグチ新宿パークタワー店",
+    "brand": "キャンドゥ",
+    "distanceM": 406,
+    "walkMin": 6,
+    "hours": "月〜金 9:00〜20:00／土・日 10:00〜19:30／祝 10:00〜19:30",
+    "address": "東京都新宿区西新宿3-7-1 新宿パークタワービル 地下1階 薬ヒグチ新宿パークタワー店内",
+    "verified": true,
+    "source": "https://shopinfo.cando-web.co.jp/detail/shop-2677/",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "Can★Do 東京オペラシティ店",
+    "brand": "キャンドゥ",
+    "distanceM": 646,
+    "walkMin": 9,
+    "hours": "毎日 11:00〜21:00",
+    "address": "東京都新宿区西新宿3-20-2 東京オペラシティ1階",
+    "verified": true,
+    "source": "https://shopinfo.cando-web.co.jp/detail/shop-5390/",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "donki": [
+   {
+    "name": "ドン・キホーテ 新宿東南口店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 1264,
+    "walkMin": 16,
+    "hours": "24時間営業",
+    "address": "東京都新宿区新宿3-36-16",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=449",
+    "note": "距離は住所の位置で計算。ドン・キホーテ公式サイトの店舗名は「新宿東南口店」。遠め"
+   },
+   {
+    "name": "ドン・キホーテ 新宿歌舞伎町店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 1305,
+    "walkMin": 17,
+    "hours": "24時間営業",
+    "address": "東京都新宿区歌舞伎町1-16-5",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=29",
+    "note": "距離は住所の位置で計算。ドン・キホーテ公式サイトの店舗名は「新宿歌舞伎町店」。遠め"
+   }
+  ]
+ },
+ "drinkDelivery": {
+  "available": true
+ },
+ "photo": {
+  "src": "/images/venues/bellesalle-nishi-shinjuku.jpg",
+  "credit": "© User:Kentin / CC BY-SA 3.0 · Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sumitomo_fudosan_nishishinjuku_building_No.3.JPG"
+ }
+}

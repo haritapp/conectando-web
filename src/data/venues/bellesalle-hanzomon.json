@@ -1,0 +1,264 @@
+{
+ "slug": "bellesalle-hanzomon",
+ "nameJa": "ベルサール半蔵門",
+ "nameEn": "",
+ "type": "exhibition",
+ "area": "marunouchi-nihonbashi-venues",
+ "address": "〒102-0083 東京都千代田区麹町1-6-4 住友不動産半蔵門駅前ビル2F",
+ "officialUrl": "https://www.bellesalle.co.jp/shisetsu/iidabashi/bs_hanzomon/",
+ "organizerUrl": "https://www.bellesalle.co.jp/download/bs_hanzomon/",
+ "bizintokyoSlug": "bellesalle-hanzomon",
+ "accessSummary": "半蔵門駅（半蔵門線）3b出口 直結／麹町駅（有楽町線）3番出口 徒歩5分",
+ "notice": null,
+ "hours": "施設は年中無休（使用規約 2026ver2 第5条。設備点検などで臨時休館する場合あり）。エントランス開放時間は利用時間に応じて対応（設備表 2026/9/11更新）。当日延長の料金は7時〜22時と22時〜翌7時の区分（料金表 2026/7/3更新）。",
+ "rooms": [
+  {
+   "name": "HALL 全体",
+   "areaM2": 870,
+   "ceilingM": 6.0,
+   "theater": 870,
+   "school": 378,
+   "ushape": null,
+   "standing": 520,
+   "banquet": null,
+   "note": "スクールは2名掛け。スクール3名掛け 567席。島型 462席（77島）。HALL AとHALL Bの一体利用。天吊スクリーン300inch・天吊プロジェクター・メインスピーカーはHALL Aにある（設備表）"
+  },
+  {
+   "name": "HALL A",
+   "areaM2": 511,
+   "ceilingM": 6.0,
+   "theater": 510,
+   "school": 210,
+   "ushape": null,
+   "standing": 300,
+   "banquet": null,
+   "note": "スクールは2名掛け。スクール3名掛け 315席。島型 252席（42島）。天吊スクリーン300inch（16:9）・天吊プロジェクター9,400lm・メインスピーカーがある（設備表）"
+  },
+  {
+   "name": "HALL B",
+   "areaM2": 359,
+   "ceilingM": 6.0,
+   "theater": 336,
+   "school": 144,
+   "ushape": null,
+   "standing": 210,
+   "banquet": null,
+   "note": "スクールは2名掛け。スクール3名掛け 216席。島型 180席（30島）。シーリングスピーカーはHALL AとHALL Bにある（設備表）"
+  },
+  {
+   "name": "専用ロビー",
+   "areaM2": 90,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "折り上げ天井の専用ロビー。受付やクロークに使える（公式施設ページ）"
+  },
+  {
+   "name": "控室A",
+   "areaM2": 11,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "ホール付帯。ローテーブル1・ローチェア4・ハンガーラック1・姿見1（設備表）。公式施設ページの料金表示は0円（税込）〜"
+  },
+  {
+   "name": "控室B",
+   "areaM2": 13,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "ホール付帯。ローテーブル1・ローチェア4・ハンガーラック1・姿見1・モニター1台（設備表）。公式施設ページの料金表示は0円（税込）〜"
+  }
+ ],
+ "roomsSource": "https://www.bellesalle.co.jp/wp-content/uploads/hanzomon_price.pdf",
+ "ops": {
+  "prevDaySetup": {
+   "text": "使用時間には準備・後片付けの時間も含まれる（料金表）。夜間使用は前後の予約状況で使えない場合があるため事前に相談する。荷物の事前到着は開催日の前日着の指定が原則で、公式の資料ページは事前搬入届について「搬入物はご使用前日のみの承り」と案内している。事前搬入届は作業日の1週間前までに出し、ホールで受け取れる事前到着荷物は原則5箱まで。事前に申し出のない多量・大きな荷物は、保管場所として会場を有料で借り上げる扱いになる（破損・不足の責任は負わない）。（出典：ホール料金表 2026/7/3更新、事前搬入届、資料ダウンロードページ、よくあるご質問、使用規約 2026ver2 第20条）",
+   "source": "https://www.bellesalle.co.jp/wp-content/uploads/hanzomon_price.pdf"
+  },
+  "loadingHours": {
+   "text": "搬出入がある場合は事前搬入届を作業日の1週間前までに出す（未提出だと荷捌き場は使えない）。搬入・搬出車の出入りは使用時間内に所定の場所から行い、搬入時間などは施設側が調整することがある。ホールへは1Fの専用荷捌き場から搬入用EVで2Fへ運ぶ。搬入扉は幅1,470×高2,260mm、EVの扉は幅1,600×高3,000mm、かご内は幅1,800×高3,000×奥行2,800mm、積載荷重3,000kg。積み下ろしの作業は原則20分以内。現場責任者は作業前に住友不動産半蔵門駅前ビル1Fサービスセンターで入館手続きをする。施設は年中無休で、エントランスの開放時間は利用時間に応じて対応する。（出典：事前搬入届、イベントホール設備表 2026/9/11更新、使用規約 2026ver2 第5条・第16条）",
+   "source": "https://www.bellesalle.co.jp/wp-content/uploads/hanzomon_jizen.pdf"
+  },
+  "vehicleRules": {
+   "text": "荷捌き所は荷物の積み下ろしのみに使い、駐車が必要なときは外の駐車場を使う。荷捌き場は1台分で、車を複数台使うときは時間差で使う。荷捌き場の許容寸法は全高3,800×全長6,500×巾3,000mm（ゲート降下時含む）、設備表の車両制限は高さ3,800×長さ6,500mm・重3.0t。違法駐車、指定駐車場以外、ビル廻りの路上駐車は厳禁。使用期間中の荷捌き場には商品・梱包材・装飾資材・ごみなどを置けない。イベントホールが混雑したときは、半蔵門駅B3出口付近に交通誘導員を置く。（出典：事前搬入届、イベントホール設備表 2026/9/11更新、使用規約 2026ver2 第15条・第21条）",
+   "source": "https://www.bellesalle.co.jp/wp-content/uploads/hanzomon_jizen.pdf"
+  },
+  "parking": {
+   "text": "設備表の駐車場欄は、ベルサール専用が「有」（荷捌きと兼用の駐車場が搬入口側に1か所）、時間貸しが「無」、車寄せが「無」（テナント専有部のため利用不可）。近隣の時間貸し駐車場は、公式施設ページのリンク先「s-park」（公財 東京都道路整備保全公社）で「ベルサール半蔵門」を検索して探す。（出典：イベントホール設備表 2026/9/11更新、公式施設ページ）",
+   "source": "https://www.bellesalle.co.jp/wp-content/uploads/hanzomon_hall_b.pdf"
+  },
+  "waitingRooms": {
+   "text": "ホール付帯の控室が2室あり、控室A（11㎡）と控室B（13㎡）。Aはローテーブル1・ローチェア4・ハンガーラック1・姿見1、Bはこれにモニター1台がつく。ゲストスピーカーやご来賓に使える（公式施設ページ）。使用申込当日に使える施設には、控室・給湯室・喫煙室（各1か所）・優先トイレが含まれる。（出典：公式施設ページ、イベントホール設備表 2026/9/11更新、使用規約 2026ver2 第21条）",
+   "source": "https://www.bellesalle.co.jp/shisetsu/iidabashi/bs_hanzomon/"
+  },
+  "catering": {
+   "text": "飲食物の持込は可能。ただし当社指定業者以外で飲食を手配する場合は「飲食持込手数料」がかかる（パーティー利用時のみ。飲料のみ・弁当の持込は対象外）。金額は会場面積別で、〜300㎡ 100,000円、〜600㎡ 200,000円、〜900㎡ 300,000円、〜1,200㎡ 400,000円、1,201㎡〜 500,000円（税込 各110,000〜550,000円）。懇親会向けのパーティーメニューは住友不動産グループ泉レストランのサイトで案内されている。（出典：持込料のご案内 2026ver2、よくあるご質問、使用規約 2026ver2 第4条）",
+   "source": "https://www.bellesalle.co.jp/wp-content/uploads/mochikomi_price.pdf"
+  }
+ },
+ "documents": [
+  {
+   "title": "ホール 利用料金一覧表（2026/7/3更新）",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/hanzomon_price.pdf"
+  },
+  {
+   "title": "料金カレンダー（取引条件有効期限 2027年1月末日）",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/eventhall_calender1.pdf"
+  },
+  {
+   "title": "事前搬入届（イベントホール）",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/hanzomon_jizen.pdf"
+  },
+  {
+   "title": "使用規約（2026ver2）",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/kiyaku.pdf"
+  },
+  {
+   "title": "持込料のご案内（2026ver2）",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/mochikomi_price.pdf"
+  },
+  {
+   "title": "反社会的勢力でないことの表明・確約書",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/bellesalle_bouhai.pdf"
+  },
+  {
+   "title": "イベントホール 設備概要・備品リスト（2026/9/11更新）",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/hanzomon_hall_b.pdf"
+  },
+  {
+   "title": "アクセスMAP（2019年1月作成）",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/access_hanzomon.pdf"
+  },
+  {
+   "title": "2F 平面図",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/hanzomon_plane.pdf"
+  },
+  {
+   "title": "2F 天井図",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/hanzomon_ceiling.pdf"
+  },
+  {
+   "title": "2F 床図",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/hanzomon_floor.pdf"
+  },
+  {
+   "title": "2F イベント電源図",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/hanzomon_electric.pdf"
+  },
+  {
+   "title": "2F 避難経路図",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/hanzomon_escape.pdf"
+  },
+  {
+   "title": "資料ダウンロード（公式一覧）",
+   "url": "https://www.bellesalle.co.jp/download/bs_hanzomon/"
+  },
+  {
+   "title": "よくあるご質問",
+   "url": "https://www.bellesalle.co.jp/faq/"
+  }
+ ],
+ "checkedAt": "2026-10-30",
+ "lat": 35.684441,
+ "lng": 139.742126,
+ "nearby": {
+  "convenience": [
+   {
+    "name": "ファミリーマート 麹町一丁目店",
+    "brand": "ファミリーマート",
+    "distanceM": 88,
+    "walkMin": 2,
+    "hours": "24時間営業",
+    "address": "東京都千代田区麹町1丁目8-2",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/57778",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "ローソン 麹町二丁目店",
+    "brand": "ローソン",
+    "distanceM": 118,
+    "walkMin": 2,
+    "hours": "24時間営業",
+    "address": "東京都千代田区麹町2-7-3",
+    "verified": true,
+    "source": "https://www.areamarker.com/lawson/info/155949",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "ファミリーマート 半蔵門駅南店",
+    "brand": "ファミリーマート",
+    "distanceM": 124,
+    "walkMin": 2,
+    "hours": "24時間営業",
+    "address": "東京都千代田区隼町2-17",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/26718",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "キンコーズ・麹町店",
+    "brand": "キンコーズ",
+    "distanceM": 155,
+    "walkMin": 2,
+    "hours": "平日 9:00-19:00／土・日・祝 休業",
+    "address": "東京都千代田区麹町2丁目3-9 麹町プレイス1F",
+    "verified": true,
+    "source": "https://www.kinkos.co.jp/store/tokyo/t046/",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "アクセア 麹町店",
+    "brand": "アクセア",
+    "distanceM": 179,
+    "walkMin": 3,
+    "hours": "平日・土日祝8:00〜20:00",
+    "address": "東京都千代田区麹町2-4-11 麹町スクエアプラザ2F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/entry.html",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Can★Do 赤坂一ツ木通り店",
+    "brand": "キャンドゥ",
+    "distanceM": 1157,
+    "walkMin": 15,
+    "hours": "月〜金 9:00-21:00／土・日・祝 9:00-20:00",
+    "address": "東京都港区赤坂3-17-10 フローレンス一ツ木ビル1階",
+    "verified": true,
+    "source": "https://shopinfo.cando-web.co.jp/detail/shop-5207/",
+    "note": "距離は住所の位置で計算。遠め"
+   }
+  ],
+  "donki": [
+   {
+    "name": "ピカソ赤坂店（ドン・キホーテ）",
+    "brand": "ドン・キホーテ",
+    "distanceM": 1152,
+    "walkMin": 15,
+    "hours": "7:00-3:00",
+    "address": "東京都港区赤坂3-11-14",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=289",
+    "note": "距離は住所の位置で計算。遠め。ドン・キホーテの別業態（公式サイトの店舗名は「ピカソ赤坂店」）"
+   }
+  ]
+ },
+ "drinkDelivery": {
+  "available": true
+ }
+}

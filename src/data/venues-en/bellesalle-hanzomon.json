@@ -1,0 +1,135 @@
+{
+ "slug": "bellesalle-hanzomon",
+ "name": "Bellesalle Hanzomon",
+ "address": "Tokyo 102-0083 Sumitomo Fudosan Hanzomon Ekimae Building 2F, 1-6-4 Kojimachi, Chiyoda-ku, Tokyo",
+ "accessSummary": "Hanzomon Station (Hanzomon Line) Exit 3b: directly connected / Kojimachi Station (Yurakucho Line) Exit 3: 5 min walk",
+ "hours": "Open year-round (Terms of Use 2026ver2 Article 5; temporary closures may occur for equipment inspections, etc.). Entrance opening hours are arranged according to the usage hours (equipment list, updated September 11, 2026). Fees for same-day extensions are divided into 7:00-22:00 and 22:00-7:00 the next day (price list, updated July 3, 2026).",
+ "notice": null,
+ "rooms": [
+  {
+   "name": "Entire Hall",
+   "note": "Classroom is 2 per desk. Classroom, 3 per desk: 567 seats. Island layout: 462 seats (77 islands). Hall A and Hall B used together. The ceiling-mounted 300-inch screen, ceiling-mounted projector and main speakers are in Hall A (equipment list)."
+  },
+  {
+   "name": "Hall A",
+   "note": "Classroom is 2 per desk. Classroom, 3 per desk: 315 seats. Island layout: 252 seats (42 islands). Has a ceiling-mounted 300-inch (16:9) screen, a 9,400 lm ceiling-mounted projector and main speakers (equipment list)."
+  },
+  {
+   "name": "Hall B",
+   "note": "Classroom is 2 per desk. Classroom, 3 per desk: 216 seats. Island layout: 180 seats (30 islands). Ceiling speakers are in both Hall A and Hall B (equipment list)."
+  },
+  {
+   "name": "Private Lobby",
+   "note": "Private lobby with a tray (stepped) ceiling. Can be used for reception and a cloakroom (official facility page)."
+  },
+  {
+   "name": "Waiting Room A",
+   "note": "Attached to the hall. 1 low table, 4 low chairs, 1 hanger rack, 1 full-length mirror (equipment list). The price shown on the official facility page is from 0 yen (tax included)."
+  },
+  {
+   "name": "Waiting Room B",
+   "note": "Attached to the hall. 1 low table, 4 low chairs, 1 hanger rack, 1 full-length mirror, 1 monitor (equipment list). The price shown on the official facility page is from 0 yen (tax included)."
+  }
+ ],
+ "ops": {
+  "prevDaySetup": "Usage time includes setup and cleanup time (price list). Night-time use may not be available depending on the bookings before and after, so consult in advance. Advance arrival of packages is in principle designated for the day before the event, and for the advance load-in notice the official download page states that \"items are accepted only on the day before use.\" The advance load-in notice must be submitted at least 1 week before the work date, and in principle up to 5 boxes of advance-arrival packages can be received at the hall. Large quantities or large items not notified in advance are treated as renting the venue as a storage space for a fee (no responsibility is taken for damage or shortage). (Source: Hall price list, updated July 3, 2026; Advance Load-in Notice; Document download page; FAQ; Terms of Use 2026ver2 Article 20)",
+  "loadingHours": "If there is load-in or load-out, submit the advance load-in notice at least 1 week before the work date (the loading area cannot be used if it is not submitted). Delivery vehicles for load-in and load-out must enter and leave from the designated place within the usage time, and the facility may adjust load-in times and the like. To reach the hall, goods go from the dedicated 1F loading area by the load-in elevator to the 2F. The load-in door is 1,470 mm wide x 2,260 mm high; the elevator door is 1,600 mm wide x 3,000 mm high; the elevator car interior is 1,800 mm wide x 3,000 mm high x 2,800 mm deep, with a load capacity of 3,000 kg. Loading and unloading work is in principle limited to 20 minutes. The on-site manager completes entry procedures at the Service Center on the 1F of the Sumitomo Fudosan Hanzomon Ekimae Building before starting work. The facility is open year-round, and the entrance opening hours are arranged according to the usage hours. (Source: Advance Load-in Notice, Event Hall equipment list updated September 11, 2026, Terms of Use 2026ver2 Articles 5 and 16)",
+  "vehicleRules": "The loading area is used only for loading and unloading; if parking is needed, use an outside parking lot. The loading area fits one vehicle, so when multiple vehicles are used, they share it in staggered turns. The permitted dimensions of the loading area are 3,800 mm total height x 6,500 mm total length x 3,000 mm width (including when the gate is lowered); the vehicle limits in the equipment list are 3,800 mm height x 6,500 mm length and 3.0 t. Illegal parking, parking outside the designated lot, and roadside parking around the building are strictly prohibited. Products, packing materials, decoration materials, trash and the like may not be left in the loading area during the usage period. When the Event Hall is congested, traffic staff are placed near Exit B3 of Hanzomon Station. (Source: Advance Load-in Notice, Event Hall equipment list updated September 11, 2026, Terms of Use 2026ver2 Articles 15 and 21)",
+  "parking": "In the parking column of the equipment list, parking dedicated to Bellesalle is \"available\" (one lot shared with the loading area, on the load-in entrance side), hourly parking is \"none\", and a vehicle drop-off area is \"none\" (it is part of the tenants' exclusive area and cannot be used). To find nearby hourly parking lots, search for \"Bellesalle Hanzomon\" on \"s-park\" (Tokyo Metropolitan Road Improvement and Conservation Corporation), which is linked from the official facility page. (Source: Event Hall equipment list, updated September 11, 2026; official facility page)",
+  "waitingRooms": "The hall has 2 attached waiting rooms: Waiting Room A (11㎡) and Waiting Room B (13㎡). Room A has 1 low table, 4 low chairs, 1 hanger rack and 1 full-length mirror; Room B has the same plus 1 monitor. They can be used for guest speakers and VIPs (official facility page). The facilities available on the day of use include a waiting room, a pantry and a smoking room (1 each) and a priority restroom. (Source: Official facility page, Event Hall equipment list updated September 11, 2026, Terms of Use 2026ver2 Article 21)",
+  "catering": "Outside food/drink brought in is allowed. However, if a caterer other than the operator's designated vendors is used, an \"outside food/drink fee\" applies (party use only; bringing in drinks only or boxed meals is not covered). The amount depends on venue area: up to 300㎡ 100,000 yen, up to 600㎡ 200,000 yen, up to 900㎡ 300,000 yen, up to 1,200㎡ 400,000 yen, 1,201㎡ and above 500,000 yen (110,000 to 550,000 yen each, tax included). Party menus for receptions are introduced on the website of Izumi Restaurant, a Sumitomo Fudosan Group company. (Source: Outside Food/Drink Fee Guide 2026ver2, FAQ, Terms of Use 2026ver2 Article 4)"
+ },
+ "documents": [
+  {
+   "title": "Hall Price List (updated July 3, 2026)"
+  },
+  {
+   "title": "Price Calendar (terms valid until the end of January 2027)"
+  },
+  {
+   "title": "Advance Load-in Notice (Event Hall)"
+  },
+  {
+   "title": "Terms of Use (2026ver2)"
+  },
+  {
+   "title": "Outside Food/Drink Fee Guide (2026ver2)"
+  },
+  {
+   "title": "Declaration and Pledge of Non-Affiliation with Antisocial Forces"
+  },
+  {
+   "title": "Event Hall Facility Overview and Equipment List (updated September 11, 2026)"
+  },
+  {
+   "title": "Access Map (created January 2019)"
+  },
+  {
+   "title": "2F Floor Plan"
+  },
+  {
+   "title": "2F Ceiling Plan"
+  },
+  {
+   "title": "2F Flooring Plan"
+  },
+  {
+   "title": "2F Event Power Supply Plan"
+  },
+  {
+   "title": "2F Evacuation Route Map"
+  },
+  {
+   "title": "Document Downloads (official list)"
+  },
+  {
+   "title": "FAQ"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "FamilyMart Kojimachi 1-chome",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Lawson Kojimachi 2-chome",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "FamilyMart Hanzomon Station South",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "Kinko's Kojimachi",
+    "hours": "Weekdays 9:00-19:00 / Sat, Sun & holidays closed",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Accea Kojimachi",
+    "hours": "Weekdays, Sat, Sun & holidays 8:00-20:00",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Can Do Akasaka Hitotsugi-dori",
+    "hours": "Mon-Fri 9:00-21:00 / Sat, Sun & holidays 9:00-20:00",
+    "note": "Distance is calculated from the address location. Rather far."
+   }
+  ],
+  "donki": [
+   {
+    "name": "Picasso Akasaka (Don Quijote)",
+    "hours": "7:00-3:00",
+    "note": "Distance is calculated from the address location. Rather far. A different Don Quijote store format (the official site lists the store name as \"Picasso Akasaka\")."
+   }
+  ]
+ },
+ "photoCredit": null
+}

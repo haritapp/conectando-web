@@ -1,0 +1,204 @@
+{
+ "slug": "bellesalle-roppongi-gcc",
+ "name": "Bellesalle Roppongi Grand Conference Center",
+ "address": "Tokyo 106-6209 Sumitomo Fudosan Roppongi Grand Tower 9F, 3-2-1 Roppongi, Minato-ku, Tokyo",
+ "accessSummary": "Direct connection from the west ticket gate of Roppongi-itchome Station (Namboku Line) / Roppongi Station (Hibiya Line / Oedo Line) Exit 5: 6 min walk / Tameike-sanno Station (Ginza Line / Namboku Line) Exit 13: 8 min walk",
+ "hours": "Building entrance open hours: 1F 6:00-23:00 / 4F 7:00-23:00 (Meeting Room Equipment List, updated September 11, 2026)",
+ "notice": null,
+ "rooms": [
+  {
+   "name": "9F Room A",
+   "note": "Classroom is 2 per desk. Classroom, 3 per desk: 129 seats. Island layout: 96 seats (16 islands). T-shaped island layout: 96 seats (16 islands)."
+  },
+  {
+   "name": "9F Room B",
+   "note": "Classroom is 2 per desk. Classroom, 3 per desk: 90 seats. Island layout: 72 seats (12 islands). T-shaped island layout: 72 seats (12 islands)."
+  },
+  {
+   "name": "9F Room C",
+   "note": "Classroom is 2 per desk. Classroom, 3 per desk: 84 seats. Island layout: 54 seats (9 islands). T-shaped island layout: 54 seats (9 islands)."
+  },
+  {
+   "name": "9F Room D",
+   "note": "Classroom is 2 per desk. Classroom, 3 per desk: 51 seats. Island layout: 48 seats (8 islands). T-shaped island layout: 36 seats (6 islands)."
+  },
+  {
+   "name": "9F Room E",
+   "note": "Classroom is 2 per desk. Classroom, 3 per desk: 51 seats. Island layout: 48 seats (8 islands). T-shaped island layout: 36 seats (6 islands)."
+  },
+  {
+   "name": "9F Room F",
+   "note": "Classroom is 2 per desk. Classroom, 3 per desk: 36 seats. Island layout: 24 seats (4 islands). T-shaped island layout: 12 seats (2 islands)."
+  },
+  {
+   "name": "9F Room G",
+   "note": "Classroom is 2 per desk. Classroom, 3 per desk: 24 seats. Island layout: 24 seats (4 islands). T-shaped island layout: 12 seats (2 islands)."
+  },
+  {
+   "name": "9F Room H",
+   "note": "Classroom is 2 per desk. Classroom, 3 per desk: 192 seats. Island layout: 168 seats (28 islands). T-shaped island layout: 138 seats (23 islands)."
+  },
+  {
+   "name": "9F Room I",
+   "note": "Classroom is 2 per desk. Classroom, 3 per desk: 129 seats. Island layout: 96 seats (16 islands). T-shaped island layout: 96 seats (16 islands)."
+  },
+  {
+   "name": "9F Room A+B",
+   "note": "Classroom is 2 per desk. Classroom, 3 per desk: 264 seats. Island layout: 246 seats (41 islands). T-shaped island layout: 204 seats (34 islands)."
+  },
+  {
+   "name": "9F Room C+D",
+   "note": "Classroom is 2 per desk. Classroom, 3 per desk: 174 seats. Island layout: 138 seats (23 islands). T-shaped island layout: 114 seats (19 islands)."
+  },
+  {
+   "name": "9F Room D+E",
+   "note": "Classroom is 2 per desk. Classroom, 3 per desk: 114 seats. Island layout: 132 seats (22 islands). T-shaped island layout: 60 seats (10 islands)."
+  },
+  {
+   "name": "9F Room F+G",
+   "note": "Classroom is 2 per desk. Classroom, 3 per desk: 51 seats. Island layout: 60 seats (10 islands). T-shaped island layout: 36 seats (6 islands)."
+  },
+  {
+   "name": "9F Room C+D+E",
+   "note": "Classroom is 2 per desk. Classroom, 3 per desk: 258 seats. Island layout: 192 seats (32 islands). T-shaped island layout: 168 seats (28 islands)."
+  },
+  {
+   "name": "9F Room E+F+G",
+   "note": "Classroom is 2 per desk. Classroom, 3 per desk: 114 seats. Island layout: 138 seats (23 islands). T-shaped island layout: 60 seats (10 islands)."
+  },
+  {
+   "name": "9F Room D+E+F+G",
+   "note": "Classroom is 2 per desk. Classroom, 3 per desk: 198 seats. Island layout: 192 seats (32 islands). T-shaped island layout: 96 seats (16 islands)."
+  },
+  {
+   "name": "9F Room C+D+E+F+G",
+   "note": "Classroom is 2 per desk. Classroom, 3 per desk: 318 seats. Island layout: 276 seats (46 islands). T-shaped island layout: 222 seats (37 islands)."
+  },
+  {
+   "name": "9F Room H+I",
+   "note": "Classroom is 2 per desk. Classroom, 3 per desk: 357 seats. Island layout: 318 seats (53 islands). T-shaped island layout: 264 seats (44 islands)."
+  },
+  {
+   "name": "9F Waiting Room 1",
+   "note": "35,200 yen for 4 hours (tax included). Island layout: 8 seats (2 islands). Comes with 4 tables, 8 chairs, 1 clothes rack and 1 full-length mirror."
+  },
+  {
+   "name": "9F Waiting Room 2",
+   "note": "39,600 yen for 4 hours (tax included). Island layout: 8 seats (2 islands). Comes with 4 tables, 8 chairs, 1 clothes rack and 1 full-length mirror."
+  },
+  {
+   "name": "9F Waiting Room 3",
+   "note": "39,600 yen for 4 hours (tax included). Island layout: 8 seats (2 islands). Comes with 4 tables, 8 chairs, 1 clothes rack and 1 full-length mirror."
+  },
+  {
+   "name": "9F Waiting Room 4",
+   "note": "39,600 yen for 4 hours (tax included). Island layout: 8 seats (2 islands). Comes with 4 tables, 8 chairs, 1 clothes rack and 1 full-length mirror."
+  }
+ ],
+ "ops": {
+  "prevDaySetup": "Usage time includes setup and cleanup time (price list); usage time means the exclusive-use period from when the facility is unlocked and setup begins until it is restored to its original condition and locked (Terms of Use Article 5). Meeting room rates are for 4, 8 or 12 hours; if a pre-extension or post-extension arises on the day of use, an extension fee is charged in 30-minute units (for Room A, 57,200 yen for 7:00-22:00 and 63,800 yen for 22:00 to 7:00 the next day, tax included). Except for some areas, the venue can be used 24 hours a day, 365 days a year. Advance receipt of packages is only on the day before use and requires an advance load-in notice (in principle up to 2 boxes per room). Sudden layout changes on the day before use or during the usage period cannot be requested from the operator. (Source: Meeting Room Price List updated July 3, 2026; Advance Load-in Notice; FAQ; Terms of Use 2026ver2 Articles 5 and 20)",
+  "loadingHours": "Load-in and load-out is done from the loading area on B1F, and the load-in/out elevator is used to reach 9F. An advance load-in notice must be submitted at least 1 week before the work date (without it, the loading area cannot be used). Load-in and load-out vehicles must enter and leave from the designated place within the usage time. For loading and unloading work, the Advance Load-in Notice says in principle within 20 minutes, while the Meeting Room Equipment List says free for up to 30 minutes and 300 yen per 30 minutes after that, so the official materials differ. The permitted dimensions of the loading area are under 3,500mm in height and 6,000mm or less in length. The load-in elevator has an entrance door 1,500mm wide x 2,700mm high, a car interior 1,800mm wide x 4,300mm high x 2,350mm deep, and a load capacity of 2,050kg. The on-site manager completes entry procedures at the Service Center on the 4F of Sumitomo Fudosan Roppongi Grand Tower before starting work. The building entrance is open 1F 6:00-23:00, 4F 7:00-23:00. (Source: Advance Load-in Notice (Meeting Rooms), Meeting Room Equipment List updated September 11, 2026, Terms of Use 2026ver2 Article 16)",
+  "vehicleRules": "The loading area is used only for loading and unloading; if parking is needed, use an outside parking lot. When multiple vehicles are used, they share one vehicle's loading space in staggered turns. Illegal parking, parking outside the designated parking lot, and roadside parking around the building are strictly prohibited (roadside parking in the public open space or on the premises around the building is grounds for suspension of use). Products, packing materials, decoration materials, trash and the like may not be left in the loading area during the usage period. If delivery vehicle traffic is expected to be congested, traffic staff are placed at the entrance and similar points. The vehicle restrictions in the equipment list are height 3,500 x length 6,000mm and 2.0t. (Source: Advance Load-in Notice (Meeting Rooms), Meeting Room Equipment List updated September 11, 2026, Terms of Use 2026ver2 Articles 9, 15 and 16)",
+  "parking": "The equipment list shows Bellesalle's own parking lot as \"none\" and hourly paid parking as \"available\" with 11 spaces at 300 yen per 30 minutes. The car porch is on 4F. The official FAQ says the building housing the facility has an hourly paid parking lot with a limited number of spaces. To find nearby hourly parking lots, search for \"Bellesalle Roppongi Grand Conference Center\" on \"s-park\" (Tokyo Metropolitan Road Improvement and Conservation Corporation), which is linked from the official facility page. (Source: Meeting Room Equipment List updated September 11, 2026, FAQ, Official facility page)",
+  "waitingRooms": "There are 4 waiting rooms on 9F, measuring 17㎡, 24㎡, 24㎡ and 24㎡ (ceiling height 2.5m). Usage fees for 4 hours are 35,200 yen for Waiting Room 1 and 39,600 yen each for Waiting Rooms 2 to 4 (tax included). Each room comes with 4 tables, 8 chairs, 1 clothes rack and 1 full-length mirror. (Source: Meeting Room Price List updated July 3, 2026, Meeting Room Equipment List updated September 11, 2026)",
+  "catering": "Outside food/drink brought in is allowed. However, if a caterer other than the operator's designated vendors is used, an \"outside food/drink fee\" applies (party use only; bringing in drinks only or boxed meals is not covered). The amount depends on venue area: up to 300㎡ 100,000 yen, up to 600㎡ 200,000 yen, up to 900㎡ 300,000 yen, up to 1,200㎡ 400,000 yen, 1,201㎡ and above 500,000 yen (110,000 to 550,000 yen each, tax included). Party menus for receptions are introduced on the website of Izumi Restaurant, a Sumitomo Fudosan Group company. (Source: Outside Food/Drink Fee Guide PDF, FAQ, Terms of Use 2026ver2 Article 4)",
+  "restaurants": "The official FAQ introduces catering by Izumi Restaurant, a Sumitomo Fudosan Group company, saying that party menus suited to receptions are available. (Source: FAQ)"
+ },
+ "documents": [
+  {
+   "title": "Terms of Use (2026ver2)"
+  },
+  {
+   "title": "Advance Load-in Notice (Meeting Rooms)"
+  },
+  {
+   "title": "Outside Food/Drink Fee Guide"
+  },
+  {
+   "title": "Price List (updated July 3, 2026)"
+  },
+  {
+   "title": "Price Calendar (terms valid until the end of January 2027)"
+  },
+  {
+   "title": "Meeting Room Equipment and Fixtures List (updated September 11, 2026)"
+  },
+  {
+   "title": "9F Floor Plan"
+  },
+  {
+   "title": "9F Ceiling Plan"
+  },
+  {
+   "title": "9F Floor Drawing"
+  },
+  {
+   "title": "9F Evacuation Route Map"
+  },
+  {
+   "title": "Access Map"
+  },
+  {
+   "title": "Document Downloads (official list)"
+  },
+  {
+   "title": "FAQ"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "7-Eleven TV Tokyo Headquarters",
+    "hours": "4:00-2:00 (next day) (Mon-Sun & holidays)",
+    "note": "Distance is calculated from the position in the official store list (the address position is in the same block as the venue)."
+   },
+   {
+    "name": "7-Eleven Roppongi 3-chome",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "FamilyMart Roppongi 3-chome",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "Accea Roppongi-itchome",
+    "hours": "Weekdays 9:00-20:00 / Closed Sat, Sun & holidays",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Accea Roppongi",
+    "hours": "Weekdays 8:00-22:00, Sat, Sun & holidays 10:00-19:00",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Can Do Shiroyama Hills",
+    "hours": "Daily 9:00-23:00",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Can Do Azabu-juban",
+    "hours": "Daily 10:00-21:00",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "donki": [
+   {
+    "name": "Don Quijote Roppongi",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. The store name on the Don Quijote official website is \"Roppongi\" (六本木店)."
+   },
+   {
+    "name": "Picasso Akasaka (Don Quijote)",
+    "hours": "7:00-3:00",
+    "note": "Distance is calculated from the address location. Rather far. This is a separate Don Quijote format. The store name on the Don Quijote official website is \"Picasso Akasaka\" (ピカソ赤坂店)."
+   }
+  ]
+ },
+ "photoCredit": "© 稲妻ノ歯鯨 / CC BY-SA 4.0 · Wikimedia Commons"
+}
