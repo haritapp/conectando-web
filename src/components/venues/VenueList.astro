@@ -1,0 +1,234 @@
+---
+// src/components/venues/VenueList.astro — イベント運営者向け 会場リスト（検索つき一覧。日本語・英語共通）
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import PageHero from '../PageHero.astro';
+import ContactCTA from '../ContactCTA.astro';
+import { getVenues, maxCapacity, maxArea, capacityByLayout, venueFlags, type Layout } from '../../lib/venues';
+import { localizeVenue, UI, TYPE_LABEL_I, LAYOUT_LABEL_I, AREA_LABEL_I, venuePathI, formatNumberI, type Lang } from '../../lib/venues-i18n';
+
+interface Props { lang: Lang }
+const { lang } = Astro.props;
+
+const t = UI[lang];
+const TYPE_LABEL = TYPE_LABEL_I[lang];
+const LAYOUT_LABEL = LAYOUT_LABEL_I[lang];
+const AREA_LABEL = AREA_LABEL_I[lang];
+const fmt = (n: number | string | null | undefined) => formatNumberI(n, lang);
+
+// 人数・広さ・フラグは日本語の元データで計算し、表示の文字だけ言語に合わせる
+const venues = getVenues();
+const rows = venues.map((src) => {
+  const cap = maxCapacity(src);
+  const byLayout = capacityByLayout(src);
+  const flags = venueFlags(src);
+  const v = localizeVenue(src, lang);
+  return {
+    v, cap, area: maxArea(src), flags,
+    name: lang === 'en' ? v.nameEn! : v.nameJa,
+    data: {
+      name: `${v.nameJa} ${v.nameEn ?? ''}`.toLowerCase(),
+      type: v.type,
+      area: v.area,
+      cap: JSON.stringify(byLayout),
+      maxarea: String(maxArea(src) ?? 0),
+      flags: Object.entries(flags).filter(([, on]) => on).map(([k]) => k).join(' '),
+    },
+  };
+});
+
+const usedAreas = [...new Set(venues.map((v) => v.area))];
+const areaOptions = Object.entries(AREA_LABEL).filter(([k]) => usedAreas.includes(k));
+const typeOptions = Object.entries(TYPE_LABEL);
+const layoutOptions = Object.entries(LAYOUT_LABEL) as [Layout, string][];
+---
+
+
+<BaseLayout title={t.listTitle} rawTitle description={t.listDesc}>
+  <PageHero label="VENUES" title={t.heroTitle} />
+
+  <div class="vl-wrap">
+    <nav class="vl-crumb" aria-label={t.crumbAria}><a href={t.homeHref}>{t.home}</a> <span>›</span> {t.listName}</nav>
+    <p class="vl-lead" set:html={t.leadHtml} />
+
+    <form id="vl-filter" class="vl-filter" onsubmit="return false">
+      <div class="vl-field vl-field-wide">
+        <label for="f-name">{t.fName}</label>
+        <input id="f-name" type="search" placeholder={t.fNamePh} autocomplete="off" />
+      </div>
+      <div class="vl-field">
+        <label for="f-type">{t.fType}</label>
+        <select id="f-type">
+          <option value="">{t.all}</option>
+          {typeOptions.map(([k, label]) => <option value={k}>{label}</option>)}
+        </select>
+      </div>
+      <div class="vl-field">
+        <label for="f-area">{t.fArea}</label>
+        <select id="f-area">
+          <option value="">{t.all}</option>
+          {areaOptions.map(([k, label]) => <option value={k}>{label}</option>)}
+        </select>
+      </div>
+      <div class="vl-field">
+        <label for="f-people">{t.fPeople}</label>
+        <div class="vl-inline">
+          <select id="f-layout" aria-label={t.fLayoutAria}>
+            {layoutOptions.map(([k, label]) => <option value={k}>{label}</option>)}
+          </select>
+          <input id="f-people" type="number" min="0" step="10" inputmode="numeric" placeholder={t.fPeoplePh} />
+          <span class="vl-unit">{t.unitPeople}</span>
+        </div>
+      </div>
+      <div class="vl-field">
+        <label for="f-m2">{t.fM2}</label>
+        <div class="vl-inline">
+          <input id="f-m2" type="number" min="0" step="50" inputmode="numeric" placeholder={t.fM2Ph} />
+          <span class="vl-unit">{t.unitM2}</span>
+        </div>
+      </div>
+
+
+      <div class="vl-actions">
+        <button type="reset" class="vl-reset">{t.clear}</button>
+      </div>
+    </form>
+
+    <p class="vl-count"><span id="vl-count">{rows.length}</span>{t.countSuffix}</p>
+
+    <ul class="vl-list" id="vl-list">
+      {rows.map(({ v, cap, area, name, data }) => (
+        <li
+          class="vl-item"
+          data-name={data.name}
+          data-type={data.type}
+          data-area={data.area}
+          data-cap={data.cap}
+          data-maxarea={data.maxarea}
+          data-flags={data.flags}
+        >
+          <a href={venuePathI(v.slug, lang)} class="vl-card">
+            {v.photo ? <img class="vl-thumb" src={v.photo.src} alt="" loading="lazy" /> : <div class="vl-thumb vl-thumb-empty" aria-hidden="true"></div>}
+            <div class="vl-card-head">
+              <span class="vl-badge">{TYPE_LABEL[v.type]}</span>
+              <span class="vl-areaname">{AREA_LABEL[v.area] ?? ''}</span>
+            </div>
+            <h2 class="vl-name">{name}</h2>
+            <dl class="vl-specs">
+              <div><dt>{t.specMax}</dt><dd>{cap ? `${t.people(fmt(cap.people))}${t.capLayout(LAYOUT_LABEL[cap.layout])}` : '—'}</dd></div>
+              <div><dt>{t.specRoom}</dt><dd>{area ? `${fmt(area)}㎡` : '—'}</dd></div>
+              <div><dt>{t.specRooms}</dt><dd>{v.rooms.length ? `${v.rooms.length}` : '—'}</dd></div>
+            </dl>
+            <ul class="vl-tags">
+            </ul>
+          </a>
+        </li>
+      ))}
+    </ul>
+    <p id="vl-empty" class="vl-empty" hidden>{t.empty}</p>
+
+    <p class="vl-note" set:html={t.noteHtml} />
+  </div>
+
+  <ContactCTA trackSource="venues_list" />
+</BaseLayout>
+
+<script>
+  const form = document.getElementById('vl-filter') as HTMLFormElement;
+  const items = Array.from(document.querySelectorAll<HTMLLIElement>('#vl-list .vl-item'));
+  const countEl = document.getElementById('vl-count')!;
+  const emptyEl = document.getElementById('vl-empty')!;
+  const $ = <T extends HTMLElement>(id: string) => document.getElementById(id) as T;
+
+  function apply() {
+    const name = $<HTMLInputElement>('f-name').value.trim().toLowerCase();
+    const type = $<HTMLSelectElement>('f-type').value;
+    const area = $<HTMLSelectElement>('f-area').value;
+    const layout = $<HTMLSelectElement>('f-layout').value;
+    const people = Number($<HTMLInputElement>('f-people').value) || 0;
+    const m2 = Number($<HTMLInputElement>('f-m2').value) || 0;
+    const flags = Array.from(form.querySelectorAll<HTMLInputElement>('input[data-flag]:checked')).map((c) => c.value);
+
+    let shown = 0;
+    for (const li of items) {
+      const d = li.dataset;
+      const cap = JSON.parse(d.cap || '{}') as Record<string, number>;
+      const have = (d.flags || '').split(' ');
+      const ok =
+        (!name || (d.name || '').includes(name)) &&
+        (!type || d.type === type) &&
+        (!area || d.area === area) &&
+        (!people || (cap[layout] ?? 0) >= people) &&
+        (!m2 || Number(d.maxarea) >= m2) &&
+        flags.every((f) => have.includes(f));
+      li.hidden = !ok;
+      if (ok) shown++;
+    }
+    countEl.textContent = String(shown);
+    emptyEl.hidden = shown !== 0;
+  }
+
+  // コラムからのリンク（?area=…／?people=…&layout=…）で条件を入れた状態で開く
+  const params = new URLSearchParams(location.search);
+  const setIf = (id: string, key: string) => { const val = params.get(key); if (val) $<HTMLInputElement | HTMLSelectElement>(id).value = val; };
+  setIf('f-area', 'area'); setIf('f-type', 'type'); setIf('f-layout', 'layout'); setIf('f-people', 'people'); setIf('f-m2', 'm2');
+  if (params.toString()) apply();
+
+  form.addEventListener('input', apply);
+  form.addEventListener('change', apply);
+  form.addEventListener('reset', () => setTimeout(apply, 0));
+</script>
+
+<style>
+.vl-wrap { max-width: 64rem; margin: 0 auto; padding: 2rem 1rem 4rem; }
+.vl-crumb { font-size: .8125rem; color: var(--color-text-muted); margin-bottom: 1.25rem; }
+.vl-crumb span { margin: 0 .25rem; }
+.vl-lead { font-size: 1rem; line-height: 1.8; color: var(--color-text); margin: 0 0 1.75rem; }
+.vl-filter {
+  display: grid; grid-template-columns: repeat(auto-fit, minmax(13rem, 1fr)); gap: 1rem 1.25rem;
+  background: var(--color-accent); border: 1px solid var(--color-border); border-radius: var(--radius-md);
+  padding: 1.25rem;
+}
+.vl-field { display: flex; flex-direction: column; gap: .375rem; min-width: 0; }
+.vl-field-wide { grid-column: 1 / -1; }
+.vl-field label, .vl-flags legend { font-size: .8125rem; font-weight: 700; color: var(--color-heading); }
+.vl-field input, .vl-field select {
+  font: inherit; font-size: 16px; padding: .5rem .625rem; border: 1px solid #c9c9dd; border-radius: var(--radius-sm);
+  background: #fff; min-width: 0; width: 100%;
+}
+.vl-inline { display: flex; gap: .5rem; align-items: center; }
+.vl-inline select { width: auto; flex: 0 0 auto; }
+.vl-unit { font-size: .875rem; color: var(--color-text-muted); flex: 0 0 auto; }
+.vl-flags { grid-column: 1 / -1; border: 0; padding: 0; margin: 0; display: flex; flex-wrap: wrap; gap: .5rem 1rem; }
+.vl-flags legend { margin-bottom: .5rem; padding: 0; }
+.vl-check { font-size: .875rem; display: inline-flex; align-items: center; gap: .375rem; cursor: pointer; }
+.vl-check input { width: 1.05rem; height: 1.05rem; accent-color: var(--color-brand); }
+.vl-actions { grid-column: 1 / -1; }
+.vl-reset { font: inherit; font-size: .875rem; background: none; border: 1px solid var(--color-border); padding: .375rem .875rem; border-radius: 999px; cursor: pointer; color: var(--color-text-muted); }
+.vl-count { margin: 1.5rem 0 .75rem; font-weight: 700; color: var(--color-heading); }
+.vl-count span { color: var(--color-brand); font-size: 1.25rem; }
+.vl-list { list-style: none; padding: 0; margin: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(18rem, 1fr)); gap: 1rem; }
+.vl-item[hidden] { display: none; }
+.vl-card {
+  display: flex; flex-direction: column; gap: .625rem; height: 100%; padding: 1.125rem; border: 1px solid var(--color-border);
+  border-radius: var(--radius-md); color: inherit; text-decoration: none; background: #fff; transition: border-color .15s, box-shadow .15s;
+}
+.vl-card:hover { text-decoration: none; border-color: var(--color-brand); box-shadow: 0 2px 10px rgba(21, 21, 179, .08); }
+.vl-thumb { width: calc(100% + 2.25rem); max-width: none; margin: -1.125rem -1.125rem .25rem; aspect-ratio: 16 / 9; object-fit: cover; border-radius: var(--radius-md) var(--radius-md) 0 0; display: block; background: var(--color-accent); }
+.vl-card { overflow: hidden; }
+.vl-card-head { display: flex; gap: .5rem; align-items: center; flex-wrap: wrap; }
+.vl-badge { font-size: .75rem; font-weight: 700; color: #fff; background: var(--color-brand); padding: .125rem .5rem; border-radius: 999px; }
+.vl-areaname { font-size: .75rem; color: var(--color-text-muted); }
+.vl-name { font-size: 1.125rem; font-weight: 700; color: var(--color-heading); margin: 0; line-height: 1.4; }
+.vl-specs { display: grid; grid-template-columns: repeat(3, auto); gap: .25rem 1rem; margin: 0; justify-content: start; }
+.vl-specs div { min-width: 0; }
+.vl-specs dt { font-size: .6875rem; color: var(--color-text-muted); }
+.vl-specs dd { margin: 0; font-size: .875rem; font-weight: 700; color: var(--color-text); }
+.vl-tags { list-style: none; padding: 0; margin: auto 0 0; display: flex; flex-wrap: wrap; gap: .375rem; }
+.vl-tags li { font-size: .6875rem; padding: .125rem .5rem; border-radius: 999px; background: var(--color-accent); border: 1px solid var(--color-border); color: var(--color-brand); }
+.vl-tags li.t-shop { background: #fff7e6; border-color: #f3dcae; color: #8a5a00; }
+.vl-empty { padding: 2rem 0; color: var(--color-text-muted); }
+.vl-note { margin-top: 2rem; font-size: .8125rem; color: var(--color-text-muted); line-height: 1.7; }
+@media (max-width: 480px) {
+  .vl-specs { grid-template-columns: repeat(2, auto); }
+}
+</style>

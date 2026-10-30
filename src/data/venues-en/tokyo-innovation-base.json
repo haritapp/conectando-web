@@ -1,0 +1,38 @@
+{
+ "slug": "tokyo-innovation-base",
+ "name": "Tokyo Innovation Base",
+ "address": "Tokyo 100-0005 Tokyo Innovation Base, 3-8-3 Marunouchi, Chiyoda-ku, Tokyo",
+ "accessSummary": "1 min walk from Yurakucho Station (JR Yamanote Line / Keihin-Tohoku Line), Kyobashi Exit; right at Exit D9 of Yurakucho Station (Tokyo Metro Yurakucho Line); 3 min walk from Exit 1 of Ginza-itchome Station (Tokyo Metro Yurakucho Line)",
+ "hours": "Open Weekdays 10:00-21:00, Sat, Sun & holidays 10:00-17:00 (until 22:00 when an event is held). Last entry 30 min before closing",
+ "notice": "Only registered TIB Partner organizations can hold events and seminars (registration takes 2-3 months; requests less than 1 month before the event date cannot be accepted).",
+ "rooms": [],
+ "ops": {
+  "catering": "Outside food/drink brought in is allowed only for light, odorless snacks for personal consumption (such as rice balls and sandwiches) and beverages. Alcohol may not be brought in as a rule, but if it is necessary for an event or seminar, an organizer such as a TIB Partner may bring it in with approval from the secretariat. (Source: FAQ, Facility Terms of Use revised May 8, 2025)",
+  "restaurants": "There is a CAFE & BAR and a SHOP on the 1st floor of the building. There are no vending machines in the building.",
+  "parking": "The facility has no parking or bicycle parking; use paid parking lots and similar facilities in the surrounding area. (Source: Facility Terms of Use revised May 8, 2025)"
+ },
+ "documents": [
+  { "title": "Facility Terms of Use (revised May 8, 2025)" },
+  { "title": "Frequently Asked Questions" },
+  { "title": "TIB Partner" }
+ ],
+ "nearby": {
+  "convenience": [
+   { "name": "FamilyMart Tokyo International Forum", "hours": "7:00-23:30", "note": null },
+   { "name": "7-Eleven Yurakucho ITOCiA", "hours": "7:00-23:00 (Mon-Sun & holidays)", "note": null }
+  ],
+  "copyshop": [
+   { "name": "ACCEA Kyobashi", "hours": "Weekdays 8:00-22:00, Sat, Sun & holidays 10:00-19:00", "note": null },
+   { "name": "Kinko's Ginza-itchome", "hours": "Weekdays 9:00-20:00 / Sat 10:00-19:00 / Sun & holidays closed", "note": null }
+  ],
+  "hundredYen": [
+   { "name": "DAISO Marronnier Gate Ginza", "hours": "11:00-21:00", "note": null },
+   { "name": "Standard Products Yaechika", "hours": "10:00-20:00", "note": null }
+  ],
+  "donki": [
+   { "name": "Okashi Donki / Osake Donki (Yaechika, Yaesu Underground Shopping Center)", "hours": "9:00-21:30", "note": null },
+   { "name": "Don Quijote Ginza Main Building (Ginza Nine Building No. 3)", "hours": "Open 24 hours", "note": null }
+  ]
+ },
+ "photoCredit": "Photo: Conectando"
+}

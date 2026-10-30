@@ -9,8 +9,7 @@ const navLinks = [
   { key: 'nav.service' as const, href: lang === 'en' ? '/en/service' : '/service' },
   { key: 'nav.case' as const, href: lang === 'en' ? '/en/case' : '/case' },
   { key: 'nav.blog' as const, href: lang === 'en' ? '/en/column' : '/column' },
-  // 会場リストは日本語版のみ（英語版は未作成）
-  ...(lang === 'ja' ? [{ key: 'nav.venues' as const, href: '/venues' }] : []),
+  { key: 'nav.venues' as const, href: lang === 'en' ? '/en/venues' : '/venues' },
   { key: 'nav.about' as const, href: lang === 'en' ? '/en/about' : '/about' },
   { key: 'nav.news' as const, href: lang === 'en' ? '/en/news' : '/news' },
   { key: 'nav.contact' as const, href: lang === 'en' ? '/en/contact' : '/contact' },
@@ -39,8 +38,7 @@ if (enArticleMatch || jaArticleMatch) {
     const entry = columnEntries.find((e) => e.data.lang === 'ja' && e.data.slug === jaArticleMatch[1]);
     enPath = entry?.data.altSlug ? `/en/column/${entry.data.altSlug}/` : '/en/';
   }
-} else if (isColumnPath || pathname === '/venues' || pathname.startsWith('/venues/')) {
-  // 会場リストは英語版が未作成なので英語トップへ
+} else if (isColumnPath) {
   enPath = '/en/';
 }
 ---

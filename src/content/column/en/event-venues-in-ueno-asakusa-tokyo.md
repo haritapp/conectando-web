@@ -85,6 +85,8 @@ https://bizintokyo.com/en/hotels/ueno-seiyoken/
 
 https://bizintokyo.com/en/hotels/taito-millennium-hall/
 
+To compare venues in Tokyo and Yokohama by capacity and size, and to check floor plans, price lists and the official load-in and waiting-room rules, see the [venue list](/en/venues/) (more venues are being added).
+
 ## Related articles
 
 - [What to Decide Before Choosing an Event Venue in Tokyo](/en/column/what-to-decide-before-choosing-an-event-venue-in-tokyo/)

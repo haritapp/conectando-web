@@ -3,6 +3,8 @@ import { getCollection } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import { formatDateDot } from '../../lib/date';
 import ContactCTA from '../../components/ContactCTA.astro';
+import { getVenues, maxCapacity } from '../../lib/venues';
+import { localizeVenue, UI, TYPE_LABEL_I, LAYOUT_LABEL_I, AREA_LABEL_I, venuePathI, formatNumberI } from '../../lib/venues-i18n';
 import { newsItemsEN, formatNewsDateDotEN } from '../../data/news-en';
 
 const services = [
@@ -85,6 +87,8 @@ const columns = columnEntries.slice(0, 3).map((entry) => ({
   img: entry.data.heroImage,
 }));
 
+// VENUES：最大収容人数の多い順に3会場（人数は日本語の元データで計算し、文字だけ英語にする）
+const topVenues = getVenues().slice(0, 3).map((src) => ({ v: localizeVenue(src, 'en'), cap: maxCapacity(src) }));
 const news = newsItemsEN.slice(0, 3).map(n => ({ date: formatNewsDateDotEN(n.date), title: n.title, href: n.href, external: n.external }));
 ---
 
@@ -181,6 +185,24 @@ const news = newsItemsEN.slice(0, 3).map(n => ({ date: formatNewsDateDotEN(n.dat
         ))}
       </div>
     </div>
+    <!-- VENUES（コラムの下・お知らせの上） -->
+    <div class="vn-block">
+      <div class="sec-head-row">
+        <div class="sec-label">VENUES</div>
+        <a href="/en/venues" class="text-cta">See all venues <span class="btn-dot">●</span></a>
+      </div>
+      <p class="vn-lead">A venue list for people who run events. Search by capacity, size and area, and find floor plans and price lists, the venues’ official rules on load-in and waiting rooms, and nearby print shops and Don Quijote on a single page.</p>
+      <div class="col-grid">
+        {topVenues.map(({ v, cap }) => (
+          <a href={venuePathI(v.slug, 'en')} class="col-card">
+            {v.photo && <img src={v.photo.src} alt={v.nameEn} class="col-img" loading="lazy" />}
+            <span class="col-date">{TYPE_LABEL_I.en[v.type]} · {AREA_LABEL_I.en[v.area] ?? ''}</span>
+            <span class="col-title">{v.nameEn}</span>
+            {cap && <span class="col-date">Up to {formatNumberI(cap.people, 'en')} people ({LAYOUT_LABEL_I.en[cap.layout]})</span>}
+          </a>
+        ))}
+      </div>
+    </div>
     <div class="news-block">
       <div class="sec-head-row">
         <div class="sec-label">NEWS</div>
@@ -268,6 +290,8 @@ const news = newsItemsEN.slice(0, 3).map(n => ({ date: formatNewsDateDotEN(n.dat
 .svc-sec { padding-top: 6rem; }
 .cases-sec { padding-top: 7rem; }
 .why-sec { padding-top: 7rem; }
+.vn-block { margin-top: 5rem; }
+.vn-lead { margin: .75rem 0 0; font-size: .9375rem; color: var(--color-text); line-height: 1.8; max-width: 48rem; }
 .cn-sec { padding-top: 7rem; }
 
 /* ─── Right CTA (view all) ─── */
@@ -407,6 +431,7 @@ const news = newsItemsEN.slice(0, 3).map(n => ({ date: formatNewsDateDotEN(n.dat
   .svc-sec { padding-top: 3.5rem; }
   .cases-sec { padding-top: 3.5rem; }
   .why-sec { padding-top: 3.5rem; }
+  .vn-block { margin-top: 3rem; }
   .cn-sec { padding-top: 3.5rem; }
 
   .svc-grid { grid-template-columns: 1fr; gap: 0; }

@@ -1,0 +1,68 @@
+{
+ "slug": "bunkyo-civic-hall",
+ "name": "Bunkyo Civic Hall",
+ "address": "Tokyo 112-0003 Bunkyo Civic Center, 1-16-21 Kasuga, Bunkyo-ku",
+ "accessSummary": "Directly connected to Korakuen Station (Tokyo Metro Marunouchi Line and Namboku Line) / Directly connected to Kasuga Station (Toei Mita Line and Oedo Line) / About 10 min walk from JR Suidobashi Station (East Exit)",
+ "hours": null,
+ "notice": null,
+ "rooms": [
+  {
+   "name": "Main Hall",
+   "note": "Fixed seating (1,242 seats on the 1st floor and 560 on the 2nd floor; plus 5 parent-and-child room seats and 6 wheelchair spaces). 1,080 seats when the orchestra pit is used. Proscenium style; stage 45 m wide x 20 m deep (including 25 m of stage wings), proscenium opening 20 m wide x 14 m high. 1st floor"
+  },
+  {
+   "name": "Small Hall",
+   "note": "341 seats (299 motorized retractable seats + 42 movable chairs). With the motorized seats stored (flat-floor format): 15 m wide x 21 m deep, ceiling height 7 m. The stage is a lift type, 12.9 m wide x 4.9 m deep. South side, 2nd floor"
+  },
+  {
+   "name": "Sky Hall",
+   "note": "Approx. 18 m x 11.5 m. 26th floor. The official page announces that rental is suspended for the time being because the hall is used as a committee room of the Bunkyo Ward Assembly. Events with a commercial purpose and events open to an unspecified public are not allowed. An attached conference room (39.3 m², about 8 people) is available"
+  },
+  {
+   "name": "Conference Room 1",
+   "note": "Capacity 60 (no layout specified). 3rd floor, north side. 20 desks and 60 chairs. Can be used together with Conference Room 2 by removing the partition between them"
+  },
+  {
+   "name": "Conference Room 2",
+   "note": "Capacity 30 (no layout specified). 3rd floor, north side. 10 desks and 30 chairs. Can be used together with Conference Room 1 by removing the partition between them"
+  },
+  {
+   "name": "Conference Rooms 1 & 2 (Combined Use)",
+   "note": "Capacity 90 (no layout specified). 30 desks and 90 chairs. Audio equipment such as microphones can be used only when the rooms are used combined. The official page states that they can also be used as waiting rooms for the Main Hall and Small Hall"
+  }
+ ],
+ "ops": {
+  "catering": "Eating and drinking is prohibited in the seating area. Eating and drinking is allowed in the lobby, and staff and performers can eat in the dressing rooms or conference rooms. Displaying, selling or serving food and drink is not allowed without permission. Trash, lunch boxes and fresh flowers from the dressing rooms must be taken home by the organizer (the hall will collect them for a fee). (Source: Main Hall Usage Guide PDF, February 2026 edition)",
+  "restaurants": "There is a cafe in the lobby (1st floor). Whether a lobby cafe will operate is one of the items checked at the stage meeting held about one month before the day of use. (Source: Main Hall Usage Guide PDF, February 2026 edition)",
+  "prevDaySetup": "The usage time stated in the usage approval certificate includes all of load-in, preparation, cleanup and load-out; opening early or extending beyond the time is not allowed. In the table of guideline preparation and cleanup times, the preparation entry for symposiums and academic conferences is \"day-before setup\" and cleanup is 1 hour 30 minutes (remark: for large-scale events such as national conventions). When only the stage is used on a day other than the performance day for setup, teardown or rehearsal, the usage fee is reduced by 50% on the condition that the seating area is not used (rounded up to the nearest 1,000 yen). (Source: Main Hall Usage Guide PDF, February 2026 edition; Main Hall official page)",
+  "waitingRooms": "The Main Hall has 8 dressing rooms, all available for a fee. Dressing Rooms 1 and 2 (2nd floor) are each 71.03 m² for 30 people (can be divided into two). Dressing Rooms 3 and 4 (1st floor) are each 15.06 m² for 1 person (with unit bath). Dressing Room 5 (1st floor) is 34.29 m² for 9 people. Dressing Room 6 (1st basement floor) is 35.93 m² for 15 people. Dressing Room 7 (1st basement floor) is 57.13 m² for 24 people (Japanese-style and Western-style rooms). Dressing Room 8 (1st basement floor) is 52.72 m² for 24 people (Japanese-style room). There is an organizer waiting room (6 people) in the lobby. The Small Hall has Dressing Room A (19.53 m², 6 people) and Dressing Room B (12.85 m², 4 people), as well as Dressing Room 9 (32.37 m², 12 people) and Dressing Room 10 (34.92 m², 12 people), which are available for a fee. (Source: Main Hall Usage Guide PDF, February 2026 edition; Small Hall official page)",
+  "loadingHours": "The Main Hall loading dock is on the 1st floor, holds two 11-ton trucks and is adjacent to the stage wings (14.8 m deep x 8.3 m wide x 3.88 m high). Load-in and load-out must be done within the approved usage time, and entry to the building before the usage time is not possible (opening hours are 9:00-22:00). Entry is through the dressing room entrance or the loading dock after completing procedures at the Bunkyo Academy office (2nd floor). Contractors entering through the dressing room entrance must apply in advance for the \"entering contractors list\". Load-in and load-out are confirmed at the stage meeting held about one month before the day of use. (Source: Main Hall Usage Guide PDF, February 2026 edition)",
+  "parking": "The organizer-only parking is on the 2nd basement floor of Bunkyo Civic Center, with 6 spaces, free of charge during the usage time only. Size limit: 6 m deep x 2 m wide x 2.5 m high. The number of spaces is limited, and whether it can be used is discussed at the meeting. Other vehicles use the general underground parking of the Civic Center (B1 and B2, 130 spaces, height limit 2.5 m, 250 yen per 30 minutes), which may be full and cannot be reserved. The Small Hall's organizer-only parking has 3 spaces inside the 1st floor parking area. (Source: Main Hall Usage Guide PDF, February 2026 edition; official access page; Small Hall official page)",
+  "vehicleRules": "The Main Hall's 1st floor loading dock and the 6-space dedicated parking on the 2nd basement floor are free to use only within the facility usage time, and the departure time limit includes parking time. When using the dedicated parking, display the parking slip (pink, handed over at the stage meeting) on the windshield before entering and park in the designated place. If a road use permit is required, notify the Tomisaka Police Station (03-3817-0110). (Source: Main Hall Usage Guide PDF, February 2026 edition; Main Hall official page)"
+ },
+ "documents": [
+  { "title": "Main Hall Usage Guide (February 2026)" },
+  { "title": "Main Hall Additional Equipment Fee List" },
+  { "title": "Procedure for Applying for Approval to Lift Prohibited Acts" },
+  { "title": "Access" }
+ ],
+ "nearby": {
+  "convenience": [
+   { "name": "FamilyMart Bunkyo Civic Center", "hours": "7:30-20:00", "note": null },
+   { "name": "Lawson MS GARDEN", "hours": "Open 24 hours", "note": null },
+   { "name": "FamilyMart Bunkyo Koishikawa 2-chome", "hours": "Open 24 hours", "note": null }
+  ],
+  "copyshop": [
+   { "name": "Accea Kasuga", "hours": "Weekdays 10:00-21:00, closed Sat, Sun & holidays", "note": null },
+   { "name": "Accea Suidobashi", "hours": "Weekdays 8:00-22:00, Sat, Sun & holidays 10:00-19:00", "note": null }
+  ],
+  "hundredYen": [
+   { "name": "DAISO Metro M Korakuen", "hours": "10:00-21:00", "note": null },
+   { "name": "Can Do Elage Koishikawa", "hours": "Mon-Sun 10:00-21:00", "note": null }
+  ],
+  "donki": [
+   { "name": "Don Quijote Korakuen", "hours": "Open 24 hours", "note": null }
+  ]
+ },
+ "photoCredit": null
+}
