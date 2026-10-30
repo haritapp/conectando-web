@@ -1,0 +1,249 @@
+{
+ "slug": "ariake-arena",
+ "nameJa": "有明アリーナ",
+ "nameEn": "ARIAKE ARENA",
+ "type": "hall",
+ "area": "odaiba-ariake-venues",
+ "address": "〒135-0063 東京都江東区有明1丁目11番1号",
+ "officialUrl": "https://ariake-arena.tokyo",
+ "organizerUrl": "https://ariake-arena.tokyo/organizer/",
+ "bizintokyoSlug": "ariake_arena",
+ "accessSummary": "ゆりかもめ「有明テニスの森」駅 徒歩約8分／ゆりかもめ「新豊洲」駅 徒歩約8分／東京BRT「有明テニスの森」停留場 徒歩約8分／りんかい線「国際展示場」駅 徒歩約17分／りんかい線「東雲」駅 徒歩約17分",
+ "notice": "BOX席1・2は貸出不可。更衣室7・8と会議室2は、メインアリーナ利用者がサブアリーナを同時に利用する場合のみ貸出可（利用料金表 2026年7月現在）",
+ "hours": "メインアリーナの基本利用時間は8:00〜23:00（基本利用料は8:00〜23:00の任意の連続12時間が1単位、超過は延長料金）、サブアリーナは7:00〜23:00。サブアリーナ単独利用を除く催事（式典・展示会・物販・イベント等）の本番利用可能時間は10:00〜22:00（メインアリーナとの併催時も同条件）。保守点検のための休館日が不定期にある（利用案内 2024年5月現在、利用料金表 2026年7月現在）",
+ "rooms": [
+  {
+   "name": "メインアリーナ（1F）",
+   "areaM2": 4100,
+   "ceilingM": 23,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "約4,100㎡（長辺約76m×短辺約54m）、高さ約23m。総客席約15,000席（可動観覧席2,928席を含む。1階アリーナ仮設客席利用時が最大）。固定席は2階2,734席・3階4,408席・4階4,090席（計11,232席）、車いす席（随行者席）・付加アメニティー席は2階229席・3階32席・4階8席（利用案内 2024年5月現在）。レイアウト別の想定総観客人数は、センターステージ約15,000人、スタンディング約14,500人（立席約5,400席）、エンドステージ約13,000人、サイドステージ約12,000人、バレーボール約14,500人、バスケットボール約14,500人（レイアウト図PDF）"
+  },
+  {
+   "name": "サブアリーナ（1F）",
+   "areaM2": 1400,
+   "ceilingM": 12.5,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "約1,400㎡（長辺約40.5m×短辺約34.5m）、高さ約12.5m。全面・半面で利用可。仮設観覧席400席＋コートサイド席146席で最大546席（レイアウト図PDF）。基本利用時間7:00〜23:00。サブアリーナ単独で使うにはサブアリーナ団体登録が必要（メインアリーナと一体で使う場合は不要）"
+  },
+  {
+   "name": "会議室1（1F）",
+   "areaM2": 294,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "3分割で使用可。利用料金表（2026年7月現在）は294㎡、利用案内のフロア図（2024年5月現在）は308㎡"
+  },
+  {
+   "name": "記者室（1F）",
+   "areaM2": 315,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "3分割で使用可"
+  },
+  {
+   "name": "会議室2（1F）",
+   "areaM2": 26,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "メインアリーナ利用者はサブアリーナを同時に利用する場合のみ貸出可"
+  },
+  {
+   "name": "多目的室（1F）",
+   "areaM2": 26,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": null
+  }
+ ],
+ "roomsSource": "https://ariake-arena.tokyo/organizer/facilities/ ／ https://ariake-arena.tokyo/wp-content/themes/ariake-arena/assets/images/page/riyoannai.pdf ／ https://ariake-arena.tokyo/wp-content/themes/ariake-arena/assets/images/page/riyoryoukin.pdf",
+ "ops": {
+  "prevDaySetup": {
+   "text": "利用料金表に「準備」の区分があり、設営・撤去・リハーサル・休演などの日が対象。メインアリーナの準備日（8:00〜23:00の連続12時間が1単位）の料金は、コンサート・ショーと式典・集会・展示会等が平日2,750,000円／土日祝3,300,000円、興行スポーツが平日1,650,000円／土日祝3,300,000円、スポーツ利用（入場料なし・7,000円未満・7,000円以上）が平日275,000円／土日祝550,000円（税込）。準備日の延長は1時間あたり、コンサート・ショーと式典・集会・展示会等が平日231,000円／土日祝297,000円、興行スポーツが平日148,500円／土日祝231,000円、スポーツ利用が平日24,200円／土日祝49,500円。サブアリーナの準備日等は1日あたり式典・集会・展示会等が平日154,000円／土日祝220,000円、スポーツ利用（入場料なし）が平日61,600円／土日祝79,200円。2027年7月1日から料金が改定され、新料金表（Ver.10）ではメインアリーナの準備日がコンサート・ショーと式典・集会・展示会等で平日3,025,000円／土日祝4,290,000円、興行スポーツで平日1,815,000円／土日祝4,290,000円になる。（出典：有明アリーナ 利用料金表 Ver.9.0 2026年7月現在、新料金表 Ver.10 2027年7月〜適用）",
+   "source": "https://ariake-arena.tokyo/wp-content/themes/ariake-arena/assets/images/page/riyoryoukin.pdf"
+  },
+  "vehicleRules": {
+   "text": "施設内の来場者の整理と、搬入出車両の整理・管理は利用者の責任で行う。搬入出計画・交通整理要員の配置計画・駐車場確保については湾岸警察署（交通課）への届出が必要で、利用者自身が行う（必要に応じて関係者協議の支援あり）。会場周辺警備は指定会社制で、指定会社以外は行えない。施設の保全と設営・撤去作業の安全確保のため、指定会社制度も導入されている。（出典：施設利用に関するご案内 2024年5月現在）",
+   "source": "https://ariake-arena.tokyo/wp-content/themes/ariake-arena/assets/images/page/riyoannai.pdf"
+  },
+  "parking": {
+   "text": "メインアリーナ利用者（主催者側関係者）の駐車は、施設利用料金に70台＋大型車両10台分が含まれ、追加の利用枠は27台まで1日150,000円（税込）（利用料金表 2026年7月現在）。駐車場は主催者向けと、サブアリーナ・レストラン・スポーツジム来場者向けにゾーニングされている。イベント来場者向けの駐車場はなく、公共交通機関の利用を案内している。サブアリーナ・レストラン向けの駐車場は普通乗用車33台（身障者用5台を含む）で、料金は150円／30分（1時間以降は300円／1時間、各受付で駐車券を提示）、それ以外は1,000円／30分。駐輪場は165台（FAQ）。",
+   "source": "https://ariake-arena.tokyo/wp-content/themes/ariake-arena/assets/images/page/riyoryoukin.pdf"
+  },
+  "waitingRooms": {
+   "text": "1Fに更衣室8室（更衣室1〜6は80〜94㎡でロッカー・シャワールーム3・トイレ2付き、更衣室7・8は88㎡と102㎡でロッカー・シャワー3・トイレ2付き）、監督室2室（各9㎡）、記録員控室21㎡、西側更衣室24㎡、医務室83㎡（ドーピングコントロール室・作業室を含む）、記者室315㎡（3分割可）、会議室1（294㎡、3分割可）、会議室2（26㎡）、多目的室26㎡がある。1日の使用料（興行）は、更衣室1〜6が33,000円、更衣室7・8が16,500円、会議室1と記者室が66,000円、医務室が33,000円、監督室・記録員控室・西側更衣室・多目的室・会議室2が11,000円（税込。スポーツ料金は更衣室1〜6が11,000円など）。更衣室7・8と会議室2は、メインアリーナ利用者がサブアリーナを同時に利用する場合のみ貸出可。VIPエリアはVVIP（貴賓室）22㎡が1日102,850円（興行）、BOX席3〜6が1日80,410〜280,500円（BOX席1・2は貸出不可、BOX席は要問い合わせ）。屋外の貸出テント（2m×3m、6張）をストック・控室に使う場合は1日33,000円。（出典：利用料金表 Ver.9.0 2026年7月現在。更衣室の面積は利用案内のフロア図 2024年5月現在では94／87／87／94／81／80／92／103㎡の表記）",
+   "source": "https://ariake-arena.tokyo/wp-content/themes/ariake-arena/assets/images/page/riyoryoukin.pdf"
+  },
+  "catering": {
+   "text": "設備・機器の操作、飲食の提供、会場周辺警備などいくつかの業務は指定会社に限定される（指定会社一覧表は施設担当者に確認）。ケータリング等のサービスは施設から提供・紹介が可能。VIPエリア内のケータリングは指定業者制。試飲試食は江東区保健所（生活衛生課環境衛生係）への許可申請が必要で、利用者自身が行う。キッチンカーの設置は、持ち込み使用料が1台1日33,000円（W5.4m×D3.6m以内）、コラボ商品・物販展開は220,000円（税込）。売店のアルコール類は主催者の意向で販売不可にできる。（出典：施設利用に関するご案内 2024年5月現在、利用料金表 Ver.9.0 2026年7月現在、公式サイトFLOOR/RESTAURANT）",
+   "source": "https://ariake-arena.tokyo/wp-content/themes/ariake-arena/assets/images/page/riyoannai.pdf"
+  },
+  "restaurants": {
+   "text": "1Fにレストラン「ARIAKE ARENA DINING MOON RIVER」（399㎡・58席、TEL 03-6426-0678）があり、営業時間はランチ11:30〜15:00（LO14:30）、ディナー17:00〜21:00（LO20:00）、月曜定休（定休日が興行開催の場合は翌日）、メインアリーナ興行日は通し営業、サブアリーナ興行日は変動あり。2Fに「ARIAKE ARENA CAFE」（メインアリーナ興行開催日のみ営業、興行時間に準じる）があり、売店は2階コンコース5か所・3階コンコース2か所の計7か所（興行開催日に準じて営業、催事により営業しない・縮小する場合あり）。（出典：公式サイト RESTAURANT、FAQ）",
+   "source": "https://ariake-arena.tokyo/restaurant/"
+  }
+ },
+ "documents": [
+  {
+   "title": "施設利用に関するご案内（2024年5月現在）",
+   "url": "https://ariake-arena.tokyo/wp-content/themes/ariake-arena/assets/images/page/riyoannai.pdf"
+  },
+  {
+   "title": "利用料金表 Ver.9.0（2026年7月現在）",
+   "url": "https://ariake-arena.tokyo/wp-content/themes/ariake-arena/assets/images/page/riyoryoukin.pdf"
+  },
+  {
+   "title": "新料金表 Ver.10（2027年7月1日〜適用）",
+   "url": "https://ariake-arena.tokyo/wp-content/themes/ariake-arena/assets/images/page/riyoryoukin202707.pdf"
+  },
+  {
+   "title": "施設利用および付帯利用料金改定のお知らせ（2026.09.01）",
+   "url": "https://ariake-arena.tokyo/news/260901/"
+  },
+  {
+   "title": "メインアリーナ レイアウトパターン（利用例）",
+   "url": "https://ariake-arena.tokyo/wp-content/themes/ariake-arena/assets/images/page/main-arena_layout.pdf"
+  },
+  {
+   "title": "サブアリーナ レイアウトパターン（利用例）",
+   "url": "https://ariake-arena.tokyo/wp-content/themes/ariake-arena/assets/images/page/sub_example.pdf"
+  },
+  {
+   "title": "メインアリーナ基本料金シミュレーター",
+   "url": "https://ariake-arena.tokyo/simulator/"
+  },
+  {
+   "title": "主催者の方へ",
+   "url": "https://ariake-arena.tokyo/organizer/"
+  },
+  {
+   "title": "施設案内",
+   "url": "https://ariake-arena.tokyo/organizer/facilities/"
+  },
+  {
+   "title": "フロアガイド",
+   "url": "https://ariake-arena.tokyo/floor/"
+  },
+  {
+   "title": "レストラン・売店",
+   "url": "https://ariake-arena.tokyo/restaurant/"
+  },
+  {
+   "title": "アクセス",
+   "url": "https://ariake-arena.tokyo/access/"
+  },
+  {
+   "title": "よくあるご質問",
+   "url": "https://ariake-arena.tokyo/faq/"
+  }
+ ],
+ "checkedAt": "2026-10-30",
+ "lat": 35.6433415,
+ "lng": 139.7944632,
+ "nearby": {
+  "convenience": [
+   {
+    "name": "ファミリーマート 江東有明店",
+    "brand": "ファミリーマート",
+    "distanceM": 217,
+    "walkMin": 3,
+    "hours": "24時間",
+    "address": "東京都江東区有明1-1-17",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/26415",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "ローソン 江東東雲店",
+    "brand": "ローソン",
+    "distanceM": 553,
+    "walkMin": 7,
+    "hours": "24時間営業",
+    "address": "東京都江東区東雲2-3-22",
+    "verified": true,
+    "source": "https://www.areamarker.com/lawson/info/279812",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "セブン-イレブン 東雲店",
+    "brand": "セブン-イレブン",
+    "distanceM": 602,
+    "walkMin": 8,
+    "hours": "6:00-24:00（月〜日・祝）",
+    "address": "東京都江東区東雲1-8-17",
+    "verified": true,
+    "source": "https://seven-eleven.areamarker.com/711map/info/007114",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "アクセア 東京ビッグサイト前店",
+    "brand": "アクセア",
+    "distanceM": 1359,
+    "walkMin": 17,
+    "hours": "平日8:00〜22:00、土日祝10:00〜19:00",
+    "address": "東京都江東区有明3-7-26 有明フロンティアビル1F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/map/tokyobigsightmae.html",
+    "note": "距離は住所の位置で計算。公式の設備欄に「平日24時間営業」の表示あり（セルフ設備）"
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "DAISO 有明ガーデン店",
+    "brand": "ダイソー",
+    "distanceM": 725,
+    "walkMin": 10,
+    "hours": "10:00-21:00",
+    "address": "東京都江東区有明2-1-8 有明ガーデン3階",
+    "verified": true,
+    "source": "https://www.daiso-sangyo.co.jp/shop/detail/002129",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "DAISO イオン東雲店",
+    "brand": "ダイソー",
+    "distanceM": 752,
+    "walkMin": 10,
+    "hours": "9:00-21:00",
+    "address": "東京都江東区東雲1-9-10 イオン東雲2階",
+    "verified": true,
+    "source": "https://www.daiso-sangyo.co.jp/shop/detail/002912",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "donki": []
+ },
+ "drinkDelivery": {
+  "available": true
+ },
+ "photo": {
+  "src": "/images/venues/ariake-arena.jpg",
+  "credit": "© Hatszerv / CC0 · Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E6%9C%89%E6%98%8E%E3%82%A2%E3%83%AA%E3%83%BC%E3%83%8A.jpg"
+ }
+}

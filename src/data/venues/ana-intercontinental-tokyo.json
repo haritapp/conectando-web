@@ -1,0 +1,631 @@
+{
+ "slug": "ana-intercontinental-tokyo",
+ "nameJa": "ANAインターコンチネンタルホテル東京",
+ "nameEn": "ANA InterContinental Tokyo",
+ "type": "hotel",
+ "area": "toranomon-roppongi-venues",
+ "address": "〒107-0052 東京都港区赤坂1-12-33",
+ "officialUrl": "https://anaintercontinental-tokyo.jp/",
+ "organizerUrl": "https://anaintercontinental-tokyo.jp/meet/",
+ "bizintokyoSlug": "ana_intercontinental",
+ "accessSummary": "溜池山王駅（銀座線・南北線）13番出口 徒歩1分／六本木一丁目駅（南北線）3番出口 徒歩2分／赤坂駅（千代田線）5番出口 徒歩10分／神谷町駅（日比谷線）4B出口 徒歩10分",
+ "notice": null,
+ "hours": null,
+ "rooms": [
+  {
+   "name": "B1F ボールルーム プロミネンス 全室",
+   "areaM2": 1892,
+   "ceilingM": 7.0,
+   "theater": 2000,
+   "school": 1080,
+   "ushape": null,
+   "standing": 2200,
+   "banquet": 870,
+   "note": "公式の説明文は面積1,565㎡（I+II+III）、スペック表は全室1,892㎡。2022年6月版PDFは全室1,892㎡・I+II+III 1,565㎡で、設営例の正餐は810名（表は870名）。中宴会場とロビーを連結した立食は最大3,000名（約3,200㎡）と案内"
+  },
+  {
+   "name": "B1F プロミネンス I+II または II+III（2/3）",
+   "areaM2": 1030,
+   "ceilingM": 7.0,
+   "theater": 1200,
+   "school": 756,
+   "ushape": null,
+   "standing": 1300,
+   "banquet": 570,
+   "note": null
+  },
+  {
+   "name": "B1F プロミネンス 半室（Iまたは III の半分）",
+   "areaM2": 783,
+   "ceilingM": 7.0,
+   "theater": 800,
+   "school": 528,
+   "ushape": 99,
+   "standing": 700,
+   "banquet": 400,
+   "note": "ロの字 132名"
+  },
+  {
+   "name": "B1F プロミネンス I または III（1/3）",
+   "areaM2": 535,
+   "ceilingM": 7.0,
+   "theater": 530,
+   "school": 336,
+   "ushape": 87,
+   "standing": 400,
+   "banquet": 270,
+   "note": "ロの字 108名"
+  },
+  {
+   "name": "B1F プロミネンス II（1/3）",
+   "areaM2": 495,
+   "ceilingM": 7.0,
+   "theater": 440,
+   "school": 336,
+   "ushape": 84,
+   "standing": 350,
+   "banquet": 250,
+   "note": "ロの字 102名"
+  },
+  {
+   "name": "B1F バンケットルーム ギャラクシー 全室（I+II+III）",
+   "areaM2": 660,
+   "ceilingM": 3.0,
+   "theater": 734,
+   "school": 456,
+   "ushape": null,
+   "standing": 550,
+   "banquet": 280,
+   "note": null
+  },
+  {
+   "name": "B1F ギャラクシー I+II（2/3）",
+   "areaM2": 397,
+   "ceilingM": 3.0,
+   "theater": 372,
+   "school": 252,
+   "ushape": 75,
+   "standing": 300,
+   "banquet": 180,
+   "note": "ロの字 90名"
+  },
+  {
+   "name": "B1F ギャラクシー I",
+   "areaM2": 195,
+   "ceilingM": 3.0,
+   "theater": 144,
+   "school": 98,
+   "ushape": 36,
+   "standing": 130,
+   "banquet": 80,
+   "note": "ロの字 48名"
+  },
+  {
+   "name": "B1F ギャラクシー II",
+   "areaM2": 202,
+   "ceilingM": 3.0,
+   "theater": 140,
+   "school": 98,
+   "ushape": 36,
+   "standing": 130,
+   "banquet": 80,
+   "note": "ロの字 48名"
+  },
+  {
+   "name": "B1F ギャラクシー III",
+   "areaM2": 263,
+   "ceilingM": 3.0,
+   "theater": 220,
+   "school": 144,
+   "ushape": 48,
+   "standing": 150,
+   "banquet": 110,
+   "note": "ロの字 60名"
+  },
+  {
+   "name": "B1F バンケットルーム グローリー",
+   "areaM2": 208,
+   "ceilingM": 3.0,
+   "theater": 199,
+   "school": 130,
+   "ushape": 45,
+   "standing": 130,
+   "banquet": 90,
+   "note": "ロの字 54名"
+  },
+  {
+   "name": "B1F バンケットルーム オーロラ",
+   "areaM2": 184,
+   "ceilingM": 3.0,
+   "theater": 156,
+   "school": 96,
+   "ushape": 36,
+   "standing": 110,
+   "banquet": 80,
+   "note": "ロの字 48名"
+  },
+  {
+   "name": "B1F バンケットルーム プリズム",
+   "areaM2": 144,
+   "ceilingM": 3.0,
+   "theater": 150,
+   "school": 90,
+   "ushape": 37,
+   "standing": 70,
+   "banquet": 60,
+   "note": "ロの字 44名"
+  },
+  {
+   "name": "B1F バンケットルーム ルミナス",
+   "areaM2": 141,
+   "ceilingM": 3.0,
+   "theater": 114,
+   "school": 80,
+   "ushape": 37,
+   "standing": 70,
+   "banquet": 60,
+   "note": "ロの字 44名。シアターは公式サイトと2025年3月版ブローシャが114名、2022年6月版PDFは144名"
+  },
+  {
+   "name": "1F 小宴会場 春日",
+   "areaM2": 85,
+   "ceilingM": 2.8,
+   "theater": 72,
+   "school": 36,
+   "ushape": 24,
+   "standing": 50,
+   "banquet": 30,
+   "note": "ロの字 26名"
+  },
+  {
+   "name": "1F 小宴会場 天空",
+   "areaM2": 68,
+   "ceilingM": 3.5,
+   "theater": 72,
+   "school": 36,
+   "ushape": 24,
+   "standing": 50,
+   "banquet": 30,
+   "note": "ロの字 26名"
+  },
+  {
+   "name": "1F 小宴会場 あかつき",
+   "areaM2": 66,
+   "ceilingM": 2.8,
+   "theater": 59,
+   "school": 36,
+   "ushape": 24,
+   "standing": 50,
+   "banquet": 30,
+   "note": "ロの字 26名"
+  },
+  {
+   "name": "1F 小宴会場 ありあけ",
+   "areaM2": 53,
+   "ceilingM": 2.8,
+   "theater": 50,
+   "school": 28,
+   "ushape": 20,
+   "standing": 40,
+   "banquet": 20,
+   "note": "ロの字 22名"
+  },
+  {
+   "name": "1F 小宴会場 かすみ",
+   "areaM2": 53,
+   "ceilingM": 2.8,
+   "theater": 50,
+   "school": 28,
+   "ushape": 20,
+   "standing": 40,
+   "banquet": 20,
+   "note": "ロの字 22名"
+  },
+  {
+   "name": "1F 小宴会場 かげろう",
+   "areaM2": 38,
+   "ceilingM": 2.8,
+   "theater": 33,
+   "school": 16,
+   "ushape": null,
+   "standing": null,
+   "banquet": 20,
+   "note": "2022年6月版PDFの設営例は会議形式18名"
+  },
+  {
+   "name": "1F 小宴会場 もちづき",
+   "areaM2": 38,
+   "ceilingM": 2.8,
+   "theater": 33,
+   "school": 16,
+   "ushape": null,
+   "standing": null,
+   "banquet": 20,
+   "note": null
+  },
+  {
+   "name": "1F 小宴会場 すばる",
+   "areaM2": 33,
+   "ceilingM": 2.8,
+   "theater": 23,
+   "school": 12,
+   "ushape": null,
+   "standing": null,
+   "banquet": 10,
+   "note": "正餐は公式サイトと2025年3月版ブローシャが10名、2022年6月版PDFは20名。同PDFの設営例に控室8名"
+  },
+  {
+   "name": "1F 小宴会場 しらぬい",
+   "areaM2": 33,
+   "ceilingM": 2.8,
+   "theater": 23,
+   "school": 12,
+   "ushape": null,
+   "standing": null,
+   "banquet": 10,
+   "note": null
+  },
+  {
+   "name": "37F スカイバンケット アリエス 全室（I+II+III）",
+   "areaM2": 160,
+   "ceilingM": 2.8,
+   "theater": 126,
+   "school": 87,
+   "ushape": 70,
+   "standing": 100,
+   "banquet": 60,
+   "note": "ロの字 74名"
+  },
+  {
+   "name": "37F アリエス I+II",
+   "areaM2": 107,
+   "ceilingM": 2.8,
+   "theater": 72,
+   "school": 51,
+   "ushape": null,
+   "standing": 70,
+   "banquet": 40,
+   "note": null
+  },
+  {
+   "name": "37F アリエス I",
+   "areaM2": 80,
+   "ceilingM": 2.8,
+   "theater": 48,
+   "school": 33,
+   "ushape": null,
+   "standing": 50,
+   "banquet": 30,
+   "note": null
+  },
+  {
+   "name": "37F アリエス II+III",
+   "areaM2": 80,
+   "ceilingM": 2.8,
+   "theater": 48,
+   "school": 33,
+   "ushape": null,
+   "standing": 50,
+   "banquet": 30,
+   "note": null
+  },
+  {
+   "name": "37F アリエス III",
+   "areaM2": 53,
+   "ceilingM": 2.8,
+   "theater": 30,
+   "school": 18,
+   "ushape": null,
+   "standing": 40,
+   "banquet": 20,
+   "note": null
+  },
+  {
+   "name": "37F スカイバンケット シリウス",
+   "areaM2": 120,
+   "ceilingM": 2.8,
+   "theater": 84,
+   "school": 60,
+   "ushape": 40,
+   "standing": 80,
+   "banquet": 40,
+   "note": "ロの字 44名"
+  },
+  {
+   "name": "37F スカイバンケット リブラ",
+   "areaM2": 80,
+   "ceilingM": 2.8,
+   "theater": 50,
+   "school": 36,
+   "ushape": 22,
+   "standing": 50,
+   "banquet": 30,
+   "note": "ロの字 26名"
+  },
+  {
+   "name": "6F 606 ホスピタリティスイート",
+   "areaM2": 56,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "席数は12人＋ソファ4席。49インチモニター。2時間88,000円、3時間132,000円、4時間176,000円、5〜8時間220,000円（税込、別途サービス料）。24時間利用可"
+  },
+  {
+   "name": "6F 607 ミーティングルーム",
+   "areaM2": 28,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "席数8人。49インチモニター。2時間55,000円、3時間82,500円、4時間110,000円、5〜8時間137,500円（税込、別途サービス料）"
+  },
+  {
+   "name": "6F 608 ミーティングルーム",
+   "areaM2": 30,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "席数8人。49インチモニター。2時間55,000円、3時間82,500円、4時間110,000円、5〜8時間137,500円（税込、別途サービス料）"
+  },
+  {
+   "name": "6F 610 ボードルーム",
+   "areaM2": 58,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "席数16人。55インチモニター。2時間88,000円、3時間132,000円、4時間176,000円、5〜8時間220,000円（税込、別途サービス料）"
+  }
+ ],
+ "roomsSource": "https://anaintercontinental-tokyo.jp/pdf/brochure/banquet_brochure_pc.pdf",
+ "ops": {
+  "loadingHours": {
+   "text": "地下1階のボールルーム「プロミネンス」の脇に搬入リフトが2基あり、図面に4t用と2t用の表記がある。リフト前後の通路には「天井高2.35m」の表記がある。（出典：B1Fフロア図面）",
+   "source": "https://anaintercontinental-tokyo.jp/pdf/meet/floorplan_b1f.pdf"
+  },
+  "parking": {
+   "text": "地下2〜3階に500台収容の駐車場があり、24時間営業で予約は不要。収容できる車は長さ6m・幅2.5m・高さ2.1m・重さ3tまで。通常料金は10分200円（1日最大4,400円）。婚礼・宴会・会議の利用は4時間まで無料で、超えた分は通常料金になる。",
+   "source": "https://anaintercontinental-tokyo.jp/location/"
+  },
+  "waitingRooms": {
+   "text": "1階の小宴会場（33〜85㎡・9室）は、セミナーやパーティーなどの控室・事務局として使えると案内されている。1階小宴会場のフロア図には「控室（Waiting Room）」の表記もある。（出典：宴会場のご案内 2025年3月版、1Fフロア図面）",
+   "source": "https://anaintercontinental-tokyo.jp/pdf/brochure/banquet_brochure_pc.pdf"
+  },
+  "restaurants": {
+   "text": "公式のレストラン＆バー一覧に13店が載っている（ル・プチシェフ〔期間限定〕、カスケイドカフェ、アトリウムラウンジ、鉄板焼「赤坂」、MIXX バー＆ラウンジ、ザ・ステーキハウス、日本料理「雲海」、中国料理「花梨」、メインバー「ダビンチ」、ブリュワーズ コーヒー＆バー、ジュネヴァ ロビーバー、パッサージュ・グルマン、すし「乾山」）。ファクトシート（2025年3月）の席数は、雲海120席・個室8室、花梨188席・個室7室、ザ・ステーキハウス108席・個室4室、カスケイドカフェ162席、アトリウムラウンジ142席。懇親会向けには、日本料理「雲海」の貸切宴会プラン（2〜60名、25〜60名は一般席の全体または半分を貸切、個室料・貸切料は別途）と、プロミネンスを除く宴会場で使えるインターコンチネンタルパーティープラン（20〜100名・2時間・1人12,000円から、2026年4月〜2027年3月）がある。",
+   "source": "https://anaintercontinental-tokyo.jp/dine/"
+  }
+ },
+ "documents": [
+  {
+   "title": "宴会場のご案内（ブローシャ、PDF作成2025年3月）",
+   "url": "https://anaintercontinental-tokyo.jp/pdf/brochure/banquet_brochure_pc.pdf"
+  },
+  {
+   "title": "ファクトシート（PDF作成2025年3月）",
+   "url": "https://anaintercontinental-tokyo.jp/pdf/brochure/factsheet_pc.pdf"
+  },
+  {
+   "title": "B1F フロア図面（大宴会場・中宴会場、搬入リフト・天井高の記載あり）",
+   "url": "https://anaintercontinental-tokyo.jp/pdf/meet/floorplan_b1f.pdf"
+  },
+  {
+   "title": "1F フロア図面（小宴会場）",
+   "url": "https://anaintercontinental-tokyo.jp/pdf/meet/floorplan_1f.pdf"
+  },
+  {
+   "title": "37F フロア図面",
+   "url": "https://anaintercontinental-tokyo.jp/pdf/meet/floorplan_37f.pdf"
+  },
+  {
+   "title": "プロミネンス スペックシート（2022年6月1日現在）",
+   "url": "https://anaintercontinental-tokyo.jp/pdf/meet/banquet_prominence.pdf"
+  },
+  {
+   "title": "ギャラクシー スペックシート（2022年6月1日現在）",
+   "url": "https://anaintercontinental-tokyo.jp/pdf/meet/banquet_galaxy.pdf"
+  },
+  {
+   "title": "グローリー スペックシート（2022年6月1日現在）",
+   "url": "https://anaintercontinental-tokyo.jp/pdf/meet/banquet_glory.pdf"
+  },
+  {
+   "title": "オーロラ スペックシート（2022年6月1日現在）",
+   "url": "https://anaintercontinental-tokyo.jp/pdf/meet/banquet_aurora.pdf"
+  },
+  {
+   "title": "プリズム スペックシート（2022年6月1日現在）",
+   "url": "https://anaintercontinental-tokyo.jp/pdf/meet/banquet_prism.pdf"
+  },
+  {
+   "title": "ルミナス スペックシート（2022年6月1日現在）",
+   "url": "https://anaintercontinental-tokyo.jp/pdf/meet/banquet_luminous.pdf"
+  },
+  {
+   "title": "あかつき・ありあけ・かすみ スペックシート（2022年6月1日現在）",
+   "url": "https://anaintercontinental-tokyo.jp/pdf/meet/banquet_AKATSUKI-etc.pdf"
+  },
+  {
+   "title": "かげろう・もちづき・すばる・しらぬい スペックシート（2022年6月1日現在）",
+   "url": "https://anaintercontinental-tokyo.jp/pdf/meet/banquet_KAGERO-etc.pdf"
+  },
+  {
+   "title": "春日 スペックシート（2022年6月1日現在）",
+   "url": "https://anaintercontinental-tokyo.jp/pdf/meet/banquet_KASUGA.pdf"
+  },
+  {
+   "title": "天空 スペックシート（2022年6月1日現在）",
+   "url": "https://anaintercontinental-tokyo.jp/pdf/meet/banquet_TENKU.pdf"
+  },
+  {
+   "title": "37F アリエス・リブラ・シリウス スペックシート（2015年4月1日現在）",
+   "url": "https://anaintercontinental-tokyo.jp/pdf/meet/37fl.pdf"
+  },
+  {
+   "title": "6F ミーティングルーム 料金表",
+   "url": "https://anaintercontinental-tokyo.jp/pdf/meet/meeting_price.pdf"
+  },
+  {
+   "title": "6F ミーティングルーム レイアウト・設備（© 2025）",
+   "url": "https://anaintercontinental-tokyo.jp/pdf/meet/Boardroom_Meetings_jp.pdf"
+  },
+  {
+   "title": "138インチLEDスクリーンのご案内",
+   "url": "https://anaintercontinental-tokyo.jp/pdf/meet/138inch-led-display.pdf"
+  },
+  {
+   "title": "車廻りのご案内（地図、2007年作成のPDF）",
+   "url": "https://anaintercontinental-tokyo.jp/wp-content/uploads/2018/07/car.pdf"
+  },
+  {
+   "title": "アクセス・駐車場のご案内",
+   "url": "https://anaintercontinental-tokyo.jp/location/"
+  },
+  {
+   "title": "宴会場のご案内（公式ページ）",
+   "url": "https://anaintercontinental-tokyo.jp/meet/"
+  },
+  {
+   "title": "ケータリングサービス",
+   "url": "https://anaintercontinental-tokyo.jp/meet/catering-service/"
+  },
+  {
+   "title": "インターコンチネンタルパーティープラン（2026年4月〜2027年3月）",
+   "url": "https://anaintercontinental-tokyo.jp/offer/meet-intercontinental-party/"
+  },
+  {
+   "title": "日本料理「雲海」ご宴会プラン",
+   "url": "https://anaintercontinental-tokyo.jp/offer/meet-unkai-dining-party-plan/"
+  }
+ ],
+ "checkedAt": "2026-10-30",
+ "lat": 35.6680126,
+ "lng": 139.7406833,
+ "nearby": {
+  "convenience": [
+   {
+    "name": "ファミリーマート 赤坂インターシティ／S店",
+    "brand": "ファミリーマート",
+    "distanceM": 114,
+    "walkMin": 2,
+    "hours": "7:00-20:00",
+    "address": "東京都港区赤坂1-11-44",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/69879",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "ファミリーマート アークヒルズ前店",
+    "brand": "ファミリーマート",
+    "distanceM": 162,
+    "walkMin": 3,
+    "hours": "24時間営業",
+    "address": "東京都港区六本木2-2-8 KDX六本木228ビル",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/26534",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "ファミリーマート 赤坂一丁目店",
+    "brand": "ファミリーマート",
+    "distanceM": 167,
+    "walkMin": 3,
+    "hours": "24時間営業",
+    "address": "東京都港区赤坂1-7-19",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/20267",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "アクセア 六本木一丁目店",
+    "brand": "アクセア",
+    "distanceM": 298,
+    "walkMin": 4,
+    "hours": "平日9:00〜20:00／土日祝休み",
+    "address": "東京都港区六本木2-3-2 VORT六本木一丁目1F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/entry.html",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "アクセア 溜池山王店",
+    "brand": "アクセア",
+    "distanceM": 415,
+    "walkMin": 6,
+    "hours": "平日8:00〜22:00／土日祝休み",
+    "address": "東京都港区赤坂1-3-3 T-FRONTビル1F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/entry.html",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Can★Do 城山ヒルズ店",
+    "brand": "キャンドゥ",
+    "distanceM": 453,
+    "walkMin": 6,
+    "hours": "毎日 9:00-23:00",
+    "address": "東京都港区虎ノ門4-1-17 神谷町プライムプレイスB1階",
+    "verified": true,
+    "source": "https://shopinfo.cando-web.co.jp/detail/shop-1835/",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "Can★Do 赤坂一ツ木通り店",
+    "brand": "キャンドゥ",
+    "distanceM": 871,
+    "walkMin": 11,
+    "hours": "月〜金 9:00-21:00／土・日・祝 9:00-20:00",
+    "address": "東京都港区赤坂3-17-10 フローレンス一ツ木ビル1階",
+    "verified": true,
+    "source": "https://shopinfo.cando-web.co.jp/detail/shop-5207/",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "donki": [
+   {
+    "name": "ピカソ赤坂店（ドン・キホーテ）",
+    "brand": "ドン・キホーテ",
+    "distanceM": 817,
+    "walkMin": 11,
+    "hours": "7:00-3:00",
+    "address": "東京都港区赤坂3-11-14",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=289",
+    "note": "距離は住所の位置で計算。ドン・キホーテ公式サイトの店舗名は「ピカソ赤坂店」"
+   },
+   {
+    "name": "ドン・キホーテ 六本木店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 829,
+    "walkMin": 11,
+    "hours": "24時間営業",
+    "address": "東京都港区六本木3-14-10",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=31",
+    "note": "距離は住所の位置で計算。ドン・キホーテ公式サイトの店舗名は「六本木店」"
+   }
+  ]
+ },
+ "drinkDelivery": {
+  "available": true
+ },
+ "photo": {
+  "src": "/images/venues/ana-intercontinental-tokyo.jpg",
+  "credit": "© Rs1421 / CC BY-SA 3.0 · Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:ANA-InterContinental-Hotel-Tokyo-01.jpg"
+ }
+}

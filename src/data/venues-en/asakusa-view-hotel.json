@@ -1,0 +1,73 @@
+{
+ "slug": "asakusa-view-hotel",
+ "name": "Asakusa View Hotel",
+ "address": "Tokyo 111-8765 3-17-1 Nishi-Asakusa, Taito-ku, Tokyo",
+ "accessSummary": "Directly connected to Asakusa Station (Tsukuba Express) / 7 min walk from Tawaramachi Station (Tokyo Metro Ginza Line) / 10 min walk from Asakusa Station (Toei Asakusa Line)",
+ "hours": "The basic banquet hall hours are 9:00-22:00 (other times by consultation). Banquet and meeting inquiries are accepted 10:00-17:00 (Sales Department direct line 03-3842-2121)",
+ "notice": null,
+ "rooms": [
+  {"name": "4F Hisho I", "note": "Ceiling height is the figure given for Hisho as a whole (6.7 m). The standing figure is the official \"buffet\" capacity, and the banquet figure is the official \"dinner\" capacity. 4 permanent screens, 2 permanent projectors, 12 moving lights, art battens, a cyclorama curtain, and basic sound equipment (wireless mics, wired mics, etc.). Can be divided with partitions."},
+  {"name": "4F Hisho II", "note": "Ceiling height is the figure given for Hisho as a whole (6.7 m). The standing figure is the official \"buffet\" capacity, and the banquet figure is the official \"dinner\" capacity. 4 permanent screens, 2 permanent projectors, 12 moving lights, art battens, a cyclorama curtain, and basic sound equipment (wireless mics, wired mics, etc.). Can be divided with partitions."},
+  {"name": "4F Hisho III", "note": "Ceiling height is the figure given for Hisho as a whole (6.7 m). The standing figure is the official \"buffet\" capacity, and the banquet figure is the official \"dinner\" capacity. 4 permanent screens, 2 permanent projectors, 12 moving lights, art battens, a cyclorama curtain, and basic sound equipment (wireless mics, wired mics, etc.). Can be divided with partitions."},
+  {"name": "4F Hisho (I+II+III)", "note": "Full use of the grand banquet hall. The theater figure is the official maximum capacity of the grand banquet hall (up to 1,100 people). The banquet hall list's \"capacity\" column says up to 600 people (a different figure from the detail page's 500 for round tables, 675 for classroom and 1,100 for theater). Ceiling height is the figure given for Hisho as a whole (6.7 m). The standing figure is the official \"buffet\" capacity, and the banquet figure is the official \"dinner\" capacity. 4 permanent screens, 2 permanent projectors, 12 moving lights, art battens, a cyclorama curtain, and basic sound equipment (wireless mics, wired mics, etc.). Can be divided with partitions."},
+  {"name": "3F Shoun I", "note": "Ceiling height is the figure given for Shoun as a whole (3.2 m). The standing figure is the official \"buffet\" capacity, and the banquet figure is the official \"dinner\" capacity. 4 permanent screens, 2 permanent projectors, art battens, and basic sound equipment. Can be divided with partitions. The small meeting rooms on the same floor can be used as waiting rooms."},
+  {"name": "3F Shoun II", "note": "Ceiling height is the figure given for Shoun as a whole (3.2 m). The standing figure is the official \"buffet\" capacity, and the banquet figure is the official \"dinner\" capacity. 4 permanent screens, 2 permanent projectors, art battens, and basic sound equipment. Can be divided with partitions. The small meeting rooms on the same floor can be used as waiting rooms."},
+  {"name": "3F Shoun III", "note": "Ceiling height is the figure given for Shoun as a whole (3.2 m). The standing figure is the official \"buffet\" capacity, and the banquet figure is the official \"dinner\" capacity. 4 permanent screens, 2 permanent projectors, art battens, and basic sound equipment. Can be divided with partitions. The small meeting rooms on the same floor can be used as waiting rooms."},
+  {"name": "3F Shoun (I+II+III)", "note": "Full use of the medium banquet hall. The theater figure is the official maximum capacity of the medium banquet hall (up to 1,000 people). The banquet hall list's \"capacity\" column says up to 500 people (a different figure from the detail page's 400 for round tables, 600 for classroom and 1,000 for theater). Ceiling height is the figure given for Shoun as a whole (3.2 m). The standing figure is the official \"buffet\" capacity, and the banquet figure is the official \"dinner\" capacity. 4 permanent screens, 2 permanent projectors, art battens, and basic sound equipment. Can be divided with partitions. The small meeting rooms on the same floor can be used as waiting rooms."},
+  {"name": "3F Small Banquet Room Kiyosu", "note": "No buffet capacity is stated. Can also be used as a breakout room or waiting room when a grand banquet hall (Hisho, Shoun) is used. The same floor has a smoking room, cloakroom and changing room. The maximum theater capacity for the small banquet rooms as a whole is up to 120 people"},
+  {"name": "3F Small Banquet Room Ryogoku", "note": "No buffet capacity is stated. Can also be used as a breakout room or waiting room when a grand banquet hall is used. The maximum theater capacity for the small banquet rooms as a whole is up to 120 people"},
+  {"name": "3F Small Banquet Room Kuramae", "note": "No buffet capacity is stated. Can also be used as a breakout room or waiting room when a grand banquet hall is used. The maximum theater capacity for the small banquet rooms as a whole is up to 120 people"},
+  {"name": "4F Small Banquet Room Kototoi", "note": "Art battens and basic sound equipment (common to the 4F small banquet rooms). Can also be used as a breakout room or waiting room when a grand banquet hall is used. The maximum theater capacity for the small banquet rooms as a whole is up to 120 people. The banquet hall list's \"capacity\" column says up to 40 people"},
+  {"name": "4F Small Banquet Room Azuma", "note": "Art battens and basic sound equipment (common to the 4F small banquet rooms). Can also be used as a breakout room or waiting room when a grand banquet hall is used. The maximum theater capacity for the small banquet rooms as a whole is up to 120 people. The banquet hall list's \"capacity\" column says up to 40 people"},
+  {"name": "4F Small Banquet Room Komagata", "note": "Art battens and basic sound equipment (common to the 4F small banquet rooms). Can also be used as a breakout room or waiting room when a grand banquet hall is used. The maximum theater capacity for the small banquet rooms as a whole is up to 120 people. The banquet hall list's \"capacity\" column says up to 50 people"},
+  {"name": "25F Sky Dining Dairin", "note": "Has an anteroom, so a reception desk can be set up inside. Built-in kitchen and bar counter, 1 permanent TV monitor, basic sound equipment. Closet and sofa seating available. The same floor has a salon and a smoking area"},
+  {"name": "25F Sky Dining Mai", "note": "Permanent TV monitor and basic sound equipment (common to Sky Dining). Closet and sofa seating available"},
+  {"name": "25F Sky Dining Miyabi", "note": "No buffet capacity is stated. The banquet hall list's \"capacity\" column says up to 20 people. Closet and sofa seating available"},
+  {"name": "28F Top Banquet Belvedere", "note": "Can be used in full, or divided into two with a partition. 2 permanent TV monitors, art battens, basic sound equipment. The same floor has a foyer, cloakroom, smoking area and accessible restroom"}
+ ],
+ "ops": {
+  "loadingHours": "Use of a banquet hall, including setup through removal, must be completed within the contracted time. Overruns incur an additional fee according to the time exceeded, and an overrun may not be possible if the next banquet requires the room. For the delivery and removal of equipment by contractors that the customer requests directly with the hotel's consent, and for signage size, mounting method and placement, follow the hotel's instructions (if a hotel staff member must be present, the cost of the attendant is paid). Decoration, flowers, sound, lighting, attractions and gifts are in principle arranged through hotel-designated vendors; to request a non-designated vendor directly, the hotel's prior consent is required and a separate fee based on the hotel's standards applies. When sending packages to the hotel, notify the person in charge of the contents in advance and write the date of use, event name and applicant (company) name on the package. (Banquet Hall Terms of Use, revised January 1, 2025)",
+  "parking": "Times Parking (operated by Times 24) on basement levels 2 and 3 of the hotel. 102 spaces, vehicle height limit 2.1 m, open all year, 600 yen per 30 minutes. Basement level 1 cannot be used. Banquets get up to 3 hours free (a 3-hour free ticket is issued for banquet use).",
+  "waitingRooms": "When the grand banquet halls \"Hisho\" and \"Shoun\" are used, the small banquet rooms on the same floor can be used as breakout rooms or waiting rooms (3F Kiyosu, Ryogoku, Kuramae and Sakura; 4F Kototoi, Azuma and Komagata). Areas: Kiyosu 65㎡, Ryogoku 55㎡, Kuramae 55㎡, Kototoi 100㎡, Azuma 100㎡, Komagata 120㎡. The 3F has a smoking room, cloakroom and changing room, and the 4F has a smoking area and a nursing room.",
+  "catering": "Banquet plans include a plan that bundles food and free-flow drinks (120 minutes). Light meals (boxed lunches) start from 2,200 yen (as stated on the MICE page).",
+  "restaurants": "The restaurants and bars in the hotel are Sky Grill Buffet Musashi (武藏) (26F), THE ASAKUSA DINING (27F; Chinese cuisine \"唐紅花\" / French cuisine \"Makie\" (蒔絵)), THE LOBBY BAL (1F), THE LOUNGE (1F), THE TOP BAR Hanabi -華美- (28F), and Sweets & Bakery 穂乃華 (1F). For receptions that accompany meetings, the official banquet and meeting page says that a wide range of banquet plans, from buffet style to seasonal cuisine, is available."
+ },
+ "documents": [
+  {"title": "Banquets & Meetings Top"},
+  {"title": "Banquet Hall List"},
+  {"title": "Grand Banquet Hall Hisho"},
+  {"title": "Medium Banquet Hall Shoun"},
+  {"title": "Small Banquet Halls"},
+  {"title": "Sky Dining"},
+  {"title": "Top Banquet"},
+  {"title": "MICE"},
+  {"title": "Banquet Hall Terms of Use (revised January 1, 2025)"},
+  {"title": "Floor Guide (all floors, no version stated)"},
+  {"title": "Access (including parking information)"},
+  {"title": "FAQ (Banquets & Meetings): Parking"},
+  {"title": "FAQ (Banquets & Meetings): Banquet Hall Available Hours"},
+  {"title": "FAQ (Banquets & Meetings): Banquet Plans"},
+  {"title": "FAQ (Banquets & Meetings): Tentative Reservations"},
+  {"title": "Restaurant List"}
+ ],
+ "nearby": {
+  "convenience": [
+   {"name": "Lawson Taito Nishi-Asakusa", "hours": "Open 24 hours", "note": "Distance is calculated from the coordinates in the official store locator (converted from the old Japanese Geodetic System to the World Geodetic System)."},
+   {"name": "7-Eleven Taito Asakusa 2-chome", "hours": "Open 24 hours", "note": "Distance is calculated from the coordinates in the official store locator."},
+   {"name": "7-Eleven Taito Nishi-Asakusa 3-chome", "hours": "Open 24 hours", "note": "Distance is calculated from the coordinates in the official store locator."}
+  ],
+  "copyshop": [
+   {"name": "Kinko's Ueno", "hours": "Weekdays 9:00-22:00 / Sat 10:00-18:00 / Sun & holidays 10:00-18:00 (reception until 30 min before closing)", "note": "Distance is based on the store's location on OSM."},
+   {"name": "Accea Ueno", "hours": "Weekdays 8:00-22:00, Sat, Sun & holidays 10:00-19:00", "note": "Distance is based on the store's location on OSM (the Accea location on OSM was judged to be the Ueno store; OSM has no address)."}
+  ],
+  "hundredYen": [
+   {"name": "DAISO Asakusa ROX", "hours": "10:30-21:00", "note": "Distance is calculated from the coordinates on the official store page."},
+   {"name": "DAISO Seims Asakusa Kaminarimon-dori", "hours": "4:00-27:00 (Official notice: from May 1, 2026, hours changed to 04:00-03:00)", "note": "Distance is calculated from the coordinates on the official store page."}
+  ],
+  "donki": [
+   {"name": "Don Quijote Asakusa", "hours": "Open 24 hours", "note": "Distance is based on the store's location on OSM."},
+   {"name": "Don Quijote Asakusa EKIMISE", "hours": "10:00-20:00", "note": "Distance is based on the store's location on OSM (4F of Asakusa EKIMISE)."}
+  ]
+ },
+ "photoCredit": "© 妖精書士 / CC BY-SA 3.0 · Wikimedia Commons"
+}

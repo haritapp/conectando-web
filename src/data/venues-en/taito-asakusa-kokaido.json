@@ -1,0 +1,89 @@
+{
+ "slug": "taito-asakusa-kokaido",
+ "name": "Taito City Asakusa Public Hall",
+ "address": "Tokyo 111-0032 1-38-6 Asakusa, Taito-ku, Tokyo",
+ "accessSummary": "Tokyo Metro Ginza Line Asakusa Station Exits 1 and 3: 5 min walk / Tsukuba Express Asakusa Station Exit A1: 3 min walk / Toei Asakusa Line Asakusa Station Exit A4: 7 min walk / Tobu Railway Asakusa Station North Exit: 5 min walk",
+ "hours": "Hall and meeting room hours are 9:00-21:00 (morning 9:00-11:30 / afternoon 12:30-16:00 / evening 17:00-21:00; includes setup and cleanup). Counter and telephone reception 9:00-17:00. The only closures are the year-end and New Year period (December 29 to January 3) and closures for maintenance inspection",
+ "notice": "Closed on Monday, November 9, 2026 for in-building equipment inspection (telephone, email and counter service are also closed).",
+ "rooms": [
+  {"name": "Hall", "note": "Seating: 1,070 seats (1F 545 seats / 469 seats when the temporary hanamichi walkway is used, 2F 336 seats, 3F 189 seats). Separately, wheelchair spaces for 4 seats. 458 seats when the orchestra pit is used (Stage Equipment / Fixtures List, as of January 4, 2022). The stage is about 18.2 m wide, 7.3 m high and 11 m deep. Standing is prohibited on the 2F and 3F; it is allowed on the 1F (jumping is not allowed)"},
+  {"name": "Exhibition Hall (1F)", "note": "Waiting room: 2.1㎡. Used by the day (the facility usage fee page gives A 9:00-17:00 or B 10:00-18:00; the FAQ gives 10:00-18:00). Free of charge: 30 triple-panel exhibition panels and 10 freestanding exhibition panels, display tables, and 20 folding chairs. Spotlights are 50 yen per light (Meeting Sheet, September 2022)"},
+  {"name": "Meeting Room 1 (3F, Western-style room)", "note": "Capacity 70 (the official \"capacity\" figure; no per-layout counts are given). Floor tiles. 25 desks, 70 chairs, a lectern, a whiteboard and a screen are free of charge. Usage fees: morning 5,500 yen / afternoon 6,700 yen / evening 11,000 yen / all day 23,200 yen (same on weekdays and weekends/holidays)"},
+  {"name": "Meeting Room 2 (4F, Japanese-style room)", "note": "Capacity 50 (the official \"capacity\" figure). Tatami floor of 32 tatami mats, with a stage (about 5 tsubo) and a waiting room. 12 low tables, 50 floor cushions and 2 full-length mirrors are free of charge. No screen is installed (available as a paid additional item). Usage fees are the same as Meeting Room 1"},
+  {"name": "Meeting Room 3 (5F)", "note": "Capacity 50 (the official \"capacity\" figure). The facility introduction page describes it as a Japanese-style room with a wooden plank floor; the floor plan (September 30, 2024 version) says \"Western-style room, 50 people\". 12 low tables, 3 folding chairs, 50 floor cushions and 2 full-length mirrors are free of charge. A screen is available. Usage fees are the same as Meeting Room 1"},
+  {"name": "Dressing Room 1 (2F, Western-style room)", "note": "Capacity 21. Free of charge for hall users"},
+  {"name": "Dressing Room 2 (3F, Japanese-style room)", "note": "Capacity 33. Free of charge for hall users"},
+  {"name": "Dressing Room 3 (4F, Japanese-style room)", "note": "Capacity 13. Paid (2,000 yen each for morning, afternoon and evening)"},
+  {"name": "Performers' Waiting Room (3F, Japanese/Western-style room)", "note": "Capacity 50. Paid (morning 5,500 yen / afternoon 6,700 yen / evening 11,000 yen)"},
+  {"name": "Rehearsal Room", "note": "Capacity 25. Wooden floor. Paid (3,800 yen for each time slot)"},
+  {"name": "Private Dressing Rooms A and B (each)", "note": "3 people each. With unit bath. Paid (1,500 yen for each time slot)"}
+ ],
+ "ops": {
+  "prevDaySetup": "Usage time includes the time needed for setup and cleanup. The hall's time slots are morning 9:00-11:30 / afternoon 12:30-16:00 / evening 17:00-21:00 / all day 9:00-21:00. If two or more slots are rented consecutively, the time between the slots can also be used (morning and afternoon together: 9:00-16:00 straight through). To start earlier or finish later, approval is given as an out-of-hours/extension charge only when it causes no inconvenience to the users before and after (hall, early-morning start 8:00-9:00: 31,000 yen on weekdays, 47,000 yen on weekends and holidays; evening extension 21:00-22:00: 92,000 yen on weekdays, 114,000 yen on weekends and holidays). If the key is not returned to the management office by the end of the usage time, it is treated as an extension and additional charges apply. (Facility Usage Fees, revised April 1, 2000)",
+  "loadingHours": "When bringing in large stage sets, lighting fixtures and the like, approval of the type, quantity and load-in date and time is required in advance, and everything must be removed immediately afterward. No storage is accepted at all. Stage equipment and the like must be discussed with staff by 1 month before the date of use, and the program and schedule must also be submitted. When the orchestra pit is used, the booking covers 3 days in total, including setup and removal: the day before the performance, the day itself and the day after.",
+  "vehicleRules": "There is a loading area directly behind the hall; large or heavy items can be carried from the loading entrance to the stage on the large lift (ozeri). Some trucks cannot enter depending on their size, so inquire with the management office. The loading area drawing shows 10.60 m wide, 7.40 m / 7.10 m / 6.60 m long, and a ceiling height of 3.80 m (3.10 m in part). The Stage Equipment / Fixtures List (as of January 4, 2022) gives the dimensions of the large lift (ozeri) as 4 m x 10 m and a maximum load of 6.0 t (1.5 t per division). To leave a vehicle in the parking lot while using the facility for 2 or more consecutive days, the organizer must apply to the management office in advance, and the vehicle must leave promptly after use ends.",
+  "parking": "The parking lot is exclusively for organizers who have rented the facility; there is none for general visitors. Parking passes are handed to the organizer for the allotted number of vehicles: 20 for hall use, 2 each for the meeting rooms and the exhibition hall. Parking is permitted only during the usage time of the reserved facility. There are spaces for wheelchair users, but the number is limited, so apply in advance by telephone to the management office (03-3844-7491) (the disability certificate is checked at entry). For general visitors, the facility refers to Kaminarimon Underground Parking as the nearest public parking lot.",
+  "waitingRooms": "Hall users can use Dressing Room 1 (Western-style, 21 people, 49㎡) and Dressing Room 2 (Japanese-style, 33 people, 79㎡) free of charge. The paid options are Dressing Room 3 (Japanese-style, 13 people, 29㎡), the Performers' Waiting Room (Japanese/Western-style, 50 people, 109㎡), the Rehearsal Room (25 people, 78㎡), and Private Dressing Rooms A and B (3 people each, 12㎡, with unit bath). If the dressing rooms are not enough, the meeting rooms or the exhibition hall can be rented as dressing rooms (say so when applying to use the hall). 10 desks and 12 chairs for reception are stored in the \"hall waiting room\" in the lobby and can be used freely. (Areas are from the Stage and Dressing Room Plan, April 2023 edition)",
+  "catering": "Eating and drinking (including alcohol) are not allowed in the hall seating area. Meeting rooms may not be used solely for eating and drinking; if light snacks are taken during breaks at long events, take infection-control precautions. Cooking inside the building with electric stoves and the like is not allowed. There are no trash bins in the building; take your trash with you."
+ },
+ "documents": [
+  {"title": "How to Use (Application)"},
+  {"title": "About Use"},
+  {"title": "Cautions for Use"},
+  {"title": "About the Lottery"},
+  {"title": "Facility Usage Fees (revised April 1, 2000; ancillary equipment fees revised January 2026)"},
+  {"title": "Hall Overview and Dressing Rooms"},
+  {"title": "Meeting Rooms Overview"},
+  {"title": "Exhibition Hall Overview"},
+  {"title": "Access"},
+  {"title": "Frequently Asked Questions (General)"},
+  {"title": "Frequently Asked Questions (Hall)"},
+  {"title": "Frequently Asked Questions (Meeting Rooms)"},
+  {"title": "Frequently Asked Questions (Exhibition Hall, Parking, Loading Entrance)"},
+  {"title": "Frequently Asked Questions (Parking)"},
+  {"title": "Notice of Closure on Monday, November 9 (October 28, 2026)"},
+  {"title": "Document Downloads (official list)"},
+  {"title": "Loading Area Layout (no version stated)"},
+  {"title": "Asakusa Public Hall Floor Map, B1-5F (no version stated)"},
+  {"title": "Hall Seating Chart (updated May 8, 2023)"},
+  {"title": "Hall Stage Equipment / Fixtures List (as of January 4, 2022)"},
+  {"title": "Hall Stage Plan (no version stated)"},
+  {"title": "Hall Stage Cross-Section (September 2018)"},
+  {"title": "Hall Stage and Dressing Room Plan (April 2023)"},
+  {"title": "Hall Lighting Batten Layout (no version stated)"},
+  {"title": "Hall Basic Lighting Rigging Plan (September 2024)"},
+  {"title": "Hall Basic Lighting Circuit Diagram (August 2019)"},
+  {"title": "Hall Lighting Equipment List (August 2019)"},
+  {"title": "Hall Lighting Console (no version stated)"},
+  {"title": "Hall Speaker Layout (no version stated)"},
+  {"title": "Hall Sound Equipment List (updated October 22, 2025)"},
+  {"title": "Hall Additional Dressing Room Price List (updated January 4, 2022)"},
+  {"title": "Hall Ancillary Equipment Price List (updated January 4, 2022)"},
+  {"title": "Hall Ancillary Equipment Price List (updated January 13, 2026)"},
+  {"title": "Meeting Room 1 Floor Plan (March 23, 2023 version)"},
+  {"title": "Meeting Room 2 Floor Plan (April 22, 2024 version)"},
+  {"title": "Meeting Room 3 Floor Plan (September 30, 2024 version)"},
+  {"title": "Meeting Room Ancillary Equipment Price List (updated January 4, 2022)"},
+  {"title": "Exhibition Hall Floor Plan (September 1, 2021 version)"},
+  {"title": "Exhibition Hall Meeting Sheet (September 2022 edition)"}
+ ],
+ "nearby": {
+  "convenience": [
+   {"name": "7-Eleven Asakusa Shin-Nakamise-dori", "hours": "Open 24 hours", "note": "Distance is calculated from the coordinates in the official store locator."},
+   {"name": "Lawson Taito Asakusa 1-chome", "hours": "Open 24 hours", "note": "Distance is calculated from the coordinates in the official store locator (converted from the old Japanese Geodetic System to the World Geodetic System)."},
+   {"name": "FamilyMart Asakusa Kaminarimon-dori", "hours": "Open 24 hours", "note": "Distance is based on the store's location on OSM (the official page has no coordinates, so it is calculated from the position of a FamilyMart on OSM with a nearby address)."}
+  ],
+  "copyshop": [
+   {"name": "Kinko's Ueno", "hours": "Weekdays 9:00-22:00 / Sat 10:00-18:00 / Sun & holidays 10:00-18:00 (reception until 30 min before closing)", "note": "Distance is based on the store's location on OSM."}
+  ],
+  "hundredYen": [
+   {"name": "DAISO Asakusa ROX", "hours": "10:30-21:00", "note": "Distance is calculated from the coordinates on the official store page."},
+   {"name": "DAISO Seims Asakusa Kaminarimon-dori", "hours": "4:00-27:00 (Official notice: from May 1, 2026, hours changed to 04:00-03:00)", "note": "Distance is calculated from the coordinates on the official store page."}
+  ],
+  "donki": [
+   {"name": "Don Quijote Asakusa", "hours": "Open 24 hours", "note": "Distance is based on the store's location on OSM."},
+   {"name": "Don Quijote Asakusa EKIMISE", "hours": "10:00-20:00", "note": "Distance is based on the store's location on OSM (4F of Asakusa EKIMISE)."}
+  ]
+ },
+ "photoCredit": "© Abasaa / Public domain · Wikimedia Commons"
+}

@@ -1,0 +1,424 @@
+{
+ "slug": "akasaka-intercity-conference",
+ "nameJa": "赤坂インターシティコンファレンス",
+ "nameEn": "Akasaka Intercity Conference Center (AICC)",
+ "type": "conference",
+ "area": "toranomon-roppongi-venues",
+ "address": "〒107-0052 東京都港区赤坂1-8-1 赤坂インターシティAIR 3F・4F",
+ "officialUrl": "https://aicc.tokyo/",
+ "organizerUrl": "https://aicc.tokyo/document/",
+ "bizintokyoSlug": "akasaka_intercity",
+ "accessSummary": "東京メトロ 溜池山王駅（銀座線・南北線）14番出口 ビル地下1階に直結／同駅9番出口 徒歩2分／国会議事堂前駅（丸ノ内線・千代田線）14番出口 直結・9番出口 徒歩2分（いずれも溜池山王駅経由）",
+ "notice": null,
+ "hours": "年中無休（施設・設備の点検等で臨時休館する場合あり）。会場料金の通常時間帯は7:00〜22:00、22:00〜翌7:00は深夜延長料金。電話受付は平日9:00〜18:00。（使用規約 2026年3月1日現在、料金表 2024年6月1日現在）",
+ "rooms": [
+  {
+   "name": "4F the AIR（全体）",
+   "areaM2": 545,
+   "ceilingM": 4.8,
+   "theater": 500,
+   "school": 304,
+   "ushape": null,
+   "standing": 380,
+   "banquet": null,
+   "note": "島型192席。柱がなく縦長・横長どちらのレイアウトも可。専用控室2室、専用受付、同時通訳ブース、調整室が付く。"
+  },
+  {
+   "name": "4F the AIR（2/3）",
+   "areaM2": 365,
+   "ceilingM": 4.8,
+   "theater": 280,
+   "school": 192,
+   "ushape": 84,
+   "standing": 230,
+   "banquet": null,
+   "note": "島型120席。専用控室（Guest Room B）付き。250インチスクリーン。"
+  },
+  {
+   "name": "4F the AIR（1/3）",
+   "areaM2": 180,
+   "ceilingM": 4.8,
+   "theater": 135,
+   "school": 96,
+   "ushape": 52,
+   "standing": 100,
+   "banquet": null,
+   "note": "島型60席。専用控室（Guest Room A、6名分の席）付き。立食パーティー可。"
+  },
+  {
+   "name": "4F the Green",
+   "areaM2": 138,
+   "ceilingM": 4.0,
+   "theater": 96,
+   "school": 72,
+   "ushape": 44,
+   "standing": 80,
+   "banquet": null,
+   "note": "島型54席。専用受付台あり。"
+  },
+  {
+   "name": "4F the Amphitheater",
+   "areaM2": 230,
+   "ceilingM": 4.7,
+   "theater": null,
+   "school": 100,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "公式表記はスクール65〜100名。階段状の扇型。専用控室・同時通訳ブース付き。"
+  },
+  {
+   "name": "4F 401",
+   "areaM2": 200,
+   "ceilingM": 4.0,
+   "theater": 144,
+   "school": 100,
+   "ushape": 56,
+   "standing": 110,
+   "banquet": null,
+   "note": "島型72席。ステージ・講演台・マイクの備品あり。"
+  },
+  {
+   "name": "4F 402",
+   "areaM2": 92,
+   "ceilingM": 3.0,
+   "theater": 60,
+   "school": 48,
+   "ushape": 28,
+   "standing": 50,
+   "banquet": null,
+   "note": "島型30席。"
+  },
+  {
+   "name": "4F 403",
+   "areaM2": 50,
+   "ceilingM": 3.0,
+   "theater": 20,
+   "school": 16,
+   "ushape": 16,
+   "standing": 16,
+   "banquet": null,
+   "note": "島型12席。"
+  },
+  {
+   "name": "4F 404",
+   "areaM2": 93,
+   "ceilingM": 3.0,
+   "theater": 60,
+   "school": 48,
+   "ushape": 28,
+   "standing": 50,
+   "banquet": null,
+   "note": "島型30席。"
+  },
+  {
+   "name": "4F 405",
+   "areaM2": 93,
+   "ceilingM": 3.0,
+   "theater": 60,
+   "school": 48,
+   "ushape": 28,
+   "standing": 50,
+   "banquet": null,
+   "note": "島型30席。"
+  },
+  {
+   "name": "3F 301",
+   "areaM2": 200,
+   "ceilingM": 4.0,
+   "theater": 144,
+   "school": 100,
+   "ushape": 56,
+   "standing": 110,
+   "banquet": null,
+   "note": "島型72席。ステージ・講演台・マイクの備品あり。"
+  },
+  {
+   "name": "3F 302",
+   "areaM2": 92,
+   "ceilingM": 3.0,
+   "theater": 60,
+   "school": 48,
+   "ushape": 28,
+   "standing": 50,
+   "banquet": null,
+   "note": "島型30席。"
+  },
+  {
+   "name": "3F 303",
+   "areaM2": 57,
+   "ceilingM": 3.0,
+   "theater": 24,
+   "school": 24,
+   "ushape": 20,
+   "standing": 20,
+   "banquet": null,
+   "note": "島型12席。"
+  },
+  {
+   "name": "3F Boardroom",
+   "areaM2": 115,
+   "ceilingM": 3.5,
+   "theater": null,
+   "school": null,
+   "ushape": 20,
+   "standing": null,
+   "banquet": null,
+   "note": "島型20席。専用前室64㎡付き（料金表PDFは前室を含めた179㎡の表記）。98インチモニタ。"
+  }
+ ],
+ "roomsSource": "https://aicc.tokyo/facility/",
+ "ops": {
+  "prevDaySetup": {
+   "text": "使用時間には、設営から使用者が設置した全物品の撤去・原状回復までの入室から退室までの時間がすべて含まれる。入室は予約時間からが原則で、要望があれば予約時間の15分前から入室でき、それより前は延長料金がかかる。宅配便の荷物は催事前日着で手配する。連日利用の場合、貴重品以外は会場内に置いたままにできる。（出典：使用規約 2026年3月1日現在、よくあるご質問、宅配便について 2026.1）",
+   "source": "https://aicc.tokyo/service/faq/"
+  },
+  "loadingHours": {
+   "text": "搬入出は事前申請が必要。専用ポータル（赤坂インターシティAIRポータルシステム）でイベントIDを取得し、「イベント搬入出申請書」を作業予定日の1週間前までに申請する。承認後に搬入出許可証が発行され、当日は印刷して地下2階の物流管理センターに提出する。搬入出経路の案内では「臨時搬入出申請書」を7日前までに事務局へ提出し、「臨時搬入出許可証」2枚（車両表示用・受付提示用）の発行を受ける。展示品や機材など大規模な搬入出ができる時間帯は18:00〜翌朝9:00に限られ、物流管理費が別途かかる（この時間帯の搬入出時に限り、延長料金は会場費の20％引き）。搬入出用エレベーターはE2号機のみで、最大積載2,200kg、箱の寸法 W1800×D2100×H3000〜4300mm、扉 W1100×H2600mm。物流管理センターの営業時間は平日7:00〜20:00、土日祝8:00〜18:00で、時間外はシャッターが閉まりインターホンで防災センターへ連絡する（搬入・搬出動線図）。大量・重量物（1個200kg超、手押し台車3台超、カゴ台車・専用台車など）は申請書に重量と作業人員を記入し、館内エレベーター調整オペレーター費用が別途かかる場合がある。（出典：搬入出のご案内、料金表 2024年6月1日現在・2027年4月1日以降改定版、臨時搬入出申請書、B2F搬入・搬出動線図）",
+   "source": "https://aicc.tokyo/access/carrying/"
+  },
+  "vehicleRules": {
+   "text": "搬入出車両は地下2階（B2F）の荷捌き区画（K区画）に係員の指示で停める。荷捌き場の利用はイベントごとに同時に最大1台までで、2台以上は車両を入れ替えて作業する。荷捌き駐車場への留置は不可で、館内作業がある場合は荷下ろし後に一般駐車場へ移動する（一般駐車場は満車の場合あり。料金は搬入出ページに「500円/30分」と「400円/30分」の2つの表記があり、駐車場ページの基本料金は30分500円）。入庫できる車両は車高3,200mm以下・車長6,700mm以下・車幅2,400mm以下（一部に車高2.9mの車室あり）。マイクロバスは入庫不可。「臨時搬入出許可証」をフロントガラスに表示しないと荷捌き駐車場は使えない。荷捌き駐車場内への仮置きは禁止で、廃材はすべて持ち帰る。重量物（目安100kg）は青ベニなどで養生する。荷捌き駐車場料金は1時間まで無料（臨時搬入出申請書の記載）。（出典：搬入出のご案内、臨時搬入出申請書、B2F搬入・搬出動線図）",
+   "source": "https://aicc.tokyo/access/carrying/"
+  },
+  "parking": {
+   "text": "地下駐車場は171台、営業時間6:30〜23:30。基本料金は30分500円（税込）。機械式（普通車・ハイルーフ合計152台）は全長5,300mm・全幅2,050mm・全高1,550mm（ハイルーフは2,000mm）・2,500kgまでで、最大料金は2,200円（ハイルーフ3,000円）。平面式19台は全長6,000mm・全幅2,050mm・全高3,150mmで、最大料金3,900円。24時を過ぎると新たに2日目分が加算される。",
+   "source": "https://aicc.tokyo/access/"
+  },
+  "waitingRooms": {
+   "text": "the AIR（全体）には専用控室が2室あり、1/3利用時はGuest Room A（6名分の席）、2/3利用時はGuest Room Bが付く。the Amphitheaterにも専用控室が付く。Boardroomには専用前室（64㎡）があり、控室・休憩・レセプションに使える。the Greenは控室・分科会・展示・レセプションスペースとして使える旨の案内がある。302・303・402〜405は国際会議・シンポジウム時の関係者控室としても使える旨の案内がある。",
+   "source": "https://aicc.tokyo/facility/the-air/"
+  },
+  "catering": {
+   "text": "主催者によるお弁当・飲み物の持込は遠慮するよう求められている（参加者が個人的に持ち込むものは制限なし）。使用規約でも「運営者指定業者以外の飲食物のお持込」が禁止事項（2026年3月1日現在）。飲食は施設が手配する弁当・ドリンク・懇親会の提携ケータリングを使う。会議室内でパーティができる提携業者として、フォリクラッセ（40名以上・総額20万円以上）、シービーサービス（30名以上・16.5万円以上）、コルドンブルー（50名以上・30万円以上）、アポルテフードファクトリー（50名以上・25万円以上）、みどりえ（30名以上・15万円以上、パーティ対応は20:30まで）、サンケイ会館（30名以上・18万円以上）が掲載され、ANAインターコンチネンタル ホテル東京とThe Okura TOKYOは問い合わせ対応。新規注文は開催2週間前まで、変更は1週間前まで（通常目安は新規1か月前、数量変更10日前）。（出典：ケータリング パーティ・懇親会、よくあるご質問、使用規約）",
+   "source": "https://aicc.tokyo/catering/party_social_gathering/"
+  },
+  "restaurants": {
+   "text": "公式のよくあるご質問は、赤坂インターシティAIRの1階と地下1階にレストラン・カフェがあると案内している。地下1階にローソンがある（日曜・祝日は定休）。公式のアクセスページは、同ビルや近隣に打ち上げ向きの飲食店が多数あるとして、ビル公式サイトの周辺情報ページへ案内している。懇親会は会議室内でのパーティ（提携ケータリング）の案内がある。",
+   "source": "https://aicc.tokyo/service/faq/"
+  }
+ },
+ "documents": [
+  {
+   "title": "会場使用料金表（PRICE LIST 2024年6月1日現在）",
+   "url": "https://aicc.tokyo/assets/pdf/aicc_pricelist.pdf"
+  },
+  {
+   "title": "ご利用料金改定のお知らせ・料金表（2027年4月1日利用分〜、2026年10月1日以降の新規受付分から適用）",
+   "url": "https://aicc.tokyo/assets/pdf/aicc_price%20revision.pdf"
+  },
+  {
+   "title": "使用規約（2026年3月1日現在）",
+   "url": "https://aicc.tokyo/assets/pdf/aicc_usage_regulations.pdf"
+  },
+  {
+   "title": "会場備品リスト（有料・2026.10）",
+   "url": "https://aicc.tokyo/assets/pdf/aicc_equipment_list.pdf"
+  },
+  {
+   "title": "無料備品リスト（2025.1）",
+   "url": "https://aicc.tokyo/assets/pdf/aicc_free_equipment_list.pdf"
+  },
+  {
+   "title": "付帯備品写真",
+   "url": "https://aicc.tokyo/assets/pdf/aicc_free_equipment_photos.pdf"
+  },
+  {
+   "title": "会場図面（無地図面）",
+   "url": "https://aicc.tokyo/assets/pdf/aicc_plain_drawing.pdf"
+  },
+  {
+   "title": "会場図面（スケール図面）",
+   "url": "https://aicc.tokyo/assets/pdf/aicc_scale_drawing.pdf"
+  },
+  {
+   "title": "参考レイアウト図面",
+   "url": "https://aicc.tokyo/assets/pdf/aicc_layout_drawing.pdf"
+  },
+  {
+   "title": "参考レイアウト図面（ソーシャルディスタンス）",
+   "url": "https://aicc.tokyo/assets/pdf/aicc_socialdistance.pdf"
+  },
+  {
+   "title": "AV入力・LAN設置位置",
+   "url": "https://aicc.tokyo/assets/pdf/aicc_AV_LAN_location.pdf"
+  },
+  {
+   "title": "電源回路図（イベント盤の使用は事前申請・別途費用）",
+   "url": "https://aicc.tokyo/assets/pdf/aicc_power_supply_circuit_diagram.pdf"
+  },
+  {
+   "title": "PJ・SC・各種レール位置",
+   "url": "https://aicc.tokyo/assets/pdf/aicc_PJ_SC_location.pdf"
+  },
+  {
+   "title": "案内表示位置",
+   "url": "https://aicc.tokyo/assets/pdf/aicc_guide_display_place.pdf"
+  },
+  {
+   "title": "アクセスマップ",
+   "url": "https://aicc.tokyo/assets/pdf/aicc_access_map.pdf"
+  },
+  {
+   "title": "フロアガイド",
+   "url": "https://aicc.tokyo/assets/pdf/aicc_floor_guide.pdf"
+  },
+  {
+   "title": "B1F車寄せ動線（2024.11）",
+   "url": "https://aicc.tokyo/assets/pdf/aicc_parking_flow_line.pdf"
+  },
+  {
+   "title": "搬入・搬出動線 B2Fフロア図面",
+   "url": "https://aicc.tokyo/assets/pdf/access_guideline.pdf"
+  },
+  {
+   "title": "地下⇔コンファレンス動線（ビルフロア図面 2025.5）",
+   "url": "https://aicc.tokyo/assets/pdf/aicc_building_floor.pdf"
+  },
+  {
+   "title": "臨時搬入出申請書（Excel）",
+   "url": "https://aicc.tokyo/assets/pdf/rinji_hanyu.xlsx"
+  },
+  {
+   "title": "搬入出用エレベーター寸法（E2号機）",
+   "url": "https://aicc.tokyo/assets/pdf/aicc_ev-size.pdf"
+  },
+  {
+   "title": "宅配便について（2026.1）",
+   "url": "https://aicc.tokyo/assets/pdf/aicc_delivery.pdf"
+  },
+  {
+   "title": "深夜・早朝（23:30〜翌7:00）の入退館動線",
+   "url": "https://aicc.tokyo/assets/pdf/aicc_oos_flow_line_20230508.pdf"
+  },
+  {
+   "title": "KIOSK MENU",
+   "url": "https://aicc.tokyo/assets/pdf/aicc_kiosk_menu.pdf"
+  },
+  {
+   "title": "パンフレット",
+   "url": "https://aicc.tokyo/assets/pdf/aicc_pamphlet.pdf"
+  },
+  {
+   "title": "避難経路（緊急時対応）",
+   "url": "https://aicc.tokyo/assets/pdf/emergency_response.pdf"
+  },
+  {
+   "title": "搬入出のご案内（公式ページ）",
+   "url": "https://aicc.tokyo/access/carrying/"
+  },
+  {
+   "title": "よくあるご質問",
+   "url": "https://aicc.tokyo/service/faq/"
+  }
+ ],
+ "checkedAt": "2026-10-30",
+ "lat": 35.6698921,
+ "lng": 139.7426403,
+ "nearby": {
+  "convenience": [
+   {
+    "name": "ローソン 赤坂インターシティAIR店",
+    "brand": "ローソン",
+    "distanceM": 32,
+    "walkMin": 1,
+    "hours": "7:00-23:00",
+    "address": "東京都港区赤坂1-8-1",
+    "verified": true,
+    "source": "https://www.areamarker.com/lawson/info/274720",
+    "note": "住所が会場と同じ"
+   },
+   {
+    "name": "セブン-イレブン 港区溜池山王店",
+    "brand": "セブン-イレブン",
+    "distanceM": 89,
+    "walkMin": 2,
+    "hours": "7:00-23:00",
+    "address": "東京都港区赤坂1-4-1",
+    "verified": true,
+    "source": "https://seven-eleven.areamarker.com/711map/info/286775",
+    "note": null
+   },
+   {
+    "name": "ファミリーマート 赤坂インターシティ/S店",
+    "brand": "ファミリーマート",
+    "distanceM": 91,
+    "walkMin": 2,
+    "hours": "7:00-20:00",
+    "address": "東京都港区赤坂一丁目11-44",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/69879",
+    "note": null
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "アクセア 溜池山王店",
+    "brand": "アクセア",
+    "distanceM": 148,
+    "walkMin": 2,
+    "hours": "平日8:00〜22:00／土日祝休み",
+    "address": "東京都港区赤坂1-3-3 T-FRONTビル1F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/entry.html",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "アクセア 六本木一丁目店",
+    "brand": "アクセア",
+    "distanceM": 566,
+    "walkMin": 8,
+    "hours": "平日9:00〜20:00／土日祝休み",
+    "address": "東京都港区六本木2-3-2 VORT六本木一丁目1F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/entry.html",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Can★Do 赤坂一ツ木通り店",
+    "brand": "キャンドゥ",
+    "distanceM": 820,
+    "walkMin": 11,
+    "hours": "月〜金 9:00〜21:00／土日祝 9:00〜20:00",
+    "address": "東京都港区赤坂3-17-10 フローレンス一ツ木ビル1階",
+    "verified": true,
+    "source": "https://shopinfo.cando-web.co.jp/detail/shop-5207/",
+    "note": null
+   }
+  ],
+  "donki": [
+   {
+    "name": "ドン・キホーテ ピカソ赤坂店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 729,
+    "walkMin": 10,
+    "hours": "7:00～3:00",
+    "address": "東京都港区赤坂3-11-14",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=289",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "ドン・キホーテ 六本木店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 1103,
+    "walkMin": 14,
+    "hours": "24時間営業",
+    "address": "東京都港区六本木3-14-10",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=31",
+    "note": "距離は住所の位置で計算。遠め"
+   }
+  ]
+ },
+ "drinkDelivery": {
+  "available": true
+ },
+ "photo": {
+  "src": "/images/venues/akasaka-intercity-conference.jpg",
+  "credit": "© Akonnchiroll / CC BY-SA 4.0 · Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Akasaka_Intercity_Air.jpg"
+ }
+}

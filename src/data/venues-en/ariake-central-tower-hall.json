@@ -1,0 +1,278 @@
+{
+ "slug": "ariake-central-tower-hall",
+ "name": "Ariake Central Tower Hall & Conference",
+ "address": "Tokyo 135-0063 Ariake Central Tower 3F and 4F, 3-7-18 Ariake, Koto-ku, Tokyo",
+ "accessSummary": "Yurikamome Line, Tokyo Big Sight Station: 4 min walk / Rinkai Line, Kokusai-tenjijo Station: 5 min walk",
+ "hours": "4F Hall: all-day use 9:00-19:00, or 6 consecutive hours between 9:00 and 21:00 (extension is 8:00-22:00; 22:00-8:00 is for setup and teardown only. The entire Hall A or Hall B can be rented for 24 hours). 3F Conference rooms: all-day 9:00-21:00 and other time slots (bookable hours for standalone use are 8:00-22:00; 24-hour rental is possible when combined with the hall). Inquiry desk: weekdays 10:00-19:00",
+ "notice": null,
+ "rooms": [
+  {
+   "name": "4F Hall A",
+   "note": "125 tsubo. Classroom is 3 per desk. Basic layout (as set on entry) is classroom, 2 per desk, 180 people. Group layout (3 per desk): 264 people. Standing is the recommended number; for seated banquets, round tables (Φ1800mm) with 10 per table are assumed (round tables are not venue equipment and are rented from outside). Theater for 360 people exceeds the free chairs (270), so an additional fee applies. A 200㎡ foyer is attached."
+  },
+  {
+   "name": "4F Hall B",
+   "note": "184 tsubo. Classroom is 3 per desk. Basic layout is classroom, 2 per desk, 308 people. Group layout (3 per desk): 441 people. Standing is the recommended number; for seated banquets, round tables with 10 per table are assumed. Free chairs for theater: up to 432 for Hall B. Can be divided and used as B1 and B2."
+  },
+  {
+   "name": "4F Hall B1 (divided)",
+   "note": "84 tsubo. Classroom is 3 per desk. Basic layout is classroom, 2 per desk, 108 people. Group layout (3 per desk): 135 people. Free chairs for theater: up to 216."
+  },
+  {
+   "name": "4F Hall B2 (divided)",
+   "note": "96 tsubo. Classroom is 3 per desk. Basic layout is classroom, 2 per desk, 140 people. Group layout (3 per desk): 171 people."
+  },
+  {
+   "name": "4F Waiting Room 1",
+   "note": "10 tsubo. Meeting layout for 8 people. The largest waiting room, with windows. Available only when the hall is used."
+  },
+  {
+   "name": "4F Waiting Room 2",
+   "note": "9 tsubo. Meeting layout for 8 people. Available only when the hall is used."
+  },
+  {
+   "name": "4F Waiting Room 3",
+   "note": "5 tsubo. Meeting layout for 8 people. Available only when the hall is used."
+  },
+  {
+   "name": "3F Room1",
+   "note": "76 tsubo. Classroom is 3 per desk. Basic layout is classroom, 2 per desk, 120 people. Group layout (3 per desk): 144 people. Hollow square is 2 per desk."
+  },
+  {
+   "name": "3F Room2",
+   "note": "27 tsubo. Classroom is 3 per desk. Basic layout is classroom, 2 per desk, 36 people. Group layout (3 per desk): 54 people. Hollow square is 2 per desk."
+  },
+  {
+   "name": "3F Room3",
+   "note": "10 tsubo. Classroom is 3 per desk. Basic layout is classroom, 2 per desk, 12 people. Group layout (3 per desk): 18 people. Hollow square is 2 per desk."
+  },
+  {
+   "name": "3F Room4",
+   "note": "10 tsubo. Classroom is 3 per desk. Basic layout is classroom, 2 per desk, 12 people. Group layout (3 per desk): 18 people. Hollow square is 2 per desk."
+  },
+  {
+   "name": "3F Room5",
+   "note": "9 tsubo. Meeting layout for 12 people."
+  },
+  {
+   "name": "3F Room6",
+   "note": "27 tsubo. Classroom is 3 per desk. Basic layout is classroom, 2 per desk, 48 people. Group layout (3 per desk): 54 people. Hollow square is 2 per desk. The venue-list price page also gives an area of 89㎡."
+  },
+  {
+   "name": "3F Room7",
+   "note": "5 tsubo. Meeting layout for 8 people. Ceiling height is 3.5 m on the venue overview page and the Room7 page, and 3.0 m in the price list PDF."
+  },
+  {
+   "name": "3F Board Room",
+   "note": "39 tsubo. Classroom is 3 per desk. Basic layout is classroom, 2 per desk, 36 people. Group layout (3 per desk): 54 people. Hollow square is 2 per desk. An anteroom is attached."
+  },
+  {
+   "name": "3F Reception Room 1",
+   "note": "76 tsubo. Classroom is 3 per desk. Basic layout is classroom, 2 per desk, 88 people. Group layout (3 per desk): 108 people. Hollow square is 2 per desk."
+  },
+  {
+   "name": "3F Reception Room 2",
+   "note": "29 tsubo. Classroom is 3 per desk. Basic layout is classroom, 2 per desk, 30 people. Group layout (3 per desk): 36 people. Hollow square is 2 per desk."
+  },
+  {
+   "name": "3F Exclusive Use (Entire 3F)",
+   "note": "Capacity 200 to 500 people (official figure). No per-layout capacities are shown."
+  },
+  {
+   "name": "Exclusive Use of Entire Building (3F+4F)",
+   "note": "Capacity 500 to 1,500 people (official figure). No per-layout capacities are shown."
+  }
+ ],
+ "ops": {
+  "prevDaySetup": "Under the terms of use, the usage period runs from the time preparation for the event begins until the time the space has been restored and vacated, so setup and teardown time is included in usage time. Hall A or Hall B (entire) can be rented for 24 hours; the late-night and early-morning hours of 22:00-8:00 are rented for setup and teardown work only (late-night/early-morning extension fee per hour: Hall A 84,000 yen, Hall B 98,000 yen, Hall B1 60,000 yen, Hall B2 68,000 yen, excluding tax). All-day hall use is 9:00-19:00, and the fees are Hall A 600,000 yen, Hall B 700,000 yen, Hall B1 400,000 yen, Hall B2 450,000 yen (excluding tax). Advance storage of packages is limited to packages arriving on the morning of the previous day with shipping charges prepaid by the sender, up to 20 cardboard boxes (20,000 yen + tax for any excess). (Source: Venue Fee Schedule 2026 edition, Terms of Use, Receiving and Shipping Packages)",
+  "loadingHours": "Load-in and load-out must be done within the usage time. Early-morning and night load-in/out is subject to consultation. Load-in/out uses the 1F loading area, whose shutter is closed from 22:00 to 6:00; load-in/out outside those hours requires the building's permission, so apply in advance. Submit the load-in/out vehicle list (time slot, company name, vehicle type, license plate number, number of vehicles) at least 1 week before the usage date. All workers wear a hall work strap, receive the strap from venue staff after entering the building, and complete the load-in/out procedure at the Disaster Prevention Center. The opening sizes along the load-in route are: vestibule 4 (in front of the Disaster Prevention Center) 2,400mm high x 1,300mm wide; anteroom 2 (in front of the elevator) 2,300mm high x 1,400mm wide (1,240mm including the door handle). The freight elevator has a load capacity of 2,000kg, interior dimensions of 1,600 wide x 2,100 deep x 2,800 high (partly 3,300mm), and a door opening of 1,300 wide x 2,400mm high, and is shared with the commercial facility and tenants. For construction work inside the venue, submit construction drawings, set-up drawings and electrical drawings at least 2 weeks in advance. (Source: 1F Load-in/Load-out Notes updated June 30, 2026, Terms of Use)",
+  "vehicleRules": "The loading area has a vehicle height limit of 3,800mm and accepts up to 2-ton long trucks (4-ton trucks require consultation). The loading area is shared with the commercial facility and tenants; vehicles cannot be parked there and must leave immediately after work is finished. When multiple vehicles are used, coordinate within the vehicle bays designated by the venue, which are in principle Nos. 6 and 7. Vehicles that must stay after work use the Central Tower parking lot (up to 2.1 m high, 1.9 m wide, 15 cm minimum ground clearance). The loading area and the parking lot have separate entrances, and the parking lot is entered from the general parking lot entrance. Street parking around the building is prohibited by the terms of use. (Source: 1F Load-in/Load-out Notes updated June 30, 2026, FAQ, Terms of Use Article 17)",
+  "parking": "Use \"D-Parking Ariake Central Tower\" next to the building. It is open 24 hours, with 214 spaces; the vehicle size limit is 4,800mm long x 1,900mm wide x 2,000mm high (Access page and Nearby Coin Parking map; the 1F Load-in/Load-out Notes give a height of 2.1 m and a minimum ground clearance of 15 cm, and the Nearby Coin Parking map gives a weight limit of 2 tons). The fee is 300 yen per 20 minutes (daily maximum 2,800 yen), and on certain days the maximum may not apply. There is no parking discount for venue users, and advance reservations are in principle not accepted. This is the only parking lot whose fees can be included on the invoice. Nearby are Ariake Park Building Parking (250 spaces, 5.5 m long x 1.9 m wide x 2.1 m high, 440 yen for the first hour and 110 yen per 30 minutes after that, open 24 hours) and Times Ariake Frontier (141 spaces, 5 m long x 1.9 m wide x 1.55 m high, weight 1.7 tons, 440 yen per 30 minutes from 7:00 to 23:00 with a maximum of 1,540 yen, entry 7:00-22:00). (Source: Access page, FAQ, Nearby Coin Parking as of March 22, 2026. The same map lists the D-Parking fee as 300 yen per 30 minutes)",
+  "waitingRooms": "There are 3 waiting rooms on the 4F hall floor: Waiting Room 1 is 36㎡, Waiting Room 2 is 30㎡ and Waiting Room 3 is 17㎡ (ceiling height 3.0 m, all in a meeting layout for 8 people). They can be rented only when the hall is used, and the all-day usage fee is 20,000 yen each for Waiting Rooms 1 and 2 and 10,000 yen for Waiting Room 3 (excluding tax). Waiting Room 1 is the largest, with windows. The 3F Board Room (130㎡) has an attached anteroom. The 3F Conference rooms (Room1 to 7, Reception Rooms) can also be used as waiting rooms. (Source: 4F Hall overview, Waiting Room 1 page, Venue Fee Schedule 2026 edition)",
+  "catering": "Outside food and drink may be brought in, and food and drink waste from it must be taken away (the venue's waste disposal is 1,000 yen per 45L bag, excluding tax). The venue can introduce catering companies and will recommend vendors to suit your budget and requests. The official website introduces Ningyocho Imahan, Yushima Ogi and Kanda Myojin-shita Miyabi. Reception catering is on a 2-hour basis with food, free-flow drinks and service staff from 5,000 yen per person, and boxed lunches are from 1,000 yen each (both excluding tax; partner vendors are introduced). Use of outside vendors must be discussed in advance with the venue staff, and their instructions must be followed on the day. Under the terms of use, cooking not approved by the operator, and eating, drinking and smoking outside designated areas, are prohibited. (Source: FAQ, 4F Hall fees, Terms of Use Article 17)",
+  "restaurants": "The building has 4 restaurants on the 2F and a cafe on the 1F, and food trucks also set up on weekdays (note their days off). Convenience stores, cafes and various restaurants are located on the 1F and 2F. A reception can be held after a meeting or seminar, and the venue introduces catering companies. Reception Rooms 1 and 2 on the 3F are presented as venues for receptions and parties, and Hall A on the 4F has an attached 200㎡ foyer that can be used for receptions and exhibition space. (Source: FAQ, Access page, 3F Conference overview, 4F Hall overview)"
+ },
+ "documents": [
+  {
+   "title": "Venue Fee Schedule (2026 edition)"
+  },
+  {
+   "title": "1F Load-in/Load-out Notes (updated June 30, 2026)"
+  },
+  {
+   "title": "Receiving and Shipping Packages"
+  },
+  {
+   "title": "Waste Sorting and Collection"
+  },
+  {
+   "title": "Nearby Coin Parking (as of March 22, 2026)"
+  },
+  {
+   "title": "Access Map"
+  },
+  {
+   "title": "Hall A/B Equipment Price List"
+  },
+  {
+   "title": "Hall B1/B2 Equipment Price List"
+  },
+  {
+   "title": "Conference Equipment Price List"
+  },
+  {
+   "title": "Equipment List (Hall)"
+  },
+  {
+   "title": "Equipment List (Conference)"
+  },
+  {
+   "title": "Hall A Audio, Lighting and Video Equipment List"
+  },
+  {
+   "title": "Hall B Audio, Lighting and Video Equipment List"
+  },
+  {
+   "title": "Wireless Microphone Frequency List (Hall)"
+  },
+  {
+   "title": "Hall A Basic Lighting Rigging Plan"
+  },
+  {
+   "title": "Hall A Lighting Restoration Plan"
+  },
+  {
+   "title": "Hall B Basic Lighting Rigging Plan"
+  },
+  {
+   "title": "Hall B Lighting Restoration Plan"
+  },
+  {
+   "title": "Hall A Rigging Drawings and Lighting Circuit Diagram (Batten Diagram)"
+  },
+  {
+   "title": "Hall B Rigging Drawings and Lighting Circuit Diagram (Batten Diagram)"
+  },
+  {
+   "title": "Hall Low-voltage Electrical Plan (4F)"
+  },
+  {
+   "title": "Low-voltage Electrical Plan (3F Conference)"
+  },
+  {
+   "title": "Internet Line Details"
+  },
+  {
+   "title": "Hall Floor Plan (4F)"
+  },
+  {
+   "title": "Hall Floor Plan with Scale (4F)"
+  },
+  {
+   "title": "Conference Floor Plan (3F)"
+  },
+  {
+   "title": "Conference Floor Plan with Scale (3F)"
+  },
+  {
+   "title": "Layout Plan: Hall, Classroom Style (2 per desk)"
+  },
+  {
+   "title": "Layout Plan: Hall, Classroom Style (3 per desk)"
+  },
+  {
+   "title": "Layout Plan: Hall, Group Style (T-shape / 3 per desk)"
+  },
+  {
+   "title": "Layout Plan: Hall, Theater Style"
+  },
+  {
+   "title": "Layout Plan: Hall B Divided, Classroom Style (2 per desk)"
+  },
+  {
+   "title": "Layout Plan: Hall B Divided, Classroom Style (3 per desk)"
+  },
+  {
+   "title": "Layout Plan: Hall B Divided, Group Style (T-shape / 3 per desk)"
+  },
+  {
+   "title": "Layout Plan: Hall B Divided, Theater Style"
+  },
+  {
+   "title": "Layout Plan: Conference, Classroom Style (2 per desk)"
+  },
+  {
+   "title": "Layout Plan: Conference, Classroom Style (3 per desk)"
+  },
+  {
+   "title": "Layout Plan: Conference, Group Style (T-shape / 3 per desk)"
+  },
+  {
+   "title": "Layout Plan: Conference, Theater Style"
+  },
+  {
+   "title": "Notes When Considering Use of Transceivers"
+  },
+  {
+   "title": "Nearby Hospitals"
+  },
+  {
+   "title": "Terms of Use (established April 2021)"
+  },
+  {
+   "title": "Booking Flow (Steps Before Use)"
+  },
+  {
+   "title": "FAQ"
+  },
+  {
+   "title": "Document Downloads (official list)"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "Lawson Ariake Central Tower",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. In the same building as the venue."
+   },
+   {
+    "name": "Lawson Tokyo Big Sight Entrance",
+    "hours": "8:00-20:00",
+    "note": "Distance is calculated from the address location. A store inside the Tokyo Big Sight grounds. Short opening hours."
+   },
+   {
+    "name": "FamilyMart Ariake Frontier",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "Accea Tokyo Big Sight Mae",
+    "hours": "Weekdays 8:00-22:00, Sat, Sun & holidays 10:00-19:00",
+    "note": "Distance is calculated from the address location. The official facilities section shows \"24 hours on weekdays\" (self-service equipment)."
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Can Do Wanza Ariake",
+    "hours": "10:00-19:30 (daily)",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "DAISO Ariake Garden",
+    "hours": "10:00-21:00",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "donki": [
+   {
+    "name": "Kirakira Donki Diver City Tokyo Plaza",
+    "hours": "10:00-21:00",
+    "note": "Distance is calculated from the address location. This is not Don Quijote itself but a separate format within the Don Quijote group, centered on cosmetics and sundries. Far, at a 25-minute walk. The official notice of business hours says weekdays 11:00-20:00 / Sat, Sun & holidays 10:00-21:00."
+   }
+  ]
+ },
+ "photoCredit": "© Lombroso / CC BY-SA 4.0 · Wikimedia Commons"
+}

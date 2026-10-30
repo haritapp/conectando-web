@@ -1,0 +1,631 @@
+{
+ "slug": "akihabara-udx",
+ "nameJa": "秋葉原UDX（UDXアキハバラスペース）",
+ "nameEn": "UDX AKIHABARA SPACE",
+ "type": "exhibition",
+ "area": "kanda-suidobashi-venues",
+ "address": "〒101-0021 東京都千代田区外神田4-14-1 秋葉原UDX",
+ "officialUrl": "https://udx.jp/",
+ "organizerUrl": "https://udx-akibaspace.jp/",
+ "bizintokyoSlug": "akihabara_udx",
+ "accessSummary": "秋葉原駅（JR）電気街口 徒歩2分／秋葉原駅（つくばエクスプレス）A1出口 徒歩3分／秋葉原駅（日比谷線）徒歩4分／末広町駅（銀座線）1番出口 徒歩3分",
+ "notice": "2026年11月19日（木）から施設名称が変わる（アキバ・スクエア→UDXスクエアホール、UDXシアター→UDXシアターホール、UDXギャラリー→UDXギャラリーホール、4FのUDXギャラリーネクスト→UDXカンファレンス。6FのUDXカンファレンスは変更なし。施設の総称は「UDXホール＆カンファレンス」）",
+ "hours": "全施設24時間利用可（メンテナンスやビル休館日は貸出できない場合がある）。ビルの閉館時間は平日7:00〜22:00、土日祝7:00〜18:00で、それ以降の退館は時間外通路から（退館後の再入館は不可）",
+ "rooms": [
+  {
+   "name": "6F UDXカンファレンス A+B+C",
+   "areaM2": 353,
+   "ceilingM": 2.85,
+   "theater": 216,
+   "school": 216,
+   "ushape": 68,
+   "standing": 240,
+   "banquet": null,
+   "note": "スクールは2名掛け。ロの字 80席、島型 168席（6名28島）。A 122㎡＋B 127㎡＋C 104㎡。最低利用3時間"
+  },
+  {
+   "name": "6F UDXカンファレンス A+B",
+   "areaM2": 249,
+   "ceilingM": 2.85,
+   "theater": 132,
+   "school": 132,
+   "ushape": 52,
+   "standing": 160,
+   "banquet": null,
+   "note": "スクールは2名掛け。ロの字 64席、島型 96席（6名16島）。A 122㎡＋B 127㎡。最低利用3時間"
+  },
+  {
+   "name": "6F UDXカンファレンス D・E・F（各）",
+   "areaM2": 120,
+   "ceilingM": 2.85,
+   "theater": 60,
+   "school": 60,
+   "ushape": 28,
+   "standing": 50,
+   "banquet": null,
+   "note": "スクールは2名掛け。ロの字 36席、島型 36席（6名6島）。最低利用3時間"
+  },
+  {
+   "name": "6F UDXカンファレンス 控室",
+   "areaM2": 7.7,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "最大6名。椅子・テーブル・ハンガーラック。9:00-18:00 12,650円／3時間 4,950円／5時間 7,700円（税込）。単体利用はできない"
+  },
+  {
+   "name": "4F UDXギャラリー イベントホールL",
+   "areaM2": 725,
+   "ceilingM": 3.9,
+   "theater": 288,
+   "school": 288,
+   "ushape": 90,
+   "standing": 420,
+   "banquet": null,
+   "note": "スクールは3名掛け。ロの字 102席、島型 324席（9名36島）。椅子は最大400席まで貸出可。ホール560㎡＋ホワイエ165㎡（料金表）。L字型の会場を可動壁で2部屋に分けられ、N+SとE+Wの2通りがある。最低利用5時間"
+  },
+  {
+   "name": "4F UDXギャラリー イベントホールE",
+   "areaM2": 410,
+   "ceilingM": 3.9,
+   "theater": 288,
+   "school": 288,
+   "ushape": 90,
+   "standing": 300,
+   "banquet": null,
+   "note": "スクールは3名掛け。ロの字 102席、島型 216席（9名24島）。最低利用5時間。隣の部屋を他社が使うとお互いの音が聞こえる場合がある"
+  },
+  {
+   "name": "4F UDXギャラリー イベントホールW",
+   "areaM2": 150,
+   "ceilingM": 3.9,
+   "theater": 108,
+   "school": 108,
+   "ushape": 42,
+   "standing": 100,
+   "banquet": null,
+   "note": "スクールは3名掛け。ロの字 54席、島型 81席（9名9島）。最低利用5時間。隣の部屋を他社が使うとお互いの音が聞こえる場合がある"
+  },
+  {
+   "name": "4F UDXギャラリー イベントホールN",
+   "areaM2": 270,
+   "ceilingM": 3.9,
+   "theater": 192,
+   "school": 192,
+   "ushape": 60,
+   "standing": 200,
+   "banquet": null,
+   "note": "スクールは3名掛け。ロの字 72席、島型 135席（9名15島）。最低利用5時間。隣の部屋を他社が使うとお互いの音が聞こえる場合がある"
+  },
+  {
+   "name": "4F UDXギャラリー イベントホールS",
+   "areaM2": 290,
+   "ceilingM": 3.9,
+   "theater": 240,
+   "school": 240,
+   "ushape": 78,
+   "standing": 210,
+   "banquet": null,
+   "note": "スクールは3名掛け。ロの字 90席、島型 189席（9名21島）。最低利用5時間。隣の部屋を他社が使うとお互いの音が聞こえる場合がある"
+  },
+  {
+   "name": "4F UDXギャラリー 控室1（ホールL・S・W用）",
+   "areaM2": 13,
+   "ceilingM": 2.7,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "最大12名。椅子・テーブル・ハンガーラック。単体利用はできない。他社が同時に使う場合は会場に相談"
+  },
+  {
+   "name": "4F UDXギャラリー 控室2（ホールL・N・E用）",
+   "areaM2": 13,
+   "ceilingM": 3.9,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "最大9名（料金表 2026年10月現在）。会場ページは天高2.7m・最大12名と表記。窓際で外気温の影響を受けやすい。単体利用はできない。他社が同時に使う場合は会場に相談"
+  },
+  {
+   "name": "4F UDXギャラリー クローク",
+   "areaM2": null,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "上着・荷物置き場。単体利用はできない（ホールL・N・Eのページ）"
+  },
+  {
+   "name": "4F UDXギャラリーネクスト カンファレンスNEXT1",
+   "areaM2": 215,
+   "ceilingM": "3.6-4.0",
+   "theater": 180,
+   "school": 180,
+   "ushape": 63,
+   "standing": 160,
+   "banquet": null,
+   "note": "スクールは3名掛け。ロの字 72席、島型 135席（9名15島）。天高は料金表が前方3.6m・後方4.0m、会場ページは4.0m。最低利用3時間"
+  },
+  {
+   "name": "4F UDXギャラリーネクスト カンファレンスNEXT2",
+   "areaM2": 140,
+   "ceilingM": 4.0,
+   "theater": 120,
+   "school": 120,
+   "ushape": 45,
+   "standing": 80,
+   "banquet": null,
+   "note": "スクールは3名掛け。ロの字 54席、島型 81席（9名9島）。最低利用3時間"
+  },
+  {
+   "name": "4F UDXギャラリーネクスト カンファレンスNEXT3",
+   "areaM2": 140,
+   "ceilingM": 4.0,
+   "theater": 80,
+   "school": 80,
+   "ushape": 34,
+   "standing": 80,
+   "banquet": null,
+   "note": "スクールは2名掛け。ロの字 40席、島型 54席（6名9島）。最低利用3時間"
+  },
+  {
+   "name": "4F UDXシアター",
+   "areaM2": 190,
+   "ceilingM": 7.0,
+   "theater": 172,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "固定席172席（全席に可動テーブル）＋車いすスペース2席。最低利用5時間"
+  },
+  {
+   "name": "4F UDXシアター ロビー",
+   "areaM2": 60,
+   "ceilingM": 4.2,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "受付カウンター付き（受付用）"
+  },
+  {
+   "name": "4F UDXシアター 控室",
+   "areaM2": 7.5,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "最大6名"
+  },
+  {
+   "name": "2F アキバ・スクエア 屋内スペース",
+   "areaM2": 1010,
+   "ceilingM": "3.0-7.8",
+   "theater": 600,
+   "school": 300,
+   "ushape": null,
+   "standing": 700,
+   "banquet": null,
+   "note": "高天井7.8m・低天井3.0m。スタンディングは最大800名。料金表ではスクール200-300、シアター400-600、立食700、スタンディング700-800（ステージの構成・レイアウトによる）。標準レイアウトでは机・椅子の配置なし（レスト用テーブル・スタッキングチェアの貸出あり）。最低利用8時間"
+  },
+  {
+   "name": "2F アキバ・スクエア オープンスペース",
+   "areaM2": 280,
+   "ceilingM": "8.2-14.1",
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": 280,
+   "banquet": null,
+   "note": "スタンディング280名。全面・半面の料金設定あり。最低利用8時間。アキバ・スクエアの紹介文は屋外スペース280㎡（合計1,290㎡）、トップページの紹介文は260㎡（合計1,270㎡）と表記"
+  },
+  {
+   "name": "2F アキバ・スクエア 控室",
+   "areaM2": 25,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "最大15名（スクール形式）。27,500円（税込）、オープンスペースのみ利用の場合に発生"
+  },
+  {
+   "name": "UDX広場 アキバ広場（屋外）",
+   "areaM2": 450,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "約450㎡。実施可能時間9:00-21:00（音出し11:00-17:00）。9:00-17:00 20万円、9:00-21:00 30万円（税抜）。車両の乗り入れは原則不可"
+  },
+  {
+   "name": "UDX広場 サボニウス広場（屋外）",
+   "areaM2": 165,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "約165㎡。実施可能時間9:00-21:00（音出し11:00-17:00）。9:00-17:00 20万円、9:00-21:00 30万円（税抜）。車両の乗り入れ可（サイズ・重量制限、乗入禁止エリアあり）"
+  }
+ ],
+ "roomsSource": "https://udx-akibaspace.jp/",
+ "ops": {
+  "prevDaySetup": {
+   "text": "ギャラリーには準備日料金（9:00-20:00、税込）が設定されていて、ホールL 524,700円、E 419,100円、W 157,300円、N 261,800円、S 319,000円。アキバ・スクエアには準備・撤去料金があり、屋内スペースは平日が全日（9:00-22:00）385,000円・午前（9:00-17:00）277,200円・午後（13:00-22:00）308,000円、土日祝が全日550,000円・午前396,000円・午後440,000円、オープンスペースは全面の全日220,000円・半面の全日110,000円（税込）。利用時間には準備・後片づけの時間がすべて含まれ、荷物の発送・受け取りは利用時間内に限られる。時間外の利用は事前に担当者との打合せが必要。（出典：利用料金一覧表 2026年10月現在、利用規約 2026年8月24日現在、各会場ページ）",
+   "source": "https://udx-akibaspace.jp/udxa/wp-content/themes/udxa/assets/cmn/facility/pdf/facility_price_list.pdf"
+  },
+  "loadingHours": {
+   "text": "荷捌き場を使うには事前に搬入出計画表の提出が必要で、各会場の担当者の指示に従って積み下ろしする（必要に応じてセキュリティーカードを貸出）。荷捌き場に荷物の溜め置きはできず、会場への搬入出はリフターとN1・N2・S1・S2エレベーターを使う（N1・N2・S1・S2の利用は事務局へ連絡、セキュリティーカード必須）。荷捌き場に入れる車の最大車高は3.4m。宅配便を含む搬入出物は事前に運営者へ相談し、時間・経路・養生の指示に従う。施工がある場合は30日前までに施工図面・仕込み図・電気図面を提出する。ビルの閉館時間は平日7:00〜22:00、土日祝7:00〜18:00。（出典：搬入出案内 2020年10月、地下パーキングマップ 2024年12月、利用規約 2026年8月24日現在）",
+   "source": "https://udx-akibaspace.jp/udxa/wp-content/themes/udxa/assets/pdf/6_logistics/udx_loading_unloading_information_202010.pdf"
+  },
+  "vehicleRules": {
+   "text": "荷捌き場への車両の留め置きは禁止で、作業が終わったらすぐ移動する。曜日・時間帯によっては荷捌き場が混雑する。路上での搬入は、所定の申請書を出さない限り禁止（利用規約でも路上駐車は禁止）。1F荷捌き場に入れる車高は3.4mまで、地下駐車場の入口は2.4mまで。オフィスEV・パーキングEVでの台車の利用は禁止で、タクシーからの荷下ろしも禁止。UDX広場のイベントでは、サボニウス広場だけ車両の乗り入れが可能（サイズ・重量制限あり）、アキバ広場は原則不可で、搬入・搬出車両用の専用駐車場はない。（出典：搬入出案内 2020年10月、地下パーキングマップ 2024年12月、UDX広場運営マニュアル 2024年11月、利用規約 2026年8月24日現在）",
+   "source": "https://udx-akibaspace.jp/udxa/wp-content/themes/udxa/assets/pdf/6_logistics/udx_loading_unloading_information_202010.pdf"
+  },
+  "parking": {
+   "text": "UDXパーキング（地下）は収容800台。1ショップあたり3,000円（税込）以上の利用で1時間のサービスがある（店舗でサービス券を発行、一部対象外あり）。地下駐車場の入口の高さ制限は2.4m。時間貸しの入庫時間は公式内で表記が分かれ、アクセス案内は6時〜22時（22時以前に入庫した車は出庫可能）、駐車場案内PDF（2026年6月）は22時〜翌5時は出庫のみ、秋葉原UDXのアクセスページは24時間営業と書いている。首都高1号上野線 本町出口から1.8km（約5分）、5号池袋線 西神田出口から2.6km（約11分）。（出典：秋葉原UDX アクセス、UDXアキハバラスペース トップページのアクセス欄、UDXパーキング案内PDF、地下パーキングマップ 2024年12月）",
+   "source": "https://udx.jp/access/"
+  },
+  "waitingRooms": {
+   "text": "カンファレンスは控室1室（7.7㎡・最大6名、椅子・テーブル・ハンガーラック。9:00-18:00 12,650円、3時間 4,950円、5時間 7,700円〈税込〉）。ギャラリーは控室2室（各13㎡。控室1はホールL・S・W用、控室2はホールL・N・E用）とクローク。シアターは4F控室（7.5㎡・最大6名）と、受付カウンター付きのロビー（約60㎡）。アキバ・スクエアは控室（25㎡・最大15名）で、27,500円（税込）はオープンスペースのみ利用の場合に発生する。カンファレンスとギャラリーの控室は単体利用ができない。（出典：利用料金一覧表 2026年10月現在、各会場ページ）",
+   "source": "https://udx-akibaspace.jp/udxa/wp-content/themes/udxa/assets/cmn/facility/pdf/facility_price_list.pdf"
+  },
+  "catering": {
+   "text": "各会議室・ホール内での飲食はできるが、飲食物の持ち込みは原則禁止（特別な事情があるときは事前に運営者へ相談）で、飲食物を手配するときは施設の指定業者を使う。共用部分での飲食は原則禁止。お弁当・飲み物の手配や、終了後の懇親会・パーティーのケータリングは会場スタッフが受け付け、弁当・オードブル・ケータリングの提携業者を公式の「食事・サービス」ページに載せている。UDX広場でのキッチンカーなど飲食物の提供は原則不可で、別途相談。（出典：よくある質問、食事・サービス、利用規約 2026年8月24日現在、UDX広場運営マニュアル 2024年11月）",
+   "source": "https://udx-akibaspace.jp/#faq"
+  },
+  "restaurants": {
+   "text": "同じビルの飲食ゾーン「AKIBA_ICHI」は大規模リニューアルのため2026年1月23日から一時営業を終了している。公式は、約30店舗の飲食ゾーンとして2026年12月10日（木）にリニューアルオープンすると案内していて、一部の店舗は11月17日〜27日に先行オープンする（フロアガイド）。営業を続けている店舗は、1階の福島屋・金子屋など（2025年12月4日発表）。懇親会は、会場スタッフが手配するケータリング（懇親会・パーティー向け）が公式の案内。（出典：UDX DINING & SHOP、フロアガイド、AKIBA_ICHI 一時営業終了のお知らせ、食事・サービス）",
+   "source": "https://udx.jp/dining-shop/"
+  }
+ },
+ "documents": [
+  {
+   "title": "利用料金一覧表（2026年10月現在）",
+   "url": "https://udx-akibaspace.jp/udxa/wp-content/themes/udxa/assets/cmn/facility/pdf/facility_price_list.pdf"
+  },
+  {
+   "title": "利用規約（2026年8月24日現在）",
+   "url": "https://udx-akibaspace.jp/udxa/wp-content/themes/udxa/assets/pdf/1_application_form/udx_kiyaku.pdf"
+  },
+  {
+   "title": "搬入出案内（2020年10月）",
+   "url": "https://udx-akibaspace.jp/udxa/wp-content/themes/udxa/assets/pdf/6_logistics/udx_loading_unloading_information_202010.pdf"
+  },
+  {
+   "title": "時間外導線案内（UDXカンファレンス）",
+   "url": "https://udx-akibaspace.jp/udxa/wp-content/themes/udxa/assets/pdf/2_guide/1_conference/udx_out-of-hours_route_information.pdf"
+  },
+  {
+   "title": "案内表記設置場所（UDXカンファレンス）",
+   "url": "https://udx-akibaspace.jp/udxa/wp-content/themes/udxa/assets/pdf/2_guide/1_conference/udx_information_sign_installation_location.pdf"
+  },
+  {
+   "title": "席番号（UDXシアター）",
+   "url": "https://udx-akibaspace.jp/udxa/wp-content/themes/udxa/assets/pdf/2_guide/2_theater/theater_seat_numbers.pdf"
+  },
+  {
+   "title": "全施設ネット環境一覧表（2026年8月時点）",
+   "url": "https://udx-akibaspace.jp/udxa/wp-content/themes/udxa/assets/pdf/3_facility_information/udx_internet.pdf"
+  },
+  {
+   "title": "その他有料備品リスト UDXカンファレンス（2026年6月現在）",
+   "url": "https://udx-akibaspace.jp/udxa/wp-content/themes/udxa/assets/pdf/3_facility_information/1_conference/equipment_list_conference.pdf"
+  },
+  {
+   "title": "会場レイアウト図面 A+B+C",
+   "url": "https://udx-akibaspace.jp/udxa/wp-content/themes/udxa/assets/pdf/3_facility_information/1_conference/layout_abc.pdf"
+  },
+  {
+   "title": "会場レイアウト図面 A+B",
+   "url": "https://udx-akibaspace.jp/udxa/wp-content/themes/udxa/assets/pdf/3_facility_information/1_conference/layout_ab.pdf"
+  },
+  {
+   "title": "会場レイアウト図面 D E F",
+   "url": "https://udx-akibaspace.jp/udxa/wp-content/themes/udxa/assets/pdf/3_facility_information/1_conference/layout_def.pdf"
+  },
+  {
+   "title": "その他有料備品リスト UDXギャラリー（2026年9月現在）",
+   "url": "https://udx-akibaspace.jp/udxa/wp-content/themes/udxa/assets/pdf/3_facility_information/2_gallery/equipment_list_gallery.pdf"
+  },
+  {
+   "title": "会場レイアウト図面 UDXギャラリー",
+   "url": "https://udx-akibaspace.jp/udxa/wp-content/themes/udxa/assets/pdf/3_facility_information/2_gallery/layout_gallery.pdf"
+  },
+  {
+   "title": "その他有料備品リスト UDXギャラリーネクスト（2026年9月現在）",
+   "url": "https://udx-akibaspace.jp/udxa/wp-content/themes/udxa/assets/pdf/3_facility_information/3_next/equipment_list_gallery-n.pdf"
+  },
+  {
+   "title": "会場レイアウト図面 UDXギャラリーネクスト",
+   "url": "https://udx-akibaspace.jp/udxa/wp-content/themes/udxa/assets/pdf/3_facility_information/3_next/layout_next.pdf"
+  },
+  {
+   "title": "その他有料備品リスト UDXシアター（2026年4月現在）",
+   "url": "https://udx-akibaspace.jp/udxa/wp-content/themes/udxa/assets/pdf/3_facility_information/4_theater/equipment_list_theater.pdf"
+  },
+  {
+   "title": "その他有料備品リスト アキバ・スクエア（2026年4月現在）",
+   "url": "https://udx-akibaspace.jp/udxa/wp-content/themes/udxa/assets/pdf/3_facility_information/5_akibasquare/equipment_list_akibasquare.pdf"
+  },
+  {
+   "title": "アキバ・スクエア 会場全体図",
+   "url": "https://udx-akibaspace.jp/udxa/wp-content/themes/udxa/assets/pdf/3_facility_information/5_akibasquare/akibasquare_zentaizu_201610.pdf"
+  },
+  {
+   "title": "アキバ・スクエア 会場設備図",
+   "url": "https://udx-akibaspace.jp/udxa/wp-content/themes/udxa/assets/pdf/3_facility_information/5_akibasquare/akibasquare_setsubi.pdf"
+  },
+  {
+   "title": "アキバ・スクエア 会場展開図",
+   "url": "https://udx-akibaspace.jp/udxa/wp-content/themes/udxa/assets/pdf/3_facility_information/5_akibasquare/akibasquare_tenkai.pdf"
+  },
+  {
+   "title": "アキバ・スクエア 会場平面非常設備",
+   "url": "https://udx-akibaspace.jp/udxa/wp-content/themes/udxa/assets/pdf/3_facility_information/5_akibasquare/akibasquare_hijou.pdf"
+  },
+  {
+   "title": "アキバ・スクエア 会場照明平面配置図",
+   "url": "https://udx-akibaspace.jp/udxa/wp-content/themes/udxa/assets/pdf/3_facility_information/5_akibasquare/akibasquare_shoumei.pdf"
+  },
+  {
+   "title": "フロアマップ UDX全施設（2024年10月29日）",
+   "url": "https://udx-akibaspace.jp/udxa/wp-content/themes/udxa/assets/pdf/4_floormap/floormap_udx_all_facilities_20241029.pdf"
+  },
+  {
+   "title": "秋葉原UDXまでの道案内（4F）",
+   "url": "https://udx-akibaspace.jp/udxa/wp-content/themes/udxa/assets/pdf/4_floormap/access_to_udx_4f.pdf"
+  },
+  {
+   "title": "地下パーキングマップ（2024年12月）",
+   "url": "https://udx-akibaspace.jp/udxa/wp-content/themes/udxa/assets/pdf/4_floormap/underground_parking_map_udx_2412.pdf"
+  },
+  {
+   "title": "フロアマップ UDXカンファレンス（2023年12月2日）",
+   "url": "https://udx-akibaspace.jp/udxa/wp-content/themes/udxa/assets/pdf/4_floormap/1_conference/floormap_conference_20231202.pdf"
+  },
+  {
+   "title": "館内フロアマップ（UDXカンファレンス）",
+   "url": "https://udx-akibaspace.jp/udxa/wp-content/themes/udxa/assets/pdf/4_floormap/1_conference/other_map.pdf"
+  },
+  {
+   "title": "秋葉原UDXまでの道案内（6F）",
+   "url": "https://udx-akibaspace.jp/udxa/wp-content/themes/udxa/assets/pdf/4_floormap/1_conference/access_to_conference.pdf"
+  },
+  {
+   "title": "フロアマップ UDXギャラリー（2023年12月2日）",
+   "url": "https://udx-akibaspace.jp/udxa/wp-content/themes/udxa/assets/pdf/4_floormap/2_gallery/floormap_gallery_20231202.pdf"
+  },
+  {
+   "title": "フロアマップ UDXギャラリーネクスト（2023年12月2日）",
+   "url": "https://udx-akibaspace.jp/udxa/wp-content/themes/udxa/assets/pdf/4_floormap/3_next/floormap_next_20231202.pdf"
+  },
+  {
+   "title": "フロアマップ UDXシアター（2023年12月2日）",
+   "url": "https://udx-akibaspace.jp/udxa/wp-content/themes/udxa/assets/pdf/4_floormap/4_theater/floormap_theater_20231202.pdf"
+  },
+  {
+   "title": "フロアマップ アキバ・スクエア（2023年12月2日）",
+   "url": "https://udx-akibaspace.jp/udxa/wp-content/themes/udxa/assets/pdf/4_floormap/5_akibasquare/floormap_akibasquare_20231202.pdf"
+  },
+  {
+   "title": "全施設フロアマップ（デイ・ナイト運営）",
+   "url": "https://udx-akibaspace.jp/udxa/wp-content/themes/udxa/assets/cmn/facility/pdf/facilitiy_floormap.pdf"
+  },
+  {
+   "title": "UDXカンファレンス スケール図",
+   "url": "https://udx-akibaspace.jp/udxa/wp-content/themes/udxa/assets/pdf/5_equipment/1_conference/conference_a-f_scale.pdf"
+  },
+  {
+   "title": "UDXカンファレンス 電源図・ピクチャーレール・ネットワーク（2025年2月）",
+   "url": "https://udx-akibaspace.jp/udxa/wp-content/themes/udxa/assets/pdf/5_equipment/1_conference/conference_a-f_dengen_picturerail_network_2502.pdf"
+  },
+  {
+   "title": "UDXカンファレンス 白図（ABC）",
+   "url": "https://udx-akibaspace.jp/udxa/wp-content/themes/udxa/assets/pdf/5_equipment/1_conference/conference_abc_hakuzu.pdf"
+  },
+  {
+   "title": "UDXカンファレンス 白図（DEF）",
+   "url": "https://udx-akibaspace.jp/udxa/wp-content/themes/udxa/assets/pdf/5_equipment/1_conference/conference_def_hakuzu.pdf"
+  },
+  {
+   "title": "UDXギャラリー スケール図",
+   "url": "https://udx-akibaspace.jp/udxa/wp-content/themes/udxa/assets/pdf/5_equipment/2_gallery/gallery_scale.pdf"
+  },
+  {
+   "title": "UDXギャラリー 電源図・ネットワーク",
+   "url": "https://udx-akibaspace.jp/udxa/wp-content/themes/udxa/assets/pdf/5_equipment/2_gallery/gallery_dengen_network.pdf"
+  },
+  {
+   "title": "UDXギャラリー 白図",
+   "url": "https://udx-akibaspace.jp/udxa/wp-content/themes/udxa/assets/pdf/5_equipment/2_gallery/gallery_hakuzu.pdf"
+  },
+  {
+   "title": "UDXギャラリー 仮設分電盤",
+   "url": "https://udx-akibaspace.jp/udxa/wp-content/themes/udxa/assets/pdf/5_equipment/2_gallery/gallery_bundenban.pdf"
+  },
+  {
+   "title": "UDXギャラリー バトン図・ピクチャーレール",
+   "url": "https://udx-akibaspace.jp/udxa/wp-content/themes/udxa/assets/pdf/5_equipment/2_gallery/gallery_baton_picturerail.pdf"
+  },
+  {
+   "title": "UDXギャラリーネクスト スケール図",
+   "url": "https://udx-akibaspace.jp/udxa/wp-content/themes/udxa/assets/pdf/5_equipment/3_next/next_scale.pdf"
+  },
+  {
+   "title": "UDXギャラリーネクスト 電源図（2025年2月）",
+   "url": "https://udx-akibaspace.jp/udxa/wp-content/themes/udxa/assets/pdf/5_equipment/3_next/next_dengen_2502.pdf"
+  },
+  {
+   "title": "UDXギャラリーネクスト ピクチャーレール・ネットワーク・その他",
+   "url": "https://udx-akibaspace.jp/udxa/wp-content/themes/udxa/assets/pdf/5_equipment/3_next/next_picturerail_network_other.pdf"
+  },
+  {
+   "title": "UDXギャラリーネクスト 白図",
+   "url": "https://udx-akibaspace.jp/udxa/wp-content/themes/udxa/assets/pdf/5_equipment/3_next/next_hakuzu.pdf"
+  },
+  {
+   "title": "UDXシアター スケール図",
+   "url": "https://udx-akibaspace.jp/udxa/wp-content/themes/udxa/assets/pdf/5_equipment/4_theater/theater_scale_911.pdf"
+  },
+  {
+   "title": "UDXシアター 電源図・ネットワーク",
+   "url": "https://udx-akibaspace.jp/udxa/wp-content/themes/udxa/assets/pdf/5_equipment/4_theater/theater_dengen_network.pdf"
+  },
+  {
+   "title": "UDXシアター 断面図",
+   "url": "https://udx-akibaspace.jp/udxa/wp-content/themes/udxa/assets/pdf/5_equipment/4_theater/theater_danmen.pdf"
+  },
+  {
+   "title": "UDX広場 運営マニュアル（2024年11月）",
+   "url": "https://udx-akibaspace.jp/udxa/wp-content/themes/udxa/assets/pdf/akibasquare/UDX_hiroba_manual_202411.pdf"
+  },
+  {
+   "title": "UDXパーキングについて（2026年6月）",
+   "url": "https://udx-akibaspace.jp/udxa/wp-content/themes/udxa/assets/pdf/udxparking.pdf"
+  },
+  {
+   "title": "アクセスマップ（2026年6月）",
+   "url": "https://udx-akibaspace.jp/udxa/wp-content/themes/udxa/assets/pdf/accessmap.pdf"
+  },
+  {
+   "title": "資料ダウンロード（公式一覧）",
+   "url": "https://udx-akibaspace.jp/download/"
+  },
+  {
+   "title": "よくあるご質問",
+   "url": "https://udx-akibaspace.jp/#faq"
+  },
+  {
+   "title": "施設名称変更に関するお知らせ（2026年10月19日）",
+   "url": "https://udx-akibaspace.jp/information/20261019/"
+  }
+ ],
+ "checkedAt": "2026-10-30",
+ "lat": 35.7003697,
+ "lng": 139.7726097,
+ "nearby": {
+  "convenience": [
+   {
+    "name": "セブン-イレブン 秋葉原フコク生命ビル店",
+    "brand": "セブン-イレブン",
+    "distanceM": 148,
+    "walkMin": 2,
+    "hours": "24時間営業",
+    "address": "東京都千代田区神田相生町1番",
+    "verified": true,
+    "source": "https://seven-eleven.areamarker.com/711map/info/235246",
+    "note": "公式表記は「秋葉原フコク生命ビル」。距離は住所の位置で計算"
+   },
+   {
+    "name": "ファミリーマート 外神田三丁目東店",
+    "brand": "ファミリーマート",
+    "distanceM": 174,
+    "walkMin": 3,
+    "hours": "24時間営業",
+    "address": "東京都千代田区外神田3丁目14番地3号",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/26952",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "キンコーズ・秋葉原店",
+    "brand": "キンコーズ",
+    "distanceM": 221,
+    "walkMin": 3,
+    "hours": "平日 9:00-19:00／土日祝 10:00-19:00（受付は閉店30分前まで）",
+    "address": "東京都千代田区神田松永町4-1 ラウンドクロス秋葉原1F",
+    "verified": true,
+    "source": "https://www.kinkos.co.jp/store/tokyo/t032/",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "アクセア 秋葉原店",
+    "brand": "アクセア",
+    "distanceM": 235,
+    "walkMin": 3,
+    "hours": "平日・土日祝 8:00-22:00",
+    "address": "東京都千代田区外神田3-16-14 秋葉原ビル",
+    "verified": true,
+    "source": "https://www.accea.co.jp/entry.html",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Can★Do 秋葉原店",
+    "brand": "キャンドゥ",
+    "distanceM": 204,
+    "walkMin": 3,
+    "hours": "毎日 10:00-21:00",
+    "address": "東京都千代田区外神田3-3-10",
+    "verified": true,
+    "source": "https://shopinfo.cando-web.co.jp/detail/shop-2832/",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "DAISO ヨドバシAKIBA店",
+    "brand": "ダイソー",
+    "distanceM": 264,
+    "walkMin": 4,
+    "hours": "9:30-22:00",
+    "address": "東京都千代田区神田花岡町1-1 ヨドバシカメラ マルチメディアAkiba7階",
+    "verified": true,
+    "source": "https://www.daiso-sangyo.co.jp/shop/detail/007127",
+    "note": "店舗は7階。距離は住所の位置で計算"
+   }
+  ],
+  "donki": [
+   {
+    "name": "ドン・キホーテ 秋葉原店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 89,
+    "walkMin": 2,
+    "hours": "24時間営業",
+    "address": "東京都千代田区外神田4丁目3-3",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=98",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "ドン・キホーテ 上野店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 868,
+    "walkMin": 11,
+    "hours": "9:00-4:00",
+    "address": "東京都文京区湯島3-38-10",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=107",
+    "note": "距離は住所の位置で計算。遠め"
+   }
+  ]
+ },
+ "drinkDelivery": {
+  "available": true
+ },
+ "photo": {
+  "src": "/images/venues/akihabara-udx.jpg",
+  "credit": "© Niui na / CC BY-SA 3.0 · Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Akihabara_UDX_building.jpg"
+ }
+}

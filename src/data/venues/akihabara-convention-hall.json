@@ -1,0 +1,321 @@
+{
+ "slug": "akihabara-convention-hall",
+ "nameJa": "秋葉原コンベンションホール",
+ "nameEn": "AKIHABARA Convention Hall",
+ "type": "conference",
+ "area": "kanda-suidobashi-venues",
+ "address": "〒101-0021 東京都千代田区外神田1-18-13 秋葉原ダイビル4F（ホールは2F、カンファレンスフロアは5F）",
+ "officialUrl": "https://www.akibahall.jp/",
+ "organizerUrl": "https://www.akibahall.jp/guide.html",
+ "bizintokyoSlug": "akihabara-convention-hall",
+ "accessSummary": "JR秋葉原駅（電気街口）徒歩1分／東京メトロ銀座線 末広町駅（1番出口）徒歩3分／東京メトロ日比谷線 秋葉原駅（3番出口）徒歩4分／つくばエクスプレス 秋葉原駅（A1出口）徒歩3分",
+ "notice": null,
+ "hours": "基本の利用は9:00〜21:00（警備の都合）。やむを得ず7:00〜8:00・22:00〜23:00に使う場合は、室料とは別に早朝・深夜料金（各33,000円・税込）。ビルの出入口は通用口が毎日7:00〜21:00、2階デッキ口が毎日7:00〜22:00、1階メイン南口が平日8:00〜20:00・土日祝8:30〜19:00。事務局の電話受付は9:00〜18:00（年末年始を除く）。（利用規定 2026年1月現在）",
+ "rooms": [
+  {
+   "name": "2F コンベンションホール 全ホール",
+   "areaM2": 458,
+   "ceilingM": 7,
+   "theater": 450,
+   "school": 330,
+   "ushape": null,
+   "standing": 300,
+   "banquet": null,
+   "note": "26m×18m。立食はブッフェ300名。横使いも可能だが収容人数は若干減る。常設スクリーン306インチ(16:9)。無料備品は会議用椅子450・折りたたみテーブル110。別にホワイエ165㎡を専有できる。"
+  },
+  {
+   "name": "2F コンベンションホール 分割A",
+   "areaM2": 229,
+   "ceilingM": 7,
+   "theater": 200,
+   "school": 150,
+   "ushape": null,
+   "standing": 150,
+   "banquet": null,
+   "note": "18m×13m。立食はブッフェ150名。"
+  },
+  {
+   "name": "2F コンベンションホール 分割B",
+   "areaM2": 229,
+   "ceilingM": 7,
+   "theater": 200,
+   "school": 150,
+   "ushape": null,
+   "standing": 150,
+   "banquet": null,
+   "note": "18m×13m。立食はブッフェ150名。306インチ常設スクリーンは全スパンまたは分割Bで利用できる。"
+  },
+  {
+   "name": "5F 5A（5A-1/5A-2）",
+   "areaM2": 144,
+   "ceilingM": 3,
+   "theater": 116,
+   "school": 84,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "13.7m×10.5m。常設スクリーン120インチ(4:3)は分割時5A-2で使用可。無料備品の会議用椅子256・会議用テーブル76は5A/5B共通の掲載。"
+  },
+  {
+   "name": "5F 5B（5B-1/5B-2/5B-3）",
+   "areaM2": 211,
+   "ceilingM": 3,
+   "theater": 188,
+   "school": 144,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "20.1m×10.5m。常設スクリーン120インチ(4:3)は分割時5B-1で使用可。"
+  },
+  {
+   "name": "5F 5C（5C-1/5C-2）",
+   "areaM2": 175,
+   "ceilingM": 3,
+   "theater": 140,
+   "school": 84,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "13.7m×12.8m。常設スクリーン120インチ(4:3)は分割時5C-1で使用可。無料備品は会議用椅子153・会議用テーブル30。"
+  },
+  {
+   "name": "5F 5D",
+   "areaM2": 25,
+   "ceilingM": 3,
+   "theater": null,
+   "school": 12,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "6.4m×3.84m。スクールは島組12名。映像・音響設備なし。レイアウト固定（会議用テーブル1台・肘付キャスター椅子12脚）。"
+  },
+  {
+   "name": "5F 5E",
+   "areaM2": 27,
+   "ceilingM": 3,
+   "theater": null,
+   "school": 12,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "7.3m×3.84m。スクールは島組12名。映像・音響設備なし。レイアウト固定（会議用テーブル1台・肘付キャスター椅子12脚）。"
+  }
+ ],
+ "roomsSource": "https://www.akibahall.jp/floorguide.html",
+ "ops": {
+  "prevDaySetup": {
+   "text": "貸出時間は開錠（入室・準備）から施錠（撤去・退室）までで、準備・撤去の時間もその中に含まれる。公式は、7:00〜8:00の利用をやむを得ず希望する場合に「設営日を設け、無理のない利用計画での実施を検討」するよう案内している。宅配便・郵便物の事前納品は、利用前日（土日祝日の場合は直前の平日）の10:00〜17:00着で、事務所で預かれる量は1案件あたり10箱程度まで（超える場合は荷物用の会場を別途借りる）。同日の利用時間内にレイアウトの設営変更を行う場合は別途費用がかかる。（出典：ご利用案内 2026年1月改定）",
+   "source": "https://www.akibahall.jp/pdf/goriyo_annai_2026.pdf"
+  },
+  "loadingHours": {
+   "text": "準備・撤去の時間も貸出時間に含まれる。車で搬入出する場合は、ビル側への搬入出申込書（作業届 兼 車輌入館届）の提出が必要で、1週間前までに事務局へ連絡する（記載事項は車種・台数・搬入搬出時間・業者名）。台車での搬入出は貨物用エレベーターのみ。搬入出の際はカーペット・壁面の養生が必要で、設備・備品を傷めた場合は賠償、カーペットが汚れた場合は清掃費1枚あたり3,300円（税込）。（出典：ご利用案内 2026年1月改定、運営サポート）",
+   "source": "https://www.akibahall.jp/pdf/goriyo_annai_2026.pdf"
+  },
+  "vehicleRules": {
+   "text": "搬入出に使える車は2t車まで。作業届（兼 車輌入館届）には車種（2t車・乗用車・ワゴン車）、台数、搬入搬出時間、業者名を記入し、1週間前までに提出する。（出典：ご利用案内 2026年1月改定、運営サポート）",
+   "source": "https://www.akibahall.jp/support.html"
+  },
+  "parking": {
+   "text": "地下に112台収容の駐車場がある。",
+   "source": "https://www.akibahall.jp/access.html"
+  },
+  "waitingRooms": {
+   "text": "2階ホール利用時の無料貸出備品として、3階の控室2室（図面上「控室(1)(2)」）が掲載されている。各室に折りたたみ椅子4脚、折りたたみテーブル2台、アームチェア6脚、センターテーブル1台、3連ロッカー1台。5階カンファレンスフロアは、複数会場や控室にも対応できるフロアと案内されている。休憩スペース・荷物置き場としての会場の利用はできない。（出典：ご利用案内 2026年1月改定、トップページ）",
+   "source": "https://www.akibahall.jp/pdf/goriyo_annai_2026.pdf"
+  },
+  "catering": {
+   "text": "ケータリング（お弁当・お飲み物を含む）は当館指定の業者があり、お客様および当館指定業者以外の飲食物の持込は遠慮するよう求められている。一方、ご利用案内の料金表には、主催者が業者を手配して持ち込む場合の持込料として、ケータリングを含む業者1社につき110,000円（税込）／日が載っている。飲食を伴う利用は事前に申請して許可を得る。ケータリングのメニュー・最終数の発注期限は1週間前。（出典：運営サポート、ご利用案内 2026年1月改定）",
+   "source": "https://www.akibahall.jp/support.html"
+  },
+  "restaurants": {
+   "text": "ホールは458㎡・天井高7mで、ケータリングの手配を受け付けて懇親会に使える旨の案内がある（ブッフェ300名）。5階カンファレンスフロアでも、会議後に同じフロアで懇親会ができる（詳細は相談）。17:00〜21:00の夜間枠（F枠）はカンファレンスフロア限定。1階平面図にカフェの表記がある。（出典：公式ニュース 2024.04.28・2025.04.01・2026.01.06、1階平面図）",
+   "source": "https://www.akibahall.jp/news/20240428_01.html"
+  }
+ },
+ "documents": [
+  {
+   "title": "ご利用案内（利用規定・料金表・設備概要・備品一覧・搬入出・発注スケジュール／2026年1月改定）",
+   "url": "https://www.akibahall.jp/pdf/goriyo_annai_2026.pdf"
+  },
+  {
+   "title": "ご利用料金（公式ページ）",
+   "url": "https://www.akibahall.jp/fees.html"
+  },
+  {
+   "title": "運営サポート・発注スケジュール（公式ページ）",
+   "url": "https://www.akibahall.jp/support.html"
+  },
+  {
+   "title": "ご利用案内（公式ページ。ページ末尾は2020年8月1日現在の表記）",
+   "url": "https://www.akibahall.jp/guide.html"
+  },
+  {
+   "title": "施設案内・舞台照明機構（公式ページ）",
+   "url": "https://www.akibahall.jp/floorguide.html"
+  },
+  {
+   "title": "1階フロア平面図",
+   "url": "https://www.akibahall.jp/pdf/1f_floor.pdf"
+  },
+  {
+   "title": "2階フロア平面図",
+   "url": "https://www.akibahall.jp/pdf/2f_floor.pdf"
+  },
+  {
+   "title": "3階フロア平面図",
+   "url": "https://www.akibahall.jp/pdf/3f_floor.pdf"
+  },
+  {
+   "title": "5階フロア平面図",
+   "url": "https://www.akibahall.jp/pdf/5f_floor.pdf"
+  },
+  {
+   "title": "アクセスマップ",
+   "url": "https://www.akibahall.jp/pdf/access.pdf"
+  },
+  {
+   "title": "フロアマップ",
+   "url": "https://www.akibahall.jp/pdf/floormap.pdf"
+  },
+  {
+   "title": "サンプルレイアウト コンベンションホール（全）スクール形式 330",
+   "url": "https://www.akibahall.jp/pdf/hall_fullspan_S_330.pdf"
+  },
+  {
+   "title": "サンプルレイアウト コンベンションホール（全）シアター形式 450",
+   "url": "https://www.akibahall.jp/pdf/hall_fullspan_T_450.pdf"
+  },
+  {
+   "title": "サンプルレイアウト コンベンションホール（分割）",
+   "url": "https://www.akibahall.jp/pdf/hall_halfspan.pdf"
+  },
+  {
+   "title": "サンプルレイアウト カンファレンスフロア スクール形式",
+   "url": "https://www.akibahall.jp/pdf/conference_full_S.pdf"
+  },
+  {
+   "title": "サンプルレイアウト カンファレンスフロア シアター形式",
+   "url": "https://www.akibahall.jp/pdf/conference_full_T.pdf"
+  }
+ ],
+ "checkedAt": "2026-10-30",
+ "lat": 35.6992762,
+ "lng": 139.7721511,
+ "nearby": {
+  "convenience": [
+   {
+    "name": "セブン-イレブン 秋葉原電気街口店",
+    "brand": "セブン-イレブン",
+    "distanceM": 64,
+    "walkMin": 1,
+    "hours": "24時間営業",
+    "address": "東京都千代田区外神田1-18-19",
+    "verified": true,
+    "source": "https://seven-eleven.areamarker.com/711map/info/505059",
+    "note": null
+   },
+   {
+    "name": "ファミリーマート ファミマ!!秋葉原UDX店",
+    "brand": "ファミリーマート",
+    "distanceM": 94,
+    "walkMin": 2,
+    "hours": "7:00-23:00（土日祝日:7:00から18:00）",
+    "address": "東京都千代田区外神田4丁目14-1 秋葉原UDX 5F",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/23757",
+    "note": null
+   },
+   {
+    "name": "ファミリーマート 秋葉原ラジオ会館店",
+    "brand": "ファミリーマート",
+    "distanceM": 155,
+    "walkMin": 2,
+    "hours": "24時間営業",
+    "address": "東京都千代田区外神田一丁目15番16号",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/26790",
+    "note": null
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "キンコーズ・秋葉原店",
+    "brand": "キンコーズ",
+    "distanceM": 245,
+    "walkMin": 4,
+    "hours": "平日 9:00-19:00／土 10:00-19:00／日・祝日 10:00-19:00（受付は閉店30分前まで）",
+    "address": "東京都千代田区神田松永町4-1 ラウンドクロス秋葉原1F",
+    "verified": true,
+    "source": "https://www.kinkos.co.jp/store/tokyo/",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "アクセア 秋葉原昭和通り店",
+    "brand": "アクセア",
+    "distanceM": 286,
+    "walkMin": 4,
+    "hours": "平日9:00〜20:00／土日祝休み",
+    "address": "東京都千代田区神田松永町16 オガミビル1F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/entry.html",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Can★Do 秋葉原店",
+    "brand": "キャンドゥ",
+    "distanceM": 224,
+    "walkMin": 3,
+    "hours": "毎日 10:00〜21:00",
+    "address": "東京都千代田区外神田3-3-10",
+    "verified": true,
+    "source": "https://shopinfo.cando-web.co.jp/detail/shop-2832/",
+    "note": null
+   },
+   {
+    "name": "DAISO ヨドバシAKIBA店",
+    "brand": "ダイソー",
+    "distanceM": 231,
+    "walkMin": 3,
+    "hours": "9:30-22:00",
+    "address": "東京都千代田区神田花岡町1-1 ヨドバシカメラ マルチメディアAkiba7階",
+    "verified": true,
+    "source": "https://www.daiso-sangyo.co.jp/shop/detail/007127",
+    "note": null
+   }
+  ],
+  "donki": [
+   {
+    "name": "ドン・キホーテ 秋葉原店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 160,
+    "walkMin": 2,
+    "hours": "24時間営業",
+    "address": "東京都千代田区外神田4丁目3-3",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=98",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "ドン・キホーテ 上野店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 983,
+    "walkMin": 13,
+    "hours": "9:00～4:00",
+    "address": "東京都文京区湯島3-38-10",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=107",
+    "note": "距離は住所の位置で計算"
+   }
+  ]
+ },
+ "drinkDelivery": {
+  "available": true
+ },
+ "photo": {
+  "src": "/images/venues/akihabara-convention-hall.jpg",
+  "credit": "© Kure / CC BY-SA 2.5 · Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Akihabara_daibiru_2007-01.jpg"
+ }
+}

@@ -1,0 +1,123 @@
+{
+ "slug": "ariake-arena",
+ "name": "ARIAKE ARENA",
+ "address": "Tokyo 135-0063 1-11-1 Ariake, Koto-ku, Tokyo",
+ "accessSummary": "Yurikamome Line, Ariake Tennis no Mori Station: about 8 min walk / Yurikamome Line, Shin-Toyosu Station: about 8 min walk / Tokyo BRT, Ariake Tennis no Mori stop: about 8 min walk / Rinkai Line, Kokusai-tenjijo Station: about 17 min walk / Rinkai Line, Shinonome Station: about 17 min walk",
+ "hours": "Main Arena basic usage hours are 8:00-23:00 (the basic fee covers any 12 consecutive hours between 8:00 and 23:00 as 1 unit; time beyond that is charged as extension fees), and Sub Arena hours are 7:00-23:00. For events other than Sub Arena-only use (ceremonies, exhibitions, merchandise sales, events, etc.), the available show time is 10:00-22:00 (same conditions when held together with the Main Arena). There are irregular closed days for maintenance and inspection (Facility Use Guide as of May 2024, Price List as of July 2026)",
+ "notice": "Box seats 1 and 2 are not available for rent. Changing rooms 7 and 8 and Meeting Room 2 can be rented only when Main Arena users also use the Sub Arena at the same time (price list as of July 2026)",
+ "rooms": [
+  {
+   "name": "Main Arena (1F)",
+   "note": "Approx. 4,100㎡ (long side approx. 76m x short side approx. 54m), height approx. 23m. Total seating approx. 15,000 (including 2,928 retractable seats; the maximum is reached with temporary seating on the 1F arena floor). Fixed seats: 2,734 on the 2F, 4,408 on the 3F and 4,090 on the 4F (11,232 in total); wheelchair seats (companion seats) and additional amenity seats: 229 on the 2F, 32 on the 3F and 8 on the 4F (Facility Use Guide, as of May 2024). Estimated total audience by layout: center stage approx. 15,000, standing approx. 14,500 (approx. 5,400 standing-area seats), end stage approx. 13,000, side stage approx. 12,000, volleyball approx. 14,500, basketball approx. 14,500 (layout diagram PDF)"
+  },
+  {
+   "name": "Sub Arena (1F)",
+   "note": "Approx. 1,400㎡ (long side approx. 40.5m x short side approx. 34.5m), height approx. 12.5m. Can be used as a full court or a half court. Up to 546 seats, with 400 temporary spectator seats plus 146 court-side seats (layout diagram PDF). Basic usage hours 7:00-23:00. To use the Sub Arena on its own, Sub Arena group registration is required (not required when used together with the Main Arena)."
+  },
+  {
+   "name": "Meeting Room 1 (1F)",
+   "note": "Can be divided into 3. The price list (as of July 2026) gives 294㎡, while the floor diagram in the Facility Use Guide (as of May 2024) gives 308㎡."
+  },
+  {
+   "name": "Press Room (1F)",
+   "note": "Can be divided into 3."
+  },
+  {
+   "name": "Meeting Room 2 (1F)",
+   "note": "Users of the Main Arena can rent it only when they also use the Sub Arena at the same time."
+  },
+  {
+   "name": "Multipurpose Room (1F)",
+   "note": null
+  }
+ ],
+ "ops": {
+  "prevDaySetup": "The price list has a \"preparation\" category, which applies to days for setup, teardown, rehearsals, dark days with no performance, and so on. The Main Arena preparation-day fee (1 unit = 12 consecutive hours between 8:00 and 23:00) is as follows (tax included): concerts/shows and ceremonies/assemblies/exhibitions, 2,750,000 yen on weekdays / 3,300,000 yen on Sat, Sun & holidays; ticketed sports events, 1,650,000 yen on weekdays / 3,300,000 yen on Sat, Sun & holidays; sports use (no admission fee / under 7,000 yen / 7,000 yen or more), 275,000 yen on weekdays / 550,000 yen on Sat, Sun & holidays. Extensions on a preparation day are charged per hour: concerts/shows and ceremonies/assemblies/exhibitions, 231,000 yen on weekdays / 297,000 yen on Sat, Sun & holidays; ticketed sports events, 148,500 yen on weekdays / 231,000 yen on Sat, Sun & holidays; sports use, 24,200 yen on weekdays / 49,500 yen on Sat, Sun & holidays. For the Sub Arena, preparation days and the like are charged per day: ceremonies/assemblies/exhibitions, 154,000 yen on weekdays / 220,000 yen on Sat, Sun & holidays; sports use (no admission fee), 61,600 yen on weekdays / 79,200 yen on Sat, Sun & holidays. Fees will be revised from July 1, 2027, and under the new price list (Ver.10) the Main Arena preparation day will be 3,025,000 yen on weekdays / 4,290,000 yen on Sat, Sun & holidays for concerts/shows and ceremonies/assemblies/exhibitions, and 1,815,000 yen on weekdays / 4,290,000 yen on Sat, Sun & holidays for ticketed sports events. (Source: Ariake Arena Price List Ver.9.0 as of July 2026; New Price List Ver.10 applicable from July 2027)",
+  "vehicleRules": "The user is responsible for managing visitors within the facility and for directing and managing load-in/out vehicles. Notification to the Wangan Police Station (Traffic Division) is required for the load-in/out plan, the placement plan for traffic control staff, and securing parking, and the user must do this themselves (support for coordination with the parties concerned is available as needed). Security around the venue is handled by designated companies only, and no other company may perform it. A designated-company system is also in place to protect the facility and ensure the safety of setup and teardown work. (Source: Guide to Facility Use as of May 2024)",
+  "parking": "For Main Arena users (organizer-side personnel), the facility fee includes parking for 70 vehicles plus 10 large vehicles; additional spaces are available for up to 27 vehicles at 150,000 yen per day (tax included) (price list as of July 2026). The parking lots are zoned for organizers and for visitors to the Sub Arena, restaurant and sports gym. There is no parking for event visitors, and public transportation is recommended. The parking lot for the Sub Arena and restaurant has 33 spaces for regular passenger cars (including 5 for people with disabilities); the fee is 150 yen per 30 minutes (300 yen per hour from the second hour onward, with a parking ticket presented at each reception desk), and 1,000 yen per 30 minutes otherwise. Bicycle parking has 165 spaces (FAQ).",
+  "waitingRooms": "The 1F has 8 changing rooms (changing rooms 1 to 6 are 80 to 94㎡ with lockers, 3 showers and 2 toilets; changing rooms 7 and 8 are 88㎡ and 102㎡ with lockers, 3 showers and 2 toilets), 2 coaches' rooms (9㎡ each), a recorders' waiting room (21㎡), a west-side changing room (24㎡), a medical room (83㎡, including a doping control room and a work room), a press room (315㎡, can be divided into 3), Meeting Room 1 (294㎡, can be divided into 3), Meeting Room 2 (26㎡) and a multipurpose room (26㎡). The daily fee (ticketed events) is 33,000 yen for changing rooms 1 to 6, 16,500 yen for changing rooms 7 and 8, 66,000 yen for Meeting Room 1 and the press room, 33,000 yen for the medical room, and 11,000 yen for the coaches' rooms, recorders' waiting room, west-side changing room, multipurpose room and Meeting Room 2 (tax included; the sports rate is 11,000 yen for changing rooms 1 to 6, for example). Changing rooms 7 and 8 and Meeting Room 2 can be rented only when Main Arena users also use the Sub Arena at the same time. In the VIP area, the VVIP room (22㎡) is 102,850 yen per day (ticketed events), and box seats 3 to 6 are 80,410 to 280,500 yen per day (box seats 1 and 2 are not available for rent; inquire about box seats). Rental tents outdoors (2m x 3m, 6 tents), when used for storage or as waiting rooms, are 33,000 yen per day. (Source: Price List Ver.9.0 as of July 2026. The floor diagram in the Facility Use Guide as of May 2024 gives the changing room areas as 94 / 87 / 87 / 94 / 81 / 80 / 92 / 103㎡)",
+  "catering": "Several services, such as operating facilities and equipment, providing food and drink, and security around the venue, are limited to designated companies (check with the facility staff for the list of designated companies). Catering and similar services can be provided or introduced by the facility. Catering inside the VIP area is limited to designated vendors. Food and drink sampling requires a permit application to the Koto City Public Health Center (Environmental Health Section, Life Hygiene Division), which the user must submit themselves. For setting up a food truck, the bring-in usage fee is 33,000 yen per truck per day (within W5.4m x D3.6m), and 220,000 yen for collaboration products and merchandise sales (tax included). Alcohol at concession stands can be made unavailable for sale at the organizer's discretion. (Source: Guide to Facility Use as of May 2024, Price List Ver.9.0 as of July 2026, official website FLOOR/RESTAURANT)",
+  "restaurants": "On the 1F there is the restaurant \"ARIAKE ARENA DINING MOON RIVER\" (399㎡, 58 seats, TEL 03-6426-0678), open for lunch 11:30-15:00 (last order 14:30) and dinner 17:00-21:00 (last order 20:00), closed on Mondays (the next day if the closed day falls on an event day), open all day on Main Arena event days, and hours vary on Sub Arena event days. On the 2F there is \"ARIAKE ARENA CAFE\" (open only on Main Arena event days, following the event hours), and there are 7 concession stands in total: 5 on the 2F concourse and 2 on the 3F concourse (open according to event days, and may be closed or reduced depending on the event). (Source: official website RESTAURANT, FAQ)"
+ },
+ "documents": [
+  {
+   "title": "Facility Use Guide (as of May 2024)"
+  },
+  {
+   "title": "Price List Ver.9.0 (as of July 2026)"
+  },
+  {
+   "title": "New Price List Ver.10 (applicable from July 1, 2027)"
+  },
+  {
+   "title": "Notice of Revision to Facility Use and Ancillary Fees (September 1, 2026)"
+  },
+  {
+   "title": "Main Arena Layout Patterns (Usage Examples)"
+  },
+  {
+   "title": "Sub Arena Layout Patterns (Usage Examples)"
+  },
+  {
+   "title": "Main Arena Basic Fee Simulator"
+  },
+  {
+   "title": "For Organizers"
+  },
+  {
+   "title": "Facility Guide"
+  },
+  {
+   "title": "Floor Guide"
+  },
+  {
+   "title": "Restaurants and Shops"
+  },
+  {
+   "title": "Access"
+  },
+  {
+   "title": "FAQ"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "FamilyMart Koto Ariake",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Lawson Koto Shinonome",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "7-Eleven Shinonome",
+    "hours": "6:00-24:00 (Mon-Sun & holidays)",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "Accea Tokyo Big Sight Mae",
+    "hours": "Weekdays 8:00-22:00, Sat, Sun & holidays 10:00-19:00",
+    "note": "Distance is calculated from the address location. The official facilities section shows \"24 hours on weekdays\" (self-service equipment)."
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "DAISO Ariake Garden",
+    "hours": "10:00-21:00",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "DAISO Aeon Shinonome",
+    "hours": "9:00-21:00",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "donki": []
+ },
+ "photoCredit": "© Hatszerv / CC0 · Wikimedia Commons"
+}

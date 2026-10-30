@@ -1,0 +1,431 @@
+{
+ "slug": "taito-asakusa-kokaido",
+ "nameJa": "台東区立浅草公会堂",
+ "nameEn": "Taito-ku Asakusa Public Hall",
+ "type": "hall",
+ "area": "ueno-asakusa-venues",
+ "address": "〒111-0032 東京都台東区浅草1-38-6",
+ "officialUrl": "https://asakusa-koukaidou.net/",
+ "organizerUrl": "https://asakusa-koukaidou.net/home/how.html",
+ "bizintokyoSlug": "asakusa-public-hall",
+ "accessSummary": "地下鉄銀座線「浅草駅」1番・3番出口 徒歩5分／つくばエクスプレス「浅草駅」A1出口 徒歩3分／都営浅草線「浅草駅」A4出口 徒歩7分／東武鉄道「浅草駅」北口 徒歩5分",
+ "notice": "2026年11月9日（月）は館内設備点検のため休館（電話・メール・窓口も休業）。",
+ "hours": "ホール・集会室の利用時間は9:00〜21:00（午前9:00〜11:30／午後12:30〜16:00／夜間17:00〜21:00。準備・撤収を含む）。窓口・電話受付は9:00〜17:00。休館日は年末年始（12月29日〜1月3日）と保守点検による休館のみ",
+ "rooms": [
+  {
+   "name": "ホール",
+   "areaM2": null,
+   "ceilingM": null,
+   "theater": 1070,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "客席1,070席（1階545席／仮設花道使用時469席、2階336席、3階189席）。別に車椅子スペース4席分。オーケストラピット使用時は458席（舞台設備／備品表 2022年1月4日現在）。舞台は間口約18.2m・高さ約7.3m・奥行約11m。2階・3階でのスタンディングは禁止、1階は可（飛び跳ねる行為は不可）"
+  },
+  {
+   "name": "展示ホール（1階）",
+   "areaM2": 182.9,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "控室2.1㎡。利用は1日単位（施設利用料ページの表記はA 9:00〜17:00またはB 10:00〜18:00、よくあるご質問は10:00〜18:00）。展示パネル（三連）30台・（独立）10台、展示台、パイプ椅子20脚は無料。スポットライトは1灯50円（打合せ用紙 2022年9月）"
+  },
+  {
+   "name": "第1集会室（3階・洋室）",
+   "areaM2": 105.8,
+   "ceilingM": 2.5,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "定員70名（公式の「定員」表記。レイアウト別の人数表示なし）。フロアタイル。机25台・椅子70脚・演台・ホワイトボード・スクリーンは無料。利用料は午前5,500円／午後6,700円／夜間11,000円／全日23,200円（平日・土日祝同額）"
+  },
+  {
+   "name": "第2集会室（4階・和室）",
+   "areaM2": 105.8,
+   "ceilingM": 2.5,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "定員50名（公式の「定員」表記）。畳敷き32畳、舞台（約5坪）と控室付き。座卓12台・座布団50枚・姿見2台は無料。スクリーンは備え付けなし（有料の追加備品）。利用料は第1集会室と同額"
+  },
+  {
+   "name": "第3集会室（5階）",
+   "areaM2": 105.8,
+   "ceilingM": 2.5,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "定員50名（公式の「定員」表記）。施設紹介ページはフローリングの板張り和室、平面図（2024年9月30日版）は「洋室 50名」と表記。座卓12台・パイプ椅子3脚・座布団50枚・姿見2台は無料。スクリーンあり。利用料は第1集会室と同額"
+  },
+  {
+   "name": "第1楽屋（2階・洋室）",
+   "areaM2": 49,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "定員21名。ホール利用者は無料"
+  },
+  {
+   "name": "第2楽屋（3階・和室）",
+   "areaM2": 79,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "定員33名。ホール利用者は無料"
+  },
+  {
+   "name": "第3楽屋（4階・和室）",
+   "areaM2": 29,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "定員13名。有料（午前・午後・夜間とも各2,000円）"
+  },
+  {
+   "name": "出演者控室（3階・和洋室）",
+   "areaM2": 109,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "定員50名。有料（午前5,500円／午後6,700円／夜間11,000円）"
+  },
+  {
+   "name": "リハーサル室",
+   "areaM2": 78,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "定員25名。板張り。有料（各区分3,800円）"
+  },
+  {
+   "name": "個室楽屋A・B（各）",
+   "areaM2": 12,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "各3名。ユニットバス付き。有料（各区分1,500円）"
+  }
+ ],
+ "roomsSource": "https://asakusa-koukaidou.net/home/facilities_hall.html",
+ "ops": {
+  "prevDaySetup": {
+   "text": "利用時間には準備・撤収に要する時間を含み、ホールは午前9:00〜11:30／午後12:30〜16:00／夜間17:00〜21:00／全日9:00〜21:00の区分。2区分以上を連続で借りると区分の間の時間も使える（午前と午後なら9:00〜16:00通し）。時間を早める・延ばす場合は、前後の利用者に支障がないときに限り時間外・延長料金で承認される（ホール平日の午前早出8:00〜9:00は31,000円、土日祝47,000円。夜間延長21:00〜22:00は平日92,000円、土日祝114,000円）。利用時間の終了時刻までに管理事務所へカギを返却しないと、延長とみなされ追加料金がかかる。（施設利用料 改正平成12年4月1日）",
+   "source": "https://asakusa-koukaidou.net/home/price.html"
+  },
+  "loadingHours": {
+   "text": "大道具・照明器具などを持ち込むときは、事前に種類・数量・搬入日時の承認が必要で、終了後はただちに搬出する。保管は一切受け付けない。舞台装置などは利用日の1か月前までに職員と打合せ、プログラム・スケジュールも提出する。オーケストラピットを使う場合は、設営撤去を含めて公演前日と翌日を合わせた3日間の利用となる。",
+   "source": "https://asakusa-koukaidou.net/home/how_caution.html"
+  },
+  "vehicleRules": {
+   "text": "公会堂の真裏に荷捌場スペースがあり、大きい荷物・重い荷物は搬入口から大ゼリに載せて舞台へ運べる。トラックは大きさによっては入れないものがあるため、管理事務所に問い合わせる。荷捌場の図面には、横10.60m、縦7.40m／7.10m／6.60m、天井高3.80m（一部3.10m）の表記がある。舞台設備／備品表（2022年1月4日現在）には、大迫の寸法4m×10m、最大荷重6.0t（1分割につき1.5t）の記載がある。2日以上連続で施設を使うときに車を駐車場に置いたままにするには、主催者から事前に管理事務所への申請が必要で、利用が終わったらすみやかに出庫する。",
+   "source": "https://asakusa-koukaidou.net/home/qa_parking.html"
+  },
+  "parking": {
+   "text": "駐車場は施設を借りた主催者専用で、一般来場者用はない。主催者に決められた台数分の駐車券を渡す方式で、ホール利用は20台、集会室・展示ホールは各2台。駐車できるのは予約した施設の利用時間内のみ。車椅子利用者用スペースがあり、数に限りがあるため事前に管理事務所（03-3844-7491）へ電話で申し込む（入庫時に障害者手帳を確認）。一般来場者向けには、最寄りの公営駐車場として雷門地下駐車場を案内している。",
+   "source": "https://asakusa-koukaidou.net/home/qa_parking.html"
+  },
+  "waitingRooms": {
+   "text": "ホール利用者は第1楽屋（洋室・21名・49㎡）と第2楽屋（和室・33名・79㎡）を無料で使える。有料で使えるのは、第3楽屋（和室・13名・29㎡）、出演者控室（和洋室・50名・109㎡）、リハーサル室（25名・78㎡）、個室楽屋A・B（各3名・12㎡、ユニットバス付き）。楽屋が足りないときは、集会室や展示ホールを楽屋として借りられる（ホール利用申請時に申し出る）。受付用に机10台・椅子12脚がロビー内の「ホール控え室」に収納されていて自由に使える。（面積は舞台・楽屋平面図 2023年4月版）",
+   "source": "https://asakusa-koukaidou.net/home/facilities_hall.html"
+  },
+  "catering": {
+   "text": "ホール客席での飲食・飲酒は不可。集会室は飲食のみを目的とした利用は不可で、長時間の催しの休憩中に軽食を取る場合は感染症対策に配慮する。電気コンロなどを使った館内での調理はできない。館内にゴミ箱はなく、ゴミは各自持ち帰る。",
+   "source": "https://asakusa-koukaidou.net/home/how_caution.html"
+  }
+ },
+ "documents": [
+  {
+   "title": "ご利用方法（利用のお申し込み）",
+   "url": "https://asakusa-koukaidou.net/home/how.html"
+  },
+  {
+   "title": "ご利用について",
+   "url": "https://asakusa-koukaidou.net/home/how_use.html"
+  },
+  {
+   "title": "利用上のご注意",
+   "url": "https://asakusa-koukaidou.net/home/how_caution.html"
+  },
+  {
+   "title": "抽選会について",
+   "url": "https://asakusa-koukaidou.net/home/how_lottery.html"
+  },
+  {
+   "title": "施設利用料（改正平成12年4月1日、付帯設備料金は2026年1月改定）",
+   "url": "https://asakusa-koukaidou.net/home/price.html"
+  },
+  {
+   "title": "ホール概要・楽屋",
+   "url": "https://asakusa-koukaidou.net/home/facilities_hall.html"
+  },
+  {
+   "title": "集会室概要",
+   "url": "https://asakusa-koukaidou.net/home/facilities_meeting.html"
+  },
+  {
+   "title": "展示ホール概要",
+   "url": "https://asakusa-koukaidou.net/home/facilities_exhibition.html"
+  },
+  {
+   "title": "アクセス",
+   "url": "https://asakusa-koukaidou.net/home/access.html"
+  },
+  {
+   "title": "よくあるご質問（共通）",
+   "url": "https://asakusa-koukaidou.net/home/qa.html"
+  },
+  {
+   "title": "よくあるご質問（ホール）",
+   "url": "https://asakusa-koukaidou.net/home/qa_hall.html"
+  },
+  {
+   "title": "よくあるご質問（集会室）",
+   "url": "https://asakusa-koukaidou.net/home/qa_meeting.html"
+  },
+  {
+   "title": "よくあるご質問（展示ホール・駐車場・搬入口）",
+   "url": "https://asakusa-koukaidou.net/home/qa_exhibition.html"
+  },
+  {
+   "title": "よくあるご質問（駐車場）",
+   "url": "https://asakusa-koukaidou.net/home/qa_parking.html"
+  },
+  {
+   "title": "11月9日（月）休館のお知らせ（2026年10月28日）",
+   "url": "https://asakusa-koukaidou.net/news/20261028-1/index.html"
+  },
+  {
+   "title": "資料ダウンロード一覧",
+   "url": "https://asakusa-koukaidou.net/home/download.html"
+  },
+  {
+   "title": "荷捌場スペース図（版表記なし）",
+   "url": "https://asakusa-koukaidou.net/download/delivery_entrance.pdf"
+  },
+  {
+   "title": "浅草公会堂フロア図 B1〜5F（版表記なし）",
+   "url": "https://asakusa-koukaidou.net/download/asakusa_floormap.pdf"
+  },
+  {
+   "title": "ホール座席表（2023年5月8日更新）",
+   "url": "https://asakusa-koukaidou.net/download/asakusa_sheet_20230508.pdf"
+  },
+  {
+   "title": "ホール舞台設備／備品表（2022年1月4日現在）",
+   "url": "https://asakusa-koukaidou.net/download/asakusa_fixtures_202201.pdf"
+  },
+  {
+   "title": "ホールステージ平面図（版表記なし）",
+   "url": "https://asakusa-koukaidou.net/download/asakusa_stage.pdf"
+  },
+  {
+   "title": "ホール舞台断面図（2018年9月）",
+   "url": "https://asakusa-koukaidou.net/download/asakusa_stage_crosssect_201809.pdf"
+  },
+  {
+   "title": "ホール舞台・楽屋平面図（2023年4月）",
+   "url": "https://asakusa-koukaidou.net/download/asakusa_stage-dressing_202304.pdf"
+  },
+  {
+   "title": "ホール照明バトン割（版表記なし）",
+   "url": "https://asakusa-koukaidou.net/download/asakusa_lights.pdf"
+  },
+  {
+   "title": "ホール照明基本仕込み図（2024年9月）",
+   "url": "https://asakusa-koukaidou.net/download/asakusa_lights2_202409.pdf"
+  },
+  {
+   "title": "ホール照明基本回路図（2019年8月）",
+   "url": "https://asakusa-koukaidou.net/download/asakusa_lights3_201908.pdf"
+  },
+  {
+   "title": "ホール照明機材リスト（2019年8月）",
+   "url": "https://asakusa-koukaidou.net/download/asakusa_lights4_201908.pdf"
+  },
+  {
+   "title": "ホール調光卓（版表記なし）",
+   "url": "https://asakusa-koukaidou.net/download/asakusa_lights5.pdf"
+  },
+  {
+   "title": "ホールスピーカー配置図（版表記なし）",
+   "url": "https://asakusa-koukaidou.net/download/asakusa_sp.pdf"
+  },
+  {
+   "title": "ホール音響備品リスト（2025年10月22日更新）",
+   "url": "https://asakusa-koukaidou.net/download/asakusa_sound_equipment_20251022.pdf"
+  },
+  {
+   "title": "ホール追加楽屋価格表（2022年1月4日更新）",
+   "url": "https://asakusa-koukaidou.net/download/asakusa_extra_d-room_equipment.pdf"
+  },
+  {
+   "title": "ホール付帯設備価格表（2022年1月4日更新）",
+   "url": "https://asakusa-koukaidou.net/download/asakusa_hall_equipment_h.pdf"
+  },
+  {
+   "title": "ホール付帯設備価格表（2026年1月13日更新）",
+   "url": "https://asakusa-koukaidou.net/download/asakusa_hall_equipment_h20260113.pdf"
+  },
+  {
+   "title": "第1集会室平面図（2023年3月23日版）",
+   "url": "https://asakusa-koukaidou.net/download/asakusa_mtg_room1_70_20230323.pdf"
+  },
+  {
+   "title": "第2集会室平面図（2024年4月22日版）",
+   "url": "https://asakusa-koukaidou.net/download/asakusa_mtg_room2_50b_20240422.pdf"
+  },
+  {
+   "title": "第3集会室平面図（2024年9月30日版）",
+   "url": "https://asakusa-koukaidou.net/download/asakusa_mtg_room3_50c_20240930.pdf"
+  },
+  {
+   "title": "集会室付帯設備価格表（2022年1月4日更新）",
+   "url": "https://asakusa-koukaidou.net/download/asakusa_mtg_room_equipment.pdf"
+  },
+  {
+   "title": "展示ホール平面図（2021年9月1日版）",
+   "url": "https://asakusa-koukaidou.net/download/asakusa_lobby20210901.pdf"
+  },
+  {
+   "title": "展示ホール打合せ用紙（2022年9月版）",
+   "url": "https://asakusa-koukaidou.net/download/asakusa_lobby_equipment_202209.pdf"
+  }
+ ],
+ "checkedAt": "2026-10-30",
+ "lat": 35.712543,
+ "lng": 139.7953282,
+ "nearby": {
+  "convenience": [
+   {
+    "name": "セブン-イレブン 浅草新仲見世通り店",
+    "brand": "セブン-イレブン",
+    "distanceM": 67,
+    "walkMin": 1,
+    "hours": "24時間営業",
+    "address": "〒111-0032 東京都台東区浅草1丁目21番8号",
+    "verified": true,
+    "source": "https://seven-eleven.areamarker.com/711map/info/500181",
+    "note": "距離は公式店舗検索の座標で計算"
+   },
+   {
+    "name": "ローソン 台東浅草一丁目店",
+    "brand": "ローソン",
+    "distanceM": 200,
+    "walkMin": 3,
+    "hours": "24時間営業",
+    "address": "東京都台東区浅草1-42-4",
+    "verified": true,
+    "source": "https://www.areamarker.com/lawson/info/286433",
+    "note": "距離は公式店舗検索の座標（旧日本測地系）を世界測地系に換算して計算"
+   },
+   {
+    "name": "ファミリーマート 浅草雷門通り店",
+    "brand": "ファミリーマート",
+    "distanceM": 219,
+    "walkMin": 3,
+    "hours": "24時間",
+    "address": "東京都台東区浅草1丁目5-3",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/77486",
+    "note": "距離はOSM上の同店位置（公式ページに座標がないため、住所の近いOSM上のファミリーマートの位置で計算）"
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "キンコーズ・上野店",
+    "brand": "キンコーズ",
+    "distanceM": 1512,
+    "walkMin": 19,
+    "hours": "平日 9:00-22:00／土 10:00-18:00／日・祝日 10:00-18:00（受付は閉店30分前まで）",
+    "address": "〒110-0015 東京都台東区東上野4丁目3-4",
+    "verified": true,
+    "source": "https://www.kinkos.co.jp/store/tokyo/t028/",
+    "note": "距離はOSM上の同店位置"
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "DAISO 浅草ROX店",
+    "brand": "ダイソー",
+    "distanceM": 235,
+    "walkMin": 3,
+    "hours": "10:30-21:00",
+    "address": "東京都台東区浅草1-25-15 浅草ROX4階",
+    "verified": true,
+    "source": "https://www.daiso-sangyo.co.jp/shop/detail/007646",
+    "note": "距離は公式店舗ページの座標で計算"
+   },
+   {
+    "name": "DAISO セイムス浅草雷門通り店",
+    "brand": "ダイソー",
+    "distanceM": 246,
+    "walkMin": 4,
+    "hours": "4:00-27:00（公式のお知らせ：2026年5月1日より 04:00～03:00 に営業時間変更）",
+    "address": "東京都台東区浅草1-1-2 浅草スクエア3階",
+    "verified": true,
+    "source": "https://www.daiso-sangyo.co.jp/shop/detail/005355",
+    "note": "距離は公式店舗ページの座標で計算"
+   }
+  ],
+  "donki": [
+   {
+    "name": "ドン・キホーテ 浅草店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 249,
+    "walkMin": 4,
+    "hours": "24時間営業",
+    "address": "〒111-0032 東京都台東区浅草2-10",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=326",
+    "note": "距離はOSM上の同店位置"
+   },
+   {
+    "name": "ドン・キホーテ浅草EKIMISE店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 258,
+    "walkMin": 4,
+    "hours": "10:00～20:00",
+    "address": "〒111-0033 東京都台東区花川戸一丁目4番1号 4F",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=747",
+    "note": "距離はOSM上の同店位置（浅草EKIMISE 4階）"
+   }
+  ]
+ },
+ "drinkDelivery": {
+  "available": true
+ },
+ "photo": {
+  "src": "/images/venues/taito-asakusa-kokaido.jpg",
+  "credit": "© Abasaa / Public domain · Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Asakusa_Public_Hall.JPG"
+ }
+}

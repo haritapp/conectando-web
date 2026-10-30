@@ -1,0 +1,286 @@
+{
+ "slug": "andaz-tokyo",
+ "nameJa": "アンダーズ 東京",
+ "nameEn": "Andaz Tokyo Toranomon Hills",
+ "type": "hotel",
+ "area": "toranomon-roppongi-venues",
+ "address": "〒105-0001 東京都港区虎ノ門1-23-4 虎ノ門ヒルズ 森タワー",
+ "officialUrl": "https://www.hyatt.com/ja-JP/hotel/japan/andaz-tokyo-toranomon-hills/tyoaz",
+ "organizerUrl": "https://www.andaztokyo.jp/restaurants/jp/events",
+ "bizintokyoSlug": "andaz-tokyo",
+ "accessSummary": "虎ノ門ヒルズ駅（日比谷線）地下鉄歩行者通路よりB1出口直結 徒歩約3分／虎ノ門駅（銀座線）B1出口直結 徒歩約5分／霞ヶ関駅（千代田線・丸の内線）A12出口 徒歩約8分／内幸町駅（三田線）A3出口 徒歩約8分／新橋駅 烏森出口 徒歩約11分",
+ "notice": null,
+ "hours": null,
+ "rooms": [
+  {
+   "name": "52F ルーフトップ スタジオ",
+   "areaM2": 210,
+   "ceilingM": 3.7,
+   "theater": 180,
+   "school": 75,
+   "ushape": 40,
+   "standing": 120,
+   "banquet": 90,
+   "note": "ボードスタイル30名。テラスを活用した場合は立食最大300名"
+  },
+  {
+   "name": "52F ルーフトップ スタジオ＋テラス",
+   "areaM2": null,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": 300,
+   "banquet": null,
+   "note": "テラスを含めた場合の最大人数（立食）。公式ページの記載"
+  },
+  {
+   "name": "51F Tokyo スタジオ",
+   "areaM2": 260,
+   "ceilingM": 5.5,
+   "theater": 224,
+   "school": 108,
+   "ushape": 50,
+   "standing": 150,
+   "banquet": 130,
+   "note": "ボードスタイル40名。公式ページの冒頭表示はスクール105名、表とPDFは108名"
+  },
+  {
+   "name": "51F シェフズ スタジオ",
+   "areaM2": 100,
+   "ceilingM": 4.2,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": 40,
+   "banquet": 30,
+   "note": "ボードスタイル12名。ショーキッチンあり"
+  },
+  {
+   "name": "51F アンダーズ スタジオ A/B",
+   "areaM2": 100,
+   "ceilingM": 5.8,
+   "theater": 70,
+   "school": 45,
+   "ushape": 24,
+   "standing": 50,
+   "banquet": null,
+   "note": "AとBを連結した広さ。ボードスタイル24名。立食は公式ページが50名、2020年版の定員表PDFは40名"
+  },
+  {
+   "name": "51F アンダーズ スタジオ C/D",
+   "areaM2": 100,
+   "ceilingM": 5.8,
+   "theater": 70,
+   "school": 45,
+   "ushape": 24,
+   "standing": 50,
+   "banquet": null,
+   "note": "CとDを連結した広さ。ボードスタイル24名。立食は公式ページが50名、2020年版の定員表PDFは40名"
+  },
+  {
+   "name": "51F アンダーズ スタジオ A・B・C・D（各）",
+   "areaM2": 50,
+   "ceilingM": 5.8,
+   "theater": 36,
+   "school": 24,
+   "ushape": 15,
+   "standing": 30,
+   "banquet": null,
+   "note": "4室あり、各50㎡。ボードスタイル18名。立食は公式ページが30名"
+  }
+ ],
+ "roomsSource": "https://www.andaztokyo.jp/restaurants/jp/events",
+ "ops": {
+  "parking": {
+   "text": "駐車場は虎ノ門ヒルズ 森タワー内。宿泊以外の館内利用は15分200円。宴会に出席する場合は4時間まで無料の駐車サービス券が出る。ヴァレーパーキング（受付7:00〜23:00）は1日2,000円で、駐車料金は別。バリアフリー対応の駐車スペースがある。（出典：公式アクセスページ、Hyatt 駐車場・アクセスのページ、Hyatt よくあるご質問）",
+   "source": "https://www.andaztokyo.jp/restaurants/jp/access"
+  },
+  "catering": {
+   "text": "ホテル館内で開催するイベントに限り、ホテルがケータリングサービスを提供している。外部会場へのケータリングは行っていない。（出典：Hyatt よくあるご質問）",
+   "source": "https://www.hyatt.com/andaz/ja-JP/tyoaz-andaz-tokyo-toranomon-hills/faqs"
+  },
+  "restaurants": {
+   "text": "館内の飲食店は、51階のザ タヴァン グリル＆ラウンジ、1階のBeBu、52階のthe SUSHIとルーフトップ バー、1階のペストリー ショップ。パーティーは、ザ タヴァン グリル＆ラウンジが最大100名、BeBuが最大80名まで受けられると公式に案内されている。",
+   "source": "https://www.andaztokyo.jp/restaurants/jp/faq"
+  }
+ },
+ "documents": [
+  {
+   "title": "イベント＆ミーティング（公式、日本語）",
+   "url": "https://www.andaztokyo.jp/restaurants/jp/events"
+  },
+  {
+   "title": "Meetings & Events（Hyatt公式）",
+   "url": "https://www.hyatt.com/andaz/ja-JP/tyoaz-andaz-tokyo-toranomon-hills/meetings"
+  },
+  {
+   "title": "フロアプラン（PDF、2025年10月2日掲載）",
+   "url": "https://assets.hyatt.com/content/dam/hyatt/hyattdam/documents/2025/10/02/0156/Andaz-Tokyo-Floor-Plan-English-And-Japanese.pdf"
+  },
+  {
+   "title": "定員・収容可能数（PDF、日本語、2020年7月作成・2025年10月更新）",
+   "url": "https://assets.hyatt.com/content/dam/hyatt/hyattdam/documents/2020/07/14/0228/Andaz-Tokyo-Capacity-Chart-Japanese.pdf"
+  },
+  {
+   "title": "Capacity Chart（PDF、英語、2020年7月作成・2025年10月更新）",
+   "url": "https://assets.hyatt.com/content/dam/hyatt/hyattdam/documents/2020/07/14/0229/Andaz-Tokyo-Capacity-Chart-English.pdf"
+  },
+  {
+   "title": "MICE資料（日英併記、ファイル名 230824_mice_bro_v9）",
+   "url": "https://www.andaztokyo.jp/compendium/230824_mice_bro_v9.pdf"
+  },
+  {
+   "title": "ルーフトップ スタジオ（PDF、ファイル名 231110）",
+   "url": "https://www.andaztokyo.jp/compendium/231110_Rooftop%20Studio.pdf"
+  },
+  {
+   "title": "ルーフトップ テラス（PDF、ファイル名 231120）",
+   "url": "https://www.andaztokyo.jp/compendium/231120_Rooftop%20Terrace.pdf"
+  },
+  {
+   "title": "Tokyo スタジオ（PDF、ファイル名 231120）",
+   "url": "https://www.andaztokyo.jp/compendium/2311120_TokyoStudio.pdf"
+  },
+  {
+   "title": "シェフズ スタジオ（PDF、ファイル名 231121）",
+   "url": "https://www.andaztokyo.jp/compendium/231121_Chefs%20Studio.pdf"
+  },
+  {
+   "title": "アンダーズ スタジオ（PDF、ファイル名 231121）",
+   "url": "https://www.andaztokyo.jp/compendium/231121_Andaz%20Studio.pdf"
+  },
+  {
+   "title": "アクセス・駐車場のご案内（公式）",
+   "url": "https://www.andaztokyo.jp/restaurants/jp/access"
+  },
+  {
+   "title": "アクセス・駐車場のご案内（Hyatt）",
+   "url": "https://www.hyatt.com/andaz/ja-JP/tyoaz-andaz-tokyo-toranomon-hills/parking-and-transportation"
+  },
+  {
+   "title": "よくある質問（Hyatt）",
+   "url": "https://www.hyatt.com/andaz/ja-JP/tyoaz-andaz-tokyo-toranomon-hills/faqs"
+  }
+ ],
+ "checkedAt": "2026-10-30",
+ "lat": 35.6667291,
+ "lng": 139.7493848,
+ "nearby": {
+  "convenience": [
+   {
+    "name": "ファミマ虎ノ門ヒルズ店",
+    "brand": "ファミリーマート",
+    "distanceM": 20,
+    "walkMin": 1,
+    "hours": "7:00-23:00",
+    "address": "東京都港区虎ノ門1-23-3",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/57760",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "セブン-イレブン 虎ノ門ヒルズレジデンシャルタワー店",
+    "brand": "セブン-イレブン",
+    "distanceM": 110,
+    "walkMin": 2,
+    "hours": "7:00-23:00（月〜日・祝）",
+    "address": "東京都港区愛宕1-1-1",
+    "verified": true,
+    "source": "https://seven-eleven.areamarker.com/711map/info/494054",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "アーバン・ファミマ虎ノ門HBT店",
+    "brand": "ファミリーマート",
+    "distanceM": 126,
+    "walkMin": 2,
+    "hours": "7:00-23:00",
+    "address": "東京都港区虎ノ門1-17-1",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/57163",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "キンコーズ・虎ノ門店",
+    "brand": "キンコーズ",
+    "distanceM": 230,
+    "walkMin": 3,
+    "hours": "平日 9:00-20:00／土・日・祝 休業（フルサービス受付は閉店30分前まで）",
+    "address": "東京都港区虎ノ門1-14-1 郵政福祉琴平ビル1F",
+    "verified": true,
+    "source": "https://www.kinkos.co.jp/store/tokyo/t001/",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "アクセア 虎ノ門店",
+    "brand": "アクセア",
+    "distanceM": 410,
+    "walkMin": 6,
+    "hours": "平日24時間営業（月曜朝8時から土曜夜19時まで休まず営業）／土〜19:00、日祝10:00〜19:00（平日の祝前日は休まず営業）",
+    "address": "東京都港区虎ノ門1-1-21 新虎ノ門実業会館1F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/entry.html",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Can★Do 城山ヒルズ店",
+    "brand": "キャンドゥ",
+    "distanceM": 462,
+    "walkMin": 6,
+    "hours": "毎日 9:00-23:00",
+    "address": "東京都港区虎ノ門4-1-17 神谷町プライムプレイスB1階",
+    "verified": true,
+    "source": "https://shopinfo.cando-web.co.jp/detail/shop-1835/",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "Can★Do 赤坂一ツ木通り店",
+    "brand": "キャンドゥ",
+    "distanceM": 1487,
+    "walkMin": 19,
+    "hours": "月〜金 9:00-21:00／土・日・祝 9:00-20:00",
+    "address": "東京都港区赤坂3-17-10 フローレンス一ツ木ビル1階",
+    "verified": true,
+    "source": "https://shopinfo.cando-web.co.jp/detail/shop-5207/",
+    "note": "距離は住所の位置で計算。遠め"
+   }
+  ],
+  "donki": [
+   {
+    "name": "ドン・キホーテ 銀座本館（銀座ナイン3号館）",
+    "brand": "ドン・キホーテ",
+    "distanceM": 1174,
+    "walkMin": 15,
+    "hours": "24時間営業",
+    "address": "東京都中央区銀座8-10 銀座ナイン3号館",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=92",
+    "note": "距離は住所の位置で計算。遠め"
+   },
+   {
+    "name": "ピカソ赤坂店（ドン・キホーテ）",
+    "brand": "ドン・キホーテ",
+    "distanceM": 1413,
+    "walkMin": 18,
+    "hours": "7:00-3:00",
+    "address": "東京都港区赤坂3-11-14",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=289",
+    "note": "距離は住所の位置で計算。遠め。ドン・キホーテ公式サイトの店舗名は「ピカソ赤坂店」"
+   }
+  ]
+ },
+ "drinkDelivery": {
+  "available": true
+ },
+ "photo": {
+  "src": "/images/venues/andaz-tokyo.jpg",
+  "credit": "© おつみださ / CC BY 3.0 · Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E8%99%8E%E3%83%8E%E9%96%80%E3%83%92%E3%83%AB%E3%82%BA%E6%A3%AE%E3%82%BF%E3%83%AF%E3%83%BC.jpg"
+ }
+}

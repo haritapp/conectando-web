@@ -1,0 +1,423 @@
+{
+ "slug": "asakusa-view-hotel",
+ "nameJa": "浅草ビューホテル",
+ "nameEn": "Asakusa View Hotel",
+ "type": "hotel",
+ "area": "ueno-asakusa-venues",
+ "address": "〒111-8765 東京都台東区西浅草3-17-1",
+ "officialUrl": "https://www.viewhotels.co.jp/asakusa/",
+ "organizerUrl": "https://www.viewhotels.co.jp/asakusa/banquet/mice/",
+ "bizintokyoSlug": "asakusa-view-hotel",
+ "accessSummary": "つくばエクスプレス「浅草駅」直結／東京メトロ銀座線「田原町駅」徒歩7分／都営浅草線「浅草駅」徒歩10分",
+ "notice": null,
+ "hours": "宴会場の基本利用時間は9:00〜22:00（これ以外の時間帯は相談）。宴会・会議の問い合わせ受付は10:00〜17:00（営業部直通 03-3842-2121）",
+ "rooms": [
+  {
+   "name": "4F 飛翔Ⅰ",
+   "areaM2": 300,
+   "ceilingM": 6.7,
+   "theater": null,
+   "school": 195,
+   "ushape": null,
+   "standing": 180,
+   "banquet": 150,
+   "note": "天井高は飛翔全体の表記（6.7m）。standingは公式の「ビュッフェ」、banquetは「ディナー」の人数。常設スクリーン4面・常設プロジェクター2面・ムービングライト12台・美術バトン・ホリゾント幕・基本音響設備（WLマイク・有線マイク等）。パーテーションで区切って使える"
+  },
+  {
+   "name": "4F 飛翔Ⅱ",
+   "areaM2": 300,
+   "ceilingM": 6.7,
+   "theater": null,
+   "school": 195,
+   "ushape": null,
+   "standing": 180,
+   "banquet": 150,
+   "note": "天井高は飛翔全体の表記（6.7m）。standingは公式の「ビュッフェ」、banquetは「ディナー」の人数。常設スクリーン4面・常設プロジェクター2面・ムービングライト12台・美術バトン・ホリゾント幕・基本音響設備（WLマイク・有線マイク等）。パーテーションで区切って使える"
+  },
+  {
+   "name": "4F 飛翔Ⅲ",
+   "areaM2": 300,
+   "ceilingM": 6.7,
+   "theater": null,
+   "school": 195,
+   "ushape": null,
+   "standing": 180,
+   "banquet": 150,
+   "note": "天井高は飛翔全体の表記（6.7m）。standingは公式の「ビュッフェ」、banquetは「ディナー」の人数。常設スクリーン4面・常設プロジェクター2面・ムービングライト12台・美術バトン・ホリゾント幕・基本音響設備（WLマイク・有線マイク等）。パーテーションで区切って使える"
+  },
+  {
+   "name": "4F 飛翔（Ⅰ+Ⅱ+Ⅲ）",
+   "areaM2": 900,
+   "ceilingM": 6.7,
+   "theater": 1100,
+   "school": 675,
+   "ushape": null,
+   "standing": 800,
+   "banquet": 500,
+   "note": "大宴会場の全面使用。シアター形式は公式の大宴会場の最大収容人数（〜1,100名）。宴会場一覧表の「収容人数」欄は〜600名と表記（詳細ページの円卓500名・スクール675名・シアター1,100名とは別の数字）。天井高は飛翔全体の表記（6.7m）。standingは公式の「ビュッフェ」、banquetは「ディナー」の人数。常設スクリーン4面・常設プロジェクター2面・ムービングライト12台・美術バトン・ホリゾント幕・基本音響設備（WLマイク・有線マイク等）。パーテーションで区切って使える"
+  },
+  {
+   "name": "3F 祥雲Ⅰ",
+   "areaM2": 250,
+   "ceilingM": 3.2,
+   "theater": null,
+   "school": 165,
+   "ushape": null,
+   "standing": 120,
+   "banquet": 100,
+   "note": "天井高は祥雲全体の表記（3.2m）。standingは公式の「ビュッフェ」、banquetは「ディナー」の人数。常設スクリーン4面・常設プロジェクター2面・美術バトン・基本音響設備。パーテーションで区切って使える。同じフロアの小会議室を控室として使える"
+  },
+  {
+   "name": "3F 祥雲Ⅱ",
+   "areaM2": 250,
+   "ceilingM": 3.2,
+   "theater": null,
+   "school": 165,
+   "ushape": null,
+   "standing": 120,
+   "banquet": 100,
+   "note": "天井高は祥雲全体の表記（3.2m）。standingは公式の「ビュッフェ」、banquetは「ディナー」の人数。常設スクリーン4面・常設プロジェクター2面・美術バトン・基本音響設備。パーテーションで区切って使える。同じフロアの小会議室を控室として使える"
+  },
+  {
+   "name": "3F 祥雲Ⅲ",
+   "areaM2": 300,
+   "ceilingM": 3.2,
+   "theater": null,
+   "school": 190,
+   "ushape": null,
+   "standing": 120,
+   "banquet": 100,
+   "note": "天井高は祥雲全体の表記（3.2m）。standingは公式の「ビュッフェ」、banquetは「ディナー」の人数。常設スクリーン4面・常設プロジェクター2面・美術バトン・基本音響設備。パーテーションで区切って使える。同じフロアの小会議室を控室として使える"
+  },
+  {
+   "name": "3F 祥雲（Ⅰ＋Ⅱ＋Ⅲ）",
+   "areaM2": 800,
+   "ceilingM": 3.2,
+   "theater": 1000,
+   "school": 600,
+   "ushape": null,
+   "standing": 600,
+   "banquet": 400,
+   "note": "中宴会場の全面使用。シアター形式は公式の中宴会場の最大収容人数（〜1,000名）。宴会場一覧表の「収容人数」欄は〜500名と表記（詳細ページの円卓400名・スクール600名・シアター1,000名とは別の数字）。天井高は祥雲全体の表記（3.2m）。standingは公式の「ビュッフェ」、banquetは「ディナー」の人数。常設スクリーン4面・常設プロジェクター2面・美術バトン・基本音響設備。パーテーションで区切って使える。同じフロアの小会議室を控室として使える"
+  },
+  {
+   "name": "3F 小宴会場 清洲",
+   "areaM2": 65,
+   "ceilingM": null,
+   "theater": null,
+   "school": 30,
+   "ushape": null,
+   "standing": null,
+   "banquet": 16,
+   "note": "ビュッフェ人数の表示なし。大宴会場（飛翔・祥雲）使用時の分科会室・控室としても使える。同じフロアに喫煙室・クローク・更衣室。小宴会場全体のシアター形式は最大〜120名"
+  },
+  {
+   "name": "3F 小宴会場 両国",
+   "areaM2": 55,
+   "ceilingM": null,
+   "theater": null,
+   "school": 30,
+   "ushape": null,
+   "standing": null,
+   "banquet": 16,
+   "note": "ビュッフェ人数の表示なし。大宴会場使用時の分科会室・控室としても使える。小宴会場全体のシアター形式は最大〜120名"
+  },
+  {
+   "name": "3F 小宴会場 蔵前",
+   "areaM2": 55,
+   "ceilingM": null,
+   "theater": null,
+   "school": 30,
+   "ushape": null,
+   "standing": null,
+   "banquet": 16,
+   "note": "ビュッフェ人数の表示なし。大宴会場使用時の分科会室・控室としても使える。小宴会場全体のシアター形式は最大〜120名"
+  },
+  {
+   "name": "4F 小宴会場 言問",
+   "areaM2": 100,
+   "ceilingM": 2.7,
+   "theater": null,
+   "school": 40,
+   "ushape": null,
+   "standing": 30,
+   "banquet": 30,
+   "note": "美術バトン・基本音響設備（4F小宴会場共通）。大宴会場使用時の分科会室・控室としても使える。小宴会場全体のシアター形式は最大〜120名。宴会場一覧表の「収容人数」欄は〜40名"
+  },
+  {
+   "name": "4F 小宴会場 吾妻",
+   "areaM2": 100,
+   "ceilingM": 2.7,
+   "theater": null,
+   "school": 40,
+   "ushape": null,
+   "standing": 30,
+   "banquet": 30,
+   "note": "美術バトン・基本音響設備（4F小宴会場共通）。大宴会場使用時の分科会室・控室としても使える。小宴会場全体のシアター形式は最大〜120名。宴会場一覧表の「収容人数」欄は〜40名"
+  },
+  {
+   "name": "4F 小宴会場 駒形",
+   "areaM2": 120,
+   "ceilingM": 2.7,
+   "theater": null,
+   "school": 50,
+   "ushape": null,
+   "standing": 40,
+   "banquet": 40,
+   "note": "美術バトン・基本音響設備（4F小宴会場共通）。大宴会場使用時の分科会室・控室としても使える。小宴会場全体のシアター形式は最大〜120名。宴会場一覧表の「収容人数」欄は〜50名"
+  },
+  {
+   "name": "25F スカイダイニング 大輪",
+   "areaM2": 175,
+   "ceilingM": 2.7,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": 60,
+   "banquet": 60,
+   "note": "前室があり受付を内部に併設できる。ビルトインのキッチン＆バーカウンター併設、常設TVモニター1面、基本音響設備。クローゼットとソファ席あり。同フロアにサロンと喫煙所"
+  },
+  {
+   "name": "25F スカイダイニング 舞",
+   "areaM2": 76,
+   "ceilingM": 2.7,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": 30,
+   "banquet": 30,
+   "note": "常設TVモニター・基本音響設備（スカイダイニング共通）。クローゼットとソファ席あり"
+  },
+  {
+   "name": "25F スカイダイニング 雅",
+   "areaM2": 69,
+   "ceilingM": 2.7,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": 16,
+   "note": "ビュッフェ人数の表示なし。宴会場一覧表の「収容人数」欄は〜20名。クローゼットとソファ席あり"
+  },
+  {
+   "name": "28F トップバンケット ベルヴェデール",
+   "areaM2": 246,
+   "ceilingM": 2.8,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": 100,
+   "banquet": 100,
+   "note": "全面使用、またはパーテーションで2つに区切って使える。常設TVモニター2面・美術バトン・基本音響設備。同フロアにホワイエ・クローク・喫煙所・多目的トイレ"
+  }
+ ],
+ "roomsSource": "https://www.viewhotels.co.jp/asakusa/banquet/hall/",
+ "ops": {
+  "loadingHours": {
+   "text": "宴会場の使用は、準備から撤去までを含めて契約時間内に終える。超過した場合は超過時間に応じた追加料金がかかり、次の宴会の都合で超過に応じられないこともある。お客様がホテルの了承を得て直接依頼した業者の機材の搬入・搬出、看板サイズ・取付方法・設置場所は、ホテルの指示に従う（ホテル社員の立会いが必要な場合は立会人件費を支払う）。装飾・装花・音響・照明・アトラクション・引き出物はホテル指定業者での手配が原則で、指定以外に直接依頼するときは事前にホテルの了解が必要で、ホテルの基準による別途料金がかかる。荷物をホテルに送る場合は、事前に担当者へ内容を通知し、荷物に使用期日・宴会名・申込者（会社）名を書く。（宴会場利用規約 2025年1月1日改定）",
+   "source": "https://www.viewhotels.co.jp/asakusa/p_common/pdf/terms-of-use20250101.pdf"
+  },
+  "parking": {
+   "text": "ホテル地下2階・地下3階のタイムズパーキング（運営はタイムズ24）。102台、車高2.1mまで、年中無休、料金は30分600円。地下1階は利用できない。ご宴会は3時間まで無料。（宴会利用時は3時間の無料券を発行）",
+   "source": "https://www.viewhotels.co.jp/asakusa/access/"
+  },
+  "waitingRooms": {
+   "text": "大宴会場「飛翔」「祥雲」を使うとき、同じフロアの小宴会場を分科会室・控室として使える（3F 清洲・両国・蔵前・さくら、4F 言問・吾妻・駒形）。面積は清洲65㎡、両国55㎡、蔵前55㎡、言問100㎡、吾妻100㎡、駒形120㎡。3Fには喫煙室・クローク・更衣室、4Fには喫煙所・授乳室がある。",
+   "source": "https://www.viewhotels.co.jp/asakusa/banquet/hall/03/"
+  },
+  "catering": {
+   "text": "宴会プランとして、お料理とフリードリンク（120分）がセットになったプランがある。軽食（お弁当）は2,200円〜（MICEページの表記）。",
+   "source": "https://www.viewhotels.co.jp/asakusa/banquet/mice/"
+  },
+  "restaurants": {
+   "text": "館内のレストラン・バーは、スカイグリルブッフェ 武藏（26階）、THE ASAKUSA DINING（27階・中国料理『唐紅花』／フランス料理『蒔絵』）、THE LOBBY BAL（1階）、THE LOUNGE（1階）、THE TOP BAR Hanabi -華美-（28階）、Sweets＆Bakery 穂乃華（1階）。会議に伴う懇親会は、ブッフェスタイルから季節の料理まで幅広い宴会プランを用意していると、公式の宴会・会議ページが案内している。",
+   "source": "https://www.viewhotels.co.jp/asakusa/restaurant/"
+  }
+ },
+ "documents": [
+  {
+   "title": "宴会・会議トップ",
+   "url": "https://www.viewhotels.co.jp/asakusa/banquet/"
+  },
+  {
+   "title": "宴会場一覧",
+   "url": "https://www.viewhotels.co.jp/asakusa/banquet/hall/"
+  },
+  {
+   "title": "大宴会場 飛翔",
+   "url": "https://www.viewhotels.co.jp/asakusa/banquet/hall/01/"
+  },
+  {
+   "title": "中宴会場 祥雲",
+   "url": "https://www.viewhotels.co.jp/asakusa/banquet/hall/02/"
+  },
+  {
+   "title": "小宴会場",
+   "url": "https://www.viewhotels.co.jp/asakusa/banquet/hall/03/"
+  },
+  {
+   "title": "スカイダイニング",
+   "url": "https://www.viewhotels.co.jp/asakusa/banquet/hall/04/"
+  },
+  {
+   "title": "トップバンケット",
+   "url": "https://www.viewhotels.co.jp/asakusa/banquet/hall/05/"
+  },
+  {
+   "title": "MICE",
+   "url": "https://www.viewhotels.co.jp/asakusa/banquet/mice/"
+  },
+  {
+   "title": "宴会場利用規約（2025年1月1日改定）",
+   "url": "https://www.viewhotels.co.jp/asakusa/p_common/pdf/terms-of-use20250101.pdf"
+  },
+  {
+   "title": "フロアガイド（全階・版表記なし）",
+   "url": "https://www.viewhotels.co.jp/asakusa/p_common/pdf/asakusa_floormap_all.pdf"
+  },
+  {
+   "title": "アクセス（駐車場の案内を含む）",
+   "url": "https://www.viewhotels.co.jp/asakusa/access/"
+  },
+  {
+   "title": "よくあるご質問（宴会・会議）駐車場",
+   "url": "https://www.viewhotels.co.jp/asakusa/faq/cat-banquet/03.html"
+  },
+  {
+   "title": "よくあるご質問（宴会・会議）宴会場利用可能時間",
+   "url": "https://www.viewhotels.co.jp/asakusa/faq/cat-banquet/05.html"
+  },
+  {
+   "title": "よくあるご質問（宴会・会議）宴会プラン",
+   "url": "https://www.viewhotels.co.jp/asakusa/faq/cat-banquet/02.html"
+  },
+  {
+   "title": "よくあるご質問（宴会・会議）仮押さえ",
+   "url": "https://www.viewhotels.co.jp/asakusa/faq/cat-banquet/04.html"
+  },
+  {
+   "title": "レストラン一覧",
+   "url": "https://www.viewhotels.co.jp/asakusa/restaurant/"
+  }
+ ],
+ "checkedAt": "2026-10-30",
+ "lat": 35.7154597,
+ "lng": 139.7918957,
+ "nearby": {
+  "convenience": [
+   {
+    "name": "ローソン 台東西浅草店",
+    "brand": "ローソン",
+    "distanceM": 116,
+    "walkMin": 2,
+    "hours": "24時間営業",
+    "address": "東京都台東区西浅草3-21-1",
+    "verified": true,
+    "source": "https://www.areamarker.com/lawson/info/385862",
+    "note": "距離は公式店舗検索の座標（旧日本測地系）を世界測地系に換算して計算"
+   },
+   {
+    "name": "セブン-イレブン 台東浅草2丁目店",
+    "brand": "セブン-イレブン",
+    "distanceM": 120,
+    "walkMin": 2,
+    "hours": "24時間営業",
+    "address": "〒111-0032 東京都台東区浅草2-12-1",
+    "verified": true,
+    "source": "https://seven-eleven.areamarker.com/711map/info/472041",
+    "note": "距離は公式店舗検索の座標で計算"
+   },
+   {
+    "name": "セブン-イレブン 台東西浅草3丁目店",
+    "brand": "セブン-イレブン",
+    "distanceM": 160,
+    "walkMin": 2,
+    "hours": "24時間営業",
+    "address": "〒111-0035 東京都台東区西浅草3-22-17",
+    "verified": true,
+    "source": "https://seven-eleven.areamarker.com/711map/info/274507",
+    "note": "距離は公式店舗検索の座標で計算"
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "キンコーズ・上野店",
+    "brand": "キンコーズ",
+    "distanceM": 1251,
+    "walkMin": 16,
+    "hours": "平日 9:00-22:00／土 10:00-18:00／日・祝日 10:00-18:00（受付は閉店30分前まで）",
+    "address": "〒110-0015 東京都台東区東上野4丁目3-4",
+    "verified": true,
+    "source": "https://www.kinkos.co.jp/store/tokyo/t028/",
+    "note": "距離はOSM上の同店位置"
+   },
+   {
+    "name": "アクセア 上野店",
+    "brand": "アクセア",
+    "distanceM": 1496,
+    "walkMin": 19,
+    "hours": "平日8:00〜22:00、土日祝10:00〜19:00",
+    "address": "〒110-0015 東京都台東区東上野2-18-4 第一樺澤ビル1F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/map/ueno.html",
+    "note": "距離はOSM上の同店位置（OSMのアクセア位置を上野店と判断。OSMに住所なし）"
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "DAISO 浅草ROX店",
+    "brand": "ダイソー",
+    "distanceM": 305,
+    "walkMin": 4,
+    "hours": "10:30-21:00",
+    "address": "東京都台東区浅草1-25-15 浅草ROX4階",
+    "verified": true,
+    "source": "https://www.daiso-sangyo.co.jp/shop/detail/007646",
+    "note": "距離は公式店舗ページの座標で計算"
+   },
+   {
+    "name": "DAISO セイムス浅草雷門通り店",
+    "brand": "ダイソー",
+    "distanceM": 694,
+    "walkMin": 9,
+    "hours": "4:00-27:00（公式のお知らせ：2026年5月1日より 04:00～03:00 に営業時間変更）",
+    "address": "東京都台東区浅草1-1-2 浅草スクエア3階",
+    "verified": true,
+    "source": "https://www.daiso-sangyo.co.jp/shop/detail/005355",
+    "note": "距離は公式店舗ページの座標で計算"
+   }
+  ],
+  "donki": [
+   {
+    "name": "ドン・キホーテ 浅草店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 208,
+    "walkMin": 3,
+    "hours": "24時間営業",
+    "address": "〒111-0032 東京都台東区浅草2-10",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=326",
+    "note": "距離はOSM上の同店位置"
+   },
+   {
+    "name": "ドン・キホーテ浅草EKIMISE店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 693,
+    "walkMin": 9,
+    "hours": "10:00～20:00",
+    "address": "〒111-0033 東京都台東区花川戸一丁目4番1号 4F",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=747",
+    "note": "距離はOSM上の同店位置（浅草EKIMISE 4階）"
+   }
+  ]
+ },
+ "drinkDelivery": {
+  "available": true
+ },
+ "photo": {
+  "src": "/images/venues/asakusa-view-hotel.jpg",
+  "credit": "© 妖精書士 / CC BY-SA 3.0 · Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Asakusa-View-Hotel.JPG"
+ }
+}
