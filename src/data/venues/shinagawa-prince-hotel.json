@@ -323,6 +323,10 @@
  "drinkDelivery": {
   "available": true
  },
- "photo": null,
+ "photo": {
+  "src": "/images/venues/shinagawa-prince-hotel.jpg",
+  "credit": "© Abasaa / Public domain · Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Shinagawa_Prince_Hotel_01.JPG"
+ },
  "checkedAt": "2026-10-30"
 }

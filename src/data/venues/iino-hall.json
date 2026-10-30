@@ -401,6 +401,10 @@
  "drinkDelivery": {
   "available": true
  },
- "photo": null,
+ "photo": {
+  "src": "/images/venues/iino-hall.jpg",
+  "credit": "© Akonnchiroll / CC0 · Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Iino_Building.jpg"
+ },
  "checkedAt": "2026-10-30"
 }

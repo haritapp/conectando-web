@@ -231,6 +231,10 @@
  "drinkDelivery": {
   "available": true
  },
- "photo": null,
+ "photo": {
+  "src": "/images/venues/bunkyo-civic-hall.jpg",
+  "credit": "© Wiiii / CC BY-SA 3.0 · Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bunkyo_Civic_Center_2009.jpg"
+ },
  "checkedAt": "2026-10-30"
 }
