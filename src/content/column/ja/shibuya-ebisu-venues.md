@@ -98,6 +98,8 @@ https://bizintokyo.com/hotels/westin-tokyo/
 
 https://bizintokyo.com/hotels/shibuyaqws/
 
+このエリアの会場を人数や広さで比べたり、図面・料金表、搬入や控室の公式ルール、近くの印刷店まで確かめたりするなら、[会場リスト](/venues/?area=shibuya-ebisu-venues)で探せます。
+
 ## あわせて読みたい記事
 
 - [会場を選ぶ前に決めること（英語）](/en/column/what-to-decide-before-choosing-an-event-venue-in-tokyo/)

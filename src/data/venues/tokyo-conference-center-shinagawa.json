@@ -1,0 +1,297 @@
+{
+ "slug": "tokyo-conference-center-shinagawa",
+ "nameJa": "東京コンファレンスセンター・品川",
+ "nameEn": "Tokyo Conference Center Shinagawa",
+ "type": "conference",
+ "area": "shinagawa-venues",
+ "address": "〒108-0075 東京都港区港南1-9-36 アレア品川 3F-5F",
+ "lat": 35.6301,
+ "lng": 139.7412,
+ "officialUrl": "https://www.tokyo-cc.co.jp/shinagawa/",
+ "organizerUrl": "https://www.tokyo-cc.co.jp/shinagawa/floor.html",
+ "bizintokyoSlug": "tokyo-cc-shinagawa",
+ "accessSummary": "JR品川駅 港南口（東口）より徒歩2分",
+ "notice": null,
+ "hours": null,
+ "rooms": [
+  {
+   "name": "大ホール（全体）",
+   "areaM2": 728,
+   "ceilingM": 7.0,
+   "theater": null,
+   "school": 420,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "5F。スクリーン13.0×6.0m。全日(9:00-21:00)¥1,100,000、午後(13:00-18:00)¥600,000（サービス料10%・消費税10%別、2024年6月1日現在）"
+  },
+  {
+   "name": "大ホール（A）",
+   "areaM2": 353,
+   "ceilingM": 7.0,
+   "theater": null,
+   "school": 180,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "5F。大ホールを2分割した片側。スクリーン13.0×6.0m。全日¥650,000"
+  },
+  {
+   "name": "大ホール（B）",
+   "areaM2": 353,
+   "ceilingM": 7.0,
+   "theater": null,
+   "school": 180,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "5F。大ホールを2分割した片側。スクリーン6.0×6.0m。全日¥650,000"
+  },
+  {
+   "name": "501",
+   "areaM2": 195,
+   "ceilingM": 3.5,
+   "theater": null,
+   "school": 90,
+   "ushape": 52,
+   "standing": null,
+   "banquet": null,
+   "note": "5F。全日¥453,000"
+  },
+  {
+   "name": "スピーカーズラウンジ",
+   "areaM2": 50,
+   "ceilingM": 3.5,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "5F。午前・午後(9:00-18:00)¥50,000"
+  },
+  {
+   "name": "401",
+   "areaM2": 73,
+   "ceilingM": 3.5,
+   "theater": null,
+   "school": 30,
+   "ushape": 28,
+   "standing": null,
+   "banquet": null,
+   "note": "4F。全日¥170,000"
+  },
+  {
+   "name": "402N",
+   "areaM2": 265,
+   "ceilingM": 3.5,
+   "theater": null,
+   "school": 120,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "4F。全日¥480,000"
+  },
+  {
+   "name": "ボードルームN",
+   "areaM2": 140,
+   "ceilingM": 3.5,
+   "theater": null,
+   "school": 60,
+   "ushape": 26,
+   "standing": null,
+   "banquet": null,
+   "note": "4F。全日¥325,000"
+  },
+  {
+   "name": "404",
+   "areaM2": 26,
+   "ceilingM": 3.5,
+   "theater": null,
+   "school": null,
+   "ushape": 12,
+   "standing": null,
+   "banquet": null,
+   "note": "4F。全日¥60,000"
+  },
+  {
+   "name": "405",
+   "areaM2": 35,
+   "ceilingM": 3.5,
+   "theater": null,
+   "school": null,
+   "ushape": 12,
+   "standing": null,
+   "banquet": null,
+   "note": "4F。全日¥81,000"
+  },
+  {
+   "name": "406",
+   "areaM2": 245,
+   "ceilingM": 3.5,
+   "theater": null,
+   "school": 120,
+   "ushape": 56,
+   "standing": null,
+   "banquet": null,
+   "note": "4F。全日¥480,000"
+  },
+  {
+   "name": "407",
+   "areaM2": 42,
+   "ceilingM": 3.5,
+   "theater": null,
+   "school": null,
+   "ushape": 16,
+   "standing": null,
+   "banquet": null,
+   "note": "4F。全日¥97,000"
+  }
+ ],
+ "roomsSource": "https://www.tokyo-cc.co.jp/shinagawa/floor.html",
+ "ops": {
+  "catering": {
+   "text": "施設に直営の料飲部門（レストラン部門）があり、料理・ドリンクは施設で提供する。利用規約では「当施設外からの飲食物のお持込はご遠慮下さい」、パーティー利用規約では「飲食物の持ち込み、ご提供飲食物の持ち帰り」を禁止事項としている。パーティーは別途「料飲申込書」で申し込む。（出典：利用規約・パーティー利用規約 PDF、2015年2月9日現在）",
+   "source": "https://www.tokyo-cc.co.jp/shinagawa/pdf/terms_of_service.pdf"
+  },
+  "restaurants": {
+   "text": "3Fにレストラン「サムシングデリシャス」があるが、2025年3月5日付の告知で「現在、一般のお客様に向けた営業をおこなっておりません」とされている。5Fのガラス張りホワイエは会議後のパーティー・カクテルレセプション向けで、展示やパーティーで使う場合は有料（要見積り）。パーティー利用は平日17:00〜21:00・土日祝12:00〜21:00、最大2時間（パーティー利用規約、2015年2月9日現在）。",
+   "source": "https://www.tokyo-cc.co.jp/shinagawa/"
+  },
+  "loadingHours": {
+   "text": "基本営業時間は9:00〜21:00で、早朝（8:00〜9:00）は1時間単位の有料（部屋ごとに料金設定、例：大ホール全体¥126,000）。時間外は相談。室内に機器・備品を搬入する場合は事前に相談する（利用規約5(2)、2015年2月9日現在）。",
+   "source": "https://www.tokyo-cc.co.jp/shinagawa/pdf/terms_of_service.pdf"
+  },
+  "parking": {
+   "text": "駐車場の利用は事前予約制で、利用の際は施設に相談する（利用規約5(3)、2015年2月9日現在）。",
+   "source": "https://www.tokyo-cc.co.jp/shinagawa/pdf/terms_of_service.pdf"
+  }
+ },
+ "documents": [
+  {
+   "title": "料金表・フロアプラン（2024年6月1日現在）",
+   "url": "https://www.tokyo-cc.co.jp/shinagawa/floor.html"
+  },
+  {
+   "title": "利用規約・パーティー利用規約（2015年2月9日現在）",
+   "url": "https://www.tokyo-cc.co.jp/shinagawa/pdf/terms_of_service.pdf"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "ファミリーマート 品川駅港南口店",
+    "brand": "ファミリーマート",
+    "distanceM": 96,
+    "walkMin": 2,
+    "hours": "24時間",
+    "address": "東京都港区港南1-9-32 NTT DATA 品川ビル 別館",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/18562",
+    "note": null
+   },
+   {
+    "name": "ローソン 港南一丁目店",
+    "brand": "ローソン",
+    "distanceM": 254,
+    "walkMin": 4,
+    "hours": "24時間営業",
+    "address": "東京都港区港南1-8-23",
+    "verified": true,
+    "source": "https://www.areamarker.com/lawson/map?latlon=35.6301164,139.7411679",
+    "note": "公式検索一覧の表示名は「港南一丁目」"
+   },
+   {
+    "name": "セブン-イレブン 品川駅港南口店",
+    "brand": "セブン-イレブン",
+    "distanceM": 255,
+    "walkMin": 4,
+    "hours": "24時間営業",
+    "address": "東京都港区港南2-5-3",
+    "verified": true,
+    "source": "https://seven-eleven.areamarker.com/711map/info/226431",
+    "note": "公式ページ上の表示名は「品川駅港南口」"
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "アクセア 品川駅港南口店",
+    "brand": "アクセア",
+    "distanceM": 146,
+    "walkMin": 2,
+    "hours": "平日8:00～21:00、土日祝10:00～19:00",
+    "address": "東京都港区港南2-2-2 富士ビル2F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/entry.html",
+    "note": null
+   },
+   {
+    "name": "キンコーズ・品川店",
+    "brand": "キンコーズ",
+    "distanceM": 208,
+    "walkMin": 3,
+    "hours": "平日 8:00-22:00／土 9:00-18:00／日・祝 9:00-18:00",
+    "address": "東京都港区港南2丁目14-14 品川インターシティフロント2F",
+    "verified": true,
+    "source": "https://www.kinkos.co.jp/store/tokyo/t029/",
+    "note": null
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Seria ウィング高輪WEST店",
+    "brand": "セリア",
+    "distanceM": 415,
+    "walkMin": 6,
+    "hours": "10:00-21:00（公式の「本日の営業時間」、2026-10-30金曜時点）",
+    "address": "東京都港区高輪4-10-18 ウィング高輪WEST 2F",
+    "verified": true,
+    "source": "https://shop.seria-group.com/seria/arealist/13",
+    "note": "品川駅の西側（高輪口側）。会場は東側（港南口側）なので駅を横断する"
+   },
+   {
+    "name": "Can★Do 新馬場店",
+    "brand": "キャンドゥ",
+    "distanceM": 1294,
+    "walkMin": 17,
+    "hours": "月〜日 10:00〜20:00",
+    "address": "東京都品川区北品川2-7-22",
+    "verified": true,
+    "source": "https://shopinfo.cando-web.co.jp/detail/shop-5254/",
+    "note": null
+   }
+  ],
+  "donki": [
+   {
+    "name": "ドン・キホーテ 五反田東口店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 1511,
+    "walkMin": 19,
+    "hours": "8:00～翌5:00",
+    "address": "東京都品川区東五反田1-12-7",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_list.php",
+    "note": "遠い（徒歩約19分）"
+   },
+   {
+    "name": "プラチナ ドン・キホーテ白金台店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 1684,
+    "walkMin": 22,
+    "hours": "24時間営業",
+    "address": "東京都港区白金台3-15-5",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_list.php",
+    "note": "遠い（徒歩約22分）"
+   }
+  ]
+ },
+ "drinkDelivery": {
+  "available": true
+ },
+ "photo": {
+  "src": "/images/venues/tokyo-conference-center-shinagawa.jpg",
+  "credit": "© 江戸村のとくぞう / CC BY-SA 4.0 · Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Shinagawa_Eastone-1a.jpg"
+ },
+ "checkedAt": "2026-10-30"
+}

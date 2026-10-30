@@ -118,6 +118,8 @@ https://bizintokyo.com/hotels/newpier-hall/
 
 https://bizintokyo.com/hotels/bellesalle-onarimon-tower/
 
+東京・横浜の会場を人数や広さで比べたり、図面・料金表、搬入や控室の公式ルールまで確かめたりするなら、[会場リスト](/venues/)で探せます（会場は順次追加しています）。
+
 ## あわせて読みたい記事
 
 - [会場を選ぶ前に決めること（英語）](/en/column/what-to-decide-before-choosing-an-event-venue-in-tokyo/)

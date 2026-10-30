@@ -1,0 +1,410 @@
+{
+ "slug": "iino-hall",
+ "nameJa": "イイノホール＆カンファレンスセンター",
+ "nameEn": "IINO HALL & CONFERENCE CENTER",
+ "type": "hall",
+ "area": "yurakucho-ginza-venues",
+ "address": "〒100-0011 東京都千代田区内幸町2-1-1 飯野ビルディング4階〜6階",
+ "lat": 35.671,
+ "lng": 139.7528,
+ "officialUrl": "https://www.iino.co.jp/hall/",
+ "organizerUrl": "https://www.iino.co.jp/hall/use/",
+ "bizintokyoSlug": null,
+ "accessSummary": "東京メトロ日比谷線・千代田線 霞ケ関駅 C4出口直結",
+ "notice": {
+  "text": "イイノホールは施設改修工事のため2026年7月1日〜2027年3月末（予定）休館。カンファレンスセンターは通常営業。休館期間は工事の進捗等で変更の可能性がある。休館後のホール申込受付の時期・方法は公式サイトで案内される。また2027年4月1日から附帯料金の一部を改定（2026年10月6日告知）。",
+  "source": "https://www.iino.co.jp/hall/2026/07/01/%e3%83%9b%e3%83%bc%e3%83%ab%e3%80%80%e6%96%bd%e8%a8%ad%e6%94%b9%e4%bf%ae%e5%b7%a5%e4%ba%8b%e3%81%ab%e4%bc%b4%e3%81%86%e4%bc%91%e9%a4%a8%e3%81%ae%e3%81%8a%e7%9f%a5%e3%82%89%e3%81%9b%e3%80%802026/"
+ },
+ "hours": null,
+ "rooms": [
+  {
+   "name": "イイノホール",
+   "areaM2": null,
+   "ceilingM": null,
+   "theater": 500,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "固定500席（可動席15席を含む）、4F。消防法上、定員500名厳守・客席内立見禁止。2026年7月1日〜2027年3月末（予定）改修工事のため休館中。全日(9:00-21:30)¥839,740（税込、2024年4月1日現在）"
+  },
+  {
+   "name": "Room A1+A2+A3",
+   "areaM2": 300,
+   "ceilingM": 6,
+   "theater": 288,
+   "school": 252,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "Room A（全体）。専用ホワイエあり。口の字32席＋シアター128席のレイアウト例あり。全日¥750,200。Room Aレイアウト頁ではスクール234席と記載（料金表は252）"
+  },
+  {
+   "name": "Room A1+A2",
+   "areaM2": 200,
+   "ceilingM": 6,
+   "theater": 176,
+   "school": 144,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "全日¥590,480"
+  },
+  {
+   "name": "Room A1",
+   "areaM2": 100,
+   "ceilingM": 6,
+   "theater": 90,
+   "school": 63,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "全日¥296,560"
+  },
+  {
+   "name": "Room A2",
+   "areaM2": 100,
+   "ceilingM": 6,
+   "theater": 90,
+   "school": 63,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "全日¥296,560"
+  },
+  {
+   "name": "Room A3",
+   "areaM2": 100,
+   "ceilingM": 6,
+   "theater": 90,
+   "school": 63,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "全日¥296,560"
+  },
+  {
+   "name": "カンファレンス控室",
+   "areaM2": 20,
+   "ceilingM": 3,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "Room A隣接の控室。午前¥3,740、全日¥7,260"
+  },
+  {
+   "name": "Room B1+B2+B3",
+   "areaM2": 245,
+   "ceilingM": 4,
+   "theater": 238,
+   "school": 180,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "Room B（全体）。全日¥590,480。Room Bレイアウト頁ではシアター232席・スクール168席と記載（料金表は238・180）"
+  },
+  {
+   "name": "Room B1+B2",
+   "areaM2": 165,
+   "ceilingM": 4,
+   "theater": 121,
+   "school": 108,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "全日¥435,600"
+  },
+  {
+   "name": "Room B1",
+   "areaM2": 85,
+   "ceilingM": 4,
+   "theater": 70,
+   "school": 45,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "全日¥236,060"
+  },
+  {
+   "name": "Room B2",
+   "areaM2": 80,
+   "ceilingM": 4,
+   "theater": 63,
+   "school": 45,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "全日¥217,800"
+  },
+  {
+   "name": "Room B3",
+   "areaM2": 80,
+   "ceilingM": 4,
+   "theater": 63,
+   "school": 45,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "全日¥217,800"
+  },
+  {
+   "name": "Room C",
+   "areaM2": 80,
+   "ceilingM": 4,
+   "theater": 63,
+   "school": 45,
+   "ushape": 20,
+   "standing": null,
+   "banquet": null,
+   "note": "コの字20席（Room Cレイアウト頁）。全日¥181,500"
+  },
+  {
+   "name": "Room D1+D2",
+   "areaM2": 50,
+   "ceilingM": 3,
+   "theater": 42,
+   "school": 30,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "島型16席（Room Dレイアウト頁）。全日¥121,000"
+  },
+  {
+   "name": "Room D1",
+   "areaM2": 25,
+   "ceilingM": 3,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "島型12席（Room Dレイアウト頁）。全日¥75,020"
+  },
+  {
+   "name": "Room D2",
+   "areaM2": 25,
+   "ceilingM": 3,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "全日¥75,020"
+  },
+  {
+   "name": "Room E",
+   "areaM2": 60,
+   "ceilingM": 3,
+   "theater": 52,
+   "school": 27,
+   "ushape": 16,
+   "standing": null,
+   "banquet": null,
+   "note": "ロの字（ラウンド）16席。専用トイレあり。全日¥161,040"
+  },
+  {
+   "name": "ルーフギャラリー",
+   "areaM2": 100,
+   "ceilingM": 3,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "6F。原則ホール利用者のみ、ホールの利用区分内で2時間から利用可。バーコーナー併設。全日¥459,800"
+  }
+ ],
+ "roomsSource": "https://www.iino.co.jp/hall/charge/",
+ "ops": {
+  "catering": {
+   "text": "主催者による飲食物の持込みは不可（利用規則第16条(13)・第17条(3)、FAQ）。お弁当・飲み物・懇親会のケータリングは提携業者で手配できる。パーティー：東京會舘、第一ホテル東京、コルドンブルー、FUORICLASSE、サンケイ会館、ニラックスケータリングサービス。お弁当：人形町今半、亀戸升本、井筒まい泉、Blossom & Bouquet、美濃吉、京香、日本橋浜町 えび寿屋。ホール客席内の飲食は禁止。",
+   "source": "https://www.iino.co.jp/hall/catering/"
+  },
+  "restaurants": {
+   "text": "飯野ビル地下1階の「イイノダイニング」にレストラン・コンビニ等がある（日曜・祝日・年末年始を除く）。ホール内ホワイエの売店で軽食・飲み物を販売。懇親会は同じフロアで開催でき、例として「ホールで講演会→Room Aで懇親会」が案内されている。",
+   "source": "https://www.iino.co.jp/hall/faq/"
+  },
+  "prevDaySetup": {
+   "text": "利用時間には入室・準備設営から片付け・退館までを含むため、利用時間より早い入室はできない（FAQ）。ホールのみ、準備作業・リハーサル等での利用は利用区分料金の半額（施設利用料金表、2024年4月1日現在）。",
+   "source": "https://www.iino.co.jp/hall/faq/"
+  },
+  "waitingRooms": {
+   "text": "ホール用に5Fへ6室：控室1（28㎡）、控室2・控室3（各25㎡、連結利用可）、控室4＝特別室（25㎡、専用トイレ）、控室5＝和室（35㎡）、主催者控室（16.5㎡）。主催者控室の使用料はホール利用料金に含まれ、控室1〜3は区分あたり¥2,420〜（税込）。カンファレンスセンター側にはカンファレンス控室（20㎡）があり、Room DやRoom Eも控室・事務局として使える。",
+   "source": "https://www.iino.co.jp/hall/guide/iinohall/"
+  },
+  "loadingHours": {
+   "text": "開館時間は原則9:00〜21:30（利用規則第3条）。搬入用エレベーターの図面には、エレベーター内 幅1800×奥行2250×高さ2500mm、入口幅1400mm、手すり内側幅1650mmの数値がある。宅配荷物は搬入日・時間・物量・内容を会場が指定し、営業時間外の荷着や事前問合せのない荷物は受け取らない（第22条）。事前送付荷物の預かり料は1個¥330。（出典：利用規則 2024年4月1日現在、附帯料金表 2024年9月1日現在）",
+   "source": "https://www.iino.co.jp/hall/pdf/rule/"
+  },
+  "parking": {
+   "text": "主催者用の駐車場はなく、飯野ビル地下2階の時間貸駐車場を使う。営業時間は7:00〜23:00（年中無休）で、23:00〜7:00は入出庫できない。料金は30分¥400、12時間最大¥3,200。予約はできない。",
+   "source": "https://www.iino.co.jp/hall/wp-content/themes/iino_hall/assets/pdf/parking.pdf"
+  },
+  "vehicleRules": {
+   "text": "当施設専用の駐車場はなく、駐車場の予約も受け付けない。搬入出で駐車場が必要な場合は、車両制限等の条件があるため事前に問い合わせる（利用規則第21条、2024年4月1日現在）。",
+   "source": "https://www.iino.co.jp/hall/pdf/rule/"
+  }
+ },
+ "documents": [
+  {
+   "title": "ご利用規則（2024年4月1日現在）",
+   "url": "https://www.iino.co.jp/hall/pdf/rule/"
+  },
+  {
+   "title": "施設利用料金（2024年4月1日現在）",
+   "url": "https://www.iino.co.jp/hall/charge/"
+  },
+  {
+   "title": "施設利用料金表 PDF",
+   "url": "https://www.iino.co.jp/hall/wp-content/themes/iino_hall/assets/pdf/fee_a.pdf"
+  },
+  {
+   "title": "附帯料金表 PDF",
+   "url": "https://www.iino.co.jp/hall/wp-content/themes/iino_hall/assets/pdf/fee_b.pdf"
+  },
+  {
+   "title": "【2027年4月1日以降】附帯料金表",
+   "url": "https://www.iino.co.jp/hall/wp-content/themes/iino_hall/assets/pdf/fee_b_202704.pdf"
+  },
+  {
+   "title": "搬入エレベーターサイズ",
+   "url": "https://www.iino.co.jp/hall/wp-content/themes/iino_hall/assets/pdf/freight_elevator_dimension"
+  },
+  {
+   "title": "駐車場のご案内",
+   "url": "https://www.iino.co.jp/hall/wp-content/themes/iino_hall/assets/pdf/parking.pdf"
+  },
+  {
+   "title": "フロアマップ",
+   "url": "https://www.iino.co.jp/hall/wp-content/themes/iino_hall/assets/pdf/floormap.pdf"
+  },
+  {
+   "title": "よくあるご質問",
+   "url": "https://www.iino.co.jp/hall/faq/"
+  },
+  {
+   "title": "ケータリング",
+   "url": "https://www.iino.co.jp/hall/catering/"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "セブン-イレブン 内幸町2丁目店",
+    "brand": "セブン-イレブン",
+    "distanceM": 0,
+    "walkMin": 1,
+    "hours": "月〜金 7:00-23:00／土 7:00-22:00／日・祝 7:00-20:00",
+    "address": "東京都千代田区内幸町2-1-1",
+    "verified": true,
+    "source": "https://seven-eleven.areamarker.com/711map/info/292860",
+    "note": "会場と同じ住所（飯野ビル内）。公式ページ上の表示名は「内幸町２丁目」"
+   },
+   {
+    "name": "ファミリーマート 内幸町富国生命ビル店",
+    "brand": "ファミリーマート",
+    "distanceM": 208,
+    "walkMin": 3,
+    "hours": "7:00-22:00",
+    "address": "東京都千代田区内幸町2-2-2",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/77386",
+    "note": "公式の営業時間欄は1行のみ（曜日別の差は未確認）"
+   },
+   {
+    "name": "ローソン 日比谷国際ビル店",
+    "brand": "ローソン",
+    "distanceM": 208,
+    "walkMin": 3,
+    "hours": "7:00-21:00（公式一覧の表示、金曜時点。曜日別は未確認）",
+    "address": "東京都千代田区内幸町2-2-3",
+    "verified": true,
+    "source": "https://www.areamarker.com/lawson/map?latlon=35.67173,139.753067",
+    "note": "公式検索一覧の表示名は「日比谷国際ビル」"
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "アクセア 虎ノ門店",
+    "brand": "アクセア",
+    "distanceM": 276,
+    "walkMin": 4,
+    "hours": "平日24時間営業（月曜朝8時〜土曜19時まで休まず営業）、土〜19:00、日祝10:00〜19:00",
+    "address": "東京都港区虎ノ門1-1-21 新虎ノ門実業会館1F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/entry.html",
+    "note": null
+   },
+   {
+    "name": "キンコーズ・虎ノ門店",
+    "brand": "キンコーズ",
+    "distanceM": 483,
+    "walkMin": 7,
+    "hours": "平日 9:00-20:00／土・日・祝 休業",
+    "address": "東京都港区虎ノ門1丁目14-1 郵政福祉琴平ビル1F",
+    "verified": true,
+    "source": "https://www.kinkos.co.jp/store/tokyo/t001/",
+    "note": null
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Seria イグジットメルサ銀座店",
+    "brand": "セリア",
+    "distanceM": 1000,
+    "walkMin": 13,
+    "hours": "11:00-20:00（公式の「本日の営業時間」、2026-10-30金曜時点）",
+    "address": "東京都中央区銀座5-7-10 EXITMELSA 5F",
+    "verified": true,
+    "source": "https://shop.seria-group.com/seria/arealist/13",
+    "note": null
+   },
+   {
+    "name": "Can★Do 城山ヒルズ店",
+    "brand": "キャンドゥ",
+    "distanceM": 1043,
+    "walkMin": 14,
+    "hours": "月〜日 9:00〜23:00",
+    "address": "東京都港区虎ノ門4-1-17 神谷町プライムプレイスB1階",
+    "verified": true,
+    "source": "https://shopinfo.cando-web.co.jp/detail/shop-1835/",
+    "note": null
+   }
+  ],
+  "donki": [
+   {
+    "name": "ドン・キホーテ 銀座本館",
+    "brand": "ドン・キホーテ",
+    "distanceM": 943,
+    "walkMin": 12,
+    "hours": "24時間営業",
+    "address": "東京都中央区銀座8-10 銀座ナイン3号館",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_list.php",
+    "note": "公式一覧の表示名は「銀座本館」"
+   },
+   {
+    "name": "ドン・キホーテ 六本木店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 1963,
+    "walkMin": 25,
+    "hours": "24時間営業",
+    "address": "東京都港区六本木3-14-10",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_list.php",
+    "note": "遠い（徒歩約25分）。公式一覧の表示名は「六本木店」。ピカソ赤坂店（1462m）はピカソ業態のため除外"
+   }
+  ]
+ },
+ "drinkDelivery": {
+  "available": true
+ },
+ "photo": {
+  "src": "/images/venues/iino-hall.jpg",
+  "credit": "© Akonnchiroll / CC0 · Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Iino_Building.jpg"
+ },
+ "checkedAt": "2026-10-30"
+}

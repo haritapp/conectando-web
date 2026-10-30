@@ -100,6 +100,8 @@ https://bizintokyo.com/hotels/shinjuku-bunka-center/
 
 https://bizintokyo.com/hotels/bellesalle_shinjuku/
 
+このエリアの会場を人数や広さで比べたり、図面・料金表、搬入や控室の公式ルール、近くの印刷店まで確かめたりするなら、[会場リスト](/venues/?area=shinjuku-venues)で探せます。
+
 ## あわせて読みたい記事
 
 - [会場を選ぶ前に決めること（英語）](/en/column/what-to-decide-before-choosing-an-event-venue-in-tokyo/)

@@ -1,0 +1,494 @@
+{
+ "slug": "bellesalle-shinjuku-grand",
+ "nameJa": "ベルサール新宿グランド",
+ "nameEn": "",
+ "type": "conference",
+ "area": "shinjuku-venues",
+ "address": "〒160-0023 東京都新宿区西新宿8-17-3 住友不動産新宿グランドタワー1F（イベントホール）／会議室は西新宿8-17-1 同タワー5F",
+ "lat": 35.6962851,
+ "lng": 139.691001,
+ "officialUrl": "https://www.bellesalle.co.jp/shisetsu/shinjuku/bs_shinjukugrand/",
+ "organizerUrl": "https://www.bellesalle.co.jp/download/bs_shinjukugrand/",
+ "bizintokyoSlug": "bellesalle_shinjuku",
+ "accessSummary": "西新宿駅（丸ノ内線）1番出口 徒歩4分／都庁前駅（大江戸線）A5出口 徒歩8分／新宿駅西口 徒歩14分",
+ "notice": null,
+ "hours": null,
+ "rooms": [
+  {
+   "name": "1F イベントホール HALL全体",
+   "areaM2": 1473,
+   "ceilingM": 6.0,
+   "theater": 1404,
+   "school": 744,
+   "ushape": null,
+   "standing": 890,
+   "banquet": null,
+   "note": "スクールは2名掛け。別にロビー約500㎡。スクール3名掛け 1,116席。島型 924席（154島）"
+  },
+  {
+   "name": "1F イベントホール HALL A",
+   "areaM2": 804,
+   "ceilingM": 6.0,
+   "theater": 782,
+   "school": 380,
+   "ushape": null,
+   "standing": 480,
+   "banquet": null,
+   "note": "スクールは2名掛け。スクール3名掛け 570席。島型 396席（66島）"
+  },
+  {
+   "name": "1F イベントホール HALL B",
+   "areaM2": 669,
+   "ceilingM": 6.0,
+   "theater": 630,
+   "school": 304,
+   "ushape": null,
+   "standing": 400,
+   "banquet": null,
+   "note": "スクールは2名掛け。スクール3名掛け 456席。島型 384席（64島）"
+  },
+  {
+   "name": "イベントホール 控室1",
+   "areaM2": 40,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "使用料0円。使用規約上は2Fの控室"
+  },
+  {
+   "name": "イベントホール 控室2",
+   "areaM2": 28,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "使用料0円"
+  },
+  {
+   "name": "イベントホール 控室3",
+   "areaM2": 35,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "使用料0円"
+  },
+  {
+   "name": "5F Room A",
+   "areaM2": 140,
+   "ceilingM": 3.0,
+   "theater": 112,
+   "school": 50,
+   "ushape": 48,
+   "standing": 80,
+   "banquet": null,
+   "note": "スクール3名掛け 75席。島型 72席（12島）。T字島型 48席（8島）"
+  },
+  {
+   "name": "5F Room B・C・H（各）",
+   "areaM2": 95,
+   "ceilingM": 3.0,
+   "theater": 90,
+   "school": 42,
+   "ushape": 42,
+   "standing": 50,
+   "banquet": null,
+   "note": "スクール3名掛け 63席。島型 42席（7島）。T字島型 30席（5島）"
+  },
+  {
+   "name": "5F Room D",
+   "areaM2": 93,
+   "ceilingM": 3.0,
+   "theater": 90,
+   "school": 42,
+   "ushape": 42,
+   "standing": 50,
+   "banquet": null,
+   "note": "スクール3名掛け 63席。島型 42席（7島）。T字島型 30席（5島）"
+  },
+  {
+   "name": "5F Room E",
+   "areaM2": 189,
+   "ceilingM": 3.0,
+   "theater": 176,
+   "school": 80,
+   "ushape": 66,
+   "standing": 110,
+   "banquet": null,
+   "note": "スクール3名掛け 120席。島型 96席（16島）。T字島型 72席（12島）"
+  },
+  {
+   "name": "5F Room F・G（各）",
+   "areaM2": 187,
+   "ceilingM": 3.0,
+   "theater": 176,
+   "school": 80,
+   "ushape": 66,
+   "standing": 110,
+   "banquet": null,
+   "note": "スクール3名掛け 120席。島型 96席（16島）。T字島型 72席（12島）"
+  },
+  {
+   "name": "5F Room I",
+   "areaM2": 108,
+   "ceilingM": 3.0,
+   "theater": 96,
+   "school": 36,
+   "ushape": 42,
+   "standing": 60,
+   "banquet": null,
+   "note": "スクール3名掛け 54席。島型 54席（9島）。T字島型 30席（5島）"
+  },
+  {
+   "name": "5F Room J・L（各）",
+   "areaM2": 71,
+   "ceilingM": 3.0,
+   "theater": 60,
+   "school": 30,
+   "ushape": 30,
+   "standing": 40,
+   "banquet": null,
+   "note": "スクール3名掛け 45席。島型 36席（6島）。T字島型 12席（2島）"
+  },
+  {
+   "name": "5F Room K",
+   "areaM2": 159,
+   "ceilingM": 3.0,
+   "theater": 156,
+   "school": 60,
+   "ushape": 60,
+   "standing": 90,
+   "banquet": null,
+   "note": "スクール3名掛け 90席。島型 90席（15島）。T字島型 60席（10島）"
+  },
+  {
+   "name": "5F Room M",
+   "areaM2": 102,
+   "ceilingM": 3.0,
+   "theater": 96,
+   "school": 36,
+   "ushape": 42,
+   "standing": 60,
+   "banquet": null,
+   "note": "スクール3名掛け 54席。島型 54席（9島）。T字島型 30席（5島）"
+  },
+  {
+   "name": "5F Room A+B",
+   "areaM2": 235,
+   "ceilingM": 3.0,
+   "theater": 208,
+   "school": 110,
+   "ushape": 72,
+   "standing": 140,
+   "banquet": null,
+   "note": "スクール3名掛け 165席。島型 120席（20島）。T字島型 96席（16島）"
+  },
+  {
+   "name": "5F Room B+C",
+   "areaM2": 190,
+   "ceilingM": 3.0,
+   "theater": 160,
+   "school": 80,
+   "ushape": 66,
+   "standing": 110,
+   "banquet": null,
+   "note": "スクール3名掛け 120席。島型 96席（16島）。T字島型 72席（12島）"
+  },
+  {
+   "name": "5F Room C+D",
+   "areaM2": 188,
+   "ceilingM": 3.0,
+   "theater": 160,
+   "school": 90,
+   "ushape": 66,
+   "standing": 110,
+   "banquet": null,
+   "note": "スクール3名掛け 135席。島型 96席（16島）。T字島型 72席（12島）"
+  },
+  {
+   "name": "5F Room A+B+C",
+   "areaM2": 330,
+   "ceilingM": 3.0,
+   "theater": 320,
+   "school": 160,
+   "ushape": 96,
+   "standing": 200,
+   "banquet": null,
+   "note": "スクール3名掛け 240席。島型 168席（28島）。T字島型 144席（24島）"
+  },
+  {
+   "name": "5F Room B+C+D",
+   "areaM2": 283,
+   "ceilingM": 3.0,
+   "theater": 272,
+   "school": 140,
+   "ushape": 90,
+   "standing": 170,
+   "banquet": null,
+   "note": "スクール3名掛け 210席。島型 144席（24島）。T字島型 120席（20島）"
+  },
+  {
+   "name": "5F Room A+B+C+D",
+   "areaM2": 423,
+   "ceilingM": 3.0,
+   "theater": 416,
+   "school": 220,
+   "ushape": 120,
+   "standing": 250,
+   "banquet": null,
+   "note": "スクール3名掛け 330席。島型 240席（40島）。T字島型 216席（36島）"
+  },
+  {
+   "name": "5F Room E+F",
+   "areaM2": 376,
+   "ceilingM": 3.0,
+   "theater": 368,
+   "school": 190,
+   "ushape": 108,
+   "standing": 220,
+   "banquet": null,
+   "note": "スクール3名掛け 285席。島型 216席（36島）。T字島型 186席（31島）"
+  },
+  {
+   "name": "5F Room G+H",
+   "areaM2": 282,
+   "ceilingM": 3.0,
+   "theater": 256,
+   "school": 140,
+   "ushape": 84,
+   "standing": 170,
+   "banquet": null,
+   "note": "スクール3名掛け 210席。島型 144席（24島）。T字島型 120席（20島）"
+  },
+  {
+   "name": "5F 控室1",
+   "areaM2": 14,
+   "ceilingM": 3.0,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "4時間19,800円（税込）"
+  },
+  {
+   "name": "5F 控室2",
+   "areaM2": 23,
+   "ceilingM": 3.0,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "4時間31,900円（税込）"
+  },
+  {
+   "name": "5F 控室3",
+   "areaM2": 17,
+   "ceilingM": 3.0,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "4時間19,800円（税込）"
+  },
+  {
+   "name": "5F 控室4",
+   "areaM2": 16,
+   "ceilingM": 3.0,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "4時間19,800円（税込）"
+  }
+ ],
+ "roomsSource": "https://www.bellesalle.co.jp/wp-content/uploads/shinjukug_price.pdf",
+ "ops": {
+  "catering": {
+   "text": "飲食物の持込は可能。ただし飲食の手配に当社指定業者以外を使う場合は「飲食持込手数料」がかかる（パーティー利用時のみ。飲料のみ・弁当の持込は対象外）。金額は会場面積別で、〜300㎡ 100,000円、〜600㎡ 200,000円、〜900㎡ 300,000円、〜1,200㎡ 400,000円、1,201㎡〜 500,000円（税込 各110,000〜550,000円）。懇親会向けのパーティーメニューは住友不動産グループ泉レストランのサイトで案内されている。（出典：持込料のご案内PDF、よくあるご質問）",
+   "source": "https://www.bellesalle.co.jp/wp-content/uploads/mochikomi_price.pdf"
+  },
+  "prevDaySetup": {
+   "text": "使用時間には準備・後片付けの時間も含まれる（料金表）。ホールは12時間・24時間の料金があり、夜間利用や24時間利用は前後の予約状況で使えない場合があるため事前相談。会場は一部を除き365日24時間利用できる。荷物の事前受け取りは開催日の前日着が原則で、事前搬入届が必要（搬入物は使用前日のみの受付）。（出典：ホール料金表 2026/7/3更新、事前搬入届、よくあるご質問）",
+   "source": "https://www.bellesalle.co.jp/wp-content/uploads/shinjukug_price.pdf"
+  },
+  "waitingRooms": {
+   "text": "1Fイベントホールに控室3室（40㎡・28㎡・35㎡、使用料0円。使用規約上は2Fの控室）、5F会議室に控室4室（14㎡・23㎡・17㎡・16㎡、4時間19,800〜31,900円〈税込〉）。控室のみの利用はできない。（出典：公式施設ページ、5F会議室料金表）",
+   "source": "https://www.bellesalle.co.jp/shisetsu/shinjuku/bs_shinjukugrand/"
+  },
+  "loadingHours": {
+   "text": "搬入・搬出車の出入りは使用時間内に行う。事前搬入届を作業日の1週間前までに提出する（未提出だと荷捌き場は使えない）。ホールの搬入口は3か所で、4t車から直接搬入出できる。1Fホールはシャッター内で高さ3,850×幅4,760×奥行9,000mm（4tロングは要相談）、5F会議室はB2F荷捌き場で高さ3,100×全長6,000mm。荷捌き場での積み下ろしは原則15分以内で、15分を超えると出庫時に300円〜かかる。事前到着荷物の受取は原則ホール5箱・各ルーム2箱まで。（出典：事前搬入届 新宿グランド、使用規約 2026ver2 第16条、公式施設ページ）",
+   "source": "https://www.bellesalle.co.jp/wp-content/uploads/shinjukug_jizen.pdf"
+  },
+  "parking": {
+   "text": "施設が入居するビル（住友不動産新宿グランドタワー）に来場者用の時間貸し駐車場があるが、台数に限りがある。近隣の時間貸し駐車場は、公式施設ページのリンク先「s-park」（東京都道路整備保全公社）で「ベルサール新宿グランド」を検索して探す。（出典：よくあるご質問、公式施設ページ）",
+   "source": "https://www.bellesalle.co.jp/faq/"
+  },
+  "vehicleRules": {
+   "text": "荷捌き所は荷物の積み下ろしのみに使い、駐車が必要な場合は外の駐車場を利用する。複数台のときは1台分の荷捌場を時間差で使う。違法駐車や指定駐車場以外のビル周りの路上駐車は厳禁。使用期間中の荷捌き場には商品・梱包材・ゴミなどを置けない。搬入出車両が混雑しそうな場合は出入口に整理員を配置する。（出典：事前搬入届 新宿グランド、使用規約 2026ver2 第15条・第16条）",
+   "source": "https://www.bellesalle.co.jp/wp-content/uploads/shinjukug_jizen.pdf"
+  }
+ },
+ "documents": [
+  {
+   "title": "使用規約（2026ver2）",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/kiyaku.pdf"
+  },
+  {
+   "title": "事前搬入届（新宿グランド）",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/shinjukug_jizen.pdf"
+  },
+  {
+   "title": "持込料のご案内",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/mochikomi_price.pdf"
+  },
+  {
+   "title": "利用料金一覧表（2026/7/3更新）",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/shinjukug_price.pdf"
+  },
+  {
+   "title": "1F 平面図",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/shinjukug_plane_1f.pdf"
+  },
+  {
+   "title": "5F 平面図",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/shinjukugcc_plane_5f.pdf"
+  },
+  {
+   "title": "資料ダウンロード（公式一覧）",
+   "url": "https://www.bellesalle.co.jp/download/bs_shinjukugrand/"
+  },
+  {
+   "title": "よくあるご質問",
+   "url": "https://www.bellesalle.co.jp/faq/"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "セブン-イレブン 新宿グランドプラザ店",
+    "brand": "セブン-イレブン",
+    "distanceM": 58,
+    "walkMin": 1,
+    "hours": "24時間営業",
+    "address": "東京都新宿区西新宿8-16-1",
+    "verified": true,
+    "source": "https://seven-eleven.areamarker.com/711map/info/308407",
+    "note": null
+   },
+   {
+    "name": "セブン-イレブン 西新宿6丁目店",
+    "brand": "セブン-イレブン",
+    "distanceM": 327,
+    "walkMin": 5,
+    "hours": "24時間営業",
+    "address": "東京都新宿区西新宿6-12-6",
+    "verified": true,
+    "source": "https://seven-eleven.areamarker.com/711map/info/557725",
+    "note": null
+   },
+   {
+    "name": "セブン-イレブン 西新宿7丁目店",
+    "brand": "セブン-イレブン",
+    "distanceM": 418,
+    "walkMin": 6,
+    "hours": "24時間営業",
+    "address": "東京都新宿区西新宿7-21-3",
+    "verified": true,
+    "source": "https://seven-eleven.areamarker.com/711map/info/142177",
+    "note": null
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "キンコーズ・西新宿店",
+    "brand": "キンコーズ",
+    "distanceM": 361,
+    "walkMin": 5,
+    "hours": "平日 8:00-20:00／土日祝 10:00-20:00（受付は閉店30分前まで）",
+    "address": "東京都新宿区西新宿8-1-1 アゼリアビル1F",
+    "verified": true,
+    "source": "https://www.kinkos.co.jp/store/tokyo/t008/",
+    "note": null
+   },
+   {
+    "name": "アクセア 西新宿店",
+    "brand": "アクセア",
+    "distanceM": 593,
+    "walkMin": 8,
+    "hours": "24時間営業",
+    "address": "東京都新宿区西新宿7-12-3 西新宿佐藤ビル1F～4F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/map/nishishinmap.html",
+    "note": null
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Can★Do 西新宿店",
+    "brand": "キャンドゥ",
+    "distanceM": 436,
+    "walkMin": 6,
+    "hours": "毎日 9:00-22:00",
+    "address": "東京都新宿区西新宿7-21-1",
+    "verified": true,
+    "source": "https://shopinfo.cando-web.co.jp/detail/shop-5068/",
+    "note": null
+   },
+   {
+    "name": "ダイソー 新宿コクーンタワー店",
+    "brand": "ダイソー",
+    "distanceM": 825,
+    "walkMin": 11,
+    "hours": "8:00-21:00",
+    "address": "東京都新宿区西新宿1-7-3 地下2階",
+    "verified": true,
+    "source": "https://www.daiso-sangyo.co.jp/shop/pref/13",
+    "note": null
+   }
+  ],
+  "donki": [
+   {
+    "name": "ドン・キホーテ 新宿歌舞伎町店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 1006,
+    "walkMin": 13,
+    "hours": "24時間営業",
+    "address": "東京都新宿区歌舞伎町1-16-5",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_list.php?bsns=1&pre=ft",
+    "note": "距離はOSM上の同店位置。遠め"
+   },
+   {
+    "name": "ドン・キホーテ 新宿店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 1101,
+    "walkMin": 14,
+    "hours": "24時間営業",
+    "address": "東京都新宿区大久保1-12-6",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_list.php?bsns=1&pre=ft",
+    "note": "距離は住所の位置で計算。遠め"
+   }
+  ]
+ },
+ "drinkDelivery": {
+  "available": true
+ },
+ "photo": {
+  "src": "/images/venues/bellesalle-shinjuku-grand.jpg",
+  "credit": "© Mountainlife / CC BY-SA 3.0 · Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Shinjuku_Grand_Tower_from_north-east2012.3.12.JPG"
+ },
+ "checkedAt": "2026-10-30"
+}

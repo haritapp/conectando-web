@@ -1,0 +1,373 @@
+{
+ "slug": "hikarie-hall",
+ "nameJa": "ヒカリエホール",
+ "nameEn": "Hikarie Hall",
+ "type": "conference",
+ "area": "shibuya-ebisu-venues",
+ "address": "〒150-8510 東京都渋谷区渋谷2-21-1 渋谷ヒカリエ 9F",
+ "lat": 35.6591803,
+ "lng": 139.7036853,
+ "officialUrl": "https://space.hikarie.jp/hall/",
+ "organizerUrl": "https://space.hikarie.jp/hall/document/",
+ "bizintokyoSlug": "hikarie",
+ "accessSummary": "JR線・京王井の頭線「渋谷駅」と2階連絡通路で直結／東京メトロ銀座線「渋谷駅」と1階で直結／東急東横線・田園都市線・東京メトロ半蔵門線・副都心線「渋谷駅」B5出口と直結",
+ "notice": null,
+ "hours": null,
+ "rooms": [
+  {
+   "name": "ホールA",
+   "areaM2": 1000,
+   "ceilingM": 7.0,
+   "theater": 864,
+   "school": 450,
+   "ushape": null,
+   "standing": 600,
+   "banquet": null,
+   "note": "38.5m×26.0m、平土間。公式の最大収容定員は1,004名。ホワイエ等を含む利用可能面積は約1,400㎡。立食は約600名"
+  },
+  {
+   "name": "ホールB",
+   "areaM2": 300,
+   "ceilingM": 6.8,
+   "theater": 264,
+   "school": 150,
+   "ushape": null,
+   "standing": 160,
+   "banquet": null,
+   "note": "24.0m×12.0m、平土間。公式の最大収容定員は301名。ホワイエ等を含む利用可能面積は約650㎡。立食は約160名"
+  },
+  {
+   "name": "ホールA・B一体利用",
+   "areaM2": null,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "利用可能面積 約2,500㎡（ホワイエ等を含む）"
+  },
+  {
+   "name": "ホワイエA",
+   "areaM2": 315,
+   "ceilingM": 7.0,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": 150,
+   "banquet": null,
+   "note": "ホールA専用。立食約150〜200名（付帯設備の説明では面積約300㎡）"
+  },
+  {
+   "name": "ホワイエB",
+   "areaM2": 270,
+   "ceilingM": 3.0,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": 100,
+   "banquet": null,
+   "note": "ホールB専用。立食約100名（付帯設備の説明では面積約250㎡）"
+  },
+  {
+   "name": "フリースペースA/B",
+   "areaM2": 155,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "ホールAとBの間。中央に稼働壁あり"
+  },
+  {
+   "name": "主催者控室A",
+   "areaM2": 45,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "9F。ホールA利用時、基本利用料金に含む"
+  },
+  {
+   "name": "主催者控室B1",
+   "areaM2": 43,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "9F。ホールB利用時、基本利用料金に含む"
+  },
+  {
+   "name": "主催者控室B2",
+   "areaM2": 17,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "9F。ホールB利用時、基本利用料金に含む"
+  },
+  {
+   "name": "楽屋1",
+   "areaM2": 41,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "10F。ホールA・AB一体利用時。楽屋2と接続可。1日10,000円（税別）"
+  },
+  {
+   "name": "楽屋2",
+   "areaM2": 42,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "10F。ホールA・AB一体利用時。楽屋1と接続可。1日10,000円（税別）"
+  },
+  {
+   "name": "楽屋3",
+   "areaM2": 19,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "10F。ホールA・AB一体利用時。VIP仕様（ソファ・個室トイレ）。1日10,000円（税別）"
+  },
+  {
+   "name": "楽屋4",
+   "areaM2": 25,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "10F。ホールA・AB一体利用時。1日7,500円（税別）"
+  },
+  {
+   "name": "楽屋5",
+   "areaM2": 30,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "10F。ホールB・AB一体利用時。料金表では1日7,500円（税別）"
+  },
+  {
+   "name": "楽屋6",
+   "areaM2": 19,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "10F。ホールB・AB一体利用時。VIP仕様。1日10,000円（税別）"
+  },
+  {
+   "name": "楽屋事務室1",
+   "areaM2": 8,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "楽屋1〜4のいずれか利用で無料"
+  },
+  {
+   "name": "楽屋事務室2",
+   "areaM2": 13,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "楽屋5〜6のいずれか利用で無料"
+  }
+ ],
+ "roomsSource": "https://space.hikarie.jp/hall/facility/",
+ "ops": {
+  "catering": {
+   "text": "ホールがケータリングの発注から搬入出・納品までを一括で手配する（発注期限は使用日の1か月前まで、発注可能最低料金126,000円〜、お料理の持ち帰りは不可）。お弁当（各社に最低注文金額あり）、ケース単位の飲料、ポットサービス（コーヒー・紅茶・ケーキ）も手配できる。ホール内・ホワイエでの飲食は可能で、簡易な調理は特定の場所（ホワイエ内バーカウンター等）のみ可。（出典：ケータリングページ、FAQ、2026年10月時点）",
+   "source": "https://space.hikarie.jp/hall/catering/"
+  },
+  "restaurants": {
+   "text": "渋谷ヒカリエの6F・7F・8F・11Fにカフェ＆レストラン計29店（6F 13店、7F 13店、8F 1店、11F 2店）があり、ほかにB2・B1・1F・4F・5Fにも各1店ある。公式ページは歓送迎会などあらゆるシーンで利用できるとしている（6F「dining6」は各国料理、7F「TABLE7」はall dayの店）。",
+   "source": "https://www.hikarie.jp/cafe_restaurant/"
+  },
+  "prevDaySetup": {
+   "text": "前日の夜間設営を希望する場合、設営開始時間は施設管理者の指示を受けて設定する。準備・撤去日は1開催につき2日まで適用で（ホールA 1,260,000円／ホールB 540,000円、各10:00〜22:00、税別）、3日目以降は本番日料金になる。時間外（22:00〜翌10:00）は事前承認が必要で、1時間あたりホールA 210,000円／ホールB 90,000円（税別）。（出典：使用規則PDF 2022年10月版、使用料金表 2025年5月版）",
+   "source": "https://space.hikarie.jp/hubfs/Hikarie%20Hall%20%E4%BD%BF%E7%94%A8%E8%A6%8F%E5%89%87(22.10~).pdf"
+  },
+  "waitingRooms": {
+   "text": "ホールA利用は主催者控室1室（9F・45㎡、基本利用料金に含む）、楽屋4室（10F・41／42／19／25㎡）、楽屋事務室1室（8㎡）。ホールB利用は主催者控室2室（9F・43／17㎡、基本利用料金に含む）、楽屋2室（10F・30／19㎡）、楽屋事務室1室（13㎡）。楽屋は1日7,500〜10,000円（税別）、楽屋事務室は10F楽屋の利用時に無料。",
+   "source": "https://space.hikarie.jp/hall/faq/"
+  },
+  "loadingHours": {
+   "text": "1Fの荷捌き室（車両の搬出入口）は11tまで入庫可、バース間口W4,000mm（奥W3,500mm）、プラットフォーム高さ1,000mm。搬出入用の大型エレベーターは W8,000×D3,000×H4,500mm（間口H3,400mm）、最大積載10,000kg（ほか小型2機 1,600kg）。荷捌き室とエレベーターは館内他施設と共用で、申請した時間帯に限り専有できる。使用時間（10:00〜22:00）には準備・撤去の時間を含み、使用開始30日前までに施設管理者とスケジュール・設営等の打合せを行い、搬出入は事前に施設管理者と協議のうえ立会いで行う。（出典：FAQ、施設ページ、使用規則PDF 2022年10月版）",
+   "source": "https://space.hikarie.jp/hall/faq/"
+  },
+  "parking": {
+   "text": "ホール利用時は渋谷ヒカリエの駐車場か近隣のコインパーキングを利用する。ヒカリエ駐車場は機械式で、営業6:50〜24:00（最終入庫23:30）、400円／30分（税込）、最大料金3,200円（平日の営業時間内のみ）。入庫可能サイズは普通車が長さ5,300×幅1,900×高さ1,550mm・重量2,300kg、ハイルーフ車は高さ2,000mmまで。ヒカリエホールの利用は駐車割引サービスの対象外で、団体バス用の駐車場はない。",
+   "source": "https://www.hikarie.jp/access/"
+  },
+  "vehicleRules": {
+   "text": "搬出入は指定の搬入搬出口を使い、周辺道路への路上駐車・違法駐車は不可。搬出入は事前に施設管理者と協議し、立会いのもとで行う。館内他施設のイベントの都合で、駐車場・搬出入用エレベーターの使用が調整されることがある。ビル駐車場の満車時は公道上での待機をしない。（出典：使用規則PDF 2022年10月版、アクセスページ）",
+   "source": "https://space.hikarie.jp/hubfs/Hikarie%20Hall%20%E4%BD%BF%E7%94%A8%E8%A6%8F%E5%89%87(22.10~).pdf"
+  }
+ },
+ "documents": [
+  {
+   "title": "使用規則（2022年10月版）",
+   "url": "https://space.hikarie.jp/hubfs/Hikarie%20Hall%20%E4%BD%BF%E7%94%A8%E8%A6%8F%E5%89%87(22.10~).pdf"
+  },
+  {
+   "title": "使用料金表（2025年5月版）",
+   "url": "https://space.hikarie.jp/hubfs/%E4%BD%BF%E7%94%A8%E6%96%99%E9%87%91%E8%A1%A8(2025%E5%B9%B45%E6%9C%88%E7%89%88).pdf"
+  },
+  {
+   "title": "ホールご使用までの流れ（2022年10月版）",
+   "url": "https://space.hikarie.jp/hubfs/01_%E3%83%9B%E3%83%BC%E3%83%AB%E3%81%94%E4%BD%BF%E7%94%A8%E3%81%BE%E3%81%A7%E3%81%AE%E6%B5%81%E3%82%8C(22.10~).pdf"
+  },
+  {
+   "title": "備品リスト（2026年2月版）",
+   "url": "https://space.hikarie.jp/hubfs/%E3%83%92%E3%82%AB%E3%83%AA%E3%82%A8%E3%83%9B%E3%83%BC%E3%83%AB%E5%82%99%E5%93%81%E3%83%AA%E3%82%B9%E3%83%88(2026%E5%B9%B42%E6%9C%88%E7%89%88)-Feb-21-2026-03-03-30-1346-AM.pdf"
+  },
+  {
+   "title": "フロア全体平面図（寸法有）",
+   "url": "https://space.hikarie.jp/hubfs/pdf/%E3%83%95%E3%83%AD%E3%82%A2%E5%85%A8%E4%BD%93%E5%B9%B3%E9%9D%A2%E5%9B%B3%E3%83%BB%E5%AF%B8%E6%B3%95%E6%9C%89.pdf"
+  },
+  {
+   "title": "よくある質問",
+   "url": "https://space.hikarie.jp/hall/faq/"
+  },
+  {
+   "title": "駐車場のご案内（渋谷ヒカリエ）",
+   "url": "https://www.hikarie.jp/access/"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "ファミリーマート 宮益坂下店",
+    "brand": "ファミリーマート",
+    "distanceM": 92,
+    "walkMin": 2,
+    "hours": "24時間",
+    "address": "東京都渋谷区渋谷2-20-11",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/22499",
+    "note": null
+   },
+   {
+    "name": "セブン-イレブン 渋谷3丁目六本木通り店",
+    "brand": "セブン-イレブン",
+    "distanceM": 162,
+    "walkMin": 3,
+    "hours": "24時間",
+    "address": "東京都渋谷区渋谷3-6-1",
+    "verified": true,
+    "source": "https://seven-eleven.areamarker.com/711map/info/310172",
+    "note": null
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "アクセア 渋谷店",
+    "brand": "アクセア",
+    "distanceM": 314,
+    "walkMin": 4,
+    "hours": "24時間営業（年中無休）",
+    "address": "東京都渋谷区渋谷3-11-11",
+    "verified": true,
+    "source": "https://www.accea.co.jp/entry.html",
+    "note": null
+   },
+   {
+    "name": "キンコーズ・渋谷サクラステージ店",
+    "brand": "キンコーズ",
+    "distanceM": 325,
+    "walkMin": 5,
+    "hours": "平日・土・日祝 9:00-22:00",
+    "address": "東京都渋谷区桜丘町3-4 渋谷サクラステージ SAKURAサイド3F",
+    "verified": true,
+    "source": "https://www.kinkos.co.jp/store/tokyo/",
+    "note": null
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "DAISO 渋谷マークシティ店",
+    "brand": "ダイソー",
+    "distanceM": 564,
+    "walkMin": 8,
+    "hours": "9:30-21:00",
+    "address": "東京都渋谷区道玄坂1-12-1 渋谷マークシティ1階",
+    "verified": true,
+    "source": "https://www.daiso-sangyo.co.jp/shop/detail/003086",
+    "note": null
+   },
+   {
+    "name": "DAISO 渋谷センター街店",
+    "brand": "ダイソー",
+    "distanceM": 667,
+    "walkMin": 9,
+    "hours": "10:00-21:30",
+    "address": "東京都渋谷区宇田川町35-2",
+    "verified": true,
+    "source": "https://www.daiso-sangyo.co.jp/shop/detail/008931",
+    "note": null
+   }
+  ],
+  "donki": [
+   {
+    "name": "MEGAドン・キホーテ渋谷本店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 575,
+    "walkMin": 8,
+    "hours": "24時間営業",
+    "address": "東京都渋谷区宇田川町28-6",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_list.php?pref=13",
+    "note": null
+   },
+   {
+    "name": "MEGAドンキ渋谷別館",
+    "brand": "ドン・キホーテ",
+    "distanceM": 595,
+    "walkMin": 8,
+    "hours": "24時間営業",
+    "address": "東京都渋谷区道玄坂2-25-12",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_list.php?pref=13",
+    "note": null
+   }
+  ]
+ },
+ "drinkDelivery": {
+  "available": true
+ },
+ "photo": {
+  "src": "/images/venues/hikarie-hall.jpg",
+  "credit": "© Syced / CC0 · Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Shibuya_Hikarie_2.jpg"
+ },
+ "checkedAt": "2026-10-30"
+}

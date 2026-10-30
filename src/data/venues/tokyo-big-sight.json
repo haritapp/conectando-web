@@ -1,0 +1,739 @@
+{
+ "slug": "tokyo-big-sight",
+ "nameJa": "東京ビッグサイト（東京国際展示場）",
+ "nameEn": "TOKYO BIG SIGHT (Tokyo International Exhibition Center)",
+ "type": "exhibition",
+ "area": "odaiba-ariake-venues",
+ "address": "〒135-0063 東京都江東区有明3-11-1",
+ "lat": 35.6297628,
+ "lng": 139.7939817,
+ "officialUrl": "https://www.bigsight.jp/",
+ "organizerUrl": "https://www.bigsight.jp/organizer/",
+ "bizintokyoSlug": "tokyo_big_sight",
+ "accessSummary": "ゆりかもめ 東京ビッグサイト駅 徒歩約3分／りんかい線 国際展示場駅 徒歩約7分",
+ "notice": null,
+ "hours": null,
+ "rooms": [
+  {
+   "name": "東1ホール",
+   "areaM2": 8670,
+   "ceilingM": "17-31",
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "約90×90m、床耐荷重5t/㎡、搬出入口4、主催者事務室1、商談室4、休憩更衣室1"
+  },
+  {
+   "name": "東2ホール",
+   "areaM2": 8350,
+   "ceilingM": "17-31",
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "約90×90m、床耐荷重5t/㎡、搬出入口2、主催者事務室1、商談室4、休憩更衣室1"
+  },
+  {
+   "name": "東3ホール",
+   "areaM2": 8670,
+   "ceilingM": "17-31",
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "約90×90m、床耐荷重5t/㎡、搬出入口4、主催者事務室1、商談室4、休憩更衣室1"
+  },
+  {
+   "name": "東4ホール",
+   "areaM2": 8670,
+   "ceilingM": "17-31",
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "約90×90m、床耐荷重5t/㎡、搬出入口4、主催者事務室1、商談室4、休憩更衣室1"
+  },
+  {
+   "name": "東5ホール",
+   "areaM2": 8350,
+   "ceilingM": "17-31",
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "約90×90m、床耐荷重5t/㎡、搬出入口2、主催者事務室1、商談室4、休憩更衣室1"
+  },
+  {
+   "name": "東6ホール",
+   "areaM2": 8670,
+   "ceilingM": "17-31",
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "約90×90m、床耐荷重5t/㎡、搬出入口4、主催者事務室1、商談室4、休憩更衣室1"
+  },
+  {
+   "name": "東7ホール",
+   "areaM2": 11680,
+   "ceilingM": "12-13",
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "床耐荷重5t/㎡、搬出入口4、主催者事務室1（84㎡）、商談室2（55㎡・54㎡）。主催者事務室・商談室の面積は展示施設概要PDFの記載"
+  },
+  {
+   "name": "東8ホール",
+   "areaM2": 3080,
+   "ceilingM": "10-12",
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "床耐荷重5t/㎡、搬出入口2、主催者事務室1（65㎡）、商談室3（各94㎡）。主催者事務室・商談室の面積は展示施設概要PDFの記載"
+  },
+  {
+   "name": "東リンクスペース",
+   "areaM2": 1120,
+   "ceilingM": "10-12",
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "床耐荷重5t/㎡。東7・8ホール利用者が使えるスペース（原則として隣接ホール利用者のみ）"
+  },
+  {
+   "name": "西1ホール",
+   "areaM2": 8880,
+   "ceilingM": 12,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "約（135×45）＋（45×45）m、床耐荷重5t/㎡、搬出入口5、主催者事務室2、商談室7、休憩更衣室1"
+  },
+  {
+   "name": "西2ホール",
+   "areaM2": 8880,
+   "ceilingM": 12,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "約（135×45）＋（45×45）m、床耐荷重5t/㎡、搬出入口5、主催者事務室2、商談室7、休憩更衣室1"
+  },
+  {
+   "name": "西3ホール",
+   "areaM2": 4680,
+   "ceilingM": "13-18",
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "約90×45m、床耐荷重2t/㎡、搬出入口2、主催者事務室1、商談室4、休憩更衣室は西3・4共用。4階（スロープ搬入出）"
+  },
+  {
+   "name": "西4ホール",
+   "areaM2": 6840,
+   "ceilingM": "13-18",
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "約45×135m、床耐荷重2t/㎡、搬出入口4、主催者事務室1、商談室5、休憩更衣室は西3・4共用。4階（スロープ搬入出）"
+  },
+  {
+   "name": "西アトリウム（展示利用可能部分）",
+   "areaM2": 2000,
+   "ceilingM": 23,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "約45×45m、床耐荷重360kg/㎡。アトリウム全体は約5,800㎡、うち2,000㎡が展示・イベント利用可（原則として隣接ホール利用者のみ）"
+  },
+  {
+   "name": "西屋上展示場",
+   "areaM2": 6000,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "屋上へ入る車両は総重量10tまで"
+  },
+  {
+   "name": "南1ホール",
+   "areaM2": 5000,
+   "ceilingM": 12,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "約72×72m、床耐荷重5t/㎡、搬出入口3、主催者事務室1、商談室4"
+  },
+  {
+   "name": "南2ホール",
+   "areaM2": 5000,
+   "ceilingM": 12,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "約72×72m、床耐荷重5t/㎡、搬出入口2、主催者事務室1、商談室6"
+  },
+  {
+   "name": "南3ホール",
+   "areaM2": 5000,
+   "ceilingM": "13-18",
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "約72×72m、床耐荷重2t/㎡、搬出入口3、主催者事務室1、商談室7"
+  },
+  {
+   "name": "南4ホール",
+   "areaM2": 5000,
+   "ceilingM": "13-18",
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "約72×72m、床耐荷重2t/㎡、搬出入口2、主催者事務室1、商談室8"
+  },
+  {
+   "name": "南会議室A",
+   "areaM2": 170,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "南1ホール横。原則として展示ホール利用者のみ。机・椅子・特殊設備は利用者側で用意"
+  },
+  {
+   "name": "南会議室B",
+   "areaM2": 220,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "南1ホール横。可動間仕切りでA+B＝390㎡として利用可"
+  },
+  {
+   "name": "東VIPルーム",
+   "areaM2": 90,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "東1ホール横。展示ホール利用者のみ。利用時間は朝7時〜最長21時（終夜貸出不可）"
+  },
+  {
+   "name": "国際会議場（7階）",
+   "areaM2": 1030,
+   "ceilingM": 10,
+   "theater": 1000,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "固定席。8ヶ国語同時通訳設備。主催者事務室2室（各20㎡）・講演者控室12室（各25㎡）が付属（料金には2室利用を含む）"
+  },
+  {
+   "name": "レセプションホール A+B（1階）",
+   "areaM2": 1700,
+   "ceilingM": "8.8-12.2",
+   "theater": 1100,
+   "school": 882,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "せり上がり式ステージ・音響照明・同時通訳。A・B各700㎡で分割利用可（半面：シアター500・スクール420）。控室A（35㎡）・B（40㎡）付属"
+  },
+  {
+   "name": "701会議室",
+   "areaM2": 80,
+   "ceilingM": "3.7-4.2",
+   "theater": 50,
+   "school": 45,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": null
+  },
+  {
+   "name": "702会議室",
+   "areaM2": 80,
+   "ceilingM": "3.7-4.2",
+   "theater": 50,
+   "school": 45,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": null
+  },
+  {
+   "name": "701+702会議室",
+   "areaM2": 150,
+   "ceilingM": "3.7-4.2",
+   "theater": 120,
+   "school": 99,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": null
+  },
+  {
+   "name": "703会議室",
+   "areaM2": 150,
+   "ceilingM": "3.7-4.2",
+   "theater": 120,
+   "school": 99,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": null
+  },
+  {
+   "name": "601会議室",
+   "areaM2": 80,
+   "ceilingM": "3.7-4.2",
+   "theater": 40,
+   "school": 36,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": null
+  },
+  {
+   "name": "602会議室",
+   "areaM2": 55,
+   "ceilingM": "3.7-4.2",
+   "theater": 20,
+   "school": 18,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": null
+  },
+  {
+   "name": "603会議室",
+   "areaM2": 55,
+   "ceilingM": "3.7-4.2",
+   "theater": 20,
+   "school": 18,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": null
+  },
+  {
+   "name": "604会議室",
+   "areaM2": 80,
+   "ceilingM": "3.7-4.2",
+   "theater": 40,
+   "school": 36,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": null
+  },
+  {
+   "name": "605会議室",
+   "areaM2": 190,
+   "ceilingM": "3.7-4.2",
+   "theater": 144,
+   "school": 126,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": null
+  },
+  {
+   "name": "606会議室",
+   "areaM2": 190,
+   "ceilingM": "3.7-4.2",
+   "theater": 144,
+   "school": 126,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": null
+  },
+  {
+   "name": "607会議室",
+   "areaM2": 190,
+   "ceilingM": "3.7-4.2",
+   "theater": 144,
+   "school": 126,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": null
+  },
+  {
+   "name": "608会議室",
+   "areaM2": 190,
+   "ceilingM": "3.7-4.2",
+   "theater": 144,
+   "school": 126,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": null
+  },
+  {
+   "name": "609会議室",
+   "areaM2": 135,
+   "ceilingM": "3.7-4.2",
+   "theater": 100,
+   "school": 72,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": null
+  },
+  {
+   "name": "610会議室",
+   "areaM2": 135,
+   "ceilingM": "3.7-4.2",
+   "theater": 100,
+   "school": 72,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": null
+  },
+  {
+   "name": "605+606会議室",
+   "areaM2": 380,
+   "ceilingM": "3.7-4.2",
+   "theater": 306,
+   "school": 252,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "連結利用。最大収容者数一覧PDF（2022年版）の値"
+  },
+  {
+   "name": "607+608会議室",
+   "areaM2": 380,
+   "ceilingM": "3.7-4.2",
+   "theater": 306,
+   "school": 252,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "連結利用。最大収容者数一覧PDF（2022年版）の値"
+  },
+  {
+   "name": "605〜608会議室（全体）",
+   "areaM2": 760,
+   "ceilingM": "3.7-4.2",
+   "theater": 612,
+   "school": 504,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "連結利用。最大収容者数一覧PDF（2022年版）の値"
+  },
+  {
+   "name": "801会議室",
+   "areaM2": 75,
+   "ceilingM": "3.7-4.5",
+   "theater": 56,
+   "school": 42,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": null
+  },
+  {
+   "name": "802会議室",
+   "areaM2": 100,
+   "ceilingM": "3.7-4.2",
+   "theater": 60,
+   "school": 54,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": null
+  },
+  {
+   "name": "803会議室",
+   "areaM2": 35,
+   "ceilingM": 3.7,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "固定席"
+  },
+  {
+   "name": "804会議室",
+   "areaM2": 55,
+   "ceilingM": "3.7-4.5",
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "固定席"
+  },
+  {
+   "name": "805特別応接室",
+   "areaM2": 85,
+   "ceilingM": "3.7-4.5",
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "固定席"
+  },
+  {
+   "name": "101会議室",
+   "areaM2": 180,
+   "ceilingM": "3.7-4.2",
+   "theater": 144,
+   "school": 100,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": null
+  },
+  {
+   "name": "102会議室",
+   "areaM2": 180,
+   "ceilingM": "3.7-4.2",
+   "theater": 144,
+   "school": 100,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": null
+  },
+  {
+   "name": "103会議室",
+   "areaM2": 35,
+   "ceilingM": 2.5,
+   "theater": 18,
+   "school": 18,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": null
+  },
+  {
+   "name": "104会議室",
+   "areaM2": 50,
+   "ceilingM": 2.5,
+   "theater": 28,
+   "school": 24,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": null
+  },
+  {
+   "name": "103+104会議室",
+   "areaM2": 90,
+   "ceilingM": 2.5,
+   "theater": 48,
+   "school": 45,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "連結利用。最大収容者数一覧PDF（2022年版）の値"
+  }
+ ],
+ "roomsSource": "https://www.bigsight.jp/organizer/facilities/east.html",
+ "ops": {
+  "catering": {
+   "text": "展示ホール内で飲食行為を行う場合は江東区保健所への届出と許可が必要で、「展示会概要」への記載も求められる（出展者が自社小間で茶菓子程度を出す場合は届出不要）。会議棟では場内レストラン（日比谷マツモトロー 50名〜、香港飲茶楼 ル・パルク 50〜1,000名）やホテル等の登録業者によるケータリングなら、登録業者の設営時間は利用時間に含まれず、パントリー利用料・テーブル料金がかからない。外部業者のケータリングも可能だが、設営・撤去時間を含めて申込み、パントリー・丸テーブル・バーカウンターは有料、保健所への営業許可申請が必要。国際会議場は原則飲食禁止（弁当の持込のみ条件付きで相談可）。（出典：会議施設利用の手引き PDF 2025年9月現在、展示施設利用の手引き PDF 2026年10月現在）",
+   "source": "https://www.bigsight.jp/organizer/download/pdf/guidance_conference.pdf"
+  },
+  "restaurants": {
+   "text": "レストラン街（1階：カフェテリアマーメイド、うどんとおむすび大吉、日比谷マツモトロー、スターバックス）、会議棟（1階フードコート&ビアー Eat iT！、2階タリーズ・プロント、8階イタリアン アルポルト）、東展示棟（2階 東京ベイキッチン ほか和洋食、3階 香港飲茶楼 ル・パルク）、西展示棟（2階 カフェテラス ロイヤル）、南展示棟（3・4階の軽食）がある。パーティー・懇親会は、日比谷マツモトロー（レストラン街、160席、予約1週間前まで）、Eat iT！（会議棟、422席、1名3,500円〜税抜、1週間前まで）、アルポルト（会議棟8階、着席30〜50名・立食30〜100名、1名6,600円〜・最低保証30万円以上、1ヶ月前まで）、ル・パルク（東棟3階、着席〜100名・立食〜200名、1ヶ月前まで）で承っている。（出典：公式サイト 2026年10月取得）",
+   "source": "https://www.bigsight.jp/visitor/services/food/party.html"
+  },
+  "prevDaySetup": {
+   "text": "展示ホールは24時間利用可能で、料金は1日（0:00〜24:00）または半日（0:00〜12:00／12:00〜24:00）単位。最短の貸出しは1日からで、1.5日・2.5日の貸出しも可能（半日分は1日料金の半額）。会議棟の国際会議場とレセプションホールは、準備またはリハーサルのみで利用する場合（開催日以外）の利用料金が半額になり、会議室の利用可能時間は8:00〜22:00（準備・撤去を含み最終終了22時）。",
+   "source": "https://www.bigsight.jp/organizer/guide/price/exhibition.html"
+  },
+  "waitingRooms": {
+   "text": "展示ホールには主催者事務室・商談室（個別商談や控室等に利用可）・休憩更衣室が付属し、室数はホールごとに異なる（東1ホール：主催者事務室1・商談室4・休憩更衣室1、西1・2ホール：主催者事務室各2・商談室各7、南1〜4ホール：主催者事務室各1・商談室4〜8）。会議棟の国際会議場には主催者事務室2室（各20㎡）・講演者控室12室（各25㎡）が付属し、料金にはそのうち2室の利用が含まれる。レセプションホールには控室A（35㎡）・B（40㎡）が付属する。",
+   "source": "https://www.bigsight.jp/organizer/facilities/conference/"
+  },
+  "loadingHours": {
+   "text": "展示ホールは24時間利用可能。自動扉の開放は通常8時〜20時で、それ以外は夜間通用口を使い、8時前・20時以降に動線が必要な場合は事前相談（警備員配置など主催者側の入館管理が条件）。搬出入口は東1〜8ホールで各2〜4か所、西1・2ホール各5・西3ホール2・西4ホール4、南1〜4ホール各2〜3か所で、シャッター寸法は手引き図4〜6に掲載（例：東1〜3ホール側は間口7.2m×高さ4.9〜5.8mと間口9.2m×高さ8.0m、東7・8ホール側は間口7.4m×高さ5.9m）。「展示会概要」「待機場利用申込書」「ターミナル利用申込書」などは搬入開始日の1ヵ月前まで、警察への催物開催届出は搬入開始10日前までに提出。会議棟は中央ターミナルの搬入口①〜③から搬入する。（出典：展示施設利用の手引き PDF 2026年10月現在、提出書類一覧 PDF 2026年10月改訂、会議施設利用の手引き PDF 2025年9月現在）",
+   "source": "https://www.bigsight.jp/organizer/download/pdf/guidance_hall.pdf"
+  },
+  "parking": {
+   "text": "展示ホールのトラックヤードに関係者用駐車場があり、不足時は有料駐車場を利用する。会議棟地下62台（高さ2.5m・幅1.9m・長さ5.3m・重量2.5t）、東棟地下189台（高さ2.1m・幅1.9m・長さ5.3m・重量2.5t）、南棟立体349台（高さ2.1m・幅1.9m・長さ5.0m・重量2.5t）は8:00〜22:00、普通車250円/30分・1日最大2,000円（税込）。臨時駐車場は東棟屋外（最大1,932台、7:00〜23:00、普通車1日最大1,500円）、有明東（330台）、東雲（514台）があり、有明東・東雲は8:00〜23:00、普通車1,500円/回・大型車4,000円/回（16時以降500円）。夜間の留置きはできない。（出典：展示施設利用の手引き PDF、2026年10月現在）",
+   "source": "https://www.bigsight.jp/organizer/download/pdf/guidance_hall.pdf"
+  },
+  "vehicleRules": {
+   "text": "展示ホール内ではフォークリフト等の留め置きは禁止で、作業終了後は車両を速やかに移動し、会場周辺道路への駐車は禁止（所定の待機場・ホールのトラックヤード・指定駐車場のみ）。有料の車両待機場（例：東棟屋外のAブロック全面14,900㎡＝671,000円、Eブロック2,800㎡＝126,000円、いずれも税抜）の利用は当社との調整のうえ「待機場利用申込書」（搬入開始日の1ヵ月前まで）と警備配置図面を提出する。重量制限は、東1〜8・西1・2・南1・2ホールが総重量45t超の車両は入場不可、西3・4・南3・4ホールのスロープと西屋上展示場は総重量10tまで。会議棟は中央ターミナルへの一般車両の入構は原則不可で「中央ターミナル搬入出届出書」を事前提出し、ターミナル内の留め置きはできない。（出典：展示施設利用の手引き PDF 2026年10月現在、会議施設利用の手引き PDF 2025年9月現在）",
+   "source": "https://www.bigsight.jp/organizer/download/pdf/guidance_hall.pdf"
+  }
+ },
+ "documents": [
+  {
+   "title": "展示施設利用の手引き",
+   "url": "https://www.bigsight.jp/organizer/download/pdf/guidance_hall.pdf"
+  },
+  {
+   "title": "会議施設利用の手引き",
+   "url": "https://www.bigsight.jp/organizer/download/pdf/guidance_conference.pdf"
+  },
+  {
+   "title": "共用部分利用規程",
+   "url": "https://www.bigsight.jp/organizer/download/pdf/common_regulations.pdf"
+  },
+  {
+   "title": "展示施設利用案内（利用規程）",
+   "url": "https://www.bigsight.jp/organizer/download/pdf/temji_annai_02.pdf"
+  },
+  {
+   "title": "会議施設利用案内（利用規程）",
+   "url": "https://www.bigsight.jp/organizer/download/pdf/kaigi_annai_02.pdf"
+  },
+  {
+   "title": "施設利用料金表",
+   "url": "https://www.bigsight.jp/organizer/download/pdf/price_list.pdf"
+  },
+  {
+   "title": "提出書類一覧（展示施設）",
+   "url": "https://www.bigsight.jp/organizer/download/pdf/list_documents.pdf"
+  },
+  {
+   "title": "展示施設概要",
+   "url": "https://www.bigsight.jp/organizer/download/pdf/Facility_all_page.pdf"
+  },
+  {
+   "title": "会議棟基本レイアウト",
+   "url": "https://www.bigsight.jp/organizer/download/pdf/C_layout.pdf"
+  },
+  {
+   "title": "各会議施設の最大収容者数一覧",
+   "url": "https://www.bigsight.jp/organizer/facilities/conference/pdf/eventguide_conference.pdf"
+  },
+  {
+   "title": "主催者向けダウンロード一覧",
+   "url": "https://www.bigsight.jp/organizer/download/"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "セブン-イレブン ROYAL東京ビッグサイト店",
+    "brand": "セブン-イレブン",
+    "distanceM": 0,
+    "walkMin": 1,
+    "hours": "7:00-18:00（毎日・祝日含む）",
+    "address": "東京都江東区有明3-11-1",
+    "verified": true,
+    "source": "https://seven-eleven.areamarker.com/711map/info/509962",
+    "note": null
+   },
+   {
+    "name": "ファミリーマート 東京ビッグサイト駅店",
+    "brand": "ファミリーマート",
+    "distanceM": 95,
+    "walkMin": 2,
+    "hours": "7:00-22:00",
+    "address": "東京都江東区有明三丁目6番15号先",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/58756",
+    "note": null
+   },
+   {
+    "name": "ファミリーマート 有明フロンティア店",
+    "brand": "ファミリーマート",
+    "distanceM": 125,
+    "walkMin": 2,
+    "hours": "24時間",
+    "address": "東京都江東区有明3-7-26-106",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/26539",
+    "note": null
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Can★Do ワンザ有明店",
+    "brand": "キャンドゥ",
+    "distanceM": 136,
+    "walkMin": 2,
+    "hours": "10:00-19:30（毎日）",
+    "address": "東京都江東区有明3-6-11 TFTビル東館2階",
+    "verified": true,
+    "source": "https://shopinfo.cando-web.co.jp/東京都/江東区/",
+    "note": null
+   },
+   {
+    "name": "DAISO 有明ガーデン店",
+    "brand": "ダイソー",
+    "distanceM": 817,
+    "walkMin": 11,
+    "hours": "10:00-21:00",
+    "address": "東京都江東区有明2-1-8 有明ガーデン3階",
+    "verified": true,
+    "source": "https://www.daiso-sangyo.co.jp/shop/detail/002129",
+    "note": null
+   }
+  ],
+  "donki": [
+   {
+    "name": "キラキラドンキ ダイバーシティ東京 プラザ店（ドン・キホーテ系列。化粧品主体の業態）",
+    "brand": "ドン・キホーテ",
+    "distanceM": 1755,
+    "walkMin": 22,
+    "hours": "10:00-21:00（公式に「平日11:00-20:00」の営業時間変更のお知らせあり）",
+    "address": "東京都江東区青海1-1-10 ダイバーシティ東京 プラザ2階",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_list.php?pref=13",
+    "note": null
+   }
+  ]
+ },
+ "drinkDelivery": {
+  "available": true
+ },
+ "photo": {
+  "src": "/images/venues/tokyo-big-sight.jpg",
+  "credit": "© Morio / CC BY-SA 3.0 · Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:20030727_27_July_2003_Tokyo_International_Exhibition_Center_Big_Sight_Odaiba_Tokyo_Japan.jpg"
+ },
+ "checkedAt": "2026-10-30"
+}

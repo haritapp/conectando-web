@@ -1,0 +1,803 @@
+{
+ "slug": "tokyo-international-forum",
+ "nameJa": "東京国際フォーラム",
+ "nameEn": "Tokyo International Forum",
+ "type": "conference",
+ "area": "yurakucho-ginza-venues",
+ "address": "〒100-0005 東京都千代田区丸の内3丁目5番1号",
+ "lat": 35.6767901,
+ "lng": 139.7635414,
+ "officialUrl": "https://www.t-i-forum.co.jp/",
+ "organizerUrl": "https://www.t-i-forum.co.jp/organizer/",
+ "bizintokyoSlug": "international_forum",
+ "accessSummary": "JR有楽町駅 徒歩1分／JR東京駅 徒歩5分（京葉線東京駅とは地下1階コンコースで連絡）／東京メトロ有楽町線 有楽町駅（地下1階コンコースで連絡）",
+ "notice": null,
+ "hours": null,
+ "rooms": [
+  {
+   "name": "ホールA",
+   "areaM2": null,
+   "ceilingM": null,
+   "theater": 5012,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "固定席・劇場形式2層式。1階席3,025（オーケストラピット使用時2,926）・2階席1,987。舞台 幅57.7m×奥行16m、16ヶ国語同時通訳設備"
+  },
+  {
+   "name": "ホールC",
+   "areaM2": null,
+   "ceilingM": null,
+   "theater": 1502,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "固定席・劇場形式3層式。1階席739（ピット使用時653）・2階363・3階400。舞台 幅43m×奥行15m、8ヶ国語同時通訳設備"
+  },
+  {
+   "name": "ホールB7",
+   "areaM2": 1400,
+   "ceilingM": 7.0,
+   "theater": 1200,
+   "school": 612,
+   "ushape": null,
+   "standing": 900,
+   "banquet": 560,
+   "note": "平土間約37.5m×37.5m、ポスター展示502面・小間展示98小間、2分割可、16ヶ国語同時通訳"
+  },
+  {
+   "name": "ホールB7（1）",
+   "areaM2": 670,
+   "ceilingM": 7.0,
+   "theater": 600,
+   "school": 306,
+   "ushape": null,
+   "standing": 400,
+   "banquet": 240,
+   "note": "2分割利用時。ポスター154面・小間51小間"
+  },
+  {
+   "name": "ホールB7（2）",
+   "areaM2": 670,
+   "ceilingM": 7.0,
+   "theater": 600,
+   "school": 306,
+   "ushape": null,
+   "standing": 400,
+   "banquet": 232,
+   "note": "2分割利用時。ポスター261面・小間43小間"
+  },
+  {
+   "name": "ホールB5",
+   "areaM2": 600,
+   "ceilingM": 6.8,
+   "theater": 480,
+   "school": 312,
+   "ushape": 126,
+   "standing": 350,
+   "banquet": 216,
+   "note": "平土間25m×24m、ポスター展示252面、厨房設備あり、2分割可"
+  },
+  {
+   "name": "ホールB5（1）",
+   "areaM2": 280,
+   "ceilingM": 6.8,
+   "theater": 210,
+   "school": 120,
+   "ushape": 84,
+   "standing": 120,
+   "banquet": 104,
+   "note": "2分割利用時。ポスター93面"
+  },
+  {
+   "name": "ホールB5（2）",
+   "areaM2": 300,
+   "ceilingM": 6.8,
+   "theater": 225,
+   "school": 120,
+   "ushape": 84,
+   "standing": 130,
+   "banquet": 104,
+   "note": "2分割利用時。ポスター96面"
+  },
+  {
+   "name": "ホールD7",
+   "areaM2": 340,
+   "ceilingM": 6.7,
+   "theater": 240,
+   "school": 147,
+   "ushape": 84,
+   "standing": 200,
+   "banquet": 112,
+   "note": "平土間、ポスター展示114面、引出し式収納席100/180席、荷物用エレベーターあり、7階（専用ロビー6階）"
+  },
+  {
+   "name": "ホールD5",
+   "areaM2": 285,
+   "ceilingM": 6.35,
+   "theater": 200,
+   "school": 120,
+   "ushape": 72,
+   "standing": 150,
+   "banquet": 99,
+   "note": "16.5m×17.2m、ポスター展示107面、5階。D502・D503会議室を控室等に利用可"
+  },
+  {
+   "name": "ホールD1",
+   "areaM2": 137,
+   "ceilingM": 4.7,
+   "theater": 140,
+   "school": 79,
+   "ushape": 48,
+   "standing": null,
+   "banquet": null,
+   "note": "13.7m×10m、1階"
+  },
+  {
+   "name": "ホールE",
+   "areaM2": 5000,
+   "ceilingM": 9.0,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": 3000,
+   "banquet": 1328,
+   "note": "地下2階。小間展示（2m×3m）241小間・（3m×3m）187小間、ポスター1,022面、島組み1,956人。床耐荷重1.0t/㎡、展示用電源1,736KVA。2分割可（E1 3,000㎡／E2 2,000㎡）"
+  },
+  {
+   "name": "ホールE1",
+   "areaM2": 3000,
+   "ceilingM": 9.0,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": 1800,
+   "banquet": 768,
+   "note": "分割利用時。小間147/115、ポスター655面、島組み1,236人"
+  },
+  {
+   "name": "ホールE2",
+   "areaM2": 2000,
+   "ceilingM": 9.0,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": 1200,
+   "banquet": 456,
+   "note": "分割利用時。小間102/72、ポスター367面、島組み720人"
+  },
+  {
+   "name": "ロビーギャラリー",
+   "areaM2": 700,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "全面利用。分割利用は各350㎡。ホールE・ガラス棟会議室等との併用で「ロビーギャラリーEX」800㎡"
+  },
+  {
+   "name": "ラウンジ",
+   "areaM2": 224,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": null
+  },
+  {
+   "name": "地上広場A（全体）",
+   "areaM2": 880,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "屋外・約880㎡。A-1 約530㎡／A-2 約350㎡に分割可。利用時間8:00〜23:00"
+  },
+  {
+   "name": "地上広場B（全体）",
+   "areaM2": 670,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "屋外・約670㎡。B-1 約350㎡／B-2 約320㎡に分割可"
+  },
+  {
+   "name": "地上広場C",
+   "areaM2": 380,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "屋外・約380㎡"
+  },
+  {
+   "name": "地上広場D",
+   "areaM2": 160,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "屋外・約160㎡"
+  },
+  {
+   "name": "D401会議室",
+   "areaM2": 49,
+   "ceilingM": 3.0,
+   "theater": 30,
+   "school": 18,
+   "ushape": 24,
+   "standing": null,
+   "banquet": null,
+   "note": "ホールと併せて利用する場合限定"
+  },
+  {
+   "name": "D502会議室",
+   "areaM2": 41,
+   "ceilingM": 3.0,
+   "theater": 30,
+   "school": 12,
+   "ushape": 18,
+   "standing": null,
+   "banquet": null,
+   "note": "ホールD5利用者限定"
+  },
+  {
+   "name": "D503会議室",
+   "areaM2": 41,
+   "ceilingM": 3.0,
+   "theater": 30,
+   "school": 12,
+   "ushape": 18,
+   "standing": null,
+   "banquet": null,
+   "note": "ホールD5利用者限定"
+  },
+  {
+   "name": "G401会議室",
+   "areaM2": 52,
+   "ceilingM": 2.7,
+   "theater": 40,
+   "school": 24,
+   "ushape": 24,
+   "standing": 20,
+   "banquet": null,
+   "note": null
+  },
+  {
+   "name": "G402会議室",
+   "areaM2": 142,
+   "ceilingM": 2.7,
+   "theater": 130,
+   "school": 81,
+   "ushape": 60,
+   "standing": 80,
+   "banquet": null,
+   "note": null
+  },
+  {
+   "name": "G403会議室",
+   "areaM2": 56,
+   "ceilingM": 2.7,
+   "theater": 40,
+   "school": 24,
+   "ushape": 24,
+   "standing": 30,
+   "banquet": null,
+   "note": null
+  },
+  {
+   "name": "G404会議室",
+   "areaM2": 82,
+   "ceilingM": 2.7,
+   "theater": 60,
+   "school": 36,
+   "ushape": 30,
+   "standing": 40,
+   "banquet": null,
+   "note": null
+  },
+  {
+   "name": "G405会議室",
+   "areaM2": 85,
+   "ceilingM": 2.7,
+   "theater": 70,
+   "school": 45,
+   "ushape": 36,
+   "standing": 40,
+   "banquet": null,
+   "note": null
+  },
+  {
+   "name": "G406会議室",
+   "areaM2": 42,
+   "ceilingM": 2.7,
+   "theater": null,
+   "school": null,
+   "ushape": 14,
+   "standing": null,
+   "banquet": null,
+   "note": "机・椅子のレイアウト変更不可（展示利用不可）"
+  },
+  {
+   "name": "G407会議室",
+   "areaM2": 87,
+   "ceilingM": 2.7,
+   "theater": 70,
+   "school": 45,
+   "ushape": 36,
+   "standing": 40,
+   "banquet": null,
+   "note": null
+  },
+  {
+   "name": "G408会議室",
+   "areaM2": 80,
+   "ceilingM": 2.7,
+   "theater": 60,
+   "school": 36,
+   "ushape": 30,
+   "standing": 40,
+   "banquet": null,
+   "note": null
+  },
+  {
+   "name": "G409会議室",
+   "areaM2": 206,
+   "ceilingM": 2.7,
+   "theater": 168,
+   "school": 120,
+   "ushape": 72,
+   "standing": 100,
+   "banquet": null,
+   "note": null
+  },
+  {
+   "name": "G410会議室",
+   "areaM2": 73,
+   "ceilingM": 2.7,
+   "theater": 50,
+   "school": 36,
+   "ushape": 30,
+   "standing": null,
+   "banquet": null,
+   "note": null
+  },
+  {
+   "name": "G501会議室",
+   "areaM2": 36,
+   "ceilingM": 2.7,
+   "theater": 24,
+   "school": 12,
+   "ushape": 18,
+   "standing": null,
+   "banquet": null,
+   "note": null
+  },
+  {
+   "name": "G502会議室",
+   "areaM2": 144,
+   "ceilingM": 2.7,
+   "theater": 130,
+   "school": 81,
+   "ushape": 60,
+   "standing": 80,
+   "banquet": null,
+   "note": null
+  },
+  {
+   "name": "G503会議室",
+   "areaM2": 39,
+   "ceilingM": 2.7,
+   "theater": 24,
+   "school": 12,
+   "ushape": 18,
+   "standing": 20,
+   "banquet": null,
+   "note": null
+  },
+  {
+   "name": "G504会議室",
+   "areaM2": 57,
+   "ceilingM": 2.7,
+   "theater": 36,
+   "school": 24,
+   "ushape": 30,
+   "standing": 30,
+   "banquet": null,
+   "note": null
+  },
+  {
+   "name": "G505会議室",
+   "areaM2": 61,
+   "ceilingM": 2.7,
+   "theater": 36,
+   "school": 30,
+   "ushape": 30,
+   "standing": 30,
+   "banquet": null,
+   "note": null
+  },
+  {
+   "name": "G506会議室",
+   "areaM2": 26,
+   "ceilingM": 2.7,
+   "theater": null,
+   "school": null,
+   "ushape": 12,
+   "standing": null,
+   "banquet": null,
+   "note": "机・椅子のレイアウト変更不可（展示利用不可）"
+  },
+  {
+   "name": "G507会議室",
+   "areaM2": 57,
+   "ceilingM": 2.7,
+   "theater": 36,
+   "school": 24,
+   "ushape": 30,
+   "standing": 30,
+   "banquet": null,
+   "note": null
+  },
+  {
+   "name": "G508会議室",
+   "areaM2": 59,
+   "ceilingM": 2.7,
+   "theater": 36,
+   "school": 24,
+   "ushape": 30,
+   "standing": 30,
+   "banquet": null,
+   "note": null
+  },
+  {
+   "name": "G509会議室",
+   "areaM2": 39,
+   "ceilingM": 2.7,
+   "theater": 24,
+   "school": 12,
+   "ushape": 18,
+   "standing": 20,
+   "banquet": null,
+   "note": null
+  },
+  {
+   "name": "G510会議室",
+   "areaM2": 144,
+   "ceilingM": 2.7,
+   "theater": 130,
+   "school": 81,
+   "ushape": 60,
+   "standing": 80,
+   "banquet": null,
+   "note": null
+  },
+  {
+   "name": "G601会議室",
+   "areaM2": 36,
+   "ceilingM": 2.7,
+   "theater": 24,
+   "school": 12,
+   "ushape": 18,
+   "standing": null,
+   "banquet": null,
+   "note": null
+  },
+  {
+   "name": "G602会議室",
+   "areaM2": 144,
+   "ceilingM": 2.7,
+   "theater": 130,
+   "school": 81,
+   "ushape": 60,
+   "standing": 80,
+   "banquet": null,
+   "note": null
+  },
+  {
+   "name": "G603会議室",
+   "areaM2": 39,
+   "ceilingM": 2.7,
+   "theater": 24,
+   "school": 12,
+   "ushape": 18,
+   "standing": 20,
+   "banquet": null,
+   "note": null
+  },
+  {
+   "name": "G604会議室",
+   "areaM2": 57,
+   "ceilingM": 2.7,
+   "theater": 36,
+   "school": 24,
+   "ushape": 30,
+   "standing": 30,
+   "banquet": null,
+   "note": null
+  },
+  {
+   "name": "G605会議室",
+   "areaM2": 61,
+   "ceilingM": 2.7,
+   "theater": 36,
+   "school": 30,
+   "ushape": 30,
+   "standing": 30,
+   "banquet": null,
+   "note": null
+  },
+  {
+   "name": "G606会議室",
+   "areaM2": 26,
+   "ceilingM": 2.7,
+   "theater": null,
+   "school": null,
+   "ushape": 12,
+   "standing": null,
+   "banquet": null,
+   "note": "机・椅子のレイアウト変更不可（展示利用不可）"
+  },
+  {
+   "name": "G607会議室",
+   "areaM2": 57,
+   "ceilingM": 2.7,
+   "theater": 36,
+   "school": 24,
+   "ushape": 30,
+   "standing": 30,
+   "banquet": null,
+   "note": null
+  },
+  {
+   "name": "G608会議室",
+   "areaM2": 59,
+   "ceilingM": 2.7,
+   "theater": 36,
+   "school": 24,
+   "ushape": 30,
+   "standing": 30,
+   "banquet": null,
+   "note": null
+  },
+  {
+   "name": "G609会議室",
+   "areaM2": 39,
+   "ceilingM": 2.7,
+   "theater": 24,
+   "school": 12,
+   "ushape": 18,
+   "standing": 20,
+   "banquet": null,
+   "note": null
+  },
+  {
+   "name": "G610会議室",
+   "areaM2": 144,
+   "ceilingM": 2.7,
+   "theater": 130,
+   "school": 81,
+   "ushape": 60,
+   "standing": 80,
+   "banquet": null,
+   "note": null
+  },
+  {
+   "name": "G701会議室",
+   "areaM2": 200,
+   "ceilingM": 2.7,
+   "theater": 190,
+   "school": 102,
+   "ushape": 78,
+   "standing": 100,
+   "banquet": null,
+   "note": "専用控室（22.6㎡）付属"
+  }
+ ],
+ "roomsSource": "https://www.t-i-forum.co.jp/mt_images/facilities/price_list_01.pdf",
+ "ops": {
+  "catering": {
+   "text": "館内への飲食のお持込は、食品衛生管理上お断りしており、飲食の提供は指定会社に限定される（ホールA・ホールCの客席内への飲食持込、調理行為も禁止）。ケータリングは館内のセントラルキッチンから直接届ける形で、パーティーメニュー、お弁当、朝昼夕食、軽食・飲料があり、会議室単独利用向けの限定メニューもある。ケータリングサービス申込書は2週間前までに提出する。ホールEは電気・給排水ピットがあり、調理や飲食を伴う出展も可能だが、東京国際フォーラムの飲食物持ち込みルールと千代田保健所の指導に従う必要がある。（出典：施設利用案内 2025年9月現在、ご予約後の提出書類）",
+   "source": "https://www.t-i-forum.co.jp/organizer/service/catering/"
+  },
+  "restaurants": {
+   "text": "館内にはガラス棟7階の東天紅（中国料理）と、地下1階のシズラー・サイゴン（ベトナム料理）・パパミラノ（イタリア料理）・酒蔵レストラン宝・プロントがあり、いずれもパーティメニューを用意している。そのほか1階のはま寿司、各カフェ・ファミリーマートなどがある。ガラス棟会議室では、帝国ホテルのシェフによるビュッフェ形式の個室パーティープラン（フリードリンク・室料・税・サービス料込み）も利用できる。（出典：公式サイト ショップ&レストラン 2026年10月取得）",
+   "source": "https://www.t-i-forum.co.jp/visitors/shop/"
+  },
+  "prevDaySetup": {
+   "text": "利用時間は準備・撤去を含む入館から退館までで、基本利用時間はホールAが9〜23時、ホールB7・B5・C・D7・D5・D1・Eが9〜22時、会議室が9〜21時（延長は1時間単位、深夜・早朝は事前相談）。開催日とは別の日に準備・撤去・リハーサルだけで使う場合は専用の「準備・撤去・リハーサル」料金が適用される（例：ホールA 平日全日 2,484,240円［本番 4,140,400円］、ホールB7 平日全日 1,201,200円［本番 2,002,000円］、税込）。本番当日の準備・撤去・リハーサルは本番料金になり、ホールEの冷暖房は準備・撤去利用日のみ別料金（冷房35,200円/時、暖房27,500円/時）。（出典：施設利用案内 2025年9月現在、収容人数・利用料金一覧 PDF）",
+   "source": "https://www.t-i-forum.co.jp/organizer/facilities_guide/hall/"
+  },
+  "waitingRooms": {
+   "text": "ホールAは楽屋・控室・VIP控室を備え、楽屋・控室等の付帯施設使用料はホール利用料金に含まれる（ホールCも楽屋・控室あり、同様に利用料金に含まれる）。ホールB7・B5・D7・D1にも控室（B7・D7は楽屋・控室）があり、ホールD7は同フロアに楽屋・控室が6室、ホールD5はロビーにつづく会議室2室を控室としても使える。ホールEは主催者控室を備え、ガラス棟会議室ではG701のみ専用控室（22.6㎡）が付属する。",
+   "source": "https://www.t-i-forum.co.jp/organizer/facilities/d7/"
+  },
+  "loadingHours": {
+   "text": "開館は7:00〜23:30で、閉館後・開館前（23:30〜翌7:00）は1階の夜間通用口を使い、催事関係者は「関係者バッジ」を着用する。搬入車両はガラス棟1階JR有楽町駅側の「一般駐車場・荷捌場入口」から入り、地下2階で一般車両（地下3階へ）と分かれて、地下2階荷捌場の施設ごとの専用スペースへ進む。「搬入・搬出計画書」と「搬入出車両証」は1週間前まで、設営・撤去時の会場管理計画書は10日前までに提出する。ホールD7には荷物用エレベーターがある。（出典：荷捌場・駐車場入口・関係者入口ページ、ご予約後の提出書類ページ）",
+   "source": "https://www.t-i-forum.co.jp/access/carry/"
+  },
+  "parking": {
+   "text": "地下3階の駐車場は普通乗用車417台（うち身障者用7台、EV急速充電専用2台、EV普通充電優先10台）とオートバイ10台で、営業時間は7:00〜23:30（年中無休、時間外の入出庫不可）。対象は高さ2.2m・幅1.9m・長さ5.4m以内の普通乗用車で、大型バス・トラック・自転車は駐車不可。料金は普通乗用車200円/30分（平日の5時間超〜10時間は2,000円の長時間割引あり）、主催者向けに2時間利用券（通常800円）を1枚700円で販売している。（出典：駐車場ページ、開催支援サービス その他サービス 2026年10月取得）",
+   "source": "https://www.t-i-forum.co.jp/access/parking/"
+  },
+  "vehicleRules": {
+   "text": "荷捌場に車両は留置できず、留置が必要な場合は地下3階駐車場（有料）を使う。荷捌場の入場には「搬入出車両証」が必要でフロントガラスに掲示し、荷捌きスペースは利用施設ごとに異なるため「搬入・搬出計画書」を事前に提出する。地下3階の一般駐車場は高さ2.2m・幅1.9m・長さ5.4m以内の普通乗用車のみ。参加者送迎バスの乗降はガラス棟東京駅側のバス乗降場を使い、「バス乗降場利用届」を2週間前までに提出する（事前に営業担当へ相談）。",
+   "source": "https://www.t-i-forum.co.jp/access/carry/"
+  }
+ },
+ "documents": [
+  {
+   "title": "施設利用案内（利用規程）",
+   "url": "https://www.t-i-forum.co.jp/mt_images/organizer/data/usage_guide.pdf"
+  },
+  {
+   "title": "施設ご利用案内（Web版）",
+   "url": "https://www.t-i-forum.co.jp/organizer/facilities_guide/hall/"
+  },
+  {
+   "title": "収容人数・利用料金一覧",
+   "url": "https://www.t-i-forum.co.jp/mt_images/facilities/price_list_01.pdf"
+  },
+  {
+   "title": "図面・資料集",
+   "url": "https://www.t-i-forum.co.jp/organizer/data/"
+  },
+  {
+   "title": "ご予約後の提出書類",
+   "url": "https://www.t-i-forum.co.jp/documents_download/"
+  },
+  {
+   "title": "ホール等 ご利用までの流れ",
+   "url": "https://www.t-i-forum.co.jp/organizer/facilities_guide/hall/flow/"
+  },
+  {
+   "title": "会議室単独利用 ご利用までの流れ",
+   "url": "https://www.t-i-forum.co.jp/organizer/facilities_guide/conference/flow/"
+  },
+  {
+   "title": "荷捌場・駐車場入口・関係者入口",
+   "url": "https://www.t-i-forum.co.jp/access/carry/"
+  },
+  {
+   "title": "駐車場",
+   "url": "https://www.t-i-forum.co.jp/access/parking/"
+  },
+  {
+   "title": "開催支援サービス",
+   "url": "https://www.t-i-forum.co.jp/organizer/service/"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "ファミリーマート 東京国際フォーラム店",
+    "brand": "ファミリーマート",
+    "distanceM": 0,
+    "walkMin": 1,
+    "hours": "7:00-23:30",
+    "address": "東京都千代田区丸の内3-5-1",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/58164",
+    "note": null
+   },
+   {
+    "name": "ファミリーマート 丸の内新国際ビル店",
+    "brand": "ファミリーマート",
+    "distanceM": 147,
+    "walkMin": 2,
+    "hours": "7:00-22:00",
+    "address": "東京都千代田区丸の内3-4-1",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/77529",
+    "note": null
+   },
+   {
+    "name": "セブン-イレブン 丸の内東京ビル店",
+    "brand": "セブン-イレブン",
+    "distanceM": 259,
+    "walkMin": 4,
+    "hours": "7:00-23:00（月・日を確認）",
+    "address": "東京都千代田区丸の内2-7-3",
+    "verified": true,
+    "source": "https://seven-eleven.areamarker.com/711map/info/209639",
+    "note": null
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "キンコーズ・銀座一丁目店",
+    "brand": "キンコーズ",
+    "distanceM": 482,
+    "walkMin": 7,
+    "hours": "平日9:00-20:00／土10:00-19:00／日・祝休（受付は閉店30分前まで）",
+    "address": "東京都中央区銀座1-7-3 京橋三菱ビル1F",
+    "verified": true,
+    "source": "https://www.kinkos.co.jp/store/tokyo/t002/",
+    "note": null
+   },
+   {
+    "name": "キンコーズ・大手町店",
+    "brand": "キンコーズ",
+    "distanceM": 1070,
+    "walkMin": 14,
+    "hours": "平日9:00-20:00／土・日・祝休（受付は閉店30分前まで）",
+    "address": "東京都千代田区大手町1-6-1 大手町ビル1F",
+    "verified": true,
+    "source": "https://www.kinkos.co.jp/store/tokyo/t005/",
+    "note": null
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "DAISO マロニエゲート銀座店",
+    "brand": "ダイソー",
+    "distanceM": 334,
+    "walkMin": 5,
+    "hours": "11:00-21:00",
+    "address": "東京都中央区銀座3-2-1 マロニエゲート銀座2 6階",
+    "verified": true,
+    "source": "https://www.daiso-sangyo.co.jp/shop/detail/009168",
+    "note": null
+   },
+   {
+    "name": "Standard Products マロニエゲート銀座店",
+    "brand": "Standard Products",
+    "distanceM": 334,
+    "walkMin": 5,
+    "hours": "11:00-21:00",
+    "address": "東京都中央区銀座3-2-1 マロニエゲート銀座2 6階",
+    "verified": true,
+    "source": "https://www.daiso-sangyo.co.jp/shop/detail/009170",
+    "note": null
+   }
+  ],
+  "donki": [
+   {
+    "name": "お菓子ドンキ・お酒ドンキ（八重洲地下街店。ドン・キホーテ系列の小型業態）",
+    "brand": "ドン・キホーテ",
+    "distanceM": 617,
+    "walkMin": 8,
+    "hours": "9:00-21:30",
+    "address": "東京都中央区八重洲2-1 八重洲地下街北1号",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_list.php?pref=13",
+    "note": null
+   },
+   {
+    "name": "ドン・キホーテ 銀座本館",
+    "brand": "ドン・キホーテ",
+    "distanceM": 1017,
+    "walkMin": 13,
+    "hours": "24時間営業",
+    "address": "東京都中央区銀座8-10 銀座ナイン3号館",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_list.php?pref=13",
+    "note": null
+   }
+  ]
+ },
+ "drinkDelivery": {
+  "available": true
+ },
+ "photo": {
+  "src": "/images/venues/tokyo-international-forum.jpg",
+  "credit": "© MaedaAkihiko / CC BY-SA 4.0 · Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tokyo-International-Forum_Glass-Building_Outside.jpg"
+ },
+ "checkedAt": "2026-10-30"
+}

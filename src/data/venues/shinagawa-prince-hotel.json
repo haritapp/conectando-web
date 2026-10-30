@@ -1,0 +1,332 @@
+{
+ "slug": "shinagawa-prince-hotel",
+ "nameJa": "品川プリンスホテル",
+ "nameEn": "Shinagawa Prince Hotel",
+ "type": "hotel",
+ "area": "shinagawa-venues",
+ "address": "〒108-8611 東京都港区高輪4-10-30",
+ "lat": 35.628574,
+ "lng": 139.736984,
+ "officialUrl": "https://www.princehotels.co.jp/shinagawa/",
+ "organizerUrl": "https://www.princehotels.co.jp/shinagawa/banquet/",
+ "bizintokyoSlug": null,
+ "accessSummary": "新幹線・JR線・京急線 品川駅（高輪口）徒歩2分",
+ "notice": null,
+ "hours": null,
+ "rooms": [
+  {
+   "name": "プリンスホール 1スパン",
+   "areaM2": 207,
+   "ceilingM": null,
+   "theater": 200,
+   "school": 130,
+   "ushape": null,
+   "standing": 120,
+   "banquet": 70,
+   "note": "富士・立山・大雪・岩木・浅間・伊吹・大山・石鎚・霧島の9スペースの組み合わせで構成。天井高5.6〜7.0m。アネックスタワー5F"
+  },
+  {
+   "name": "プリンスホール 2スパン",
+   "areaM2": 414,
+   "ceilingM": null,
+   "theater": 400,
+   "school": 270,
+   "ushape": null,
+   "standing": 250,
+   "banquet": 130,
+   "note": "天井高5.6〜7.0m。アネックスタワー5F"
+  },
+  {
+   "name": "プリンスホール 3スパン",
+   "areaM2": 621,
+   "ceilingM": null,
+   "theater": 600,
+   "school": 370,
+   "ushape": null,
+   "standing": 400,
+   "banquet": 270,
+   "note": "天井高5.6〜7.0m。アネックスタワー5F"
+  },
+  {
+   "name": "プリンスホール 4スパン",
+   "areaM2": 829,
+   "ceilingM": null,
+   "theater": 840,
+   "school": 540,
+   "ushape": null,
+   "standing": 550,
+   "banquet": 320,
+   "note": "天井高5.6〜7.0m。アネックスタワー5F"
+  },
+  {
+   "name": "プリンスホール 5スパン",
+   "areaM2": 1243,
+   "ceilingM": null,
+   "theater": 1320,
+   "school": 860,
+   "ushape": null,
+   "standing": 1000,
+   "banquet": 540,
+   "note": "天井高5.6〜7.0m。アネックスタワー5F"
+  },
+  {
+   "name": "プリンスホール 6スパン",
+   "areaM2": 1450,
+   "ceilingM": null,
+   "theater": 1600,
+   "school": 1080,
+   "ushape": null,
+   "standing": 1250,
+   "banquet": 640,
+   "note": "天井高5.6〜7.0m。アネックスタワー5F"
+  },
+  {
+   "name": "プリンスホール 7スパン",
+   "areaM2": 1658,
+   "ceilingM": null,
+   "theater": 1920,
+   "school": 1260,
+   "ushape": null,
+   "standing": 1500,
+   "banquet": 750,
+   "note": "天井高5.6〜7.0m。アネックスタワー5F"
+  },
+  {
+   "name": "プリンスホール 8スパン",
+   "areaM2": 1865,
+   "ceilingM": null,
+   "theater": 2200,
+   "school": 1470,
+   "ushape": null,
+   "standing": 1750,
+   "banquet": 860,
+   "note": "天井高5.6〜7.0m。アネックスタワー5F"
+  },
+  {
+   "name": "プリンスホール 9スパン（全面）",
+   "areaM2": 2046,
+   "ceilingM": null,
+   "theater": 2400,
+   "school": 1620,
+   "ushape": null,
+   "standing": 2000,
+   "banquet": 970,
+   "note": "天井高5.6〜7.0m。アネックスタワー5F"
+  },
+  {
+   "name": "メインタワー中宴会場（13室）",
+   "areaM2": 330,
+   "ceilingM": null,
+   "theater": 330,
+   "school": 210,
+   "ushape": 36,
+   "standing": 200,
+   "banquet": 144,
+   "note": "各室330㎡・天井高4.0〜5.7m。ムーンストーン・シルバー・トパーズ・オパール・ゴールド・サファイア・クリスタル・パール・エメラルド・ダイヤモンド・アクアマリン・ルビー・ガーネット。メインタワー12〜36F（専用エレベーター）"
+  },
+  {
+   "name": "メインタワー小宴会場（11室）",
+   "areaM2": 36,
+   "ceilingM": 2.7,
+   "theater": 40,
+   "school": 18,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "各室36㎡。ボードルーム12名。もみじ・すみれ・しょうぶ・ハイビスカス・あじさい・やまぼうし・りんどう・しゃくなげ・ラベンダー・すずらん・きんれんか。メインタワー3F"
+  },
+  {
+   "name": "Nタワー ミーティングルーム N1",
+   "areaM2": 20,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "ミーティング形式12名。17F"
+  },
+  {
+   "name": "Nタワー ミーティングルーム N2・N3",
+   "areaM2": 15,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "各室15㎡。ミーティング形式各8名。17F"
+  },
+  {
+   "name": "Nタワー ミーティングルーム N4・N5",
+   "areaM2": 60,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "各室60㎡。ミーティング形式各30名。N4は4F、N5は5F"
+  }
+ ],
+ "roomsSource": "https://www.princehotels.co.jp/shinagawa/banquet/assets/pdf/shinagawa_roomspec.pdf",
+ "ops": {
+  "catering": {
+   "text": "Nタワーのレンタル会議室（N1〜N5、最大30名）は、お食事の持込をご遠慮いただいている。会議室の料金にはコーヒーサービス（1人2杯分）が含まれ、室内のコーヒーマシンで各自が抽出する。（出典：宴会場パンフレット 2024年版）",
+   "source": "https://www.princehotels.co.jp/shinagawa/banquet/d-pamphlet/"
+  },
+  "restaurants": {
+   "text": "館内の飲食店は公式のレストラン一覧に11店掲載。メインタワーに39F DINING & BAR TABLE 9 TOKYO、38F 味街道 五十三次（今冬より改装のため一時休業予定）、4F 中国料理 品川大飯店、2F コーヒーラウンジ マウナケア、1F LUXE DINING HAPUNA（ブッフェ）。アネックスタワー1Fに和ビストロ いちょう坂（「パーティー・宴会」に分類）、2Fにフードコート 品川キッチン、Nタワー1Fに叙々苑 品川プリンスホテル店。ほかに SHINAGAWA PIVOT、Café & Party Garden SHINAGAWA、ブーランジュリーシナガワがある。（出典：公式レストラン一覧、館内案内図 2023年7月版）",
+   "source": "https://www.princehotels.co.jp/shinagawa/restaurant/"
+  },
+  "waitingRooms": {
+   "text": "メインタワー3Fの小宴会場（11室・各36㎡）は、中宴会場の控室としても使えると案内されている。プリンスホールのあるアネックスタワーは、5Fに小宴会場6室（12.5〜13.3㎡）と更衣室・クローク、6Fに宴会場9室（14.7〜24.7㎡）と更衣室がある。（出典：宴会場パンフレット 2024年版）",
+   "source": "https://www.princehotels.co.jp/shinagawa/banquet/d-pamphlet/"
+  },
+  "loadingHours": {
+   "text": "プリンスホール（アネックスタワー5F）の搬入・搬出口の搬入扉は幅3.9m×高さ3.5m、ホール前の通路幅は4.5mと5.5m。メインタワー宴会場の搬入エレベーターは、扉が幅0.95m×高さ2.1m、カゴ内が幅2.25m×奥行2.16m×高さ2.98m。（出典：宴会場パンフレット 2024年版）",
+   "source": "https://www.princehotels.co.jp/shinagawa/banquet/d-pamphlet/"
+  },
+  "parking": {
+   "text": "館内の駐車場はB1・B2と、アネックスタワー7Fの屋外駐車場。一般料金は30分500円（当日最大3,000円）。宴会利用は4時間まで無料で、以降30分ごとに500円。宿泊は1泊（24時間・1台）1,500円、館内施設の合計5,000円以上の利用で3時間まで無料。駐車券はなく入庫時にナンバーを読み取り、精算は施設出入口横の精算機で、施設で受け取ったサービス券をかざす（駐車場の出口に精算機はない）。予約はできず、公式は「駐車場には限りがあるため電車・バスを」と案内している。（出典：駐車料金精算のご案内 PDF、公式アクセスページ・FAQ、館内案内図 2023年7月版）",
+   "source": "https://www.princehotels.co.jp/file.jsp?id=360535"
+  }
+ },
+ "documents": [
+  {
+   "title": "会場仕様一覧（PDF）",
+   "url": "https://www.princehotels.co.jp/shinagawa/banquet/assets/pdf/shinagawa_roomspec.pdf"
+  },
+  {
+   "title": "宴会場のご案内（パンフレット、2024年版）",
+   "url": "https://www.princehotels.co.jp/shinagawa/banquet/d-pamphlet/"
+  },
+  {
+   "title": "駐車料金精算のご案内（PDF）",
+   "url": "https://www.princehotels.co.jp/file.jsp?id=360535"
+  },
+  {
+   "title": "交通・館内のご案内（2023年7月版）",
+   "url": "https://www.princehotels.co.jp/shinagawa/files/floor_map_information.pdf"
+  },
+  {
+   "title": "駐車場",
+   "url": "https://www.princehotels.co.jp/shinagawa/informations/parking/"
+  },
+  {
+   "title": "アクセス",
+   "url": "https://www.princehotels.co.jp/shinagawa/access/"
+  },
+  {
+   "title": "レストラン・バー",
+   "url": "https://www.princehotels.co.jp/shinagawa/restaurant/"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "セブン-イレブン 品川プリンスホテル店（公式表記：品川プリンスホテル）",
+    "brand": "セブン-イレブン",
+    "distanceM": 167,
+    "walkMin": 3,
+    "hours": "24時間営業",
+    "address": "東京都港区高輪4-10-30",
+    "verified": true,
+    "source": "https://seven-eleven.areamarker.com/711map/info/438759",
+    "note": null
+   },
+   {
+    "name": "ファミリーマート サンズ高輪四丁目店",
+    "brand": "ファミリーマート",
+    "distanceM": 185,
+    "walkMin": 3,
+    "hours": "24時間",
+    "address": "東京都港区高輪4-20-3",
+    "verified": true,
+    "source": "https://store.family.co.jp/areas/13/points（店名検索「高輪」）",
+    "note": null
+   },
+   {
+    "name": "セブン-イレブン グランドプリンスホテル新高輪店（公式表記：グランドプリンスホテル新高輪）",
+    "brand": "セブン-イレブン",
+    "distanceM": 337,
+    "walkMin": 5,
+    "hours": "7:00-25:00（毎日）",
+    "address": "東京都港区高輪3-13-1",
+    "verified": true,
+    "source": "https://seven-eleven.areamarker.com/711map/info/396720",
+    "note": null
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "アクセア 品川プリンスホテル店",
+    "brand": "アクセア",
+    "distanceM": 0,
+    "walkMin": 1,
+    "hours": "全日10:00～20:00（現金不可・カード/電子マネー/QR決済のみ）",
+    "address": "東京都港区高輪4-10-30 品川プリンスホテル アネックスタワー2F（会場内）",
+    "verified": true,
+    "source": "https://www.accea.co.jp/entry.html",
+    "note": null
+   },
+   {
+    "name": "キンコーズ・品川店",
+    "brand": "キンコーズ",
+    "distanceM": 568,
+    "walkMin": 8,
+    "hours": "平日8:00-22:00、土9:00-18:00、日・祝9:00-18:00",
+    "address": "東京都港区港南2丁目14-14 品川インターシティフロント2F",
+    "verified": true,
+    "source": "https://www.kinkos.co.jp/store/",
+    "note": null
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Seria ウィング高輪WEST店",
+    "brand": "セリア",
+    "distanceM": 167,
+    "walkMin": 3,
+    "hours": "10月の公式カレンダー：平日10:00-21:00、土日10:00-20:00",
+    "address": "東京都港区高輪4-10-18 ウィング高輪WEST 2F",
+    "verified": true,
+    "source": "https://shop.seria-group.com/seria/info/000002470",
+    "note": null
+   },
+   {
+    "name": "Can★Do 新馬場店",
+    "brand": "キャンドゥ",
+    "distanceM": 1273,
+    "walkMin": 16,
+    "hours": "月〜日 10:00〜20:00",
+    "address": "東京都品川区北品川2-7-22",
+    "verified": true,
+    "source": "https://shopinfo.cando-web.co.jp/detail/shop-5254/",
+    "note": null
+   }
+  ],
+  "donki": [
+   {
+    "name": "プラチナ ドン・キホーテ 白金台店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 1387,
+    "walkMin": 18,
+    "hours": "24時間営業",
+    "address": "東京都港区白金台3-15-5",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_list.php?pre=ft",
+    "note": null
+   }
+  ]
+ },
+ "drinkDelivery": {
+  "available": true
+ },
+ "photo": {
+  "src": "/images/venues/shinagawa-prince-hotel.jpg",
+  "credit": "© Abasaa / Public domain · Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Shinagawa_Prince_Hotel_01.JPG"
+ },
+ "checkedAt": "2026-10-30"
+}
