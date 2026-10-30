@@ -174,27 +174,6 @@ const news = newsItems.slice(0, 3).map(n => ({
   </div>
 </section>
 
-<!-- ④.5 VENUES -->
-<section class="vn-sec">
-  <div class="sec-body">
-    <div class="sec-head-row">
-      <div class="sec-label">VENUES</div>
-      <a href="/venues" class="text-cta">すべての会場 <span class="btn-dot">●</span></a>
-    </div>
-    <p class="vn-lead">運営する人のための会場リスト。人数・広さ・エリアで探せて、図面・料金表、搬入や控室の公式ルール、近くの印刷店やドン・キホーテまで1ページにまとめています。</p>
-    <div class="col-grid">
-      {topVenues.map(({ v, cap }) => (
-        <a href={`/venues/${v.slug}/`} class="col-card">
-          {v.photo && <img src={v.photo.src} alt={v.nameJa} class="col-img" loading="lazy" />}
-          <span class="col-date">{TYPE_LABEL[v.type]}・{AREA_LABEL[v.area] ?? ''}</span>
-          <span class="col-title">{v.nameJa}</span>
-          {cap && <span class="col-date">最大 {formatNumber(cap.people)}人（{LAYOUT_LABEL[cap.layout]}）</span>}
-        </a>
-      ))}
-    </div>
-  </div>
-</section>
-
 <!-- ⑤ COLUMN / NEWS -->
 <section class="cn-sec">
   <div class="sec-body">
@@ -212,6 +191,24 @@ const news = newsItems.slice(0, 3).map(n => ({
           </a>
         ))}
       </div>
+    </div>
+    <!-- VENUES（コラムの下・お知らせの上） -->
+    <div class="vn-block">
+    <div class="sec-head-row">
+      <div class="sec-label">VENUES</div>
+      <a href="/venues" class="text-cta">すべての会場 <span class="btn-dot">●</span></a>
+    </div>
+    <p class="vn-lead">運営する人のための会場リスト。人数・広さ・エリアで探せて、図面・料金表、搬入や控室の公式ルール、近くの印刷店やドン・キホーテまで1ページにまとめています。</p>
+    <div class="col-grid">
+      {topVenues.map(({ v, cap }) => (
+        <a href={`/venues/${v.slug}/`} class="col-card">
+          {v.photo && <img src={v.photo.src} alt={v.nameJa} class="col-img" loading="lazy" />}
+          <span class="col-date">{TYPE_LABEL[v.type]}・{AREA_LABEL[v.area] ?? ''}</span>
+          <span class="col-title">{v.nameJa}</span>
+          {cap && <span class="col-date">最大 {formatNumber(cap.people)}人（{LAYOUT_LABEL[cap.layout]}）</span>}
+        </a>
+      ))}
+    </div>
     </div>
     <div class="news-block">
       <div class="sec-head-row">
@@ -301,7 +298,7 @@ const news = newsItems.slice(0, 3).map(n => ({
 .svc-sec { padding-top: 6rem; }
 .cases-sec { padding-top: 7rem; }
 .why-sec { padding-top: 7rem; }
-.vn-sec { padding-top: 7rem; }
+.vn-block { margin-top: 5rem; }
 .vn-lead { margin: .75rem 0 0; font-size: .9375rem; color: var(--color-text); line-height: 1.8; max-width: 48rem; }
 .cn-sec { padding-top: 7rem; }
 
@@ -445,7 +442,7 @@ const news = newsItems.slice(0, 3).map(n => ({
   .svc-sec { padding-top: 3.5rem; }
   .cases-sec { padding-top: 3.5rem; }
   .why-sec { padding-top: 3.5rem; }
-  .vn-sec { padding-top: 3.5rem; }
+  .vn-block { margin-top: 3rem; }
   .cn-sec { padding-top: 3.5rem; }
 
   .svc-grid { grid-template-columns: 1fr; gap: 0; }
