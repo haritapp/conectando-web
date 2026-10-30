@@ -309,7 +309,6 @@
    "url": "https://www.bellesalle.co.jp/faq/"
   }
  ],
- "checkedAt": "2026-10-30",
  "lat": 35.693233,
  "lng": 139.765701,
  "nearby": {
@@ -423,5 +422,11 @@
  },
  "drinkDelivery": {
   "available": true
- }
+ },
+ "photo": {
+  "src": "/images/venues/bellesalle-kanda.jpg",
+  "credit": "会場近く（神田小川町三丁目）の街並みのイメージ写真です（会場の建物ではありません）。© 運転太郎 / CC BY 3.0 · Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:3_Chome_Kanda_Ogawamachi,_Chiyoda-ku,_T%C5%8Dky%C5%8D-to_101-0052,_Japan_-_panoramio_(1).jpg"
+ },
+ "checkedAt": "2026-10-30"
 }

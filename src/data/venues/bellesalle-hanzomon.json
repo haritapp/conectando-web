@@ -260,5 +260,10 @@
  },
  "drinkDelivery": {
   "available": true
+ },
+ "photo": {
+  "src": "/images/venues/bellesalle-hanzomon.jpg",
+  "credit": "写真：Conectando",
+  "sourceUrl": null
  }
 }

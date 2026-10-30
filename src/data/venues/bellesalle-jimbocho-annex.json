@@ -249,5 +249,10 @@
  },
  "drinkDelivery": {
   "available": true
+ },
+ "photo": {
+  "src": "/images/venues/bellesalle-jimbocho-annex.jpg",
+  "credit": "写真：Conectando",
+  "sourceUrl": null
  }
 }

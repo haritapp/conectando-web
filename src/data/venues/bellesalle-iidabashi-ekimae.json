@@ -192,7 +192,6 @@
    "url": "https://www.bellesalle.co.jp/faq/"
   }
  ],
- "checkedAt": "2026-10-30",
  "lat": 35.701767,
  "lng": 139.747299,
  "nearby": {
@@ -306,5 +305,11 @@
  },
  "drinkDelivery": {
   "available": true
- }
+ },
+ "photo": {
+  "src": "/images/venues/bellesalle-iidabashi-ekimae.jpg",
+  "credit": "最寄りの飯田橋駅のイメージ写真です（会場の建物ではありません）。© 江戸村のとくぞう / CC BY-SA 4.0 · Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Iidabashi_Station_200719a.jpg"
+ },
+ "checkedAt": "2026-10-30"
 }

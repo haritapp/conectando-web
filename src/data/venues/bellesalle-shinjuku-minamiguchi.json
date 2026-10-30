@@ -390,5 +390,10 @@
  },
  "drinkDelivery": {
   "available": true
+ },
+ "photo": {
+  "src": "/images/venues/bellesalle-shinjuku-minamiguchi.jpg",
+  "credit": "写真：Conectando",
+  "sourceUrl": null
  }
 }
