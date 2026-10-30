@@ -194,3 +194,5 @@ https://bizintokyo.com/venues/taito-millennium-hall/
 ---
 
 人数別の会場一覧：**300人まで（この記事）**／[301〜500人](https://www.conec-tando.com/column/kaijo-500/)／[501〜1,000人](https://www.conec-tando.com/column/kaijo-1000/)／[1,001人以上](https://www.conec-tando.com/column/kaijo-1001/)
+
+人数に加えて広さ・エリアで絞り込んだり、図面・料金表や搬入・控室の公式ルールまで確かめたりするなら、[会場リスト](/venues/)で探せます。

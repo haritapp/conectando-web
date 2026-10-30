@@ -416,3 +416,5 @@ https://bizintokyo.com/venues/international_forum/
 ---
 
 人数別の会場一覧：[300人まで](https://www.conec-tando.com/column/kaijo-300/)／[301〜500人](https://www.conec-tando.com/column/kaijo-500/)／[501〜1,000人](https://www.conec-tando.com/column/kaijo-1000/)／**1,001人以上（この記事）**
+
+人数に加えて広さ・エリアで絞り込んだり、図面・料金表や搬入・控室の公式ルールまで確かめたりするなら、[会場リスト](/venues/?people=1001)で探せます。

@@ -41,6 +41,7 @@ const layoutOptions = Object.entries(LAYOUT_LABEL) as [Layout, string][];
   <PageHero label="VENUES" title="会場リスト" />
 
   <div class="vl-wrap">
+    <nav class="vl-crumb" aria-label="パンくず"><a href="/">ホーム</a> <span>›</span> 会場リスト</nav>
     <p class="vl-lead">
       イベントを運営する人のための会場リストです。人数・広さ・エリアで探せます。各会場のページには、図面・料金表などの公式資料、<strong>搬入・前日設営・控室・駐車場の公式ルール</strong>、
       当日困ったときに行ける<strong>近くの印刷店・コンビニ・100円ショップ・ドン・キホーテ</strong>をまとめています。
@@ -168,6 +169,12 @@ const layoutOptions = Object.entries(LAYOUT_LABEL) as [Layout, string][];
     emptyEl.hidden = shown !== 0;
   }
 
+  // コラムからのリンク（?area=…／?people=…&layout=…）で条件を入れた状態で開く
+  const params = new URLSearchParams(location.search);
+  const setIf = (id: string, key: string) => { const val = params.get(key); if (val) $<HTMLInputElement | HTMLSelectElement>(id).value = val; };
+  setIf('f-area', 'area'); setIf('f-type', 'type'); setIf('f-layout', 'layout'); setIf('f-people', 'people'); setIf('f-m2', 'm2');
+  if (params.toString()) apply();
+
   form.addEventListener('input', apply);
   form.addEventListener('change', apply);
   form.addEventListener('reset', () => setTimeout(apply, 0));
@@ -175,6 +182,8 @@ const layoutOptions = Object.entries(LAYOUT_LABEL) as [Layout, string][];
 
 <style>
 .vl-wrap { max-width: 64rem; margin: 0 auto; padding: 2rem 1rem 4rem; }
+.vl-crumb { font-size: .8125rem; color: var(--color-text-muted); margin-bottom: 1.25rem; }
+.vl-crumb span { margin: 0 .25rem; }
 .vl-lead { font-size: 1rem; line-height: 1.8; color: var(--color-text); margin: 0 0 1.75rem; }
 .vl-filter {
   display: grid; grid-template-columns: repeat(auto-fit, minmax(13rem, 1fr)); gap: 1rem 1.25rem;

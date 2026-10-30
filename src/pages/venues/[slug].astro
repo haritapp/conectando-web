@@ -42,7 +42,7 @@ const description = `${v.nameJa}でイベントを運営する人向けに、部
 
 <BaseLayout title={`${title} | Conectando`} rawTitle description={description}>
   <div class="vd-wrap">
-    <nav class="vd-crumb"><a href="/venues/">会場リスト</a> <span>›</span> {v.nameJa}</nav>
+    <nav class="vd-crumb" aria-label="パンくず"><a href="/">ホーム</a> <span>›</span> <a href="/venues/">会場リスト</a> <span>›</span> {v.nameJa}</nav>
 
     <header class="vd-head">
       <div class="vd-badges">
