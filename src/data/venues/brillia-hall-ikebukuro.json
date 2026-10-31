@@ -1,0 +1,228 @@
+{
+ "slug": "brillia-hall-ikebukuro",
+ "nameJa": "東京建物 Brillia HALL（豊島区立芸術文化劇場）",
+ "nameEn": "",
+ "type": "hall",
+ "area": "ikebukuro-venues",
+ "address": "〒170-0013 東京都豊島区東池袋一丁目19番1号",
+ "officialUrl": "https://toshima-theatre.jp/",
+ "organizerUrl": "https://toshima-theatre.jp/about/rental/",
+ "bizintokyoSlug": "brillia-hall-ikebukuro",
+ "accessSummary": "池袋駅東口（北）32番出口（JR線・東京メトロ丸ノ内線・有楽町線・副都心線・西武池袋線・東武東上線）徒歩4分",
+ "notice": null,
+ "hours": "入館9:00、完全退館22:00（年中無休。メンテナンス等による臨時休館の場合あり）",
+ "rooms": [
+  {
+   "name": "大ホール（固定席）",
+   "areaM2": null,
+   "ceilingM": null,
+   "theater": 1248,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "1階席753席・2階席245席・3階席250席（車椅子スペース15席を含む）。オーケストラピット利用時は1,139席。舞台は奥行16.2m、プロセニアム間口16.4m・高さ10m。オーケストラピットは約58㎡（2026年7月現在）"
+  }
+ ],
+ "roomsSource": "https://toshima-theatre.jp/about/rental/",
+ "ops": {
+  "prevDaySetup": {
+   "text": "利用時間は9時入館・22時退館で、準備・片付（全ての原状回復）の時間を含む。仕込・稽古・リハーサル・ゲネプロ・搬出入のみの日は「本番なし」の料金で、1日あたり平日1,000,000円・土日祝1,200,000円（税込）。年末年始（12/29〜1/3）は一律2,250,000円（税込）。（出典：料金表、施設概要 2026年7月現在）",
+   "source": "https://toshima-theatre.jp/about/rental/price.html"
+  },
+  "loadingHours": {
+   "text": "搬入口は1階にある。搬入用エレベーターの内寸は幅5,600mm・奥行2,200mm・高さ3,000mm、積載重量3,500kg。利用時間は9時〜22時（準備・片付を含む）。（出典：舞台平面図、施設概要 2026年7月現在）",
+   "source": "https://toshima-theatre.jp/about/rental/pdf/stage_plane.pdf"
+  },
+  "parking": {
+   "text": "劇場専用の駐車場はなく、劇場建物裏手に一般の有料駐車場（ハレザ池袋パーキング）がある。提携・割引はない。（2025年8月現在）",
+   "source": "https://toshima-theatre.jp/access/"
+  },
+  "waitingRooms": {
+   "text": "2階に主催者控室、楽屋A（4名）、スタッフ室2室、会議室。3階に楽屋B・C（各3名）、楽屋D・H（各11名）、楽屋E〜G（各10名）、衣裳室、シャワー室、ラウンジ。小楽屋3室はシャワー・トイレ付。（2026年7月現在）",
+   "source": "https://toshima-theatre.jp/about/rental/"
+  },
+  "catering": {
+   "text": "客席内での飲食はできず、ホワイエでのみ可能。（2024年4月現在）",
+   "source": "https://toshima-theatre.jp/contact/faq/"
+  },
+  "restaurants": {
+   "text": "建物4階と6階にバー・軽食がある（10:00〜18:00）。",
+   "source": "https://toshima-theatre.jp/about/floormap/"
+  }
+ },
+ "documents": [
+  {
+   "title": "舞台平面図（2026年7月現在）",
+   "url": "https://toshima-theatre.jp/about/rental/pdf/stage_plane.pdf"
+  },
+  {
+   "title": "舞台断面図",
+   "url": "https://toshima-theatre.jp/about/rental/pdf/stage_cross.pdf"
+  },
+  {
+   "title": "舞台客席断面図",
+   "url": "https://toshima-theatre.jp/about/rental/pdf/stage_audience_cross.pdf"
+  },
+  {
+   "title": "舞台備品一覧",
+   "url": "https://toshima-theatre.jp/about/rental/pdf/stage_equipment_list.pdf"
+  },
+  {
+   "title": "照明備品一覧",
+   "url": "https://toshima-theatre.jp/about/rental/pdf/lighting_equipment_list.pdf"
+  },
+  {
+   "title": "音響備品一覧",
+   "url": "https://toshima-theatre.jp/about/rental/pdf/audio_equipment.pdf"
+  },
+  {
+   "title": "映像備品一覧",
+   "url": "https://toshima-theatre.jp/about/rental/pdf/video_equipment.pdf"
+  },
+  {
+   "title": "楽屋備品一覧",
+   "url": "https://toshima-theatre.jp/about/rental/pdf/dressing_equipment_list.pdf"
+  },
+  {
+   "title": "受付備品一覧",
+   "url": "https://toshima-theatre.jp/about/rental/pdf/reception_equipment_list.pdf"
+  },
+  {
+   "title": "利用申請書",
+   "url": "https://toshima-theatre.jp/about/rental/img/application.pdf"
+  },
+  {
+   "title": "公演等企画書",
+   "url": "https://toshima-theatre.jp/about/rental/img/planning.pdf"
+  },
+  {
+   "title": "料金表について",
+   "url": "https://toshima-theatre.jp/about/rental/price.html"
+  },
+  {
+   "title": "フロアマップ",
+   "url": "https://toshima-theatre.jp/about/floormap/"
+  }
+ ],
+ "checkedAt": "2026-10-31",
+ "lat": 35.731647,
+ "lng": 139.715942,
+ "nearby": {
+  "convenience": [
+   {
+    "name": "ファミリーマート 東池袋セイコービル店",
+    "brand": "ファミリーマート",
+    "distanceM": 28,
+    "walkMin": 1,
+    "hours": "24時間営業",
+    "address": "東京都豊島区東池袋1-30-6",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/77074",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "ファミリーマート 中池袋公園前店",
+    "brand": "ファミリーマート",
+    "distanceM": 82,
+    "walkMin": 2,
+    "hours": "24時間営業",
+    "address": "東京都豊島区東池袋1-15-10",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/23797",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "ローソン 東池袋店",
+    "brand": "ローソン",
+    "distanceM": 85,
+    "walkMin": 2,
+    "hours": "24時間営業",
+    "address": "東京都豊島区東池袋1-31-10",
+    "verified": true,
+    "source": "https://www.areamarker.com/lawson/info/103869",
+    "note": "距離は公式の店舗位置で計算"
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "アクセア 池袋ハレザタワー店",
+    "brand": "アクセア",
+    "distanceM": 80,
+    "walkMin": 1,
+    "hours": "平日8:00〜20:00／土日祝休み",
+    "address": "東京都豊島区東池袋1-18-1 ハレザタワー7F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/entry.html",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "キンコーズ・池袋東口店",
+    "brand": "キンコーズ",
+    "distanceM": 440,
+    "walkMin": 6,
+    "hours": "平日 10:00-18:00／土・日・祝 休業",
+    "address": "東京都豊島区南池袋2-29-13 東陽興産ビル1F",
+    "verified": true,
+    "source": "https://www.kinkos.co.jp/store/tokyo/t043/",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Can★Do 池袋サンシャイン通り店",
+    "brand": "キャンドゥ",
+    "distanceM": 134,
+    "walkMin": 2,
+    "hours": "月〜日 10:00-22:00",
+    "address": "東京都豊島区東池袋1-21-13 Aune池袋地下1階",
+    "verified": true,
+    "source": "https://shopinfo.cando-web.co.jp/detail/shop-5077/",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "DAISO ラグーン池袋店",
+    "brand": "ダイソー",
+    "distanceM": 168,
+    "walkMin": 3,
+    "hours": "9:00-22:00",
+    "address": "東京都豊島区東池袋1-21-1 ラグーン池袋3階",
+    "verified": true,
+    "source": "https://www.daiso-sangyo.co.jp/shop/detail/009167",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "donki": [
+   {
+    "name": "ドン・キホーテ 池袋東口駅前店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 410,
+    "walkMin": 6,
+    "hours": "24時間営業",
+    "address": "東京都豊島区南池袋1-22-5",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=255",
+    "note": "距離は住所の位置で計算。ドン・キホーテ公式サイトの店舗名は「池袋東口駅前店」"
+   },
+   {
+    "name": "ドン・キホーテ 池袋駅西口店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 426,
+    "walkMin": 6,
+    "hours": "24時間営業",
+    "address": "東京都豊島区西池袋1-43-12",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=500",
+    "note": "距離は住所の位置で計算。ドン・キホーテ公式サイトの店舗名は「池袋駅西口店」"
+   }
+  ]
+ },
+ "drinkDelivery": {
+  "available": true
+ },
+ "photo": {
+  "src": "/images/venues/brillia-hall-ikebukuro.jpg",
+  "credit": "© RuinDig/Yuki Uchida / CC BY 4.0 · Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ikebukuro-Tokyo---2025-04-19_016.jpg"
+ }
+}

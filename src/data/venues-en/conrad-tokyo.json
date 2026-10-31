@@ -1,0 +1,156 @@
+{
+ "slug": "conrad-tokyo",
+ "name": "Conrad Tokyo",
+ "address": "Tokyo 105-7337 1-9-1 Higashi-Shimbashi, Minato-ku, Tokyo",
+ "accessSummary": "Shiodome Station (Oedo Line / Yurikamome): 1 min walk / Shimbashi Station (JR / Asakusa Line / Ginza Line): 7 min walk",
+ "hours": null,
+ "notice": "From 17:00 on Sunday, January 17, 2027 to 6:00 on Monday, January 18 (planned), all facilities including the banquet halls will be closed for the statutory electrical inspection of the entire building.",
+ "rooms": [
+  {
+   "name": "Large Banquet Hall Kazanami (Annex 2F)",
+   "note": "16.6 x 34.7 m. Crescent: 189 people. Classroom: 238 seats at 2 per desk, 357 seats at 3 per desk (layout diagram PDF). Banquet: 216 seats at 8 per table (same PDF). The official table lists classroom 315 and banquet 243, which differ from the seat counts in the layout diagram PDF."
+  },
+  {
+   "name": "Large Banquet Hall Nami (Annex 2F)",
+   "note": "16.6 x 11.3 m. Crescent: 42 people."
+  },
+  {
+   "name": "Large Banquet Hall Nagisa (Annex 2F)",
+   "note": "16.6 x 10.7 m. Crescent: 42 people."
+  },
+  {
+   "name": "Large Banquet Hall Nagi (Annex 2F)",
+   "note": "16.6 x 10.7 m. Crescent: 42 people."
+  },
+  {
+   "name": "Medium Banquet Hall Hamarikyu (Annex 1F)",
+   "note": "12.7 x 17.8 m. Crescent: 77 people. In the layout diagram PDF: classroom 120 seats, banquet 80 seats, theater 180 seats."
+  },
+  {
+   "name": "Medium Banquet Hall Kuromatsu (Annex 1F)",
+   "note": "12.7 x 8.7 m. Crescent: 28 people."
+  },
+  {
+   "name": "Medium Banquet Hall Shioiri (Annex 1F)",
+   "note": "12.7 x 8.2 m. Crescent: 28 people."
+  },
+  {
+   "name": "Small Banquet Hall Momiji (Annex 1F)",
+   "note": "7.0 x 5.2 m. Boardroom style: 12 people."
+  },
+  {
+   "name": "Small Banquet Hall Tsubaki (Annex 1F)",
+   "note": "7.0 x 5.2 m. Boardroom style: 12 people."
+  },
+  {
+   "name": "Small Banquet Hall Satsuki (Annex 1F)",
+   "note": "5.8 x 4.5 m. Boardroom style: 8 people. Can also be used together with the adjacent small banquet hall as one continuous room."
+  },
+  {
+   "name": "Meeting Room I (28F)",
+   "note": "8.0 x 7.0 m. Boardroom style: 18 people. Reception uses the table value (standing)."
+  },
+  {
+   "name": "Meeting Room II (28F)",
+   "note": "8.0 x 14.5 m. Boardroom style: 36 people. Reception uses the table value (standing)."
+  },
+  {
+   "name": "Meeting Room III (28F)",
+   "note": "8.0 x 8.0 m. Boardroom style: 18 people. Reception uses the table value (standing)."
+  },
+  {
+   "name": "Meeting Room I+II (28F)",
+   "note": "8.0 x 21.5 m. Boardroom style: 54 people. Reception uses the table value (standing)."
+  },
+  {
+   "name": "Meeting Room II+III (28F)",
+   "note": "8.0 x 22.5 m. Boardroom style: 54 people. Reception uses the table value (standing)."
+  },
+  {
+   "name": "Meeting Room I+II+III (28F)",
+   "note": "8.0 x 29.5 m. Reception uses the table value (standing)."
+  }
+ ],
+ "ops": {
+  "parking": "The hotel has a parking facility with 250 spaces. The maximum parking space size is 5.8 m long, 1.9 m wide and 2.2 m high. The regular rate is 300 yen per 30 minutes; for hotel guests, 3,000 yen per 24 hours (4,000 yen with valet service). Discounts apply with restaurant use (1 hour free for 3,000 to under 5,000 yen, 2 hours free for 5,000 to under 10,000 yen, 4 hours free for 10,000 yen or more). If the lot is full, use a parking lot outside the hotel. There are no EV charging facilities for guests.",
+  "waitingRooms": "The small banquet halls (Momiji 35㎡, Tsubaki 35㎡, Satsuki 24㎡, Annex 1F) are introduced as ideal rooms for meetings and waiting rooms. They can also be used together with the adjacent small banquet hall as one continuous room.",
+  "catering": "The hotel offers a catering service (from 30 people, about 30,000 to 40,000 yen per person, including buffet dishes, drinks and a full set of catering equipment; for the 23 wards of Tokyo). The application deadline is 2 weeks before the date of use. A quote is made after a site survey, and depending on the venue it may be difficult to accommodate. The \"Meeting Package\" for meeting rooms is 31,130 yen per person for 1 day (8 hours) and 18,480 yen per person for a half day (4 hours) (minimum 10 people, tax and service charge included, bookable from 2 months before the event date).",
+  "restaurants": "The hotel's restaurants officially introduced are Collage, China Blue, Kazahana, Cerise and TWENTY EIGHT."
+ },
+ "documents": [
+  {
+   "title": "Large Banquet Hall Kazanami Seating Diagram (Classroom, Banquet, Theater)"
+  },
+  {
+   "title": "Medium Banquet Hall Hamarikyu Seating Diagram"
+  },
+  {
+   "title": "Meeting Rooms Seating Diagram"
+  },
+  {
+   "title": "Access and Parking"
+  },
+  {
+   "title": "Catering Service"
+  },
+  {
+   "title": "One-Day or Half-Day Meeting Package"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "Famima Tokyo Shiodome Building",
+    "hours": "7:00-23:00",
+    "note": "Distance is calculated from the position in the official store list (the address position is in the same block as the venue)."
+   },
+   {
+    "name": "FamilyMart Shiodome Media Tower",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "FamilyMart Shiodome Tower",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "Kinko's Shiodome",
+    "hours": "Weekdays 9:00-19:00 / Closed Sat, Sun & holidays",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Accea Shiodome City Center",
+    "hours": "Weekdays, Sat, Sun & holidays 8:00-22:00",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "3COINS OOOPS! Shimbashi Station Shiodome Exit",
+    "hours": "Weekdays 8:00-22:00 / Sat, Sun & holidays 10:00-21:00",
+    "note": "Distance is calculated from the store's official location. This is the in-station format \"OOOPS!\" listed in the official 3COINS store list."
+   },
+   {
+    "name": "Seria Exit Melsa Ginza",
+    "hours": "Daily 11:00-20:00",
+    "note": "Distance is calculated from the store's official location."
+   }
+  ],
+  "donki": [
+   {
+    "name": "Don Quijote Ginza Main Building (Ginza Nine Building No. 3)",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Don Quijote Roppongi",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. Far. The store name on the Don Quijote official website is \"Roppongi\" (六本木店)."
+   }
+  ]
+ },
+ "photoCredit": "© Shibuya246 / CC BY-SA 3.0 · Wikimedia Commons"
+}

@@ -1,0 +1,512 @@
+{
+ "slug": "bellesalle-yaesu",
+ "nameJa": "ベルサール八重洲",
+ "nameEn": "",
+ "type": "conference",
+ "area": "marunouchi-nihonbashi-venues",
+ "address": "〒103-0028 東京都中央区八重洲1-3-7 八重洲ファーストフィナンシャルビル2・3F",
+ "officialUrl": "https://www.bellesalle.co.jp/shisetsu/tokyo/bs_yaesu/",
+ "organizerUrl": "https://www.bellesalle.co.jp/download/bs_yaesu/",
+ "bizintokyoSlug": "bellesalle-yaesu",
+ "accessSummary": "日本橋駅（東西線・銀座線・浅草線）A7出口 直結／大手町駅 B10出口 徒歩2分／三越前駅 B3出口 徒歩3分／東京駅 八重洲北口 徒歩4分",
+ "notice": null,
+ "hours": null,
+ "rooms": [
+  {
+   "name": "2F Room A",
+   "areaM2": 136,
+   "ceilingM": 3.7,
+   "theater": 109,
+   "school": 48,
+   "ushape": 48,
+   "standing": 80,
+   "banquet": null,
+   "note": "スクール3名掛け 72席。島型 48席（8島）。T字島型 30席（5島）。シアターは公式表で「ご相談ください」の注記つき"
+  },
+  {
+   "name": "2F Room B",
+   "areaM2": 91,
+   "ceilingM": 3.7,
+   "theater": 64,
+   "school": 36,
+   "ushape": 36,
+   "standing": 50,
+   "banquet": null,
+   "note": "スクール3名掛け 54席。島型 30席（5島）。T字島型 24席（4島）"
+  },
+  {
+   "name": "2F Room C",
+   "areaM2": 130,
+   "ceilingM": 3.7,
+   "theater": 108,
+   "school": 48,
+   "ushape": 48,
+   "standing": 80,
+   "banquet": null,
+   "note": "スクール3名掛け 72席。島型 48席（8島）。T字島型 36席（6島）。シアターは公式表で「ご相談ください」の注記つき"
+  },
+  {
+   "name": "2F Room D",
+   "areaM2": 91,
+   "ceilingM": 3.7,
+   "theater": 61,
+   "school": 36,
+   "ushape": 36,
+   "standing": 50,
+   "banquet": null,
+   "note": "スクール3名掛け 54席。島型 30席（5島）。T字島型 24席（4島）"
+  },
+  {
+   "name": "2F Room E",
+   "areaM2": 128,
+   "ceilingM": 3.7,
+   "theater": 89,
+   "school": 48,
+   "ushape": 48,
+   "standing": 80,
+   "banquet": null,
+   "note": "スクール3名掛け 72席。島型 48席（8島）。T字島型 30席（5島）"
+  },
+  {
+   "name": "2F Room F",
+   "areaM2": 87,
+   "ceilingM": 3.7,
+   "theater": 59,
+   "school": 38,
+   "ushape": 36,
+   "standing": 50,
+   "banquet": null,
+   "note": "スクール3名掛け 57席。島型 30席（5島）。T字島型 24席（4島）"
+  },
+  {
+   "name": "2F Room G",
+   "areaM2": 39,
+   "ceilingM": 3.0,
+   "theater": 26,
+   "school": 14,
+   "ushape": 18,
+   "standing": 20,
+   "banquet": null,
+   "note": "スクール3名掛け 21席。島型 18席（3島）。T字島型 6席（1島）"
+  },
+  {
+   "name": "2F Room H",
+   "areaM2": 18,
+   "ceilingM": 3.0,
+   "theater": 12,
+   "school": 6,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "スクール3名掛け 9席。島型 12席（2島）。T字島型 6席（1島）。シアター・島型は公式表で「ご相談ください」の注記つき"
+  },
+  {
+   "name": "2F Room A+B",
+   "areaM2": 227,
+   "ceilingM": 3.7,
+   "theater": 215,
+   "school": 96,
+   "ushape": 72,
+   "standing": 140,
+   "banquet": null,
+   "note": "スクール3名掛け 144席。島型 84席（14島）。T字島型 66席（11島）。シアターは公式表で「ご相談ください」の注記つき"
+  },
+  {
+   "name": "2F Room B+C",
+   "areaM2": 221,
+   "ceilingM": 3.7,
+   "theater": 202,
+   "school": 96,
+   "ushape": 72,
+   "standing": 130,
+   "banquet": null,
+   "note": "スクール3名掛け 144席。島型 84席（14島）。T字島型 72席（12島）。シアターは公式表で「ご相談ください」の注記つき"
+  },
+  {
+   "name": "2F Room A+B+C",
+   "areaM2": 357,
+   "ceilingM": 3.7,
+   "theater": 359,
+   "school": 168,
+   "ushape": 102,
+   "standing": 220,
+   "banquet": null,
+   "note": "スクール3名掛け 252席。島型 156席（26島）。T字島型 126席（21島）。シアターは公式表で「ご相談ください」の注記つき"
+  },
+  {
+   "name": "2F Room D+E",
+   "areaM2": 219,
+   "ceilingM": 3.7,
+   "theater": 182,
+   "school": 96,
+   "ushape": 72,
+   "standing": 130,
+   "banquet": null,
+   "note": "スクール3名掛け 144席。島型 84席（14島）。T字島型 66席（11島）。シアターは公式表で「ご相談ください」の注記つき"
+  },
+  {
+   "name": "2F 控室",
+   "areaM2": 18,
+   "ceilingM": 3.0,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "島型 8席（1島）。4時間30,800円・8時間42,900円・12時間55,000円（税込）。テーブル1・椅子8・ハンガーラック・姿見・冷蔵庫あり"
+  },
+  {
+   "name": "3F Room 1",
+   "areaM2": 136,
+   "ceilingM": 3.7,
+   "theater": 109,
+   "school": 48,
+   "ushape": 48,
+   "standing": 80,
+   "banquet": null,
+   "note": "スクール3名掛け 72席。島型 48席（8島）。T字島型 30席（5島）。シアターは公式表で「ご相談ください」の注記つき"
+  },
+  {
+   "name": "3F Room 2",
+   "areaM2": 91,
+   "ceilingM": 3.7,
+   "theater": 64,
+   "school": 36,
+   "ushape": 36,
+   "standing": 50,
+   "banquet": null,
+   "note": "スクール3名掛け 54席。島型 30席（5島）。T字島型 24席（4島）"
+  },
+  {
+   "name": "3F Room 3",
+   "areaM2": 130,
+   "ceilingM": 3.7,
+   "theater": 108,
+   "school": 48,
+   "ushape": 48,
+   "standing": 80,
+   "banquet": null,
+   "note": "スクール3名掛け 72席。島型 48席（8島）。T字島型 36席（6島）。シアターは公式表で「ご相談ください」の注記つき"
+  },
+  {
+   "name": "3F Room 4",
+   "areaM2": 91,
+   "ceilingM": 3.7,
+   "theater": 61,
+   "school": 36,
+   "ushape": 36,
+   "standing": 50,
+   "banquet": null,
+   "note": "スクール3名掛け 54席。島型 30席（5島）。T字島型 24席（4島）"
+  },
+  {
+   "name": "3F Room 5",
+   "areaM2": 128,
+   "ceilingM": 3.7,
+   "theater": 89,
+   "school": 48,
+   "ushape": 48,
+   "standing": 80,
+   "banquet": null,
+   "note": "スクール3名掛け 72席。島型 48席（8島）。T字島型 30席（5島）"
+  },
+  {
+   "name": "3F Room 6",
+   "areaM2": 87,
+   "ceilingM": 3.7,
+   "theater": 59,
+   "school": 38,
+   "ushape": 36,
+   "standing": 50,
+   "banquet": null,
+   "note": "スクール3名掛け 57席。島型 30席（5島）。T字島型 24席（4島）"
+  },
+  {
+   "name": "3F Room 7",
+   "areaM2": 39,
+   "ceilingM": 3.0,
+   "theater": 26,
+   "school": 14,
+   "ushape": 18,
+   "standing": 20,
+   "banquet": null,
+   "note": "スクール3名掛け 21席。島型 18席（3島）。T字島型 6席（1島）"
+  },
+  {
+   "name": "3F Room 1+2",
+   "areaM2": 227,
+   "ceilingM": 3.7,
+   "theater": 215,
+   "school": 96,
+   "ushape": 72,
+   "standing": 140,
+   "banquet": null,
+   "note": "スクール3名掛け 144席。島型 84席（14島）。T字島型 66席（11島）。シアターは公式表で「ご相談ください」の注記つき"
+  },
+  {
+   "name": "3F Room 2+3",
+   "areaM2": 221,
+   "ceilingM": 3.7,
+   "theater": 202,
+   "school": 96,
+   "ushape": 72,
+   "standing": 130,
+   "banquet": null,
+   "note": "スクール3名掛け 144席。島型 84席（14島）。T字島型 72席（12島）。シアターは公式表で「ご相談ください」の注記つき"
+  },
+  {
+   "name": "3F Room 1+2+3",
+   "areaM2": 357,
+   "ceilingM": 3.7,
+   "theater": 359,
+   "school": 168,
+   "ushape": 102,
+   "standing": 220,
+   "banquet": null,
+   "note": "スクール3名掛け 252席。島型 156席（26島）。T字島型 126席（21島）。シアターは公式表で「ご相談ください」の注記つき"
+  },
+  {
+   "name": "3F Room 4+5",
+   "areaM2": 219,
+   "ceilingM": 3.7,
+   "theater": 182,
+   "school": 96,
+   "ushape": 72,
+   "standing": 130,
+   "banquet": null,
+   "note": "スクール3名掛け 144席。島型 84席（14島）。T字島型 66席（11島）。シアターは公式表で「ご相談ください」の注記つき"
+  },
+  {
+   "name": "3F 控室",
+   "areaM2": 18,
+   "ceilingM": 3.0,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "島型 8席（1島）。4時間30,800円・8時間42,900円・12時間55,000円（税込）。テーブル1・椅子8・ハンガーラック・姿見・冷蔵庫あり"
+  }
+ ],
+ "roomsSource": "https://www.bellesalle.co.jp/wp-content/uploads/yaesu_price.pdf",
+ "ops": {
+  "prevDaySetup": {
+   "text": "使用時間には準備・後片付けの時間も含まれる（料金表）。荷物の事前受け取りは開催日の前日着が原則で、事前搬入届が必要（搬入物は使用前日のみの受付）。事前到着荷物の受け取り個数は原則各ルーム2箱まで。会場は一部を除き365日24時間利用できる。（出典：利用料金一覧表 2026/7/3更新、事前搬入届、よくあるご質問）",
+   "source": "https://www.bellesalle.co.jp/wp-content/uploads/yaesu_price.pdf"
+  },
+  "loadingHours": {
+   "text": "搬入・搬出車の出入りは使用時間内に行う。事前搬入届を作業日の1週間前までに提出する（未提出だと荷捌き場は使えない）。車両の搬入口はB2階で、搬入扉は幅1,100×高さ2,000mm、荷捌き場の許容寸法は高さ3,000×全長4,700mm（2t車まで、ロング不可）。荷捌き場での積み下ろしは、備品リスト（2026/9/11更新）では30分以内、事前搬入届では原則20分以内と、公式資料内で表記が異なる。台車での搬入は平日8:00〜18:00は1F、平日18:00以降と土日祝は裏口またはB1Fからエレベーターを使う。（出典：会議室 備品リスト 2026/9/11更新、事前搬入届、会場までのアプローチ）",
+   "source": "https://www.bellesalle.co.jp/wp-content/uploads/yaesu_roombihin.pdf"
+  },
+  "vehicleRules": {
+   "text": "荷捌き所は荷物の積み下ろしのみに使い、駐車が必要な場合は外の駐車場を利用する。複数台のときは1台分の荷捌場を時間差で使う。違法駐車や指定駐車場以外のビル周りの路上駐車は厳禁。搬入車両は高さ3,000×長さ4,700mm・重量2.0tまでで、ロング車は不可。使用期間中の荷捌き場には商品・梱包材・ゴミなどを置けない。（出典：事前搬入届、会議室 備品リスト 2026/9/11更新、使用規約 2026ver2 第15条・第16条）",
+   "source": "https://www.bellesalle.co.jp/wp-content/uploads/yaesu_jizen.pdf"
+  },
+  "parking": {
+   "text": "ベルサール専用の駐車場、時間貸しの駐車場、車寄せはない。近隣の時間貸し駐車場は、公式施設ページのリンク先「s-park」（東京都道路整備保全公社）で「ベルサール八重洲」を検索して探す。（出典：会議室 備品リスト 2026/9/11更新、公式施設ページ）",
+   "source": "https://www.bellesalle.co.jp/wp-content/uploads/yaesu_roombihin.pdf"
+  },
+  "waitingRooms": {
+   "text": "2階と3階に控室が1室ずつ（各18㎡）。使用料は4時間30,800円・8時間42,900円・12時間55,000円（各税込）。室内にはテーブル1、椅子8、ハンガーラック、姿見、冷蔵庫がある。（出典：利用料金一覧表 2026/7/3更新、会議室 備品リスト 2026/9/11更新）",
+   "source": "https://www.bellesalle.co.jp/wp-content/uploads/yaesu_price.pdf"
+  },
+  "catering": {
+   "text": "飲食物の持込は可能。ただし飲食の手配に当社指定業者以外を使う場合は「飲食持込手数料」がかかる（パーティー利用時のみ。飲料のみ・弁当の持込は対象外）。金額は会場面積別で、〜300㎡ 100,000円、〜600㎡ 200,000円、〜900㎡ 300,000円、〜1,200㎡ 400,000円、1,201㎡〜 500,000円（税込 各110,000〜550,000円）。（出典：持込料のご案内PDF、よくあるご質問）",
+   "source": "https://www.bellesalle.co.jp/wp-content/uploads/mochikomi_price.pdf"
+  },
+  "restaurants": {
+   "text": "懇親会に適したパーティーメニューが、住友不動産グループ泉レストランのサイトで案内されている。（出典：よくあるご質問）",
+   "source": "https://www.bellesalle.co.jp/faq/"
+  }
+ },
+ "documents": [
+  {
+   "title": "使用規約（2026ver2）",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/kiyaku.pdf"
+  },
+  {
+   "title": "事前搬入届（貸会議室）",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/yaesu_jizen.pdf"
+  },
+  {
+   "title": "持込料のご案内",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/mochikomi_price.pdf"
+  },
+  {
+   "title": "利用料金一覧表（2026/7/3更新）",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/yaesu_price.pdf"
+  },
+  {
+   "title": "料金カレンダー",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/eventhall_calender1.pdf"
+  },
+  {
+   "title": "会議室 備品リスト（2026/9/11更新）",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/yaesu_roombihin.pdf"
+  },
+  {
+   "title": "2F 平面図",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/yaesu_plane_2f.pdf"
+  },
+  {
+   "title": "3F 平面図",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/yaesu_plane_3f.pdf"
+  },
+  {
+   "title": "2F 天井図",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/yaesu_ceiling_2f.pdf"
+  },
+  {
+   "title": "3F 天井図",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/yaesu_ceiling_3f.pdf"
+  },
+  {
+   "title": "2F 床図",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/yaesu_floor_2f.pdf"
+  },
+  {
+   "title": "3F 床図",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/yaesu_floor_3f.pdf"
+  },
+  {
+   "title": "2F 避難経路図",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/yaesu_escape_2f.pdf"
+  },
+  {
+   "title": "3F 避難経路図",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/yaesu_escape_3f.pdf"
+  },
+  {
+   "title": "会場までのアプローチ",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/yaesu_approach.pdf"
+  },
+  {
+   "title": "資料ダウンロード（公式一覧）",
+   "url": "https://www.bellesalle.co.jp/download/bs_yaesu/"
+  },
+  {
+   "title": "よくあるご質問",
+   "url": "https://www.bellesalle.co.jp/faq/"
+  }
+ ],
+ "checkedAt": "2026-10-31",
+ "lat": 35.683052,
+ "lng": 139.771988,
+ "nearby": {
+  "convenience": [
+   {
+    "name": "ローソン 八重洲一丁目店",
+    "brand": "ローソン",
+    "distanceM": 39,
+    "walkMin": 1,
+    "hours": "7:00-22:00（土曜は0:00〜18:00、日曜・祝日は休業）",
+    "address": "東京都中央区八重洲1-3-7",
+    "verified": true,
+    "source": "https://www.areamarker.com/lawson/info/130790",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "ナチュラルローソン 日本橋二丁目店",
+    "brand": "ナチュラルローソン",
+    "distanceM": 51,
+    "walkMin": 1,
+    "hours": "24時間営業",
+    "address": "東京都中央区日本橋2-1-21",
+    "verified": true,
+    "source": "https://www.areamarker.com/lawson/info/238724",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "セブン-イレブン 八重洲1丁目店",
+    "brand": "セブン-イレブン",
+    "distanceM": 96,
+    "walkMin": 2,
+    "hours": "24時間営業",
+    "address": "東京都中央区八重洲1丁目3-18",
+    "verified": true,
+    "source": "https://seven-eleven.areamarker.com/711map/info/547900",
+    "note": "距離は公式の店舗位置で計算"
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "アクセア 東京駅八重洲店",
+    "brand": "アクセア",
+    "distanceM": 367,
+    "walkMin": 5,
+    "hours": "24時間営業",
+    "address": "東京都中央区日本橋3-4-15 八重洲通ビルヂング1F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/entry.html",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "アクセア 新日本橋店",
+    "brand": "アクセア",
+    "distanceM": 678,
+    "walkMin": 9,
+    "hours": "平日9:00〜20:00、土日祝10:00〜19:00",
+    "address": "東京都中央区日本橋本町4-1-1 加島商館ビル 1F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/entry.html",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "3COINS ヤエチカ店",
+    "brand": "3COINS",
+    "distanceM": 414,
+    "walkMin": 6,
+    "hours": "10:00-21:00",
+    "address": "東京都中央区八重洲2-1 八重洲地下街南1号",
+    "verified": true,
+    "source": "https://palcloset.storelocator.jp/map",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "Standard Products ヤエチカ店",
+    "brand": "Standard Products",
+    "distanceM": 415,
+    "walkMin": 6,
+    "hours": "10:00-20:00",
+    "address": "東京都中央区八重洲2-1 八重洲地下街 地下1階",
+    "verified": true,
+    "source": "https://www.daiso-sangyo.co.jp/shop/detail/001475",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "donki": [
+   {
+    "name": "ドン・キホーテ 銀座本館（銀座ナイン3号館）",
+    "brand": "ドン・キホーテ",
+    "distanceM": 1909,
+    "walkMin": 24,
+    "hours": "24時間営業",
+    "address": "東京都中央区銀座8-10 銀座ナイン3号館",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=92",
+    "note": "距離は住所の位置で計算。遠い"
+   },
+   {
+    "name": "ドン・キホーテ 秋葉原店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 1959,
+    "walkMin": 25,
+    "hours": "24時間営業",
+    "address": "東京都千代田区外神田4丁目3-3",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=98",
+    "note": "距離は住所の位置で計算。遠い。ドン・キホーテ公式サイトの店舗名は「秋葉原店」"
+   }
+  ]
+ },
+ "drinkDelivery": {
+  "available": true
+ },
+ "photo": {
+  "src": "/images/venues/bellesalle-yaesu.jpg",
+  "credit": "© Kamome26 / CC BY-SA 4.0 · Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E5%85%AB%E9%87%8D%E6%B4%B2%E3%83%95%E3%82%A1%E3%83%BC%E3%82%B9%E3%83%88%E3%83%95%E3%82%A3%E3%83%8A%E3%83%B3%E3%82%B7%E3%83%A3%E3%83%AB%E3%83%93%E3%83%AB.jpg"
+ }
+}

@@ -1,0 +1,147 @@
+{
+ "slug": "grand-nikko-tokyo-daiba",
+ "name": "Grand Nikko Tokyo Daiba",
+ "address": "Tokyo 135-8701 2-6-1 Daiba, Minato-ku, Tokyo",
+ "accessSummary": "Yurikamome Daiba Station: directly connected / Rinkai Line Tokyo Teleport Station: about 10 min walk",
+ "hours": null,
+ "notice": null,
+ "rooms": [
+  {
+   "name": "B1F Palais Royal - Entire (ABCD, 4/4)",
+   "note": "Area includes the main room and the anteroom. The main room alone is 1,786㎡. The official table notes that the capacities are figures that take social distancing into account."
+  },
+  {
+   "name": "B1F Palais Royal - 3/4 (ABC or BCD)",
+   "note": "Area includes the main room and the anteroom. The main room alone is 1,319㎡."
+  },
+  {
+   "name": "B1F Palais Royal - 1/2 (AB or CD)",
+   "note": "Area includes the main room and the anteroom. The main room alone is 869㎡."
+  },
+  {
+   "name": "B1F Palais Royal - 1/4 (A or D)",
+   "note": "Area includes the main room and the anteroom. The main room alone is 413㎡."
+  },
+  {
+   "name": "B1F Palais Royal - 1/4 (B or C)",
+   "note": "Area includes the main room and the anteroom. The main room alone is 410㎡."
+  },
+  {
+   "name": "B1F Vendome / Etoile / Chatelet (each)",
+   "note": null
+  },
+  {
+   "name": "B1F Fantasy / Harmony / Concerto (each)",
+   "note": null
+  },
+  {
+   "name": "B1F Menuet",
+   "note": null
+  },
+  {
+   "name": "1F Pensee",
+   "note": null
+  },
+  {
+   "name": "1F Mimosa",
+   "note": "For small meetings and breakout sessions."
+  },
+  {
+   "name": "1F Cosmos",
+   "note": "For small meetings and breakout sessions."
+  },
+  {
+   "name": "1F Camellia",
+   "note": "For small meetings and breakout sessions."
+  },
+  {
+   "name": "29F Ginga",
+   "note": null
+  },
+  {
+   "name": "29F Niji",
+   "note": null
+  },
+  {
+   "name": "29F Hikari",
+   "note": null
+  },
+  {
+   "name": "29F Akane",
+   "note": null
+  },
+  {
+   "name": "29F Akatsuki",
+   "note": null
+  },
+  {
+   "name": "3F g&g",
+   "note": null
+  }
+ ],
+ "ops": {
+  "loadingHours": "The reception desk for load-in and load-out differs by time of day. From 9:00 to 12:00 and from 13:00 to 17:20, complete the procedure at the east loading entrance: the person in overall charge of the load-in/out tells the desk the project name, venue name and company name, and receives entry passes for all staff. At all other times, including 12:00 to 13:00, first complete the procedure at the Disaster Prevention Center and then go to the east loading entrance. The loading entrance is covered, and goods can be carried directly to the venue by the freight elevator; available 24 hours (guidance for exhibitions). Vehicle height limits at the loading entrances are 3.7 m at the east loading entrance and 3.4 m at the materials loading entrance. The load-in/out elevator measures W3,000 x H2,500 x D6,000 mm with a load capacity of 4,500 kg.",
+  "vehicleRules": "Work vehicles such as trucks may not be left standing except during load-in and load-out work. Move the vehicle when the work is finished. The vehicle height limit at the B2 parking entrance is 2.1 m.",
+  "parking": "On B2, 374 spaces in total (self-propelled and mechanical; height limit 2.1 m). Open 24 hours; the fee is 550 yen (tax included) per 30 minutes. Banquet and wedding guests park free for 6 hours. Parking reservations are not accepted. Vehicle limits: length 6.0 m, width 2.5 m, height 2.1 m (self-propelled; mechanical: length 5.0 m, width 2.0 m, height 1.55 m, 1.7 t or less). For trucks, buses and other large vehicles that cannot enter the basement, a space on the 1st floor is offered for hotel guests at 8,000 yen per night, with advance reservation required (limited number of spaces).",
+  "waitingRooms": "There is a shared men's and women's changing room with tatami flooring on the 1F. The small banquet and meeting rooms on the 1F (Pensee, Mimosa, Cosmos, Camellia) are described as rooms that can be used for meetings, waiting rooms and so on. (Digital brochure)",
+  "restaurants": "Inside the hotel are The Grill on 30th, The Bar & Lounge, Teppanyaki Icho (鉄板焼 銀杏), Sushi Tamakagari (鮨 玉かがり) and Tempura Tamae (天ぷら 玉衣) (all on the 30F), Chinese Restaurant Toh-Lee (中国料理 桃李) and The Lobby Cafe (both on the 2F), GARDEN DINING (1F), and Italian Restaurant Incontro (イタリア料理 インコントロ) (Atrium Wing 2F), among others. The official website has a page on private rooms and exclusive use."
+ },
+ "documents": [
+  {
+   "title": "Floor Map (PDF)"
+  },
+  {
+   "title": "Load-in / Load-out Guide (loading entrance and entry procedure)"
+  },
+  {
+   "title": "Parking Guide"
+  },
+  {
+   "title": "Meeting Plan 2026 (January to December 2026)"
+  },
+  {
+   "title": "Party Plan 2026 (January to December 2026)"
+  },
+  {
+   "title": "Food Allergy Policy (PDF)"
+  },
+  {
+   "title": "Digital Brochure (8 pages, images only)"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "7-Eleven Daiba Ekimae",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "Lawson Hilton Tokyo Odaiba",
+    "hours": "6:30-23:00",
+    "note": "Distance is calculated from the official store location."
+   }
+  ],
+  "copyshop": [],
+  "hundredYen": [
+   {
+    "name": "Seria Aqua City Odaiba",
+    "hours": "Mon 11:00-20:00 / Tue 11:00-21:00 / Wed-Fri 11:00-20:00 / Sat-Sun 11:00-21:00",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "DAISO DECKS Tokyo Beach",
+    "hours": "11:00-20:00",
+    "note": "Distance is calculated from the official store location."
+   }
+  ],
+  "donki": [
+   {
+    "name": "Kirakira Donki Diver City Tokyo Plaza",
+    "hours": "10:00-21:00",
+    "note": "Distance is calculated from the address location. This is a different Don Quijote format (the official website lists the store as \"Kirakira Donki Diver City Tokyo Plaza\")."
+   }
+  ]
+ },
+ "photoCredit": "© Rs1421 / CC BY-SA 3.0 · Wikimedia Commons"
+}

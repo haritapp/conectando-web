@@ -1,0 +1,194 @@
+{
+ "slug": "bellesalle-haneda",
+ "name": "Bellesalle Haneda Airport",
+ "address": "Tokyo 144-0041 Haneda Airport Garden, 2-7-1 Haneda Airport, Ota-ku",
+ "accessSummary": "Haneda Airport Terminal 3 Station (Keikyu Line / Tokyo Monorail): 1 min walk (1 min walk to the entrance of Haneda Airport Garden, 4 min walk to the Bellesalle entrance)",
+ "hours": "Standard usage time is 8:00-21:00 (time beyond this is charged an extension fee). Open every day of the year in principle (may close temporarily for equipment inspections, etc.).",
+ "notice": null,
+ "rooms": [
+  {
+   "name": "1F Grand Foyer",
+   "note": "The area of 183㎡ is from the price list (updated 2026/1/23); the official venue list page gives about 184㎡. The ceiling height is about 13.5m, from the venue list page. It can also be used together with the Event Hall."
+  },
+  {
+   "name": "1F HALL - Entire Hall",
+   "note": "Classroom, 3 per desk: 780 seats. Island layout (6 per island): 660 seats (110 islands). T-shaped island layout (6 per island): 540 seats (90 islands). Round tables (8 per table): 336 seats (42 tables). Separate Grand Foyer."
+  },
+  {
+   "name": "1F HALL A",
+   "note": "Classroom, 3 per desk: 378 seats. Island layout (6 per island): 336 seats (56 islands). T-shaped island layout (6 per island): 252 seats (42 islands). Round tables (8 per table): 176 seats (22 tables)."
+  },
+  {
+   "name": "1F HALL B",
+   "note": "Classroom, 3 per desk: 378 seats. Island layout (6 per island): 336 seats (56 islands). T-shaped island layout (6 per island): 252 seats (42 islands). Round tables (8 per table): 176 seats (22 tables)."
+  },
+  {
+   "name": "1F ROOM 1",
+   "note": "Classroom, 3 per desk: 72 seats. Island layout (6 per island): 48 seats (8 islands). T-shaped island layout (6 per island): 30 seats (5 islands). Round tables (8 per table): 40 seats (5 tables)."
+  },
+  {
+   "name": "1F ROOM 2",
+   "note": "Classroom, 3 per desk: 72 seats. Island layout (6 per island): 48 seats (8 islands). T-shaped island layout (6 per island): 30 seats (5 islands). Round tables (8 per table): 40 seats (5 tables)."
+  },
+  {
+   "name": "1F ROOM 3",
+   "note": "Classroom, 3 per desk: 72 seats. Island layout (6 per island): 48 seats (8 islands). T-shaped island layout (6 per island): 30 seats (5 islands). Round tables (8 per table): 40 seats (5 tables)."
+  },
+  {
+   "name": "1F ROOM 4",
+   "note": "Classroom, 3 per desk: 72 seats. Island layout (6 per island): 48 seats (8 islands). T-shaped island layout (6 per island): 30 seats (5 islands). Round tables (8 per table): 40 seats (5 tables)."
+  },
+  {
+   "name": "1F ROOM 5",
+   "note": "Classroom, 3 per desk: 72 seats. Island layout (6 per island): 48 seats (8 islands). T-shaped island layout (6 per island): 30 seats (5 islands). Round tables (8 per table): 40 seats (5 tables)."
+  },
+  {
+   "name": "1F ROOM 2+3",
+   "note": "Classroom, 3 per desk: 120 seats. Island layout (6 per island): 96 seats (16 islands). T-shaped island layout (6 per island): 60 seats (10 islands). Round tables (8 per table): 80 seats (10 tables)."
+  },
+  {
+   "name": "1F ROOM 3+4",
+   "note": "Classroom, 3 per desk: 120 seats. Island layout (6 per island): 96 seats (16 islands). T-shaped island layout (6 per island): 60 seats (10 islands). Round tables (8 per table): 80 seats (10 tables)."
+  },
+  {
+   "name": "1F ROOM 4+5",
+   "note": "Classroom, 3 per desk: 120 seats. Island layout (6 per island): 96 seats (16 islands). T-shaped island layout (6 per island): 60 seats (10 islands). Round tables (8 per table): 80 seats (10 tables)."
+  },
+  {
+   "name": "1F ROOM 2+3+4",
+   "note": "Classroom, 3 per desk: 186 seats. Island layout (6 per island): 144 seats (24 islands). T-shaped island layout (6 per island): 90 seats (15 islands). Round tables (8 per table): 120 seats (15 tables)."
+  },
+  {
+   "name": "1F ROOM 3+4+5",
+   "note": "Classroom, 3 per desk: 186 seats. Island layout (6 per island): 144 seats (24 islands). T-shaped island layout (6 per island): 90 seats (15 islands). Round tables (8 per table): 120 seats (15 tables)."
+  },
+  {
+   "name": "1F ROOM 2+3+4+5",
+   "note": "Classroom, 3 per desk: 252 seats. Island layout (6 per island): 192 seats (32 islands). T-shaped island layout (6 per island): 120 seats (20 islands). Round tables (8 per table): 160 seats (20 tables)."
+  },
+  {
+   "name": "1F ROOM 6",
+   "note": "Classroom, 3 per desk: 72 seats. Island layout (6 per island): 48 seats (8 islands). T-shaped island layout (6 per island): 30 seats (5 islands). Round tables (8 per table): 40 seats (5 tables)."
+  },
+  {
+   "name": "1F ROOM 7",
+   "note": "Classroom, 3 per desk: 72 seats. Island layout (6 per island): 48 seats (8 islands). T-shaped island layout (6 per island): 30 seats (5 islands). Round tables (8 per table): 40 seats (5 tables)."
+  },
+  {
+   "name": "1F ROOM 8",
+   "note": "Classroom, 3 per desk: 72 seats. Island layout (6 per island): 48 seats (8 islands). T-shaped island layout (6 per island): 30 seats (5 islands). Round tables (8 per table): 40 seats (5 tables)."
+  },
+  {
+   "name": "1F ROOM 9",
+   "note": "Classroom, 3 per desk: 72 seats. Island layout (6 per island): 48 seats (8 islands). T-shaped island layout (6 per island): 30 seats (5 islands). Round tables (8 per table): 40 seats (5 tables)."
+  },
+  {
+   "name": "1F ROOM 10",
+   "note": "Classroom, 3 per desk: 72 seats. Island layout (6 per island): 48 seats (8 islands). T-shaped island layout (6 per island): 30 seats (5 islands). Round tables (8 per table): 40 seats (5 tables)."
+  },
+  {
+   "name": "1F ROOM 6+7",
+   "note": "Classroom, 3 per desk: 141 seats. Island layout (6 per island): 96 seats (16 islands). T-shaped island layout (6 per island): 60 seats (10 islands). Round tables (8 per table): 80 seats (10 tables)."
+  },
+  {
+   "name": "1F ROOM 8+9",
+   "note": "Classroom, 3 per desk: 141 seats. Island layout (6 per island): 96 seats (16 islands). T-shaped island layout (6 per island): 60 seats (10 islands). Round tables (8 per table): 80 seats (10 tables)."
+  },
+  {
+   "name": "1F ROOM 9+10",
+   "note": "Classroom, 3 per desk: 141 seats. Island layout (6 per island): 96 seats (16 islands). T-shaped island layout (6 per island): 60 seats (10 islands). Round tables (8 per table): 80 seats (10 tables)."
+  },
+  {
+   "name": "1F ROOM 8+9+10",
+   "note": "Classroom, 3 per desk: 198 seats. Island layout (6 per island): 144 seats (24 islands). T-shaped island layout (6 per island): 90 seats (15 islands). Round tables (8 per table): 120 seats (15 tables)."
+  },
+  {
+   "name": "1F Event Hall Waiting Room 1",
+   "note": "4 seats. 16,500 yen for 4 hours, 36,300 yen for 9 hours, 45,100 yen for 12 hours (all tax included). The hotel's bar lounge or guest rooms can also be used as waiting rooms (extra charge)."
+  },
+  {
+   "name": "1F Event Hall Waiting Room 2",
+   "note": "4 seats. 16,500 yen for 4 hours, 36,300 yen for 9 hours, 45,100 yen for 12 hours (all tax included). The hotel's bar lounge or guest rooms can also be used as waiting rooms (extra charge)."
+  },
+  {
+   "name": "4F Banquet Room Premier",
+   "note": "Classroom, 3 per desk: 60 seats. Island layout (6 per island): 36 seats (6 islands). T-shaped island layout (6 per island): 24 seats (4 islands). Round tables (8 per table): 32 seats (4 tables)."
+  }
+ ],
+ "ops": {
+  "prevDaySetup": "Usage time is the time from the start of setup to leaving after restoring the room to its original condition, so it includes setup and teardown. The standard usage time for conference rooms and the event hall falls within the 8:00-21:00 window (conference rooms: 4, 9 or 12 hours; hall: 9 or 12 hours). To have packages received in advance, submit an advance load-in notice; the arrival date and time are specified by the venue. (Source: Terms of Use (Usage Manual) created July 30, 2024, Articles 6 and 20)",
+  "loadingHours": "Delivery vehicles for load-in and load-out must enter and leave during the usage time, from the designated location. Submit an advance load-in notice or a load-in/load-out schedule at least 1 week before the first day of use. 4-ton trucks can load into the Event Hall. The venue may adjust load-in times. (Source: Terms of Use (Usage Manual) created July 30, 2024, Article 17; venue list page)",
+  "vehicleRules": "Street parking around the building is prohibited. When load-in and load-out vehicles are likely to be congested, staff are posted at the entrances and exits. During the usage period, goods, packing materials, decoration materials, trash and the like may not be left in the loading area, and the load-in/load-out doors must be kept closed at all times. Observe the \"Sumitomo Realty & Development Protective Covering Standards\" when loading in and out. (Source: Terms of Use (Usage Manual) created July 30, 2024, Articles 10, 16 and 17)",
+  "parking": "The Haneda Airport Garden parking lot is open 24 hours a day, every day of the year. Parking lot A has 288 standard-car spaces (reservations accepted) and parking lot B has 155 standard-car spaces. Vehicles must be within 2.3m in height, 2.1m in width and 5.5m in length. The rate is 300 yen per hour from entry in the regular season and 500 yen per hour in the peak season, with no maximum charge per 24 hours. Parking may not be possible when it is crowded, so the official site recommends using public transportation.",
+  "waitingRooms": "There are 2 waiting rooms available when the Event Hall is used (Waiting Room 1 is 17㎡ and Waiting Room 2 is 12㎡, 4 seats each). The usage fee is 16,500 yen for 4 hours, 36,300 yen for 9 hours and 45,100 yen for 12 hours (all tax included). The hotel's bar lounge or guest rooms can also be used as waiting rooms (extra charge). (Source: Price list updated 2026/1/23, Usage Manual Article 9, equipment and services page)",
+  "catering": "If a caterer other than the operator's designated vendors is used for food and drink, a separate \"outside food/drink fee\" applies. The official equipment and services page introduces menus for post-training networking events and reception parties from Hotel Metropolitan Edmont (full-course formal dining), Folie Classe (finger food), Dynac (cup dishes; vegetarian and gluten-free boxed meals available) and Cordon Bleu (live-station dishes such as sushi and roast beef), and says catering is also available. (Source: Terms of Use (Usage Manual) Article 5, equipment and services page)",
+  "restaurants": "The venue is inside a complex (Haneda Airport Garden) that combines a hotel, a natural hot spring, shops and restaurants. The official site says that networking events and reception parties after training can be arranged freely according to the content of the event and the budget. (Source: features page, equipment and services page)"
+ },
+ "documents": [
+  {
+   "title": "Usage Manual (Terms of Use) (created July 30, 2024)"
+  },
+  {
+   "title": "Price List (updated 2026/1/23)"
+  },
+  {
+   "title": "Floor Plan (Event Hall and Conference Rooms)"
+  },
+  {
+   "title": "HALL A and B Drawing"
+  },
+  {
+   "title": "ROOM 1 Drawing"
+  },
+  {
+   "title": "ROOM 2+3+4+5 Drawing"
+  },
+  {
+   "title": "ROOM 6 Drawing"
+  },
+  {
+   "title": "ROOM 8+9+10 Drawing"
+  },
+  {
+   "title": "1F Hall Equipment Overview"
+  },
+  {
+   "title": "1F Hall Equipment List"
+  },
+  {
+   "title": "Conference Room Equipment List"
+  },
+  {
+   "title": "Haneda Airport Garden Parking Lot"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "Lawson Haneda Airport Garden Souvenir Store",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "Lawson Haneda Airport Garden Store",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "7-Eleven Keikyu Station Haneda Airport Terminal 3 Store",
+    "hours": "6:00-23:00 (Mon-Sun & holidays)",
+    "note": "Distance is calculated from the official store location."
+   }
+  ],
+  "copyshop": [],
+  "hundredYen": [],
+  "donki": [
+   {
+    "name": "Sora Donki Haneda Airport Store",
+    "hours": "9:00-22:40",
+    "note": "Distance is calculated from the address location. This is a separate Don Quijote format (the store name on the official website is \"Sora Donki Haneda Airport Store\" (ソラドンキ羽田空港店))."
+   }
+  ]
+ },
+ "photoCredit": "Photo shows Haneda Innovation City, the complex where the venue is located. © Mr.Asylum / CC BY-SA 4.0 · Wikimedia Commons"
+}
