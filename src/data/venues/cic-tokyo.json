@@ -1,0 +1,194 @@
+{
+ "slug": "cic-tokyo",
+ "nameJa": "CIC Tokyo",
+ "nameEn": "CIC Tokyo",
+ "type": "conference",
+ "area": "toranomon-roppongi-venues",
+ "address": "〒105-6415 東京都港区虎ノ門1-17-1 虎ノ門ヒルズビジネスタワー15階",
+ "officialUrl": "https://jp.cic.com/",
+ "organizerUrl": "https://jp.cic.com/event-space-rentals/",
+ "bizintokyoSlug": "cic-tokyo",
+ "accessSummary": "虎ノ門ヒルズ駅（日比谷線）直結／虎ノ門駅（銀座線）B2・B3・B4出口／霞ケ関駅（千代田線・丸ノ内線・日比谷線）A12出口／内幸町駅（三田線）A3出口／新橋駅（JR）徒歩約11分",
+ "notice": null,
+ "hours": "平日9:00-21:00（ベンチャーカフェは平日17:00-21:00）。イベントは21時までに閉会し、22時までに完全撤収。木曜はベンチャーカフェが終日、ニジが13時以降利用不可。土日祝は相談（2023年11月版PDF）",
+ "rooms": [
+  {
+   "name": "TOKYO Venture Café（15階）",
+   "areaM2": 261.62,
+   "ceilingM": null,
+   "theater": 80,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "公式ページの収容人数は着席60〜80名＋スタンディング40名程度。2023年11月版PDFでは階段席約40席・カフェチェア15席。利用料は1時間80,000円（税別）、平日21時以降・休日は35%増し。設営はイベント開始90分前から可能（設営時間も会場費）"
+  },
+  {
+   "name": "Niji（15階）",
+   "areaM2": 74.88,
+   "ceilingM": null,
+   "theater": 50,
+   "school": 36,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "公式ページはレクチャー形式 着席50名程度、2023年11月版PDFはレクチャー約40席。スクールは36席（12テーブル）。利用料は9:00-14:00が1時間40,000円、14:00-21:00が1時間60,000円（税別）、平日21時以降・休日は35%増し"
+  },
+  {
+   "name": "The American Room",
+   "areaM2": 48.2,
+   "ceilingM": null,
+   "theater": 30,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "着席30名程度。会場スポンサーが占有する会場で、スポンサーの予約がない日時のみ予約可。利用料は9:00-14:00が1時間33,000円、14:00-21:00が1時間50,000円（税別）、平日21時以降・休日は35%増し。階数は公式ページが15階、2023年11月版PDFが16階"
+  }
+ ],
+ "roomsSource": "https://jp.cic.com/event-space-rentals/（面積・利用料は https://jp.cic.com/wp-content/uploads/2024/10/General-CIC-Tokyo-Event-Space-info-2023-Nov.pdf）",
+ "ops": {
+  "loadingHours": {
+   "text": "ベンチャーカフェの設営は、イベント開始の90分前から可能（設営時間にも会場費がかかる）。どの会場もイベントは21時までに閉会し、22時までに完全撤収する必要があり、撤収時間にも会場費がかかる。平日9時前・18時以降と休日は、スタッフ立会費が1人25,000円（税別）加わるのが原則。（2023年11月版）",
+   "source": "https://jp.cic.com/wp-content/uploads/2024/10/General-CIC-Tokyo-Event-Space-info-2023-Nov.pdf"
+  },
+  "catering": {
+   "text": "CICが注文歴のあるケータリング業者の紹介や、代理での注文を受け付けている。",
+   "source": "https://jp.cic.com/event-space-rentals/"
+  }
+ },
+ "documents": [
+  {
+   "title": "CIC Tokyo イベントスペース資料（2023年11月版）",
+   "url": "https://jp.cic.com/wp-content/uploads/2024/10/General-CIC-Tokyo-Event-Space-info-2023-Nov.pdf"
+  },
+  {
+   "title": "レンタルイベントスペース（公式）",
+   "url": "https://jp.cic.com/event-space-rentals/"
+  },
+  {
+   "title": "CIC Tokyo 概要・アクセス（公式）",
+   "url": "https://jp.cic.com/cic-tokyo/"
+  }
+ ],
+ "checkedAt": "2026-10-31",
+ "lat": 35.667774,
+ "lng": 139.749924,
+ "nearby": {
+  "convenience": [
+   {
+    "name": "アーバン・ファミマ虎ノ門HBT店",
+    "brand": "ファミリーマート",
+    "distanceM": 47,
+    "walkMin": 1,
+    "hours": "7:00-23:00",
+    "address": "東京都港区虎ノ門1丁目17番1号",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/57163",
+    "note": "距離は公式店舗一覧の位置で計算（住所の位置では会場と同じ街区のため）"
+   },
+   {
+    "name": "ファミリーマート 虎ノ門一丁目店",
+    "brand": "ファミリーマート",
+    "distanceM": 99,
+    "walkMin": 2,
+    "hours": "24時間営業",
+    "address": "東京都港区虎ノ門1-12-1",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/24363",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "ファミマ虎ノ門ヒルズ店",
+    "brand": "ファミリーマート",
+    "distanceM": 123,
+    "walkMin": 2,
+    "hours": "7:00-23:00",
+    "address": "東京都港区虎ノ門1丁目23-3",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/57760",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "キンコーズ・虎ノ門店",
+    "brand": "キンコーズ",
+    "distanceM": 125,
+    "walkMin": 2,
+    "hours": "平日 9:00-20:00／土・日・祝 休業",
+    "address": "東京都港区虎ノ門1丁目14-1 郵政福祉琴平ビル1F",
+    "verified": true,
+    "source": "https://www.kinkos.co.jp/store/tokyo/t001/",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "アクセア 虎ノ門店",
+    "brand": "アクセア",
+    "distanceM": 286,
+    "walkMin": 4,
+    "hours": "平日24時間営業（月曜朝8時から土曜夜19時まで休まず営業）／土〜19:00、日祝 10:00〜19:00（平日の祝前日は休まず営業）",
+    "address": "東京都港区虎ノ門1-1-21 新虎ノ門実業会館 1F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/entry.html",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Can★Do 城山ヒルズ店",
+    "brand": "キャンドゥ",
+    "distanceM": 553,
+    "walkMin": 7,
+    "hours": "毎日 9:00-23:00",
+    "address": "東京都港区虎ノ門4-1-17 神谷町プライムプレイスB1階",
+    "verified": true,
+    "source": "https://shopinfo.cando-web.co.jp/detail/shop-1835/",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "3COINS OOOPS! 新橋駅汐留口店",
+    "brand": "3COINS",
+    "distanceM": 804,
+    "walkMin": 11,
+    "hours": "平日 8:00-22:00／土日祝 10:00-21:00",
+    "address": "東京都港区新橋2丁目17-14 JR新橋駅構内B1F",
+    "verified": true,
+    "source": "https://palcloset.storelocator.jp/map",
+    "note": "距離は公式の店舗位置で計算。公式の3COINS店舗一覧に載る駅ナカ業態「OOOPS!」"
+   }
+  ],
+  "donki": [
+   {
+    "name": "ドン・キホーテ 銀座本館（銀座ナイン3号館）",
+    "brand": "ドン・キホーテ",
+    "distanceM": 1119,
+    "walkMin": 14,
+    "hours": "24時間営業",
+    "address": "東京都中央区銀座8-10 銀座ナイン3号 館",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=92",
+    "note": "距離は住所の位置で計算。遠め"
+   },
+   {
+    "name": "ピカソ赤坂店（ドン・キホーテ）",
+    "brand": "ドン・キホーテ",
+    "distanceM": 1382,
+    "walkMin": 18,
+    "hours": "7:00-3:00",
+    "address": "東京都港区赤坂3-11-14",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=289",
+    "note": "距離は住所の位置で計算。遠め。ドン・キホーテの別業態（公式サイトの店舗名は「ピカソ赤坂店」）"
+   }
+  ]
+ },
+ "drinkDelivery": {
+  "available": true
+ },
+ "photo": {
+  "src": "/images/venues/cic-tokyo.jpg",
+  "credit": "© Syced / CC0 · Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Architecture_in_Toranomon_(cropped)_-_Toranomon_Hills_Business_Tower.jpg"
+ }
+}

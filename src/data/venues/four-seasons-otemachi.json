@@ -1,0 +1,247 @@
+{
+ "slug": "four-seasons-otemachi",
+ "nameJa": "フォーシーズンズホテル東京大手町",
+ "nameEn": "Four Seasons Hotel Tokyo at Otemachi",
+ "type": "hotel",
+ "area": "marunouchi-nihonbashi-venues",
+ "address": "〒100-0004 東京都千代田区大手町1-2-1 Otemachi One Tower 34-39階",
+ "officialUrl": "https://www.fourseasons.com/jp/otemachi/",
+ "organizerUrl": "https://www.fourseasons.com/jp/otemachi/meetings-and-events/",
+ "bizintokyoSlug": "four_seasons_otemachi",
+ "accessSummary": "大手町駅（東京メトロ・都営三田線）C4出口に直結",
+ "notice": null,
+ "hours": null,
+ "rooms": [
+  {
+   "name": "3F グランドボールルーム",
+   "areaM2": 446,
+   "ceilingM": 6.0,
+   "theater": 400,
+   "school": 216,
+   "ushape": null,
+   "standing": 300,
+   "banquet": 200,
+   "note": "2つの会場に分割可能（1室は窓あり、1室は窓なし）。寸法16.4×23.4m。バンケットは円卓"
+  },
+  {
+   "name": "3F ボールルームホワイエ",
+   "areaM2": 125,
+   "ceilingM": 4.9,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": 100,
+   "banquet": null,
+   "note": null
+  },
+  {
+   "name": "3F ミーティングルーム",
+   "areaM2": 129,
+   "ceilingM": 5.1,
+   "theater": 78,
+   "school": 54,
+   "ushape": null,
+   "standing": 60,
+   "banquet": 60,
+   "note": "会議形式（カンファレンス）28名。バンケットは円卓"
+  },
+  {
+   "name": "3F ミーティングルーム1",
+   "areaM2": 40,
+   "ceilingM": 5.1,
+   "theater": 24,
+   "school": 18,
+   "ushape": null,
+   "standing": 20,
+   "banquet": 20,
+   "note": "会議形式（カンファレンス）18名。バンケットは円卓"
+  },
+  {
+   "name": "3F ミーティングルーム2",
+   "areaM2": 40,
+   "ceilingM": 5.1,
+   "theater": 24,
+   "school": 18,
+   "ushape": null,
+   "standing": 20,
+   "banquet": 20,
+   "note": "会議形式（カンファレンス）18名。バンケットは円卓"
+  },
+  {
+   "name": "3F ミーティングルーム3",
+   "areaM2": 49,
+   "ceilingM": 5.1,
+   "theater": 30,
+   "school": 18,
+   "ushape": null,
+   "standing": 20,
+   "banquet": 20,
+   "note": "会議形式（カンファレンス）18名。バンケットは円卓"
+  },
+  {
+   "name": "3F チャペル",
+   "areaM2": 72,
+   "ceilingM": 5.8,
+   "theater": 48,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "寸法5.9×11m"
+  },
+  {
+   "name": "3F ミーティングルーム ホワイエ",
+   "areaM2": 54,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": 30,
+   "banquet": null,
+   "note": null
+  },
+  {
+   "name": "39F ソーシャルルーム",
+   "areaM2": 176,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": 30,
+   "banquet": 12,
+   "note": "キッチン付き。80インチのモニターあり。ダイニングテーブル12名"
+  }
+ ],
+ "roomsSource": "https://www.fourseasons.com/jp/otemachi/meetings-and-events/（各部屋ページ：function-rooms/third-floor/grand-ballroom/ ほか）",
+ "ops": {
+  "parking": {
+   "text": "セルフパーキングはOTEMACHI ONE地下駐車場（営業時間7:00〜23:00）で、入庫可能サイズは車長5.3m・車幅2.0m・車高1.5m。料金は30分400円、営業時間外は1時間100円。宿泊客は1泊1台5,000円（24時間）。バレーパーキングは宿泊客6,500円、レストラン利用客1,500円（別途セルフパーキング料金が必要）。出入口は建物の北側。",
+   "source": "https://www.fourseasons.com/jp/otemachi/getting-here/"
+  },
+  "restaurants": {
+   "text": "館内にPIGNETO（イタリア料理、プライベートルーム1室とルーフトップテラス）、est（コンテンポラリーフレンチ、セミプライベートルーム3室とルーフトップテラス）、THE LOUNGE、VIRTÙ（バー。プライベートラウンジはウェルカムカクテルの会場として案内）がある。estとPIGNETOのルーフトップテラスは貸切パーティーに対応。",
+   "source": "https://www.fourseasons.com/jp/otemachi/meetings-and-events/food-and-beverage/"
+  }
+ },
+ "documents": [],
+ "checkedAt": "2026-10-31",
+ "lat": 35.687737,
+ "lng": 139.76265,
+ "nearby": {
+  "convenience": [
+   {
+    "name": "ファミマ大手町パークビル店",
+    "brand": "ファミリーマート",
+    "distanceM": 106,
+    "walkMin": 2,
+    "hours": "7:00-23:00",
+    "address": "東京都千代田区大手町1丁目1-1",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/23533",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "ナチュラルローソン 大手町西メトロピア店",
+    "brand": "ナチュラルローソン",
+    "distanceM": 129,
+    "walkMin": 2,
+    "hours": "7:00-23:00",
+    "address": "東京都千代田区大手町1-6-1 半蔵門線大手町駅構内",
+    "verified": true,
+    "source": "https://www.areamarker.com/lawson/info/169578",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "ローソン 大手センタービル店",
+    "brand": "ローソン",
+    "distanceM": 175,
+    "walkMin": 3,
+    "hours": "7:00-21:00",
+    "address": "東京都千代田区大手町1-1-3",
+    "verified": true,
+    "source": "https://www.areamarker.com/lawson/info/380882",
+    "note": "距離は公式の店舗位置で計算"
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "キンコーズ・大手町店",
+    "brand": "キンコーズ",
+    "distanceM": 240,
+    "walkMin": 3,
+    "hours": "平日 9:00-20:00／土・日・祝 休業",
+    "address": "東京都千代田区大手町1丁目6-1 大手町ビル1F",
+    "verified": true,
+    "source": "https://www.kinkos.co.jp/store/tokyo/t005/",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "アクセア 大手町店",
+    "brand": "アクセア",
+    "distanceM": 462,
+    "walkMin": 6,
+    "hours": "24時間営業（年中無休）",
+    "address": "東京都千代田区内神田2-2-6 田中ビル1F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/entry.html",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Can★Do 丸の内オアゾ店",
+    "brand": "キャンドゥ",
+    "distanceM": 549,
+    "walkMin": 7,
+    "hours": "月〜金 8:00-22:00／土〜日 9:00-21:00",
+    "address": "東京都千代田区丸の内1-6-4 丸の内オアゾ地下1階",
+    "verified": true,
+    "source": "https://shopinfo.cando-web.co.jp/detail/shop-5550/",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "DAISO 神田神保町すずらん通り店",
+    "brand": "ダイソー",
+    "distanceM": 901,
+    "walkMin": 12,
+    "hours": "10:00-21:00",
+    "address": "東京都千代田区神田神保町1-1-17 東京堂神保町第3ビルディング 1階",
+    "verified": true,
+    "source": "https://www.daiso-sangyo.co.jp/shop/detail/008732",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "donki": [
+   {
+    "name": "ドン・キホーテ 秋葉原店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 1654,
+    "walkMin": 21,
+    "hours": "24時間営業",
+    "address": "東京都千代田区外神田4丁目3-3",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=98",
+    "note": "距離は住所の位置で計算。遠い。ドン・キホーテ公式サイトの店舗名は「秋葉原店」"
+   },
+   {
+    "name": "ドン・キホーテ 銀座本館（銀座ナイン3号館）",
+    "brand": "ドン・キホーテ",
+    "distanceM": 2218,
+    "walkMin": 28,
+    "hours": "24時間営業",
+    "address": "東京都中央区銀座8-10 銀座ナイン3号館",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=92",
+    "note": "距離は住所の位置で計算。遠い"
+   }
+  ]
+ },
+ "drinkDelivery": {
+  "available": true
+ },
+ "photo": {
+  "src": "/images/venues/four-seasons-otemachi.jpg",
+  "credit": "© VVVN / CC BY 3.0 · Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Otemachi_One_Tower_(corner_side).jpg"
+ }
+}

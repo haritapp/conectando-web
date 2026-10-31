@@ -1,0 +1,335 @@
+{
+ "slug": "grand-hyatt-tokyo",
+ "nameJa": "グランド ハイアット 東京",
+ "nameEn": "Grand Hyatt Tokyo",
+ "type": "hotel",
+ "area": "toranomon-roppongi-venues",
+ "address": "〒106-0032 東京都港区六本木6-10-3",
+ "officialUrl": "https://www.tokyo.grand.hyatt.co.jp/",
+ "organizerUrl": "https://www.tokyo.grand.hyatt.co.jp/banquets/",
+ "bizintokyoSlug": "grand_hyatt_tokyo",
+ "accessSummary": "東京メトロ日比谷線「六本木」駅 1C出口 徒歩3分／都営大江戸線「六本木」駅 3番出口 徒歩6分",
+ "notice": null,
+ "hours": null,
+ "rooms": [
+  {
+   "name": "3F グランド ボールルーム 全体",
+   "areaM2": 1000,
+   "ceilingM": 6.6,
+   "theater": 1200,
+   "school": 720,
+   "ushape": null,
+   "standing": 1000,
+   "banquet": 600,
+   "note": "防音壁により2分割使用が可能。ボード（会議形式）は公式表で「-」"
+  },
+  {
+   "name": "3F グランド ボールルーム イースト／ウエスト",
+   "areaM2": 500,
+   "ceilingM": 6.6,
+   "theater": 550,
+   "school": 300,
+   "ushape": 80,
+   "standing": 350,
+   "banquet": 300,
+   "note": "ウエストのみ左側面に317inのLEDスクリーン"
+  },
+  {
+   "name": "3F タラゴン／コリアンダー",
+   "areaM2": 320,
+   "ceilingM": 3.9,
+   "theater": 300,
+   "school": 180,
+   "ushape": 60,
+   "standing": 200,
+   "banquet": 180,
+   "note": null
+  },
+  {
+   "name": "2F レジデンス バジル",
+   "areaM2": 230,
+   "ceilingM": 4.0,
+   "theater": 280,
+   "school": 135,
+   "ushape": 45,
+   "standing": 150,
+   "banquet": 130,
+   "note": "ショーキッチン併設"
+  },
+  {
+   "name": "2F レジデンス アニス",
+   "areaM2": 190,
+   "ceilingM": 4.0,
+   "theater": 220,
+   "school": 105,
+   "ushape": 40,
+   "standing": 120,
+   "banquet": 120,
+   "note": null
+  },
+  {
+   "name": "2F ドローイングルーム",
+   "areaM2": 140,
+   "ceilingM": 3.9,
+   "theater": 100,
+   "school": 50,
+   "ushape": 30,
+   "standing": 80,
+   "banquet": 50,
+   "note": "ボード18名"
+  },
+  {
+   "name": "4F タイムA〜E 全室",
+   "areaM2": 240,
+   "ceilingM": 3.2,
+   "theater": 216,
+   "school": 117,
+   "ushape": 60,
+   "standing": 80,
+   "banquet": 50,
+   "note": "ボード60名。可動式パーテーションで最大6分割"
+  },
+  {
+   "name": "4F タイム 3室利用",
+   "areaM2": 120,
+   "ceilingM": 3.2,
+   "theater": 120,
+   "school": 72,
+   "ushape": 30,
+   "standing": 60,
+   "banquet": 40,
+   "note": "ボード36名。正餐40名・立食60名はタイムC・D・E利用の場合"
+  },
+  {
+   "name": "4F タイム 2室利用",
+   "areaM2": 80,
+   "ceilingM": 3.2,
+   "theater": 72,
+   "school": 45,
+   "ushape": 24,
+   "standing": 40,
+   "banquet": 30,
+   "note": "ボード24名。正餐30名・立食40名はタイムD・E利用の場合"
+  },
+  {
+   "name": "4F タイム 1室利用",
+   "areaM2": 40,
+   "ceilingM": 3.2,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "ボード6名"
+  },
+  {
+   "name": "4F ラベンダーA〜D 全室",
+   "areaM2": 150,
+   "ceilingM": 3.2,
+   "theater": 100,
+   "school": 48,
+   "ushape": 30,
+   "standing": null,
+   "banquet": null,
+   "note": "ボード42名"
+  },
+  {
+   "name": "4F ラベンダー 3室利用",
+   "areaM2": 112,
+   "ceilingM": 3.2,
+   "theater": 80,
+   "school": 36,
+   "ushape": 24,
+   "standing": null,
+   "banquet": null,
+   "note": "ボード30名"
+  },
+  {
+   "name": "4F ラベンダー 2室利用",
+   "areaM2": 75,
+   "ceilingM": 3.2,
+   "theater": 50,
+   "school": 25,
+   "ushape": 15,
+   "standing": null,
+   "banquet": null,
+   "note": "ボード20名。A・BまたはC・Dの組み合わせのみ"
+  },
+  {
+   "name": "4F ラベンダー 1室利用",
+   "areaM2": 37,
+   "ceilingM": 3.2,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "ボード8名。AまたはBの場合のみ"
+  }
+ ],
+ "roomsSource": "https://www.tokyo.grand.hyatt.co.jp/banquets/meeting-room/",
+ "ops": {
+  "catering": {
+   "text": "食品（コーヒーを含む）の持ち込みは禁止（宴会催事規約）。装飾・装花・音響・照明・余興などはホテルが指定委託会社に手配する。ほかの会社に頼みたい場合は事前にホテルの了承が必要で、搬入・搬出・設置場所・設置時間はホテルの指示に従い、ホテルスタッフの立会いが必要と判断された場合は別途立会人件費がかかる。",
+   "source": "https://www.tokyo.grand.hyatt.co.jp/banquets/terms-for-banquet/"
+  },
+  "waitingRooms": {
+   "text": "宴会場フロアに更衣室（CHANGING ROOM）がある（フロアマップ）。",
+   "source": "https://www.tokyo.grand.hyatt.co.jp/cojp_assets/pdf/floormap.pdf"
+  },
+  "restaurants": {
+   "text": "館内のレストランに個室・貸切のパーティープランがあり、公式ページでは懇親会・謝恩会・プレスパーティーなどに使える個室・貸切プランとして案内している。対象は、オーク ドア、フレンチ キッチン、六緑、旬房、けやき坂、チャイナルーム、マデュロ。",
+   "source": "https://www.tokyo.grand.hyatt.co.jp/restaurants/party/"
+  }
+ },
+ "documents": [
+  {
+   "title": "宴会催事規約",
+   "url": "https://www.tokyo.grand.hyatt.co.jp/banquets/terms-for-banquet/"
+  },
+  {
+   "title": "ホテル フロアマップ（PDF）",
+   "url": "https://www.tokyo.grand.hyatt.co.jp/cojp_assets/pdf/floormap.pdf"
+  },
+  {
+   "title": "3階レイアウト図（PDF）",
+   "url": "https://www.tokyo.grand.hyatt.co.jp/banquets/wp-content/themes/banquets-ght/assets/img/room/layout_3f_ja.pdf"
+  },
+  {
+   "title": "2階レイアウト図（PDF）",
+   "url": "https://www.tokyo.grand.hyatt.co.jp/banquets/wp-content/themes/banquets-ght/assets/img/room/layout_2f_ja.pdf"
+  },
+  {
+   "title": "4階レイアウト図（PDF）",
+   "url": "https://www.tokyo.grand.hyatt.co.jp/banquets/wp-content/themes/banquets-ght/assets/img/room/layout_4f_ja.pdf"
+  },
+  {
+   "title": "徒歩でのアクセス用案内図（PDF）",
+   "url": "https://www.tokyo.grand.hyatt.co.jp/cojp_assets/pdf/locationmap_walking.pdf"
+  },
+  {
+   "title": "車でのアクセス用案内図（PDF）",
+   "url": "https://www.tokyo.grand.hyatt.co.jp/cojp_assets/pdf/locationmap_car.pdf"
+  }
+ ],
+ "checkedAt": "2026-10-31",
+ "lat": 35.660206,
+ "lng": 139.729202,
+ "nearby": {
+  "convenience": [
+   {
+    "name": "ナチュラルローソン 六本木ヒルズ店",
+    "brand": "ナチュラルローソン",
+    "distanceM": 24,
+    "walkMin": 1,
+    "hours": "7:00-23:00",
+    "address": "東京都港区六本木6-10-1",
+    "verified": true,
+    "source": "https://www.areamarker.com/lawson/info/264495",
+    "note": "距離は公式店舗一覧の位置で計算（住所の位置では会場と同じ街区のため）"
+   },
+   {
+    "name": "ローソン 港六本木通店",
+    "brand": "ローソン",
+    "distanceM": 218,
+    "walkMin": 3,
+    "hours": "24時間営業",
+    "address": "東京都港区六本木7-18",
+    "verified": true,
+    "source": "https://www.areamarker.com/lawson/info/291196",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "ローソン EXタワープラス店",
+    "brand": "ローソン",
+    "distanceM": 229,
+    "walkMin": 3,
+    "hours": "24時間営業",
+    "address": "東京都港区西麻布1-2-1",
+    "verified": true,
+    "source": "https://www.areamarker.com/lawson/info/223800",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "アクセア 六本木店",
+    "brand": "アクセア",
+    "distanceM": 316,
+    "walkMin": 4,
+    "hours": "平日8:00〜22:00、土日祝10:00〜19:00",
+    "address": "東京都港区六本木6-1-4 丸正小林ビル1F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/entry.html",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "アクセア 六本木一丁目店",
+    "brand": "アクセア",
+    "distanceM": 1057,
+    "walkMin": 14,
+    "hours": "平日9:00〜20:00／土日祝休み",
+    "address": "東京都港区六本木2-3-2 VORT六本木一丁目1F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/entry.html",
+    "note": "距離は住所の位置で計算。遠め"
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Can★Do 麻布十番店",
+    "brand": "キャンドゥ",
+    "distanceM": 664,
+    "walkMin": 9,
+    "hours": "毎日 10:00-21:00",
+    "address": "東京都港区麻布十番2-4-1 ウィン麻布十番ハラビル1階",
+    "verified": true,
+    "source": "https://shopinfo.cando-web.co.jp/detail/shop-1930/",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "Can★Do 城山ヒルズ店",
+    "brand": "キャンドゥ",
+    "distanceM": 1501,
+    "walkMin": 19,
+    "hours": "毎日 9:00-23:00",
+    "address": "東京都港区虎ノ門4-1-17 神谷町プライムプレイスB1階",
+    "verified": true,
+    "source": "https://shopinfo.cando-web.co.jp/detail/shop-1835/",
+    "note": "距離は住所の位置で計算。遠め"
+   }
+  ],
+  "donki": [
+   {
+    "name": "ドン・キホーテ 六本木店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 546,
+    "walkMin": 7,
+    "hours": "24時間営業",
+    "address": "東京都港区六本木3-14-10",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=31",
+    "note": "距離は住所の位置で計算。ドン・キホーテ公式サイトの店舗名は「六本木店」"
+   },
+   {
+    "name": "ピカソ赤坂店（ドン・キホーテ）",
+    "brand": "ドン・キホーテ",
+    "distanceM": 1785,
+    "walkMin": 23,
+    "hours": "7:00-3:00",
+    "address": "東京都港区赤坂3-11-14",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=289",
+    "note": "距離は住所の位置で計算。遠い。ドン・キホーテの別業態（公式サイトの店舗名は「ピカソ赤坂店」）"
+   }
+  ]
+ },
+ "drinkDelivery": {
+  "available": true
+ },
+ "photo": {
+  "src": "/images/venues/grand-hyatt-tokyo.jpg",
+  "credit": "© J o / CC BY-SA 4.0 · Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Grand_Hyatt_Tokyo_20150429-001.jpg"
+ }
+}
