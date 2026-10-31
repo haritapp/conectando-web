@@ -1,0 +1,184 @@
+{
+ "slug": "bellesalle-onarimon-tower",
+ "name": "Bellesalle Onarimon Tower",
+ "address": "Tokyo 105-0011 Sumitomo Fudosan Onarimon Tower 3F & 4F, 1-1-1 Shibakoen, Minato-ku, Tokyo",
+ "accessSummary": "Onarimon Station (Mita Line) Exit A3b: directly connected / Daimon Station (Oedo Line / Asakusa Line) Exit A6: 6 min walk / Hamamatsucho Station (JR lines) North Exit: 10 min walk / Monorail Hamamatsucho Station (Tokyo Monorail) North Exit: 11 min walk",
+ "hours": "Building entrance open Weekdays 7:00-20:00 (Event Hall equipment list)",
+ "notice": null,
+ "rooms": [
+  {
+   "name": "3F Hall - Entire Hall",
+   "note": "Classroom is 2 per desk. Classroom, 3 per desk: 414 seats. Island layout: 270 seats (45 islands). A and B are divided by a movable partition. Simultaneous interpretation radiator available (3F only). Floor load capacity is 800kg/㎡. Reservations are accepted from 2 years before."
+  },
+  {
+   "name": "3F Hall - Hall A",
+   "note": "Classroom is 2 per desk. Classroom, 3 per desk: 180 seats. Island layout: 120 seats (20 islands). 300-inch screen and ceiling-mounted projector (9,400lm) available. Reservations are accepted from 2 months before."
+  },
+  {
+   "name": "3F Hall - Hall B",
+   "note": "Classroom is 2 per desk. Classroom, 3 per desk: 132 seats. Island layout: 90 seats (15 islands). Reservations are accepted from 1 month before."
+  },
+  {
+   "name": "4F Hall - Entire Hall",
+   "note": "Classroom is 2 per desk. Classroom, 3 per desk: 414 seats. Island layout: 270 seats (45 islands). C and D are divided by a movable partition. No simultaneous interpretation radiator. Floor load capacity is 800kg/㎡. Reservations are accepted from 2 years before."
+  },
+  {
+   "name": "4F Hall - Hall C",
+   "note": "Classroom is 2 per desk. Classroom, 3 per desk: 180 seats. Island layout: 120 seats (20 islands). 300-inch screen and ceiling-mounted projector (9,400lm) available. Reservations are accepted from 2 months before."
+  },
+  {
+   "name": "4F Hall - Hall D",
+   "note": "Classroom is 2 per desk. Classroom, 3 per desk: 132 seats. Island layout: 90 seats (15 islands). Reservations are accepted from 1 month before."
+  },
+  {
+   "name": "3F Waiting Room 1",
+   "note": "Usage fee 0 yen. 1 table, 2 chairs, full-length mirror, coat hanger. Cannot be used on its own."
+  },
+  {
+   "name": "3F Waiting Room 2",
+   "note": "Usage fee 0 yen. 1 table, 2 chairs, full-length mirror, coat hanger. Cannot be used on its own."
+  },
+  {
+   "name": "4F Waiting Room 3",
+   "note": "Usage fee 0 yen. 1 table, 2 chairs, full-length mirror, coat hanger. Cannot be used on its own."
+  },
+  {
+   "name": "4F Waiting Room 4",
+   "note": "Usage fee 0 yen. 1 table, 2 chairs, full-length mirror, coat hanger. Cannot be used on its own."
+  },
+  {
+   "name": "1F Waiting Room",
+   "note": "Paid, first come, first served (74,800 yen and up for 8 hours, tax included; regular rate ①). Island layout: 12 seats (2 islands). 10 tables, 20 chairs, full-length mirror, hanger rack. Booked together with a hall; cannot be used on its own."
+  }
+ ],
+ "ops": {
+  "prevDaySetup": "Usage time includes setup and cleanup time (price list). Hall rates are in 8-hour and 12-hour categories (the 24-hour column is \"-\"). Night-time or 24-hour use may not be available depending on the bookings before and after, so consult in advance. The official FAQ states that \"except for some venues, the venue can be used 24 hours a day, 365 days a year.\" Advance arrival of packages is in principle designated as arrival on the day before the event, and an advance load-in notice must be submitted at least 1 week before the load-in date (valuables are not accepted, and no responsibility is taken for damage to packages). In principle, up to 5 boxes per hall are received as advance-arrival packages. Large quantities or large packages not notified in advance are treated as renting the venue for a fee as a storage space. (Source: Hall price list updated July 3, 2026; Advance Load-in Notice; FAQ; Terms of Use 2026ver2 Article 20)",
+  "loadingHours": "If there is load-in/load-out, submit an advance load-in notice at least 1 week before the work date (the loading area cannot be used if it is not submitted). Delivery vehicles for load-in and load-out must enter and leave from the designated place within the usage time, and the venue may adjust load-in times and the like. Loading and unloading work is in principle limited to 1 hour. Load-in is from the B1F loading area (shared with the building). The load-in door is 1,000 mm wide x 2,600 mm high; the elevator (No. 10) has a door 1,000 mm wide x 2,600 mm high, and inside the car 2,000 mm wide x 2,050 mm deep x 2,700 mm high, with a load capacity of 2,000 kg. The on-site manager completes check-in procedures at the Sumitomo Fudosan Onarimon Tower 1F Service Center before starting work. The building entrance is open on weekdays 7:00-20:00. (Source: Advance Load-in Notice, Event Hall Equipment List updated September 11, 2026, Terms of Use 2026ver2 Article 16)",
+  "vehicleRules": "The loading area is used only for loading and unloading; if parking is needed, use an outside parking lot. When multiple vehicles are used, they share one vehicle's loading space in staggered turns. Illegal parking, parking outside the designated parking lot, and roadside parking around the building are strictly prohibited. Products, packing materials, decoration materials, trash and the like may not be left in the loading area during the usage period. If delivery vehicle traffic is expected to be congested, traffic staff are placed at the entrance and so on. The permitted dimensions of the loading area are 3,600 mm overall height x 6,000 mm overall length, for vehicles up to 2 tons (long vehicles not allowed). The vehicle limit in the equipment list is 3,600 mm high x 6,000 mm long, 2.0 t. (Source: Advance Load-in Notice, Event Hall Equipment List updated September 11, 2026, Terms of Use 2026ver2 Articles 15 and 16)",
+  "parking": "In the parking column of the equipment list, Bellesalle-exclusive parking and hourly parking are \"none\", and a vehicle drop-off area is \"available\". To find nearby hourly parking lots, search for \"Bellesalle Onarimon Tower\" on \"s-park\" (Tokyo Metropolitan Road Improvement and Conservation Corporation), which is linked from the official facility page. (Source: Official facility page, Event Hall Equipment List updated September 11, 2026)",
+  "waitingRooms": "There are 5 waiting rooms: Waiting Room 1 (8.44㎡) and Waiting Room 2 (6.19㎡) on the 3F, and Waiting Room 3 (8.44㎡) and Waiting Room 4 (6.19㎡) on the 4F; all have a usage fee of 0 yen and come with 1 table, 2 chairs, a full-length mirror and a coat hanger. In addition, the 1F waiting room (34㎡) is paid and first come, first served, and comes with 10 tables, 20 chairs, a full-length mirror and a hanger rack (74,800 yen and up for 8 hours, tax included, regular rate ①). Waiting rooms cannot be used on their own. Video from the fixed-point cameras (installed on the Hall A side on the 3F and the Hall C side on the 4F) can be viewed in Waiting Rooms 1 and 2 on the 3F and Waiting Rooms 3 and 4 on the 4F. (Source: Official facility page, Event Hall Equipment List updated September 11, 2026, Hall price list)",
+  "catering": "Outside food/drink brought in is allowed. However, if a caterer other than the operator's designated vendors is used, an \"outside food/drink fee\" applies (party use only; bringing in drinks only or boxed meals is not covered). The amount depends on venue area: up to 300㎡ 100,000 yen, up to 600㎡ 200,000 yen, up to 900㎡ 300,000 yen, up to 1,200㎡ 400,000 yen, 1,201㎡ and above 500,000 yen (110,000 to 550,000 yen each, tax included). Party menus for receptions are introduced on the website of Izumi Restaurant, a Sumitomo Fudosan Group company. (Source: Outside Food/Drink Fee Guide PDF, FAQ, Terms of Use 2026ver2 Article 4)",
+  "restaurants": "The official facility page states that the event halls on both the 3F and 4F can be divided by movable partitions and can be used as party spaces where you can enjoy the view after a seminar without changing the layout. Standing capacity of the halls: 370 people for the entire hall, 200 for A/C, 150 for B/D (price list). There is a drawing of an example standing layout with 21 round tables (diameter 1,200 mm) (3F; a similar layout is possible on the 4F; separate paid rental; the number of seats may decrease depending on the installation of projectors, screens and the like). (Source: Official facility page, Hall price list updated July 3, 2026, Round table layout drawing)"
+ },
+ "documents": [
+  {
+   "title": "Hall Price List (updated July 3, 2026)"
+  },
+  {
+   "title": "Price Calendar (terms valid until the end of January 2027)"
+  },
+  {
+   "title": "Advance Load-in Notice"
+  },
+  {
+   "title": "Terms of Use (2026ver2)"
+  },
+  {
+   "title": "Outside Food/Drink Fee Guide"
+  },
+  {
+   "title": "Declaration and Pledge of Non-Affiliation with Antisocial Forces"
+  },
+  {
+   "title": "3F/4F Event Hall Equipment and Fixtures List (updated September 11, 2026)"
+  },
+  {
+   "title": "Standing Round Table Layout Diagram (3F/4F)"
+  },
+  {
+   "title": "Access Map"
+  },
+  {
+   "title": "3F Floor Plan"
+  },
+  {
+   "title": "4F Floor Plan"
+  },
+  {
+   "title": "3F Ceiling Plan"
+  },
+  {
+   "title": "4F Ceiling Plan"
+  },
+  {
+   "title": "3F Floor Diagram"
+  },
+  {
+   "title": "4F Floor Diagram"
+  },
+  {
+   "title": "3F Event Power Supply Diagram"
+  },
+  {
+   "title": "4F Event Power Supply Diagram"
+  },
+  {
+   "title": "3F Evacuation Route Map"
+  },
+  {
+   "title": "4F Evacuation Route Map"
+  },
+  {
+   "title": "Document Downloads (official list)"
+  },
+  {
+   "title": "FAQ"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "FamilyMart Miyamoto Drug Onarimon",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the store's official location."
+   },
+   {
+    "name": "Lawson Onarimon Station Front",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "FamilyMart Shibakoen 1-chome",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the store's official location."
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "Accea Onarimon",
+    "hours": "Weekdays 9:00-20:00 / Sat, Sun & holidays closed",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Accea Hamamatsucho",
+    "hours": "Weekdays 8:00-22:00 / Sat, Sun & holidays 10:00-19:00",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Can Do Shiroyama Hills",
+    "hours": "Daily 9:00-23:00",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "3COINS OOOPS! Shimbashi Station Shiodome Exit",
+    "hours": "Weekdays 8:00-22:00 / Sat, Sun & holidays 10:00-21:00",
+    "note": "Distance is calculated from the store's official location. The in-station format \"OOOPS!\" listed in the official 3COINS store list."
+   }
+  ],
+  "donki": [
+   {
+    "name": "Don Quijote Ginza Main Building (Ginza Nine Building No. 3)",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. Rather far. The store name on the Don Quijote official website is \"Ginza Main Building\" (銀座本館)."
+   },
+   {
+    "name": "Don Quijote Roppongi",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. Rather far. The store name on the Don Quijote official website is \"Roppongi Store\" (六本木店)."
+   }
+  ]
+ },
+ "photoCredit": "Photo: Conectando"
+}

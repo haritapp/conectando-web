@@ -1,0 +1,313 @@
+{
+ "slug": "bellesalle-mita-garden",
+ "nameJa": "ベルサール三田ガーデン",
+ "nameEn": "",
+ "type": "conference",
+ "area": "shinagawa-venues",
+ "address": "〒108-0073 東京都港区三田3-5-19 住友不動産東京三田ガーデンタワー2F・3F",
+ "officialUrl": "https://www.bellesalle.co.jp/shisetsu/higashiginza/bs_mitagarden/",
+ "organizerUrl": "https://www.bellesalle.co.jp/download/bs_mitagarden/",
+ "bizintokyoSlug": "bellesalle-mita-garden",
+ "accessSummary": "三田駅（三田線・浅草線）A3出口 徒歩4分／田町駅（山手線・京浜東北線）三田口（西口） 徒歩5分",
+ "notice": null,
+ "hours": "1Fエントランス開放時間 7:00〜22:00（2F・3F会議室設備表）",
+ "rooms": [
+  {
+   "name": "2F Room A",
+   "areaM2": 180,
+   "ceilingM": 3.0,
+   "theater": 126,
+   "school": 96,
+   "ushape": 60,
+   "standing": 100,
+   "banquet": null,
+   "note": "スクールは2名掛け。スクール3名掛け 126席。島型 90席（15島）"
+  },
+  {
+   "name": "2F Room B",
+   "areaM2": 122,
+   "ceilingM": 3.0,
+   "theater": 85,
+   "school": 50,
+   "ushape": 42,
+   "standing": 70,
+   "banquet": null,
+   "note": "スクールは2名掛け。スクール3名掛け 75席。島型 48席（8島）"
+  },
+  {
+   "name": "2F Room C",
+   "areaM2": 86,
+   "ceilingM": 3.0,
+   "theater": 60,
+   "school": 28,
+   "ushape": 36,
+   "standing": 50,
+   "banquet": null,
+   "note": "スクールは2名掛け。スクール3名掛け 42席。島型 36席（6島）"
+  },
+  {
+   "name": "2F Room B+C",
+   "areaM2": 251,
+   "ceilingM": 3.0,
+   "theater": 174,
+   "school": 104,
+   "ushape": 78,
+   "standing": 150,
+   "banquet": null,
+   "note": "スクールは2名掛け。スクール3名掛け 156席。島型 126席（21島）"
+  },
+  {
+   "name": "2F Room A+B+C",
+   "areaM2": 431,
+   "ceilingM": 3.0,
+   "theater": 301,
+   "school": 210,
+   "ushape": 102,
+   "standing": 250,
+   "banquet": null,
+   "note": "スクールは2名掛け。スクール3名掛け 300席。島型 216席（36島）"
+  },
+  {
+   "name": "3F Room 1",
+   "areaM2": 63,
+   "ceilingM": 3.0,
+   "theater": 44,
+   "school": 16,
+   "ushape": 24,
+   "standing": null,
+   "banquet": null,
+   "note": "スクールは2名掛け。スクール3名掛け 27席。島型 24席（4島）"
+  },
+  {
+   "name": "3F Room 2",
+   "areaM2": 92,
+   "ceilingM": 3.0,
+   "theater": 64,
+   "school": 42,
+   "ushape": 36,
+   "standing": null,
+   "banquet": null,
+   "note": "スクールは2名掛け。スクール3名掛け 63席。島型 48席（8島）"
+  },
+  {
+   "name": "3F Room 3",
+   "areaM2": 52,
+   "ceilingM": 3.0,
+   "theater": 36,
+   "school": 16,
+   "ushape": 24,
+   "standing": null,
+   "banquet": null,
+   "note": "スクールは2名掛け。スクール3名掛け 24席。島型 24席（4島）"
+  }
+ ],
+ "roomsSource": "https://www.bellesalle.co.jp/wp-content/uploads/mitag_price.pdf",
+ "ops": {
+  "prevDaySetup": {
+   "text": "使用時間には準備・後片付けの時間も含まれる（料金表）。会議室の料金は4時間・8時間・12時間で、営業時間外の使用は別途相談する。荷物の事前受け取りは開催日の前日のみで、土日祝は預かれない。事前搬入届を利用日の1週間前までに出す（未提出だと預かれない）。預かり箱数は段ボール相当で1部屋2箱が目安で、現金など高価なもの、個人情報データが入ったパソコンなどは預かれず、紛失・破損の責任は負わない。（出典：利用料金一覧表 2026/7/13更新、事前搬入届（預かり荷物）、資料ダウンロードページ）",
+   "source": "https://www.bellesalle.co.jp/wp-content/uploads/mitag_jizen.pdf"
+  },
+  "loadingHours": {
+   "text": "搬出入がある場合は「事前搬入届」または「搬出入スケジュール」を使用予定日の1週間前までに提出する。搬入・搬出車の出入りは使用時間内に所定の場所から行い、搬入時間などは会場側が調整することがある。設備表の荷捌き場所は「B3F」で、積み下ろしは30分以内（使用規約の施設詳細では荷捌場の階が「B1」と書かれている）。2F・3Fへは搬入EV（入口扉 幅1,200×高2,500mm、かご内 幅1,750×奥行2,150×高2,700mm、積載荷重1,800kg）を使う。受付場所は住友不動産東京三田ガーデンタワー1Fサービスセンター。1Fエントランスの開放時間は7:00〜22:00。（出典：2F・3F会議室 設備表 2026/9/11更新、使用規約 2026ver2 第16条・第21条）",
+   "source": "https://www.bellesalle.co.jp/wp-content/uploads/mitag_roombihin.pdf"
+  },
+  "vehicleRules": {
+   "text": "設備表の車両制限は高さ3,200×長さ6,400mm・重2.0t。ベルサール専用駐車場・車寄せは「無」。使用期間中の荷捌き場には商品・梱包材・装飾資材・ゴミなどを置けない。搬入出車両が混雑しそうなときは出入口などに整理員を置く。建物周辺（公開空地・敷地内）での車の路上駐車は、使用契約の解除・使用停止の事由にあたる。（出典：2F・3F会議室 設備表 2026/9/11更新、使用規約 2026ver2 第9条・第15条・第16条）",
+   "source": "https://www.bellesalle.co.jp/wp-content/uploads/mitag_roombihin.pdf"
+  },
+  "parking": {
+   "text": "設備表の駐車場欄は、時間貸しが「有」（15分300円、最大料金なし）、ベルサール専用と車寄せは「無」。台数・サイズ制限は公式資料に記載がない。近隣の時間貸し駐車場は、公式施設ページのリンク先「s-park」（公財 東京都道路整備保全公社）で「ベルサール三田ガーデン」を検索して探す。（出典：2F・3F会議室 設備表 2026/9/11更新、公式施設ページ）",
+   "source": "https://www.bellesalle.co.jp/wp-content/uploads/mitag_roombihin.pdf"
+  },
+  "catering": {
+   "text": "飲食物の持込は可能。ただし飲食の手配に当社指定業者以外を使う場合は「飲食持込手数料」がかかる（パーティー利用時のみ。飲料のみ・弁当の持込は対象外）。金額は会場面積別で、〜300㎡ 100,000円、〜600㎡ 200,000円、〜900㎡ 300,000円、〜1,200㎡ 400,000円、1,201㎡〜 500,000円（税込 各110,000〜550,000円）。懇親会向けのパーティーメニューは住友不動産グループ泉レストランのサイトで案内されている。（出典：持込料のご案内PDF、よくあるご質問、使用規約 2026ver2 第4条）",
+   "source": "https://www.bellesalle.co.jp/wp-content/uploads/mochikomi_price.pdf"
+  }
+ },
+ "documents": [
+  {
+   "title": "利用料金一覧表（2026/7/13更新）",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/mitag_price.pdf"
+  },
+  {
+   "title": "料金カレンダー（取引条件有効期限 2027年1月末日）",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/eventhall_calender1.pdf"
+  },
+  {
+   "title": "事前搬入届（預かり荷物）",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/mitag_jizen.pdf"
+  },
+  {
+   "title": "使用規約（2026ver2）",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/kiyaku.pdf"
+  },
+  {
+   "title": "持込料のご案内",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/mochikomi_price.pdf"
+  },
+  {
+   "title": "反社会的勢力でないことの表明・確約書",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/bellesalle_bouhai.pdf"
+  },
+  {
+   "title": "2F・3F会議室 設備・備品一覧（2026/9/11更新）",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/mitag_roombihin.pdf"
+  },
+  {
+   "title": "アクセスMAP",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/access_mitag.pdf"
+  },
+  {
+   "title": "2F 平面図",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/mitag_plane_2f.pdf"
+  },
+  {
+   "title": "2F 床図",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/mitag_floor_2f.pdf"
+  },
+  {
+   "title": "2F 避難経路図",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/mitag_escape_2f.pdf"
+  },
+  {
+   "title": "3F 平面図",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/mitag_plane_3f.pdf"
+  },
+  {
+   "title": "3F 床図",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/mitag_floor_3f.pdf"
+  },
+  {
+   "title": "3F 避難経路図",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/mitag_escape_3f.pdf"
+  },
+  {
+   "title": "資料ダウンロード（公式一覧）",
+   "url": "https://www.bellesalle.co.jp/download/bs_mitagarden/"
+  },
+  {
+   "title": "よくあるご質問",
+   "url": "https://www.bellesalle.co.jp/faq/"
+  }
+ ],
+ "checkedAt": "2026-10-30",
+ "lat": 35.645012,
+ "lng": 139.743271,
+ "nearby": {
+  "convenience": [
+   {
+    "name": "ローソン 港三田三丁目店",
+    "brand": "ローソン",
+    "distanceM": 146,
+    "walkMin": 2,
+    "hours": "24時間営業",
+    "address": "東京都港区三田3-4-15",
+    "verified": true,
+    "source": "https://www.areamarker.com/lawson/info/221793",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "セブン-イレブン 三田ベルジュビル店",
+    "brand": "セブン-イレブン",
+    "distanceM": 149,
+    "walkMin": 2,
+    "hours": "24時間営業",
+    "address": "東京都港区芝5-36-7",
+    "verified": true,
+    "source": "https://seven-eleven.areamarker.com/711map/info/528758",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "ファミリーマート 三田聖坂下店",
+    "brand": "ファミリーマート",
+    "distanceM": 178,
+    "walkMin": 3,
+    "hours": "24時間営業",
+    "address": "東京都港区三田3丁目4-6",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/57004",
+    "note": "距離は公式の店舗位置で計算"
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "キンコーズ・田町店",
+    "brand": "キンコーズ",
+    "distanceM": 180,
+    "walkMin": 3,
+    "hours": "平日 10:00-20:00／土・日・祝 休業（受付は閉店30分前まで）",
+    "address": "東京都港区芝5丁目29-14 田町日工ビル1F",
+    "verified": true,
+    "source": "https://www.kinkos.co.jp/store/tokyo/t017/",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "アクセア 田町店",
+    "brand": "アクセア",
+    "distanceM": 300,
+    "walkMin": 4,
+    "hours": "24時間営業",
+    "address": "東京都港区三田3-1-11 エック三田ビル1F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/entry.html",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Seria 田町センタービル店",
+    "brand": "セリア",
+    "distanceM": 325,
+    "walkMin": 5,
+    "hours": "毎日 10:00-21:00",
+    "address": "東京都港区芝5-34-7 田町センタービルB1F",
+    "verified": true,
+    "source": "https://shop.seria-group.com/seria/info/000002840",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "Can★Do 白金店",
+    "brand": "キャンドゥ",
+    "distanceM": 1102,
+    "walkMin": 14,
+    "hours": "毎日 10:00-21:00",
+    "address": "東京都港区白金3-23-3",
+    "verified": true,
+    "source": "https://shopinfo.cando-web.co.jp/detail/shop-1743/",
+    "note": "距離は住所の位置で計算。遠め"
+   }
+  ],
+  "donki": [
+   {
+    "name": "プラチナ ドン・キホーテ白金台店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 1954,
+    "walkMin": 25,
+    "hours": "24時間営業",
+    "address": "東京都港区白金台3-15-5",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=368",
+    "note": "距離は住所の位置で計算。遠い"
+   },
+   {
+    "name": "ドン・キホーテ 六本木店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 2090,
+    "walkMin": 27,
+    "hours": "24時間営業",
+    "address": "東京都港区六本木3-14-10",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=31",
+    "note": "距離は住所の位置で計算。遠い。ドン・キホーテ公式サイトの店舗名は「六本木店」"
+   }
+  ]
+ },
+ "drinkDelivery": {
+  "available": true
+ },
+ "photo": {
+  "src": "/images/venues/bellesalle-mita-garden.jpg",
+  "credit": "© Beryllium Transistor / CC BY-SA 4.0 · Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sumitomo_fudosan_Tokyo_Mita_Garden_Tower.jpg"
+ }
+}

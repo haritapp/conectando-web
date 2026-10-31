@@ -1,0 +1,167 @@
+{
+ "slug": "bellesalle-roppongi",
+ "name": "Bellesalle Roppongi",
+ "address": "Tokyo 106-0032 Sumitomo Fudosan Roppongi-dori Building 1F & B1, 7-18-18 Roppongi, Minato-ku, Tokyo",
+ "accessSummary": "Roppongi Station (Hibiya Line) Exit 2: 2 min walk / Roppongi Station (Oedo Line) Exit 4b: 4 min walk / Nogizaka Station (Chiyoda Line) Exit 5: 7 min walk",
+ "hours": "Building entrance open hours: Mon-Fri 8:00-20:00 / Sat 8:00-17:00 (not open on Sundays and holidays) (Event Hall Equipment List B1F updated October 19, 2026 / 1F updated October 9, 2026)",
+ "notice": null,
+ "rooms": [
+  {
+   "name": "1F Hall - Entire Hall",
+   "note": "Classroom is 2 per desk. Classroom, 3 per desk: 180 seats. Island layout: 150 seats (25 islands)."
+  },
+  {
+   "name": "1F Hall - Hall A",
+   "note": "Classroom is 2 per desk. Classroom, 3 per desk: 60 seats. Island layout: 48 seats (8 islands)."
+  },
+  {
+   "name": "1F Hall - Hall B",
+   "note": "Classroom is 2 per desk. Classroom, 3 per desk: 60 seats. Island layout: 60 seats (10 islands)."
+  },
+  {
+   "name": "B1 Hall - Entire Hall",
+   "note": "Classroom is 2 per desk. Classroom, 3 per desk: 405 seats. Island layout: 378 seats (63 islands)."
+  },
+  {
+   "name": "B1 Hall - Hall C",
+   "note": "Classroom is 2 per desk. Classroom, 3 per desk: 192 seats. Island layout: 132 seats (22 islands)."
+  },
+  {
+   "name": "B1 Hall - Hall D",
+   "note": "Classroom is 2 per desk. Classroom, 3 per desk: 135 seats. Island layout: 126 seats (21 islands)."
+  },
+  {
+   "name": "1F Waiting Room 1",
+   "note": "Usage fee 0 yen. For 1F users; no venue monitor."
+  },
+  {
+   "name": "1F Waiting Room 2",
+   "note": "Usage fee 0 yen. For 1F and B1F users (first come, first served); no venue monitor."
+  },
+  {
+   "name": "B1 Waiting Room 3",
+   "note": "Usage fee 0 yen. For B1F users; no venue monitor."
+  }
+ ],
+ "ops": {
+  "prevDaySetup": "Usage time includes setup and cleanup time (price list); usage time means the exclusive-use period from when the facility is unlocked and setup begins until it is restored to its original condition and locked (Terms of Use Article 5). Hall rates are for 8 and 12 hours, and the 24-hour column shows \"-\". Night-time or 24-hour use may not be available depending on the bookings before and after, so consult in advance. If a pre-extension or post-extension arises on the day of use, an extension fee is charged in 30-minute units. Advance receipt of packages is only on the day before use and requires an advance load-in notice (in principle up to 5 boxes per hall). Opening and closing the glass wall of the 1F hall takes considerable time, and the work start time is decided in a pre-event meeting. Sudden layout changes on the day before use or during the usage period cannot be requested from the operator. (Source: Hall Price List updated July 3, 2026; Advance Load-in Notice (Event Hall); Terms of Use 2026ver2 Articles 5, 20 and 21)",
+  "loadingHours": "An advance load-in notice must be submitted at least 1 week before the work date (without it, the loading area cannot be used). Load-in and load-out vehicles must enter and leave from the designated place within the usage time. Loading and unloading work is in principle limited to 20 minutes. For the B1F hall, items are carried in from the B1F loading area by the load-in elevator (permitted dimensions of the loading area: height 3,000mm x length 6,600mm, vehicles up to 2t; the elevator has an entrance door 2,450mm wide x 2,400mm high, a car interior 3,900mm wide x 1,950mm deep x 2,400mm high, and a load capacity of 3,500kg). The 1F hall allows direct load-in and load-out through the glass doors (load-in door 1,250mm wide x 1,980mm high; opening of the glass doors is by consultation), and the official facility page says large deliveries, such as for merchandise sales, can also be brought in directly. The on-site manager completes entry procedures at the Service Center on the 1F of Sumitomo Fudosan Roppongi-dori Building before starting work. The building entrance is open Mon-Fri 8:00-20:00 and Sat 8:00-17:00, and is not open on Sundays and holidays. (Source: Advance Load-in Notice (Event Hall), Event Hall Equipment List B1F updated October 19, 2026 / 1F updated October 9, 2026, Official facility page, Terms of Use 2026ver2 Article 16)",
+  "vehicleRules": "The loading area is used only for loading and unloading; if parking is needed, use an outside parking lot. When multiple vehicles are used, they share one vehicle's loading space in staggered turns. Illegal parking, parking outside the designated parking lot, and roadside parking around the building are strictly prohibited (roadside parking in the public open space or on the premises around the building is grounds for suspension of use). Products, packing materials, decoration materials, trash and the like may not be left in the loading area during the usage period. If delivery vehicle traffic is expected to be congested, traffic staff are placed at the entrance and similar points. The vehicle restrictions in the equipment list are: for B1F, height 3,000 x length 6,600mm and 2.0t (up to 2 vehicles may be left in the loading area only while the event is being held); for 1F, no height limit, length 7,000mm or less and weight 4.0t or less. (Source: Advance Load-in Notice (Event Hall), Event Hall Equipment List B1F updated October 19, 2026 / 1F updated October 9, 2026, Terms of Use 2026ver2 Articles 9, 15 and 16)",
+  "parking": "In the parking column of the equipment list, the B1F hall shows Bellesalle's own parking as \"available\" (up to 2 vehicles may be left in the loading area only while the event is being held) and hourly paid parking as \"none\", while the 1F hall shows \"none\" for Bellesalle's own parking, hourly paid parking and drop-off area alike. To find nearby hourly parking lots, search for \"Bellesalle Roppongi\" on \"s-park\" (Tokyo Metropolitan Road Improvement and Conservation Corporation), which is linked from the official facility page. (Source: Event Hall Equipment List B1F updated October 19, 2026 / 1F updated October 9, 2026, Official facility page)",
+  "waitingRooms": "There are 3 waiting rooms: 1F Waiting Room 1 (15㎡), 1F Waiting Room 2 (9㎡) and B1 Waiting Room 3 (21㎡). All have a usage fee of 0 yen and no venue monitor. Waiting Room 1 is for 1F users, Waiting Room 2 is for 1F and B1F users (first come, first served), and Waiting Room 3 is for B1F users. Waiting Room 1 comes with 2 sofas, 1 low table, 2 wooden chairs, 1 long table, 1 clothes rack and 1 full-length mirror; Waiting Room 2 with 2 sofas, 1 low table, 1 clothes rack and 1 full-length mirror; and Waiting Room 3 with 1 long table, 1 wooden table, 5 chairs, 1 clothes rack and 1 full-length mirror. (Source: Official facility page, Event Hall Equipment List B1F updated October 19, 2026 / 1F updated October 9, 2026)",
+  "catering": "Outside food/drink brought in is allowed. However, if a caterer other than the operator's designated vendors is used, an \"outside food/drink fee\" applies (party use only; bringing in drinks only or boxed meals is not covered). The amount depends on venue area: up to 300㎡ 100,000 yen, up to 600㎡ 200,000 yen, up to 900㎡ 300,000 yen, up to 1,200㎡ 400,000 yen, 1,201㎡ and above 500,000 yen (110,000 to 550,000 yen each, tax included). Party menus for receptions are introduced on the website of Izumi Restaurant, a Sumitomo Fudosan Group company. (Source: Outside Food/Drink Fee Guide PDF, FAQ, Terms of Use 2026ver2 Article 4)",
+  "restaurants": "The official facility page says that both the 1F and B1F event halls can be divided evenly by movable partitions and are suitable for combined use such as a seminar plus a reception, and that they are suitable for various kinds of parties. The official FAQ also says that party menus suited to receptions are available, and introduces catering by Izumi Restaurant, a Sumitomo Fudosan Group company. (Source: Official facility page, FAQ)"
+ },
+ "documents": [
+  {
+   "title": "Terms of Use (2026ver2)"
+  },
+  {
+   "title": "Advance Load-in Notice (Event Hall)"
+  },
+  {
+   "title": "Outside Food/Drink Fee Guide"
+  },
+  {
+   "title": "Price List (updated July 3, 2026)"
+  },
+  {
+   "title": "Price Calendar (terms valid until the end of January 2027)"
+  },
+  {
+   "title": "Event Hall Equipment and Fixtures List (B1F updated October 19, 2026; 1F updated October 9, 2026)"
+  },
+  {
+   "title": "1F Floor Plan"
+  },
+  {
+   "title": "1F Ceiling Plan"
+  },
+  {
+   "title": "1F Floor Drawing"
+  },
+  {
+   "title": "1F Event Power Supply Diagram"
+  },
+  {
+   "title": "1F Evacuation Route Map"
+  },
+  {
+   "title": "B1 Floor Plan"
+  },
+  {
+   "title": "B1 Ceiling Plan"
+  },
+  {
+   "title": "B1 Floor Drawing"
+  },
+  {
+   "title": "B1 Event Power Supply Diagram"
+  },
+  {
+   "title": "B1 Evacuation Route Map"
+  },
+  {
+   "title": "Document Downloads (official list)"
+  },
+  {
+   "title": "FAQ"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "Lawson Minato Roppongi-dori",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the position in the official store list (the address position is in the same block as the venue)."
+   },
+   {
+    "name": "FamilyMart Roppongi Hills",
+    "hours": "6:00-24:00",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Lawson EX Tower Plus",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "Accea Roppongi",
+    "hours": "Weekdays 8:00-22:00, Sat, Sun & holidays 10:00-19:00",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Accea Roppongi-itchome",
+    "hours": "Weekdays 9:00-20:00 / Closed Sat, Sun & holidays",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Can Do Azabu-juban",
+    "hours": "Daily 10:00-21:00",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Can Do Shiroyama Hills",
+    "hours": "Daily 9:00-23:00",
+    "note": "Distance is calculated from the address location. Rather far."
+   }
+  ],
+  "donki": [
+   {
+    "name": "Don Quijote Roppongi",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. The store name on the Don Quijote official website is \"Roppongi\" (六本木店)."
+   },
+   {
+    "name": "Picasso Akasaka (Don Quijote)",
+    "hours": "7:00-3:00",
+    "note": "Distance is calculated from the address location. Rather far. This is a separate Don Quijote format. The store name on the Don Quijote official website is \"Picasso Akasaka\" (ピカソ赤坂店)."
+   }
+  ]
+ },
+ "photoCredit": "Photo: Conectando"
+}

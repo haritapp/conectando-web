@@ -485,6 +485,816 @@
    }
   ]
  },
+ "bellesalle-ariake-conference": {
+  "pageJa": "https://www.bizintokyo.com/hotels/bellesalle-ariake-conference/",
+  "pageEn": "https://www.bizintokyo.com/en/hotels/bellesalle-ariake-conference/",
+  "hotels": [
+   {
+    "nameJa": "ヴィラフォンテーヌグランド東京有明",
+    "nameEn": "Hotel Villa Fontaine Grand Tokyo-Ariake",
+    "accessJa": "ベルサール有明コンファレンスセンターまで徒歩約1分",
+    "accessEn": "About 1 min walk to Bellesalle Ariake Conference Center",
+    "urlJa": "https://expedia.com/affiliate/EOtJsFK",
+    "urlEn": "https://expedia.com/affiliate/z3uAUYI"
+   },
+   {
+    "nameJa": "ファーイーストビレッジホテル東京有明",
+    "nameEn": "Far East Village Hotel Tokyo, Ariake",
+    "accessJa": "ベルサール有明コンファレンスセンターまで徒歩約3分",
+    "accessEn": "About 3 min walk to Bellesalle Ariake Conference Center",
+    "urlJa": "https://expedia.com/affiliate/265oImu",
+    "urlEn": "https://expedia.com/affiliate/AAw248f"
+   },
+   {
+    "nameJa": "ダブルツリーbyヒルトン東京有明",
+    "nameEn": "DoubleTree by Hilton Tokyo Ariake",
+    "accessJa": "ベルサール有明コンファレンスセンターまで徒歩約5分",
+    "accessEn": "About 5 min walk to Bellesalle Ariake Conference Center",
+    "urlJa": "https://expedia.com/affiliate/2d4ij7O",
+    "urlEn": "https://expedia.com/affiliate/yEgNy1X"
+   },
+   {
+    "nameJa": "東京ベイ有明ワシントンホテル",
+    "nameEn": "Tokyo Bay Ariake Washington Hotel",
+    "accessJa": "ベルサール有明コンファレンスセンターまで徒歩約8分",
+    "accessEn": "About 8 min walk to Bellesalle Ariake Conference Center",
+    "urlJa": "https://expedia.com/affiliate/ZYUdIs8",
+    "urlEn": "https://expedia.com/affiliate/27dG5zl"
+   },
+   {
+    "nameJa": "相鉄グランドフレッサ東京ベイ有明",
+    "nameEn": "Sotetsu Grand Fresa Tokyo-Bay Ariake",
+    "accessJa": "ベルサール有明コンファレンスセンターまで徒歩約9分",
+    "accessEn": "About 9 min walk to Bellesalle Ariake Conference Center",
+    "urlJa": "https://expedia.com/affiliate/BoOKbjY",
+    "urlEn": "https://expedia.com/affiliate/VcFtGQ8"
+   },
+   {
+    "nameJa": "ホテルJALシティ東京豊洲",
+    "nameEn": "Hotel JAL City Tokyo Toyosu",
+    "accessJa": "ベルサール有明コンファレンスセンターまで徒歩約13分",
+    "accessEn": "About 13 min walk to Bellesalle Ariake Conference Center",
+    "urlJa": "https://expedia.com/affiliate/A6VgXpQ",
+    "urlEn": "https://expedia.com/affiliate/F3nwpkD"
+   }
+  ]
+ },
+ "bellesalle-hanzomon": {
+  "pageJa": "https://www.bizintokyo.com/hotels/bellesalle-hanzomon/",
+  "pageEn": "https://www.bizintokyo.com/en/hotels/bellesalle-hanzomon/",
+  "hotels": [
+   {
+    "nameJa": "Nest Hotel Tokyo Hanzomon",
+    "nameEn": "Nest Hotel Tokyo Hanzomon",
+    "accessJa": "ベルサール半蔵門まで徒歩約2分",
+    "accessEn": "About 2 min walk to Bellesalle Hanzomon",
+    "urlJa": "https://expedia.com/affiliate/B483w3h",
+    "urlEn": "https://expedia.com/affiliate/TNmkddD"
+   },
+   {
+    "nameJa": "ホテルグランドアーク半蔵門",
+    "nameEn": "Hotel Grand Arc Hanzomon",
+    "accessJa": "ベルサール半蔵門まで徒歩約3分",
+    "accessEn": "About 3 min walk to Bellesalle Hanzomon",
+    "urlJa": "https://expedia.com/affiliate/Nhu6UN1",
+    "urlEn": "https://expedia.com/affiliate/Vpt214l"
+   },
+   {
+    "nameJa": "ホテルモントレ半蔵門",
+    "nameEn": "Hotel Monterey Hanzomon",
+    "accessJa": "ベルサール半蔵門まで徒歩約4分",
+    "accessEn": "About 4 min walk to Bellesalle Hanzomon",
+    "urlJa": "https://expedia.com/affiliate/r2fwdfz",
+    "urlEn": "https://expedia.com/affiliate/8I4iywX"
+   },
+   {
+    "nameJa": "都市センターホテル",
+    "nameEn": "Toshi Center Hotel Tokyo",
+    "accessJa": "ベルサール半蔵門まで徒歩約6分",
+    "accessEn": "About 6 min walk to Bellesalle Hanzomon",
+    "urlJa": "https://expedia.com/affiliate/8vc7qZj",
+    "urlEn": "https://expedia.com/affiliate/AdL5UW4"
+   },
+   {
+    "nameJa": "キタノホテル東京",
+    "nameEn": "The Kitano Hotel Tokyo",
+    "accessJa": "ベルサール半蔵門まで徒歩約8分",
+    "accessEn": "About 8 min walk to Bellesalle Hanzomon",
+    "urlJa": "https://expedia.com/affiliate/4oa33hb",
+    "urlEn": "https://expedia.com/affiliate/lj4R4ga"
+   },
+   {
+    "nameJa": "ザ・プリンスギャラリー東京紀尾井町",
+    "nameEn": "The Prince Gallery Tokyo Kioicho, a Luxury Collection Hotel",
+    "accessJa": "ベルサール半蔵門まで徒歩約9分",
+    "accessEn": "About 9 min walk to Bellesalle Hanzomon",
+    "urlJa": "https://expedia.com/affiliate/cuysWQ7",
+    "urlEn": "https://expedia.com/affiliate/JxqCuTH"
+   }
+  ]
+ },
+ "bellesalle-iidabashi-ekimae": {
+  "pageJa": "https://www.bizintokyo.com/hotels/bellesalle-iidabashi-ekimae/",
+  "pageEn": "https://www.bizintokyo.com/en/hotels/bellesalle-iidabashi-ekimae/",
+  "hotels": [
+   {
+    "nameJa": "アパホテル〈飯田橋駅前〉",
+    "nameEn": "APA Hotel Iidabashi-Ekimae",
+    "accessJa": "ベルサール飯田橋駅前まで徒歩約1分",
+    "accessEn": "About 1 min walk to Bellesalle Iidabashi Ekimae",
+    "urlJa": "https://expedia.com/affiliate/EzL43S0",
+    "urlEn": "https://expedia.com/affiliate/zASRy5Y"
+   },
+   {
+    "nameJa": "ホテルメトロポリタン エドモント",
+    "nameEn": "Hotel Metropolitan Edmont Tokyo",
+    "accessJa": "ベルサール飯田橋駅前まで徒歩約2分",
+    "accessEn": "About 2 min walk to Bellesalle Iidabashi Ekimae",
+    "urlJa": "https://expedia.com/affiliate/CjAxmMH",
+    "urlEn": "https://expedia.com/affiliate/0poy7KW"
+   },
+   {
+    "nameJa": "アパホテル〈飯田橋駅南〉",
+    "nameEn": "APA Hotel Iidabashi-Ekiminami",
+    "accessJa": "ベルサール飯田橋駅前まで徒歩約2分",
+    "accessEn": "About 2 min walk to Bellesalle Iidabashi Ekimae",
+    "urlJa": "https://expedia.com/affiliate/l9Con4P",
+    "urlEn": "https://expedia.com/affiliate/EOWHKn5"
+   },
+   {
+    "nameJa": "トグルホテル水道橋東京",
+    "nameEn": "Toggle Hotel Suidobashi TOKYO",
+    "accessJa": "ベルサール飯田橋駅前まで徒歩約3分",
+    "accessEn": "About 3 min walk to Bellesalle Iidabashi Ekimae",
+    "urlJa": "https://expedia.com/affiliate/QAiF5Se",
+    "urlEn": "https://expedia.com/affiliate/AwfQTDr"
+   },
+   {
+    "nameJa": "シークエンス水道橋",
+    "nameEn": "sequence SUIDOBASHI",
+    "accessJa": "ベルサール飯田橋駅前まで徒歩約6分",
+    "accessEn": "About 6 min walk to Bellesalle Iidabashi Ekimae",
+    "urlJa": "https://expedia.com/affiliate/783DTUd",
+    "urlEn": "https://expedia.com/affiliate/Az7jDfD"
+   },
+   {
+    "nameJa": "ヴィアイン飯田橋後楽園",
+    "nameEn": "Via Inn Iidabashi Korakuen",
+    "accessJa": "ベルサール飯田橋駅前まで徒歩約7分",
+    "accessEn": "About 7 min walk to Bellesalle Iidabashi Ekimae",
+    "urlJa": "https://expedia.com/affiliate/NpS1twX",
+    "urlEn": "https://expedia.com/affiliate/uE5nRBa"
+   }
+  ]
+ },
+ "bellesalle-iidabashi-first": {
+  "pageJa": "https://www.bizintokyo.com/hotels/bellesalle-iidabashi-first/",
+  "pageEn": "https://www.bizintokyo.com/en/hotels/bellesalle-iidabashi-first/",
+  "hotels": [
+   {
+    "nameJa": "ヴィアイン飯田橋後楽園",
+    "nameEn": "Via Inn Iidabashi Korakuen",
+    "accessJa": "ベルサール飯田橋ファーストまで徒歩約2分",
+    "accessEn": "About 2 min walk to Bellesalle Iidabashi First",
+    "urlJa": "https://expedia.com/affiliate/NpS1twX",
+    "urlEn": "https://expedia.com/affiliate/uE5nRBa"
+   },
+   {
+    "nameJa": "トグルホテル水道橋東京",
+    "nameEn": "Toggle Hotel Suidobashi TOKYO",
+    "accessJa": "ベルサール飯田橋ファーストまで徒歩約7分",
+    "accessEn": "About 7 min walk to Bellesalle Iidabashi First",
+    "urlJa": "https://expedia.com/affiliate/QAiF5Se",
+    "urlEn": "https://expedia.com/affiliate/AwfQTDr"
+   },
+   {
+    "nameJa": "アパホテル〈飯田橋駅前〉",
+    "nameEn": "APA Hotel Iidabashi-Ekimae",
+    "accessJa": "ベルサール飯田橋ファーストまで徒歩約7分",
+    "accessEn": "About 7 min walk to Bellesalle Iidabashi First",
+    "urlJa": "https://expedia.com/affiliate/EzL43S0",
+    "urlEn": "https://expedia.com/affiliate/zASRy5Y"
+   },
+   {
+    "nameJa": "ホテルメトロポリタン エドモント",
+    "nameEn": "Hotel Metropolitan Edmont Tokyo",
+    "accessJa": "ベルサール飯田橋ファーストまで徒歩約8分",
+    "accessEn": "About 8 min walk to Bellesalle Iidabashi First",
+    "urlJa": "https://expedia.com/affiliate/CjAxmMH",
+    "urlEn": "https://expedia.com/affiliate/0poy7KW"
+   },
+   {
+    "nameJa": "アパホテル〈飯田橋駅南〉",
+    "nameEn": "APA Hotel Iidabashi-Ekiminami",
+    "accessJa": "ベルサール飯田橋ファーストまで徒歩約8分",
+    "accessEn": "About 8 min walk to Bellesalle Iidabashi First",
+    "urlJa": "https://expedia.com/affiliate/l9Con4P",
+    "urlEn": "https://expedia.com/affiliate/EOWHKn5"
+   },
+   {
+    "nameJa": "シークエンス水道橋",
+    "nameEn": "sequence SUIDOBASHI",
+    "accessJa": "ベルサール飯田橋ファーストまで徒歩約9分",
+    "accessEn": "About 9 min walk to Bellesalle Iidabashi First",
+    "urlJa": "https://expedia.com/affiliate/783DTUd",
+    "urlEn": "https://expedia.com/affiliate/Az7jDfD"
+   }
+  ]
+ },
+ "bellesalle-izumi-garden-gallery": {
+  "pageJa": "https://www.bizintokyo.com/hotels/bellesalle-izumi-garden-gallery/",
+  "pageEn": "https://www.bizintokyo.com/en/hotels/bellesalle-izumi-garden-gallery/",
+  "hotels": [
+   {
+    "nameJa": "ホテルヴィラフォンテーヌ東京六本木",
+    "nameEn": "Hotel Villa Fontaine Tokyo-Roppongi",
+    "accessJa": "泉ガーデンギャラリー（ベルサール泉ガーデンギャラリー）まで徒歩約2分",
+    "accessEn": "About 2 min walk to Bellesalle Izumi Garden Gallery",
+    "urlJa": "https://expedia.com/affiliate/lSJyml6",
+    "urlEn": "https://expedia.com/affiliate/WyAHcTO"
+   },
+   {
+    "nameJa": "ザ・オークラ東京",
+    "nameEn": "The Okura Tokyo",
+    "accessJa": "泉ガーデンギャラリー（ベルサール泉ガーデンギャラリー）まで徒歩約5分",
+    "accessEn": "About 5 min walk to Bellesalle Izumi Garden Gallery",
+    "urlJa": "https://expedia.com/affiliate/zs3aM5x",
+    "urlEn": "https://expedia.com/affiliate/lxqGRLH"
+   },
+   {
+    "nameJa": "ANAインターコンチネンタルホテル東京",
+    "nameEn": "ANA InterContinental Tokyo",
+    "accessJa": "泉ガーデンギャラリー（ベルサール泉ガーデンギャラリー）まで徒歩約5分",
+    "accessEn": "About 5 min walk to Bellesalle Izumi Garden Gallery",
+    "urlJa": "https://expedia.com/affiliate/l569InO",
+    "urlEn": "https://expedia.com/affiliate/BCdGnRr"
+   },
+   {
+    "nameJa": "東京エディション虎ノ門",
+    "nameEn": "The Tokyo EDITION, Toranomon",
+    "accessJa": "泉ガーデンギャラリー（ベルサール泉ガーデンギャラリー）まで徒歩約5分",
+    "accessEn": "About 5 min walk to Bellesalle Izumi Garden Gallery",
+    "urlJa": "https://expedia.com/affiliate/nYGVRsd",
+    "urlEn": "https://expedia.com/affiliate/0f2flES"
+   },
+   {
+    "nameJa": "三井ガーデンホテル六本木プレミア",
+    "nameEn": "Mitsui Garden Hotel Roppongi Premier",
+    "accessJa": "泉ガーデンギャラリー（ベルサール泉ガーデンギャラリー）まで徒歩約7分",
+    "accessEn": "About 7 min walk to Bellesalle Izumi Garden Gallery",
+    "urlJa": "https://expedia.com/affiliate/ovDeQ8i",
+    "urlEn": "https://expedia.com/affiliate/FLTZnQs"
+   },
+   {
+    "nameJa": "ホテル虎ノ門ヒルズ",
+    "nameEn": "Hotel Toranomon Hills",
+    "accessJa": "泉ガーデンギャラリー（ベルサール泉ガーデンギャラリー）まで徒歩約8分",
+    "accessEn": "About 8 min walk to Bellesalle Izumi Garden Gallery",
+    "urlJa": "https://expedia.com/affiliate/aRt68TG",
+    "urlEn": "https://expedia.com/affiliate/vE16nfm"
+   }
+  ]
+ },
+ "bellesalle-jimbocho-annex": {
+  "pageJa": "https://www.bizintokyo.com/hotels/bellesalle-jimbocho-annex/",
+  "pageEn": "https://www.bizintokyo.com/en/hotels/bellesalle-jimbocho-annex/",
+  "hotels": [
+   {
+    "nameJa": "ホテルヴィラフォンテーヌ東京九段下",
+    "nameEn": "Hotel Villa Fontaine Tokyo Kudanshita",
+    "accessJa": "ベルサール神保町アネックスまで徒歩約1分",
+    "accessEn": "About 1 min walk to Bellesalle Jimbocho Annex",
+    "urlJa": "https://expedia.com/affiliate/wtuRwM9",
+    "urlEn": "https://expedia.com/affiliate/345eR9V"
+   },
+   {
+    "nameJa": "BOOK HOTEL 神保町",
+    "nameEn": "Book Hotel Jimbocho",
+    "accessJa": "ベルサール神保町アネックスまで徒歩約3分",
+    "accessEn": "About 3 min walk to Bellesalle Jimbocho Annex",
+    "urlJa": "https://expedia.com/affiliate/GlJLG4C",
+    "urlEn": "https://expedia.com/affiliate/Qv0fnHB"
+   },
+   {
+    "nameJa": "京王プレッソイン東京九段下",
+    "nameEn": "Keio Presso Inn Kudanshita",
+    "accessJa": "ベルサール神保町アネックスまで徒歩約4分",
+    "accessEn": "About 4 min walk to Bellesalle Jimbocho Annex",
+    "urlJa": "https://expedia.com/affiliate/8dQ32fm",
+    "urlEn": "https://expedia.com/affiliate/k8IbMSR"
+   },
+   {
+    "nameJa": "サクラホテル神保町",
+    "nameEn": "Sakura Hotel Jimbocho",
+    "accessJa": "ベルサール神保町アネックスまで徒歩約4分",
+    "accessEn": "About 4 min walk to Bellesalle Jimbocho Annex",
+    "urlJa": "https://expedia.com/affiliate/ggisxGv",
+    "urlEn": "https://expedia.com/affiliate/2ohi3bj"
+   },
+   {
+    "nameJa": "ホテルヴィラフォンテーヌ東京神保町",
+    "nameEn": "Hotel Villa Fontaine Tokyo-Jimbocho",
+    "accessJa": "ベルサール神保町アネックスまで徒歩約4分",
+    "accessEn": "About 4 min walk to Bellesalle Jimbocho Annex",
+    "urlJa": "https://expedia.com/affiliate/8y7O5Bg",
+    "urlEn": "https://expedia.com/affiliate/z8TrD5f"
+   },
+   {
+    "nameJa": "ホテルニワ東京",
+    "nameEn": "Hotel Niwa Tokyo",
+    "accessJa": "ベルサール神保町アネックスまで徒歩約5分",
+    "accessEn": "About 5 min walk to Bellesalle Jimbocho Annex",
+    "urlJa": "https://expedia.com/affiliate/6nKLkHS",
+    "urlEn": "https://expedia.com/affiliate/aoekJuE"
+   }
+  ]
+ },
+ "bellesalle-jimbocho": {
+  "pageJa": "https://www.bizintokyo.com/hotels/bellesalle-jimbocho/",
+  "pageEn": "https://www.bizintokyo.com/en/hotels/bellesalle-jimbocho/",
+  "hotels": [
+   {
+    "nameJa": "ホテルヴィラフォンテーヌ東京九段下",
+    "nameEn": "Hotel Villa Fontaine Tokyo Kudanshita",
+    "accessJa": "ベルサール神保町まで徒歩約1分",
+    "accessEn": "About 1 min walk to Bellesalle Jimbocho",
+    "urlJa": "https://expedia.com/affiliate/wtuRwM9",
+    "urlEn": "https://expedia.com/affiliate/345eR9V"
+   },
+   {
+    "nameJa": "京王プレッソイン東京九段下",
+    "nameEn": "Keio Presso Inn Kudanshita",
+    "accessJa": "ベルサール神保町まで徒歩約2分",
+    "accessEn": "About 2 min walk to Bellesalle Jimbocho",
+    "urlJa": "https://expedia.com/affiliate/8dQ32fm",
+    "urlEn": "https://expedia.com/affiliate/k8IbMSR"
+   },
+   {
+    "nameJa": "BOOK HOTEL 神保町",
+    "nameEn": "Book Hotel Jimbocho",
+    "accessJa": "ベルサール神保町まで徒歩約4分",
+    "accessEn": "About 4 min walk to Bellesalle Jimbocho",
+    "urlJa": "https://expedia.com/affiliate/GlJLG4C",
+    "urlEn": "https://expedia.com/affiliate/Qv0fnHB"
+   },
+   {
+    "nameJa": "アパホテル〈東京九段下〉",
+    "nameEn": "APA Hotel Tokyo Kudanshita",
+    "accessJa": "ベルサール神保町まで徒歩約4分",
+    "accessEn": "About 4 min walk to Bellesalle Jimbocho",
+    "urlJa": "https://expedia.com/affiliate/BK6NGOZ",
+    "urlEn": "https://expedia.com/affiliate/Cpuovth"
+   },
+   {
+    "nameJa": "サクラホテル神保町",
+    "nameEn": "Sakura Hotel Jimbocho",
+    "accessJa": "ベルサール神保町まで徒歩約5分",
+    "accessEn": "About 5 min walk to Bellesalle Jimbocho",
+    "urlJa": "https://expedia.com/affiliate/ggisxGv",
+    "urlEn": "https://expedia.com/affiliate/2ohi3bj"
+   },
+   {
+    "nameJa": "ホテルニワ東京",
+    "nameEn": "Hotel Niwa Tokyo",
+    "accessJa": "ベルサール神保町まで徒歩約6分",
+    "accessEn": "About 6 min walk to Bellesalle Jimbocho",
+    "urlJa": "https://expedia.com/affiliate/6nKLkHS",
+    "urlEn": "https://expedia.com/affiliate/aoekJuE"
+   }
+  ]
+ },
+ "bellesalle-kanda": {
+  "pageJa": "https://www.bizintokyo.com/hotels/bellesalle-kanda/",
+  "pageEn": "https://www.bizintokyo.com/en/hotels/bellesalle-kanda/",
+  "hotels": [
+   {
+    "nameJa": "Belken Hotel 神田",
+    "nameEn": "Belken Hotel Kanda",
+    "accessJa": "ベルサール神田まで徒歩約3分",
+    "accessEn": "About 3 min walk to Bellesalle Kanda",
+    "urlJa": "https://expedia.com/affiliate/JuH61hn",
+    "urlEn": "https://expedia.com/affiliate/nwjQvih"
+   },
+   {
+    "nameJa": "アパホテル〈神田神保町駅東〉",
+    "nameEn": "APA Hotel Kanda-Jimbocho-Ekihigashi",
+    "accessJa": "ベルサール神田まで徒歩約4分",
+    "accessEn": "About 4 min walk to Bellesalle Kanda",
+    "urlJa": "https://expedia.com/affiliate/OxfZ9FI",
+    "urlEn": "https://expedia.com/affiliate/fdlyPLr"
+   },
+   {
+    "nameJa": "京王プレッソイン神田",
+    "nameEn": "Keio Presso Inn Kanda",
+    "accessJa": "ベルサール神田まで徒歩約4分",
+    "accessEn": "About 4 min walk to Bellesalle Kanda",
+    "urlJa": "https://expedia.com/affiliate/2hpWxfz",
+    "urlEn": "https://expedia.com/affiliate/C2iRRpi"
+   },
+   {
+    "nameJa": "ホテル龍名館お茶の水本店",
+    "nameEn": "Hotel Ryumeikan Ochanomizu Honten",
+    "accessJa": "ベルサール神田まで徒歩約5分",
+    "accessEn": "About 5 min walk to Bellesalle Kanda",
+    "urlJa": "https://expedia.com/affiliate/6NruhbG",
+    "urlEn": "https://expedia.com/affiliate/jSLi5Ls"
+   },
+   {
+    "nameJa": "相鉄フレッサイン御茶ノ水神保町",
+    "nameEn": "Sotetsu Fresa Inn Ochanomizu Jimbocho",
+    "accessJa": "ベルサール神田まで徒歩約6分",
+    "accessEn": "About 6 min walk to Bellesalle Kanda",
+    "urlJa": "https://expedia.com/affiliate/0dttB2z",
+    "urlEn": "https://expedia.com/affiliate/IX3Eyj6"
+   },
+   {
+    "nameJa": "ドーミーインPREMIUM神田",
+    "nameEn": "Dormy Inn Premium Kanda",
+    "accessJa": "ベルサール神田まで徒歩約7分",
+    "accessEn": "About 7 min walk to Bellesalle Kanda",
+    "urlJa": "https://expedia.com/affiliate/GbJVCmt",
+    "urlEn": "https://expedia.com/affiliate/cPIZlV1"
+   }
+  ]
+ },
+ "bellesalle-kudan": {
+  "pageJa": "https://www.bizintokyo.com/hotels/bellesalle-kudan/",
+  "pageEn": "https://www.bizintokyo.com/en/hotels/bellesalle-kudan/",
+  "hotels": [
+   {
+    "nameJa": "京王プレッソイン東京九段下",
+    "nameEn": "Keio Presso Inn Kudanshita",
+    "accessJa": "ベルサール九段まで徒歩約2分",
+    "accessEn": "About 2 min walk to Bellesalle Kudan",
+    "urlJa": "https://expedia.com/affiliate/8dQ32fm",
+    "urlEn": "https://expedia.com/affiliate/k8IbMSR"
+   },
+   {
+    "nameJa": "アパホテル〈東京九段下〉",
+    "nameEn": "APA Hotel Tokyo Kudanshita",
+    "accessJa": "ベルサール九段まで徒歩約3分",
+    "accessEn": "About 3 min walk to Bellesalle Kudan",
+    "urlJa": "https://expedia.com/affiliate/BK6NGOZ",
+    "urlEn": "https://expedia.com/affiliate/Cpuovth"
+   },
+   {
+    "nameJa": "ホテルヴィラフォンテーヌ東京九段下",
+    "nameEn": "Hotel Villa Fontaine Tokyo Kudanshita",
+    "accessJa": "ベルサール九段まで徒歩約4分",
+    "accessEn": "About 4 min walk to Bellesalle Kudan",
+    "urlJa": "https://expedia.com/affiliate/wtuRwM9",
+    "urlEn": "https://expedia.com/affiliate/345eR9V"
+   },
+   {
+    "nameJa": "ホテルメトロポリタン エドモント",
+    "nameEn": "Hotel Metropolitan Edmont Tokyo",
+    "accessJa": "ベルサール九段まで徒歩約6分",
+    "accessEn": "About 6 min walk to Bellesalle Kudan",
+    "urlJa": "https://expedia.com/affiliate/CjAxmMH",
+    "urlEn": "https://expedia.com/affiliate/0poy7KW"
+   },
+   {
+    "nameJa": "アパホテル〈飯田橋駅南〉",
+    "nameEn": "APA Hotel Iidabashi-Ekiminami",
+    "accessJa": "ベルサール九段まで徒歩約6分",
+    "accessEn": "About 6 min walk to Bellesalle Kudan",
+    "urlJa": "https://expedia.com/affiliate/l9Con4P",
+    "urlEn": "https://expedia.com/affiliate/EOWHKn5"
+   },
+   {
+    "nameJa": "BOOK HOTEL 神保町",
+    "nameEn": "Book Hotel Jimbocho",
+    "accessJa": "ベルサール九段まで徒歩約7分",
+    "accessEn": "About 7 min walk to Bellesalle Kudan",
+    "urlJa": "https://expedia.com/affiliate/GlJLG4C",
+    "urlEn": "https://expedia.com/affiliate/Qv0fnHB"
+   }
+  ]
+ },
+ "bellesalle-mita-garden": {
+  "pageJa": "https://www.bizintokyo.com/hotels/bellesalle-mita-garden/",
+  "pageEn": "https://www.bizintokyo.com/en/hotels/bellesalle-mita-garden/",
+  "hotels": [
+   {
+    "nameJa": "東急ステイ高輪（泉岳寺駅前）",
+    "nameEn": "Tokyu Stay Takanawa (Sengakuji Ekimae)",
+    "accessJa": "ベルサール三田ガーデンまで徒歩約10分",
+    "accessEn": "About 10 min walk to Bellesalle Mita Garden",
+    "urlJa": "https://expedia.com/affiliate/5UzhCsS",
+    "urlEn": "https://expedia.com/affiliate/oPVOV1o"
+   },
+   {
+    "nameJa": "ホテルザセレスティン東京芝",
+    "nameEn": "Hotel The Celestine Tokyo Shiba",
+    "accessJa": "ベルサール三田ガーデンまで徒歩約10分",
+    "accessEn": "About 10 min walk to Bellesalle Mita Garden",
+    "urlJa": "https://expedia.com/affiliate/iN60UyD",
+    "urlEn": "https://expedia.com/affiliate/ufzDsqj"
+   },
+   {
+    "nameJa": "アパホテル〈品川泉岳寺駅前〉",
+    "nameEn": "APA Hotel Shinagawa Sengakuji Ekimae",
+    "accessJa": "ベルサール三田ガーデンまで徒歩約11分",
+    "accessEn": "About 11 min walk to Bellesalle Mita Garden",
+    "urlJa": "https://expedia.com/affiliate/Je1QxTD",
+    "urlEn": "https://expedia.com/affiliate/Guu3vwZ"
+   },
+   {
+    "nameJa": "JWマリオット・ホテル東京",
+    "nameEn": "JW Marriott Hotel Tokyo",
+    "accessJa": "ベルサール三田ガーデンまで徒歩約15分",
+    "accessEn": "About 15 min walk to Bellesalle Mita Garden",
+    "urlJa": "https://expedia.com/affiliate/bEoaVTT",
+    "urlEn": "https://expedia.com/affiliate/LO1TGVm"
+   },
+   {
+    "nameJa": "ザ・プリンス パークタワー東京",
+    "nameEn": "The Prince Park Tower Tokyo",
+    "accessJa": "ベルサール三田ガーデンまで徒歩約15分",
+    "accessEn": "About 15 min walk to Bellesalle Mita Garden",
+    "urlJa": "https://expedia.com/affiliate/xJ4vjyS",
+    "urlEn": "https://expedia.com/affiliate/zOMHvSw"
+   },
+   {
+    "nameJa": "ヴィラフォンテーヌ東京浜松町",
+    "nameEn": "Hotel Villa Fontaine Tokyo Hamamatsucho",
+    "accessJa": "ベルサール三田ガーデンまで徒歩約16分",
+    "accessEn": "About 16 min walk to Bellesalle Mita Garden",
+    "urlJa": "https://expedia.com/affiliate/nZ8ArtC",
+    "urlEn": "https://expedia.com/affiliate/3Snw5TX"
+   }
+  ]
+ },
+ "bellesalle-nishi-shinjuku": {
+  "pageJa": "https://www.bizintokyo.com/hotels/bellesalle-nishi-shinjuku/",
+  "pageEn": "https://www.bizintokyo.com/en/hotels/bellesalle-nishi-shinjuku/",
+  "hotels": [
+   {
+    "nameJa": "ハイアット リージェンシー 東京",
+    "nameEn": "Hyatt Regency Tokyo",
+    "accessJa": "ベルサール西新宿まで徒歩約4分",
+    "accessEn": "About 4 min walk to Bellesalle Nishi-Shinjuku",
+    "urlJa": "https://expedia.com/affiliate/x0Vmb9f",
+    "urlEn": "https://expedia.com/affiliate/Gq8lFCK"
+   },
+   {
+    "nameJa": "パーク ハイアット 東京",
+    "nameEn": "Park Hyatt Tokyo",
+    "accessJa": "ベルサール西新宿まで徒歩約5分",
+    "accessEn": "About 5 min walk to Bellesalle Nishi-Shinjuku",
+    "urlJa": "https://expedia.com/affiliate/QsbmKK8",
+    "urlEn": "https://expedia.com/affiliate/IfTZqnO"
+   },
+   {
+    "nameJa": "ヒルトン東京",
+    "nameEn": "Hilton Tokyo",
+    "accessJa": "ベルサール西新宿まで徒歩約6分",
+    "accessEn": "About 6 min walk to Bellesalle Nishi-Shinjuku",
+    "urlJa": "https://expedia.com/affiliate/BoqX9nO",
+    "urlEn": "https://expedia.com/affiliate/CmPYyo1"
+   },
+   {
+    "nameJa": "新宿ワシントンホテル 本館",
+    "nameEn": "Shinjuku Washington Hotel Main",
+    "accessJa": "ベルサール西新宿まで徒歩約7分",
+    "accessEn": "About 7 min walk to Bellesalle Nishi-Shinjuku",
+    "urlJa": "https://expedia.com/affiliate/PYKmIGR",
+    "urlEn": "https://expedia.com/affiliate/aRHAfuE"
+   },
+   {
+    "nameJa": "京王プラザホテル",
+    "nameEn": "Keio Plaza Hotel Tokyo",
+    "accessJa": "ベルサール西新宿まで徒歩約7分",
+    "accessEn": "About 7 min walk to Bellesalle Nishi-Shinjuku",
+    "urlJa": "https://expedia.com/affiliate/j4nH8fH",
+    "urlEn": "https://expedia.com/affiliate/yChOgU5"
+   },
+   {
+    "nameJa": "キンプトン新宿東京 by IHG",
+    "nameEn": "Kimpton Shinjuku Tokyo By IHG",
+    "accessJa": "ベルサール西新宿まで徒歩約7分",
+    "accessEn": "About 7 min walk to Bellesalle Nishi-Shinjuku",
+    "urlJa": "https://expedia.com/affiliate/4uBctfi",
+    "urlEn": "https://expedia.com/affiliate/6vB8zaR"
+   }
+  ]
+ },
+ "bellesalle-onarimon-tower": {
+  "pageJa": "https://www.bizintokyo.com/hotels/bellesalle-onarimon-tower/",
+  "pageEn": "https://www.bizintokyo.com/en/hotels/bellesalle-onarimon-tower/",
+  "hotels": [
+   {
+    "nameJa": "東急ステイ新橋",
+    "nameEn": "Tokyu Stay Shimbashi",
+    "accessJa": "ベルサール御成門タワーまで徒歩約7分",
+    "accessEn": "About 7 min walk to Bellesalle Onarimon Tower",
+    "urlJa": "https://expedia.com/affiliate/Eg1HKMd",
+    "urlEn": "https://expedia.com/affiliate/G1Cg2dx"
+   },
+   {
+    "nameJa": "ザ・プリンス パークタワー東京",
+    "nameEn": "The Prince Park Tower Tokyo",
+    "accessJa": "ベルサール御成門タワーまで徒歩約9分",
+    "accessEn": "About 9 min walk to Bellesalle Onarimon Tower",
+    "urlJa": "https://expedia.com/affiliate/xJ4vjyS",
+    "urlEn": "https://expedia.com/affiliate/zOMHvSw"
+   },
+   {
+    "nameJa": "東京エディション虎ノ門",
+    "nameEn": "The Tokyo EDITION, Toranomon",
+    "accessJa": "ベルサール御成門タワーまで徒歩約9分",
+    "accessEn": "About 9 min walk to Bellesalle Onarimon Tower",
+    "urlJa": "https://expedia.com/affiliate/nYGVRsd",
+    "urlEn": "https://expedia.com/affiliate/0f2flES"
+   },
+   {
+    "nameJa": "アンダーズ 東京虎ノ門ヒルズ",
+    "nameEn": "Andaz Tokyo Toranomon Hills",
+    "accessJa": "ベルサール御成門タワーまで徒歩約9分",
+    "accessEn": "About 9 min walk to Bellesalle Onarimon Tower",
+    "urlJa": "https://expedia.com/affiliate/QME4glS",
+    "urlEn": "https://expedia.com/affiliate/jQcEirj"
+   },
+   {
+    "nameJa": "パークホテル東京",
+    "nameEn": "Park Hotel Tokyo",
+    "accessJa": "ベルサール御成門タワーまで徒歩約9分",
+    "accessEn": "About 9 min walk to Bellesalle Onarimon Tower",
+    "urlJa": "https://expedia.com/affiliate/BCzm5EW",
+    "urlEn": "https://expedia.com/affiliate/WAvEL3A"
+   },
+   {
+    "nameJa": "ホテルヴィラフォンテーヌ グランド 東京汐留",
+    "nameEn": "Hotel Villa Fontaine Grand Tokyo Shiodome",
+    "accessJa": "ベルサール御成門タワーまで徒歩約10分",
+    "accessEn": "About 10 min walk to Bellesalle Onarimon Tower",
+    "urlJa": "https://expedia.com/affiliate/jbGnJSD",
+    "urlEn": "https://expedia.com/affiliate/laU4Rqf"
+   }
+  ]
+ },
+ "bellesalle-roppongi-gcc": {
+  "pageJa": "https://www.bizintokyo.com/hotels/bellesalle-roppongi-gcc/",
+  "pageEn": "https://www.bizintokyo.com/en/hotels/bellesalle-roppongi-gcc/",
+  "hotels": [
+   {
+    "nameJa": "ホテルヴィラフォンテーヌ東京六本木",
+    "nameEn": "Hotel Villa Fontaine Tokyo-Roppongi",
+    "accessJa": "ベルサール六本木グランドコンファレンスセンターまで徒歩約2分",
+    "accessEn": "About 2 min walk to Bellesalle Roppongi Grand Conference Center",
+    "urlJa": "https://expedia.com/affiliate/lSJyml6",
+    "urlEn": "https://expedia.com/affiliate/WyAHcTO"
+   },
+   {
+    "nameJa": "三井ガーデンホテル六本木プレミア",
+    "nameEn": "Mitsui Garden Hotel Roppongi Premier",
+    "accessJa": "ベルサール六本木グランドコンファレンスセンターまで徒歩約4分",
+    "accessEn": "About 4 min walk to Bellesalle Roppongi Grand Conference Center",
+    "urlJa": "https://expedia.com/affiliate/ovDeQ8i",
+    "urlEn": "https://expedia.com/affiliate/FLTZnQs"
+   },
+   {
+    "nameJa": "ANAインターコンチネンタルホテル東京",
+    "nameEn": "ANA InterContinental Tokyo",
+    "accessJa": "ベルサール六本木グランドコンファレンスセンターまで徒歩約6分",
+    "accessEn": "About 6 min walk to Bellesalle Roppongi Grand Conference Center",
+    "urlJa": "https://expedia.com/affiliate/l569InO",
+    "urlEn": "https://expedia.com/affiliate/BCdGnRr"
+   },
+   {
+    "nameJa": "カンデオホテルズ東京六本木",
+    "nameEn": "Candeo Hotels Tokyo Roppongi",
+    "accessJa": "ベルサール六本木グランドコンファレンスセンターまで徒歩約7分",
+    "accessEn": "About 7 min walk to Bellesalle Roppongi Grand Conference Center",
+    "urlJa": "https://expedia.com/affiliate/cr36X3S",
+    "urlEn": "https://expedia.com/affiliate/OY5lOED"
+   },
+   {
+    "nameJa": "レム六本木",
+    "nameEn": "remm Roppongi",
+    "accessJa": "ベルサール六本木グランドコンファレンスセンターまで徒歩約8分",
+    "accessEn": "About 8 min walk to Bellesalle Roppongi Grand Conference Center",
+    "urlJa": "https://expedia.com/affiliate/DFDWaKA",
+    "urlEn": "https://expedia.com/affiliate/xL4WWb0"
+   },
+   {
+    "nameJa": "ザ・オークラ東京",
+    "nameEn": "The Okura Tokyo",
+    "accessJa": "ベルサール六本木グランドコンファレンスセンターまで徒歩約8分",
+    "accessEn": "About 8 min walk to Bellesalle Roppongi Grand Conference Center",
+    "urlJa": "https://expedia.com/affiliate/zs3aM5x",
+    "urlEn": "https://expedia.com/affiliate/lxqGRLH"
+   }
+  ]
+ },
+ "bellesalle-roppongi": {
+  "pageJa": "https://www.bizintokyo.com/hotels/bellesalle-roppongi/",
+  "pageEn": "https://www.bizintokyo.com/en/hotels/bellesalle-roppongi/",
+  "hotels": [
+   {
+    "nameJa": "グランドハイアット東京",
+    "nameEn": "Grand Hyatt Tokyo",
+    "accessJa": "ベルサール六本木まで徒歩約3分",
+    "accessEn": "About 3 min walk to Bellesalle Roppongi",
+    "urlJa": "https://expedia.com/affiliate/n6tWnXo",
+    "urlEn": "https://expedia.com/affiliate/H7XpZPU"
+   },
+   {
+    "nameJa": "レム六本木",
+    "nameEn": "remm Roppongi",
+    "accessJa": "ベルサール六本木まで徒歩約4分",
+    "accessEn": "About 4 min walk to Bellesalle Roppongi",
+    "urlJa": "https://expedia.com/affiliate/DFDWaKA",
+    "urlEn": "https://expedia.com/affiliate/xL4WWb0"
+   },
+   {
+    "nameJa": "カンデオホテルズ東京六本木",
+    "nameEn": "Candeo Hotels Tokyo Roppongi",
+    "accessJa": "ベルサール六本木まで徒歩約5分",
+    "accessEn": "About 5 min walk to Bellesalle Roppongi",
+    "urlJa": "https://expedia.com/affiliate/cr36X3S",
+    "urlEn": "https://expedia.com/affiliate/OY5lOED"
+   },
+   {
+    "nameJa": "ザ・リッツ・カールトン東京",
+    "nameEn": "The Ritz-Carlton, Tokyo",
+    "accessJa": "ベルサール六本木まで徒歩約6分",
+    "accessEn": "About 6 min walk to Bellesalle Roppongi",
+    "urlJa": "https://expedia.com/affiliate/e4vFIUy",
+    "urlEn": "https://expedia.com/affiliate/i7zFSjl"
+   },
+   {
+    "nameJa": "三井ガーデンホテル六本木プレミア",
+    "nameEn": "Mitsui Garden Hotel Roppongi Premier",
+    "accessJa": "ベルサール六本木まで徒歩約8分",
+    "accessEn": "About 8 min walk to Bellesalle Roppongi",
+    "urlJa": "https://expedia.com/affiliate/ovDeQ8i",
+    "urlEn": "https://expedia.com/affiliate/FLTZnQs"
+   },
+   {
+    "nameJa": "ホテルヴィラフォンテーヌ東京六本木",
+    "nameEn": "Hotel Villa Fontaine Tokyo-Roppongi",
+    "accessJa": "ベルサール六本木まで徒歩約12分",
+    "accessEn": "About 12 min walk to Bellesalle Roppongi",
+    "urlJa": "https://expedia.com/affiliate/lSJyml6",
+    "urlEn": "https://expedia.com/affiliate/WyAHcTO"
+   }
+  ]
+ },
+ "bellesalle-shibakoen": {
+  "pageJa": "https://www.bizintokyo.com/hotels/bellesalle-shibakoen/",
+  "pageEn": "https://www.bizintokyo.com/en/hotels/bellesalle-shibakoen/",
+  "hotels": [
+   {
+    "nameJa": "ホテルザセレスティン東京芝",
+    "nameEn": "Hotel The Celestine Tokyo Shiba",
+    "accessJa": "ベルサール芝公園まで徒歩約2分",
+    "accessEn": "About 2 min walk to Bellesalle Shibakoen",
+    "urlJa": "https://expedia.com/affiliate/iN60UyD",
+    "urlEn": "https://expedia.com/affiliate/ufzDsqj"
+   },
+   {
+    "nameJa": "ザ・プリンス パークタワー東京",
+    "nameEn": "The Prince Park Tower Tokyo",
+    "accessJa": "ベルサール芝公園まで徒歩約5分",
+    "accessEn": "About 5 min walk to Bellesalle Shibakoen",
+    "urlJa": "https://expedia.com/affiliate/xJ4vjyS",
+    "urlEn": "https://expedia.com/affiliate/zOMHvSw"
+   },
+   {
+    "nameJa": "ヴィラフォンテーヌ東京浜松町",
+    "nameEn": "Hotel Villa Fontaine Tokyo Hamamatsucho",
+    "accessJa": "ベルサール芝公園まで徒歩約6分",
+    "accessEn": "About 6 min walk to Bellesalle Shibakoen",
+    "urlJa": "https://expedia.com/affiliate/nZ8ArtC",
+    "urlEn": "https://expedia.com/affiliate/3Snw5TX"
+   },
+   {
+    "nameJa": "ホテル インターコンチネンタル東京ベイ",
+    "nameEn": "Hotel InterContinental Tokyo Bay",
+    "accessJa": "ベルサール芝公園まで徒歩約14分",
+    "accessEn": "About 14 min walk to Bellesalle Shibakoen",
+    "urlJa": "https://expedia.com/affiliate/vNHln8G",
+    "urlEn": "https://expedia.com/affiliate/C8QZU2e"
+   },
+   {
+    "nameJa": "メズム東京、オートグラフ コレクション",
+    "nameEn": "Mesm Tokyo, Autograph Collection",
+    "accessJa": "ベルサール芝公園まで徒歩約16分",
+    "accessEn": "About 16 min walk to Bellesalle Shibakoen",
+    "urlJa": "https://expedia.com/affiliate/seOjtkl",
+    "urlEn": "https://expedia.com/affiliate/UqyOUtK"
+   },
+   {
+    "nameJa": "ホテルヴィラフォンテーヌ グランド 東京汐留",
+    "nameEn": "Hotel Villa Fontaine Grand Tokyo Shiodome",
+    "accessJa": "ベルサール芝公園まで徒歩約18分",
+    "accessEn": "About 18 min walk to Bellesalle Shibakoen",
+    "urlJa": "https://expedia.com/affiliate/jbGnJSD",
+    "urlEn": "https://expedia.com/affiliate/laU4Rqf"
+   }
+  ]
+ },
  "bellesalle-shinjuku-grand": {
   "pageJa": "https://www.bizintokyo.com/hotels/bellesalle-shinjuku/",
   "pageEn": "https://www.bizintokyo.com/en/hotels/bellesalle-shinjuku/",
@@ -536,6 +1346,276 @@
     "accessEn": "About 15 min walk to Bellesalle Shinjuku Grand",
     "urlJa": "https://expedia.com/affiliate/xwgmNWX",
     "urlEn": "https://expedia.com/affiliate/zMiJOAP"
+   }
+  ]
+ },
+ "bellesalle-shinjuku-minamiguchi": {
+  "pageJa": "https://www.bizintokyo.com/hotels/bellesalle-shinjuku-minamiguchi/",
+  "pageEn": "https://www.bizintokyo.com/en/hotels/bellesalle-shinjuku-minamiguchi/",
+  "hotels": [
+   {
+    "nameJa": "安心お宿 Tokyo Man 新宿駅南口店",
+    "nameEn": "Anshin Oyado Tokyo Shinjuku Ekimae (Caters to Men)",
+    "accessJa": "ベルサール新宿南口まで徒歩約4分",
+    "accessEn": "About 4 min walk to Bellesalle Shinjuku Minamiguchi",
+    "urlJa": "https://expedia.com/affiliate/IMnVBob",
+    "urlEn": "https://expedia.com/affiliate/Ld7eusO"
+   },
+   {
+    "nameJa": "京王プラザホテル プレミアグラン",
+    "nameEn": "Keio Plaza Hotel Tokyo PremierGrand",
+    "accessJa": "ベルサール新宿南口まで徒歩約11分",
+    "accessEn": "About 11 min walk to Bellesalle Shinjuku Minamiguchi",
+    "urlJa": "https://expedia.com/affiliate/vL7MA6D",
+    "urlEn": "https://expedia.com/affiliate/ULqPhvM"
+   },
+   {
+    "nameJa": "新宿ワシントンホテル 本館",
+    "nameEn": "Shinjuku Washington Hotel Main",
+    "accessJa": "ベルサール新宿南口まで徒歩約12分",
+    "accessEn": "About 12 min walk to Bellesalle Shinjuku Minamiguchi",
+    "urlJa": "https://expedia.com/affiliate/PYKmIGR",
+    "urlEn": "https://expedia.com/affiliate/aRHAfuE"
+   },
+   {
+    "nameJa": "京王プラザホテル",
+    "nameEn": "Keio Plaza Hotel Tokyo",
+    "accessJa": "ベルサール新宿南口まで徒歩約12分",
+    "accessEn": "About 12 min walk to Bellesalle Shinjuku Minamiguchi",
+    "urlJa": "https://expedia.com/affiliate/j4nH8fH",
+    "urlEn": "https://expedia.com/affiliate/yChOgU5"
+   },
+   {
+    "nameJa": "BOOK AND BED TOKYO 新宿店",
+    "nameEn": "Book and Bed Tokyo Shinjuku",
+    "accessJa": "ベルサール新宿南口まで徒歩約13分",
+    "accessEn": "About 13 min walk to Bellesalle Shinjuku Minamiguchi",
+    "urlJa": "https://expedia.com/affiliate/RbLDKSo",
+    "urlEn": "https://expedia.com/affiliate/6iygf5J"
+   },
+   {
+    "nameJa": "キンプトン新宿東京 by IHG",
+    "nameEn": "Kimpton Shinjuku Tokyo By IHG",
+    "accessJa": "ベルサール新宿南口まで徒歩約13分",
+    "accessEn": "About 13 min walk to Bellesalle Shinjuku Minamiguchi",
+    "urlJa": "https://expedia.com/affiliate/4uBctfi",
+    "urlEn": "https://expedia.com/affiliate/6vB8zaR"
+   }
+  ]
+ },
+ "bellesalle-takadanobaba": {
+  "pageJa": "https://www.bizintokyo.com/hotels/bellesalle-takadanobaba/",
+  "pageEn": "https://www.bizintokyo.com/en/hotels/bellesalle-takadanobaba/",
+  "hotels": [
+   {
+    "nameJa": "相鉄グランドフレッサ高田馬場",
+    "nameEn": "Sotetsu Grand Fresa Takadanobaba",
+    "accessJa": "ベルサール高田馬場まで徒歩約5分",
+    "accessEn": "About 5 min walk to Bellesalle Takadanobaba",
+    "urlJa": "https://expedia.com/affiliate/4ywOZDO",
+    "urlEn": "https://expedia.com/affiliate/1LkLU4g"
+   },
+   {
+    "nameJa": "ホテルリブマックス高田馬場駅前",
+    "nameEn": "Hotel Livemax Takadanobaba-Ekimae",
+    "accessJa": "ベルサール高田馬場まで徒歩約6分",
+    "accessEn": "About 6 min walk to Bellesalle Takadanobaba",
+    "urlJa": "https://expedia.com/affiliate/fKzExku",
+    "urlEn": "https://expedia.com/affiliate/FAYvvHk"
+   },
+   {
+    "nameJa": "ベッセルイン高田馬場駅前",
+    "nameEn": "Vessel Inn Takadanobaba Ekimae",
+    "accessJa": "ベルサール高田馬場まで徒歩約7分",
+    "accessEn": "About 7 min walk to Bellesalle Takadanobaba",
+    "urlJa": "https://expedia.com/affiliate/Qu5bUQq",
+    "urlEn": "https://expedia.com/affiliate/XHfLTKD"
+   },
+   {
+    "nameJa": "アパホテル〈東新宿駅前〉",
+    "nameEn": "APA Hotel Higashi-Shinjuku-Ekimae",
+    "accessJa": "ベルサール高田馬場まで徒歩約15分",
+    "accessEn": "About 15 min walk to Bellesalle Takadanobaba",
+    "urlJa": "https://expedia.com/affiliate/9hBNgHz",
+    "urlEn": "https://expedia.com/affiliate/NBOkquo"
+   },
+   {
+    "nameJa": "東横INN東京新宿歌舞伎町",
+    "nameEn": "Toyoko Inn Tokyo Shinjuku Kabukicho",
+    "accessJa": "ベルサール高田馬場まで徒歩約16分",
+    "accessEn": "About 16 min walk to Bellesalle Takadanobaba",
+    "urlJa": "https://expedia.com/affiliate/xwgmNWX",
+    "urlEn": "https://expedia.com/affiliate/zMiJOAP"
+   },
+   {
+    "nameJa": "ヒルトン東京",
+    "nameEn": "Hilton Tokyo",
+    "accessJa": "ベルサール高田馬場まで電車で移動（直線距離約2.1km）",
+    "accessEn": "About 2.1 km from Bellesalle Takadanobaba (short train ride)",
+    "urlJa": "https://expedia.com/affiliate/BoqX9nO",
+    "urlEn": "https://expedia.com/affiliate/CmPYyo1"
+   }
+  ]
+ },
+ "bellesalle-tokyo-nihonbashi": {
+  "pageJa": "https://www.bizintokyo.com/hotels/bellesalle-tokyo-nihonbashi/",
+  "pageEn": "https://www.bizintokyo.com/en/hotels/bellesalle-tokyo-nihonbashi/",
+  "hotels": [
+   {
+    "nameJa": "八重洲ターミナルホテル",
+    "nameEn": "Yaesu Terminal Hotel",
+    "accessJa": "ベルサール東京日本橋まで徒歩約3分",
+    "accessEn": "About 3 min walk to Bellesalle Tokyo Nihonbashi",
+    "urlJa": "https://expedia.com/affiliate/5qdqgtA",
+    "urlEn": "https://expedia.com/affiliate/wUHDHBO"
+   },
+   {
+    "nameJa": "ホテル龍名館東京",
+    "nameEn": "Hotel Ryumeikan Tokyo",
+    "accessJa": "ベルサール東京日本橋まで徒歩約4分",
+    "accessEn": "About 4 min walk to Bellesalle Tokyo Nihonbashi",
+    "urlJa": "https://expedia.com/affiliate/HzHWTDR",
+    "urlEn": "https://expedia.com/affiliate/xocNASC"
+   },
+   {
+    "nameJa": "シャングリ・ラ 東京",
+    "nameEn": "Shangri-La Tokyo",
+    "accessJa": "ベルサール東京日本橋まで徒歩約5分",
+    "accessEn": "About 5 min walk to Bellesalle Tokyo Nihonbashi",
+    "urlJa": "https://expedia.com/affiliate/evOuVHQ",
+    "urlEn": "https://expedia.com/affiliate/MUOnuTq"
+   },
+   {
+    "nameJa": "スーパーホテルPremier東京駅八重洲中央口",
+    "nameEn": "Super Hotel Premier Tokyo Station Yaesu-Chuoguchi",
+    "accessJa": "ベルサール東京日本橋まで徒歩約6分",
+    "accessEn": "About 6 min walk to Bellesalle Tokyo Nihonbashi",
+    "urlJa": "https://expedia.com/affiliate/TFF89PR",
+    "urlEn": "https://expedia.com/affiliate/Pfa6816"
+   },
+   {
+    "nameJa": "三井ガーデンホテル京橋",
+    "nameEn": "Mitsui Garden Hotel Kyobashi",
+    "accessJa": "ベルサール東京日本橋まで徒歩約6分",
+    "accessEn": "About 6 min walk to Bellesalle Tokyo Nihonbashi",
+    "urlJa": "https://expedia.com/affiliate/3eBwq4u",
+    "urlEn": "https://expedia.com/affiliate/Uo0qFh8"
+   },
+   {
+    "nameJa": "京王プレッソイン東京駅八重洲",
+    "nameEn": "Keio Presso Inn Tokyo Station Yaesu",
+    "accessJa": "ベルサール東京日本橋まで徒歩約6分",
+    "accessEn": "About 6 min walk to Bellesalle Tokyo Nihonbashi",
+    "urlJa": "https://expedia.com/affiliate/JhqedME",
+    "urlEn": "https://expedia.com/affiliate/SrXIgRI"
+   }
+  ]
+ },
+ "bellesalle-tokyo-shiodome-cc": {
+  "pageJa": "https://www.bizintokyo.com/hotels/bellesalle-tokyo-shiodome-cc/",
+  "pageEn": "https://www.bizintokyo.com/en/hotels/bellesalle-tokyo-shiodome-cc/",
+  "hotels": [
+   {
+    "nameJa": "ホテルヴィラフォンテーヌ グランド 東京汐留",
+    "nameEn": "Hotel Villa Fontaine Grand Tokyo Shiodome",
+    "accessJa": "ベルサール東京汐留コンファレンスセンターまで徒歩約1分",
+    "accessEn": "About 1 min walk to Bellesalle Tokyo Shiodome Conference Center",
+    "urlJa": "https://expedia.com/affiliate/jbGnJSD",
+    "urlEn": "https://expedia.com/affiliate/laU4Rqf"
+   },
+   {
+    "nameJa": "パークホテル東京",
+    "nameEn": "Park Hotel Tokyo",
+    "accessJa": "ベルサール東京汐留コンファレンスセンターまで徒歩約1分",
+    "accessEn": "About 1 min walk to Bellesalle Tokyo Shiodome Conference Center",
+    "urlJa": "https://expedia.com/affiliate/BCzm5EW",
+    "urlEn": "https://expedia.com/affiliate/WAvEL3A"
+   },
+   {
+    "nameJa": "コンラッド東京",
+    "nameEn": "Conrad Tokyo",
+    "accessJa": "ベルサール東京汐留コンファレンスセンターまで徒歩約2分",
+    "accessEn": "About 2 min walk to Bellesalle Tokyo Shiodome Conference Center",
+    "urlJa": "https://expedia.com/affiliate/EDkecuQ",
+    "urlEn": "https://expedia.com/affiliate/sGQA5WP"
+   },
+   {
+    "nameJa": "ザ ロイヤルパークホテル アイコニック 東京汐留",
+    "nameEn": "The Royal Park Hotel Iconic Tokyo Shiodome",
+    "accessJa": "ベルサール東京汐留コンファレンスセンターまで徒歩約3分",
+    "accessEn": "About 3 min walk to Bellesalle Tokyo Shiodome Conference Center",
+    "urlJa": "https://expedia.com/affiliate/5UvYRvf",
+    "urlEn": "https://expedia.com/affiliate/Z5lxlQX"
+   },
+   {
+    "nameJa": "東急ステイ新橋",
+    "nameEn": "Tokyu Stay Shimbashi",
+    "accessJa": "ベルサール東京汐留コンファレンスセンターまで徒歩約4分",
+    "accessEn": "About 4 min walk to Bellesalle Tokyo Shiodome Conference Center",
+    "urlJa": "https://expedia.com/affiliate/Eg1HKMd",
+    "urlEn": "https://expedia.com/affiliate/G1Cg2dx"
+   },
+   {
+    "nameJa": "三井ガーデンホテル銀座プレミア",
+    "nameEn": "Mitsui Garden Hotel Ginza Premier",
+    "accessJa": "ベルサール東京汐留コンファレンスセンターまで徒歩約8分",
+    "accessEn": "About 8 min walk to Bellesalle Tokyo Shiodome Conference Center",
+    "urlJa": "https://expedia.com/affiliate/M2ph2Ok",
+    "urlEn": "https://expedia.com/affiliate/cEQqohc"
+   }
+  ]
+ },
+ "bellesalle-toranomon": {
+  "pageJa": "https://www.bizintokyo.com/hotels/bellesalle-toranomon/",
+  "pageEn": "https://www.bizintokyo.com/en/hotels/bellesalle-toranomon/",
+  "hotels": [
+   {
+    "nameJa": "ホテル虎ノ門ヒルズ",
+    "nameEn": "Hotel Toranomon Hills",
+    "accessJa": "ベルサール虎ノ門まで徒歩約3分",
+    "accessEn": "About 3 min walk to Bellesalle Toranomon",
+    "urlJa": "https://expedia.com/affiliate/aRt68TG",
+    "urlEn": "https://expedia.com/affiliate/vE16nfm"
+   },
+   {
+    "nameJa": "ザ・オークラ東京",
+    "nameEn": "The Okura Tokyo",
+    "accessJa": "ベルサール虎ノ門まで徒歩約4分",
+    "accessEn": "About 4 min walk to Bellesalle Toranomon",
+    "urlJa": "https://expedia.com/affiliate/zs3aM5x",
+    "urlEn": "https://expedia.com/affiliate/lxqGRLH"
+   },
+   {
+    "nameJa": "アンダーズ 東京虎ノ門ヒルズ",
+    "nameEn": "Andaz Tokyo Toranomon Hills",
+    "accessJa": "ベルサール虎ノ門まで徒歩約6分",
+    "accessEn": "About 6 min walk to Bellesalle Toranomon",
+    "urlJa": "https://expedia.com/affiliate/QME4glS",
+    "urlEn": "https://expedia.com/affiliate/jQcEirj"
+   },
+   {
+    "nameJa": "ANAインターコンチネンタルホテル東京",
+    "nameEn": "ANA InterContinental Tokyo",
+    "accessJa": "ベルサール虎ノ門まで徒歩約6分",
+    "accessEn": "About 6 min walk to Bellesalle Toranomon",
+    "urlJa": "https://expedia.com/affiliate/l569InO",
+    "urlEn": "https://expedia.com/affiliate/BCdGnRr"
+   },
+   {
+    "nameJa": "東京エディション虎ノ門",
+    "nameEn": "The Tokyo EDITION, Toranomon",
+    "accessJa": "ベルサール虎ノ門まで徒歩約6分",
+    "accessEn": "About 6 min walk to Bellesalle Toranomon",
+    "urlJa": "https://expedia.com/affiliate/nYGVRsd",
+    "urlEn": "https://expedia.com/affiliate/0f2flES"
+   },
+   {
+    "nameJa": "ホテルマイステイズプレミア赤坂",
+    "nameEn": "Hotel MyStays Premier Akasaka",
+    "accessJa": "ベルサール虎ノ門まで徒歩約8分",
+    "accessEn": "About 8 min walk to Bellesalle Toranomon",
+    "urlJa": "https://expedia.com/affiliate/QVemYwU",
+    "urlEn": "https://expedia.com/affiliate/mpxFOu2"
    }
   ]
  },

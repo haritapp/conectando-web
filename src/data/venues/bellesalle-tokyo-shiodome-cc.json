@@ -1,0 +1,304 @@
+{
+ "slug": "bellesalle-tokyo-shiodome-cc",
+ "nameJa": "ベルサール東京汐留コンファレンスセンター",
+ "nameEn": "",
+ "type": "conference",
+ "area": "shimbashi-hamamatsucho-venues",
+ "address": "〒105-0021 東京都港区東新橋1-9-2（汐留住友ビル内、ホテル ヴィラフォンテーヌ グランド東京汐留）",
+ "officialUrl": "https://www.hvf.jp/conference/shiodome/",
+ "organizerUrl": null,
+ "bizintokyoSlug": "bellesalle-tokyo-shiodome-cc",
+ "accessSummary": "汐留駅（都営大江戸線）地下歩道経由 徒歩1分／汐留駅（ゆりかもめ）2階歩行者デッキ経由 徒歩1分／新橋駅（JR線・東京メトロ銀座線・都営浅草線）地下歩道経由 徒歩8分／浜松町駅（JR線・東京モノレール）徒歩11分",
+ "notice": null,
+ "hours": "基本利用時間 8:00〜22:00（利用料金一覧表 2025年12月作成）。使用申込ができる営業日は原則、年末年始（12/28〜1/4）を除く日（使用マニュアル 2024/7/30作成）",
+ "rooms": [
+  {
+   "name": "1F 会議室1",
+   "areaM2": 45,
+   "ceilingM": 5.0,
+   "theater": null,
+   "school": 18,
+   "ushape": 16,
+   "standing": null,
+   "banquet": null,
+   "note": "スクールは2名掛け。T字島型 18席（3島）（6名掛）"
+  },
+  {
+   "name": "1F 会議室2",
+   "areaM2": 46,
+   "ceilingM": 5.0,
+   "theater": null,
+   "school": 18,
+   "ushape": 16,
+   "standing": null,
+   "banquet": null,
+   "note": "スクールは2名掛け。T字島型 18席（3島）（6名掛）"
+  },
+  {
+   "name": "1F 会議室3",
+   "areaM2": 91,
+   "ceilingM": 5.0,
+   "theater": null,
+   "school": 42,
+   "ushape": 32,
+   "standing": null,
+   "banquet": null,
+   "note": "スクールは2名掛け。T字島型 36席（6島）（6名掛）"
+  },
+  {
+   "name": "1F 会議室1+2",
+   "areaM2": 91,
+   "ceilingM": 5.0,
+   "theater": null,
+   "school": 42,
+   "ushape": 36,
+   "standing": null,
+   "banquet": null,
+   "note": "スクールは2名掛け。T字島型 36席（6島）（6名掛）"
+  },
+  {
+   "name": "1F 会議室2+3",
+   "areaM2": 137,
+   "ceilingM": 5.0,
+   "theater": null,
+   "school": 60,
+   "ushape": 48,
+   "standing": null,
+   "banquet": null,
+   "note": "スクールは2名掛け。T字島型 48席（8島）（6名掛）"
+  },
+  {
+   "name": "1F 会議室1+2+3",
+   "areaM2": 182,
+   "ceilingM": 5.0,
+   "theater": null,
+   "school": 80,
+   "ushape": 80,
+   "standing": null,
+   "banquet": null,
+   "note": "スクールは2名掛け。T字島型 72席（12島）（6名掛）。公式にスクール形式最大80名の着席イメージ図あり"
+  },
+  {
+   "name": "1F 会議室4",
+   "areaM2": 32,
+   "ceilingM": 3.5,
+   "theater": null,
+   "school": 12,
+   "ushape": 12,
+   "standing": null,
+   "banquet": null,
+   "note": "スクールは2名掛け。T字島型 12席（2島）（6名掛）"
+  },
+  {
+   "name": "1F 会議室5",
+   "areaM2": 75,
+   "ceilingM": 3.5,
+   "theater": null,
+   "school": 30,
+   "ushape": 24,
+   "standing": null,
+   "banquet": null,
+   "note": "スクールは2名掛け。T字島型 24席（4島）（6名掛）。公式トップページの表ではスクール 36席（4島）で、利用料金一覧表（2025年12月作成）の30席と食い違う。一覧表の値を使用"
+  },
+  {
+   "name": "1F 会議室4+5",
+   "areaM2": 107,
+   "ceilingM": 3.5,
+   "theater": null,
+   "school": 42,
+   "ushape": 32,
+   "standing": null,
+   "banquet": null,
+   "note": "スクールは2名掛け。T字島型 36席（6島）（6名掛）。公式トップページの表ではスクール 48席（6島）で、利用料金一覧表（2025年12月作成）の42席と食い違う。一覧表の値を使用"
+  }
+ ],
+ "roomsSource": "https://www.hvf.jp/conference/shiodome/images/usageFee.pdf",
+ "ops": {
+  "prevDaySetup": {
+   "text": "入室は予約時間内で、予約時間前に入室する場合は30分単位で別途料金がかかる（延長30分は会議室1で7,200円、税込7,920円〜。会議室により異なる）。使用時間には準備・後片付けの時間も含まれる。基本利用時間は8時〜22時で、時間外は相談（使用マニュアル第5条(3)は基準使用時間を8〜21時の間としており、料金表の8〜22時と食い違う。新しい料金表を採用）。9時前・21時以降も利用できるが、専任者が不在の時間帯があり、その間は会議室についての問い合わせを受けられない。荷物は貴重品以外を預かり、原則として利用日の前日から預かる。荷物を送るときは事前搬入届を出し、到着日時は会場が指定する。事前に申し出のない多量・大きな荷物は、保管場所として会場を有料で借り上げる扱いになる。（出典：よくあるご質問 2022/8/16更新、利用料金一覧表 2025年12月作成、使用マニュアル 2024/7/30作成 第5条・第18条）",
+   "source": "https://www.hvf.jp/conference/shiodome/images/faq.pdf"
+  },
+  "loadingHours": {
+   "text": "展示物品などの搬入・搬出をする場合は、「事前搬入届」または「搬入出スケジュール」を使用開始日の1週間前までに提出する。搬入・搬出車の出入りは所定の場所から、使用時間内に行い、搬入時間などは会場側が調整することがある。混雑しそうなときは出入口などに整理員を置く。搬入・搬出時は「住友不動産養生基準」を守る。マイクや音響などの機材を持ち込む場合は事前に搬入・搬出届が必要で、機材によっては使えないことがあるため事前の下見を勧めている。宅配便の宛先は〒105-0021 東京都港区東新橋1-9-2 ヴィラフォンテーヌ グランド 東京汐留 コンファレンスセンター宛で、備考欄に利用日・会議室番号・社名または会議名を書く。（出典：使用マニュアル 2024/7/30作成 第16条・第18条、よくあるご質問 2022/8/16更新）",
+   "source": "https://www.hvf.jp/conference/shiodome/images/manual.pdf"
+  },
+  "vehicleRules": {
+   "text": "搬入・搬出車の出入りは所定の場所から、使用時間内に行う。建物周辺の路上駐車は使用停止の対象になる。使用期間中の荷捌き場には商品・梱包材・装飾資材・ゴミなどを置けず、搬出入用の扉は防災・防犯のため常に閉じておく。搬入・搬出車が混雑しそうなときは出入口などに整理員を置く。（出典：使用マニュアル 2024/7/30作成 第9条・第15条・第16条）",
+   "source": "https://www.hvf.jp/conference/shiodome/images/manual.pdf"
+  },
+  "parking": {
+   "text": "汐留住友ビルの地下1階に時間貸し駐車場があり、30分300円（税込）。予約制ではなく、満車の場合は近隣の有料駐車場を使う。（出典：よくあるご質問 2022/8/16更新）",
+   "source": "https://www.hvf.jp/conference/shiodome/images/faq.pdf"
+  },
+  "catering": {
+   "text": "会議室内での飲食はでき、持込料はかからない。持込んだ容器は利用者自身か手配した業者が回収する。お弁当やケータリングは原則として当社指定のケータリング会社を使い、指定外の会社を使う場合は事前に相談する（事前に搬入出・作業届が必要になる場合があり、空き容器の回収はしない）。お弁当・ケータリングの当日注文はできず、当日注文できるのはコーヒー・紅茶・お水・お茶のみ（有料）。ロビーでの飲食は宿泊客との共用スペースのためできない。公式トップページはケータリング（プレミアム／エクセレント／クラッシー／フィンガーフードの各プラン）とお弁当（楽膳・花大路・人形町今半・青山）を案内している。（出典：使用マニュアル 2024/7/30作成 第17条、よくあるご質問 2022/8/16更新、公式トップページ）",
+   "source": "https://www.hvf.jp/conference/shiodome/images/manual.pdf"
+  },
+  "restaurants": {
+   "text": "同じ建物のホテル ヴィラフォンテーヌ グランド東京汐留にレストラン「THE TIDE TOKYO Grill Station」（2025年6月オープン）がある。朝食ブッフェは6:30〜10:00（最終入店9:30）、ランチは平日のみ11:30〜15:00（最終入店14:30）、ディナーは平日のみ17:00〜22:00（最終入店21:00）で、宿泊客以外も利用できる。公式トップページは会議室を「打合せからセミナーや、パーティまで」の用途として案内している。（出典：ホテル公式サイトのレストランのページ、公式トップページ）",
+   "source": "https://www.hvf.jp/shiodome/restaurants.html"
+  }
+ },
+ "documents": [
+  {
+   "title": "利用料金一覧表（2025年12月作成）",
+   "url": "https://www.hvf.jp/conference/shiodome/images/usageFee.pdf"
+  },
+  {
+   "title": "会議室使用申込書（2024年2月29日改定）",
+   "url": "https://www.hvf.jp/conference/shiodome/images/application.pdf"
+  },
+  {
+   "title": "備品・サービス（会議室備品申込書）（2024/4/24更新）",
+   "url": "https://www.hvf.jp/conference/shiodome/images/equipment.pdf"
+  },
+  {
+   "title": "使用マニュアル（兼使用規約）（2024年7月30日作成）",
+   "url": "https://www.hvf.jp/conference/shiodome/images/manual.pdf"
+  },
+  {
+   "title": "よくあるご質問（2022/8/16更新）",
+   "url": "https://www.hvf.jp/conference/shiodome/images/faq.pdf"
+  },
+  {
+   "title": "会議室1+2+3 着席イメージ（スクール2名掛け、最大80名）",
+   "url": "https://www.hvf.jp/conference/shiodome/images/conferenceRoom01.pdf"
+  },
+  {
+   "title": "会議室4+5 着席イメージ（スクール）",
+   "url": "https://www.hvf.jp/conference/shiodome/images/conferenceRoom02.pdf"
+  },
+  {
+   "title": "会議室1+2+3 T字島型イメージ",
+   "url": "https://www.hvf.jp/conference/shiodome/images/conferenceRoom04T.pdf"
+  },
+  {
+   "title": "汐留近隣マップ（地上）",
+   "url": "https://www.hvf.jp/conference/shiodome/images/map_ground.pdf"
+  },
+  {
+   "title": "汐留近隣マップ（地下）",
+   "url": "https://www.hvf.jp/conference/shiodome/images/map_underground.pdf"
+  }
+ ],
+ "checkedAt": "2026-10-30",
+ "lat": 35.662498,
+ "lng": 139.760895,
+ "nearby": {
+  "convenience": [
+   {
+    "name": "ファミマ東京汐留ビルディング店",
+    "brand": "ファミリーマート",
+    "distanceM": 66,
+    "walkMin": 1,
+    "hours": "7:00-23:00",
+    "address": "東京都港区東新橋1-9-1 東京汐留ビルディング内 B1F",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/23373",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "ファミリーマート 汐留メディアタワー店",
+    "brand": "ファミリーマート",
+    "distanceM": 129,
+    "walkMin": 2,
+    "hours": "24時間営業",
+    "address": "東京都港区東新橋1-7-1 汐留メディアタワーB2F",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/18585",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "ファミリーマート 汐留シオサイト店",
+    "brand": "ファミリーマート",
+    "distanceM": 185,
+    "walkMin": 3,
+    "hours": "6:00-1:00",
+    "address": "東京都港区東新橋1丁目5番 25号地先",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/59440",
+    "note": "距離は公式の店舗位置で計算"
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "キンコーズ・汐留店",
+    "brand": "キンコーズ",
+    "distanceM": 208,
+    "walkMin": 3,
+    "hours": "平日 9:00-19:00／土・日・祝 休業（受付は閉店30分前まで）",
+    "address": "東京都港区東新橋1丁目6-3 汐留タワーB2F",
+    "verified": true,
+    "source": "https://www.kinkos.co.jp/store/tokyo/t030/",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "アクセア 汐留シティセンター店",
+    "brand": "アクセア",
+    "distanceM": 352,
+    "walkMin": 5,
+    "hours": "平日・土日祝 8:00〜22:00",
+    "address": "東京都港区東新橋1-5-2 汐留シティセンターB2F B204",
+    "verified": true,
+    "source": "https://www.accea.co.jp/entry.html",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "3COINS OOOPS! 新橋駅汐留口店",
+    "brand": "3COINS",
+    "distanceM": 475,
+    "walkMin": 6,
+    "hours": "平日 8:00-22:00／土日祝 10:00-21:00",
+    "address": "東京都港区新橋2丁目17-14 JR新橋駅構内B1F",
+    "verified": true,
+    "source": "https://palcloset.storelocator.jp/map",
+    "note": "距離は公式の店舗位置で計算。公式の3COINS店舗一覧に載る駅ナカ業態「OOOPS!」"
+   },
+   {
+    "name": "Seria イグジットメルサ銀座店",
+    "brand": "セリア",
+    "distanceM": 932,
+    "walkMin": 12,
+    "hours": "毎日 11:00-20:00",
+    "address": "東京都中央区銀座5-7-10 EXITMELSA 5F",
+    "verified": true,
+    "source": "https://shop.seria-group.com/seria/info/000002655",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "donki": [
+   {
+    "name": "ドン・キホーテ 銀座本館（銀座ナイン3号館）",
+    "brand": "ドン・キホーテ",
+    "distanceM": 602,
+    "walkMin": 8,
+    "hours": "24時間営業",
+    "address": "東京都中央区銀座8-10 銀座ナイン3号館",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=92",
+    "note": "距離は住所の位置で計算。ドン・キホーテ公式サイトの店舗名は「銀座本館」"
+   },
+   {
+    "name": "ドン・キホーテ 六本木店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 2377,
+    "walkMin": 30,
+    "hours": "24時間営業",
+    "address": "東京都港区六本木3-14-10",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=31",
+    "note": "距離は住所の位置で計算。遠い。ドン・キホーテ公式サイトの店舗名は「六本木店」"
+   }
+  ]
+ },
+ "drinkDelivery": {
+  "available": true
+ },
+ "photo": {
+  "src": "/images/venues/bellesalle-tokyo-shiodome-cc.jpg",
+  "credit": "© Itoshin87 / CC BY-SA 3.0 · Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Shiodome_Sumitomo_Building_2007.JPG"
+ }
+}

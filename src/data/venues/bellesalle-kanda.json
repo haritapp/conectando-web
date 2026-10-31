@@ -1,0 +1,432 @@
+{
+ "slug": "bellesalle-kanda",
+ "nameJa": "ベルサール神田",
+ "nameEn": "",
+ "type": "conference",
+ "area": "kanda-suidobashi-venues",
+ "address": "〒101-0053 東京都千代田区神田美土代町7 住友不動産神田ビル2・3F",
+ "officialUrl": "https://www.bellesalle.co.jp/shisetsu/tokyo/bs_kanda/",
+ "organizerUrl": "https://www.bellesalle.co.jp/download/bs_kanda/",
+ "bizintokyoSlug": "bellesalle-kanda",
+ "accessSummary": "小川町駅（新宿線）B6出口 徒歩2分／新御茶ノ水駅（千代田線）B6出口 徒歩2分／淡路町駅（丸ノ内線）B6出口 徒歩2分／神田駅（銀座線）5番出口 徒歩6分／神田駅（JR線）西口 徒歩7分／大手町駅（半蔵門線・丸ノ内線・東西線・三田線・千代田線）C2b出口 徒歩7分",
+ "notice": null,
+ "hours": "ビルエントランス開放時間 6:30〜22:00（2Fホール・3F会議室 設備表 2026/9/11更新）",
+ "rooms": [
+  {
+   "name": "2F HALL 全体",
+   "areaM2": 586,
+   "ceilingM": 6.0,
+   "theater": 572,
+   "school": 300,
+   "ushape": null,
+   "standing": 350,
+   "banquet": null,
+   "note": "スクールは2名掛け。スクール3名掛け 450席。島型 300席（50島）。シアター・スクール3名掛けは料金表で「ご相談ください」。別にガラス張りのロビー150㎡（天井高10m）がある"
+  },
+  {
+   "name": "2F HALL A",
+   "areaM2": 309,
+   "ceilingM": 6.0,
+   "theater": 264,
+   "school": 120,
+   "ushape": null,
+   "standing": 180,
+   "banquet": null,
+   "note": "スクールは2名掛け。スクール3名掛け 180席。島型 120席（20島）。シアターは料金表で「ご相談ください」"
+  },
+  {
+   "name": "2F HALL B",
+   "areaM2": 263,
+   "ceilingM": 6.0,
+   "theater": 242,
+   "school": 108,
+   "ushape": null,
+   "standing": 140,
+   "banquet": null,
+   "note": "スクールは2名掛け。スクール3名掛け 162席。島型 120席（20島）。シアター・スクール3名掛けは料金表で「ご相談ください」"
+  },
+  {
+   "name": "2F 控室1",
+   "areaM2": 35,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "使用料0円。備品はテーブル5・イス8・姿見・冷蔵庫・ハンガーラック・会場モニター"
+  },
+  {
+   "name": "2F 控室2",
+   "areaM2": 13,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "使用料0円。備品はローテーブル1・ソファ4・姿見・ハンガーラック・会場モニター"
+  },
+  {
+   "name": "3F Room 1",
+   "areaM2": 202,
+   "ceilingM": 3.5,
+   "theater": 176,
+   "school": 84,
+   "ushape": 60,
+   "standing": 120,
+   "banquet": null,
+   "note": "スクールは2名掛け。スクール3名掛け 126席。島型 90席（15島）。T字島型 48席（8島）。シアターは料金表で「ご相談ください」"
+  },
+  {
+   "name": "3F Room 2",
+   "areaM2": 117,
+   "ceilingM": 3.5,
+   "theater": 120,
+   "school": 60,
+   "ushape": 48,
+   "standing": 70,
+   "banquet": null,
+   "note": "スクールは2名掛け。スクール3名掛け 90席。島型 48席（8島）。T字島型 36席（6島）。シアターは料金表で「ご相談ください」"
+  },
+  {
+   "name": "3F Room 3",
+   "areaM2": 117,
+   "ceilingM": 3.5,
+   "theater": 120,
+   "school": 60,
+   "ushape": 48,
+   "standing": 70,
+   "banquet": null,
+   "note": "スクールは2名掛け。スクール3名掛け 90席。島型 48席（8島）。T字島型 36席（6島）。シアターは料金表で「ご相談ください」"
+  },
+  {
+   "name": "3F Room 4",
+   "areaM2": 117,
+   "ceilingM": 3.5,
+   "theater": 120,
+   "school": 40,
+   "ushape": 48,
+   "standing": 70,
+   "banquet": null,
+   "note": "スクールは2名掛け。スクール3名掛け 60席。島型 48席（8島）。T字島型 36席（6島）。シアターは料金表で「ご相談ください」"
+  },
+  {
+   "name": "3F Room 5",
+   "areaM2": 52,
+   "ceilingM": 3.5,
+   "theater": 39,
+   "school": 22,
+   "ushape": 24,
+   "standing": 30,
+   "banquet": null,
+   "note": "スクールは2名掛け。スクール3名掛け 33席。島型 30席（5島）。T字島型 24席（4島）"
+  },
+  {
+   "name": "3F Room 6",
+   "areaM2": 48,
+   "ceilingM": 3.5,
+   "theater": 39,
+   "school": 22,
+   "ushape": 24,
+   "standing": 30,
+   "banquet": null,
+   "note": "スクールは2名掛け。スクール3名掛け 33席。島型 30席（5島）。T字島型 12席（2島）。シアターは料金表で「ご相談ください」"
+  },
+  {
+   "name": "3F Room 1+2",
+   "areaM2": 319,
+   "ceilingM": 3.5,
+   "theater": 330,
+   "school": 156,
+   "ushape": 84,
+   "standing": 190,
+   "banquet": null,
+   "note": "スクールは2名掛け。スクール3名掛け 234席。島型 150席（25島）。T字島型 96席（16島）。シアターは料金表で「ご相談ください」"
+  },
+  {
+   "name": "3F Room 2+3",
+   "areaM2": 234,
+   "ceilingM": 3.5,
+   "theater": 264,
+   "school": 120,
+   "ushape": 72,
+   "standing": 140,
+   "banquet": null,
+   "note": "スクールは2名掛け。スクール3名掛け 180席。島型 120席（20島）。T字島型 72席（12島）。シアターは料金表で「ご相談ください」"
+  },
+  {
+   "name": "3F Room 3+4",
+   "areaM2": 234,
+   "ceilingM": 3.5,
+   "theater": 176,
+   "school": 108,
+   "ushape": 72,
+   "standing": 140,
+   "banquet": null,
+   "note": "スクールは2名掛け。スクール3名掛け 162席。島型 120席（20島）。T字島型 72席（12島）"
+  },
+  {
+   "name": "3F Room 1+2+3",
+   "areaM2": 436,
+   "ceilingM": 3.5,
+   "theater": 418,
+   "school": 228,
+   "ushape": 108,
+   "standing": 260,
+   "banquet": null,
+   "note": "スクールは2名掛け。スクール3名掛け 342席。島型 240席（40島）。T字島型 168席（28島）。シアターは料金表で「ご相談ください」"
+  },
+  {
+   "name": "3F Room 2+3+4",
+   "areaM2": 351,
+   "ceilingM": 3.5,
+   "theater": 352,
+   "school": 168,
+   "ushape": 96,
+   "standing": 210,
+   "banquet": null,
+   "note": "スクールは2名掛け。スクール3名掛け 252席。島型 180席（30島）。T字島型 108席（18島）。シアターは料金表で「ご相談ください」"
+  },
+  {
+   "name": "3F Room 1+2+3+4",
+   "areaM2": 553,
+   "ceilingM": 3.5,
+   "theater": 528,
+   "school": 300,
+   "ushape": 132,
+   "standing": 310,
+   "banquet": null,
+   "note": "スクールは2名掛け。スクール3名掛け 450席。島型 300席（50島）。T字島型 216席（36島）。スクール3名掛け・シアターは料金表で「ご相談ください」"
+  }
+ ],
+ "roomsSource": "https://www.bellesalle.co.jp/wp-content/uploads/kanda_price.pdf",
+ "ops": {
+  "prevDaySetup": {
+   "text": "使用時間には準備・後片付けの時間も含まれる（料金表）。ホールは8時間・12時間の料金で、24時間の欄はいずれも「-」。会議室は4時間・8時間・12時間の料金。夜間使用や24時間利用は前後の予約状況で使えない場合があるため事前に相談する。使用日当日の前延長・後延長は30分ごとに別料金（例：HALL 全体は7〜22時 79,200円、22時〜翌7時 90,200円〈税込〉）。荷物の事前受け取りは開催日の前日着が原則で、事前搬入届が必要（搬入物は使用前日のみの受付）。（出典：利用料金一覧表 2026/7/3更新、公式 資料ダウンロードページ、よくあるご質問）",
+   "source": "https://www.bellesalle.co.jp/wp-content/uploads/kanda_price.pdf"
+  },
+  "loadingHours": {
+   "text": "搬出入がある場合は事前搬入届を作業日の1週間前までに提出する（未提出だと荷捌き場は使えない）。搬入・搬出車の出入りは使用時間内に所定の場所から行い、搬入時間などは会場側が調整することがある。積み下ろしの作業は原則20分以内。搬入場所はB1F荷捌で、2Fホール・3F会議室とも荷捌きから搬入用EVを使う（ホール設備表：扉 幅1,300×高2,500mm、EVかご内 幅1,800×高2,700×奥行2,300mm、積載荷重2,000kg）。荷捌き場の許容寸法は全高3,000×全長6,500×巾2,500mm。現場責任者は作業前に住友不動産神田ビル1Fサービスセンターで入館手続きをする。ビルエントランスの開放時間は6:30〜22:00。事前到着荷物の受取は原則ホール5箱・各ルーム2箱まで。（出典：事前搬入届、2Fホール・3F会議室 設備表 2026/9/11更新、使用規約 2026ver2 第16条）",
+   "source": "https://www.bellesalle.co.jp/wp-content/uploads/kanda_jizen.pdf"
+  },
+  "vehicleRules": {
+   "text": "荷捌き所は荷物の積み下ろしのみに使い、駐車が必要なときは外の駐車場を使う。車両を複数台使うときは1台分の荷捌場を時間差で使う。違法駐車、指定駐車場以外、ビル廻りの路上駐車は厳禁。使用期間中の荷捌き場には商品・梱包材・装飾資材・ゴミなどを置けない。搬入出車両が混雑しそうなときは出入口などに整理員を置く。設備表の車両制限は高さ3,000×長さ6,500mm・重量2.0t。車寄せはテナント専用で、原則利用できない。（出典：事前搬入届、使用規約 2026ver2 第15条・第16条、2Fホール・3F会議室 設備表 2026/9/11更新）",
+   "source": "https://www.bellesalle.co.jp/wp-content/uploads/kanda_jizen.pdf"
+  },
+  "parking": {
+   "text": "設備表の駐車場欄は、ベルサール専用・時間貸しとも「無」。近隣の時間貸し駐車場は、公式施設ページのリンク先「s-park」（公財 東京都道路整備保全公社）で「ベルサール神田」を検索して探す。（出典：公式施設ページ、2Fホール設備表 2026/9/11更新）",
+   "source": "https://www.bellesalle.co.jp/shisetsu/tokyo/bs_kanda/"
+  },
+  "waitingRooms": {
+   "text": "2Fホールに控室が2室あり、控室1は35㎡（テーブル5・イス8・姿見・冷蔵庫・ハンガーラック・会場モニター）、控室2は13㎡（ローテーブル1・ソファ4・姿見・ハンガーラック・会場モニター）。どちらも使用料0円。3F会議室の設備表では控室欄は「無」。（出典：公式施設ページ、2Fホール設備表 2026/9/11更新、3F会議室設備表 2026/9/11更新）",
+   "source": "https://www.bellesalle.co.jp/wp-content/uploads/kanda_hall_b.pdf"
+  },
+  "catering": {
+   "text": "飲食物の持込は可能。ただし飲食の手配に当社指定業者以外を使う場合は「飲食持込手数料」がかかる（パーティー利用時のみ。飲料のみ・弁当の持込は対象外）。金額は会場面積別で、〜300㎡ 100,000円、〜600㎡ 200,000円、〜900㎡ 300,000円、〜1,200㎡ 400,000円、1,201㎡〜 500,000円（税込 各110,000〜550,000円）。HALL 全体は586㎡、3F会議室の一体利用は最大553㎡。懇親会向けのパーティーメニューは住友不動産グループ泉レストランのサイトで案内されている。（出典：持込料のご案内PDF、よくあるご質問）",
+   "source": "https://www.bellesalle.co.jp/wp-content/uploads/mochikomi_price.pdf"
+  }
+ },
+ "documents": [
+  {
+   "title": "利用料金一覧表（2026/7/3更新）",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/kanda_price.pdf"
+  },
+  {
+   "title": "料金カレンダー",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/eventhall_calender1.pdf"
+  },
+  {
+   "title": "事前搬入届",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/kanda_jizen.pdf"
+  },
+  {
+   "title": "使用規約（2026ver2）",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/kiyaku.pdf"
+  },
+  {
+   "title": "持込料のご案内",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/mochikomi_price.pdf"
+  },
+  {
+   "title": "反社会的勢力でないことの表明・確約書",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/bellesalle_bouhai.pdf"
+  },
+  {
+   "title": "2Fホール 設備・備品一覧（2026/9/11更新）",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/kanda_hall_b.pdf"
+  },
+  {
+   "title": "3F会議室 設備・備品一覧（2026/9/11更新）",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/kanda_roombihin.pdf"
+  },
+  {
+   "title": "アクセスMAP",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/access_kanda.pdf"
+  },
+  {
+   "title": "2F 平面図",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/kanda_plane_2f.pdf"
+  },
+  {
+   "title": "2F 天井図",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/kanda_ceiling_2f.pdf"
+  },
+  {
+   "title": "2F 床図",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/kanda_floor_2f.pdf"
+  },
+  {
+   "title": "2F イベント電源図（2025.10.27更新）",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/kanda_electric_2f.pdf"
+  },
+  {
+   "title": "2F 避難経路図",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/kanda_escape2f.pdf"
+  },
+  {
+   "title": "3F 平面図",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/kanda_plane_3f.pdf"
+  },
+  {
+   "title": "3F 天井図",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/kanda_ceiling_3f.pdf"
+  },
+  {
+   "title": "3F 床図",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/kanda_floor_3f.pdf"
+  },
+  {
+   "title": "3F 避難経路図",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/kanda_escape3f.pdf"
+  },
+  {
+   "title": "資料ダウンロード（公式一覧）",
+   "url": "https://www.bellesalle.co.jp/download/bs_kanda/"
+  },
+  {
+   "title": "よくあるご質問",
+   "url": "https://www.bellesalle.co.jp/faq/"
+  }
+ ],
+ "lat": 35.693233,
+ "lng": 139.765701,
+ "nearby": {
+  "convenience": [
+   {
+    "name": "セブン-イレブン 神田小川町2丁目店",
+    "brand": "セブン-イレブン",
+    "distanceM": 181,
+    "walkMin": 3,
+    "hours": "24時間営業",
+    "address": "東京都千代田区神田小川町2-2-8",
+    "verified": true,
+    "source": "https://seven-eleven.areamarker.com/711map/info/278215",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "ファミリーマート 内神田一丁目店",
+    "brand": "ファミリーマート",
+    "distanceM": 187,
+    "walkMin": 3,
+    "hours": "24時間営業",
+    "address": "東京都千代田区内神田1丁目15-2 神田オーシャンビル",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/57527",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "ローソン 神田小川町一丁目店",
+    "brand": "ローソン",
+    "distanceM": 187,
+    "walkMin": 3,
+    "hours": "24時間営業",
+    "address": "東京都千代田区神田小川町1-8-13",
+    "verified": true,
+    "source": "https://www.areamarker.com/lawson/info/381077",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "アクセア 小川町店",
+    "brand": "アクセア",
+    "distanceM": 181,
+    "walkMin": 3,
+    "hours": "平日8:00〜22:00、土日祝 10:00〜19:00",
+    "address": "東京都千代田区神田小川町2-2-2 小川町B5ビル1F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/entry.html",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "アクセア 内神田店",
+    "brand": "アクセア",
+    "distanceM": 221,
+    "walkMin": 3,
+    "hours": "平日・土日祝 8:00〜22:00（セルフアクセア＝無人セルフ店。アクセアカフェの営業時間内）",
+    "address": "東京都千代田区内神田1丁目11-10 コハラビル本館1F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/entry.html",
+    "note": "無人のセルフ店舗（通常のフルサービスはWEB・店頭端末で注文し、ロッカーで受け取り）。距離は住所の位置で計算"
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "DAISO 神田神保町すずらん通り店",
+    "brand": "ダイソー",
+    "distanceM": 532,
+    "walkMin": 7,
+    "hours": "10:00-21:00",
+    "address": "東京都千代田区神田神保町1-1-17東京堂神保町第3ビルディング 1階",
+    "verified": true,
+    "source": "https://www.daiso-sangyo.co.jp/shop/detail/008732",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "Can★Do 神保町店",
+    "brand": "キャンドゥ",
+    "distanceM": 862,
+    "walkMin": 11,
+    "hours": "毎日 10:00-21:00",
+    "address": "東京都千代田区神田神保町2-14",
+    "verified": true,
+    "source": "https://shopinfo.cando-web.co.jp/detail/shop-5053/",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "donki": [
+   {
+    "name": "ドン・キホーテ 秋葉原店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 988,
+    "walkMin": 13,
+    "hours": "24時間営業",
+    "address": "東京都千代田区外神田4丁目3-3",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=98",
+    "note": "距離は住所の位置で計算。ドン・キホーテ公式サイトの店舗名は「秋葉原店」"
+   },
+   {
+    "name": "ドン・キホーテ 上野店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 1718,
+    "walkMin": 22,
+    "hours": "9:00-4:00",
+    "address": "東京都文京区湯島3-38-10",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=107",
+    "note": "距離は住所の位置で計算。遠め。ドン・キホーテ公式サイトの店舗名は「上野店」"
+   }
+  ]
+ },
+ "drinkDelivery": {
+  "available": true
+ },
+ "photo": {
+  "src": "/images/venues/bellesalle-kanda.jpg",
+  "credit": "会場近く（神田小川町三丁目）の街並みのイメージ写真です（会場の建物ではありません）。© 運転太郎 / CC BY 3.0 · Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:3_Chome_Kanda_Ogawamachi,_Chiyoda-ku,_T%C5%8Dky%C5%8D-to_101-0052,_Japan_-_panoramio_(1).jpg"
+ },
+ "checkedAt": "2026-10-30"
+}

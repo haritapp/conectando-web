@@ -1,0 +1,364 @@
+{
+ "slug": "bellesalle-ariake-conference",
+ "nameJa": "ベルサール有明コンファレンスセンター",
+ "nameEn": "",
+ "type": "conference",
+ "area": "odaiba-ariake-venues",
+ "address": "〒135-0063 東京都江東区有明2丁目1-7 有明ガーデン モール＆スパ 4・5F",
+ "officialUrl": "https://www.bellesalle.co.jp/shisetsu/ariake/ariakehotelconfe/",
+ "organizerUrl": "https://www.hvf.jp/ariake-grand/banquet.html",
+ "bizintokyoSlug": "bellesalle-ariake-conference",
+ "accessSummary": "有明テニスの森駅（ゆりかもめ）徒歩4分（約320m）／有明駅（ゆりかもめ）徒歩6分（約430m）／国際展示場駅（りんかい線）徒歩8分（約610m）",
+ "notice": null,
+ "hours": "基本利用時間は8〜22時（利用料金一覧表 2026/4/1更新）。使用マニュアルは基準使用時間を8〜21時の間で4時間・9時間・12時間としており、2つの公式資料で表記が異なる。原則年中無休（設備点検などで臨時休館あり）で、使用申込できる日は年末年始（12月28日〜1月4日）を除く（使用マニュアル 2026年4月1日作成）。",
+ "rooms": [
+  {
+   "name": "ROOM 1",
+   "areaM2": 103,
+   "ceilingM": 3.0,
+   "theater": null,
+   "school": 36,
+   "ushape": null,
+   "standing": 50,
+   "banquet": 24,
+   "note": "スクールは2名掛け。スクール3名掛け 54席。島型・T字島型 24席（4島）。円卓（8名掛け）24席（3卓）。"
+  },
+  {
+   "name": "ROOM 2",
+   "areaM2": 125,
+   "ceilingM": 3.0,
+   "theater": null,
+   "school": 48,
+   "ushape": null,
+   "standing": 60,
+   "banquet": 40,
+   "note": "スクールは2名掛け。スクール3名掛け 72席。島型・T字島型 30席（5島）。円卓（8名掛け）40席（5卓）。"
+  },
+  {
+   "name": "ROOM 1+2",
+   "areaM2": 228,
+   "ceilingM": 3.0,
+   "theater": null,
+   "school": 84,
+   "ushape": null,
+   "standing": 110,
+   "banquet": 72,
+   "note": "スクールは2名掛け。スクール3名掛け 126席。島型・T字島型 66席（11島）。円卓（8名掛け）72席（9卓）。ROOM 1とROOM 2の連結利用。"
+  },
+  {
+   "name": "ROOM 3",
+   "areaM2": 96,
+   "ceilingM": 3.1,
+   "theater": null,
+   "school": 34,
+   "ushape": null,
+   "standing": 50,
+   "banquet": 32,
+   "note": "スクールは2名掛け。スクール3名掛け 51席。島型・T字島型 24席（4島）。円卓（8名掛け）32席（4卓）。"
+  },
+  {
+   "name": "ROOM 4",
+   "areaM2": 96,
+   "ceilingM": 3.1,
+   "theater": null,
+   "school": 34,
+   "ushape": null,
+   "standing": 50,
+   "banquet": 32,
+   "note": "スクールは2名掛け。スクール3名掛け 51席。島型・T字島型 24席（4島）。円卓（8名掛け）32席（4卓）。"
+  },
+  {
+   "name": "ROOM 5",
+   "areaM2": 126,
+   "ceilingM": 3.7,
+   "theater": null,
+   "school": 48,
+   "ushape": null,
+   "standing": 60,
+   "banquet": 40,
+   "note": "スクールは2名掛け。スクール3名掛け 72席。島型・T字島型 30席（5島）。円卓（8名掛け）40席（5卓）。"
+  },
+  {
+   "name": "ROOM 6",
+   "areaM2": 145,
+   "ceilingM": 3.7,
+   "theater": null,
+   "school": 56,
+   "ushape": null,
+   "standing": 70,
+   "banquet": 40,
+   "note": "スクールは2名掛け。スクール3名掛け 84席。島型・T字島型 36席（6島）。円卓（8名掛け）40席（5卓）。"
+  },
+  {
+   "name": "ROOM 7",
+   "areaM2": 125,
+   "ceilingM": 3.7,
+   "theater": null,
+   "school": 48,
+   "ushape": null,
+   "standing": 60,
+   "banquet": 40,
+   "note": "スクールは2名掛け。スクール3名掛け 72席。島型・T字島型 30席（5島）。円卓（8名掛け）40席（5卓）。"
+  },
+  {
+   "name": "ROOM 5+6",
+   "areaM2": 271,
+   "ceilingM": 3.7,
+   "theater": null,
+   "school": 104,
+   "ushape": null,
+   "standing": 130,
+   "banquet": 80,
+   "note": "スクールは2名掛け。スクール3名掛け 156席。島型・T字島型 66席（11島）。円卓（8名掛け）80席（10卓）。ROOM 5とROOM 6の連結利用。"
+  },
+  {
+   "name": "ROOM 6+7",
+   "areaM2": 270,
+   "ceilingM": 3.7,
+   "theater": null,
+   "school": 104,
+   "ushape": null,
+   "standing": 130,
+   "banquet": 80,
+   "note": "スクールは2名掛け。スクール3名掛け 156席。島型・T字島型 66席（11島）。円卓（8名掛け）80席（10卓）。ROOM 6とROOM 7の連結利用。"
+  },
+  {
+   "name": "ROOM 5+6+7",
+   "areaM2": 396,
+   "ceilingM": 3.7,
+   "theater": null,
+   "school": 152,
+   "ushape": null,
+   "standing": 200,
+   "banquet": 120,
+   "note": "スクールは2名掛け。スクール3名掛け 228席。島型・T字島型 90席（15島）。円卓（8名掛け）120席（15卓）。ROOM 5・6・7の連結利用。可動式間仕切りを開いた最大の会議室（公式施設ページ）。"
+  },
+  {
+   "name": "ROOM 8",
+   "areaM2": 117,
+   "ceilingM": 3.5,
+   "theater": null,
+   "school": 42,
+   "ushape": null,
+   "standing": 60,
+   "banquet": 40,
+   "note": "スクールは2名掛け。スクール3名掛け 63席。島型・T字島型 30席（5島）。円卓（8名掛け）40席（5卓）。"
+  },
+  {
+   "name": "ROOM 9",
+   "areaM2": 168,
+   "ceilingM": 3.5,
+   "theater": null,
+   "school": 46,
+   "ushape": null,
+   "standing": 80,
+   "banquet": 48,
+   "note": "スクールは2名掛け。スクール3名掛け 69席。島型・T字島型 48席（8島）。円卓（8名掛け）48席（6卓）。円卓は料金表では6卓、ホテル公式の宴会ページの表では8卓と表記が分かれる（48席で、8名掛けなら6卓）。"
+  },
+  {
+   "name": "ミーティングルーム",
+   "areaM2": 10,
+   "ceilingM": 2.5,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "2席。4時間11,000円・9時間22,000円・12時間27,500円（税込、利用料金一覧表）。ベルサール公式の施設ページは「全9室」、ホテル公式の宴会ページはこの部屋を含めて「全10室」と表記している。"
+  },
+  {
+   "name": "有明ガーデンラウンジ（5F）",
+   "areaM2": 471,
+   "ceilingM": 3.9,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "5階。宴会利用で300席（150卓）。料金は2時間154,000円・4時間286,000円（税込、宴会利用）。レセプションパーティや懇親会に使える（公式施設ページ）。"
+  }
+ ],
+ "roomsSource": "https://www.hvf.jp/ariake-grand/img/hall/ariakehtlconfe_room_price.pdf",
+ "ops": {
+  "prevDaySetup": {
+   "text": "使用時間には準備・後片付けの時間も含まれる。基本利用時間は8〜22時で、それ以外の時間は早朝・夜間の割増料金がかかり、30分あたり会議室（ミーティングルーム除く）が税込15,400〜49,500円（ROOM 3・4・1が15,400円、ROOM 5+6+7が49,500円）。ご予約時間の15分前から入室でき、それより早い入室は30分延長料金になる。荷物の事前到着は、施設が到着日時を指定し、事前搬入届を出したうえで宅配業者に依頼する（事前に申し出のない多量・大きな荷物は、保管場所として会場を有料で借り上げる扱い。破損・不足の責任は負わない）。レイアウトの締切は利用日の10日前（土日祝を除く）。（出典：利用料金一覧表 2026/4/1更新、使用マニュアル 2026年4月1日作成 第18条、各種料金表 2026/4/1更新）",
+   "source": "https://www.hvf.jp/ariake-grand/img/hall/ariakehtlconfe_room_price.pdf"
+  },
+  "loadingHours": {
+   "text": "搬出入がある場合は「事前搬入届」または「搬入出スケジュール」を使用開始日の1週間前までに出す。搬入・搬出車の出入りは所定の場所から使用時間内に行い、搬入時間などは施設側が調整することがある。車が混雑しそうなときは出入口に整理員を置き、搬入出時は「住友不動産養生基準」を守る。使用期間中の荷捌き場には商品・梱包材・装飾資材・ごみなどを置けず、搬出入用の扉は常に閉じておく。官公庁への届出の写しは使用開始日の1週間前までに提出する。（出典：使用マニュアル（兼使用規約）2026年4月1日作成 第11条・第15条・第16条）",
+   "source": "https://www.hvf.jp/ariake-grand/img/hall/ariakehtlconfe_manual.pdf"
+  },
+  "vehicleRules": {
+   "text": "建物周辺に車・バイク・自転車を路上駐車すると、使用停止の対象になる。搬入・搬出車の出入りは所定の場所から使用時間内に行い、混雑しそうなときは出入口に整理員を置く。使用期間中の荷捌き場には商品・梱包材・装飾資材・ごみなどを置けない。（出典：使用マニュアル（兼使用規約）2026年4月1日作成 第9条・第15条・第16条）",
+   "source": "https://www.hvf.jp/ariake-grand/img/hall/ariakehtlconfe_manual.pdf"
+  },
+  "parking": {
+   "text": "公式施設ページは、近くの駐車場の検索として公益財団法人 東京都道路整備保全公社の「s-park」（有明ガーデンシティ周辺）へのリンクを掲示している。（出典：公式施設ページ）",
+   "source": "https://www.bellesalle.co.jp/shisetsu/ariake/ariakehotelconfe/"
+  },
+  "catering": {
+   "text": "会議室内での飲食は可能。お弁当やケータリングは原則、当社（施設）指定の業者を使う。施設が承認した場合に限り持込でき、持込料は、懇親会パーティー等のケータリングが1回55,000円〜、お弁当が1個220円（税込）。ゴミは持ち帰り（回収は有料で、段ボールは120サイズ1箱2,200円〜）。空容器の回収はしない。ホテルのパーティーメニューは、ブッフェ（30名より）が1人 税込4,400円・5,500円・6,600円、フリードリンク（120分）が1人 税込2,200円・2,750円・3,300円（会場費は別）。（出典：各種料金表 2026/4/1更新、使用マニュアル 2026年4月1日作成 第17条、会議室使用申込書、パーティーメニュー）",
+   "source": "https://www.hvf.jp/ariake-grand/img/hall/ariakehtlconfe_equipment_price.pdf"
+  },
+  "restaurants": {
+   "text": "併設ホテル「ヴィラフォンテーヌ グランド 東京有明」直営のブッフェレストラン「オールデイダイニング グランドエール」から食事を提供できると、ホテル公式の宴会ページが案内している。5Fの有明ガーデンラウンジ（471㎡）は宴会利用でき、レセプションパーティや懇親会を立食／着席ブッフェなどで開けると公式施設ページが案内している。会場は約200店舗のショッピングモールを含む複合施設内にある（公式施設ページ）。",
+   "source": "https://www.hvf.jp/ariake-grand/banquet.html"
+  }
+ },
+ "documents": [
+  {
+   "title": "会議室 利用料金一覧表（2026/4/1更新）",
+   "url": "https://www.hvf.jp/ariake-grand/img/hall/ariakehtlconfe_room_price.pdf"
+  },
+  {
+   "title": "各種料金表（レイアウト変更・持込料・ゴミ処分など 2026/4/1更新）",
+   "url": "https://www.hvf.jp/ariake-grand/img/hall/ariakehtlconfe_equipment_price.pdf"
+  },
+  {
+   "title": "貸出備品リスト 兼 申込書（2026/4/1更新）",
+   "url": "https://www.hvf.jp/ariake-grand/img/hall/ariakehtlconfe_rental_price.pdf"
+  },
+  {
+   "title": "会議室使用申込書（主な注意事項確認書つき）",
+   "url": "https://www.hvf.jp/ariake-grand/img/hall/ariakehtlconfe_reservationform.pdf"
+  },
+  {
+   "title": "使用マニュアル（兼使用規約）（2026年4月1日作成）",
+   "url": "https://www.hvf.jp/ariake-grand/img/hall/ariakehtlconfe_manual.pdf"
+  },
+  {
+   "title": "4階 フロア図",
+   "url": "https://www.hvf.jp/ariake-grand/img/hall/ariakehtlconfe_flor.pdf"
+  },
+  {
+   "title": "4階 平面図（ベルサール公式）",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/ariakehtlconfe_plane_4f.pdf"
+  },
+  {
+   "title": "5階 平面図（ベルサール公式）",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/ariakehtlconfe_plane_5f.pdf"
+  },
+  {
+   "title": "4階 レイアウト例（4F_ROOM_2.pdf）",
+   "url": "https://www.hvf.jp/ariake-grand/img/hall/4F_ROOM_2.pdf"
+  },
+  {
+   "title": "4階 レイアウト例（4F_ROOM_3.pdf）",
+   "url": "https://www.hvf.jp/ariake-grand/img/hall/4F_ROOM_3.pdf"
+  },
+  {
+   "title": "4階 レイアウト例（4F_ROOM_T.pdf）",
+   "url": "https://www.hvf.jp/ariake-grand/img/hall/4F_ROOM_T.pdf"
+  },
+  {
+   "title": "4階 レイアウト例（4F_ROOM_shima.pdf）",
+   "url": "https://www.hvf.jp/ariake-grand/img/hall/4F_ROOM_shima.pdf"
+  },
+  {
+   "title": "パーティーメニュー（ブッフェ・ドリンク）",
+   "url": "https://www.hvf.jp/ariake-grand/img/hall/grandeaile.pdf"
+  },
+  {
+   "title": "会議室・バンケット（ホテル公式の宴会ページ）",
+   "url": "https://www.hvf.jp/ariake-grand/banquet.html"
+  }
+ ],
+ "checkedAt": "2026-10-30",
+ "lat": 35.63739,
+ "lng": 139.790695,
+ "nearby": {
+  "convenience": [
+   {
+    "name": "ローソン 有明コロシアム前店",
+    "brand": "ローソン",
+    "distanceM": 110,
+    "walkMin": 2,
+    "hours": "24時間営業",
+    "address": "東京都江東区有明1-3-19",
+    "verified": true,
+    "source": "https://www.areamarker.com/lawson/info/137733",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "ローソン 国際展示場駅前店",
+    "brand": "ローソン",
+    "distanceM": 320,
+    "walkMin": 4,
+    "hours": "24時間営業",
+    "address": "東京都江東区有明3-7-2",
+    "verified": true,
+    "source": "https://www.areamarker.com/lawson/info/213279",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "セブン-イレブン DR国際展示場駅前店",
+    "brand": "セブン-イレブン",
+    "distanceM": 347,
+    "walkMin": 5,
+    "hours": "24時間営業",
+    "address": "東京都江東区有明3-7-3",
+    "verified": true,
+    "source": "https://seven-eleven.areamarker.com/711map/info/443878",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "アクセア 東京ビッグサイト前店",
+    "brand": "アクセア",
+    "distanceM": 673,
+    "walkMin": 9,
+    "hours": "平日8:00〜22:00、土日祝10:00〜19:00",
+    "address": "東京都江東区有明3-7-26 有明フロンティアビル1F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/entry.html",
+    "note": "距離は住所の位置で計算。公式の設備欄に「平日24時間営業」の表示あり（セルフ設備）"
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "DAISO 有明ガーデン店",
+    "brand": "ダイソー",
+    "distanceM": 41,
+    "walkMin": 1,
+    "hours": "10:00-21:00",
+    "address": "東京都江東区有明2-1-8 有明ガーデン3階",
+    "verified": true,
+    "source": "https://www.daiso-sangyo.co.jp/shop/detail/002129",
+    "note": "距離は住所の位置で計算。同じ建物の2階に「THREEPPY 有明ガーデン店」（10:00-21:00）もある"
+   },
+   {
+    "name": "Seria minamoni有明店",
+    "brand": "セリア",
+    "distanceM": 581,
+    "walkMin": 8,
+    "hours": "毎日 10:00-21:00",
+    "address": "東京都江東区有明1-4-34 minamoni有明 2F",
+    "verified": true,
+    "source": "https://shop.seria-group.com/seria/info/000003115",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "donki": [
+   {
+    "name": "キラキラドンキ ダイバーシティ東京 プラザ店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 2032,
+    "walkMin": 26,
+    "hours": "10:00～21:00",
+    "address": "東京都江東区青海1-1-10 ダイバーシティ東京 プラザ 2階",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=655",
+    "note": "距離は住所の位置で計算。ドン・キホーテ本体ではなく、コスメ・雑貨が中心のドン・キホーテ系の別業態。徒歩26分で遠い。公式の営業時間のお知らせでは平日11:00〜20:00／土日祝10:00〜21:00"
+   }
+  ]
+ },
+ "drinkDelivery": {
+  "available": true
+ },
+ "photo": {
+  "src": "/images/venues/bellesalle-ariake-conference.jpg",
+  "credit": "© Mizushimasea / CC BY-SA 4.0 · Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Villa_Fontaine_Grand_Tokyo_Ariake_Koto-ku_Tokyo.jpg"
+ }
+}

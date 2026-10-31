@@ -1,0 +1,142 @@
+{
+ "slug": "bellesalle-tokyo-shiodome-cc",
+ "name": "Bellesalle Tokyo Shiodome Conference Center",
+ "address": "Tokyo 105-0021 1-9-2 Higashi-Shimbashi, Minato-ku, Tokyo (inside Shiodome Sumitomo Building, Hotel Villa Fontaine Grand Tokyo-Shiodome)",
+ "accessSummary": "1 min walk from Shiodome Station (Toei Oedo Line) via the underground passage / 1 min walk from Shiodome Station (Yurikamome) via the 2F pedestrian deck / 8 min walk from Shimbashi Station (JR lines / Tokyo Metro Ginza Line / Toei Asakusa Line) via the underground passage / 11 min walk from Hamamatsucho Station (JR lines / Tokyo Monorail)",
+ "hours": "Basic usage hours 8:00-22:00 (Price List, created December 2025). Business days on which a usage application can be made are, in principle, all days except the year-end and New Year period (Dec 28 to Jan 4) (Usage Manual, created July 30, 2024)",
+ "notice": null,
+ "rooms": [
+  {
+   "name": "1F Meeting Room 1",
+   "note": "Classroom is 2 per desk. T-shaped island layout: 18 seats (3 islands) (6 per desk)."
+  },
+  {
+   "name": "1F Meeting Room 2",
+   "note": "Classroom is 2 per desk. T-shaped island layout: 18 seats (3 islands) (6 per desk)."
+  },
+  {
+   "name": "1F Meeting Room 3",
+   "note": "Classroom is 2 per desk. T-shaped island layout: 36 seats (6 islands) (6 per desk)."
+  },
+  {
+   "name": "1F Meeting Room 1+2",
+   "note": "Classroom is 2 per desk. T-shaped island layout: 36 seats (6 islands) (6 per desk)."
+  },
+  {
+   "name": "1F Meeting Room 2+3",
+   "note": "Classroom is 2 per desk. T-shaped island layout: 48 seats (8 islands) (6 per desk)."
+  },
+  {
+   "name": "1F Meeting Room 1+2+3",
+   "note": "Classroom is 2 per desk. T-shaped island layout: 72 seats (12 islands) (6 per desk). The official site has a seating image for a classroom layout with a maximum of 80 people."
+  },
+  {
+   "name": "1F Meeting Room 4",
+   "note": "Classroom is 2 per desk. T-shaped island layout: 12 seats (2 islands) (6 per desk)."
+  },
+  {
+   "name": "1F Meeting Room 5",
+   "note": "Classroom is 2 per desk. T-shaped island layout: 24 seats (4 islands) (6 per desk). The table on the official top page shows classroom 36 seats (4 islands), which differs from the 30 seats in the Price List (created December 2025). The Price List value is used."
+  },
+  {
+   "name": "1F Meeting Room 4+5",
+   "note": "Classroom is 2 per desk. T-shaped island layout: 36 seats (6 islands) (6 per desk). The table on the official top page shows classroom 48 seats (6 islands), which differs from the 42 seats in the Price List (created December 2025). The Price List value is used."
+  }
+ ],
+ "ops": {
+  "prevDaySetup": "Entry is within the reserved time, and entering before the reserved time incurs a separate charge in 30-minute units (a 30-minute extension is 7,200 yen for Meeting Room 1, from 7,920 yen tax included; the amount differs by meeting room). Usage time includes setup and cleanup time. Basic usage hours are 8:00-22:00, and use outside these hours is a matter for consultation (Article 5(3) of the Usage Manual sets the standard usage time as between 8:00 and 21:00, which differs from the 8:00-22:00 in the price list; the newer price list is used). Use before 9:00 and after 21:00 is also possible, but there are times when no dedicated staff member is present, and during those times inquiries about the meeting rooms cannot be received. Luggage other than valuables is accepted, and in principle it is held from the day before the usage date. When sending luggage, an advance load-in notice must be submitted, and the venue specifies the arrival date and time. Large quantities or large items not notified in advance are treated as renting the venue as a storage space, for a fee. (Source: FAQ, updated August 16, 2022; Price List, created December 2025; Usage Manual, created July 30, 2024, Articles 5 and 18)",
+  "loadingHours": "When items such as exhibits are loaded in or out, an \"Advance Load-in Notice\" or a \"Load-in/Load-out Schedule\" must be submitted at least 1 week before the first day of use. Load-in and load-out vehicles must enter and leave from the designated place within the usage time, and the venue may adjust load-in times and the like. If congestion is expected, traffic staff are placed at the entrance and elsewhere. During load-in and load-out, the \"Sumitomo Fudosan Protective Covering Standards\" must be followed. When bringing in equipment such as microphones and sound equipment, an advance load-in/load-out notice is required, and some equipment may not be usable, so a preliminary site visit is recommended. The destination address for courier deliveries is Villa Fontaine Grand Tokyo-Shiodome Conference Center, 1-9-2 Higashi-Shimbashi, Minato-ku, Tokyo 105-0021, and the usage date, meeting room number and company or meeting name should be written in the remarks field. (Source: Usage Manual, created July 30, 2024, Articles 16 and 18; FAQ, updated August 16, 2022)",
+  "vehicleRules": "Load-in and load-out vehicles must enter and leave from the designated place within the usage time. Parking on the street around the building is grounds for suspension of use. Products, packing materials, decorative materials, trash and the like may not be left in the loading area during the usage period, and load-in/out doors must be kept closed at all times for disaster prevention and security. If load-in/out vehicle traffic is expected to be congested, traffic staff are placed at the entrance and elsewhere. (Source: Usage Manual, created July 30, 2024, Articles 9, 15 and 16)",
+  "parking": "There is an hourly parking lot on B1F of Shiodome Sumitomo Building, at 300 yen per 30 minutes (tax included). It is not reservable; if it is full, use a nearby paid parking lot. (Source: FAQ, updated August 16, 2022)",
+  "catering": "Eating and drinking is allowed inside the meeting rooms, and no outside food/drink fee is charged. Containers brought in must be collected by the user or the vendor they arranged. For boxed meals and catering, the operator's designated catering company is used in principle; if you use a company other than the designated ones, consult in advance (an advance load-in/out and work notice may be required, and empty containers are not collected). Boxed meals and catering cannot be ordered on the day; only coffee, tea, water and (Japanese) tea can be ordered on the day (paid). Eating and drinking in the lobby is not allowed because it is a space shared with hotel guests. The official top page introduces catering (Premium / Excellent / Classy / Finger Food plans) and boxed meals (Rakuzen, Hanaoji, Ningyocho Imahan, Aoyama). (Source: Usage Manual, created July 30, 2024, Article 17; FAQ, updated August 16, 2022; official top page)",
+  "restaurants": "The restaurant \"THE TIDE TOKYO Grill Station\" (opened June 2025) is in Hotel Villa Fontaine Grand Tokyo-Shiodome, in the same building. Breakfast buffet is 6:30-10:00 (last entry 9:30), lunch is weekdays only 11:30-15:00 (last entry 14:30), and dinner is weekdays only 17:00-22:00 (last entry 21:00); it is also open to guests who are not staying at the hotel. The official top page presents the meeting rooms for uses \"from meetings to seminars and parties\". (Source: restaurant page on the hotel's official website, official top page)"
+ },
+ "documents": [
+  {
+   "title": "Price List (created December 2025)"
+  },
+  {
+   "title": "Meeting Room Application Form (revised February 29, 2024)"
+  },
+  {
+   "title": "Equipment and Services (Meeting Room Equipment Application Form) (updated April 24, 2024)"
+  },
+  {
+   "title": "Usage Manual (also Terms of Use) (created July 30, 2024)"
+  },
+  {
+   "title": "FAQ (updated August 16, 2022)"
+  },
+  {
+   "title": "Meeting Room 1+2+3 Seating Image (classroom, 2 per desk, up to 80 people)"
+  },
+  {
+   "title": "Meeting Room 4+5 Seating Image (classroom)"
+  },
+  {
+   "title": "Meeting Room 1+2+3 T-shaped Island Layout Image"
+  },
+  {
+   "title": "Shiodome Neighborhood Map (above ground)"
+  },
+  {
+   "title": "Shiodome Neighborhood Map (underground)"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "Famima Tokyo Shiodome Building",
+    "hours": "7:00-23:00",
+    "note": "Distance is calculated from the store's official location."
+   },
+   {
+    "name": "FamilyMart Shiodome Media Tower",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the store's official location."
+   },
+   {
+    "name": "FamilyMart Shiodome Shiosite",
+    "hours": "6:00-1:00",
+    "note": "Distance is calculated from the store's official location."
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "Kinko's Shiodome",
+    "hours": "Weekdays 9:00-19:00 / Sat, Sun & holidays closed (reception until 30 min before closing)",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Accea Shiodome City Center",
+    "hours": "Weekdays, Sat, Sun & holidays 8:00-22:00",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "3COINS OOOPS! Shimbashi Station Shiodome Exit",
+    "hours": "Weekdays 8:00-22:00 / Sat, Sun & holidays 10:00-21:00",
+    "note": "Distance is calculated from the store's official location. This is the in-station format \"OOOPS!\" listed in the official 3COINS store list."
+   },
+   {
+    "name": "Seria Exit Melsa Ginza",
+    "hours": "Daily 11:00-20:00",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "donki": [
+   {
+    "name": "Don Quijote Ginza Main Building (Ginza Nine Building No. 3)",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. The store name on the Don Quijote official website is \"Ginza Main Building\"."
+   },
+   {
+    "name": "Don Quijote Roppongi",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. Far. The store name on the Don Quijote official website is \"Roppongi\"."
+   }
+  ]
+ },
+ "photoCredit": "© Itoshin87 / CC BY-SA 3.0 · Wikimedia Commons"
+}

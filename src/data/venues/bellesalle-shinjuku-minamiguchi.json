@@ -1,0 +1,399 @@
+{
+ "slug": "bellesalle-shinjuku-minamiguchi",
+ "nameJa": "ベルサール新宿南口",
+ "nameEn": "",
+ "type": "conference",
+ "area": "shinjuku-venues",
+ "address": "〒151-0051 東京都渋谷区千駄ヶ谷5-31-11 住友不動産新宿南口ビル3・4F",
+ "officialUrl": "https://www.bellesalle.co.jp/shisetsu/shinjuku/bs_shinjuku-minamiguchi/",
+ "organizerUrl": "https://www.bellesalle.co.jp/download/bs_shinjuku-minamiguchi/",
+ "bizintokyoSlug": "bellesalle-shinjuku-minamiguchi",
+ "accessSummary": "新宿駅（JR線・都営大江戸線・小田急線・京王線・京王新線）新南口 徒歩4分／新宿三丁目駅（丸ノ内線・副都心線・都営新宿線）E8出口 徒歩2分／代々木駅（JR線）東口 徒歩5分／代々木駅（都営大江戸線）A2出口 徒歩7分",
+ "notice": null,
+ "hours": "ビルエントランス開放時間 7:00〜21:00（3Fホール・4F会議室設備表 2026/9/11更新）",
+ "rooms": [
+  {
+   "name": "3F HALL",
+   "areaM2": 727,
+   "ceilingM": 6.0,
+   "theater": 684,
+   "school": 288,
+   "ushape": null,
+   "standing": 400,
+   "banquet": null,
+   "note": "スクールは2名掛け。スクール3名掛け 432席。島型 336席（56島）。最低利用時間は8時間または12時間。電動スクリーン300インチ・天吊プロジェクター16,000lm・同時通訳ラジエーターあり。床耐荷重800kg/㎡。裏導線あり。予約受付は2年前から"
+  },
+  {
+   "name": "4F Room 1",
+   "areaM2": 142,
+   "ceilingM": 3.5,
+   "theater": 142,
+   "school": 56,
+   "ushape": 48,
+   "standing": 80,
+   "banquet": null,
+   "note": "スクールは2名掛け。スクール3名掛け 84席。島型 72席（12島）。T字島型 54席（9島）。電動スクリーン150インチ・天吊プロジェクター6,000lm・メインスピーカーあり。4F会議室の床耐荷重は500kg/㎡。予約受付は6か月前から"
+  },
+  {
+   "name": "4F Room 2",
+   "areaM2": 137,
+   "ceilingM": 3.5,
+   "theater": 128,
+   "school": 56,
+   "ushape": 48,
+   "standing": 80,
+   "banquet": null,
+   "note": "スクールは2名掛け。スクール3名掛け 84席。島型 54席（9島）。T字島型 36席（6島）。電動スクリーン150インチ・天吊プロジェクター6,000lm・メインスピーカーあり。予約受付は6か月前から"
+  },
+  {
+   "name": "4F Room 3",
+   "areaM2": 115,
+   "ceilingM": 3.5,
+   "theater": 72,
+   "school": 34,
+   "ushape": 42,
+   "standing": 60,
+   "banquet": null,
+   "note": "スクールは2名掛け。スクール3名掛け 51席。島型 48席（8島）。T字島型 36席（6島）。予約受付は6か月前から"
+  },
+  {
+   "name": "4F Room 4",
+   "areaM2": 83,
+   "ceilingM": 3.5,
+   "theater": 56,
+   "school": 24,
+   "ushape": 30,
+   "standing": 40,
+   "banquet": null,
+   "note": "スクールは2名掛け。スクール3名掛け 36席。島型 36席（6島）。T字島型 18席（3島）。電動スクリーン150インチ・天吊プロジェクター6,000lm・メインスピーカーあり。予約受付は6か月前から"
+  },
+  {
+   "name": "4F Room 5",
+   "areaM2": 83,
+   "ceilingM": 3.5,
+   "theater": 56,
+   "school": 24,
+   "ushape": 30,
+   "standing": 40,
+   "banquet": null,
+   "note": "スクールは2名掛け。スクール3名掛け 36席。島型 36席（6島）。T字島型 24席（4島）。予約受付は6か月前から"
+  },
+  {
+   "name": "4F Room 6",
+   "areaM2": 123,
+   "ceilingM": 3.5,
+   "theater": 72,
+   "school": 36,
+   "ushape": 42,
+   "standing": 70,
+   "banquet": null,
+   "note": "スクールは2名掛け。スクール3名掛け 54席。島型 54席（9島）。T字島型 36席（6島）。電動スクリーン150インチ・天吊プロジェクター6,000lm・メインスピーカーあり。予約受付は6か月前から"
+  },
+  {
+   "name": "4F Room 1+2",
+   "areaM2": 279,
+   "ceilingM": 3.5,
+   "theater": 279,
+   "school": 136,
+   "ushape": 90,
+   "standing": 160,
+   "banquet": null,
+   "note": "スクールは2名掛け。スクール3名掛け 204席。島型 144席（24島）。T字島型 108席（18島）。予約受付は1年前から"
+  },
+  {
+   "name": "4F Room 3+4",
+   "areaM2": 198,
+   "ceilingM": 3.5,
+   "theater": 156,
+   "school": 66,
+   "ushape": 66,
+   "standing": 110,
+   "banquet": null,
+   "note": "スクールは2名掛け。スクール3名掛け 99席。島型 90席（15島）。T字島型 72席（12島）。予約受付は1年前から"
+  },
+  {
+   "name": "4F Room 5+6",
+   "areaM2": 206,
+   "ceilingM": 3.5,
+   "theater": 156,
+   "school": 66,
+   "ushape": 66,
+   "standing": 120,
+   "banquet": null,
+   "note": "スクールは2名掛け。スクール3名掛け 99席。島型 90席（15島）。T字島型 72席（12島）。予約受付は1年前から"
+  },
+  {
+   "name": "2F 控室 1",
+   "areaM2": 13,
+   "ceilingM": 2.6,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "有料（会議室の通常料金 4時間 税込18,700円）。テーブル2・イス6・コートハンガー傘立て付き。控室のみの利用はできない"
+  },
+  {
+   "name": "2F 控室 2",
+   "areaM2": 12,
+   "ceilingM": 2.6,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "有料（会議室の通常料金 4時間 税込18,700円）。テーブル2・イス6・コートハンガー傘立て付き。控室のみの利用はできない"
+  },
+  {
+   "name": "2F 控室 3",
+   "areaM2": 12,
+   "ceilingM": 2.6,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "有料（会議室の通常料金 4時間 税込18,700円）。応接セット（ローテーブル1・ロビーチェア4）・コートハンガー傘立て・モニター・姿見あり。控室のみの利用はできない"
+  },
+  {
+   "name": "3F 控室（ホール用）",
+   "areaM2": 20,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "テーブル2・イス6・コートハンガー傘立て・モニター・給湯スペースあり。3F控室から定点カメラの映像を見られる（設備表 2026/9/11更新）"
+  }
+ ],
+ "roomsSource": "https://www.bellesalle.co.jp/wp-content/uploads/shinjuku-minamiguchi_price.pdf",
+ "ops": {
+  "prevDaySetup": {
+   "text": "使用時間には準備・後片付けの時間も含まれる（料金表）。ホールは8時間・12時間の料金のみで24時間の料金は無く、夜間利用や24時間利用は前後の予約状況で使えない場合があるため事前に相談する。会議室は4時間・8時間・12時間の料金で、営業時間外の使用は別途相談になる。当日の前延長・後延長は30分あたりで、ホール通常料金①（月〜水）は7時〜22時が税込111,100円、22時〜翌7時が税込126,500円。荷物の事前到着は原則 開催日の前日着の指定で、事前搬入届を作業日の1週間前までに出す（貴重品は不可、荷物の破損の責任は負わない）。事前到着荷物の受取は原則ホール5箱・各ルーム2箱まで。事前に申し出のない多量・大きな荷物は、保管場所として会場を有料で借り上げる扱いになる。（出典：ホール・会議室料金表 2026/7/3更新、よくあるご質問、事前搬入届、使用規約 2026ver2 第20条）",
+   "source": "https://www.bellesalle.co.jp/wp-content/uploads/shinjuku-minamiguchi_price.pdf"
+  },
+  "loadingHours": {
+   "text": "搬出入がある場合は事前搬入届を作業日の1週間前までに提出する（未提出だと荷捌き場は使えない）。搬入・搬出車の出入りは使用時間内に所定の場所から行い、搬入時間などは会場側が調整することがある。積み下ろしの作業は原則20分以内。荷捌き場は1Fで、許容寸法は全高3,800×全長6,600mm（事前搬入届の記載）。搬出入用エレベーターは入口扉 幅1,100×高2,600mm、かご内 幅1,950×奥行1,800×高3,000mm、積載荷重1,650kg。乗用エレベーターは入口扉 幅1,100×高2,600mm、かご内 幅2,050×奥行2,000×高2,700mm、積載荷重2,000kg。3Fホールには裏導線がある（公式施設ページ）。現場責任者は作業前に住友不動産新宿南口ビル4Fベルサール受付で入館手続きをし、作業後に完了報告・退館手続きをする。ビルエントランスの開放時間は7:00〜21:00。（出典：事前搬入届、3Fホール・4F会議室 設備表 2026/9/11更新、使用規約 2026ver2 第16条）",
+   "source": "https://www.bellesalle.co.jp/wp-content/uploads/shinjuku-minamiguchi_jizen.pdf"
+  },
+  "vehicleRules": {
+   "text": "荷捌き所は荷物の積み下ろしのみに使い、駐車が必要なときは外の駐車場を使う。車両を複数台使うときは1台分の荷捌場を時間差で使う。違法駐車、指定駐車場以外、ビル廻りの路上駐車は厳禁。使用期間中の荷捌き場には商品・梱包材・装飾資材・ゴミなどを置けず、各搬出入用扉は常時閉じておく。搬入出車両が混雑しそうなときは出入口などに整理員を置く。設備表の車両制限は、高さ3,800mm未満×長さ6,600mm以下、重量2.0t。（出典：事前搬入届、使用規約 2026ver2 第15条・第16条、3Fホール・4F会議室 設備表 2026/9/11更新）",
+   "source": "https://www.bellesalle.co.jp/wp-content/uploads/shinjuku-minamiguchi_jizen.pdf"
+  },
+  "parking": {
+   "text": "設備表の駐車場欄は、ベルサール専用・時間貸し・車寄せのいずれも「無」（3Fホール・4F会議室とも）。近隣の時間貸し駐車場は、公式施設ページのリンク先「s-park」（公財 東京都道路整備保全公社）で「ベルサール新宿南口」を検索して探す。（出典：公式施設ページ、3Fホール・4F会議室 設備表 2026/9/11更新）",
+   "source": "https://www.bellesalle.co.jp/shisetsu/shinjuku/bs_shinjuku-minamiguchi/"
+  },
+  "waitingRooms": {
+   "text": "控室は2Fに3室（控室1 13㎡・控室2 12㎡・控室3 12㎡、3室を連結して使うこともできる）と、ホール用の3F控室（20㎡、給湯スペース付き）。2Fの控室は会議室料金表に有料で載っており、通常料金は4時間 税込18,700円・8時間 税込25,300円・12時間 税込31,900円。ホールの公式ページには「控室」が料金0円〜で載っている。控室のみの利用はできない。（出典：公式施設ページ、ホール・会議室料金表 2026/7/3更新、3Fホール設備表 2026/9/11更新）",
+   "source": "https://www.bellesalle.co.jp/shisetsu/shinjuku/bs_shinjuku-minamiguchi/"
+  },
+  "catering": {
+   "text": "飲食物の持込は可能。ただし飲食の手配に当社指定業者以外を使う場合は「飲食持込手数料」がかかる（パーティー利用時のみ。飲料のみ・弁当の持込は対象外）。金額は会場面積別で、〜300㎡ 100,000円、〜600㎡ 200,000円、〜900㎡ 300,000円、〜1,200㎡ 400,000円、1,201㎡〜 500,000円（税込 各110,000〜550,000円）。懇親会向けのパーティーメニューは住友不動産グループ泉レストランのサイトで案内されている。（出典：持込料のご案内PDF、よくあるご質問、使用規約 2026ver2 第4条）",
+   "source": "https://www.bellesalle.co.jp/wp-content/uploads/mochikomi_price.pdf"
+  }
+ },
+ "documents": [
+  {
+   "title": "ホール・会議室 料金表・収容人数（2026/7/3更新）",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/shinjuku-minamiguchi_price.pdf"
+  },
+  {
+   "title": "料金カレンダー（取引条件有効期限 2027年1月末日）",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/eventhall_calender1.pdf"
+  },
+  {
+   "title": "事前搬入届",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/shinjuku-minamiguchi_jizen.pdf"
+  },
+  {
+   "title": "使用規約（2026ver2）",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/kiyaku.pdf"
+  },
+  {
+   "title": "持込料のご案内",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/mochikomi_price.pdf"
+  },
+  {
+   "title": "反社会的勢力でないことの表明・確約書",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/bellesalle_bouhai.pdf"
+  },
+  {
+   "title": "3F ホール 設備・備品一覧（2026/9/11更新）",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/shinjuku-minamiguchi_hall_b.pdf"
+  },
+  {
+   "title": "4F 会議室 設備・備品一覧（2026/9/11更新）",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/shinjuku-minamiguchi_roombihin-.pdf"
+  },
+  {
+   "title": "アクセスMAP",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/access_shinjuku-minamiguchi.pdf"
+  },
+  {
+   "title": "3F 平面図",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/shinjuku-minamiguchi_plane_3f.pdf"
+  },
+  {
+   "title": "4F 平面図",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/shinjuku-minamiguchi_plane_4f.pdf"
+  },
+  {
+   "title": "3F 天井図",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/shinjuku-minamiguchi_ceiling_3f.pdf"
+  },
+  {
+   "title": "4F 天井図",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/shinjuku-minamiguchi_ceiling_4f.pdf"
+  },
+  {
+   "title": "3F 床図",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/shinjuku-minamiguchi_floor_3f.pdf"
+  },
+  {
+   "title": "4F 床図",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/shinjuku-minamiguchi_floor_4f.pdf"
+  },
+  {
+   "title": "3F イベント電源図（2025.10.27更新）",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/shinjuku-minamiguchi_electric_3f.pdf"
+  },
+  {
+   "title": "3F 避難経路図",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/shinjuku-minamiguchi_escape_3f.pdf"
+  },
+  {
+   "title": "4F 避難経路図",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/shinjuku-minamiguchi_escape_4f.pdf"
+  },
+  {
+   "title": "資料ダウンロード（公式一覧）",
+   "url": "https://www.bellesalle.co.jp/download/bs_shinjuku-minamiguchi/"
+  },
+  {
+   "title": "よくあるご質問",
+   "url": "https://www.bellesalle.co.jp/faq/"
+  }
+ ],
+ "checkedAt": "2026-10-30",
+ "lat": 35.686897,
+ "lng": 139.703552,
+ "nearby": {
+  "convenience": [
+   {
+    "name": "ローソン 渋谷千駄ヶ谷五丁目店",
+    "brand": "ローソン",
+    "distanceM": 60,
+    "walkMin": 1,
+    "hours": "24時間営業",
+    "address": "東京都渋谷区千駄ヶ谷5-27-5",
+    "verified": true,
+    "source": "https://www.areamarker.com/lawson/info/354873",
+    "note": "距離は住所の位置で計算。同じ住所に別店舗「ローソン リンクスクエア新宿3階店」もある"
+   },
+   {
+    "name": "ローソン リンクスクエア新宿3階店",
+    "brand": "ローソン",
+    "distanceM": 60,
+    "walkMin": 1,
+    "hours": "8:00-20:00",
+    "address": "東京都渋谷区千駄ヶ谷5-27-5",
+    "verified": true,
+    "source": "https://www.areamarker.com/lawson/info/354867",
+    "note": "距離は住所の位置で計算。同じ住所に別店舗「ローソン 渋谷千駄ヶ谷五丁目店」（24時間営業）もある"
+   },
+   {
+    "name": "セブン-イレブン 新宿4丁目明治通り店",
+    "brand": "セブン-イレブン",
+    "distanceM": 158,
+    "walkMin": 2,
+    "hours": "24時間営業",
+    "address": "東京都新宿区新宿4-3-12",
+    "verified": true,
+    "source": "https://seven-eleven.areamarker.com/711map/info/369923",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "キンコーズ・新宿南口店",
+    "brand": "キンコーズ",
+    "distanceM": 285,
+    "walkMin": 4,
+    "hours": "毎日 8:00-22:00（受付は閉店60分前まで）",
+    "address": "東京都渋谷区代々木2-2-1 新宿サザンテラス内 サザンタワー3F",
+    "verified": true,
+    "source": "https://www.kinkos.co.jp/store/tokyo/t012/",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "アクセア 新宿東南口店",
+    "brand": "アクセア",
+    "distanceM": 329,
+    "walkMin": 5,
+    "hours": "平日9:00～20:00／土日祝休み",
+    "address": "東京都新宿区新宿3-35-4 ユーコービル3F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/entry.html",
+    "note": "距離は住所の位置で計算。公式で「アクセアミニ」（小型店）の表示。店頭の支払いは現金不可（クレジットカード・電子マネー・QRコード決済・BizSPOTペイ）"
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Seria 新宿マルイアネックス店",
+    "brand": "セリア",
+    "distanceM": 431,
+    "walkMin": 6,
+    "hours": "平日 11:00-20:00／土日祝 10:30-20:00",
+    "address": "東京都新宿区新宿3-1-26 新宿マルイアネックス店 4F",
+    "verified": true,
+    "source": "https://shop.seria-group.com/seria/info/000001428",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "DAISO ビックカメラ新宿東口店",
+    "brand": "ダイソー",
+    "distanceM": 474,
+    "walkMin": 6,
+    "hours": "10:00-22:00",
+    "address": "東京都新宿区新宿3-29-1 ビックカメラ新宿東口店8階",
+    "verified": true,
+    "source": "https://www.daiso-sangyo.co.jp/shop/detail/005173",
+    "note": "距離は住所の位置で計算。同じ8階に「Standard Products ビックカメラ新宿東口店」「THREEPPY ビックカメラ新宿東口店」（どちらも10:00-22:00）もある"
+   }
+  ],
+  "donki": [
+   {
+    "name": "ドン・キホーテ 新宿東南口別館",
+    "brand": "ドン・キホーテ",
+    "distanceM": 369,
+    "walkMin": 5,
+    "hours": "9:00～2:00",
+    "address": "東京都新宿区新宿3-35-16",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=709",
+    "note": "距離は住所の位置で計算。ドン・キホーテ公式サイトの店舗名は「新宿東南口別館」"
+   },
+   {
+    "name": "ドン・キホーテ 新宿東南口店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 386,
+    "walkMin": 5,
+    "hours": "24時間営業",
+    "address": "東京都新宿区新宿3-36-16",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=449",
+    "note": "距離は住所の位置で計算。ドン・キホーテ公式サイトの店舗名は「新宿東南口店」"
+   }
+  ]
+ },
+ "drinkDelivery": {
+  "available": true
+ },
+ "photo": {
+  "src": "/images/venues/bellesalle-shinjuku-minamiguchi.jpg",
+  "credit": "写真：Conectando",
+  "sourceUrl": null
+ }
+}

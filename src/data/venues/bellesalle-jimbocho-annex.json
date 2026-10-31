@@ -1,0 +1,258 @@
+{
+ "slug": "bellesalle-jimbocho-annex",
+ "nameJa": "ベルサール神保町アネックス",
+ "nameEn": "",
+ "type": "exhibition",
+ "area": "kanda-suidobashi-venues",
+ "address": "〒101-0051 東京都千代田区神田神保町2-36-1 住友不動産千代田ファーストウイング1F",
+ "officialUrl": "https://www.bellesalle.co.jp/shisetsu/iidabashi/bs_jimbochoannex/",
+ "organizerUrl": "https://www.bellesalle.co.jp/download/bs_jimbochoannex/",
+ "bizintokyoSlug": "bellesalle-jimbocho-annex",
+ "accessSummary": "神保町駅（半蔵門線・新宿線・三田線）A2出口 徒歩2分／九段下駅（半蔵門線・東西線・新宿線）5番出口 徒歩5分／水道橋駅（JR線）西口 徒歩8分",
+ "notice": null,
+ "hours": "ビルエントランス開放時間 ビル側 平日7:30〜20:00、土日祝は開放していない（1Fホール設備表 2026/9/11更新）",
+ "rooms": [
+  {
+   "name": "1F HALL 全体",
+   "areaM2": 408,
+   "ceilingM": 4.8,
+   "theater": 400,
+   "school": 204,
+   "ushape": null,
+   "standing": 270,
+   "banquet": null,
+   "note": "スクールは2名掛け。スクール3名掛け 306席。島型 210席（35島）。予約受付は2年前から。最低利用時間は8時間または12時間。1F平面図にはHALL A 289㎡・HALL B 119㎡の表記があるが、料金表・施設ページの会場一覧は全体のみ（天吊スクリーン・プロジェクターはホールAにある）"
+  },
+  {
+   "name": "B1 控室1",
+   "areaM2": 16,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "使用料0円。テーブル2・イス4・ハンガーラック1・姿見1。控室のみの利用はできない"
+  },
+  {
+   "name": "B1 控室2",
+   "areaM2": 24,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "使用料0円。テーブル4・イス8・ハンガーラック1・姿見1・モニター1（定点カメラの映像を見られる）。控室のみの利用はできない"
+  }
+ ],
+ "roomsSource": "https://www.bellesalle.co.jp/wp-content/uploads/jimbochoax_price.pdf",
+ "ops": {
+  "prevDaySetup": {
+   "text": "使用時間には準備・後片付けの時間も含まれる（料金表）。ホールの料金は8時間と12時間の設定で、24時間の欄は「-」。夜間利用や24時間利用は前後の予約状況で使えない場合があるため事前に相談する。荷物の事前到着は開催日の前日着の指定が原則で、事前搬入届を搬入日の1週間前までに出す（貴重品は不可、荷物の破損の責任は負わない）。事前に申し出のない多量・大きな荷物は、保管場所として会場を有料で借り上げる扱いになる。（出典：ホール料金表 2026/7/3更新、よくあるご質問、使用規約 2026ver2 第20条）",
+   "source": "https://www.bellesalle.co.jp/wp-content/uploads/jimbochoax_price.pdf"
+  },
+  "loadingHours": {
+   "text": "搬出入がある場合は事前搬入届を作業日の1週間前までに提出する（未提出だと荷捌き場は使えない）。搬入・搬出車の出入りは使用時間内に所定の場所から行い、搬入時間などは会場側が調整することがある。搬入口は1Fに2か所（搬入出1・搬入出2）で、1F搬入口から直接ホールへ搬出入できる。積み下ろしの作業は原則20分以内。荷捌き場の許容寸法は全高3,500×幅5,000mm（2t車まで）。搬入扉は設備表（2026/9/11更新）で高さ2,400×幅2,350mm、事前搬入届では全高2,350×巾2,400mmと表記が食い違う。EVは無し。現場責任者は作業前に千代田ファーストウイング1Fのサービスセンターで入館手続きをする。ビル側のエントランス開放時間は平日7:30〜20:00で、土日祝は開放していない。事前到着荷物の受取は原則ホール5箱まで。（出典：事前搬入届（神保町アネックス）、1Fホール設備表 2026/9/11更新、使用規約 2026ver2 第16条、公式施設ページ）",
+   "source": "https://www.bellesalle.co.jp/wp-content/uploads/jimbochoax_jizen.pdf"
+  },
+  "vehicleRules": {
+   "text": "荷捌き所は荷物の積み下ろしのみに使い、駐車が必要なときは外の駐車場を使う。車両を複数台使うときは1台分の荷捌場を時間差で使う。違法駐車、指定駐車場以外、ビル廻りの路上駐車は厳禁。設備表の車両制限は高さ3,500×長さ5,000mm・重2.0t。使用期間中の荷捌き場には商品・梱包材・装飾資材・ゴミなどを置けず、各搬出入用扉は常時閉じておく。搬入出車両が混雑しそうなときは出入口などに整理員を置く。（出典：事前搬入届、1Fホール設備表 2026/9/11更新、使用規約 2026ver2 第15条・第16条）",
+   "source": "https://www.bellesalle.co.jp/wp-content/uploads/jimbochoax_jizen.pdf"
+  },
+  "parking": {
+   "text": "設備表の駐車場欄は、ベルサール専用・時間貸し・車寄せのいずれも「無」。近隣の時間貸し駐車場は、公式施設ページのリンク先「s-park」（公財 東京都道路整備保全公社）で「ベルサール神保町アネックス」を検索して探す。（出典：1Fホール設備表 2026/9/11更新、公式施設ページ）",
+   "source": "https://www.bellesalle.co.jp/wp-content/uploads/jimbochoax_hall_b.pdf"
+  },
+  "waitingRooms": {
+   "text": "B1Fに控室が2室（控室1 16㎡・控室2 24㎡）。いずれも使用料0円。控室1はテーブル2・イス4、控室2はテーブル4・イス8・モニター1で、どちらもハンガーラックと姿見がある。控室のみの利用はできない。（出典：1Fホール設備表 2026/9/11更新、公式施設ページ、1F平面図）",
+   "source": "https://www.bellesalle.co.jp/shisetsu/iidabashi/bs_jimbochoannex/"
+  },
+  "catering": {
+   "text": "飲食物の持込は可能。ただし飲食の手配に当社指定業者以外を使う場合は「飲食持込手数料」がかかる（パーティー利用時のみ。飲料のみ・弁当の持込は対象外）。金額は会場面積別で、〜300㎡ 100,000円、〜600㎡ 200,000円、〜900㎡ 300,000円、〜1,200㎡ 400,000円、1,201㎡〜 500,000円（税込 各110,000〜550,000円）。懇親会向けのパーティーメニューは住友不動産グループ泉レストランのサイトで案内されている。（出典：持込料のご案内PDF、よくあるご質問、使用規約 2026ver2 第4条）",
+   "source": "https://www.bellesalle.co.jp/wp-content/uploads/mochikomi_price.pdf"
+  }
+ },
+ "documents": [
+  {
+   "title": "利用料金一覧表（2026/7/3更新）",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/jimbochoax_price.pdf"
+  },
+  {
+   "title": "料金カレンダー（取引条件有効期限 2027年1月末日）",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/eventhall_calender1.pdf"
+  },
+  {
+   "title": "事前搬入届（イベントホール）",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/jimbochoax_jizen.pdf"
+  },
+  {
+   "title": "使用規約（2026ver2）",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/kiyaku.pdf"
+  },
+  {
+   "title": "持込料のご案内",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/mochikomi_price.pdf"
+  },
+  {
+   "title": "反社会的勢力でないことの表明・確約書",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/bellesalle_bouhai.pdf"
+  },
+  {
+   "title": "1Fホール 施設概要・備品リスト（2026/9/11更新）",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/jimbochoax_hall_b.pdf"
+  },
+  {
+   "title": "アクセスMAP",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/access_jimbochoax.pdf"
+  },
+  {
+   "title": "1F 平面図",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/jimbochoax_plane.pdf"
+  },
+  {
+   "title": "1F 天井図",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/jimbochoax_ceiling.pdf"
+  },
+  {
+   "title": "1F 床図",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/jimbochoax_froor.pdf"
+  },
+  {
+   "title": "1F イベント電源図",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/jimbochoax_electric.pdf"
+  },
+  {
+   "title": "1F 避難経路図",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/jimbocho_ax_escape.pdf"
+  },
+  {
+   "title": "資料ダウンロード（公式一覧）",
+   "url": "https://www.bellesalle.co.jp/download/bs_jimbochoannex/"
+  },
+  {
+   "title": "よくあるご質問",
+   "url": "https://www.bellesalle.co.jp/faq/"
+  }
+ ],
+ "checkedAt": "2026-10-30",
+ "lat": 35.697258,
+ "lng": 139.754929,
+ "nearby": {
+  "convenience": [
+   {
+    "name": "セブン-イレブン 神田専大通り店",
+    "brand": "セブン-イレブン",
+    "distanceM": 39,
+    "walkMin": 1,
+    "hours": "24時間営業",
+    "address": "東京都千代田区神田神保町2-38-1",
+    "verified": true,
+    "source": "https://seven-eleven.areamarker.com/711map/info/282702",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "ファミリーマート 専大通り店",
+    "brand": "ファミリーマート",
+    "distanceM": 107,
+    "walkMin": 2,
+    "hours": "24時間営業",
+    "address": "東京都千代田区神田神保町3丁目12-3",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/58173",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "セブン-イレブン 神田神保町3丁目店",
+    "brand": "セブン-イレブン",
+    "distanceM": 138,
+    "walkMin": 2,
+    "hours": "24時間営業",
+    "address": "東京都千代田区神田神保町3-2-6",
+    "verified": true,
+    "source": "https://seven-eleven.areamarker.com/711map/info/321365",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "キンコーズ・神保町店",
+    "brand": "キンコーズ",
+    "distanceM": 51,
+    "walkMin": 1,
+    "hours": "平日 8:00-20:00／土 休業／日・祝日 休業（受付は閉店30分前まで）",
+    "address": "東京都千代田区神田神保町3丁目10-4 NABOCUL TOWER 1F",
+    "verified": true,
+    "source": "https://www.kinkos.co.jp/store/tokyo/t038/",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "アクセア 九段下店",
+    "brand": "アクセア",
+    "distanceM": 337,
+    "walkMin": 5,
+    "hours": "平日9:00〜20:00／土日祝休み",
+    "address": "東京都千代田区九段北1-3-2 1F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/entry.html",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Can★Do 神保町店",
+    "brand": "キャンドゥ",
+    "distanceM": 220,
+    "walkMin": 3,
+    "hours": "毎日 10:00-21:00",
+    "address": "東京都千代田区神田神保町2-14",
+    "verified": true,
+    "source": "https://shopinfo.cando-web.co.jp/detail/shop-5053/",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "DAISO 神田神保町すずらん通り店",
+    "brand": "ダイソー",
+    "distanceM": 545,
+    "walkMin": 7,
+    "hours": "10:00-21:00",
+    "address": "東京都千代田区神田神保町1-1-17東京堂神保町第3ビルディング 1階",
+    "verified": true,
+    "source": "https://www.daiso-sangyo.co.jp/shop/detail/008732",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "donki": [
+   {
+    "name": "ドン・キホーテ 後楽園店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 973,
+    "walkMin": 13,
+    "hours": "24時間営業",
+    "address": "東京都文京区本郷1-33-9",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=343",
+    "note": "距離は住所の位置で計算。ドン・キホーテ公式サイトの店舗名は「後楽園店」"
+   },
+   {
+    "name": "ドン・キホーテ 秋葉原店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 1561,
+    "walkMin": 20,
+    "hours": "24時間営業",
+    "address": "東京都千代田区外神田4丁目3-3",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=98",
+    "note": "距離は住所の位置で計算。ドン・キホーテ公式サイトの店舗名は「秋葉原店」"
+   }
+  ]
+ },
+ "drinkDelivery": {
+  "available": true
+ },
+ "photo": {
+  "src": "/images/venues/bellesalle-jimbocho-annex.jpg",
+  "credit": "写真：Conectando",
+  "sourceUrl": null
+ }
+}

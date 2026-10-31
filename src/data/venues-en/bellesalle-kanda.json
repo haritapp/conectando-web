@@ -1,0 +1,204 @@
+{
+ "slug": "bellesalle-kanda",
+ "name": "Bellesalle Kanda",
+ "address": "Tokyo 101-0053 Sumitomo Fudosan Kanda Building 2F and 3F, 7 Kanda-Mitoshirocho, Chiyoda-ku",
+ "accessSummary": "Ogawamachi Station (Shinjuku Line) Exit B6: 2 min walk / Shin-Ochanomizu Station (Chiyoda Line) Exit B6: 2 min walk / Awajicho Station (Marunouchi Line) Exit B6: 2 min walk / Kanda Station (Ginza Line) Exit 5: 6 min walk / Kanda Station (JR Lines) West Exit: 7 min walk / Otemachi Station (Hanzomon, Marunouchi, Tozai, Mita and Chiyoda Lines) Exit C2b: 7 min walk",
+ "hours": "Building entrance open hours 6:30-22:00 (2F Hall / 3F Conference Rooms Facility List, updated September 11, 2026)",
+ "notice": null,
+ "rooms": [
+  {
+   "name": "2F Hall - Entire Hall",
+   "note": "Classroom is 2 per desk. Classroom, 3 per desk: 450 seats. Island layout: 300 seats (50 islands). Theater and classroom with 3 per desk: \"Please consult\" in the price list. There is also a separate glass-walled lobby of 150㎡ (ceiling height 10 m)."
+  },
+  {
+   "name": "2F Hall - Hall A",
+   "note": "Classroom is 2 per desk. Classroom, 3 per desk: 180 seats. Island layout: 120 seats (20 islands). Theater: \"Please consult\" in the price list."
+  },
+  {
+   "name": "2F Hall - Hall B",
+   "note": "Classroom is 2 per desk. Classroom, 3 per desk: 162 seats. Island layout: 120 seats (20 islands). Theater and classroom with 3 per desk: \"Please consult\" in the price list."
+  },
+  {
+   "name": "2F Waiting Room 1",
+   "note": "Usage fee 0 yen. Equipment: 5 tables, 8 chairs, full-length mirror, refrigerator, hanger rack, venue monitor."
+  },
+  {
+   "name": "2F Waiting Room 2",
+   "note": "Usage fee 0 yen. Equipment: 1 low table, 4 sofas, full-length mirror, hanger rack, venue monitor."
+  },
+  {
+   "name": "3F Room 1",
+   "note": "Classroom is 2 per desk. Classroom, 3 per desk: 126 seats. Island layout: 90 seats (15 islands). T-shaped island layout: 48 seats (8 islands). Theater: \"Please consult\" in the price list."
+  },
+  {
+   "name": "3F Room 2",
+   "note": "Classroom is 2 per desk. Classroom, 3 per desk: 90 seats. Island layout: 48 seats (8 islands). T-shaped island layout: 36 seats (6 islands). Theater: \"Please consult\" in the price list."
+  },
+  {
+   "name": "3F Room 3",
+   "note": "Classroom is 2 per desk. Classroom, 3 per desk: 90 seats. Island layout: 48 seats (8 islands). T-shaped island layout: 36 seats (6 islands). Theater: \"Please consult\" in the price list."
+  },
+  {
+   "name": "3F Room 4",
+   "note": "Classroom is 2 per desk. Classroom, 3 per desk: 60 seats. Island layout: 48 seats (8 islands). T-shaped island layout: 36 seats (6 islands). Theater: \"Please consult\" in the price list."
+  },
+  {
+   "name": "3F Room 5",
+   "note": "Classroom is 2 per desk. Classroom, 3 per desk: 33 seats. Island layout: 30 seats (5 islands). T-shaped island layout: 24 seats (4 islands)."
+  },
+  {
+   "name": "3F Room 6",
+   "note": "Classroom is 2 per desk. Classroom, 3 per desk: 33 seats. Island layout: 30 seats (5 islands). T-shaped island layout: 12 seats (2 islands). Theater: \"Please consult\" in the price list."
+  },
+  {
+   "name": "3F Room 1+2",
+   "note": "Classroom is 2 per desk. Classroom, 3 per desk: 234 seats. Island layout: 150 seats (25 islands). T-shaped island layout: 96 seats (16 islands). Theater: \"Please consult\" in the price list."
+  },
+  {
+   "name": "3F Room 2+3",
+   "note": "Classroom is 2 per desk. Classroom, 3 per desk: 180 seats. Island layout: 120 seats (20 islands). T-shaped island layout: 72 seats (12 islands). Theater: \"Please consult\" in the price list."
+  },
+  {
+   "name": "3F Room 3+4",
+   "note": "Classroom is 2 per desk. Classroom, 3 per desk: 162 seats. Island layout: 120 seats (20 islands). T-shaped island layout: 72 seats (12 islands)."
+  },
+  {
+   "name": "3F Room 1+2+3",
+   "note": "Classroom is 2 per desk. Classroom, 3 per desk: 342 seats. Island layout: 240 seats (40 islands). T-shaped island layout: 168 seats (28 islands). Theater: \"Please consult\" in the price list."
+  },
+  {
+   "name": "3F Room 2+3+4",
+   "note": "Classroom is 2 per desk. Classroom, 3 per desk: 252 seats. Island layout: 180 seats (30 islands). T-shaped island layout: 108 seats (18 islands). Theater: \"Please consult\" in the price list."
+  },
+  {
+   "name": "3F Room 1+2+3+4",
+   "note": "Classroom is 2 per desk. Classroom, 3 per desk: 450 seats. Island layout: 300 seats (50 islands). T-shaped island layout: 216 seats (36 islands). Classroom with 3 per desk and theater: \"Please consult\" in the price list."
+  }
+ ],
+ "ops": {
+  "prevDaySetup": "Usage time includes setup and cleanup time (price list). The hall has 8-hour and 12-hour rates, and the 24-hour column is \"-\" for all of them. The conference rooms have 4-hour, 8-hour and 12-hour rates. Night-time or 24-hour use may not be available depending on the bookings before and after, so consult in advance. Extensions before and after the usage time on the day of use are charged separately for every 30 minutes (example: Entire Hall is 79,200 yen for 7:00-22:00 and 90,200 yen for 22:00 to 7:00 the next day, tax included). Advance receipt of packages is in principle for arrival on the day before the event, and an advance load-in notice is required (items are accepted only on the day before use). (Source: Price List, updated July 3, 2026; official Document Downloads page; FAQ)",
+  "loadingHours": "If there is load-in or load-out, an advance load-in notice must be submitted at least 1 week before the work date (the loading area cannot be used if it is not submitted). Delivery vehicles for load-in and load-out must enter and leave within the usage time from the designated location, and the venue may adjust load-in times and the like. Loading and unloading work is in principle limited to 20 minutes. The load-in location is the B1F loading area, and for both the 2F hall and the 3F conference rooms the load-in elevator is used from the loading area (hall facility list: door 1,300 mm wide x 2,500 mm high; inside the elevator car 1,800 mm wide x 2,700 mm high x 2,300 mm deep, load capacity 2,000 kg). The permitted dimensions of the loading area are 3,000 mm total height x 6,500 mm total length x 2,500 mm width. The person in charge on site completes entry procedures at the Service Center on the 1F of Sumitomo Fudosan Kanda Building before work. The building entrance is open 6:30-22:00. Packages received in advance are in principle limited to 5 boxes for the hall and 2 boxes per room. (Source: Advance Load-in Notice, 2F Hall / 3F Conference Rooms Facility List, updated September 11, 2026, Terms of Use 2026ver2 Article 16)",
+  "vehicleRules": "The loading area is used only for loading and unloading; if parking is needed, use an outside parking lot. When multiple vehicles are used, they share one vehicle's loading space in staggered turns. Illegal parking and roadside parking around the building outside the designated parking lot are strictly prohibited. Products, packing materials, decoration materials, trash and the like may not be left in the loading area during the usage period. If delivery vehicle traffic is expected to be congested, traffic staff are placed at the entrance and similar points. The vehicle restriction in the facility list is 3,000 mm high x 6,500 mm long, weight 2.0 t. The porte-cochere (vehicle drop-off area) is for tenants only and in principle cannot be used. (Source: Advance Load-in Notice, Terms of Use 2026ver2 Articles 15 and 16, 2F Hall / 3F Conference Rooms Facility List, updated September 11, 2026)",
+  "parking": "In the facility list, the parking field is \"None\" for both Bellesalle-dedicated parking and hourly parking. To find nearby hourly parking lots, search for \"Bellesalle Kanda\" on \"s-park\" (Tokyo Metropolitan Road Improvement and Conservation Corporation), which is linked from the official facility page. (Source: Official facility page, 2F Hall Facility List, updated September 11, 2026)",
+  "waitingRooms": "The 2F hall has 2 waiting rooms: Waiting Room 1 is 35㎡ (5 tables, 8 chairs, full-length mirror, refrigerator, hanger rack, venue monitor) and Waiting Room 2 is 13㎡ (1 low table, 4 sofas, full-length mirror, hanger rack, venue monitor). Both have a usage fee of 0 yen. In the 3F conference room facility list, the waiting room field is \"None\". (Source: Official facility page, 2F Hall Facility List updated September 11, 2026, 3F Conference Room Facility List updated September 11, 2026)",
+  "catering": "Outside food/drink brought in is allowed. However, if a caterer other than the operator's designated vendors is used, an \"outside food/drink fee\" applies (party use only; bringing in drinks only or boxed meals is not covered). The amount depends on venue area: up to 300㎡ 100,000 yen, up to 600㎡ 200,000 yen, up to 900㎡ 300,000 yen, up to 1,200㎡ 400,000 yen, 1,201㎡ and above 500,000 yen (110,000 to 550,000 yen each, tax included). The Entire Hall is 586㎡, and the combined use of the 3F conference rooms is up to 553㎡. Party menus for receptions are introduced on the website of Izumi Restaurant, a Sumitomo Fudosan Group company. (Source: Outside Food/Drink Fee Guide PDF, FAQ)"
+ },
+ "documents": [
+  {
+   "title": "Price List (updated July 3, 2026)"
+  },
+  {
+   "title": "Price Calendar"
+  },
+  {
+   "title": "Advance Load-in Notice"
+  },
+  {
+   "title": "Terms of Use (2026ver2)"
+  },
+  {
+   "title": "Outside Food/Drink Fee Guide"
+  },
+  {
+   "title": "Declaration and Pledge of Non-Affiliation with Antisocial Forces"
+  },
+  {
+   "title": "2F Hall Facilities and Equipment List (updated September 11, 2026)"
+  },
+  {
+   "title": "3F Conference Rooms Facilities and Equipment List (updated September 11, 2026)"
+  },
+  {
+   "title": "Access Map"
+  },
+  {
+   "title": "2F Floor Plan"
+  },
+  {
+   "title": "2F Ceiling Plan"
+  },
+  {
+   "title": "2F Floor Surface Plan"
+  },
+  {
+   "title": "2F Event Power Supply Plan (updated October 27, 2025)"
+  },
+  {
+   "title": "2F Evacuation Route Map"
+  },
+  {
+   "title": "3F Floor Plan"
+  },
+  {
+   "title": "3F Ceiling Plan"
+  },
+  {
+   "title": "3F Floor Surface Plan"
+  },
+  {
+   "title": "3F Evacuation Route Map"
+  },
+  {
+   "title": "Document Downloads (official list)"
+  },
+  {
+   "title": "FAQ"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "7-Eleven Kanda Ogawamachi 2-chome",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "FamilyMart Uchikanda 1-chome",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Lawson Kanda Ogawamachi 1-chome",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "Accea Ogawamachi",
+    "hours": "Weekdays 8:00-22:00, Sat, Sun & holidays 10:00-19:00",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Accea Uchikanda",
+    "hours": "Weekdays, Sat, Sun & holidays 8:00-22:00 (Self Accea = unmanned self-service store; during Accea Cafe's opening hours)",
+    "note": "An unmanned self-service store (regular full-service orders are placed on the web or at in-store terminals and picked up at a locker). Distance is calculated from the address location."
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "DAISO Kanda Jimbocho Suzuran-dori",
+    "hours": "10:00-21:00",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Can Do Jimbocho",
+    "hours": "Daily 10:00-21:00",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "donki": [
+   {
+    "name": "Don Quijote Akihabara",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. The store name on the Don Quijote official site is \"Akihabara\"."
+   },
+   {
+    "name": "Don Quijote Ueno",
+    "hours": "9:00-4:00",
+    "note": "Distance is calculated from the address location. Rather far. The store name on the Don Quijote official site is \"Ueno\"."
+   }
+  ]
+ },
+ "photoCredit": "Image of the street near the venue (Kanda-Ogawamachi 3-chome), not the venue building. © 運転太郎 / CC BY 3.0 · Wikimedia Commons"
+}

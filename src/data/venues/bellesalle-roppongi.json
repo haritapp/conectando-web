@@ -1,0 +1,340 @@
+{
+ "slug": "bellesalle-roppongi",
+ "nameJa": "ベルサール六本木",
+ "nameEn": "",
+ "type": "hall",
+ "area": "toranomon-roppongi-venues",
+ "address": "〒106-0032 東京都港区六本木7-18-18 住友不動産六本木通ビル1F・B1",
+ "officialUrl": "https://www.bellesalle.co.jp/shisetsu/roppongi/bs_roppongi/",
+ "organizerUrl": "https://www.bellesalle.co.jp/download/bs_roppongi/",
+ "bizintokyoSlug": "bellesalle-roppongi",
+ "accessSummary": "六本木駅（日比谷線）2番出口 徒歩2分／六本木駅（大江戸線）4b出口 徒歩4分／乃木坂駅（千代田線）5番出口 徒歩7分",
+ "notice": null,
+ "hours": "ビルエントランス開放時間 月〜金 8:00〜20:00／土 8:00〜17:00（日曜・祝日は開放していません）（イベントホール設備表 B1F 2026/10/19更新・1F 2026/10/9更新）",
+ "rooms": [
+  {
+   "name": "1F HALL 全体",
+   "areaM2": 321,
+   "ceilingM": 5.0,
+   "theater": 300,
+   "school": 120,
+   "ushape": null,
+   "standing": 190,
+   "banquet": null,
+   "note": "スクールは2名掛け。スクール3名掛け 180席。島型 150席（25島）"
+  },
+  {
+   "name": "1F HALL A",
+   "areaM2": 135,
+   "ceilingM": 5.0,
+   "theater": 84,
+   "school": 40,
+   "ushape": null,
+   "standing": 80,
+   "banquet": null,
+   "note": "スクールは2名掛け。スクール3名掛け 60席。島型 48席（8島）"
+  },
+  {
+   "name": "1F HALL B",
+   "areaM2": 161,
+   "ceilingM": 5.0,
+   "theater": 90,
+   "school": 40,
+   "ushape": null,
+   "standing": 90,
+   "banquet": null,
+   "note": "スクールは2名掛け。スクール3名掛け 60席。島型 60席（10島）"
+  },
+  {
+   "name": "B1 HALL 全体",
+   "areaM2": 707,
+   "ceilingM": 5.0,
+   "theater": 665,
+   "school": 270,
+   "ushape": null,
+   "standing": 420,
+   "banquet": null,
+   "note": "スクールは2名掛け。スクール3名掛け 405席。島型 378席（63島）"
+  },
+  {
+   "name": "B1 HALL C",
+   "areaM2": 356,
+   "ceilingM": 5.0,
+   "theater": 306,
+   "school": 128,
+   "ushape": null,
+   "standing": 210,
+   "banquet": null,
+   "note": "スクールは2名掛け。スクール3名掛け 192席。島型 132席（22島）"
+  },
+  {
+   "name": "B1 HALL D",
+   "areaM2": 351,
+   "ceilingM": 5.0,
+   "theater": 245,
+   "school": 90,
+   "ushape": null,
+   "standing": 210,
+   "banquet": null,
+   "note": "スクールは2名掛け。スクール3名掛け 135席。島型 126席（21島）"
+  },
+  {
+   "name": "1F 控室1",
+   "areaM2": 15,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "使用料0円。1F利用者用、会場モニター無"
+  },
+  {
+   "name": "1F 控室2",
+   "areaM2": 9,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "使用料0円。1F・B1F利用者用（先着順）、会場モニター無"
+  },
+  {
+   "name": "B1 控室3",
+   "areaM2": 21,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "使用料0円。B1F利用者用、会場モニター無"
+  }
+ ],
+ "roomsSource": "https://www.bellesalle.co.jp/wp-content/uploads/roppongi_price.pdf",
+ "ops": {
+  "prevDaySetup": {
+   "text": "使用時間には準備・後片付けの時間も含まれ（料金表）、使用時間とは施設を開錠して準備を始めてから原状回復して施錠するまでの専有時間をいう（使用規約 第5条）。ホールの料金は8時間と12時間で、24時間の欄は「-」。夜間利用や24時間利用は前後の予約状況で使えない場合があるため事前に相談する。使用日当日に前延長・後延長が出たときは30分単位の延長料金がかかる。荷物の事前受け取りは使用前日のみで事前搬入届が必要（原則 各ホール5箱まで）。1Fホールのガラスウォールの開閉には相当の時間がかかり、作業開始時間は打合せで決める。使用日の前日または使用期間中の突発的なレイアウト変更は当社に依頼できない。（出典：ホール料金表 2026/7/3更新、事前搬入届（イベントホール）、使用規約 2026ver2 第5条・第20条・第21条）",
+   "source": "https://www.bellesalle.co.jp/wp-content/uploads/roppongi_price.pdf"
+  },
+  "loadingHours": {
+   "text": "事前搬入届を作業日の1週間前までに提出する（未提出だと荷捌き場は使えない）。搬入・搬出車の出入りは使用時間内に所定の場所から行う。積み下ろしの作業は原則20分以内。B1Fホールは B1F の荷捌場から搬入用EVで運ぶ（荷捌き場の許容寸法は全高3,000×全長6,600mm、2t車まで。EVは入口扉 幅2,450×高2,400mm、かご内 幅3,900×奥行1,950×高2,400mm、積載荷重3,500kg）。1Fホールはガラス戸から直接搬出入でき（搬入扉 幅1,250×高1,980mm、ガラス扉の開閉は相談）、公式施設ページは物販時などの大量納品も直接搬入できると案内している。現場責任者は作業開始前に住友不動産六本木通ビル1Fサービスセンターで入館手続きをする。ビルエントランスの開放時間は月〜金 8:00〜20:00、土 8:00〜17:00で、日曜・祝日は開放していない。（出典：事前搬入届（イベントホール）、イベントホール設備表 B1F 2026/10/19更新・1F 2026/10/9更新、公式施設ページ、使用規約 2026ver2 第16条）",
+   "source": "https://www.bellesalle.co.jp/wp-content/uploads/roppongi_jizen.pdf"
+  },
+  "vehicleRules": {
+   "text": "荷捌き所は荷物の積み下ろしのみに使い、駐車が必要なときは外の駐車場を使う。車両を複数台使うときは1台分の荷捌場を時間差で使う。違法駐車、指定駐車場以外、ビル廻りの路上駐車は厳禁（建物周辺の公開空地・敷地内での路上駐車は使用停止の対象）。使用期間中の荷捌き場には商品・梱包材・装飾資材・ゴミなどを置けない。搬入出車両が混雑しそうなときは出入口などに整理員を置く。設備表の車両制限は、B1Fが高さ3,000×長さ6,600mm・重2.0t（開催中のみ荷捌き場に2台まで留め置き可）、1Fが高さ制限なし・長さ7,000mm以下・重4.0t以下。（出典：事前搬入届（イベントホール）、イベントホール設備表 B1F 2026/10/19更新・1F 2026/10/9更新、使用規約 2026ver2 第9条・第15条・第16条）",
+   "source": "https://www.bellesalle.co.jp/wp-content/uploads/roppongi_jizen.pdf"
+  },
+  "parking": {
+   "text": "設備表の駐車場欄は、B1Fホールがベルサール専用「有」（開催中のみ荷捌き場に2台まで留め置き可）・時間貸し「無」、1Fホールがベルサール専用・時間貸し・車寄せのいずれも「無」。近隣の時間貸し駐車場は、公式施設ページのリンク先「s-park」（公財 東京都道路整備保全公社）で「ベルサール六本木」を検索して探す。（出典：イベントホール設備表 B1F 2026/10/19更新・1F 2026/10/9更新、公式施設ページ）",
+   "source": "https://www.bellesalle.co.jp/wp-content/uploads/roppongi_hall_b.pdf"
+  },
+  "waitingRooms": {
+   "text": "控室は3室で、1F 控室1（15㎡）・1F 控室2（9㎡）・B1 控室3（21㎡）。いずれも使用料0円で、会場モニターはない。控室1は1F利用者用、控室2は1F・B1F利用者用（先着順）、控室3はB1F利用者用。控室1にはソファ2・ローテーブル1・ウッドチェア2・長テーブル1・ハンガーラック1・姿見1、控室2にはソファ2・ローテーブル1・ハンガーラック1・姿見1、控室3には長テーブル1・ウッドテーブル1・椅子5・ハンガーラック1・姿見1が付く。（出典：公式施設ページ、イベントホール設備表 B1F 2026/10/19更新・1F 2026/10/9更新）",
+   "source": "https://www.bellesalle.co.jp/shisetsu/roppongi/bs_roppongi/"
+  },
+  "catering": {
+   "text": "飲食物の持込は可能。ただし飲食の手配に当社指定業者以外を使う場合は「飲食持込手数料」がかかる（パーティー利用時のみ。飲料のみ・弁当の持込は対象外）。金額は会場面積別で、〜300㎡ 100,000円、〜600㎡ 200,000円、〜900㎡ 300,000円、〜1,200㎡ 400,000円、1,201㎡〜 500,000円（税込 各110,000〜550,000円）。懇親会向けのパーティーメニューは住友不動産グループ泉レストランのサイトで案内されている。（出典：持込料のご案内PDF、よくあるご質問、使用規約 2026ver2 第4条）",
+   "source": "https://www.bellesalle.co.jp/wp-content/uploads/mochikomi_price.pdf"
+  },
+  "restaurants": {
+   "text": "公式施設ページは、1F・B1Fのイベントホールとも可動式間仕切りで均等に分割でき、セミナー＋懇親会などの組み合わせ利用にも適していること、各種パーティに適していることを案内している。また公式FAQは、懇親会に適したパーティーメニューを取り揃えているとして、住友不動産グループ泉レストランのケータリングを案内している。（出典：公式施設ページ、よくあるご質問）",
+   "source": "https://www.bellesalle.co.jp/shisetsu/roppongi/bs_roppongi/"
+  }
+ },
+ "documents": [
+  {
+   "title": "使用規約（2026ver2）",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/kiyaku.pdf"
+  },
+  {
+   "title": "事前搬入届（イベントホール）",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/roppongi_jizen.pdf"
+  },
+  {
+   "title": "持込料のご案内",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/mochikomi_price.pdf"
+  },
+  {
+   "title": "利用料金一覧表（2026/7/3更新）",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/roppongi_price.pdf"
+  },
+  {
+   "title": "料金カレンダー（取引条件有効期限 2027年1月末日）",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/eventhall_calender1.pdf"
+  },
+  {
+   "title": "イベントホール 備品・設備表（B1F 2026/10/19更新・1F 2026/10/9更新）",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/roppongi_hall_b.pdf"
+  },
+  {
+   "title": "1F 平面図",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/roppongi_plane_1f.pdf"
+  },
+  {
+   "title": "1F 天井図",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/roppongi_ceiling_1f.pdf"
+  },
+  {
+   "title": "1F 床図",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/roppongi_floor_1f.pdf"
+  },
+  {
+   "title": "1F イベント電源図",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/roppongi_electric_1f.pdf"
+  },
+  {
+   "title": "1F 避難経路図",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/roppongi_escape_1f.pdf"
+  },
+  {
+   "title": "B1 平面図",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/roppongi_plane_b1f.pdf"
+  },
+  {
+   "title": "B1 天井図",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/roppongi_ceiling_b1f.pdf"
+  },
+  {
+   "title": "B1 床図",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/roppongi_floor_b1f.pdf"
+  },
+  {
+   "title": "B1 イベント電源図",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/roppongi_electric_b1f.pdf"
+  },
+  {
+   "title": "B1 避難経路図",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/roppongi_escape_b1.pdf"
+  },
+  {
+   "title": "資料ダウンロード（公式一覧）",
+   "url": "https://www.bellesalle.co.jp/download/bs_roppongi/"
+  },
+  {
+   "title": "よくあるご質問",
+   "url": "https://www.bellesalle.co.jp/faq/"
+  }
+ ],
+ "checkedAt": "2026-10-30",
+ "lat": 35.662125,
+ "lng": 139.728683,
+ "nearby": {
+  "convenience": [
+   {
+    "name": "ローソン 港六本木通店",
+    "brand": "ローソン",
+    "distanceM": 57,
+    "walkMin": 1,
+    "hours": "24時間営業",
+    "address": "東京都港区六本木7-18",
+    "verified": true,
+    "source": "https://www.areamarker.com/lawson/info/291196",
+    "note": "距離は公式店舗一覧の位置で計算（住所の位置では会場と同じ街区のため）"
+   },
+   {
+    "name": "ファミリーマート 六本木ヒルズ店",
+    "brand": "ファミリーマート",
+    "distanceM": 156,
+    "walkMin": 2,
+    "hours": "6:00-24:00",
+    "address": "東京都港区六本木6-2-31 六本木ヒルズノースタワーB1階",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/20658",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "ローソン EXタワープラス店",
+    "brand": "ローソン",
+    "distanceM": 165,
+    "walkMin": 3,
+    "hours": "24時間営業",
+    "address": "東京都港区西麻布1-2-1",
+    "verified": true,
+    "source": "https://www.areamarker.com/lawson/info/223800",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "アクセア 六本木店",
+    "brand": "アクセア",
+    "distanceM": 244,
+    "walkMin": 4,
+    "hours": "平日8:00〜22:00、土日祝10:00〜19:00",
+    "address": "東京都港区六本木6-1-4 丸正小林ビル1F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/entry.html",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "アクセア 六本木一丁目店",
+    "brand": "アクセア",
+    "distanceM": 968,
+    "walkMin": 13,
+    "hours": "平日9:00〜20:00／土日祝休み",
+    "address": "東京都港区六本木2-3-2 VORT六本木一丁目1F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/entry.html",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Can★Do 麻布十番店",
+    "brand": "キャンドゥ",
+    "distanceM": 857,
+    "walkMin": 11,
+    "hours": "毎日 10:00-21:00",
+    "address": "東京都港区麻布十番2-4-1 ウィン麻布十番ハラビル1階",
+    "verified": true,
+    "source": "https://shopinfo.cando-web.co.jp/detail/shop-1930/",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "Can★Do 城山ヒルズ店",
+    "brand": "キャンドゥ",
+    "distanceM": 1478,
+    "walkMin": 19,
+    "hours": "毎日 9:00-23:00",
+    "address": "東京都港区虎ノ門4-1-17 神谷町プライムプレイスB1階",
+    "verified": true,
+    "source": "https://shopinfo.cando-web.co.jp/detail/shop-1835/",
+    "note": "距離は住所の位置で計算。遠め"
+   }
+  ],
+  "donki": [
+   {
+    "name": "ドン・キホーテ 六本木店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 535,
+    "walkMin": 7,
+    "hours": "24時間営業",
+    "address": "東京都港区六本木3-14-10",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=31",
+    "note": "距離は住所の位置で計算。ドン・キホーテ公式サイトの店舗名は「六本木店」"
+   },
+   {
+    "name": "ピカソ赤坂店（ドン・キホーテ）",
+    "brand": "ドン・キホーテ",
+    "distanceM": 1615,
+    "walkMin": 21,
+    "hours": "7:00-3:00",
+    "address": "東京都港区赤坂3-11-14",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=289",
+    "note": "距離は住所の位置で計算。遠め。ドン・キホーテの別業態（公式サイトの店舗名は「ピカソ赤坂店」）"
+   }
+  ]
+ },
+ "drinkDelivery": {
+  "available": true
+ },
+ "photo": {
+  "src": "/images/venues/bellesalle-roppongi.jpg",
+  "credit": "写真：Conectando",
+  "sourceUrl": null
+ }
+}

@@ -1,0 +1,340 @@
+{
+ "slug": "bellesalle-tokyo-nihonbashi",
+ "name": "Bellesalle Tokyo Nihonbashi",
+ "address": "Tokyo 103-6005 Tokyo Nihombashi Tower B2, 4F and 5F, 2-7-1 Nihonbashi, Chuo-ku, Tokyo",
+ "accessSummary": "Nihombashi Station (Ginza Line, Tozai Line, Asakusa Line) Exit B6: directly connected / Mitsukoshimae Station (Ginza Line, Hanzomon Line) Exit B6: 3 min walk / Tokyo Station (JR lines) Yaesu North Exit: 6 min walk",
+ "hours": "Building entrance opening hours 7:00-22:00 (Event Hall and Conference Room Equipment Lists)",
+ "notice": null,
+ "rooms": [
+  {
+   "name": "B2 Hall - Entire Hall",
+   "note": "Classroom is 2 per desk. Classroom, 3 per desk: 834 seats. Island layout: 780 seats (130 islands). A separate dedicated lobby of 320㎡ is available. The movable partition can be closed at only one location (B2F floor plan)."
+  },
+  {
+   "name": "B2 Hall A",
+   "note": "Classroom is 2 per desk. Classroom, 3 per desk: 312 seats. Island layout: 288 seats (48 islands)."
+  },
+  {
+   "name": "B2 Hall C",
+   "note": "Classroom is 2 per desk. Classroom, 3 per desk: 384 seats. Island layout: 348 seats (58 islands)."
+  },
+  {
+   "name": "B2 Hall A+B",
+   "note": "Classroom is 2 per desk. Classroom, 3 per desk: 384 seats. Island layout: 390 seats (65 islands). HALL B cannot be rented on its own (B2F floor plan)."
+  },
+  {
+   "name": "B2 Hall B+C",
+   "note": "Classroom is 2 per desk. Classroom, 3 per desk: 522 seats. Island layout: 480 seats (80 islands)."
+  },
+  {
+   "name": "B2 Event Hall Waiting Room 1",
+   "note": "Usage fee 0 yen. Sofa set, 1 round table, 2 chairs, 1 hanger rack, 1 wall mirror."
+  },
+  {
+   "name": "B2 Event Hall Waiting Room 2",
+   "note": "Usage fee 0 yen. 2 tables, 8 chairs, 1 hanger rack, 1 wall mirror. Waiting Rooms 2 and 3 can be connected and used together."
+  },
+  {
+   "name": "B2 Event Hall Waiting Room 3",
+   "note": "Usage fee 0 yen. 2 tables, 8 chairs, 1 hanger rack, 1 wall mirror. Waiting Rooms 2 and 3 can be connected and used together."
+  },
+  {
+   "name": "B2 Event Hall Waiting Room 4",
+   "note": "Usage fee 0 yen. 4 tables, 12 chairs, 1 hanger rack, 1 full-length mirror."
+  },
+  {
+   "name": "B2 Event Hall Waiting Room 5",
+   "note": "Usage fee 0 yen. 3 tables, 6 chairs, 1 hanger rack, 1 full-length mirror."
+  },
+  {
+   "name": "5F Room 1",
+   "note": "Classroom is 2 per desk. Classroom, 3 per desk: 24 seats. Island layout: 24 seats (4 islands). T-shaped island layout: 12 seats (2 islands)."
+  },
+  {
+   "name": "5F Room 2",
+   "note": "Classroom is 2 per desk. Classroom, 3 per desk: 54 seats. Island layout: 60 seats (10 islands). T-shaped island layout: 30 seats (5 islands)."
+  },
+  {
+   "name": "5F Room 3",
+   "note": "Classroom is 2 per desk. Classroom, 3 per desk: 108 seats. Island layout: 120 seats (20 islands). T-shaped island layout: 72 seats (12 islands)."
+  },
+  {
+   "name": "5F Room 4",
+   "note": "Classroom is 2 per desk. Classroom, 3 per desk: 36 seats. Island layout: 36 seats (6 islands). T-shaped island layout: 24 seats (4 islands)."
+  },
+  {
+   "name": "5F Room 5",
+   "note": "Classroom is 2 per desk. Classroom, 3 per desk: 132 seats. Island layout: 120 seats (20 islands). T-shaped island layout: 72 seats (12 islands)."
+  },
+  {
+   "name": "5F Room 6",
+   "note": "Classroom is 2 per desk. Classroom, 3 per desk: 12 seats. Island layout: 12 seats (2 islands). T-shaped island layout: 6 seats (1 island)."
+  },
+  {
+   "name": "5F Room 7",
+   "note": "Classroom is 2 per desk. Classroom, 3 per desk: 72 seats. Island layout: 72 seats (12 islands). T-shaped island layout: 36 seats (6 islands)."
+  },
+  {
+   "name": "5F Room 8",
+   "note": "Classroom is 2 per desk. Classroom, 3 per desk: 30 seats. Island layout: 48 seats (8 islands). T-shaped island layout: 18 seats (3 islands)."
+  },
+  {
+   "name": "5F Room 9",
+   "note": "Classroom is 2 per desk. Classroom, 3 per desk: 30 seats. Island layout: 36 seats (6 islands). T-shaped island layout: 18 seats (3 islands)."
+  },
+  {
+   "name": "5F Room 10",
+   "note": "Classroom is 2 per desk. Classroom, 3 per desk: 45 seats. Island layout: 54 seats (9 islands). T-shaped island layout: 12 seats (2 islands)."
+  },
+  {
+   "name": "5F Room 11",
+   "note": "Classroom is 2 per desk. Classroom, 3 per desk: 90 seats. Island layout: 90 seats (15 islands). T-shaped island layout: 72 seats (12 islands)."
+  },
+  {
+   "name": "5F Room 12",
+   "note": "Classroom is 2 per desk. Classroom, 3 per desk: 9 seats. Island layout: 12 seats (2 islands). T-shaped island layout: 12 seats (2 islands). Theater layout is marked \"please consult\" in the official table."
+  },
+  {
+   "name": "5F Room 3+4",
+   "note": "Classroom is 2 per desk. Classroom, 3 per desk: 180 seats. Island layout: 168 seats (28 islands). T-shaped island layout: 120 seats (20 islands). Theater layout is marked \"please consult\" in the official table."
+  },
+  {
+   "name": "5F Room 4+5",
+   "note": "Classroom is 2 per desk. Classroom, 3 per desk: 204 seats. Island layout: 192 seats (32 islands). T-shaped island layout: 120 seats (20 islands). Theater layout is marked \"please consult\" in the official table."
+  },
+  {
+   "name": "5F Room 3+4+5",
+   "note": "Classroom is 2 per desk. Classroom, 3 per desk: 348 seats. Island layout: 312 seats (52 islands). T-shaped island layout: 240 seats (40 islands). Theater layout is marked \"please consult\" in the official table."
+  },
+  {
+   "name": "5F Room 8+9",
+   "note": "Classroom is 2 per desk. Classroom, 3 per desk: 84 seats. Island layout: 96 seats (16 islands). T-shaped island layout: 36 seats (6 islands)."
+  },
+  {
+   "name": "5F Room 10+11",
+   "note": "Classroom is 2 per desk. Classroom, 3 per desk: 153 seats. Island layout: 144 seats (24 islands). T-shaped island layout: 108 seats (18 islands). Theater layout is marked \"please consult\" in the official table."
+  },
+  {
+   "name": "5F Waiting Room 1",
+   "note": "40,700 yen for 4 hours (tax included, regular rate). 4 tables, 12 chairs, 1 hanger rack, 1 full-length mirror, umbrella stand. Classroom, 2 per desk: 8 seats; 3 per desk: 12 seats."
+  },
+  {
+   "name": "5F Waiting Room 2",
+   "note": "19,800 yen for 4 hours (tax included, regular rate). 2 tables, 6 chairs, 1 hanger rack, 1 full-length mirror, umbrella stand. Classroom, 2 per desk: 4 seats; 3 per desk: 6 seats."
+  },
+  {
+   "name": "4F Room A",
+   "note": "Classroom is 2 per desk. Classroom, 3 per desk: 24 seats. Island layout: 24 seats (4 islands). T-shaped island layout: 12 seats (2 islands)."
+  },
+  {
+   "name": "4F Room B",
+   "note": "Classroom is 2 per desk. Classroom, 3 per desk: 54 seats. Island layout: 60 seats (10 islands). T-shaped island layout: 30 seats (5 islands)."
+  },
+  {
+   "name": "4F Room C",
+   "note": "Classroom is 2 per desk. Classroom, 3 per desk: 108 seats. Island layout: 120 seats (20 islands). T-shaped island layout: 72 seats (12 islands)."
+  },
+  {
+   "name": "4F Room D",
+   "note": "Classroom is 2 per desk. Classroom, 3 per desk: 36 seats. Island layout: 36 seats (6 islands). T-shaped island layout: 24 seats (4 islands)."
+  },
+  {
+   "name": "4F Room E",
+   "note": "Classroom is 2 per desk. Classroom, 3 per desk: 132 seats. Island layout: 120 seats (20 islands). T-shaped island layout: 72 seats (12 islands)."
+  },
+  {
+   "name": "4F Room F",
+   "note": "Classroom is 2 per desk. Classroom, 3 per desk: 12 seats. Island layout: 12 seats (2 islands). T-shaped island layout: 6 seats (1 island)."
+  },
+  {
+   "name": "4F Room G",
+   "note": "Classroom is 2 per desk. Classroom, 3 per desk: 72 seats. Island layout: 72 seats (12 islands). T-shaped island layout: 36 seats (6 islands)."
+  },
+  {
+   "name": "4F Room H",
+   "note": "Classroom is 2 per desk. Classroom, 3 per desk: 30 seats. Island layout: 48 seats (8 islands). T-shaped island layout: 18 seats (3 islands)."
+  },
+  {
+   "name": "4F Room I",
+   "note": "Classroom is 2 per desk. Classroom, 3 per desk: 30 seats. Island layout: 36 seats (6 islands). T-shaped island layout: 18 seats (3 islands)."
+  },
+  {
+   "name": "4F Room J",
+   "note": "Classroom is 2 per desk. Classroom, 3 per desk: 144 seats. Island layout: 144 seats (24 islands). T-shaped island layout: 108 seats (18 islands). Theater layout is marked \"please consult\" in the official table."
+  },
+  {
+   "name": "4F Room K",
+   "note": "Classroom is 2 per desk. Classroom, 3 per desk: 36 seats. Island layout: 54 seats (9 islands). T-shaped island layout: 12 seats (2 islands)."
+  },
+  {
+   "name": "4F Room C+D",
+   "note": "Classroom is 2 per desk. Classroom, 3 per desk: 180 seats. Island layout: 168 seats (28 islands). T-shaped island layout: 120 seats (20 islands). Theater layout is marked \"please consult\" in the official table."
+  },
+  {
+   "name": "4F Room D+E",
+   "note": "Classroom is 2 per desk. Classroom, 3 per desk: 204 seats. Island layout: 192 seats (32 islands). T-shaped island layout: 120 seats (20 islands). Theater layout is marked \"please consult\" in the official table."
+  },
+  {
+   "name": "4F Room C+D+E",
+   "note": "Classroom is 2 per desk. Classroom, 3 per desk: 348 seats. Island layout: 312 seats (52 islands). T-shaped island layout: 240 seats (40 islands). Theater layout is marked \"please consult\" in the official table."
+  },
+  {
+   "name": "4F Room H+I",
+   "note": "Classroom is 2 per desk. Classroom, 3 per desk: 84 seats. Island layout: 96 seats (16 islands). T-shaped island layout: 36 seats (6 islands)."
+  },
+  {
+   "name": "4F Room J+K",
+   "note": "Classroom is 2 per desk. Classroom, 3 per desk: 207 seats. Island layout: 198 seats (33 islands). T-shaped island layout: 144 seats (24 islands). Theater layout is marked \"please consult\" in the official table."
+  },
+  {
+   "name": "4F Waiting Room A",
+   "note": "40,700 yen for 4 hours (tax included, regular rate). 4 tables, 12 chairs, 1 hanger rack, 1 full-length mirror, umbrella stand. Classroom, 2 per desk: 8 seats; 3 per desk: 12 seats."
+  },
+  {
+   "name": "4F Waiting Room B",
+   "note": "19,800 yen for 4 hours (tax included, regular rate). 2 tables, 6 chairs, 1 hanger rack, 1 full-length mirror, umbrella stand. Classroom, 2 per desk: 4 seats; 3 per desk: 6 seats."
+  }
+ ],
+ "ops": {
+  "prevDaySetup": "Usage time includes setup and cleanup time (price list). Hall rates are for 12 hours and 24 hours; there is no 8-hour rate. The 24-hour rates (regular rate ①, Mon-Wed, tax included) are 7,337,000 yen for the entire HALL, 3,465,000 yen for HALL A, 4,235,000 yen for HALL C, 4,587,000 yen for HALL A+B and 5,346,000 yen for HALL B+C (updated July 3, 2026). Night-time or 24-hour use may not be available depending on the bookings before and after, so consult in advance. Except for some areas, the venue can be used 24 hours a day, 365 days a year. Advance arrival of packages is in principle designated as arrival on the day before the event, and an advance load-in notice must be submitted at least 1 week before the work date (valuables are not accepted, and the operator is not responsible for damage to packages). For large or numerous packages that were not notified in advance, the venue is treated as rented for a fee as a storage space. (Source: Hall price list updated July 3, 2026; FAQ; Terms of Use 2026ver2 Article 20)",
+  "loadingHours": "If there is load-in or load-out, an advance load-in notice must be submitted at least 1 week before the work date (the loading area cannot be used if it is not submitted). Delivery vehicles for load-in and load-out must enter and leave from the designated place within the usage time, and the venue may adjust load-in times and the like. [Event Hall] There are 4 loading spots on B2F, and the load-in door is a double door 2,650 mm wide x 2,700 mm high. The permitted dimensions of the loading area, according to the Advance Load-in Notice (2025 edition), are 3,400 mm total height x 7,000 mm total length on B2F, and the height changes to 3,100 mm if you go on to B3F. Loading and unloading is in principle limited to 20 minutes. Before work, the person in charge on site completes entry procedures at the Bellesalle reception on the 5F of Tokyo Nihombashi Tower. Receipt of packages arriving in advance is in principle up to 5 boxes. [4F/5F conference rooms] Items are carried from the B3F loading area by the load-in elevator (door 780 mm wide x 2,280 mm high; elevator entrance door 1,200 mm wide x 2,500 mm high; inside the car 1,800 mm wide x 2,700 mm high x 1,500 mm deep; load capacity 1,150 kg). Loading and unloading is limited to 30 minutes (Conference Room Equipment List updated September 11, 2026; the 2025 edition of the Advance Load-in Notice says \"in principle within 20 minutes\"). The permitted dimensions of the loading area are 3,100 mm total height x 7,000 mm total length. The person in charge on site completes entry procedures at the 1F Service Center. Receipt of packages arriving in advance is in principle up to 2 boxes per room. The building entrance is open 7:00-22:00. (Source: Advance Load-in Notice (Event Hall / Conference Rooms), Event Hall Equipment List and Conference Room Equipment List updated September 11, 2026, Terms of Use 2026ver2 Article 16)",
+  "vehicleRules": "The loading area is used only for loading and unloading; if parking is needed, use an outside parking lot. When multiple vehicles are used, they share one vehicle's loading space in staggered turns. Illegal parking, parking outside the designated parking lot, and roadside parking around the building are strictly prohibited. Products, packing materials, decoration materials, trash and the like may not be left in the loading area during the usage period. If delivery vehicle traffic is expected to be congested, traffic staff are placed at the entrance and similar points. The vehicle limits in the equipment lists are, for the Event Hall, 2,300 mm wide x 3,400 mm high x 8,000 mm long and 4.0 t (updated September 11, 2026; the 2025 edition of the Advance Load-in Notice says 7,000 mm total length), and for the conference rooms, 3,100 mm high x 7,000 mm long. There are vehicle drop-off areas on 1F and B3F. (Source: Advance Load-in Notice (Event Hall / Conference Rooms), Event Hall Equipment List and Conference Room Equipment List updated September 11, 2026, Terms of Use 2026ver2 Articles 15 and 16)",
+  "parking": "In the equipment lists, the parking column for the Event Hall reads \"Bellesalle-only: available; hourly parking: none\", and for the 4F/5F conference rooms \"Bellesalle-only: none; hourly parking: none\" (updated September 11, 2026). To find nearby hourly parking lots, search for \"Bellesalle Tokyo Nihonbashi\" on \"s-park\" (Tokyo Metropolitan Road Improvement and Conservation Corporation), which is linked from the official facility page. (Source: Event Hall Equipment List, Conference Room Equipment List, official facility page)",
+  "waitingRooms": "The B2 Event Hall has 5 waiting rooms (Waiting Room 1 30㎡, Waiting Room 2 32㎡, Waiting Room 3 29㎡, Waiting Room 4 19㎡, Waiting Room 5 15㎡). The usage fee is 0 yen, and Waiting Rooms 2 and 3 can be connected and used together. The 4F conference rooms have 2 waiting rooms (A 25㎡, B 13㎡) and the 5F conference rooms have 2 waiting rooms (1 25㎡, 2 13㎡); the 4-hour rate is 40,700 yen for 25㎡ and 19,800 yen for 13㎡ (tax included, regular rate, updated July 3, 2026). (Source: Official facility page, Event Hall Equipment List updated September 11, 2026, Price List)",
+  "catering": "Outside food/drink brought in is allowed. However, if a caterer other than the operator's designated vendors is used, an \"outside food/drink fee\" applies (party use only; bringing in drinks only or boxed meals is not covered). The amount depends on venue area: up to 300㎡ 100,000 yen, up to 600㎡ 200,000 yen, up to 900㎡ 300,000 yen, up to 1,200㎡ 400,000 yen, 1,201㎡ and above 500,000 yen (110,000 to 550,000 yen each, tax included). The Event Hall has 8 water supply and drainage points, so food and drink booths can be set up and food and drink events can be held. Party menus for receptions are introduced on the website of Izumi Restaurant, a Sumitomo Fudosan Group company. (Source: Outside Food/Drink Fee Guide PDF, FAQ, official facility page, Terms of Use 2026ver2 Article 4)",
+  "restaurants": "For receptions, the official website introduces the party menus of Izumi Restaurant, a Sumitomo Fudosan Group company (see the menu section of that company's website for details). (Source: FAQ)"
+ },
+ "documents": [
+  {
+   "title": "Price List (updated July 3, 2026)"
+  },
+  {
+   "title": "Price Calendar (transaction terms valid until the end of January 2027)"
+  },
+  {
+   "title": "Advance Load-in Notice (Event Hall)"
+  },
+  {
+   "title": "Advance Load-in Notice (Conference Rooms)"
+  },
+  {
+   "title": "Terms of Use (2026ver2)"
+  },
+  {
+   "title": "Outside Food/Drink Fee Guide"
+  },
+  {
+   "title": "Declaration and Pledge of Non-Affiliation with Antisocial Forces"
+  },
+  {
+   "title": "Event Hall Equipment and Fixtures List (updated September 11, 2026)"
+  },
+  {
+   "title": "4F/5F Conference Room Equipment and Fixtures List (updated September 11, 2026)"
+  },
+  {
+   "title": "Access Map"
+  },
+  {
+   "title": "B2 Floor Plan"
+  },
+  {
+   "title": "B2 Ceiling Plan"
+  },
+  {
+   "title": "B2 Floor Drawing"
+  },
+  {
+   "title": "B2 Event Power Supply Plan"
+  },
+  {
+   "title": "B2 Evacuation Route Map"
+  },
+  {
+   "title": "4F Floor Plan"
+  },
+  {
+   "title": "4F Ceiling Plan"
+  },
+  {
+   "title": "4F Floor Drawing"
+  },
+  {
+   "title": "4F Evacuation Route Map"
+  },
+  {
+   "title": "5F Floor Plan"
+  },
+  {
+   "title": "5F Ceiling Plan"
+  },
+  {
+   "title": "5F Floor Drawing"
+  },
+  {
+   "title": "5F Evacuation Route Map"
+  },
+  {
+   "title": "Document Downloads (official list)"
+  },
+  {
+   "title": "FAQ"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "Lawson Nihonbashi 2-chome Chuo-dori",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Lawson Nihonbashi 2-chome",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Lawson Yaesu 1-chome",
+    "hours": "7:00-22:00 (Saturday 0:00-18:00; closed on Sundays and holidays; as officially listed)",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "Accea Tokyo Station Yaesu",
+    "hours": "Open 24 hours (cafe use from 22:00 to 6:00 the next day is for verified members only)",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Accea Kayabacho",
+    "hours": "Weekdays 9:00-20:00, Sat 10:00-19:00 / Closed on Sundays and holidays",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "3COINS Yaechika",
+    "hours": "10:00-21:00",
+    "note": "Distance is calculated from the store's official location."
+   },
+   {
+    "name": "Standard Products Yaechika",
+    "hours": "10:00-20:00",
+    "note": "Distance is calculated from the store's official location. A DAISO-group format."
+   }
+  ],
+  "donki": [
+   {
+    "name": "Don Quijote Ginza Main Building (Ginza Nine Building No. 3)",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. Rather far. The store name on the Don Quijote official website is \"銀座本館\" (Ginza Main Building)."
+   },
+   {
+    "name": "Don Quijote Akihabara",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. Rather far. The store name on the Don Quijote official website is \"秋葉原店\" (Akihabara store)."
+   }
+  ]
+ },
+ "photoCredit": "© 挑戦発見 / CC BY-SA 4.0 · Wikimedia Commons"
+}

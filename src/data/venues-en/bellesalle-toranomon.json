@@ -1,0 +1,129 @@
+{
+ "slug": "bellesalle-toranomon",
+ "name": "Bellesalle Toranomon",
+ "address": "Tokyo 105-0001 Sumitomo Fudosan Toranomon Tower (former JT Building) 2F, 2-2-1 Toranomon, Minato-ku",
+ "accessSummary": "Toranomon Station (Ginza Line) Exit 3: 4 min walk / Toranomon Hills Station (Hibiya Line) Exit A1 or A2: 5 min walk / Tameike-Sanno Station (Ginza Line, Namboku Line) Exit 14: 4 min walk, Exit 9: 5 min walk / Kasumigaseki Station (Chiyoda Line, Marunouchi Line, Hibiya Line) Exit A13: 8 min walk",
+ "hours": "Building entrance open 7:00-23:00 (Event Hall Equipment and Facilities List, updated September 11, 2026)",
+ "notice": null,
+ "rooms": [
+  {
+   "name": "2F HALL",
+   "note": "Classroom is 2 per desk. Classroom, 3 per desk: 192 seats. Island layout: 168 seats (28 islands). With the lifting stage in use: classroom, 2 per desk: 112 seats; classroom, 3 per desk: 168 seats; theater: 255 seats; island layout: 144 seats (24 islands); standing: 180 people. Foyer (lobby) 211㎡, permanent cloakroom (official facility page, price list updated July 3, 2026)."
+  },
+  {
+   "name": "Waiting Room 1",
+   "note": "Usage fee from 0 yen (official facility page). Sofa (seats 3), large and small low tables, 4 dressing tables, changing room, washbasin, 1 LAN jack. Cannot be used on its own."
+  },
+  {
+   "name": "Waiting Room 2",
+   "note": "Usage fee from 0 yen (official facility page). Sofa (seats 1), small low table, TV monitor, 4 dressing tables, full-length mirror, washbasin, 1 LAN jack. Cannot be used on its own."
+  },
+  {
+   "name": "Waiting Room 3",
+   "note": "Usage fee from 0 yen (official facility page). 4 desks, 12 chairs, clothes rack, 1 LAN jack. Cannot be used on its own."
+  }
+ ],
+ "ops": {
+  "prevDaySetup": "Usage time includes setup and cleanup time. The hall is priced for 8-hour and 12-hour use; no 24-hour rate is set (the 24-hour column of the price list shows \"-\"). Night-time use may not be available depending on the bookings before and after, so consult in advance. Extensions before or after the booked time on the day of use incur an extension fee: under Regular Rate (1) (Mon-Wed), 30 minutes from 7:00 to 22:00 is 45,000 yen (49,500 yen tax included), and 22:00 to 7:00 the next day is 51,000 yen (56,100 yen tax included). Use outside business hours is a matter for separate consultation. Advance delivery of packages is in principle limited to arrival on the day before the event, and an advance load-in notice must be submitted at least 1 week before the work date (valuables are not accepted, and the operator is not liable for damage to packages). Packages received in advance are in principle limited to 5 boxes, received at the hall. Large quantities or large items not notified in advance are treated as renting the venue as a storage space, for a fee. (Source: Price List updated July 3, 2026; Advance Load-in Notice; FAQ; Terms of Use 2026ver2 Article 20)",
+  "loadingHours": "If there is load-in or load-out, an advance load-in notice must be submitted at least 1 week before the work date (the loading area cannot be used if it is not submitted). Delivery vehicles for load-in and load-out must enter and leave within the usage time, and the venue may adjust the timing. Loading and unloading work is in principle limited to 20 minutes. The load-in entrance is the loading area on B1F, which is shared with the 1F shops and cannot be used exclusively. The permitted dimensions of the loading area are 3,100 mm high x 8,000 mm long x 2,250 mm wide. The load-in door is 3,000 mm high x 2,300 mm wide. The load-in/out elevator has a door 3,000 mm wide x 3,100 mm high, a car interior 3,200 mm wide x 3,100 mm high x 2,100 mm deep, and a load capacity of 2,500 kg. The on-site manager must complete entry procedures before work and exit procedures after work at the Bellesalle reception on the 2F of Sumitomo Fudosan Toranomon Tower. The building entrance is open 7:00-23:00. (Source: Advance Load-in Notice; Event Hall Equipment and Facilities List updated September 11, 2026; Terms of Use 2026ver2 Article 16)",
+  "vehicleRules": "The loading area is used only for loading and unloading; if parking is needed, use an outside parking lot. When multiple vehicles are used, they share one vehicle's loading space in staggered turns. Illegal parking, parking outside designated parking lots, and roadside parking around the building are strictly prohibited. Products, packing materials, decoration materials, trash and the like may not be left in the loading area during the usage period. If delivery vehicle traffic is expected to be congested, traffic staff are placed at the entrance and similar points. The vehicle limits in the equipment list are 3,100 mm in height x 8,000 mm in length, 2.0 t in weight. (Source: Advance Load-in Notice; Terms of Use 2026ver2 Articles 15 and 16; Event Hall Equipment and Facilities List updated September 11, 2026)",
+  "parking": "In the parking column of the equipment list, Bellesalle-exclusive parking is \"none\", a vehicle drop-off area is \"none\", and hourly parking is \"available\". The hourly parking has 60 spaces, with size limits of 1,550 mm high x 2,050 mm wide x 5,700 mm deep and 2,300 kg, and is mechanical. The FAQ also states that the Toranomon building has an hourly parking lot with a limited number of spaces. To find nearby hourly parking lots, search for \"Bellesalle Toranomon\" on \"s-park\" (Tokyo Metropolitan Road Improvement and Conservation Corporation), which is linked from the official facility page. (Source: Event Hall Equipment and Facilities List updated September 11, 2026; FAQ; official facility page)",
+  "waitingRooms": "There are 3 waiting rooms: Waiting Room 1 (18㎡), Waiting Room 2 (16㎡) and Waiting Room 3 (14㎡). The usage fee is from 0 yen. Waiting rooms cannot be used on their own. Waiting Rooms 1 and 2 have 4 dressing tables, a washbasin and a LAN jack, and Waiting Room 1 has a changing room. The restrooms for the waiting rooms are men's (2 standing, 1 seated) and women's (1 seated). Speakers can move from the waiting room to the stage on a route that does not cross paths with attendees (official facility page). (Source: Event Hall Equipment and Facilities List updated September 11, 2026; official facility page)",
+  "catering": "Outside food/drink brought in is allowed. However, if a caterer other than the operator's designated vendors is used, an \"outside food/drink fee\" applies (party use only; bringing in drinks only or boxed meals is not covered). The amount depends on venue area: up to 300㎡ 100,000 yen, up to 600㎡ 200,000 yen, up to 900㎡ 300,000 yen, up to 1,200㎡ 400,000 yen, 1,201㎡ and above 500,000 yen (110,000 to 550,000 yen each, tax included). The HALL (298㎡) falls in the up-to-300㎡ category. There is a separate \"outside vendor fee\" when a vendor other than the operator's designated vendors is used for setup/construction or rental items: for a venue area of up to 450㎡, 50,000 yen (55,000 yen tax included) for bringing in outside rental items and 100,000 yen (110,000 yen tax included) for setup/construction. Eating and drinking (including alcohol) outside the places the operator has approved in advance is prohibited. (Source: Outside Food/Drink Fee Guide; FAQ; Terms of Use 2026ver2 Articles 4 and 9)",
+  "restaurants": "The official facility page lists \"parties and receptions\" among the features of the HALL. Party menus suited to receptions are introduced on the website of Izumi Restaurant, a Sumitomo Fudosan Group company (menu section). (Source: Official facility page, HALL; FAQ)"
+ },
+ "documents": [
+  {
+   "title": "Price List (updated July 3, 2026)"
+  },
+  {
+   "title": "Price Calendar (terms valid until the end of January 2027)"
+  },
+  {
+   "title": "Event Hall Equipment (Facility Overview and Equipment List) (updated September 11, 2026)"
+  },
+  {
+   "title": "Advance Load-in Notice (Event Hall)"
+  },
+  {
+   "title": "Terms of Use (2026ver2, prepared July 13, 2026)"
+  },
+  {
+   "title": "Outside Food/Drink Fee Guide"
+  },
+  {
+   "title": "Floor Plan (2F, scale 1:200)"
+  },
+  {
+   "title": "Ceiling Plan"
+  },
+  {
+   "title": "Floor Diagram"
+  },
+  {
+   "title": "Event Power Supply Plan"
+  },
+  {
+   "title": "Evacuation Route Plan"
+  },
+  {
+   "title": "Access Map (note: photographed February 2021)"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "Natural Lawson Toranomon Hospital 2F",
+    "hours": "6:30-20:00",
+    "note": "Distance is calculated from the position in the official store list (the address position falls in the same city block as the venue)."
+   },
+   {
+    "name": "FamilyMart Toranomon Arcea Tower",
+    "hours": "7:00-23:00",
+    "note": "Distance is calculated from the position in the official store list (the address position falls in the same city block as the venue)."
+   },
+   {
+    "name": "Lawson Toranomon 2-chome",
+    "hours": "7:30-21:00",
+    "note": "Distance is calculated from the position in the official store list (the address position falls in the same city block as the venue)."
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "Accea Tameike-Sanno",
+    "hours": "Weekdays 8:00-22:00 / Closed Sat, Sun & holidays",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Kinko's Toranomon",
+    "hours": "Weekdays 9:00-20:00 / Closed Sat, Sun & holidays",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Can Do Shiroyama Hills",
+    "hours": "Daily 9:00-23:00",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Can Do Akasaka Hitotsugi-dori",
+    "hours": "Mon-Fri 9:00-21:00 / Sat, Sun & holidays 9:00-20:00",
+    "note": "Distance is calculated from the address location. Rather far."
+   }
+  ],
+  "donki": [
+   {
+    "name": "Picasso Akasaka (Don Quijote)",
+    "hours": "7:00-3:00",
+    "note": "Distance is calculated from the address location. A different store format from Don Quijote (the official site lists the store name as \"Picasso Akasaka\")."
+   },
+   {
+    "name": "Don Quijote Roppongi",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. Rather far. The Don Quijote official site lists the store name as \"Roppongi\"."
+   }
+  ]
+ },
+ "photoCredit": "© Rs1421 / CC BY-SA 3.0 · Wikimedia Commons"
+}

@@ -1,0 +1,141 @@
+{
+ "slug": "bellesalle-izumi-garden-gallery",
+ "name": "Izumi Garden Gallery",
+ "address": "Tokyo 106-0032 Izumi Garden Gallery, 1-5-2 Roppongi, Minato-ku, Tokyo",
+ "accessSummary": "Roppongi-itchome Station (Namboku Line) North Ticket Gate: 3 min walk / Kamiyacho Station (Hibiya Line) Exit 2: 7 min walk / Tameike-sanno Station (Ginza Line, Namboku Line) Exit 13: 7 min walk / Roppongi Station (Oedo Line, Hibiya Line) Exit 5: 11 min walk",
+ "hours": "Building entrance opening hours for Izumi Garden Tower: 7:00-22:00 (B1F hall equipment list, updated September 11, 2026)",
+ "notice": null,
+ "rooms": [
+  {
+   "name": "B1 Gallery - Entire Gallery",
+   "note": "Classroom is 2 per desk. Classroom, 3 per desk: 540 seats. Island layout: 432 seats (72 islands). Ceiling height is 5.4 m in some areas. Reservations are accepted from 2 years in advance. Minimum usage time is 8 or 12 hours."
+  },
+  {
+   "name": "B1 Gallery A",
+   "note": "Classroom is 2 per desk. Classroom, 3 per desk: 360 seats. Island layout: 288 seats (48 islands). Ceiling height is 5.4 m in some areas. Reservations are accepted from 3 months in advance."
+  },
+  {
+   "name": "B1 Gallery B",
+   "note": "Classroom is 2 per desk. Classroom, 3 per desk: 180 seats. Island layout: 144 seats (24 islands). Ceiling height is 5.4 m in some areas. Reservations are accepted from 1 month in advance."
+  },
+  {
+   "name": "B1 Waiting Room 1",
+   "note": "Usage fee 0 yen. 1 table, 4 chairs, hanger rack, full-length mirror, umbrella stand. Waiting rooms cannot be used on their own."
+  },
+  {
+   "name": "B1 Waiting Room 2",
+   "note": "Usage fee 0 yen. 2 tables, 8 chairs, hanger rack, full-length mirror, umbrella stand (the reception set cannot be moved). Waiting rooms cannot be used on their own."
+  }
+ ],
+ "ops": {
+  "prevDaySetup": "Usage time includes setup and cleanup time (price list). The hall rates are set for 8 hours and 12 hours; the 24-hour column is \"-\". Night-time or 24-hour use may not be available depending on the bookings before and after, so consult in advance. Advance arrival of packages is in principle designated for the day before the event, and an advance load-in notice must be submitted at least 1 week before the load-in date (valuables are not accepted; no responsibility is taken for damage to packages). Large quantities or large items not notified in advance are treated as renting the venue as a storage space for a fee. (Source: Hall price list, updated July 3, 2026; FAQ; Terms of Use 2026ver2 Article 20)",
+  "loadingHours": "If there is load-in or load-out, submit the advance load-in notice at least 1 week before the work date (the loading area cannot be used if it is not submitted). Delivery vehicles for load-in and load-out must enter and leave from the designated place within the usage time, and the venue may adjust load-in times and the like. The load-in location is the B1F loading area, and the load-in door is 2,400 mm wide x 2,380 mm high. The permitted dimensions of the loading area are 3,200 mm total height x 6,000 mm total length. The on-site manager completes entry procedures at the Service Center on the 4F of Izumi Garden Tower before starting work. The building entrance is open 7:00-22:00. In principle, up to 5 boxes of advance-arrival packages can be received for the hall. (Source: Advance Load-in Notice (Event Hall), B1F hall equipment list updated September 11, 2026, Terms of Use 2026ver2 Article 16)",
+  "vehicleRules": "The loading area is used only for loading and unloading; if parking is needed, use an outside parking lot. When multiple vehicles are used, they share one vehicle's loading space in staggered turns. Illegal parking, parking outside the designated lot, and roadside parking around the building are strictly prohibited. The loading area has space for 5 vehicles on B1F (including an emergency vehicle space). Vehicle limits are 3,200 mm height x 6,000 mm length and a weight of 4.0 t or less, and protective covering is required (check with the front staff for details). Products, packing materials, decoration materials, trash and the like may not be left in the loading area during the usage period, and the doors used for load-in and load-out must be kept closed at all times. If delivery vehicle traffic is expected to be congested, traffic staff are placed at the entrances and elsewhere. (Source: Advance Load-in Notice, B1F hall equipment list updated September 11, 2026, Terms of Use 2026ver2 Articles 15 and 16)",
+  "parking": "The building that houses the facility has an hourly parking lot for visitors, but the number of spaces is limited. In the equipment list, parking dedicated to Bellesalle is \"none\" and a vehicle drop-off area is also \"none\". Tower parking rates: 300 yen per 30 min (then 100 yen per 10 min), maximum 3,000 yen from 9:00 to 18:00, and 100 yen per hour from 24:00 to 7:00 the next day. Vehicle size limits: weight 2.3 t, length 5,300 mm, width 2,050 mm, outer tire width 1,920 mm, height 2,050 mm (high-roof vehicles) / 1,550 mm (standard cars). To find nearby hourly parking lots, search for \"Izumi Garden Gallery\" on \"s-park\" (Tokyo Metropolitan Road Improvement and Conservation Corporation), which is linked from the official facility page. (Source: B1F hall equipment list, updated September 11, 2026; FAQ; official facility page)",
+  "waitingRooms": "There are 2 waiting rooms on B1F (Waiting Room 1: 12㎡, Waiting Room 2: 17㎡). Both have a usage fee of 0 yen. Room 1 has 1 table and 4 chairs, Room 2 has 2 tables and 8 chairs, and both have a hanger rack, full-length mirror and umbrella stand (the reception set in Room 2 cannot be moved). Waiting rooms cannot be used on their own. (Source: B1F hall equipment list, updated September 11, 2026; official facility page)",
+  "catering": "Outside food/drink brought in is allowed. However, if a caterer other than the operator's designated vendors is used, an \"outside food/drink fee\" applies (party use only; bringing in drinks only or boxed meals is not covered). The amount depends on venue area: up to 300㎡ 100,000 yen, up to 600㎡ 200,000 yen, up to 900㎡ 300,000 yen, up to 1,200㎡ 400,000 yen, 1,201㎡ and above 500,000 yen (110,000 to 550,000 yen each, tax included). Party menus for receptions are introduced on the website of Izumi Restaurant, a Sumitomo Fudosan Group company. (Source: Outside Food/Drink Fee Guide PDF, FAQ, Terms of Use 2026ver2 Article 4)"
+ },
+ "documents": [
+  {
+   "title": "Price List (updated July 3, 2026)"
+  },
+  {
+   "title": "Price Calendar (terms valid until the end of January 2027)"
+  },
+  {
+   "title": "Advance Load-in Notice (Event Hall)"
+  },
+  {
+   "title": "Terms of Use (2026ver2)"
+  },
+  {
+   "title": "Outside Food/Drink Fee Guide"
+  },
+  {
+   "title": "Declaration and Pledge of Non-Affiliation with Antisocial Forces"
+  },
+  {
+   "title": "B1F Hall Facility Overview and Equipment List (updated September 11, 2026)"
+  },
+  {
+   "title": "Access Map"
+  },
+  {
+   "title": "B1F Floor Plan"
+  },
+  {
+   "title": "B1F Ceiling Plan"
+  },
+  {
+   "title": "B1F Flooring Plan"
+  },
+  {
+   "title": "B1F Event Power Supply Plan"
+  },
+  {
+   "title": "B1F Evacuation Route Map"
+  },
+  {
+   "title": "Document Downloads (official list)"
+  },
+  {
+   "title": "FAQ"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "FamilyMart Sengokuyama Mori Tower",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "FamilyMart Roppongi-itchome",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "FamilyMart Kamiyacho MT Building",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "Accea Roppongi-itchome",
+    "hours": "Weekdays 9:00-20:00 / Sat, Sun & holidays closed",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Accea Kamiyacho",
+    "hours": "Weekdays 9:00-20:00 / Sat, Sun & holidays closed",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Can Do Shiroyama Hills",
+    "hours": "Daily 9:00-23:00",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Can Do Azabu-Juban",
+    "hours": "Daily 10:00-21:00",
+    "note": "Distance is calculated from the address location. Rather far."
+   }
+  ],
+  "donki": [
+   {
+    "name": "Don Quijote Roppongi",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. The official Don Quijote site lists the store name as \"Roppongi\"."
+   },
+   {
+    "name": "Picasso Akasaka (Don Quijote)",
+    "hours": "7:00-3:00",
+    "note": "Distance is calculated from the address location. Rather far. A different Don Quijote store format (the official site lists the store name as \"Picasso Akasaka\")."
+   }
+  ]
+ },
+ "photoCredit": "© Jun Seita / CC BY 2.0 · Wikimedia Commons"
+}

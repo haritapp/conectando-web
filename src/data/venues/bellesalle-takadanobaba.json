@@ -1,0 +1,381 @@
+{
+ "slug": "bellesalle-takadanobaba",
+ "nameJa": "ベルサール高田馬場",
+ "nameEn": "",
+ "type": "exhibition",
+ "area": "shinjuku-venues",
+ "address": "〒169-0072 東京都新宿区大久保3-8-2 住友不動産新宿ガーデンタワーB2・1F",
+ "officialUrl": "https://www.bellesalle.co.jp/shisetsu/shinjuku/bs_takadanobaba/",
+ "organizerUrl": "https://www.bellesalle.co.jp/download/bs_takadanobaba/",
+ "bizintokyoSlug": "bellesalle-takadanobaba",
+ "accessSummary": "高田馬場駅（JR線）戸山口 徒歩4分／高田馬場駅（西武新宿線）戸山口 徒歩5分／高田馬場駅（東西線）3番出口 徒歩6分／西早稲田駅（副都心線）2番出口 徒歩7分",
+ "notice": null,
+ "hours": "ビルエントランス開放時間 平日7:00〜21:00／土・日・祝7:00〜19:30（イベントホール・会議室設備表）",
+ "rooms": [
+  {
+   "name": "B2 HALL 全体",
+   "areaM2": 2366,
+   "ceilingM": 6.0,
+   "theater": 2080,
+   "school": 1000,
+   "ushape": null,
+   "standing": 1400,
+   "banquet": null,
+   "note": "スクールは2名掛け。スクール3名掛け 1500席。島型 1260席（210島）。T字島型 912席（152島）。B2のロビー812㎡、1Fエントランスロビー426㎡が別にある（B2F・1F平面図）"
+  },
+  {
+   "name": "B2 HALL A",
+   "areaM2": 1176,
+   "ceilingM": 6.0,
+   "theater": 910,
+   "school": 500,
+   "ushape": null,
+   "standing": 700,
+   "banquet": null,
+   "note": "スクールは2名掛け。スクール3名掛け 750席。島型 540席（90島）。T字島型 432席（72島）"
+  },
+  {
+   "name": "B2 HALL B",
+   "areaM2": 1190,
+   "ceilingM": 6.0,
+   "theater": 910,
+   "school": 500,
+   "ushape": null,
+   "standing": 700,
+   "banquet": null,
+   "note": "スクールは2名掛け。スクール3名掛け 750席。島型 540席（90島）。T字島型 432席（72島）"
+  },
+  {
+   "name": "B2 Room 1",
+   "areaM2": 49,
+   "ceilingM": 3.5,
+   "theater": 32,
+   "school": 12,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "スクールは2名掛け。スクール3名掛け 18席。島型 24席（4島）。T字島型 24席（4島）。ホール併用予約（料金表）"
+  },
+  {
+   "name": "B2 Room 2",
+   "areaM2": 44,
+   "ceilingM": 3.5,
+   "theater": 32,
+   "school": 12,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "スクールは2名掛け。スクール3名掛け 18席。島型 24席（4島）。T字島型 24席（4島）。ホール併用予約（料金表）"
+  },
+  {
+   "name": "B2 Room 3",
+   "areaM2": 66,
+   "ceilingM": 3.5,
+   "theater": 48,
+   "school": 24,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "スクールは2名掛け。スクール3名掛け 36席。島型 36席（6島）。T字島型 36席（6島）。ホール併用予約（料金表）"
+  },
+  {
+   "name": "B2 楽屋A",
+   "areaM2": 41,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "使用料0円。テーブル2・イス8・化粧台8・ハンガーラック・冷蔵庫・傘立て・給湯スペース・専用トイレ"
+  },
+  {
+   "name": "B2 楽屋B",
+   "areaM2": 38,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "使用料0円。テーブル1・イス4・化粧台7・ハンガーラック・冷蔵庫・傘立て・給湯スペース・専用トイレ"
+  },
+  {
+   "name": "B2 控室A",
+   "areaM2": 30,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "使用料0円。テーブル1・イス4・ハンガーラック・姿見・冷蔵庫・傘立て・専用トイレ"
+  },
+  {
+   "name": "B2 控室B",
+   "areaM2": 23,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "使用料0円。テーブル1・イス4・ハンガーラック・姿見・冷蔵庫・傘立て・専用トイレ"
+  },
+  {
+   "name": "1F 会議室1",
+   "areaM2": 170,
+   "ceilingM": 3.0,
+   "theater": 135,
+   "school": 64,
+   "ushape": 54,
+   "standing": null,
+   "banquet": null,
+   "note": "スクールは2名掛け。スクール3名掛け 96席。島型 96席（16島）。T字島型 54席（9島）"
+  },
+  {
+   "name": "1F 会議室2",
+   "areaM2": 89,
+   "ceilingM": 3.0,
+   "theater": 56,
+   "school": 28,
+   "ushape": 36,
+   "standing": null,
+   "banquet": null,
+   "note": "スクールは2名掛け。スクール3名掛け 42席。島型 36席（6島）。T字島型 24席（4島）"
+  },
+  {
+   "name": "1F 会議室1+2",
+   "areaM2": 260,
+   "ceilingM": 3.0,
+   "theater": 240,
+   "school": 120,
+   "ushape": 78,
+   "standing": null,
+   "banquet": null,
+   "note": "スクールは2名掛け。スクール3名掛け 180席。島型 144席（24島）。T字島型 90席（15島）"
+  }
+ ],
+ "roomsSource": "https://www.bellesalle.co.jp/wp-content/uploads/takadanobaba_price.pdf",
+ "ops": {
+  "prevDaySetup": {
+   "text": "使用時間には準備・後片付けの時間も含まれる（料金表）。ホールは8時間・12時間・24時間の料金があり、24時間の料金（通常料金①・月〜水、税込）は HALL 全体 8,745,000円、HALL A 5,258,000円、HALL B 4,433,000円（2026/7/3更新）。夜間利用や24時間利用は前後の予約状況で使えない場合があるため事前に相談する。会場は一部を除き365日24時間利用できる。荷物の事前到着は開催日の前日着の指定が原則で、事前搬入届を作業日の1週間前までに出す（貴重品は不可、荷物の破損の責任は負わない）。事前に申し出のない多量・大きな荷物は、保管場所として会場を有料で借り上げる扱いになる。（出典：ホール料金表 2026/7/3更新、よくあるご質問、使用規約 2026ver2 第20条）",
+   "source": "https://www.bellesalle.co.jp/wp-content/uploads/takadanobaba_price.pdf"
+  },
+  "loadingHours": {
+   "text": "搬出入がある場合は事前搬入届を作業日の1週間前までに提出する（未提出だと荷捌き場は使えない）。搬入・搬出車の出入りは使用時間内に所定の場所から行い、搬入時間などは会場側が調整することがある。イベントホールの荷捌きはB2に7箇所（荷捌き番号No.5〜11）で、4t車が搬入口に直付けできる。搬入扉は二重扉で幅2,830×高3,450mm、搬入用EVは入口扉 幅850×高2,080mm、かご内 幅1,600×高2,000×奥行2,300mm、積載荷重1,000kg。荷捌き場の許容寸法は全高3,600×全長9,000mm（4tロング車以下）。1F会議室は路肩での荷下ろしで、搬入扉は高2,350×幅1,730mm。現場責任者は作業前にB2Fのベルサール受付で入館手続きをする。ビルエントランスの開放時間は平日7:00〜21:00、土・日・祝7:00〜19:30。事前到着荷物の受取は原則ホール5箱・各ルーム2箱まで。（出典：事前搬入届、イベントホール設備表 2026/9/30更新、1F会議室設備表 2026/9/8更新、公式施設ページ、使用規約 2026ver2 第16条）",
+   "source": "https://www.bellesalle.co.jp/wp-content/uploads/takadanobaba_jizen.pdf"
+  },
+  "vehicleRules": {
+   "text": "荷捌き所は荷物の積み下ろしのみに使い、駐車が必要なときは外の駐車場を使う。車両を複数台使うときは1台分の荷捌場を時間差で使う。違法駐車、指定駐車場以外、ビル廻りの路上駐車は厳禁。使用期間中の荷捌き場には商品・梱包材・装飾資材・ゴミなどを置けない。搬入出車両が混雑しそうなときは出入口などに整理員を置く。設備表の車両制限は、イベントホールが高さ3,600×長さ9,000×幅2,450mm・重4.0t（ロング以下）、1F会議室が2t車まで。イベントホール使用時に混雑したときは、会場前交差点に交通誘導員を置くよう使用規約で依頼されている。（出典：事前搬入届、イベントホール設備表 2026/9/30更新、1F会議室設備表 2026/9/8更新、使用規約 2026ver2 第15条・第16条・第21条）",
+   "source": "https://www.bellesalle.co.jp/wp-content/uploads/takadanobaba_jizen.pdf"
+  },
+  "parking": {
+   "text": "設備表の駐車場欄は、イベントホール・1F会議室とも、ベルサール専用・時間貸し・車寄せのいずれも「無」。近隣の時間貸し駐車場は、公式施設ページのリンク先「s-park」（公財 東京都道路整備保全公社）で「ベルサール高田馬場」を検索して探す。（出典：公式施設ページ、イベントホール設備表 2026/9/30更新、1F会議室設備表 2026/9/8更新）",
+   "source": "https://www.bellesalle.co.jp/shisetsu/shinjuku/bs_takadanobaba/"
+  },
+  "waitingRooms": {
+   "text": "B2イベントホールに楽屋2室・控室2室（楽屋A 41㎡・楽屋B 38㎡・控室A 30㎡・控室B 23㎡）。いずれも使用料0円で、専用トイレと冷蔵庫がある。楽屋Aは化粧台8、楽屋Bは化粧台7、楽屋A・Bには給湯スペースもある。1F会議室の控室欄は「無」。（出典：公式施設ページ、イベントホール設備表 2026/9/30更新、1F会議室設備表 2026/9/8更新）",
+   "source": "https://www.bellesalle.co.jp/shisetsu/shinjuku/bs_takadanobaba/"
+  },
+  "catering": {
+   "text": "飲食物の持込は可能。ただし飲食の手配に当社指定業者以外を使う場合は「飲食持込手数料」がかかる（パーティー利用時のみ。飲料のみ・弁当の持込は対象外）。金額は会場面積別で、〜300㎡ 100,000円、〜600㎡ 200,000円、〜900㎡ 300,000円、〜1,200㎡ 400,000円、1,201㎡〜 500,000円（税込 各110,000〜550,000円）。イベントホールには給排水設備があり、飲食系イベントや来賓のもてなしに使える。懇親会向けのパーティーメニューは住友不動産グループ泉レストランのサイトで案内されている。（出典：持込料のご案内PDF、よくあるご質問、公式施設ページ、使用規約 2026ver2 第4条）",
+   "source": "https://www.bellesalle.co.jp/wp-content/uploads/mochikomi_price.pdf"
+  },
+  "restaurants": {
+   "text": "公式サイトが懇親会向けに案内しているのは、住友不動産グループ泉レストランのパーティーメニュー（詳細は同社サイトのメニュー欄）。（出典：よくあるご質問）",
+   "source": "https://www.bellesalle.co.jp/faq/"
+  }
+ },
+ "documents": [
+  {
+   "title": "利用料金一覧表（2026/7/3更新）",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/takadanobaba_price.pdf"
+  },
+  {
+   "title": "料金カレンダー（取引条件有効期限 2027年1月末日）",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/eventhall_calender1.pdf"
+  },
+  {
+   "title": "事前搬入届（イベントホール・貸会議室）",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/takadanobaba_jizen.pdf"
+  },
+  {
+   "title": "使用規約（2026ver2）",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/kiyaku.pdf"
+  },
+  {
+   "title": "持込料のご案内",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/mochikomi_price.pdf"
+  },
+  {
+   "title": "反社会的勢力でないことの表明・確約書",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/bellesalle_bouhai.pdf"
+  },
+  {
+   "title": "イベントホール 設備・備品一覧（2026/9/30更新）",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/takadanobaba_hall_b.pdf"
+  },
+  {
+   "title": "1F会議室 設備・備品一覧（2026/9/8更新）",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/takadanobaba_roombihin.pdf"
+  },
+  {
+   "title": "アクセスMAP",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/access_takadanobaba.pdf"
+  },
+  {
+   "title": "B2 平面図",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/takadanobaba_plane_b2f.pdf"
+  },
+  {
+   "title": "B2 天井図",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/takadanobaba_ceiling_b2f.pdf"
+  },
+  {
+   "title": "B2 床図",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/takadanobaba_floor_b2f.pdf"
+  },
+  {
+   "title": "B2 イベント電源図",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/takadanobaba_electric_b2f.pdf"
+  },
+  {
+   "title": "B2 避難経路図",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/takadanobaba_escape_b2.pdf"
+  },
+  {
+   "title": "1F 平面図",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/takadanobaba_plane_1f.pdf"
+  },
+  {
+   "title": "1F 天井図",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/takadanobaba_ceiling_1f.pdf"
+  },
+  {
+   "title": "1F 床図",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/takadanobaba_floor_1f.pdf"
+  },
+  {
+   "title": "1F 避難経路図",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/takadanobaba_escape_1f.pdf"
+  },
+  {
+   "title": "資料ダウンロード（公式一覧）",
+   "url": "https://www.bellesalle.co.jp/download/bs_takadanobaba/"
+  },
+  {
+   "title": "よくあるご質問",
+   "url": "https://www.bellesalle.co.jp/faq/"
+  }
+ ],
+ "checkedAt": "2026-10-30",
+ "lat": 35.708679,
+ "lng": 139.703094,
+ "nearby": {
+  "convenience": [
+   {
+    "name": "セブン-イレブン 新宿高田馬場4丁目南店",
+    "brand": "セブン-イレブン",
+    "distanceM": 188,
+    "walkMin": 3,
+    "hours": "24時間営業",
+    "address": "東京都新宿区高田馬場4-1-7",
+    "verified": true,
+    "source": "https://seven-eleven.areamarker.com/711map/info/409841",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "セブン-イレブン 新宿高田馬場1の南店",
+    "brand": "セブン-イレブン",
+    "distanceM": 214,
+    "walkMin": 3,
+    "hours": "24時間営業",
+    "address": "東京都新宿区高田馬場1-22-5",
+    "verified": true,
+    "source": "https://seven-eleven.areamarker.com/711map/info/127686",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "セブン-イレブン 高田馬場南口店",
+    "brand": "セブン-イレブン",
+    "distanceM": 298,
+    "walkMin": 4,
+    "hours": "24時間営業",
+    "address": "東京都新宿区高田馬場1-33-6",
+    "verified": true,
+    "source": "https://seven-eleven.areamarker.com/711map/info/346231",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "アクセア 高田馬場店",
+    "brand": "アクセア",
+    "distanceM": 579,
+    "walkMin": 8,
+    "hours": "平日24時間営業（月曜朝8時から土曜夜19時まで休まず営業）／土～19:00、日祝10:00～19:00",
+    "address": "東京都新宿区高田馬場2-8-6 エコースポーツビル1F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/entry.html",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "DAISO 高田馬場店",
+    "brand": "ダイソー",
+    "distanceM": 311,
+    "walkMin": 4,
+    "hours": "9:00-22:00",
+    "address": "東京都新宿区高田馬場1-33-13 千年ビル 地下1階",
+    "verified": true,
+    "source": "https://www.daiso-sangyo.co.jp/shop/detail/002223",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "Seria ピーコックストア高田馬場店",
+    "brand": "セリア",
+    "distanceM": 385,
+    "walkMin": 5,
+    "hours": "毎日 10:00-21:00",
+    "address": "東京都新宿区高田馬場1-28-7 ピーコックストア B1F",
+    "verified": true,
+    "source": "https://shop.seria-group.com/seria/info/000002714",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "donki": [
+   {
+    "name": "ドン・キホーテ 高田馬場駅前店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 494,
+    "walkMin": 7,
+    "hours": "24時間営業",
+    "address": "東京都新宿区高田馬場1-26-5",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=276",
+    "note": "距離は住所の位置で計算。ドン・キホーテ公式サイトの店舗名は「高田馬場駅前店」"
+   },
+   {
+    "name": "ドン・キホーテ 新宿明治通り店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 643,
+    "walkMin": 9,
+    "hours": "24時間営業",
+    "address": "東京都新宿区戸山3-16-6",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=378",
+    "note": "距離は住所の位置で計算。ドン・キホーテ公式サイトの店舗名は「新宿明治通り店」"
+   }
+  ]
+ },
+ "drinkDelivery": {
+  "available": true
+ },
+ "photo": {
+  "src": "/images/venues/bellesalle-takadanobaba.jpg",
+  "credit": "写真：Conectando",
+  "sourceUrl": null
+ }
+}

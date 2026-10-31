@@ -1,0 +1,280 @@
+{
+ "slug": "bellesalle-izumi-garden-gallery",
+ "nameJa": "泉ガーデンギャラリー",
+ "nameEn": "",
+ "type": "exhibition",
+ "area": "toranomon-roppongi-venues",
+ "address": "〒106-0032 東京都港区六本木1-5-2 泉ガーデンギャラリー",
+ "officialUrl": "https://www.bellesalle.co.jp/shisetsu/roppongi/izumig_gallery/",
+ "organizerUrl": "https://www.bellesalle.co.jp/download/izumig_gallery/",
+ "bizintokyoSlug": "bellesalle-izumi-garden-gallery",
+ "accessSummary": "六本木一丁目駅（南北線）北改札 徒歩3分／神谷町駅（日比谷線）2番出口 徒歩7分／溜池山王駅（銀座線・南北線）13番出口 徒歩7分／六本木駅（大江戸線・日比谷線）5番出口 徒歩11分",
+ "notice": null,
+ "hours": "ビルエントランス開放時間 泉ガーデンタワー 7:00〜22:00（B1Fホール設備表 2026/9/11更新）",
+ "rooms": [
+  {
+   "name": "B1 ギャラリー 全体",
+   "areaM2": 883,
+   "ceilingM": 6.0,
+   "theater": 720,
+   "school": 360,
+   "ushape": null,
+   "standing": 600,
+   "banquet": null,
+   "note": "スクールは2名掛け。スクール3名掛け 540席。島型 432席（72島）。天井高は一部5.4m。予約受付は2年前から。最低利用時間は8時間または12時間"
+  },
+  {
+   "name": "B1 ギャラリー A",
+   "areaM2": 587,
+   "ceilingM": 6.0,
+   "theater": 490,
+   "school": 240,
+   "ushape": null,
+   "standing": 400,
+   "banquet": null,
+   "note": "スクールは2名掛け。スクール3名掛け 360席。島型 288席（48島）。天井高は一部5.4m。予約受付は3か月前から"
+  },
+  {
+   "name": "B1 ギャラリー B",
+   "areaM2": 295,
+   "ceilingM": 6.0,
+   "theater": 240,
+   "school": 120,
+   "ushape": null,
+   "standing": 200,
+   "banquet": null,
+   "note": "スクールは2名掛け。スクール3名掛け 180席。島型 144席（24島）。天井高は一部5.4m。予約受付は1か月前から"
+  },
+  {
+   "name": "B1 控室1",
+   "areaM2": 12,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "使用料0円。テーブル1・イス4・ハンガーラック・姿見・傘立て。控室のみの利用はできない"
+  },
+  {
+   "name": "B1 控室2",
+   "areaM2": 17,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "使用料0円。テーブル2・イス8・ハンガーラック・姿見・傘立て（応接セットは移動不可）。控室のみの利用はできない"
+  }
+ ],
+ "roomsSource": "https://www.bellesalle.co.jp/wp-content/uploads/izumigg_price.pdf",
+ "ops": {
+  "prevDaySetup": {
+   "text": "使用時間には準備・後片付けの時間も含まれる（料金表）。ホールの料金は8時間と12時間の設定で、24時間の欄は「-」。夜間利用や24時間利用は前後の予約状況で使えない場合があるため事前に相談する。荷物の事前到着は開催日の前日着の指定が原則で、事前搬入届を搬入日の1週間前までに出す（貴重品は不可、荷物の破損の責任は負わない）。事前に申し出のない多量・大きな荷物は、保管場所として会場を有料で借り上げる扱いになる。（出典：ホール料金表 2026/7/3更新、よくあるご質問、使用規約 2026ver2 第20条）",
+   "source": "https://www.bellesalle.co.jp/wp-content/uploads/izumigg_price.pdf"
+  },
+  "loadingHours": {
+   "text": "搬出入がある場合は事前搬入届を作業日の1週間前までに提出する（未提出だと荷捌き場は使えない）。搬入・搬出車の出入りは使用時間内に所定の場所から行い、搬入時間などは会場側が調整することがある。搬入場所はB1Fの荷捌き場で、搬入扉は幅2,400×高さ2,380mm。荷捌き場の許容寸法は全高3,200×全長6,000mm。現場責任者は作業前に泉ガーデンタワー4Fサービスセンターで入館手続きをする。ビルエントランスの開放時間は7:00〜22:00。事前到着荷物の受取は原則ホール5箱まで。（出典：事前搬入届（イベントホール）、B1Fホール設備表 2026/9/11更新、使用規約 2026ver2 第16条）",
+   "source": "https://www.bellesalle.co.jp/wp-content/uploads/izumigg_jizen.pdf"
+  },
+  "vehicleRules": {
+   "text": "荷捌き所は荷物の積み下ろしのみに使い、駐車が必要なときは外の駐車場を使う。車両を複数台使うときは1台分の荷捌場を時間差で使う。違法駐車、指定駐車場以外、ビル廻りの路上駐車は厳禁。荷捌き場はB1Fに5台分（緊急車両スペースを含む）。車両制限は高さ3,200×長さ6,000mm・重4.0t以下で、養生が必須（詳しくはフロントスタッフに確認）。使用期間中の荷捌き場には商品・梱包材・装飾資材・ゴミなどを置けず、各搬出入用扉は常時閉じておく。搬入出車両が混雑しそうなときは出入口などに整理員を置く。（出典：事前搬入届、B1Fホール設備表 2026/9/11更新、使用規約 2026ver2 第15条・第16条）",
+   "source": "https://www.bellesalle.co.jp/wp-content/uploads/izumigg_hall_b.pdf"
+  },
+  "parking": {
+   "text": "施設が入居するビルに来場者用の時間貸し駐車場があるが、台数に限りがある。設備表では「ベルサール専用」の駐車場は「無」、車寄せも「無」。タワー駐車場の料金は、300円／30分（以降100円／10分）、9:00〜18:00は最大3,000円、24:00〜翌7:00は100円／1時間。車両サイズは重量2.3t・全長5,300mm・全幅2,050mm・タイヤ外幅1,920mm・全高 ハイルーフ2,050mm／普通車1,550mm。近隣の時間貸し駐車場は、公式施設ページのリンク先「s-park」（公財 東京都道路整備保全公社）で「泉ガーデンギャラリー」を検索して探す。（出典：B1Fホール設備表 2026/9/11更新、よくあるご質問、公式施設ページ）",
+   "source": "https://www.bellesalle.co.jp/wp-content/uploads/izumigg_hall_b.pdf"
+  },
+  "waitingRooms": {
+   "text": "B1Fに控室が2室（控室1 12㎡・控室2 17㎡）。いずれも使用料0円。控室1はテーブル1・イス4、控室2はテーブル2・イス8で、ハンガーラック・姿見・傘立てがある（控室2の応接セットは移動不可）。控室のみの利用はできない。（出典：B1Fホール設備表 2026/9/11更新、公式施設ページ）",
+   "source": "https://www.bellesalle.co.jp/wp-content/uploads/izumigg_hall_b.pdf"
+  },
+  "catering": {
+   "text": "飲食物の持込は可能。ただし飲食の手配に当社指定業者以外を使う場合は「飲食持込手数料」がかかる（パーティー利用時のみ。飲料のみ・弁当の持込は対象外）。金額は会場面積別で、〜300㎡ 100,000円、〜600㎡ 200,000円、〜900㎡ 300,000円、〜1,200㎡ 400,000円、1,201㎡〜 500,000円（税込 各110,000〜550,000円）。懇親会向けのパーティーメニューは住友不動産グループ泉レストランのサイトで案内されている。（出典：持込料のご案内PDF、よくあるご質問、使用規約 2026ver2 第4条）",
+   "source": "https://www.bellesalle.co.jp/wp-content/uploads/mochikomi_price.pdf"
+  }
+ },
+ "documents": [
+  {
+   "title": "利用料金一覧表（2026/7/3更新）",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/izumigg_price.pdf"
+  },
+  {
+   "title": "料金カレンダー（取引条件有効期限 2027年1月末日）",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/eventhall_calender1.pdf"
+  },
+  {
+   "title": "事前搬入届（イベントホール）",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/izumigg_jizen.pdf"
+  },
+  {
+   "title": "使用規約（2026ver2）",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/kiyaku.pdf"
+  },
+  {
+   "title": "持込料のご案内",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/mochikomi_price.pdf"
+  },
+  {
+   "title": "反社会的勢力でないことの表明・確約書",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/bellesalle_bouhai.pdf"
+  },
+  {
+   "title": "B1Fホール 施設概要・備品リスト（2026/9/11更新）",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/izumigg_hall_b.pdf"
+  },
+  {
+   "title": "アクセスMAP",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/access_izumigg.pdf"
+  },
+  {
+   "title": "B1F 平面図",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/izumigg_plane.pdf"
+  },
+  {
+   "title": "B1F 天井図",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/izumigg_ceiling.pdf"
+  },
+  {
+   "title": "B1F 床図",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/izumigg_floor.pdf"
+  },
+  {
+   "title": "B1F イベント電源図",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/izumigg_electric.pdf"
+  },
+  {
+   "title": "B1F 避難経路図",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/izumi_g_escape_b1f.pdf"
+  },
+  {
+   "title": "資料ダウンロード（公式一覧）",
+   "url": "https://www.bellesalle.co.jp/download/izumig_gallery/"
+  },
+  {
+   "title": "よくあるご質問",
+   "url": "https://www.bellesalle.co.jp/faq/"
+  }
+ ],
+ "checkedAt": "2026-10-30",
+ "lat": 35.664642,
+ "lng": 139.740814,
+ "nearby": {
+  "convenience": [
+   {
+    "name": "ファミマ仙石山森タワー店",
+    "brand": "ファミリーマート",
+    "distanceM": 135,
+    "walkMin": 2,
+    "hours": "24時間営業",
+    "address": "東京都港区六本木1丁目9番10号",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/57899",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "ファミリーマート 六本木一丁目店",
+    "brand": "ファミリーマート",
+    "distanceM": 199,
+    "walkMin": 3,
+    "hours": "24時間営業",
+    "address": "東京都港区六本木1丁目8-7",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/77346",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "ファミリーマート 神谷町MTビル店",
+    "brand": "ファミリーマート",
+    "distanceM": 281,
+    "walkMin": 4,
+    "hours": "24時間営業",
+    "address": "東京都港区虎ノ門4丁目3-20",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/57469",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "アクセア 六本木一丁目店",
+    "brand": "アクセア",
+    "distanceM": 339,
+    "walkMin": 5,
+    "hours": "平日9:00〜20:00／土日祝休み",
+    "address": "東京都港区六本木2-3-2 VORT六本木一丁目1F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/entry.html",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "アクセア 神谷町店",
+    "brand": "アクセア",
+    "distanceM": 467,
+    "walkMin": 6,
+    "hours": "平日9:00〜20:00／土日祝休み",
+    "address": "東京都港区虎ノ門5-13-1 虎ノ門40MTビル1F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/entry.html",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Can★Do 城山ヒルズ店",
+    "brand": "キャンドゥ",
+    "distanceM": 347,
+    "walkMin": 5,
+    "hours": "毎日 9:00-23:00",
+    "address": "東京都港区虎ノ門4-1-17 神谷町プライムプレイスB1階",
+    "verified": true,
+    "source": "https://shopinfo.cando-web.co.jp/detail/shop-1835/",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "Can★Do 麻布十番店",
+    "brand": "キャンドゥ",
+    "distanceM": 1125,
+    "walkMin": 15,
+    "hours": "毎日 10:00-21:00",
+    "address": "東京都港区麻布十番2-4-1 ウィン麻布十番ハラビル1階",
+    "verified": true,
+    "source": "https://shopinfo.cando-web.co.jp/detail/shop-1930/",
+    "note": "距離は住所の位置で計算。遠め"
+   }
+  ],
+  "donki": [
+   {
+    "name": "ドン・キホーテ 六本木店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 613,
+    "walkMin": 8,
+    "hours": "24時間営業",
+    "address": "東京都港区六本木3-14-10",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=31",
+    "note": "距離は住所の位置で計算。ドン・キホーテ公式サイトの店舗名は「六本木店」"
+   },
+   {
+    "name": "ピカソ赤坂店（ドン・キホーテ）",
+    "brand": "ドン・キホーテ",
+    "distanceM": 1176,
+    "walkMin": 15,
+    "hours": "7:00-3:00",
+    "address": "東京都港区赤坂3-11-14",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=289",
+    "note": "距離は住所の位置で計算。遠め。ドン・キホーテの別業態（公式サイトの店舗名は「ピカソ赤坂店」）"
+   }
+  ]
+ },
+ "drinkDelivery": {
+  "available": true
+ },
+ "photo": {
+  "src": "/images/venues/bellesalle-izumi-garden-gallery.jpg",
+  "credit": "© Jun Seita / CC BY 2.0 · Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Izumi_Garden_Gallery,_Roppongi,_Tokyo_-_May_13,_2011.jpg"
+ }
+}

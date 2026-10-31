@@ -1,0 +1,374 @@
+{
+ "slug": "bellesalle-onarimon-tower",
+ "nameJa": "ベルサール御成門タワー",
+ "nameEn": "",
+ "type": "hall",
+ "area": "shimbashi-hamamatsucho-venues",
+ "address": "〒105-0011 東京都港区芝公園1-1-1 住友不動産御成門タワー3F・4F",
+ "officialUrl": "https://www.bellesalle.co.jp/shisetsu/higashiginza/bs_onarimontower/",
+ "organizerUrl": "https://www.bellesalle.co.jp/download/bs_onarimontower/",
+ "bizintokyoSlug": "bellesalle-onarimon-tower",
+ "accessSummary": "御成門駅（三田線）A3b出口 直結／大門駅（大江戸線・浅草線）A6出口 徒歩6分／浜松町駅（JR線）北口 徒歩10分／モノレール浜松町駅（東京モノレール）北口 徒歩11分",
+ "notice": null,
+ "hours": "ビルエントランス開放時間 平日 7:00〜20:00（イベントホール設備表）",
+ "rooms": [
+  {
+   "name": "3F HALL 全体",
+   "areaM2": 622,
+   "ceilingM": 6.0,
+   "theater": 572,
+   "school": 276,
+   "ushape": null,
+   "standing": 370,
+   "banquet": null,
+   "note": "スクールは2名掛け。スクール3名掛け 414席。島型 270席（45島）。A・Bは可動式間仕切りで分割。同時通訳ラジエーターあり（3Fのみ）。床耐荷重は800kg/㎡。予約受付は2年前から"
+  },
+  {
+   "name": "3F HALL A",
+   "areaM2": 340,
+   "ceilingM": 6.0,
+   "theater": 264,
+   "school": 120,
+   "ushape": null,
+   "standing": 200,
+   "banquet": null,
+   "note": "スクールは2名掛け。スクール3名掛け 180席。島型 120席（20島）。300インチスクリーンと天吊プロジェクター（9,400lm）あり。予約受付は2ヶ月前から"
+  },
+  {
+   "name": "3F HALL B",
+   "areaM2": 282,
+   "ceilingM": 6.0,
+   "theater": 190,
+   "school": 88,
+   "ushape": null,
+   "standing": 150,
+   "banquet": null,
+   "note": "スクールは2名掛け。スクール3名掛け 132席。島型 90席（15島）。予約受付は1ヶ月前から"
+  },
+  {
+   "name": "4F HALL 全体",
+   "areaM2": 631,
+   "ceilingM": 6.0,
+   "theater": 572,
+   "school": 276,
+   "ushape": null,
+   "standing": 370,
+   "banquet": null,
+   "note": "スクールは2名掛け。スクール3名掛け 414席。島型 270席（45島）。C・Dは可動式間仕切りで分割。同時通訳ラジエーターは無。床耐荷重は800kg/㎡。予約受付は2年前から"
+  },
+  {
+   "name": "4F HALL C",
+   "areaM2": 344,
+   "ceilingM": 6.0,
+   "theater": 264,
+   "school": 120,
+   "ushape": null,
+   "standing": 200,
+   "banquet": null,
+   "note": "スクールは2名掛け。スクール3名掛け 180席。島型 120席（20島）。300インチスクリーンと天吊プロジェクター（9,400lm）あり。予約受付は2ヶ月前から"
+  },
+  {
+   "name": "4F HALL D",
+   "areaM2": 287,
+   "ceilingM": 6.0,
+   "theater": 190,
+   "school": 88,
+   "ushape": null,
+   "standing": 150,
+   "banquet": null,
+   "note": "スクールは2名掛け。スクール3名掛け 132席。島型 90席（15島）。予約受付は1ヶ月前から"
+  },
+  {
+   "name": "3F 控室1",
+   "areaM2": 8.44,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "使用料0円。テーブル1・イス2・姿見・コートハンガー。控室のみの利用はできない"
+  },
+  {
+   "name": "3F 控室2",
+   "areaM2": 6.19,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "使用料0円。テーブル1・イス2・姿見・コートハンガー。控室のみの利用はできない"
+  },
+  {
+   "name": "4F 控室3",
+   "areaM2": 8.44,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "使用料0円。テーブル1・イス2・姿見・コートハンガー。控室のみの利用はできない"
+  },
+  {
+   "name": "4F 控室4",
+   "areaM2": 6.19,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "使用料0円。テーブル1・イス2・姿見・コートハンガー。控室のみの利用はできない"
+  },
+  {
+   "name": "1F 控室",
+   "areaM2": 34,
+   "ceilingM": 2.8,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "有料・先着順（8時間 税込74,800円〜、通常料金①）。島型 12席（2島）。テーブル10・イス20・姿見・ハンガーラック。ホール併用予約で、控室のみの利用はできない"
+  }
+ ],
+ "roomsSource": "https://www.bellesalle.co.jp/wp-content/uploads/onarimontower_price.pdf",
+ "ops": {
+  "prevDaySetup": {
+   "text": "使用時間には準備・後片付けの時間も含まれる（料金表）。ホールの料金区分は8時間・12時間（24時間の欄は「-」）。夜間利用や24時間利用は前後の予約状況で使えない場合があるため事前に相談する。公式FAQは「一部会場を除き365日24時間利用できる」と案内している。荷物の事前到着は開催日の前日着の指定が原則で、事前搬入届を搬入日の1週間前までに出す（貴重品は不可、荷物の破損の責任は負わない）。事前到着荷物の受取は原則各ホール5箱まで。事前に申し出のない多量・大きな荷物は、保管場所として会場を有料で借り上げる扱いになる。（出典：ホール料金表 2026/7/3更新、事前搬入届、よくあるご質問、使用規約 2026ver2 第20条）",
+   "source": "https://www.bellesalle.co.jp/wp-content/uploads/onarimontower_price.pdf"
+  },
+  "loadingHours": {
+   "text": "搬出入がある場合は事前搬入届を作業日の1週間前までに提出する（未提出だと荷捌き場は使えない）。搬入・搬出車の出入りは使用時間内に所定の場所から行い、搬入時間などは会場側が調整することがある。積み下ろしの作業は原則1時間以内。搬入はB1F荷捌き（ビル共用）から。搬入扉は幅1,000×高2,600mm、EV（10号機）は扉 幅1,000×高2,600mm、かご内 幅2,000×奥行2,050×高2,700mm、積載荷重2,000kg。現場責任者は作業前に住友不動産御成門タワー1Fサービスセンターで入館手続きをする。ビルエントランスの開放時間は平日7:00〜20:00。（出典：事前搬入届、イベントホール設備表 2026/9/11更新、使用規約 2026ver2 第16条）",
+   "source": "https://www.bellesalle.co.jp/wp-content/uploads/onarimontower_jizen.pdf"
+  },
+  "vehicleRules": {
+   "text": "荷捌き所は荷物の積み下ろしのみに使い、駐車が必要なときは外の駐車場を使う。車両を複数台使うときは1台分の荷捌場を時間差で使う。違法駐車、指定駐車場以外、ビル廻りの路上駐車は厳禁。使用期間中の荷捌き場には商品・梱包材・装飾資材・ゴミなどを置けない。搬入出車両が混雑しそうなときは出入口などに整理員を置く。荷捌き場の許容寸法は全高3,600×全長6,000mmで、2t車まで（ロング不可）。設備表の車両制限は高さ3,600×長さ6,000mm・重2.0t。（出典：事前搬入届、イベントホール設備表 2026/9/11更新、使用規約 2026ver2 第15条・第16条）",
+   "source": "https://www.bellesalle.co.jp/wp-content/uploads/onarimontower_jizen.pdf"
+  },
+  "parking": {
+   "text": "設備表の駐車場欄は、ベルサール専用・時間貸しが「無」、車寄せが「有」。近隣の時間貸し駐車場は、公式施設ページのリンク先「s-park」（公財 東京都道路整備保全公社）で「ベルサール御成門タワー」を検索して探す。（出典：公式施設ページ、イベントホール設備表 2026/9/11更新）",
+   "source": "https://www.bellesalle.co.jp/shisetsu/higashiginza/bs_onarimontower/"
+  },
+  "waitingRooms": {
+   "text": "控室は5室で、3Fに控室1（8.44㎡）・控室2（6.19㎡）、4Fに控室3（8.44㎡）・控室4（6.19㎡）があり、いずれも使用料0円でテーブル1・イス2・姿見・コートハンガー付き。ほかに1F控室（34㎡）が有料・先着順で、テーブル10・イス20・姿見・ハンガーラック付き（8時間 税込74,800円〜、通常料金①）。控室のみの利用はできない。定点カメラ（3FはホールA側、4FはホールC側に設置）の映像は、3Fは控室1・2、4Fは控室3・4で視聴できる。（出典：公式施設ページ、イベントホール設備表 2026/9/11更新、ホール料金表）",
+   "source": "https://www.bellesalle.co.jp/shisetsu/higashiginza/bs_onarimontower/"
+  },
+  "catering": {
+   "text": "飲食物の持込は可能。ただし飲食の手配に当社指定業者以外を使う場合は「飲食持込手数料」がかかる（パーティー利用時のみ。飲料のみ・弁当の持込は対象外）。金額は会場面積別で、〜300㎡ 100,000円、〜600㎡ 200,000円、〜900㎡ 300,000円、〜1,200㎡ 400,000円、1,201㎡〜 500,000円（税込 各110,000〜550,000円）。懇親会向けのパーティーメニューは住友不動産グループ泉レストランのサイトで案内されている。（出典：持込料のご案内PDF、よくあるご質問、使用規約 2026ver2 第4条）",
+   "source": "https://www.bellesalle.co.jp/wp-content/uploads/mochikomi_price.pdf"
+  },
+  "restaurants": {
+   "text": "公式施設ページは、3階・4階のイベントホールがともに可動式間仕切りで分割でき、セミナー後にレイアウトを転換せず眺望が楽しめるパーティスペースとして使えると案内している。ホールの立食は、全体370人・A/C 200人・B/D 150人（料金表）。立食レイアウト例として、円卓（直径1,200mm）21卓の図面がある（3F。4Fでも同様のレイアウトが可能。別途有料レンタル。プロジェクター・スクリーン等の設置により席数が減少する場合がある）。（出典：公式施設ページ、ホール料金表 2026/7/3更新、円卓レイアウト図）",
+   "source": "https://www.bellesalle.co.jp/shisetsu/higashiginza/bs_onarimontower/"
+  }
+ },
+ "documents": [
+  {
+   "title": "ホール 利用料金一覧表（2026/7/3更新）",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/onarimontower_price.pdf"
+  },
+  {
+   "title": "料金カレンダー（取引条件有効期限 2027年1月末日）",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/eventhall_calender1.pdf"
+  },
+  {
+   "title": "事前搬入届",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/onarimontower_jizen.pdf"
+  },
+  {
+   "title": "使用規約（2026ver2）",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/kiyaku.pdf"
+  },
+  {
+   "title": "持込料のご案内",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/mochikomi_price.pdf"
+  },
+  {
+   "title": "反社会的勢力でないことの表明・確約書",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/bellesalle_bouhai.pdf"
+  },
+  {
+   "title": "3F・4Fイベントホール 設備・備品一覧（2026/9/11更新）",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/onarimontower_hall_b.pdf"
+  },
+  {
+   "title": "立食 円卓レイアウト図（3F・4F）",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/onarimontower_roundtable.pdf"
+  },
+  {
+   "title": "アクセスMAP",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/access_onarimon.pdf"
+  },
+  {
+   "title": "3F 平面図",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/onarimontower_plane_3f.pdf"
+  },
+  {
+   "title": "4F 平面図",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/onarimontower_plane_4f.pdf"
+  },
+  {
+   "title": "3F 天井図",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/onarimontower_ceiling_3f.pdf"
+  },
+  {
+   "title": "4F 天井図",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/onarimontower_ceiling_4f.pdf"
+  },
+  {
+   "title": "3F 床図",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/onarimontower_floor_3f.pdf"
+  },
+  {
+   "title": "4F 床図",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/onarimontower_floor_4f.pdf"
+  },
+  {
+   "title": "3F イベント電源図",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/onarimontower_electric_3f.pdf"
+  },
+  {
+   "title": "4F イベント電源図",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/onarimontower_electric_4f.pdf"
+  },
+  {
+   "title": "3F 避難経路図",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/onarimontower_escape3f.pdf"
+  },
+  {
+   "title": "4F 避難経路図",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/onarimontower_escape4f.pdf"
+  },
+  {
+   "title": "資料ダウンロード（公式一覧）",
+   "url": "https://www.bellesalle.co.jp/download/bs_onarimontower/"
+  },
+  {
+   "title": "よくあるご質問",
+   "url": "https://www.bellesalle.co.jp/faq/"
+  }
+ ],
+ "checkedAt": "2026-10-30",
+ "lat": 35.660416,
+ "lng": 139.751755,
+ "nearby": {
+  "convenience": [
+   {
+    "name": "ファミリーマート ミヤモトドラッグ御成門店",
+    "brand": "ファミリーマート",
+    "distanceM": 72,
+    "walkMin": 1,
+    "hours": "24時間営業",
+    "address": "東京都港区新橋6丁目17-15",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/22850",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "ローソン 御成門駅前店",
+    "brand": "ローソン",
+    "distanceM": 130,
+    "walkMin": 2,
+    "hours": "24時間営業",
+    "address": "東京都港区西新橋3-24-9",
+    "verified": true,
+    "source": "https://www.areamarker.com/lawson/info/155501",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "ファミリーマート 芝公園一丁目店",
+    "brand": "ファミリーマート",
+    "distanceM": 137,
+    "walkMin": 2,
+    "hours": "24時間営業",
+    "address": "東京都港区芝公園1丁目2-12",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/77199",
+    "note": "距離は公式の店舗位置で計算"
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "アクセア 御成門店",
+    "brand": "アクセア",
+    "distanceM": 149,
+    "walkMin": 2,
+    "hours": "平日9:00〜20:00／土日祝休み",
+    "address": "東京都港区西新橋3-23-6 白川ビル1F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/entry.html",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "アクセア 浜松町店",
+    "brand": "アクセア",
+    "distanceM": 555,
+    "walkMin": 7,
+    "hours": "平日8:00〜22:00／土日祝10:00〜19:00",
+    "address": "東京都港区浜松町2-1-12 VORT浜松町Ⅲ 1F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/entry.html",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Can★Do 城山ヒルズ店",
+    "brand": "キャンドゥ",
+    "distanceM": 856,
+    "walkMin": 11,
+    "hours": "毎日 9:00-23:00",
+    "address": "東京都港区虎ノ門4-1-17 神谷町プライムプレイスB1階",
+    "verified": true,
+    "source": "https://shopinfo.cando-web.co.jp/detail/shop-1835/",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "3COINS OOOPS! 新橋駅汐留口店",
+    "brand": "3COINS",
+    "distanceM": 908,
+    "walkMin": 12,
+    "hours": "平日 8:00-22:00／土日祝 10:00-21:00",
+    "address": "東京都港区新橋2丁目17-14 JR新橋駅構内B1F",
+    "verified": true,
+    "source": "https://palcloset.storelocator.jp/map",
+    "note": "距離は公式の店舗位置で計算。公式の3COINS店舗一覧に載る駅ナカ業態「OOOPS!」"
+   }
+  ],
+  "donki": [
+   {
+    "name": "ドン・キホーテ 銀座本館（銀座ナイン3号館）",
+    "brand": "ドン・キホーテ",
+    "distanceM": 1258,
+    "walkMin": 16,
+    "hours": "24時間営業",
+    "address": "東京都中央区銀座8-10 銀座ナイン3号館",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=92",
+    "note": "距離は住所の位置で計算。遠め。ドン・キホーテ公式サイトの店舗名は「銀座本館」"
+   },
+   {
+    "name": "ドン・キホーテ 六本木店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 1567,
+    "walkMin": 20,
+    "hours": "24時間営業",
+    "address": "東京都港区六本木3-14-10",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=31",
+    "note": "距離は住所の位置で計算。遠め。ドン・キホーテ公式サイトの店舗名は「六本木店」"
+   }
+  ]
+ },
+ "drinkDelivery": {
+  "available": true
+ },
+ "photo": {
+  "src": "/images/venues/bellesalle-onarimon-tower.jpg",
+  "credit": "写真：Conectando",
+  "sourceUrl": null
+ }
+}

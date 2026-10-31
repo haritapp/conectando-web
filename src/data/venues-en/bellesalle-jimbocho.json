@@ -1,0 +1,194 @@
+{
+ "slug": "bellesalle-jimbocho",
+ "name": "Bellesalle Jimbocho",
+ "address": "Tokyo 101-0065 Sumitomo Fudosan Chiyoda First Building South Wing 2F and 3F, 3-2-1 Nishi-Kanda, Chiyoda-ku",
+ "accessSummary": "Kudanshita Station (Hanzomon / Tozai / Shinjuku Lines) Exit 5: 3 min walk / Jimbocho Station (Hanzomon / Shinjuku / Mita Lines) Exit A2: 4 min walk / Suidobashi Station (JR Lines) West Exit: 7 min walk",
+ "hours": "Building entrance open hours: Weekdays 7:30-22:00 (Sat, Sun & holidays by consultation) (2F/3F conference room facility list, updated Sept 11, 2026)",
+ "notice": null,
+ "rooms": [
+  {
+   "name": "2F Room A",
+   "note": "Classroom is 2 per desk. Classroom, 3 per desk: 42 seats. Island layout: 36 seats (6 islands). T-shaped island layout: 24 seats (4 islands). For theater, the price list says \"Please consult us\"."
+  },
+  {
+   "name": "2F Room B",
+   "note": "Classroom is 2 per desk. Classroom, 3 per desk: 36 seats. Island layout: 36 seats (6 islands). T-shaped island layout: 24 seats (4 islands). For theater, the price list says \"Please consult us\"."
+  },
+  {
+   "name": "2F Room C",
+   "note": "Classroom is 2 per desk. Classroom, 3 per desk: 36 seats. Island layout: 36 seats (6 islands). T-shaped island layout: 24 seats (4 islands). For theater, the price list says \"Please consult us\"."
+  },
+  {
+   "name": "2F Room D",
+   "note": "Classroom is 2 per desk. Classroom, 3 per desk: 27 seats. Island layout: 24 seats (4 islands). T-shaped island layout: 12 seats (2 islands). For theater, the price list says \"Please consult us\"."
+  },
+  {
+   "name": "2F Room A+B",
+   "note": "Classroom is 2 per desk. Classroom, 3 per desk: 108 seats. Island layout: 72 seats (12 islands). T-shaped island layout: 54 seats (9 islands). For classroom (3 per desk) and theater, the price list says \"Please consult us\"."
+  },
+  {
+   "name": "2F Room B+C",
+   "note": "Classroom is 2 per desk. Classroom, 3 per desk: 108 seats. Island layout: 72 seats (12 islands). T-shaped island layout: 54 seats (9 islands). For classroom (3 per desk) and theater, the price list says \"Please consult us\"."
+  },
+  {
+   "name": "2F Room A+B+C",
+   "note": "Classroom is 2 per desk. Classroom, 3 per desk: 180 seats. Island layout: 108 seats (18 islands). T-shaped island layout: 90 seats (15 islands). For classroom (3 per desk) and theater, the price list says \"Please consult us\"."
+  },
+  {
+   "name": "3F Room 1",
+   "note": "Classroom is 2 per desk. Classroom, 3 per desk: 108 seats. Island layout: 72 seats (12 islands). T-shaped island layout: 54 seats (9 islands). For classroom (3 per desk) and theater, the price list says \"Please consult us\"."
+  },
+  {
+   "name": "3F Room 2",
+   "note": "Classroom is 2 per desk. Classroom, 3 per desk: 36 seats. Island layout: 36 seats (6 islands). T-shaped island layout: 24 seats (4 islands). For theater, the price list says \"Please consult us\"."
+  },
+  {
+   "name": "3F Room 3",
+   "note": "Classroom is 2 per desk. Classroom, 3 per desk: 42 seats. Island layout: 36 seats (6 islands). T-shaped island layout: 24 seats (4 islands). For classroom (3 per desk) and theater, the price list says \"Please consult us\"."
+  },
+  {
+   "name": "3F Room 5",
+   "note": "Classroom is 2 per desk. Classroom, 3 per desk: 72 seats. Island layout: 54 seats (9 islands). T-shaped island layout: 36 seats (6 islands). For classroom (3 per desk) and theater, the price list says \"Please consult us\"."
+  },
+  {
+   "name": "3F Room 1+2",
+   "note": "Classroom is 2 per desk. Classroom, 3 per desk: 180 seats. Island layout: 108 seats (18 islands). T-shaped island layout: 90 seats (15 islands). For classroom (3 per desk) and theater, the price list says \"Please consult us\"."
+  },
+  {
+   "name": "3F Room 3+4",
+   "note": "Classroom is 2 per desk. Classroom, 3 per desk: 96 seats. Island layout: 90 seats (15 islands). T-shaped island layout: 60 seats (10 islands). For classroom (3 per desk), theater and island layout, the price list says \"Please consult us\". The price list does not show a price for Room 4 alone."
+  },
+  {
+   "name": "3F Room 4+5",
+   "note": "Classroom is 2 per desk. Classroom, 3 per desk: 144 seats. Island layout: 108 seats (18 islands). T-shaped island layout: 72 seats (12 islands). For classroom (3 per desk), theater and island layout, the price list says \"Please consult us\"."
+  },
+  {
+   "name": "3F Room 3+4+5",
+   "note": "Classroom is 2 per desk. Classroom, 3 per desk: 204 seats. Island layout: 126 seats (21 islands). T-shaped island layout: 108 seats (18 islands). For classroom (3 per desk) and theater, the price list says \"Please consult us\"."
+  },
+  {
+   "name": "2F Waiting Room",
+   "note": "Island layout: 8 seats (1 island). 20,900 yen for 4 hours, 31,900 yen for 8 hours, 35,200 yen for 12 hours (tax included, regular rate). Equipment: 4 tables, 8 chairs, clothes rack, full-length mirror, small refrigerator."
+  }
+ ],
+ "ops": {
+  "prevDaySetup": "Usage time includes setup and cleanup time. Use outside business hours is arranged separately (price list). Conference room rates are set for 4, 8 and 12 hours, and extensions before and after the usage day are charged separately per 30 minutes (example: Room A is 15,400 yen for 7:00-22:00 and 17,600 yen for 22:00-7:00 (tax included); the amount differs by room). Advance receipt of packages is in principle for arrival on the day before the event, and an advance load-in notice is required (items are accepted only on the day before use). (Source: Price List updated July 3, 2026; official document download page; FAQ)",
+  "loadingHours": "An advance load-in notice must be submitted at least 1 week before the work date if there is load-in or load-out (the loading area cannot be used if it is not submitted). Vehicles for load-in and load-out must enter and leave within the usage time from the designated location, and the venue may adjust load-in times and the like. Loading and unloading is in principle limited to 20 minutes. The load-in location is the 1F loading area; the service entrance is 1,200 mm wide x 2,000 mm high, the front automatic door is 1,700 mm wide x 2,500 mm high, and the elevator has an entrance door 1,100 mm wide x 2,500 mm high, a car interior 2,000 mm wide x 2,800 mm high x 1,500 mm deep, and a load capacity of 2,000 kg. The permitted dimensions of the loading area are 3,000 mm total height x 5,700 mm total length x 3,400 mm width. The person in charge on site completes entry procedures at the Service Center on the 1F of the Sumitomo Fudosan Chiyoda First Building South Wing before starting work. The building entrance is open on weekdays 7:30-22:00 (Sat, Sun & holidays by consultation). Packages received in advance are in principle limited to 2 boxes per room. (Source: Advance Load-in Notice; 2F/3F Conference Rooms Facility List updated Sept 11, 2026; Terms of Use 2026ver2 Article 16)",
+  "vehicleRules": "The loading area is used only for loading and unloading; if parking is needed, use an outside parking lot. When multiple vehicles are used, they share one vehicle's loading space in staggered turns. Illegal parking, parking outside the designated parking lot, and roadside parking around the building are strictly prohibited. Products, packing materials, decoration materials, trash and the like may not be left in the loading area during the usage period. If delivery vehicle traffic is expected to be congested, traffic staff are placed at the entrances and similar points. The vehicle limits in the facility list are 3,000 mm height x 5,700 mm length (1 vehicle), 3,200 mm height x 6,000 mm length (2 vehicles), and weight 2.0t. (Source: Advance Load-in Notice, Terms of Use 2026ver2 Articles 15 and 16, 2F/3F Conference Rooms Facility List updated Sept 11, 2026)",
+  "parking": "In the facility list, the parking column shows \"none\" for Bellesalle-dedicated parking, hourly parking and a vehicle drop-off area alike. To find nearby hourly parking lots, search for \"Bellesalle Jimbocho\" on \"s-park\" (Tokyo Metropolitan Road Improvement and Conservation Corporation), which is linked from the official facility page. (Source: Official facility page, 2F/3F Conference Rooms Facility List updated Sept 11, 2026)",
+  "waitingRooms": "There is 1 waiting room on the 2F (17㎡), available for a fee (20,900 yen for 4 hours, 31,900 yen for 8 hours, 35,200 yen for 12 hours (tax included, regular rate)). Equipment: 4 tables, 8 chairs, clothes rack, full-length mirror, small refrigerator. (Source: Price List updated July 3, 2026; 2F/3F Conference Rooms Facility List updated Sept 11, 2026)",
+  "catering": "Outside food/drink brought in is allowed. However, if a caterer other than the operator's designated vendors is used, an \"outside food/drink fee\" applies (party use only; bringing in drinks only or boxed meals is not covered). The amount depends on venue area: up to 300㎡ 100,000 yen, up to 600㎡ 200,000 yen, up to 900㎡ 300,000 yen, up to 1,200㎡ 400,000 yen, 1,201㎡ and above 500,000 yen (110,000 to 550,000 yen each, tax included). The largest rental room at this venue is 282㎡ (3F Room 3+4+5). Party menus for receptions are introduced on the website of Izumi Restaurant, a Sumitomo Fudosan Group company. (Source: Outside Food/Drink Fee Guide PDF, FAQ)"
+ },
+ "documents": [
+  {
+   "title": "Price List (updated July 3, 2026)"
+  },
+  {
+   "title": "Price Calendar"
+  },
+  {
+   "title": "Advance Load-in Notice"
+  },
+  {
+   "title": "Terms of Use (2026ver2)"
+  },
+  {
+   "title": "Outside Food/Drink Fee Guide"
+  },
+  {
+   "title": "Statement and Pledge of Non-Affiliation with Antisocial Forces"
+  },
+  {
+   "title": "2F/3F Conference Rooms: Facilities and Equipment List (updated Sept 11, 2026)"
+  },
+  {
+   "title": "Access Map"
+  },
+  {
+   "title": "2F Floor Plan"
+  },
+  {
+   "title": "2F Ceiling Plan"
+  },
+  {
+   "title": "2F Floor Drawing"
+  },
+  {
+   "title": "2F Evacuation Route Map"
+  },
+  {
+   "title": "3F Floor Plan"
+  },
+  {
+   "title": "3F Ceiling Plan"
+  },
+  {
+   "title": "3F Floor Drawing"
+  },
+  {
+   "title": "3F Evacuation Route Map"
+  },
+  {
+   "title": "Document Downloads (official list)"
+  },
+  {
+   "title": "FAQ"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "7-Eleven Kanda Sendai-dori",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Lawson Kudan-kita 1-chome",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "7-Eleven Kanda-Jimbocho 3-chome",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "Kinko's Jimbocho",
+    "hours": "Weekdays 8:00-20:00 / Sat closed / Sun & holidays closed (reception until 30 min before closing)",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Accea Kudanshita",
+    "hours": "Weekdays 9:00-20:00 / Closed Sat, Sun & holidays",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Can Do Jimbocho",
+    "hours": "Daily 10:00-21:00",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "DAISO Kanda-Jimbocho Suzuran-dori",
+    "hours": "10:00-21:00",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "donki": [
+   {
+    "name": "Don Quijote Korakuen",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. The store name on the official Don Quijote website is \"Korakuen\" (後楽園店)."
+   },
+   {
+    "name": "Don Quijote Akihabara",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. Rather far. The store name on the official Don Quijote website is \"Akihabara\" (秋葉原店)."
+   }
+  ]
+ },
+ "photoCredit": "The photo shows the west wing of Sumitomo Fudosan Chiyoda First Building; the venue is in the south wing. © Kamemaru2000 / CC BY-SA 3.0 · Wikimedia Commons"
+}
