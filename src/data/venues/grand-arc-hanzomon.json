@@ -1,0 +1,489 @@
+{
+ "slug": "grand-arc-hanzomon",
+ "nameJa": "ホテルグランドアーク半蔵門",
+ "nameEn": "Hotel Grand Arc Hanzomon",
+ "type": "hotel",
+ "area": "marunouchi-nihonbashi-venues",
+ "address": "〒102-0092 東京都千代田区隼町1番1号",
+ "officialUrl": "https://www.grandarc.com/",
+ "organizerUrl": "https://www.grandarc.com/banquet",
+ "bizintokyoSlug": "grand-arc-hanzomon",
+ "accessSummary": "半蔵門駅（東京メトロ半蔵門線）6番出口 徒歩3分（公式アクセスページの冒頭には徒歩2分の表記もある）／麹町駅（有楽町線）1番出口 徒歩7分／JR四ツ谷駅 徒歩15分",
+ "notice": null,
+ "hours": "宴会場の利用時間は7:00〜21:30。宴会・会議の受付は平日9:00〜17:30、土日祝日10:00〜17:30",
+ "rooms": [
+  {
+   "name": "6F 和の間",
+   "areaM2": 69.1,
+   "ceilingM": 3.7,
+   "theater": 45,
+   "school": 25,
+   "ushape": 26,
+   "standing": 40,
+   "banquet": 30,
+   "note": "着席ブフェ 30名。室料（税込・2時間・別途サービス料10%）：会議 7:00〜10:00 62,000円／10:00〜17:00 62,000円／17:00〜21:30 93,000円、会食 10:00〜21:30 40,000円"
+  },
+  {
+   "name": "5F シンフォニー",
+   "areaM2": 66.0,
+   "ceilingM": 3.0,
+   "theater": 45,
+   "school": 25,
+   "ushape": 28,
+   "standing": 40,
+   "banquet": 30,
+   "note": "着席ブフェ 30名。室料（税込・2時間・別途サービス料10%）：会議 7:00〜10:00 55,000円／10:00〜17:00 55,000円／17:00〜21:30 82,500円、会食 10:00〜21:30 25,000円。宴会場個別ページはシアター40名の表記（宴会場のご案内 2026年4月は45名）"
+  },
+  {
+   "name": "5F 響",
+   "areaM2": 68.0,
+   "ceilingM": 3.0,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": 30,
+   "banquet": 20,
+   "note": "着席ブフェ 20名。室料（税込・2時間・別途サービス料10%）：会食 10:00〜21:30 40,000円"
+  },
+  {
+   "name": "5F ノクターン",
+   "areaM2": 49.0,
+   "ceilingM": 3.0,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": 20,
+   "banquet": 10,
+   "note": "室料（税込・2時間・別途サービス料10%）：会食 10:00〜21:30 30,000円"
+  },
+  {
+   "name": "5F ハーモニー",
+   "areaM2": 50.2,
+   "ceilingM": 3.0,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": 20,
+   "banquet": 16,
+   "note": "室料（税込・2時間・別途サービス料10%）：会食 10:00〜21:30 30,000円"
+  },
+  {
+   "name": "4F 富士の間（全室）",
+   "areaM2": 651.8,
+   "ceilingM": 6.0,
+   "theater": 660,
+   "school": 340,
+   "ushape": 96,
+   "standing": 500,
+   "banquet": 320,
+   "note": "着席ブフェ 260名。室料（税込・2時間・別途サービス料10%）：会議 7:00〜10:00 530,000円／10:00〜17:00 500,000円／17:00〜21:30 750,000円、会食 10:00〜21:30 280,000円"
+  },
+  {
+   "name": "4F 富士の間（東）",
+   "areaM2": 372.1,
+   "ceilingM": 6.0,
+   "theater": 360,
+   "school": 180,
+   "ushape": 64,
+   "standing": 250,
+   "banquet": 160,
+   "note": "着席ブフェ 160名。室料（税込・2時間・別途サービス料10%）：会議 7:00〜10:00 300,000円／10:00〜17:00 300,000円／17:00〜21:30 450,000円、会食 10:00〜21:30 160,000円"
+  },
+  {
+   "name": "4F 富士の間（西）",
+   "areaM2": 279.7,
+   "ceilingM": 6.0,
+   "theater": 250,
+   "school": 125,
+   "ushape": 52,
+   "standing": 150,
+   "banquet": 120,
+   "note": "着席ブフェ 120名。室料（税込・2時間・別途サービス料10%）：会議 7:00〜10:00 230,000円／10:00〜17:00 200,000円／17:00〜21:30 300,000円、会食 10:00〜21:30 120,000円"
+  },
+  {
+   "name": "4F ラベンダー（全室）",
+   "areaM2": 55.6,
+   "ceilingM": 3.0,
+   "theater": 48,
+   "school": 20,
+   "ushape": 28,
+   "standing": 25,
+   "banquet": 20,
+   "note": "着席ブフェ 20名。室料（税込・2時間・別途サービス料10%）：会議 7:00〜10:00 55,000円／10:00〜17:00 55,000円／17:00〜21:30 82,500円、会食 10:00〜21:30 25,000円"
+  },
+  {
+   "name": "4F ラベンダー（東）",
+   "areaM2": 27.8,
+   "ceilingM": 3.0,
+   "theater": 18,
+   "school": 12,
+   "ushape": null,
+   "standing": null,
+   "banquet": 10,
+   "note": "室料（税込・2時間・別途サービス料10%）：会議 7:00〜10:00 30,000円／10:00〜17:00 30,000円／17:00〜21:30 45,000円、会食 10:00〜21:30 12,000円"
+  },
+  {
+   "name": "4F ラベンダー（西）",
+   "areaM2": 27.8,
+   "ceilingM": 3.0,
+   "theater": 18,
+   "school": 12,
+   "ushape": null,
+   "standing": null,
+   "banquet": 10,
+   "note": "室料（税込・2時間・別途サービス料10%）：会議 7:00〜10:00 30,000円／10:00〜17:00 30,000円／17:00〜21:30 45,000円、会食 10:00〜21:30 12,000円"
+  },
+  {
+   "name": "3F 華の間",
+   "areaM2": 363.9,
+   "ceilingM": 3.4,
+   "theater": 360,
+   "school": 180,
+   "ushape": 64,
+   "standing": 250,
+   "banquet": 160,
+   "note": "着席ブフェ 160名。室料（税込・2時間・別途サービス料10%）：会議 7:00〜10:00 280,000円／10:00〜17:00 300,000円／17:00〜21:30 450,000円、会食 10:00〜21:30 160,000円"
+  },
+  {
+   "name": "3F 光の間",
+   "areaM2": 278.2,
+   "ceilingM": 3.4,
+   "theater": 250,
+   "school": 125,
+   "ushape": 52,
+   "standing": 150,
+   "banquet": 120,
+   "note": "着席ブフェ 120名。室料（税込・2時間・別途サービス料10%）：会議 7:00〜10:00 220,000円／10:00〜17:00 200,000円／17:00〜21:30 300,000円、会食 10:00〜21:30 120,000円"
+  },
+  {
+   "name": "3F トパーズ（全室）",
+   "areaM2": 92.4,
+   "ceilingM": 3.0,
+   "theater": 66,
+   "school": 40,
+   "ushape": 34,
+   "standing": 50,
+   "banquet": 40,
+   "note": "着席ブフェ 40名。室料（税込・2時間・別途サービス料10%）：会議 7:00〜10:00 70,000円／10:00〜17:00 70,000円／17:00〜21:30 105,000円、会食 10:00〜21:30 46,000円"
+  },
+  {
+   "name": "3F トパーズ（東）",
+   "areaM2": 37.0,
+   "ceilingM": 3.0,
+   "theater": 24,
+   "school": 10,
+   "ushape": null,
+   "standing": null,
+   "banquet": 10,
+   "note": "室料（税込・2時間・別途サービス料10%）：会議 7:00〜10:00 30,000円／10:00〜17:00 30,000円／17:00〜21:30 45,000円、会食 10:00〜21:30 20,000円"
+  },
+  {
+   "name": "3F トパーズ（西）",
+   "areaM2": 55.4,
+   "ceilingM": 3.0,
+   "theater": 36,
+   "school": 20,
+   "ushape": null,
+   "standing": 25,
+   "banquet": 20,
+   "note": "室料（税込・2時間・別途サービス料10%）：会議 7:00〜10:00 40,000円／10:00〜17:00 40,000円／17:00〜21:30 60,000円、会食 10:00〜21:30 26,000円"
+  },
+  {
+   "name": "3F ガーネット（全室）",
+   "areaM2": 66.1,
+   "ceilingM": 3.0,
+   "theater": 45,
+   "school": 25,
+   "ushape": 26,
+   "standing": 40,
+   "banquet": 30,
+   "note": "着席ブフェ 30名。室料（税込・2時間・別途サービス料10%）：会議 7:00〜10:00 62,000円／10:00〜17:00 62,000円／17:00〜21:30 93,000円、会食 10:00〜21:30 40,000円"
+  },
+  {
+   "name": "3F ガーネット（東）",
+   "areaM2": 29.1,
+   "ceilingM": 3.0,
+   "theater": 18,
+   "school": 10,
+   "ushape": null,
+   "standing": null,
+   "banquet": 10,
+   "note": "室料（税込・2時間・別途サービス料10%）：会議 7:00〜10:00 30,000円／10:00〜17:00 30,000円／17:00〜21:30 45,000円、会食 10:00〜21:30 20,000円"
+  },
+  {
+   "name": "3F ガーネット（西）",
+   "areaM2": 37.0,
+   "ceilingM": 3.0,
+   "theater": 30,
+   "school": 10,
+   "ushape": null,
+   "standing": null,
+   "banquet": 10,
+   "note": "室料（税込・2時間・別途サービス料10%）：会議 7:00〜10:00 30,000円／10:00〜17:00 30,000円／17:00〜21:30 45,000円、会食 10:00〜21:30 20,000円"
+  },
+  {
+   "name": "2F 曙の間（全室）",
+   "areaM2": null,
+   "ceilingM": 3.0,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": 120,
+   "note": "広さは100畳。和の宴会場。室料（税込・2時間・別途サービス料10%）：会食 10:00〜21:30 88,000円"
+  },
+  {
+   "name": "2F 曙の間（東）",
+   "areaM2": null,
+   "ceilingM": 3.0,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": 60,
+   "note": "広さは50畳。和の宴会場。室料（税込・2時間・別途サービス料10%）：会食 10:00〜21:30 44,000円"
+  },
+  {
+   "name": "2F 曙の間（西）",
+   "areaM2": null,
+   "ceilingM": 3.0,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": 60,
+   "note": "広さは50畳。和の宴会場。室料（税込・2時間・別途サービス料10%）：会食 10:00〜21:30 45,000円"
+  },
+  {
+   "name": "2F 舞の間",
+   "areaM2": null,
+   "ceilingM": 3.1,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": 40,
+   "note": "広さは35畳。和の宴会場。室料（税込・2時間・別途サービス料10%）：会食 10:00〜21:30 33,000円"
+  },
+  {
+   "name": "2F 扇の間",
+   "areaM2": null,
+   "ceilingM": 3.1,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": 32,
+   "note": "広さは32畳。和の宴会場。室料（税込・2時間・別途サービス料10%）：会食 10:00〜21:30 33,000円"
+  },
+  {
+   "name": "2F 山吹の間",
+   "areaM2": null,
+   "ceilingM": 3.0,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": 12,
+   "note": "広さは14畳。和の宴会場。室料（税込・2時間・別途サービス料10%）：会食 10:00〜21:30 17,000円"
+  },
+  {
+   "name": "2F 右近の間",
+   "areaM2": null,
+   "ceilingM": 2.7,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": 10,
+   "note": "広さは10畳。和の宴会場。室料（税込・2時間・別途サービス料10%）：会食 10:00〜21:30 17,000円"
+  },
+  {
+   "name": "2F 左近の間",
+   "areaM2": null,
+   "ceilingM": 2.7,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": 10,
+   "note": "広さは10畳。和の宴会場。室料（税込・2時間・別途サービス料10%）：会食 10:00〜21:30 17,000円"
+  },
+  {
+   "name": "2F さくらの間",
+   "areaM2": 24.3,
+   "ceilingM": 3.5,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": 10,
+   "note": "和の宴会場。室料（税込・2時間・別途サービス料10%）：会食 10:00〜21:30 12,000円"
+  },
+  {
+   "name": "2F かりんの間",
+   "areaM2": 24.1,
+   "ceilingM": 3.5,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": 10,
+   "note": "和の宴会場。室料（税込・2時間・別途サービス料10%）：会食 10:00〜21:30 12,000円"
+  }
+ ],
+ "roomsSource": "https://www.grandarc.com/wp-content/uploads/pdf/7201/pdf_load/GAH202504_BQT-room-price_ip%20-新案_20260130.pdf（宴会場のご案内、2026年4月） ／ https://www.grandarc.com/banquet",
+ "ops": {
+  "prevDaySetup": {
+   "text": "宴会場の利用時間は7:00〜21:30で、設営から撤去までを契約時間内に終える（宴会規約）。21:30〜翌朝7:00に搬出入を伴う設営・リハーサルをする場合は、利用時間に応じて深夜早朝割増料金がかかる。契約時間を超えると追加料金で、会議・食事とも1時間延長ごとに基本料金の50%を加算。次の宴会の予約によっては延長に応じられないことがある。（出典：宴会場のご案内 2026年4月、宴会規約 2021年4月1日改定）",
+   "source": "https://www.grandarc.com/wp-content/uploads/pdf/7201/pdf_load/GAH202504_BQT-room-price_ip%20-新案_20260130.pdf"
+  },
+  "loadingHours": {
+   "text": "宴会の準備のために事前に荷物を送りたいときは、事前に宴会担当へ問い合わせる（よくあるご質問）。宴会場の装飾・余興などで依頼した業者が資器材や看板を搬入・搬出するときは、サイズ・取付け方法・設置場所などをホテルの指示に従う（宴会規約 第7条）。",
+   "source": "https://www.grandarc.com/hotel_qa"
+  },
+  "parking": {
+   "text": "地下に74台。車体の制限は高さ3m、幅2m、長さ5mまで。予約制ではなく当日の空き状況での案内。料金は最初の1時間2,000円、その後30分ごとに1,000円。宴会の利用者は5時間まで無料。",
+   "source": "https://www.grandarc.com/access"
+  },
+  "catering": {
+   "text": "装飾・装花・音響・余興・音楽・バンケットレセプタント・引出物などは、ホテル指定の業者を利用する。指定以外の業者を使う場合や、飲み物などを持ち込む場合は、事前にホテルの了解を得る。飲み物などの持込には別途持込料がかかる。（出典：宴会規約 第6条 2021年4月1日改定）",
+   "source": "https://www.grandarc.com/wp-content/uploads/pdf/1644/pdf_load/20210401banquet-regulations_GAH.pdf"
+  },
+  "restaurants": {
+   "text": "館内に4店舗：1Fレストラン「パティオ」（160席、うちテラス席60席）、B1F和食処「門」（59席、うち寿司カウンター7席）、2F天ぷら「羽衣」（カウンター10席、6〜10名の個室宴会プランあり）、4Fラウンジ「ラ メール」（59席、うち個室15席）。宴会場は4名の会合から500名のパーティーまで対応と案内している。",
+   "source": "https://www.grandarc.com/restaurant"
+  }
+ },
+ "documents": [
+  {
+   "title": "宴会場のご案内（2026年4月）",
+   "url": "https://www.grandarc.com/wp-content/uploads/pdf/7201/pdf_load/GAH202504_BQT-room-price_ip%20-新案_20260130.pdf"
+  },
+  {
+   "title": "宴会規約（2021年4月1日改定）",
+   "url": "https://www.grandarc.com/wp-content/uploads/pdf/1644/pdf_load/20210401banquet-regulations_GAH.pdf"
+  },
+  {
+   "title": "宴会・会議プラン（2024年5月版）",
+   "url": "https://www.grandarc.com/wp-content/uploads/pdf/72968/pdf_load/202405_BQT-plan_ip.pdf"
+  },
+  {
+   "title": "ホテル案内地図（2024年6月11日版）",
+   "url": "https://www.grandarc.com/wp-content/uploads/pdf/3610/pdf_load/ホテルグランドアーク半蔵門_ホテル案内地図_20240611_03.pdf"
+  },
+  {
+   "title": "資料ダウンロード（公式一覧）",
+   "url": "https://www.grandarc.com/download"
+  }
+ ],
+ "checkedAt": "2026-10-31",
+ "lat": 35.682945,
+ "lng": 139.742783,
+ "nearby": {
+  "convenience": [
+   {
+    "name": "ファミリーマート 半蔵門駅南店",
+    "brand": "ファミリーマート",
+    "distanceM": 91,
+    "walkMin": 2,
+    "hours": "24時間営業",
+    "address": "東京都千代田区隼町2-17",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/26718",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "セブン-イレブン 千代田平河町1丁目店",
+    "brand": "セブン-イレブン",
+    "distanceM": 98,
+    "walkMin": 2,
+    "hours": "24時間営業",
+    "address": "東京都千代田区平河町1-8-3",
+    "verified": true,
+    "source": "https://seven-eleven.areamarker.com/711map/info/437151",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "ローソン 麹町二丁目店",
+    "brand": "ローソン",
+    "distanceM": 157,
+    "walkMin": 2,
+    "hours": "24時間営業",
+    "address": "東京都千代田区麹町2-7-3",
+    "verified": true,
+    "source": "https://www.areamarker.com/lawson/info/155949",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "キンコーズ・麹町店",
+    "brand": "キンコーズ",
+    "distanceM": 238,
+    "walkMin": 3,
+    "hours": "平日 9:00-19:00／土・日・祝 休業",
+    "address": "東京都千代田区麹町2丁目3-9 麹町プレイス1F",
+    "verified": true,
+    "source": "https://www.kinkos.co.jp/store/tokyo/t046/",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "アクセア 麹町店",
+    "brand": "アクセア",
+    "distanceM": 290,
+    "walkMin": 4,
+    "hours": "平日・土日祝8:00〜20:00",
+    "address": "東京都千代田区麹町2-4-11 麹町スクエアプラザ2F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/entry.html",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Can★Do 赤坂一ツ木通り店",
+    "brand": "キャンドゥ",
+    "distanceM": 1041,
+    "walkMin": 14,
+    "hours": "月〜金 9:00-21:00／土〜日 9:00-20:00",
+    "address": "東京都港区赤坂3-17-10 フローレンス一ツ木ビル1階",
+    "verified": true,
+    "source": "https://shopinfo.cando-web.co.jp/detail/shop-5207/",
+    "note": "距離は住所の位置で計算。遠め"
+   }
+  ],
+  "donki": [
+   {
+    "name": "ピカソ赤坂店（ドン・キホーテ）",
+    "brand": "ドン・キホーテ",
+    "distanceM": 1027,
+    "walkMin": 13,
+    "hours": "7:00-3:00",
+    "address": "東京都港区赤坂3-11-14",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=289",
+    "note": "距離は住所の位置で計算。遠め。ドン・キホーテの別業態（公式サイトの店舗名は「ピカソ赤坂店」）"
+   },
+   {
+    "name": "ドン・キホーテ 六本木店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 2398,
+    "walkMin": 30,
+    "hours": "24時間営業",
+    "address": "東京都港区六本木3-14-10",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=31",
+    "note": "距離は住所の位置で計算。遠い。ドン・キホーテ公式サイトの店舗名は「六本木店」"
+   }
+  ]
+ },
+ "drinkDelivery": {
+  "available": true
+ },
+ "photo": {
+  "src": "/images/venues/grand-arc-hanzomon.jpg",
+  "credit": "写真は最寄りの半蔵門駅4番出口のイメージです（ホテルの建物ではありません）。© LERK / CC BY-SA 4.0 · Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:TokyoMetro-Z05-Hanzomon-station-entrance-4-20170519-045559.jpg"
+ }
+}

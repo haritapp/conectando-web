@@ -1,0 +1,119 @@
+{
+ "slug": "brillia-hall-ikebukuro",
+ "name": "Tokyo Tatemono Brillia HALL (Toshima Performing Arts Center)",
+ "address": "Tokyo 170-0013 1-19-1 Higashi-Ikebukuro, Toshima-ku, Tokyo",
+ "accessSummary": "Ikebukuro Station East Side, North Exit 32 (JR lines, Tokyo Metro Marunouchi / Yurakucho / Fukutoshin Lines, Seibu Ikebukuro Line, Tobu Tojo Line): 4 min walk",
+ "hours": "Entry from 9:00, fully vacate by 22:00 (open all year; may close temporarily for maintenance, etc.)",
+ "notice": null,
+ "rooms": [
+  {
+   "name": "Main Hall (fixed seating)",
+   "note": "753 seats on the 1st floor, 245 on the 2nd floor, 250 on the 3rd floor (including 15 wheelchair spaces). 1,139 seats when the orchestra pit is used. Stage is 16.2 m deep; proscenium opening is 16.4 m wide and 10 m high. Orchestra pit is about 58㎡ (as of July 2026)"
+  }
+ ],
+ "ops": {
+  "prevDaySetup": "Usage hours are 9:00 entry to 22:00 exit, and include setup and cleanup (restoring everything to its original condition). Days used only for load-in, rehearsals, dress rehearsals and load-in/out are charged at the \"no performance\" rate: 1,000,000 yen per day on weekdays and 1,200,000 yen on Sat, Sun & holidays (tax included). The year-end/New Year period (Dec 29 to Jan 3) is a flat 2,250,000 yen (tax included). (Source: Price list, Facility overview as of July 2026)",
+  "loadingHours": "The load-in entrance is on the 1st floor. The load-in elevator measures 5,600 mm wide x 2,200 mm deep x 3,000 mm high, with a load capacity of 3,500 kg. Usage hours are 9:00 to 22:00 (including setup and cleanup). (Source: Stage floor plan, Facility overview as of July 2026)",
+  "parking": "The theater has no dedicated parking lot; there is a general paid parking lot (Hareza Ikebukuro Parking) behind the theater building. There is no tie-up or discount. (As of August 2025)",
+  "waitingRooms": "On the 2nd floor: organizer's waiting room, Dressing Room A (4 people), 2 staff rooms and a meeting room. On the 3rd floor: Dressing Rooms B and C (3 people each), D and H (11 people each), E to G (10 people each), a costume room, a shower room and a lounge. The 3 small dressing rooms have showers and toilets. (As of July 2026)",
+  "catering": "Food and drink are not allowed in the auditorium; they are allowed only in the foyer. (As of April 2024)",
+  "restaurants": "There are bars and light meals on the 4th and 6th floors of the building (10:00-18:00)."
+ },
+ "documents": [
+  {
+   "title": "Stage Floor Plan (as of July 2026)"
+  },
+  {
+   "title": "Stage Cross Section"
+  },
+  {
+   "title": "Stage and Auditorium Cross Section"
+  },
+  {
+   "title": "Stage Equipment List"
+  },
+  {
+   "title": "Lighting Equipment List"
+  },
+  {
+   "title": "Audio Equipment List"
+  },
+  {
+   "title": "Video Equipment List"
+  },
+  {
+   "title": "Dressing Room Equipment List"
+  },
+  {
+   "title": "Reception Equipment List"
+  },
+  {
+   "title": "Application Form"
+  },
+  {
+   "title": "Performance Proposal Form"
+  },
+  {
+   "title": "About the Price List"
+  },
+  {
+   "title": "Floor Map"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "FamilyMart Higashi-Ikebukuro Seiko Building",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the store's official location."
+   },
+   {
+    "name": "FamilyMart Naka-Ikebukuro Koen-mae",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the store's official location."
+   },
+   {
+    "name": "Lawson Higashi-Ikebukuro",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the store's official location."
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "Accea Ikebukuro Hareza Tower",
+    "hours": "Weekdays 8:00-20:00 / Closed Sat, Sun & holidays",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Kinko's Ikebukuro East Exit",
+    "hours": "Weekdays 10:00-18:00 / Closed Sat, Sun & holidays",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Can Do Ikebukuro Sunshine-dori",
+    "hours": "Mon-Sun 10:00-22:00",
+    "note": "Distance is calculated from the store's official location."
+   },
+   {
+    "name": "DAISO Lagoon Ikebukuro",
+    "hours": "9:00-22:00",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "donki": [
+   {
+    "name": "Don Quijote Ikebukuro East Exit Ekimae",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. The store name on the Don Quijote official website is \"Ikebukuro Higashiguchi Ekimae\" (池袋東口駅前店)."
+   },
+   {
+    "name": "Don Quijote Ikebukuro Station West Exit",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. The store name on the Don Quijote official website is \"Ikebukuro Eki Nishiguchi\" (池袋駅西口店)."
+   }
+  ]
+ },
+ "photoCredit": "© RuinDig/Yuki Uchida / CC BY 4.0 · Wikimedia Commons"
+}

@@ -1,0 +1,93 @@
+{
+ "slug": "cic-tokyo",
+ "name": "CIC Tokyo",
+ "address": "Tokyo 105-6415 Toranomon Hills Business Tower 15F, 1-17-1 Toranomon, Minato-ku, Tokyo",
+ "accessSummary": "Directly connected to Toranomon Hills Station (Hibiya Line) / Toranomon Station (Ginza Line) Exits B2, B3 and B4 / Kasumigaseki Station (Chiyoda Line, Marunouchi Line, Hibiya Line) Exit A12 / Uchisaiwaicho Station (Mita Line) Exit A3 / Shimbashi Station (JR): about 11 min walk",
+ "hours": "Weekdays 9:00-21:00 (Venture Café: weekdays 17:00-21:00). Events must close by 21:00 and be fully cleared out by 22:00. On Thursdays, Venture Café is unavailable all day and Niji is unavailable from 13:00. Saturdays, Sundays and holidays by consultation (November 2023 PDF).",
+ "notice": null,
+ "rooms": [
+  {
+   "name": "TOKYO Venture Café (15F)",
+   "note": "The official page gives a capacity of 60 to 80 seated plus about 40 standing. The November 2023 PDF lists about 40 stair seats and 15 café chairs. The fee is 80,000 yen per hour (excluding tax), with a 35% surcharge after 21:00 on weekdays and on holidays. Setup is possible from 90 minutes before the event starts (setup time is also charged as venue fee)."
+  },
+  {
+   "name": "Niji (15F)",
+   "note": "The official page gives about 50 seated in lecture style; the November 2023 PDF gives about 40 lecture seats. Classroom is 36 seats (12 tables). The fee is 40,000 yen per hour for 9:00-14:00 and 60,000 yen per hour for 14:00-21:00 (excluding tax), with a 35% surcharge after 21:00 on weekdays and on holidays."
+  },
+  {
+   "name": "The American Room",
+   "note": "About 30 seated. This room is occupied by a venue sponsor and can be booked only for dates and times when the sponsor has no booking. The fee is 33,000 yen per hour for 9:00-14:00 and 50,000 yen per hour for 14:00-21:00 (excluding tax), with a 35% surcharge after 21:00 on weekdays and on holidays. The floor is 15F on the official page and 16F in the November 2023 PDF."
+  }
+ ],
+ "ops": {
+  "loadingHours": "Setup at Venture Café is possible from 90 minutes before the event starts (setup time is also charged as venue fee). At every venue, events must close by 21:00 and be fully cleared out by 22:00, and the clear-out time is also charged as venue fee. As a rule, a staff attendance fee of 25,000 yen per person (excluding tax) is added before 9:00 and after 18:00 on weekdays and on holidays. (November 2023 edition)",
+  "catering": "CIC introduces caterers it has ordered from before, and accepts orders on your behalf."
+ },
+ "documents": [
+  {
+   "title": "CIC Tokyo Event Space Information (November 2023 edition)"
+  },
+  {
+   "title": "Event Space Rentals (official)"
+  },
+  {
+   "title": "CIC Tokyo Overview and Access (official)"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "Urban FamilyMart Toranomon HBT",
+    "hours": "7:00-23:00",
+    "note": "Distance is calculated from the position in the official store list (the address position is in the same block as the venue)."
+   },
+   {
+    "name": "FamilyMart Toranomon 1-chome",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "FamilyMart Toranomon Hills",
+    "hours": "7:00-23:00",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "Kinko's Toranomon",
+    "hours": "Weekdays 9:00-20:00 / Closed Sat, Sun & holidays",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Accea Toranomon",
+    "hours": "Open 24 hours on weekdays (non-stop from Monday 8:00 to Saturday 19:00) / Sat until 19:00, Sun & holidays 10:00-19:00 (open non-stop on weekdays that fall on the day before a holiday)",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Can Do Shiroyama Hills",
+    "hours": "Daily 9:00-23:00",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "3COINS OOOPS! Shimbashi Station Shiodome Exit",
+    "hours": "Weekdays 8:00-22:00 / Sat, Sun & holidays 10:00-21:00",
+    "note": "Distance is calculated from the store's official location. This is the in-station format \"OOOPS!\" listed in the official 3COINS store list."
+   }
+  ],
+  "donki": [
+   {
+    "name": "Don Quijote Ginza Main Building (Ginza Nine Building No. 3)",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. Rather far."
+   },
+   {
+    "name": "Picasso Akasaka (Don Quijote)",
+    "hours": "7:00-3:00",
+    "note": "Distance is calculated from the address location. Rather far. A different Don Quijote store format (the official site lists the store name as \"Picasso Akasaka\" (ピカソ赤坂店))."
+   }
+  ]
+ },
+ "photoCredit": "© Syced / CC0 · Wikimedia Commons"
+}

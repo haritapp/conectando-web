@@ -1,0 +1,342 @@
+{
+ "slug": "grand-nikko-tokyo-daiba",
+ "nameJa": "グランドニッコー東京 台場",
+ "nameEn": "Grand Nikko Tokyo Daiba",
+ "type": "hotel",
+ "area": "odaiba-ariake-venues",
+ "address": "〒135-8701 東京都港区台場2-6-1",
+ "officialUrl": "https://www.tokyo.grandnikko.com/",
+ "organizerUrl": "https://www.tokyo.grandnikko.com/banquet/",
+ "bizintokyoSlug": "grand-nikko-tokyo-daiba",
+ "accessSummary": "ゆりかもめ「台場」駅 直結／りんかい線「東京テレポート」駅 徒歩約10分",
+ "notice": null,
+ "hours": null,
+ "rooms": [
+  {
+   "name": "B1F パレロワイヤル 全室（ABCD 4/4）",
+   "areaM2": 2580,
+   "ceilingM": "本室8.0／前室3.0",
+   "theater": 3300,
+   "school": 1632,
+   "ushape": null,
+   "standing": 3200,
+   "banquet": 1668,
+   "note": "面積は本室＋前室。本室のみ1,786㎡。収容人数はソーシャルディスタンシングを配慮した数字と公式の表に注記あり"
+  },
+  {
+   "name": "B1F パレロワイヤル 3/4（ABC または BCD）",
+   "areaM2": 1900,
+   "ceilingM": "本室8.0／前室3.0",
+   "theater": 2500,
+   "school": 1200,
+   "ushape": null,
+   "standing": 2000,
+   "banquet": 1200,
+   "note": "面積は本室＋前室。本室のみ1,319㎡"
+  },
+  {
+   "name": "B1F パレロワイヤル 1/2（AB または CD）",
+   "areaM2": 1255,
+   "ceilingM": "本室8.0／前室3.0",
+   "theater": 1700,
+   "school": 780,
+   "ushape": null,
+   "standing": 1000,
+   "banquet": 816,
+   "note": "面積は本室＋前室。本室のみ869㎡"
+  },
+  {
+   "name": "B1F パレロワイヤル 1/4（A または D）",
+   "areaM2": 610,
+   "ceilingM": "本室8.0／前室3.0",
+   "theater": 840,
+   "school": 396,
+   "ushape": null,
+   "standing": 500,
+   "banquet": 324,
+   "note": "面積は本室＋前室。本室のみ413㎡"
+  },
+  {
+   "name": "B1F パレロワイヤル 1/4（B または C）",
+   "areaM2": 595,
+   "ceilingM": "本室8.0／前室3.0",
+   "theater": 840,
+   "school": 396,
+   "ushape": null,
+   "standing": 500,
+   "banquet": 324,
+   "note": "面積は本室＋前室。本室のみ410㎡"
+  },
+  {
+   "name": "B1F ヴァンドーム／エトワール／シャトレ（各）",
+   "areaM2": 260,
+   "ceilingM": 3.0,
+   "theater": 390,
+   "school": 189,
+   "ushape": null,
+   "standing": 180,
+   "banquet": 168,
+   "note": null
+  },
+  {
+   "name": "B1F ファンタジー／ハーモニー／コンチェルト（各）",
+   "areaM2": 76,
+   "ceilingM": 3.0,
+   "theater": 90,
+   "school": 45,
+   "ushape": null,
+   "standing": 24,
+   "banquet": 30,
+   "note": null
+  },
+  {
+   "name": "B1F メヌエット",
+   "areaM2": 73,
+   "ceilingM": 3.0,
+   "theater": 84,
+   "school": 36,
+   "ushape": null,
+   "standing": 24,
+   "banquet": 30,
+   "note": null
+  },
+  {
+   "name": "1F パンセ",
+   "areaM2": 102,
+   "ceilingM": 3.0,
+   "theater": 84,
+   "school": 48,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": null
+  },
+  {
+   "name": "1F ミモザ",
+   "areaM2": 43,
+   "ceilingM": 3.0,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "小会議・分科会向け"
+  },
+  {
+   "name": "1F コスモス",
+   "areaM2": 43,
+   "ceilingM": 3.0,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "小会議・分科会向け"
+  },
+  {
+   "name": "1F カメリア",
+   "areaM2": 76,
+   "ceilingM": 3.0,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "小会議・分科会向け"
+  },
+  {
+   "name": "29F 銀河",
+   "areaM2": 337,
+   "ceilingM": 3.0,
+   "theater": 420,
+   "school": 180,
+   "ushape": null,
+   "standing": 250,
+   "banquet": 180,
+   "note": null
+  },
+  {
+   "name": "29F 虹",
+   "areaM2": 140,
+   "ceilingM": 3.0,
+   "theater": 180,
+   "school": 90,
+   "ushape": null,
+   "standing": 90,
+   "banquet": 80,
+   "note": null
+  },
+  {
+   "name": "29F 光",
+   "areaM2": 186,
+   "ceilingM": 3.0,
+   "theater": 220,
+   "school": 120,
+   "ushape": null,
+   "standing": 120,
+   "banquet": 110,
+   "note": null
+  },
+  {
+   "name": "29F 茜",
+   "areaM2": 86,
+   "ceilingM": 3.0,
+   "theater": 96,
+   "school": 54,
+   "ushape": null,
+   "standing": 50,
+   "banquet": 50,
+   "note": null
+  },
+  {
+   "name": "29F 暁",
+   "areaM2": 86,
+   "ceilingM": 3.0,
+   "theater": 96,
+   "school": 54,
+   "ushape": null,
+   "standing": 50,
+   "banquet": 50,
+   "note": null
+  },
+  {
+   "name": "3F g&g",
+   "areaM2": 353,
+   "ceilingM": "11-17",
+   "theater": 80,
+   "school": null,
+   "ushape": null,
+   "standing": 80,
+   "banquet": 40,
+   "note": null
+  }
+ ],
+ "roomsSource": "https://www.tokyo.grandnikko.com/banquet/",
+ "ops": {
+  "loadingHours": {
+   "text": "搬入出の受付窓口は時間帯で異なる。9:00〜12:00と13:00〜17:20は東側搬入口で手続きし、搬入出の総括責任者が窓口で案件名・会場名・社名を伝えて、スタッフ全員分の入館証を受け取る。12:00〜13:00を含む上記以外の時間帯は、先に防災センターで手続きしてから東側搬入口へ回る。搬入口は屋根付きで、搬入用エレベーターから会場へ直接搬入でき、24時間対応可（展示会向けの案内）。搬入口の車高制限は東側搬入口3.7m、資材搬入口3.4m。搬入出用エレベーターは W3,000×H2,500×D6,000mm、荷重4,500kg。",
+   "source": "https://www.tokyo.grandnikko.com/banquet/transport/"
+  },
+  "vehicleRules": {
+   "text": "搬入出作業時以外は、トラックなど作業車の留置きはできない。作業が終わったら車を移動する。B2の駐車場入口は車高制限2.1m。",
+   "source": "https://www.tokyo.grandnikko.com/banquet/transport/"
+  },
+  "parking": {
+   "text": "地下2階に自走式・機械式あわせて374台（高さ制限2.1m）。24時間営業、料金は30分ごとに550円（税込）。宴会・婚礼の利用は6時間無料。駐車場の予約は受け付けていない。車長6.0m・車幅2.5m・車高2.1mまで（自走式。機械式は長さ5.0m・幅2.0m・高さ1.55m・1.7t以下）。地下に入れないトラック・バスなどの大型車は、宿泊客向けに1階のスペースを案内しており、1泊8,000円で事前予約が必要（台数制限あり）。",
+   "source": "https://www.tokyo.grandnikko.com/access/parking/"
+  },
+  "waitingRooms": {
+   "text": "1階に畳敷きの共用の男女着替室がある。1階の小宴会場・会議室（パンセ・ミモザ・コスモス・カメリア）は、会議や控室などに使える部屋として案内されている。（デジタルパンフレット）",
+   "source": "https://www.tokyo.grandnikko.com/faq/"
+  },
+  "restaurants": {
+   "text": "館内に The Grill on 30th、The Bar & Lounge、鉄板焼 銀杏、鮨 玉かがり 天ぷら 玉衣（以上30F）、中国料理 桃李、The Lobby Cafe（以上2F）、GARDEN DINING（1F）、イタリア料理 インコントロ（アトリウム棟2F）などがある。公式サイトに「個室・貸切のご案内」のページがある。",
+   "source": "https://www.tokyo.grandnikko.com/facilities/"
+  }
+ },
+ "documents": [
+  {
+   "title": "フロアマップ（PDF）",
+   "url": "https://www.tokyo.grandnikko.com/banquet/floormap/images/floormap.pdf"
+  },
+  {
+   "title": "搬入・搬出のご案内（搬入口・入館手続き）",
+   "url": "https://www.tokyo.grandnikko.com/banquet/transport/"
+  },
+  {
+   "title": "駐車場のご案内",
+   "url": "https://www.tokyo.grandnikko.com/access/parking/"
+  },
+  {
+   "title": "ミーティングプラン 2026（2026年1〜12月）",
+   "url": "https://www.tokyo.grandnikko.com/banquet/plan/lp/meeting/"
+  },
+  {
+   "title": "パーティープラン 2026（2026年1〜12月）",
+   "url": "https://www.tokyo.grandnikko.com/banquet/plan/15/"
+  },
+  {
+   "title": "食物アレルギー対応ポリシー（PDF）",
+   "url": "https://www.tokyo.grandnikko.com/datas/files/2025/06/24/88474c7bbfcdbe32687754fb1b95e52b7d726bcd.pdf"
+  },
+  {
+   "title": "デジタルパンフレット（8ページ・画像のみ）",
+   "url": "https://my.ebook5.net/tokyo_grandnikko/DigitalBrochure/"
+  }
+ ],
+ "checkedAt": "2026-10-31",
+ "lat": 35.625099,
+ "lng": 139.7715,
+ "nearby": {
+  "convenience": [
+   {
+    "name": "セブン-イレブン 台場駅前店",
+    "brand": "セブン-イレブン",
+    "distanceM": 70,
+    "walkMin": 1,
+    "hours": "24時間営業",
+    "address": "東京都港区台場2-6-1",
+    "verified": true,
+    "source": "https://seven-eleven.areamarker.com/711map/info/560615",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "ローソン ヒルトン東京お台場店",
+    "brand": "ローソン",
+    "distanceM": 161,
+    "walkMin": 3,
+    "hours": "6:30-23:00",
+    "address": "東京都港区台場1-9-1",
+    "verified": true,
+    "source": "https://www.areamarker.com/lawson/info/388872",
+    "note": "距離は公式の店舗位置で計算"
+   }
+  ],
+  "copyshop": [],
+  "hundredYen": [
+   {
+    "name": "Seria アクアシティお台場店",
+    "brand": "セリア",
+    "distanceM": 375,
+    "walkMin": 5,
+    "hours": "月 11:00-20:00／火 11:00-21:00／水〜金 11:00-20:00／土〜日 11:00-21:00",
+    "address": "東京都港区台場1-7-1アクアシティお台場 4F",
+    "verified": true,
+    "source": "https://shop.seria-group.com/seria/info/000003057",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "DAISO デックス東京ビーチ店",
+    "brand": "ダイソー",
+    "distanceM": 598,
+    "walkMin": 8,
+    "hours": "11:00-20:00",
+    "address": "東京都港区台場一丁目6番1号デックス東京ビーチアイランドモール4階",
+    "verified": true,
+    "source": "https://www.daiso-sangyo.co.jp/shop/detail/002639",
+    "note": "距離は公式の店舗位置で計算"
+   }
+  ],
+  "donki": [
+   {
+    "name": "キラキラドンキ ダイバーシティ東京 プラザ店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 233,
+    "walkMin": 3,
+    "hours": "10:00-21:00",
+    "address": "東京都江東区青海1-1-10 ダイバーシティ東京 プラザ 2階",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=655",
+    "note": "距離は住所の位置で計算。ドン・キホーテの別業態（公式サイトの店舗名は「キラキラドンキ ダイバーシティ東京 プラザ店」）"
+   }
+  ]
+ },
+ "drinkDelivery": {
+  "available": true
+ },
+ "photo": {
+  "src": "/images/venues/grand-nikko-tokyo-daiba.jpg",
+  "credit": "© Rs1421 / CC BY-SA 3.0 · Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hotel-Grand-Pacific-Le-Daiba-01.jpg"
+ }
+}

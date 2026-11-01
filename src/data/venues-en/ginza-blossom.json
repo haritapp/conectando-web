@@ -1,0 +1,133 @@
+{
+ "slug": "ginza-blossom",
+ "name": "Ginza Blossom Chuo Kaikan",
+ "address": "Tokyo 104-0061 2-15-6 Ginza, Chuo-ku, Tokyo",
+ "accessSummary": "1 min walk from Exit 1 of Shintomicho Station (Tokyo Metro Yurakucho Line) / 8 min walk from Exit 5 of Higashi-Ginza Station (Tokyo Metro Hibiya Line) / 8 min walk from Exit 5 of Higashi-Ginza Station (Toei Asakusa Line)",
+ "hours": "Reception 9:00-18:00. Closed December 29 to January 3 and one maintenance day each month",
+ "notice": "Exhibitions, sales, solicitation, contracts and business negotiations for profit are not allowed in either the hall or the banquet/meeting rooms. The banquet/meeting rooms also cannot be used for seminars that charge participation or tuition fees, or for gatherings open to an unspecified general public (the hall may charge admission; for 3,000 yen or more the usage fee is increased by 30%, and for 5,000 yen or more by 50%).",
+ "rooms": [
+  {
+   "name": "Hall",
+   "note": "900 fixed seats (636 on the 1st floor, 264 on the 2nd floor). Stage is 12 m wide x 7.6 m deep x 7 m high."
+  },
+  {
+   "name": "Margaret (7F banquet/meeting room)",
+   "note": "Face-to-face layout (basic) 144 seats. Standing and seated capacities are approximate (from the Atable Matsuya banquet guide)."
+  },
+  {
+   "name": "Jasmine (7F banquet/meeting room)",
+   "note": "Face-to-face layout (basic) 78 seats. Standing and seated capacities are approximate (from the Atable Matsuya banquet guide)."
+  },
+  {
+   "name": "Rose (7F banquet/meeting room)",
+   "note": "Face-to-face layout (basic) 72 seats. Standing and seated capacities are approximate (from the Atable Matsuya banquet guide)."
+  },
+  {
+   "name": "Mimosa (7F banquet/meeting room)",
+   "note": "Face-to-face layout (basic) 36 seats. Standing and seated capacities are approximate (from the Atable Matsuya banquet guide)."
+  }
+ ],
+ "ops": {
+  "prevDaySetup": "Usage time includes load-in, load-out, setup, cleanup and entry/exit time, and neither early use nor extended use is possible. Packages sent to the venue before or after the event are not accepted. (Source: Hall / Banquet-Meeting Room \"Guide to Use\", posted June 2026)",
+  "loadingHours": "Hall usage slots are morning 9:00-12:00, afternoon 13:00-16:30, evening 17:30-21:30, and all day 9:00-21:30. Banquet/meeting rooms are morning 9:00-12:00, afternoon 13:00-17:00, evening 18:00-21:30, and all day 9:00-21:30. All include load-in and load-out. Goods cannot be carried in or out through the 1F main entrance and must go through the designated place. Stepladders of 2 m or taller cannot be used. (Source: Guide to Use, posted June 2026)",
+  "parking": "The building has a parking lot, but spaces are limited and cannot be reserved (height limit 210 cm). If it is full, use a nearby car park.",
+  "waitingRooms": "There are 4 dressing rooms, First to Fourth, at stage left (the First is a 27㎡ Japanese-style room, the Second 55㎡, the Third 29㎡, the Fourth 28㎡), a 58㎡ rehearsal room on the 3rd floor, and a 12㎡ dressing room office on the 2nd floor. Each dressing room has one ITV (in-house monitor), and the stage can be entered from the 2nd floor. Coin lockers are available. (Source: Dressing room floor plan)",
+  "catering": "Eating and drinking is not allowed in the hall seating area. Outside food and drink cannot be brought into the banquet/meeting rooms (soft drinks in PET bottles, capped cans or flasks are allowed). Food for banquets and meetings is provided by Atable Matsuya Co., Ltd.; banquet courses are 5,500 to 8,800 yen per person (from 20 people, 10% service charge extra), and lunch box menus for meetings are also available.",
+  "restaurants": "There is no restaurant in the building; food and drink are served in the banquet/meeting rooms (reservation required). The banquet time is 2 hours (until 9 p.m.)."
+ },
+ "documents": [
+  {
+   "title": "Hall: Guide to Use (posted June 2026)"
+  },
+  {
+   "title": "Banquet/Meeting Rooms: Guide to Use (posted June 2026)"
+  },
+  {
+   "title": "Hall Seating Chart"
+  },
+  {
+   "title": "Hall Stage Floor Plan"
+  },
+  {
+   "title": "Hall Reflector Panel Placement Diagram"
+  },
+  {
+   "title": "Hall Stage Equipment List"
+  },
+  {
+   "title": "Hall Lighting Equipment Layout"
+  },
+  {
+   "title": "Hall Lighting Equipment List"
+  },
+  {
+   "title": "Hall Electrical Load Equipment List"
+  },
+  {
+   "title": "Hall DMX (Hall Circuit) List"
+  },
+  {
+   "title": "Hall Audio Equipment List 1"
+  },
+  {
+   "title": "Hall Audio Equipment List 2"
+  },
+  {
+   "title": "Dressing Room Floor Plan"
+  },
+  {
+   "title": "Banquet/Meeting Room Equipment and Fees (Atable Matsuya)"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "7-Eleven Ginza 2-chome",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "7-Eleven Chuo City Office Mae",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "Natural Lawson Ginza 2-chome",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location."
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "Accea Tsukiji",
+    "hours": "Weekdays 8:00-20:00 / Closed Sat, Sun & holidays",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Kinko's Ginza-itchome",
+    "hours": "Weekdays 9:00-20:00 / Sat 10:00-19:00 / Sun & holidays closed",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "DAISO Marronnier Gate Ginza",
+    "hours": "11:00-21:00",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Seria Exit Melsa Ginza",
+    "hours": "Daily 11:00-20:00",
+    "note": "Distance is calculated from the official store location."
+   }
+  ],
+  "donki": [
+   {
+    "name": "Don Quijote Ginza Main Building (Ginza Nine Building No. 3)",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location."
+   }
+  ]
+ },
+ "photoCredit": "© 妖精書士 / CC BY-SA 3.0 · Wikimedia Commons"
+}

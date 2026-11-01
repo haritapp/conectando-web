@@ -1,0 +1,150 @@
+{
+ "slug": "grand-hyatt-tokyo",
+ "name": "Grand Hyatt Tokyo",
+ "address": "Tokyo 106-0032 6-10-3 Roppongi, Minato-ku",
+ "accessSummary": "Roppongi Station (Tokyo Metro Hibiya Line) Exit 1C: 3 min walk / Roppongi Station (Toei Oedo Line) Exit 3: 6 min walk",
+ "hours": null,
+ "notice": null,
+ "rooms": [
+  {
+   "name": "3F Grand Ballroom - Entire Room",
+   "note": "Can be divided into 2 by a soundproof wall. Boardroom layout is \"-\" in the official table."
+  },
+  {
+   "name": "3F Grand Ballroom - East / West",
+   "note": "Only the West room has a 317-inch LED screen on its left side wall."
+  },
+  {
+   "name": "3F Tarragon / Coriander",
+   "note": null
+  },
+  {
+   "name": "2F Residence Basil",
+   "note": "Show kitchen attached."
+  },
+  {
+   "name": "2F Residence Anise",
+   "note": null
+  },
+  {
+   "name": "2F Drawing Room",
+   "note": "Boardroom: 18."
+  },
+  {
+   "name": "4F Thyme A-E - All Rooms",
+   "note": "Boardroom: 60. Can be divided into up to 6 with movable partitions."
+  },
+  {
+   "name": "4F Thyme - 3 Rooms",
+   "note": "Boardroom: 36. The banquet 40 and standing buffet 60 capacities apply when Thyme C, D and E are used."
+  },
+  {
+   "name": "4F Thyme - 2 Rooms",
+   "note": "Boardroom: 24. The banquet 30 and standing buffet 40 capacities apply when Thyme D and E are used."
+  },
+  {
+   "name": "4F Thyme - 1 Room",
+   "note": "Boardroom: 6."
+  },
+  {
+   "name": "4F Lavender A-D - All Rooms",
+   "note": "Boardroom: 42."
+  },
+  {
+   "name": "4F Lavender - 3 Rooms",
+   "note": "Boardroom: 30."
+  },
+  {
+   "name": "4F Lavender - 2 Rooms",
+   "note": "Boardroom: 20. Only the combinations A+B or C+D."
+  },
+  {
+   "name": "4F Lavender - 1 Room",
+   "note": "Boardroom: 8. Only for A or B."
+  }
+ ],
+ "ops": {
+  "catering": "Bringing in food (including coffee) is prohibited (Banquet Terms and Conditions). Decoration, flowers, sound, lighting, entertainment and the like are arranged by the hotel through its designated contractors. If you want to use another company, the hotel's prior approval is required; load-in, load-out, installation location and installation time follow the hotel's instructions, and if the hotel decides its staff need to be present, a separate attendant labor fee is charged.",
+  "waitingRooms": "There is a changing room (CHANGING ROOM) on the banquet floor (floor map).",
+  "restaurants": "The in-house restaurants offer private-room and full-buyout party plans; the official page presents them as private-room and full-buyout plans usable for receptions, appreciation parties, press parties and the like. The restaurants covered are Oak Door, French Kitchen, Roku-ryoku (六緑), Shunbo (旬房), Keyakizaka, China Room and Maduro."
+ },
+ "documents": [
+  {
+   "title": "Banquet Terms and Conditions"
+  },
+  {
+   "title": "Hotel Floor Map (PDF)"
+  },
+  {
+   "title": "3F Layout (PDF)"
+  },
+  {
+   "title": "2F Layout (PDF)"
+  },
+  {
+   "title": "4F Layout (PDF)"
+  },
+  {
+   "title": "Walking Access Map (PDF)"
+  },
+  {
+   "title": "Driving Access Map (PDF)"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "Natural Lawson Roppongi Hills",
+    "hours": "7:00-23:00",
+    "note": "Distance is calculated from the location in the official store list (the address location falls in the same block as the venue)."
+   },
+   {
+    "name": "Lawson Minato Roppongi-dori",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Lawson EX Tower Plus",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "Accea Roppongi",
+    "hours": "Weekdays 8:00-22:00, Sat, Sun & holidays 10:00-19:00",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Accea Roppongi-itchome",
+    "hours": "Weekdays 9:00-20:00 / Closed Sat, Sun & holidays",
+    "note": "Distance is calculated from the address location. Rather far."
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Can Do Azabu-Juban",
+    "hours": "Daily 10:00-21:00",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Can Do Shiroyama Hills",
+    "hours": "Daily 9:00-23:00",
+    "note": "Distance is calculated from the address location. Rather far."
+   }
+  ],
+  "donki": [
+   {
+    "name": "Don Quijote Roppongi",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. The store name on the Don Quijote official website is \"Roppongi\" (六本木店)."
+   },
+   {
+    "name": "Picasso Akasaka (Don Quijote)",
+    "hours": "7:00-3:00",
+    "note": "Distance is calculated from the address location. Far. This is a separate Don Quijote format. The store name on the Don Quijote official website is \"Picasso Akasaka\" (ピカソ赤坂店)."
+   }
+  ]
+ },
+ "photoCredit": "© J o / CC BY-SA 4.0 · Wikimedia Commons"
+}

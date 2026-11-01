@@ -1,0 +1,176 @@
+{
+ "slug": "bellesalle-shibuya-garden",
+ "name": "Bellesalle Shibuya Garden",
+ "address": "Tokyo 150-0036 Sumitomo Fudosan Shibuya Garden Tower 1F & B1, 16-17 Minamihiradai-cho, Shibuya-ku",
+ "accessSummary": "Shinsen Station South Exit (Inokashira Line): 6 min walk / Shibuya Station Exit A0 (Hanzomon, Fukutoshin, Den-en-toshi and Toyoko Lines): 9 min walk / Shibuya Station West Exit (JR Lines): 10 min walk / Ikejiri-Ohashi Station East Exit (Den-en-toshi Line): 11 min walk",
+ "hours": "Building entrance open Weekdays 8:00-20:00, Saturday 9:00-18:00, closed Sundays (can be adjusted depending on the reservation hours). Vehicle load-in and load-out to the 1F is possible from 8:00 to 20:00.",
+ "notice": null,
+ "rooms": [
+  {
+   "name": "1F Hall",
+   "note": "Classroom is 2 per desk. Classroom, 3 per desk: 417 seats. Island layout: 276 seats (46 islands). Water supply and drainage available; food and drink events can also be held."
+  },
+  {
+   "name": "B1 Hall A",
+   "note": "Classroom is 2 per desk. Classroom, 3 per desk: 270 seats. Island layout: 240 seats (40 islands)."
+  },
+  {
+   "name": "B1 Hall A+B",
+   "note": "Classroom is 2 per desk. Classroom, 3 per desk: 600 seats. Island layout: 600 seats (100 islands)."
+  },
+  {
+   "name": "B1 Hall C",
+   "note": "Classroom is 2 per desk. Classroom, 3 per desk: 975 seats. Island layout: 822 seats (137 islands)."
+  },
+  {
+   "name": "B1 Hall B+C",
+   "note": "Classroom is 2 per desk. Classroom, 3 per desk: 1,536 seats. Island layout: 1,122 seats (187 islands)."
+  },
+  {
+   "name": "B1 Hall - Entire Hall",
+   "note": "Classroom is 2 per desk. Classroom, 3 per desk: 1,896 seats. Island layout: 1,422 seats (237 islands). Separate lobby of about 400㎡."
+  },
+  {
+   "name": "Entire Building (1F Hall + B1 Entire Hall)",
+   "note": "Classroom is 2 per desk. Classroom, 3 per desk: 2,313 seats."
+  },
+  {
+   "name": "B1 Waiting Room 1",
+   "note": "Usage fee 0 yen"
+  },
+  {
+   "name": "B1 Waiting Room 2",
+   "note": "Usage fee 0 yen"
+  },
+  {
+   "name": "B1 Waiting Room 3",
+   "note": "Usage fee 0 yen"
+  },
+  {
+   "name": "B2 Waiting Room 4",
+   "note": "Usage fee 0 yen"
+  },
+  {
+   "name": "B2 Waiting Room 5",
+   "note": "Usage fee 0 yen"
+  },
+  {
+   "name": "Staff Room",
+   "note": ""
+  }
+ ],
+ "ops": {
+  "prevDaySetup": "Usage time includes setup and cleanup time. The hall has 8-hour, 12-hour and 24-hour rates; night-time or 24-hour use may not be available depending on the bookings before and after, so consult in advance. Except for some venues, the venue can be used 24 hours a day, 365 days a year. Advance load-in of packages is in principle arranged for arrival on the day before the event, and the number of items and the item names are written on the advance load-in notice and submitted (valuables are not accepted). Packages received in advance are limited to 5 boxes per hall. (Source: Hall price list, updated July 3, 2026; FAQ; Advance Load-in Notice)",
+  "loadingHours": "Delivery vehicles for load-in and load-out must enter and leave within the usage time. An advance load-in notice must be submitted at least 1 week before the work date (the loading area cannot be used if it is not submitted). Loading and unloading is in principle limited to 20 minutes. Load-in and load-out through the building's delivery exit is not possible; the loading area dedicated to the Event Hall is used. The on-site manager completes entry procedures at the 1F Service Center before starting work. For B1 Hall A+B, load-in uses the load-in elevator from B2F (entrance W2,800 x H2,500 mm, car interior W2,800 x H2,500 x D5,800 mm, capacity 5,000 kg), and Hall C is loaded in from the B1 loading parking area (loading entrance W3,500 x H3,650 mm). The 1F hall can be loaded in and out from the 1F public open space, and the load-in door is W2,500 x H2,850 mm. Conditions such as usage hours apply when using the 1F load-in entrance, so contact them separately. 4-ton trucks can load in directly. (Source: Advance Load-in Notice, Equipment List updated October 19, 2026, Terms of Use 2026ver2, official facility page)",
+  "vehicleRules": "The loading area is used only for loading and unloading; if parking is needed, use an outside parking lot. When multiple vehicles are used, they share one vehicle's loading space in staggered turns. Illegal parking and roadside parking around the building outside the designated parking lot are strictly prohibited. Vehicle limits are: B1 Loading Areas 1 and 2, height 3,500 x length 9,000 mm, weight 4.0 t; B1 Loading Area 3, small vehicles (wagons) up to 3,100 mm high; B2 Loading Area, up to 3,100 mm high (up to 2-ton short trucks); 1F, height 3,500 x length 9,000 mm, weight 4.0 t, with parking restrictions. There is a dedicated loading area, and leaving vehicles standing requires consultation. The drop-off area is beside the 1F entrance. Products, packing materials, trash and the like may not be left in the loading area during the usage period. Vehicle load-in and load-out to the 1F is possible from 8:00 to 20:00. (Source: Advance Load-in Notice, Equipment List updated October 19, 2026, Terms of Use 2026ver2 Article 15)",
+  "parking": "There is no dedicated Bellesalle parking lot and no hourly parking lot. To find nearby parking lots, search for \"Bellesalle Shibuya Garden\" on \"s-park\" (Tokyo Metropolitan Road Improvement and Conservation Corporation), which is linked from the official facility page. (Source: Equipment List updated October 19, 2026, official facility page)",
+  "waitingRooms": "Waiting rooms and the staff room together total about 200㎡, and the waiting rooms are free of charge. On B1F: Waiting Room 1 (51㎡), Waiting Room 2 (9㎡) and Waiting Room 3 (19㎡); on B2F: Waiting Room 4 (9㎡) and Waiting Room 5 (10㎡); and the Staff Room (33㎡). (Source: Official facility page, Equipment List updated October 19, 2026)",
+  "catering": "An \"outside food/drink fee\" applies if a caterer other than the operator's designated vendors is used (party use only; bringing in drinks only or boxed meals is not covered). The amount depends on venue area: up to 300㎡ 100,000 yen, up to 600㎡ 200,000 yen, up to 900㎡ 300,000 yen, up to 1,200㎡ 400,000 yen, 1,201㎡ and above 500,000 yen (110,000 to 550,000 yen each, tax included). Party menus for receptions are introduced on the website of Izumi Restaurant, a Sumitomo Fudosan Group company. (Source: Outside Food/Drink Fee Guide, FAQ)"
+ },
+ "documents": [
+  {
+   "title": "Terms of Use (2026ver2)"
+  },
+  {
+   "title": "Advance Load-in Notice (Shibuya Garden)"
+  },
+  {
+   "title": "Outside Food/Drink Fee Guide"
+  },
+  {
+   "title": "Hall Price List and Capacities (updated July 3, 2026)"
+  },
+  {
+   "title": "Price Calendar (terms valid until the end of January 2027)"
+  },
+  {
+   "title": "Equipment and Fixtures List (updated October 19, 2026)"
+  },
+  {
+   "title": "1F Floor Plan"
+  },
+  {
+   "title": "B1F Floor Plan"
+  },
+  {
+   "title": "1F Ceiling Plan"
+  },
+  {
+   "title": "B1F Ceiling Plan"
+  },
+  {
+   "title": "1F Electrical Plan"
+  },
+  {
+   "title": "B1F Electrical Plan"
+  },
+  {
+   "title": "1F Floor Drawing"
+  },
+  {
+   "title": "B1F Floor Drawing"
+  },
+  {
+   "title": "Document Downloads (official list)"
+  },
+  {
+   "title": "FAQ"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "FamilyMart Meguro Shinsen-cho",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "7-Eleven Meguro Aobadai 3-chome",
+    "hours": "7:00-23:00 (Mon-Sun & holidays)",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "Natural Lawson Shibuya Shinsen-cho",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location."
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "Kinko's Shibuya Sakura Stage",
+    "hours": "Daily 9:00-22:00",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Accea Shibuya Center-gai",
+    "hours": "Weekdays 8:00-22:00 / Sat, Sun & holidays 10:00-19:00",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "DAISO Shibuya Mark City",
+    "hours": "9:30-21:00",
+    "note": "Distance is calculated from the address location. The same building also has Standard Products Shibuya Mark City (9:30-21:00)."
+   },
+   {
+    "name": "DAISO Shibuya Center-gai",
+    "hours": "10:00-21:30",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "donki": [
+   {
+    "name": "Don Quijote Nakameguro Main Store",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. The store name on the Don Quijote official website is \"Nakameguro Main Store\"."
+   },
+   {
+    "name": "MEGA Don Quijote Shibuya Annex",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location."
+   }
+  ]
+ },
+ "photoCredit": "© 毒島みるく / CC0 · Wikimedia Commons"
+}

@@ -1,0 +1,457 @@
+{
+ "slug": "bellesalle-haneda",
+ "nameJa": "ベルサール羽田空港",
+ "nameEn": "BELLESALLE HANEDA AIRPORT",
+ "type": "conference",
+ "area": "shinagawa-venues",
+ "address": "〒144-0041 東京都大田区羽田空港2-7-1 羽田エアポートガーデン",
+ "officialUrl": "https://www.hvf.jp/conference/hanedaairport/",
+ "organizerUrl": "https://www.hvf.jp/conference/hanedaairport/usage_flow/",
+ "bizintokyoSlug": "bellesalle_haneda",
+ "accessSummary": "羽田空港第3ターミナル駅（京急・東京モノレール）徒歩1分（羽田エアポートガーデンのエントランスまで徒歩1分、ベルサールのエントランスまで徒歩4分）",
+ "notice": null,
+ "hours": "基準使用時間は8〜21時（超える分は延長料金）。原則年中無休（設備点検などで臨時休館する場合あり）",
+ "rooms": [
+  {
+   "name": "1F グランドホワイエ",
+   "areaM2": 183,
+   "ceilingM": 13.5,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "面積は利用料金一覧表（2026/1/23更新）の183㎡。同じ公式の会場一覧ページでは約184㎡。天井高は会場一覧ページの約13.5m。イベントホールと一体利用もできる"
+  },
+  {
+   "name": "1F HALL 全体",
+   "areaM2": 1109,
+   "ceilingM": 4.5,
+   "theater": 1000,
+   "school": 520,
+   "ushape": null,
+   "standing": 600,
+   "banquet": 336,
+   "note": "スクール3名掛け 780席。島型（6名掛け）660席（110島）。T字島型（6名掛け）540席（90島）。円卓（8名掛け）336席（42卓）。別にグランドホワイエあり"
+  },
+  {
+   "name": "1F HALL A",
+   "areaM2": 545,
+   "ceilingM": 4.5,
+   "theater": 480,
+   "school": 252,
+   "ushape": null,
+   "standing": 280,
+   "banquet": 176,
+   "note": "スクール3名掛け 378席。島型（6名掛け）336席（56島）。T字島型（6名掛け）252席（42島）。円卓（8名掛け）176席（22卓）"
+  },
+  {
+   "name": "1F HALL B",
+   "areaM2": 564,
+   "ceilingM": 4.5,
+   "theater": 480,
+   "school": 252,
+   "ushape": null,
+   "standing": 280,
+   "banquet": 176,
+   "note": "スクール3名掛け 378席。島型（6名掛け）336席（56島）。T字島型（6名掛け）252席（42島）。円卓（8名掛け）176席（22卓）"
+  },
+  {
+   "name": "1F ROOM 1",
+   "areaM2": 127,
+   "ceilingM": 4.0,
+   "theater": 98,
+   "school": 48,
+   "ushape": null,
+   "standing": 60,
+   "banquet": 40,
+   "note": "スクール3名掛け 72席。島型（6名掛け）48席（8島）。T字島型（6名掛け）30席（5島）。円卓（8名掛け）40席（5卓）"
+  },
+  {
+   "name": "1F ROOM 2",
+   "areaM2": 121,
+   "ceilingM": 4.0,
+   "theater": 98,
+   "school": 48,
+   "ushape": null,
+   "standing": 60,
+   "banquet": 40,
+   "note": "スクール3名掛け 72席。島型（6名掛け）48席（8島）。T字島型（6名掛け）30席（5島）。円卓（8名掛け）40席（5卓）"
+  },
+  {
+   "name": "1F ROOM 3",
+   "areaM2": 121,
+   "ceilingM": 4.0,
+   "theater": 98,
+   "school": 48,
+   "ushape": null,
+   "standing": 60,
+   "banquet": 40,
+   "note": "スクール3名掛け 72席。島型（6名掛け）48席（8島）。T字島型（6名掛け）30席（5島）。円卓（8名掛け）40席（5卓）"
+  },
+  {
+   "name": "1F ROOM 4",
+   "areaM2": 121,
+   "ceilingM": 4.0,
+   "theater": 98,
+   "school": 48,
+   "ushape": null,
+   "standing": 60,
+   "banquet": 40,
+   "note": "スクール3名掛け 72席。島型（6名掛け）48席（8島）。T字島型（6名掛け）30席（5島）。円卓（8名掛け）40席（5卓）"
+  },
+  {
+   "name": "1F ROOM 5",
+   "areaM2": 121,
+   "ceilingM": 4.0,
+   "theater": 98,
+   "school": 48,
+   "ushape": null,
+   "standing": 60,
+   "banquet": 40,
+   "note": "スクール3名掛け 72席。島型（6名掛け）48席（8島）。T字島型（6名掛け）30席（5島）。円卓（8名掛け）40席（5卓）"
+  },
+  {
+   "name": "1F ROOM 2+3",
+   "areaM2": 242,
+   "ceilingM": 4.0,
+   "theater": 196,
+   "school": 80,
+   "ushape": null,
+   "standing": 120,
+   "banquet": 80,
+   "note": "スクール3名掛け 120席。島型（6名掛け）96席（16島）。T字島型（6名掛け）60席（10島）。円卓（8名掛け）80席（10卓）"
+  },
+  {
+   "name": "1F ROOM 3+4",
+   "areaM2": 242,
+   "ceilingM": 4.0,
+   "theater": 196,
+   "school": 80,
+   "ushape": null,
+   "standing": 120,
+   "banquet": 80,
+   "note": "スクール3名掛け 120席。島型（6名掛け）96席（16島）。T字島型（6名掛け）60席（10島）。円卓（8名掛け）80席（10卓）"
+  },
+  {
+   "name": "1F ROOM 4+5",
+   "areaM2": 242,
+   "ceilingM": 4.0,
+   "theater": 196,
+   "school": 80,
+   "ushape": null,
+   "standing": 120,
+   "banquet": 80,
+   "note": "スクール3名掛け 120席。島型（6名掛け）96席（16島）。T字島型（6名掛け）60席（10島）。円卓（8名掛け）80席（10卓）"
+  },
+  {
+   "name": "1F ROOM 2+3+4",
+   "areaM2": 363,
+   "ceilingM": 4.0,
+   "theater": 294,
+   "school": 124,
+   "ushape": null,
+   "standing": 180,
+   "banquet": 120,
+   "note": "スクール3名掛け 186席。島型（6名掛け）144席（24島）。T字島型（6名掛け）90席（15島）。円卓（8名掛け）120席（15卓）"
+  },
+  {
+   "name": "1F ROOM 3+4+5",
+   "areaM2": 363,
+   "ceilingM": 4.0,
+   "theater": 294,
+   "school": 124,
+   "ushape": null,
+   "standing": 180,
+   "banquet": 120,
+   "note": "スクール3名掛け 186席。島型（6名掛け）144席（24島）。T字島型（6名掛け）90席（15島）。円卓（8名掛け）120席（15卓）"
+  },
+  {
+   "name": "1F ROOM 2+3+4+5",
+   "areaM2": 484,
+   "ceilingM": 4.0,
+   "theater": 392,
+   "school": 168,
+   "ushape": null,
+   "standing": 240,
+   "banquet": 160,
+   "note": "スクール3名掛け 252席。島型（6名掛け）192席（32島）。T字島型（6名掛け）120席（20島）。円卓（8名掛け）160席（20卓）"
+  },
+  {
+   "name": "1F ROOM 6",
+   "areaM2": 129,
+   "ceilingM": 4.0,
+   "theater": 96,
+   "school": 48,
+   "ushape": null,
+   "standing": 60,
+   "banquet": 40,
+   "note": "スクール3名掛け 72席。島型（6名掛け）48席（8島）。T字島型（6名掛け）30席（5島）。円卓（8名掛け）40席（5卓）"
+  },
+  {
+   "name": "1F ROOM 7",
+   "areaM2": 122,
+   "ceilingM": 4.0,
+   "theater": 96,
+   "school": 48,
+   "ushape": null,
+   "standing": 60,
+   "banquet": 40,
+   "note": "スクール3名掛け 72席。島型（6名掛け）48席（8島）。T字島型（6名掛け）30席（5島）。円卓（8名掛け）40席（5卓）"
+  },
+  {
+   "name": "1F ROOM 8",
+   "areaM2": 122,
+   "ceilingM": 4.0,
+   "theater": 96,
+   "school": 48,
+   "ushape": null,
+   "standing": 60,
+   "banquet": 40,
+   "note": "スクール3名掛け 72席。島型（6名掛け）48席（8島）。T字島型（6名掛け）30席（5島）。円卓（8名掛け）40席（5卓）"
+  },
+  {
+   "name": "1F ROOM 9",
+   "areaM2": 122,
+   "ceilingM": 4.0,
+   "theater": 96,
+   "school": 48,
+   "ushape": null,
+   "standing": 60,
+   "banquet": 40,
+   "note": "スクール3名掛け 72席。島型（6名掛け）48席（8島）。T字島型（6名掛け）30席（5島）。円卓（8名掛け）40席（5卓）"
+  },
+  {
+   "name": "1F ROOM 10",
+   "areaM2": 127,
+   "ceilingM": 4.0,
+   "theater": 96,
+   "school": 48,
+   "ushape": null,
+   "standing": 60,
+   "banquet": 40,
+   "note": "スクール3名掛け 72席。島型（6名掛け）48席（8島）。T字島型（6名掛け）30席（5島）。円卓（8名掛け）40席（5卓）"
+  },
+  {
+   "name": "1F ROOM 6+7",
+   "areaM2": 251,
+   "ceilingM": 4.0,
+   "theater": 192,
+   "school": 94,
+   "ushape": null,
+   "standing": 120,
+   "banquet": 80,
+   "note": "スクール3名掛け 141席。島型（6名掛け）96席（16島）。T字島型（6名掛け）60席（10島）。円卓（8名掛け）80席（10卓）"
+  },
+  {
+   "name": "1F ROOM 8+9",
+   "areaM2": 244,
+   "ceilingM": 4.0,
+   "theater": 192,
+   "school": 94,
+   "ushape": null,
+   "standing": 120,
+   "banquet": 80,
+   "note": "スクール3名掛け 141席。島型（6名掛け）96席（16島）。T字島型（6名掛け）60席（10島）。円卓（8名掛け）80席（10卓）"
+  },
+  {
+   "name": "1F ROOM 9+10",
+   "areaM2": 249,
+   "ceilingM": 4.0,
+   "theater": 192,
+   "school": 94,
+   "ushape": null,
+   "standing": 120,
+   "banquet": 80,
+   "note": "スクール3名掛け 141席。島型（6名掛け）96席（16島）。T字島型（6名掛け）60席（10島）。円卓（8名掛け）80席（10卓）"
+  },
+  {
+   "name": "1F ROOM 8+9+10",
+   "areaM2": 371,
+   "ceilingM": 4.0,
+   "theater": 288,
+   "school": 132,
+   "ushape": null,
+   "standing": 180,
+   "banquet": 120,
+   "note": "スクール3名掛け 198席。島型（6名掛け）144席（24島）。T字島型（6名掛け）90席（15島）。円卓（8名掛け）120席（15卓）"
+  },
+  {
+   "name": "1F イベントホール 控室 1",
+   "areaM2": 17,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "4席。4時間16,500円・9時間36,300円・12時間45,100円（各税込）。ホテルのバーラウンジや客室を控室に使うこともできる（有料）"
+  },
+  {
+   "name": "1F イベントホール 控室 2",
+   "areaM2": 12,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "4席。4時間16,500円・9時間36,300円・12時間45,100円（各税込）。ホテルのバーラウンジや客室を控室に使うこともできる（有料）"
+  },
+  {
+   "name": "4F バンケットルームプレミア",
+   "areaM2": 98,
+   "ceilingM": null,
+   "theater": 60,
+   "school": 40,
+   "ushape": null,
+   "standing": 45,
+   "banquet": 32,
+   "note": "スクール3名掛け 60席。島型（6名掛け）36席（6島）。T字島型（6名掛け）24席（4島）。円卓（8名掛け）32席（4卓）"
+  }
+ ],
+ "roomsSource": "https://www.hvf.jp/conference/hanedaairport/pdf/price_list.pdf",
+ "ops": {
+  "prevDaySetup": {
+   "text": "使用時間は、準備を始めてから原状回復を終えて退出するまでの時間で、準備・撤去も含まれる。会議室・イベントホールの基準使用時間は8〜21時の枠内（会議室は4・9・12時間、ホールは9・12時間）。荷物の事前受け取りは事前搬入届を出し、到着日時は会場が指定する。（出典：使用マニュアル（兼使用規約）2024年7月30日作成 第6条・第20条）",
+   "source": "https://www.hvf.jp/conference/hanedaairport/pdf/kiyaku.pdf"
+  },
+  "loadingHours": {
+   "text": "搬入・搬出車の出入りは使用時間内に、所定の場所から行う。事前搬入届または搬入出スケジュールを使用開始日の1週間前までに提出する。イベントホールは4t車での搬入ができる。搬入時間は会場側で調整することがある。（出典：使用マニュアル（兼使用規約）2024年7月30日作成 第17条、会場一覧ページ）",
+   "source": "https://www.hvf.jp/conference/hanedaairport/pdf/kiyaku.pdf"
+  },
+  "vehicleRules": {
+   "text": "建物周辺での路上駐車は禁止。搬入・搬出車が混雑しそうなときは、出入口に整理員を置く。使用期間中の荷捌き場には商品・梱包材・装飾資材・ゴミなどを置けず、搬出入用の扉は常に閉めておく。搬入・搬出時は「住友不動産養生基準」を守る。（出典：使用マニュアル（兼使用規約）2024年7月30日作成 第10条・第16条・第17条）",
+   "source": "https://www.hvf.jp/conference/hanedaairport/pdf/kiyaku.pdf"
+  },
+  "parking": {
+   "text": "羽田エアポートガーデン駐車場は24時間年中無休。台数はA駐車場が普通車288台（予約可）、B駐車場が普通車155台。車両は高さ2.3m・幅2.1m・長さ5.5m以内。料金は入場から1時間ごとに通常期300円・多客期500円で、24時間ごとの最大料金はない。混雑時は駐車できないことがあるため、公式は公共交通機関の利用を案内している。",
+   "source": "https://www.shopping-sumitomo-rd.com/haneda/parkingsite/"
+  },
+  "waitingRooms": {
+   "text": "イベントホール利用時に使える控室が2室ある（控室1は17㎡、控室2は12㎡、各4席）。使用料は4時間16,500円・9時間36,300円・12時間45,100円（各税込）。ホテルのバーラウンジや客室を控室として使うこともできる（有料）。（出典：利用料金一覧表 2026/1/23更新、使用マニュアル第9条、備品・サービスページ）",
+   "source": "https://www.hvf.jp/conference/hanedaairport/pdf/price_list.pdf"
+  },
+  "catering": {
+   "text": "飲食の手配に当社指定業者以外を使う場合は、別途「持込料」がかかる。公式の備品・サービスページでは、研修後の懇親会やレセプションパーティー向けに、ホテルメトロポリタンエドモント（コース料理の正餐に対応）、フォリクラッセ（フィンガーフード）、ダイナック（カップ料理、ベジタリアン・グルテンフリー弁当に対応）、コルドンブルー（寿司・ローストビーフ等のパフォーマンス料理）のメニューが案内され、ケータリングにも対応するとある。（出典：使用マニュアル（兼使用規約）第5条、備品・サービスページ）",
+   "source": "https://www.hvf.jp/conference/hanedaairport/equipment/"
+  },
+  "restaurants": {
+   "text": "ホテル・天然温泉・ショップ・レストランを併設した複合施設（羽田エアポートガーデン）の中にある。研修後の懇親会・レセプションパーティーは、催事の内容や予算に応じて自由にアレンジできると案内されている。（出典：特徴ページ、備品・サービスページ）",
+   "source": "https://www.hvf.jp/conference/hanedaairport/equipment/"
+  }
+ },
+ "documents": [
+  {
+   "title": "使用マニュアル（兼使用規約）（2024年7月30日作成）",
+   "url": "https://www.hvf.jp/conference/hanedaairport/pdf/kiyaku.pdf"
+  },
+  {
+   "title": "利用料金一覧表（2026/1/23更新）",
+   "url": "https://www.hvf.jp/conference/hanedaairport/pdf/price_list.pdf"
+  },
+  {
+   "title": "会場平面図（イベントホール・会議室）",
+   "url": "https://www.hvf.jp/conference/hanedaairport/pdf/venue_drawing.pdf"
+  },
+  {
+   "title": "HALL A・B 図面",
+   "url": "https://www.hvf.jp/conference/hanedaairport/pdf/hall_a_b.pdf"
+  },
+  {
+   "title": "ROOM 1 図面",
+   "url": "https://www.hvf.jp/conference/hanedaairport/pdf/room1.pdf"
+  },
+  {
+   "title": "ROOM 2+3+4+5 図面",
+   "url": "https://www.hvf.jp/conference/hanedaairport/pdf/room2+3+4+5.pdf"
+  },
+  {
+   "title": "ROOM 6 図面",
+   "url": "https://www.hvf.jp/conference/hanedaairport/pdf/room6.pdf"
+  },
+  {
+   "title": "ROOM 8+9+10 図面",
+   "url": "https://www.hvf.jp/conference/hanedaairport/pdf/room8+9+10.pdf"
+  },
+  {
+   "title": "1Fホール 設備概要",
+   "url": "https://www.hvf.jp/conference/hanedaairport/pdf/equipment01.pdf"
+  },
+  {
+   "title": "1Fホール 備品リスト",
+   "url": "https://www.hvf.jp/conference/hanedaairport/pdf/equipment02.pdf"
+  },
+  {
+   "title": "会議室 備品リスト",
+   "url": "https://www.hvf.jp/conference/hanedaairport/pdf/equipment03.pdf"
+  },
+  {
+   "title": "羽田エアポートガーデン駐車場",
+   "url": "https://www.shopping-sumitomo-rd.com/haneda/parkingsite/"
+  }
+ ],
+ "checkedAt": "2026-10-31",
+ "lat": 35.543854,
+ "lng": 139.764679,
+ "nearby": {
+  "convenience": [
+   {
+    "name": "ローソン 羽田エアポートガーデンスーベニア店",
+    "brand": "ローソン",
+    "distanceM": 82,
+    "walkMin": 2,
+    "hours": "24時間営業",
+    "address": "東京都大田区羽田空港2-7-1",
+    "verified": true,
+    "source": "https://www.areamarker.com/lawson/info/388292",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "ローソン 羽田エアポートガーデン店",
+    "brand": "ローソン",
+    "distanceM": 114,
+    "walkMin": 2,
+    "hours": "24時間営業",
+    "address": "東京都大田区羽田空港2-7-1 2F215",
+    "verified": true,
+    "source": "https://www.areamarker.com/lawson/info/364015",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "セブン-イレブン 京急ST羽田空港第3ターミナル店",
+    "brand": "セブン-イレブン",
+    "distanceM": 306,
+    "walkMin": 4,
+    "hours": "6:00-23:00（月〜日・祝）",
+    "address": "東京都大田区羽田空港2-6-5",
+    "verified": true,
+    "source": "https://seven-eleven.areamarker.com/711map/info/294221",
+    "note": "距離は公式の店舗位置で計算"
+   }
+  ],
+  "copyshop": [],
+  "hundredYen": [],
+  "donki": [
+   {
+    "name": "ソラドンキ羽田空港店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 292,
+    "walkMin": 4,
+    "hours": "9:00-22:40",
+    "address": "東京都大田区羽田空港2-6-5 国際線旅客ターミナルビル5階",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=423",
+    "note": "距離は住所の位置で計算。ドン・キホーテの別業態（公式サイトの店舗名は「ソラドンキ羽田空港店」）"
+   }
+  ]
+ },
+ "drinkDelivery": {
+  "available": true
+ },
+ "photo": {
+  "src": "/images/venues/bellesalle-haneda.jpg",
+  "credit": "写真は会場が入る羽田イノベーションシティの建物です。© Mr.Asylum / CC BY-SA 4.0 · Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:HANEDA_INNOVATION_CITY_01.jpg"
+ }
+}

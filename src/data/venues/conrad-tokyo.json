@@ -1,0 +1,357 @@
+{
+ "slug": "conrad-tokyo",
+ "nameJa": "コンラッド東京",
+ "nameEn": "Conrad Tokyo",
+ "type": "hotel",
+ "area": "shimbashi-hamamatsucho-venues",
+ "address": "〒105-7337 東京都港区東新橋1-9-1",
+ "officialUrl": "https://conrad-tokyo.hiltonjapan.co.jp/",
+ "organizerUrl": "https://conrad-tokyo.hiltonjapan.co.jp/mice/",
+ "bizintokyoSlug": "conrad_tokyo",
+ "accessSummary": "汐留駅（大江戸線・ゆりかもめ）徒歩1分／新橋駅（JR・浅草線・銀座線）徒歩7分",
+ "notice": "2027年1月17日（日）17:00〜1月18日（月）6:00（予定）は、ビル全体の法定電気設備点検のため、宴会場を含む全施設が休業",
+ "hours": null,
+ "rooms": [
+  {
+   "name": "大宴会場 風波（アネックス2F）",
+   "areaM2": 577,
+   "ceilingM": 7.2,
+   "theater": 504,
+   "school": 315,
+   "ushape": null,
+   "standing": 480,
+   "banquet": 243,
+   "note": "縦横16.6×34.7m。クレッセント189名。スクールは2名掛け238席・3名掛け357席（レイアウト図PDF）。正餐は8名掛け216席（同PDF）。公式の表ではスクール315名・正餐243名と、レイアウト図PDFの席数が異なる"
+  },
+  {
+   "name": "大宴会場 波（アネックス2F）",
+   "areaM2": 195,
+   "ceilingM": 7.2,
+   "theater": 150,
+   "school": 105,
+   "ushape": 48,
+   "standing": 150,
+   "banquet": 72,
+   "note": "縦横16.6×11.3m。クレッセント42名"
+  },
+  {
+   "name": "大宴会場 渚（アネックス2F）",
+   "areaM2": 182,
+   "ceilingM": 7.2,
+   "theater": 150,
+   "school": 84,
+   "ushape": 48,
+   "standing": 150,
+   "banquet": 72,
+   "note": "縦横16.6×10.7m。クレッセント42名"
+  },
+  {
+   "name": "大宴会場 凪（アネックス2F）",
+   "areaM2": 187,
+   "ceilingM": 7.2,
+   "theater": 150,
+   "school": 84,
+   "ushape": 48,
+   "standing": 150,
+   "banquet": 72,
+   "note": "縦横16.6×10.7m。クレッセント42名"
+  },
+  {
+   "name": "中宴会場 浜離宮（アネックス1F）",
+   "areaM2": 227,
+   "ceilingM": 4.0,
+   "theater": 180,
+   "school": 120,
+   "ushape": 51,
+   "standing": 180,
+   "banquet": 88,
+   "note": "縦横12.7×17.8m。クレッセント77名。レイアウト図PDFではスクール120席・正餐80席・シアター180席"
+  },
+  {
+   "name": "中宴会場 黒松（アネックス1F）",
+   "areaM2": 110,
+   "ceilingM": 4.0,
+   "theater": 84,
+   "school": 60,
+   "ushape": 36,
+   "standing": 60,
+   "banquet": 40,
+   "note": "縦横12.7×8.7m。クレッセント28名"
+  },
+  {
+   "name": "中宴会場 汐入（アネックス1F）",
+   "areaM2": 104,
+   "ceilingM": 4.0,
+   "theater": 84,
+   "school": 60,
+   "ushape": 36,
+   "standing": 60,
+   "banquet": 40,
+   "note": "縦横12.7×8.2m。クレッセント28名"
+  },
+  {
+   "name": "小宴会場 紅葉（アネックス1F）",
+   "areaM2": 35,
+   "ceilingM": 3.5,
+   "theater": null,
+   "school": 18,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "縦横7.0×5.2m。ボードスタイル12名"
+  },
+  {
+   "name": "小宴会場 椿（アネックス1F）",
+   "areaM2": 35,
+   "ceilingM": 3.5,
+   "theater": null,
+   "school": 18,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "縦横7.0×5.2m。ボードスタイル12名"
+  },
+  {
+   "name": "小宴会場 皐（アネックス1F）",
+   "areaM2": 24,
+   "ceilingM": 3.5,
+   "theater": null,
+   "school": 12,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "縦横5.8×4.5m。ボードスタイル8名。隣接の小宴会場と合わせて一続きの部屋としても使える"
+  },
+  {
+   "name": "会議室I（28F）",
+   "areaM2": 56,
+   "ceilingM": 3.0,
+   "theater": 30,
+   "school": 18,
+   "ushape": 18,
+   "standing": 30,
+   "banquet": null,
+   "note": "縦横8.0×7.0m。ボードスタイル18名。レセプションは表の値（立食）"
+  },
+  {
+   "name": "会議室II（28F）",
+   "areaM2": 116,
+   "ceilingM": 3.0,
+   "theater": 50,
+   "school": 36,
+   "ushape": 36,
+   "standing": 50,
+   "banquet": null,
+   "note": "縦横8.0×14.5m。ボードスタイル36名。レセプションは表の値（立食）"
+  },
+  {
+   "name": "会議室III（28F）",
+   "areaM2": 64,
+   "ceilingM": 3.0,
+   "theater": 30,
+   "school": 18,
+   "ushape": 18,
+   "standing": 30,
+   "banquet": null,
+   "note": "縦横8.0×8.0m。ボードスタイル18名。レセプションは表の値（立食）"
+  },
+  {
+   "name": "会議室I+II（28F）",
+   "areaM2": 172,
+   "ceilingM": 3.0,
+   "theater": 136,
+   "school": 66,
+   "ushape": 60,
+   "standing": 80,
+   "banquet": null,
+   "note": "縦横8.0×21.5m。ボードスタイル54名。レセプションは表の値（立食）"
+  },
+  {
+   "name": "会議室II+III（28F）",
+   "areaM2": 180,
+   "ceilingM": 3.0,
+   "theater": 136,
+   "school": 66,
+   "ushape": 60,
+   "standing": 80,
+   "banquet": null,
+   "note": "縦横8.0×22.5m。ボードスタイル54名。レセプションは表の値（立食）"
+  },
+  {
+   "name": "会議室I+II+III（28F）",
+   "areaM2": 236,
+   "ceilingM": 3.0,
+   "theater": 176,
+   "school": 84,
+   "ushape": 78,
+   "standing": 110,
+   "banquet": null,
+   "note": "縦横8.0×29.5m。レセプションは表の値（立食）"
+  }
+ ],
+ "roomsSource": "https://conrad-tokyo.hiltonjapan.co.jp/mice/large ／ https://conrad-tokyo.hiltonjapan.co.jp/mice/medium ／ https://conrad-tokyo.hiltonjapan.co.jp/mice/small ／ https://conrad-tokyo.hiltonjapan.co.jp/mice/other",
+ "ops": {
+  "parking": {
+   "text": "ホテル施設内に駐車場が250台分ある。駐車スペースの上限は車長5.8m・車幅1.9m・車高2.2m。通常料金は30分300円、宿泊客は24時間3,000円（バレーサービス4,000円）。レストラン利用で割引（3,000円以上5,000円未満で1時間無料、5,000円以上10,000円未満で2時間無料、10,000円以上で4時間無料）。満車の場合はホテル外の駐車場を利用する。お客様用のEV充電設備はない。",
+   "source": "https://conrad-tokyo.hiltonjapan.co.jp/access/"
+  },
+  "waitingRooms": {
+   "text": "小宴会場（紅葉35㎡・椿35㎡・皐24㎡、アネックス1F）は、ミーティングや控室に最適な部屋として案内されている。隣接する小宴会場と合わせて一続きの部屋としても使える。",
+   "source": "https://conrad-tokyo.hiltonjapan.co.jp/mice/small"
+  },
+  "catering": {
+   "text": "ホテルのケータリングサービスがある（30名から、1名30,000〜40,000円程度。ビュッフェ料理・飲物・ケータリング機材一式を含む。東京23区の場合）。申込期限は利用日の2週間前まで。現地調査のうえで見積り、会場によっては対応が難しい場合がある。会議室向けの「ミーティングパッケージ」は1日（8時間）お一人31,130円、半日（4時間）お一人18,480円（最低10名、税・サービス料込み、開催日の2か月前から予約可）。",
+   "source": "https://conrad-tokyo.hiltonjapan.co.jp/mice/lp/catering"
+  },
+  "restaurants": {
+   "text": "ホテル内のレストランとして、コラージュ、チャイナブルー、風花、セリーズ、トゥエンティエイトが公式に案内されている。",
+   "source": "https://conrad-tokyo.hiltonjapan.co.jp/mice/"
+  }
+ },
+ "documents": [
+  {
+   "title": "大宴会場 風波 席数図（スクール・正餐・シアター）",
+   "url": "https://conrad-tokyo.hiltonjapan.co.jp/pdf/mice/kazanami_tables.pdf"
+  },
+  {
+   "title": "中宴会場 浜離宮 席数図",
+   "url": "https://conrad-tokyo.hiltonjapan.co.jp/pdf/mice/hamarikyu_tables.pdf"
+  },
+  {
+   "title": "会議室 席数図",
+   "url": "https://conrad-tokyo.hiltonjapan.co.jp/pdf/mice/meetings_tables.pdf"
+  },
+  {
+   "title": "アクセス・駐車場",
+   "url": "https://conrad-tokyo.hiltonjapan.co.jp/access/"
+  },
+  {
+   "title": "ケータリングサービス",
+   "url": "https://conrad-tokyo.hiltonjapan.co.jp/mice/lp/catering"
+  },
+  {
+   "title": "一日または半日ミーティングパッケージ",
+   "url": "https://conrad-tokyo.hiltonjapan.co.jp/plans/mice/2803"
+  }
+ ],
+ "checkedAt": "2026-10-31",
+ "lat": 35.662498,
+ "lng": 139.760895,
+ "nearby": {
+  "convenience": [
+   {
+    "name": "ファミマ東京汐留ビルディング店",
+    "brand": "ファミリーマート",
+    "distanceM": 66,
+    "walkMin": 1,
+    "hours": "7:00-23:00",
+    "address": "東京都港区東新橋1-9-1 東京汐留ビルディング内 B1F",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/23373",
+    "note": "距離は公式店舗一覧の位置で計算（住所の位置では会場と同じ街区のため）"
+   },
+   {
+    "name": "ファミリーマート 汐留メディアタワー店",
+    "brand": "ファミリーマート",
+    "distanceM": 167,
+    "walkMin": 3,
+    "hours": "24時間営業",
+    "address": "東京都港区東新橋1-7-1 汐留メディアタワーB2F",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/18585",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "ファミリーマート 汐留タワー店",
+    "brand": "ファミリーマート",
+    "distanceM": 208,
+    "walkMin": 3,
+    "hours": "24時間営業",
+    "address": "東京都港区東新橋1丁目6-3",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/77205",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "キンコーズ・汐留店",
+    "brand": "キンコーズ",
+    "distanceM": 208,
+    "walkMin": 3,
+    "hours": "平日 9:00-19:00／土・日・祝 休業",
+    "address": "東京都港区東新橋1丁目6-3 汐留タワーB2F",
+    "verified": true,
+    "source": "https://www.kinkos.co.jp/store/tokyo/t030/",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "アクセア 汐留シティセンター店",
+    "brand": "アクセア",
+    "distanceM": 352,
+    "walkMin": 5,
+    "hours": "平日・土日祝8:00〜22:00",
+    "address": "東京都港区東新橋1-5-2 汐留シティセンターB2F B204",
+    "verified": true,
+    "source": "https://www.accea.co.jp/entry.html",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "3COINS OOOPS! 新橋駅汐留口店",
+    "brand": "3COINS",
+    "distanceM": 475,
+    "walkMin": 6,
+    "hours": "平日 8:00-22:00／土日祝 10:00-21:00",
+    "address": "東京都港区新橋2丁目17-14 JR新橋駅構内B1F",
+    "verified": true,
+    "source": "https://palcloset.storelocator.jp/map",
+    "note": "距離は公式の店舗位置で計算。公式の3COINS店舗一覧に載る駅ナカ業態「OOOPS!」"
+   },
+   {
+    "name": "Seria イグジットメルサ銀座店",
+    "brand": "セリア",
+    "distanceM": 954,
+    "walkMin": 12,
+    "hours": "毎日 11:00-20:00",
+    "address": "東京都中央区銀座5-7-10 EXIT MELSA 5F",
+    "verified": true,
+    "source": "https://shop.seria-group.com/seria/info/000002655",
+    "note": "距離は公式の店舗位置で計算"
+   }
+  ],
+  "donki": [
+   {
+    "name": "ドン・キホーテ 銀座本館（銀座ナイン3号館）",
+    "brand": "ドン・キホーテ",
+    "distanceM": 602,
+    "walkMin": 8,
+    "hours": "24時間営業",
+    "address": "東京都中央区銀座8-10 銀座ナイン3号 館",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=92",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "ドン・キホーテ 六本木店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 2377,
+    "walkMin": 30,
+    "hours": "24時間営業",
+    "address": "東京都港区六本木3-14-10",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=31",
+    "note": "距離は住所の位置で計算。遠い。ドン・キホーテ公式サイトの店舗名は「六本木店」"
+   }
+  ]
+ },
+ "drinkDelivery": {
+  "available": true
+ },
+ "photo": {
+  "src": "/images/venues/conrad-tokyo.jpg",
+  "credit": "© Shibuya246 / CC BY-SA 3.0 · Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Conrad_Hotel_Tokyo.JPG"
+ }
+}

@@ -1,0 +1,279 @@
+{
+ "slug": "grand-nikko-tokyo-bay-maihama",
+ "nameJa": "グランドニッコー東京ベイ 舞浜",
+ "nameEn": "Grand Nikko Tokyo Bay Maihama",
+ "type": "hotel",
+ "area": "chiba-venues",
+ "address": "〒279-0031 千葉県浦安市舞浜1-7",
+ "officialUrl": "https://tokyobay.grandnikko.com/",
+ "organizerUrl": "https://tokyobay.grandnikko.com/banquet/",
+ "bizintokyoSlug": "grand-nikko-tokyo-bay-maihama",
+ "accessSummary": "JR舞浜駅（京葉線・武蔵野線）南口から無料シャトルバス（ディズニーリゾートクルーザー）で約7分／ディズニーリゾートライン ベイサイド・ステーション下車／首都高速湾岸線 葛西ランプから約7分・浦安ランプから約10分",
+ "notice": null,
+ "hours": "宴会・ミーティングの問い合わせ受付は平日10:00〜18:00（Tel 047-711-2438）",
+ "rooms": [
+  {
+   "name": "1F グランドボールルーム（全室）",
+   "areaM2": 1800,
+   "ceilingM": 6,
+   "theater": 2500,
+   "school": 1500,
+   "ushape": null,
+   "standing": 2500,
+   "banquet": 1500,
+   "note": "最大6分割可能。隣接する宴会ロビー「ホワイエ」は1,200㎡。会場個別ページ・レイアウト図（ファイル更新2020年8月）の席数は、シアター1,920席、着席10名掛け×100卓=1,000席、スクール1,224席"
+  },
+  {
+   "name": "1F グランドボールルーム（1/2）",
+   "areaM2": 883,
+   "ceilingM": 6,
+   "theater": 1200,
+   "school": 700,
+   "ushape": null,
+   "standing": 1200,
+   "banquet": 700,
+   "note": "会場個別ページ・レイアウト図の席数は、シアター 左1,080席・右1,020席、着席 左490席（49卓）・右420席（42卓）、スクール 左660席・右576席"
+  },
+  {
+   "name": "1F グランドボールルーム（1/3）",
+   "areaM2": 586,
+   "ceilingM": 6,
+   "theater": 800,
+   "school": 450,
+   "ushape": null,
+   "standing": 600,
+   "banquet": 450,
+   "note": "会場個別ページ・レイアウト図の席数は、シアター 612席／680席／612席（左・中央・右）"
+  },
+  {
+   "name": "1F ZAZZY（ザジー）",
+   "areaM2": 376,
+   "ceilingM": 3.8,
+   "theater": 360,
+   "school": 210,
+   "ushape": null,
+   "standing": null,
+   "banquet": 180,
+   "note": "フローリングの中宴会場。会場個別ページは円卓形式180席"
+  },
+  {
+   "name": "1F ティヨル",
+   "areaM2": 165,
+   "ceilingM": 3.2,
+   "theater": 200,
+   "school": 120,
+   "ushape": null,
+   "standing": null,
+   "banquet": 100,
+   "note": "グループラウンジ。会場個別ページのレイアウトは着席42席"
+  },
+  {
+   "name": "1F オリビエ",
+   "areaM2": 67,
+   "ceilingM": 3.1,
+   "theater": 30,
+   "school": 30,
+   "ushape": null,
+   "standing": 30,
+   "banquet": 30,
+   "note": "会場個別ページ・レイアウト図（ファイル更新2020年8月）の席数は、シアター64席、スクール36席、囲み24席、着席10名掛け×3卓=30席"
+  },
+  {
+   "name": "1F アカシア",
+   "areaM2": 54,
+   "ceilingM": 3.1,
+   "theater": 20,
+   "school": 20,
+   "ushape": null,
+   "standing": null,
+   "banquet": 20,
+   "note": "会場個別ページ・レイアウト図（ファイル更新2020年8月）の席数は、シアター48席、スクール30席、囲み18席、着席10名掛け×2卓=20席"
+  },
+  {
+   "name": "2F ロジエー／マロニエ",
+   "areaM2": 136,
+   "ceilingM": 2.9,
+   "theater": 90,
+   "school": 70,
+   "ushape": null,
+   "standing": 90,
+   "banquet": 70,
+   "note": "会場個別ページの席数は、シアター120席、スクール63席、着席10名掛け×7卓=70席、着席ブッフェ10名掛け×5卓=50席"
+  },
+  {
+   "name": "2F イリス／エラブル／コスモス",
+   "areaM2": 66,
+   "ceilingM": 2.9,
+   "theater": 30,
+   "school": 30,
+   "ushape": null,
+   "standing": 30,
+   "banquet": 30,
+   "note": "2分割が可能。会場個別ページのレイアウトは、着席10名掛け×3卓=30席、4名掛け×6卓=24席、囲み24席"
+  },
+  {
+   "name": "3F ラ マレー",
+   "areaM2": 155,
+   "ceilingM": 2.7,
+   "theater": 140,
+   "school": 90,
+   "ushape": null,
+   "standing": null,
+   "banquet": 70,
+   "note": "シーサイドバンケット。会場個別ページのレイアウトは7名×11卓=77席"
+  },
+  {
+   "name": "12F ラ テラス",
+   "areaM2": 273,
+   "ceilingM": 2.7,
+   "theater": 200,
+   "school": 100,
+   "ushape": null,
+   "standing": 130,
+   "banquet": 90,
+   "note": "スカイバンケット。12Fの宴会場は利用について事前に相談する（公式の案内）"
+  },
+  {
+   "name": "12F パルミエ",
+   "areaM2": 64,
+   "ceilingM": 2.6,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": 20,
+   "note": "会場個別ページ・レイアウト図は着席10名掛け×2卓=20名、囲み12名。12Fの宴会場は利用について事前に相談する（公式の案内）"
+  },
+  {
+   "name": "12F ピボワンヌ",
+   "areaM2": 46,
+   "ceilingM": 2.6,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": 20,
+   "note": "会場個別ページ・レイアウト図は着席6名掛け×3卓=18名、囲み12名（設備比較表は20名）。12Fの宴会場は利用について事前に相談する（公式の案内）"
+  }
+ ],
+ "roomsSource": "https://tokyobay.grandnikko.com/banquet/guide/（宴会場の設備比較表）",
+ "ops": {
+  "parking": {
+   "text": "宴会の利用者は6時間まで無料で、6時間を過ぎると30分ごとに300円（税込）。通常料金は30分ごとに300円。入庫時に駐車券は出ず、利用先で駐車場利用を申告して割引券を受け取り、精算機（3階フロント、1階正面玄関、駐車場内2か所）で精算する。精算時に車両ナンバー（4桁）の入力が必要。割引の手続きをしないと通常料金になる。",
+   "source": "https://tokyobay.grandnikko.com/access/car/"
+  },
+  "waitingRooms": {
+   "text": "1Fの小宴会場オリビエ（67㎡）とアカシア（54㎡）は、グランドボールルーム・ホワイエに隣接し、事務局やお控室としての利用に最適と案内されている。2Fのイリス／エラブル／コスモス（66㎡、2分割可）も控室として利用できる。",
+   "source": "https://tokyobay.grandnikko.com/banquet/olivier/"
+  },
+  "restaurants": {
+   "text": "館内のレストランは3Fのル・ジャルダン（475席、ブッフェ・アラカルトのオールデイダイニング）と3F玉かがり（105席、カウンター席・テーブル席・個室あり）。宴会場では少人数会食プラン（10名から、1名15,000円〜、料理と会場費2時間込み）と、パーティープラン（30名以上80名まで、1名9,500円〜、フリードリンク2時間）を案内している。",
+   "source": "https://tokyobay.grandnikko.com/banquet/"
+  }
+ },
+ "documents": [
+  {
+   "title": "宴会場の設備比較表（公式ページ）",
+   "url": "https://tokyobay.grandnikko.com/banquet/guide/"
+  },
+  {
+   "title": "フロアマップ（公式ページ）",
+   "url": "https://tokyobay.grandnikko.com/banquet/floormap/"
+  },
+  {
+   "title": "フロアガイド PDF",
+   "url": "https://tokyobay.grandnikko.com/files/images/common/floorguide.pdf"
+  },
+  {
+   "title": "グランドボールルーム レイアウト一覧 PDF（ファイル更新2020年8月）",
+   "url": "https://tokyobay.grandnikko.com/banquet/images/lower/layout_gbr.pdf"
+  },
+  {
+   "title": "オリビエ レイアウト PDF（ファイル更新2020年8月）",
+   "url": "https://tokyobay.grandnikko.com/banquet/images/lower/layout_olivier.pdf"
+  },
+  {
+   "title": "アカシア レイアウト PDF（ファイル更新2020年8月）",
+   "url": "https://tokyobay.grandnikko.com/banquet/images/lower/layout_acacia.pdf"
+  },
+  {
+   "title": "ZAZZY レイアウト PDF（ファイル更新2020年8月）",
+   "url": "https://tokyobay.grandnikko.com/banquet/images/lower/layout_zazzy.pdf"
+  },
+  {
+   "title": "ロジエー／マロニエ レイアウト PDF（ファイル更新2020年8月）",
+   "url": "https://tokyobay.grandnikko.com/banquet/images/lower/layout_rozier.pdf"
+  },
+  {
+   "title": "イリス／エラブル／コスモス レイアウト PDF（ファイル更新2020年8月）",
+   "url": "https://tokyobay.grandnikko.com/banquet/images/lower/layout_iris.pdf"
+  },
+  {
+   "title": "アレルギー対応について（宴会）",
+   "url": "https://tokyobay.grandnikko.com/banquet/images/info_allergies.pdf"
+  }
+ ],
+ "checkedAt": "2026-10-31",
+ "lat": 35.6292542,
+ "lng": 139.8739531,
+ "nearby": {
+  "convenience": [
+   {
+    "name": "ローソン ヒルトン東京ベイ店",
+    "brand": "ローソン",
+    "distanceM": 157,
+    "walkMin": 2,
+    "hours": "24時間営業",
+    "address": "千葉県浦安市舞浜1-8ヒルトン東京ベイ",
+    "verified": true,
+    "source": "https://www.areamarker.com/lawson/info/344219",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "セブン-イレブン 浦安舞浜店",
+    "brand": "セブン-イレブン",
+    "distanceM": 1351,
+    "walkMin": 17,
+    "hours": "24時間営業",
+    "address": "千葉県浦安市舞浜2-46-1",
+    "verified": true,
+    "source": "https://seven-eleven.areamarker.com/711map/info/531520",
+    "note": "距離は公式の店舗位置で計算。遠め"
+   }
+  ],
+  "copyshop": [],
+  "hundredYen": [
+   {
+    "name": "Standard Products イクスピアリ店",
+    "brand": "Standard Products",
+    "distanceM": 1180,
+    "walkMin": 15,
+    "hours": "10:00-21:00",
+    "address": "千葉県浦安市舞浜1-4 イクスピアリ3階",
+    "verified": true,
+    "source": "https://www.daiso-sangyo.co.jp/shop/detail/009625",
+    "note": "距離は公式の店舗位置で計算。遠め"
+   },
+   {
+    "name": "DAISO イクスピアリ店",
+    "brand": "ダイソー",
+    "distanceM": 1236,
+    "walkMin": 16,
+    "hours": "10:00-21:00",
+    "address": "千葉県浦安市舞浜1-4 イクスピアリ3階",
+    "verified": true,
+    "source": "https://www.daiso-sangyo.co.jp/shop/detail/001054",
+    "note": "距離は公式の店舗位置で計算。遠め"
+   }
+  ],
+  "donki": []
+ },
+ "drinkDelivery": {
+  "available": false
+ },
+ "photo": {
+  "src": "/images/venues/grand-nikko-tokyo-bay-maihama.jpg",
+  "credit": "© 掬茶 / CC BY-SA 3.0 · Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tokyo_Bay_Maihama_Hotel_Club_Resort.jpg"
+ }
+}

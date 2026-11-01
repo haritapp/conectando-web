@@ -1,0 +1,130 @@
+{
+ "slug": "capitol-hotel-tokyu",
+ "name": "The Capitol Hotel Tokyu",
+ "address": "2-10-3 Nagatacho, Chiyoda-ku, Tokyo 100-0014",
+ "accessSummary": "Tameike-Sanno Station (Tokyo Metro Namboku and Ginza Lines) Exit 6: direct underground connection / Kokkai-gijidomae Station (Tokyo Metro Chiyoda and Marunouchi Lines) Exit 6: direct underground connection",
+ "hours": null,
+ "notice": "Whole hotel closed on January 30 and 31, 2027. Power and water outage for the statutory inspection under the Electricity Business Act on January 12 and 13, 2027 (announcement as of October 27, 2026).",
+ "rooms": [
+  {
+   "name": "Grand Banquet Hall \"Hooh\" (full span)",
+   "note": "1F. Can be divided in two by a sliding wall. A private foyer of 200㎡ is attached. Layout examples: seated buffet 230 guests, standing-and-circulating style 180 guests"
+  },
+  {
+   "name": "Grand Banquet Hall \"Hooh\" (1/2)",
+   "note": "1F. One side when divided in two"
+  },
+  {
+   "name": "Medium Banquet Hall \"Kiri\" (full span)",
+   "note": "1F. Can be divided in two by a sliding wall"
+  },
+  {
+   "name": "Medium Banquet Hall \"Kiri\" (1/2)",
+   "note": "1F. One side when divided in two"
+  },
+  {
+   "name": "Small Banquet Room \"Fuji\"",
+   "note": "2F. The layout example on the official page shows theater style for 48"
+  },
+  {
+   "name": "Small Banquet Room \"Sakura\"",
+   "note": "2F. \"Sakura\" and \"Tachibana\" can be connected for use"
+  },
+  {
+   "name": "Small Banquet Room \"Tachibana\"",
+   "note": "2F. \"Sakura\" and \"Tachibana\" can be connected for use"
+  },
+  {
+   "name": "Small Banquet Rooms \"Sakura\" and \"Tachibana\" (connected)",
+   "note": "2F. The layout example on the official page shows a seated dinner for 45 in Sakura and Tachibana"
+  }
+ ],
+ "ops": {
+  "parking": "150 spaces (standard cars) on the premises, available for entry 24 hours. Regular rate: 8:00-24:00 is 400 yen per 30 minutes, 0:00-8:00 is 200 yen per 30 minutes (tax included). Valet parking is 2,000 yen per use for restaurant, banquet and similar use.",
+  "waitingRooms": "The medium banquet hall \"Kiri\" can be used as a sub-venue or waiting room for large events.",
+  "catering": "Dishes finished by the chefs of the Japanese restaurant \"Suiren\" and the Chinese restaurant \"Hoshigaoka\" are also prepared in the banquet halls.",
+  "restaurants": "The hotel has the Japanese restaurant \"Suiren\", the Chinese restaurant \"Hoshigaoka\" and the all-day dining restaurant \"ORIGAMI\"."
+ },
+ "documents": [
+  {
+   "title": "Grand Banquet Hall \"Hooh\" Layout PDF"
+  },
+  {
+   "title": "Medium Banquet Hall \"Kiri\" Layout PDF"
+  },
+  {
+   "title": "Small Banquet Rooms \"Fuji\", \"Sakura\" and \"Tachibana\" Layout PDF"
+  },
+  {
+   "title": "Floor Map 1F (PDF)"
+  },
+  {
+   "title": "Floor Map 2F (PDF)"
+  },
+  {
+   "title": "Floor Map 3F (PDF)"
+  },
+  {
+   "title": "Meeting Plan (half day 18,000 yen / full day 25,000 yen, per person, tax and service charge included)"
+  },
+  {
+   "title": "Access Map PDF"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "FamilyMart Sanno Park Tower",
+    "hours": "7:00-23:00",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "7-Eleven Tokyu Capitol Tower",
+    "hours": "Mon-Fri 7:00-23:00 / Sat, Sun & holidays 7:00-22:00",
+    "note": "Distance is calculated from the location in the official store list (because the address location is in the same city block as the venue)."
+   },
+   {
+    "name": "FamilyMart Esplanade Akasaka",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "Accea Akasaka-mitsuke",
+    "hours": "Weekdays open 24 hours (open continuously from 8:00 a.m. Monday to 7:00 p.m. Saturday) / Sat until 19:00, Sun & holidays 10:00-19:00 (open continuously on weekdays that fall on the day before a holiday)",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Kinko's Akasaka-mitsuke",
+    "hours": "Weekdays 9:00-20:00 / Sat, Sun & holidays 10:00-19:00",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Can Do Akasaka Hitotsugi-dori",
+    "hours": "Mon-Fri 9:00-21:00 / Sat-Sun 9:00-20:00",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Can Do Shiroyama Hills",
+    "hours": "Daily 9:00-23:00",
+    "note": "Distance is calculated from the address location. Rather far."
+   }
+  ],
+  "donki": [
+   {
+    "name": "Picasso Akasaka (Don Quijote)",
+    "hours": "7:00-3:00",
+    "note": "Distance is calculated from the address location. A different store format of Don Quijote (the store name on the official website is \"Picasso Akasaka\")."
+   },
+   {
+    "name": "Don Quijote Roppongi",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. Rather far. The store name on the official Don Quijote website is \"Roppongi\"."
+   }
+  ]
+ },
+ "photoCredit": "© 江戸村のとくぞう / CC BY-SA 4.0 · Wikimedia Commons"
+}

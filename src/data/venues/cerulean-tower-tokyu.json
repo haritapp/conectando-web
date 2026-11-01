@@ -1,0 +1,387 @@
+{
+ "slug": "cerulean-tower-tokyu",
+ "nameJa": "セルリアンタワー東急ホテル",
+ "nameEn": "Cerulean Tower Tokyu Hotel",
+ "type": "hotel",
+ "area": "shibuya-ebisu-venues",
+ "address": "〒150-8512 東京都渋谷区桜丘町26-1",
+ "officialUrl": "https://www.tokyuhotels.co.jp/cerulean-h/",
+ "organizerUrl": "https://www.tokyuhotels.co.jp/cerulean-h/banquet/index.html",
+ "bizintokyoSlug": "cerulean-tower-tokyu",
+ "accessSummary": "JR「渋谷駅」西口 徒歩5分（国道246号沿い）／渋谷マークシティ 徒歩5分",
+ "notice": null,
+ "hours": null,
+ "rooms": [
+  {
+   "name": "ボールルーム フルスパン（ABCDE）",
+   "areaM2": 1430,
+   "ceilingM": 7.2,
+   "theater": 1400,
+   "school": 850,
+   "ushape": null,
+   "standing": 1300,
+   "banquet": 700,
+   "note": "B2F。最大4会場に分割可。会議 2時間以内 2,530,000円、追加1時間 1,265,000円、展示会 1日(9:00〜21:00) 11,385,000円（サービス料・消費税込、2026年4月1日以降の料金。音響照明基本料は別途）"
+  },
+  {
+   "name": "ボールルーム 3/4（ABCD／BCDE）",
+   "areaM2": 1060,
+   "ceilingM": 7.2,
+   "theater": 1000,
+   "school": 650,
+   "ushape": null,
+   "standing": 900,
+   "banquet": 500,
+   "note": "B2F。会議 2時間以内 1,897,500円、追加1時間 948,750円、展示会 1日(9:00〜21:00) 8,538,750円（サービス料・消費税込、2026年4月1日以降の料金。音響照明基本料は別途）"
+  },
+  {
+   "name": "ボールルーム 2/3（CDE）",
+   "areaM2": 890,
+   "ceilingM": 7.2,
+   "theater": 850,
+   "school": 550,
+   "ushape": null,
+   "standing": 800,
+   "banquet": 400,
+   "note": "B2F。会議 2時間以内 1,695,100円、追加1時間 847,550円、展示会 1日(9:00〜21:00) 7,590,000円（サービス料・消費税込、2026年4月1日以降の料金。音響照明基本料は別途）"
+  },
+  {
+   "name": "ボールルーム 1/2（ABC／BCD／DE）",
+   "areaM2": 710,
+   "ceilingM": 7.2,
+   "theater": 700,
+   "school": 400,
+   "ushape": null,
+   "standing": 600,
+   "banquet": 300,
+   "note": "B2F。会議 2時間以内 1,265,000円、追加1時間 632,500円、展示会 1日(9:00〜21:00) 5,692,500円（サービス料・消費税込、2026年4月1日以降の料金。音響照明基本料は別途）"
+  },
+  {
+   "name": "ボールルーム 1/3（AB／CD）",
+   "areaM2": 530,
+   "ceilingM": 7.2,
+   "theater": 500,
+   "school": 300,
+   "ushape": null,
+   "standing": 400,
+   "banquet": 200,
+   "note": "B2F。会議 2時間以内 847,550円、追加1時間 423,775円、展示会 1日(9:00〜21:00) 3,795,000円（サービス料・消費税込、2026年4月1日以降の料金。音響照明基本料は別途）"
+  },
+  {
+   "name": "ボールルーム 1/4（A／BC／D／E）",
+   "areaM2": 340,
+   "ceilingM": 7.2,
+   "theater": 300,
+   "school": 200,
+   "ushape": null,
+   "standing": 250,
+   "banquet": 150,
+   "note": "B2F。会議 2時間以内 632,500円、追加1時間 316,250円、展示会 1日(9:00〜21:00) 2,846,250円（サービス料・消費税込、2026年4月1日以降の料金。音響照明基本料は別途）"
+  },
+  {
+   "name": "タワーズサロン ルナール",
+   "areaM2": 190,
+   "ceilingM": 3.5,
+   "theater": 120,
+   "school": 70,
+   "ushape": 44,
+   "standing": 100,
+   "banquet": 80,
+   "note": "39F。会議 2時間以内 506,000円、追加1時間 253,000円、展示会 1日(9:00〜21:00) 2,403,500円（サービス料・消費税込、2026年4月1日以降の料金。音響照明基本料は別途）"
+  },
+  {
+   "name": "タワーズサロン ソレール",
+   "areaM2": 135,
+   "ceilingM": 3.5,
+   "theater": 100,
+   "school": 50,
+   "ushape": 38,
+   "standing": 80,
+   "banquet": 60,
+   "note": "39F。会議 2時間以内 354,200円、追加1時間 177,100円、展示会 1日(9:00〜21:00) 1,518,000円（サービス料・消費税込、2026年4月1日以降の料金。音響照明基本料は別途）"
+  },
+  {
+   "name": "タワーズサロン セレステ",
+   "areaM2": 100,
+   "ceilingM": 3.5,
+   "theater": 60,
+   "school": 40,
+   "ushape": 28,
+   "standing": 50,
+   "banquet": 40,
+   "note": "39F。控室（1時間）56,925円。会議 2時間以内 227,700円、追加1時間 113,850円、展示会 1日(9:00〜21:00) 1,075,250円（サービス料・消費税込、2026年4月1日以降の料金。音響照明基本料は別途）"
+  },
+  {
+   "name": "タワーズサロン ルナール・セレステ（ホワイエ含む）",
+   "areaM2": 360,
+   "ceilingM": 3.5,
+   "theater": 180,
+   "school": 110,
+   "ushape": 72,
+   "standing": 150,
+   "banquet": 120,
+   "note": "39F。ホワイエの天井高は3.1m。会議 2時間以内 632,500円、追加1時間 316,250円、展示会 1日(9:00〜21:00) 3,036,000円（サービス料・消費税込、2026年4月1日以降の料金。音響照明基本料は別途）"
+  },
+  {
+   "name": "タワーズサロン フロア貸切",
+   "areaM2": 495,
+   "ceilingM": 3.5,
+   "theater": 280,
+   "school": 160,
+   "ushape": 110,
+   "standing": 230,
+   "banquet": 180,
+   "note": "39F。ホワイエの天井高は3.1m。会議 2時間以内 948,750円、追加1時間 474,375円、展示会 1日(9:00〜21:00) 3,795,000円（サービス料・消費税込、2026年4月1日以降の料金。音響照明基本料は別途）"
+  },
+  {
+   "name": "朝霧",
+   "areaM2": 200,
+   "ceilingM": 5.6,
+   "theater": 150,
+   "school": 120,
+   "ushape": 42,
+   "standing": 110,
+   "banquet": 80,
+   "note": "B2F。会議 2時間以内 316,250円、追加1時間 158,125円、展示会 1日(9:00〜21:00) 1,265,000円（サービス料・消費税込、2026年4月1日以降の料金。音響照明基本料は別途）"
+  },
+  {
+   "name": "白妙",
+   "areaM2": 100,
+   "ceilingM": 4.1,
+   "theater": 80,
+   "school": 60,
+   "ushape": 28,
+   "standing": 60,
+   "banquet": 50,
+   "note": "B2F。会議 2時間以内 151,800円、追加1時間 75,900円、展示会 1日(9:00〜21:00) 632,500円（サービス料・消費税込、2026年4月1日以降の料金。音響照明基本料は別途）"
+  },
+  {
+   "name": "弥生",
+   "areaM2": 100,
+   "ceilingM": 4.1,
+   "theater": 80,
+   "school": 60,
+   "ushape": 28,
+   "standing": 60,
+   "banquet": 50,
+   "note": "B2F。会議 2時間以内 151,800円、追加1時間 75,900円、展示会 1日(9:00〜21:00) 632,500円（サービス料・消費税込、2026年4月1日以降の料金。音響照明基本料は別途）"
+  },
+  {
+   "name": "早蕨",
+   "areaM2": 70,
+   "ceilingM": 3.1,
+   "theater": 45,
+   "school": 40,
+   "ushape": 28,
+   "standing": 30,
+   "banquet": 30,
+   "note": "B1F。会議 2時間以内 101,200円、追加1時間 50,600円、展示会 1日(9:00〜21:00) 455,400円（サービス料・消費税込、2026年4月1日以降の料金。音響照明基本料は別途）"
+  },
+  {
+   "name": "萌黄",
+   "areaM2": 80,
+   "ceilingM": 3.1,
+   "theater": 50,
+   "school": 45,
+   "ushape": 32,
+   "standing": 40,
+   "banquet": 40,
+   "note": "B1F。会議 2時間以内 113,850円、追加1時間 56,925円、展示会 1日(9:00〜21:00) 506,000円（サービス料・消費税込、2026年4月1日以降の料金。音響照明基本料は別途）"
+  },
+  {
+   "name": "紅葉",
+   "areaM2": 76,
+   "ceilingM": 3.1,
+   "theater": 45,
+   "school": 40,
+   "ushape": 28,
+   "standing": 30,
+   "banquet": 30,
+   "note": "B1F。会議 2時間以内 113,850円、追加1時間 56,925円、展示会 1日(9:00〜21:00) 506,000円（サービス料・消費税込、2026年4月1日以降の料金。音響照明基本料は別途）"
+  },
+  {
+   "name": "山吹",
+   "areaM2": 60,
+   "ceilingM": 3.1,
+   "theater": 35,
+   "school": 30,
+   "ushape": 24,
+   "standing": 20,
+   "banquet": 20,
+   "note": "B1F。会議 2時間以内 101,200円、追加1時間 50,600円、展示会 1日(9:00〜21:00) 455,400円（サービス料・消費税込、2026年4月1日以降の料金。音響照明基本料は別途）"
+  }
+ ],
+ "roomsSource": "https://www.tokyuhotels.co.jp/cerulean-h/banquet/ballroom/index.html ほか（タワーズサロン /banquet/guide/towerssalon/、中宴会場 /banquet/middlebanquet/、小宴会場 /banquet/149906/）",
+ "ops": {
+  "prevDaySetup": {
+   "text": "展示会などで前日から搬入・搬出する場合は、終日料金に対して割合の料金がかかる。前日18:00以前の搬入は80%、前日18:00以降は50%、前日22:00以降は20%。当日22:00以前の搬出は終日料金に含まれ、翌日7:00までの搬出は10%、翌日12:00までの搬出は50%。7:00以前と22:00以降の利用は基準料金の50%増し。（出典：ボールルーム料金表、2026年4月1日以降の料金）",
+   "source": "https://www.tokyuhotels.co.jp/cerulean-h/banquet/ballroom/index.html"
+  },
+  "parking": {
+   "text": "ホテル地下3・4階に375台。車の高さ2.3m以下（一部2.1m）、長さ6.0m以下、幅2.0m以下。一般料金は6:00〜24:00が30分500円、0:00〜6:00が30分200円で、12時間ごとの最大料金は4,000円。宴会・婚礼の出席者には3時間のサービス券が出る。（出典：アクセスページ、2024年10月現在）",
+   "source": "https://www.tokyuhotels.co.jp/cerulean-h/access/index.html"
+  },
+  "restaurants": {
+   "text": "ホテル内に日本料理「Japanese Cuisine 桜丘」、料亭「セルリアンタワー数寄屋」、中国料理「szechwan restaurant 陳」、鉄板焼「桜」、鮨「以とう 一貫」、タワーズレストラン「クーカーニョ」、ガーデンキッチン「かるめら」などがある。宴会・パーティー向けにはタワーズブッフェプラン、タワーズコースプラン、ブッフェプランなどの宴会プランがある。",
+   "source": "https://www.tokyuhotels.co.jp/cerulean-h/eat/index.html"
+  }
+ },
+ "documents": [
+  {
+   "title": "宴会・会議（宴会場一覧）",
+   "url": "https://www.tokyuhotels.co.jp/cerulean-h/banquet/index.html"
+  },
+  {
+   "title": "セルリアンタワーボールルーム（面積・収容人数・料金表）",
+   "url": "https://www.tokyuhotels.co.jp/cerulean-h/banquet/ballroom/index.html"
+  },
+  {
+   "title": "タワーズサロン（面積・収容人数・料金表）",
+   "url": "https://www.tokyuhotels.co.jp/cerulean-h/banquet/guide/towerssalon/index.html"
+  },
+  {
+   "title": "中宴会場（面積・収容人数・料金表）",
+   "url": "https://www.tokyuhotels.co.jp/cerulean-h/banquet/middlebanquet/index.html"
+  },
+  {
+   "title": "小宴会場（面積・収容人数・料金表）",
+   "url": "https://www.tokyuhotels.co.jp/cerulean-h/banquet/149906/index.html"
+  },
+  {
+   "title": "フロア図",
+   "url": "https://www.tokyuhotels.co.jp/cerulean-h/banquet/floor/index.html"
+  },
+  {
+   "title": "宴会プラン",
+   "url": "https://www.tokyuhotels.co.jp/cerulean-h/banquet/plan/index.html"
+  },
+  {
+   "title": "幹事の方へ（予約の流れ）",
+   "url": "https://www.tokyuhotels.co.jp/cerulean-h/banquet/manager/index.html"
+  },
+  {
+   "title": "アクセス・駐車場のご案内（2024年10月現在）",
+   "url": "https://www.tokyuhotels.co.jp/cerulean-h/access/index.html"
+  }
+ ],
+ "checkedAt": "2026-10-31",
+ "lat": 35.656597,
+ "lng": 139.699585,
+ "nearby": {
+  "convenience": [
+   {
+    "name": "セブン-イレブン 渋谷セルリアンタワー店",
+    "brand": "セブン-イレブン",
+    "distanceM": 23,
+    "walkMin": 1,
+    "hours": "24時間営業",
+    "address": "東京都渋谷区桜丘町26-1",
+    "verified": true,
+    "source": "https://seven-eleven.areamarker.com/711map/info/135591",
+    "note": "距離は公式の店舗位置で計算。会場と同じ番地の店舗"
+   },
+   {
+    "name": "セブン-イレブン 渋谷道玄坂1丁目店",
+    "brand": "セブン-イレブン",
+    "distanceM": 66,
+    "walkMin": 1,
+    "hours": "24時間営業",
+    "address": "東京都渋谷区道玄坂1-10-5",
+    "verified": true,
+    "source": "https://seven-eleven.areamarker.com/711map/info/466483",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "ファミリーマート 渋谷道玄坂プラザ通り店",
+    "brand": "ファミリーマート",
+    "distanceM": 116,
+    "walkMin": 2,
+    "hours": "24時間営業",
+    "address": "東京都渋谷区道玄坂1-7-1 第一渋観ビル",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/57393",
+    "note": "距離は公式の店舗位置で計算"
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "キンコーズ・渋谷サクラステージ店",
+    "brand": "キンコーズ",
+    "distanceM": 261,
+    "walkMin": 4,
+    "hours": "毎日 9:00-22:00",
+    "address": "東京都渋谷区桜丘町3-4 渋谷サクラステージ SAKURAサイド3F",
+    "verified": true,
+    "source": "https://www.kinkos.co.jp/store/tokyo/t048/",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "アクセア 渋谷センター街店",
+    "brand": "アクセア",
+    "distanceM": 394,
+    "walkMin": 5,
+    "hours": "平日8:00〜22:00、土日祝10:00〜19:00",
+    "address": "東京都渋谷区宇田川町24-4 センター244ビル 3F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/entry.html",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "DAISO 渋谷マークシティ店",
+    "brand": "ダイソー",
+    "distanceM": 214,
+    "walkMin": 3,
+    "hours": "9:30-21:00",
+    "address": "東京都渋谷区道玄坂1-12-1 渋谷マークシティ1階",
+    "verified": true,
+    "source": "https://www.daiso-sangyo.co.jp/shop/detail/003086",
+    "note": "距離は住所の位置で計算。同じ建物に「Standard Products 渋谷マークシティ店」（9:30-21:00）もある"
+   },
+   {
+    "name": "DAISO 渋谷センター街店",
+    "brand": "ダイソー",
+    "distanceM": 590,
+    "walkMin": 8,
+    "hours": "10:00-21:30",
+    "address": "東京都渋谷区宇田川町35-2",
+    "verified": true,
+    "source": "https://www.daiso-sangyo.co.jp/shop/detail/008931",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "donki": [
+   {
+    "name": "MEGAドンキ渋谷別館",
+    "brand": "ドン・キホーテ",
+    "distanceM": 446,
+    "walkMin": 6,
+    "hours": "24時間営業",
+    "address": "東京都渋谷区道玄坂2-25-12",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=671",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "MEGAドン・キホーテ渋谷本店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 448,
+    "walkMin": 6,
+    "hours": "24時間営業",
+    "address": "東京都渋谷区宇田川町28-6",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=442",
+    "note": "距離は住所の位置で計算"
+   }
+  ]
+ },
+ "drinkDelivery": {
+  "available": true
+ },
+ "photo": {
+  "src": "/images/venues/cerulean-tower-tokyu.jpg",
+  "credit": "© Syced / CC0 · Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cerulean_Tower_2.jpg"
+ }
+}

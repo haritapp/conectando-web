@@ -1,0 +1,115 @@
+{
+ "slug": "gakushuin-centennial-hall",
+ "name": "Gakushuin Centennial Hall",
+ "address": "Tokyo 171-8588 1-5-1 Mejiro, Toshima-ku, Tokyo",
+ "accessSummary": "Mejiro Station (JR Yamanote Line): about 30 sec walk / Zoshigaya Station (Tokyo Metro Fukutoshin Line): about 7 min walk",
+ "hours": null,
+ "notice": "Applications may be declined at the Gakushuin's discretion, for example if the use is judged to be for profit, contrary to public order and morals, likely to damage the facilities or equipment, judged to be strongly religious or ideological and unsuitable for an educational setting, or likely to inconvenience neighbors or other users (Source: https://www.gakushuin.ac.jp/houjin/kikaku/map/index.html)",
+ "rooms": [
+  {
+   "name": "1F Seido (Main Hall)",
+   "note": "Capacity 1,140. The fee is based on 3 hours: weekdays 305,000 yen, Saturdays 335,500 yen, Sundays & holidays 366,000 yen (weekdays 51,000 yen for each additional 30 minutes) (revised April 1, 2023)"
+  },
+  {
+   "name": "1F Foyer",
+   "note": "Capacity 100. 3 hours: weekdays 22,300 yen, Saturdays 24,700 yen, Sundays & holidays 26,900 yen (revised April 1, 2023)"
+  },
+  {
+   "name": "1F Conference Room A",
+   "note": "Capacity 20. 3 hours: weekdays 8,400 yen, Saturdays 9,300 yen, Sundays & holidays 10,100 yen"
+  },
+  {
+   "name": "1F Conference Room B",
+   "note": "Capacity 16. 3 hours: weekdays 7,600 yen, Saturdays 8,600 yen, Sundays & holidays 9,300 yen"
+  },
+  {
+   "name": "1F Conference Room C (Japanese-style room)",
+   "note": "3 hours: weekdays 9,600 yen, Saturdays 10,500 yen, Sundays & holidays 11,500 yen"
+  },
+  {
+   "name": "3F Small Auditorium",
+   "note": "Capacity 200. 3 hours: weekdays 70,500 yen, Saturdays 77,600 yen, Sundays & holidays 84,500 yen"
+  },
+  {
+   "name": "3F Conference Room 1",
+   "note": "Capacity 20. 3 hours: weekdays 13,600 yen, Saturdays 15,000 yen, Sundays & holidays 16,400 yen"
+  },
+  {
+   "name": "3F Conference Room 2",
+   "note": "Capacity 20. 3 hours: weekdays 11,500 yen, Saturdays 12,600 yen, Sundays & holidays 13,800 yen"
+  },
+  {
+   "name": "3F Conference Room 3",
+   "note": "Capacity 20. 3 hours: weekdays 11,500 yen, Saturdays 12,600 yen, Sundays & holidays 13,800 yen"
+  },
+  {
+   "name": "4F Conference Room 4",
+   "note": "Capacity 70. 3 hours: weekdays 22,300 yen, Saturdays 24,700 yen, Sundays & holidays 26,900 yen"
+  }
+ ],
+ "ops": {},
+ "documents": [
+  {
+   "title": "Centennial Hall Price List (April 1, 2023)"
+  },
+  {
+   "title": "Centennial Hall List of Equipment and Musical Instruments for Loan"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "FamilyMart Mejiro 2-chome",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the store's official location."
+   },
+   {
+    "name": "FamilyMart Mejiro 3-chome",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the store's official location."
+   },
+   {
+    "name": "7-Eleven Mejiro Station North",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the store's official location."
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "Accea Nishi-Ikebukuro",
+    "hours": "Weekdays 8:00-22:00, Sat & holidays 10:00-19:00 / Closed Sundays",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Accea Takadanobaba",
+    "hours": "Weekdays open 24 hours (non-stop from Monday 8:00 to Saturday 19:00) / Sat until 19:00, Sun & holidays 10:00-19:00",
+    "note": "Distance is calculated from the address location. Rather far."
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "DAISO Peacock Store Mejiro",
+    "hours": "10:00-21:00",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Can Do Takadanobaba Ekimae",
+    "hours": "Mon-Sun 9:00-21:00",
+    "note": "Distance is calculated from the store's official location."
+   }
+  ],
+  "donki": [
+   {
+    "name": "Don Quijote Takadanobaba Ekimae",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. The store name on the Don Quijote official website is \"Takadanobaba Ekimae\" (高田馬場駅前店)."
+   },
+   {
+    "name": "Don Quijote Ikebukuro East Exit Ekimae",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. Rather far. The store name on the Don Quijote official website is \"Ikebukuro Higashiguchi Ekimae\" (池袋東口駅前店)."
+   }
+  ]
+ },
+ "photoCredit": "Image shows the main gate of the same Gakushuin Mejiro campus, not the hall building. © phosphor / CC BY-SA 3.0 · Wikimedia Commons"
+}

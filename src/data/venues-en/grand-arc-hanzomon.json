@@ -1,0 +1,201 @@
+{
+ "slug": "grand-arc-hanzomon",
+ "name": "Hotel Grand Arc Hanzomon",
+ "address": "Tokyo 102-0092 1-1 Hayabusacho, Chiyoda-ku",
+ "accessSummary": "Hanzomon Station (Tokyo Metro Hanzomon Line) Exit 6: 3 min walk (the top of the official access page also says 2 min walk) / Kojimachi Station (Yurakucho Line) Exit 1: 7 min walk / JR Yotsuya Station: 15 min walk",
+ "hours": "Banquet rooms can be used 7:00-21:30. Banquet and meeting inquiries are accepted weekdays 9:00-17:30, Sat, Sun & holidays 10:00-17:30",
+ "notice": null,
+ "rooms": [
+  {
+   "name": "6F Wa-no-Ma",
+   "note": "Seated buffet: 30 guests. Room fee (tax included, 2 hours, plus 10% service charge): Meeting 7:00-10:00 62,000 yen / 10:00-17:00 62,000 yen / 17:00-21:30 93,000 yen; Meal 10:00-21:30 40,000 yen."
+  },
+  {
+   "name": "5F Symphony",
+   "note": "Seated buffet: 30 guests. Room fee (tax included, 2 hours, plus 10% service charge): Meeting 7:00-10:00 55,000 yen / 10:00-17:00 55,000 yen / 17:00-21:30 82,500 yen; Meal 10:00-21:30 25,000 yen. The individual banquet room page states 40 for theater style (the Banquet Room Guide, April 2026, states 45)."
+  },
+  {
+   "name": "5F Hibiki",
+   "note": "Seated buffet: 20 guests. Room fee (tax included, 2 hours, plus 10% service charge): Meal 10:00-21:30 40,000 yen."
+  },
+  {
+   "name": "5F Nocturne",
+   "note": "Room fee (tax included, 2 hours, plus 10% service charge): Meal 10:00-21:30 30,000 yen."
+  },
+  {
+   "name": "5F Harmony",
+   "note": "Room fee (tax included, 2 hours, plus 10% service charge): Meal 10:00-21:30 30,000 yen."
+  },
+  {
+   "name": "4F Fuji-no-Ma - Entire Room",
+   "note": "Seated buffet: 260 guests. Room fee (tax included, 2 hours, plus 10% service charge): Meeting 7:00-10:00 530,000 yen / 10:00-17:00 500,000 yen / 17:00-21:30 750,000 yen; Meal 10:00-21:30 280,000 yen."
+  },
+  {
+   "name": "4F Fuji-no-Ma - East",
+   "note": "Seated buffet: 160 guests. Room fee (tax included, 2 hours, plus 10% service charge): Meeting 7:00-10:00 300,000 yen / 10:00-17:00 300,000 yen / 17:00-21:30 450,000 yen; Meal 10:00-21:30 160,000 yen."
+  },
+  {
+   "name": "4F Fuji-no-Ma - West",
+   "note": "Seated buffet: 120 guests. Room fee (tax included, 2 hours, plus 10% service charge): Meeting 7:00-10:00 230,000 yen / 10:00-17:00 200,000 yen / 17:00-21:30 300,000 yen; Meal 10:00-21:30 120,000 yen."
+  },
+  {
+   "name": "4F Lavender - Entire Room",
+   "note": "Seated buffet: 20 guests. Room fee (tax included, 2 hours, plus 10% service charge): Meeting 7:00-10:00 55,000 yen / 10:00-17:00 55,000 yen / 17:00-21:30 82,500 yen; Meal 10:00-21:30 25,000 yen."
+  },
+  {
+   "name": "4F Lavender - East",
+   "note": "Room fee (tax included, 2 hours, plus 10% service charge): Meeting 7:00-10:00 30,000 yen / 10:00-17:00 30,000 yen / 17:00-21:30 45,000 yen; Meal 10:00-21:30 12,000 yen."
+  },
+  {
+   "name": "4F Lavender - West",
+   "note": "Room fee (tax included, 2 hours, plus 10% service charge): Meeting 7:00-10:00 30,000 yen / 10:00-17:00 30,000 yen / 17:00-21:30 45,000 yen; Meal 10:00-21:30 12,000 yen."
+  },
+  {
+   "name": "3F Hana-no-Ma",
+   "note": "Seated buffet: 160 guests. Room fee (tax included, 2 hours, plus 10% service charge): Meeting 7:00-10:00 280,000 yen / 10:00-17:00 300,000 yen / 17:00-21:30 450,000 yen; Meal 10:00-21:30 160,000 yen."
+  },
+  {
+   "name": "3F Hikari-no-Ma",
+   "note": "Seated buffet: 120 guests. Room fee (tax included, 2 hours, plus 10% service charge): Meeting 7:00-10:00 220,000 yen / 10:00-17:00 200,000 yen / 17:00-21:30 300,000 yen; Meal 10:00-21:30 120,000 yen."
+  },
+  {
+   "name": "3F Topaz - Entire Room",
+   "note": "Seated buffet: 40 guests. Room fee (tax included, 2 hours, plus 10% service charge): Meeting 7:00-10:00 70,000 yen / 10:00-17:00 70,000 yen / 17:00-21:30 105,000 yen; Meal 10:00-21:30 46,000 yen."
+  },
+  {
+   "name": "3F Topaz - East",
+   "note": "Room fee (tax included, 2 hours, plus 10% service charge): Meeting 7:00-10:00 30,000 yen / 10:00-17:00 30,000 yen / 17:00-21:30 45,000 yen; Meal 10:00-21:30 20,000 yen."
+  },
+  {
+   "name": "3F Topaz - West",
+   "note": "Room fee (tax included, 2 hours, plus 10% service charge): Meeting 7:00-10:00 40,000 yen / 10:00-17:00 40,000 yen / 17:00-21:30 60,000 yen; Meal 10:00-21:30 26,000 yen."
+  },
+  {
+   "name": "3F Garnet - Entire Room",
+   "note": "Seated buffet: 30 guests. Room fee (tax included, 2 hours, plus 10% service charge): Meeting 7:00-10:00 62,000 yen / 10:00-17:00 62,000 yen / 17:00-21:30 93,000 yen; Meal 10:00-21:30 40,000 yen."
+  },
+  {
+   "name": "3F Garnet - East",
+   "note": "Room fee (tax included, 2 hours, plus 10% service charge): Meeting 7:00-10:00 30,000 yen / 10:00-17:00 30,000 yen / 17:00-21:30 45,000 yen; Meal 10:00-21:30 20,000 yen."
+  },
+  {
+   "name": "3F Garnet - West",
+   "note": "Room fee (tax included, 2 hours, plus 10% service charge): Meeting 7:00-10:00 30,000 yen / 10:00-17:00 30,000 yen / 17:00-21:30 45,000 yen; Meal 10:00-21:30 20,000 yen."
+  },
+  {
+   "name": "2F Akebono-no-Ma - Entire Room",
+   "note": "Size is 100 tatami mats. Japanese-style banquet room. Room fee (tax included, 2 hours, plus 10% service charge): Meal 10:00-21:30 88,000 yen."
+  },
+  {
+   "name": "2F Akebono-no-Ma - East",
+   "note": "Size is 50 tatami mats. Japanese-style banquet room. Room fee (tax included, 2 hours, plus 10% service charge): Meal 10:00-21:30 44,000 yen."
+  },
+  {
+   "name": "2F Akebono-no-Ma - West",
+   "note": "Size is 50 tatami mats. Japanese-style banquet room. Room fee (tax included, 2 hours, plus 10% service charge): Meal 10:00-21:30 45,000 yen."
+  },
+  {
+   "name": "2F Mai-no-Ma",
+   "note": "Size is 35 tatami mats. Japanese-style banquet room. Room fee (tax included, 2 hours, plus 10% service charge): Meal 10:00-21:30 33,000 yen."
+  },
+  {
+   "name": "2F Ogi-no-Ma",
+   "note": "Size is 32 tatami mats. Japanese-style banquet room. Room fee (tax included, 2 hours, plus 10% service charge): Meal 10:00-21:30 33,000 yen."
+  },
+  {
+   "name": "2F Yamabuki-no-Ma",
+   "note": "Size is 14 tatami mats. Japanese-style banquet room. Room fee (tax included, 2 hours, plus 10% service charge): Meal 10:00-21:30 17,000 yen."
+  },
+  {
+   "name": "2F Ukon-no-Ma",
+   "note": "Size is 10 tatami mats. Japanese-style banquet room. Room fee (tax included, 2 hours, plus 10% service charge): Meal 10:00-21:30 17,000 yen."
+  },
+  {
+   "name": "2F Sakon-no-Ma",
+   "note": "Size is 10 tatami mats. Japanese-style banquet room. Room fee (tax included, 2 hours, plus 10% service charge): Meal 10:00-21:30 17,000 yen."
+  },
+  {
+   "name": "2F Sakura-no-Ma",
+   "note": "Japanese-style banquet room. Room fee (tax included, 2 hours, plus 10% service charge): Meal 10:00-21:30 12,000 yen."
+  },
+  {
+   "name": "2F Karin-no-Ma",
+   "note": "Japanese-style banquet room. Room fee (tax included, 2 hours, plus 10% service charge): Meal 10:00-21:30 12,000 yen."
+  }
+ ],
+ "ops": {
+  "prevDaySetup": "The banquet rooms can be used from 7:00 to 21:30, and setup through teardown must be completed within the contracted time (Banquet Regulations). If setup or rehearsal involving load-in/load-out is done between 21:30 and 7:00 the next morning, a late-night/early-morning surcharge applies depending on the usage hours. Going beyond the contracted time incurs an additional charge: 50% of the base fee for each additional hour, for both meetings and meals. Depending on the next banquet's booking, an extension may not be possible. (Source: Banquet Room Guide, April 2026; Banquet Regulations, revised April 1, 2021)",
+  "loadingHours": "To send packages in advance for a banquet, ask the banquet staff beforehand (FAQ). When a contractor you have engaged brings in or removes equipment or signage for banquet room decoration, entertainment and the like, follow the hotel's instructions on size, mounting method and placement (Banquet Regulations, Article 7).",
+  "parking": "74 spaces underground. Vehicle limits are height 3 m, width 2 m, length 5 m. Not reservable; guidance is based on availability on the day. The fee is 2,000 yen for the first hour, then 1,000 yen per 30 minutes. Banquet guests park free for up to 5 hours.",
+  "catering": "Decoration, flowers, audio, entertainment, music, banquet receptionists, gifts and the like must use vendors designated by the hotel. To use a non-designated vendor, or to bring in drinks and the like, obtain the hotel's approval in advance. A separate corkage fee applies to bringing in drinks and the like. (Source: Banquet Regulations, Article 6, revised April 1, 2021)",
+  "restaurants": "There are 4 restaurants in the hotel: the 1F restaurant \"Patio\" (160 seats, including 60 terrace seats), the B1F Japanese restaurant \"Mon\" (59 seats, including 7 sushi counter seats), the 2F tempura restaurant \"Hagoromo\" (10 counter seats; private-room banquet plans for 6 to 10 guests are available), and the 4F lounge \"La Mer\" (59 seats, including 15 private-room seats). The hotel says its banquet rooms accommodate gatherings from 4 guests to parties of 500."
+ },
+ "documents": [
+  {
+   "title": "Banquet Room Guide (April 2026)"
+  },
+  {
+   "title": "Banquet Regulations (revised April 1, 2021)"
+  },
+  {
+   "title": "Banquet & Meeting Plans (May 2024 edition)"
+  },
+  {
+   "title": "Hotel Map (June 11, 2024 edition)"
+  },
+  {
+   "title": "Document Downloads (official list)"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "FamilyMart Hanzomon Station South",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "7-Eleven Chiyoda Hirakawacho 1-chome",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Lawson Kojimachi 2-chome",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "Kinko's Kojimachi",
+    "hours": "Weekdays 9:00-19:00 / Closed Sat, Sun & holidays",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Accea Kojimachi",
+    "hours": "Weekdays, Sat, Sun & holidays 8:00-20:00",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Can Do Akasaka Hitotsugi-dori",
+    "hours": "Mon-Fri 9:00-21:00 / Sat-Sun 9:00-20:00",
+    "note": "Distance is calculated from the address location. Rather far."
+   }
+  ],
+  "donki": [
+   {
+    "name": "Picasso Akasaka (Don Quijote)",
+    "hours": "7:00-3:00",
+    "note": "Distance is calculated from the address location. Rather far. This is a separate Don Quijote format. The store name on the Don Quijote official website is \"Picasso Akasaka\" (ピカソ赤坂店)."
+   },
+   {
+    "name": "Don Quijote Roppongi",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. Far. The store name on the Don Quijote official website is \"Roppongi\" (六本木店)."
+   }
+  ]
+ },
+ "photoCredit": "Image shows the nearest station exit (Hanzomon Station Exit 4), not the hotel building. © LERK / CC BY-SA 4.0 · Wikimedia Commons"
+}

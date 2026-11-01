@@ -1,0 +1,107 @@
+{
+ "slug": "four-seasons-otemachi",
+ "name": "Four Seasons Hotel Tokyo at Otemachi",
+ "address": "Tokyo 100-0004 Otemachi One Tower, 34th-39th floors, 1-2-1 Otemachi, Chiyoda-ku, Tokyo",
+ "accessSummary": "Directly connected to Exit C4 of Otemachi Station (Tokyo Metro / Toei Mita Line)",
+ "hours": null,
+ "notice": null,
+ "rooms": [
+  {
+   "name": "3F Grand Ballroom",
+   "note": "Can be divided into two rooms (one with windows, one without). Dimensions 16.4 x 23.4 m. Banquet is round tables."
+  },
+  {
+   "name": "3F Ballroom Foyer",
+   "note": null
+  },
+  {
+   "name": "3F Meeting Room",
+   "note": "Conference style 28 people. Banquet is round tables."
+  },
+  {
+   "name": "3F Meeting Room 1",
+   "note": "Conference style 18 people. Banquet is round tables."
+  },
+  {
+   "name": "3F Meeting Room 2",
+   "note": "Conference style 18 people. Banquet is round tables."
+  },
+  {
+   "name": "3F Meeting Room 3",
+   "note": "Conference style 18 people. Banquet is round tables."
+  },
+  {
+   "name": "3F Chapel",
+   "note": "Dimensions 5.9 x 11 m"
+  },
+  {
+   "name": "3F Meeting Room Foyer",
+   "note": null
+  },
+  {
+   "name": "39F Social Room",
+   "note": "With kitchen. 80-inch monitor. Dining table for 12 people."
+  }
+ ],
+ "ops": {
+  "parking": "Self-parking is in the OTEMACHI ONE underground car park (open 7:00-23:00); the maximum vehicle size is 5.3 m long, 2.0 m wide and 1.5 m high. The fee is 400 yen per 30 minutes, and 100 yen per hour outside operating hours. For hotel guests, 5,000 yen per night per car (24 hours). Valet parking is 6,500 yen for hotel guests and 1,500 yen for restaurant guests (self-parking fee is charged separately). The entrance and exit are on the north side of the building.",
+  "restaurants": "The hotel has PIGNETO (Italian; one private room and a rooftop terrace), est (contemporary French; three semi-private rooms and a rooftop terrace), THE LOUNGE, and VIRTÙ (bar; the private lounge is introduced as a venue for welcome cocktails). The rooftop terraces of est and PIGNETO are available for private-hire parties."
+ },
+ "documents": [],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "FamilyMart Otemachi Park Building",
+    "hours": "7:00-23:00",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "Natural Lawson Otemachi Nishi Metropia",
+    "hours": "7:00-23:00",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "Lawson Ote Center Building",
+    "hours": "7:00-21:00",
+    "note": "Distance is calculated from the official store location."
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "Kinko's Otemachi",
+    "hours": "Weekdays 9:00-20:00 / Sat, Sun & holidays closed",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Accea Otemachi",
+    "hours": "Open 24 hours (open every day of the year)",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Can Do Marunouchi Oazo",
+    "hours": "Mon-Fri 8:00-22:00 / Sat-Sun 9:00-21:00",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "DAISO Kanda-Jimbocho Suzuran-dori",
+    "hours": "10:00-21:00",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "donki": [
+   {
+    "name": "Don Quijote Akihabara",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. Far. The store name on the Don Quijote official website is \"Akihabara\"."
+   },
+   {
+    "name": "Don Quijote Ginza Main Building (Ginza Nine Building No. 3)",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. Far."
+   }
+  ]
+ },
+ "photoCredit": "© VVVN / CC BY 3.0 · Wikimedia Commons"
+}

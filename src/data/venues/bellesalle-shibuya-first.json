@@ -1,0 +1,339 @@
+{
+ "slug": "bellesalle-shibuya-first",
+ "nameJa": "ベルサール渋谷ファースト",
+ "nameEn": "",
+ "type": "conference",
+ "area": "shibuya-ebisu-venues",
+ "address": "〒150-0011 東京都渋谷区東1-2-20 住友不動産渋谷ファーストタワーB1・2F",
+ "officialUrl": "https://www.bellesalle.co.jp/shisetsu/shibuya/bs_shibuyafirst/",
+ "organizerUrl": "https://www.bellesalle.co.jp/download/bs_shibuyafirst/",
+ "bizintokyoSlug": "bs_shibuyafirst",
+ "accessSummary": "渋谷駅C1出口（半蔵門線・田園都市線・副都心線・東横線）徒歩6分／渋谷駅東口（JR線）徒歩8分／表参道駅B1出口（銀座線・半蔵門線・千代田線）徒歩10分",
+ "notice": null,
+ "hours": "ビルエントランス開放時間は平日7:00〜20:00、土曜8:00〜18:00、日祝は催事開催時間中。",
+ "rooms": [
+  {
+   "name": "2F HALL 全体",
+   "areaM2": 1240,
+   "ceilingM": 4.35,
+   "theater": 1230,
+   "school": 576,
+   "ushape": null,
+   "standing": 750,
+   "banquet": null,
+   "note": "スクールは2名掛け。スクール3名掛け 864席。島型 630席（105島）。別にロビー約279㎡。天井高は料金表（2026/7/3更新）で4.35m、公式施設ページの一覧で4.3m"
+  },
+  {
+   "name": "2F HALL A",
+   "areaM2": 689,
+   "ceilingM": 4.35,
+   "theater": 630,
+   "school": 304,
+   "ushape": null,
+   "standing": 410,
+   "banquet": null,
+   "note": "スクールは2名掛け。スクール3名掛け 456席。島型 336席（56島）"
+  },
+  {
+   "name": "2F HALL A-1",
+   "areaM2": 334,
+   "ceilingM": 4.35,
+   "theater": 252,
+   "school": 130,
+   "ushape": null,
+   "standing": 200,
+   "banquet": null,
+   "note": "スクールは2名掛け。スクール3名掛け 195席。島型 150席（25島）"
+  },
+  {
+   "name": "2F HALL A-2",
+   "areaM2": 355,
+   "ceilingM": 4.35,
+   "theater": 252,
+   "school": 130,
+   "ushape": null,
+   "standing": 200,
+   "banquet": null,
+   "note": "スクールは2名掛け。スクール3名掛け 195席。島型 150席（25島）"
+  },
+  {
+   "name": "2F HALL B",
+   "areaM2": 550,
+   "ceilingM": 4.35,
+   "theater": 420,
+   "school": 208,
+   "ushape": null,
+   "standing": 320,
+   "banquet": null,
+   "note": "スクールは2名掛け。スクール3名掛け 312席。島型 210席（35島）"
+  },
+  {
+   "name": "B1 HALL 全体",
+   "areaM2": 1352,
+   "ceilingM": 6.0,
+   "theater": 1350,
+   "school": 704,
+   "ushape": null,
+   "standing": 810,
+   "banquet": null,
+   "note": "スクールは2名掛け。スクール3名掛け 1,056席。島型 756席（126島）。別にロビー約354㎡"
+  },
+  {
+   "name": "B1 控室1",
+   "areaM2": 39,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "使用料0円"
+  },
+  {
+   "name": "B1 控室2",
+   "areaM2": 40,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "使用料0円"
+  },
+  {
+   "name": "2F 控室A",
+   "areaM2": 26,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "使用料0円"
+  },
+  {
+   "name": "2F 控室B",
+   "areaM2": 15,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "使用料0円"
+  }
+ ],
+ "roomsSource": "https://www.bellesalle.co.jp/wp-content/uploads/shibuyaf_price.pdf",
+ "ops": {
+  "prevDaySetup": {
+   "text": "使用時間には準備・後片付けの時間も含まれる。8時間・12時間・24時間の料金があり、夜間使用や24時間利用は前後の予約状況で使えない場合があるため事前に相談する。一部会場を除き365日24時間利用できる。荷物の事前搬入は原則、開催日の前日着で手配し、事前搬入届に個数と品名を書いて提出する（貴重品は不可）。事前到着荷物は各ホール5箱まで。（出典：ホール料金表 2026/7/3更新、よくあるご質問、事前搬入届）",
+   "source": "https://www.bellesalle.co.jp/wp-content/uploads/shibuyaf_price.pdf"
+  },
+  "loadingHours": {
+   "text": "搬入・搬出車の出入りは使用時間内に行う。事前搬入届を作業日の1週間前までに提出する（未提出だと荷捌き場は使えない）。積み下ろし作業は原則20分以内。現場責任者は作業前に1Fサービスセンターで入館手続きをする。荷捌き場はB1Fにあり、荷捌き1は入口扉W3,000×H3,300mm、荷捌き3はW2,800×H2,375mm。2Fホールは荷捌き2から搬入用EV（かご内W2,550×H2,500×D1,800mm、入口扉W1,600×H2,500mm）を使う。4t車で直接搬入できる。（出典：事前搬入届、設備表 2026/10/30更新、公式施設ページ）",
+   "source": "https://www.bellesalle.co.jp/wp-content/uploads/shibuyaf_jizen.pdf"
+  },
+  "vehicleRules": {
+   "text": "荷捌き所は荷物の積み下ろしのみに使い、駐車が必要な場合は外の駐車場を利用する。複数台のときは1台分の荷捌場を時間差で使う。違法駐車や指定駐車場以外のビル周りの路上駐車は厳禁。車両制限は荷捌き1が高さ3,200×長さ7,000×幅6,000mm・重量2.0t、荷捌き2が高さ3,300×長さ9,000×幅2,600mm・2.0t、荷捌き3が高さ3,300×長さ9,000×幅6,100mm・4.0t。荷捌き1・3は乗用車2台程度、荷捌き2は乗用車1台程度の留め置きができる。使用期間中の荷捌き場には商品・梱包材・ゴミなどを置けない。（出典：事前搬入届、設備表 2026/10/30更新、使用規約 2026ver2 第15条）",
+   "source": "https://www.bellesalle.co.jp/wp-content/uploads/shibuyaf_hall_b.pdf"
+  },
+  "parking": {
+   "text": "ベルサール専用の駐車場と時間貸しの駐車場はない。近隣の駐車場は、公式施設ページのリンク先「s-park」（東京都道路整備保全公社）で「ベルサール渋谷ファースト」を検索して探す。（出典：設備表 2026/10/30更新、公式施設ページ）",
+   "source": "https://www.bellesalle.co.jp/shisetsu/shibuya/bs_shibuyafirst/"
+  },
+  "waitingRooms": {
+   "text": "控室は4室、計120㎡で無料。B1Fに控室1（39㎡）・控室2（40㎡）、2Fに控室A（26㎡）・控室B（15㎡）。（出典：公式施設ページ、設備表 2026/10/30更新）",
+   "source": "https://www.bellesalle.co.jp/shisetsu/shibuya/bs_shibuyafirst/"
+  },
+  "catering": {
+   "text": "飲食の手配に当社指定業者以外を使う場合は「飲食持込手数料」がかかる（パーティー利用時のみ。飲料のみ・弁当の持込は対象外）。会場面積別で、〜300㎡ 100,000円、〜600㎡ 200,000円、〜900㎡ 300,000円、〜1,200㎡ 400,000円、1,201㎡〜 500,000円（税込 各110,000〜550,000円）。懇親会向けのパーティーメニューは住友不動産グループ泉レストランのサイトで案内されている。（出典：持込料のご案内、よくあるご質問）",
+   "source": "https://www.bellesalle.co.jp/wp-content/uploads/mochikomi_price.pdf"
+  }
+ },
+ "documents": [
+  {
+   "title": "使用規約（2026ver2）",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/kiyaku.pdf"
+  },
+  {
+   "title": "事前搬入届（渋谷ファースト）",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/shibuyaf_jizen.pdf"
+  },
+  {
+   "title": "持込料のご案内",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/mochikomi_price.pdf"
+  },
+  {
+   "title": "ホール料金表・収容人数（2026/7/3更新）",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/shibuyaf_price.pdf"
+  },
+  {
+   "title": "料金カレンダー（取引条件有効期限 2027年1月末日）",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/eventhall_calender1.pdf"
+  },
+  {
+   "title": "設備・備品リスト（2026/10/30更新）",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/shibuyaf_hall_b.pdf"
+  },
+  {
+   "title": "B1F 平面図",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/shibuyaf_plane_b1f.pdf"
+  },
+  {
+   "title": "2F 平面図",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/shibuyaf_plane_2f.pdf"
+  },
+  {
+   "title": "B1F 天井図",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/shibuyaf_ceiling_b1f.pdf"
+  },
+  {
+   "title": "2F 天井図",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/shibuyaf_ceiling_2f.pdf"
+  },
+  {
+   "title": "B1F 電気設備図",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/shibuyaf_electric_b1f.pdf"
+  },
+  {
+   "title": "2F 電気設備図",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/shibuyaf_electric_2f.pdf"
+  },
+  {
+   "title": "B1F 床図",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/shibuyaf_floor_b1f.pdf"
+  },
+  {
+   "title": "2F 床図",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/shibuyaf_floor_2f.pdf"
+  },
+  {
+   "title": "資料ダウンロード（公式一覧）",
+   "url": "https://www.bellesalle.co.jp/download/bs_shibuyafirst/"
+  },
+  {
+   "title": "よくあるご質問",
+   "url": "https://www.bellesalle.co.jp/faq/"
+  }
+ ],
+ "checkedAt": "2026-10-31",
+ "lat": 35.658237,
+ "lng": 139.708939,
+ "nearby": {
+  "convenience": [
+   {
+    "name": "セブン-イレブン 渋谷区渋谷2の南店",
+    "brand": "セブン-イレブン",
+    "distanceM": 76,
+    "walkMin": 1,
+    "hours": "24時間営業",
+    "address": "東京都渋谷区渋谷2-12-12",
+    "verified": true,
+    "source": "https://seven-eleven.areamarker.com/711map/info/267252",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "セブン-イレブン 渋谷金王神社前店",
+    "brand": "セブン-イレブン",
+    "distanceM": 135,
+    "walkMin": 2,
+    "hours": "24時間営業",
+    "address": "東京都渋谷区東1-3-10",
+    "verified": true,
+    "source": "https://seven-eleven.areamarker.com/711map/info/541109",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "ファミリーマート 渋谷二丁目中央店",
+    "brand": "ファミリーマート",
+    "distanceM": 228,
+    "walkMin": 3,
+    "hours": "24時間営業",
+    "address": "東京都渋谷区渋谷2-11-3",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/23806",
+    "note": "距離は公式の店舗位置で計算"
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "アクセア 渋谷店",
+    "brand": "アクセア",
+    "distanceM": 361,
+    "walkMin": 5,
+    "hours": "24時間営業（年中無休）",
+    "address": "東京都渋谷区渋谷3-11-11 IVYイーストビル1F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/entry.html",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "アクセア 渋谷青山通り店",
+    "brand": "アクセア",
+    "distanceM": 375,
+    "walkMin": 5,
+    "hours": "平日8:00〜22:00、土日祝10:00〜19:00",
+    "address": "東京都渋谷区渋谷1-1-3 第35荒井ビル1F・2F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/entry.html",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "DAISO 渋谷マークシティ店",
+    "brand": "ダイソー",
+    "distanceM": 936,
+    "walkMin": 12,
+    "hours": "9:30-21:00",
+    "address": "東京都渋谷区道玄坂1-12-1 渋谷マークシティ1階",
+    "verified": true,
+    "source": "https://www.daiso-sangyo.co.jp/shop/detail/003086",
+    "note": "距離は住所の位置で計算。同じ建物に「Standard Products 渋谷マークシティ店」（9:30-21:00）もある"
+   },
+   {
+    "name": "DAISO 渋谷センター街店",
+    "brand": "ダイソー",
+    "distanceM": 1123,
+    "walkMin": 15,
+    "hours": "10:00-21:30",
+    "address": "東京都渋谷区宇田川町35-2",
+    "verified": true,
+    "source": "https://www.daiso-sangyo.co.jp/shop/detail/008931",
+    "note": "距離は住所の位置で計算。遠め"
+   }
+  ],
+  "donki": [
+   {
+    "name": "MEGAドン・キホーテ渋谷本店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 1039,
+    "walkMin": 13,
+    "hours": "24時間営業",
+    "address": "東京都渋谷区宇田川町28-6",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=442",
+    "note": "距離は住所の位置で計算。遠め"
+   },
+   {
+    "name": "MEGAドンキ渋谷別館",
+    "brand": "ドン・キホーテ",
+    "distanceM": 1059,
+    "walkMin": 14,
+    "hours": "24時間営業",
+    "address": "東京都渋谷区道玄坂2-25-12",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=671",
+    "note": "距離は住所の位置で計算。遠め"
+   }
+  ]
+ },
+ "drinkDelivery": {
+  "available": true
+ },
+ "photo": {
+  "src": "/images/venues/bellesalle-shibuya-first.jpg",
+  "credit": "© Harani0403 / CC BY-SA 3.0 · Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Shibuya_First_Tower_Tokyo_2.jpg"
+ }
+}

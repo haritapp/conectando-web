@@ -1,0 +1,172 @@
+{
+ "slug": "cerulean-tower-tokyu",
+ "name": "Cerulean Tower Tokyu Hotel",
+ "address": "26-1 Sakuragaoka-cho, Shibuya-ku, Tokyo 150-8512",
+ "accessSummary": "JR Shibuya Station West Exit: 5 min walk (along National Route 246) / Shibuya Mark City: 5 min walk",
+ "hours": null,
+ "notice": null,
+ "rooms": [
+  {
+   "name": "Ballroom Full Span (ABCDE)",
+   "note": "B2F. Can be divided into up to 4 rooms. Meeting up to 2 hours 2,530,000 yen, each additional hour 1,265,000 yen, exhibition 1 day (9:00-21:00) 11,385,000 yen (service charge and consumption tax included; rates from April 1, 2026. Basic sound and lighting fee is charged separately)."
+  },
+  {
+   "name": "Ballroom 3/4 (ABCD / BCDE)",
+   "note": "B2F. Meeting up to 2 hours 1,897,500 yen, each additional hour 948,750 yen, exhibition 1 day (9:00-21:00) 8,538,750 yen (service charge and consumption tax included; rates from April 1, 2026. Basic sound and lighting fee is charged separately)."
+  },
+  {
+   "name": "Ballroom 2/3 (CDE)",
+   "note": "B2F. Meeting up to 2 hours 1,695,100 yen, each additional hour 847,550 yen, exhibition 1 day (9:00-21:00) 7,590,000 yen (service charge and consumption tax included; rates from April 1, 2026. Basic sound and lighting fee is charged separately)."
+  },
+  {
+   "name": "Ballroom 1/2 (ABC / BCD / DE)",
+   "note": "B2F. Meeting up to 2 hours 1,265,000 yen, each additional hour 632,500 yen, exhibition 1 day (9:00-21:00) 5,692,500 yen (service charge and consumption tax included; rates from April 1, 2026. Basic sound and lighting fee is charged separately)."
+  },
+  {
+   "name": "Ballroom 1/3 (AB / CD)",
+   "note": "B2F. Meeting up to 2 hours 847,550 yen, each additional hour 423,775 yen, exhibition 1 day (9:00-21:00) 3,795,000 yen (service charge and consumption tax included; rates from April 1, 2026. Basic sound and lighting fee is charged separately)."
+  },
+  {
+   "name": "Ballroom 1/4 (A / BC / D / E)",
+   "note": "B2F. Meeting up to 2 hours 632,500 yen, each additional hour 316,250 yen, exhibition 1 day (9:00-21:00) 2,846,250 yen (service charge and consumption tax included; rates from April 1, 2026. Basic sound and lighting fee is charged separately)."
+  },
+  {
+   "name": "Towers Salon Lunard",
+   "note": "39F. Meeting up to 2 hours 506,000 yen, each additional hour 253,000 yen, exhibition 1 day (9:00-21:00) 2,403,500 yen (service charge and consumption tax included; rates from April 1, 2026. Basic sound and lighting fee is charged separately)."
+  },
+  {
+   "name": "Towers Salon Solere",
+   "note": "39F. Meeting up to 2 hours 354,200 yen, each additional hour 177,100 yen, exhibition 1 day (9:00-21:00) 1,518,000 yen (service charge and consumption tax included; rates from April 1, 2026. Basic sound and lighting fee is charged separately)."
+  },
+  {
+   "name": "Towers Salon Celeste",
+   "note": "39F. Waiting room (1 hour) 56,925 yen. Meeting up to 2 hours 227,700 yen, each additional hour 113,850 yen, exhibition 1 day (9:00-21:00) 1,075,250 yen (service charge and consumption tax included; rates from April 1, 2026. Basic sound and lighting fee is charged separately)."
+  },
+  {
+   "name": "Towers Salon Lunard and Celeste (including foyer)",
+   "note": "39F. The foyer ceiling height is 3.1 m. Meeting up to 2 hours 632,500 yen, each additional hour 316,250 yen, exhibition 1 day (9:00-21:00) 3,036,000 yen (service charge and consumption tax included; rates from April 1, 2026. Basic sound and lighting fee is charged separately)."
+  },
+  {
+   "name": "Towers Salon whole floor",
+   "note": "39F. The foyer ceiling height is 3.1 m. Meeting up to 2 hours 948,750 yen, each additional hour 474,375 yen, exhibition 1 day (9:00-21:00) 3,795,000 yen (service charge and consumption tax included; rates from April 1, 2026. Basic sound and lighting fee is charged separately)."
+  },
+  {
+   "name": "Asagiri",
+   "note": "B2F. Meeting up to 2 hours 316,250 yen, each additional hour 158,125 yen, exhibition 1 day (9:00-21:00) 1,265,000 yen (service charge and consumption tax included; rates from April 1, 2026. Basic sound and lighting fee is charged separately)."
+  },
+  {
+   "name": "Shirotae",
+   "note": "B2F. Meeting up to 2 hours 151,800 yen, each additional hour 75,900 yen, exhibition 1 day (9:00-21:00) 632,500 yen (service charge and consumption tax included; rates from April 1, 2026. Basic sound and lighting fee is charged separately)."
+  },
+  {
+   "name": "Yayoi",
+   "note": "B2F. Meeting up to 2 hours 151,800 yen, each additional hour 75,900 yen, exhibition 1 day (9:00-21:00) 632,500 yen (service charge and consumption tax included; rates from April 1, 2026. Basic sound and lighting fee is charged separately)."
+  },
+  {
+   "name": "Sawarabi",
+   "note": "B1F. Meeting up to 2 hours 101,200 yen, each additional hour 50,600 yen, exhibition 1 day (9:00-21:00) 455,400 yen (service charge and consumption tax included; rates from April 1, 2026. Basic sound and lighting fee is charged separately)."
+  },
+  {
+   "name": "Moegi",
+   "note": "B1F. Meeting up to 2 hours 113,850 yen, each additional hour 56,925 yen, exhibition 1 day (9:00-21:00) 506,000 yen (service charge and consumption tax included; rates from April 1, 2026. Basic sound and lighting fee is charged separately)."
+  },
+  {
+   "name": "Momiji",
+   "note": "B1F. Meeting up to 2 hours 113,850 yen, each additional hour 56,925 yen, exhibition 1 day (9:00-21:00) 506,000 yen (service charge and consumption tax included; rates from April 1, 2026. Basic sound and lighting fee is charged separately)."
+  },
+  {
+   "name": "Yamabuki",
+   "note": "B1F. Meeting up to 2 hours 101,200 yen, each additional hour 50,600 yen, exhibition 1 day (9:00-21:00) 455,400 yen (service charge and consumption tax included; rates from April 1, 2026. Basic sound and lighting fee is charged separately)."
+  }
+ ],
+ "ops": {
+  "prevDaySetup": "When loading in or out from the day before, for exhibitions and similar events, a percentage of the all-day rate is charged. Load-in before 18:00 the day before: 80%; from 18:00 the day before: 50%; from 22:00 the day before: 20%. Load-out before 22:00 on the day is included in the all-day rate; load-out by 7:00 the next day: 10%; load-out by 12:00 the next day: 50%. Use before 7:00 and after 22:00 is charged at the standard rate plus 50%. (Source: Ballroom price list, rates from April 1, 2026)",
+  "parking": "375 spaces on B3 and B4 of the hotel. Vehicle height 2.3 m or less (2.1 m in some areas), length 6.0 m or less, width 2.0 m or less. General rates: 6:00-24:00 is 500 yen per 30 minutes, 0:00-6:00 is 200 yen per 30 minutes, with a maximum of 4,000 yen per 12 hours. Attendees of banquets and weddings receive a 3-hour service ticket. (Source: Access page, as of October 2024)",
+  "restaurants": "The hotel has the Japanese restaurant \"Japanese Cuisine Sakuragaoka\", the ryotei \"Cerulean Tower Sukiya\", the Chinese restaurant \"szechwan restaurant Chin\", the teppanyaki restaurant \"Sakura\", the sushi restaurant \"Itoh Ikkan\", the Towers Restaurant \"Cucagna\", the Garden Kitchen \"Karumera\" and others. For banquets and parties there are banquet plans such as the Towers Buffet Plan, Towers Course Plan and Buffet Plan."
+ },
+ "documents": [
+  {
+   "title": "Banquets and Meetings (list of banquet rooms)"
+  },
+  {
+   "title": "Cerulean Tower Ballroom (area, capacity and price list)"
+  },
+  {
+   "title": "Towers Salon (area, capacity and price list)"
+  },
+  {
+   "title": "Medium Banquet Rooms (area, capacity and price list)"
+  },
+  {
+   "title": "Small Banquet Rooms (area, capacity and price list)"
+  },
+  {
+   "title": "Floor Plan"
+  },
+  {
+   "title": "Banquet Plans"
+  },
+  {
+   "title": "For Organizers (booking flow)"
+  },
+  {
+   "title": "Access and Parking Guide (as of October 2024)"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "7-Eleven Shibuya Cerulean Tower",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location. The store has the same street number as the venue."
+   },
+   {
+    "name": "7-Eleven Shibuya Dogenzaka 1-chome",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "FamilyMart Shibuya Dogenzaka Plaza-dori",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location."
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "Kinko's Shibuya Sakura Stage",
+    "hours": "Daily 9:00-22:00",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Accea Shibuya Center-gai",
+    "hours": "Weekdays 8:00-22:00 / Sat, Sun & holidays 10:00-19:00",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "DAISO Shibuya Mark City",
+    "hours": "9:30-21:00",
+    "note": "Distance is calculated from the address location. \"Standard Products Shibuya Mark City\" (9:30-21:00) is also in the same building."
+   },
+   {
+    "name": "DAISO Shibuya Center-gai",
+    "hours": "10:00-21:30",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "donki": [
+   {
+    "name": "MEGA Don Quijote Shibuya Annex",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "MEGA Don Quijote Shibuya Main Store",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location."
+   }
+  ]
+ },
+ "photoCredit": "© Syced / CC0 · Wikimedia Commons"
+}
