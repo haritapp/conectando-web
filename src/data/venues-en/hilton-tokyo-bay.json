@@ -1,0 +1,156 @@
+{
+ "slug": "hilton-tokyo-bay",
+ "name": "Hilton Tokyo Bay",
+ "address": "Chiba 279-0031 1-8 Maihama, Urayasu, Chiba",
+ "accessSummary": "Free shuttle bus from JR Maihama Station to the hotel: about 7 min / Disney Resort Line Bayside Station: about 1 min on foot or by the hotel's free shuttle bus (monorail from Maihama Station to Bayside Station: about 4 min)",
+ "hours": null,
+ "notice": null,
+ "rooms": [
+  {
+   "name": "2F Soara Grand Ballroom 1+2+3 (entire)",
+   "note": "28.0 x 45.0 m. The style column on the official page also lists \"Dinner 600 seats / Classroom 468 seats / Theater 1,400 seats\". Soara is the only room where cars can be displayed. The official FAQ (/faq/banquet) says \"up to 700 seated and 1,000 standing\", which differs from the table on the venue page."
+  },
+  {
+   "name": "2F Soara 1+2 or 2+3",
+   "note": "28.0 x 30.4 m"
+  },
+  {
+   "name": "2F Soara 1 or 3 (each)",
+   "note": "28.0 x 14.6 m"
+  },
+  {
+   "name": "2F Soara 2",
+   "note": "28.0 x 15.8 m"
+  },
+  {
+   "name": "B1F Ambio 14+15",
+   "note": "16.4 x 28.5 m"
+  },
+  {
+   "name": "B1F Ambio 14 or 15 (each)",
+   "note": "16.4 x 14.3 m"
+  },
+  {
+   "name": "1F PrimaLuce Sala (17)",
+   "note": "10.8 x 18 m. Located in a separate building away from the hotel's main building"
+  },
+  {
+   "name": "2F G (4)",
+   "note": "15 x 14.8 m. Also listed as dinner 110 seats, classroom 72 seats"
+  },
+  {
+   "name": "2F S (5)",
+   "note": "15 x 14.8 m. Also listed as dinner 110 seats, classroom 72 seats"
+  },
+  {
+   "name": "1F PrimaLuce Attesa (18)",
+   "note": "7.4 x 10.8 m. Located in the separate building. Layouts are dinner and meeting"
+  },
+  {
+   "name": "2F ami, evo, neo and vio (each)",
+   "note": "9 x 8.3 m. Layouts are U-shape, seated and classroom"
+  },
+  {
+   "name": "2F azur and cyan (each)",
+   "note": "10 x 8.2 m. The figure in the table is 36 for classroom, but the style column says \"seated 40, classroom 24\""
+  },
+  {
+   "name": "Ma Maison",
+   "note": "14.4 x 33.6 m. On the garden pool side"
+  },
+  {
+   "name": "B1F Garden Poolside (16)",
+   "note": "Outdoor poolside. Private-use barbecue is also possible"
+  },
+  {
+   "name": "Aqua Terrace",
+   "note": "6.3 x 9.85 m"
+  }
+ ],
+ "ops": {
+  "parking": "The hotel has a parking lot for 350 cars. For weddings and banquets it is free for up to 5 hours, then 1,000 yen (tax included) per 60 minutes. For overnight stays it is 4,000 yen per night (from 15:00 on the check-in day until 30 minutes after check-out). The FAQ also mentions a temporary parking lot on the hotel grounds.",
+  "catering": "The FAQ answers \"Can you do catering?\" with \"Yes, we will propose options to suit the purpose and scale.\" Year-end parties, New Year parties, thank-you parties, farewell and welcome parties, and chartered bus arrangements are likewise proposed to suit the purpose and scale.",
+  "restaurants": "The hotel's restaurants are forest garden (buffet), silva (bar lounge), Dynasty (Chinese cuisine), lounge O, bean by the bay (cafe), Garden Pool Restaurant (seasonal) and Acendo. At Garden Poolside, a banquet space, private-use barbecue is also possible. IKSPIARI, next to Maihama Station, is introduced as a shopping place in the official FAQ.",
+  "waitingRooms": "The hotel states that the small banquet rooms (ami, evo, neo and vio on 2F, 75㎡ each; azur and cyan, 88㎡ each; and Attesa, 80㎡, in the separate building) are also suited to use as waiting rooms or event offices."
+ },
+ "documents": [
+  {
+   "title": "Banquet Hall Floor Plan Example: Crystal Ballroom (sample from the former name of Soara)"
+  },
+  {
+   "title": "Layout Diagram: Soara, Dinner"
+  },
+  {
+   "title": "Layout Diagram: Soara, Classroom"
+  },
+  {
+   "title": "Layout Diagram: Soara, Theater"
+  },
+  {
+   "title": "Layout Diagram: Ambio, Dinner"
+  },
+  {
+   "title": "Layout Diagram: Ambio, Classroom"
+  },
+  {
+   "title": "Layout Diagram: Ambio, Theater"
+  },
+  {
+   "title": "Layout Diagram: PrimaLuce Sala, Dinner"
+  },
+  {
+   "title": "Layout Diagram: PrimaLuce Sala, Classroom"
+  },
+  {
+   "title": "Layout Diagram: G, Dinner"
+  },
+  {
+   "title": "Layout Diagram: G, Classroom"
+  },
+  {
+   "title": "Layout Diagram: S, Dinner"
+  },
+  {
+   "title": "Layout Diagram: S, Classroom"
+  },
+  {
+   "title": "Layout Diagram: PrimaLuce Attesa, Dinner"
+  },
+  {
+   "title": "Layout Diagram: PrimaLuce Attesa, Meeting"
+  },
+  {
+   "title": "Layout Diagram: ami, evo, neo and vio"
+  },
+  {
+   "title": "Layout Diagram: azur and cyan, Dinner"
+  },
+  {
+   "title": "Layout Diagram: azur and cyan, Classroom"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "7-Eleven Urayasu Maihama",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location. Rather far."
+   }
+  ],
+  "copyshop": [],
+  "hundredYen": [
+   {
+    "name": "Standard Products IKSPIARI",
+    "hours": "10:00-21:00",
+    "note": "Distance is calculated from the official store location. Rather far."
+   },
+   {
+    "name": "DAISO IKSPIARI",
+    "hours": "10:00-21:00",
+    "note": "Distance is calculated from the official store location. Rather far."
+   }
+  ],
+  "donki": []
+ },
+ "photoCredit": "© Naoto Kawabata / Public domain · Wikimedia Commons"
+}

@@ -1,0 +1,311 @@
+{
+ "slug": "hulic-hall-tokyo",
+ "nameJa": "ヒューリックホール東京",
+ "nameEn": "",
+ "type": "hall",
+ "area": "yurakucho-ginza-venues",
+ "address": "〒100-0006 東京都千代田区有楽町2丁目-5-1 有楽町マリオン11F（阪急メンズ館側）",
+ "officialUrl": "https://hulic-theater.com/",
+ "organizerUrl": "https://hulic-theater.com/about-hall/",
+ "bizintokyoSlug": "hulic-hall-tokyo",
+ "accessSummary": "JR有楽町駅（中央口・銀座口）徒歩3分／東京メトロ有楽町線 有楽町駅（D7出口）徒歩3分／東京メトロ銀座線・日比谷線・丸ノ内線 銀座駅（C4出口）徒歩1分／日比谷駅（A0出口）直結",
+ "notice": null,
+ "hours": "24時間利用可。催事本番は原則7:00〜22:00（利用規約）。よくある質問では8:00〜22:00（12月31日〜1月1日を除く）",
+ "rooms": [
+  {
+   "name": "11〜12F ホール（固定席）",
+   "areaM2": 685,
+   "ceilingM": 10.0,
+   "theater": 886,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "固定イス886席（見切れ席を考慮しない場合）。車いす席は最大2席。面積はステージを含まない。ステージは幅11.5×奥行5.5×高さ0.95m（約63㎡）、天井高は床〜バトン下で約6.8m。利用規約上の入場人数の上限は886人、床の積載は350kg/㎡"
+  },
+  {
+   "name": "11F ホワイエ",
+   "areaM2": 220,
+   "ceilingM": "2.7-8.7",
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "受付・クローク・バーカウンター・トイレ・喫煙所あり。ホワイエでのパーティー可"
+  },
+  {
+   "name": "12F ホワイエ（階段上）",
+   "areaM2": 150,
+   "ceilingM": "2.7-8.7",
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": null
+  },
+  {
+   "name": "主催者控室（11F）",
+   "areaM2": 15,
+   "ceilingM": 2.3,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "バーカウンター後ろ"
+  },
+  {
+   "name": "控室1（11F）",
+   "areaM2": 26,
+   "ceilingM": 2.5,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "フィッティングスペース・鏡前・洗面台・冷蔵庫あり。利用料無料"
+  },
+  {
+   "name": "控室2（11F）",
+   "areaM2": 8,
+   "ceilingM": 2.5,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "フィッティングスペース・鏡前・洗面台・冷蔵庫あり。利用料無料"
+  }
+ ],
+ "roomsSource": "https://hulic-theater.com/about-hall/equipment/",
+ "ops": {
+  "prevDaySetup": {
+   "text": "利用期間は準備開始から原状回復・退出までで、利用できる時間帯は24時間（催事本番は原則7:00〜22:00。よくある質問では8:00〜22:00）。終日利用料は800,000円（9:00〜20:00の11時間、延長1時間80,000円）、時間利用は1時間100,000円（最低6時間）で、ほかに施設管理費30,000円/日がかかる（税別）。荷物の事前送付は利用日の前日に受け付ける。エンターテイメント利用で連続2日以上の場合、準備日・リハーサル日・撤収日は基本料金にドリンク保証金を加えた料金になる。（出典：利用規約〈2022年4月29日改定〉、料金表〈2026年4月25日版〉、よくある質問）",
+   "source": "https://hulic-theater.com/wordpress/wp-content/uploads/2024/06/usage_rules_20220516.pdf"
+  },
+  "loadingHours": {
+   "text": "搬入出には、利用日の1週間前までに搬入出の時間帯・会社名・車種・車両ナンバー・台数をまとめた車両リストの提出が必要。作業員全員にホール腕章が必要で、入館後に11FとB2Fで搬入手続きをして人数分を受け取る。駐車場入口からの進入は7:00〜23:00（23:00〜7:00はシャッター閉鎖で、事前の作業届と立会スタッフ費用が必要）。荷捌場はB2Fで、18:00〜9:00はシャッターが閉まり、開閉は作業前にホールスタッフへ声をかける。搬入エレベーターは内寸 幅2.8×奥行2.25×高さ3.0m、扉口 幅1.8×高さ2.3m、積載3,300kg（搬入関連資料）。公式サイトのホール概要・アクセスの表記は扉口 幅1.3m、アクセスページは内寸 幅2.55×奥行2.0×高さ2.5m・荷重2,600kgで、資料と数字が異なる。（出典：搬入関連資料 2025年版）",
+   "source": "https://hulic-theater.com/wordpress/wp-content/uploads/2025/04/loading_notes2025.pdf"
+  },
+  "vehicleRules": {
+   "text": "荷捌場の車両制限は高さ3.0m×幅2.5m×長さ6.0m。荷捌場は商業施設と共用で、車両は駐車できず、作業が終わったら速やかに退出する。作業後に留め置きが必要な車両は地下駐車場（B3/B4F）を使う。会場側で精算券を用意でき、平日2,400円・休日と祝日4,800円（利用後に付帯請求）。ホール・建物の近辺への路上駐車は禁止。（出典：搬入関連資料 2025年版、利用規約）",
+   "source": "https://hulic-theater.com/wordpress/wp-content/uploads/2025/04/loading_notes2025.pdf"
+  },
+  "parking": {
+   "text": "有楽町マリオン内に有料駐車場があり、収容149台（平置き129台）、300円/30分、最大料金は平日2,400円で土日祝は上限なし。入出庫は7:00〜23:00。車両制限は高さ2.1m・長さ5.0m・幅2.3m。重量制限はアクセスページで2.0t、搬入関連資料で4tと表記が異なる。（出典：アクセスページ、搬入関連資料 2025年版）",
+   "source": "https://hulic-theater.com/access/"
+  },
+  "waitingRooms": {
+   "text": "控室は11Fに2室（約26㎡、約8㎡。フィッティングスペース・鏡前・洗面台・冷蔵庫・ホール用モニター付き）と主催者控室（約15㎡）。クロークはクローク室に固定ハンガーラック・固定棚（300名分）があり、控室としても使える。ホワイエ・クローク・控室などは無料で利用できる。（出典：機材・備品・設備リスト、よくある質問）",
+   "source": "https://hulic-theater.com/about-hall/equipment/"
+  },
+  "catering": {
+   "text": "パーティー（懇親会）のケータリング、お弁当、コーヒーサービスの手配は、ホール担当者に相談すれば可能。ホール内で飲食できる場所は運営側の指定場所に限られる。調理は、裸火の使用と「焼く・炒める・煮る」はできず、IHコンロや電子レンジなど電気機器による湯煎・温め程度のみ可能で、事前に担当者の承認が必要。保健所への申請が必要な行為は主催者側で申請する。（出典：よくある質問、利用規約 第18条）",
+   "source": "https://hulic-theater.com/faq/"
+  }
+ },
+ "documents": [
+  {
+   "title": "料金表（2026年4月25日版）",
+   "url": "https://hulic-theater.com/wordpress/wp-content/uploads/2026/05/charges20260425.pdf"
+  },
+  {
+   "title": "利用規約（2022年4月29日改定）",
+   "url": "https://hulic-theater.com/wordpress/wp-content/uploads/2024/06/usage_rules_20220516.pdf"
+  },
+  {
+   "title": "搬入関連資料（2025年版）",
+   "url": "https://hulic-theater.com/wordpress/wp-content/uploads/2025/04/loading_notes2025.pdf"
+  },
+  {
+   "title": "座席表",
+   "url": "https://hulic-theater.com/wordpress/wp-content/themes/mgs-yht/pdf/layout/seating_chart.pdf"
+  },
+  {
+   "title": "見切れ席確認資料",
+   "url": "https://hulic-theater.com/wordpress/wp-content/themes/mgs-yht/pdf/layout/seating_chart_mikire.pdf"
+  },
+  {
+   "title": "フロア全体図（スケール入）",
+   "url": "https://hulic-theater.com/wordpress/wp-content/themes/mgs-yht/pdf/layout/floor_plan_scale.pdf"
+  },
+  {
+   "title": "ホール平面図（スケール入）",
+   "url": "https://hulic-theater.com/wordpress/wp-content/themes/mgs-yht/pdf/layout/hall_plan.pdf"
+  },
+  {
+   "title": "ホール断面図（スケール入）",
+   "url": "https://hulic-theater.com/wordpress/wp-content/themes/mgs-yht/pdf/layout/hall_xsect_plan.pdf"
+  },
+  {
+   "title": "吊物設備 ホール断面図",
+   "url": "https://hulic-theater.com/wordpress/wp-content/themes/mgs-yht/pdf/layout/hall_xsect_epplan.pdf"
+  },
+  {
+   "title": "ホール電源図",
+   "url": "https://hulic-theater.com/wordpress/wp-content/uploads/2017/01/3bec099e0eb127c0cf47d1b085c62fc9.pdf"
+  },
+  {
+   "title": "舞台平面図",
+   "url": "https://hulic-theater.com/wordpress/wp-content/themes/mgs-yht/pdf/layout/stage_plan.pdf"
+  },
+  {
+   "title": "舞台平面図（スケール入）",
+   "url": "https://hulic-theater.com/wordpress/wp-content/uploads/2017/01/c916763fcab53968e01cbe1818e2efa6.pdf"
+  },
+  {
+   "title": "舞台立面図（スケール入）",
+   "url": "https://hulic-theater.com/wordpress/wp-content/uploads/2017/01/ritumen_2025.pdf"
+  },
+  {
+   "title": "吊物設備 舞台平面図",
+   "url": "https://hulic-theater.com/wordpress/wp-content/uploads/2024/06/stage_eqplan.pdf"
+  },
+  {
+   "title": "音響機材リスト（2025年11月版）",
+   "url": "https://hulic-theater.com/wordpress/wp-content/uploads/2025/11/20251112sound_eqlist.pdf"
+  },
+  {
+   "title": "映像機材リスト",
+   "url": "https://hulic-theater.com/wordpress/wp-content/uploads/2026/05/20221227visual_eqlist.pdf"
+  },
+  {
+   "title": "備品リスト（2026年1月版）",
+   "url": "https://hulic-theater.com/wordpress/wp-content/uploads/2026/05/20260107eqlist.pdf"
+  },
+  {
+   "title": "乗り込み照明会社様向け注意事項（2026年10月更新）",
+   "url": "https://hulic-theater.com/wordpress/wp-content/uploads/2026/10/1_caution_20261003.pdf"
+  },
+  {
+   "title": "照明機材リスト（2026年10月更新）",
+   "url": "https://hulic-theater.com/wordpress/wp-content/uploads/2026/10/2_hulic_moving_lighting_list_20261003.pdf"
+  },
+  {
+   "title": "資料ダウンロード（公式一覧）",
+   "url": "https://hulic-theater.com/download/"
+  }
+ ],
+ "checkedAt": "2026-11-02",
+ "lat": 35.673576,
+ "lng": 139.762802,
+ "nearby": {
+  "convenience": [
+   {
+    "name": "セブン-イレブン 有楽町駅前店",
+    "brand": "セブン-イレブン",
+    "distanceM": 77,
+    "walkMin": 1,
+    "hours": "24時間営業",
+    "address": "東京都千代田区有楽町2-8-2",
+    "verified": true,
+    "source": "https://seven-eleven.areamarker.com/711map/info/394424",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "ファミリーマート 有楽町駅前店",
+    "brand": "ファミリーマート",
+    "distanceM": 97,
+    "walkMin": 2,
+    "hours": "24時間営業",
+    "address": "東京都千代田区有楽町2丁目8-4",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/20223",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "セブン-イレブン 有楽町イトシア店",
+    "brand": "セブン-イレブン",
+    "distanceM": 110,
+    "walkMin": 2,
+    "hours": "7:00-23:00（月〜日・祝）",
+    "address": "東京都千代田区有楽町2-7-1",
+    "verified": true,
+    "source": "https://seven-eleven.areamarker.com/711map/info/318571",
+    "note": "距離は公式の店舗位置で計算"
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "アクセア 銀座ファイブ店",
+    "brand": "アクセア",
+    "distanceM": 170,
+    "walkMin": 3,
+    "hours": "平日 10:00-20:00／土・日・祝 休み",
+    "address": "東京都中央区銀座5-1 銀座ファイブ2F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/entry.html",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "キンコーズ・銀座一丁目店",
+    "brand": "キンコーズ",
+    "distanceM": 531,
+    "walkMin": 7,
+    "hours": "平日 9:00-20:00／土 10:00-19:00／日・祝 休業",
+    "address": "東京都中央区銀座1丁目7-3 京橋三菱ビル1F",
+    "verified": true,
+    "source": "https://www.kinkos.co.jp/store/tokyo/t002/",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "3COINS +plus 西銀座デパート店",
+    "brand": "3COINS",
+    "distanceM": 85,
+    "walkMin": 2,
+    "hours": "11:00-20:00",
+    "address": "東京都中央区銀座4-1 西銀座デパート2F",
+    "verified": true,
+    "source": "https://palcloset.storelocator.jp/detail/2263",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "DAISO マロニエゲート銀座店",
+    "brand": "ダイソー",
+    "distanceM": 220,
+    "walkMin": 3,
+    "hours": "11:00-21:00",
+    "address": "東京都中央区銀座3-2-1 マロニエゲート銀座2 6階",
+    "verified": true,
+    "source": "https://www.daiso-sangyo.co.jp/shop/detail/009168",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "donki": [
+   {
+    "name": "ドン・キホーテ 銀座本館（銀座ナイン3号館）",
+    "brand": "ドン・キホーテ",
+    "distanceM": 645,
+    "walkMin": 9,
+    "hours": "24時間営業",
+    "address": "東京都中央区銀座8-10 銀座ナイン3号館",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=92",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "ピカソ赤坂店（ドン・キホーテ）",
+    "brand": "ドン・キホーテ",
+    "distanceM": 2305,
+    "walkMin": 29,
+    "hours": "7:00-3:00",
+    "address": "東京都港区赤坂3-11-14",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=289",
+    "note": "距離は住所の位置で計算。ドン・キホーテの別業態（公式サイトの店舗名は「ピカソ赤坂店」）。遠い"
+   }
+  ]
+ },
+ "drinkDelivery": {
+  "available": true
+ },
+ "photo": {
+  "src": "/images/venues/hulic-hall-tokyo.jpg",
+  "credit": "© BUNBUN / CC BY-SA 2.5 · Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Yurakucho-hankyu_sep2006.jpg"
+ }
+}

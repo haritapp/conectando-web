@@ -1,0 +1,326 @@
+{
+ "slug": "hilton-tokyo-bay",
+ "nameJa": "ヒルトン東京ベイ",
+ "nameEn": "Hilton Tokyo Bay",
+ "type": "hotel",
+ "area": "chiba-venues",
+ "address": "〒279-0031 千葉県浦安市舞浜1-8",
+ "officialUrl": "https://tokyobay.hiltonjapan.co.jp/",
+ "organizerUrl": "https://tokyobay.hiltonjapan.co.jp/mice/",
+ "bizintokyoSlug": "hilton-tokyo-bay",
+ "accessSummary": "JR舞浜駅から無料シャトルバスでホテルまで約7分／ディズニーリゾートライン ベイサイド・ステーションから徒歩またはホテルの無料送迎バスで約1分（舞浜駅からモノレールでベイサイド・ステーションまで約4分）",
+ "notice": null,
+ "hours": null,
+ "rooms": [
+  {
+   "name": "2F 大宴会場 soara（ソアラ）1+2+3 全体",
+   "areaM2": 1188,
+   "ceilingM": 6.0,
+   "theater": 1400,
+   "school": 828,
+   "ushape": null,
+   "standing": 1200,
+   "banquet": 800,
+   "note": "縦横28.0×45.0m。公式のスタイル欄には「正餐 600席／スクール 468席／シアター 1400席」の表記もある。車の展示ができるのはソアラのみ。公式FAQ（/faq/banquet）には「着席700名・立食1000名まで」とあり、会場ページの表と数字が違う。"
+  },
+  {
+   "name": "2F soara 1+2 または 2+3",
+   "areaM2": 804,
+   "ceilingM": 6.0,
+   "theater": 900,
+   "school": 500,
+   "ushape": null,
+   "standing": 650,
+   "banquet": 460,
+   "note": "縦横28.0×30.4m"
+  },
+  {
+   "name": "2F soara 1 または 3（各）",
+   "areaM2": 384,
+   "ceilingM": 6.0,
+   "theater": 400,
+   "school": 200,
+   "ushape": null,
+   "standing": 300,
+   "banquet": 230,
+   "note": "縦横28.0×14.6m"
+  },
+  {
+   "name": "2F soara 2",
+   "areaM2": 420,
+   "ceilingM": 6.0,
+   "theater": 500,
+   "school": 252,
+   "ushape": null,
+   "standing": 350,
+   "banquet": 260,
+   "note": "縦横28.0×15.8m"
+  },
+  {
+   "name": "B1F ambio（アンビオ）14+15",
+   "areaM2": 480,
+   "ceilingM": 3.8,
+   "theater": 552,
+   "school": 309,
+   "ushape": null,
+   "standing": 400,
+   "banquet": 300,
+   "note": "縦横16.4×28.5m"
+  },
+  {
+   "name": "B1F ambio 14 または 15（各）",
+   "areaM2": 240,
+   "ceilingM": 3.8,
+   "theater": 240,
+   "school": 144,
+   "ushape": null,
+   "standing": 150,
+   "banquet": 140,
+   "note": "縦横16.4×14.3m"
+  },
+  {
+   "name": "1F プリマルーチェ サラ（17）",
+   "areaM2": 195,
+   "ceilingM": 3.3,
+   "theater": 240,
+   "school": 106,
+   "ushape": null,
+   "standing": 160,
+   "banquet": 140,
+   "note": "縦横10.8×18m。ホテル本館から離れた別邸にある"
+  },
+  {
+   "name": "2F G（ジー）（4）",
+   "areaM2": 224,
+   "ceilingM": 3.0,
+   "theater": 248,
+   "school": 126,
+   "ushape": null,
+   "standing": 180,
+   "banquet": 140,
+   "note": "縦横15×14.8m。正餐 110席、スクール 72席の表記もある"
+  },
+  {
+   "name": "2F S（エス）（5）",
+   "areaM2": 252,
+   "ceilingM": 3.0,
+   "theater": 248,
+   "school": 126,
+   "ushape": null,
+   "standing": 200,
+   "banquet": 160,
+   "note": "縦横15×14.8m。正餐 110席、スクール 72席の表記もある"
+  },
+  {
+   "name": "1F プリマルーチェ アテッサ（18）",
+   "areaM2": 80,
+   "ceilingM": 2.7,
+   "theater": 50,
+   "school": 36,
+   "ushape": null,
+   "standing": 40,
+   "banquet": 30,
+   "note": "縦横7.4×10.8m。別邸にある。レイアウトは正餐・ミーティング"
+  },
+  {
+   "name": "2F ami（アミ）・evo（エボ）・neo（ネオ）・vio（ビオ）（各）",
+   "areaM2": 75,
+   "ceilingM": 2.9,
+   "theater": 50,
+   "school": 36,
+   "ushape": null,
+   "standing": 40,
+   "banquet": 30,
+   "note": "縦横9×8.3m。レイアウトはコの字・着席・スクール"
+  },
+  {
+   "name": "2F azur（アジュール）・cyan（シアン）（各）",
+   "areaM2": 88,
+   "ceilingM": 2.9,
+   "theater": 60,
+   "school": 36,
+   "ushape": null,
+   "standing": 50,
+   "banquet": 40,
+   "note": "縦横10×8.2m。表の数字はスクール36名だが、スタイル欄には「着席40名、スクール24名」とある"
+  },
+  {
+   "name": "マ・メゾン",
+   "areaM2": 315,
+   "ceilingM": "3.0-3.5",
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": 100,
+   "banquet": 70,
+   "note": "縦横14.4×33.6m。ガーデンプール側"
+  },
+  {
+   "name": "B1F ガーデンプールサイド（16）",
+   "areaM2": null,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": 350,
+   "banquet": null,
+   "note": "屋外のプールサイド。貸切でバーベキュー料理も可"
+  },
+  {
+   "name": "アクアテラス",
+   "areaM2": 75,
+   "ceilingM": 4.1,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": 38,
+   "banquet": null,
+   "note": "縦横6.3×9.85m"
+  }
+ ],
+ "roomsSource": "https://tokyobay.hiltonjapan.co.jp/mice/large、https://tokyobay.hiltonjapan.co.jp/mice/medium、https://tokyobay.hiltonjapan.co.jp/mice/small、https://tokyobay.hiltonjapan.co.jp/mice/other",
+ "ops": {
+  "parking": {
+   "text": "ホテルに350台収容の駐車場がある。御婚礼・ご宴会は5時間まで無料で、以後60分ごとに1,000円（税込）。宿泊は1泊4,000円（チェックイン日15:00からチェックアウト後30分以内）。FAQには、ホテル敷地内に臨時駐車場もあるとの記載がある。",
+   "source": "https://tokyobay.hiltonjapan.co.jp/access/"
+  },
+  "catering": {
+   "text": "FAQで「ケータリングは出来ますか？」に「はい、趣旨・規模に合わせてご提案させて頂きます」と回答している。忘年会・新年会・謝恩会・歓送迎会、貸切バスの手配も同様に趣旨・規模に合わせて提案するとある。",
+   "source": "https://tokyobay.hiltonjapan.co.jp/faq/banquet"
+  },
+  "restaurants": {
+   "text": "館内のレストランはフォレストガーデン（ビュッフェ）、シルバ（バーラウンジ）、王朝（中国料理）、ラウンジ・オー、ビーン バイ ザ ベイ（カフェ）、ガーデンプールレストラン（季節営業）、アチェンド。宴会場のガーデンプールサイドでは貸切でバーベキュー料理もできる。舞浜駅隣接のイクスピアリは公式FAQで買い物の場所として案内されている。",
+   "source": "https://tokyobay.hiltonjapan.co.jp/restaurants/"
+  },
+  "waitingRooms": {
+   "text": "小宴会場（2Fのami・evo・neo・vio 各75㎡、azur・cyan 各88㎡、別邸のアテッサ80㎡）は、控室や事務局としての利用にも適すると公式に案内されている。",
+   "source": "https://tokyobay.hiltonjapan.co.jp/mice/small"
+  }
+ },
+ "documents": [
+  {
+   "title": "宴会場フロアプラン例 クリスタルボールルーム（ソアラの旧称のサンプル）",
+   "url": "https://tokyobay.hiltonjapan.co.jp/pdf/banquet/hall/htb_smp.pdf"
+  },
+  {
+   "title": "レイアウト図 soara 正餐",
+   "url": "https://tokyobay.hiltonjapan.co.jp/pdf/banquet/style/soara_dinner.pdf"
+  },
+  {
+   "title": "レイアウト図 soara スクール",
+   "url": "https://tokyobay.hiltonjapan.co.jp/pdf/banquet/style/soara_school.pdf"
+  },
+  {
+   "title": "レイアウト図 soara シアター",
+   "url": "https://tokyobay.hiltonjapan.co.jp/pdf/banquet/style/soara_theater.pdf"
+  },
+  {
+   "title": "レイアウト図 ambio 正餐",
+   "url": "https://tokyobay.hiltonjapan.co.jp/pdf/banquet/style/ambio_dinner.pdf"
+  },
+  {
+   "title": "レイアウト図 ambio スクール",
+   "url": "https://tokyobay.hiltonjapan.co.jp/pdf/banquet/style/ambio_school.pdf"
+  },
+  {
+   "title": "レイアウト図 ambio シアター",
+   "url": "https://tokyobay.hiltonjapan.co.jp/pdf/banquet/style/ambio_theater.pdf"
+  },
+  {
+   "title": "レイアウト図 プリマルーチェ サラ 正餐",
+   "url": "https://tokyobay.hiltonjapan.co.jp/pdf/banquet/style/sala_dinner.pdf"
+  },
+  {
+   "title": "レイアウト図 プリマルーチェ サラ スクール",
+   "url": "https://tokyobay.hiltonjapan.co.jp/pdf/banquet/style/sala_school.pdf"
+  },
+  {
+   "title": "レイアウト図 G 正餐",
+   "url": "https://tokyobay.hiltonjapan.co.jp/pdf/banquet/style/G_dinner.pdf"
+  },
+  {
+   "title": "レイアウト図 G スクール",
+   "url": "https://tokyobay.hiltonjapan.co.jp/pdf/banquet/style/G_school.pdf"
+  },
+  {
+   "title": "レイアウト図 S 正餐",
+   "url": "https://tokyobay.hiltonjapan.co.jp/pdf/banquet/style/S_dinner.pdf"
+  },
+  {
+   "title": "レイアウト図 S スクール",
+   "url": "https://tokyobay.hiltonjapan.co.jp/pdf/banquet/style/S_school.pdf"
+  },
+  {
+   "title": "レイアウト図 プリマルーチェ アテッサ 正餐",
+   "url": "https://tokyobay.hiltonjapan.co.jp/pdf/banquet/style/atessa_dinner.pdf"
+  },
+  {
+   "title": "レイアウト図 プリマルーチェ アテッサ ミーティング",
+   "url": "https://tokyobay.hiltonjapan.co.jp/pdf/banquet/style/atessa_meeting.pdf"
+  },
+  {
+   "title": "レイアウト図 ami・evo・neo・vio",
+   "url": "https://tokyobay.hiltonjapan.co.jp/pdf/banquet/style/ami_evo_neo_vio.pdf"
+  },
+  {
+   "title": "レイアウト図 azur・cyan 正餐",
+   "url": "https://tokyobay.hiltonjapan.co.jp/pdf/banquet/style/azur_cyan_dinner.pdf"
+  },
+  {
+   "title": "レイアウト図 azur・cyan スクール",
+   "url": "https://tokyobay.hiltonjapan.co.jp/pdf/banquet/style/azur_cyan_school.pdf"
+  }
+ ],
+ "checkedAt": "2026-11-02",
+ "lat": 35.6271803,
+ "lng": 139.8736971,
+ "nearby": {
+  "convenience": [
+   {
+    "name": "セブン-イレブン 浦安舞浜店",
+    "brand": "セブン-イレブン",
+    "distanceM": 1558,
+    "walkMin": 20,
+    "hours": "24時間営業",
+    "address": "千葉県浦安市舞浜2-46-1",
+    "verified": true,
+    "source": "https://seven-eleven.areamarker.com/711map/info/531520",
+    "note": "距離は公式の店舗位置で計算。遠め"
+   }
+  ],
+  "copyshop": [],
+  "hundredYen": [
+   {
+    "name": "Standard Products イクスピアリ店",
+    "brand": "Standard Products",
+    "distanceM": 1320,
+    "walkMin": 17,
+    "hours": "10:00-21:00",
+    "address": "千葉県浦安市舞浜1-4 イクスピアリ3階",
+    "verified": true,
+    "source": "https://www.daiso-sangyo.co.jp/shop/detail/009625",
+    "note": "距離は公式の店舗位置で計算。遠め"
+   },
+   {
+    "name": "DAISO イクスピアリ店",
+    "brand": "ダイソー",
+    "distanceM": 1372,
+    "walkMin": 18,
+    "hours": "10:00-21:00",
+    "address": "千葉県浦安市舞浜1-4 イクスピアリ3階",
+    "verified": true,
+    "source": "https://www.daiso-sangyo.co.jp/shop/detail/001054",
+    "note": "距離は公式の店舗位置で計算。遠め"
+   }
+  ],
+  "donki": []
+ },
+ "drinkDelivery": {
+  "available": false
+ },
+ "photo": {
+  "src": "/images/venues/hilton-tokyo-bay.jpg",
+  "credit": "© Naoto Kawabata / Public domain · Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hilton_Tokyo_Bay.JPG"
+ }
+}

@@ -1,0 +1,421 @@
+{
+ "slug": "jp-tower",
+ "nameJa": "JPタワー ホール＆カンファレンス",
+ "nameEn": "JP Tower Hall & Conference",
+ "type": "conference",
+ "area": "marunouchi-nihonbashi-venues",
+ "address": "〒100-7004 東京都千代田区丸の内二丁目7番2号 KITTE 4,5階",
+ "officialUrl": "https://www.jptower-hall.jp/",
+ "organizerUrl": "https://www.jptower-hall.jp/flow/",
+ "bizintokyoSlug": "jp_tower",
+ "accessSummary": "JR東京駅 徒歩約1分／東京メトロ丸ノ内線 東京駅 地下道より直結／千代田線 二重橋前〈丸の内〉駅 徒歩約2分／JR京葉線 東京駅 徒歩約3分／都営三田線 大手町駅 徒歩約4分／有楽町線 有楽町駅 徒歩約6分／JR有楽町駅 徒歩約6分",
+ "notice": "ホールは照明設備入替工事のため、2027年1月1日〜1月31日の予約受付を停止（ホール以外の会場は貸出可）。",
+ "hours": "利用時間 9:00〜21:00。原則年中無休（1月1日と保守点検日を除く）。部屋の開錠・入室は利用開始の20分前。設営・撤去は利用時間に含む。問合せ受付は平日10:00〜17:00。ホールを含む催事は利用開始日の1年前の月の初日から、その他諸室のみは6か月前の月の初日から受付（国際会議・国際的な展示会は随時）。（利用規約 2025年4月1日改定）",
+ "rooms": [
+  {
+   "name": "4F ホール（全体1+2+3）",
+   "areaM2": 600,
+   "ceilingM": "6.4-7.0",
+   "theater": 693,
+   "school": 378,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "3分割可能。スクールは3名掛378席・2名掛252席。収容人数は目安でレイアウトにより変わる。"
+  },
+  {
+   "name": "4F ホール1+2",
+   "areaM2": 393,
+   "ceilingM": "6.4-7.0",
+   "theater": 410,
+   "school": 258,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "スクールは3名掛258席・2名掛172席。収容人数は目安でレイアウトにより変わる。"
+  },
+  {
+   "name": "4F ホール2+3",
+   "areaM2": 401,
+   "ceilingM": "6.4-7.0",
+   "theater": 420,
+   "school": 258,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "スクールは3名掛258席・2名掛172席。収容人数は目安でレイアウトにより変わる。"
+  },
+  {
+   "name": "4F ホール1",
+   "areaM2": 196,
+   "ceilingM": "6.4-7.0",
+   "theater": 176,
+   "school": 96,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "スクールは3名掛96席・2名掛64席。収容人数は目安でレイアウトにより変わる。"
+  },
+  {
+   "name": "4F ホール2",
+   "areaM2": 194,
+   "ceilingM": "6.4-7.0",
+   "theater": 176,
+   "school": 96,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "スクールは3名掛96席・2名掛64席。収容人数は目安でレイアウトにより変わる。"
+  },
+  {
+   "name": "4F ホール3",
+   "areaM2": 204,
+   "ceilingM": "6.4-7.0",
+   "theater": 176,
+   "school": 96,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "スクールは3名掛96席・2名掛64席。収容人数は目安でレイアウトにより変わる。"
+  },
+  {
+   "name": "4F カンファレンスルームA（全体）",
+   "areaM2": 367,
+   "ceilingM": "2.9-3.2",
+   "theater": 380,
+   "school": 225,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "稼働間仕切りで分割可。スクールは3名掛225席・2名掛150席。収容人数は目安でレイアウトにより変わる。"
+  },
+  {
+   "name": "4F カンファレンスルームA1+A2",
+   "areaM2": 209,
+   "ceilingM": "2.9-3.2",
+   "theater": 171,
+   "school": 90,
+   "ushape": 66,
+   "standing": null,
+   "banquet": null,
+   "note": "スクールは3名掛90席・2名掛60席。ロの字は3名掛66席・2名掛44席。収容人数は目安でレイアウトにより変わる。"
+  },
+  {
+   "name": "4F カンファレンスルームA2+A3",
+   "areaM2": 262,
+   "ceilingM": "2.9-3.2",
+   "theater": 247,
+   "school": 150,
+   "ushape": 78,
+   "standing": null,
+   "banquet": null,
+   "note": "スクールは3名掛150席・2名掛100席。ロの字は3名掛78席・2名掛52席。収容人数は目安でレイアウトにより変わる。"
+  },
+  {
+   "name": "4F カンファレンスルームA1",
+   "areaM2": 103,
+   "ceilingM": "2.9-3.2",
+   "theater": 88,
+   "school": 42,
+   "ushape": 42,
+   "standing": null,
+   "banquet": null,
+   "note": "スクールは3名掛42席・2名掛28席。ロの字は3名掛42席・2名掛28席。収容人数は目安でレイアウトにより変わる。"
+  },
+  {
+   "name": "4F カンファレンスルームA2",
+   "areaM2": 104,
+   "ceilingM": "2.9-3.2",
+   "theater": 88,
+   "school": 42,
+   "ushape": 42,
+   "standing": null,
+   "banquet": null,
+   "note": "スクールは3名掛42席・2名掛28席。ロの字は3名掛42席・2名掛28席。収容人数は目安でレイアウトにより変わる。"
+  },
+  {
+   "name": "4F カンファレンスルームA3",
+   "areaM2": 156,
+   "ceilingM": "2.9-3.2",
+   "theater": 133,
+   "school": 75,
+   "ushape": 54,
+   "standing": null,
+   "banquet": null,
+   "note": "スクールは3名掛75席・2名掛50席。ロの字は3名掛54席・2名掛36席。収容人数は目安でレイアウトにより変わる。"
+  },
+  {
+   "name": "5F カンファレンスルームB（全体）",
+   "areaM2": 246,
+   "ceilingM": "2.9-3.2",
+   "theater": 252,
+   "school": 150,
+   "ushape": 72,
+   "standing": null,
+   "banquet": null,
+   "note": "稼働間仕切りで分割可。スクールは3名掛150席・2名掛100席。ロの字は3名掛72席・2名掛48席。収容人数は目安でレイアウトにより変わる。"
+  },
+  {
+   "name": "5F カンファレンスルームB1",
+   "areaM2": 96,
+   "ceilingM": "2.9-3.2",
+   "theater": 70,
+   "school": 42,
+   "ushape": 42,
+   "standing": null,
+   "banquet": null,
+   "note": "スクールは3名掛42席・2名掛28席。ロの字は3名掛42席・2名掛28席。収容人数は目安でレイアウトにより変わる。"
+  },
+  {
+   "name": "5F カンファレンスルームB2",
+   "areaM2": 149,
+   "ceilingM": "2.9-3.2",
+   "theater": 112,
+   "school": 75,
+   "ushape": 54,
+   "standing": null,
+   "banquet": null,
+   "note": "スクールは3名掛75席・2名掛50席。ロの字は3名掛54席・2名掛36席。収容人数は目安でレイアウトにより変わる。"
+  },
+  {
+   "name": "4F ミーティングルーム1",
+   "areaM2": 48,
+   "ceilingM": "3.2-3.7",
+   "theater": null,
+   "school": null,
+   "ushape": 30,
+   "standing": null,
+   "banquet": null,
+   "note": "ロの字は3名掛30席・2名掛20席。ミーティングルーム1〜4は間仕切りを開けるとホワイエと一体利用できる（ホワイエのみの貸出は不可）。"
+  },
+  {
+   "name": "4F ミーティングルーム2",
+   "areaM2": 50,
+   "ceilingM": "3.2-3.7",
+   "theater": null,
+   "school": null,
+   "ushape": 30,
+   "standing": null,
+   "banquet": null,
+   "note": "ロの字は3名掛30席・2名掛20席。"
+  },
+  {
+   "name": "4F ミーティングルーム3",
+   "areaM2": 48,
+   "ceilingM": "3.2-3.7",
+   "theater": null,
+   "school": null,
+   "ushape": 30,
+   "standing": null,
+   "banquet": null,
+   "note": "ロの字は3名掛30席・2名掛20席。"
+  },
+  {
+   "name": "4F ミーティングルーム4",
+   "areaM2": 45,
+   "ceilingM": "3.2-3.7",
+   "theater": null,
+   "school": null,
+   "ushape": 30,
+   "standing": null,
+   "banquet": null,
+   "note": "ロの字は3名掛30席・2名掛20席。"
+  },
+  {
+   "name": "5F ミーティングルーム5",
+   "areaM2": 25,
+   "ceilingM": 2.8,
+   "theater": null,
+   "school": null,
+   "ushape": 18,
+   "standing": null,
+   "banquet": null,
+   "note": "ロの字は3名掛18席・2名掛12席。"
+  },
+  {
+   "name": "5F ミーティングルーム6",
+   "areaM2": 24,
+   "ceilingM": 2.8,
+   "theater": null,
+   "school": null,
+   "ushape": 18,
+   "standing": null,
+   "banquet": null,
+   "note": "ロの字は3名掛18席・2名掛12席。"
+  }
+ ],
+ "roomsSource": "https://www.jptower-hall.jp/plan/",
+ "ops": {
+  "loadingHours": {
+   "text": "利用時間は9:00〜21:00で、設営・撤去・荷物の搬入搬出もこの時間内に含む。時間外に使いたい場合は事前に相談する。会場は施錠されており、4F受付で会場担当者を呼び出す（開錠は利用開始の20分前）。物品の搬入出で建物の床・壁を汚損・破損するおそれがあるときは、利用者の責任と費用で養生する。事前荷物預かりは1個1日500円（税抜）で、当日・前日は3個まで無料。（利用規約 2025年4月1日改定、什器・備品 2026年4月改定）",
+   "source": "https://www.jptower-hall.jp/terms/"
+  },
+  "parking": {
+   "text": "ビルのKITTE駐車場（地下2・3階）を利用できる。利用時間6:00〜23:00、一般車は30分ごとに400円・12時間まで3,500円（税込）。",
+   "source": "https://marunouchi.jp-kitte.jp/guide/access.jsp"
+  },
+  "waitingRooms": {
+   "text": "4Fに控室2室がある。VIP控室34㎡（天井3.0m）、控室12㎡（天井2.6m）。ほかに4F・5Fのミーティングルーム6室（24〜50㎡）を主催者・ゲストの控室などに使える。",
+   "source": "https://www.jptower-hall.jp/floor03/"
+  },
+  "catering": {
+   "text": "外部からの飲食物の持込は不可。飲食の提供は施設の指定会社が行い、ケータリング（弁当・飲み物・パーティーメニューなど）は事前に相談する。オーダーシートの提出期限は、パーティーは開催日の14日前、パーティー以外は10日前。（利用規約 2025年4月1日改定）",
+   "source": "https://www.jptower-hall.jp/catering/"
+  }
+ },
+ "documents": [
+  {
+   "title": "利用規約（2025年4月1日改定）",
+   "url": "https://www.jptower-hall.jp/shared/pdf/terms_20250401.pdf"
+  },
+  {
+   "title": "施設利用料金表（2025年7月改定）",
+   "url": "https://www.jptower-hall.jp/shared/pdf/usage_fee_20250701.pdf"
+  },
+  {
+   "title": "附属設備・備品利用料金表（2026年4月改定）",
+   "url": "https://www.jptower-hall.jp/shared/pdf/equipment_fee_20260401.pdf"
+  },
+  {
+   "title": "4階平面図（2025年10月30日更新）",
+   "url": "https://www.jptower-hall.jp/shared/pdf/floor-image01_Rev2512.pdf"
+  },
+  {
+   "title": "5階平面図（2018年7月2日更新）",
+   "url": "https://www.jptower-hall.jp/shared/pdf/floor-image02_Rev2512.pdf"
+  },
+  {
+   "title": "ビル施設構成",
+   "url": "https://www.jptower-hall.jp/shared/pdf/place-image01.pdf"
+  },
+  {
+   "title": "レイアウトプラン（ホール）",
+   "url": "https://www.jptower-hall.jp/shared/pdf/layout-hall.pdf"
+  },
+  {
+   "title": "レイアウトプラン（カンファレンスルームA）",
+   "url": "https://www.jptower-hall.jp/shared/pdf/layout-conference-a.pdf"
+  },
+  {
+   "title": "レイアウトプラン（カンファレンスルームB）",
+   "url": "https://www.jptower-hall.jp/shared/pdf/layout-conference-b.pdf"
+  },
+  {
+   "title": "利用問合せ票",
+   "url": "https://www.jptower-hall.jp/shared/pdf/toiawase.pdf"
+  },
+  {
+   "title": "撮影利用の利用規約（2021年3月15日）",
+   "url": "https://www.jptower-hall.jp/shared/pdf/location_terms_20210315.pdf"
+  }
+ ],
+ "checkedAt": "2026-11-02",
+ "lat": 35.679085,
+ "lng": 139.764679,
+ "nearby": {
+  "convenience": [
+   {
+    "name": "ローソン KITTE丸の内店",
+    "brand": "ローソン",
+    "distanceM": 93,
+    "walkMin": 2,
+    "hours": "7:00-23:00",
+    "address": "東京都千代田区丸の内2‐7‐2JPタワー地下1",
+    "verified": true,
+    "source": "https://www.areamarker.com/lawson/info/213983",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "ナチュラルローソン 丸の内ビルディング店",
+    "brand": "ナチュラルローソン",
+    "distanceM": 223,
+    "walkMin": 3,
+    "hours": "7:00-23:00",
+    "address": "東京都千代田区丸の内2‐4‐1",
+    "verified": true,
+    "source": "https://www.areamarker.com/lawson/info/170535",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "セブン-イレブン ヤエチカ店",
+    "brand": "セブン-イレブン",
+    "distanceM": 291,
+    "walkMin": 4,
+    "hours": "7:00-23:00（月〜日・祝）",
+    "address": "東京都中央区八重洲2丁目1番八重洲地下街南1号",
+    "verified": true,
+    "source": "https://seven-eleven.areamarker.com/711map/info/248881",
+    "note": "距離は公式の店舗位置で計算"
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "アクセア 京橋店",
+    "brand": "アクセア",
+    "distanceM": 421,
+    "walkMin": 6,
+    "hours": "平日 8:00-22:00／土・日・祝 10:00-19:00",
+    "address": "東京都中央区八重洲2-8-8 大星八重洲ビル1F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/entry.html",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "アクセア 東京駅八重洲店",
+    "brand": "アクセア",
+    "distanceM": 559,
+    "walkMin": 7,
+    "hours": "24時間営業（22時〜翌6時のカフェ利用は本人確認済みの会員のみ）",
+    "address": "東京都中央区日本橋3-4-15 八重洲通ビルヂング1F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/entry.html",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Standard Products ヤエチカ店",
+    "brand": "Standard Products",
+    "distanceM": 453,
+    "walkMin": 6,
+    "hours": "10:00-20:00",
+    "address": "東京都中央区八重洲2-1 八重洲地下街 地下1階",
+    "verified": true,
+    "source": "https://www.daiso-sangyo.co.jp/shop/detail/001475",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "DAISO マロニエゲート銀座店",
+    "brand": "ダイソー",
+    "distanceM": 563,
+    "walkMin": 8,
+    "hours": "11:00-21:00",
+    "address": "東京都中央区銀座3-2-1 マロニエゲート銀座2 6階",
+    "verified": true,
+    "source": "https://www.daiso-sangyo.co.jp/shop/detail/009168",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "donki": [
+   {
+    "name": "ドン・キホーテ 銀座本館（銀座ナイン3号館）",
+    "brand": "ドン・キホーテ",
+    "distanceM": 1274,
+    "walkMin": 16,
+    "hours": "24時間営業",
+    "address": "東京都中央区銀座8-10 銀座ナイン3号館",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=92",
+    "note": "距離は住所の位置で計算。遠め"
+   }
+  ]
+ },
+ "drinkDelivery": {
+  "available": true
+ },
+ "photo": {
+  "src": "/images/venues/jp-tower.jpg",
+  "credit": "© Syced / CC0 · Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kitte.jpg"
+ }
+}

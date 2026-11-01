@@ -1,0 +1,383 @@
+{
+ "slug": "grand-prince-takanawa",
+ "nameJa": "グランドプリンスホテル新高輪",
+ "nameEn": "Grand Prince Hotel Shin Takanawa",
+ "type": "hotel",
+ "area": "shinagawa-venues",
+ "address": "〒108-8612 東京都港区高輪3-13-1",
+ "officialUrl": "https://www.princehotels.co.jp/shintakanawa/",
+ "organizerUrl": "https://www.princehotels.co.jp/takanawa-area/banquet/",
+ "bizintokyoSlug": "grand_prince_takanawa",
+ "accessSummary": "品川駅（新幹線・JR線・京急線）高輪口 徒歩約5分／高輪台駅（都営浅草線）A1出口 徒歩約3分",
+ "notice": null,
+ "hours": null,
+ "rooms": [
+  {
+   "name": "国際館パミール 3F 崑崙",
+   "areaM2": 2397,
+   "ceilingM": "7.0-13.0",
+   "theater": 2880,
+   "school": 1512,
+   "ushape": null,
+   "standing": 2500,
+   "banquet": 1280,
+   "note": "最大4室（香雲・翠雲・白雲・慶雲）に分割できる。会場ページのレイアウト例はディナー1,260名・スクール1,260名。"
+  },
+  {
+   "name": "国際館パミール 3F 香雲・翠雲・白雲・慶雲（崑崙の分割）",
+   "areaM2": "549-580",
+   "ceilingM": "7.0-13.0",
+   "theater": 572,
+   "school": 288,
+   "ushape": null,
+   "standing": 350,
+   "banquet": 280,
+   "note": "面積は4室で549〜580㎡。会場仕様一覧PDF（2024年8月）のディナーは250名、会場ページは280名。"
+  },
+  {
+   "name": "国際館パミール 3F 北辰",
+   "areaM2": 1837,
+   "ceilingM": "7.0-15.0",
+   "theater": 2016,
+   "school": 1092,
+   "ushape": null,
+   "standing": 2000,
+   "banquet": 880,
+   "note": "会場ページのレイアウト例はディナー910名・スクール990名。"
+  },
+  {
+   "name": "国際館パミール 1F 瑞光・旭光・暁光",
+   "areaM2": 476,
+   "ceilingM": 3.0,
+   "theater": 324,
+   "school": 165,
+   "ushape": 45,
+   "standing": 200,
+   "banquet": 140,
+   "note": "3室とも同じ仕様。各室に前室がある。"
+  },
+  {
+   "name": "国際館パミール 2F 青葉",
+   "areaM2": 340,
+   "ceilingM": 2.85,
+   "theater": 328,
+   "school": 165,
+   "ushape": 45,
+   "standing": 170,
+   "banquet": 140,
+   "note": null
+  },
+  {
+   "name": "国際館パミール 2F 松葉",
+   "areaM2": 289,
+   "ceilingM": 2.85,
+   "theater": 264,
+   "school": 126,
+   "ushape": 45,
+   "standing": 150,
+   "banquet": 120,
+   "note": null
+  },
+  {
+   "name": "国際館パミール 1F 王庭",
+   "areaM2": 171,
+   "ceilingM": 2.85,
+   "theater": 160,
+   "school": 90,
+   "ushape": 30,
+   "standing": 80,
+   "banquet": 80,
+   "note": null
+  },
+  {
+   "name": "国際館パミール 1F 黄玉・青玉・紅玉・白玉",
+   "areaM2": 119,
+   "ceilingM": 3.0,
+   "theater": 100,
+   "school": 54,
+   "ushape": 20,
+   "standing": 60,
+   "banquet": 50,
+   "note": "4室とも同じ仕様。公式は控室や事務局向けと案内。"
+  },
+  {
+   "name": "国際館パミール 2F 若草・若芝",
+   "areaM2": 101,
+   "ceilingM": 2.85,
+   "theater": 104,
+   "school": 45,
+   "ushape": 20,
+   "standing": 50,
+   "banquet": 40,
+   "note": "2室とも同じ仕様。"
+  },
+  {
+   "name": "国際館パミール 2F 若葉",
+   "areaM2": 96,
+   "ceilingM": 3.1,
+   "theater": 100,
+   "school": 45,
+   "ushape": 20,
+   "standing": null,
+   "banquet": null,
+   "note": null
+  },
+  {
+   "name": "新高輪 B1 飛天",
+   "areaM2": 2013,
+   "ceilingM": "7.5-23.0",
+   "theater": 2400,
+   "school": 1260,
+   "ushape": null,
+   "standing": 2200,
+   "banquet": 1134,
+   "note": "専用出入口あり。会場ページのレイアウト例はディナー896名・スクール1,080名。"
+  },
+  {
+   "name": "新高輪 B1 レセプションホール さくら",
+   "areaM2": 2409,
+   "ceilingM": 3.0,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "飛天に付くレセプションホール。収容人数の表示なし。"
+  },
+  {
+   "name": "新高輪 B1 エントランスホール うずしお",
+   "areaM2": 1254,
+   "ceilingM": 14.0,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "飛天に付くエントランスホール。収容人数の表示なし。"
+  },
+  {
+   "name": "新高輪 3F 天平",
+   "areaM2": 416,
+   "ceilingM": 3.65,
+   "theater": 400,
+   "school": 216,
+   "ushape": 54,
+   "standing": 200,
+   "banquet": 150,
+   "note": null
+  },
+  {
+   "name": "新高輪 3F 平安",
+   "areaM2": 330,
+   "ceilingM": 3.65,
+   "theater": 324,
+   "school": 192,
+   "ushape": 57,
+   "standing": 170,
+   "banquet": 130,
+   "note": null
+  },
+  {
+   "name": "新高輪 3F 萩",
+   "areaM2": 30,
+   "ceilingM": 2.7,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "公式は控室向けと案内。"
+  },
+  {
+   "name": "新高輪 3F 藤",
+   "areaM2": 26,
+   "ceilingM": 2.5,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "公式は控室向けと案内。"
+  },
+  {
+   "name": "新高輪 1F ミーティングルーム",
+   "areaM2": 57,
+   "ceilingM": 2.4,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "客室棟1F。公式は大宴会場でのイベントの事務局やVIP控室向けと案内。"
+  }
+ ],
+ "roomsSource": "https://www.princehotels.co.jp/takanawa-area/banquet/assets/pdf/takanawa_roomspec.pdf（会場仕様一覧、2024年8月版）と各会場ページ https://www.princehotels.co.jp/takanawa-area/banquet/halls/konron.html ほか。同じ高輪エリアの別施設（グランドプリンスホテル高輪、高輪 貴賓館、ザ・プリンス さくらタワー東京）の宴会場は含めていない。",
+ "ops": {
+  "loadingHours": {
+   "text": "搬入の経路と寸法が公式の搬入・搬出経路図にある。国際館パミールは搬入エレベーター 幅2.6m・奥行6.7m・高さ2.2m・積載5,400kg。飛天は搬入扉 幅3.6m・高さ3.5m。新高輪の宴会棟は搬入エレベーター扉 幅1.5m・高さ2.2m、かご内 幅1.9m・奥行2.5m・高さ2.5m・積載2,500kg。（宴会場パンフレット 2024年4月版）",
+   "source": "https://www.princehotels.co.jp/takanawa-area/banquet/assets/pdf/pamphlet.pdf"
+  },
+  "parking": {
+   "text": "駐車場は高輪エリアの2ホテル合わせて1,000台。国際館パミールのB1〜B3には600台分がある（パンフレット 2024年4月版）。一般の料金は30分600円（2025年7月5日改定）。宴会で使う場合は4時間まで無料。超過分は時間に応じて駐車料金がかかる。",
+   "source": "https://www.princehotels.co.jp/shintakanawa/access/"
+  },
+  "waitingRooms": {
+   "text": "新高輪3Fの小宴会場「藤」（26㎡）「萩」（30㎡）は控室として使える。国際館パミールは、1Fの小型の4室（黄玉・青玉・紅玉・白玉、各119㎡）が控室や事務局向け。2Fの青葉・松葉・若草・若芝・若葉は分科会会場や控室として使える。新高輪1Fのミーティングルーム（57㎡）は事務局やVIP控室向け。更衣室はグランドプリンスホテル高輪 別館2Fと国際館パミール2Fにある。",
+   "source": "https://www.princehotels.co.jp/takanawa-area/banquet/halls/gphnt_f3.html"
+  },
+  "restaurants": {
+   "text": "グランドプリンスホテル新高輪の館内には、ブッフェ＆カフェ スロープサイドダイナー ザクロ（B1）、和食 清水、和室 秀明、中国料理 古稀殿、Lounge Momiji、メインバー あさまがある。ザクロ・清水・古稀殿・秀明には個室があり、室料は別。公式のご利用例では、会議のあとに飛天で懇親パーティー、またはホテルのレストランでディナーという使い方を案内している。",
+   "source": "https://www.princehotels.co.jp/shintakanawa/restaurant/"
+  }
+ },
+ "documents": [
+  {
+   "title": "会場仕様一覧（2024年8月版）",
+   "url": "https://www.princehotels.co.jp/takanawa-area/banquet/assets/pdf/takanawa_roomspec.pdf"
+  },
+  {
+   "title": "宴会場パンフレット（2024年4月版）",
+   "url": "https://www.princehotels.co.jp/takanawa-area/banquet/assets/pdf/pamphlet.pdf"
+  },
+  {
+   "title": "ミーティング・パッケージ（2026年4月1日〜2027年3月31日）",
+   "url": "https://www.princehotels.co.jp/takanawa-area/banquet/assets/pdf/meeting_package.pdf"
+  },
+  {
+   "title": "館内案内図 国際館パミール",
+   "url": "https://www.princehotels.co.jp/takanawa-area/banquet/assets/pdf/floormap_pamir.pdf"
+  },
+  {
+   "title": "館内案内図 グランドプリンスホテル新高輪",
+   "url": "https://www.princehotels.co.jp/takanawa-area/banquet/assets/pdf/floormap_gphnt.pdf"
+  },
+  {
+   "title": "高輪エリア 館内全体図",
+   "url": "https://www.princehotels.co.jp/takanawa-area/banquet/assets/pdf/takanawa_floor_guide.pdf"
+  },
+  {
+   "title": "高輪エリアマップ",
+   "url": "https://www.princehotels.co.jp/takanawa-area/banquet/assets/pdf/takanawa_areamap.pdf"
+  }
+ ],
+ "checkedAt": "2026-11-02",
+ "lat": 35.630711,
+ "lng": 139.733948,
+ "nearby": {
+  "convenience": [
+   {
+    "name": "セブン-イレブン 品川駅前店",
+    "brand": "セブン-イレブン",
+    "distanceM": 352,
+    "walkMin": 5,
+    "hours": "24時間営業",
+    "address": "東京都港区高輪3-25-20",
+    "verified": true,
+    "source": "https://seven-eleven.areamarker.com/711map/info/112673",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "セブン-イレブン 高輪台駅前店",
+    "brand": "セブン-イレブン",
+    "distanceM": 362,
+    "walkMin": 5,
+    "hours": "24時間営業",
+    "address": "東京都港区白金台2丁目26番8号",
+    "verified": true,
+    "source": "https://seven-eleven.areamarker.com/711map/info/411252",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "ナチュラルローソン 高輪台駅前店",
+    "brand": "ナチュラルローソン",
+    "distanceM": 381,
+    "walkMin": 5,
+    "hours": "24時間営業",
+    "address": "東京都港区白金台2-26-10",
+    "verified": true,
+    "source": "https://www.areamarker.com/lawson/info/175722",
+    "note": "距離は公式の店舗位置で計算"
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "アクセア 品川プリンスホテル店",
+    "brand": "アクセア",
+    "distanceM": 363,
+    "walkMin": 5,
+    "hours": "全日10:00〜20:00",
+    "address": "東京都港区高輪4-10-30 品川プリンスホテル アネックスタワー2F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/entry.html",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "キンコーズ・品川店",
+    "brand": "キンコーズ",
+    "distanceM": 710,
+    "walkMin": 9,
+    "hours": "平日 8:00-22:00／土・日・祝 9:00-18:00",
+    "address": "東京都港区港南2丁目14-14 品川インターシティフロント2F",
+    "verified": true,
+    "source": "https://www.kinkos.co.jp/store/tokyo/t029/",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Seria ウィング高輪WEST店",
+    "brand": "セリア",
+    "distanceM": 365,
+    "walkMin": 5,
+    "hours": "月 10:00-21:00／火 10:00-20:00／水〜金 10:00-21:00／土〜日 10:00-20:00",
+    "address": "東京都港区高輪4-10-18ウィング高輪WEST 2F",
+    "verified": true,
+    "source": "https://shop.seria-group.com/seria/info/000002470",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "Can★Do 五反田東急スクエア店",
+    "brand": "キャンドゥ",
+    "distanceM": 1049,
+    "walkMin": 14,
+    "hours": "月〜日 10:00-21:00",
+    "address": "東京都品川区東五反田2-1-2 五反田東急スクエア店6階",
+    "verified": true,
+    "source": "https://shopinfo.cando-web.co.jp/detail/shop-5169/",
+    "note": "距離は公式の店舗位置で計算。遠め"
+   }
+  ],
+  "donki": [
+   {
+    "name": "ドン・キホーテ 五反田東口店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 924,
+    "walkMin": 12,
+    "hours": "8:00-5:00",
+    "address": "東京都品川区東五反田一丁目12番地7号",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=606",
+    "note": "距離は住所の位置で計算。ドン・キホーテ公式サイトの店舗名は「五反田東口店」"
+   },
+   {
+    "name": "プラチナ ドン・キホーテ白金台店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 1088,
+    "walkMin": 14,
+    "hours": "24時間営業",
+    "address": "東京都港区白金台3-15-5",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=368",
+    "note": "距離は住所の位置で計算。遠め"
+   }
+  ]
+ },
+ "drinkDelivery": {
+  "available": true
+ },
+ "photo": {
+  "src": "/images/venues/grand-prince-takanawa.jpg",
+  "credit": "© Wiiii / CC BY-SA 3.0 · Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Grand_Prince_Hotel_New_Takanawa.jpg"
+ }
+}

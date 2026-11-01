@@ -1,0 +1,215 @@
+{
+ "slug": "hilton-tokyo",
+ "name": "Hilton Tokyo",
+ "address": "Tokyo 160-0023 6-6-2 Nishi-Shinjuku, Shinjuku-ku",
+ "accessSummary": "Nishi-Shinjuku Station (Marunouchi Line) Exit C8: about 2 min walk / Tochomae Station Exit A7: about 3 min walk / Shinjuku Station West Exit: about 10 min walk",
+ "hours": null,
+ "notice": null,
+ "rooms": [
+  {
+   "name": "4F Kiku - Entire Room (Kiku 1-4)",
+   "note": "Kiku 4 has a ceiling height of 2.6 m. Can be used divided into 4 (Kiku 1-4). A separate Kiku Foyer of 490㎡ is also available."
+  },
+  {
+   "name": "4F Kiku 1",
+   "note": "LED wall (15 m x 3 m) installed."
+  },
+  {
+   "name": "4F Kiku 2",
+   "note": null
+  },
+  {
+   "name": "4F Kiku 3",
+   "note": "LED screen installed."
+  },
+  {
+   "name": "4F Kiku 4",
+   "note": null
+  },
+  {
+   "name": "4F Kiku Foyer",
+   "note": "Can be used for registration, coffee breaks, cocktail receptions, exhibitions and the like."
+  },
+  {
+   "name": "3F Fuji - Entire Room (Fuji 1-3)",
+   "note": null
+  },
+  {
+   "name": "3F Fuji 1",
+   "note": null
+  },
+  {
+   "name": "3F Fuji 2",
+   "note": null
+  },
+  {
+   "name": "3F Fuji 3",
+   "note": null
+  },
+  {
+   "name": "3F Aoi",
+   "note": null
+  },
+  {
+   "name": "3F Sakura - Entire Room (Sakura 1 and 2)",
+   "note": null
+  },
+  {
+   "name": "3F Sakura 1",
+   "note": null
+  },
+  {
+   "name": "3F Sakura 2",
+   "note": null
+  },
+  {
+   "name": "3F Fuyo",
+   "note": null
+  },
+  {
+   "name": "3F Miyabi / The Suite / The Gallery - Entire Room",
+   "note": "Total area of The Suite (40㎡), Miyabi (64㎡) and The Gallery (80㎡)."
+  },
+  {
+   "name": "3F Miyabi",
+   "note": null
+  },
+  {
+   "name": "3F Miyabi The Suite",
+   "note": "The banquet room page lists 12 for a seated dinner, while the floor map PDF leaves the seated dinner column blank and shows boardroom 7/6."
+  },
+  {
+   "name": "3F Miyabi The Gallery",
+   "note": null
+  },
+  {
+   "name": "3F Sekka - Entire Room (Sekka 1-3)",
+   "note": null
+  },
+  {
+   "name": "3F Sekka 1",
+   "note": null
+  },
+  {
+   "name": "3F Sekka 2",
+   "note": null
+  },
+  {
+   "name": "3F Sekka 3",
+   "note": null
+  },
+  {
+   "name": "3F Sekka Studio",
+   "note": null
+  },
+  {
+   "name": "3F FB Nook",
+   "note": null
+  },
+  {
+   "name": "7F Kiri",
+   "note": null
+  },
+  {
+   "name": "7F Kaede",
+   "note": null
+  },
+  {
+   "name": "7F Hinoki",
+   "note": null
+  },
+  {
+   "name": "7F Keyaki",
+   "note": null
+  },
+  {
+   "name": "7F Tsubaki",
+   "note": null
+  },
+  {
+   "name": "7F Ume",
+   "note": null
+  },
+  {
+   "name": "7F Sugi",
+   "note": null
+  }
+ ],
+ "ops": {
+  "parking": "The hotel has a car park with 280 spaces on basement levels 2 and 3 (height limit 2.1 m). For banquet and meeting use, parking is free for up to 3 hours 30 minutes, with a maximum of 2,700 yen within 24 hours. Extension is 300 yen per 30 minutes.",
+  "restaurants": "The hotel has Metropolitan Grill (grill cuisine), Japanese cuisine \"Junisoh\", Chinese cuisine \"Dynasty\", bar & lounge ZATTA, Marble Lounge (buffet) and St. George's Bar (Metropolitan Grill, Junisoh, Dynasty and ZATTA are on the 2F dining floor). Private rooms mostly seat 4 to 12, and Chinese cuisine \"Dynasty\" has private rooms for 15 to 40 (room charge: lunch 20,000 yen / dinner 30,000 yen, tax and service charge included)."
+ },
+ "documents": [
+  {
+   "title": "4F Floor Map (Kiku - sizes and capacities)"
+  },
+  {
+   "title": "3F Floor Map (Fuji, Aoi, Sakura, Fuyo, Miyabi, Sekka - sizes and capacities)"
+  },
+  {
+   "title": "7F Floor Map (Kaede, Hinoki, Keyaki, Tsubaki, Ume, Sugi, Kiri - sizes and capacities)"
+  },
+  {
+   "title": "4F Kiku Banquet Layout Plan"
+  },
+  {
+   "title": "Meeting Package (9:00-21:00 full day from 25,000 yen per person / 9:00-17:00 half day from 20,000 yen, 10 or more people)"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "7-Eleven Nishi-Shinjuku 6-chome",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "FamilyMart Shinjuku Island Tower",
+    "hours": "7:00-23:00",
+    "note": "Distance is calculated from the address location. The official store name is \"ファミマ新宿アイランドタワー店\" (Famima Shinjuku Island Tower)."
+   },
+   {
+    "name": "FamilyMart Nishi-Shinjuku Oak Terrace",
+    "hours": "6:30-23:00",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "Kinko's Nishi-Shinjuku",
+    "hours": "Weekdays 8:00-20:00 / Sat 10:00-20:00 / Sun & holidays 10:00-20:00",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Accea Nishi-Shinjuku",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Can Do Nishi-Shinjuku",
+    "hours": "Daily 9:00-22:00",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "DAISO Shinjuku Cocoon Tower",
+    "hours": "8:00-21:00",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "donki": [
+   {
+    "name": "Don Quijote Shinjuku Kabukicho",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Don Quijote Shinjuku Southeast Exit",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. Rather far."
+   }
+  ]
+ },
+ "photoCredit": "© 松倉傑 / CC0 · Wikimedia Commons"
+}

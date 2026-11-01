@@ -1,0 +1,160 @@
+{
+ "slug": "hulic-hall-tokyo",
+ "name": "Hulic Hall Tokyo",
+ "address": "Tokyo 100-0006 Yurakucho Mullion 11F (Hankyu Men's Tokyo side), 2-5-1 Yurakucho, Chiyoda-ku",
+ "accessSummary": "JR Yurakucho Station (Central Exit / Ginza Exit): 3 min walk / Tokyo Metro Yurakucho Line, Yurakucho Station (Exit D7): 3 min walk / Tokyo Metro Ginza Line, Hibiya Line and Marunouchi Line, Ginza Station (Exit C4): 1 min walk / Hibiya Station (Exit A0): directly connected",
+ "hours": "Available 24 hours. Main event hours are in principle 7:00-22:00 (Terms of Use). The FAQ says 8:00-22:00 (except December 31 to January 1).",
+ "notice": null,
+ "rooms": [
+  {
+   "name": "11-12F Hall (fixed seating)",
+   "note": "886 fixed seats (when seats with restricted views are not taken into account). Up to 2 wheelchair spaces. The area does not include the stage. The stage is 11.5 m wide x 5.5 m deep x 0.95 m high (about 63㎡), and the ceiling height is about 6.8 m from the floor to the underside of the battens. The Terms of Use cap attendance at 886 people, and the floor load limit is 350kg/㎡."
+  },
+  {
+   "name": "11F Foyer",
+   "note": "Reception, cloakroom, bar counter, restrooms and smoking area available. Parties can be held in the foyer."
+  },
+  {
+   "name": "12F Foyer (upper stairs)",
+   "note": null
+  },
+  {
+   "name": "Organizer's Waiting Room (11F)",
+   "note": "Behind the bar counter."
+  },
+  {
+   "name": "Waiting Room 1 (11F)",
+   "note": "Has a fitting space, mirror, washbasin and refrigerator. Usage fee free."
+  },
+  {
+   "name": "Waiting Room 2 (11F)",
+   "note": "Has a fitting space, mirror, washbasin and refrigerator. Usage fee free."
+  }
+ ],
+ "ops": {
+  "prevDaySetup": "The usage period runs from the start of preparation to restoration and exit, and usable hours are 24 hours (main event hours are in principle 7:00-22:00; the FAQ says 8:00-22:00). The all-day fee is 800,000 yen (11 hours, 9:00-20:00; extension 80,000 yen per hour), and the hourly fee is 100,000 yen per hour (minimum 6 hours); in addition, a facility management fee of 30,000 yen per day applies (all excluding tax). Advance shipment of packages is accepted on the day before the usage date. For entertainment use over 2 or more consecutive days, setup days, rehearsal days and tear-down days are charged at the base rate plus a drink deposit. (Source: Terms of Use [revised April 29, 2022], Price List [April 25, 2026 edition], FAQ)",
+  "loadingHours": "For load-in and load-out, a vehicle list stating the load-in/out time slot, company name, vehicle type, license plate number and number of vehicles must be submitted at least 1 week before the usage date. All crew members need a hall armband; after entering the building, complete the load-in procedure on 11F and B2F to receive as many as needed. Entry from the car park entrance is 7:00-23:00 (from 23:00 to 7:00 the shutter is closed, and a prior work notification and attendant staff fees are required). The loading area is on B2F; the shutter is closed from 18:00 to 9:00, and you tell the hall staff before work to have it opened or closed. The freight elevator is 2.8 m wide x 2.25 m deep x 3.0 m high inside, with a door opening of 1.8 m wide x 2.3 m high and a load capacity of 3,300 kg (load-in materials). The official website's hall overview and access pages state different figures from the materials: a door opening of 1.3 m wide, and the access page gives an interior of 2.55 m wide x 2.0 m deep x 2.5 m high and a load of 2,600 kg. (Source: Load-in Materials, 2025 edition)",
+  "vehicleRules": "Vehicle limits at the loading area are 3.0 m high x 2.5 m wide x 6.0 m long. The loading area is shared with the commercial facility; vehicles cannot be parked there and must leave promptly once work is finished. Vehicles that need to stay after work should use the underground car park (B3/B4F). The venue can prepare payment tickets for 2,400 yen on weekdays and 4,800 yen on weekends and holidays (billed as an additional charge after use). Street parking near the hall and building is prohibited. (Source: Load-in Materials 2025 edition, Terms of Use)",
+  "parking": "There is a paid car park inside Yurakucho Mullion with a capacity of 149 vehicles (129 on the ground level), 300 yen per 30 minutes, with a maximum charge of 2,400 yen on weekdays and no cap on weekends and holidays. Entry and exit hours are 7:00-23:00. Vehicle limits are 2.1 m high, 5.0 m long and 2.3 m wide. The weight limit is stated as 2.0 t on the access page and 4 t in the load-in materials, which differ. (Source: Access page, Load-in Materials 2025 edition)",
+  "waitingRooms": "There are 2 waiting rooms on 11F (about 26㎡ and about 8㎡, each with a fitting space, mirror, washbasin, refrigerator and hall monitor) and an organizer's waiting room (about 15㎡). The cloakroom has fixed hanger racks and fixed shelves (for 300 guests) and can also be used as a waiting room. The foyer, cloakroom, waiting rooms and similar spaces can be used free of charge. (Source: Equipment, Fixtures and Facilities List, FAQ)",
+  "catering": "Catering for parties (receptions), boxed lunches and coffee service can be arranged by consulting the hall staff. Places to eat and drink inside the hall are limited to areas designated by the operator. For cooking, open flames and \"grilling, stir-frying or boiling\" are not allowed; only hot-water heating or warming with electric equipment such as an induction cooker or microwave oven is possible, and prior approval from the staff is required. Any procedures that require an application to the public health center are to be filed by the organizer. (Source: FAQ, Terms of Use Article 18)"
+ },
+ "documents": [
+  {
+   "title": "Price List (April 25, 2026 edition)"
+  },
+  {
+   "title": "Terms of Use (revised April 29, 2022)"
+  },
+  {
+   "title": "Load-in Materials (2025 edition)"
+  },
+  {
+   "title": "Seating Chart"
+  },
+  {
+   "title": "Seats with Restricted View: Confirmation Material"
+  },
+  {
+   "title": "Overall Floor Plan (with scale)"
+  },
+  {
+   "title": "Hall Floor Plan (with scale)"
+  },
+  {
+   "title": "Hall Cross-section (with scale)"
+  },
+  {
+   "title": "Rigging Equipment: Hall Cross-section"
+  },
+  {
+   "title": "Hall Power Supply Diagram"
+  },
+  {
+   "title": "Stage Plan"
+  },
+  {
+   "title": "Stage Plan (with scale)"
+  },
+  {
+   "title": "Stage Elevation (with scale)"
+  },
+  {
+   "title": "Rigging Equipment: Stage Plan"
+  },
+  {
+   "title": "Sound Equipment List (November 2025 edition)"
+  },
+  {
+   "title": "Video Equipment List"
+  },
+  {
+   "title": "Fixtures List (January 2026 edition)"
+  },
+  {
+   "title": "Notes for Lighting Companies Loading In (updated October 2026)"
+  },
+  {
+   "title": "Lighting Equipment List (updated October 2026)"
+  },
+  {
+   "title": "Document Downloads (official list)"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "7-Eleven Yurakucho Ekimae",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "FamilyMart Yurakucho Ekimae",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "7-Eleven Yurakucho ITOCiA",
+    "hours": "7:00-23:00 (Mon-Sun & holidays)",
+    "note": "Distance is calculated from the official store location."
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "Accea Ginza Five",
+    "hours": "Weekdays 10:00-20:00 / Closed Sat, Sun & holidays",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Kinko's Ginza-itchome",
+    "hours": "Weekdays 9:00-20:00 / Sat 10:00-19:00 / Closed Sun & holidays",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "3COINS +plus Nishi-Ginza Department Store",
+    "hours": "11:00-20:00",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "DAISO Marronnier Gate Ginza",
+    "hours": "11:00-21:00",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "donki": [
+   {
+    "name": "Don Quijote Ginza Main Building (Ginza Nine Building No. 3)",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Picasso Akasaka (Don Quijote)",
+    "hours": "7:00-3:00",
+    "note": "Distance is calculated from the address location. A different store format from Don Quijote (the official site lists the store name as \"Picasso Akasaka\"). Far."
+   }
+  ]
+ },
+ "photoCredit": "© BUNBUN / CC BY-SA 2.5 · Wikimedia Commons"
+}

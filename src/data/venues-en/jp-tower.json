@@ -1,0 +1,186 @@
+{
+ "slug": "jp-tower",
+ "name": "JP Tower Hall & Conference",
+ "address": "Tokyo 100-7004 KITTE 4F and 5F, 2-7-2 Marunouchi, Chiyoda-ku",
+ "accessSummary": "About 1 min walk from JR Tokyo Station / Tokyo Station (Tokyo Metro Marunouchi Line): directly connected via the underground passage / about 2 min walk from Nijubashimae (Marunouchi) Station (Chiyoda Line) / about 3 min walk from Tokyo Station (JR Keiyo Line) / about 4 min walk from Otemachi Station (Toei Mita Line) / about 6 min walk from Yurakucho Station (Yurakucho Line) / about 6 min walk from JR Yurakucho Station",
+ "hours": "Usage hours 9:00-21:00. Open year-round in principle (except January 1 and maintenance inspection days). Rooms are unlocked and can be entered 20 minutes before the start of use. Setup and teardown are included in the usage time. Inquiries are accepted on weekdays 10:00-17:00. Events that include the Hall are accepted from the first day of the month one year before the start date, and rentals of the other rooms only from the first day of the month 6 months before (international conferences and international exhibitions at any time). (Terms of Use, revised April 1, 2025)",
+ "notice": "The Hall is not accepting reservations for January 1-31, 2027 because of lighting equipment replacement work (rooms other than the Hall are available for rent).",
+ "rooms": [
+  {
+   "name": "4F Hall (Entire, 1+2+3)",
+   "note": "Can be divided into 3. Classroom: 378 seats at 3 per desk, 252 seats at 2 per desk. Capacities are guidelines and vary with the layout."
+  },
+  {
+   "name": "4F Hall 1+2",
+   "note": "Classroom: 258 seats at 3 per desk, 172 seats at 2 per desk. Capacities are guidelines and vary with the layout."
+  },
+  {
+   "name": "4F Hall 2+3",
+   "note": "Classroom: 258 seats at 3 per desk, 172 seats at 2 per desk. Capacities are guidelines and vary with the layout."
+  },
+  {
+   "name": "4F Hall 1",
+   "note": "Classroom: 96 seats at 3 per desk, 64 seats at 2 per desk. Capacities are guidelines and vary with the layout."
+  },
+  {
+   "name": "4F Hall 2",
+   "note": "Classroom: 96 seats at 3 per desk, 64 seats at 2 per desk. Capacities are guidelines and vary with the layout."
+  },
+  {
+   "name": "4F Hall 3",
+   "note": "Classroom: 96 seats at 3 per desk, 64 seats at 2 per desk. Capacities are guidelines and vary with the layout."
+  },
+  {
+   "name": "4F Conference Room A (Entire)",
+   "note": "Can be divided with a movable partition. Classroom: 225 seats at 3 per desk, 150 seats at 2 per desk. Capacities are guidelines and vary with the layout."
+  },
+  {
+   "name": "4F Conference Room A1+A2",
+   "note": "Classroom: 90 seats at 3 per desk, 60 seats at 2 per desk. Hollow square: 66 seats at 3 per desk, 44 seats at 2 per desk. Capacities are guidelines and vary with the layout."
+  },
+  {
+   "name": "4F Conference Room A2+A3",
+   "note": "Classroom: 150 seats at 3 per desk, 100 seats at 2 per desk. Hollow square: 78 seats at 3 per desk, 52 seats at 2 per desk. Capacities are guidelines and vary with the layout."
+  },
+  {
+   "name": "4F Conference Room A1",
+   "note": "Classroom: 42 seats at 3 per desk, 28 seats at 2 per desk. Hollow square: 42 seats at 3 per desk, 28 seats at 2 per desk. Capacities are guidelines and vary with the layout."
+  },
+  {
+   "name": "4F Conference Room A2",
+   "note": "Classroom: 42 seats at 3 per desk, 28 seats at 2 per desk. Hollow square: 42 seats at 3 per desk, 28 seats at 2 per desk. Capacities are guidelines and vary with the layout."
+  },
+  {
+   "name": "4F Conference Room A3",
+   "note": "Classroom: 75 seats at 3 per desk, 50 seats at 2 per desk. Hollow square: 54 seats at 3 per desk, 36 seats at 2 per desk. Capacities are guidelines and vary with the layout."
+  },
+  {
+   "name": "5F Conference Room B (Entire)",
+   "note": "Can be divided with a movable partition. Classroom: 150 seats at 3 per desk, 100 seats at 2 per desk. Hollow square: 72 seats at 3 per desk, 48 seats at 2 per desk. Capacities are guidelines and vary with the layout."
+  },
+  {
+   "name": "5F Conference Room B1",
+   "note": "Classroom: 42 seats at 3 per desk, 28 seats at 2 per desk. Hollow square: 42 seats at 3 per desk, 28 seats at 2 per desk. Capacities are guidelines and vary with the layout."
+  },
+  {
+   "name": "5F Conference Room B2",
+   "note": "Classroom: 75 seats at 3 per desk, 50 seats at 2 per desk. Hollow square: 54 seats at 3 per desk, 36 seats at 2 per desk. Capacities are guidelines and vary with the layout."
+  },
+  {
+   "name": "4F Meeting Room 1",
+   "note": "Hollow square: 30 seats at 3 per desk, 20 seats at 2 per desk. Meeting Rooms 1-4 can be used together with the foyer when the partition is opened (the foyer cannot be rented on its own)."
+  },
+  {
+   "name": "4F Meeting Room 2",
+   "note": "Hollow square: 30 seats at 3 per desk, 20 seats at 2 per desk."
+  },
+  {
+   "name": "4F Meeting Room 3",
+   "note": "Hollow square: 30 seats at 3 per desk, 20 seats at 2 per desk."
+  },
+  {
+   "name": "4F Meeting Room 4",
+   "note": "Hollow square: 30 seats at 3 per desk, 20 seats at 2 per desk."
+  },
+  {
+   "name": "5F Meeting Room 5",
+   "note": "Hollow square: 18 seats at 3 per desk, 12 seats at 2 per desk."
+  },
+  {
+   "name": "5F Meeting Room 6",
+   "note": "Hollow square: 18 seats at 3 per desk, 12 seats at 2 per desk."
+  }
+ ],
+ "ops": {
+  "loadingHours": "Usage time is 9:00-21:00, and setup, teardown and the loading and unloading of goods are included in this time. If you want to use the venue outside these hours, consult in advance. The venue is locked, so call the venue staff at the 4F reception (the room is unlocked 20 minutes before the start of use). If loading or unloading goods could stain or damage the building's floors or walls, the user must protect them at the user's own responsibility and cost. Advance storage of packages is 500 yen (excluding tax) per item per day, and up to 3 items are free on the day and the day before. (Source: Terms of Use, revised April 1, 2025; Furniture & Equipment, revised April 2026)",
+  "parking": "The KITTE parking lot in the building (B2 and B3) can be used. Hours 6:00-23:00; for regular vehicles, 400 yen per 30 minutes and 3,500 yen for up to 12 hours (tax included).",
+  "waitingRooms": "There are 2 waiting rooms on the 4F: a VIP waiting room of 34㎡ (ceiling 3.0 m) and a waiting room of 12㎡ (ceiling 2.6 m). In addition, the 6 meeting rooms on the 4F and 5F (24-50㎡) can be used as waiting rooms for organizers and guests.",
+  "catering": "Outside food and drink may not be brought in. Food and drink is provided by the facility's designated company, and catering (boxed meals, drinks, party menus, etc.) should be discussed in advance. Order sheets are due 14 days before the event date for parties and 10 days before for non-party events. (Source: Terms of Use, revised April 1, 2025)"
+ },
+ "documents": [
+  {
+   "title": "Terms of Use (revised April 1, 2025)"
+  },
+  {
+   "title": "Facility Fee Schedule (revised July 2025)"
+  },
+  {
+   "title": "Attached Equipment and Furnishings Fee Schedule (revised April 2026)"
+  },
+  {
+   "title": "4F Floor Plan (updated October 30, 2025)"
+  },
+  {
+   "title": "5F Floor Plan (updated July 2, 2018)"
+  },
+  {
+   "title": "Building Facility Layout"
+  },
+  {
+   "title": "Layout Plans (Hall)"
+  },
+  {
+   "title": "Layout Plans (Conference Room A)"
+  },
+  {
+   "title": "Layout Plans (Conference Room B)"
+  },
+  {
+   "title": "Inquiry Form"
+  },
+  {
+   "title": "Terms of Use for Filming (March 15, 2021)"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "Lawson KITTE Marunouchi",
+    "hours": "7:00-23:00",
+    "note": "Distance is calculated from the store's official location."
+   },
+   {
+    "name": "Natural Lawson Marunouchi Building",
+    "hours": "7:00-23:00",
+    "note": "Distance is calculated from the store's official location."
+   },
+   {
+    "name": "7-Eleven Yaechika",
+    "hours": "7:00-23:00 (Mon-Sun & holidays)",
+    "note": "Distance is calculated from the store's official location."
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "ACCEA Kyobashi",
+    "hours": "Weekdays 8:00-22:00 / Sat, Sun & holidays 10:00-19:00",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Accea Tokyo Station Yaesu",
+    "hours": "Open 24 hours (cafe use from 22:00 to 6:00 the next day is for identity-verified members only)",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Standard Products Yaechika",
+    "hours": "10:00-20:00",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "DAISO Marronnier Gate Ginza",
+    "hours": "11:00-21:00",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "donki": [
+   {
+    "name": "Don Quijote Ginza Main Building (Ginza Nine Building No. 3)",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. Rather far."
+   }
+  ]
+ },
+ "photoCredit": "© Syced / CC0 · Wikimedia Commons"
+}

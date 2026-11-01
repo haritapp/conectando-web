@@ -1,0 +1,167 @@
+{
+ "slug": "grand-prince-takanawa",
+ "name": "Grand Prince Hotel Shin Takanawa",
+ "address": "Tokyo 108-8612 3-13-1 Takanawa, Minato-ku",
+ "accessSummary": "Shinagawa Station (Shinkansen, JR lines and Keikyu Line) Takanawa Exit: about 5 min walk / Takanawadai Station (Toei Asakusa Line) Exit A1: about 3 min walk",
+ "hours": null,
+ "notice": null,
+ "rooms": [
+  {
+   "name": "International Convention Center Pamir 3F Konron",
+   "note": "Can be divided into up to 4 rooms (Koun, Suiun, Hakuun and Keiun). The layout examples on the venue page are 1,260 for dinner and 1,260 for classroom."
+  },
+  {
+   "name": "International Convention Center Pamir 3F Koun, Suiun, Hakuun and Keiun (divisions of Konron)",
+   "note": "The area is 549 to 580㎡ for the 4 rooms. The dinner capacity is 250 in the room specifications PDF (August 2024) and 280 on the venue page."
+  },
+  {
+   "name": "International Convention Center Pamir 3F Hokushin",
+   "note": "The layout examples on the venue page are 910 for dinner and 990 for classroom."
+  },
+  {
+   "name": "International Convention Center Pamir 1F Zuiko, Kyokko and Gyoko",
+   "note": "All 3 rooms have the same specifications. Each room has an anteroom."
+  },
+  {
+   "name": "International Convention Center Pamir 2F Aoba",
+   "note": null
+  },
+  {
+   "name": "International Convention Center Pamir 2F Matsuba",
+   "note": null
+  },
+  {
+   "name": "International Convention Center Pamir 1F Ohtei",
+   "note": null
+  },
+  {
+   "name": "International Convention Center Pamir 1F Ogyoku, Seigyoku, Kogyoku and Hakugyoku",
+   "note": "All 4 rooms have the same specifications. The hotel describes them as suited to waiting rooms and event offices."
+  },
+  {
+   "name": "International Convention Center Pamir 2F Wakakusa and Wakashiba",
+   "note": "Both rooms have the same specifications."
+  },
+  {
+   "name": "International Convention Center Pamir 2F Wakaba",
+   "note": null
+  },
+  {
+   "name": "Shin Takanawa B1 Hiten",
+   "note": "Has a dedicated entrance. The layout examples on the venue page are 896 for dinner and 1,080 for classroom."
+  },
+  {
+   "name": "Shin Takanawa B1 Reception Hall Sakura",
+   "note": "Reception hall attached to Hiten. No capacity is listed."
+  },
+  {
+   "name": "Shin Takanawa B1 Entrance Hall Uzushio",
+   "note": "Entrance hall attached to Hiten. No capacity is listed."
+  },
+  {
+   "name": "Shin Takanawa 3F Tempyo",
+   "note": null
+  },
+  {
+   "name": "Shin Takanawa 3F Heian",
+   "note": null
+  },
+  {
+   "name": "Shin Takanawa 3F Hagi",
+   "note": "The hotel describes it as suited to a waiting room."
+  },
+  {
+   "name": "Shin Takanawa 3F Fuji",
+   "note": "The hotel describes it as suited to a waiting room."
+  },
+  {
+   "name": "Shin Takanawa 1F Meeting Room",
+   "note": "In the guest room building, 1F. The hotel describes it as suited to an event office or VIP waiting room for events in the large banquet halls."
+  }
+ ],
+ "ops": {
+  "loadingHours": "The loading and unloading routes and dimensions are given in the official load-in/load-out route map. International Convention Center Pamir: loading elevator 2.6 m wide x 6.7 m deep x 2.2 m high, load capacity 5,400 kg. Hiten: loading door 3.6 m wide x 3.5 m high. Banquet building of Shin Takanawa: loading elevator door 1.5 m wide x 2.2 m high; inside the car 1.9 m wide x 2.5 m deep x 2.5 m high, load capacity 2,500 kg. (Banquet Hall Brochure, April 2024 edition)",
+  "parking": "The parking facilities of the two Takanawa area hotels together hold 1,000 cars. B1 to B3 of International Convention Center Pamir have space for 600 cars (Brochure, April 2024 edition). The regular rate is 600 yen per 30 minutes (revised July 5, 2025). For banquet use, parking is free for up to 4 hours; beyond that, parking fees apply according to time.",
+  "waitingRooms": "The small banquet rooms Fuji (26㎡) and Hagi (30㎡) on Shin Takanawa 3F can be used as waiting rooms. At International Convention Center Pamir, the 4 small rooms on 1F (Ogyoku, Seigyoku, Kogyoku and Hakugyoku, 119㎡ each) are suited to waiting rooms and event offices. Aoba, Matsuba, Wakakusa, Wakashiba and Wakaba on 2F can be used as breakout rooms or waiting rooms. The Meeting Room (57㎡) on Shin Takanawa 1F is suited to an event office or VIP waiting room. Changing rooms are on the 2F of the Annex of Grand Prince Hotel Takanawa and on the 2F of International Convention Center Pamir.",
+  "restaurants": "Inside Grand Prince Hotel Shin Takanawa are Slope Side Diner Zakuro Buffet & Cafe (B1), Shimizu Japanese Restaurant, Shumei Japanese-style Room, Kokiden Chinese Restaurant, Momiji Lounge and Asama Main Bar. Zakuro, Shimizu, Kokiden and Shumei have private rooms, for which a room charge is separate. The hotel's suggested uses include a networking party in Hiten after a meeting, or dinner at one of the hotel's restaurants."
+ },
+ "documents": [
+  {
+   "title": "Room Specifications (August 2024 edition)"
+  },
+  {
+   "title": "Banquet Hall Brochure (April 2024 edition)"
+  },
+  {
+   "title": "Meeting Package (April 1, 2026 to March 31, 2027)"
+  },
+  {
+   "title": "Floor Map: International Convention Center Pamir"
+  },
+  {
+   "title": "Floor Map: Grand Prince Hotel Shin Takanawa"
+  },
+  {
+   "title": "Takanawa Area Overall Floor Guide"
+  },
+  {
+   "title": "Takanawa Area Map"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "7-Eleven Shinagawa Ekimae",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "7-Eleven Takanawadai Ekimae",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "Natural Lawson Takanawadai Ekimae",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location."
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "Accea Shinagawa Prince Hotel",
+    "hours": "Daily 10:00-20:00",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Kinko's Shinagawa",
+    "hours": "Weekdays 8:00-22:00 / Sat, Sun & holidays 9:00-18:00",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Seria Wing Takanawa WEST",
+    "hours": "Mon 10:00-21:00 / Tue 10:00-20:00 / Wed-Fri 10:00-21:00 / Sat-Sun 10:00-20:00",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "Can Do Gotanda Tokyu Square",
+    "hours": "Mon-Sun 10:00-21:00",
+    "note": "Distance is calculated from the official store location. Rather far."
+   }
+  ],
+  "donki": [
+   {
+    "name": "Don Quijote Gotanda East Exit",
+    "hours": "8:00-5:00",
+    "note": "Distance is calculated from the address location. The store name on the Don Quijote official website is \"Gotanda East Exit\"."
+   },
+   {
+    "name": "Platinum Don Quijote Shirokanedai",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. Rather far."
+   }
+  ]
+ },
+ "photoCredit": "© Wiiii / CC BY-SA 3.0 · Wikimedia Commons"
+}

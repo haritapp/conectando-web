@@ -1,0 +1,672 @@
+{
+ "slug": "hotel-newotani",
+ "nameJa": "ホテルニューオータニ（東京）",
+ "nameEn": "Hotel New Otani Tokyo",
+ "type": "hotel",
+ "area": "toranomon-roppongi-venues",
+ "address": "〒102-8578 東京都千代田区紀尾井町4-1",
+ "officialUrl": "https://www.newotani.co.jp/tokyo/",
+ "organizerUrl": "https://www.newotani.co.jp/tokyo/banquet/",
+ "bizintokyoSlug": "hotel_newotani",
+ "accessSummary": "赤坂見附駅（東京メトロ銀座線・丸ノ内線）D紀尾井町口 徒歩3分／永田町駅（半蔵門線・南北線）7番口 徒歩3分／麹町駅（有楽町線）2番口 徒歩6分／四ツ谷駅（JR中央線・総武線、丸ノ内線・南北線）麹町口・赤坂口 徒歩8分",
+ "notice": null,
+ "hours": null,
+ "rooms": [
+  {
+   "name": "鶴の間 全体",
+   "areaM2": 1992,
+   "ceilingM": null,
+   "theater": 2184,
+   "school": 1200,
+   "ushape": null,
+   "standing": 2500,
+   "banquet": 1150,
+   "note": "ザ・メイン 宴会場階。別に前室460㎡。東西2室に分割可"
+  },
+  {
+   "name": "鶴の間 東",
+   "areaM2": 850,
+   "ceilingM": 5.7,
+   "theater": 1023,
+   "school": 504,
+   "ushape": null,
+   "standing": 800,
+   "banquet": 400,
+   "note": "ザ・メイン 宴会場階"
+  },
+  {
+   "name": "鶴の間 西",
+   "areaM2": 965,
+   "ceilingM": 5.7,
+   "theater": 1200,
+   "school": 560,
+   "ushape": null,
+   "standing": 1100,
+   "banquet": 540,
+   "note": "ザ・メイン 宴会場階"
+  },
+  {
+   "name": "鶴の間 前室",
+   "areaM2": 460,
+   "ceilingM": 3.2,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "ザ・メイン 宴会場階。控え室などに利用可"
+  },
+  {
+   "name": "芙蓉の間 全体",
+   "areaM2": 1124,
+   "ceilingM": null,
+   "theater": 1404,
+   "school": 784,
+   "ushape": null,
+   "standing": 1500,
+   "banquet": 630,
+   "note": "ザ・メイン 宴会場階。別に前室625㎡。東・中・西の3室に分割可"
+  },
+  {
+   "name": "芙蓉の間 東",
+   "areaM2": 317,
+   "ceilingM": 7.6,
+   "theater": 340,
+   "school": 192,
+   "ushape": null,
+   "standing": 200,
+   "banquet": 160,
+   "note": "ザ・メイン 宴会場階"
+  },
+  {
+   "name": "芙蓉の間 中",
+   "areaM2": 490,
+   "ceilingM": 7.6,
+   "theater": 544,
+   "school": 336,
+   "ushape": null,
+   "standing": 350,
+   "banquet": 250,
+   "note": "ザ・メイン 宴会場階"
+  },
+  {
+   "name": "芙蓉の間 西",
+   "areaM2": 317,
+   "ceilingM": 7.6,
+   "theater": 340,
+   "school": 192,
+   "ushape": null,
+   "standing": 200,
+   "banquet": 160,
+   "note": "ザ・メイン 宴会場階"
+  },
+  {
+   "name": "芙蓉の間 前室",
+   "areaM2": 625,
+   "ceilingM": 2.9,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "ザ・メイン 宴会場階。控え室などに利用可"
+  },
+  {
+   "name": "鳳凰の間 全体",
+   "areaM2": 722,
+   "ceilingM": null,
+   "theater": 1014,
+   "school": 540,
+   "ushape": null,
+   "standing": 500,
+   "banquet": 420,
+   "note": "ガーデンタワー 宴会場階"
+  },
+  {
+   "name": "鳳凰の間 東中",
+   "areaM2": 462,
+   "ceilingM": 4.2,
+   "theater": 585,
+   "school": 310,
+   "ushape": null,
+   "standing": 350,
+   "banquet": 260,
+   "note": "ガーデンタワー 宴会場階"
+  },
+  {
+   "name": "鳳凰の間 中",
+   "areaM2": 217,
+   "ceilingM": 4.2,
+   "theater": 220,
+   "school": 112,
+   "ushape": null,
+   "standing": 130,
+   "banquet": 90,
+   "note": "ガーデンタワー 宴会場階"
+  },
+  {
+   "name": "鳳凰の間 東、西",
+   "areaM2": 234,
+   "ceilingM": 4.2,
+   "theater": 240,
+   "school": 126,
+   "ushape": null,
+   "standing": 140,
+   "banquet": 110,
+   "note": "ガーデンタワー 宴会場階。公式の表記は「東、西」"
+  },
+  {
+   "name": "鳳凰の間 前室",
+   "areaM2": 151,
+   "ceilingM": 3.6,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "ガーデンタワー 宴会場階"
+  },
+  {
+   "name": "おり鶴 舞の間",
+   "areaM2": 256,
+   "ceilingM": 3.0,
+   "theater": 300,
+   "school": 160,
+   "ushape": null,
+   "standing": 150,
+   "banquet": 140,
+   "note": "ザ・メイン アーケード階"
+  },
+  {
+   "name": "おり鶴 悠の間",
+   "areaM2": 243,
+   "ceilingM": 3.0,
+   "theater": 270,
+   "school": 152,
+   "ushape": null,
+   "standing": 140,
+   "banquet": 110,
+   "note": "ザ・メイン アーケード階"
+  },
+  {
+   "name": "おり鶴 麗の間",
+   "areaM2": 314,
+   "ceilingM": 3.0,
+   "theater": 360,
+   "school": 200,
+   "ushape": null,
+   "standing": 230,
+   "banquet": 180,
+   "note": "ザ・メイン アーケード階"
+  },
+  {
+   "name": "おり鶴 翔の間",
+   "areaM2": 217,
+   "ceilingM": 3.0,
+   "theater": 240,
+   "school": 128,
+   "ushape": null,
+   "standing": 130,
+   "banquet": 110,
+   "note": "ザ・メイン アーケード階"
+  },
+  {
+   "name": "PALAZZO OTANI（パラッツォ オータニ）",
+   "areaM2": 340,
+   "ceilingM": 3.2,
+   "theater": 320,
+   "school": 192,
+   "ushape": null,
+   "standing": 220,
+   "banquet": 160,
+   "note": "ザ・メイン 宴会場階"
+  },
+  {
+   "name": "AZALEA（アッザレーア）",
+   "areaM2": 170,
+   "ceilingM": 3.2,
+   "theater": 170,
+   "school": 88,
+   "ushape": null,
+   "standing": 100,
+   "banquet": 80,
+   "note": "ザ・メイン 宴会場階"
+  },
+  {
+   "name": "ACERO（アーチェロ）",
+   "areaM2": 170,
+   "ceilingM": 3.2,
+   "theater": 170,
+   "school": 88,
+   "ushape": null,
+   "standing": 100,
+   "banquet": 80,
+   "note": "ザ・メイン 宴会場階"
+  },
+  {
+   "name": "edo ROOM（エド ルーム）",
+   "areaM2": 232,
+   "ceilingM": 3.3,
+   "theater": 280,
+   "school": 150,
+   "ushape": null,
+   "standing": 150,
+   "banquet": 100,
+   "note": "ザ・メイン 宴会場階"
+  },
+  {
+   "name": "翠鳳の間",
+   "areaM2": 267,
+   "ceilingM": 3.1,
+   "theater": 286,
+   "school": 200,
+   "ushape": null,
+   "standing": 150,
+   "banquet": 130,
+   "note": "ガーデンタワー 宴会場階"
+  },
+  {
+   "name": "シリウスの間",
+   "areaM2": 229,
+   "ceilingM": 3.3,
+   "theater": 215,
+   "school": 124,
+   "ushape": null,
+   "standing": 140,
+   "banquet": 100,
+   "note": "ガーデンコート 宴会場階"
+  },
+  {
+   "name": "アリエスの間",
+   "areaM2": 180,
+   "ceilingM": 3.4,
+   "theater": 175,
+   "school": 102,
+   "ushape": null,
+   "standing": 120,
+   "banquet": 70,
+   "note": "ガーデンコート 宴会場階"
+  },
+  {
+   "name": "LAPIS L（ラピス エル）",
+   "areaM2": 147,
+   "ceilingM": 2.2,
+   "theater": 100,
+   "school": 60,
+   "ushape": null,
+   "standing": 80,
+   "banquet": 60,
+   "note": "ザ・メイン 16階"
+  },
+  {
+   "name": "椿",
+   "areaM2": 65,
+   "ceilingM": 3.0,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "ザ・メイン 宴会場階"
+  },
+  {
+   "name": "橘",
+   "areaM2": 164,
+   "ceilingM": 3.0,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "ザ・メイン 宴会場階"
+  },
+  {
+   "name": "桜",
+   "areaM2": 89,
+   "ceilingM": 3.0,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "ザ・メイン 宴会場階"
+  },
+  {
+   "name": "AKEBONO（あけぼの）",
+   "areaM2": 63,
+   "ceilingM": 2.2,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": 10,
+   "note": "ザ・メイン 16階"
+  },
+  {
+   "name": "AKATSUKI（あかつき）",
+   "areaM2": 63,
+   "ceilingM": 2.2,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": 10,
+   "note": "ザ・メイン 16階"
+  },
+  {
+   "name": "LAPIS 1, 2, 3（ラピス）",
+   "areaM2": 73,
+   "ceilingM": 2.2,
+   "theater": 60,
+   "school": 32,
+   "ushape": null,
+   "standing": 40,
+   "banquet": 30,
+   "note": "ザ・メイン 16階"
+  },
+  {
+   "name": "STELLA 1, 2, 3（ステラ）",
+   "areaM2": 46,
+   "ceilingM": 2.2,
+   "theater": 30,
+   "school": 16,
+   "ushape": null,
+   "standing": null,
+   "banquet": 10,
+   "note": "ザ・メイン 16階"
+  },
+  {
+   "name": "きくの間",
+   "areaM2": 68,
+   "ceilingM": 3.0,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": 16,
+   "note": "ガーデンタワー 宴会場階"
+  },
+  {
+   "name": "すいせんの間",
+   "areaM2": 58,
+   "ceilingM": 3.0,
+   "theater": 50,
+   "school": 28,
+   "ushape": null,
+   "standing": 40,
+   "banquet": 30,
+   "note": "ガーデンタワー 宴会場階"
+  },
+  {
+   "name": "あせびの間",
+   "areaM2": 49,
+   "ceilingM": 3.0,
+   "theater": 40,
+   "school": 18,
+   "ushape": null,
+   "standing": null,
+   "banquet": 20,
+   "note": "ガーデンタワー 宴会場階"
+  },
+  {
+   "name": "やまぶきの間",
+   "areaM2": 85,
+   "ceilingM": 3.0,
+   "theater": 60,
+   "school": 40,
+   "ushape": null,
+   "standing": 40,
+   "banquet": 30,
+   "note": "ガーデンタワー 宴会場階"
+  },
+  {
+   "name": "クレセント",
+   "areaM2": 79,
+   "ceilingM": 3.0,
+   "theater": 82,
+   "school": 52,
+   "ushape": null,
+   "standing": 40,
+   "banquet": 30,
+   "note": "ガーデンコート 宴会場階"
+  },
+  {
+   "name": "ボードルーム",
+   "areaM2": 66,
+   "ceilingM": 3.0,
+   "theater": 70,
+   "school": 40,
+   "ushape": null,
+   "standing": 30,
+   "banquet": 30,
+   "note": "ガーデンコート 宴会場階"
+  },
+  {
+   "name": "サミットイースト",
+   "areaM2": 40,
+   "ceilingM": 3.0,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": 10,
+   "note": "ガーデンコート 宴会場階"
+  },
+  {
+   "name": "サミットウエスト",
+   "areaM2": 40,
+   "ceilingM": 3.0,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": 10,
+   "note": "ガーデンコート 宴会場階"
+  },
+  {
+   "name": "式場控室 吉祥・高砂",
+   "areaM2": 42,
+   "ceilingM": 2.5,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "ザ・メイン アーケード階"
+  },
+  {
+   "name": "式場控室 千歳",
+   "areaM2": 40,
+   "ceilingM": 2.7,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "ザ・メイン アーケード階"
+  },
+  {
+   "name": "式場控室 蓬莱",
+   "areaM2": 32,
+   "ceilingM": 2.7,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "ザ・メイン アーケード階"
+  },
+  {
+   "name": "ブライズルーム",
+   "areaM2": 20,
+   "ceilingM": 2.5,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "ザ・メイン アーケード階"
+  }
+ ],
+ "roomsSource": "https://www.newotani.co.jp/tokyo/banquet/hall/",
+ "ops": {
+  "loadingHours": {
+   "text": "宴会場に隣接して、大型トラックが乗り入れ可能な搬入口がある。搬入口の寸法は、鶴の間が間口2.80m×高さ2.90m、芙蓉の間が間口2.77m×高さ2.30m（車を横づけにしたまま積み下ろしできる）、鳳凰の間が間口1.96m×高さ2.10m、edo ROOMが間口1.80m×高さ2.28m。",
+   "source": "https://www.newotani.co.jp/tokyo/banquet/mice/"
+  },
+  "parking": {
+   "text": "駐車場はザ・メイン、ガーデンタワー、ガーデンコート合わせて760台。料金は30分500円（税込）。一般宴会の出席者には、時間に応じて駐車サービス券が出て4時間まで無料（婚礼は6時間まで）。超過分は一般駐車料金。",
+   "source": "https://www.newotani.co.jp/tokyo/facility/parking/"
+  },
+  "waitingRooms": {
+   "text": "鶴の間の前室（460㎡）と芙蓉の間の前室（625㎡）は、控え室などに使える。PALAZZO OTANI、AZALEA、ACEROの控え室には、椿の間（65㎡）、橘の間（164㎡）、桜の間（89㎡）が使える。edo ROOMは専用の控室・化粧室がある。ボードルーム、クレセント、サミットイースト／ウエストは、会食・会議・控室に使える小宴会場。",
+   "source": "https://www.newotani.co.jp/tokyo/banquet/hall/"
+  },
+  "catering": {
+   "text": "料理・飲物はホテルが提供する。正餐コースは8名から、立食または着席ビュッフェは20名から受ける。宴会用のお弁当メニューとテイクアウトメニューがある。",
+   "source": "https://www.newotani.co.jp/tokyo/banquet/cuisine/"
+  },
+  "restaurants": {
+   "text": "館内に36のレストラン＆バーがある。",
+   "source": "https://www.newotani.co.jp/tokyo/banquet/mice/"
+  }
+ },
+ "documents": [
+  {
+   "title": "ホテルニューオータニ（東京）のご案内（MICE向けパンフレット 2026年6月版）",
+   "url": "https://www.newotani.co.jp/fileadmin/res/tokyo/banquet/mice/brochure-jp_202606.pdf"
+  },
+  {
+   "title": "宴会場フロアマップ（2022年6月版）",
+   "url": "https://www.newotani.co.jp/fileadmin/res/tokyo/banquet/guidemap_202206.pdf"
+  },
+  {
+   "title": "宴会場ロケーションマップ（2023年10月版）",
+   "url": "https://www.newotani.co.jp/fileadmin/res/tokyo/banquet/locationmap_202310.pdf"
+  },
+  {
+   "title": "宴会 ドリンクメニュー",
+   "url": "https://www.newotani.co.jp/fileadmin/res/tokyo/banquet/cuisine/2026/drink-menu-0909.pdf"
+  }
+ ],
+ "checkedAt": "2026-11-02",
+ "lat": 35.680435,
+ "lng": 139.734283,
+ "nearby": {
+  "convenience": [
+   {
+    "name": "セブン-イレブン 紀尾井坂店",
+    "brand": "セブン-イレブン",
+    "distanceM": 218,
+    "walkMin": 3,
+    "hours": "24時間営業",
+    "address": "東京都千代田区麹町5-7-13",
+    "verified": true,
+    "source": "https://seven-eleven.areamarker.com/711map/info/491682",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "ファミリーマート 紀尾井町店",
+    "brand": "ファミリーマート",
+    "distanceM": 331,
+    "walkMin": 5,
+    "hours": "24時間営業",
+    "address": "東京都千代田区紀尾井町3-33",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/17737",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "ファミリーマート 元赤坂一丁目店",
+    "brand": "ファミリーマート",
+    "distanceM": 381,
+    "walkMin": 5,
+    "hours": "24時間営業",
+    "address": "東京都港区元赤坂1丁目3-9",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/77255",
+    "note": "距離は公式の店舗位置で計算"
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "キンコーズ・赤坂見附店",
+    "brand": "キンコーズ",
+    "distanceM": 415,
+    "walkMin": 6,
+    "hours": "平日 9:00-20:00／土・日・祝 10:00-19:00",
+    "address": "東京都港区赤坂3丁目21-20 赤坂ロングビーチビル1F",
+    "verified": true,
+    "source": "https://www.kinkos.co.jp/store/tokyo/t023/",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "アクセア 麹町店",
+    "brand": "アクセア",
+    "distanceM": 691,
+    "walkMin": 9,
+    "hours": "平日・土・日・祝 8:00-20:00",
+    "address": "東京都千代田区麹町2-4-11 麹町スクエアプラザ2F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/entry.html",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Can★Do 赤坂一ツ木通り店",
+    "brand": "キャンドゥ",
+    "distanceM": 613,
+    "walkMin": 8,
+    "hours": "月〜金 9:00-21:00／土〜日 9:00-20:00",
+    "address": "東京都港区赤坂3−17−10 フローレンス一ツ木ビル1階",
+    "verified": true,
+    "source": "https://shopinfo.cando-web.co.jp/detail/shop-5207/",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "Can★Do アトレ信濃町店",
+    "brand": "キャンドゥ",
+    "distanceM": 1282,
+    "walkMin": 17,
+    "hours": "月〜日 10:00-21:00",
+    "address": "東京都新宿区信濃町34 アトレ信濃町2階",
+    "verified": true,
+    "source": "https://shopinfo.cando-web.co.jp/detail/shop-5610/",
+    "note": "距離は公式の店舗位置で計算。遠め"
+   }
+  ],
+  "donki": [
+   {
+    "name": "ピカソ赤坂店（ドン・キホーテ）",
+    "brand": "ドン・キホーテ",
+    "distanceM": 681,
+    "walkMin": 9,
+    "hours": "7:00-3:00",
+    "address": "東京都港区赤坂3-11-14",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=289",
+    "note": "距離は住所の位置で計算。ドン・キホーテの別業態（公式サイトの店舗名は「ピカソ赤坂店」）"
+   },
+   {
+    "name": "ドン・キホーテ 六本木店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 2001,
+    "walkMin": 26,
+    "hours": "24時間営業",
+    "address": "東京都港区六本木3-14-10",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=31",
+    "note": "距離は住所の位置で計算。ドン・キホーテ公式サイトの店舗名は「六本木店」。遠い"
+   }
+  ]
+ },
+ "drinkDelivery": {
+  "available": true
+ },
+ "photo": {
+  "src": "/images/venues/hotel-newotani.jpg",
+  "credit": "© 松倉傑 / CC0 · Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E3%83%9B%E3%83%86%E3%83%AB%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%AA%E3%83%BC%E3%82%BF%E3%83%8B%E6%9D%B1%E4%BA%AC.jpg"
+ }
+}

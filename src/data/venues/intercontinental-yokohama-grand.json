@@ -1,0 +1,455 @@
+{
+ "slug": "intercontinental-yokohama-grand",
+ "nameJa": "ヨコハマ グランド インターコンチネンタル ホテル",
+ "nameEn": "InterContinental Yokohama Grand",
+ "type": "hotel",
+ "area": "yokohama-venues",
+ "address": "〒220-8522 神奈川県横浜市西区みなとみらい1-1-1",
+ "officialUrl": "https://www.icyokohama-grand.com/",
+ "organizerUrl": "https://www.icyokohama-grand.com/banquets/",
+ "bizintokyoSlug": "intercontinental-yokohama-grand",
+ "accessSummary": "みなとみらい線 みなとみらい駅 徒歩約5分／JR京浜東北線・根岸線 桜木町駅 徒歩約12分",
+ "notice": null,
+ "hours": null,
+ "rooms": [
+  {
+   "name": "1F シルク",
+   "areaM2": 242,
+   "ceilingM": 4.2,
+   "theater": 240,
+   "school": 120,
+   "ushape": 66,
+   "standing": 150,
+   "banquet": 100,
+   "note": "公式は人数を幅（最小～最大）で表記。表の数字は最大値。正餐40～100、着席ブッフェ40～80、レセプション80～150、スクール60～120、シアター150～240、コの字35～57、ロの字40～66、島組32～48。隣接するプレファンクションルーム・パールと一体で使える"
+  },
+  {
+   "name": "1F パール",
+   "areaM2": 122,
+   "ceilingM": 3.6,
+   "theater": 115,
+   "school": 70,
+   "ushape": 48,
+   "standing": 70,
+   "banquet": 50,
+   "note": "公式は人数を幅（最小～最大）で表記。表の数字は最大値。正餐20～50、着席ブッフェ20～40、レセプション30～70、スクール30～70、シアター70～115、コの字16～42、ロの字20～48、島組28～42。隣接するプレファンクションルーム・シルクと一体で使える"
+  },
+  {
+   "name": "1F プレファンクションルーム",
+   "areaM2": 89,
+   "ceilingM": 3.6,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": 50,
+   "banquet": 30,
+   "note": "公式は人数を幅（最小～最大）で表記。表の数字は最大値。正餐20～30、着席ブッフェ20～30、レセプション20～50。コーヒーブレイクや展示会場などに使える"
+  },
+  {
+   "name": "3F インターコンチネンタル ボールルーム（全体）",
+   "areaM2": 722,
+   "ceilingM": 6.8,
+   "theater": 700,
+   "school": 420,
+   "ushape": 150,
+   "standing": 700,
+   "banquet": 430,
+   "note": "公式は人数を幅（最小～最大）で表記。表の数字は最大値。正餐250～430、着席ブッフェ200～340、レセプション360～700、スクール280～420、シアター400～700、コの字84～126、ロの字100～150、島組72～108。3室（カンヌ・ニース・モナコ）に分割可。セッティング例は正餐340名・スクール405名・レセプション700名・シアター560名。隣接する横浜国際平和会議場との併用も可"
+  },
+  {
+   "name": "3F ボールルーム モナコ＆ニース",
+   "areaM2": 475,
+   "ceilingM": 6.8,
+   "theater": 440,
+   "school": 270,
+   "ushape": 114,
+   "standing": 360,
+   "banquet": 250,
+   "note": "公式は人数を幅（最小～最大）で表記。表の数字は最大値。正餐170～250、着席ブッフェ170～200、レセプション200～360、スクール200～270、シアター300～440、コの字60～90、ロの字76～114、島組44～66。セッティング例は正餐189名"
+  },
+  {
+   "name": "3F ボールルーム カンヌ＆ニース",
+   "areaM2": 415,
+   "ceilingM": 6.8,
+   "theater": 390,
+   "school": 230,
+   "ushape": 102,
+   "standing": 310,
+   "banquet": 210,
+   "note": "公式は人数を幅（最小～最大）で表記。表の数字は最大値。正餐120～210、着席ブッフェ110～170、レセプション200～310、スクール160～230、シアター300～390、コの字52～78、ロの字68～102、島組40～60。セッティング例は正餐198名"
+  },
+  {
+   "name": "3F ボールルーム モナコ",
+   "areaM2": 307,
+   "ceilingM": 6.8,
+   "theater": 280,
+   "school": 160,
+   "ushape": 84,
+   "standing": 230,
+   "banquet": 160,
+   "note": "公式は人数を幅（最小～最大）で表記。表の数字は最大値。正餐110～160、着席ブッフェ80～130、レセプション100～230、スクール100～160、シアター150～280、コの字44～66、ロの字56～84、島組36～54"
+  },
+  {
+   "name": "3F ボールルーム ニース",
+   "areaM2": 168,
+   "ceilingM": 6.8,
+   "theater": 120,
+   "school": 80,
+   "ushape": 60,
+   "standing": 125,
+   "banquet": 80,
+   "note": "公式は人数を幅（最小～最大）で表記。表の数字は最大値。正餐50～80、着席ブッフェ40～60、レセプション70～125、スクール50～80、シアター80～120、コの字34～51、ロの字40～60、島組36～54"
+  },
+  {
+   "name": "3F ボールルーム カンヌ",
+   "areaM2": 247,
+   "ceilingM": 6.8,
+   "theater": 210,
+   "school": 130,
+   "ushape": 72,
+   "standing": 150,
+   "banquet": 110,
+   "note": "公式は人数を幅（最小～最大）で表記。表の数字は最大値。正餐80～110、着席ブッフェ60～90、レセプション80～150、スクール80～130、シアター120～210、コの字38～57、ロの字48～72、島組36～54"
+  },
+  {
+   "name": "3F パシフィック",
+   "areaM2": 507,
+   "ceilingM": 3.0,
+   "theater": 320,
+   "school": 200,
+   "ushape": 54,
+   "standing": 300,
+   "banquet": 200,
+   "note": "公式は人数を幅（最小～最大）で表記。表の数字は最大値。正餐80～200、着席ブッフェ70～160、レセプション100～300、スクール90～200、シアター120～320、コの字28～42、ロの字36～54、島組36～54。ラウンジ・バルコニー付き。セッティング例は正餐170名・スクール171名・レセプション300名・シアター306名"
+  },
+  {
+   "name": "3F ベイビュー",
+   "areaM2": 274,
+   "ceilingM": 3.0,
+   "theater": 200,
+   "school": 90,
+   "ushape": 54,
+   "standing": 150,
+   "banquet": 90,
+   "note": "公式は人数を幅（最小～最大）で表記。表の数字は最大値。正餐60～90、着席ブッフェ40～90、レセプション80～150、スクール70～90、シアター100～200、コの字26～45、ロの字36～54、島組32～48。正餐の上限は宴会場概要PDFと会場比較表で90名、宴会場のご案内ページの詳細欄で100名と食い違う（PDFの90名を採用）。バーカウンターあり"
+  },
+  {
+   "name": "3F エーゲ",
+   "areaM2": 143,
+   "ceilingM": 3.0,
+   "theater": 100,
+   "school": 60,
+   "ushape": 54,
+   "standing": 80,
+   "banquet": 60,
+   "note": "公式は人数を幅（最小～最大）で表記。表の数字は最大値。正餐40～60、着席ブッフェ40～50、レセプション40～80、スクール40～60、シアター50～100、コの字20～48、ロの字20～54、島組20～48"
+  },
+  {
+   "name": "3F アトランティック",
+   "areaM2": 157,
+   "ceilingM": 3.0,
+   "theater": 104,
+   "school": 66,
+   "ushape": 54,
+   "standing": 100,
+   "banquet": 80,
+   "note": "公式は人数を幅（最小～最大）で表記。表の数字は最大値。正餐40～80、着席ブッフェ40～60、レセプション60～100、スクール40～66、シアター50～104、コの字20～48、ロの字20～54、島組20～48"
+  },
+  {
+   "name": "3F アドリア",
+   "areaM2": 55,
+   "ceilingM": 3.0,
+   "theater": 40,
+   "school": 25,
+   "ushape": 24,
+   "standing": 50,
+   "banquet": 30,
+   "note": "公式は人数を幅（最小～最大）で表記。表の数字は最大値。正餐10～30、着席ブッフェ20～30、レセプション30～50、スクール15～25、シアター20～40、コの字12～18、ロの字16～24、島組12～18"
+  },
+  {
+   "name": "30F ル グラン（ダイニングサロン）",
+   "areaM2": 103,
+   "ceilingM": 2.5,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": 30,
+   "banquet": 15,
+   "note": "公式は人数を幅（最小～最大）で表記。表の数字は最大値。正餐6～15、レセプション20～30"
+  },
+  {
+   "name": "30F カールトン（ダイニングサロン）",
+   "areaM2": 108,
+   "ceilingM": 2.5,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": 35,
+   "banquet": 26,
+   "note": "公式は人数を幅（最小～最大）で表記。表の数字は最大値。正餐14～26、レセプション25～35"
+  },
+  {
+   "name": "30F メイフェア（ダイニングサロン）",
+   "areaM2": 136,
+   "ceilingM": 2.5,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": 40,
+   "banquet": 16,
+   "note": "公式は人数を幅（最小～最大）で表記。表の数字は最大値。正餐8～16、レセプション30～40。バーコーナー付きのリビングルームあり"
+  },
+  {
+   "name": "30F アルバスタン（ダイニングサロン）",
+   "areaM2": 72,
+   "ceilingM": 2.5,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": 20,
+   "banquet": 10,
+   "note": "公式は人数を幅（最小～最大）で表記。表の数字は最大値。正餐4～10、レセプション20"
+  },
+  {
+   "name": "30F アムステル（ダイニングサロン）",
+   "areaM2": 72,
+   "ceilingM": 2.5,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": 20,
+   "banquet": 10,
+   "note": "公式は人数を幅（最小～最大）で表記。表の数字は最大値。正餐4～10、レセプション20"
+  },
+  {
+   "name": "30F ウィラード（ダイニングサロン）",
+   "areaM2": 72,
+   "ceilingM": 2.5,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": 20,
+   "banquet": 10,
+   "note": "公式は人数を幅（最小～最大）で表記。表の数字は最大値。正餐4～10、レセプション20"
+  },
+  {
+   "name": "2F スターボ（パーティースペース）",
+   "areaM2": 297,
+   "ceilingM": "2.5-2.8",
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": 80,
+   "banquet": null,
+   "note": "公式は立食40～80名と表記。バーカウンターとラウンジスペース付き。ピアノなどのライブ演奏も可。宴会場概要PDFには載っておらず、宴会場のご案内ページの会場比較表の値"
+  },
+  {
+   "name": "パシフィコ横浜 会議センター6F ベイブリッジ カフェテリア（パーティースペース）",
+   "areaM2": 264,
+   "ceilingM": 3.4,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": 150,
+   "banquet": 120,
+   "note": "公式は正餐70～120名、立食40～150名と表記。宴会場概要PDFには載っておらず、宴会場のご案内ページの会場比較表の値"
+  }
+ ],
+ "roomsSource": "https://www.icyokohama-grand.com/assets/pdf/banquets/outlineofbanquets_jp.pdf",
+ "ops": {
+  "parking": {
+   "text": "パシフィコ横浜地下1階の「みなとみらい公共駐車場」を利用する。普通車1,154台、電気自動車充電スタンドあり、車高制限2.1m。A〜Dブロックに分かれ、ホテル棟に一番近いのはAブロック。優待があるのはこの駐車場のみ。",
+   "source": "https://www.icyokohama-grand.com/access/"
+  },
+  "waitingRooms": {
+   "text": "中宴会場（ベイビュー・エーゲ・アトランティック・アドリア・シルク・パール）は、ビジネス会議やセミナー、お祝い事、あるいは控室にと多目的に使える。アドリアは小規模の会議や宴会の控室にも使える。",
+   "source": "https://www.icyokohama-grand.com/banquets_detail/"
+  },
+  "catering": {
+   "text": "ホテル施設利用規則で、ホテル内に飲食物を持ち込むことや、外部から出前等をとることをやめるよう定めている。",
+   "source": "https://www.icyokohama-grand.com/regulations/"
+  },
+  "restaurants": {
+   "text": "館内の飲食店は、中国料理「驊騮（カリュウ）」（31F）、日本料理・すし・鉄板ステーキ「なだ万」（4F）、フランス料理「アジュール」（2F）、ブッフェ・ダイニング「オーシャンテラス」（1F）、ラウンジ＆バー「マリンブルー」（2F）、ミュージックラウンジ「スターボ」（2F）。宴会場では、会議・パーティープランとして、飲食・会場費がセットのインターコンチネンタル パーティープラン（コース料理・卓盛・ブッフェから選択）などがある。",
+   "source": "https://www.icyokohama-grand.com/banquets/"
+  }
+ },
+ "documents": [
+  {
+   "title": "宴会場施設概要（PDF）",
+   "url": "https://www.icyokohama-grand.com/assets/pdf/banquets/outlineofbanquets_jp.pdf"
+  },
+  {
+   "title": "宴会場のご案内（会場比較・各会場ページ）",
+   "url": "https://www.icyokohama-grand.com/banquets_detail/"
+  },
+  {
+   "title": "インターコンチネンタル ボールルーム 基本情報（平面図・面積表）",
+   "url": "https://www.icyokohama-grand.com/mg/wp-content/uploads/2026/02/banquet_pdf01.pdf"
+  },
+  {
+   "title": "インターコンチネンタル ボールルーム セッティング例",
+   "url": "https://www.icyokohama-grand.com/mg/wp-content/uploads/2026/02/banquet_pdf02.pdf"
+  },
+  {
+   "title": "インターコンチネンタル ボールルーム 分割利用のセッティング例",
+   "url": "https://www.icyokohama-grand.com/mg/wp-content/uploads/2026/02/banquet_pdf02-1.pdf"
+  },
+  {
+   "title": "パシフィック セッティング例",
+   "url": "https://www.icyokohama-grand.com/mg/wp-content/uploads/2026/04/pacific_banquet_pdf.pdf"
+  },
+  {
+   "title": "エーゲ レイアウト図",
+   "url": "https://www.icyokohama-grand.com/mg/wp-content/uploads/2026/03/eagean_banquet.pdf"
+  },
+  {
+   "title": "アトランティック レイアウト図",
+   "url": "https://www.icyokohama-grand.com/mg/wp-content/uploads/2026/03/atlantic_banquet.pdf"
+  },
+  {
+   "title": "アドリア レイアウト図",
+   "url": "https://www.icyokohama-grand.com/mg/wp-content/uploads/2026/03/adriatic_banquet.pdf"
+  },
+  {
+   "title": "シルク レイアウト図",
+   "url": "https://www.icyokohama-grand.com/mg/wp-content/uploads/2026/03/silk_banquet.pdf"
+  },
+  {
+   "title": "ル グラン レイアウト図",
+   "url": "https://www.icyokohama-grand.com/mg/wp-content/uploads/2026/03/legrand_banquet.pdf"
+  },
+  {
+   "title": "カールトン レイアウト図",
+   "url": "https://www.icyokohama-grand.com/mg/wp-content/uploads/2026/03/carlton_banquet.pdf"
+  },
+  {
+   "title": "ホテル施設利用規則",
+   "url": "https://www.icyokohama-grand.com/regulations/"
+  },
+  {
+   "title": "アクセス",
+   "url": "https://www.icyokohama-grand.com/access/"
+  }
+ ],
+ "checkedAt": "2026-11-02",
+ "lat": 35.459438,
+ "lng": 139.636246,
+ "nearby": {
+  "convenience": [
+   {
+    "name": "セブン-イレブン 横浜みなとみらい3丁目店",
+    "brand": "セブン-イレブン",
+    "distanceM": 267,
+    "walkMin": 4,
+    "hours": "24時間営業",
+    "address": "神奈川県横浜市西区みなとみらい3-7-1",
+    "verified": true,
+    "source": "https://seven-eleven.areamarker.com/711map/info/438038",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "ファミリーマート クイーンズスクエア横浜店",
+    "brand": "ファミリーマート",
+    "distanceM": 369,
+    "walkMin": 5,
+    "hours": "7:00-23:00",
+    "address": "神奈川県横浜市西区みなとみらい2-3-8",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/27154",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "ファミリーマート MMセンタービル店",
+    "brand": "ファミリーマート",
+    "distanceM": 375,
+    "walkMin": 5,
+    "hours": "7:00-23:00",
+    "address": "神奈川県横浜市西区みなとみらい3-6-1",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/16558",
+    "note": "距離は住所の位置で計算。公式の店舗名は「ＭＭセンタービル店」"
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "キンコーズ・パシフィコ横浜店",
+    "brand": "キンコーズ",
+    "distanceM": 184,
+    "walkMin": 3,
+    "hours": "イベント開催時期や月ごとに営業時間が異なる（公式の月別営業日カレンダーで確認）",
+    "address": "神奈川県横浜市西区みなとみらい1-1-1 パシフィコ横浜 展示ホール内",
+    "verified": true,
+    "source": "https://www.kinkos.co.jp/store/kanagawa/y004/",
+    "note": "距離は公式ページの地図の位置で計算。パシフィコ横浜の展示ホール内の店舗"
+   },
+   {
+    "name": "アクセア 横浜ランドマークタワー店",
+    "brand": "アクセア",
+    "distanceM": 649,
+    "walkMin": 9,
+    "hours": "平日8:00～20:00、土日祝10:00～19:00",
+    "address": "神奈川県横浜市西区みなとみらい2-2-1 ランドマークプラザ5F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/entry.html",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "DAISO みなとみらい東急スクエア店",
+    "brand": "ダイソー",
+    "distanceM": 369,
+    "walkMin": 5,
+    "hours": "11:00-20:00",
+    "address": "神奈川県横浜市西区みなとみらい2-3-2 みなとみらい東急スクエア地下1階",
+    "verified": true,
+    "source": "https://www.daiso-sangyo.co.jp/shop/detail/003782",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "DAISO マークイズみなとみらい店",
+    "brand": "ダイソー",
+    "distanceM": 479,
+    "walkMin": 6,
+    "hours": "10:00-20:00",
+    "address": "神奈川県横浜市西区みなとみらい3-5-1 地下1階",
+    "verified": true,
+    "source": "https://www.daiso-sangyo.co.jp/shop/detail/008713",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "donki": [
+   {
+    "name": "ドン・キホーテ 横浜西口店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 1706,
+    "walkMin": 22,
+    "hours": "24時間営業",
+    "address": "神奈川県横浜市西区南幸2-15-5",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=122",
+    "note": "距離は住所の位置で計算。徒歩22分で遠い"
+   },
+   {
+    "name": "ドン・キホーテ 伊勢佐木町店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 1949,
+    "walkMin": 25,
+    "hours": "24時間営業",
+    "address": "神奈川県横浜市中区伊勢佐木町3-98",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=347",
+    "note": "距離は住所の位置で計算。徒歩25分で遠い"
+   }
+  ]
+ },
+ "drinkDelivery": {
+  "available": true
+ },
+ "photo": {
+  "src": "/images/venues/intercontinental-yokohama-grand.jpg",
+  "credit": "© Matthide127 / CC0 · Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:20250101_InterContinental_Yokohama_Grand_121718.jpg"
+ }
+}

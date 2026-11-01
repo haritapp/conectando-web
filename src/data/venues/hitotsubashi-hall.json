@@ -1,0 +1,372 @@
+{
+ "slug": "hitotsubashi-hall",
+ "nameJa": "一橋講堂",
+ "nameEn": "Hitotsubashi Hall",
+ "type": "public",
+ "area": "kanda-suidobashi-venues",
+ "address": "〒101-8439 東京都千代田区一ツ橋2-1-2 学術総合センター内（利用案内窓口は2F）",
+ "officialUrl": "https://www.hit-u.ac.jp/hall/",
+ "organizerUrl": "https://www.hit-u.ac.jp/hall/flow.html",
+ "bizintokyoSlug": "hitotsubashi-hall",
+ "accessSummary": "神保町駅（半蔵門線・三田線・新宿線）A8・A9出口 徒歩4分／竹橋駅（東西線）1b出口 徒歩4分",
+ "notice": "貸出の対象は、大学・学会・国や自治体などが開く学術または高等教育に関する会合（利用規則第2条。令和7年10月1日改正）。",
+ "hours": "9:00〜21:00。午前（9:00〜13:00）・午後（13:00〜17:00）・夜間（17:00〜21:00）の3区分で、設営・撤去の時間を含む。休館日は年末年始・館内点検日など。",
+ "rooms": [
+  {
+   "name": "一橋講堂（ホール）",
+   "areaM2": 604,
+   "ceilingM": 6,
+   "theater": 521,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "固定席521席（1階席494名・2階席27名）。メモ台付き。車いすスペース2ヶ所。通訳ブース6ヶ所・同時通訳レシーバー500台。講堂内は飲食不可（講演者用の飲料水のみ可）。利用料は午前188,500円／午後227,300円／夜間246,200円（2025年10月1日以降）"
+  },
+  {
+   "name": "中会議場1",
+   "areaM2": 119,
+   "ceilingM": 3,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "収容64名（机32台・椅子64脚）。連結（1〜4）で240名。利用料は中会議場1〜4で午前49,200円／午後58,700円／夜間63,900円"
+  },
+  {
+   "name": "中会議場2",
+   "areaM2": 119,
+   "ceilingM": 3,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "収容64名（机32台・椅子64脚）"
+  },
+  {
+   "name": "中会議場3",
+   "areaM2": 119,
+   "ceilingM": 3,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "収容64名（机32台・椅子64脚）"
+  },
+  {
+   "name": "中会議場4",
+   "areaM2": 119,
+   "ceilingM": 3,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "収容48名（机24台・椅子48脚）。主要な映像・音響設備を使う場合は中会議場4を含めて予約。同時通訳用の組立式ブース・レシーバー200台は中会議場4専用"
+  },
+  {
+   "name": "会議室201",
+   "areaM2": 56,
+   "ceilingM": 3,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "収容16名（机8台・椅子16脚）。201〜203連結で48名。利用料は201〜203で午前24,100円／午後28,300円／夜間30,400円"
+  },
+  {
+   "name": "会議室202",
+   "areaM2": 56,
+   "ceilingM": 3,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "収容16名（机10台・椅子16脚）"
+  },
+  {
+   "name": "会議室203",
+   "areaM2": 56,
+   "ceilingM": 3,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "収容16名（机10台・椅子16脚）。主要な映像・音響設備を使う場合は203を含めて予約"
+  },
+  {
+   "name": "特別会議室101",
+   "areaM2": 70,
+   "ceilingM": 3,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "収容24名（机12台・椅子24脚）。101〜103連結で72名。主要な映像・音響設備を使う場合は101を含めて予約。利用料は101〜103で午前29,300円／午後34,500円／夜間37,700円"
+  },
+  {
+   "name": "特別会議室102",
+   "areaM2": 70,
+   "ceilingM": 3,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "収容24名（机12台・椅子24脚）"
+  },
+  {
+   "name": "特別会議室103",
+   "areaM2": 70,
+   "ceilingM": 3,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "収容24名（机12台・椅子24脚）"
+  },
+  {
+   "name": "貴賓室",
+   "areaM2": 56,
+   "ceilingM": 3,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "収容14名（ソファ14脚）。来賓・講師の待遇用。利用料は午前17,800円／午後21,000円／夜間23,000円"
+  },
+  {
+   "name": "準備室",
+   "areaM2": 30,
+   "ceilingM": 3,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "収容14名（テーブル2台・イス10脚・2人掛ソファ2組）。事務局・控室などに利用可。利用料は午前6,300円／午後8,400円／夜間8,400円"
+  }
+ ],
+ "roomsSource": "https://www.hit-u.ac.jp/hall/facility.html、https://www.hit-u.ac.jp/hall/facilitymiddle.html、https://www.hit-u.ac.jp/hall/facilityconference.html、https://www.hit-u.ac.jp/hall/facilityspecial.html、https://www.hit-u.ac.jp/hall/facilitynobleguest.html、https://www.hit-u.ac.jp/hall/facilitypreparation.html",
+ "ops": {
+  "prevDaySetup": {
+   "text": "設営だけの時間枠はなく、前日夜間（17:00〜21:00）を別途予約して使う。予約した時間より前に入室して設営を始めることはできない。連日利用で機材や展示パネルを最終日まで置いておく場合は、終日の予約が必要。",
+   "source": "https://www.hit-u.ac.jp/hall/faq.html"
+  },
+  "loadingHours": {
+   "text": "搬入出用のサービスヤード（2tショートまで）は8:30〜21:00。搬入エレベーターは積載荷重1,800kgまで、かご内寸は幅1,820×奥行2,120×高さ2,780mm、入口は幅1,370×高さ2,290mm。台車で運ぶときは通路に重さに耐える養生をする。事前送付の荷物は平日9:00〜17:00のみ受け取り、利用後の荷物は翌平日の発送で預かる（令和4年10月現在の駐車場区分表、2025年10月現在の案内）。",
+   "source": "https://www.hit-u.ac.jp/hall/flowguide.html"
+  },
+  "vehicleRules": {
+   "text": "サービスヤードは搬入・搬出車両の一時停車用で、2tショートまで、最大1時間、申請書が必要（平日・土休日 8:30〜21:00）。各駐車場とも事前の利用届が必要で、申込順。会議室の予約時間内のみ使える（令和4年10月現在）。",
+   "source": "https://www.hit-u.ac.jp/hall/file/serviceparking.pdf"
+  },
+  "parking": {
+   "text": "講演者や運営側用の地下駐車場が最大4台（車高1,550mm・車幅1,850mm・全長4,850mmまで、平日9:00〜21:00、承認証が必要）。運転手付き乗用車用の車寄せ駐車場は最大3台・最大3時間、身障者駐車場は1台・最大3時間。一般参加者用の駐車場はない。バス・マイクロバスは車寄せに入れない（令和4年10月現在）。",
+   "source": "https://www.hit-u.ac.jp/hall/file/serviceparking.pdf"
+  },
+  "waitingRooms": {
+   "text": "一橋講堂ホールに簡易控室がある（一橋講堂ページの設備欄）。準備室（30㎡・14名）は事務局や控室にも使え、貴賓室（56㎡・14名）は来賓や講師の待遇用。",
+   "source": "https://www.hit-u.ac.jp/hall/facility.html"
+  },
+  "catering": {
+   "text": "一橋講堂ホール内は飲食不可（講演者用の飲料水のみ可）。ほかの会議室は飲食可で、2階のロビー・廊下は飲み物のみ。ケータリング業者は、過去3年に実績のある如水会館、C'sケータリングサービス、味工房スイセンを紹介している（提携業者ではなく、発注は利用者が直接行う。2026年7月）。",
+   "source": "https://www.hit-u.ac.jp/hall/file/companieslist.pdf"
+  }
+ },
+ "documents": [
+  {
+   "title": "一橋大学一橋講堂利用規則（令和7年10月1日改正）",
+   "url": "https://www.hit-u.ac.jp/hall/file/rule.pdf"
+  },
+  {
+   "title": "一橋講堂利用料金表（2025年10月1日〜）",
+   "url": "https://www.hit-u.ac.jp/hall/file/facility1_4.pdf"
+  },
+  {
+   "title": "一橋講堂利用料金改定のお知らせ（令和6年12月20日）",
+   "url": "https://www.hit-u.ac.jp/hall/file/new_ikkyokodo_kokuchi_ryokinhyo_1220.pdf"
+  },
+  {
+   "title": "一橋大学一橋講堂会議室利用申込要領（平成29年5月1日改正）",
+   "url": "https://www.hit-u.ac.jp/hall/file/applicationprocedure.pdf"
+  },
+  {
+   "title": "キャンセル料の取扱いについて（2022年11月1日）",
+   "url": "https://www.hit-u.ac.jp/hall/file/cancel.pdf"
+  },
+  {
+   "title": "駐車場ご利用区分（令和4年10月現在）",
+   "url": "https://www.hit-u.ac.jp/hall/file/serviceparking.pdf"
+  },
+  {
+   "title": "搬入エレベーター実寸図",
+   "url": "https://www.hit-u.ac.jp/hall/file/elevator.pdf"
+  },
+  {
+   "title": "共用機材・備品リスト（2025年10月現在）",
+   "url": "https://www.hit-u.ac.jp/hall/file/servicefixtures.pdf"
+  },
+  {
+   "title": "ご紹介業者一覧（2026年7月）",
+   "url": "https://www.hit-u.ac.jp/hall/file/companieslist.pdf"
+  },
+  {
+   "title": "実寸図",
+   "url": "https://www.hit-u.ac.jp/hall/file/actualsizefigure.pdf"
+  },
+  {
+   "title": "平面図",
+   "url": "https://www.hit-u.ac.jp/hall/file/planview.pdf"
+  },
+  {
+   "title": "展示スペース詳細図",
+   "url": "https://www.hit-u.ac.jp/hall/file/exhibitionspace.pdf"
+  },
+  {
+   "title": "コンセント配置図",
+   "url": "https://www.hit-u.ac.jp/hall/file/electricaloutlet.pdf"
+  },
+  {
+   "title": "電気容量図",
+   "url": "https://www.hit-u.ac.jp/hall/file/capacitance.pdf"
+  },
+  {
+   "title": "駐車場経路図",
+   "url": "https://www.hit-u.ac.jp/hall/file/parkingroute.pdf"
+  },
+  {
+   "title": "ご利用にあたって（利用案内パンフレット、平成27年4月発行）",
+   "url": "https://www.hit-u.ac.jp/hall/file/index/guide.pdf"
+  }
+ ],
+ "checkedAt": "2026-11-02",
+ "lat": 35.692333,
+ "lng": 139.758148,
+ "nearby": {
+  "convenience": [
+   {
+    "name": "セブン-イレブン 神保町駅前店",
+    "brand": "セブン-イレブン",
+    "distanceM": 226,
+    "walkMin": 3,
+    "hours": "24時間営業",
+    "address": "東京都千代田区神田神保町1丁目103",
+    "verified": true,
+    "source": "https://seven-eleven.areamarker.com/711map/info/554141",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "セブン-イレブン 神田錦町千代田通り店",
+    "brand": "セブン-イレブン",
+    "distanceM": 242,
+    "walkMin": 4,
+    "hours": "7:00-23:00（月〜日・祝）",
+    "address": "東京都千代田区神田錦町3丁目11番地",
+    "verified": true,
+    "source": "https://seven-eleven.areamarker.com/711map/info/383410",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "セブン-イレブン 千代田一ツ橋2丁目店",
+    "brand": "セブン-イレブン",
+    "distanceM": 278,
+    "walkMin": 4,
+    "hours": "24時間営業",
+    "address": "東京都千代田区一ツ橋2-6-2",
+    "verified": true,
+    "source": "https://seven-eleven.areamarker.com/711map/info/368295",
+    "note": "距離は公式の店舗位置で計算"
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "アクセア 神保町店",
+    "brand": "アクセア",
+    "distanceM": 422,
+    "walkMin": 6,
+    "hours": "24時間営業（22時〜翌6時のカフェ利用は本人確認済みの会員のみ）",
+    "address": "東京都千代田区神田神保町1-10 角谷ビル1・2F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/entry.html",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "キンコーズ・神保町店",
+    "brand": "キンコーズ",
+    "distanceM": 609,
+    "walkMin": 8,
+    "hours": "平日 8:00-20:00／土・日・祝 休業",
+    "address": "東京都千代田区神田神保町3丁目10-4 NABOCUL TOWER 1F",
+    "verified": true,
+    "source": "https://www.kinkos.co.jp/store/tokyo/t038/",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "DAISO 神田神保町すずらん通り店",
+    "brand": "ダイソー",
+    "distanceM": 434,
+    "walkMin": 6,
+    "hours": "10:00-21:00",
+    "address": "東京都千代田区神田神保町1-1-17 東京堂神保町第3ビルディング 1階",
+    "verified": true,
+    "source": "https://www.daiso-sangyo.co.jp/shop/detail/008732",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "Can★Do 神保町店",
+    "brand": "キャンドゥ",
+    "distanceM": 503,
+    "walkMin": 7,
+    "hours": "月〜日 10:00-21:00",
+    "address": "東京都千代田区神田神保町2-14",
+    "verified": true,
+    "source": "https://shopinfo.cando-web.co.jp/detail/shop-5053/",
+    "note": "距離は公式の店舗位置で計算"
+   }
+  ],
+  "donki": [
+   {
+    "name": "ドン・キホーテ 秋葉原店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 1535,
+    "walkMin": 20,
+    "hours": "24時間営業",
+    "address": "東京都千代田区外神田4丁目3-3",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=98",
+    "note": "距離は住所の位置で計算。ドン・キホーテ公式サイトの店舗名は「秋葉原店」。遠め"
+   },
+   {
+    "name": "ドン・キホーテ 後楽園店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 1554,
+    "walkMin": 20,
+    "hours": "24時間営業",
+    "address": "東京都文京区本郷1-33-9",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=343",
+    "note": "距離は住所の位置で計算。ドン・キホーテ公式サイトの店舗名は「後楽園店」。遠め"
+   }
+  ]
+ },
+ "drinkDelivery": {
+  "available": true
+ },
+ "photo": {
+  "src": "/images/venues/hitotsubashi-hall.jpg",
+  "credit": "© 運転太郎 / CC BY 3.0 · Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E5%AD%A6%E8%A1%93%E7%B7%8F%E5%90%88%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC_%E4%B8%80%E6%A9%8B%E8%A8%98%E5%BF%B5%E8%AC%9B%E5%A0%82_-_panoramio.jpg"
+ }
+}

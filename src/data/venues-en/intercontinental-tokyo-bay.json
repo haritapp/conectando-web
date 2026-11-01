@@ -1,0 +1,146 @@
+{
+ "slug": "intercontinental-tokyo-bay",
+ "name": "InterContinental Tokyo Bay",
+ "address": "Tokyo 105-8576 1-16-2 Kaigan, Minato-ku",
+ "accessSummary": "Yurikamome Takeshiba Station: directly connected / JR Yamanote and Keihin-Tohoku Lines, Tokyo Monorail Hamamatsucho Station: 8 min walk / Toei Oedo and Asakusa Lines Daimon Station: 10 min walk",
+ "hours": null,
+ "notice": null,
+ "rooms": [
+  {
+   "name": "5F Willard",
+   "note": "The U-shape figure is for the hollow square layout. Sitting buffet 200. Standing is 250 on the venue list page and 300 on the individual venue pages (the value on the individual pages is used). 220-degree panoramic view."
+  },
+  {
+   "name": "5F Time Nest",
+   "note": "Furniture and sofas permanently installed. The capacity on the individual venue page is 65. The venue list page shows about 90 for dinner and about 130 for standing."
+  },
+  {
+   "name": "5F Atlantic",
+   "note": "The U-shape figure is for the hollow square layout. Sitting buffet 30. O-shape and U-shape layouts up to 36."
+  },
+  {
+   "name": "5F Adriatic",
+   "note": "The U-shape figure is for the hollow square layout."
+  },
+  {
+   "name": "4F Le Grand",
+   "note": "The U-shape figure is for the hollow square layout. Sitting buffet 150. Island layout up to 162. 220-degree panoramic view."
+  },
+  {
+   "name": "4F Carlton",
+   "note": "The U-shape figure is for the hollow square layout. Sitting buffet 80. Island layout up to 90. With open kitchen."
+  },
+  {
+   "name": "4F Afrodite",
+   "note": "The U-shape figure is for the hollow square layout. Sitting buffet 50. Can be divided with a partition into two venues, Aegean and Caribbean."
+  },
+  {
+   "name": "4F Amstel",
+   "note": "The U-shape figure is for the hollow square layout. Sitting buffet 30. O-shape and U-shape layouts up to 30."
+  },
+  {
+   "name": "4F Aegean",
+   "note": "The U-shape figure is for the hollow square layout. O-shape and U-shape layouts up to 24."
+  },
+  {
+   "name": "4F Caribbean",
+   "note": "The U-shape figure is for the hollow square layout."
+  },
+  {
+   "name": "4F Pacific",
+   "note": "The U-shape figure is for the hollow square layout. Nagashi style up to 12."
+  },
+  {
+   "name": "3F Harbor View Terrace",
+   "note": "The area includes the living room (anteroom) of 126m². The U-shape figure is for the hollow square layout. Sitting buffet 70. With open kitchen."
+  },
+  {
+   "name": "6F Trinity",
+   "note": "Furniture and sofas permanently installed. Nagashi style up to 16."
+  }
+ ],
+ "ops": {
+  "vehicleRules": "Under the Hotel Regulations, parking in front of the front entrance is strictly prohibited and the underground parking must be used. Vehicles parked outside the space designated by hotel staff will be towed, and the cost is borne by the user.",
+  "parking": "Public parking beneath the hotel (B2F to B3F), 172 spaces. Vehicle limits on B2F are 2.1 m in height, 5 m in length and 2 m in width. Rates are 660 yen for 1 hour and 1,320 yen for 2 hours (tax included). Only one entry and exit is allowed. Reservations are not accepted; the lot can normally be used without one.",
+  "waitingRooms": "There are men's and women's changing rooms on the 4F. The small venues Aegean, Caribbean, Pacific, Adriatic, Amstel and Atlantic can also be used as waiting rooms. Time Nest (5F) and Trinity (6F) have permanently installed furniture and sofas and can be used as VIP waiting rooms or as a space for pre-dinner drinks. The living room (anteroom, 126m²) of Harbor View Terrace can be used as a waiting room or as a space for pre-dinner drinks.",
+  "catering": "Banquet cuisine is French for both standing and seated service, and Japanese and Chinese arrangements are also accepted for standing receptions. There is an off-site catering service in which the hotel's kitchen goes to a designated venue; fees for travel, transport and setup are available on inquiry. The Hotel Regulations list bringing in food and drinks from outside the hotel as something guests are asked to refrain from.",
+  "restaurants": "The restaurants and bars in the hotel are Zillion, La Provence, New York Lounge and Teppan-Yaki TAKUMI on the 1F, Chef's Live Kitchen on the 3F, and MANHATTAN on the 6F. Banquet plans include the Executive Meeting Plans for meetings, and the Executive Party Plan, with a choice of a standing buffet (15,000 yen per person) or a seated dinner (20,000 yen per person)."
+ },
+ "documents": [
+  {
+   "title": "Banquet Brochure (Digital Brochure)"
+  },
+  {
+   "title": "Banquet Room Information (venue guide and comparison)"
+  },
+  {
+   "title": "Floor Map"
+  },
+  {
+   "title": "Executive Meeting Plans"
+  },
+  {
+   "title": "Executive Party Plan"
+  },
+  {
+   "title": "Seminar and Training Plan (maximum capacity by layout)"
+  },
+  {
+   "title": "Hotel Regulations"
+  },
+  {
+   "title": "Access"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "FamilyMart Nanzando Takeshiba Station Front",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "Lawson Tokyo Port City Takeshiba",
+    "hours": "7:00-22:00",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "FamilyMart Hamamatsucho Station South",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location."
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "Accea Hamamatsucho",
+    "hours": "Weekdays 8:00-22:00, Sat, Sun & holidays 10:00-19:00",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Kinko's Shiodome",
+    "hours": "Weekdays 9:00-19:00 / Closed Sat, Sun & holidays",
+    "note": "Distance is calculated from the address location. Rather far."
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "DAISO Lalaterrace HARUMI FLAG",
+    "hours": "10:00-21:00",
+    "note": "Distance is calculated from the official store location. Rather far."
+   },
+   {
+    "name": "Can Do Kachidoki Station Front",
+    "hours": "Mon-Sun 10:00-21:00",
+    "note": "Distance is calculated from the official store location. Rather far."
+   }
+  ],
+  "donki": [
+   {
+    "name": "Don Quijote Ginza Main Building",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. Far. The store name on the Don Quijote official website is \"Ginza Main Building\"."
+   }
+  ]
+ },
+ "photoCredit": "© Daderot / CC0 · Wikimedia Commons"
+}
