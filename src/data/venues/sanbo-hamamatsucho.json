@@ -1,0 +1,326 @@
+{
+ "slug": "sanbo-hamamatsucho",
+ "nameJa": "東京都立産業貿易センター 浜松町館",
+ "nameEn": "Tokyo Metropolitan Industrial Trade Center Hamamatsucho-Kan",
+ "type": "exhibition",
+ "area": "shimbashi-hamamatsucho-venues",
+ "address": "〒105-7501 東京都港区海岸1-7-1 東京ポートシティ竹芝（オフィスタワー2〜5階）",
+ "officialUrl": "https://www.sanbo.metro.tokyo.lg.jp/hamamatsucho/",
+ "organizerUrl": "https://www.sanbo.metro.tokyo.lg.jp/hamamatsucho/guide/",
+ "bizintokyoSlug": "sanbo-hamamatsucho",
+ "accessSummary": "ゆりかもめ 竹芝駅 徒歩2分／JR・東京モノレール 浜松町駅（北口）徒歩5分／都営浅草線・大江戸線 大門駅（B2出口）徒歩7分",
+ "notice": null,
+ "hours": "展示室・会議室の開場時間は9:00〜21:00（時間外利用は7:00〜9:00と21:00〜22:00）。休場日は12月29日〜1月3日",
+ "rooms": [
+  {
+   "name": "2〜5階 展示室（各階）全室",
+   "areaM2": 1534,
+   "ceilingM": 5.0,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "2階・3階・4階・5階の各階に同じ展示室がある。公式の収容人数は880名（形式の記載はない）。床耐荷重1t/㎡、柱なし。スライディングウォールで2分割できる。面積は公式サイト・施設利用案内の本文に約1,530㎡と1,534㎡の2通りの表記があり、1,534㎡は施設利用案内の面積表の値。付属の控室（各階2室・各23㎡）・給湯室（各階2室・各12㎡）・冷暖房・天井照明は料金に含まれる"
+  },
+  {
+   "name": "2〜5階 展示室（各階）半室",
+   "areaM2": 765,
+   "ceilingM": 5.0,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "公式の収容人数は440名（形式の記載はない）。半室ごとに備品倉庫と控室が付く"
+  },
+  {
+   "name": "4階 第1会議室",
+   "areaM2": 83,
+   "ceilingM": 3.0,
+   "theater": null,
+   "school": 35,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "スクールは3人掛け机13台・椅子38脚、貸出時はスクール形式で設置（レイアウトは変更可）。収容人数は48名程度（施設利用案内）。半室A・B各約41.5㎡（公式サイトは各約42㎡）に分割できる。会議室単独の利用では時間外利用ができず、正午〜13時と17時〜18時は使えない"
+  },
+  {
+   "name": "4階 第2会議室",
+   "areaM2": 182,
+   "ceilingM": 4.0,
+   "theater": null,
+   "school": 90,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "スクールは3人掛け机31台・椅子92脚、貸出時はスクール形式で設置。収容人数は106名程度（施設利用案内）。半室はA約96㎡・B約86㎡"
+  },
+  {
+   "name": "4階 第3会議室",
+   "areaM2": 257,
+   "ceilingM": 4.0,
+   "theater": null,
+   "school": 145,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "スクールは3人掛け机49台・椅子146脚、貸出時はスクール形式で設置。収容人数は148名程度（施設利用案内）。半室はA約128㎡・B約129㎡"
+  }
+ ],
+ "roomsSource": "https://www.sanbo.metro.tokyo.lg.jp/hamamatsucho/facilities/floor/02-05/",
+ "ops": {
+  "prevDaySetup": {
+   "text": "展示室の備品の使用料は、準備日・撤収日に使う場合も1日として計算する。会期前日に搬入日を設ける場合、放送設備（1日1,500円）は15時以降のテスト用の利用に限って無料。展示室の開場時間は9〜21時で、開場時間に接続して7〜9時と21〜22時を、搬入・搬出、点検、整備、入替え、造作の取付け・撤去に使える（時間外は1時間あたり全室14,500円、半室7,250円。事前に「催物のあらましと利用内容」に書いて承認を受ける）。（施設利用案内、PDF更新2026年6月）",
+   "source": "https://www.sanbo.metro.tokyo.lg.jp/files/hamamatsucho/hamamatsuchokan_guidance_pamphlet.pdf"
+  },
+  "loadingHours": {
+   "text": "搬入・搬出は1階の専用荷扱場から荷物用エレベーター4基で行う。荷扱場にはプラットフォーム（床高72cm）があり、荷扱場の高さ制限は4.3m。荷物用エレベーターは、1号機が3t（かご内寸W3.0×D3.5×H2.6m、1〜5階）、2号機が5t（W3.2×D4.0×H2.6m、1〜5階）、3号機・4号機が5t（W4.0×D3.5×H2.6m、1〜4階）。荷扱場とエレベーターの使う時間帯は、利用月の2か月前に開く調整会議で調整する。展示室の時間外利用は7〜9時と21〜22時。会議室の搬入・搬出に台車は使えない。",
+   "source": "https://www.sanbo.metro.tokyo.lg.jp/faq/"
+  },
+  "vehicleRules": {
+   "text": "搬入・搬出車両は1階の荷扱場に入り、当センター発行の入車証が必要（入車証のない車両と指定時間外の車両は入れない）。入車証は原本のみ有効で、コピーやスマホ画面は使えない。荷扱場の調整表は会期の約2か月前に届き、1フロア利用の基本配分は中型車2レーン・普通車2レーン・荷物用エレベーター1台。入車証は割当時間ごとに発行し、時間を分ける場合の最小単位は1時間。荷扱場は駐車場ではなく、荷物の上げ下ろしが終わった車両はすぐ出る。泊車はできない。荷扱場付近とビルの周りでの、入車時刻前の長時間待機は禁止。荷扱場への右折進入は禁止で、海岸通りからの左折進入のみ。荷扱場の外（路上駐車や近隣駐車場）から台車で搬出入することも禁止。車両サイズは、中型車が長さ9.2m・幅2.3m・高さ4.3m以内で12台、普通車が長さ6.0m・幅1.9m・高さ4.3m以内で13台。（荷扱場ご利用についての重要なお知らせ、施設利用案内 PDF更新2026年6月）",
+   "source": "https://www.sanbo.metro.tokyo.lg.jp/storage/information/Wa6XsKSsOo8bvdk9pGuYgbpxQzwnIFDmn6fHTHah.pdf"
+  },
+  "parking": {
+   "text": "東京ポートシティ竹芝オフィスタワーの地下1階にビル共用の有料駐車場がある（浜松町館専用ではない）。営業時間7:00〜23:00、料金は20分300円、24時間最大3,300円（繰り返し適用、税込）。駐車場からの搬入・搬出作業（台車の利用など）はできない。展示室の利用者には、希望により無料利用券を発行する（展示室半室の利用ごとに1日3台分、利用できる時間は7〜21時、泊車不可、入庫時と出庫時に提示）。無料利用券で入れる車は車長5.30m以内・車幅1.95〜2.05m以内・重量2.3t以内、車高は駐車場タイプにより1.55〜2.10m以内で、ルーフボックス付きの車は入れない。（無料利用券のPDFは令和3年5月7日付）",
+   "source": "https://www.sanbo.metro.tokyo.lg.jp/faq/"
+  },
+  "waitingRooms": {
+   "text": "展示室の各階に控室2室（各23㎡）と給湯室2室（各12㎡）が付属する（2〜5階で控室8室184㎡、給湯室8室96㎡。展示室の料金に含まれる）。4階の会議室（第1〜第3）は、展示室と併用する場合の控室などにも使える（会議室ご利用上の留意事項）。",
+   "source": "https://www.sanbo.metro.tokyo.lg.jp/hamamatsucho/facilities/floor/02-05/"
+  },
+  "catering": {
+   "text": "展示室で9〜18時に飲酒を伴うイベントは開催できない（販売目的の少量の試飲のみ可）。18時以降に飲酒を伴うイベントを開く場合は、主催者が自分でケータリング業者を手配し、契約に床等の養生・清掃（原状回復）と残飯を含むごみの持ち帰りを入れる。ケータリング業者以外が飲酒目的の酒類を持ち込むことはできず、利用者手配や酒販店による酒類の持込は禁止。来場者への軽飲食サービスを設営する場合は「軽飲食等設営届」を利用開始日の10日前までに出し、内容によっては保健所への届出が必要。弁当やケータリングのごみは、その業者が利用時間内に引き取るよう手配する。会議室は、飲酒を伴う親睦会・懇親会には使えず、室内の飲食は会議中の昼食・夕食の弁当とお茶のみ。（施設利用案内、PDF更新2026年6月）",
+   "source": "https://www.sanbo.metro.tokyo.lg.jp/files/hamamatsucho/hamamatsuchokan_guidance_pamphlet.pdf"
+  },
+  "restaurants": {
+   "text": "浜松町館が入る東京ポートシティ竹芝オフィスタワーに、レストラン・カフェなどがある（東京ポートシティ竹芝の公式サイトのショップガイドで確認する案内）。施設利用案内にも、建物内に複数の飲食店舗やコンビニエンスストアがあると書かれている。",
+   "source": "https://www.sanbo.metro.tokyo.lg.jp/faq/"
+  }
+ },
+ "documents": [
+  {
+   "title": "展示室・会議室 施設利用案内（PDF更新2026年6月）",
+   "url": "https://www.sanbo.metro.tokyo.lg.jp/files/hamamatsucho/hamamatsuchokan_guidance_pamphlet.pdf"
+  },
+  {
+   "title": "浜松町館 利用案内パンフレット（PDF作成2026年7月）",
+   "url": "https://www.sanbo.metro.tokyo.lg.jp/files/hamamatsucho/hamakan_pamphlet.pdf"
+  },
+  {
+   "title": "4階 第1会議室（公式ページ）",
+   "url": "https://www.sanbo.metro.tokyo.lg.jp/hamamatsucho/facilities/meeting/01/"
+  },
+  {
+   "title": "4階 第2会議室（公式ページ）",
+   "url": "https://www.sanbo.metro.tokyo.lg.jp/hamamatsucho/facilities/meeting/02/"
+  },
+  {
+   "title": "4階 第3会議室（公式ページ）",
+   "url": "https://www.sanbo.metro.tokyo.lg.jp/hamamatsucho/facilities/meeting/03/"
+  },
+  {
+   "title": "料金一覧（公式ページ）",
+   "url": "https://www.sanbo.metro.tokyo.lg.jp/hamamatsucho/facilities/charge/"
+  },
+  {
+   "title": "展示室 利用料金一覧（PDF更新2024年12月）",
+   "url": "https://www.sanbo.metro.tokyo.lg.jp/files/hamamatsucho/guidance/hamakan_guidance_usage_charge.pdf"
+  },
+  {
+   "title": "会議室 利用料金一覧（PDF更新2024年12月）",
+   "url": "https://www.sanbo.metro.tokyo.lg.jp/files/hamamatsucho/guidance/hamakan_guidance_usage_charge_conferenceroom.pdf"
+  },
+  {
+   "title": "展示室の設備・備品（公式ページ）",
+   "url": "https://www.sanbo.metro.tokyo.lg.jp/hamamatsucho/facilities/equipment/"
+  },
+  {
+   "title": "2階展示室 平面図（第二版 2020年2月）",
+   "url": "https://www.sanbo.metro.tokyo.lg.jp/files/hamamatsucho/zumen/hamakan2F_200_shinsei.pdf"
+  },
+  {
+   "title": "3階展示室 平面図（第二版 2020年2月）",
+   "url": "https://www.sanbo.metro.tokyo.lg.jp/files/hamamatsucho/zumen/hamakan3F_200_shinsei.pdf"
+  },
+  {
+   "title": "4階展示室 平面図（第二版 2020年2月）",
+   "url": "https://www.sanbo.metro.tokyo.lg.jp/files/hamamatsucho/zumen/hamakan4F_200_shinsei.pdf"
+  },
+  {
+   "title": "5階展示室 平面図（第二版 2020年2月）",
+   "url": "https://www.sanbo.metro.tokyo.lg.jp/files/hamamatsucho/zumen/hamakan5F_200_shinsei.pdf"
+  },
+  {
+   "title": "荷扱場ご利用についての重要なお知らせ（2026年10月時点の掲載）",
+   "url": "https://www.sanbo.metro.tokyo.lg.jp/storage/information/Wa6XsKSsOo8bvdk9pGuYgbpxQzwnIFDmn6fHTHah.pdf"
+  },
+  {
+   "title": "荷扱場利用調整〜入車証発行の流れ（2023年3月25日改訂版）",
+   "url": "https://www.sanbo.metro.tokyo.lg.jp/storage/information/KKD8Zuz3pdUwsAi3ikyfxtbjILlz6lWhp6Vj0R0u.pdf"
+  },
+  {
+   "title": "展示室ご利用の手引き（2024年2月5日作成）",
+   "url": "https://www.sanbo.metro.tokyo.lg.jp/storage/information/9TZVlZDjVYz1yyEUxkLofOpVu76YX1C8e5Zr6Qq8.pdf"
+  },
+  {
+   "title": "展示室ご利用当日マニュアル（2021年4月7日）",
+   "url": "https://www.sanbo.metro.tokyo.lg.jp/storage/information/CzNvSQlOI4N55QAtVU8qO5VpGTeZSeGhucn0qZby.pdf"
+  },
+  {
+   "title": "東京ポートシティ竹芝オフィスタワー地下駐車場 無料利用券の発行について（令和3年5月7日）",
+   "url": "https://www.sanbo.metro.tokyo.lg.jp/storage/information/ufRoVKZI3D3Nv8yNpyAUa3vBf9sXTnsk7mgdcPkB.pdf"
+  },
+  {
+   "title": "造作・設営のご案内（PDF更新2026年6月）",
+   "url": "https://www.sanbo.metro.tokyo.lg.jp/files/hamamatsucho/guidance/hamakan_guidance_decoration_construction.pdf"
+  },
+  {
+   "title": "電気の利用のご案内（PDF更新2025年1月）",
+   "url": "https://www.sanbo.metro.tokyo.lg.jp/files/hamamatsucho/guidance/hamakan_guidance_electric_construction.pdf"
+  },
+  {
+   "title": "放送設備のご案内（PDF更新2024年12月）",
+   "url": "https://www.sanbo.metro.tokyo.lg.jp/files/hamamatsucho/guidance/hamakan_guidance_broadcast_equipment.pdf"
+  },
+  {
+   "title": "インターネット接続のご案内（PDF更新2024年12月）",
+   "url": "https://www.sanbo.metro.tokyo.lg.jp/files/hamamatsucho/guidance/hamakan_guidance_internet_connection.pdf"
+  },
+  {
+   "title": "清掃・ゴミ処理のご案内（PDF更新2025年1月）",
+   "url": "https://www.sanbo.metro.tokyo.lg.jp/files/hamamatsucho/guidance/hamakan_guidance_cleaning.pdf"
+  },
+  {
+   "title": "関係機関への届出のご案内（PDF更新2026年6月）",
+   "url": "https://www.sanbo.metro.tokyo.lg.jp/files/hamamatsucho/guidance/hamakan_guidance_related_organizations.pdf"
+  },
+  {
+   "title": "催物のあらましと利用内容（様式、2026年10月1日版）",
+   "url": "https://www.sanbo.metro.tokyo.lg.jp/files/hamamatsucho/document/aramashi2_riyou_hama.pdf"
+  },
+  {
+   "title": "荷扱場利用計画書（様式、2020年7月14日）",
+   "url": "https://www.sanbo.metro.tokyo.lg.jp/files/hamamatsucho/document/4_niatsukaiba_riyou_hama.pdf"
+  },
+  {
+   "title": "装飾等設営申請書（様式）",
+   "url": "https://www.sanbo.metro.tokyo.lg.jp/files/hamamatsucho/document/5_soushoku_setsuei_hama.pdf"
+  },
+  {
+   "title": "軽飲食等設営届（様式）",
+   "url": "https://www.sanbo.metro.tokyo.lg.jp/files/hamamatsucho/document/8_inshoku_setsuei_hama.pdf"
+  },
+  {
+   "title": "申請書・図面ダウンロード（公式ページ）",
+   "url": "https://www.sanbo.metro.tokyo.lg.jp/hamamatsucho/guide/download/"
+  },
+  {
+   "title": "利用日と利用時間（公式ページ）",
+   "url": "https://www.sanbo.metro.tokyo.lg.jp/hamamatsucho/guide/time/"
+  },
+  {
+   "title": "施設の利用申込み（受付順位・受付開始日）",
+   "url": "https://www.sanbo.metro.tokyo.lg.jp/hamamatsucho/guide/rent/"
+  },
+  {
+   "title": "展示室・会議室 ご利用の流れ（公式ページ）",
+   "url": "https://www.sanbo.metro.tokyo.lg.jp/hamamatsucho/guide/flow/"
+  },
+  {
+   "title": "会議室 ご利用上の留意事項（公式ページ）",
+   "url": "https://www.sanbo.metro.tokyo.lg.jp/hamamatsucho/guide/attention/"
+  },
+  {
+   "title": "よくあるご質問（公式ページ）",
+   "url": "https://www.sanbo.metro.tokyo.lg.jp/faq/"
+  }
+ ],
+ "checkedAt": "2026-11-02",
+ "lat": 35.655045,
+ "lng": 139.760864,
+ "nearby": {
+  "convenience": [
+   {
+    "name": "ローソン 東京ポートシティ竹芝店",
+    "brand": "ローソン",
+    "distanceM": 24,
+    "walkMin": 1,
+    "hours": "7:00-22:00",
+    "address": "東京都港区海岸1-7-1",
+    "verified": true,
+    "source": "https://www.areamarker.com/lawson/info/354531",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "ファミリーマート 南山堂竹芝駅前店",
+    "brand": "ファミリーマート",
+    "distanceM": 125,
+    "walkMin": 2,
+    "hours": "24時間営業",
+    "address": "東京都港区海岸1丁目13-3",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/24688",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "ファミリーマート ニューピア竹芝店",
+    "brand": "ファミリーマート",
+    "distanceM": 200,
+    "walkMin": 3,
+    "hours": "7:00-23:00",
+    "address": "東京都港区海岸1丁目16-1",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/77183",
+    "note": "距離は公式の店舗位置で計算"
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "アクセア 浜松町店",
+    "brand": "アクセア",
+    "distanceM": 550,
+    "walkMin": 7,
+    "hours": "平日8:00〜22:00／土日祝10:00〜19:00",
+    "address": "東京都港区浜松町2-1-12 VORT浜松町III 1F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/entry.html",
+    "note": "距離は住所の位置で計算。実際の道のりは約797m"
+   },
+   {
+    "name": "キンコーズ・汐留店",
+    "brand": "キンコーズ",
+    "distanceM": 1027,
+    "walkMin": 13,
+    "hours": "平日 9:00-19:00／土・日・祝 休業",
+    "address": "東京都港区東新橋1丁目6-3 汐留タワーB2F",
+    "verified": true,
+    "source": "https://www.kinkos.co.jp/store/tokyo/t030/",
+    "note": "距離は住所の位置で計算。遠め。実際の道のりは約1,342m"
+   }
+  ],
+  "hundredYen": [],
+  "donki": [
+   {
+    "name": "ドン・キホーテ 銀座本館",
+    "brand": "ドン・キホーテ",
+    "distanceM": 1423,
+    "walkMin": 18,
+    "hours": "24時間営業",
+    "address": "東京都中央区銀座8-10 銀座ナイン3号館",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=92",
+    "note": "距離は住所の位置で計算。遠め。ドン・キホーテ公式サイトの店舗名は「銀座本館」"
+   }
+  ]
+ },
+ "drinkDelivery": {
+  "available": true
+ },
+ "photo": {
+  "src": "/images/venues/sanbo-hamamatsucho.jpg",
+  "credit": "© Beryllium Transistor / CC BY-SA 4.0 · Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:TOKYO_PORTCITY_TAKESHIBA_OFFICE_TOWER.jpg"
+ }
+}

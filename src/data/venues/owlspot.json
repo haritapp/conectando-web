@@ -1,0 +1,267 @@
+{
+ "slug": "owlspot",
+ "nameJa": "あうるすぽっと（豊島区立舞台芸術交流センター）",
+ "nameEn": "OWLSPOT THEATRE",
+ "type": "hall",
+ "area": "ikebukuro-venues",
+ "address": "〒170-0013 東京都豊島区東池袋4-5-2 ライズアリーナビル2F・3F",
+ "officialUrl": "https://www.owlspot.jp/",
+ "organizerUrl": "https://www.owlspot.jp/rental/",
+ "bizintokyoSlug": "owlspot",
+ "accessSummary": "東京メトロ有楽町線 東池袋駅 6・7番出口より直結／JR他各線 池袋駅（東口）徒歩10分／都電荒川線 東池袋四丁目 徒歩2分",
+ "notice": "劇場は新規申込を現在受け付けていない。改修工事のため劇場休館：令和9年4月1日〜令和9年12月末日（予定）。会議室は通常どおり利用できる予定。",
+ "hours": "利用時間は劇場・会議室とも9:00〜22:00（電話受付 9:00〜19:00）",
+ "rooms": [
+  {
+   "name": "劇場（2階）",
+   "areaM2": null,
+   "ceilingM": null,
+   "theater": 301,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "ブラックボックス、固定段床の客席301席。舞台開口 幅10.9m×奥行10.9m、舞台全幅17.8m、スノコ高さ9m。全日（9:00〜22:00）料金は平日166,000円・土日祝186,000円（付帯設備料金・消費税込み）。利用は利用選定委員会で決定（先着・抽選ではない）"
+  },
+  {
+   "name": "ホワイエ（2階）",
+   "areaM2": 200,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "約200㎡"
+  },
+  {
+   "name": "会議室A（3階）",
+   "areaM2": 60,
+   "ceilingM": null,
+   "theater": null,
+   "school": 33,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "会議室図面は長机11台・椅子33脚の配置。壁面ホワイトボード、可動スクリーン、プロジェクター、マイクは無料。全日（9:00〜22:00）14,300円。団体登録が必要で個人利用不可。2,001円以上の入場料・受講料・参加費を徴収する催し、物販、契約行為は禁止"
+  },
+  {
+   "name": "会議室B（3階）",
+   "areaM2": 180,
+   "ceilingM": null,
+   "theater": null,
+   "school": 110,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "会議室図面は机37台・椅子110脚の配置。壁付スクリーン、可動スクリーン、ホワイトボード2台、プロジェクター、マイクは無料。可動式パーテーションで会議室B1・B2の2室に分割可。全日（9:00〜22:00）43,100円"
+  },
+  {
+   "name": "会議室B1（3階）",
+   "areaM2": 70,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "公式表の定員30名。会議室Bの分割利用。全日（9:00〜22:00）18,000円"
+  },
+  {
+   "name": "会議室B2（3階）",
+   "areaM2": 85,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "公式表の定員40名。会議室Bの分割利用。全日（9:00〜22:00）21,500円"
+  }
+ ],
+ "roomsSource": "https://www.owlspot.jp/about/outline/",
+ "ops": {
+  "loadingHours": {
+   "text": "劇場の利用時間は9:00〜22:00で、入館から完全退館（搬入〜仕込〜本番〜清掃〜退去）までを含む。区分利用（短時間）は1日のみの利用の場合に可能で、電話で相談する。劇場の連続利用は原則1か月まで。搬出入エレベーターは開口 間口2.90m×高さ2.37m、かご内寸 幅3.05m×奥行1.80m×高さ2.70m、積載2,800kg。会議室の宅配便は事前連絡のうえ、利用前日の夕方指定でミカン箱サイズ2個まで。会議室は区分を連続して使う場合に入替時間（12:00〜13:00、17:00〜18:00）も使え、利用時間に準備・片付けを含む。（出典：劇場をかりる、劇場FAQ、会議室FAQ、全体平面図2F）",
+   "source": "https://www.owlspot.jp/rental/theater/"
+  },
+  "parking": {
+   "text": "あうるすぽっと専用の駐車場はなく、車で来る場合は近隣の駐車場を使う。首都高速「東池袋」出入口がすぐ。自転車は同じビルの地下1階に有料駐輪場（134台、最初の2時間無料、以降4時間ごとに100円）がある。",
+   "source": "https://www.owlspot.jp/access/"
+  },
+  "waitingRooms": {
+   "text": "劇場の楽屋は、楽屋1 約15㎡（4名）、楽屋2 約15㎡（5名）、楽屋3・4 約70㎡（15名。可動パーテーションで楽屋3 約30㎡〈6名〉と楽屋4 約40㎡〈9名〉に分割可）。各楽屋に化粧前、椅子、姿見、コートハンガー、内線電話、モニターテレビ、スピーカーがあり、シャワー室が1室。全体平面図2Fには主催者控室・舞台事務室も描かれている。楽屋などの付帯設備の料金は施設利用料に含まれる。",
+   "source": "https://www.owlspot.jp/about/outline/"
+  },
+  "catering": {
+   "text": "劇場の客席内は飲食不可（キャップ付容器での水分補給のみ可）、ホワイエでは飲食できる。会議室は令和8年7月1日から、利用前日17時までの事前申請を条件に、弁当類（おにぎり・サンドイッチ等を含む）とふた付き容器のソフトドリンクの持込のみ可。カップ麺・スープ類、菓子、取り分けが必要なケータリング、臭いの強いもの、アルコールは不可で、出前・デリバリーは禁止。飲食・飲酒を主目的とする利用（宴会、懇親会、会食、パーティー等）はできず、冷蔵庫・電子レンジはない。",
+   "source": "https://www.owlspot.jp/news/content.html"
+  },
+  "restaurants": {
+   "text": "公式の英語ページに、劇場のカフェと広いホワイエをさまざまなイベントや観客・出演者の待ち合わせ場所として使えるとの案内がある。ホワイエ平面図にカフェとパントリーが描かれ、2階ホワイエに自動販売機がある。",
+   "source": "https://www.owlspot.jp/en/"
+  }
+ },
+ "documents": [
+  {
+   "title": "劇場図面・附帯設備一覧（図面・設備リストの一覧ページ）",
+   "url": "https://www.owlspot.jp/rental/theater/drawing-equipment/"
+  },
+  {
+   "title": "全体平面図 2F（1/200）",
+   "url": "https://www.owlspot.jp/resources/pdf/owl_heimen_zentai.pdf"
+  },
+  {
+   "title": "舞台平面図（1/50）",
+   "url": "https://www.owlspot.jp/resources/pdf/owl_butaiheimen.pdf"
+  },
+  {
+   "title": "舞台備品リスト（2024年8月現在）",
+   "url": "https://www.owlspot.jp/resources/pdf/futai03.pdf"
+  },
+  {
+   "title": "ホワイエ平面図（1/150）",
+   "url": "https://www.owlspot.jp/resources/pdf/owl_foyerheimenzu.pdf"
+  },
+  {
+   "title": "会議室図面（PDF）",
+   "url": "https://www.owlspot.jp/resources/pdf/rental_meeting_meetingroom_drawing2.pdf"
+  },
+  {
+   "title": "劇場利用申請書類（劇場利用申請書・公演計画書など）",
+   "url": "https://www.owlspot.jp/rental/theater/application-documents/"
+  },
+  {
+   "title": "【会議室】利用者登録（団体登録）について（2026年4月1日掲載）",
+   "url": "https://www.owlspot.jp/news/post_211.html"
+  },
+  {
+   "title": "【会議室】会議室での飲食制限の緩和について（2026年6月30日掲載、令和8年7月1日から）",
+   "url": "https://www.owlspot.jp/news/content.html"
+  },
+  {
+   "title": "【劇場】改修工事に伴う劇場休館のお知らせ（2026年3月30日掲載）",
+   "url": "https://www.owlspot.jp/news/710110.html"
+  }
+ ],
+ "checkedAt": "2026-11-02",
+ "lat": 35.726265,
+ "lng": 139.718887,
+ "nearby": {
+  "convenience": [
+   {
+    "name": "セブン-イレブン 東池袋エアライズタワー店",
+    "brand": "セブン-イレブン",
+    "distanceM": 55,
+    "walkMin": 1,
+    "hours": "24時間営業",
+    "address": "東京都豊島区東池袋4-5-1",
+    "verified": true,
+    "source": "https://seven-eleven.areamarker.com/711map/info/426390",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "セブン-イレブン 東池袋4丁目店",
+    "brand": "セブン-イレブン",
+    "distanceM": 119,
+    "walkMin": 2,
+    "hours": "24時間営業",
+    "address": "東京都豊島区東池袋4-8-4",
+    "verified": true,
+    "source": "https://seven-eleven.areamarker.com/711map/info/433526",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "ファミリーマート 東池袋四丁目店",
+    "brand": "ファミリーマート",
+    "distanceM": 192,
+    "walkMin": 3,
+    "hours": "24時間営業",
+    "address": "東京都豊島区東池袋4-29-12",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/59362",
+    "note": "距離は公式の店舗位置で計算"
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "アクセア 東池袋店",
+    "brand": "アクセア",
+    "distanceM": 262,
+    "walkMin": 4,
+    "hours": "平日9:00〜20:00、土10:00〜19:00／日祝休み",
+    "address": "東京都豊島区東池袋1-25-2 朝日生命池袋ビル1F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/entry.html",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "キンコーズ・池袋東口店",
+    "brand": "キンコーズ",
+    "distanceM": 312,
+    "walkMin": 4,
+    "hours": "平日 10:00-18:00／土・日・祝 休業",
+    "address": "東京都豊島区南池袋2丁目29-13 東陽興産ビル1F",
+    "verified": true,
+    "source": "https://www.kinkos.co.jp/store/tokyo/t043/",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Seria 東池袋店",
+    "brand": "セリア",
+    "distanceM": 208,
+    "walkMin": 3,
+    "hours": "毎日 10:00-21:00",
+    "address": "東京都豊島区東池袋4-27-10サンソウゴ池袋第一ビル B1F",
+    "verified": true,
+    "source": "https://shop.seria-group.com/seria/info/000002262",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "3COINS 池袋サンシャインシティ店",
+    "brand": "3COINS",
+    "distanceM": 308,
+    "walkMin": 4,
+    "hours": "10:00-20:00",
+    "address": "東京都豊島区東池袋3-1-1 サンシャインシティ アルパB1F",
+    "verified": true,
+    "source": "https://palcloset.storelocator.jp/detail/318/",
+    "note": "距離は公式の店舗位置で計算"
+   }
+  ],
+  "donki": [
+   {
+    "name": "ドン・キホーテ 池袋東口駅前店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 678,
+    "walkMin": 9,
+    "hours": "24時間営業",
+    "address": "東京都豊島区南池袋1-22-5",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=255",
+    "note": "距離は住所の位置で計算。ドン・キホーテ公式サイトの店舗名は「池袋東口駅前店」。実際の道のりは約748m"
+   },
+   {
+    "name": "ドン・キホーテ 池袋駅西口店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 1011,
+    "walkMin": 13,
+    "hours": "24時間営業",
+    "address": "東京都豊島区西池袋1-43-12",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=500",
+    "note": "距離は住所の位置で計算。ドン・キホーテ公式サイトの店舗名は「池袋駅西口店」。実際の道のりは約1,222m。遠め"
+   }
+  ]
+ },
+ "drinkDelivery": {
+  "available": true
+ },
+ "photo": {
+  "src": "/images/venues/owlspot.jpg",
+  "credit": "© Asanagi / CC0 · Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Owlspot_Theater_2024-11-03.jpg"
+ }
+}

@@ -1,0 +1,129 @@
+{
+ "slug": "owlspot",
+ "name": "OWLSPOT Theatre (Toshima Ward Performing Arts Exchange Center)",
+ "address": "Tokyo 170-0013 Rise Arena Building 2F/3F, 4-5-2 Higashi-Ikebukuro, Toshima-ku",
+ "accessSummary": "Higashi-Ikebukuro Station (Tokyo Metro Yurakucho Line) Exits 6 and 7: directly connected / Ikebukuro Station (JR and other lines) East Exit: 10 min walk / Higashi-Ikebukuro 4-chome (Toden Arakawa Line): 2 min walk",
+ "hours": "Usage hours for both the theater and the meeting rooms are 9:00-22:00 (telephone reception 9:00-19:00)",
+ "notice": "The theater is currently not accepting new applications. The theater will be closed for renovation work from April 1, 2027 to the end of December 2027 (planned). The meeting rooms are expected to be available as usual.",
+ "rooms": [
+  {
+   "name": "Theater (2F)",
+   "note": "Black box with 301 fixed tiered seats. Stage opening 10.9 m wide x 10.9 m deep, total stage width 17.8 m, gridiron height 9 m. The full-day (9:00-22:00) fee is 166,000 yen on weekdays and 186,000 yen on Saturdays, Sundays and holidays (including ancillary equipment fees and consumption tax). Use is decided by a use selection committee (not first-come or lottery)"
+  },
+  {
+   "name": "Foyer (2F)",
+   "note": "About 200㎡"
+  },
+  {
+   "name": "Meeting Room A (3F)",
+   "note": "The meeting room floor plan shows a layout of 11 long tables and 33 chairs. Wall-mounted whiteboard, movable screen, projector and microphone are free of charge. The full-day (9:00-22:00) fee is 14,300 yen. Group registration is required; individual use is not allowed. Events that charge an admission fee, tuition or participation fee of 2,001 yen or more, sales of goods, and contractual transactions are prohibited"
+  },
+  {
+   "name": "Meeting Room B (3F)",
+   "note": "The meeting room floor plan shows a layout of 37 desks and 110 chairs. Wall-mounted screen, movable screen, 2 whiteboards, projector and microphone are free of charge. Can be divided into 2 rooms, Meeting Room B1 and B2, with a movable partition. The full-day (9:00-22:00) fee is 43,100 yen"
+  },
+  {
+   "name": "Meeting Room B1 (3F)",
+   "note": "Capacity of 30 according to the official table. Divided use of Meeting Room B. The full-day (9:00-22:00) fee is 18,000 yen"
+  },
+  {
+   "name": "Meeting Room B2 (3F)",
+   "note": "Capacity of 40 according to the official table. Divided use of Meeting Room B. The full-day (9:00-22:00) fee is 21,500 yen"
+  }
+ ],
+ "ops": {
+  "loadingHours": "Theater usage hours are 9:00-22:00 and include the whole period from entering the building to complete departure (load-in, setup, performance, cleaning and move-out). Divided-session (short-time) use is possible only for one-day use; consult by phone. Continuous theater use is in principle limited to 1 month. The loading elevator has an opening 2.90 m wide x 2.37 m high, a car interior of 3.05 m wide x 1.80 m deep x 2.70 m high, and a load capacity of 2,800 kg. For the meeting rooms, courier deliveries require prior notice, are designated for the evening of the day before use, and are limited to 2 boxes of mikan-box size. When meeting room sessions are used consecutively, the changeover times (12:00-13:00, 17:00-18:00) can also be used, and the usage time includes setup and cleanup. (Source: Renting the Theater, Theater FAQ, Meeting Room FAQ, Overall Floor Plan 2F)",
+  "parking": "OWLSPOT Theatre has no parking lot of its own; if coming by car, use a nearby parking lot. The Shuto Expressway Higashi-Ikebukuro entrance/exit is close by. For bicycles, there is a paid bicycle parking lot on B1F of the same building (134 spaces, free for the first 2 hours, then 100 yen per 4 hours).",
+  "waitingRooms": "The theater's dressing rooms are: Dressing Room 1, about 15㎡ (4 people); Dressing Room 2, about 15㎡ (5 people); and Dressing Rooms 3 and 4, about 70㎡ (15 people; can be divided with a movable partition into Dressing Room 3, about 30㎡ (6 people), and Dressing Room 4, about 40㎡ (9 people)). Each dressing room has a makeup station, chairs, a full-length mirror, a coat hanger, an intercom telephone, a monitor TV and a speaker, and there is 1 shower room. The overall floor plan for 2F also shows an organizer's waiting room and a stage office. Fees for ancillary facilities such as dressing rooms are included in the facility usage fee.",
+  "catering": "Food and drink are not allowed in the theater seating area (only hydration from capped containers is allowed); eating and drinking are allowed in the foyer. For the meeting rooms, from July 1, 2026, only boxed meals (including rice balls, sandwiches and the like) and soft drinks in lidded containers may be brought in, subject to an advance application by 17:00 on the day before use. Cup noodles and soups, sweets, catering that requires serving out portions, strong-smelling items and alcohol are not allowed, and ordering food by delivery is prohibited. Use whose main purpose is eating or drinking (banquets, social gatherings, dinners, parties and the like) is not permitted, and there is no refrigerator or microwave.",
+  "restaurants": "The official English page states that the theater's cafe and spacious foyer can be used for various events and as meeting places for audiences and performers. The foyer floor plan shows a cafe and a pantry, and there is a vending machine in the 2F foyer."
+ },
+ "documents": [
+  {
+   "title": "Theater Drawings and Ancillary Equipment List (index page of drawings and equipment lists)"
+  },
+  {
+   "title": "Overall Floor Plan 2F (1/200)"
+  },
+  {
+   "title": "Stage Plan (1/50)"
+  },
+  {
+   "title": "Stage Equipment List (as of August 2024)"
+  },
+  {
+   "title": "Foyer Floor Plan (1/150)"
+  },
+  {
+   "title": "Meeting Room Floor Plan (PDF)"
+  },
+  {
+   "title": "Theater Use Application Documents (theater use application form, performance plan, etc.)"
+  },
+  {
+   "title": "[Meeting Rooms] About User Registration (Group Registration) (posted April 1, 2026)"
+  },
+  {
+   "title": "[Meeting Rooms] Relaxation of Food and Drink Restrictions in Meeting Rooms (posted June 30, 2026; effective July 1, 2026)"
+  },
+  {
+   "title": "[Theater] Notice of Theater Closure for Renovation Work (posted March 30, 2026)"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "7-Eleven Higashi-Ikebukuro Air Rise Tower",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "7-Eleven Higashi-Ikebukuro 4-chome",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "FamilyMart Higashi-Ikebukuro 4-chome",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location."
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "Accea Higashi-Ikebukuro",
+    "hours": "Weekdays 9:00-20:00, Sat 10:00-19:00 / Closed Sun & holidays",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Kinko's Ikebukuro East Exit",
+    "hours": "Weekdays 10:00-18:00 / Closed Sat, Sun & holidays",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Seria Higashi-Ikebukuro",
+    "hours": "Daily 10:00-21:00",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "3COINS Ikebukuro Sunshine City",
+    "hours": "10:00-20:00",
+    "note": "Distance is calculated from the official store location."
+   }
+  ],
+  "donki": [
+   {
+    "name": "Don Quijote Ikebukuro East Exit Ekimae",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. The store name on the official Don Quijote website is \"Ikebukuro East Exit Ekimae\" (池袋東口駅前店). The actual walking distance is about 748 m."
+   },
+   {
+    "name": "Don Quijote Ikebukuro Station West Exit",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. The store name on the official Don Quijote website is \"Ikebukuro Station West Exit\" (池袋駅西口店). The actual walking distance is about 1,222 m. Rather far."
+   }
+  ]
+ },
+ "photoCredit": "© Asanagi / CC0 · Wikimedia Commons"
+}

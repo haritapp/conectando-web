@@ -1,0 +1,195 @@
+{
+ "slug": "prince-park-tower-tokyo",
+ "name": "The Prince Park Tower Tokyo",
+ "address": "Tokyo 105-8563 4-8-1 Shibakoen, Minato-ku, Tokyo",
+ "accessSummary": "Akabanebashi Station (Toei Oedo Line) Akabanebashi Exit: about 2 min walk / Shibakoen Station (Toei Mita Line) Exit A4: about 3 min walk / Daimon Station (Toei Asakusa Line, Oedo Line) Exit A6: about 9 min walk / Hamamatsucho Station (JR lines, Tokyo Monorail): about 12 min walk",
+ "hours": null,
+ "notice": null,
+ "rooms": [
+  {
+   "name": "B2 Ballroom - 1 Space",
+   "note": "The ballroom can be divided into 7 layouts."
+  },
+  {
+   "name": "B2 Ballroom - 2 Space",
+   "note": null
+  },
+  {
+   "name": "B2 Ballroom - 3 Space",
+   "note": null
+  },
+  {
+   "name": "B2 Ballroom - 4 Space",
+   "note": null
+  },
+  {
+   "name": "B2 Ballroom - 5 Space",
+   "note": null
+  },
+  {
+   "name": "B2 Ballroom - 6 Space",
+   "note": null
+  },
+  {
+   "name": "B2 Ballroom - 7 Space",
+   "note": "When used as a whole. The hotel's introduction says \"a ceiling 10 meters high\", while the room specification list gives a ceiling height of 9.9 m. It has chandeliers made by Baccarat of France."
+  },
+  {
+   "name": "B2 Convention Hall - 1 Space",
+   "note": "The Convention Hall can also be divided into 7 layouts. Same area and capacities as the Ballroom."
+  },
+  {
+   "name": "B2 Convention Hall - 2 Space",
+   "note": null
+  },
+  {
+   "name": "B2 Convention Hall - 3 Space",
+   "note": null
+  },
+  {
+   "name": "B2 Convention Hall - 4 Space",
+   "note": null
+  },
+  {
+   "name": "B2 Convention Hall - 5 Space",
+   "note": null
+  },
+  {
+   "name": "B2 Convention Hall - 6 Space",
+   "note": null
+  },
+  {
+   "name": "B2 Convention Hall - 7 Space",
+   "note": "When used as a whole. The official site describes use for light effects with LEDs and for international conferences using a video conference system over optical fiber."
+  },
+  {
+   "name": "B2 Medium Banquet Room Ichou (Meeting Room)",
+   "note": "Boardroom: 30."
+  },
+  {
+   "name": "B2 Medium Banquet Rooms Kinmokusei, Sakura, Sazanka, Shakunage and Hanamizuki",
+   "note": "All 5 rooms have the same specifications. Boardroom: 60."
+  },
+  {
+   "name": "B2 Medium Banquet Room Yamaboushi",
+   "note": "Boardroom: 42."
+  },
+  {
+   "name": "B2 Small Banquet Rooms Ajisai, Ayame, Kikyou, Suisen, Tsutsuji, Bara and Yuri",
+   "note": "All 7 rooms have the same specifications. Boardroom: 34. The hotel's banquet page (small and medium banquet rooms) lists 6 rooms without Ajisai, but the room specification list created in July 2026 and the floor map of the whole hotel created in August 2026 list 7 rooms."
+  },
+  {
+   "name": "33F Sky Banquet",
+   "note": "The hotel's top floor. Boardroom: 60. The general PRINCE MICE site (mice.princehotels.co.jp) also gives 320㎡ and dinner for 80."
+  },
+  {
+   "name": "2F Shinmei",
+   "note": "A freestanding shrine. Buffet for 80 if the garden is used. The room specification list gives the floor as 1F, while the floor plan gives 2F. The facility list on the same official site also gives 129㎡, ceiling height 2.9 m and 56 people."
+  }
+ ],
+ "ops": {
+  "parking": "Parking cannot be reserved in advance. The parking lot is a flat-type lot with a height limit of 2.1 m, and for large vehicles, inquire with the hotel in advance (official FAQ). The regular rate is 500 yen per 30 minutes from 8:00 A.M. to 8:00 P.M. and 100 yen per 60 minutes from 8:00 P.M. to 8:00 A.M. The maximum charge is 6,000 yen until 12:00 midnight on the day on weekdays, with no maximum on Saturdays and holidays. For banquet use, parking is free for up to 4 hours, and the excess is charged at the parking rate. There is no payment machine at the exit; payment is made at the payment machine at the facility entrance by entering the 4-digit vehicle number (revised November 1, 2023).",
+  "catering": "In the Meeting Package (January 1 to December 31, 2026), lunch is a bento box (types: inquire), and for receptions, the party plan starts from 15,000 yen per person (from 30 people). Refreshments are coffee or tea with sweets or a Danish pastry, and come with mineral water and soda.",
+  "restaurants": "The hotel has Shibazakura Japanese Restaurant, Hamashiba Sushi, Tenshiba Tempura, Torishiba Yakitori, Yomeiden Chinese Restaurant, Katsura Steak House, Private Dining Brise Verte, Sky Bar & Dining Stellar Garden, Lobby Lounge and Mokuren Main Bar. Shibazakura, Hamashiba and Tenshiba have private rooms. There are also party rooms (4 to 30 people) for after-parties and Event Hall Melody Line (30 to 70 people)."
+ },
+ "documents": [
+  {
+   "title": "Room Specification List (created July 2026)"
+  },
+  {
+   "title": "Hotel Floor Map, B2 and 33F (created August 2026)"
+  },
+  {
+   "title": "Meeting Package (January 1 to December 31, 2026)"
+  },
+  {
+   "title": "Event Hall Melody Line / Party Room After-Party Plan (created March 2025)"
+  },
+  {
+   "title": "Parking Rates Guide (revised November 1, 2023)"
+  },
+  {
+   "title": "Parking Payment Guide"
+  },
+  {
+   "title": "Ballroom Floor Plan"
+  },
+  {
+   "title": "Ballroom 7 Spans Theater Style"
+  },
+  {
+   "title": "Ballroom 7 Spans Standing Party Style"
+  },
+  {
+   "title": "Convention Hall Floor Plan"
+  },
+  {
+   "title": "Medium Banquet Rooms School Style"
+  },
+  {
+   "title": "Medium Banquet Rooms Standing Party Style"
+  },
+  {
+   "title": "Sky Banquet Floor Plan"
+  },
+  {
+   "title": "FAQ (Access and Parking)"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "FamilyMart Higashi-Azabu 1-chome",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "7-Eleven Minato-ku Shiba 3-chome",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "Lawson Shibakoen Minami",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location."
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "Accea Hamamatsucho",
+    "hours": "Weekdays 8:00-22:00 / Sat, Sun & holidays 10:00-19:00",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Accea Onarimon",
+    "hours": "Weekdays 9:00-20:00 / Closed Sat, Sun & holidays",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Can Do Shiroyama Hills",
+    "hours": "Daily 9:00-23:00",
+    "note": "Distance is calculated from the official store location. Rather far."
+   },
+   {
+    "name": "Seria Tamachi Center Building",
+    "hours": "Daily 10:00-21:00",
+    "note": "Distance is calculated from the official store location. Rather far."
+   }
+  ],
+  "donki": [
+   {
+    "name": "Don Quijote Roppongi",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. Rather far. The store name on the Don Quijote official website is \"Roppongi\" (六本木店)."
+   },
+   {
+    "name": "Don Quijote Ginza Main Building (Ginza Nine Building No. 3)",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. Far. The store name on the Don Quijote official website is \"Ginza Main Building\" (銀座本館)."
+   }
+  ]
+ },
+ "photoCredit": "© 江戸村のとくぞう / CC BY-SA 4.0 · Wikimedia Commons"
+}

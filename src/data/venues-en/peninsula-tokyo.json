@@ -1,0 +1,104 @@
+{
+ "slug": "peninsula-tokyo",
+ "name": "The Peninsula Tokyo",
+ "address": "Tokyo 100-0006 1-8-1 Yurakucho, Chiyoda-ku, Tokyo",
+ "accessSummary": "Hibiya Station (Hibiya Line, Chiyoda Line, Toei Mita Line): directly connected at B1F / Yurakucho Station (Yurakucho Line): directly connected",
+ "hours": null,
+ "notice": null,
+ "rooms": [
+  {
+   "name": "3F The Grand Ballroom 1 & 2",
+   "note": "There are 2 pre-function areas. The official table gives 140 for banquet, the English text on the official page gives 170, and the fact sheet (May 2022 edition) gives 170. The fact sheet gives the area as 291㎡ and the boardroom layout as 126 people."
+  },
+  {
+   "name": "3F The Grand Ballroom 1",
+   "note": "Boardroom: 48."
+  },
+  {
+   "name": "3F The Grand Ballroom 2",
+   "note": "Boardroom: 48."
+  },
+  {
+   "name": "3F The Ginza Ballroom",
+   "note": "Boardroom: 40. There is a private pre-function area. It is on the same floor as the Grand Ballroom, and using the two together allows large meetings and banquets. The official table gives standing buffet 130 and banquet 80, the text on the official page gives standing buffet 160 and banquet 90, and the fact sheet (May 2022 edition) gives standing buffet 130 and banquet 90."
+  },
+  {
+   "name": "24F The Sky Room",
+   "note": "Banquet is 15 to 40 (as written in the official table). The fact sheet (May 2022 edition) gives banquet 60. Boardroom: 32. With an adjoining terrace."
+  },
+  {
+   "name": "24F The Seven Seas Pacific Aviation Lounge",
+   "note": "Boardroom: 24. Maximum 40. With an adjoining terrace. The school 35 and U-shape 22, which are not in the official table, are values from the fact sheet (May 2022 edition), which gives banquet 24 for the same edition. The dimensions in the official table are 12.5 x 4.3 m, which does not match the area of 140㎡."
+  }
+ ],
+ "ops": {
+  "parking": "Valet parking only. For hotel guests, 6,000 yen per car per night. For restaurant guests, parking is free for up to 2 hours with spending of 6,000 yen or more, and up to 4 hours with spending of 12,000 yen or more. The regular rate is a valet parking fee of 1,500 yen plus 300 yen for every 10 minutes.",
+  "catering": "The hotel's chefs propose menus to suit the content of the meeting or event. The hotel can handle everything from private dining for 12 to a venue for 250. Coffee breaks are also available for seminars and meetings.",
+  "restaurants": "The hotel has Peter (24F), Peter: The Bar (24F), mon cher ton ton HIBIYA (5F, teppanyaki), Zuicho (4F, kappo), Hei Fung Terrace (2F, Cantonese), The Lobby (1F), Ten-ichi (B1F), The Peninsula Boutique & Café (B1F) and Naka Dori Café - The Terrace. The official site says that The Lobby on the 1F is suitable for cocktail parties and banquets, and that Hei Fung Terrace on the 2F has private dining rooms for intimate gatherings and corporate entertaining."
+ },
+ "documents": [
+  {
+   "title": "Meetings & Banquets (official, Japanese)"
+  },
+  {
+   "title": "Meetings and Events (official, English)"
+  },
+  {
+   "title": "Meeting & Event Fact Sheet (PDF, May 2022 edition)"
+  },
+  {
+   "title": "Hotel Access and Transportation Guide (PDF, file name 241209)"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "7-Eleven Hibiya Ekimae",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "Lawson Yurakucho 1-chome",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "FamilyMart Hibiya Chanter-mae",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location."
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "Accea Ginza Five",
+    "hours": "Weekdays 10:00-20:00 / Closed Sat, Sun & holidays",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Kinko's Ginza-itchome",
+    "hours": "Weekdays 9:00-20:00 / Sat 10:00-19:00 / Sun & holidays closed",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "3COINS +plus Nishi-Ginza Department Store",
+    "hours": "11:00-20:00",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "DAISO Marronnier Gate Ginza",
+    "hours": "11:00-21:00",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "donki": [
+   {
+    "name": "Don Quijote Ginza Main Building (Ginza Nine Building No. 3)",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. The actual walking distance is about 1,085 m. Rather far."
+   }
+  ]
+ },
+ "photoCredit": "Lombroso / Public domain · Wikimedia Commons"
+}

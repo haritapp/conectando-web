@@ -1,0 +1,190 @@
+{
+ "slug": "okura-tokyo",
+ "name": "The Okura Tokyo",
+ "address": "Tokyo 105-0001 2-10-4 Toranomon, Minato-ku",
+ "accessSummary": "Toranomon Hills Station (Tokyo Metro Hibiya Line) Exit A2a: 5 min walk (to the banquet entrance) / Toranomon Station (Tokyo Metro Ginza Line) Exit 3: 10 min walk (to the banquet entrance) / Tameike-Sanno Station (Tokyo Metro Ginza Line and Namboku Line) Exit 14: 10 min walk (to the banquet entrance) / Roppongi-itchome Station (Tokyo Metro Namboku Line) ticket gate exit: 7 min walk",
+ "hours": "Banquet rooms are available 9:00-21:00 (inquire for details). Banquet rooms can be reserved from 1 year in advance.",
+ "notice": null,
+ "rooms": [
+  {
+   "name": "Heian Room",
+   "note": "Okura Prestige Tower 1F. Can be divided into 3 rooms, I, II and III (capacities when divided are listed in the banquet room quick-reference table of the March 2026 brochure). Up to about 3,000㎡ when combined with the Akebono Room and the foyer. The loading entrance is a dedicated loading entrance connected directly to the parking lot. Combined standing/classroom layout: 680 people on the web page, 430 people in the individual PDF."
+  },
+  {
+   "name": "Akebono Room",
+   "note": "Okura Prestige Tower 1F. Can be divided into 2 rooms, I and II. The loading entrance is a large lift from B1F to 2F. The individual PDF lists standing 350 people and a combined standing/classroom layout for 96 people."
+  },
+  {
+   "name": "Chitose Room",
+   "note": "Okura Prestige Tower 1F. Can be divided into 2 rooms, I and II. Can also be used as a waiting room for the Heian Room and Akebono Room. The individual PDF lists meeting 20 people, secretariat 48 people, and waiting room 18 people x 2 rooms."
+  },
+  {
+   "name": "Orchard",
+   "note": "Okura Prestige Tower 2F. Can be divided into 3 rooms, I, II and III. The loading entrance is a large lift from B1F to 2F. The web page lists standing 500 people and a combined standing/classroom layout for 160 people; the individual PDF lists standing 500 people and a combined standing/classroom layout for 112 people."
+  },
+  {
+   "name": "Windsor",
+   "note": "Okura Prestige Tower 2F. The quick-reference table in the brochure is a shared column for Windsor/York (standing 30 people, classroom 27 people). The individual PDF lists meeting 16 people and waiting room 25 people."
+  },
+  {
+   "name": "York",
+   "note": "Okura Prestige Tower 2F. The quick-reference table in the brochure is a shared column for Windsor/York (standing 30 people, classroom 27 people). The individual PDF lists classroom 18 people, meeting 16 people and secretariat 24 people."
+  },
+  {
+   "name": "Victoria",
+   "note": "Okura Prestige Tower 2F. The individual PDF lists meeting 20 people, secretariat 24 people and waiting room 18 people."
+  },
+  {
+   "name": "Maple",
+   "note": "Okura Prestige Tower 7F. The web page lists standing 200 people, classroom 140 people and meeting 52 people; the individual PDF lists seated 130 people, standing 200 people, theater 252 people, classroom 112 people and meeting 52 people."
+  },
+  {
+   "name": "Chelsea",
+   "note": "Okura Prestige Tower 7F. Can be divided into 2 rooms (seated 12 people, theater 30 people, classroom 24 people). The individual PDF lists meeting 24 people."
+  },
+  {
+   "name": "Mayfair",
+   "note": "Okura Prestige Tower 7F. Can be divided into 2 rooms (seated 10 people, theater 24 people). Can also be used as a waiting room for the Maple on the same floor. The individual PDF lists seated 16 people and meeting 18 people."
+  },
+  {
+   "name": "Lily / Iris",
+   "note": "Okura Prestige Tower 7F. Floor area of each room. Small banquet rooms that can be used for meetings of about 10 people or as waiting rooms. The individual PDF lists secretariat 12 people, meeting 12 people and waiting room 12 people for each room."
+  },
+  {
+   "name": "Cattleya / Rose",
+   "note": "Okura Prestige Tower 7F. Floor area of each room. Small banquet rooms that can be used for meetings of about 10 people or as waiting rooms. The individual PDF lists secretariat 12 people, meeting 12 people and waiting room 12 people for each room."
+  },
+  {
+   "name": "L'Étoile",
+   "note": "Okura Prestige Tower 41F. The individual PDF lists seated 80 people and standing 100 people."
+  },
+  {
+   "name": "La Lune",
+   "note": "Okura Prestige Tower 41F. The individual PDF lists seated 70 people, standing 100 people and theater 144 people."
+  },
+  {
+   "name": "Le Soleil",
+   "note": "Okura Prestige Tower 41F. Can be divided into I (118㎡ including the anteroom: seated 30 people, standing 40 people, theater 49 people, classroom 24 people) and II (43㎡: seated 10 people, theater 24 people). The individual PDF lists meeting 20 people."
+  },
+  {
+   "name": "Le Météore / La Lumière",
+   "note": "Okura Prestige Tower 41F. Floor area of each room. The individual PDF lists seated 20 people (round table) and 10 people (oval), secretariat 36 people and waiting room 24 people."
+  }
+ ],
+ "ops": {
+  "loadingHours": "The ceiling height of the loading entrance for banquet materials is 3.2 m. However, loading entrance instructions can change depending on the banquet, so inquire for details. Send luggage for a banquet addressed to the name of the room you are using.",
+  "parking": "There is a parking lot of about 330 spaces from the 1st floor down through the basement levels. People attending a banquet are given a parking service ticket.",
+  "waitingRooms": "The Chitose Room (112㎡) can also be used as a waiting room for the Heian Room and Akebono Room. Lily / Iris / Cattleya / Rose (30 to 34㎡, up to 12 people) are small banquet rooms that can be used for meetings of about 10 people or as waiting rooms.",
+  "catering": "The hotel provides the food, and for hygiene reasons bringing food into banquets is not accepted. Food allergies and religious dietary restrictions are accommodated as far as possible after discussion. As a guide to the budget per person, standing is 20,000 to 25,000 yen and a seated course meal is about 35,000 yen. Audio, video and simultaneous interpretation equipment can be arranged for a fee, and is quoted after discussing it with the hotel's partner companies.",
+  "restaurants": "Inside the hotel there are 6 restaurants and bars: Nouvelle Epoque (French cuisine), Yamazato (Japanese cuisine), Sazanka (teppanyaki), Toh-Ka-Lin (Chinese cuisine), Orchid (all-day dining) and Starlight (bar lounge). Reservations can be made at all of them."
+ },
+ "documents": [
+  {
+   "title": "Meetings and Banquets Brochure (March 2026 edition, including the banquet room quick-reference table)"
+  },
+  {
+   "title": "Floor Map (All Floors)"
+  },
+  {
+   "title": "Heian Room Layout Examples and Floor Plan (posted June 2025)"
+  },
+  {
+   "title": "Akebono Room Layout Examples and Floor Plan (posted June 2025)"
+  },
+  {
+   "title": "Chitose Room Layout Examples and Floor Plan (posted June 2025)"
+  },
+  {
+   "title": "Orchard Layout Examples and Floor Plan (posted June 2025)"
+  },
+  {
+   "title": "Windsor Layout Examples and Floor Plan (posted June 2025)"
+  },
+  {
+   "title": "York Layout Examples and Floor Plan (posted June 2025)"
+  },
+  {
+   "title": "Victoria Layout Examples and Floor Plan (posted June 2025)"
+  },
+  {
+   "title": "Maple Layout Examples and Floor Plan (posted June 2025)"
+  },
+  {
+   "title": "Chelsea Layout Examples and Floor Plan (posted June 2025)"
+  },
+  {
+   "title": "Mayfair Layout Examples and Floor Plan (posted June 2025)"
+  },
+  {
+   "title": "Lily / Iris / Cattleya / Rose Layout Examples and Floor Plan (posted June 2025)"
+  },
+  {
+   "title": "L'Étoile Layout Examples and Floor Plan (posted June 2025)"
+  },
+  {
+   "title": "La Lune Layout Examples and Floor Plan (posted June 2025)"
+  },
+  {
+   "title": "Le Soleil Layout Examples and Floor Plan (posted June 2025)"
+  },
+  {
+   "title": "Le Météore / La Lumière Layout Examples and Floor Plan (posted June 2025)"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "Lawson Okura Prestige Tower",
+    "hours": "7:00-23:00",
+    "note": "Distance is calculated from the official store location. Same address as the venue (2-10-4 Toranomon), inside the Okura Prestige Tower."
+   },
+   {
+    "name": "FamilyMart Toranomon Twin Building",
+    "hours": "8:00-20:00 (closed Sat, Sun & holidays)",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "7-Eleven Toranomon Towers Office",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location."
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "Accea Tameike-Sanno",
+    "hours": "Weekdays 8:00-22:00 / Closed Sat, Sun & holidays",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Accea Kamiyacho",
+    "hours": "Weekdays 9:00-20:00 / Closed Sat, Sun & holidays",
+    "note": "Distance is calculated from the address location. The actual walking distance is about 826 m."
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Can Do Shiroyama Hills",
+    "hours": "Daily 9:00-23:00",
+    "note": "Distance is calculated from the official store location. The actual walking distance is about 524 m."
+   },
+   {
+    "name": "Can Do Akasaka Hitotsugi-dori",
+    "hours": "Mon-Fri 9:00-21:00 / Sat-Sun 9:00-20:00",
+    "note": "Distance is calculated from the official store location. Rather far. The actual walking distance is about 1,423 m."
+   }
+  ],
+  "donki": [
+   {
+    "name": "Don Quijote Roppongi",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. Rather far. The store name on the Don Quijote official website is \"Roppongi\" (六本木店). The actual walking distance is about 1,372 m."
+   },
+   {
+    "name": "Don Quijote Ginza Main Building (Ginza Nine Building No. 3)",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. Far. The store name on the Don Quijote official website is \"Ginza Main Building\" (銀座本館). The actual walking distance is about 2,128 m."
+   }
+  ]
+ },
+ "photoCredit": "© 江戸村のとくぞう / CC BY-SA 4.0 · Wikimedia Commons"
+}

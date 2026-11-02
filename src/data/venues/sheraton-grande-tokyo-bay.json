@@ -1,0 +1,380 @@
+{
+ "slug": "sheraton-grande-tokyo-bay",
+ "nameJa": "シェラトン・グランデ・トーキョーベイ・ホテル",
+ "nameEn": "Sheraton Grande Tokyo Bay Hotel",
+ "type": "hotel",
+ "area": "chiba-venues",
+ "address": "〒279-0031 千葉県浦安市舞浜1-9",
+ "officialUrl": "https://www.marriott.com/ja/hotels/tyosi-sheraton-grande-tokyo-bay-hotel/overview/",
+ "organizerUrl": "https://www.marriott.com/ja/hotels/tyosi-sheraton-grande-tokyo-bay-hotel/events/",
+ "bizintokyoSlug": "sheraton-grande-tokyo-bay",
+ "accessSummary": "JR舞浜駅（南口）からディズニーリゾートライン（モノレール）で「ベイサイド・ステーション」下車 徒歩1分／JR舞浜駅から無料送迎バス",
+ "notice": null,
+ "hours": "ミーティングパッケージのご利用時間は、ハーフデイが4時間、フルデイが8時間（宴会場パンフレット）。",
+ "rooms": [
+  {
+   "name": "THE CLUB Fuji（A+B+C 全体）",
+   "areaM2": 1603.2,
+   "ceilingM": 6.2,
+   "theater": 2000,
+   "school": 1000,
+   "ushape": null,
+   "standing": 2000,
+   "banquet": 1200,
+   "note": "本館1F。A・B・Cの3つに分割できる。常設の大型LEDスクリーンあり。直結した搬入口があり、車両搬入・展示が可能"
+  },
+  {
+   "name": "THE CLUB Fuji A",
+   "areaM2": 552,
+   "ceilingM": 6.2,
+   "theater": 620,
+   "school": 350,
+   "ushape": null,
+   "standing": 400,
+   "banquet": 270,
+   "note": "幅16.95m×奥行32m"
+  },
+  {
+   "name": "THE CLUB Fuji B",
+   "areaM2": 524,
+   "ceilingM": 6.2,
+   "theater": 590,
+   "school": 350,
+   "ushape": null,
+   "standing": 400,
+   "banquet": 270,
+   "note": "幅16.4m×奥行32m"
+  },
+  {
+   "name": "THE CLUB Fuji C",
+   "areaM2": 527,
+   "ceilingM": 6.2,
+   "theater": 590,
+   "school": 350,
+   "ushape": null,
+   "standing": 400,
+   "banquet": 270,
+   "note": "幅16.6m×奥行32m"
+  },
+  {
+   "name": "THE CLUB Fuji A+B",
+   "areaM2": 1076,
+   "ceilingM": 6.2,
+   "theater": 1100,
+   "school": 700,
+   "ushape": null,
+   "standing": 1000,
+   "banquet": 700,
+   "note": "幅33.35m×奥行32m"
+  },
+  {
+   "name": "THE CLUB Fuji B+C",
+   "areaM2": 1051,
+   "ceilingM": 6.2,
+   "theater": 1000,
+   "school": 700,
+   "ushape": null,
+   "standing": 1000,
+   "banquet": 700,
+   "note": "幅33m×奥行32m"
+  },
+  {
+   "name": "華厳",
+   "areaM2": 378.0,
+   "ceilingM": 6.0,
+   "theater": 400,
+   "school": 210,
+   "ushape": null,
+   "standing": 300,
+   "banquet": 160,
+   "note": "本館1F。220インチの大型LEDスクリーンを備える。独立型のホワイエと禅ガーデンもレセプションに使える"
+  },
+  {
+   "name": "ダイアモンド（パーティールーム）",
+   "areaM2": 231.0,
+   "ceilingM": 5.0,
+   "theater": 210,
+   "school": 132,
+   "ushape": null,
+   "standing": 110,
+   "banquet": 84,
+   "note": "新館1F"
+  },
+  {
+   "name": "ダイアモンド リビングルーム",
+   "areaM2": 139.0,
+   "ceilingM": 4.5,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "新館1F。ソファとバーカウンターのあるリビングルーム"
+  },
+  {
+   "name": "アリアンナ",
+   "areaM2": 185.0,
+   "ceilingM": 5.0,
+   "theater": 140,
+   "school": 90,
+   "ushape": null,
+   "standing": 110,
+   "banquet": 90,
+   "note": "庭園内の独立式宴会場「ジョージアンテラス」内。専用テラスがあり、講演者・VIP用や控え室に使える小部屋がある"
+  },
+  {
+   "name": "ベラヴィータ",
+   "areaM2": 185.0,
+   "ceilingM": 5.0,
+   "theater": 140,
+   "school": 90,
+   "ushape": null,
+   "standing": 110,
+   "banquet": 90,
+   "note": "庭園内の独立式宴会場「ジョージアンテラス」内。専用ホワイエとプライベートガーデンがある"
+  },
+  {
+   "name": "オーシャンブルー",
+   "areaM2": 220.8,
+   "ceilingM": 2.9,
+   "theater": 180,
+   "school": 120,
+   "ushape": null,
+   "standing": 110,
+   "banquet": 90,
+   "note": "新館2F"
+  },
+  {
+   "name": "クリスタルチャペル",
+   "areaM2": 200.0,
+   "ceilingM": 9.0,
+   "theater": 60,
+   "school": 50,
+   "ushape": null,
+   "standing": 70,
+   "banquet": 50,
+   "note": "新館2F"
+  },
+  {
+   "name": "パークビュー",
+   "areaM2": 140.4,
+   "ceilingM": 2.4,
+   "theater": 140,
+   "school": 60,
+   "ushape": 36,
+   "standing": 60,
+   "banquet": 60,
+   "note": "本館12F"
+  },
+  {
+   "name": "ベイラウンジ",
+   "areaM2": 244.4,
+   "ceilingM": 2.6,
+   "theater": 90,
+   "school": 72,
+   "ushape": null,
+   "standing": 100,
+   "banquet": 90,
+   "note": "本館12F"
+  },
+  {
+   "name": "明海",
+   "areaM2": 118.8,
+   "ceilingM": 2.4,
+   "theater": 90,
+   "school": 60,
+   "ushape": 36,
+   "standing": 60,
+   "banquet": 50,
+   "note": "本館2F。ロの字42名。2分割できる"
+  },
+  {
+   "name": "入船",
+   "areaM2": 115.7,
+   "ceilingM": 2.4,
+   "theater": 90,
+   "school": 60,
+   "ushape": 36,
+   "standing": 60,
+   "banquet": 50,
+   "note": "本館2F。ロの字42名。2分割できる"
+  },
+  {
+   "name": "ビスタ",
+   "areaM2": 55.0,
+   "ceilingM": 2.4,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": 18,
+   "note": "本館12F。コンファレンス形式18名"
+  },
+  {
+   "name": "ホライズン（Horizon）",
+   "areaM2": 60.0,
+   "ceilingM": 2.4,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": 20,
+   "note": "本館12F。コンファレンス形式20名"
+  },
+  {
+   "name": "渚",
+   "areaM2": 57.0,
+   "ceilingM": 2.9,
+   "theater": null,
+   "school": null,
+   "ushape": 16,
+   "standing": null,
+   "banquet": null,
+   "note": "新館2F。ロの字16名"
+  },
+  {
+   "name": "珊瑚",
+   "areaM2": 55.4,
+   "ceilingM": 2.9,
+   "theater": null,
+   "school": null,
+   "ushape": 16,
+   "standing": null,
+   "banquet": null,
+   "note": "新館2F。ロの字16名"
+  },
+  {
+   "name": "VIP-A",
+   "areaM2": 44.0,
+   "ceilingM": 2.2,
+   "theater": null,
+   "school": null,
+   "ushape": 12,
+   "standing": null,
+   "banquet": null,
+   "note": "本館1F。ロの字12名"
+  },
+  {
+   "name": "VIP-B",
+   "areaM2": 30.0,
+   "ceilingM": 2.2,
+   "theater": null,
+   "school": null,
+   "ushape": 8,
+   "standing": null,
+   "banquet": null,
+   "note": "本館1F。ロの字8名"
+  },
+  {
+   "name": "ガーデン",
+   "areaM2": 600.0,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": 300,
+   "banquet": 180,
+   "note": "屋外。会場詳細ページには1,000㎡とも記載"
+  },
+  {
+   "name": "ザ・クラブ フジ ホワイエ",
+   "areaM2": 567.4,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "THE CLUB Fuji の専用ホワイエ"
+  },
+  {
+   "name": "「華厳」ホワイエ",
+   "areaM2": 198.0,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "華厳の専用ホワイエ"
+  }
+ ],
+ "roomsSource": "https://www.marriott.com/ja/hotels/tyosi-sheraton-grande-tokyo-bay-hotel/events/",
+ "ops": {
+  "loadingHours": {
+   "text": "THE CLUB Fuji には直結した搬入口があり、車両搬入・展示が可能で、大規模な展示会にも対応する（宴会場パンフレット、会場詳細ページ）。",
+   "source": "https://page.talkappi.com/?f=sheratontokyobay-qr&id=350009"
+  },
+  "parking": {
+   "text": "敷地内にセルフパーキングがある。料金は1時間520円、1日3,100円。宿泊客は1台1泊3,100円、2泊目以降は1泊1,600円。",
+   "source": "https://www.marriott.com/ja/hotels/tyosi-sheraton-grande-tokyo-bay-hotel/overview/"
+  },
+  "waitingRooms": {
+   "text": "本館2Fの小宴会場「明海」「入船」（各約116〜119㎡）は、少人数の宴会や会議のほか、コンベンション事務局や控室にも使える。",
+   "source": "https://my.ebook5.net/sheratontokyobay/sgtbmice/"
+  },
+  "catering": {
+   "text": "ホテルのシェフによる料理と飲物（コース、ブッフェ、立食、ランチ、コーヒーブレイク、飲み放題プラン）を宴会場に用意する。会議・イベントページのケータリングサービス欄は、1人あたりコーヒーブレイク1,000円、アフタヌーンブレイク1,000円、ランチ4,000円、ディナー8,000円、レセプション5,500円、コンチネンタル朝食1,800円、本格的な朝食3,300円と表示している。",
+   "source": "https://www.marriott.com/ja/hotels/tyosi-sheraton-grande-tokyo-bay-hotel/events/"
+  },
+  "restaurants": {
+   "text": "館内に、グランカフェ（ブッフェ・ダイニング）・グランカフェ バー・ガレリアカフェ（カジュアル・ダイニング）が1階、舞浜Teppanyaki+（鉄板焼）・飛鳥（日本料理）・カフェ トスティーナが2階にある。",
+   "source": "https://my.ebook5.net/sheratontokyobay/sgtbmice/"
+  }
+ },
+ "documents": [
+  {
+   "title": "MICE Brochure 宴会場パンフレット（© 2025 表記、収容人数表・フロアプラン・THE CLUB Fuji の分割時の収容人数を掲載）",
+   "url": "https://my.ebook5.net/sheratontokyobay/sgtbmice/"
+  },
+  {
+   "title": "会議・イベント（収容人数表・フロアプラン・設備とサービス）",
+   "url": "https://www.marriott.com/ja/hotels/tyosi-sheraton-grande-tokyo-bay-hotel/events/"
+  },
+  {
+   "title": "宴会場・イベントスペース一覧（各会場の詳細ページ）",
+   "url": "https://page.talkappi.com/?f=sheratontokyobay-qr&id=350104"
+  },
+  {
+   "title": "THE CLUB Fuji 平面図サンプル シアター型",
+   "url": "https://cdn.talkappi.com/35/misc/1696468666.pdf"
+  },
+  {
+   "title": "THE CLUB Fuji 平面図サンプル 教室形式",
+   "url": "https://cdn.talkappi.com/35/misc/1696468649.pdf"
+  },
+  {
+   "title": "THE CLUB Fuji 平面図サンプル レセプション",
+   "url": "https://cdn.talkappi.com/35/misc/1696468601.pdf"
+  },
+  {
+   "title": "THE CLUB Fuji 平面図サンプル バンケット型",
+   "url": "https://cdn.talkappi.com/35/misc/1696468390.pdf"
+  },
+  {
+   "title": "グランドメニュー（2026年4月1日〜2027年3月31日）",
+   "url": "https://mi.bookmarriott.com/e-menus/131c1f08-b818-e4e2-a471-84f5f9e2e90f/view"
+  },
+  {
+   "title": "会議・イベントのお問い合わせ（RFP）",
+   "url": "https://www.marriott.com/ja/meetings-events/rfp/event-info.mi?marshaCode=tyosi"
+  }
+ ],
+ "checkedAt": "2026-11-02",
+ "lat": 35.626198,
+ "lng": 139.877737,
+ "nearby": {
+  "convenience": [],
+  "copyshop": [],
+  "hundredYen": [],
+  "donki": []
+ },
+ "drinkDelivery": {
+  "available": false
+ },
+ "photo": {
+  "src": "/images/venues/sheraton-grande-tokyo-bay.jpg",
+  "credit": "© moore / CC BY-SA 3.0 · Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:SheatonGrandeTokyoBayHotel.JPG"
+ }
+}

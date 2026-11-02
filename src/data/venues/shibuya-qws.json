@@ -1,0 +1,240 @@
+{
+ "slug": "shibuya-qws",
+ "nameJa": "渋谷キューズ スクランブルホール（SHIBUYA QWS）",
+ "nameEn": "SHIBUYA QWS SCRAMBLE HALL",
+ "type": "conference",
+ "area": "shibuya-ebisu-venues",
+ "address": "〒150-6115 東京都渋谷区渋谷2-24-12 渋谷スクランブルスクエア15階 渋谷キューズ内",
+ "officialUrl": "https://shibuya-qws.com",
+ "organizerUrl": "https://venues.theatre-workshop.co.jp/scramblehall/",
+ "bizintokyoSlug": "shibuyaqws",
+ "accessSummary": "渋谷駅直結・直上（渋谷スクランブルスクエア 地下2階または2階の「オフィスエントランス」からエレベーターで15階受付へ）",
+ "notice": "外部の主催者向けに貸し出しているのは15階のスクランブルホール。SHIBUYA QWS 本体は会員制で、ドロップイン利用は受け付けていない。SHIBUYA QWS 会員を対象とするオープンイベントは内容を制限される場合がある。",
+ "hours": "ホールの使用区分は全日 9:00〜22:00／午前午後 9:00〜15:00／午後夜間 16:00〜22:00（事前承認で 7:00〜9:00・22:00〜23:00 も延長利用可）。運営事務室の受付は 9:00〜18:00。時間貸しプラン（1時間 税込55,000円）もある。年末年始休館は2026年12月25日(金)16:00〜2027年1月3日(日)",
+ "rooms": [
+  {
+   "name": "スクランブルホール",
+   "areaM2": 200,
+   "ceilingM": 4.0,
+   "theater": 200,
+   "school": 90,
+   "ushape": null,
+   "standing": 100,
+   "banquet": null,
+   "note": "面積・天井高は公式表記の約200㎡・約4,000mm。控室1室（約11㎡）付帯。スクールは施設概要で約90人、公式サンプルレイアウト図（2019年10月現在）ではスクール縦120席（机40台）・117席（机39台）。ワークショップ形式は6席×15島（90席）。立食欄はパーティー形式の約100人。レイアウトにより200名以下となる場合がある"
+  }
+ ],
+ "roomsSource": "https://venues.theatre-workshop.co.jp/scramblehall/",
+ "ops": {
+  "loadingHours": {
+   "text": "搬入出はホールの使用時間内に行い、搬入出申請書を利用日の2週間前までに出す。申請書は20分刻みの時間帯ごとに1台ずつ受け付ける。7:00〜9:00と22:00〜22:30（申請書の記載）の搬入出にはホール延長使用料（1時間45,000円、税込49,500円）が必要。事前荷物は利用日の前々日〜前日に5〜6個まで預かる（200サイズ・30kgまで、2024年11月現在）。",
+   "source": "https://21754109.fs1.hubspotusercontent-na1.net/hubfs/21754109/SCH_Download/%E3%80%90SCH%E3%80%91%E6%90%AC%E5%85%A5%E5%87%BA%E7%94%B3%E8%AB%8B(2%E9%80%B1%E9%96%93%E5%89%8D%E6%8F%90%E5%87%BA)-1.xlsx"
+  },
+  "vehicleRules": {
+   "text": "搬入車両は車高3.0m以下（申請書の記入見本は2t車まで）。搬入出は指定の搬入搬出口を使い、周辺道路への路上駐車・違法駐車は禁止。事前申請のうえ荷捌き管理者の指示に従う。渋谷スクランブルスクエア内他施設の催事の都合で、駐車場・搬出入用エレベーターの使用を調整される場合がある（使用規則 2026年6月版）。",
+   "source": "https://21754109.hs-sites-na2.com/hubfs/03.SCH%20%E4%BD%BF%E7%94%A8%E8%A6%8F%E5%89%87_26%E5%B9%B46%E6%9C%88%E7%89%88.pdf"
+  },
+  "waitingRooms": {
+   "text": "ホール付帯の控室1室（約11㎡）は基本使用料に含まれる。控室は付帯の1室を含めて最大3室で、付帯以外は有料、QWS会員を含めた先着順。",
+   "source": "https://venues.theatre-workshop.co.jp/scramblehall/"
+  },
+  "catering": {
+   "text": "ケータリング・弁当・会議用リフレッシュメントは、隣接するQWS内の Cafe HInT が受ける。地下2階フードショーエッジの弁当・菓子の手配もできる。外部ケータリングの持込は遠慮いただき、やむを得ない場合は Cafe HInT の担当者と調整する。ホール内での調理はできない。",
+   "source": "https://venues.theatre-workshop.co.jp/scramblehall/"
+  },
+  "restaurants": {
+   "text": "同じ15階の SHIBUYA QWS 内に Cafe HInT があり、パーティーメニューや弁当を用意している。ホールは懇親会に使える（公式FAQ）。",
+   "source": "https://venues.theatre-workshop.co.jp/scramblehall/"
+  }
+ },
+ "documents": [
+  {
+   "title": "使用規則（2026年6月版）",
+   "url": "https://21754109.hs-sites-na2.com/hubfs/03.SCH%20%E4%BD%BF%E7%94%A8%E8%A6%8F%E5%89%87_26%E5%B9%B46%E6%9C%88%E7%89%88.pdf"
+  },
+  {
+   "title": "使用料金表（2026年4月版。基本使用料 全日450,000円・午前午後／午後夜間 各250,000円、税抜。基本時間外 1時間45,000円。技術立会料 1名40,000円）",
+   "url": "https://21754109.hs-sites-na2.com/hubfs/04.SCH%20%E4%BD%BF%E7%94%A8%E6%96%99%E9%87%91%E8%A1%A8%20(2026%E5%B9%B44%E6%9C%88%E7%89%88).pdf"
+  },
+  {
+   "title": "付帯設備料金表（2023年9月版）",
+   "url": "https://21754109.fs1.hubspotusercontent-na1.net/hubfs/21754109/SCH_Download/05.SCH%20%E4%BB%98%E5%B8%AF%E8%A8%AD%E5%82%99%E6%96%99%E9%87%91%E8%A1%A8.pdf"
+  },
+  {
+   "title": "ご使用の流れ（2026年6月版）",
+   "url": "https://21754109.hs-sites-na2.com/hubfs/01.SCH%20%E3%81%94%E4%BD%BF%E7%94%A8%E3%81%AE%E6%B5%81%E3%82%8C_26%E5%B9%B46%E6%9C%88%E7%89%88.pdf"
+  },
+  {
+   "title": "備品リスト（2026年8月版）",
+   "url": "https://21754109.hs-sites-na2.com/hubfs/%E3%80%90SCH%E3%80%91%E5%82%99%E5%93%81%E3%83%AA%E3%82%B9%E3%83%88(2026%E5%B9%B48%E6%9C%88%E7%89%88).pdf"
+  },
+  {
+   "title": "搬入出申請書（利用日の2週間前までに提出）",
+   "url": "https://21754109.fs1.hubspotusercontent-na1.net/hubfs/21754109/SCH_Download/%E3%80%90SCH%E3%80%91%E6%90%AC%E5%85%A5%E5%87%BA%E7%94%B3%E8%AB%8B(2%E9%80%B1%E9%96%93%E5%89%8D%E6%8F%90%E5%87%BA)-1.xlsx"
+  },
+  {
+   "title": "宅配物について（2024年11月現在）",
+   "url": "https://21754109.fs1.hubspotusercontent-na1.net/hubfs/21754109/SCH_Download/%E5%AE%85%E9%85%8D%E7%89%A9%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6_2024%E5%B9%B411%E6%9C%88%E7%8F%BE%E5%9C%A8.pdf"
+  },
+  {
+   "title": "インターネット環境について",
+   "url": "https://21754109.fs1.hubspotusercontent-na1.net/hubfs/21754109/SCH_Download/%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88%E7%92%B0%E5%A2%83%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6.pdf"
+  },
+  {
+   "title": "時間貸しプラン",
+   "url": "https://21754109.fs1.hubspotusercontent-na1.net/hubfs/21754109/SCH_Download/%E6%99%82%E9%96%93%E8%B2%B8%E3%81%97%E3%83%97%E3%83%A9%E3%83%B3.pdf"
+  },
+  {
+   "title": "15階全体平面図",
+   "url": "https://21754109.fs1.hubspotusercontent-na1.net/hubfs/21754109/SCH_Download/%E3%80%90SCH%E3%80%9115%E9%9A%8E%E5%85%A8%E4%BD%93%E5%B9%B3%E9%9D%A2%E5%9B%B3.pdf"
+  },
+  {
+   "title": "断面図",
+   "url": "https://21754109.fs1.hubspotusercontent-na1.net/hubfs/21754109/SCH_Download/%E3%80%90SCH%E3%80%91%E6%96%AD%E9%9D%A2%E5%9B%B3.pdf"
+  },
+  {
+   "title": "バトン図",
+   "url": "https://21754109.fs1.hubspotusercontent-na1.net/hubfs/21754109/SCH_Download/%E3%80%90SCH%E3%80%91%E3%83%90%E3%83%88%E3%83%B3%E5%9B%B3.pdf"
+  },
+  {
+   "title": "サンプルレイアウト スクール形式",
+   "url": "https://21754109.fs1.hubspotusercontent-na1.net/hubfs/21754109/SCH_Download/%E3%82%B9%E3%82%AF%E3%83%BC%E3%83%AB%E5%BD%A2%E5%BC%8F.pdf"
+  },
+  {
+   "title": "サンプルレイアウト ワークショップ形式",
+   "url": "https://21754109.fs1.hubspotusercontent-na1.net/hubfs/21754109/SCH_Download/%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%83%E3%83%97%E5%BD%A2%E5%BC%8F.pdf"
+  },
+  {
+   "title": "サンプルレイアウト パーティ形式（ケータリング基本レイアウト）",
+   "url": "https://21754109.fs1.hubspotusercontent-na1.net/hubfs/21754109/SCH_Download/%E3%83%91%E3%83%BC%E3%83%86%E3%82%A3%E5%BD%A2%E5%BC%8F.pdf"
+  },
+  {
+   "title": "Cafe HInT ケータリング&弁当メニュー",
+   "url": "https://venues.theatre-workshop.co.jp/scramblehall/cafehint"
+  },
+  {
+   "title": "各種資料（スクランブルホール公式）",
+   "url": "https://venues.theatre-workshop.co.jp/scramble-hall/document-1"
+  }
+ ],
+ "checkedAt": "2026-11-02",
+ "lat": 35.657951,
+ "lng": 139.702316,
+ "nearby": {
+  "convenience": [
+   {
+    "name": "セブン-イレブン 渋谷駅東口店",
+    "brand": "セブン-イレブン",
+    "distanceM": 50,
+    "walkMin": 1,
+    "hours": "24時間営業",
+    "address": "東京都渋谷区渋谷3-19-1",
+    "verified": true,
+    "source": "https://seven-eleven.areamarker.com/711map/info/466342",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "ローソン LAWSON+toks渋谷サクラステージ店",
+    "brand": "ローソン",
+    "distanceM": 128,
+    "walkMin": 2,
+    "hours": "7:00-23:00",
+    "address": "東京都渋谷区桜丘町1番4号",
+    "verified": true,
+    "source": "https://www.areamarker.com/lawson/info/380451",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "ローソン 渋谷ヒカリエ店",
+    "brand": "ローソン",
+    "distanceM": 140,
+    "walkMin": 2,
+    "hours": "7:00-22:00",
+    "address": "東京都渋谷区渋谷2-21-1",
+    "verified": true,
+    "source": "https://www.areamarker.com/lawson/info/201477",
+    "note": "距離は公式の店舗位置で計算"
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "キンコーズ・渋谷サクラステージ店",
+    "brand": "キンコーズ",
+    "distanceM": 150,
+    "walkMin": 2,
+    "hours": "平日 9:00-22:00／土・日・祝 9:00-22:00",
+    "address": "東京都渋谷区桜丘町3-4 渋谷サクラステージ SAKURAサイド3F",
+    "verified": true,
+    "source": "https://www.kinkos.co.jp/store/tokyo/t048/",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "アクセア 渋谷店",
+    "brand": "アクセア",
+    "distanceM": 313,
+    "walkMin": 4,
+    "hours": "24時間営業（年中無休）",
+    "address": "東京都渋谷区渋谷3-11-11 IVYイーストビル1F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/entry.html",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Standard Products 渋谷マークシティ店",
+    "brand": "Standard Products",
+    "distanceM": 374,
+    "walkMin": 5,
+    "hours": "9:30-21:00",
+    "address": "東京都渋谷区道玄坂1-12-1 渋谷マークシティ1階",
+    "verified": true,
+    "source": "https://www.daiso-sangyo.co.jp/shop/detail/003257",
+    "note": "距離は公式の店舗位置で計算。実際の道のりは約912m"
+   },
+   {
+    "name": "DAISO 渋谷マークシティ店",
+    "brand": "ダイソー",
+    "distanceM": 395,
+    "walkMin": 5,
+    "hours": "9:30-21:00",
+    "address": "東京都渋谷区道玄坂1-12-1 渋谷マークシティ1階",
+    "verified": true,
+    "source": "https://www.daiso-sangyo.co.jp/shop/detail/003086",
+    "note": "距離は公式の店舗位置で計算。実際の道のりは約892m"
+   }
+  ],
+  "donki": [
+   {
+    "name": "MEGAドン・キホーテ渋谷本店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 491,
+    "walkMin": 7,
+    "hours": "24時間営業",
+    "address": "東京都渋谷区宇田川町28-6",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=442",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "MEGAドンキ渋谷別館",
+    "brand": "ドン・キホーテ",
+    "distanceM": 505,
+    "walkMin": 7,
+    "hours": "24時間営業",
+    "address": "東京都渋谷区道玄坂2-25-12",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=671",
+    "note": "距離は住所の位置で計算"
+   }
+  ]
+ },
+ "drinkDelivery": {
+  "available": true
+ },
+ "photo": {
+  "src": "/images/venues/shibuya-qws.jpg",
+  "credit": "© Sakura Torch / CC BY-SA 4.0 · Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:SHIBUYA_SCRAMBLE_SQUARE_East_Tower.jpg"
+ }
+}

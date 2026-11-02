@@ -1,0 +1,183 @@
+{
+ "slug": "sanbo-hamamatsucho",
+ "name": "Tokyo Metropolitan Industrial Trade Center Hamamatsucho-Kan",
+ "address": "Tokyo 105-7501 Tokyo Portcity Takeshiba Office Tower (2F-5F), 1-7-1 Kaigan, Minato-ku, Tokyo",
+ "accessSummary": "Takeshiba Station (Yurikamome): 2 min walk / Hamamatsucho Station (JR, Tokyo Monorail) North Exit: 5 min walk / Daimon Station (Toei Asakusa Line, Oedo Line) Exit B2: 7 min walk",
+ "hours": "The exhibition halls and conference rooms are open 9:00-21:00 (after-hours use is 7:00-9:00 and 21:00-22:00). Closed December 29 to January 3",
+ "notice": null,
+ "rooms": [
+  {
+   "name": "2F-5F Exhibition Hall (each floor) - Entire Hall",
+   "note": "The same exhibition hall is on each of the 2nd, 3rd, 4th and 5th floors. The official capacity is 880 people (no layout is specified). Floor load 1 t/㎡, no columns. Can be divided into two with a sliding wall. The text of the official website and the Facility Use Guide gives the area in two ways, about 1,530㎡ and 1,534㎡; 1,534㎡ is the value in the area table of the Facility Use Guide. The attached waiting rooms (2 per floor, 23㎡ each), hot water access rooms (2 per floor, 12㎡ each), air conditioning and ceiling lighting are included in the fee."
+  },
+  {
+   "name": "2F-5F Exhibition Hall (each floor) - Half Hall",
+   "note": "The official capacity is 440 people (no layout is specified). Each half hall comes with an equipment storeroom and a waiting room."
+  },
+  {
+   "name": "4F Conference Room 1",
+   "note": "The classroom layout has 13 three-person desks and 38 chairs, and the room is rented set up classroom-style (the layout can be changed). Capacity is about 48 people (Facility Use Guide). Can be divided into half rooms A and B of about 41.5㎡ each (the official website says about 42㎡ each). When the conference room is used on its own, after-hours use is not available, and the room cannot be used from 12:00 to 13:00 and from 17:00 to 18:00."
+  },
+  {
+   "name": "4F Conference Room 2",
+   "note": "The classroom layout has 31 three-person desks and 92 chairs, and the room is rented set up classroom-style. Capacity is about 106 people (Facility Use Guide). The half rooms are about 96㎡ (A) and about 86㎡ (B)."
+  },
+  {
+   "name": "4F Conference Room 3",
+   "note": "The classroom layout has 49 three-person desks and 146 chairs, and the room is rented set up classroom-style. Capacity is about 148 people (Facility Use Guide). The half rooms are about 128㎡ (A) and about 129㎡ (B)."
+  }
+ ],
+ "ops": {
+  "prevDaySetup": "Equipment usage fees for the exhibition halls are calculated as one day even when the equipment is used on a setup day or a teardown day. When a load-in day is set before the event period, the broadcasting equipment (1,500 yen per day) is free only when used for testing after 15:00. The exhibition halls are open 9:00-21:00, and 7:00-9:00 and 21:00-22:00, which connect to the opening hours, can be used for load-in and load-out, inspection, maintenance, changeover, and installing and removing custom-built fixtures (after-hours use costs 14,500 yen per hour for a full hall and 7,250 yen per hour for a half hall; write it in the \"Event Outline and Use Details\" form in advance and obtain approval). (Facility Use Guide, PDF updated June 2026)",
+  "loadingHours": "Load-in and load-out are done through the dedicated loading and unloading area on the 1st floor, using 4 freight elevators. The loading and unloading area has a platform (floor height 72 cm), and its height limit is 4.3 m. The freight elevators are: No. 1 with a 3 t load (cab interior W3.0 x D3.5 x H2.6 m, 1F-5F), No. 2 with a 5 t load (W3.2 x D4.0 x H2.6 m, 1F-5F), and Nos. 3 and 4 with a 5 t load (W4.0 x D3.5 x H2.6 m, 1F-4F). The time slots for using the loading and unloading area and the elevators are coordinated at a coordination meeting held 2 months before the month of use. After-hours use of the exhibition halls is 7:00-9:00 and 21:00-22:00. Hand trucks cannot be used for load-in and load-out of the conference rooms.",
+  "vehicleRules": "Load-in and load-out vehicles enter the loading and unloading area on the 1st floor and need an entry pass issued by the Center (vehicles without an entry pass and vehicles outside their designated time cannot enter). Only the original entry pass is valid; copies and smartphone screens cannot be used. The coordination table for the loading and unloading area arrives about 2 months before the event period, and the basic allocation for use of one floor is 2 medium-sized vehicle lanes, 2 standard vehicle lanes and 1 freight elevator. An entry pass is issued for each allocated time slot, and the minimum unit when dividing the time is 1 hour. The loading and unloading area is not a parking lot, and a vehicle that has finished loading and unloading must leave immediately. Overnight parking is not allowed. Long waiting before the entry time near the loading and unloading area and around the building is prohibited. Right-turn entry into the loading and unloading area is prohibited; entry is only by a left turn from Kaigan-dori. Loading and unloading by hand truck from outside the loading and unloading area (street parking or nearby parking lots) is also prohibited. Vehicle sizes: medium-sized vehicles within 9.2 m long x 2.3 m wide x 4.3 m high, 12 vehicles; standard vehicles within 6.0 m long x 1.9 m wide x 4.3 m high, 13 vehicles. (Important Notice on Use of the Loading and Unloading Area; Facility Use Guide, PDF updated June 2026)",
+  "parking": "There is a paid parking lot shared by the building on B1 of the Tokyo Portcity Takeshiba Office Tower (it is not exclusive to Hamamatsucho-Kan). Hours are 7:00-23:00, and the fee is 300 yen per 20 minutes, with a 24-hour maximum of 3,300 yen (repeated, tax included). Load-in and load-out work from the parking lot (such as using hand trucks) is not allowed. Exhibition hall users can receive a free parking ticket on request (3 vehicles per day for each use of a half hall, usable 7:00-21:00, no overnight parking, to be shown on entry and exit). Vehicles that can enter with the free parking ticket must be within 5.30 m in length, 1.95-2.05 m in width and 2.3 t in weight; the height limit is 1.55-2.10 m depending on the type of parking space, and vehicles with roof boxes cannot enter. (The PDF on the free parking ticket is dated May 7, 2021.)",
+  "waitingRooms": "Each floor's exhibition hall comes with 2 waiting rooms (23㎡ each) and 2 hot water access rooms (12㎡ each) (on floors 2-5, 8 waiting rooms totaling 184㎡ and 8 hot water access rooms totaling 96㎡; included in the exhibition hall fee). The conference rooms on the 4th floor (Nos. 1-3) can also be used as waiting rooms and the like when used together with an exhibition hall (Notes on Using the Conference Rooms).",
+  "catering": "Events involving alcohol cannot be held in the exhibition halls from 9:00 to 18:00 (only small-quantity tastings for sale purposes are allowed). To hold an event involving alcohol after 18:00, the organizer arranges the caterer themselves, and the contract must include protection and cleaning of floors and the like (restoration to original condition) and taking away trash including leftover food. Anyone other than the caterer cannot bring in alcohol for drinking; bringing in alcohol arranged by the user or by a liquor store is prohibited. When setting up a light food and drink service for visitors, submit the \"Light Food and Drink Setup Notification\" by 10 days before the first day of use; depending on the content, a notification to the public health center may be required. Arrange for the caterer to take away the trash from bento boxes and catering within the usage time. The conference rooms cannot be used for social gatherings or receptions involving alcohol, and food and drink in the room is limited to bento lunches and dinners and tea during meetings. (Facility Use Guide, PDF updated June 2026)",
+  "restaurants": "There are restaurants, cafes and the like in the Tokyo Portcity Takeshiba Office Tower, which houses Hamamatsucho-Kan (check the shop guide on the official Tokyo Portcity Takeshiba website). The Facility Use Guide also says that the building has several food and drink shops and convenience stores."
+ },
+ "documents": [
+  {
+   "title": "Facility Use Guide for Exhibition Halls and Conference Rooms (PDF updated June 2026)"
+  },
+  {
+   "title": "Hamamatsucho-Kan Facility Guide Pamphlet (PDF created July 2026)"
+  },
+  {
+   "title": "4F Conference Room 1 (official page)"
+  },
+  {
+   "title": "4F Conference Room 2 (official page)"
+  },
+  {
+   "title": "4F Conference Room 3 (official page)"
+  },
+  {
+   "title": "Price List (official page)"
+  },
+  {
+   "title": "Exhibition Hall Usage Fee List (PDF updated December 2024)"
+  },
+  {
+   "title": "Conference Room Usage Fee List (PDF updated December 2024)"
+  },
+  {
+   "title": "Exhibition Hall Facilities and Equipment (official page)"
+  },
+  {
+   "title": "2F Exhibition Hall Floor Plan (2nd edition, February 2020)"
+  },
+  {
+   "title": "3F Exhibition Hall Floor Plan (2nd edition, February 2020)"
+  },
+  {
+   "title": "4F Exhibition Hall Floor Plan (2nd edition, February 2020)"
+  },
+  {
+   "title": "5F Exhibition Hall Floor Plan (2nd edition, February 2020)"
+  },
+  {
+   "title": "Important Notice on Use of the Loading and Unloading Area (as posted in October 2026)"
+  },
+  {
+   "title": "Flow from Loading and Unloading Area Coordination to Entry Pass Issuance (revised March 25, 2023)"
+  },
+  {
+   "title": "Exhibition Hall User Guide (created February 5, 2024)"
+  },
+  {
+   "title": "Exhibition Hall Day-of-Use Manual (April 7, 2021)"
+  },
+  {
+   "title": "Issuance of Free Parking Tickets for the Tokyo Portcity Takeshiba Office Tower Underground Parking Lot (May 7, 2021)"
+  },
+  {
+   "title": "Guide to Custom-Built Fixtures and Setup (PDF updated June 2026)"
+  },
+  {
+   "title": "Guide to Electricity Use (PDF updated January 2025)"
+  },
+  {
+   "title": "Guide to Broadcasting Equipment (PDF updated December 2024)"
+  },
+  {
+   "title": "Guide to Internet Connection (PDF updated December 2024)"
+  },
+  {
+   "title": "Guide to Cleaning and Waste Disposal (PDF updated January 2025)"
+  },
+  {
+   "title": "Guide to Notifications to Related Organizations (PDF updated June 2026)"
+  },
+  {
+   "title": "Event Outline and Use Details (form, October 1, 2026 version)"
+  },
+  {
+   "title": "Loading and Unloading Area Use Plan (form, July 14, 2020)"
+  },
+  {
+   "title": "Decoration Setup Application (form)"
+  },
+  {
+   "title": "Light Food and Drink Setup Notification (form)"
+  },
+  {
+   "title": "Application Forms and Drawings Downloads (official page)"
+  },
+  {
+   "title": "Days and Hours of Use (official page)"
+  },
+  {
+   "title": "Facility Booking (Priority Order and Start Dates for Accepting Bookings)"
+  },
+  {
+   "title": "Exhibition Hall and Conference Room Booking Flow (official page)"
+  },
+  {
+   "title": "Notes on Using the Conference Rooms (official page)"
+  },
+  {
+   "title": "FAQ (official page)"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "Lawson Tokyo Port City Takeshiba",
+    "hours": "7:00-22:00",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "FamilyMart Nanzando Takeshiba Station Front",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "FamilyMart New Pier Takeshiba",
+    "hours": "7:00-23:00",
+    "note": "Distance is calculated from the official store location."
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "Accea Hamamatsucho",
+    "hours": "Weekdays 8:00-22:00 / Sat, Sun & holidays 10:00-19:00",
+    "note": "Distance is calculated from the address location. The actual walking distance is about 797 m."
+   },
+   {
+    "name": "Kinko's Shiodome",
+    "hours": "Weekdays 9:00-19:00 / Closed Sat, Sun & holidays",
+    "note": "Distance is calculated from the address location. The actual walking distance is about 1,342 m. Rather far."
+   }
+  ],
+  "hundredYen": [],
+  "donki": [
+   {
+    "name": "Don Quijote Ginza Main Building (Ginza Nine Building No. 3)",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. Rather far. The store name on the Don Quijote official website is \"Ginza Main Building\" (銀座本館)."
+   }
+  ]
+ },
+ "photoCredit": "© Beryllium Transistor / CC BY-SA 4.0 · Wikimedia Commons"
+}

@@ -1,0 +1,116 @@
+{
+ "slug": "shangri-la-tokyo",
+ "name": "Shangri-La Tokyo",
+ "address": "Tokyo 100-8283 Marunouchi Trust Tower Main, 1-8-3 Marunouchi, Chiyoda-ku, Tokyo",
+ "accessSummary": "Tokyo Station (JR) Nihombashi Exit: 1 min walk / Tokyo Station (JR) Yaesu North Exit: 2 min walk / Otemachi Station Exit B10: 3 min walk / Otemachi Station (Tokyo Metro Tozai Line) Exit B8b: 3 min walk / Nihombashi Station Exit A3: 4 min walk",
+ "hours": null,
+ "notice": null,
+ "rooms": [
+  {
+   "name": "27F Shangri-La Ballroom",
+   "note": "18.3 m x 19.9 m. Column-free space. The classroom figure is the official \"Classroom\" capacity, the standing figure is the \"Reception\" (standing) capacity, and the banquet figure is the \"Banquet\" (seated formal meal) capacity. Equipped with 3D projection mapping (Ballroom only), permanent projectors/screens (100 to 215 inches), an audio/video/lighting system, free broadband internet access and technical support."
+  },
+  {
+   "name": "27F Ballroom Foyer",
+   "note": "6.48 m x 19.9 m."
+  },
+  {
+   "name": "27F Conway Room 1",
+   "note": "10.2 m x 7.7 m (the banquet room list gives 7.72 m). The classroom figure is the official \"Classroom\" capacity and the banquet figure is the \"Banquet\" (seated formal meal) capacity."
+  },
+  {
+   "name": "27F Conway Room 2",
+   "note": "10.2 m x 5.4 m. The classroom figure is the official \"Classroom\" capacity and the banquet figure is the \"Banquet\" (seated formal meal) capacity."
+  },
+  {
+   "name": "27F Conway Room 3",
+   "note": "10.2 m x 12.6 m. The classroom figure is the official \"Classroom\" capacity and the banquet figure is the \"Banquet\" (seated formal meal) capacity."
+  },
+  {
+   "name": "27F Conway Rooms 2+3",
+   "note": "10.2 m x 18 m. Conway Rooms 2 and 3 can be combined and used as a medium-sized banquet room. The classroom figure is the official \"Classroom\" capacity and the banquet figure is the \"Banquet\" (seated formal meal) capacity."
+  },
+  {
+   "name": "27F The Pavilion",
+   "note": "11.15 m x 11.3 m (as given on the venue detail page and in the April 2022 brochure; the banquet room list gives 11.5 m x 11.3 m. The area is the same, 126㎡). The classroom figure is the official \"Classroom\" capacity and the banquet figure is the \"Banquet\" (seated formal meal) capacity."
+  },
+  {
+   "name": "27F Private Room",
+   "note": "5.5 m x 8 m. The classroom figure is the official \"Classroom\" capacity and the banquet figure is the \"Banquet\" (seated formal meal) capacity."
+  }
+ ],
+ "ops": {
+  "parking": "The hotel parking lot is on B2F. The car porch is on B1F. The height limits of the parking lot are 2.1 m on B2F, 2.5 m at the entrance on the Sotobori-dori side, and 3.2 m at the entrance on the Eitai-dori side. Parking for banquets is free for up to 4 hours (free all day for weddings). General use is 500 yen per 30 minutes / 1,000 yen per hour; for restaurant use, 1 hour is free with 3,000 yen or more, 2 hours are free with 5,000 yen or more, and 4 hours are free with 8,000 yen or more. Valet parking is 2,000 yen per day (the parking fee is separate). (Parking Guide PDF dated June 22, 2025)",
+  "restaurants": "The hotel has 2 restaurants (Nadaman, Japanese cuisine, on the 29th floor; and Piacere, Italian cuisine), as well as The Lobby Lounge and The Boutique. Nadaman's private room is for 4 or more guests per room with a private room fee of 16,500 yen (tax included), and for dinner a course of 18,480 yen (tax included) or more per person is required (for use from September 1, 2026; a 15% service charge is added to the displayed prices)."
+ },
+ "documents": [
+  {
+   "title": "Banquet Brochure (floor plans and capacity chart, created April 2022)"
+  },
+  {
+   "title": "Parking Guide (dated June 22, 2025)"
+  },
+  {
+   "title": "Access Map (dated January 22, 2026)"
+  },
+  {
+   "title": "Directions from Tokyo Station (dated September 23, 2025)"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "Natural Lawson TEKKO avenue",
+    "hours": "8:00-21:00",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "FamilyMart Marunouchi Trust Tower",
+    "hours": "7:00-23:00",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "Lawson TEKKO avenue",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location."
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "Accea Tokyo Station Yaesu",
+    "hours": "Open 24 hours (cafe use from 22:00 to 6:00 the next day is for ID-verified members only)",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Kinko's Otemachi",
+    "hours": "Weekdays 9:00-20:00 / Sat, Sun & holidays closed",
+    "note": "Distance is calculated from the address location. The actual walking route is about 865 m."
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Standard Products Yaechika",
+    "hours": "10:00-20:00",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "3COINS Yaechika",
+    "hours": "10:00-21:00",
+    "note": "Distance is calculated from the official store location."
+   }
+  ],
+  "donki": [
+   {
+    "name": "Don Quijote Ginza Main Building (Ginza Nine Building No. 3)",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. Far. The store name on the Don Quijote official website is \"Ginza Main Building\" (銀座本館)."
+   },
+   {
+    "name": "Don Quijote Akihabara",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. Far. The store name on the Don Quijote official website is \"Akihabara\" (秋葉原店)."
+   }
+  ]
+ },
+ "photoCredit": "散歩 / Public domain · Wikimedia Commons"
+}

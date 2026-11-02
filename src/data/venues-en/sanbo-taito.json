@@ -1,0 +1,146 @@
+{
+ "slug": "sanbo-taito",
+ "name": "Tokyo Metropolitan Industrial Trade Center Taito-Kan",
+ "address": "Tokyo 111-0033 2-6-5 Hanakawado, Taito-ku, Tokyo",
+ "accessSummary": "Asakusa Station (Tokyo Metro Ginza Line) Exit 7: 5 min walk / Asakusa Station (Tobu Skytree Line): 5 min walk / Asakusa Station (Toei Asakusa Line) Exit A5: 8 min walk / Asakusa Station (Tsukuba Express) Exit A1: 9 min walk / Toei Bus: get off at Nitenmon and you are right there",
+ "hours": "The exhibition halls and conference rooms are open 9:00-21:00 at most. Closed December 29-31 and January 1-3. Phone reception for inquiries and vacancy checks is weekdays 9:00-17:00 (03-3844-6190)",
+ "notice": null,
+ "rooms": [
+  {
+   "name": "4F Exhibition Hall (Entire Hall)",
+   "note": "Capacity is 600 people for the entire hall (official wording; no capacity is given by layout). One central column, wooden floor, and the hall can be divided into north and south parts with a sliding wall. Floor load 600 kg/㎡. Electrical capacity: single-phase 100/200V 80 kVA and three-phase 200V 50 kVA. The fees are 469,200 yen for one day (9:00-21:00), 312,800 yen for daytime (9:00-17:00), and 39,100 yen per hour at night (tax included)."
+  },
+  {
+   "name": "4F Exhibition Hall (Half Hall)",
+   "note": "Capacity is 300 people for a half hall (official wording). The fee table on the 4F exhibition hall page lists the half hall as 745.5㎡, but the area column, the price list and the usage guide on the same page give 747.5㎡. The fees are 234,600 yen per day, 156,400 yen for daytime and 19,550 yen per hour at night (tax included). With half-hall use, there is one wireless microphone."
+  },
+  {
+   "name": "5F and 6F Exhibition Halls (each floor, Entire Hall)",
+   "note": "The 5F and 6F are separate exhibition halls of the same size. Capacity is 600 people for the entire hall (official wording). Floor load 600 kg/㎡. The fees are 464,100 yen per day, 309,400 yen for daytime and 38,700 yen per hour at night (tax included)."
+  },
+  {
+   "name": "5F and 6F Exhibition Halls (each floor, Half Hall)",
+   "note": "Capacity is 300 people for a half hall (official wording). The fees are 232,050 yen per day, 154,700 yen for daytime and 19,350 yen per hour at night (tax included)."
+  },
+  {
+   "name": "7F Exhibition Hall (Entire Hall)",
+   "note": "Capacity is 600 people for the entire hall (official wording). The height limit for decorations and the like is 2.4 m. The fees are 434,100 yen per day, 289,400 yen for daytime and 36,200 yen per hour at night (tax included)."
+  },
+  {
+   "name": "7F Exhibition Hall (Half Hall)",
+   "note": "Capacity is 300 people for a half hall (official wording). The height limit for decorations and the like is 2.4 m. The fees are 217,050 yen per day, 144,700 yen for daytime and 18,100 yen per hour at night (tax included)."
+  },
+  {
+   "name": "All Exhibition Halls on 4F-7F (Whole Building Use)",
+   "note": "Applies only to the event period and to load-in, preparation and setup work (it does not apply to load-out and removal on the last day of the event period). The fees are 1,831,500 yen per day, 1,221,000 yen for daytime and 152,700 yen per hour at night (tax included)."
+  },
+  {
+   "name": "2F Conference Room A",
+   "note": "Capacity 35 people. Set up with 11 three-person desks and 35 chairs, a whiteboard, a 100-inch freestanding screen and a projector stand. The layout is flexible, from hollow square to classroom style (official wording). The fees are 20,000 yen for one day (9:00-21:00), 14,000 yen for morning + afternoon, 14,000 yen for afternoon + night, 6,000 yen for morning, 8,000 yen for afternoon and 6,000 yen for night (tax included). Additional desks and chairs cannot be added or brought in."
+  },
+  {
+   "name": "2F Conference Room B",
+   "note": "Capacity 35 people. Set up with 11 three-person desks and 35 chairs, a whiteboard, a 100-inch freestanding screen and a projector stand. The layout is flexible, from hollow square to classroom style (official wording). The fees are the same as Conference Room A (20,000 yen for one day and so on, tax included). Additional desks and chairs cannot be added or brought in."
+  }
+ ],
+ "ops": {
+  "prevDaySetup": "The exhibition halls can also be rented only for setup, preparation, removal and similar work, in which case the \"one day\" (9:00-21:00) or \"daytime\" (9:00-17:00) rate applies. Usage time includes load-in, setup, preparation, removal, and restoration to original condition/cleaning. Before opening during the event period (7:00-9:00), after-hours use for load-in and load-out and installing custom-built fixtures is available together with the exhibition hall, at 8,800 yen per hour for 7F, 9,400 yen for 5F and 6F, and 9,500 yen for 4F (half halls 4,400 yen, 4,700 yen and 4,750 yen, tax included). Equipment usage fees are calculated as one day even for setup days and removal days. (Usage Guide, August 2026 edition)",
+  "loadingHours": "Load-in and load-out are done from the shipping and delivery area on the 2nd floor. The exhibition halls are open 9:00-21:00 at most; after-hours use for load-in, load-out and setup is 7:00-9:00 (together with the exhibition hall) and, on the last day of the event period only, 17:00-20:00. After 20:00, vehicle load-in and load-out at the shipping and delivery area is not possible because of the Tokyo Metropolitan Environmental Security Ordinance. There are 2 luggage elevators (No. 7, load 3 t: doorway W2.0 x H2.6 m, cab interior W2.0 x H2.6 x D4.15 m / No. 8, load 2 t: doorway W1.5 x H2.4 m, cab interior W1.7 x H2.4 x D3.0 m). A load-in/load-out coordination meeting is held 2 months before the month of use, and the Shipping and Delivery Area Use Plan is submitted 60 to 30 days before the first day of use. (Usage Guide, August 2026 edition)",
+  "vehicleRules": "An \"entry pass\" issued by the Center is required for load-in and load-out vehicles to enter; vehicles without an entry pass and vehicles outside their designated time cannot enter. Parking or leaving a vehicle standing for any purpose other than load-in and load-out is not allowed, and a vehicle that leaves during its designated time cannot re-enter (to load in or out again, tell the Center when submitting the Shipping and Delivery Area Use Plan). The shipping and delivery area holds 35 standard vehicles, the vehicle height limit at the entrance is 3.4 m, and large vehicles 5 m or longer count as 3 standard vehicles. The surrounding roads are no-parking zones, so street parking is not possible. Prior consultation is required to use crane trucks, forklifts, Unic trucks and the like. Floor load is 600 kg/㎡ or less. (Usage Guide, August 2026 edition)",
+  "parking": "There is no parking lot exclusively for the Center. Visitors are guided to the paid Taito District parking lot on the 1st floor (Taito District Hall parking lot) and to nearby paid parking lots. The shipping and delivery area is for load-in and load-out vehicles, and parking other than for load-in and load-out is not allowed. (Usage Guide, August 2026 edition)",
+  "catering": "When providing a light food and drink service for visitors in the exhibition halls, submit the \"Light Food and Drink Setup Notification\" (depending on the content, a notification to the public health center may be required; cooking and processing of food, tastings and sales need permission from the Taito Public Health Center). After 18:00, and in the exhibition halls only, drinking alcohol arranged through a caterer approved by the Center is allowed. The conference rooms cannot be used for banquets, parties, bringing in alcohol, or social gatherings involving alcohol, and trash including food waste and bento boxes must be taken away. The hot water access rooms attached to the exhibition halls are included in the usage fee. (Usage Guide, August 2026 edition)",
+  "restaurants": "On the 8th floor, inside Taito District Hall, there is the restaurant \"Ueno Seiyoken Asakusa Branch\", open 11:00-16:00 (last order 15:00) and closed on Mondays. The official guide says \"banquets, catering and bento boxes accepted separately\" (TEL 03-3842-0771). (Usage Guide, August 2026 edition)"
+ },
+ "documents": [
+  {
+   "title": "Exhibition Hall and Conference Room Usage Guide (Pamphlet and Rules of Use, August 2026 edition)"
+  },
+  {
+   "title": "Price List (Exhibition Halls, Conference Rooms, After-Hours Use)"
+  },
+  {
+   "title": "List of Notifications to Related Organizations"
+  },
+  {
+   "title": "Exhibition Hall Facilities and Equipment List (with quantities held)"
+  },
+  {
+   "title": "4F Exhibition Hall Floor Plan"
+  },
+  {
+   "title": "5F Exhibition Hall Floor Plan"
+  },
+  {
+   "title": "6F Exhibition Hall Floor Plan"
+  },
+  {
+   "title": "7F Exhibition Hall Floor Plan"
+  },
+  {
+   "title": "Event Outline and Use Details (form)"
+  },
+  {
+   "title": "Shipping and Delivery Area Use Plan (form)"
+  },
+  {
+   "title": "Decoration Setup Application (form)"
+  },
+  {
+   "title": "Light Food and Drink Setup Notification (form)"
+  },
+  {
+   "title": "Application Forms and Drawings Downloads (page listing all forms)"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "7-Eleven Asakusa Umamichi",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "7-Eleven Taito Asakusa 6-chome",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "7-Eleven Tobu Asakusa Station Front",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location."
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "Accea Shin-Okachimachi",
+    "hours": "Weekdays 9:00-20:00 / Closed Sat, Sun & holidays",
+    "note": "Distance is calculated from the address location. The actual walking distance is about 1,988 m. Rather far."
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Seria Asakusa EKIMISE",
+    "hours": "Mon-Sun 10:00-20:00",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "DAISO Seims Asakusa Kaminarimon-dori",
+    "hours": "4:00-27:00 (Official notice: from May 1, 2026, hours changed to 04:00-03:00)",
+    "note": "Distance is calculated from the official store location."
+   }
+  ],
+  "donki": [
+   {
+    "name": "Don Quijote Asakusa EKIMISE",
+    "hours": "10:00-20:00",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Don Quijote Asakusa",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. The store name on the Don Quijote official website is \"Asakusa\" (浅草店)."
+   }
+  ]
+ },
+ "photoCredit": "© Comyu / CC BY-SA 4.0 · Wikimedia Commons"
+}

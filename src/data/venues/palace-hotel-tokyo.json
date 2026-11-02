@@ -1,0 +1,479 @@
+{
+ "slug": "palace-hotel-tokyo",
+ "nameJa": "パレスホテル東京",
+ "nameEn": "Palace Hotel Tokyo",
+ "type": "hotel",
+ "area": "marunouchi-nihonbashi-venues",
+ "address": "〒100-0005 東京都千代田区丸の内1-1-1",
+ "officialUrl": "https://www.palacehoteltokyo.com/",
+ "organizerUrl": "https://www.palacehoteltokyo.com/meetings-events/",
+ "bizintokyoSlug": "palace_hotel_tokyo",
+ "accessSummary": "大手町駅（千代田線・半蔵門線・丸ノ内線・東西線・都営三田線）C13b出口より地下通路直結／東京駅（JR）丸の内北口より徒歩8分",
+ "notice": null,
+ "hours": "19階のボードルーム・ミーティングルームの利用時間は8:00〜21:00",
+ "rooms": [
+  {
+   "name": "2F 葵 全面",
+   "areaM2": 1160,
+   "ceilingM": 7.0,
+   "theater": 1440,
+   "school": 900,
+   "ushape": null,
+   "standing": 1200,
+   "banquet": 630,
+   "note": "A（東）368㎡、B＋C（中）347㎡、D（西）379㎡に分割できる。A＋B 557㎡、A＋B＋C 748㎡、C＋D 570㎡、B＋C＋D 759㎡の組み合わせもある。大窓は高さ7m・幅22m。電動昇降式スクリーン8面"
+  },
+  {
+   "name": "2F 葵 全面＋ホワイエ",
+   "areaM2": 1580,
+   "ceilingM": 7.0,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": 1500,
+   "banquet": null,
+   "note": "ホワイエ天井高3.7m。立食のみ1,500名"
+  },
+  {
+   "name": "2F 葵 2/3",
+   "areaM2": 759,
+   "ceilingM": 7.0,
+   "theater": 900,
+   "school": 550,
+   "ushape": null,
+   "standing": 800,
+   "banquet": 380,
+   "note": "B＋C＋D の広さ"
+  },
+  {
+   "name": "2F 葵 1/2",
+   "areaM2": 570,
+   "ceilingM": 7.0,
+   "theater": 600,
+   "school": 400,
+   "ushape": null,
+   "standing": 500,
+   "banquet": 280,
+   "note": "C＋D の広さ（分割パターンの最大値）"
+  },
+  {
+   "name": "2F 葵 1/3",
+   "areaM2": 379,
+   "ceilingM": 7.0,
+   "theater": 350,
+   "school": 200,
+   "ushape": null,
+   "standing": 300,
+   "banquet": 180,
+   "note": "D（西）の広さ"
+  },
+  {
+   "name": "2F 梅 全面",
+   "areaM2": 198,
+   "ceilingM": 3.5,
+   "theater": 210,
+   "school": 132,
+   "ushape": 66,
+   "standing": 130,
+   "banquet": 90,
+   "note": "A（90㎡）は正餐40・立食60・スクール48・シアター84・ロの字36。B（108㎡）は正餐50・立食70・スクール60・シアター112・ロの字42"
+  },
+  {
+   "name": "2F 梅 1/2",
+   "areaM2": 108,
+   "ceilingM": 3.5,
+   "theater": 112,
+   "school": 60,
+   "ushape": 42,
+   "standing": 70,
+   "banquet": 50,
+   "note": "B の広さ（分割パターンの最大値）"
+  },
+  {
+   "name": "2F 橘",
+   "areaM2": 215,
+   "ceilingM": 3.5,
+   "theater": 272,
+   "school": 144,
+   "ushape": 72,
+   "standing": 140,
+   "banquet": 100,
+   "note": null
+  },
+  {
+   "name": "2F 萩 全面",
+   "areaM2": 150,
+   "ceilingM": 3.5,
+   "theater": 168,
+   "school": 90,
+   "ushape": 54,
+   "standing": 90,
+   "banquet": 70,
+   "note": "A（81㎡）は正餐30・立食50・スクール54・シアター75・ロの字30。B（68㎡）は立食40・スクール36・シアター70"
+  },
+  {
+   "name": "2F 萩 1/2",
+   "areaM2": 81,
+   "ceilingM": 3.5,
+   "theater": 75,
+   "school": 54,
+   "ushape": 30,
+   "standing": 50,
+   "banquet": 30,
+   "note": "A の広さ（分割パターンの最大値）"
+  },
+  {
+   "name": "4F 山吹 全面",
+   "areaM2": 563,
+   "ceilingM": 4.5,
+   "theater": 720,
+   "school": 405,
+   "ushape": null,
+   "standing": 500,
+   "banquet": 330,
+   "note": "A・B（西・東）に分割できる"
+  },
+  {
+   "name": "4F 山吹 全面＋ホワイエ",
+   "areaM2": 708,
+   "ceilingM": 4.5,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": 600,
+   "banquet": null,
+   "note": "ホワイエ天井高4.0m。立食のみ600名。バルコニーあり"
+  },
+  {
+   "name": "4F 山吹 1/2",
+   "areaM2": 265,
+   "ceilingM": 4.5,
+   "theater": 290,
+   "school": 180,
+   "ushape": null,
+   "standing": 200,
+   "banquet": 150,
+   "note": "A または B の広さ（分割パターンの最大値）"
+  },
+  {
+   "name": "4F 芙蓉 全面",
+   "areaM2": 130,
+   "ceilingM": 4.0,
+   "theater": 140,
+   "school": 90,
+   "ushape": 60,
+   "standing": 80,
+   "banquet": 60,
+   "note": "A（64㎡）、B（66㎡）に分割できる"
+  },
+  {
+   "name": "4F 芙蓉 1/2",
+   "areaM2": 66,
+   "ceilingM": 4.0,
+   "theater": 60,
+   "school": 36,
+   "ushape": 30,
+   "standing": 40,
+   "banquet": 30,
+   "note": "B の広さ（分割パターンの最大値）"
+  },
+  {
+   "name": "4F 撫子 全面",
+   "areaM2": 99,
+   "ceilingM": 4.0,
+   "theater": 100,
+   "school": 63,
+   "ushape": 42,
+   "standing": 60,
+   "banquet": 40,
+   "note": "A（49㎡）、B（50㎡）に分割できる"
+  },
+  {
+   "name": "4F 撫子 1/2",
+   "areaM2": 50,
+   "ceilingM": 4.0,
+   "theater": 50,
+   "school": 27,
+   "ushape": 24,
+   "standing": 30,
+   "banquet": 20,
+   "note": "B の広さ（分割パターンの最大値）"
+  },
+  {
+   "name": "4F 桔梗",
+   "areaM2": 84,
+   "ceilingM": 4.0,
+   "theater": 90,
+   "school": 54,
+   "ushape": 36,
+   "standing": 50,
+   "banquet": 50,
+   "note": null
+  },
+  {
+   "name": "19F ボードルーム",
+   "areaM2": 220,
+   "ceilingM": 2.5,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "最大26名（ボードルーム形式）。広さにはボードルーム前室90㎡を含む。宿泊客優先で、宿泊を伴わない利用は利用日の1か月前から予約を受け付ける"
+  },
+  {
+   "name": "19F ミーティングルーム I",
+   "areaM2": 42,
+   "ceilingM": 2.5,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "最大12名（ボードルーム形式）"
+  },
+  {
+   "name": "19F ミーティングルーム II",
+   "areaM2": 45,
+   "ceilingM": 2.5,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "最大12名。ボードルーム・スクール・ロの字・コの字のレイアウトに対応（フリーレイアウト）"
+  },
+  {
+   "name": "19F ミーティングルーム III",
+   "areaM2": 28,
+   "ceilingM": 2.5,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "最大6名。円卓（移動不可）。AV機器なし"
+  }
+ ],
+ "roomsSource": "https://www.palacehoteltokyo.com/meetings-events/",
+ "ops": {
+  "loadingHours": {
+   "text": "大型リフトで車輌や大型展示物を搬入できる（2.2m×2.2m×5.3m、3tまで）。（2026年5月版ファクトシート）",
+   "source": "https://www.palacehoteltokyo.com/meetings-events/meeting-services-facilities/"
+  },
+  "vehicleRules": {
+   "text": "駐車場は内堀通りと永代通りの2か所から入る。出入口の高さは、ホテルエントランス（内堀通り側）2.5m、永代通り側出入口3m、搬入口（地下2階）3m。幅は共通3m、長さは共通6.5m。",
+   "source": "https://www.palacehoteltokyo.com/faq/faq_general/"
+  },
+  "parking": {
+   "text": "地下駐車場350台。料金は最初の30分無料、その後30分ごとに500円。バイク専用スペースが3台あり、最初の30分無料、その後60分ごとに100円。宴席の出席者は4時間まで無料（クロークで申し出る）。レストラン利用は5,000円以上で2時間、10,000円以上で4時間まで無料。",
+   "source": "https://www.palacehoteltokyo.com/faq/faq_general/"
+  },
+  "waitingRooms": {
+   "text": "2階に女性更衣室（定員10名）、3階に男性更衣室（定員5名）があり、姿見鏡とハンガーを用意している。フロアマップに葵専用の控室とクロークの表記がある。",
+   "source": "https://www.palacehoteltokyo.com/faq/faq_banquet/"
+  },
+  "catering": {
+   "text": "宴会料理はホテルのシェフが作る。日本酒やワインの持ち込みは所定の持込料がかかり、金額は宴会担当者への相談になる。残った料理の持ち帰りは食品衛生上できない。Wi-Fiは無料、有線LANは11,000円（税込）。ホテルが指定の場所へ出向くケータリングサービス（立食30名から、正餐10名から）もある。",
+   "source": "https://www.palacehoteltokyo.com/faq/faq_banquet/"
+  },
+  "restaurants": {
+   "text": "館内にフランス料理エステール、オールデイダイニング グランド キッチン、日本料理 和田倉、天麩羅 巽、鉄板焼 濠、中国料理 琥珀宮、鮨 かねさかがある。貸切のパーティーやブッフェに使える個室プランが公式に案内されており、グランド キッチンにはフリードリンク付きのパーティープランがある。",
+   "source": "https://www.palacehoteltokyo.com/restaurants-bars/private-dining-packages/"
+  }
+ },
+ "documents": [
+  {
+   "title": "ご宴会・会議（公式）",
+   "url": "https://www.palacehoteltokyo.com/meetings-events/"
+  },
+  {
+   "title": "宴会場の特徴・設備（公式）",
+   "url": "https://www.palacehoteltokyo.com/meetings-events/meeting-services-facilities/"
+  },
+  {
+   "title": "ファクトシート（PDF、2026年5月版）",
+   "url": "https://palacehoteltokyo-contents.com/pdf/brand/2026.05-Palace-Hotel-Tokyo-Factsheet.pdf"
+  },
+  {
+   "title": "2階・4階フロアマップ（PDF）",
+   "url": "https://www.palacehoteltokyo.com/wp-content/uploads/Palace-Hotel-Tokyo-Floor-Map-2nd-4th-Floor.pdf"
+  },
+  {
+   "title": "葵 フロアプラン（PDF）",
+   "url": "https://www.palacehoteltokyo.com/wp-content/uploads/AOI.pdf"
+  },
+  {
+   "title": "梅 フロアプラン（PDF）",
+   "url": "https://www.palacehoteltokyo.com/wp-content/uploads/UME.pdf"
+  },
+  {
+   "title": "橘 フロアプラン（PDF）",
+   "url": "https://www.palacehoteltokyo.com/wp-content/uploads/tachibana-floorplan.pdf"
+  },
+  {
+   "title": "萩 フロアプラン（PDF）",
+   "url": "https://www.palacehoteltokyo.com/wp-content/uploads/hagi-floorplan.pdf"
+  },
+  {
+   "title": "山吹 フロアプラン（PDF）",
+   "url": "https://www.palacehoteltokyo.com/wp-content/uploads/yamabuki-floorplan.pdf"
+  },
+  {
+   "title": "芙蓉 フロアプラン（PDF）",
+   "url": "https://www.palacehoteltokyo.com/wp-content/uploads/fuyo.pdf"
+  },
+  {
+   "title": "撫子 フロアプラン（PDF）",
+   "url": "https://www.palacehoteltokyo.com/wp-content/uploads/nadeshiko-floorplan.pdf"
+  },
+  {
+   "title": "桔梗 フロアプラン（PDF）",
+   "url": "https://www.palacehoteltokyo.com/wp-content/uploads/kikyo-floorplan.pdf"
+  },
+  {
+   "title": "19階 ボードルーム・ミーティングルーム フロアプラン（PDF）",
+   "url": "https://www.palacehoteltokyo.com/wp-content/uploads/Palace-Hotel-Tokyo-19th-Floor-Meeting-Space-Floorplans.pdf"
+  },
+  {
+   "title": "会議・ミーティングでのご利用（公式）",
+   "url": "https://www.palacehoteltokyo.com/meetings-events/meetings-promotions/"
+  },
+  {
+   "title": "ケータリングサービス（公式）",
+   "url": "https://www.palacehoteltokyo.com/meetings-events/catering-service/"
+  },
+  {
+   "title": "よくあるご質問 ご宴会・会議（公式）",
+   "url": "https://www.palacehoteltokyo.com/faq/faq_banquet/"
+  },
+  {
+   "title": "アクセスマップ（PDF、2025年7月版）",
+   "url": "http://www.palacehoteltokyo.com/wp-content/uploads/2025.07-Palace-Hotel-Tokyo-Access-Map-JPN.pdf"
+  },
+  {
+   "title": "利用規則（公式）",
+   "url": "https://www.palacehoteltokyo.com/terms/rules/"
+  }
+ ],
+ "checkedAt": "2026-11-02",
+ "lat": 35.684559,
+ "lng": 139.761765,
+ "nearby": {
+  "convenience": [
+   {
+    "name": "セブン-イレブン 丸の内パレスビル店",
+    "brand": "セブン-イレブン",
+    "distanceM": 47,
+    "walkMin": 1,
+    "hours": "7:00-23:00（月〜日・祝）",
+    "address": "東京都千代田区丸の内1-1-1 丸の内パレスビル",
+    "verified": true,
+    "source": "https://seven-eleven.areamarker.com/711map/info/300245",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "ファミリーマート 大手門タワー店",
+    "brand": "ファミリーマート",
+    "distanceM": 144,
+    "walkMin": 2,
+    "hours": "7:00-23:00",
+    "address": "東京都千代田区大手町1-1-2",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/12275",
+    "note": "距離は公式の店舗位置で計算。公式の店舗名は「ファミマ大手門タワー店」"
+   },
+   {
+    "name": "ローソン 大手センタービル店",
+    "brand": "ローソン",
+    "distanceM": 209,
+    "walkMin": 3,
+    "hours": "7:00-21:00",
+    "address": "東京都千代田区大手町1-1-3",
+    "verified": true,
+    "source": "https://www.areamarker.com/lawson/info/380882",
+    "note": "距離は公式の店舗位置で計算"
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "キンコーズ・大手町店",
+    "brand": "キンコーズ",
+    "distanceM": 343,
+    "walkMin": 5,
+    "hours": "平日 9:00-20:00／土・日・祝 休業",
+    "address": "東京都千代田区大手町1丁目6-1 大手町ビル1F",
+    "verified": true,
+    "source": "https://www.kinkos.co.jp/store/tokyo/t005/",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "アクセア 大手町店",
+    "brand": "アクセア",
+    "distanceM": 758,
+    "walkMin": 10,
+    "hours": "24時間営業（年中無休）",
+    "address": "東京都千代田区内神田2-2-6 田中ビル1F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/entry.html",
+    "note": "距離は住所の位置で計算。実際の道のりは約1,010m。遠め"
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Can★Do 丸の内オアゾ店",
+    "brand": "キャンドゥ",
+    "distanceM": 445,
+    "walkMin": 6,
+    "hours": "月〜金 8:00-22:00／土・日・祝 9:00-21:00",
+    "address": "東京都千代田区丸の内1-6-4 丸の内オアゾ地下1階",
+    "verified": true,
+    "source": "https://shopinfo.cando-web.co.jp/detail/shop-5550/",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "3COINS ヤエチカ店",
+    "brand": "3COINS",
+    "distanceM": 880,
+    "walkMin": 11,
+    "hours": "10:00-21:00",
+    "address": "東京都中央区八重洲2-1 八重洲地下街南1号",
+    "verified": true,
+    "source": "https://palcloset.storelocator.jp/detail/361/",
+    "note": "距離は公式の店舗位置で計算"
+   }
+  ],
+  "donki": [
+   {
+    "name": "ドン・キホーテ 銀座本館（銀座ナイン3号館）",
+    "brand": "ドン・キホーテ",
+    "distanceM": 1865,
+    "walkMin": 24,
+    "hours": "24時間営業",
+    "address": "東京都中央区銀座8-10 銀座ナイン3号館",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=92",
+    "note": "距離は住所の位置で計算。実際の道のりは約2,345m。遠い"
+   },
+   {
+    "name": "ドン・キホーテ 秋葉原店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 2003,
+    "walkMin": 26,
+    "hours": "24時間営業",
+    "address": "東京都千代田区外神田4丁目3-3",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=98",
+    "note": "距離は住所の位置で計算。ドン・キホーテ公式サイトの店舗名は「秋葉原店」。実際の道のりは約2,302m。遠い"
+   }
+  ]
+ },
+ "drinkDelivery": {
+  "available": true
+ },
+ "photo": {
+  "src": "/images/venues/palace-hotel-tokyo.jpg",
+  "credit": "© Tokyo538 / CC0 · Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Palace_Hotel_Tokyo_and_Nippon_Life_Marunouchi_Garden_Tower.jpg"
+ }
+}

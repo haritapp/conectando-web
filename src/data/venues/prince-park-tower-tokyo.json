@@ -1,0 +1,429 @@
+{
+ "slug": "prince-park-tower-tokyo",
+ "nameJa": "ザ・プリンス パークタワー東京",
+ "nameEn": "The Prince Park Tower Tokyo",
+ "type": "hotel",
+ "area": "shimbashi-hamamatsucho-venues",
+ "address": "〒105-8563 東京都港区芝公園4-8-1",
+ "officialUrl": "https://www.princehotels.co.jp/parktower/",
+ "organizerUrl": "https://www.princehotels.co.jp/parktower/banquet/",
+ "bizintokyoSlug": "prince-park-tower-tokyo",
+ "accessSummary": "赤羽橋駅（都営大江戸線）赤羽橋口 徒歩約2分／芝公園駅（都営三田線）A4出口 徒歩約3分／大門駅（都営浅草線・大江戸線）A6出口 徒歩約9分／浜松町駅（JR線・東京モノレール）徒歩約12分",
+ "notice": null,
+ "hours": null,
+ "rooms": [
+  {
+   "name": "ボールルーム B2 1スパン",
+   "areaM2": 342,
+   "ceilingM": 9.9,
+   "theater": 400,
+   "school": 180,
+   "ushape": null,
+   "standing": 200,
+   "banquet": 120,
+   "note": "ボールルームは7通りに分割して使える。"
+  },
+  {
+   "name": "ボールルーム B2 2スパン",
+   "areaM2": 684,
+   "ceilingM": 9.9,
+   "theater": 800,
+   "school": 400,
+   "ushape": null,
+   "standing": 500,
+   "banquet": 300,
+   "note": null
+  },
+  {
+   "name": "ボールルーム B2 3スパン",
+   "areaM2": 1026,
+   "ceilingM": 9.9,
+   "theater": 1200,
+   "school": 640,
+   "ushape": null,
+   "standing": 1000,
+   "banquet": 480,
+   "note": null
+  },
+  {
+   "name": "ボールルーム B2 4スパン",
+   "areaM2": 1368,
+   "ceilingM": 9.9,
+   "theater": 1700,
+   "school": 930,
+   "ushape": null,
+   "standing": 1500,
+   "banquet": 660,
+   "note": null
+  },
+  {
+   "name": "ボールルーム B2 5スパン",
+   "areaM2": 1710,
+   "ceilingM": 9.9,
+   "theater": 2200,
+   "school": 1220,
+   "ushape": null,
+   "standing": 2000,
+   "banquet": 840,
+   "note": null
+  },
+  {
+   "name": "ボールルーム B2 6スパン",
+   "areaM2": 2052,
+   "ceilingM": 9.9,
+   "theater": 3000,
+   "school": 1510,
+   "ushape": null,
+   "standing": 2500,
+   "banquet": 1020,
+   "note": null
+  },
+  {
+   "name": "ボールルーム B2 7スパン",
+   "areaM2": 2394,
+   "ceilingM": 9.9,
+   "theater": 3600,
+   "school": 1800,
+   "ushape": null,
+   "standing": 3000,
+   "banquet": 1200,
+   "note": "全体で使う場合。ホテルの紹介文は「高さ10mの天井」、会場仕様一覧は天井高9.9m。フランス・バカラ社製のシャンデリアがある。"
+  },
+  {
+   "name": "コンベンションホール B2 1スパン",
+   "areaM2": 342,
+   "ceilingM": 9.9,
+   "theater": 400,
+   "school": 180,
+   "ushape": null,
+   "standing": 200,
+   "banquet": 120,
+   "note": "コンベンションホールも7通りに分割して使える。ボールルームと同じ面積・人数。"
+  },
+  {
+   "name": "コンベンションホール B2 2スパン",
+   "areaM2": 684,
+   "ceilingM": 9.9,
+   "theater": 800,
+   "school": 400,
+   "ushape": null,
+   "standing": 500,
+   "banquet": 300,
+   "note": null
+  },
+  {
+   "name": "コンベンションホール B2 3スパン",
+   "areaM2": 1026,
+   "ceilingM": 9.9,
+   "theater": 1200,
+   "school": 640,
+   "ushape": null,
+   "standing": 1000,
+   "banquet": 480,
+   "note": null
+  },
+  {
+   "name": "コンベンションホール B2 4スパン",
+   "areaM2": 1368,
+   "ceilingM": 9.9,
+   "theater": 1700,
+   "school": 930,
+   "ushape": null,
+   "standing": 1500,
+   "banquet": 660,
+   "note": null
+  },
+  {
+   "name": "コンベンションホール B2 5スパン",
+   "areaM2": 1710,
+   "ceilingM": 9.9,
+   "theater": 2200,
+   "school": 1220,
+   "ushape": null,
+   "standing": 2000,
+   "banquet": 840,
+   "note": null
+  },
+  {
+   "name": "コンベンションホール B2 6スパン",
+   "areaM2": 2052,
+   "ceilingM": 9.9,
+   "theater": 3000,
+   "school": 1510,
+   "ushape": null,
+   "standing": 2500,
+   "banquet": 1020,
+   "note": null
+  },
+  {
+   "name": "コンベンションホール B2 7スパン",
+   "areaM2": 2394,
+   "ceilingM": 9.9,
+   "theater": 3600,
+   "school": 1800,
+   "ushape": null,
+   "standing": 3000,
+   "banquet": 1200,
+   "note": "全体で使う場合。公式はLEDによる光の演出や、光ファイバーを使ったテレビ会議システムによる国際会議の利用を案内している。"
+  },
+  {
+   "name": "中宴会場 B2 いちょう（会議室）",
+   "areaM2": 175,
+   "ceilingM": 4.0,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": 30,
+   "note": "ボードルーム30名。"
+  },
+  {
+   "name": "中宴会場 B2 きんもくせい・さくら・さざんか・しゃくなげ・はなみずき",
+   "areaM2": 207,
+   "ceilingM": 4.0,
+   "theater": 200,
+   "school": 100,
+   "ushape": 54,
+   "standing": 120,
+   "banquet": 80,
+   "note": "5室とも同じ仕様。ボードルーム60名。"
+  },
+  {
+   "name": "中宴会場 B2 やまぼうし",
+   "areaM2": 175,
+   "ceilingM": 4.0,
+   "theater": 150,
+   "school": 80,
+   "ushape": 36,
+   "standing": 90,
+   "banquet": 60,
+   "note": "ボードルーム42名。"
+  },
+  {
+   "name": "小宴会場 B2 あじさい・あやめ・ききょう・すいせん・つつじ・ばら・ゆり",
+   "areaM2": 100,
+   "ceilingM": 3.0,
+   "theater": 60,
+   "school": 40,
+   "ushape": 24,
+   "standing": 50,
+   "banquet": 36,
+   "note": "7室とも同じ仕様。ボードルーム34名。ホテルの会場ページ（小宴会場・中宴会場）にはあじさいが無く6室だが、2026年7月作成の会場仕様一覧と2026年8月作成の館内全体図には7室ある。"
+  },
+  {
+   "name": "スカイバンケット 33F",
+   "areaM2": 184,
+   "ceilingM": 3.0,
+   "theater": 180,
+   "school": 100,
+   "ushape": 54,
+   "standing": 120,
+   "banquet": 100,
+   "note": "ホテル最上階。ボードルーム60名。PRINCE MICEの総合サイト（mice.princehotels.co.jp）には320㎡・ディナー80名の表記もある。"
+  },
+  {
+   "name": "神明 2F",
+   "areaM2": 81,
+   "ceilingM": null,
+   "theater": 48,
+   "school": 16,
+   "ushape": 16,
+   "standing": 30,
+   "banquet": 24,
+   "note": "独立型の神殿。ブッフェは庭園を使うと80名。会場仕様一覧は階を1Fと表記、平面図は2F。同じ公式サイトの施設一覧には129㎡・天井高2.9m・56名の表記もある。"
+  }
+ ],
+ "roomsSource": "https://www.princehotels.co.jp/tokyo-mice-city/parktower/document/banquet/parktower00_roomspec-2.pdf（会場仕様一覧、2026年7月作成）と https://www.princehotels.co.jp/tokyo-mice-city/parktower/banquet.html、各会場ページ https://www.princehotels.co.jp/parktower/banquet/ballroom/ ほか",
+ "ops": {
+  "parking": {
+   "text": "駐車場の事前予約はできない。駐車場は高さ2.1mの平面式で、大型の車は事前にホテルへ問い合わせる（公式FAQ）。一般の料金は8:00A.M.〜8:00P.M.が30分500円、8:00P.M.〜8:00A.M.が60分100円。最大料金は平日が当日12:00MIDまで6,000円、土休日はなし。宴会で使う場合は4時間まで無料で、超過分は駐車料金がかかる。出口に精算機はなく、施設出入口の精算機で車両ナンバー4桁を入力して精算する（2023年11月1日改訂）。",
+   "source": "https://www.princehotels.co.jp/file.jsp?id=303642"
+  },
+  "catering": {
+   "text": "ミーティング・パッケージ（2026年1月1日〜12月31日）では、ランチはお弁当（種類は問い合わせ）、懇親会はパーティープランが1名15,000円より（30名より）。リフレッシュメントはコーヒー・紅茶とスイーツまたはデニッシュで、ミネラルウォーター・ソーダが付く。",
+   "source": "https://www.princehotels.co.jp/parktower/banquet/meeting/print.pdf"
+  },
+  "restaurants": {
+   "text": "館内には、日本料理 芝桜、寿司 濱芝、天ぷら 天芝、焼き鳥 とり芝、中国料理 陽明殿、ステーキハウス 桂、Private Dining Brise Verte、Sky Bar & Dining Stellar Garden、ロビーラウンジ、メインバー もくれんがある。芝桜・濱芝・天芝には個室がある。二次会向けのパーティールーム（4〜30名）とイベントホール メロディーライン（30〜70名）もある。",
+   "source": "https://www.princehotels.co.jp/parktower/restaurant/"
+  }
+ },
+ "documents": [
+  {
+   "title": "会場仕様一覧（2026年7月作成）",
+   "url": "https://www.princehotels.co.jp/tokyo-mice-city/parktower/document/banquet/parktower00_roomspec-2.pdf"
+  },
+  {
+   "title": "館内全体図 B2・33F（2026年8月作成）",
+   "url": "https://www.princehotels.co.jp/tokyo-mice-city/parktower/document/banquet/parktower00_floormap-3.pdf"
+  },
+  {
+   "title": "ミーティング・パッケージ（2026年1月1日〜12月31日）",
+   "url": "https://www.princehotels.co.jp/parktower/banquet/meeting/print.pdf"
+  },
+  {
+   "title": "イベントホール メロディーライン／パーティールーム 二次会プラン（2025年3月作成）",
+   "url": "https://www.princehotels.co.jp/parktower/banquet/pdf/melody.pdf"
+  },
+  {
+   "title": "駐車場料金のご案内（2023年11月1日改訂）",
+   "url": "https://www.princehotels.co.jp/file.jsp?id=303642"
+  },
+  {
+   "title": "駐車場 精算のご案内",
+   "url": "https://www.princehotels.co.jp/file.jsp?id=373372"
+  },
+  {
+   "title": "ボールルーム 平面図",
+   "url": "https://www.princehotels.co.jp/parktower/banquet/ballroom/pdf/ballroom_floor.pdf"
+  },
+  {
+   "title": "ボールルーム 7スパン シアタースタイル",
+   "url": "https://www.princehotels.co.jp/parktower/banquet/ballroom/pdf/ballroom_theater.pdf"
+  },
+  {
+   "title": "ボールルーム 7スパン 立食パーティースタイル",
+   "url": "https://www.princehotels.co.jp/parktower/banquet/ballroom/pdf/ballroom_party.pdf"
+  },
+  {
+   "title": "コンベンションホール 平面図",
+   "url": "https://www.princehotels.co.jp/parktower/banquet/convention_hall/pdf/convention_hall_floor.pdf"
+  },
+  {
+   "title": "中宴会場 スクールスタイル",
+   "url": "https://www.princehotels.co.jp/parktower/banquet/small_and_medium/pdf/small_and_medium_school.pdf"
+  },
+  {
+   "title": "中宴会場 立食パーティースタイル",
+   "url": "https://www.princehotels.co.jp/parktower/banquet/small_and_medium/pdf/small_and_medium_party.pdf"
+  },
+  {
+   "title": "スカイバンケット 平面図",
+   "url": "https://www.princehotels.co.jp/parktower/banquet/sky_banquet/pdf/sky_banquet_floor.pdf"
+  },
+  {
+   "title": "よくあるご質問（アクセス・駐車場）",
+   "url": "https://www.princehotels.co.jp/parktower/faq/"
+  }
+ ],
+ "checkedAt": "2026-11-02",
+ "lat": 35.655983,
+ "lng": 139.746246,
+ "nearby": {
+  "convenience": [
+   {
+    "name": "ファミリーマート 東麻布一丁目店",
+    "brand": "ファミリーマート",
+    "distanceM": 252,
+    "walkMin": 4,
+    "hours": "24時間営業",
+    "address": "東京都港区東麻布1-28-13",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/18920",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "セブン-イレブン 港区芝3丁目店",
+    "brand": "セブン-イレブン",
+    "distanceM": 330,
+    "walkMin": 5,
+    "hours": "24時間営業",
+    "address": "東京都港区芝3丁目15-9",
+    "verified": true,
+    "source": "https://seven-eleven.areamarker.com/711map/info/016828",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "ローソン 芝公園南店",
+    "brand": "ローソン",
+    "distanceM": 366,
+    "walkMin": 5,
+    "hours": "24時間営業",
+    "address": "東京都港区芝3-3-12",
+    "verified": true,
+    "source": "https://www.areamarker.com/lawson/info/137130",
+    "note": "距離は公式の店舗位置で計算"
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "アクセア 浜松町店",
+    "brand": "アクセア",
+    "distanceM": 785,
+    "walkMin": 10,
+    "hours": "平日 8:00-22:00／土・日・祝 10:00-19:00",
+    "address": "東京都港区浜松町2-1-12 VORT浜松町III 1F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/map/hamamatsu.html",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "アクセア 御成門店",
+    "brand": "アクセア",
+    "distanceM": 786,
+    "walkMin": 10,
+    "hours": "平日 9:00-20:00／土・日・祝 休み",
+    "address": "東京都港区西新橋3-23-6 白川ビル1F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/map/onarimon.html",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Can★Do 城山ヒルズ店",
+    "brand": "キャンドゥ",
+    "distanceM": 1029,
+    "walkMin": 13,
+    "hours": "毎日 9:00-23:00",
+    "address": "東京都港区虎ノ門4-1-17 神谷町プライムプレイスB1階",
+    "verified": true,
+    "source": "https://shopinfo.cando-web.co.jp/detail/shop-1835/",
+    "note": "距離は公式の店舗位置で計算。遠め"
+   },
+   {
+    "name": "Seria 田町センタービル店",
+    "brand": "セリア",
+    "distanceM": 1066,
+    "walkMin": 14,
+    "hours": "毎日 10:00-21:00",
+    "address": "東京都港区芝5-34-7 田町センタービル B1F",
+    "verified": true,
+    "source": "https://shop.seria-group.com/seria/info/000002840",
+    "note": "距離は公式の店舗位置で計算。遠め"
+   }
+  ],
+  "donki": [
+   {
+    "name": "ドン・キホーテ 六本木店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 1274,
+    "walkMin": 16,
+    "hours": "24時間営業",
+    "address": "東京都港区六本木3-14-10",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=31",
+    "note": "距離は住所の位置で計算。遠め。ドン・キホーテ公式サイトの店舗名は「六本木店」"
+   },
+   {
+    "name": "ドン・キホーテ 銀座本館（銀座ナイン3号館）",
+    "brand": "ドン・キホーテ",
+    "distanceM": 1957,
+    "walkMin": 25,
+    "hours": "24時間営業",
+    "address": "東京都中央区銀座8-10 銀座ナイン3号館",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=92",
+    "note": "距離は住所の位置で計算。遠い。ドン・キホーテ公式サイトの店舗名は「銀座本館」"
+   }
+  ]
+ },
+ "drinkDelivery": {
+  "available": true
+ },
+ "photo": {
+  "src": "/images/venues/prince-park-tower-tokyo.jpg",
+  "credit": "© 江戸村のとくぞう / CC BY-SA 4.0 · Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Prince_Park_Tower_Tokyo1.jpg"
+ }
+}

@@ -1,0 +1,157 @@
+{
+ "slug": "ritz-carlton-tokyo",
+ "name": "The Ritz-Carlton, Tokyo",
+ "address": "Tokyo 107-6245 Tokyo Midtown, 9-7-1 Akasaka, Minato-ku",
+ "accessSummary": "Roppongi Station (Hibiya Line, Oedo Line): directly connected / Nogizaka Station (Chiyoda Line)",
+ "hours": "Meeting packages: up to 8 hours between 8:00 AM and 5:00 PM (half day or full day)",
+ "notice": null,
+ "rooms": [
+  {
+   "name": "2F The Ritz-Carlton Grand Ballroom (all of Ballroom I to IV)",
+   "note": "On the official floor plan, the grand ballroom is divided into 4 rooms, Ballroom I to IV. The total area stated on the official page varies: 1,352㎡ in the opening figures, 1,100㎡ in the description, and about 990㎡ (6 rooms in total) in the heading. The number of rooms also differs: the opening figures say 9 event rooms and 11 small meeting rooms, the heading says 6 rooms in total, and the FAQ says 9 rooms."
+  },
+  {
+   "name": "2F Ballroom I",
+   "note": "Conference style: 36 people."
+  },
+  {
+   "name": "2F Ballroom II",
+   "note": "Conference style: 36 people."
+  },
+  {
+   "name": "2F Ballroom III",
+   "note": "Conference style: 36 people."
+  },
+  {
+   "name": "2F Ballroom IV",
+   "note": "Conference style: 36 people."
+  },
+  {
+   "name": "2F The Foyer (pre-function area adjacent to the Grand Ballroom)",
+   "note": null
+  },
+  {
+   "name": "2F The Terrace (outdoor, facing Hinokicho Park)",
+   "note": null
+  },
+  {
+   "name": "2F The Chapel",
+   "note": null
+  },
+  {
+   "name": "1F The Parkview Room (entire room)",
+   "note": "The area in the description is 220㎡. It can be divided into Parkview West and Parkview East."
+  },
+  {
+   "name": "1F Parkview West",
+   "note": "Conference style: 24 people."
+  },
+  {
+   "name": "1F Parkview East",
+   "note": "Conference style: 30 people."
+  },
+  {
+   "name": "1F Magnolia Garden Room (The Garden Room + The Magnolia Room)",
+   "note": "Conference style: 30 people. The description says it can be divided into the Garden Room of 50㎡ and the Magnolia Room of 35㎡ (the table gives the Garden Room as 56㎡)."
+  },
+  {
+   "name": "1F The Garden Room",
+   "note": "Conference style: 18 people."
+  },
+  {
+   "name": "1F The Magnolia Room",
+   "note": "Conference style: 12 people."
+  },
+  {
+   "name": "1F The Maple Room",
+   "note": "Conference style: 12 people."
+  },
+  {
+   "name": "1F The Cypress Room",
+   "note": "Conference style: 24 people."
+  },
+  {
+   "name": "1F The Board Room",
+   "note": "Conference style: 14 people."
+  },
+  {
+   "name": "1F The Salon",
+   "note": null
+  }
+ ],
+ "ops": {
+  "parking": "There is a parking lot on the hotel grounds; the rates are 800 yen per hour, 8,000 yen per day and 56,000 yen per week. A valet parking service (8,000 yen per day) and electric vehicle charging stations are also available. (Official facility information)",
+  "restaurants": "The official dining page lists 7 venues in the hotel: Nina at The Ritz-Carlton, Tokyo (patisserie, daily 11:00-20:00), Héritage by Kei Kobayashi (French cuisine, closed Tue and Wed), Bistronomie \"Towers\" (daily 7:00-10:30 / 11:30-15:00 / 17:30-21:00), Hinokizaka (Japanese cuisine: kaiseki, sushi, tempura and teppanyaki; daily 11:30-14:30 / 17:30-21:00), The Lobby Lounge (daily from 11:00, until 23:00 on Fri and Sat), The Bar (45th floor, from 15:00; from 12:00 on Sat and Sun), La Boutique (daily 11:00-21:00)."
+ },
+ "documents": [
+  {
+   "title": "Meetings and events page (capacity chart, equipment and services, meeting packages, RFP)"
+  },
+  {
+   "title": "Floor plan, 1F (Parkview Room, Garden Room, etc.)"
+  },
+  {
+   "title": "Floor plan, 2F (Grand Ballroom, Foyer, Terrace, Chapel)"
+  },
+  {
+   "title": "Meetings and events RFP (request for proposal)"
+  },
+  {
+   "title": "Hotel overview, parking and access"
+  },
+  {
+   "title": "Dining"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "FamilyMart Tokyo Midtown",
+    "hours": "6:30-20:00",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "7-Eleven Tokyo Midtown",
+    "hours": "6:30-23:00 (Mon-Sun & holidays)",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "FamilyMart Roppongi 7-chome",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location."
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "Accea Roppongi",
+    "hours": "Weekdays 8:00-22:00 / Sat, Sun & holidays 10:00-19:00",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Accea Roppongi-itchome",
+    "hours": "Weekdays 9:00-20:00 / Closed Sat, Sun & holidays",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Can Do Shiroyama Hills",
+    "hours": "Daily 9:00-23:00",
+    "note": "Distance is calculated from the official store location. Rather far."
+   },
+   {
+    "name": "Can Do Akasaka Hitotsugi-dori",
+    "hours": "Mon-Fri 9:00-21:00 / Sat-Sun 9:00-20:00",
+    "note": "Distance is calculated from the official store location. Rather far."
+   }
+  ],
+  "donki": [
+   {
+    "name": "Don Quijote Roppongi",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. The store name on the Don Quijote official website is \"Roppongi\" (六本木店)."
+   }
+  ]
+ },
+ "photoCredit": "© Guilhem Vellut / CC BY 2.0 · Wikimedia Commons"
+}

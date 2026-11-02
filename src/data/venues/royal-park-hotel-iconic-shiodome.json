@@ -1,0 +1,255 @@
+{
+ "slug": "royal-park-hotel-iconic-shiodome",
+ "nameJa": "ザ ロイヤルパークホテル アイコニック 東京汐留",
+ "nameEn": "The Royal Park Hotel Iconic Tokyo Shiodome",
+ "type": "hotel",
+ "area": "shimbashi-hamamatsucho-venues",
+ "address": "〒105-8333 東京都港区東新橋1-6-3",
+ "officialUrl": "https://www.royalparkhotels.co.jp/ic/tokyoshiodome/",
+ "organizerUrl": "https://www.royalparkhotels.co.jp/ic/tokyoshiodome/banquet/",
+ "bizintokyoSlug": "royal-park-hotel-iconic-shiodome",
+ "accessSummary": "新橋駅（JR汐留口・都営浅草線）徒歩約3分／新橋駅（東京メトロ銀座線）徒歩約5分／汐留駅（都営大江戸線）徒歩約1分／汐留駅（ゆりかもめ・西出口）徒歩約1分",
+ "notice": null,
+ "hours": "スカイミーティングプラン（26Fミーティングルーム）は9:00〜21:00の営業時間内で、設営時間を含む",
+ "rooms": [
+  {
+   "name": "25F しおさい A＋B（全室）",
+   "areaM2": 282,
+   "ceilingM": "3.2-4.7",
+   "theater": 180,
+   "school": 132,
+   "ushape": null,
+   "standing": 160,
+   "banquet": 120,
+   "note": "着席ブッフェ100名。ホテル公式ページの数字。ファクトシート（2025年1月現在）は着席ブッフェ110名・スクール135名・シアター210名で、ページと数字が異なる"
+  },
+  {
+   "name": "25F しおさい A",
+   "areaM2": 188,
+   "ceilingM": "3.2-4.7",
+   "theater": 140,
+   "school": 72,
+   "ushape": null,
+   "standing": 90,
+   "banquet": 70,
+   "note": "着席ブッフェ60名。ファクトシート（2025年1月現在）のスクールは81名"
+  },
+  {
+   "name": "25F しおさい B",
+   "areaM2": 94,
+   "ceilingM": "3.2-4.7",
+   "theater": 70,
+   "school": 48,
+   "ushape": null,
+   "standing": 40,
+   "banquet": 40,
+   "note": "着席ブッフェ30名。ファクトシート（2025年1月現在）のスクールは60名"
+  },
+  {
+   "name": "26F ミーティングルーム A・B",
+   "areaM2": 26.3,
+   "ceilingM": 2.6,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "最大利用人数10名。公式の表はAとBを1行にまとめている（ミーティングルームは全4室）"
+  },
+  {
+   "name": "26F ミーティングルーム D",
+   "areaM2": 36.3,
+   "ceilingM": 2.6,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "最大利用人数12名"
+  },
+  {
+   "name": "26F ミーティングルーム E",
+   "areaM2": 40.6,
+   "ceilingM": 2.6,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "最大利用人数15名"
+  }
+ ],
+ "roomsSource": "https://www.royalparkhotels.co.jp/ic/tokyoshiodome/banquet/",
+ "ops": {
+  "parking": {
+   "text": "ホテル地下（B3〜B4F）の公共駐車場で、192台（ファクトシート2025年1月現在）。事前の予約は受け付けていない。収容できる車は長さ5.3m以下・幅1.95m以下・高さ1.55〜2.1m以下。宴会場の利用者は3時間まで無料、ミーティングルームの利用者は2時間まで無料で、延長は20分につき300円（税込）。駐車場に関する問い合わせは駐車場管理室（080-5781-5994）。",
+   "source": "https://www.royalparkhotels.co.jp/ic/tokyoshiodome/about/access/"
+  },
+  "waitingRooms": {
+   "text": "26Fの4室のミーティングルーム（A・B 26.3㎡・10名、D 36.3㎡・12名、E 40.6㎡・15名）を、会議や控室などに使えると案内している。スカイミーティングプランは6〜15名が対象で、1人10,000円（4時間）／13,000円（ランチ付き・6時間）／15,000円（ランチ付き・8時間）、税・サービス料込み、プランの期間は2026年4月1日〜2027年3月31日。このプランは会議・打合せ目的のみで、部屋の指定はできない。50インチモニターとWi-Fiは無料、プロジェクター16,500円・スクリーン5,500円・ホワイトボード3,300円は有料。（スカイミーティングプランご案内 2026.4.1〜2027.3.31）",
+   "source": "https://www.royalparkhotels.co.jp/ic/tokyoshiodome/banquet/sky-meeting/"
+  },
+  "restaurants": {
+   "text": "館内にレストラン＆バーが4店ある：24Fのオールデイダイニング「HARMONY」（80席・個室6〜14席）とバー・ラウンジ「THE BAR」（46席）、25Fの日本料理「大志満 新橋汐留店」（96席・個室5室〔4〜18席〕）、1Fのカフェ「チャヤマクロビ」（70席）。公式FAQは、レストランの貸切・二次会・パーティー利用ができると案内している（レストランへ問い合わせ）。宴会場「しおさい」のパーティープランは、ブッフェスタイル（20名〜、13,000円／15,000円／18,000円）と正餐スタイル（10名〜、15,000円／18,000円／25,000円）で、いずれも2時間のフリードリンク付き、料理・飲物・会場費・税・サービス料込み（2026年4月1日〜2027年3月31日。13,000円のブッフェは2026年12月1日〜2027年1月31日を除く。ブッフェの時間延長は30分1人1,300円）。",
+   "source": "https://www.royalparkhotels.co.jp/ic/tokyoshiodome/about/faq/"
+  }
+ },
+ "documents": [
+  {
+   "title": "宴会・会議のページ（宴会場「しおさい」・ミーティングルームの表）",
+   "url": "https://www.royalparkhotels.co.jp/ic/tokyoshiodome/banquet/"
+  },
+  {
+   "title": "スカイミーティングプランご案内（PDF、2026.4.1〜2027.3.31）",
+   "url": "https://www.royalparkhotels.co.jp/ic/tokyoshiodome/assets/files/pdf/sky_meetingplan.pdf"
+  },
+  {
+   "title": "パーティープラン「ブッフェスタイル」（PDF、2026.4.1〜2027.3.31）",
+   "url": "https://www.royalparkhotels.co.jp/ic/tokyoshiodome/assets/files/pdf/buffet_partyplan.pdf"
+  },
+  {
+   "title": "パーティープラン「正餐スタイル」（PDF、2026.4.1〜2027.3.31）",
+   "url": "https://www.royalparkhotels.co.jp/ic/tokyoshiodome/assets/files/pdf/formal_partyplan.pdf"
+  },
+  {
+   "title": "ホテルファクトシート（宴会場・会議室の表、フロアガイド、駐車場192台、2025年1月現在）",
+   "url": "https://www.royalparkhotels.co.jp/ic/tokyoshiodome/assets/files/pdf/2025hotelguestroomfactsheet.pdf"
+  },
+  {
+   "title": "アクセス・駐車場のご案内",
+   "url": "https://www.royalparkhotels.co.jp/ic/tokyoshiodome/about/access/"
+  },
+  {
+   "title": "アクセスマップ（PDF）",
+   "url": "https://www.royalparkhotels.co.jp/ic/tokyoshiodome/assets/files/pdf/access_map.pdf"
+  },
+  {
+   "title": "よくあるご質問",
+   "url": "https://www.royalparkhotels.co.jp/ic/tokyoshiodome/about/faq/"
+  },
+  {
+   "title": "食事（レストラン＆バー）",
+   "url": "https://www.royalparkhotels.co.jp/ic/tokyoshiodome/dining/"
+  }
+ ],
+ "checkedAt": "2026-11-02",
+ "lat": 35.664265,
+ "lng": 139.760147,
+ "nearby": {
+  "convenience": [
+   {
+    "name": "ファミリーマート 汐留タワー店",
+    "brand": "ファミリーマート",
+    "distanceM": 50,
+    "walkMin": 1,
+    "hours": "24時間営業",
+    "address": "東京都港区東新橋1丁目6-3",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/77205",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "ファミリーマート 汐留シオサイト店",
+    "brand": "ファミリーマート",
+    "distanceM": 86,
+    "walkMin": 2,
+    "hours": "6:00-1:00",
+    "address": "東京都港区東新橋1丁目5番 25号地先",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/59440",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "ファミリーマート 汐留メディアタワー店",
+    "brand": "ファミリーマート",
+    "distanceM": 96,
+    "walkMin": 2,
+    "hours": "24時間営業",
+    "address": "東京都港区東新橋1-7-1 汐留メディアタワーB2F",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/18585",
+    "note": "距離は公式の店舗位置で計算"
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "キンコーズ・汐留店",
+    "brand": "キンコーズ",
+    "distanceM": 32,
+    "walkMin": 1,
+    "hours": "平日 9:00-19:00／土・日・祝 休業",
+    "address": "東京都港区東新橋1丁目6-3 汐留タワーB2F",
+    "verified": true,
+    "source": "https://www.kinkos.co.jp/store/tokyo/t030/",
+    "note": "距離は公式ページの地図の位置で計算。会場と同じ建物（汐留タワーB2F）"
+   },
+   {
+    "name": "アクセア 汐留シティセンター店",
+    "brand": "アクセア",
+    "distanceM": 190,
+    "walkMin": 3,
+    "hours": "平日・土日祝 8:00-22:00",
+    "address": "東京都港区東新橋1-5-2 汐留シティセンターB2F B204",
+    "verified": true,
+    "source": "https://www.accea.co.jp/map/shiodome.html",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "3COINS OOOPS! 新橋駅汐留口店",
+    "brand": "3COINS",
+    "distanceM": 269,
+    "walkMin": 4,
+    "hours": "平日 8:00-22:00／土日祝 10:00-21:00",
+    "address": "東京都港区新橋2丁目17-14 JR新橋駅構内B1F",
+    "verified": true,
+    "source": "https://palcloset.storelocator.jp/detail/345",
+    "note": "距離は公式の店舗位置で計算。公式の3COINS店舗一覧に載る駅ナカ業態「OOOPS!」"
+   },
+   {
+    "name": "Seria イグジットメルサ銀座店",
+    "brand": "セリア",
+    "distanceM": 796,
+    "walkMin": 10,
+    "hours": "毎日 11:00-20:00",
+    "address": "東京都中央区銀座5-7-10 EXITMELSA 5F",
+    "verified": true,
+    "source": "https://shop.seria-group.com/seria/info/000002655",
+    "note": "距離は公式の店舗位置で計算"
+   }
+  ],
+  "donki": [
+   {
+    "name": "ドン・キホーテ 銀座本館（銀座ナイン3号館）",
+    "brand": "ドン・キホーテ",
+    "distanceM": 438,
+    "walkMin": 6,
+    "hours": "24時間営業",
+    "address": "東京都中央区銀座8-10 銀座ナイン3号館",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=92",
+    "note": "距離は住所の位置で計算。ドン・キホーテ公式サイトの店舗名は「銀座本館」"
+   },
+   {
+    "name": "ドン・キホーテ 六本木店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 2318,
+    "walkMin": 29,
+    "hours": "24時間営業",
+    "address": "東京都港区六本木3-14-10",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=31",
+    "note": "距離は住所の位置で計算。遠い。ドン・キホーテ公式サイトの店舗名は「六本木店」"
+   }
+  ]
+ },
+ "drinkDelivery": {
+  "available": true
+ },
+ "photo": {
+  "src": "/images/venues/royal-park-hotel-iconic-shiodome.jpg",
+  "credit": "© Kakidai / CC BY-SA 3.0 · Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Shiodome_Tower_2012.JPG"
+ }
+}

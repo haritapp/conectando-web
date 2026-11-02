@@ -1,0 +1,293 @@
+{
+ "slug": "osaki-bright-core-hall",
+ "nameJa": "大崎ブライトコアホール",
+ "nameEn": "OSAKI BRIGHT CORE HALL",
+ "type": "conference",
+ "area": "shinagawa-venues",
+ "address": "〒141-0001 東京都品川区北品川5丁目5-15 大崎ブライトコア3F",
+ "officialUrl": "https://osaki-hall.jp/",
+ "organizerUrl": "https://osaki-hall.jp/about/flow",
+ "bizintokyoSlug": "osaki-bright-core-hall",
+ "accessSummary": "JR山手線・JR埼京線・JR湘南新宿ライン・りんかい線 大崎駅 徒歩5分",
+ "notice": null,
+ "hours": "基本使用は9:00〜20:00（11時間）。時間使用は最低6時間から。貸出は24時間可能だが、23:00〜翌7:00はイベント本番はできない。電話受付は平日10:00〜19:00（2025年8月4日現在）。年末年始（12月29日〜1月3日）は休館日。使用時間には準備・設営・後片付けの時間も含まれる。基本使用（9:00〜20:00）の前後は時間外延長料がかかり、事前に運営者の承認が必要",
+ "rooms": [
+  {
+   "name": "ホール全面",
+   "areaM2": 439.1,
+   "ceilingM": 4,
+   "theater": 460,
+   "school": 360,
+   "ushape": null,
+   "standing": 300,
+   "banquet": 144,
+   "note": "シアターは最大460席（標準400席）。スクールは3名掛けの最大360席（標準306席）、2名掛けの図面は240席。グループ形式は仕様概要で216席（24島）、図面で252席（9名掛け）。着席ビュッフェは144席（18テーブル）。幅15m×奥行29m。スクリーン200インチ1面・150インチ2面、プロジェクター3台。全面使用のときはホワイエ・控室・クローク・バーカウンターも専有できる。"
+  },
+  {
+   "name": "ホールA（前側）",
+   "areaM2": 222.7,
+   "ceilingM": 4,
+   "theater": 180,
+   "school": 144,
+   "ushape": 66,
+   "standing": 150,
+   "banquet": null,
+   "note": "半面使用。グループ形式は108席（12島）。スクリーン200インチ1面・プロジェクター1台。半面使用ではホワイエ・通路・トイレが共用部になり、クロークとバーカウンターは使えない。控室はホールAが2部屋（01・02）。"
+  },
+  {
+   "name": "ホールB（後側）",
+   "areaM2": 216.4,
+   "ceilingM": 4,
+   "theater": 180,
+   "school": 144,
+   "ushape": 66,
+   "standing": 150,
+   "banquet": null,
+   "note": "半面使用。グループ形式は108席（12島）。スクリーン150インチ2面・プロジェクター2台。半面使用ではホワイエ・通路・トイレが共用部になり、クロークとバーカウンターは使えない。控室はホールBが1部屋（03）。"
+  },
+  {
+   "name": "ホワイエ",
+   "areaM2": 216.4,
+   "ceilingM": 3.5,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": 100,
+   "banquet": null,
+   "note": "面積はホール概要ページで216.4㎡（通路を除く）、仕様概要PDF（2014年8月1日作成）では217.6㎡。幅16m×奥行10〜14m。バーカウンター（冷蔵庫・製氷機・シンク付）。ホール終了後に転換時間なくホワイエで立食の懇親会ができる。全面使用の基本会場費に含まれる。"
+  }
+ ],
+ "roomsSource": "https://osaki-hall.jp/about、https://osaki-hall.jp/pdf/list/siyou.pdf、https://osaki-hall.jp/download",
+ "ops": {
+  "loadingHours": {
+   "text": "搬入出は地下1階の荷捌きスペースから搬入用エレベーターで3階へ上げる。搬入出できる時間は7:00〜23:30。エレベーターは内寸W1,800×D2,300×H3,000mm・積載2,000kg、扉はW1,300×H2,400mm。当日はセキュリティカードが必要で、代表者がホール事務室（3F）で受け取る。来場者用エレベーターでの搬入出は禁止。床・壁などの養生が必要。事前手続きは、搬入出届に搬入物・時間・車両の大きさ・台数を書いて催事の2週間前までに担当者を通じてビルへ提出する（搬入経路図は「1週間前までに施設担当者へ連絡」と書いている）。運営・準備Q&A集には搬入出の時間帯が「23:30〜翌7:00」と書かれており、搬入経路図の7:00〜23:30と食い違う。事前申請がないと搬入出できない場合がある。荷物の事前郵送は、前後の催事との調整が必要なので担当者に相談し、利用日の前日着の指定で送る（3辺計180cm・30kg以内を10箱までが目安）。",
+   "source": "http://osaki-hall.jp/pdf/map/hannyu.pdf"
+  },
+  "vehicleRules": {
+   "text": "入場できる車両は高さ3,000mm×幅2,200mm×長さ6,400mm以下、2tショートまで（積載2,000kg）。地上での荷捌きはできず、地下1階の荷捌きスペース（2か所）を使う。荷捌きスペースは入場から30分まで無料で、以降は30分250円。留め置きはできず、作業が終わったらすみやかに退出する（運営・準備Q&A集は原則30分以内の移動としている）。搬入用エレベーターと荷捌きスペースはビルの共用部で、ほかのテナントや来場者の妨げにならないようにする。自動車・バイク・自転車の路上駐車は使用規定で禁止。",
+   "source": "http://osaki-hall.jp/pdf/map/hannyu.pdf"
+  },
+  "parking": {
+   "text": "ホール専用の駐車場はなく、地下の有料機械式駐車場を使う。大崎ブライトコア地下は35台（セダン系向け）で、車両制限は高さ1.55m・幅1.85m・長さ5.0m・重量1.9t。大崎ブライトタワー地下は51台（ワゴン系向け）で、高さ2.05m・幅1.95m・長さ5.30m・重量2.3t。どちらも予約不可、7:00〜23:30は30分250円（上限1,800円）、23:30〜翌7:00は上限500円で入出庫不可。駐車割引はない。残金の支払い時に精算できる駐車金券があり、使う場合は催事の2週間前までに知らせる。自転車用の駐輪場はビル外周の敷地内にある。",
+   "source": "http://osaki-hall.jp/pdf/map/hannyu.pdf"
+  },
+  "waitingRooms": {
+   "text": "控室が3部屋ある。控室01は29㎡（8.7坪）、控室02は29㎡（8.7坪）、控室03は25.2㎡（7.6坪）。控室01と02は一体で使える。ほかに運営事務室とクローク（8.5㎡、固定ハンガー付）がある。控室・クローク・ホワイエの使用料は会場費に含まれる。半面使用では、ホールAが控室2部屋（01・02）、ホールBが控室1部屋（03）。控室とクロークの鍵は貸し出され、貴重品の管理は利用者が行う。",
+   "source": "https://osaki-hall.jp/about"
+  },
+  "catering": {
+   "text": "飲食はすべてのエリアでできる。裸火の使用と調理はできない。お弁当などは会場が複数社を手配でき（受取対応・ゴミ処分・料金の一括請求が可能）、利用者が直接手配する場合も手数料はかからない。指定業者制度はない。直接手配する場合は、搬入経路などを事前に相談し、関係者が下見をする。お弁当ゴミは利用者が処分または回収する。分別すれば計540ℓまでのゴミは無料で処分される。ホワイエでの立食懇親会は料理＋2時間フリードリンクで1名5,500円（税込）。（出典：運営・準備Q&A集 2025年8月4日現在、オプション手配例）",
+   "source": "http://osaki-hall.jp/pdf/dengen/QA.pdf"
+  },
+  "restaurants": {
+   "text": "ホールで会議・セミナーなどが終わったあと、転換時間なくホワイエで200名前後の立食懇親会ができる（1名5,500円〜、税込）。ビル1階にセブン-イレブンがあり、道を挟んで真向かいにスーパー「ライフ品川御殿山店」がある。",
+   "source": "https://osaki-hall.jp/option/party/"
+  }
+ },
+ "documents": [
+  {
+   "title": "料金表（一般）（2026/4/1）",
+   "url": "http://osaki-hall.jp/pdf/list/ryoukin.pdf"
+  },
+  {
+   "title": "料金表（区民料金）（2026/4/1）",
+   "url": "http://osaki-hall.jp/pdf/list/kuminryoukin.pdf"
+  },
+  {
+   "title": "使用規定（令和7年12月一部改訂）",
+   "url": "http://osaki-hall.jp/pdf/docs/kiyaku.pdf"
+  },
+  {
+   "title": "キャンセルポリシー",
+   "url": "http://osaki-hall.jp/pdf/docs/cancel.pdf"
+  },
+  {
+   "title": "搬入経路・駐車場案内図",
+   "url": "http://osaki-hall.jp/pdf/map/hannyu.pdf"
+  },
+  {
+   "title": "地図",
+   "url": "http://osaki-hall.jp/pdf/map/map.pdf"
+  },
+  {
+   "title": "運営・準備Q&A集（2025年8月4日現在）",
+   "url": "http://osaki-hall.jp/pdf/dengen/QA.pdf"
+  },
+  {
+   "title": "仕様概要（2014年8月1日作成）",
+   "url": "http://osaki-hall.jp/pdf/list/siyou.pdf"
+  },
+  {
+   "title": "平面図",
+   "url": "http://osaki-hall.jp/pdf/floor/flat.pdf"
+  },
+  {
+   "title": "スケール図（2014年8月1日作成）",
+   "url": "http://osaki-hall.jp/pdf/floor/scale.pdf"
+  },
+  {
+   "title": "備品表",
+   "url": "http://osaki-hall.jp/pdf/list/bihin.pdf"
+  },
+  {
+   "title": "音響機材表（2024年4月1日作成）",
+   "url": "http://osaki-hall.jp/pdf/list/sound.pdf"
+  },
+  {
+   "title": "照明機材表（2024年4月1日作成）",
+   "url": "http://osaki-hall.jp/pdf/list/lighting.pdf"
+  },
+  {
+   "title": "映像機材表（2024年4月1日作成）",
+   "url": "http://osaki-hall.jp/pdf/list/av.pdf"
+  },
+  {
+   "title": "電源回路図（2026年4月1日現在）",
+   "url": "http://osaki-hall.jp/pdf/dengen/dengen.pdf"
+  },
+  {
+   "title": "照明基本仕込み図",
+   "url": "http://osaki-hall.jp/pdf/list/lightingsetting.pdf"
+  },
+  {
+   "title": "全面使用シアター形式460名レイアウト（2014年8月1日作成）",
+   "url": "http://osaki-hall.jp/pdf/layout/business/allthea460.pdf"
+  },
+  {
+   "title": "全面使用スクール形式360名レイアウト",
+   "url": "http://osaki-hall.jp/pdf/layout/business/allsc360.pdf"
+  },
+  {
+   "title": "全面使用立食ビュッフェ約300名レイアウト",
+   "url": "http://osaki-hall.jp/pdf/layout/business/allparty300.pdf"
+  },
+  {
+   "title": "資料一括ダウンロード（ZIP）",
+   "url": "https://osaki-hall.jp/pdf/map/all-download.zip"
+  },
+  {
+   "title": "資料ダウンロード（公式ページ）",
+   "url": "https://osaki-hall.jp/download"
+  }
+ ],
+ "checkedAt": "2026-11-02",
+ "lat": 35.621887,
+ "lng": 139.731201,
+ "nearby": {
+  "convenience": [
+   {
+    "name": "セブン-イレブン 大崎ブライトコア店",
+    "brand": "セブン-イレブン",
+    "distanceM": 15,
+    "walkMin": 1,
+    "hours": "24時間営業",
+    "address": "東京都品川区北品川5丁目5番15号",
+    "verified": true,
+    "source": "https://seven-eleven.areamarker.com/711map/info/375906",
+    "note": "距離は公式の店舗位置で計算。会場と同じ建物（大崎ブライトコア）"
+   },
+   {
+    "name": "ファミリーマート 大崎ブライトタワー店",
+    "brand": "ファミリーマート",
+    "distanceM": 94,
+    "walkMin": 2,
+    "hours": "6:00-23:00（土曜は7:00-23:00。日曜・祝日は休み）",
+    "address": "東京都品川区北品川5丁目6-1",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/20853",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "ファミリーマート 大崎ニューシティ店",
+    "brand": "ファミリーマート",
+    "distanceM": 252,
+    "walkMin": 4,
+    "hours": "8:00-22:00",
+    "address": "東京都品川区大崎1丁目6-5 2階",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/58907",
+    "note": "距離は公式の店舗位置で計算"
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "アクセア ゲートシティ大崎店",
+    "brand": "アクセア",
+    "distanceM": 215,
+    "walkMin": 3,
+    "hours": "平日 9:00-20:00／土日祝 10:00-19:00",
+    "address": "東京都品川区大崎1-11-1 ゲートシティ大崎ウエストタワー3階(0306A)",
+    "verified": true,
+    "source": "https://www.accea.co.jp/map/gatecity_osaki.html",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "アクセア 五反田店",
+    "brand": "アクセア",
+    "distanceM": 814,
+    "walkMin": 11,
+    "hours": "24時間営業（年中無休）",
+    "address": "東京都品川区西五反田1-24-4 タキゲンビル1F/2F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/map/gotanda.html",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "DAISO 大崎ニューシティ店",
+    "brand": "ダイソー",
+    "distanceM": 197,
+    "walkMin": 3,
+    "hours": "9:30-21:00",
+    "address": "東京都品川区大崎1-6-5 大崎ニューシティ5号館1階",
+    "verified": true,
+    "source": "https://www.daiso-sangyo.co.jp/shop/detail/008392",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "Can★Do 五反田東急スクエア店",
+    "brand": "キャンドゥ",
+    "distanceM": 713,
+    "walkMin": 9,
+    "hours": "毎日 10:00-21:00",
+    "address": "東京都品川区東五反田2-1-2 五反田東急スクエア店6階",
+    "verified": true,
+    "source": "https://shopinfo.cando-web.co.jp/detail/shop-5169/",
+    "note": "距離は公式の店舗位置で計算"
+   }
+  ],
+  "donki": [
+   {
+    "name": "ドン・キホーテ 五反田東口店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 763,
+    "walkMin": 10,
+    "hours": "8:00-5:00",
+    "address": "東京都品川区東五反田一丁目12番地7号",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=606",
+    "note": "距離は住所の位置で計算。ドン・キホーテ公式サイトの店舗名は「五反田東口店」"
+   },
+   {
+    "name": "ドン・キホーテ 戸越銀座店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 1536,
+    "walkMin": 20,
+    "hours": "9:00-2:00",
+    "address": "東京都品川区平塚一丁目6番18号",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=731",
+    "note": "距離は住所の位置で計算。遠い。実際の道のりは約1,992m"
+   }
+  ]
+ },
+ "drinkDelivery": {
+  "available": true
+ },
+ "photo": {
+  "src": "/images/venues/osaki-bright-core-hall.jpg",
+  "credit": "Wakuwaku99 / Public domain · Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Park_City_Osaki(Osaki_Bright_Core).jpg"
+ }
+}

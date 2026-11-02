@@ -1,0 +1,352 @@
+{
+ "slug": "otemachi-sankei-plaza",
+ "nameJa": "大手町サンケイプラザ",
+ "nameEn": "",
+ "type": "conference",
+ "area": "marunouchi-nihonbashi-venues",
+ "address": "〒100-0004 東京都千代田区大手町1-7-2 東京サンケイビル2階〜4階",
+ "officialUrl": "https://www.s-plaza.com/",
+ "organizerUrl": "https://www.s-plaza.com/guide/",
+ "bizintokyoSlug": "otemachi-sankei-plaza",
+ "accessSummary": "大手町駅（丸ノ内線・半蔵門線・千代田線・東西線・都営三田線）A4・E1出口 直結／JR東京駅 丸の内北口 徒歩7分",
+ "notice": null,
+ "hours": "基本営業時間 9:00〜21:00（料金表に8:00開始の設定あり）。当日の入室は開始30分前から（30分以上前からの入室は有料）",
+ "rooms": [
+  {
+   "name": "2F 201号室・202号室（各）",
+   "areaM2": 53,
+   "ceilingM": 3.0,
+   "theater": 72,
+   "school": 32,
+   "ushape": 30,
+   "standing": 30,
+   "banquet": 20,
+   "note": "スクールは2人掛け。3人掛け 48席。島型 24席"
+  },
+  {
+   "name": "2F 201・202号室",
+   "areaM2": 120,
+   "ceilingM": 3.0,
+   "theater": 104,
+   "school": 44,
+   "ushape": 36,
+   "standing": 70,
+   "banquet": 40,
+   "note": "スクールは2人掛け。3人掛け 66席。島型 54席"
+  },
+  {
+   "name": "3F 301号室・302号室・303号室（各）",
+   "areaM2": 83,
+   "ceilingM": 3.0,
+   "theater": 112,
+   "school": 52,
+   "ushape": 48,
+   "standing": 50,
+   "banquet": 30,
+   "note": "スクールは2人掛け。3人掛け 78席。島型 36席。303号室の個別ページには53㎡/16坪の表記があるが、会場一覧・料金表は83㎡"
+  },
+  {
+   "name": "3F 304号室",
+   "areaM2": 103,
+   "ceilingM": 3.0,
+   "theater": 112,
+   "school": 52,
+   "ushape": 48,
+   "standing": 60,
+   "banquet": 30,
+   "note": "スクールは2人掛け。3人掛け 78席。島型 36席"
+  },
+  {
+   "name": "3F 301・302号室",
+   "areaM2": 191,
+   "ceilingM": 3.0,
+   "theater": 272,
+   "school": 126,
+   "ushape": 66,
+   "standing": 110,
+   "banquet": 60,
+   "note": "スクールは2人掛け。3人掛け 189席。島型 96席"
+  },
+  {
+   "name": "3F 303・304号室",
+   "areaM2": 209,
+   "ceilingM": 3.0,
+   "theater": 272,
+   "school": 126,
+   "ushape": 66,
+   "standing": 120,
+   "banquet": 60,
+   "note": "スクールは2人掛け。3人掛け 189席。島型 96席"
+  },
+  {
+   "name": "3F 301〜303号室",
+   "areaM2": 297,
+   "ceilingM": 3.0,
+   "theater": 360,
+   "school": 156,
+   "ushape": 84,
+   "standing": 200,
+   "banquet": 80,
+   "note": "スクールは2人掛け。3人掛け 234席。島型 126席"
+  },
+  {
+   "name": "3F 301〜304号室",
+   "areaM2": 422,
+   "ceilingM": 3.0,
+   "theater": 504,
+   "school": 228,
+   "ushape": 102,
+   "standing": 300,
+   "banquet": 120,
+   "note": "スクールは2人掛け。3人掛け 342席。島型 150席。数字は縦型レイアウト（スクール2人掛け228・3人掛け342・島型150・椅子型504）。横型はスクール2人掛け200・3人掛け300・島型204・椅子型432"
+  },
+  {
+   "name": "3F 310号室",
+   "areaM2": 85,
+   "ceilingM": 2.85,
+   "theater": 96,
+   "school": 36,
+   "ushape": 36,
+   "standing": 50,
+   "banquet": 30,
+   "note": "スクールは2人掛け。3人掛け 54席。島型 36席"
+  },
+  {
+   "name": "3F 311号室・312号室（各）",
+   "areaM2": 113,
+   "ceilingM": 2.85,
+   "theater": 128,
+   "school": 56,
+   "ushape": 42,
+   "standing": 60,
+   "banquet": 40,
+   "note": "スクールは2人掛け。3人掛け 84席。島型 72席"
+  },
+  {
+   "name": "3F 311・312号室",
+   "areaM2": 229,
+   "ceilingM": 2.85,
+   "theater": 288,
+   "school": 128,
+   "ushape": 78,
+   "standing": 120,
+   "banquet": 80,
+   "note": "スクールは2人掛け。3人掛け 192席。島型 138席"
+  },
+  {
+   "name": "4F ホール",
+   "areaM2": 455,
+   "ceilingM": 7.0,
+   "theater": 600,
+   "school": 264,
+   "ushape": 120,
+   "standing": 450,
+   "banquet": 200,
+   "note": "スクールは2人掛け。3人掛け 396席。島型 246席。面積・人数はホールのみ。401号室（29㎡）・ラウンジ（146㎡）とあわせた「ホール+401号室+ラウンジ」は630㎡"
+  },
+  {
+   "name": "4F 401号室",
+   "areaM2": 29,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "公式ページでは「ホール・控室(401号室)・ラウンジ」の名称で案内。最大収容人数10名（料金表）。単独利用はできず、ホールとのセット"
+  },
+  {
+   "name": "4F ラウンジ",
+   "areaM2": 146,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "貸切はホールと401号室を一括で利用した場合のみ"
+  }
+ ],
+ "roomsSource": "https://www.s-plaza.com/room/",
+ "ops": {
+  "prevDaySetup": {
+   "text": "基本営業時間は9:00〜21:00で、基本営業時間外の利用には営業時間外延長料金がかかる。展示会は展示会料金となり、仕込みで時間単位の利用をする場合は会議室料金の3割増し、21時以降も作業が続く場合は延長料金を申し受ける。展示装飾・工事は当社指定会社へ依頼する。",
+   "source": "https://www.s-plaza.com/rule/"
+  },
+  "loadingHours": {
+   "text": "荷物の事前預かりは開催前日までに2階フロント宛（〒100-0004 東京都千代田区大手町1-7-2 大手町サンケイプラザ2階フロント、催事名・担当名を記載）。会場からの発送は2階フロントへ持参し、原則着払い（17:00以降は翌日発送）。搬入エレベーターは高さ270cm・横320cm・奥行170cm（出入口は高さ210cm×横247cm）、最大積載量2,700kg、1階〜5階に停止。台車は無料で貸出。",
+   "source": "https://www.s-plaza.com/guide/qa/hall/840.html"
+  },
+  "vehicleRules": {
+   "text": "駐車場に入れる一般車両は高さ2.3m・長さ5.3m・幅1.9mまで。搬入車両は2トン標準車までとしている。大型貨物エレベーターは地上1階の駐車場入口を入ってすぐ。",
+   "source": "https://www.s-plaza.com/guide/qa/access/854.html"
+  },
+  "parking": {
+   "text": "ビル地下にタイムズ24の時間貸し駐車場があり、入口はビル北側（大手町フィナンシャルシティ側）。料金は30分440円で、無料サービス・割引はない。利用時間はこのFAQでは7:00〜22:30、アクセスページとご利用規定では7:00〜23:30と表記されている。",
+   "source": "https://www.s-plaza.com/guide/qa/access/852.html"
+  },
+  "waitingRooms": {
+   "text": "4階の401号室（29㎡）は公式ページで「ホール・控室(401号室)・ラウンジ」として案内。401号室とラウンジ（146㎡）は単独では借りられず、ホール、401号室、ラウンジの一括利用（630㎡）となる。",
+   "source": "https://www.s-plaza.com/price/room/"
+  },
+  "catering": {
+   "text": "飲食の持ち込みは衛生上の理由で不可。館内に厨房・パントリーを併設しており、飲食は当社の営業担当へ発注する。お弁当は1個から注文でき、数は前日午前中（土日祝を除く）までに確定する。",
+   "source": "https://www.s-plaza.com/guide/qa/meal/847.html"
+  },
+  "restaurants": {
+   "text": "館内の専用厨房が提供するパーティープランで懇親会ができる（20名から最大450名）。ライトミール立食プラン（1.5時間フリードリンク付）は7,000円、カジュアルプラン（2時間フリードリンク付）は8,800円、グルメプランは9,800円（いずれも1人あたり・税込、2026年9月〜11月期の掲載）。12月〜1月は忘新年会プランとなる。セミナーと同じ部屋での懇親会も可能だが転換時間が必要で、別会場を取るほうがスムーズとしている。",
+   "source": "https://www.s-plaza.com/menu/5.html"
+  }
+ },
+ "documents": [
+  {
+   "title": "ホール・会議室使用料金表（2026年1月現在）",
+   "url": "https://www.s-plaza.com/assets/pdf/room/price.pdf"
+  },
+  {
+   "title": "会場フロア図面",
+   "url": "https://www.s-plaza.com/assets/pdf/room/floor.pdf"
+  },
+  {
+   "title": "会場設備図面（電源・回線位置）",
+   "url": "https://www.s-plaza.com/assets/pdf/room/facility.pdf"
+  },
+  {
+   "title": "非常経路のご案内",
+   "url": "https://www.s-plaza.com/assets/pdf/common/sankeiexit.pdf"
+  },
+  {
+   "title": "交通のご案内（地図）",
+   "url": "https://www.s-plaza.com/assets/pdf/access/map-jp.pdf"
+  },
+  {
+   "title": "駐車場マップ",
+   "url": "https://www.s-plaza.com/assets/pdf/access/parking-jp.pdf"
+  },
+  {
+   "title": "ご利用規定",
+   "url": "https://www.s-plaza.com/rule/"
+  },
+  {
+   "title": "会場料金",
+   "url": "https://www.s-plaza.com/price/room/"
+  },
+  {
+   "title": "展示会特殊料金",
+   "url": "https://www.s-plaza.com/price/exhibition/"
+  },
+  {
+   "title": "よくあるご質問",
+   "url": "https://www.s-plaza.com/guide/qa/"
+  }
+ ],
+ "checkedAt": "2026-11-02",
+ "lat": 35.687069,
+ "lng": 139.765045,
+ "nearby": {
+  "convenience": [
+   {
+    "name": "ファミリーマート 大手町ビル店",
+    "brand": "ファミリーマート",
+    "distanceM": 82,
+    "walkMin": 2,
+    "hours": "8:00-22:00（土曜は8:00-18:00。日曜・祝日は休み）",
+    "address": "東京都千代田区大手町一丁目6番1号 大手町ビル",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/57759",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "セブン-イレブン KDDI大手町ビル店",
+    "brand": "セブン-イレブン",
+    "distanceM": 94,
+    "walkMin": 2,
+    "hours": "24時間営業",
+    "address": "東京都千代田区大手町1-8-1",
+    "verified": true,
+    "source": "https://seven-eleven.areamarker.com/711map/info/415959",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "ナチュラルローソン S大手町フィナンシャルシティサウス店",
+    "brand": "ナチュラルローソン",
+    "distanceM": 107,
+    "walkMin": 2,
+    "hours": "10:00-21:00",
+    "address": "東京都千代田区大手町1-9-7",
+    "verified": true,
+    "source": "https://www.areamarker.com/lawson/info/175797",
+    "note": "距離は公式の店舗位置で計算"
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "キンコーズ・大手町店",
+    "brand": "キンコーズ",
+    "distanceM": 74,
+    "walkMin": 1,
+    "hours": "平日 9:00-20:00／土・日・祝 休業",
+    "address": "東京都千代田区大手町1丁目6-1 大手町ビル1F",
+    "verified": true,
+    "source": "https://www.kinkos.co.jp/store/tokyo/t005/",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "アクセア 大手町店",
+    "brand": "アクセア",
+    "distanceM": 359,
+    "walkMin": 5,
+    "hours": "24時間営業（年中無休）",
+    "address": "東京都千代田区内神田2-2-6 田中ビル1F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/map/otemachi.html",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Can★Do 丸の内オアゾ店",
+    "brand": "キャンドゥ",
+    "distanceM": 369,
+    "walkMin": 5,
+    "hours": "月〜金 8:00-22:00／土〜日 9:00-21:00",
+    "address": "東京都千代田区丸の内1-6-4 丸の内オアゾ地下1階",
+    "verified": true,
+    "source": "https://shopinfo.cando-web.co.jp/detail/shop-5550/",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "3COINS ヤエチカ店",
+    "brand": "3COINS",
+    "distanceM": 900,
+    "walkMin": 12,
+    "hours": "10:00-21:00",
+    "address": "東京都中央区八重洲2-1 八重洲地下街南1号",
+    "verified": true,
+    "source": "https://palcloset.storelocator.jp/detail/361",
+    "note": "距離は公式の店舗位置で計算。実際の道のりは約1,204m"
+   }
+  ],
+  "donki": [
+   {
+    "name": "ドン・キホーテ 秋葉原店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 1627,
+    "walkMin": 21,
+    "hours": "24時間営業",
+    "address": "東京都千代田区外神田4丁目3-3",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=98",
+    "note": "距離は住所の位置で計算。遠い。ドン・キホーテ公式サイトの店舗名は「秋葉原店」。実際の道のりは約1,893m"
+   }
+  ]
+ },
+ "drinkDelivery": {
+  "available": true
+ },
+ "photo": {
+  "src": "/images/venues/otemachi-sankei-plaza.jpg",
+  "credit": "© Umako / CC0 · Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tokyo_Sankei_Building_140427.JPG"
+ }
+}

@@ -1,0 +1,253 @@
+{
+ "slug": "shangri-la-tokyo",
+ "nameJa": "シャングリ・ラ 東京",
+ "nameEn": "Shangri-La Tokyo",
+ "type": "hotel",
+ "area": "marunouchi-nihonbashi-venues",
+ "address": "〒100-8283 東京都千代田区丸の内1-8-3 丸の内トラストタワー本館",
+ "officialUrl": "https://www.shangri-la.com/jp/tokyo/shangrila/",
+ "organizerUrl": "https://www.shangri-la.com/jp/tokyo/shangrila/meetings-events/",
+ "bizintokyoSlug": "shangri-la-tokyo",
+ "accessSummary": "東京駅（JR）日本橋口 徒歩1分／東京駅（JR）八重洲北口 徒歩2分／大手町駅 B10出口 徒歩3分／大手町駅（東京メトロ東西線）B8b出口 徒歩3分／日本橋駅 A3出口 徒歩4分",
+ "notice": null,
+ "hours": null,
+ "rooms": [
+  {
+   "name": "27F シャングリ・ラ ボールルーム",
+   "areaM2": 366,
+   "ceilingM": 5.8,
+   "theater": 300,
+   "school": 189,
+   "ushape": null,
+   "standing": 250,
+   "banquet": 180,
+   "note": "18.3m×19.9m。柱のない空間。スクールは公式の「クラスルーム」、standingは「立食」、banquetは「正餐」の人数。3Dプロジェクションマッピング（ボールルームのみ）・常設プロジェクター／スクリーン（100〜215インチ）・音響／映像／照明システム・無料ブロードバンドインターネット接続・技術サポートを備える。"
+  },
+  {
+   "name": "27F ホワイエ（ボールルーム前）",
+   "areaM2": 129,
+   "ceilingM": 3.4,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "6.48m×19.9m。"
+  },
+  {
+   "name": "27F コンウェイルーム 1",
+   "areaM2": 79,
+   "ceilingM": 3.3,
+   "theater": 60,
+   "school": 36,
+   "ushape": null,
+   "standing": 40,
+   "banquet": 30,
+   "note": "10.2m×7.7m（宴会場一覧表は7.72m）。スクールは公式の「クラスルーム」、banquetは「正餐」。"
+  },
+  {
+   "name": "27F コンウェイルーム 2",
+   "areaM2": 55,
+   "ceilingM": 3.3,
+   "theater": 36,
+   "school": 24,
+   "ushape": null,
+   "standing": 30,
+   "banquet": 20,
+   "note": "10.2m×5.4m。スクールは公式の「クラスルーム」、banquetは「正餐」。"
+  },
+  {
+   "name": "27F コンウェイルーム 3",
+   "areaM2": 129,
+   "ceilingM": 3.3,
+   "theater": 100,
+   "school": 63,
+   "ushape": null,
+   "standing": 60,
+   "banquet": 60,
+   "note": "10.2m×12.6m。スクールは公式の「クラスルーム」、banquetは「正餐」。"
+  },
+  {
+   "name": "27F コンウェイルーム 2＋3",
+   "areaM2": 184,
+   "ceilingM": 3.3,
+   "theater": 160,
+   "school": 84,
+   "ushape": null,
+   "standing": 90,
+   "banquet": 90,
+   "note": "10.2m×18m。コンウェイルーム2と3を併せて中宴会場として使える。スクールは公式の「クラスルーム」、banquetは「正餐」。"
+  },
+  {
+   "name": "27F ザ・パビリオン",
+   "areaM2": 126,
+   "ceilingM": 3.3,
+   "theater": 96,
+   "school": 54,
+   "ushape": null,
+   "standing": 60,
+   "banquet": 60,
+   "note": "11.15m×11.3m（会場詳細ページと2022年4月版パンフレットの表記。宴会場一覧表は11.5m×11.3m。面積は同じ126㎡）。スクールは公式の「クラスルーム」、banquetは「正餐」。"
+  },
+  {
+   "name": "27F プライベートルーム",
+   "areaM2": 45,
+   "ceilingM": 3.25,
+   "theater": 24,
+   "school": 18,
+   "ushape": null,
+   "standing": 20,
+   "banquet": 20,
+   "note": "5.5m×8m。スクールは公式の「クラスルーム」、banquetは「正餐」。"
+  }
+ ],
+ "roomsSource": "https://www.shangri-la.com/jp/tokyo/shangrila/meetings-events/event-spaces/",
+ "ops": {
+  "parking": {
+   "text": "ホテル駐車場は地下2階。お車寄せは地下1階。駐車場の高さ制限は、地下2階が2.1m、外堀通り側の入口が2.5m、永代通り側の入口が3.2m。宴会は4時間まで無料（婚礼は終日無料）。一般利用は500円/30分・1,000円/1時間、レストラン利用は3,000円以上で1時間無料・5,000円以上で2時間無料・8,000円以上で4時間無料。バレーパーキングは1日2,000円（駐車料金は別途）。（駐車場案内PDF 2025年6月22日付）",
+   "source": "https://www.shangri-la.com/jp/tokyo/shangrila/about/map-directions/"
+  },
+  "restaurants": {
+   "text": "ホテル内にレストラン2店（29階「なだ万」日本料理、「ピャチェーレ」イタリア料理）、ザ・ロビーラウンジ、ザ・ブティックがある。なだ万の個室は1室4名以上・個室料16,500円（税込）で、ディナーは1人18,480円（税込）以上のコースが条件（2026年9月1日利用分から。表示価格にサービス料15%が別途加算）。",
+   "source": "https://www.shangri-la.com/jp/tokyo/shangrila/dining/restaurants/nadaman/"
+  }
+ },
+ "documents": [
+  {
+   "title": "宴会場 バンケットブローシャ（フロアプラン・収容人数表 2022年4月作成）",
+   "url": "https://sitecore-cd.shangri-la.com/-/media/Shangri-La/tokyo_shangrila/settings/meetings-events/SLTY-Banquet-Brochure.pdf"
+  },
+  {
+   "title": "駐車場へのご案内（2025年6月22日付）",
+   "url": "https://www.shangri-la.com/-/media/Shangri-La/tokyo_shangrila/settings/about/20250622_SLTY_parking_info.pdf"
+  },
+  {
+   "title": "アクセスマップ（2026年1月22日付）",
+   "url": "https://www.shangri-la.com/-/media/Shangri-La/tokyo_shangrila/settings/about/20260122_web_Shangri-La_Map_A4.pdf"
+  },
+  {
+   "title": "東京駅からの経路（2025年9月23日付）",
+   "url": "https://www.shangri-la.com/-/media/Shangri-La/tokyo_shangrila/settings/about/20250923_directions_JP.pdf"
+  }
+ ],
+ "checkedAt": "2026-11-02",
+ "lat": 35.682667,
+ "lng": 139.769562,
+ "nearby": {
+  "convenience": [
+   {
+    "name": "ナチュラルローソン TEKKO avenue店",
+    "brand": "ナチュラルローソン",
+    "distanceM": 31,
+    "walkMin": 1,
+    "hours": "8:00-21:00",
+    "address": "東京都千代田区丸の内1-8-2",
+    "verified": true,
+    "source": "https://www.areamarker.com/lawson/info/210714",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "ファミリーマート 丸の内トラストタワー店",
+    "brand": "ファミリーマート",
+    "distanceM": 51,
+    "walkMin": 1,
+    "hours": "7:00-23:00",
+    "address": "東京都千代田区丸の内1-8-1 丸の内トラストタワーN館",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/24334",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "ローソン TEKKO avenue店",
+    "brand": "ローソン",
+    "distanceM": 72,
+    "walkMin": 1,
+    "hours": "24時間営業",
+    "address": "東京都千代田区丸の内1-8-2",
+    "verified": true,
+    "source": "https://www.areamarker.com/lawson/info/210708",
+    "note": "距離は公式の店舗位置で計算"
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "アクセア 東京駅八重洲店",
+    "brand": "アクセア",
+    "distanceM": 327,
+    "walkMin": 5,
+    "hours": "24時間営業（カフェ利用は22時〜翌6時は本人確認済みの会員のみ）",
+    "address": "東京都中央区日本橋3-4-15 八重洲通ビルヂング1F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/entry.html",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "キンコーズ・大手町店",
+    "brand": "キンコーズ",
+    "distanceM": 603,
+    "walkMin": 8,
+    "hours": "平日 9:00-20:00／土・日・祝 休業",
+    "address": "東京都千代田区大手町1丁目6-1 大手町ビル1F",
+    "verified": true,
+    "source": "https://www.kinkos.co.jp/store/tokyo/t005/",
+    "note": "距離は住所の位置で計算。実際の道のりは約865m"
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Standard Products ヤエチカ店",
+    "brand": "Standard Products",
+    "distanceM": 286,
+    "walkMin": 4,
+    "hours": "10:00-20:00",
+    "address": "東京都中央区八重洲2-1 八重洲地下街 地下1階",
+    "verified": true,
+    "source": "https://www.daiso-sangyo.co.jp/shop/detail/001475",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "3COINS ヤエチカ店",
+    "brand": "3COINS",
+    "distanceM": 311,
+    "walkMin": 4,
+    "hours": "10:00-21:00",
+    "address": "東京都中央区八重洲2-1 八重洲地下街南1号",
+    "verified": true,
+    "source": "https://palcloset.storelocator.jp/detail/361",
+    "note": "距離は公式の店舗位置で計算"
+   }
+  ],
+  "donki": [
+   {
+    "name": "ドン・キホーテ 銀座本館",
+    "brand": "ドン・キホーテ",
+    "distanceM": 1779,
+    "walkMin": 23,
+    "hours": "24時間営業",
+    "address": "東京都中央区銀座8-10 銀座ナイン3号館",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=92",
+    "note": "距離は住所の位置で計算。遠い。ドン・キホーテ公式サイトの店舗名は「銀座本館」"
+   },
+   {
+    "name": "ドン・キホーテ 秋葉原店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 2011,
+    "walkMin": 26,
+    "hours": "24時間営業",
+    "address": "東京都千代田区外神田4丁目3-3",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=98",
+    "note": "距離は住所の位置で計算。遠い。ドン・キホーテ公式サイトの店舗名は「秋葉原店」"
+   }
+  ]
+ },
+ "drinkDelivery": {
+  "available": true
+ },
+ "photo": {
+  "src": "/images/venues/shangri-la-tokyo.jpg",
+  "credit": "散歩 / Public domain · Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E4%B8%B8%E3%81%AE%E5%86%85%E3%83%88%E3%83%A9%E3%82%B9%E3%83%88%E3%82%BF%E3%83%AF%E3%83%BC%E6%9C%AC%E9%A4%A8.JPG"
+ }
+}

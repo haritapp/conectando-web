@@ -1,0 +1,158 @@
+{
+ "slug": "otemachi-sankei-plaza",
+ "name": "Otemachi Sankei Plaza",
+ "address": "Tokyo 100-0004 Tokyo Sankei Building 2F-4F, 1-7-2 Otemachi, Chiyoda-ku",
+ "accessSummary": "Otemachi Station (Marunouchi, Hanzomon, Chiyoda and Tozai Lines of Tokyo Metro; Toei Mita Line) Exits A4 and E1: direct connection / JR Tokyo Station Marunouchi North Exit: 7 min walk",
+ "hours": "Standard hours 9:00-21:00 (the price list also has a rate setting that starts at 8:00). On the day, you can enter from 30 minutes before the start time (entering more than 30 minutes earlier is charged).",
+ "notice": null,
+ "rooms": [
+  {
+   "name": "2F Rooms 201 and 202 (each)",
+   "note": "Classroom is 2 per desk. Classroom, 3 per desk: 48 seats. Island layout: 24 seats."
+  },
+  {
+   "name": "2F Rooms 201+202",
+   "note": "Classroom is 2 per desk. Classroom, 3 per desk: 66 seats. Island layout: 54 seats."
+  },
+  {
+   "name": "3F Rooms 301, 302 and 303 (each)",
+   "note": "Classroom is 2 per desk. Classroom, 3 per desk: 78 seats. Island layout: 36 seats. The individual page for Room 303 lists 53㎡ / 16 tsubo, but the room list and price list give 83㎡."
+  },
+  {
+   "name": "3F Room 304",
+   "note": "Classroom is 2 per desk. Classroom, 3 per desk: 78 seats. Island layout: 36 seats."
+  },
+  {
+   "name": "3F Rooms 301+302",
+   "note": "Classroom is 2 per desk. Classroom, 3 per desk: 189 seats. Island layout: 96 seats."
+  },
+  {
+   "name": "3F Rooms 303+304",
+   "note": "Classroom is 2 per desk. Classroom, 3 per desk: 189 seats. Island layout: 96 seats."
+  },
+  {
+   "name": "3F Rooms 301-303",
+   "note": "Classroom is 2 per desk. Classroom, 3 per desk: 234 seats. Island layout: 126 seats."
+  },
+  {
+   "name": "3F Rooms 301-304",
+   "note": "Classroom is 2 per desk. Classroom, 3 per desk: 342 seats. Island layout: 150 seats. Figures are for the vertical layout (classroom 2 per desk 228, classroom 3 per desk 342, island layout 150, chair layout 504). The horizontal layout is classroom 2 per desk 200, classroom 3 per desk 300, island layout 204, chair layout 432."
+  },
+  {
+   "name": "3F Room 310",
+   "note": "Classroom is 2 per desk. Classroom, 3 per desk: 54 seats. Island layout: 36 seats."
+  },
+  {
+   "name": "3F Rooms 311 and 312 (each)",
+   "note": "Classroom is 2 per desk. Classroom, 3 per desk: 84 seats. Island layout: 72 seats."
+  },
+  {
+   "name": "3F Rooms 311+312",
+   "note": "Classroom is 2 per desk. Classroom, 3 per desk: 192 seats. Island layout: 138 seats."
+  },
+  {
+   "name": "4F Hall",
+   "note": "Classroom is 2 per desk. Classroom, 3 per desk: 396 seats. Island layout: 246 seats. Area and capacity are for the hall only. Combined with Room 401 (29㎡) and the lounge (146㎡), \"Hall + Room 401 + Lounge\" is 630㎡."
+  },
+  {
+   "name": "4F Room 401",
+   "note": "The official page presents it as \"Hall, Waiting Room (Room 401) and Lounge\". Maximum capacity is 10 people (price list). It cannot be used on its own, only as a set with the hall."
+  },
+  {
+   "name": "4F Lounge",
+   "note": "Exclusive use is available only when it is used together with the hall and Room 401."
+  }
+ ],
+ "ops": {
+  "prevDaySetup": "Standard hours are 9:00-21:00, and use outside standard hours incurs an after-hours extension fee. Exhibitions are charged at the exhibition rate; if you use the space by the hour for preparation, the rate is 30% above the conference room rate, and if work continues past 21:00, an extension fee is charged. Exhibition decoration and construction must be requested from the operator's designated companies.",
+  "loadingHours": "Packages can be stored in advance by the day before the event, addressed to the 2F front desk (2F Front Desk, Otemachi Sankei Plaza, 1-7-2 Otemachi, Chiyoda-ku, Tokyo 100-0004, with the event name and the person in charge). Shipments from the venue are brought to the 2F front desk and are in principle sent collect (shipments after 17:00 go out the next day). The freight elevator is 270 cm high, 320 cm wide and 170 cm deep (door opening 210 cm high x 247 cm wide), with a maximum load of 2,700 kg, and stops at floors 1 to 5. Hand trucks are available free of charge.",
+  "vehicleRules": "General vehicles that can enter the parking lot are limited to 2.3 m high, 5.3 m long and 1.9 m wide. Delivery vehicles are limited to 2-ton standard trucks. The large freight elevator is right inside the parking lot entrance on the ground floor.",
+  "parking": "There is a Times 24 hourly parking lot in the basement of the building, and the entrance is on the north side of the building (Otemachi Financial City side). The rate is 440 yen per 30 minutes, with no free service or discounts. Operating hours are given as 7:00-22:30 in this FAQ, and as 7:00-23:30 on the access page and in the terms of use.",
+  "waitingRooms": "Room 401 (29㎡) on the 4th floor is presented on the official page as \"Hall, Waiting Room (Room 401) and Lounge\". Room 401 and the lounge (146㎡) cannot be rented on their own; they are used together with the hall as a package of hall, Room 401 and lounge (630㎡).",
+  "catering": "Outside food and drink may not be brought in, for hygiene reasons. The building has an in-house kitchen and pantry, and food and drink are ordered from the operator's sales staff. Boxed lunches can be ordered from 1 piece, and the number must be finalized by the morning of the previous day (excluding Saturdays, Sundays and holidays).",
+  "restaurants": "Receptions can be held with the party plans provided by the in-house dedicated kitchen (from 20 to a maximum of 450 people). The Light Meal Standing Plan (with 1.5 hours of free drinks) is 7,000 yen, the Casual Plan (with 2 hours of free drinks) is 8,800 yen, and the Gourmet Plan is 9,800 yen (all per person, tax included, as listed for September to November 2026). From December to January, year-end and New Year party plans apply. A reception in the same room as the seminar is also possible, but a changeover time is needed, and the operator says booking a separate venue is smoother."
+ },
+ "documents": [
+  {
+   "title": "Hall and Conference Room Price List (as of January 2026)"
+  },
+  {
+   "title": "Venue Floor Plan"
+  },
+  {
+   "title": "Venue Equipment Plan (power and line locations)"
+  },
+  {
+   "title": "Emergency Exit Guide"
+  },
+  {
+   "title": "Access Guide (map)"
+  },
+  {
+   "title": "Parking Map"
+  },
+  {
+   "title": "Terms of Use"
+  },
+  {
+   "title": "Venue Rates"
+  },
+  {
+   "title": "Special Exhibition Rates"
+  },
+  {
+   "title": "FAQ"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "FamilyMart Otemachi Building",
+    "hours": "8:00-22:00 (Sat 8:00-18:00; closed Sun & holidays)",
+    "note": "Distance is calculated from the store's official location."
+   },
+   {
+    "name": "7-Eleven KDDI Otemachi Building",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the store's official location."
+   },
+   {
+    "name": "Natural Lawson S Otemachi Financial City South",
+    "hours": "10:00-21:00",
+    "note": "Distance is calculated from the store's official location."
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "Kinko's Otemachi",
+    "hours": "Weekdays 9:00-20:00 / Closed Sat, Sun & holidays",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Accea Otemachi",
+    "hours": "Open 24 hours (open every day of the year)",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Can Do Marunouchi Oazo",
+    "hours": "Mon-Fri 8:00-22:00 / Sat-Sun 9:00-21:00",
+    "note": "Distance is calculated from the store's official location."
+   },
+   {
+    "name": "3COINS Yaechika",
+    "hours": "10:00-21:00",
+    "note": "Distance is calculated from the store's official location. The actual walking distance is about 1,204 m."
+   }
+  ],
+  "donki": [
+   {
+    "name": "Don Quijote Akihabara",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. Far. The store name on the official Don Quijote website is \"Akihabara\" (秋葉原店). The actual walking distance is about 1,893 m."
+   }
+  ]
+ },
+ "photoCredit": "© Umako / CC0 · Wikimedia Commons"
+}

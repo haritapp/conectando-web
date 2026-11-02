@@ -1,0 +1,135 @@
+{
+ "slug": "prince-sakura-tower-tokyo",
+ "name": "The Prince Sakura Tower Tokyo",
+ "address": "Tokyo 108-8612 3-13-1 Takanawa, Minato-ku",
+ "accessSummary": "Shinagawa Station (Shinkansen, JR lines and Keikyu Line) Takanawa Exit: about 3 min walk / Takanawadai Station (Toei Asakusa Line) Exit A1: about 5 min walk",
+ "hours": null,
+ "notice": null,
+ "rooms": [
+  {
+   "name": "Conference Floor 2F 1 Span",
+   "note": "The official site describes it as \"a multi-purpose space of 20 rooms gathered on one floor, where the size can be adjusted one room at a time.\" Boardroom: 18 seats."
+  },
+  {
+   "name": "Conference Floor 2F 2 Span",
+   "note": "Boardroom: 20 seats. The U-shape and boardroom numbers are from the room specifications PDF (August 2024 edition); the other numbers are from the table on the hotel's venue page."
+  },
+  {
+   "name": "Conference Floor 2F 3 Span",
+   "note": "Boardroom: 30 seats."
+  },
+  {
+   "name": "Conference Floor 2F 4 Span",
+   "note": "Boardroom: 40 seats."
+  },
+  {
+   "name": "Conference Floor 2F 5 Span",
+   "note": "Boardroom: 50 seats."
+  },
+  {
+   "name": "Conference Floor 2F 6 Span",
+   "note": null
+  },
+  {
+   "name": "Conference Floor 2F 7 Span",
+   "note": null
+  },
+  {
+   "name": "Conference Floor 2F 8 Span",
+   "note": null
+  },
+  {
+   "name": "Conference Floor 2F 9 Span",
+   "note": null
+  },
+  {
+   "name": "Conference Floor 2F 10 Span",
+   "note": "The 10-span room is in the table on the hotel's venue page; the room specifications PDF (August 2024 edition) goes only up to 9 spans."
+  }
+ ],
+ "ops": {
+  "loadingHours": "The loading route is shown in the official load-in/load-out route map (page 54 of the brochure). At The Prince Sakura Tower Tokyo, the loading door is 1.9 m wide x 2.2 m high, the loading elevator door is 1.0 m wide x 2.1 m high, and the inside of the loading elevator car is 1.8 m wide x 2.0 m deep x 2.3 m high. (Banquet Hall Brochure, April 2024 edition)",
+  "parking": "The parking lot has 1,000 spaces and does not take reservations. The regular rate is 600 yen per 30 minutes (revised July 5, 2025). Parking is free for up to 4 hours for banquets and up to 2 hours for events (催し物); time beyond that is charged at the parking rate. The underground parking lot of International Convention Center Pamir is only for vehicles 2 m high or less. Vehicles 2 m or higher use the outdoor parking lot.",
+  "catering": "Meeting Package (April 1, 2026 to March 31, 2027): the full day (8:00 A.M. to 5:00 P.M.) is 16,000 yen per person, and the half day (4 hours within 8:00 A.M. to 5:00 P.M.) is 12,000 yen per person, from 5 people. The room is a small banquet room or medium banquet room, and a room that fits the number of people is provided. Included are the room fee, screen/projector, refreshments (coffee, tea and small sweets) and mineral water. Lunch is a boxed meal (types on inquiry). A 60-minute extension is 1,600 yen per person. Bookings can be made from 3 months before the date of use.",
+  "restaurants": "Inside the hotel are CILIEGIO Ristorante Caffè, Japanese Restaurant NADAMAN TAKANAWA PRIME (private rooms available), Sushi Ginza Onodera NADAMAN TAKANAWA PRIME, and In-Room Dining. The restaurants and bars of Grand Prince Hotel Takanawa and Grand Prince Hotel Shin Takanawa, in the same Takanawa area, are also introduced on this page."
+ },
+ "documents": [
+  {
+   "title": "Room Specifications (August 2024 edition)"
+  },
+  {
+   "title": "Banquet Hall Brochure (April 2024 edition)"
+  },
+  {
+   "title": "Meeting Package (April 1, 2026 to March 31, 2027)"
+  },
+  {
+   "title": "Floor Map: The Prince Sakura Tower Tokyo"
+  },
+  {
+   "title": "Takanawa Area Overall Floor Guide"
+  },
+  {
+   "title": "Takanawa Area Map"
+  },
+  {
+   "title": "FAQ (Banquets and Parking)"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "7-Eleven Shinagawa Ekimae",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "7-Eleven Takanawadai Ekimae",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "Natural Lawson Takanawadai Ekimae",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location."
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "Kinko's Shinagawa",
+    "hours": "Weekdays 8:00-22:00 / Sat, Sun & holidays 9:00-18:00",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Accea Shinagawa Station Konan Exit",
+    "hours": "Weekdays 8:00-21:00 / Sat, Sun & holidays 10:00-19:00",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Seria Wing Takanawa WEST",
+    "hours": "Mon 10:00-21:00 / Tue 10:00-20:00 / Wed-Fri 10:00-21:00 / Sat-Sun 10:00-20:00",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "Can Do Gotanda Tokyu Square",
+    "hours": "Daily 10:00-21:00",
+    "note": "Distance is calculated from the official store location. Rather far."
+   }
+  ],
+  "donki": [
+   {
+    "name": "Don Quijote Gotanda East Exit",
+    "hours": "8:00-5:00",
+    "note": "Distance is calculated from the address location. The store name on the Don Quijote official website is \"Gotanda East Exit\" (五反田東口店)."
+   },
+   {
+    "name": "Platinum Don Quijote Shirokanedai",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. Rather far."
+   }
+  ]
+ },
+ "photoCredit": "© 織美左衛門 / CC BY-SA 4.0 · Wikimedia Commons"
+}
