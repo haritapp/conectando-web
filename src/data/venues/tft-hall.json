@@ -1,0 +1,432 @@
+{
+ "slug": "tft-hall",
+ "nameJa": "TFTホール（TFTビル）",
+ "nameEn": "TFT HALL",
+ "type": "conference",
+ "area": "odaiba-ariake-venues",
+ "address": "〒135-0063 東京都江東区有明3-4-10 TFTビル西館2階（TFTホール）／東京都江東区有明3-6-11 TFTビル東館9階（研修室・会議室）",
+ "officialUrl": "https://www.bigsight.jp/organizer/buildings/tft/",
+ "organizerUrl": "https://www.bigsight.jp/organizer/buildings/tft/facilities/",
+ "bizintokyoSlug": "tft-hall",
+ "accessSummary": "ゆりかもめ 東京ビッグサイト駅 徒歩約1分／りんかい線 国際展示場駅 徒歩約5分",
+ "notice": "ホールは区分時間（9〜17時／13〜21時／9〜21時）のいずれかで申し込む必要があり、最低8時間から（30分単位の利用は不可）。研修室・会議室は最低3時間から。研修室・会議室をパーティー・懇親会・展示・撮影などに使うと基本料金が50%増しで、清掃費もかかる。支払いは請求書による銀行振込のみ（カード・現金は不可）。（出典：ホールよくあるご質問、会議施設よくあるご質問）",
+ "hours": "TFTホールは0:00〜24:00（利用区分は9:00〜17:00／13:00〜21:00／9:00〜21:00。0〜9時と21〜24時は時間外人件費がかかる）。研修室・会議室は7:00〜23:00（7〜8時と21〜23時は時間外人件費がかかる）",
+ "rooms": [
+  {
+   "name": "TFTホール1000（西館2F）",
+   "areaM2": 900,
+   "ceilingM": 6.25,
+   "theater": 900,
+   "school": 500,
+   "ushape": null,
+   "standing": 600,
+   "banquet": 450,
+   "note": "38.9×23.2m。ファッションショー形式700席。パーティー600人。参考レイアウト図：ステージあり シアター986席、ステージあり スクール3名掛け783席、試験用 スクール2名掛け512席、円卓パーティー450席（45卓）。床の耐荷重500kg/㎡"
+  },
+  {
+   "name": "TFTホール500（西館2F）",
+   "areaM2": 446,
+   "ceilingM": 7,
+   "theater": 450,
+   "school": 250,
+   "ushape": null,
+   "standing": 300,
+   "banquet": 150,
+   "note": "24.4×17.6m。ファッションショー形式350席。パーティー300人。参考レイアウト図：ステージあり シアター450席、ステージあり スクール2名掛け238席、試験用 スクール2名掛け240席、円卓パーティー150名（10名掛け）。床の耐荷重500kg/㎡。ホワイエ（ホール500前）はホール500を申し込む場合のみ使える"
+  },
+  {
+   "name": "TFTホール300（西館2F）",
+   "areaM2": 270,
+   "ceilingM": 7,
+   "theater": 250,
+   "school": 150,
+   "ushape": null,
+   "standing": 180,
+   "banquet": 110,
+   "note": "18.3×14.7m。ファッションショー形式200席。パーティー180人。参考レイアウト図：ステージあり シアター260席、ステージあり スクール2名掛け156席、試験用 スクール2名掛け120席、円卓パーティー110席。床の耐荷重500kg/㎡"
+  },
+  {
+   "name": "ホワイエ（西館2F）",
+   "areaM2": 500,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "ホワイエ単独では借りられず、ホール500を申し込む場合のみ使える。面積は料金表で500㎡、ホールのページで400㎡。ホワイエの利用料は全ホール利用者165,000円・ホール500利用者330,000円（税込、料金表 2026年4月1日）"
+  },
+  {
+   "name": "研修室901（東館9F）",
+   "areaM2": 85,
+   "ceilingM": 2.7,
+   "theater": 85,
+   "school": 36,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "基本レイアウトはスクール型"
+  },
+  {
+   "name": "研修室902（東館9F）",
+   "areaM2": 110,
+   "ceilingM": 2.7,
+   "theater": 110,
+   "school": 48,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "基本レイアウトはスクール型"
+  },
+  {
+   "name": "研修室904（東館9F）",
+   "areaM2": 165,
+   "ceilingM": 2.7,
+   "theater": 165,
+   "school": 90,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "基本レイアウトはスクール型。904〜907は可動間仕切りで可変利用でき、一体利用の場合は各料金を加算"
+  },
+  {
+   "name": "研修室905（東館9F）",
+   "areaM2": 180,
+   "ceilingM": 2.7,
+   "theater": 180,
+   "school": 90,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "基本レイアウトはスクール型。可動間仕切りで可変利用できる（一体利用は各料金を加算）"
+  },
+  {
+   "name": "研修室906（東館9F）",
+   "areaM2": 360,
+   "ceilingM": 2.7,
+   "theater": 360,
+   "school": 240,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "基本レイアウトはスクール型。可動間仕切りで可変利用できる（一体利用は各料金を加算）。参考レイアウト図：T字島形6名掛け24島"
+  },
+  {
+   "name": "研修室907（東館9F）",
+   "areaM2": 165,
+   "ceilingM": 2.7,
+   "theater": 165,
+   "school": 90,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "基本レイアウトはスクール型。可動間仕切りで可変利用できる（一体利用は各料金を加算）"
+  },
+  {
+   "name": "研修室904+905+906+907（連結・東館9F）",
+   "areaM2": null,
+   "ceilingM": 2.7,
+   "theater": null,
+   "school": 408,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "参考レイアウト図：スクール2名掛け408席。連結の面積は公式に数字がなく、一体利用は各室の料金を加算"
+  },
+  {
+   "name": "研修室908（東館9F）",
+   "areaM2": 250,
+   "ceilingM": 2.7,
+   "theater": 250,
+   "school": 150,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "基本レイアウトはスクール型。参考レイアウト図：T字島形6名掛け16島"
+  },
+  {
+   "name": "研修室909（東館9F）",
+   "areaM2": 250,
+   "ceilingM": 2.7,
+   "theater": 250,
+   "school": 150,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "基本レイアウトはスクール型"
+  },
+  {
+   "name": "研修室910（東館9F）",
+   "areaM2": 80,
+   "ceilingM": 2.7,
+   "theater": 84,
+   "school": 36,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "基本レイアウトはスクール型"
+  },
+  {
+   "name": "会議室9-A（東館9F）",
+   "areaM2": 190,
+   "ceilingM": 2.7,
+   "theater": 190,
+   "school": 120,
+   "ushape": null,
+   "standing": 100,
+   "banquet": null,
+   "note": "基本レイアウトはスクール型。参考レイアウト図：パーティー立食100名程度（料理卓を中央または壁際に設置）"
+  },
+  {
+   "name": "会議室9-B（東館9F）",
+   "areaM2": 95,
+   "ceilingM": 2.7,
+   "theater": 100,
+   "school": null,
+   "ushape": 20,
+   "standing": null,
+   "banquet": null,
+   "note": "基本レイアウトはロの字型"
+  },
+  {
+   "name": "会議室9-C（東館9F）",
+   "areaM2": 95,
+   "ceilingM": 2.7,
+   "theater": null,
+   "school": null,
+   "ushape": 16,
+   "standing": null,
+   "banquet": null,
+   "note": "基本レイアウトはロの字型。レイアウト変更はできない"
+  },
+  {
+   "name": "会議室9-E（東館9F）",
+   "areaM2": 120,
+   "ceilingM": 2.7,
+   "theater": 100,
+   "school": null,
+   "ushape": 24,
+   "standing": null,
+   "banquet": null,
+   "note": "基本レイアウトはロの字型"
+  },
+  {
+   "name": "会議室9-F（東館9F）",
+   "areaM2": 100,
+   "ceilingM": 2.7,
+   "theater": 100,
+   "school": null,
+   "ushape": 24,
+   "standing": null,
+   "banquet": null,
+   "note": "基本レイアウトはロの字型"
+  }
+ ],
+ "roomsSource": "https://www.bigsight.jp/organizer/buildings/tft/facilities/tfthall/ ／ https://www.bigsight.jp/organizer/buildings/tft/facilities/ojt-room/",
+ "ops": {
+  "prevDaySetup": {
+   "text": "ホールは、準備・設営・リハーサル・撤去のみで使う日は、1開催につき2日まで基本使用料金の50%（区分時間の料金のみ。延長料金や備品・人件費は対象外）。設営・撤去の時間も申込の利用時間に含める（9〜21時で申し込むと設営開始は9時から）。2日以上連続で使うときは連続した区分時間で申し込む必要があり、9〜17時だけを2日続けて申し込むと、1日目の17時にいったん完全撤収して2日目の9時にやり直すことになる。研修室・会議室は、施設にレイアウト変更（有料）を頼めば利用開始時刻までに設営してもらえる（持込機材は対象外）。（出典：ホールよくあるご質問、ホール施設利用案内 令和6年4月改定、会議施設よくあるご質問）",
+   "source": "https://www.bigsight.jp/organizer/buildings/tft/faq/"
+  },
+  "loadingHours": {
+   "text": "ホールは24時間利用できるが、0〜9時と21〜24時は会場費のほかに時間外人件費、8時以前と23時以降は対応スタッフの宿泊費がかかる。搬入は専用の搬入口と搬入用スロープを使い、スロープもホール床も耐荷重500kg/㎡で、スロープを登れるのは4tトラックまで。搬入ゲート入口は幅8,500mm、スロープ入口は高さ3,800mm（扉寸法図 2003年8月作成）。事前に経路・車両台数を打ち合わせ、搬入出時は必ず養生をする。研修室・会議室（東館9階）は7:00〜23:00で、搬入出があるときは「作業届出書」を作業の1週間前までに出す。荷物は第2荷捌場で降ろし、搬入用エレベーターで9階へ運ぶ。（出典：ホールよくあるご質問、ホール施設利用案内 令和6年4月改定、会議施設利用案内 令和7年9月改定、作業届出書、東館搬入経路図）",
+   "source": "https://www.bigsight.jp/organizer/buildings/tft/faq/"
+  },
+  "vehicleRules": {
+   "text": "ホール利用者は主催者専用駐車場を使え、規定台数はホール1000が3台、ホール500が3台、ホール300が2台（1階、高さ制限1.9m）。事前に「主催者専用駐車場 利用申込書」を出し、入口で駐車券を取って緑のコーンの場所に停め、出庫前に西館3階のホール事務所でサービス券を受け取って精算機に入れる。入口に一般駐車場の満車表示が出ていても利用できる。研修室・会議室の搬入出車両は、第2荷捌場に停めて荷物を降ろしたらすぐに車両を移す。駐車場出口ゲートの手前で防災センターに搬入出のための来場だと伝えると、1時間以内の無料券がもらえる。（出典：主催者専用駐車場・ゴミ集積場案内図、東館搬入経路図）",
+   "source": "https://www.bigsight.jp/organizer/buildings/tft/pdf/parking-guidemap.pdf"
+  },
+  "parking": {
+   "text": "TFTビル駐車場は約450台（月極契約を含む、車いす用4台）で、1階と地下1階にあり、営業時間7:00〜23:00、料金250円/30分、高さ制限1.5〜2.1m。施設概要のページでは駐車台数を約530台（車いす用4台）としている。障害者手帳などを係員に見せると当日の駐車料金が無料になる（運転手本人か同乗者が手帳を持つ場合）。（出典：交通アクセスのページ、施設概要／館内マップ）",
+   "source": "https://www.bigsight.jp/organizer/buildings/tft/access.html"
+  },
+  "waitingRooms": {
+   "text": "ホールの諸室の利用料は無料で、申し込んだホール以外の控室は使えない。ホール1000は主催者控室13㎡・別室17㎡・メイクアップルーム113㎡（30席）・スタッフルーム81㎡と17㎡・フィッティングルーム80㎡（パントリー付き）。ホール500は主催者控室25㎡・別室42㎡・メイクアップルーム135㎡（36席）・フィッティングルーム76㎡（パントリー付き）。ホール300はメイクアップルーム54㎡（11席）・フィッティングルーム27㎡（パントリー付き）。控室一覧のPDFは面積が異なり、ホール1000はメイクアップルーム93㎡・フィッティングルーム72㎡・別室18㎡・スタッフルーム大108㎡と小18㎡としている。東館9階には講師控室が2室ある（机・ソファは撤去できない）。（出典：ホールのページ、ホールよくあるご質問、ホール控室一覧PDF、講師控室平面図）",
+   "source": "https://www.bigsight.jp/organizer/buildings/tft/facilities/tfthall/"
+  },
+  "catering": {
+   "text": "会場内での飲食はできる。来場者に飲食を提供する場合は江東区保健所に相談し、届出が必要なら指示に従う。パーティー・懇親会（ケータリングを含む）は利用照会のときに相談し、ケータリングを伴う催事では別途料金がかかる場合がある。外部から飲食物を持ち込む場合は事前に相談し、ゴミは必ず処理する。施設が手配できるお弁当（まい泉・人形町今半・懐石料理 青山・なだ万、7営業日前まで）とケータリング（CBサービス 30名〜、東京ベイ有明ワシントンホテル 100名〜）が案内されている。研修室・会議室をパーティー・懇親会に使うと会場費が50%増しになる。（出典：ホールよくあるご質問、会議施設よくあるご質問、お弁当・ケータリングのページ）",
+   "source": "https://www.bigsight.jp/organizer/buildings/tft/facilities/bento-catering/"
+  },
+  "restaurants": {
+   "text": "TFTビル東館2階にレストラン街があり、翠苑（中華、店内103席）、プロント（80席）、鮒忠（150席、大小各種宴会可）、築地食堂源ちゃん有明店、KOREAN DINING 長寿韓酒房（74席）、ニルワナム（屋内68席・屋外40席）などが「店内パーティー可」と案内されている。ほおずきや（100席）、そじ坊（53席）は貸切可。（出典：各店舗のページ）",
+   "source": "https://www.bigsight.jp/organizer/buildings/tft/shop/"
+  }
+ },
+ "documents": [
+  {
+   "title": "ホール施設利用案内（令和6年4月改定）",
+   "url": "https://www.bigsight.jp/organizer/buildings/tft/pdf/h_guide_tft.pdf"
+  },
+  {
+   "title": "会議施設利用案内（令和7年9月改定）",
+   "url": "https://www.bigsight.jp/organizer/buildings/tft/pdf/k_guide_tft.pdf"
+  },
+  {
+   "title": "ホール・研修室・会議室 施設料金表（2026年4月1日）",
+   "url": "https://www.bigsight.jp/organizer/buildings/tft/pdf/price_list_tft.pdf"
+  },
+  {
+   "title": "ホール 備品料金表",
+   "url": "https://www.bigsight.jp/organizer/buildings/tft/facilities/hall-equipment.html"
+  },
+  {
+   "title": "研修室・会議室 備品料金表",
+   "url": "https://www.bigsight.jp/organizer/buildings/tft/facilities/room-equipment.html"
+  },
+  {
+   "title": "よくあるご質問",
+   "url": "https://www.bigsight.jp/organizer/buildings/tft/faq/"
+  },
+  {
+   "title": "ホール平面図",
+   "url": "https://www.bigsight.jp/organizer/buildings/tft/facilities/pdf/hall.pdf"
+  },
+  {
+   "title": "研修室・会議室平面図",
+   "url": "https://www.bigsight.jp/organizer/buildings/tft/facilities/pdf/eastside.pdf"
+  },
+  {
+   "title": "ホール 搬入口寸法・扉寸法（平面図）",
+   "url": "https://www.bigsight.jp/organizer/buildings/tft/pdf/exit_tft.pdf"
+  },
+  {
+   "title": "ホール 控室一覧（TFTホール1000）",
+   "url": "https://www.bigsight.jp/organizer/buildings/tft/pdf/waiting-room_1000_tft.pdf"
+  },
+  {
+   "title": "ホール 控室一覧（TFTホール500）",
+   "url": "https://www.bigsight.jp/organizer/buildings/tft/pdf/waiting-room_500_tft.pdf"
+  },
+  {
+   "title": "ホール 控室一覧（TFTホール300）",
+   "url": "https://www.bigsight.jp/organizer/buildings/tft/pdf/waiting-room_300_tft.pdf"
+  },
+  {
+   "title": "主催者専用駐車場・ゴミ集積場案内図",
+   "url": "https://www.bigsight.jp/organizer/buildings/tft/pdf/parking-guidemap.pdf"
+  },
+  {
+   "title": "東館搬入経路（1階および周辺図）",
+   "url": "https://www.bigsight.jp/organizer/buildings/tft/pdf/loading-route-map1f.pdf"
+  },
+  {
+   "title": "作業届出書・遵守事項（2021年11月1日改訂）",
+   "url": "https://www.bigsight.jp/organizer/buildings/tft/pdf/permit_compliance_tft.pdf"
+  },
+  {
+   "title": "ロビー仕切りのご案内（5パターン）",
+   "url": "https://www.bigsight.jp/organizer/buildings/tft/faq/pdf/partition_information.pdf"
+  },
+  {
+   "title": "周辺道路MAP",
+   "url": "https://www.bigsight.jp/organizer/buildings/tft/pdf/accessCar.pdf"
+  },
+  {
+   "title": "お弁当・ケータリング・軽食/ドリンク",
+   "url": "https://www.bigsight.jp/organizer/buildings/tft/facilities/bento-catering/"
+  },
+  {
+   "title": "資料・画像ダウンロード（参考レイアウト・図面ほか）",
+   "url": "https://www.bigsight.jp/organizer/buildings/tft/download.html"
+  }
+ ],
+ "checkedAt": "2026-11-02",
+ "lat": 35.631336,
+ "lng": 139.791199,
+ "nearby": {
+  "convenience": [
+   {
+    "name": "セブン-イレブン TFT有明店",
+    "brand": "セブン-イレブン",
+    "distanceM": 57,
+    "walkMin": 1,
+    "hours": "24時間営業",
+    "address": "東京都江東区有明3-6-11",
+    "verified": true,
+    "source": "https://seven-eleven.areamarker.com/711map/info/385030",
+    "note": "距離は公式の店舗位置で計算。会場と同じTFTビル内（TFTビル公式の店舗案内にも掲載）"
+   },
+   {
+    "name": "ファミリーマート 有明フロンティア店",
+    "brand": "ファミリーマート",
+    "distanceM": 69,
+    "walkMin": 1,
+    "hours": "24時間営業",
+    "address": "東京都江東区有明 3-7-26-106",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/26539",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "ローソン 有明セントラルタワー店",
+    "brand": "ローソン",
+    "distanceM": 254,
+    "walkMin": 4,
+    "hours": "24時間営業",
+    "address": "東京都江東区有明3-7-18",
+    "verified": true,
+    "source": "https://www.areamarker.com/lawson/info/201483",
+    "note": "距離は公式の店舗位置で計算"
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "アクセア 東京ビッグサイト前店",
+    "brand": "アクセア",
+    "distanceM": 21,
+    "walkMin": 1,
+    "hours": "平日8:00〜22:00、土日祝10:00〜19:00",
+    "address": "東京都江東区有明3-7-26 有明フロンティアビル1F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/entry.html",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Can★Do ワンザ有明店",
+    "brand": "キャンドゥ",
+    "distanceM": 81,
+    "walkMin": 2,
+    "hours": "月〜日 10:00-19:30",
+    "address": "東京都江東区有明3-6-11 TFTビル東館2階",
+    "verified": true,
+    "source": "https://shopinfo.cando-web.co.jp/detail/shop-1346/",
+    "note": "距離は公式の店舗位置で計算。会場と同じTFTビル内（TFTビル公式の店舗案内にも掲載）"
+   },
+   {
+    "name": "DAISO 有明ガーデン店",
+    "brand": "ダイソー",
+    "distanceM": 820,
+    "walkMin": 11,
+    "hours": "10:00-21:00",
+    "address": "東京都江東区有明2-1-8 有明ガーデン3階",
+    "verified": true,
+    "source": "https://www.daiso-sangyo.co.jp/shop/detail/002129",
+    "note": "距離は公式の店舗位置で計算。実際の道のりは約1,186m"
+   }
+  ],
+  "donki": [
+   {
+    "name": "キラキラドンキ ダイバーシティ東京 プラザ店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 1696,
+    "walkMin": 22,
+    "hours": "10:00-21:00",
+    "address": "東京都江東区青海1-1-10 ダイバーシティ東京 プラザ 2階",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=655",
+    "note": "距離は住所の位置で計算。遠い。ドン・キホーテの別業態（公式サイトの店舗名は「キラキラドンキ ダイバーシティ東京 プラザ店」）"
+   }
+  ]
+ },
+ "drinkDelivery": {
+  "available": true
+ },
+ "photo": {
+  "src": "/images/venues/tft-hall.jpg",
+  "credit": "© Tokumeigakarinoaoshima / CC0 · Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tokyo_Fashion_Town_Building.JPG"
+ }
+}

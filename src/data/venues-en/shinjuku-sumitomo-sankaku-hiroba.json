@@ -1,0 +1,129 @@
+{
+ "slug": "shinjuku-sumitomo-sankaku-hiroba",
+ "name": "Shinjuku Sumitomo Bldg. Sankaku Hiroba",
+ "address": "Tokyo 163-0290 Shinjuku Sumitomo Building, 2-6-1 Nishi-Shinjuku, Shinjuku-ku, Tokyo",
+ "accessSummary": "Tochomae Station (Oedo Line) Exit A6: directly connected / Nishi-Shinjuku Station (Marunouchi Line) Exit 2: 4 min walk / Shinjuku Station West Exit (JR, Odakyu and Keio lines): 8 min walk / Shinjuku Station Exit 7 (Shinjuku Line): 8 min walk",
+ "hours": "Usage hours are in principle 0:00 to 24:00. The building entrance is open 5:00-24:00. Usage applications can in principle be made for operating days other than January 1. The inquiry desk is open weekdays 9:00-18:00 (closed Sat, Sun, holidays and the year-end and New Year period).",
+ "notice": "Only events that aim to contribute to the revitalization of the local area under the Tokyo Ordinance for Promoting Stylish Townscapes can be held. A notification to the Tokyo Metropolitan Government is required, and a project outline document must be submitted by one month before the event date. Setup and teardown are done by contractors designated by the operator (designated contractor system); using other contractors incurs a separate \"bring-in fee\".",
+ "rooms": [
+  {
+   "name": "Sankaku Hiroba",
+   "note": "Ceiling height up to 25 m (effective 22 m). The maximum capacity of the entire plaza (about 3,450㎡) is about 2,000 people. Floor load capacity: 800kg/㎡ inside the pit, 360kg/㎡ outside the pit. 4K large LED screen of about 564 inches (12.5 m wide x 7 m high). 17 electric prop battens. Reservations are accepted from 2 years in advance."
+  },
+  {
+   "name": "Sankaku Hiroba East",
+   "note": "There are areas where structures cannot be built. Because the battens are on the flow path of visitors to the building, work is in principle done at night."
+  },
+  {
+   "name": "Sankaku Hiroba East 2",
+   "note": null
+  },
+  {
+   "name": "Sankaku Hiroba West",
+   "note": "There are areas where structures cannot be built. Because the battens are on the flow path of visitors to the building, work is in principle done at night."
+  },
+  {
+   "name": "Sankaku Hiroba West 2",
+   "note": null
+  },
+  {
+   "name": "Multi Room East",
+   "note": null
+  },
+  {
+   "name": "Multi Room West",
+   "note": null
+  }
+ ],
+ "ops": {
+  "prevDaySetup": "The terms of use set out the procedure for having setup days or teardown days. When there is a setup day, the person in charge fills in a usage time notice at the service center, enters the venue and receives a prior check. Usage hours are in principle 0:00 to 24:00. For packages sent to the facility in advance, the user receives them during the usage period. (Source: Terms of Use created October 1, 2025)",
+  "loadingHours": "Delivery vehicles for load-in and load-out must enter and leave within the usage time, and the load-in time may be adjusted by the operator. Submit an advance load-in notice or a load-in/load-out schedule at least 1 week before the first day of use. The loading entrance is the 2F load-in elevator on the Route 10 side (entrance 6,000 mm wide x 3,000 mm high; car interior 6,000 mm wide x 3,000 mm high x 4,000 mm deep; capacity 6,100 kg). Vehicles must be under 4 tons, up to 4 tons in weight (reference size: under 4,000 mm high x 2,400 mm wide x 9,500 mm long), and the turntable diameter is 6,000 mm. (Source: Facility Overview 2025/6/1, Terms of Use created October 1, 2025)",
+  "vehicleRules": "Vehicles cannot be left on site. Products, packing materials, decoration materials, trash and the like may not be left in the loading area during the usage period. Parking cars, motorcycles, bicycles and the like on the street around the building (public open space and the site) can lead to suspension of use. If load-in and load-out vehicles are expected to be congested, traffic staff are placed at the entrance. During load-in and load-out, follow the \"Protective Covering Standard Confirmation Form\". The outdoor loading area is shared with Shinjuku Sumitomo Hall. (Source: Facility Overview 2025/6/1, Terms of Use created October 1, 2025, Shinjuku Sumitomo Hall Terms of Use 2026ver2)",
+  "parking": "There is no hourly parking lot; use nearby parking lots. (Source: Facility Overview 2025/6/1)",
+  "waitingRooms": "There are 3 waiting rooms on the 1F. Waiting Room A is 37㎡ (1 table, 10 chairs), Waiting Room B is 14㎡ (1 table, 8 chairs) and Waiting Room C is 14㎡ (1 table, 8 chairs). The reception set cannot be moved. The waiting room pantry on B1F and the waiting room restrooms on B2F are shared with users of Shinjuku Sumitomo Hall. (Source: Facility Overview 2025/6/1)",
+  "catering": "Eating and drinking are not allowed except in places the operator has approved in advance. For events that handle food, notify the Shinjuku City Public Health Center of the food business license and the like. (Source: Terms of Use created October 1, 2025, Articles 10 and 12)",
+  "restaurants": "The same Shinjuku Sumitomo Building has 10 restaurants on B1F, 4 on 1F and 3 on 2F (listed on the building's official website)."
+ },
+ "documents": [
+  {
+   "title": "Shinjuku Sumitomo Building Sankaku Hiroba Terms of Use (created October 1, 2025)"
+  },
+  {
+   "title": "Facility Overview and Equipment List (version of 2025/6/1)"
+  },
+  {
+   "title": "Floor Plan"
+  },
+  {
+   "title": "Floor Plan (with dimensions)"
+  },
+  {
+   "title": "Blank Plan"
+  },
+  {
+   "title": "Batten Diagram"
+  },
+  {
+   "title": "Evacuation Route Map and Fire Equipment"
+  },
+  {
+   "title": "Multi Room"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "FamilyMart Shinjuku Island Tower",
+    "hours": "7:00-23:00 (Sat, Sun & holidays 7:00-21:00)",
+    "note": "Distance is calculated from the official store location. The official store name is \"Famima Shinjuku Island Tower\". Shinjuku Island Tower 1F."
+   },
+   {
+    "name": "FamilyMart Shinjuku Dai-ichi Seimei Building",
+    "hours": "7:00-23:00",
+    "note": "Distance is calculated from the official store location. Shinjuku Dai-ichi Seimei Building 1F."
+   },
+   {
+    "name": "7-Eleven Shinjuku Island Tower",
+    "hours": "Daily 7:00-23:00",
+    "note": "Distance is calculated from the official store location. Inside Shinjuku Island Tower."
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "Kinko's Nishi-Shinjuku",
+    "hours": "Weekdays 8:00-20:00 / Sat 10:00-20:00 / Sun & holidays 10:00-20:00",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Accea Nishi-Shinjuku",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Can Do Nishi-Shinjuku",
+    "hours": "Daily 9:00-22:00",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "DAISO Shinjuku Cocoon Tower",
+    "hours": "8:00-21:00",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "donki": [
+   {
+    "name": "Don Quijote Shinjuku Kabukicho",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. The store name on the Don Quijote official website is \"Shinjuku Kabukicho\"."
+   },
+   {
+    "name": "Don Quijote Shinjuku Tonanguchi",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. The store name on the Don Quijote official website is \"Shinjuku Tonanguchi\"."
+   }
+  ]
+ },
+ "photoCredit": "© 8joKeaton / CC BY-SA 4.0 · Wikimedia Commons"
+}

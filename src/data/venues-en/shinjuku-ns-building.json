@@ -1,0 +1,276 @@
+{
+ "slug": "shinjuku-ns-building",
+ "name": "SHINJUKU NS Building",
+ "address": "Tokyo 163-0813 Shinjuku NS Building, 2-4-1 Nishi-Shinjuku, Shinjuku-ku",
+ "accessSummary": "Toei Oedo Line Tochomae Station Exit A3: about 3 min walk / Shinjuku Station (JR Lines, Keio Line, Odakyu Line, Tokyo Metro Marunouchi Line) South Exit and West Exit: 7 min walk / Shinjuku Station (Toei Shinjuku Line, Keio New Line) Shintoshin Exit: about 6 min walk / Seibu-Shinjuku Station (Seibu Shinjuku Line): about 15 min walk",
+ "hours": "The usage time slots for the NS Meeting Rooms and NS Sky Conference are 9:00-12:00 / 13:00-17:00 / 18:00-21:00 (including setup and cleanup; for the meeting rooms, a 1-hour extension fee applies for 17:00-18:00). The standard time for the NS Event Hall is 9:00-17:00 (8 hours), and an additional fee is charged for each hour outside that time. Inquiries about rental halls and meeting rooms are accepted on weekdays 9:00-17:00 (MICE Service Center).",
+ "notice": "The NS Event Hall on B1 is under renovation and is scheduled to reopen on December 1, 2026. For reservations, the NS Event Hall and NS Sky Conference can be booked from 1 year before the day of use (split use of the Sky Conference from 6 months before; Usage Rules as of July 2023), and the NS Meeting Rooms from 6 months before. The North Open Plaza is available for rental only on Saturdays, Sundays and holidays, and events limited to invited guests or members, as well as corporate promotion or product sales, are not allowed.",
+ "rooms": [
+  {
+   "name": "NS Event Hall - All Exhibition Halls",
+   "note": "B1. The Large, Medium and Small Exhibition Halls used together. The official hall list gives a capacity scale of 300-1,300 people. Standard fee (9:00-17:00): 2,930,000 yen; overtime: 366,000 yen per hour (tax excluded). Floor load limit of 500 kg/㎡ or less. Under renovation; scheduled to reopen on December 1, 2026."
+  },
+  {
+   "name": "NS Event Hall - Large Exhibition Hall (whole)",
+   "note": "Height under the ceiling grid is 3.75 m. The load-in door is 3.45 m high x 2.75 m wide. Vehicles can pull up right next to the hall's dedicated loading area. Standard fee (9:00-17:00): 2,050,000 yen; overtime: 257,000 yen per hour (tax excluded). Can be divided into A and B."
+  },
+  {
+   "name": "NS Event Hall - Large Exhibition Hall A",
+   "note": "Split use of the Large Exhibition Hall. The load-in door is 2.26 m high x 1.74 m wide. Standard fee (9:00-17:00): 1,280,000 yen; overtime: 161,000 yen per hour (tax excluded)."
+  },
+  {
+   "name": "NS Event Hall - Large Exhibition Hall B",
+   "note": "Split use of the Large Exhibition Hall. The load-in door is 3.45 m high x 2.75 m wide. Standard fee (9:00-17:00): 820,000 yen; overtime: 102,000 yen per hour (tax excluded)."
+  },
+  {
+   "name": "NS Event Hall - Medium Exhibition Hall",
+   "note": "Height under the ceiling grid is 3.55 m. The load-in door is 2.95 m high x 2.20 m wide. Vehicles can pull up right next to the hall's dedicated loading area. Standard fee (9:00-17:00): 840,000 yen; overtime: 105,000 yen per hour (tax excluded)."
+  },
+  {
+   "name": "NS Event Hall - Small Exhibition Hall",
+   "note": "The load-in door is 2.26 m high x 1.48 m wide. The Small Exhibition Hall cannot be used on its own; it is used together with other halls. Standard fee (9:00-17:00): 120,000 yen; overtime: 15,000 yen per hour (tax excluded)."
+  },
+  {
+   "name": "NS Event Hall - (Waiting) Office",
+   "note": "Only 1 room. 30,000 yen per day (tax excluded, billed as a settlement charge)."
+  },
+  {
+   "name": "NS Event Hall - Foyer",
+   "note": null
+  },
+  {
+   "name": "NS Sky Conference - Room 1",
+   "note": "30F. For classroom, Rooms 1-6 use desks (1,500 mm wide) with 2 per desk. Can be used together with Room 2. Fee (9:00-17:00): 200,000 yen (tax excluded)."
+  },
+  {
+   "name": "NS Sky Conference - Room 2",
+   "note": "30F. For classroom, Rooms 1-6 use desks (1,500 mm wide) with 2 per desk. Can be used together with Room 1. Fee (9:00-17:00): 214,000 yen (tax excluded)."
+  },
+  {
+   "name": "NS Sky Conference - Room 1+2 (combined use)",
+   "note": "30F. For classroom, Rooms 1-6 use desks (1,500 mm wide) with 2 per desk. Island layout: 6 people x 21 islands. Fee (9:00-17:00): 377,000 yen (tax excluded)."
+  },
+  {
+   "name": "NS Sky Conference - Room 3",
+   "note": "30F. For classroom, Rooms 1-6 use desks (1,500 mm wide) with 2 per desk. Can be used together with Room 4. Fee (9:00-17:00): 181,000 yen (tax excluded)."
+  },
+  {
+   "name": "NS Sky Conference - Room 4",
+   "note": "30F. For classroom, Rooms 1-6 use desks (1,500 mm wide) with 2 per desk. Can be used together with Room 3. Fee (9:00-17:00): 154,000 yen (tax excluded)."
+  },
+  {
+   "name": "NS Sky Conference - Room 3+4 (combined use)",
+   "note": "30F. For classroom, Rooms 1-6 use desks (1,500 mm wide) with 2 per desk. Island layout: 6 people x 18 islands. Fee (9:00-17:00): 314,000 yen (tax excluded)."
+  },
+  {
+   "name": "NS Sky Conference - Hall A",
+   "note": "30F. Can be used together with Hall B. For classroom, desks (1,800 mm wide) with 3 per desk. Fee (9:00-17:00): 286,000 yen (tax excluded)."
+  },
+  {
+   "name": "NS Sky Conference - Hall B",
+   "note": "30F. Can be used together with Hall A. For classroom, desks (1,800 mm wide) with 3 per desk. Fee (9:00-17:00): 324,000 yen (tax excluded)."
+  },
+  {
+   "name": "NS Sky Conference - Hall A+B (combined use)",
+   "note": "30F. Island layout: 5 people x 33 islands. For classroom, desks (1,800 mm wide) with 3 per desk. Fee (9:00-17:00): 557,000 yen (tax excluded)."
+  },
+  {
+   "name": "NS Sky Conference - Room 5",
+   "note": "30F. For classroom, Rooms 1-6 use desks (1,500 mm wide) with 2 per desk. Can be used together with Room 6. Fee (9:00-17:00): 181,000 yen (tax excluded)."
+  },
+  {
+   "name": "NS Sky Conference - Room 6",
+   "note": "30F. For classroom, Rooms 1-6 use desks (1,500 mm wide) with 2 per desk. Can be used together with Room 5. Fee (9:00-17:00): 154,000 yen (tax excluded)."
+  },
+  {
+   "name": "NS Sky Conference - Room 5+6 (combined use)",
+   "note": "30F. For classroom, Rooms 1-6 use desks (1,500 mm wide) with 2 per desk. Fee (9:00-17:00): 314,000 yen (tax excluded)."
+  },
+  {
+   "name": "NS Sky Conference - Room A",
+   "note": "30F. For hollow-square layout, desks (2,100 mm wide) with 3 per desk. Only a movable screen can be set up. Fee (9:00-17:00): 88,000 yen (tax excluded)."
+  },
+  {
+   "name": "NS Sky Conference - Room B",
+   "note": "30F. For hollow-square layout, desks (2,100 mm wide) with 3 per desk. Only a movable screen can be set up. Fee (9:00-17:00): 88,000 yen (tax excluded)."
+  },
+  {
+   "name": "NS Meeting Room 3-A",
+   "note": "3F East block. Both classroom and hollow-square layouts are 3 per desk. Desks are 1,800 mm wide x 450 mm deep. Projector and screen included. Fee (9:00-17:00): 67,000 yen (tax excluded)."
+  },
+  {
+   "name": "NS Meeting Room 3-B",
+   "note": "3F East block. Both classroom and hollow-square layouts are 3 per desk. Desks are 1,800 mm wide x 450 mm deep. Projector and screen included. Fee (9:00-17:00): 67,000 yen (tax excluded)."
+  },
+  {
+   "name": "NS Meeting Room 3-C",
+   "note": "3F East block. Both classroom and hollow-square layouts are 3 per desk. Desks are 1,800 mm wide x 450 mm deep. Projector and screen included. Fee (9:00-17:00): 71,000 yen (tax excluded)."
+  },
+  {
+   "name": "NS Meeting Room 3-D",
+   "note": "3F South block. Both classroom and hollow-square layouts are 3 per desk. Desks are 1,800 mm wide x 600 mm deep. Projector and screen included. Fee (9:00-17:00): 98,000 yen (tax excluded)."
+  },
+  {
+   "name": "NS Meeting Room 3-E",
+   "note": "3F South block. Both classroom and hollow-square layouts are 3 per desk. Desks are 1,800 mm wide x 450 mm deep. Projector and screen included. Fee (9:00-17:00): 67,000 yen (tax excluded)."
+  },
+  {
+   "name": "NS Meeting Room 3-F",
+   "note": "3F South block. Both classroom and hollow-square layouts are 3 per desk. Desks are 1,800 mm wide x 450 mm deep. Projector and screen included. Fee (9:00-17:00): 67,000 yen (tax excluded)."
+  },
+  {
+   "name": "NS Meeting Room 3-G",
+   "note": "3F South block. Both classroom and hollow-square layouts are 3 per desk. Desks are 1,800 mm wide x 450 mm deep. Projector and screen included. Fee (9:00-17:00): 120,000 yen (tax excluded)."
+  },
+  {
+   "name": "NS Meeting Room 3-H",
+   "note": "3F West block. Both classroom and hollow-square layouts are 3 per desk. Desks are 1,800 mm wide x 450 mm deep. Projector and screen included. Fee (9:00-17:00): 127,000 yen (tax excluded)."
+  },
+  {
+   "name": "NS Meeting Room 3-I",
+   "note": "3F West block. Both classroom and hollow-square layouts are 3 per desk. Desks are 1,800 mm wide x 450 mm deep. Projector and screen included. Fee (9:00-17:00): 89,000 yen (tax excluded)."
+  },
+  {
+   "name": "NS Meeting Room 3-J",
+   "note": "3F West block. Both classroom and hollow-square layouts are 3 per desk. Desks are 1,800 mm wide x 450 mm deep. Projector and screen included. Fee (9:00-17:00): 127,000 yen (tax excluded)."
+  },
+  {
+   "name": "NS Meeting Room 3-K",
+   "note": "3F West block. Both classroom and hollow-square layouts are 3 per desk. Desks are 1,800 mm wide x 450 mm deep. Projector and screen included. Fee (9:00-17:00): 98,000 yen (tax excluded)."
+  },
+  {
+   "name": "NS Meeting Room 3-L",
+   "note": "3F North block. Both classroom and hollow-square layouts are 3 per desk. Desks are 1,800 mm wide x 600 mm deep. Projector and screen included. Fee (9:00-17:00): 89,000 yen (tax excluded)."
+  },
+  {
+   "name": "NS Meeting Room 3-M",
+   "note": "3F North block. Both classroom and hollow-square layouts are 3 per desk. Desks are 1,800 mm wide x 600 mm deep. Projector and screen included. Fee (9:00-17:00): 104,000 yen (tax excluded)."
+  },
+  {
+   "name": "NS Meeting Room 3-N",
+   "note": "3F North block. Both classroom and hollow-square layouts are 3 per desk. Desks are 1,800 mm wide x 600 mm deep. Projector and screen included. Fee (9:00-17:00): 104,000 yen (tax excluded)."
+  },
+  {
+   "name": "North Open Plaza",
+   "note": "Outdoor public open space. Up to 1,500㎡ can be used (a combination of north side 1,150㎡ + 170㎡ and south side 1,150㎡ + 170㎡). The official hall list gives a capacity scale of 200-400 people. Available for rental only on Saturdays, Sundays and holidays; standard usage hours 10:00-23:00. No water supply or drainage. Single-phase 100 V and three-phase 200 V power is available on the north and south sides; the actual cost of use is charged."
+  }
+ ],
+ "ops": {
+  "prevDaySetup": "For the NS Event Hall, the usage fee for a day used for preparation and removal, such as load-in/load-out and construction, is 50% of the standard fee (heating and cooling are not operated; if they are needed, a non-standard heating/cooling charge is billed separately). When preparation or removal falls on the same day as the event, the normal fee applies within the standard hours. The days and times of use for preparation, the event and removal are put together in a \"work plan\" and submitted at least 10 days before the start of use. (Source: NS Event Hall official page, NS Event Hall Usage Manual as of August 2022)",
+  "loadingHours": "Load-in and load-out for the NS Event Hall are done from the parking entrance on the west side of the 2nd floor of the building (across from Tokyo Metropolitan Government Building No. 2), and vehicles may enter and leave only within the building parking lot's operating hours (6:30-23:30). The Large and Medium Exhibition Halls have dedicated loading areas where vehicles can pull up right next to them. The load-in doors are, in height x width, 3.45 m x 2.75 m for the Large Exhibition Hall, 2.95 m x 2.20 m for the Medium Exhibition Hall and 2.26 m x 1.48 m for the Small Exhibition Hall. There is no space to leave packing materials, so they are taken away each time you load in. For the NS Sky Conference and NS Meeting Rooms, when there is load-in or load-out, submit an advance load-in notice at least 10 days before the work date. The loading area is on B1 only, and packages received in advance are limited to 2 cardboard boxes per room. Usage time includes setup and cleanup time, and the time that load-in/load-out staff enter and leave the room counts as the actual usage time. (Source: NS Event Hall official page, NS Event Hall Usage Manual as of August 2022, NS Sky Conference Advance Load-in Notice and Usage Rules as of July 2023, NS Meeting Room Usage Rules as of July 2023)",
+  "vehicleRules": "Vehicles used for load-in and load-out must be 2.9 m or less in height, 7.5 m or less in length and 2.5 m or less in width (including side mirrors), with a weight of up to 4 tons. The loading area is used only for loading and unloading; if parking is needed, use the general parking lot. Illegal parking, parking on B1 and roadside parking around the building are prohibited. For the NS Sky Conference and NS Meeting Rooms, loading and unloading is limited to 20 minutes per vehicle. For each vehicle listed on the advance load-in notice, a free same-day parking service ticket for load-in/load-out vehicles is issued (application form due 10 days before the day of use). For the NS Event Hall, products, packing materials, decoration materials and trash may not be left in the loading area during the event period. (Source: Access page, NS Sky Conference Advance Load-in Notice as of July 2023, NS Event Hall Usage Manual as of August 2022)",
+  "parking": "The building has parking on B1 and B2 with 336 spaces (about 100 of them hourly). Entry and exit hours are 6:30-23:30 and the rate is 300 yen per 30 minutes. Ordinary vehicles must be 2.1 m or less in height (B1 allows 2.9 m, B2 2.1 m), 7.5 m or less in length and 2.5 m or less in width. The entrance is on the road beside Tokyo Metropolitan Government Building No. 2; there are no entrances or exits on the other roads. There is a service that makes parking free when you shop or dine at a store in the building (1 to 2 hours depending on the amount). The same-day parking service ticket for invited guests is 4,400 yen each (tax included). (Source: Access page, NS Sky Conference Parking Ticket Application Form as of July 2023)",
+  "waitingRooms": "The NS Event Hall has one (waiting) office (39㎡), 30,000 yen per day (tax excluded). The North Open Plaza has waiting room space inside the building (to be discussed). (Source: NS Event Hall official page, North Open Plaza official page)",
+  "catering": "The official page introduces catering from 5 companies (plan and menu PDFs): Izumi Restaurant, Aporte Food Factory, NEO DINING, Sagabou (サガボウ) and Nilax. The NS Sky Conference application form introduces Izumi Restaurant for catering, and Ribenhausu (リーベンハウス) NS store and Tully's Coffee Shinjuku NS Building store for drink delivery (ask for trash bags) (as of July 2023). At the NS Event Hall, food and drink service for visitors uses food and beverage vendors inside the building, and please refrain from bringing in food from outside the building (Usage Manual as of August 2022). At the NS Meeting Rooms, boxed meals and plastic bottles brought in are in principle taken home (application form as of July 2023).",
+  "restaurants": "On the 1st floor of the building there are SUBWAY, Aruden-tei (あるでん亭) and CURRY HOUSE CoCo ICHIBANYA, and on the 29th floor there are restaurants such as Il Chianti Paradiso Nishi-Shinjuku (イルキャンティ パラディーソ西新宿店), Uoya (魚や), Sushiya Ginzo (すし屋 銀蔵), Tsukiji Shokudo Genchan (築地食堂 源ちゃん) and Shizen Monogatari Godaigo (自然物語 ごだいご) (the NS Sky Elevator runs directly from the 1st floor to the 29th floor). The past examples of the NS Sky Conference list reception venues."
+ },
+ "documents": [
+  {
+   "title": "Rental Halls and Meeting Rooms (official)"
+  },
+  {
+   "title": "NS Event Hall: Application Form, Usage Manual, Related Fee Schedule and Rental Equipment Guide (as of August 2022)"
+  },
+  {
+   "title": "NS Event Hall Floor Plan"
+  },
+  {
+   "title": "NS Sky Conference: Application Form, Usage Rules, Advance Load-in Notice, Parking Ticket Application Form and Fee Schedule (as of July 2023)"
+  },
+  {
+   "title": "NS Sky Conference Floor Plan"
+  },
+  {
+   "title": "NS Meeting Rooms: Application Form, Usage Rules, Advance Load-in Notice, Parking Ticket Application Form and Fee Schedule (as of July 2023)"
+  },
+  {
+   "title": "NS Meeting Rooms Floor Plan (3F East Block)"
+  },
+  {
+   "title": "NS Meeting Rooms Floor Plan (3F South Block)"
+  },
+  {
+   "title": "NS Meeting Rooms Floor Plan (3F West Block)"
+  },
+  {
+   "title": "NS Meeting Rooms Floor Plan (3F North Block)"
+  },
+  {
+   "title": "Cancellation Policy"
+  },
+  {
+   "title": "Access and Parking"
+  },
+  {
+   "title": "Catering: Izumi Restaurant Plans and Menu"
+  },
+  {
+   "title": "Catering: Aporte Food Factory Plans and Menu"
+  },
+  {
+   "title": "Catering: NEO DINING Plans and Menu"
+  },
+  {
+   "title": "Catering: Sagabou Plans and Menu"
+  },
+  {
+   "title": "Catering: Nilax Plans and Menu"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "FamilyMart Shinjuku Monolith",
+    "hours": "7:30-23:00",
+    "note": "Distance is calculated from the store's official location. Located on B1 of Shinjuku Monolith (an office building)."
+   },
+   {
+    "name": "7-Eleven Nishi-Shinjuku Shinwa Building",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the store's official location."
+   },
+   {
+    "name": "FamilyMart Shinjuku Shintoshin",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the store's official location. Located on the 1st floor of the Muromachi Building."
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "Accea Shinjuku Minamiguchi",
+    "hours": "Weekdays open 24 hours (non-stop from Monday 8:00 to Saturday 19:00) / Sat until 19:00, Sun & holidays 10:00-19:00",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Accea Shinjuku Building",
+    "hours": "Weekdays 8:00-21:00 / Sat, Sun & holidays 10:00-19:00",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Can Do Yakuhiguchi Shinjuku Park Tower",
+    "hours": "Mon-Fri 9:00-20:00 / Sat & Sun 10:00-19:30 / Holidays 10:00-19:30",
+    "note": "Distance is calculated from the store's official location."
+   },
+   {
+    "name": "DAISO Keio Mall Annex",
+    "hours": "8:00-21:00",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "donki": [
+   {
+    "name": "Don Quijote Shinjuku Southeast Exit",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. The store name on the official Don Quijote website is \"Shinjuku Southeast Exit Store\" (新宿東南口店)."
+   },
+   {
+    "name": "Don Quijote Shinjuku Southeast Exit Annex",
+    "hours": "9:00-2:00",
+    "note": "Distance is calculated from the address location. The store name on the official Don Quijote website is \"Shinjuku Southeast Exit Annex\" (新宿東南口別館)."
+   }
+  ]
+ },
+ "photoCredit": "© User:Kentin / CC BY-SA 3.0 · Wikimedia Commons"
+}

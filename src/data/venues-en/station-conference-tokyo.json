@@ -1,0 +1,244 @@
+{
+ "slug": "station-conference-tokyo",
+ "name": "Station Conference Tokyo",
+ "address": "Tokyo 100-0005 Sapia Tower 4F-6F, 1-7-12 Marunouchi, Chiyoda-ku, Tokyo",
+ "accessSummary": "Directly connected to the Nihombashi Exit of JR Tokyo Station (1 min walk from the Shinkansen Nihombashi Exit ticket gate / 2 min walk from the Yaesu North Exit ticket gate) / Tokyo Metro Tozai Line Otemachi Station: Exit B7 is closed (until the end of March 2028); use the \"Sapia Tower Connection Entrance\" at the far end, up the stairs from the former Exit B7 entrance (7:00-23:00)",
+ "hours": "Open all year except the year-end and New Year holidays. Usage hours are in principle 9:00-21:00 (the extension fee applies to 8:00-22:00; for use outside these hours and for early-morning extension from 7:00 to 8:00, inquire). Inquiries and applications are accepted on weekdays (excluding closed days and holidays) 10:00-17:00. Usage time includes setup and cleanup time",
+ "notice": "Reservations for small rooms are accepted from the first day of the month 6 months before the date of use, and for whole-floor use or larger from the first day of the month 1 year before. For 501 on the 5th floor, reservations are given priority to customers who use it combined as 501ABS (Sapia Hall). Food and drink may not be brought in; use catering. Meetings (seminars, etc.) and receptions are held in separate rooms for preparation reasons. Fees are payable by bank transfer only (no cash or cards).",
+ "rooms": [
+  {
+   "name": "6F 601",
+   "note": "U-shaped layout: 15 seats. Island-layout room."
+  },
+  {
+   "name": "6F 603",
+   "note": "U-shaped layout: 15 seats. Island-layout room."
+  },
+  {
+   "name": "6F 604",
+   "note": "U-shaped layout: 15 seats. Island-layout room."
+  },
+  {
+   "name": "6F 602A, 602B, 602C and 602D (each)",
+   "note": "U-shaped layout: 30 seats. Standing: 30-40 people."
+  },
+  {
+   "name": "6F 602AB and 602CD (each)",
+   "note": "U-shaped layout: 42 seats. Standing: 60-80 people."
+  },
+  {
+   "name": "6F 602ABC and 602BCD (each)",
+   "note": "U-shaped layout: 60 seats. Classroom + theater: 177 seats. Standing: 80-100 people."
+  },
+  {
+   "name": "6F 602ABCD",
+   "note": "Classroom + theater: 261 seats. Standing: 110-140 people."
+  },
+  {
+   "name": "6F 605A, 605B and 605C (each)",
+   "note": "U-shaped layout: 30 seats. Standing: 30-40 people."
+  },
+  {
+   "name": "6F 605AB and 605BC (each)",
+   "note": "U-shaped layout: 42 seats. Standing: 60-80 people."
+  },
+  {
+   "name": "6F 605ABC",
+   "note": "U-shaped layout: 60 seats. Classroom + theater: 177 seats. Standing: 80-100 people."
+  },
+  {
+   "name": "6F 606",
+   "note": "U-shaped layout: 20 seats. Standing: 20-40 people."
+  },
+  {
+   "name": "5F 501A and 501B (each)",
+   "note": "U-shaped layout: 36 seats. Standing: 60-80 people."
+  },
+  {
+   "name": "5F 501AB",
+   "note": "Classroom + theater: 260 seats. Standing: 110-140 people."
+  },
+  {
+   "name": "5F 501AS",
+   "note": "Classroom + theater: 156 seats. Standing: 70-90 people."
+  },
+  {
+   "name": "5F 501ABS (Sapia Hall / Main Hall)",
+   "note": "Classroom + theater: 316 seats. Standing: 150-200 people. A 285-inch high-definition LED screen is permanently installed. The official top page and the press release (October 29, 2024) state a maximum theater-style capacity of about 500 people."
+  },
+  {
+   "name": "5F 501S",
+   "note": "U-shaped layout: 21 seats. Island-layout room."
+  },
+  {
+   "name": "5F 502",
+   "note": "U-shaped layout: 15 seats. Island-layout room."
+  },
+  {
+   "name": "5F 503A, 503B, 503C and 503D (each)",
+   "note": "U-shaped layout: 30 seats. Standing: 30-40 people."
+  },
+  {
+   "name": "5F 503AB and 503CD (each)",
+   "note": "U-shaped layout: 42 seats. Standing: 60-80 people."
+  },
+  {
+   "name": "5F 503ABC and 503BCD (each)",
+   "note": "U-shaped layout: 60 seats. Classroom + theater: 177 seats. Standing: 80-100 people."
+  },
+  {
+   "name": "5F 503ABCD",
+   "note": "Classroom + theater: 261 seats. Standing: 110-140 people."
+  },
+  {
+   "name": "4F 401",
+   "note": "U-shaped layout: 14 seats. Island-layout room."
+  },
+  {
+   "name": "4F 402A, 402B, 402C and 402D (each)",
+   "note": "Area is 52-55㎡. U-shaped layout: 16 seats. Standing: 20-30 people."
+  },
+  {
+   "name": "4F 402AB and 402CD (each)",
+   "note": "Area is 107-110㎡. U-shaped layout: 28 seats. Standing: 40-60 people."
+  },
+  {
+   "name": "4F 402ABC and 402BCD (each)",
+   "note": "Area is 162-165㎡. U-shaped layout: 44 seats. Classroom + theater: 84 seats. Standing: 70-90 people."
+  },
+  {
+   "name": "4F 402ABCD",
+   "note": "U-shaped layout: 60 seats. Classroom + theater: 123 seats. Standing: 100-130 people."
+  },
+  {
+   "name": "4F 403 and 404 (each)",
+   "note": "The layout is fixed island style (8 seats)."
+  }
+ ],
+ "ops": {
+  "loadingHours": "Vehicles stop temporarily at the loading area on B1F; before starting load-in or load-out, complete the procedure at the logistics reception next to it and receive a security card. Load-in is not possible without bringing a copy of the work notice submitted in advance. The procedure is done by the on-site person in charge named on the work notice, and ID such as a driver's license is required. For load-in and load-out to the 4th, 5th and 6th floors, use elevator E1 shown on the separate route map (elevator E2 is for the hotel and offices and cannot be used). Elevator E1 has a door 1,100 mm wide x 2,390 mm high and a car 1,800 mm wide x 2,000 mm deep x 2,400 mm high (up to 3,600 mm), with a capacity of 2,500 kg. Packages sent in advance arrive in the afternoon of the day before the use date at a specified date and time; storage is free up to 3 items (from the 4th item, a fee applies). (Source: Load-in and Load-out Guide, FAQ)",
+  "vehicleRules": "Vehicles are parked temporarily at the loading area on B1F. The height limit on B1F is up to 2.7 m. An advance application is required for load-in by vehicle. Organizing, guiding and security for visitors' cars and the like are the organizer's responsibility (when there are many visitors, the facility arranges it and the cost is borne by the organizer). (Source: Load-in and Load-out Guide, FAQ, Usage Rules Article 13)",
+  "parking": "If you come by car, use the hourly parking lot in the building. The parking lot is on B2F and B3F.",
+  "waitingRooms": "Customers of Station Conference Tokyo can use the private rooms of the lounge facility \"Recross\" on the 4th floor at the visitor rate, for a speaker's waiting room or a meeting before a conference. There are 3 types of private room: R-001 (1-2 people) 4,400 yen per hour, R-006 (6-8 people) 8,800 yen per hour, and R-010 (10 people) 11,000 yen per hour (tax included). Reserve by phone from 1 month before the use date; cancellation on the day of use is charged in full as a cancellation fee. At the reception you are asked the name of the event that day. Food and drink may not be brought into Recross.",
+  "catering": "For hygiene management, food and drink may not be brought in. Use the catering service. The facility introduces drinks (PET bottles, pot service, and a drink corner accepted from 50 people), boxed meals and light meals (Nihonbashi Daimasu, Shimogamosaryo, MASUMOTO, NADAMAN, SANKEIKAIKAN, Meijiza, and Dining & Bar TENQOO on the 27th floor of Hotel Metropolitan Tokyo Marunouchi), and party plans for receptions (Tokyo Kaikan, Palace Hotel Tokyo, Hotel Metropolitan Edmont Tokyo, FUORICLASSE, SANKEIKAIKAN, Aporte Food Factory, CATERING Beyond, Gohon, CB SERVICE, DYNAC). The guide unit price for party plans is 4,400 to 14,500 yen (the minimum number of people differs by company, such as 30 or more or 50 or more). If the number of people increases on the day, food cannot be added, and drinks are handled at an additional charge. If the number of people decreases on the day, there is no discount. The catering order deadline is 12:00 three days before the use date. (Source: Catering page, FAQ)",
+  "restaurants": "There are shops on the 1st and 3rd floors of the same Sapia Tower, and convenience stores and restaurants on the lower floors. Hotel Metropolitan Tokyo Marunouchi occupies the 27th to 34th floors."
+ },
+ "documents": [
+  {
+   "title": "Facility Price List / Recommended Capacity (from October 2024)"
+  },
+  {
+   "title": "Equipment and Fixtures Price List (from October 2024)"
+  },
+  {
+   "title": "4F Floor Plan"
+  },
+  {
+   "title": "5F Floor Plan"
+  },
+  {
+   "title": "6F Floor Plan"
+  },
+  {
+   "title": "4F Floor Dimension Drawing"
+  },
+  {
+   "title": "5F Floor Dimension Drawing"
+  },
+  {
+   "title": "6F Floor Dimension Drawing"
+  },
+  {
+   "title": "4F Power Supply Diagram"
+  },
+  {
+   "title": "5F Power Supply Diagram"
+  },
+  {
+   "title": "6F Power Supply Diagram"
+  },
+  {
+   "title": "Load-in and Load-out Guide"
+  },
+  {
+   "title": "Route from the Station Ticket Gates (Sapia Tower)"
+  },
+  {
+   "title": "Station Conference Usage Rules (revised April 1, 2013)"
+  },
+  {
+   "title": "Recross Usage Rules"
+  },
+  {
+   "title": "Notice of Main Hall LED Screen Installation (October 29, 2024)"
+  },
+  {
+   "title": "Dedicated Internet Line Guide (2022)"
+  },
+  {
+   "title": "Web Conference / Seminar Rental Equipment Guide (2023)"
+  },
+  {
+   "title": "Bulk Document Download (official list)"
+  },
+  {
+   "title": "Usage Flow and FAQ"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "FamilyMart Sapia Tower",
+    "hours": "7:00-22:00",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "FamilyMart Marunouchi Trust Tower",
+    "hours": "7:00-23:00",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "FamilyMart Marunouchi Oazo",
+    "hours": "6:00-24:00",
+    "note": "Distance is calculated from the official store location."
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "Kinko's Otemachi",
+    "hours": "Weekdays 9:00-20:00 / Closed Sat, Sun & holidays",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Accea Tokyo Station Yaesu",
+    "hours": "Open 24 hours (cafe use from 22:00 to 6:00 the next day is for identity-verified members only)",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Can Do Marunouchi Oazo",
+    "hours": "Mon-Fri 8:00-22:00 / Sat-Sun 9:00-21:00",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "3COINS Yaechika",
+    "hours": "10:00-21:00",
+    "note": "Distance is calculated from the official store location."
+   }
+  ],
+  "donki": [
+   {
+    "name": "Don Quijote Ginza Main Building (Ginza Nine Building No. 3)",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. Far."
+   },
+   {
+    "name": "Don Quijote Akihabara",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. The store name on the Don Quijote official website is \"Akihabara\" (秋葉原店). Far."
+   }
+  ]
+ },
+ "photoCredit": "© 掬茶 / CC BY-SA 4.0 · Wikimedia Commons"
+}

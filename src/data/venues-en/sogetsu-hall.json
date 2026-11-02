@@ -1,0 +1,108 @@
+{
+ "slug": "sogetsu-hall",
+ "name": "Sogetsu Hall",
+ "address": "Tokyo 107-0052 Sogetsu Kaikan B1F, 7-2-21 Akasaka, Minato-ku",
+ "accessSummary": "Aoyama-itchome Station (Tokyo Metro Ginza Line / Hanzomon Line, Toei Oedo Line) Minami-Aoyama Exit 4: 5 min walk / Akasaka-mitsuke Station (Tokyo Metro Ginza Line / Marunouchi Line) Exit A: 10 min walk",
+ "hours": "There are three rental time slots: 9:00-17:00 / 13:00-22:00 / 9:00-22:00 (including time for preparation, cleanup and leaving the building). (Fee Table, April 2024)",
+ "notice": "The hall is rented only to the extent that it does not interfere with use by the Sogetsu Foundation. On Saturdays, Sundays, holidays and substitute holidays, use for the whole day (9:00-22:00) takes priority. The contracted usage time cannot in principle be extended, and admission above the capacity of 526 is not allowed.",
+ "rooms": [
+  {
+   "name": "Sogetsu Hall",
+   "note": "526 fixed seats (capacity 526). The seating consists of 1F seats, 2F balcony seats and 3F balcony seats. The stage has a movable platform stage."
+  }
+ ],
+ "ops": {
+  "prevDaySetup": "The hall usage fee is 50% off when the hall is used for setup and rehearsals. (Fee Table, April 2024)",
+  "loadingHours": "The stage has one large-set load-in/out entrance (B1 floor plan, stage floor plan). Work in the hall requires a meeting with the hall staff; the detailed meeting for the day of use is held by 1 month before the day of use. Prior approval of the hall manager is required to bring in items other than the hall equipment or to install special equipment.",
+  "parking": "No parking lot is available for rent. Use public transportation, or if you come by car, use a nearby coin-operated parking lot.",
+  "catering": "Drinking alcohol, smoking, the use of open flames and bringing in dangerous items are prohibited on the stage, around it and in the seating area. (Usage Rules)"
+ },
+ "documents": [
+  {
+   "title": "Hall Usage Rules, Fee Table and Equipment List (Fee Table April 2024, Attached Equipment Fees October 2023)"
+  },
+  {
+   "title": "Seating Chart"
+  },
+  {
+   "title": "Emergency Exit Guide (B1 Floor Plan)"
+  },
+  {
+   "title": "Stage Cross-Section"
+  },
+  {
+   "title": "Stage Plan (1/50)"
+  },
+  {
+   "title": "Stage Plan (1/100)"
+  },
+  {
+   "title": "Hall Foyer Size (June 19, 2018)"
+  },
+  {
+   "title": "About Work at Height (ver.1.0)"
+  },
+  {
+   "title": "Sogetsu Hall Work-at-Height List (ver.1.0, December 14, 2021)"
+  },
+  {
+   "title": "Pre-check List for Work at Height at Sogetsu Hall (ver.1.0)"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "FamilyMart Aoyama-dori Akasaka 7-chome",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the store's official location."
+   },
+   {
+    "name": "FamilyMart Aoyama Gaien-higashi-dori",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the store's official location."
+   },
+   {
+    "name": "FamilyMart Akasaka Inarizaka",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the store's official location."
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "Accea Akasaka",
+    "hours": "Weekdays 9:00-20:00 / Closed Sat, Sun & holidays",
+    "note": "Distance is calculated from the address location. A small store (Accea Mini). Cash cannot be used (as indicated by the official site)."
+   },
+   {
+    "name": "Kinko's Akasaka-mitsuke",
+    "hours": "Weekdays 9:00-20:00 / Sat, Sun & holidays 10:00-19:00",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Can Do Akasaka Hitotsugi-dori",
+    "hours": "Mon-Fri 9:00-21:00 / Sat-Sun 9:00-20:00",
+    "note": "Distance is calculated from the store's official location."
+   },
+   {
+    "name": "Can Do Atre Shinanomachi",
+    "hours": "Daily 10:00-21:00",
+    "note": "Distance is calculated from the store's official location. Rather far."
+   }
+  ],
+  "donki": [
+   {
+    "name": "Picasso Akasaka (Don Quijote)",
+    "hours": "7:00-3:00",
+    "note": "Distance is calculated from the address location. This is a separate Don Quijote format. The store name on the Don Quijote official website is \"Picasso Akasaka\" (ピカソ赤坂店)."
+   },
+   {
+    "name": "Don Quijote Roppongi",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. The store name on the Don Quijote official website is \"Roppongi\" (六本木店). Rather far."
+   }
+  ]
+ },
+ "photoCredit": "© Wiiii / CC BY-SA 3.0 · Wikimedia Commons"
+}

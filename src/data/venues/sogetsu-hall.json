@@ -1,0 +1,208 @@
+{
+ "slug": "sogetsu-hall",
+ "nameJa": "草月ホール",
+ "nameEn": "",
+ "type": "hall",
+ "area": "toranomon-roppongi-venues",
+ "address": "〒107-0052 東京都港区赤坂7-2-21 草月会館地下1階",
+ "officialUrl": "https://www.sogetsu.or.jp/",
+ "organizerUrl": "https://www.sogetsu.or.jp/about/hq-building/hall/",
+ "bizintokyoSlug": "sogetsu-hall",
+ "accessSummary": "東京メトロ銀座線・半蔵門線・都営大江戸線「青山一丁目」駅 南青山4番出口 徒歩5分／東京メトロ銀座線・丸ノ内線「赤坂見附」駅 A出口 徒歩10分",
+ "notice": "草月会の使用に支障のない範囲で貸し出す。土曜・日曜・祝日・振替休日は全日通し（9:00〜22:00）の利用が優先。契約した使用時間の延長は原則できず、定員526名を超える入場は不可。",
+ "hours": "貸出の時間区分は9:00〜17:00／13:00〜22:00／9:00〜22:00の3つ（準備・後片付け・退館の時間を含む）。（使用料表 2024年4月）",
+ "rooms": [
+  {
+   "name": "草月ホール",
+   "areaM2": null,
+   "ceilingM": null,
+   "theater": 526,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "固定席526席（定員526名）。客席は1階席・2階バルコニー席・3階バルコニー席。舞台に移動式置舞台あり。"
+  }
+ ],
+ "roomsSource": "https://www.sogetsu.or.jp/about/hq-building/hall/",
+ "ops": {
+  "prevDaySetup": {
+   "text": "仕込・リハーサルのためのホール使用は、ホール使用料が50%引きになる。（使用料表 2024年4月）",
+   "source": "https://www.sogetsu.or.jp/wp-content/uploads/2025/10/96740b16b1793874f87806ac31f04eda.pdf"
+  },
+  "loadingHours": {
+   "text": "舞台に大道具搬出入口が1か所ある（地下1階平面図・舞台平面図）。ホールでの作業はホールスタッフとの打合せが必要で、使用当日の細部打合せは使用日の1か月前までに行う。ホール備品以外の器物の搬入や特殊な設備を施す場合は、事前にホール管理者の了承が必要。",
+   "source": "https://www.sogetsu.or.jp/wp-content/uploads/2025/10/96740b16b1793874f87806ac31f04eda.pdf"
+  },
+  "parking": {
+   "text": "駐車場の貸出はない。公共交通機関を利用するか、車で来る場合は近隣のコインパーキングを利用する。",
+   "source": "https://www.sogetsu.or.jp/about/hq-building/hall/"
+  },
+  "catering": {
+   "text": "舞台・その周辺・客席での飲酒、喫煙、裸火の使用、危険物の持込みは禁止。（使用規定）",
+   "source": "https://www.sogetsu.or.jp/wp-content/uploads/2025/10/96740b16b1793874f87806ac31f04eda.pdf"
+  }
+ },
+ "documents": [
+  {
+   "title": "ホール使用規定・使用料・備品一覧（使用料 2024年4月、附帯設備使用料 2023年10月）",
+   "url": "https://www.sogetsu.or.jp/wp-content/uploads/2025/10/96740b16b1793874f87806ac31f04eda.pdf"
+  },
+  {
+   "title": "座席表",
+   "url": "https://www.sogetsu.or.jp/wp-content/uploads/2024/07/sogetsu_hall_2-7_new.pdf"
+  },
+  {
+   "title": "非常口案内（地下1階平面図）",
+   "url": "https://www.sogetsu.or.jp/wp-content/uploads/2020/03/sogetsu_hall_3.pdf"
+  },
+  {
+   "title": "舞台断面図",
+   "url": "https://www.sogetsu.or.jp/wp-content/uploads/2024/07/sogetsu_hall_4_new1.pdf"
+  },
+  {
+   "title": "舞台平面図（1/50）",
+   "url": "https://www.sogetsu.or.jp/wp-content/uploads/2024/07/sogetsu_hall_6_new1.pdf"
+  },
+  {
+   "title": "舞台平面図（1/100）",
+   "url": "https://www.sogetsu.or.jp/wp-content/uploads/2024/07/sogetsu_hall_7_new1.pdf"
+  },
+  {
+   "title": "ホールホワイエサイズ（2018年6月19日）",
+   "url": "https://www.sogetsu.or.jp/wp-content/uploads/2019/07/sogetsu_hall_8.pdf"
+  },
+  {
+   "title": "高所作業につきまして（ver.1.0）",
+   "url": "https://www.sogetsu.or.jp/wp-content/uploads/2025/04/d2c50311ba4588e1f9f3324483c0de88.pdf"
+  },
+  {
+   "title": "草月ホール高所リスト（ver.1.0、2021年12月14日）",
+   "url": "https://www.sogetsu.or.jp/wp-content/uploads/2025/04/ddaec28c619e7b996e82819d458ff5bd.pdf"
+  },
+  {
+   "title": "草月ホールでの高所作業における事前チェックリスト（ver.1.0）",
+   "url": "https://www.sogetsu.or.jp/wp-content/uploads/2025/04/53cfdaf8a04768a9428c1462e7eb6da6.pdf"
+  }
+ ],
+ "checkedAt": "2026-11-02",
+ "lat": 35.673843,
+ "lng": 139.729965,
+ "nearby": {
+  "convenience": [
+   {
+    "name": "ファミリーマート 青山通り赤坂七丁目店",
+    "brand": "ファミリーマート",
+    "distanceM": 58,
+    "walkMin": 1,
+    "hours": "24時間営業",
+    "address": "東京都港区赤坂7丁目1-16 オーク赤坂ビル1F",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/23280",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "ファミリーマート 青山外苑東通り店",
+    "brand": "ファミリーマート",
+    "distanceM": 418,
+    "walkMin": 6,
+    "hours": "24時間営業",
+    "address": "東京都港区南青山一丁目2番6号",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/24082",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "ファミリーマート 赤坂稲荷坂店",
+    "brand": "ファミリーマート",
+    "distanceM": 420,
+    "walkMin": 6,
+    "hours": "24時間営業",
+    "address": "東京都港区赤坂八丁目12番14号",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/23589",
+    "note": "距離は公式の店舗位置で計算"
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "アクセア 赤坂店",
+    "brand": "アクセア",
+    "distanceM": 548,
+    "walkMin": 7,
+    "hours": "平日 9:00-20:00／土・日・祝 休み",
+    "address": "東京都港区赤坂5-4-11 山口建設第二ビル",
+    "verified": true,
+    "source": "https://www.accea.co.jp/entry.html",
+    "note": "距離は住所の位置で計算。小型店（アクセアミニ）。現金は使えない（公式の表示）"
+   },
+   {
+    "name": "キンコーズ・赤坂見附店",
+    "brand": "キンコーズ",
+    "distanceM": 624,
+    "walkMin": 8,
+    "hours": "平日 9:00-20:00／土・日・祝 10:00-19:00",
+    "address": "東京都港区赤坂3丁目21-20 赤坂ロングビーチビル1F",
+    "verified": true,
+    "source": "https://www.kinkos.co.jp/store/tokyo/t023/",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Can★Do 赤坂一ツ木通り店",
+    "brand": "キャンドゥ",
+    "distanceM": 592,
+    "walkMin": 8,
+    "hours": "月〜金 9:00-21:00／土〜日 9:00-20:00",
+    "address": "東京都港区赤坂3-17-10 フローレンス一ツ木ビル1階",
+    "verified": true,
+    "source": "https://shopinfo.cando-web.co.jp/detail/shop-5207/",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "Can★Do アトレ信濃町店",
+    "brand": "キャンドゥ",
+    "distanceM": 1130,
+    "walkMin": 15,
+    "hours": "毎日 10:00-21:00",
+    "address": "東京都新宿区信濃町34 アトレ信濃町2階",
+    "verified": true,
+    "source": "https://shopinfo.cando-web.co.jp/detail/shop-5610/",
+    "note": "距離は公式の店舗位置で計算。遠め"
+   }
+  ],
+  "donki": [
+   {
+    "name": "ピカソ赤坂店（ドン・キホーテ）",
+    "brand": "ドン・キホーテ",
+    "distanceM": 675,
+    "walkMin": 9,
+    "hours": "7:00-3:00",
+    "address": "東京都港区赤坂3-11-14",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=289",
+    "note": "距離は住所の位置で計算。ドン・キホーテの別業態（公式サイトの店舗名は「ピカソ赤坂店」）"
+   },
+   {
+    "name": "ドン・キホーテ 六本木店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 1335,
+    "walkMin": 17,
+    "hours": "24時間営業",
+    "address": "東京都港区六本木3-14-10",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=31",
+    "note": "距離は住所の位置で計算。ドン・キホーテ公式サイトの店舗名は「六本木店」。遠め"
+   }
+  ]
+ },
+ "drinkDelivery": {
+  "available": true
+ },
+ "photo": {
+  "src": "/images/venues/sogetsu-hall.jpg",
+  "credit": "© Wiiii / CC BY-SA 3.0 · Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sogetsu_Hall.jpg"
+ }
+}

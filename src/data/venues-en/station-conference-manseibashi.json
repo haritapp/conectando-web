@@ -1,0 +1,166 @@
+{
+ "slug": "station-conference-manseibashi",
+ "name": "Station Conference Manseibashi",
+ "address": "Tokyo 101-0041 JR Kanda Manseibashi Building 3F and 4F, 1-25 Kanda-Sudacho, Chiyoda-ku",
+ "accessSummary": "Akihabara Station (JR) Electric Town Exit: 4 min walk / Kanda Station (Tokyo Metro Ginza Line) Exit 6: 2 min walk / Kanda Station (JR) North Exit: 6 min walk / Ochanomizu Station (JR) Hijiribashi Exit: 6 min walk / Ogawamachi Station (Toei Shinjuku Line) Exit A3: 3 min walk / Awajicho Station (Tokyo Metro Marunouchi Line) Exit A3: 3 min walk / Shin-Ochanomizu Station (Tokyo Metro Chiyoda Line) Exit A3: 3 min walk / Akihabara Station (Tsukuba Express) Exit A1: 5 min walk / Akihabara Station (Tokyo Metro Hibiya Line) Exit 3: 6 min walk / Iwamotocho Station (Toei Shinjuku Line) Exit A2: 6 min walk / Ochanomizu Station (Tokyo Metro Marunouchi Line) Exit 1: 8 min walk",
+ "hours": "Open throughout the year except for the year-end and New Year holidays. Usage hours are in principle 9:00-21:00 (the extension fee applies to 8:00-22:00; for use outside these hours and for early-morning extension from 7:00 to 8:00, please inquire). Inquiries and applications are accepted on weekdays (excluding closed days and holidays) 10:00-17:00. Usage time includes setup and cleanup time",
+ "notice": "Reservations for small rooms are accepted from the first day of the month 6 months before the date of use, and reservations for a whole floor or more from the first day of the month 1 year before. Outside food and drink cannot be brought in; use the catering service. A meeting (seminar, etc.) and a reception are held in separate rooms because of preparation requirements. Fees can be paid by bank transfer only (cash and cards not accepted).",
+ "rooms": [
+  {
+   "name": "4F 401 and 402 (each)",
+   "note": "U-shape: 12 seats. O-shape layout room."
+  },
+  {
+   "name": "4F 403",
+   "note": "U-shape: 12 seats. O-shape layout room."
+  },
+  {
+   "name": "4F 404A, 404B and 404C (each)",
+   "note": "U-shape: 28 seats. Island layout: 30 seats. Standing: 30 to 40 people."
+  },
+  {
+   "name": "4F 405A and 405B",
+   "note": "405A and 405B are each one room. U-shape: 28 seats. Island layout: 30 seats. Standing: 30 to 40 people."
+  },
+  {
+   "name": "4F 406",
+   "note": "U-shape layout room. U-shape: 28 seats. Island layout: 30 seats. Standing: 30 to 40 people."
+  },
+  {
+   "name": "4F 404AB and 404BC (each)",
+   "note": "U-shape: 34 seats. Classroom + theater: 125 seats. Standing: 70 to 90 people."
+  },
+  {
+   "name": "4F 405AB",
+   "note": "U-shape: 34 seats. Classroom + theater: 125 seats. Standing: 70 to 90 people."
+  },
+  {
+   "name": "4F 404ABC",
+   "note": "U-shape: 54 seats. Classroom + theater: 209 seats. Standing: 100 to 130 people."
+  },
+  {
+   "name": "3F 301 (Studio Room)",
+   "note": "U-shape: 24 seats. Can also be used as an ordinary rental room."
+  },
+  {
+   "name": "3F 302",
+   "note": "U-shape: 30 seats. Island layout: 36 seats. Standing: 40 to 50 people."
+  },
+  {
+   "name": "3F 303",
+   "note": "U-shape: 26 seats. Island layout: 24 seats. Standing: 20 to 30 people."
+  },
+  {
+   "name": "3F 304A",
+   "note": "U-shape: 18 seats. Standing: 20 to 30 people."
+  },
+  {
+   "name": "3F 304B",
+   "note": "U-shape: 18 seats. Standing: 20 to 30 people."
+  },
+  {
+   "name": "3F 304AB",
+   "note": "U-shape: 32 seats. Island layout: 54 seats. Classroom + theater: 104 seats. Standing: 40 to 60 people."
+  },
+  {
+   "name": "3F 305 (Multipurpose Space)",
+   "note": "Not soundproof. Booked in 1-hour units (12,100 yen). U-shape: 28 seats. Standing: 30 to 50 people."
+  }
+ ],
+ "ops": {
+  "loadingHours": "Park the vehicle at the loading area on B1F, complete the procedure at the logistics reception and receive a security card before starting load-in or load-out. The logistics reception is open daily 7:00-22:00. You cannot load in without bringing a copy of the work notification submitted in advance. The procedure is done by the on-site manager named on the work notification, and ID such as a driver's license is required. For load-in and load-out to the 3rd and 4th floors, use the B1F elevator: the door is 1,100 mm wide x 2,400 mm high, the car interior is 1,800 mm wide x 2,100 mm deep x 3,000 mm high, and the capacity is 1,800 kg. Packages sent in advance arrive on the afternoon of the day before use at a designated date and time; storage is free for up to 3 items (from the 4th item, a fee applies). (Source: Load-in and Load-out Guide, FAQ)",
+  "vehicleRules": "Cars and trucks go down from the parking lot entrance to B1F and stop at the loading area. The height limit at the loading area is 2.8 m. Advance application is required for load-in by vehicle. (Source: Load-in and Load-out Guide, FAQ)",
+  "catering": "For hygiene management, outside food and drink cannot be brought in. Use the catering service. The venue introduces drinks (PET bottles, pot service), boxed meals and light meals (Nihonbashi Daimasu, Shimogamosaryo, Masumoto Foods, Nadaman, Sankei Kaikan, Meiji-za), and party plans for receptions (Tokyo Kaikan, Palace Hotel Tokyo, Hotel Metropolitan Edmont, Forikurasse, Sankei Kaikan, Aporute Food Factory, CATERING Beyond, Gon, CB Service, DYNAC). The guide unit price for party plans is 4,400 yen to 14,500 yen (the minimum number of guests differs by company, such as 30 or more or 50 or more). If the number of guests increases on the day, food cannot be added; drinks are handled for an additional charge. If the number of guests decreases on the day, there is no discount. The deadline for catering orders is 12:00 three days before the date of use. (Source: Catering page, FAQ)"
+ },
+ "documents": [
+  {
+   "title": "Facility Fee Schedule / Recommended Capacity (from April 2025)"
+  },
+  {
+   "title": "Equipment and Fixtures Fee Schedule (from April 2025)"
+  },
+  {
+   "title": "4F Floor Plan"
+  },
+  {
+   "title": "3F Floor Plan"
+  },
+  {
+   "title": "4F Floor Dimension Drawing"
+  },
+  {
+   "title": "3F Floor Dimension Drawing"
+  },
+  {
+   "title": "Load-out and Load-in (Load-in Rules)"
+  },
+  {
+   "title": "Station Conference Rules of Use (changed April 1, 2013)"
+  },
+  {
+   "title": "Dedicated Internet Line Guide"
+  },
+  {
+   "title": "Bulk Document Download (official list)"
+  },
+  {
+   "title": "Usage Guide / FAQ"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "7-Eleven Kanda Manseibashi Minami",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "FamilyMart Akihabara Radio Kaikan",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "7-Eleven Kanda Awajicho WATERRAS",
+    "hours": "7:00-23:00 (Mon-Sun & holidays)",
+    "note": "Distance is calculated from the official store location."
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "Accea Kanda",
+    "hours": "Weekdays open 24 hours (open continuously from 8:00 Monday morning to 19:00 Saturday evening) / Sun & holidays 10:00-19:00 (open continuously on the day before a holiday that falls on a weekday)",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Accea Awajicho",
+    "hours": "Weekdays 9:00-20:00 / Closed Sat, Sun & holidays",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "3COINS Atre Akihabara",
+    "hours": "10:00-21:00",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "Can Do Akihabara",
+    "hours": "Daily 10:00-21:00",
+    "note": "Distance is calculated from the official store location."
+   }
+  ],
+  "donki": [
+   {
+    "name": "Don Quijote Akihabara",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. The store name on the Don Quijote official website is \"Akihabara Store\"."
+   },
+   {
+    "name": "Don Quijote Ueno",
+    "hours": "9:00-4:00",
+    "note": "Distance is calculated from the address location. The store name on the Don Quijote official website is \"Ueno Store\". Rather far."
+   }
+  ]
+ },
+ "photoCredit": "© 掬茶 / CC BY-SA 3.0 · Wikimedia Commons"
+}

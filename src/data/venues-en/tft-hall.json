@@ -1,0 +1,200 @@
+{
+ "slug": "tft-hall",
+ "name": "TFT Hall (TFT Building)",
+ "address": "Tokyo 135-0063 TFT Building West Wing 2F (TFT Hall), 3-4-10 Ariake, Koto-ku; the training rooms and conference rooms are on the 9F of TFT Building East Wing, 3-6-11 Ariake, Koto-ku, Tokyo",
+ "accessSummary": "Yurikamome Line, Tokyo Big Sight Station: about 1 min walk / Rinkai Line, Kokusai-Tenjijo Station: about 5 min walk",
+ "hours": "TFT Hall: 0:00-24:00 (usage slots are 9:00-17:00 / 13:00-21:00 / 9:00-21:00; overtime labor costs apply from 0:00 to 9:00 and from 21:00 to 24:00). Training rooms and conference rooms: 7:00-23:00 (overtime labor costs apply from 7:00 to 8:00 and from 21:00 to 23:00)",
+ "notice": "The hall must be booked in one of the fixed time slots (9:00-17:00 / 13:00-21:00 / 9:00-21:00), with a minimum of 8 hours (30-minute units are not available). Training rooms and conference rooms have a minimum of 3 hours. If a training room or conference room is used for a party, reception, exhibition, filming, etc., the base fee is 50% higher and a cleaning fee also applies. Payment is by bank transfer against an invoice only (cards and cash are not accepted). (Source: Hall FAQ, Conference Facilities FAQ)",
+ "rooms": [
+  {
+   "name": "TFT Hall 1000 (West Wing 2F)",
+   "note": "38.9×23.2m. Fashion show layout: 700 seats. Party: 600 people. Reference layout drawings: with stage, theater 986 seats; with stage, classroom 3 per desk 783 seats; exam-use classroom 2 per desk 512 seats; round-table party 450 seats (45 tables). Floor load capacity 500kg/㎡."
+  },
+  {
+   "name": "TFT Hall 500 (West Wing 2F)",
+   "note": "24.4×17.6m. Fashion show layout: 350 seats. Party: 300 people. Reference layout drawings: with stage, theater 450 seats; with stage, classroom 2 per desk 238 seats; exam-use classroom 2 per desk 240 seats; round-table party 150 people (10 per table). Floor load capacity 500kg/㎡. The foyer (in front of Hall 500) can be used only when Hall 500 is booked."
+  },
+  {
+   "name": "TFT Hall 300 (West Wing 2F)",
+   "note": "18.3×14.7m. Fashion show layout: 200 seats. Party: 180 people. Reference layout drawings: with stage, theater 260 seats; with stage, classroom 2 per desk 156 seats; exam-use classroom 2 per desk 120 seats; round-table party 110 seats. Floor load capacity 500kg/㎡."
+  },
+  {
+   "name": "Foyer (West Wing 2F)",
+   "note": "Cannot be rented on its own; it can be used only when Hall 500 is booked. The area is 500㎡ in the price list and 400㎡ on the hall page. The foyer usage fee is 165,000 yen for users of any hall and 330,000 yen for users of Hall 500 (tax included, price list of April 1, 2026)."
+  },
+  {
+   "name": "Training Room 901 (East Wing 9F)",
+   "note": "Basic layout is classroom style."
+  },
+  {
+   "name": "Training Room 902 (East Wing 9F)",
+   "note": "Basic layout is classroom style."
+  },
+  {
+   "name": "Training Room 904 (East Wing 9F)",
+   "note": "Basic layout is classroom style. Rooms 904 to 907 can be used flexibly with movable partitions; when used as one space, the fee for each room is added."
+  },
+  {
+   "name": "Training Room 905 (East Wing 9F)",
+   "note": "Basic layout is classroom style. Can be used flexibly with movable partitions (when used as one space, the fee for each room is added)."
+  },
+  {
+   "name": "Training Room 906 (East Wing 9F)",
+   "note": "Basic layout is classroom style. Can be used flexibly with movable partitions (when used as one space, the fee for each room is added). Reference layout drawing: T-shaped island layout, 6 per island, 24 islands."
+  },
+  {
+   "name": "Training Room 907 (East Wing 9F)",
+   "note": "Basic layout is classroom style. Can be used flexibly with movable partitions (when used as one space, the fee for each room is added)."
+  },
+  {
+   "name": "Training Rooms 904+905+906+907 (combined, East Wing 9F)",
+   "note": "Reference layout drawing: classroom 2 per desk, 408 seats. There is no official figure for the area of the combined room; when used as one space, the fee for each room is added."
+  },
+  {
+   "name": "Training Room 908 (East Wing 9F)",
+   "note": "Basic layout is classroom style. Reference layout drawing: T-shaped island layout, 6 per island, 16 islands."
+  },
+  {
+   "name": "Training Room 909 (East Wing 9F)",
+   "note": "Basic layout is classroom style."
+  },
+  {
+   "name": "Training Room 910 (East Wing 9F)",
+   "note": "Basic layout is classroom style."
+  },
+  {
+   "name": "Conference Room 9-A (East Wing 9F)",
+   "note": "Basic layout is classroom style. Reference layout drawing: standing party for about 100 people (food tables placed in the center or along the walls)."
+  },
+  {
+   "name": "Conference Room 9-B (East Wing 9F)",
+   "note": "Basic layout is hollow square."
+  },
+  {
+   "name": "Conference Room 9-C (East Wing 9F)",
+   "note": "Basic layout is hollow square. The layout cannot be changed."
+  },
+  {
+   "name": "Conference Room 9-E (East Wing 9F)",
+   "note": "Basic layout is hollow square."
+  },
+  {
+   "name": "Conference Room 9-F (East Wing 9F)",
+   "note": "Basic layout is hollow square."
+  }
+ ],
+ "ops": {
+  "prevDaySetup": "For days used only for preparation, setup, rehearsal and teardown, the hall is charged 50% of the base usage fee, up to 2 days per event (slot fee only; extension fees, equipment and labor costs are not included). Setup and teardown time is included in the booked usage time (if booked for 9:00-21:00, setup can start from 9:00). When using the hall for 2 or more consecutive days, you must book consecutive slots; if you book only 9:00-17:00 on two days in a row, you must fully clear out at 17:00 on day 1 and start again at 9:00 on day 2. For the training rooms and conference rooms, if you ask the facility for a (paid) layout change, they will set up the room before the start of your usage time (equipment you bring in is not covered). (Source: Hall FAQ, Hall Facility Guide revised April 2024, Conference Facilities FAQ)",
+  "loadingHours": "The hall can be used 24 hours a day, but from 0:00 to 9:00 and from 21:00 to 24:00 overtime labor costs are charged in addition to the venue fee, and before 8:00 and after 23:00 accommodation costs for the staff on duty are charged. Load-in uses a dedicated loading entrance and loading slope; both the slope and the hall floor have a load capacity of 500kg/㎡, and trucks up to 4 tons can climb the slope. The loading gate entrance is 8,500 mm wide and the slope entrance is 3,800 mm high (door dimension drawing created August 2003). Discuss the route and number of vehicles in advance, and always use protective covering during load-in and load-out. The training rooms and conference rooms (East Wing 9F) are available from 7:00 to 23:00, and when there is load-in or load-out, a \"Work Notification Form\" must be submitted at least 1 week before the work. Packages are unloaded at Loading Area No. 2 and carried to the 9th floor by the load-in elevator. (Source: Hall FAQ, Hall Facility Guide revised April 2024, Conference Facility Guide revised September 2025, Work Notification Form, East Wing Load-in Route Map)",
+  "vehicleRules": "Hall users can use the organizer-only parking lot; the allotted spaces are 3 for Hall 1000, 3 for Hall 500 and 2 for Hall 300 (1F, height limit 1.9 m). Submit the \"Organizer-only Parking Lot Application Form\" in advance, take a parking ticket at the entrance and park at the spot marked with green cones; before leaving, pick up a service ticket at the hall office on the 3F of the West Wing and insert it into the payment machine. It can be used even when the entrance shows that the general parking lot is full. For load-in and load-out vehicles for the training rooms and conference rooms, park at Loading Area No. 2, and move the vehicle right after unloading. If you tell the disaster prevention center before the parking lot exit gate that you are visiting for load-in or load-out, you will receive a free ticket valid for up to 1 hour. (Source: Organizer-only Parking Lot and Waste Collection Area Map, East Wing Load-in Route Map)",
+  "parking": "The TFT Building parking lot has about 450 spaces (including monthly contract spaces, 4 wheelchair spaces) on the 1F and B1F, open 7:00-23:00, 250 yen per 30 minutes, height limit 1.5-2.1 m. The facility overview page gives the number of spaces as about 530 (4 wheelchair spaces). If you show a disability certificate or similar to the staff, parking is free for the day (when the driver or a passenger holds the certificate). (Source: Access page, Facility Overview / Floor Map)",
+  "waitingRooms": "Usage of the hall's rooms is free of charge, and you cannot use the waiting rooms of halls other than the one you booked. Hall 1000 has an organizer's waiting room 13㎡, a separate room 17㎡, a make-up room 113㎡ (30 seats), staff rooms 81㎡ and 17㎡, and a fitting room 80㎡ (with pantry). Hall 500 has an organizer's waiting room 25㎡, a separate room 42㎡, a make-up room 135㎡ (36 seats) and a fitting room 76㎡ (with pantry). Hall 300 has a make-up room 54㎡ (11 seats) and a fitting room 27㎡ (with pantry). The waiting room list PDF gives different areas: for Hall 1000, a make-up room 93㎡, a fitting room 72㎡, a separate room 18㎡, and staff rooms of 108㎡ (large) and 18㎡ (small). There are 2 instructor waiting rooms on the 9F of the East Wing (the desks and sofas cannot be removed). (Source: Hall page, Hall FAQ, Hall waiting room list PDF, Instructor waiting room floor plan)",
+  "catering": "Eating and drinking is allowed in the venue. If you serve food or drink to attendees, consult the Koto City Public Health Center and follow its instructions if a notification is required. For parties and receptions (including catering), consult when you make your usage inquiry; for events with catering, an additional fee may apply. If you bring food and drink in from outside, consult in advance and always dispose of the trash. The facility introduces boxed meals it can arrange (Maisen, Ningyocho Imahan, Kaiseki Ryori Aoyama, Nadaman; up to 7 business days in advance) and catering (CB Service from 30 people; Tokyo Bay Ariake Washington Hotel from 100 people). If a training room or conference room is used for a party or reception, the venue fee is 50% higher. (Source: Hall FAQ, Conference Facilities FAQ, Boxed Meals / Catering page)",
+  "restaurants": "On the 2F of the TFT Building East Wing there is a restaurant area, and Suien (Chinese, 103 seats), Pronto (80 seats), Funachu (150 seats, banquets of various sizes possible), Tsukiji Shokudo Gen-chan Ariake branch, Korean Dining Tyoujukan Shubou (74 seats) and Nirvanam (68 seats indoors, 40 seats outdoors), among others, are listed as allowing parties in the restaurant. Hozukiya (100 seats) and Sojibo (53 seats) can be reserved for private use. (Source: each restaurant's page)"
+ },
+ "documents": [
+  {
+   "title": "Hall Facility Guide (revised April 2024)"
+  },
+  {
+   "title": "Conference Facility Guide (revised September 2025)"
+  },
+  {
+   "title": "Facility Price List for Halls, Training Rooms and Conference Rooms (April 1, 2026)"
+  },
+  {
+   "title": "Hall Equipment Price List"
+  },
+  {
+   "title": "Training Room & Conference Room Equipment Price List"
+  },
+  {
+   "title": "FAQ"
+  },
+  {
+   "title": "Hall Floor Plan"
+  },
+  {
+   "title": "Training Room & Conference Room Floor Plan"
+  },
+  {
+   "title": "Hall Loading Entrance and Door Dimensions (Floor Plan)"
+  },
+  {
+   "title": "Hall Waiting Room List (TFT Hall 1000)"
+  },
+  {
+   "title": "Hall Waiting Room List (TFT Hall 500)"
+  },
+  {
+   "title": "Hall Waiting Room List (TFT Hall 300)"
+  },
+  {
+   "title": "Organizer-only Parking Lot and Waste Collection Area Map"
+  },
+  {
+   "title": "East Wing Load-in Route (1F and Surroundings)"
+  },
+  {
+   "title": "Work Notification Form and Compliance Rules (revised November 1, 2021)"
+  },
+  {
+   "title": "Lobby Partition Guide (5 Patterns)"
+  },
+  {
+   "title": "Surrounding Road Map"
+  },
+  {
+   "title": "Boxed Meals, Catering, Light Meals / Drinks"
+  },
+  {
+   "title": "Downloads: Images and Documents (Reference Layouts, Floor Plans, etc.)"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "7-Eleven TFT Ariake",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location. Inside the same TFT Building as the venue (also listed in the TFT Building's official shop guide)."
+   },
+   {
+    "name": "FamilyMart Ariake Frontier",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "Lawson Ariake Central Tower",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location."
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "Accea Tokyo Big Sight Mae",
+    "hours": "Weekdays 8:00-22:00, Sat, Sun & holidays 10:00-19:00",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Can Do Wanza Ariake",
+    "hours": "Mon-Sun 10:00-19:30",
+    "note": "Distance is calculated from the official store location. Inside the same TFT Building as the venue (also listed in the TFT Building's official shop guide)."
+   },
+   {
+    "name": "DAISO Ariake Garden",
+    "hours": "10:00-21:00",
+    "note": "Distance is calculated from the official store location. The actual walking distance is about 1,186 m."
+   }
+  ],
+  "donki": [
+   {
+    "name": "Kirakira Donki Diver City Tokyo Plaza",
+    "hours": "10:00-21:00",
+    "note": "Distance is calculated from the address location. Far. A different Don Quijote format (the store name on the official website is \"Kirakira Donki Diver City Tokyo Plaza\")."
+   }
+  ]
+ },
+ "photoCredit": "© Tokumeigakarinoaoshima / CC0 · Wikimedia Commons"
+}

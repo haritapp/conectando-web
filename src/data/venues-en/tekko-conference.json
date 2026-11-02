@@ -1,0 +1,153 @@
+{
+ "slug": "tekko-conference",
+ "name": "Tekko Executive Lounge & Conference Rooms",
+ "address": "Tokyo 100-0005 4F Tekko Building South Tower, 1-8-2 Marunouchi, Chiyoda-ku",
+ "accessSummary": "Tokyo Station (JR lines) Yaesu North Exit / Nihombashi Exit: about 2 min walk / Tokyo Station (Tokyo Metro Marunouchi Line): about 6 min walk / Otemachi Station (Tokyo Metro Chiyoda, Tozai, Hanzomon and Marunouchi Lines, Toei Mita Line) Exit B10: directly connected / Nihombashi Station (Tokyo Metro Ginza and Tozai Lines, Toei Asakusa Line) Exit A3: about 3 min walk",
+ "hours": "Weekdays (excluding holidays) 9:00-21:00. Closed during the year-end and New Year holidays and on other closure days set by the company (Terms of Use revised October 2026)",
+ "notice": "Reservations require user registration and are accepted from 6 months before the date of use until 7 business days before (within 6 business days, consult by phone). After you apply, the company screens the request, and it may not be able to lend the room. The layout is in principle classroom or conference (hollow square) style; other layouts such as theater or standing reception are available on consultation for an extra fee. Outside food and drink may not be brought in except PET-bottle drinks, and catering partners are introduced to you.",
+ "rooms": [
+  {
+   "name": "ROOM1",
+   "note": "Full day, 12 hours (9:00-21:00): 269,500 yen (tax included, revised October 2026)."
+  },
+  {
+   "name": "ROOM2",
+   "note": "Windows on two sides. Full day, 12 hours (9:00-21:00): 430,100 yen (tax included, revised October 2026)."
+  },
+  {
+   "name": "ROOM3",
+   "note": "Full day, 12 hours (9:00-21:00): 333,300 yen (tax included, revised October 2026)."
+  },
+  {
+   "name": "ROOM4",
+   "note": "Full day, 12 hours (9:00-21:00): 333,300 yen (tax included, revised October 2026)."
+  },
+  {
+   "name": "ROOM5",
+   "note": "Full day, 12 hours (9:00-21:00): 333,300 yen (tax included, revised October 2026)."
+  },
+  {
+   "name": "ROOM6",
+   "note": "Can be used as a satellite room to receive video and audio from the main venue. Full day, 12 hours (9:00-21:00): 333,300 yen (tax included, revised October 2026)."
+  },
+  {
+   "name": "ROOM 1 + Connecting Room",
+   "note": "The connecting room can also be used separately as a waiting room. The connecting room can be used together when ROOM1 is used. Full day, 12 hours (9:00-21:00): 311,300 yen (tax included, revised October 2026)."
+  },
+  {
+   "name": "ROOM3+4 or ROOM4+5",
+   "note": "Full day, 12 hours (9:00-21:00): 618,200 yen (tax included, revised October 2026)."
+  },
+  {
+   "name": "ROOM2+3",
+   "note": "Windows on two sides. Can be laid out lengthwise or widthwise. Full day, 12 hours (9:00-21:00): 705,100 yen (tax included, revised October 2026)."
+  },
+  {
+   "name": "ROOM3+4+5",
+   "note": "Can be laid out lengthwise or widthwise. Full day, 12 hours (9:00-21:00): 927,300 yen (tax included, revised October 2026)."
+  },
+  {
+   "name": "ROOM2+3+4",
+   "note": "Windows on two sides. Can be laid out lengthwise or widthwise. Full day, 12 hours (9:00-21:00): 1,031,100 yen (tax included, revised October 2026)."
+  },
+  {
+   "name": "ROOM2+3+4+5",
+   "note": "Large venue for up to 300 people. Full day, 12 hours (9:00-21:00): 1,234,200 yen (tax included, revised October 2026)."
+  },
+  {
+   "name": "Boardroom A",
+   "note": "Fixed layout for 10 people. Can be used together when ROOM1 to ROOM6 is used. 14,300 yen per hour (tax included, revised October 2026)."
+  },
+  {
+   "name": "Boardroom D",
+   "note": "Fixed layout for 6 people. Can be used together when ROOM1 to ROOM6 is used. 8,800 yen per hour (tax included, revised October 2026)."
+  },
+  {
+   "name": "Boardroom E",
+   "note": "Fixed layout for 6 people. Can be used together when ROOM1 to ROOM6 is used. 8,800 yen per hour (tax included, revised October 2026)."
+  }
+ ],
+ "ops": {
+  "loadingHours": "Load-in and load-out of goods follow the company's instructions. Setup, light cleaning and load-in/out are included in the usage time, and the end time must be strictly observed. Packages sent in advance can be received and held by postal or courier delivery: up to 3 items free, and from the 4th item 1,100 yen per item (tax included). Arrange for arrival in the afternoon of the business day before the date of use. (Source: Terms of Use revised October 2026, FAQ)",
+  "parking": "The underground parking lot (mechanical type) directly connected to the building is open 6:00-22:00 (exit only is also possible after 22:00). The fee is 350 yen per 30 minutes, with a maximum of 3,000 yen for up to 12 hours; after 12 hours, 350 yen per 30 minutes. Vehicle limits are length 5,300 mm, width 1,950 mm, height 2,100 mm, weight 2,500 kg and minimum ground clearance 90 mm; vehicles with roof carriers and the like are not allowed. The entrance is on Sotobori-dori Avenue, and right turns into the entrance are not possible. Parking coupons that let an organizer pay for visitors' parking fees (B2F parking lot, 1-hour coupon 700 yen, tax included) are also sold. (Source: Parking Information. Parking coupons: Services page)",
+  "waitingRooms": "The boardrooms of the adjoining membership lounge can be used as waiting rooms. Boardroom A is 24㎡ for 10 people at 14,300 yen per hour; Boardroom D (16㎡, 6 people) and Boardroom E (14㎡, 6 people) are 8,800 yen per hour each (tax included). They can be used together when you rent ROOM1 to ROOM6. With ROOM 1 + Connecting Room, the connecting room can also be used separately as a waiting room. (Source: Rates, FAQ)",
+  "catering": "Food and drink cannot be brought into the conference rooms (except PET bottles and catering designated by the company; Terms of Use revised October 2026). For catering, contact reception and a partner company will be introduced; the organizer makes the arrangements after that. The partners number more than 10, including Imperial Hotel, Palace Hotel Tokyo, Dai-Ichi Hotel Tokyo, Tokyo Kaikan, Sankei Kaikan and DEAN & DELUCA, and menus for parties, bento boxes, coffee breaks and drinks can be viewed on the official page.",
+  "restaurants": "Inside Tekko Building (TEKKO avenue) there are more than 10 restaurants and cafes, such as Din Tai Fung and Sarabeth's, which can be used before and after meetings and events without moving elsewhere. A convenience store, clinic, pharmacy and ATMs are also in the building. Parties and receptions can also be held in the conference rooms (up to 300 people, using partner catering). At the lounge's Symphony suite, dishes from \"Chez Inno\" are also served. (Source: Access, FAQ, Catering)"
+ },
+ "documents": [
+  {
+   "title": "Conference Room Basic Rates (revised October 2026)"
+  },
+  {
+   "title": "Conference Room Terms of Use (revised October 2026)"
+  },
+  {
+   "title": "Equipment and Accessories List"
+  },
+  {
+   "title": "Notice of Rate Revision (September 11, 2026)"
+  },
+  {
+   "title": "Tekko Building Parking Information"
+  },
+  {
+   "title": "Reservation Procedure"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "Natural Lawson TEKKO avenue",
+    "hours": "8:00-21:00",
+    "note": "Distance is calculated from the store's official location."
+   },
+   {
+    "name": "FamilyMart Marunouchi Trust Tower",
+    "hours": "7:00-23:00",
+    "note": "Distance is calculated from the store's official location."
+   },
+   {
+    "name": "7-Eleven Yaesu 1-chome",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the store's official location."
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "Accea Tokyo Station Yaesu",
+    "hours": "Open 24 hours (cafe use from 22:00 to 6:00 the next day is for identity-verified members only)",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Kinko's Otemachi",
+    "hours": "Weekdays 9:00-20:00 / closed Sat, Sun & holidays",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Can Do Marunouchi Oazo",
+    "hours": "Mon-Fri 8:00-22:00 / Sat-Sun 9:00-21:00",
+    "note": "Distance is calculated from the store's official location."
+   },
+   {
+    "name": "3COINS Yaechika",
+    "hours": "10:00-21:00",
+    "note": "Distance is calculated from the store's official location."
+   }
+  ],
+  "donki": [
+   {
+    "name": "Don Quijote Ginza Main Building (Ginza Nine Building No. 3)",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. Far."
+   },
+   {
+    "name": "Don Quijote Akihabara",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. The store name on the Don Quijote official website is \"Akihabara Store\". Far."
+   }
+  ]
+ },
+ "photoCredit": "© Blue3000 / CC BY-SA 4.0 · Wikimedia Commons"
+}

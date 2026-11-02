@@ -1,0 +1,153 @@
+{
+ "slug": "shinjuku-sumitomo-hall",
+ "name": "Shinjuku Sumitomo Hall",
+ "address": "Tokyo 163-0290 Shinjuku Sumitomo Building B1F, 2-6-1 Nishi-Shinjuku, Shinjuku-ku",
+ "accessSummary": "Tochomae Station (Oedo Line) Exit A6: directly connected / Nishi-Shinjuku Station (Marunouchi Line) Exit 2: 4 min walk / Shinjuku Station West Exit (JR Lines, Odakyu Line, Keio Line): 8 min walk / Shinjuku Station Exit 7 (Shinjuku Line): 8 min walk",
+ "hours": "The minimum usage time is 8 hours or 12 hours. Except for some areas, the venue can be used 24 hours a day, 365 days a year (night-time or 24-hour use may not be available depending on the bookings before and after). The building entrance is open 5:00-24:00. Reception is on the B1F of the Shinjuku Sumitomo Building.",
+ "notice": "Setup and construction are carried out by vendors designated by the operator (designated vendor system); using any other vendor incurs a separate \"carry-in fee\" (Terms of Use). When the Event Hall is used, one traffic guide must always be stationed before outdoor loading. The outdoor loading area and the back-of-house route on the waiting room side are shared with Sankaku Hiroba (Triangular Plaza) of the Shinjuku Sumitomo Building, so on days when an event is held at Sankaku Hiroba, schedules are adjusted.",
+ "rooms": [
+  {
+   "name": "B2F Event Hall - Entire Hall",
+   "note": "Classroom is 2 per desk. Classroom, 3 per desk: 810 seats. Island layout: 594 seats (99 islands). Separate B1F entrance lobby of 263㎡ and B2F lobby of 395㎡. Bookings are accepted from 2 years before."
+  },
+  {
+   "name": "B2F Event Hall - Hall A",
+   "note": "Classroom is 2 per desk. Classroom, 3 per desk: 336 seats. Island layout: 240 seats (40 islands). Bookings are accepted from 2 months before."
+  },
+  {
+   "name": "B2F Event Hall - Hall B",
+   "note": "Classroom is 2 per desk. Classroom, 3 per desk: 351 seats. Island layout: 270 seats (45 islands). Bookings are accepted from 4 months before."
+  },
+  {
+   "name": "Waiting Room 1 (B2F)",
+   "note": "Usage fee 0 yen. Waiting rooms cannot be used on their own. Comes with 1 table, 10 chairs, a refrigerator and a monitor."
+  },
+  {
+   "name": "Waiting Room 2 (B1F)",
+   "note": "Usage fee 0 yen. Comes with 1 table, 10 chairs, a refrigerator and a monitor."
+  },
+  {
+   "name": "Waiting Room 3 (B1F)",
+   "note": "Usage fee 0 yen. Comes with 1 table, 4 chairs and a monitor."
+  },
+  {
+   "name": "Waiting Room 4 (B1F)",
+   "note": "Usage fee 0 yen. Comes with 1 table, 8 chairs and a monitor."
+  }
+ ],
+ "ops": {
+  "prevDaySetup": "Usage time includes setup and cleanup time. The hall has 12-hour and 24-hour rates; night-time or 24-hour use may not be available depending on the bookings before and after, so consult in advance. Advance receipt of packages is in principle for arrival on the day before the event, and an advance load-in notice is required. (Source: Hall price list, updated July 3, 2026; FAQ)",
+  "loadingHours": "Delivery vehicles for load-in and load-out must enter and leave within the usage time. An advance load-in notice must be submitted at least 1 week before the work date (the loading area cannot be used if it is not submitted). There are 2 load-in entrances. The 2F entrance (the load-in/out elevator on the northeast side, shared with the 1F Sankaku Hiroba) is 4,000 mm high x 9,500 mm long, for 4-ton trucks or smaller; the elevator car is 6,000 mm wide x 3,000 mm high x 4,000 mm deep, with a load capacity of 6,100 kg. The B2F loading area (shared with the building) is 2,600 mm high x 6,000 mm long x 2,500 mm wide, for 2-ton trucks or smaller, and the height-difference lift is 1,100 mm wide x 2,000 mm high x 1,900 mm deep. The lift's load capacity is given as 2,500 kg or less in the advance load-in notice but as 250 kg or less in the equipment and facilities list (updated October 13, 2026), and the two disagree. Loading and unloading at the loading area is in principle limited to 15 minutes; beyond 15 minutes, a fee of 300 yen or more is charged when exiting. Packages received in advance are in principle limited to 5 boxes for the hall. (Source: Advance Load-in Notice, Equipment and Facilities List updated October 13, 2026)",
+  "vehicleRules": "The loading area is used only for loading and unloading; if parking is needed, use an outside parking lot. Vehicles cannot be left standing. When multiple vehicles are used, they share one vehicle's loading space in staggered turns. Illegal parking and roadside parking around the building outside the designated parking lot are strictly prohibited. Products, packing materials, decoration materials, trash and the like may not be left in the loading area during the usage period. When the Event Hall is used, one traffic guide must always be stationed before outdoor loading, and since the outdoor loading area is shared with Sankaku Hiroba, schedules are adjusted on days when an event is held at Sankaku Hiroba. (Source: Advance Load-in Notice, Terms of Use 2026ver2 Articles 15 and 16 and the Shinjuku Sumitomo Hall section, Equipment and Facilities List updated October 13, 2026)",
+  "parking": "The Equipment and Facilities List (updated October 13, 2026) shows both the Bellesalle dedicated parking lot and the hourly parking lot as \"none\", and says to use nearby parking. On the other hand, the FAQ says the building that houses Shinjuku Sumitomo Hall has an hourly parking lot with a limited number of spaces, so the official explanations disagree. To find nearby hourly parking lots, search for \"Shinjuku Sumitomo Hall\" on \"s-park\" (Tokyo Metropolitan Road Improvement and Conservation Corporation), which is linked from the official facility page. (Source: Equipment and Facilities List updated October 13, 2026, FAQ, official facility page)",
+  "waitingRooms": "There are 4 waiting rooms. Waiting Room 1 is 36㎡ (B2F), Waiting Room 2 is 34㎡ (B1F), Waiting Room 3 is 18㎡ (B1F) and Waiting Room 4 is 23㎡ (B1F). The usage fee is 0 yen for all of them, and waiting rooms cannot be used on their own. Each room has a table, chairs, a clothes rack, a full-length mirror, an umbrella stand and a monitor, and Waiting Rooms 1 and 2 also have a refrigerator. The back-of-house route on the waiting room side is shared with Sankaku Hiroba. (Source: Equipment and Facilities List updated October 13, 2026, official facility page, Terms of Use 2026ver2)",
+  "catering": "If a caterer other than the operator's designated vendors is used, an \"outside food/drink fee\" applies (party use only; bringing in drinks only or boxed meals is not covered). The amount depends on venue area: up to 600㎡ (Hall A and B) 200,000 yen (220,000 yen tax included), up to 1,200㎡ (Entire Hall) 400,000 yen (440,000 yen tax included). Party menus for receptions are introduced on the website of Izumi Restaurant, a Sumitomo Fudosan Group company. (Source: Outside Food/Drink Fee Guide PDF, FAQ)",
+  "restaurants": "In the same Shinjuku Sumitomo Building there are 10 restaurants on B1F, 4 on 1F and 3 on 2F (as listed on the building's official website)."
+ },
+ "documents": [
+  {
+   "title": "Document Downloads (official list)"
+  },
+  {
+   "title": "Price List (updated July 3, 2026)"
+  },
+  {
+   "title": "Price Calendar (terms valid until the end of January 2027)"
+  },
+  {
+   "title": "Terms of Use (2026ver2)"
+  },
+  {
+   "title": "Advance Load-in Notice"
+  },
+  {
+   "title": "Outside Food/Drink Fee Guide"
+  },
+  {
+   "title": "B2F Hall Equipment List and Facilities Table (updated October 13, 2026)"
+  },
+  {
+   "title": "B1F Floor Plan"
+  },
+  {
+   "title": "B1F Floor Drawing"
+  },
+  {
+   "title": "B1F Evacuation Route Map"
+  },
+  {
+   "title": "B2F Floor Plan"
+  },
+  {
+   "title": "B2F Ceiling Plan"
+  },
+  {
+   "title": "B2F Floor Drawing"
+  },
+  {
+   "title": "B2F Event Power Supply Plan"
+  },
+  {
+   "title": "B2F Evacuation Route Map"
+  },
+  {
+   "title": "FAQ"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "FamilyMart Shinjuku Island Tower",
+    "hours": "7:00-23:00 (Sat, Sun & holidays 7:00-21:00)",
+    "note": "Distance is calculated from the official store location. The official store name is \"ファミマ新宿アイランドタワー店\" (Famima Shinjuku Island Tower). Shinjuku Island Tower 1F."
+   },
+   {
+    "name": "FamilyMart Shinjuku Dai-ichi Seimei Building",
+    "hours": "7:00-23:00",
+    "note": "Distance is calculated from the official store location. Shinjuku Dai-ichi Seimei Building 1F."
+   },
+   {
+    "name": "7-Eleven Shinjuku Island Tower",
+    "hours": "Daily 7:00-23:00",
+    "note": "Distance is calculated from the official store location. Inside Shinjuku Island Tower."
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "Kinko's Nishi-Shinjuku",
+    "hours": "Weekdays 8:00-20:00 / Sat 10:00-20:00 / Sun & holidays 10:00-20:00",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Accea Nishi-Shinjuku",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Can Do Nishi-Shinjuku",
+    "hours": "Daily 9:00-22:00",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "DAISO Shinjuku Cocoon Tower",
+    "hours": "8:00-21:00",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "donki": [
+   {
+    "name": "Don Quijote Shinjuku Kabukicho",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. The store name on the official Don Quijote website is \"Shinjuku Kabukicho\" (新宿歌舞伎町店)."
+   },
+   {
+    "name": "Don Quijote Shinjuku Tonanguchi",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. The store name on the official Don Quijote website is \"Shinjuku Tonanguchi\" (新宿東南口店)."
+   }
+  ]
+ },
+ "photoCredit": "© 鋸香具師 / CC0 · Wikimedia Commons"
+}

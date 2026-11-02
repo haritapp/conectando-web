@@ -1,0 +1,274 @@
+{
+ "slug": "shinjuku-sumitomo-sankaku-hiroba",
+ "nameJa": "新宿住友ビル三角広場",
+ "nameEn": "SHINJUKU SUMITOMO BLDG. SANKAKU HIROBA",
+ "type": "exhibition",
+ "area": "shinjuku-venues",
+ "address": "〒163-0290 東京都新宿区西新宿2-6-1 新宿住友ビル",
+ "officialUrl": "https://www.sumitomo-sankakuhiroba.jp/",
+ "organizerUrl": "https://office-b.sumitomo-rd.co.jp/sankakuhiroba/",
+ "bizintokyoSlug": "shinjuku-sumitomo-sankaku-hiroba",
+ "accessSummary": "都庁前駅（大江戸線）A6出口 直結／西新宿駅（丸ノ内線）2番出口 徒歩4分／新宿駅 西口（JR線・小田急線・京王線）徒歩8分／新宿駅 7番出口（新宿線）徒歩8分",
+ "notice": "開催できるのは、東京のしゃれた街並みづくり推進条例に基づき、地域の活性化に寄与することを目的としたイベントに限られる。東京都への届出が必要で、開催日の1か月前までに企画概要書を提出する。設営・撤去は当社指定業者が行う指定業者制度で、他の業者を使うと別途「持込料」がかかる。",
+ "hours": "使用時間は原則0時から24時まで。ビルエントランスの開放時間は5:00〜24:00。使用申込が可能な営業日は原則1月1日を除く日。問い合わせ窓口は平日9:00〜18:00（土日祝・年末年始は休み）。",
+ "rooms": [
+  {
+   "name": "三角広場",
+   "areaM2": 2600,
+   "ceilingM": "22-25",
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "天井高は最大25m（有効22m）。広場全体（約3,450㎡）の最大収容人数は約2,000人。床耐荷重はピット内側800kg/㎡、ピット外側360kg/㎡。4K大型LEDビジョン約564インチ（幅12.5m×高さ7m）。電動道具バトン17本。予約受付は2年前から"
+  },
+  {
+   "name": "三角広場 東",
+   "areaM2": 350,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "建て込み不可エリアあり。バトンはビル来館者の動線上のため、作業は原則夜間"
+  },
+  {
+   "name": "三角広場 東2",
+   "areaM2": 100,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null
+  },
+  {
+   "name": "三角広場 西",
+   "areaM2": 300,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "建て込み不可エリアあり。バトンはビル来館者の動線上のため、作業は原則夜間"
+  },
+  {
+   "name": "三角広場 西2",
+   "areaM2": 100,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null
+  },
+  {
+   "name": "マルチルーム 東",
+   "areaM2": 102,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null
+  },
+  {
+   "name": "マルチルーム 西",
+   "areaM2": 95,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null
+  }
+ ],
+ "roomsSource": "https://office-b.sumitomo-rd.co.jp/sankakuhiroba/assets/pdf/facility_list.pdf",
+ "ops": {
+  "prevDaySetup": {
+   "text": "使用規約に、事前準備日や撤去日を設ける場合の手続きが定められている。準備日がある場合は、準備日に責任者がサービスセンターで使用時間届を記入して入場し、事前確認を受ける。使用時間は原則0時から24時まで。施設への荷物の事前発送は、利用期間内に利用者が荷受けする。（出典：使用規約 2025年10月1日作成）",
+   "source": "https://office-b.sumitomo-rd.co.jp/sankakuhiroba/assets/pdf/terms_of_use.pdf"
+  },
+  "loadingHours": {
+   "text": "搬入・搬出車の出入りは使用時間内に行い、搬入時間は当社が調整する場合がある。事前搬入届または搬出入スケジュールを使用開始日の1週間前までに提出する。搬入口は10号線側の2階搬入用EV（出入口 幅6,000×高さ3,000mm、カゴ内寸 幅6,000×高さ3,000×奥行4,000mm、積載量6,100kg）。車両は4t未満・重量4tまで（参考サイズ 高さ4,000×幅2,400×長さ9,500mm未満）で、ターンテーブルの直径は6,000mm。（出典：施設概要 2025/6/1、使用規約 2025年10月1日作成）",
+   "source": "https://office-b.sumitomo-rd.co.jp/sankakuhiroba/assets/pdf/facility_list.pdf"
+  },
+  "vehicleRules": {
+   "text": "車両の留め置きはできない。使用期間中は荷捌き場に商品・梱包材・装飾資材・ゴミなどを置けない。建物周辺（公開空地・敷地内）に車・バイク・自転車などを路上駐車すると、使用停止などの対象になる。搬入・搬出車が混雑しそうな場合は、出入口に整理員を置く。搬入・搬出時は「養生基準確認書」を守る。屋外荷捌場は新宿住友ホールと共用。（出典：施設概要 2025/6/1、使用規約 2025年10月1日作成、新宿住友ホール使用規約 2026ver2）",
+   "source": "https://office-b.sumitomo-rd.co.jp/sankakuhiroba/assets/pdf/terms_of_use.pdf"
+  },
+  "parking": {
+   "text": "時間貸し駐車場は無く、近隣の駐車場を利用する。（出典：施設概要 2025/6/1）",
+   "source": "https://office-b.sumitomo-rd.co.jp/sankakuhiroba/assets/pdf/facility_list.pdf"
+  },
+  "waitingRooms": {
+   "text": "1Fに控室が3室。控室Aは37㎡（テーブル1・イス10）、控室Bは14㎡（テーブル1・イス8）、控室Cは14㎡（テーブル1・イス8）。応接セットは移動できない。B1Fの控室用パントリーと、B2Fの控室用トイレは新宿住友ホールの利用者と共有。（出典：施設概要 2025/6/1）",
+   "source": "https://office-b.sumitomo-rd.co.jp/sankakuhiroba/assets/pdf/facility_list.pdf"
+  },
+  "catering": {
+   "text": "飲食・飲酒は、当社が事前に認めた場所以外では行えない。食品を扱うイベントは、食品営業許可などを新宿区保健所へ届け出る。（出典：使用規約 2025年10月1日作成 第10条・第12条）",
+   "source": "https://office-b.sumitomo-rd.co.jp/sankakuhiroba/assets/pdf/terms_of_use.pdf"
+  },
+  "restaurants": {
+   "text": "同じ新宿住友ビル内に、B1Fに10店、1Fに4店、2Fに3店のレストランがある（ビルの公式サイト掲載）。",
+   "source": "https://www.sumitomo-sankakuhiroba.jp/shop/"
+  }
+ },
+ "documents": [
+  {
+   "title": "新宿住友ビル三角広場 使用規約（2025年10月1日作成）",
+   "url": "https://office-b.sumitomo-rd.co.jp/sankakuhiroba/assets/pdf/terms_of_use.pdf"
+  },
+  {
+   "title": "施設概要・設備一覧（2025/6/1版）",
+   "url": "https://office-b.sumitomo-rd.co.jp/sankakuhiroba/assets/pdf/facility_list.pdf"
+  },
+  {
+   "title": "平面図",
+   "url": "https://office-b.sumitomo-rd.co.jp/sankakuhiroba/assets/pdf/plan_view02.pdf"
+  },
+  {
+   "title": "平面図（寸法入り）",
+   "url": "https://office-b.sumitomo-rd.co.jp/sankakuhiroba/assets/pdf/plan_view.pdf"
+  },
+  {
+   "title": "白図",
+   "url": "https://office-b.sumitomo-rd.co.jp/sankakuhiroba/assets/pdf/outline_map.pdf"
+  },
+  {
+   "title": "バトン図",
+   "url": "https://office-b.sumitomo-rd.co.jp/sankakuhiroba/assets/pdf/baton.pdf"
+  },
+  {
+   "title": "避難経路図・消防設備",
+   "url": "https://office-b.sumitomo-rd.co.jp/sankakuhiroba/assets/pdf/evacuation_route.pdf"
+  },
+  {
+   "title": "マルチルーム",
+   "url": "https://office-b.sumitomo-rd.co.jp/sankakuhiroba/assets/pdf/multiroom.pdf"
+  }
+ ],
+ "checkedAt": "2026-11-02",
+ "lat": 35.692017,
+ "lng": 139.692459,
+ "nearby": {
+  "convenience": [
+   {
+    "name": "ファミリーマート 新宿アイランドタワー店",
+    "brand": "ファミリーマート",
+    "distanceM": 122,
+    "walkMin": 2,
+    "hours": "7:00-23:00（土日祝は7:00-21:00）",
+    "address": "東京都新宿区西新宿6-5-1 新宿アイランドタワー",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/24517",
+    "note": "距離は公式の店舗位置で計算。公式の店舗名は「ファミマ新宿アイランドタワー店」。新宿アイランドタワー1階"
+   },
+   {
+    "name": "ファミリーマート 新宿第一生命ビルディング店",
+    "brand": "ファミリーマート",
+    "distanceM": 155,
+    "walkMin": 2,
+    "hours": "7:00-23:00",
+    "address": "東京都新宿区西新宿2-7-1",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/21681",
+    "note": "距離は公式の店舗位置で計算。新宿第一生命ビルディング1階"
+   },
+   {
+    "name": "セブン-イレブン 新宿アイランドタワー店",
+    "brand": "セブン-イレブン",
+    "distanceM": 184,
+    "walkMin": 3,
+    "hours": "毎日 7:00-23:00",
+    "address": "東京都新宿区西新宿6-5-1",
+    "verified": true,
+    "source": "https://seven-eleven.areamarker.com/711map/info/416321",
+    "note": "距離は公式の店舗位置で計算。新宿アイランドタワー内"
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "キンコーズ・西新宿店",
+    "brand": "キンコーズ",
+    "distanceM": 276,
+    "walkMin": 4,
+    "hours": "平日 8:00-20:00／土 10:00-20:00／日祝 10:00-20:00",
+    "address": "東京都新宿区西新宿8-1-1 アゼリアビル1F",
+    "verified": true,
+    "source": "https://www.kinkos.co.jp/store/tokyo/t008/",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "アクセア 西新宿店",
+    "brand": "アクセア",
+    "distanceM": 404,
+    "walkMin": 6,
+    "hours": "24時間営業",
+    "address": "東京都新宿区西新宿7-12-3 西新宿佐藤ビル1F～4F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/entry.html",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Can★Do 西新宿店",
+    "brand": "キャンドゥ",
+    "distanceM": 304,
+    "walkMin": 4,
+    "hours": "毎日 9:00〜22:00",
+    "address": "東京都新宿区西新宿7-21-1",
+    "verified": true,
+    "source": "https://shopinfo.cando-web.co.jp/detail/shop-5068/",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "DAISO 新宿コクーンタワー店",
+    "brand": "ダイソー",
+    "distanceM": 507,
+    "walkMin": 7,
+    "hours": "8:00-21:00",
+    "address": "東京都新宿区西新宿1-7-3 地下2階",
+    "verified": true,
+    "source": "https://www.daiso-sangyo.co.jp/shop/detail/001737",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "donki": [
+   {
+    "name": "ドン・キホーテ 新宿歌舞伎町店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 853,
+    "walkMin": 11,
+    "hours": "24時間営業",
+    "address": "東京都新宿区歌舞伎町1-16-5",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=29",
+    "note": "距離は住所の位置で計算。ドン・キホーテ公式サイトの店舗名は「新宿歌舞伎町店」"
+   },
+   {
+    "name": "ドン・キホーテ 新宿東南口店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 896,
+    "walkMin": 12,
+    "hours": "24時間営業",
+    "address": "東京都新宿区新宿3-36-16",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=449",
+    "note": "距離は住所の位置で計算。ドン・キホーテ公式サイトの店舗名は「新宿東南口店」"
+   }
+  ]
+ },
+ "drinkDelivery": {
+  "available": true
+ },
+ "photo": {
+  "src": "/images/venues/shinjuku-sumitomo-sankaku-hiroba.jpg",
+  "credit": "© 8joKeaton / CC BY-SA 4.0 · Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Shinjuku_Sumitomo_Building-forground.jpg"
+ }
+}

@@ -1,0 +1,310 @@
+{
+ "slug": "shinjuku-sumitomo-hall",
+ "nameJa": "新宿住友ホール",
+ "nameEn": "",
+ "type": "conference",
+ "area": "shinjuku-venues",
+ "address": "〒163-0290 東京都新宿区西新宿2-6-1 新宿住友ビルB1F",
+ "officialUrl": "https://www.bellesalle.co.jp/shisetsu/shinjuku/shinjukusumitomohall/",
+ "organizerUrl": "https://www.bellesalle.co.jp/download/shinjukusumitomohall/",
+ "bizintokyoSlug": "shinjuku-sumitomo-hall",
+ "accessSummary": "都庁前駅（大江戸線）A6出口 直結／西新宿駅（丸ノ内線）2番出口 徒歩4分／新宿駅 西口（JR線・小田急線・京王線）徒歩8分／新宿駅 7番出口（新宿線）徒歩8分",
+ "notice": "設営・施工は当社指定業者が行う指定業者制度で、他の業者を使うと別途「持込料」がかかる（使用規約）。イベントホール使用時は、屋外荷捌き前に交通誘導員を1名必ず配置する。屋外荷捌場と控室側の裏導線は新宿住友ビル三角広場と共用で、三角広場で開催がある日はスケジュール調整になる。",
+ "hours": "最低利用時間は8時間または12時間。一部会場を除き365日24時間利用できる（夜間・24時間利用は前後の予約状況で使えない場合がある）。ビルエントランスの開放時間は5:00〜24:00。受付は新宿住友ビルB1F。",
+ "rooms": [
+  {
+   "name": "B2F イベントホール HALL全体",
+   "areaM2": 1150,
+   "ceilingM": 6.0,
+   "theater": 1050,
+   "school": 540,
+   "ushape": null,
+   "standing": 660,
+   "banquet": null,
+   "note": "スクールは2名掛け。スクール3名掛け 810席。島型 594席（99島）。別にB1Fエントランスロビー263㎡、B2Fロビー395㎡。予約受付は2年前から"
+  },
+  {
+   "name": "B2F イベントホール HALL A",
+   "areaM2": 575,
+   "ceilingM": 6.0,
+   "theater": 420,
+   "school": 224,
+   "ushape": null,
+   "standing": 330,
+   "banquet": null,
+   "note": "スクールは2名掛け。スクール3名掛け 336席。島型 240席（40島）。予約受付は2ヶ月前から"
+  },
+  {
+   "name": "B2F イベントホール HALL B",
+   "areaM2": 575,
+   "ceilingM": 6.0,
+   "theater": 420,
+   "school": 234,
+   "ushape": null,
+   "standing": 330,
+   "banquet": null,
+   "note": "スクールは2名掛け。スクール3名掛け 351席。島型 270席（45島）。予約受付は4ヶ月前から"
+  },
+  {
+   "name": "控室1（B2F）",
+   "areaM2": 36,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "使用料0円。控室のみの利用はできない。テーブル1・イス10・冷蔵庫・モニター付き"
+  },
+  {
+   "name": "控室2（B1F）",
+   "areaM2": 34,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "使用料0円。テーブル1・イス10・冷蔵庫・モニター付き"
+  },
+  {
+   "name": "控室3（B1F）",
+   "areaM2": 18,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "使用料0円。テーブル1・イス4・モニター付き"
+  },
+  {
+   "name": "控室4（B1F）",
+   "areaM2": 23,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "使用料0円。テーブル1・イス8・モニター付き"
+  }
+ ],
+ "roomsSource": "https://www.bellesalle.co.jp/wp-content/uploads/shinjukusumitomohall_price.pdf",
+ "ops": {
+  "prevDaySetup": {
+   "text": "使用時間には準備・後片付けの時間も含まれる。ホールには12時間・24時間の料金があり、夜間利用や24時間利用は前後の予約状況で使えない場合があるため事前に相談する。荷物の事前受け取りは開催日の前日着指定が原則で、事前搬入届が必要。（出典：ホール料金表 2026/7/3更新、よくあるご質問）",
+   "source": "https://www.bellesalle.co.jp/wp-content/uploads/shinjukusumitomohall_price.pdf"
+  },
+  "loadingHours": {
+   "text": "搬入・搬出車の出入りは使用時間内に行う。事前搬入届を作業日の1週間前までに提出する（未提出だと荷捌き場は使えない）。搬入口は2か所。2F搬入口（北東側の搬出入用EV。1F三角広場と共用）は高さ4,000×全長9,500mm・4t車以下、EVのカゴは幅6,000×高さ3,000×奥行4,000mm・積載6,100kg。B2F荷捌き場（ビルと共用）は高さ2,600×全長6,000×幅2,500mm・2t車以下で、段差解消機は幅1,100×高さ2,000×奥行1,900mm。段差解消機の積載量は、事前搬入届では2,500kg以下、備品・設備表（2026/10/13更新）では250kg以下と食い違う。荷捌き場での積み下ろしは原則15分以内で、15分を超えると出庫時に300円〜かかる。事前到着荷物の受け取りは原則ホール5箱まで。（出典：事前搬入届、備品・設備表 2026/10/13更新）",
+   "source": "https://www.bellesalle.co.jp/wp-content/uploads/sumitomohall_jizen.pdf"
+  },
+  "vehicleRules": {
+   "text": "荷捌き所は荷物の積み下ろしのみに使い、駐車が必要な場合は外の駐車場を利用する。車両の留め置きはできない。複数台のときは1台分の荷捌場を時間差で使う。違法駐車や、指定駐車場以外のビル周りの路上駐車は厳禁。使用期間中の荷捌き場には商品・梱包材・装飾資材・ゴミなどを置けない。イベントホール使用時は屋外荷捌き前に交通誘導員を1名必ず配置し、屋外荷捌場は三角広場と共用のため、三角広場で開催がある日はスケジュール調整になる。（出典：事前搬入届、使用規約 2026ver2 第15条・第16条・新宿住友ホールの項、備品・設備表 2026/10/13更新）",
+   "source": "https://www.bellesalle.co.jp/wp-content/uploads/sumitomohall_jizen.pdf"
+  },
+  "parking": {
+   "text": "備品・設備表（2026/10/13更新）では、ベルサール専用駐車場と時間貸し駐車場はどちらも「無」で、近隣のパーキングを利用するとされている。一方、よくあるご質問では、新宿住友ホールは施設が入居するビルに時間貸し駐車場があり台数に限りがあるとされ、公式の説明が食い違う。近隣の時間貸し駐車場は、公式施設ページのリンク先「s-park」（東京都道路整備保全公社）で「新宿住友ホール」を検索して探す。（出典：備品・設備表 2026/10/13更新、よくあるご質問、公式施設ページ）",
+   "source": "https://www.bellesalle.co.jp/wp-content/uploads/shinjukusumitomohall_hall_b.pdf"
+  },
+  "waitingRooms": {
+   "text": "控室は4室。控室1は36㎡（B2F）、控室2は34㎡（B1F）、控室3は18㎡（B1F）、控室4は23㎡（B1F）。使用料はいずれも0円で、控室のみの利用はできない。各室にテーブル・イス・ハンガーラック・姿見・傘立て・モニターがあり、控室1・2には冷蔵庫もある。控室側の裏導線は三角広場と共用。（出典：備品・設備表 2026/10/13更新、公式施設ページ、使用規約 2026ver2）",
+   "source": "https://www.bellesalle.co.jp/wp-content/uploads/shinjukusumitomohall_hall_b.pdf"
+  },
+  "catering": {
+   "text": "飲食の手配に当社指定業者以外を使う場合は「飲食持込手数料」がかかる（パーティー利用時のみ。飲料のみ・弁当の持込は対象外）。金額は会場面積別で、〜600㎡（HALL A・B）は200,000円（税込220,000円）、〜1,200㎡（HALL全体）は400,000円（税込440,000円）。懇親会向けのパーティーメニューは住友不動産グループ 泉レストランのサイトで案内されている。（出典：持込料のご案内PDF、よくあるご質問）",
+   "source": "https://www.bellesalle.co.jp/wp-content/uploads/mochikomi_price.pdf"
+  },
+  "restaurants": {
+   "text": "同じ新宿住友ビル内に、B1Fに10店、1Fに4店、2Fに3店のレストランがある（ビルの公式サイト掲載）。",
+   "source": "https://www.sumitomo-sankakuhiroba.jp/shop/"
+  }
+ },
+ "documents": [
+  {
+   "title": "資料ダウンロード（公式一覧）",
+   "url": "https://www.bellesalle.co.jp/download/shinjukusumitomohall/"
+  },
+  {
+   "title": "利用料金一覧表（2026/7/3更新）",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/shinjukusumitomohall_price.pdf"
+  },
+  {
+   "title": "料金カレンダー（取引条件有効期限 2027年1月末日）",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/eventhall_calender1.pdf"
+  },
+  {
+   "title": "使用規約（2026ver2）",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/kiyaku.pdf"
+  },
+  {
+   "title": "事前搬入届",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/sumitomohall_jizen.pdf"
+  },
+  {
+   "title": "持込料のご案内",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/mochikomi_price.pdf"
+  },
+  {
+   "title": "B2Fホール 備品リスト・設備表（2026/10/13更新）",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/shinjukusumitomohall_hall_b.pdf"
+  },
+  {
+   "title": "B1F 平面図",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/sumitomohall_plane_b1f.pdf"
+  },
+  {
+   "title": "B1F 床図",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/sumitomohall_floor_b1f.pdf"
+  },
+  {
+   "title": "B1F 避難経路図",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/shinjukusumitomohall_escape_b1.pdf"
+  },
+  {
+   "title": "B2F 平面図",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/sumitomohall_plane_b2f.pdf"
+  },
+  {
+   "title": "B2F 天井図",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/sumitomohall_ceiling_b2f.pdf"
+  },
+  {
+   "title": "B2F 床図",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/sumitomohall_floor_b2f.pdf"
+  },
+  {
+   "title": "B2F イベント電源図",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/sumitomohall_electric_b2f.pdf"
+  },
+  {
+   "title": "B2F 避難経路図",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/shinjukusumitomohall_escape_b2.pdf"
+  },
+  {
+   "title": "よくあるご質問",
+   "url": "https://www.bellesalle.co.jp/faq/"
+  }
+ ],
+ "checkedAt": "2026-11-02",
+ "lat": 35.692017,
+ "lng": 139.692459,
+ "nearby": {
+  "convenience": [
+   {
+    "name": "ファミリーマート 新宿アイランドタワー店",
+    "brand": "ファミリーマート",
+    "distanceM": 122,
+    "walkMin": 2,
+    "hours": "7:00-23:00（土日祝は7:00-21:00）",
+    "address": "東京都新宿区西新宿6-5-1 新宿アイランドタワー",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/24517",
+    "note": "距離は公式の店舗位置で計算。公式の店舗名は「ファミマ新宿アイランドタワー店」。新宿アイランドタワー1階"
+   },
+   {
+    "name": "ファミリーマート 新宿第一生命ビルディング店",
+    "brand": "ファミリーマート",
+    "distanceM": 155,
+    "walkMin": 2,
+    "hours": "7:00-23:00",
+    "address": "東京都新宿区西新宿2-7-1",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/21681",
+    "note": "距離は公式の店舗位置で計算。新宿第一生命ビルディング1階"
+   },
+   {
+    "name": "セブン-イレブン 新宿アイランドタワー店",
+    "brand": "セブン-イレブン",
+    "distanceM": 184,
+    "walkMin": 3,
+    "hours": "毎日 7:00-23:00",
+    "address": "東京都新宿区西新宿6-5-1",
+    "verified": true,
+    "source": "https://seven-eleven.areamarker.com/711map/info/416321",
+    "note": "距離は公式の店舗位置で計算。新宿アイランドタワー内"
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "キンコーズ・西新宿店",
+    "brand": "キンコーズ",
+    "distanceM": 276,
+    "walkMin": 4,
+    "hours": "平日 8:00-20:00／土 10:00-20:00／日祝 10:00-20:00",
+    "address": "東京都新宿区西新宿8-1-1 アゼリアビル1F",
+    "verified": true,
+    "source": "https://www.kinkos.co.jp/store/tokyo/t008/",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "アクセア 西新宿店",
+    "brand": "アクセア",
+    "distanceM": 404,
+    "walkMin": 6,
+    "hours": "24時間営業",
+    "address": "東京都新宿区西新宿7-12-3 西新宿佐藤ビル1F～4F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/entry.html",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Can★Do 西新宿店",
+    "brand": "キャンドゥ",
+    "distanceM": 304,
+    "walkMin": 4,
+    "hours": "毎日 9:00〜22:00",
+    "address": "東京都新宿区西新宿7-21-1",
+    "verified": true,
+    "source": "https://shopinfo.cando-web.co.jp/detail/shop-5068/",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "DAISO 新宿コクーンタワー店",
+    "brand": "ダイソー",
+    "distanceM": 507,
+    "walkMin": 7,
+    "hours": "8:00-21:00",
+    "address": "東京都新宿区西新宿1-7-3 地下2階",
+    "verified": true,
+    "source": "https://www.daiso-sangyo.co.jp/shop/detail/001737",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "donki": [
+   {
+    "name": "ドン・キホーテ 新宿歌舞伎町店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 853,
+    "walkMin": 11,
+    "hours": "24時間営業",
+    "address": "東京都新宿区歌舞伎町1-16-5",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=29",
+    "note": "距離は住所の位置で計算。ドン・キホーテ公式サイトの店舗名は「新宿歌舞伎町店」"
+   },
+   {
+    "name": "ドン・キホーテ 新宿東南口店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 896,
+    "walkMin": 12,
+    "hours": "24時間営業",
+    "address": "東京都新宿区新宿3-36-16",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=449",
+    "note": "距離は住所の位置で計算。ドン・キホーテ公式サイトの店舗名は「新宿東南口店」"
+   }
+  ]
+ },
+ "drinkDelivery": {
+  "available": true
+ },
+ "photo": {
+  "src": "/images/venues/shinjuku-sumitomo-hall.jpg",
+  "credit": "© 鋸香具師 / CC0 · Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sumitomo_bldg_tochomae_station.jpg"
+ }
+}

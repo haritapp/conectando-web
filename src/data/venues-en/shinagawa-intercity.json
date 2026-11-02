@@ -1,0 +1,164 @@
+{
+ "slug": "shinagawa-intercity",
+ "name": "Shinagawa Intercity Hall & Meeting Rooms for Rent",
+ "address": "Tokyo 108-0075 Shinagawa Intercity Hall Building (hall on 1F, meeting rooms on B1F), 2-15-4 Konan, Minato-ku",
+ "accessSummary": "JR Yamanote Line, Keihin-Tohoku Line and others, Shinagawa Station Konan Exit: 5 min walk / Tokaido and Sanyo Shinkansen, Shinagawa Station Konan Exit: 5 min walk / Keikyu, Shinagawa Station Konan Exit: 8 min walk / Keikyu Main Line, Kitashinagawa Station: 10 min walk",
+ "hours": "Basic hours for both the hall and the meeting rooms are 9:00-20:00. The hall can be extended from 7:30 in the morning to 23:00 at night with time extension fees; performances from late night to early morning are prohibited (use for preparation is allowed). The meeting rooms are rented by time slot (morning 9:00-12:00 / afternoon 13:00-16:00 / evening 17:00-20:00) or for the whole day. Phone reception is weekdays 10:00-19:00.",
+ "notice": "Political and religious organizations and events with such content, and individuals who cannot show ID, affiliation and contact information, may not use the venue (Hall Terms of Use, Article 4). At the time of application you must state the organizer, purpose and content, and your application may be declined depending on the content. Hall attendance is limited to a maximum of 2,020 people standing (Hall Terms of Use, Article 21).",
+ "rooms": [
+  {
+   "name": "1F Hall",
+   "note": "Oval shape (about W18 m x D40 m). Ceiling height is measured under the catwalk. Classroom is 3 per desk (sample layout diagrams: 369 and 300 seats with 3 per desk, 200 and 270 seats with 2 per desk). The 300-guest round-table layout is a sample layout, and round tables are ordered from outside. Floor load 500 kg/㎡ (350 kg/㎡ over the OA pit; the load-in/load-out notes say not to place anything over 200 kg/㎡ on the pit). The stage wings are about 95㎡ on the kamite (stage left) side and about 66㎡ on the shimote (stage right) side."
+  },
+  {
+   "name": "1F Foyer",
+   "note": "Can be used together with the hall for receptions and exhibitions (a reception can be held right after the hall event without changeover). Has a bar counter and a cloakroom. Floor load 500 kg/㎡ (300 kg/㎡ over the OA pit)."
+  },
+  {
+   "name": "B1F Meeting Room 1",
+   "note": "Classroom and hollow-square layouts are 3 per desk. The hollow square is 24 seats in the price list and overview page, but 30 seats on the equipment page (the 24 from the newer August 2026 price list is adopted)."
+  },
+  {
+   "name": "B1F Meeting Room 2",
+   "note": "Classroom and hollow-square layouts are 3 per desk."
+  },
+  {
+   "name": "B1F Meeting Rooms 1+2",
+   "note": "Can be used as one room (sliding wall). Basically rented as connected rooms; use as separate rooms is possible from 1 month before the date of use. Classroom and hollow-square layouts are 3 per desk."
+  },
+  {
+   "name": "B1F Meeting Room 3",
+   "note": "Classroom and hollow-square layouts are 3 per desk."
+  },
+  {
+   "name": "B1F Meeting Room 4",
+   "note": "Classroom and hollow-square layouts are 3 per desk."
+  },
+  {
+   "name": "B1F Meeting Room 5",
+   "note": "Classroom and hollow-square layouts are 3 per desk. Alcohol is allowed (the only one of the meeting rooms)."
+  },
+  {
+   "name": "B1F Meeting Room 6",
+   "note": "Hollow square only (3 per desk)."
+  }
+ ],
+ "ops": {
+  "prevDaySetup": "To set up the day before, use the \"preparation day venue fee\" (924,000 yen (tax included) per day, 9:00-20:00). It applies only to contracts for the basic venue fee, for use over 2 or more consecutive days, and covers only one day, either the setup day or the removal day. Courier parcels are accepted for the day before the event (may be declined depending on the amount or contents). (Source: Hall price list as of December 2025, Hall Terms of Use revised October 2026, FAQ)",
+  "loadingHours": "The hall's load-in entrance connects directly to the kamite (stage left) backspace on the 1st floor, with an opening 3.4 m wide x 3.85 m high (load-in/load-out notes; the venue overview says 3.5 m wide x 3.8 m high). Load-in and load-out must be done within the reserved time, and shipping and receiving parcels is also limited to the usage time. Notify the number of vehicles, the size of each vehicle and the volume of goods by 1 week before, and for exhibitions and other cases with many items, or items over 100 kg, submit a load-in plan by 1 week before. Moving items of 100 kg or more requires floor protection, and items with a total weight of 2 t or more basically cannot be brought in. For the meeting rooms, a \"work notice\" is required when using hand trucks for load-in/load-out (by 7 days before use under the terms of use; the notice form by 5 business days before the work). (Source: Hall Load-in/Load-out Notes, Large Load-in Document, Meeting Rooms Terms of Use and Work Notice)",
+  "vehicleRules": "Vehicles can be left at the hall load-in entrance during the reserved time. One 11-ton truck can park, and the large load-in document has examples of two 4-ton trucks parked side by side and 12 passenger cars. Vehicles are managed by the user (security guards are placed as needed), and roadside parking around the hall is prohibited. Open flames are strictly prohibited and smoking is not allowed at the load-in entrance. Cars can be displayed if the fuel is emptied, the engine is off and the pit is protected. The meeting rooms use the loading area on B2F of Building B, with entrance limits of 3.4 m in height and 8.0 m in length (trucks 3.3 m or lower and 8.0 m or shorter). Show the work notice at the disaster prevention center (B1F of Building B) and receive an armband. (Source: Hall Load-in/Load-out Notes, Large Load-in Document, Meeting Rooms Load-in Route Map)",
+  "parking": "The hall has no dedicated visitor parking; use \"Shinagawa Intercity Parking\" (paid, open 24 hours). There are no discount tickets for using the hall or meeting rooms.",
+  "waitingRooms": "Hall: on the 1st floor, a cloakroom / organizer waiting room (about 35㎡; 36㎡ in the waiting room document PDF) and Waiting Room 1 (12㎡, with toilet and unit bath); on the 2nd floor, Waiting Room 2 (36㎡), Waiting Room 3 (24㎡) and Waiting Room 4 (24㎡). The fees for the 4 waiting rooms are included in the basic venue fee. On the 2nd floor there are balcony seats (10 VIP seats on the kamite (stage left) side and 10 on the shimote (stage right) side, seated).",
+  "catering": "There is no designated caterer (abolished on April 1, 2014); you can use a caterer you bring yourself or one the venue arranges. At the hall, boxed meals and mineral water are allowed, and parties are also possible with a flat layout (some floor protection is needed). The meeting rooms allow food and drink with prior notification, and alcohol is allowed only in Meeting Room 5. Open flames and cooking are not allowed, only warming with electric appliances (a public health center application is required when cooking with electric appliances). (Source: FAQ, Hall overview, Meeting Rooms Terms of Use)",
+  "restaurants": "The official site lists the \"Shinagawa Intercity Shop & Restaurant\" in the same building. For the meeting rooms, delivery can be ordered from some shops (order directly with the shop; note the delivery time slots and other cautions). The hall uses the foyer so that a reception can be held after the event without changeover. (Source: Access, Meeting Rooms Terms of Use, Hall overview)"
+ },
+ "documents": [
+  {
+   "title": "Hall Price List (as of December 2025)"
+  },
+  {
+   "title": "Hall Terms of Use (revised October 2026)"
+  },
+  {
+   "title": "Hall Load-in/Load-out Notes"
+  },
+  {
+   "title": "Hall Large Load-in Document"
+  },
+  {
+   "title": "Hall Facility Overview (as of April 1, 2014)"
+  },
+  {
+   "title": "Hall Equipment List (May 15, 2019 edition)"
+  },
+  {
+   "title": "Hall 1F Floor Plan"
+  },
+  {
+   "title": "Hall 2F Floor Plan"
+  },
+  {
+   "title": "Hall 1F Dimension Drawing"
+  },
+  {
+   "title": "Hall 1F Waiting Rooms"
+  },
+  {
+   "title": "Hall Internet Environment Document"
+  },
+  {
+   "title": "Meeting Rooms Price List and Capacity (as of August 2026)"
+  },
+  {
+   "title": "Meeting Rooms Terms of Use"
+  },
+  {
+   "title": "Meeting Rooms Load-in/Load-out Application (Work Notice)"
+  },
+  {
+   "title": "Meeting Rooms Load-in Route Map"
+  },
+  {
+   "title": "Meeting Rooms Floor Plan (B1F)"
+  },
+  {
+   "title": "Meeting Rooms Equipment and Fixtures List"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "Lawson H Shinagawa Intercity",
+    "hours": "7:30-22:00",
+    "note": "Distance is calculated from the store's official location."
+   },
+   {
+    "name": "FamilyMart Shinagawa Grand Passage",
+    "hours": "7:00-23:00",
+    "note": "Distance is calculated from the store's official location."
+   },
+   {
+    "name": "Lawson Shinagawa Grand Passage",
+    "hours": "7:00-23:00",
+    "note": "Distance is calculated from the store's official location."
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "Kinko's Shinagawa",
+    "hours": "Weekdays 8:00-22:00 / Sat, Sun & holidays 9:00-18:00",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Accea Shinagawa Station Konan Exit",
+    "hours": "Weekdays 8:00-21:00 / Sat, Sun & holidays 10:00-19:00",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Seria Wing Takanawa WEST",
+    "hours": "Mon 10:00-21:00 / Tue 10:00-20:00 / Wed-Fri 10:00-21:00 / Sat-Sun 10:00-20:00",
+    "note": "Distance is calculated from the store's official location."
+   },
+   {
+    "name": "Can Do Shimbaba",
+    "hours": "Mon-Sun 10:00-20:00",
+    "note": "Distance is calculated from the store's official location."
+   }
+  ],
+  "donki": [
+   {
+    "name": "Don Quijote Gotanda East Exit",
+    "hours": "8:00-5:00",
+    "note": "Distance is calculated from the address location. Rather far. The store name on the Don Quijote official website is \"Gotanda East Exit\" (五反田東口店)."
+   },
+   {
+    "name": "Platinum Don Quijote Shirokanedai",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. Far."
+   }
+  ]
+ },
+ "photoCredit": "© Kakidai / CC BY-SA 4.0 · Wikimedia Commons"
+}

@@ -1,0 +1,542 @@
+{
+ "slug": "station-conference-tokyo",
+ "nameJa": "ステーションコンファレンス東京",
+ "nameEn": "",
+ "type": "conference",
+ "area": "marunouchi-nihonbashi-venues",
+ "address": "〒100-0005 東京都千代田区丸の内1-7-12 サピアタワー4〜6F",
+ "officialUrl": "https://www.tstc.jp/tokyo/",
+ "organizerUrl": "https://www.tstc.jp/tokyo/guide.html",
+ "bizintokyoSlug": "station-conference-tokyo",
+ "accessSummary": "JR東京駅 日本橋口 直結（新幹線日本橋口改札 徒歩1分／八重洲北口改札 徒歩2分）／東京メトロ東西線大手町駅 B7出口は閉鎖中（2028年3月末まで）で、旧B7出入口の階段を上がった奥の「サピアタワー連絡口」を使う（7:00〜23:00）",
+ "notice": "予約は、小規模な貸室は利用日の6か月前の月の初日から、フロア貸切以上は1年前の月の初日から受け付ける。5階の501は、501ABS（サピアホール）で連結利用する客を優先して予約を受ける。飲食物の持込はできず、ケータリングを利用する。会議（セミナー等）と懇親会は準備の都合上、別々の貸室で行う。料金は銀行振込のみ（現金・カード不可）。",
+ "hours": "年末年始を除き通年営業。利用時間は原則9:00〜21:00（延長料金の対象は8:00〜22:00、時間外・7:00〜8:00の早朝延長は問い合わせ）。問い合わせ・申込の受付は平日（休業日・祝日を除く）10:00〜17:00。利用時間には準備・片づけの時間を含む",
+ "rooms": [
+  {
+   "name": "6F 601",
+   "areaM2": 47,
+   "ceilingM": 3.3,
+   "theater": 39,
+   "school": 24,
+   "ushape": 18,
+   "standing": null,
+   "banquet": null,
+   "note": "コの字 15席。島型の貸室"
+  },
+  {
+   "name": "6F 603",
+   "areaM2": 42,
+   "ceilingM": 3.3,
+   "theater": 39,
+   "school": 24,
+   "ushape": 18,
+   "standing": null,
+   "banquet": null,
+   "note": "コの字 15席。島型の貸室"
+  },
+  {
+   "name": "6F 604",
+   "areaM2": 47,
+   "ceilingM": 3.3,
+   "theater": 39,
+   "school": 18,
+   "ushape": 18,
+   "standing": null,
+   "banquet": null,
+   "note": "コの字 15席。島型の貸室"
+  },
+  {
+   "name": "6F 602A・602B・602C・602D（各）",
+   "areaM2": 77,
+   "ceilingM": 3.3,
+   "theater": 100,
+   "school": 48,
+   "ushape": 36,
+   "standing": 40,
+   "banquet": null,
+   "note": "コの字 30席。立食は30〜40名"
+  },
+  {
+   "name": "6F 602AB・602CD（各）",
+   "areaM2": 154,
+   "ceilingM": 3.3,
+   "theater": 160,
+   "school": 84,
+   "ushape": 54,
+   "standing": 80,
+   "banquet": null,
+   "note": "コの字 42席。立食は60〜80名"
+  },
+  {
+   "name": "6F 602ABC・602BCD（各）",
+   "areaM2": 231,
+   "ceilingM": 3.3,
+   "theater": 240,
+   "school": 132,
+   "ushape": 72,
+   "standing": 100,
+   "banquet": null,
+   "note": "コの字 60席。スクール＋シアター 177席。立食は80〜100名"
+  },
+  {
+   "name": "6F 602ABCD",
+   "areaM2": 309,
+   "ceilingM": 3.3,
+   "theater": 352,
+   "school": 180,
+   "ushape": null,
+   "standing": 140,
+   "banquet": null,
+   "note": "スクール＋シアター 261席。立食は110〜140名"
+  },
+  {
+   "name": "6F 605A・605B・605C（各）",
+   "areaM2": 77,
+   "ceilingM": 3.3,
+   "theater": 100,
+   "school": 48,
+   "ushape": 36,
+   "standing": 40,
+   "banquet": null,
+   "note": "コの字 30席。立食は30〜40名"
+  },
+  {
+   "name": "6F 605AB・605BC（各）",
+   "areaM2": 154,
+   "ceilingM": 3.3,
+   "theater": 160,
+   "school": 84,
+   "ushape": 54,
+   "standing": 80,
+   "banquet": null,
+   "note": "コの字 42席。立食は60〜80名"
+  },
+  {
+   "name": "6F 605ABC",
+   "areaM2": 231,
+   "ceilingM": 3.3,
+   "theater": 240,
+   "school": 132,
+   "ushape": 72,
+   "standing": 100,
+   "banquet": null,
+   "note": "コの字 60席。スクール＋シアター 177席。立食は80〜100名"
+  },
+  {
+   "name": "6F 606",
+   "areaM2": 108,
+   "ceilingM": 3.3,
+   "theater": 68,
+   "school": 54,
+   "ushape": 24,
+   "standing": 40,
+   "banquet": null,
+   "note": "コの字 20席。立食は20〜40名"
+  },
+  {
+   "name": "5F 501A・501B（各）",
+   "areaM2": 150,
+   "ceilingM": 4.3,
+   "theater": 144,
+   "school": 72,
+   "ushape": 48,
+   "standing": 80,
+   "banquet": null,
+   "note": "コの字 36席。立食は60〜80名"
+  },
+  {
+   "name": "5F 501AB",
+   "areaM2": 301,
+   "ceilingM": 4.3,
+   "theater": 352,
+   "school": 180,
+   "ushape": null,
+   "standing": 140,
+   "banquet": null,
+   "note": "スクール＋シアター 260席。立食は110〜140名"
+  },
+  {
+   "name": "5F 501AS",
+   "areaM2": 202,
+   "ceilingM": null,
+   "theater": 228,
+   "school": 108,
+   "ushape": null,
+   "standing": 90,
+   "banquet": null,
+   "note": "スクール＋シアター 156席。立食は70〜90名"
+  },
+  {
+   "name": "5F 501ABS（サピアホール／メインホール）",
+   "areaM2": 353,
+   "ceilingM": 4.3,
+   "theater": 436,
+   "school": 216,
+   "ushape": null,
+   "standing": 200,
+   "banquet": null,
+   "note": "スクール＋シアター 316席。立食は150〜200名。285インチの高精細LEDビジョンを常設。公式トップページと報道発表（2024年10月29日）にはシアター形式の最大収容 約500名の記載がある"
+  },
+  {
+   "name": "5F 501S",
+   "areaM2": 51,
+   "ceilingM": 3.3,
+   "theater": 56,
+   "school": 24,
+   "ushape": 24,
+   "standing": null,
+   "banquet": null,
+   "note": "コの字 21席。島型の貸室"
+  },
+  {
+   "name": "5F 502",
+   "areaM2": 46,
+   "ceilingM": 3.3,
+   "theater": 39,
+   "school": 21,
+   "ushape": 18,
+   "standing": null,
+   "banquet": null,
+   "note": "コの字 15席。島型の貸室"
+  },
+  {
+   "name": "5F 503A・503B・503C・503D（各）",
+   "areaM2": 77,
+   "ceilingM": 3.3,
+   "theater": 100,
+   "school": 48,
+   "ushape": 36,
+   "standing": 40,
+   "banquet": null,
+   "note": "コの字 30席。立食は30〜40名"
+  },
+  {
+   "name": "5F 503AB・503CD（各）",
+   "areaM2": 154,
+   "ceilingM": 3.3,
+   "theater": 160,
+   "school": 84,
+   "ushape": 54,
+   "standing": 80,
+   "banquet": null,
+   "note": "コの字 42席。立食は60〜80名"
+  },
+  {
+   "name": "5F 503ABC・503BCD（各）",
+   "areaM2": 232,
+   "ceilingM": 3.3,
+   "theater": 240,
+   "school": 132,
+   "ushape": 72,
+   "standing": 100,
+   "banquet": null,
+   "note": "コの字 60席。スクール＋シアター 177席。立食は80〜100名"
+  },
+  {
+   "name": "5F 503ABCD",
+   "areaM2": 310,
+   "ceilingM": 3.3,
+   "theater": 352,
+   "school": 180,
+   "ushape": null,
+   "standing": 140,
+   "banquet": null,
+   "note": "スクール＋シアター 261席。立食は110〜140名"
+  },
+  {
+   "name": "4F 401",
+   "areaM2": 34,
+   "ceilingM": 3.3,
+   "theater": 32,
+   "school": 12,
+   "ushape": 16,
+   "standing": null,
+   "banquet": null,
+   "note": "コの字 14席。島型の貸室"
+  },
+  {
+   "name": "4F 402A・402B・402C・402D（各）",
+   "areaM2": 55,
+   "ceilingM": 3.3,
+   "theater": 50,
+   "school": 20,
+   "ushape": 20,
+   "standing": 30,
+   "banquet": null,
+   "note": "面積は52〜55㎡。コの字 16席。立食は20〜30名"
+  },
+  {
+   "name": "4F 402AB・402CD（各）",
+   "areaM2": 110,
+   "ceilingM": 3.3,
+   "theater": 81,
+   "school": 36,
+   "ushape": 32,
+   "standing": 60,
+   "banquet": null,
+   "note": "面積は107〜110㎡。コの字 28席。立食は40〜60名"
+  },
+  {
+   "name": "4F 402ABC・402BCD（各）",
+   "areaM2": 165,
+   "ceilingM": 3.3,
+   "theater": 144,
+   "school": 60,
+   "ushape": 48,
+   "standing": 90,
+   "banquet": null,
+   "note": "面積は162〜165㎡。コの字 44席。スクール＋シアター 84席。立食は70〜90名"
+  },
+  {
+   "name": "4F 402ABCD",
+   "areaM2": 218,
+   "ceilingM": 3.3,
+   "theater": 207,
+   "school": 90,
+   "ushape": 64,
+   "standing": 130,
+   "banquet": null,
+   "note": "コの字 60席。スクール＋シアター 123席。立食は100〜130名"
+  },
+  {
+   "name": "4F 403・404（各）",
+   "areaM2": 24,
+   "ceilingM": 2.6,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "レイアウトは島型の固定（8席）"
+  }
+ ],
+ "roomsSource": "https://www.tstc.jp/tokyo/pdf/floor-charge_tokyo_2024.pdf",
+ "ops": {
+  "loadingHours": {
+   "text": "地下1階の荷捌き所に一時留置きし、横の物流受付で手続きをしてセキュリティカードを受け取ってから搬入・搬出を始める。事前に提出した作業届の写しを持参しないと搬入できない。手続きは作業届に書いた現場責任者が行い、運転免許証などの身分証明が必要。4・5・6階への搬入出は、別紙の経路図にあるE1エレベーターを使う（E2エレベーターはホテル・オフィス用で使えない）。E1エレベーターは扉が幅1,100×高さ2,390mm、かご内が幅1,800×奥行2,000×高さ2,400mm（最大3,600mm）、積載量2,500kg。事前に送る荷物は利用日前日の午後着で日時を指定し、3個までは保管無料（4個目から有料）。（出典：搬入出のご案内、よくあるご質問）",
+   "source": "https://www.tstc.jp/tokyo/pdf/carry-route.pdf"
+  },
+  "vehicleRules": {
+   "text": "車は地下1階の荷捌き所に一時留置きする。地下1階の高さ制限は2.7mまで。車での搬入には事前の申請が必要。来場者の乗用車などの整理・誘導・警備は主催者の責任で行う（来場者が多い場合は施設側が手配し、費用は主催者負担）。（出典：搬入出のご案内、よくあるご質問、利用規則第13条）",
+   "source": "https://www.tstc.jp/tokyo/pdf/carry-route.pdf"
+  },
+  "parking": {
+   "text": "車で来場する場合は、ビル内の時間貸し駐車場を使う。駐車場はB2F・B3F。",
+   "source": "https://www.tstc.jp/tokyo/access.html"
+  },
+  "waitingRooms": {
+   "text": "4階のラウンジ施設「リクロス」の個室を、ステーションコンファレンス東京の利用客はビジター料金で使え、講演会の控室や会議前の打ち合わせに使える。個室は3種類で、R-001（1〜2人）1時間4,400円、R-006（6〜8人）1時間8,800円、R-010（10人）1時間11,000円（税込）。利用日の1か月前から電話で予約し、利用当日の取り消しは全額がキャンセル料になる。受付で当日の催事名を確認される。リクロス内への飲食物の持込はできない。",
+   "source": "https://www.tstc.jp/tokyo/floor.html"
+  },
+  "catering": {
+   "text": "衛生管理のため、飲食物の持込はできない。ケータリングサービスを利用する。ドリンク（ペットボトル、ポットサービス、50名から受け付けるドリンクコーナー）、お弁当・軽食（日本ばし大増、下鴨茶寮、升本フーズ、なだ万、サンケイ会館、明治座、ホテルメトロポリタン丸の内27階のTENQOO）、懇親会向けパーティープラン（東京會舘、パレスホテル、ホテルメトロポリタンエドモント、フォリクラッセ、サンケイ会館、アポルテフードファクトリー、CATERING Beyond、ゴーン、シービーサービス、ダイナック）を案内している。パーティープランの目安単価は4,400円〜14,500円（人数条件は会社ごとに30名以上・50名以上などと異なる）。当日の人数が増えても料理の追加はできず、ドリンクは追加料金で対応する。当日の人数が減っても値引きはない。ケータリングの注文期限は利用日の3日前の12:00まで。（出典：ケータリングのページ、よくあるご質問）",
+   "source": "https://www.tstc.jp/tokyo/catering.html"
+  },
+  "restaurants": {
+   "text": "同じサピアタワーの1階・3階に店舗があり、下層階にコンビニ・飲食店舗がある。27〜34階にホテルメトロポリタン丸の内が入る。",
+   "source": "https://www.tstc.jp/tokyo/access.html"
+  }
+ },
+ "documents": [
+  {
+   "title": "施設利用料金表／推奨人数（2024年10月〜）",
+   "url": "https://www.tstc.jp/tokyo/pdf/floor-charge_tokyo_2024.pdf"
+  },
+  {
+   "title": "設備・備品料金表（2024年10月〜）",
+   "url": "https://www.tstc.jp/tokyo/pdf/equipment-charge_tokyo2024.pdf"
+  },
+  {
+   "title": "4階フロア図面",
+   "url": "https://www.tstc.jp/tokyo/pdf/4floor.pdf"
+  },
+  {
+   "title": "5階フロア図面",
+   "url": "https://www.tstc.jp/tokyo/pdf/5floor.pdf"
+  },
+  {
+   "title": "6階フロア図面",
+   "url": "https://www.tstc.jp/tokyo/pdf/6floor.pdf"
+  },
+  {
+   "title": "4階フロア寸法図",
+   "url": "https://www.tstc.jp/tokyo/pdf/4floor-dimension.pdf"
+  },
+  {
+   "title": "5階フロア寸法図",
+   "url": "https://www.tstc.jp/tokyo/pdf/5floor-dimension.pdf"
+  },
+  {
+   "title": "6階フロア寸法図",
+   "url": "https://www.tstc.jp/tokyo/pdf/6floor-dimension.pdf"
+  },
+  {
+   "title": "4階電源図",
+   "url": "https://www.tstc.jp/tokyo/pdf/4floor-power-supply.pdf"
+  },
+  {
+   "title": "5階電源図",
+   "url": "https://www.tstc.jp/tokyo/pdf/5floor-power-supply.pdf"
+  },
+  {
+   "title": "6階電源図",
+   "url": "https://www.tstc.jp/tokyo/pdf/6floor-power-supply.pdf"
+  },
+  {
+   "title": "搬入・搬出のご案内",
+   "url": "https://www.tstc.jp/tokyo/pdf/carry-route.pdf"
+  },
+  {
+   "title": "駅改札からのルート（サピアタワー）",
+   "url": "https://www.tstc.jp/tokyo/pdf/sapiatower_map.pdf"
+  },
+  {
+   "title": "ステーションコンファレンス利用規則（2013年4月1日変更）",
+   "url": "https://www.tstc.jp/document/rules.pdf"
+  },
+  {
+   "title": "「リクロス」利用規則",
+   "url": "https://www.tstc.jp/tokyo/pdf/recross-rules.pdf"
+  },
+  {
+   "title": "メインホール LEDビジョン設置のお知らせ（2024年10月29日）",
+   "url": "https://www.tstc.jp/document/LED%E3%83%93%E3%82%B8%E3%83%A7%E3%83%B320241001.pdf"
+  },
+  {
+   "title": "インターネット単独回線のご案内（2022年）",
+   "url": "https://www.tstc.jp/document/Topics_Station_Conference_Tokyo_Internet_info2022.pdf"
+  },
+  {
+   "title": "Web会議・セミナー 貸出機器のご案内（2023年）",
+   "url": "https://www.tstc.jp/document/Topics_Station_ConferenceTOKYO_WEB_2023.pdf"
+  },
+  {
+   "title": "資料一括ダウンロード（公式一覧）",
+   "url": "https://www.tstc.jp/tokyo/document.html"
+  },
+  {
+   "title": "ご利用の流れ・よくあるご質問",
+   "url": "https://www.tstc.jp/tokyo/guide.html"
+  }
+ ],
+ "checkedAt": "2026-11-02",
+ "lat": 35.683498,
+ "lng": 139.767944,
+ "nearby": {
+  "convenience": [
+   {
+    "name": "ファミマサピアタワー店",
+    "brand": "ファミリーマート",
+    "distanceM": 44,
+    "walkMin": 1,
+    "hours": "7:00-22:00",
+    "address": "東京都千代田区丸の内1-7-12",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/15962",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "ファミリーマート 丸の内トラストタワー店",
+    "brand": "ファミリーマート",
+    "distanceM": 156,
+    "walkMin": 2,
+    "hours": "7:00-23:00",
+    "address": "東京都千代田区丸の内1ー8-1 丸の内トラストタワーN館",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/24334",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "ファミリーマート 丸の内オアゾ店",
+    "brand": "ファミリーマート",
+    "distanceM": 194,
+    "walkMin": 3,
+    "hours": "6:00-24:00",
+    "address": "東京都千代田区丸の内1丁目6-4 オアゾショップB1",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/22774",
+    "note": "距離は公式の店舗位置で計算"
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "キンコーズ・大手町店",
+    "brand": "キンコーズ",
+    "distanceM": 435,
+    "walkMin": 6,
+    "hours": "平日 9:00-20:00／土・日・祝 休業",
+    "address": "東京都千代田区大手町1丁目6-1 大手町ビル1F",
+    "verified": true,
+    "source": "https://www.kinkos.co.jp/store/tokyo/t005/",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "アクセア 東京駅八重洲店",
+    "brand": "アクセア",
+    "distanceM": 475,
+    "walkMin": 6,
+    "hours": "24時間営業（22時〜翌6時のカフェ利用は本人確認済みの会員のみ）",
+    "address": "東京都中央区日本橋3-4-15 八重洲通ビルヂング1F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/entry.html",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Can★Do 丸の内オアゾ店",
+    "brand": "キャンドゥ",
+    "distanceM": 131,
+    "walkMin": 2,
+    "hours": "月〜金 8:00-22:00／土〜日 9:00-21:00",
+    "address": "東京都千代田区丸の内1-6-4 丸の内オアゾ地下1階",
+    "verified": true,
+    "source": "https://shopinfo.cando-web.co.jp/detail/shop-5550/",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "3COINS ヤエチカ店",
+    "brand": "3COINS",
+    "distanceM": 431,
+    "walkMin": 6,
+    "hours": "10:00-21:00",
+    "address": "東京都中央区八重洲2-1 八重洲地下街南1号",
+    "verified": true,
+    "source": "https://palcloset.storelocator.jp/detail/361",
+    "note": "距離は公式の店舗位置で計算"
+   }
+  ],
+  "donki": [
+   {
+    "name": "ドン・キホーテ 銀座本館（銀座ナイン3号館）",
+    "brand": "ドン・キホーテ",
+    "distanceM": 1819,
+    "walkMin": 23,
+    "hours": "24時間営業",
+    "address": "東京都中央区銀座8-10 銀座ナイン3号館",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=92",
+    "note": "距離は住所の位置で計算。遠い"
+   },
+   {
+    "name": "ドン・キホーテ 秋葉原店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 1939,
+    "walkMin": 25,
+    "hours": "24時間営業",
+    "address": "東京都千代田区外神田4丁目3-3",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=98",
+    "note": "距離は住所の位置で計算。ドン・キホーテ公式サイトの店舗名は「秋葉原店」。遠い"
+   }
+  ]
+ },
+ "drinkDelivery": {
+  "available": true
+ },
+ "photo": {
+  "src": "/images/venues/station-conference-tokyo.jpg",
+  "credit": "© 掬茶 / CC BY-SA 4.0 · Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sapia_Tower_200803.jpg"
+ }
+}

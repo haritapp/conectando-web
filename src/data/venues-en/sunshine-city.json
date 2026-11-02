@@ -1,0 +1,287 @@
+{
+ "slug": "sunshine-city",
+ "name": "Sunshine City",
+ "address": "Tokyo 170-0013 3-1 Higashi-Ikebukuro, Toshima-ku",
+ "accessSummary": "Ikebukuro Station (JR / Tokyo Metro / Seibu Line / Tobu Line) Exit 35: about 8 min walk / Tokyo Metro Yurakucho Line Higashi-Ikebukuro Station Exits 6 and 7: about 3 min walk via the underground passage (directly connected) / Toden Arakawa Line Higashi-Ikebukuro-yonchome (Sunshine-mae) stop: about 4 min walk",
+ "hours": "Exhibition halls are rented by the day, with basic usage hours of 10:00-18:00 (extension fees apply before and after). Meeting rooms are open 9:00-20:30 (three time slots: morning 9:00-12:00, afternoon 13:00-17:00, evening 17:30-20:30; open every day except the year-end and New Year holidays)",
+ "notice": "Exhibition halls are rented by the day, and no capacity limit is set. Meeting rooms cannot be used for events with sound, for bringing in food or drink, or for party-only use, and when they are used as an exhibition the fee is 20% higher (the cleaning fee is separate). The meeting rooms on the 7th floor of the Bunka Kaikan Building ended rental in January 2023 (the current meeting rooms are the Conference Rooms on the 5th floor of the World Import Mart Building and the Special Hall on the 5th floor of the Bunka Kaikan Building). (Source: Exhibition Hall FAQ, Meeting Room Terms of Use revised April 2025)",
+ "rooms": [
+  {
+   "name": "Exhibition Hall A - Entire Hall (World Import Mart Building 4F)",
+   "note": "World Import Mart Building 4F. Average floor load 300 kg/㎡, venue lighting 900 LUX. 3 offices, a VIP room and kitchen facilities (A-1) are attached. No capacity limit is set (because the usable area differs depending on the venue layout). It can be divided into 3 parts, A-1, A-2 and A-3, and A-2 and A-3 can also be used together."
+  },
+  {
+   "name": "Exhibition Hall A-1",
+   "note": "The A-1 office (30㎡) and the kitchen facilities \"Oasis\" (おあしす) are attached."
+  },
+  {
+   "name": "Exhibition Hall A-2",
+   "note": "The A-2 office (30㎡) is attached."
+  },
+  {
+   "name": "Exhibition Hall A-3",
+   "note": "The A-3 office (45㎡) is attached."
+  },
+  {
+   "name": "Exhibition Hall B (Bunka Kaikan Building 4F)",
+   "note": "A two-floor atrium gives part of the hall a ceiling height of 8.6 m (3.6 m elsewhere). Average floor load 300 kg/㎡, venue lighting 900 LUX. 3 offices are attached (B-1 on the 4F, B-2 and B-3 on the 5F)."
+  },
+  {
+   "name": "Exhibition Hall C (Bunka Kaikan Building 3F)",
+   "note": "Average floor load 500 kg/㎡ (300 kg/㎡ in the other halls), venue lighting 900 LUX. 2 offices (C-1 52㎡, C-2 54㎡) are attached. It can be divided with a sliding wall and can also be used for seminars and the like."
+  },
+  {
+   "name": "Exhibition Hall D - Entire Hall (Bunka Kaikan Building 2F)",
+   "note": "Average floor load 300 kg/㎡, venue lighting 900 LUX. 3 offices (D-1 25㎡, D-2 22㎡, D-3 16㎡) are attached. It can be divided into 5 parts: D-1 (1), D-1 (2), D-2, D-3 and D-4."
+  },
+  {
+   "name": "Exhibition Hall D-1 (1)",
+   "note": ""
+  },
+  {
+   "name": "Exhibition Hall D-1 (2)",
+   "note": ""
+  },
+  {
+   "name": "Exhibition Hall D-2",
+   "note": ""
+  },
+  {
+   "name": "Exhibition Hall D-3",
+   "note": ""
+  },
+  {
+   "name": "Exhibition Hall D-4",
+   "note": ""
+  },
+  {
+   "name": "Conference Room 1",
+   "note": "World Import Mart Building 5F. Classroom is 3 per desk (16 seats with 2 per desk). Island layout (3 per desk): 24 seats. No ceiling-mounted projector."
+  },
+  {
+   "name": "Conference Room 2",
+   "note": "World Import Mart Building 5F. Classroom is 3 per desk (16 seats with 2 per desk). Island layout (3 per desk): 24 seats. No ceiling-mounted projector."
+  },
+  {
+   "name": "Conference Room 3",
+   "note": "World Import Mart Building 5F. Classroom is 3 per desk (24 seats with 2 per desk). Island layout (3 per desk): 30 seats. No ceiling-mounted projector."
+  },
+  {
+   "name": "Conference Room 4",
+   "note": "World Import Mart Building 5F. Classroom is 3 per desk (60 seats with 2 per desk). Island layout (3 per desk): 84 seats."
+  },
+  {
+   "name": "Conference Room 5",
+   "note": "World Import Mart Building 5F. Classroom is 3 per desk (60 seats with 2 per desk). Island layout (3 per desk): 84 seats."
+  },
+  {
+   "name": "Conference Room 4+5 (combined)",
+   "note": "World Import Mart Building 5F. Classroom is 3 per desk (132 seats with 2 per desk). Island layout (3 per desk): 192 seats."
+  },
+  {
+   "name": "Conference Room 6",
+   "note": "World Import Mart Building 5F. Classroom is 3 per desk (34 seats with 2 per desk). Island layout (3 per desk): 48 seats."
+  },
+  {
+   "name": "Conference Room 7",
+   "note": "World Import Mart Building 5F. Classroom is 3 per desk (24 seats with 2 per desk). Island layout (3 per desk): 36 seats."
+  },
+  {
+   "name": "Conference Room 8",
+   "note": "World Import Mart Building 5F. Classroom is 3 per desk (24 seats with 2 per desk). Island layout (3 per desk): 36 seats."
+  },
+  {
+   "name": "Conference Room 9",
+   "note": "World Import Mart Building 5F. Classroom is 3 per desk (40 seats with 2 per desk). Island layout (3 per desk): 54 seats."
+  },
+  {
+   "name": "Conference Room 6+7 (combined)",
+   "note": "World Import Mart Building 5F. Classroom is 3 per desk (58 seats with 2 per desk). Island layout (3 per desk): 84 seats."
+  },
+  {
+   "name": "Conference Room 7+8 (combined)",
+   "note": "World Import Mart Building 5F. Classroom is 3 per desk (48 seats with 2 per desk). Island layout (3 per desk): 72 seats."
+  },
+  {
+   "name": "Conference Room 8+9 (combined)",
+   "note": "World Import Mart Building 5F. Classroom is 3 per desk (64 seats with 2 per desk). Island layout (3 per desk): 90 seats."
+  },
+  {
+   "name": "Conference Room 6+7+8 (combined)",
+   "note": "World Import Mart Building 5F. Classroom is 3 per desk (82 seats with 2 per desk). Island layout (3 per desk): 120 seats. As for the area, the total of the areas of Rooms 6, 7 and 8 and the October 2023 capacity and facilities list PDF give 227㎡. The table on the official website states 277㎡."
+  },
+  {
+   "name": "Conference Room 7+8+9 (combined)",
+   "note": "World Import Mart Building 5F. Classroom is 3 per desk (88 seats with 2 per desk). Island layout (3 per desk): 126 seats."
+  },
+  {
+   "name": "Conference Room 6-9 (combined)",
+   "note": "World Import Mart Building 5F. Classroom is 3 per desk (132 seats with 2 per desk). Island layout (3 per desk): 174 seats."
+  },
+  {
+   "name": "Conference Room 10",
+   "note": "World Import Mart Building 5F. Classroom is 3 per desk (14 seats with 2 per desk). Island layout (3 per desk): 18 seats."
+  },
+  {
+   "name": "Conference Room 11",
+   "note": "World Import Mart Building 5F. Classroom is 3 per desk (30 seats with 2 per desk). Island layout (3 per desk): 42 seats."
+  },
+  {
+   "name": "Conference Room 12",
+   "note": "World Import Mart Building 5F. Classroom is 3 per desk (32 seats with 2 per desk). Island layout (3 per desk): 48 seats."
+  },
+  {
+   "name": "Conference Room 13",
+   "note": "World Import Mart Building 5F. Classroom is 3 per desk (32 seats with 2 per desk). Island layout (3 per desk): 48 seats."
+  },
+  {
+   "name": "Conference Room 14",
+   "note": "World Import Mart Building 5F. Classroom is 3 per desk (68 seats with 2 per desk). Island layout (3 per desk): 90 seats."
+  },
+  {
+   "name": "Conference Room 15",
+   "note": "World Import Mart Building 5F. Classroom is 3 per desk (90 seats with 2 per desk). Island layout (3 per desk): 108 seats."
+  },
+  {
+   "name": "Conference Room 16",
+   "note": "World Import Mart Building 5F. Classroom is 3 per desk (48 seats with 2 per desk). Island layout (3 per desk): 72 seats."
+  },
+  {
+   "name": "Conference Room 17 (Training Room)",
+   "note": "World Import Mart Building 5F. Designed exclusively for training. Classroom is 2 per desk (island layout with 2 per desk also gives 54 seats). The usage fee for equipment essential to training is included in the room fee. Desks are 150 cm wide x 60 cm deep, 2 per desk, with a 2-outlet power strip at each seat. The basic layout is island."
+  },
+  {
+   "name": "Special Hall Room 501",
+   "note": "Bunka Kaikan Building 5F. Classroom is 3 per desk (136 seats with 2 per desk). Island layout (3 per desk): 132 seats. Suited to seminars held alongside exhibitions by individual companies, symposiums, shareholders' meetings and the like."
+  },
+  {
+   "name": "Special Hall Room 502",
+   "note": "Bunka Kaikan Building 5F. Classroom is 3 per desk (114 seats with 2 per desk). Island layout (3 per desk): 108 seats."
+  },
+  {
+   "name": "Fountain Plaza (alpa shopping arcade B1)",
+   "note": "An open space with a four-floor atrium from B1 to 3F. The venue plan shows a stage of 125㎡, an area under the stage of 104㎡, a fountain of 62㎡ and a waiting room of 14.7㎡. Event hours are 10:00-20:00, and the basic fee is 660,000 yen on weekdays and 1,100,000 yen on Saturdays, Sundays and holidays (tax included; includes electricity, one attending manager and basic equipment). There is a 628-inch large screen (Fountain Plaza Venue Usage Rules, July 2026)."
+  }
+ ],
+ "ops": {
+  "prevDaySetup": "For exhibition halls, the usage fee for a day used only for setup and teardown before or after the event is half of the basic usage fee, and air conditioning and ventilation are not operated on that day (if you want them operated, an after-hours air-conditioning fee and an after-hours ventilation fee apply separately). When setup, the event and teardown are done in one day, the basic usage fee for the event day applies. To ask the facility to change a meeting room layout, declare it when applying, notify the facility of the desired layout 2 weeks before, and finalize it 1 week before (the change fee is separate). Whether luggage can be left in a meeting room when it is used on consecutive days is a matter of consultation, depending on the bookings. (Source: Exhibition Hall Price List as of February 2026, Meeting Room Search page, Meeting Room FAQ)",
+  "loadingHours": "Exhibition halls can also be used before and after the basic usage hours of 10:00-18:00, at an extension fee of 10% of the basic usage fee per hour, and early morning and late night use is possible within the day of use (0:00-24:00). The usage time is determined from the time the security guard finishes unlocking, after the disaster prevention center is asked to unlock, until the time locking is requested; the user must be present for unlocking and locking. Load-in and load-out is done with a \"load-in/out permit\" (applied for in advance) displayed so that it is visible at the front of the vehicle, on the applied date and time and by the designated route and place (load-in and load-out outside the designated times is not possible). Discuss the load-in/out time, route and number of vehicles with the person in charge in advance. Meeting rooms are open 9:00-20:30, and when there is load-in or load-out, a designated \"work notification\" form must be submitted. Packages for meeting rooms are accepted as parcel delivery from 3 days before use (Japan Post's Yu-Pack is not accepted). (Source: Exhibition Hall Terms of Use revised July 2026, Exhibition Hall FAQ, Meeting Room Terms of Use revised April 2025)",
+  "vehicleRules": "The loading area is not a parking lot; leave as soon as loading and unloading is finished. Only cargo vehicles may enter the loading area; passenger cars and wagons up to 2.1 m high are parked in the general parking lot on B2 and B3 and the goods are carried by the passenger/cargo elevator (the general passenger elevators cannot be used). When the loading area is congested, the user places traffic staff or security guards (the designated company RSC). The loading areas for Exhibition Hall A are the North Loading Area (to B1 from the East Entrance; vehicle limits 3.5 m high, 2.5 m wide, 8.6 m long) and the South Loading Area (to B1 from the South A Entrance; 2.8 m high, 2.5 m wide, 6.0 m long), and the parking spaces for unloading are 9 spaces and 10 spaces for 2-ton trucks (up to 2.8 m high) and 6 spaces for 4-ton trucks (up to 3.5 m high). Parking fees apply at the loading area, but for applicants, the parking fee for load-in/out vehicles is free for 1 hour (apply in advance for the \"Special Loading Area Ticket for Event Load-in/out (1 hour)\"). The loading area for Exhibition Halls B and C is directly connected to the Shuto Expressway (Bunka Kaikan Building 3F); the access route is limited to the expressway, a set fee applies, and the vehicle height limit is 3.6 m (3.3 m in some parts). Exhibition Hall D is entered through the bus terminal on the 1F of the Bunka Kaikan Building, with a vehicle height limit of 3.8 m. (Source: Exhibition Hall Terms of Use revised July 2026, Exhibition Hall Basic Specifications)",
+  "parking": "There is a parking lot for 1,800 vehicles on B2 and B3, open 24 hours. Fees are 400 yen per 30 minutes for 0 to 6 hours and 4,800 yen for 6 to 24 hours, and the same fee structure repeats after 24 hours. Parking tickets that can be paid later are also sold. It is not a space reserved for exhibition hall users. There are no parking service tickets with meeting room use, but visitor parking tickets can be issued and billed afterward according to the time of use. (Source: Exhibition Hall Terms of Use revised July 2026, Exhibition Hall FAQ, Meeting Room FAQ)",
+  "waitingRooms": "The offices attached to the exhibition halls are rented by the day, and the usage fee is 15,000 to 55,000 yen (excluding tax). Exhibition Hall A has the A-1 office 30㎡, A-2 office 30㎡, A-3 office 45㎡ and the VIP room 94㎡ (55,000 yen); B has the B-1 office 30㎡ (4F), B-2 office 30㎡ and B-3 office 72㎡ (5F); C has the C-1 office 52㎡ and C-2 office 54㎡; D has the D-1 office 25㎡, D-2 office 22㎡ and D-3 office 16㎡. The offices come with long tables, chairs, whiteboards and the like. (Source: Exhibition Hall Price List as of February 2026)",
+  "catering": "For exhibition hall lunch boxes and catering, use the designated company Sunshine Enterprises (application deadline 2 weeks before); if an outside vendor is used, a bring-in fee (10% of the order amount) applies. For tasting, sampling, cooking or selling food and drink inside an exhibition hall, consult the Toshima City Public Health Center in advance. In meeting rooms, bringing in (distributing) food and drink is not allowed, and arranging vendors other than the designated one is not allowed either. Lunch boxes, plastic bottles and coffee are ordered with an order form by 7 days before. For receptions and parties after a meeting or seminar, catering can be ordered from 30 standing guests, basically for 2 hours, and the party room fee after using a meeting room is free (party-only use is not allowed). (Source: Exhibition Hall Terms of Use revised July 2026, Meeting Room Terms of Use revised April 2025, Meeting Room Catering page)",
+  "restaurants": "The Exhibition Hall Terms of Use state that the aquarium and the restaurants in the facility can be used as party venues (ask the person in charge for details), and the facility sells a \"common dining voucher\" (500 yen ticket) that can be used at the restaurants in the facility. For meeting rooms, a \"Meeting & Reception Plan\" is introduced, which combines a private-party rental of Sunshine Aquarium (limited period) with the party plan of Sunshine Cruise Cruise. (Source: Exhibition Hall Terms of Use revised July 2026, Meeting Room Catering page)"
+ },
+ "documents": [
+  {
+   "title": "Exhibition Hall Terms of Use (revised July 2026)"
+  },
+  {
+   "title": "Exhibition Hall Price List (as of February 2026)"
+  },
+  {
+   "title": "Exhibition Hall Basic Specifications and Load-in/out Routes to the Venue (A-D)"
+  },
+  {
+   "title": "Exhibition Hall A Drawings (floor plan, ceiling plan, electrical equipment)"
+  },
+  {
+   "title": "Exhibition Hall B Drawings (floor plan, ceiling plan, electrical equipment)"
+  },
+  {
+   "title": "Exhibition Hall C Drawings (floor plan, ceiling plan, electrical equipment)"
+  },
+  {
+   "title": "Exhibition Hall D Drawings (floor plan, ceiling plan, electrical equipment)"
+  },
+  {
+   "title": "Guide to Event Signage"
+  },
+  {
+   "title": "Access Map (Exhibition Halls)"
+  },
+  {
+   "title": "Applying for a Temporary Line (from February 2026)"
+  },
+  {
+   "title": "Meeting Room Terms of Use (revised April 2025)"
+  },
+  {
+   "title": "Meeting Room Capacity, Facilities and Services List (October 2023)"
+  },
+  {
+   "title": "Meeting Room Price List"
+  },
+  {
+   "title": "Meeting Room Detailed Floor Plans (Conference Rooms)"
+  },
+  {
+   "title": "Meeting Room Detailed Floor Plans (Special Hall)"
+  },
+  {
+   "title": "Meeting Room Internet Connection Service Details"
+  },
+  {
+   "title": "Meeting Room Application Form"
+  },
+  {
+   "title": "Fountain Plaza Venue Usage Rules (July 2026)"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "FamilyMart Sunshine City alpa B1",
+    "hours": "7:00-23:00",
+    "note": "Distance is calculated from the store's official location. Inside Sunshine City (an in-facility store; distance is measured from the center of the block)."
+   },
+   {
+    "name": "FamilyMart Sunshine Minami",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the store's official location. The actual walking distance is about 486 m."
+   },
+   {
+    "name": "FamilyMart Higashi-Ikebukuro",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the store's official location."
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "Accea Higashi-Ikebukuro",
+    "hours": "Weekdays 9:00-20:00, Sat 10:00-19:00 / Closed Sun & holidays",
+    "note": "Distance is calculated from the address location. The actual walking distance is about 528 m."
+   },
+   {
+    "name": "Kinko's Ikebukuro East Exit",
+    "hours": "Weekdays 10:00-18:00 / Closed Sat, Sun & holidays",
+    "note": "Distance is calculated from the address location. The actual walking distance is about 605 m."
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "3COINS Ikebukuro Sunshine City",
+    "hours": "10:00-20:00",
+    "note": "Distance is calculated from the store's official location. Inside Sunshine City (an in-facility store; distance is measured from the center of the block)."
+   },
+   {
+    "name": "Seria Ikebukuro Sunshine City ALTA",
+    "hours": "Mon-Sun 11:00-20:00",
+    "note": "Distance is calculated from the store's official location. Inside Sunshine City (an in-facility store; distance is measured from the center of the block)."
+   }
+  ],
+  "donki": [
+   {
+    "name": "Don Quijote Ikebukuro East Exit Ekimae",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. The store name on the official Don Quijote website is \"Ikebukuro East Exit Ekimae\" (池袋東口駅前店). The actual walking distance is about 835 m."
+   },
+   {
+    "name": "Don Quijote Ikebukuro Station West Exit",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. The store name on the official Don Quijote website is \"Ikebukuro Station West Exit\" (池袋駅西口店). The actual walking distance is about 1,194 m."
+   }
+  ]
+ },
+ "photoCredit": "© Morio / CC BY-SA 3.0 · Wikimedia Commons"
+}

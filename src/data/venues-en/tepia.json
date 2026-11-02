@@ -1,0 +1,143 @@
+{
+ "slug": "tepia",
+ "name": "TEPIA",
+ "address": "Tokyo 107-0061 2-8-44 Kita-Aoyama, Minato-ku, Tokyo",
+ "accessSummary": "Gaienmae Station (Tokyo Metro Ginza Line) Exit 2b: 4 min walk / Aoyama-itchome Station (Toei Oedo Line): 9 min walk / Kokuritsu-Kyogijo Station (Toei Oedo Line): 11 min walk / JR Sendagaya Station and Shinanomachi Station: 14 min walk",
+ "hours": "The Exhibition Hall fee is for full-day use, 9:00-18:00. TEPIA Hall and the meeting rooms are 9:00-21:00 (morning 9:00-12:00 / afternoon 13:00-17:00 / evening 18:00-21:00), and usage time includes setup and cleanup time. Inquiries are accepted 10:00-16:00 (excluding Saturdays, Sundays and holidays). (Price list revised August 1, 2025)",
+ "notice": "Applications are accepted from 1 year before the date of use for TEPIA Hall and the Exhibition Hall, and from 6 months before for the meeting rooms. Use for the purpose of direct sales of products is not accepted unless approved by the Association. The site and the entire building are non-smoking.",
+ "rooms": [
+  {
+   "name": "Exhibition Hall (entire hall)",
+   "note": "3F. L-shaped; it can be divided into 3 sections, A, B and C, by movable partition walls. The area includes the 135㎡ common space."
+  },
+  {
+   "name": "Exhibition Hall A+B",
+   "note": "Excludes the 135㎡ common space. The floor plan states a ceiling height of 3,735 mm and a height limit of 3,200 mm for creative works."
+  },
+  {
+   "name": "Exhibition Hall C",
+   "note": "Use of this one section only."
+  },
+  {
+   "name": "TEPIA Hall",
+   "note": "4F. Classroom layout is 3 per desk. The fee includes the 170㎡ foyer. Equipped with a 257-inch screen (projection size 240 inches) and a 7,000 lm projector."
+  },
+  {
+   "name": "B1F Meeting Room A",
+   "note": "Classroom layout is 3 per desk. Has its own waiting room."
+  },
+  {
+   "name": "B1F Meeting Room B",
+   "note": "Classroom layout is 3 per desk."
+  },
+  {
+   "name": "B1F Meeting Room C",
+   "note": "Classroom layout is 3 per desk."
+  }
+ ],
+ "ops": {
+  "prevDaySetup": "When the venue is used for setup and teardown, the usage fee is 70% of the regular fee (applies only to 2 days each for setup and teardown). If setup and teardown fall on the same day as the event, the regular fee applies.",
+  "loadingHours": "For the Exhibition Hall there are 2 large load-in and load-out elevators with direct access to each floor: the 3.5 t one (W3,000 x D3,500 x H2,930 mm) serves B2-3F, and the 3.0 t one (W2,350 x D3,000 x H2,930 mm) serves B1-4F. Load-in and load-out dates, routes and places follow the instructions specified in the advance meeting, and the building and facilities must be protected by covering them. The facility usage plan and the equipment use application are due 10 days before the use date, and a detailed meeting is held about 1 month before the start of use.",
+  "vehicleRules": "Vehicles that can enter the load-in and load-out entrance are limited to 4-ton trucks. The load-in and load-out times, routes, places and number of vehicles are discussed with staff in advance, and the \"Load-in/Load-out Parking Permit\" is submitted at that meeting.",
+  "parking": "There is a paid parking lot for standard-size cars.",
+  "waitingRooms": "B1F Meeting Room A has its own waiting room, and a waiting room set (1 table, 1 two-seat sofa, 2 armchairs) can be used free of charge. The Exhibition Hall also has a waiting room set (1 table, 5 chairs) as a rental item.",
+  "catering": "The catering service for TEPIA Hall is currently suspended; if you want to hold a reception in the foyer, consult the venue. Bringing in food and drink from outside is also stated to be a matter for consultation."
+ },
+ "documents": [
+  {
+   "title": "Exhibition Hall, TEPIA Hall and Meeting Room Price List (revised August 1, 2025)"
+  },
+  {
+   "title": "Exhibition Hall Floor Plan (1/200)"
+  },
+  {
+   "title": "TEPIA Hall Drawing (classroom layout)"
+  },
+  {
+   "title": "TEPIA Hall Drawing (theater layout)"
+  },
+  {
+   "title": "B1F Meeting Room A Drawing (classroom layout)"
+  },
+  {
+   "title": "B1F Meeting Room A Drawing (theater layout)"
+  },
+  {
+   "title": "B1F Meeting Room B Drawing (classroom layout)"
+  },
+  {
+   "title": "B1F Meeting Room B Drawing (theater layout)"
+  },
+  {
+   "title": "B1F Meeting Room C Drawing (classroom layout)"
+  },
+  {
+   "title": "B1F Meeting Room C Drawing (theater layout)"
+  },
+  {
+   "title": "Venue Equipment and Rental Equipment List (page)"
+  },
+  {
+   "title": "Usage Regulations (page)"
+  },
+  {
+   "title": "Usage Flow (page)"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "FamilyMart Jingu Stadium-dori",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "7-Eleven Gaienmae Ekimae",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "FamilyMart Kita-Aoyama 2-chome",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location."
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "Accea Gaienmae",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Accea Omotesando",
+    "hours": "Weekdays 9:00-20:00 / Closed Sat, Sun & holidays",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Can Do Atre Shinanomachi",
+    "hours": "Daily 10:00-21:00",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "3COINS Harajuku Main Store",
+    "hours": "11:00-20:00",
+    "note": "Distance is calculated from the official store location. Rather far."
+   }
+  ],
+  "donki": [
+   {
+    "name": "Picasso Akasaka (Don Quijote)",
+    "hours": "7:00-3:00",
+    "note": "Distance is calculated from the address location. A different store format from Don Quijote (the official site lists the store name as \"Picasso Akasaka\"). Far."
+   },
+   {
+    "name": "Don Quijote Roppongi",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. The store name on the Don Quijote official website is \"Roppongi\" (六本木店). Far."
+   }
+  ]
+ },
+ "photoCredit": "© Wiiii / CC BY-SA 3.0 · Wikimedia Commons"
+}
