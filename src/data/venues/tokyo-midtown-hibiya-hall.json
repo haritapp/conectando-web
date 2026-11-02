@@ -1,0 +1,359 @@
+{
+ "slug": "tokyo-midtown-hibiya-hall",
+ "nameJa": "東京ミッドタウン日比谷 ホール＆カンファレンス",
+ "nameEn": "Tokyo Midtown Hibiya Hall & Conference",
+ "type": "conference",
+ "area": "yurakucho-ginza-venues",
+ "address": "〒100-0006 東京都千代田区有楽町1-1-2",
+ "officialUrl": "https://www.hibiya.tokyo-midtown.com/jp/hall-conference/",
+ "organizerUrl": "https://www.hibiya.tokyo-midtown.com/jp/hall-conference/download/",
+ "bizintokyoSlug": "midtown_hibiya",
+ "accessSummary": "東京メトロ千代田線・日比谷線、都営三田線「日比谷」駅直結／東京メトロ有楽町線「有楽町」駅直結（徒歩4分）／東京メトロ丸の内線・日比谷線・銀座線「銀座」駅直結（徒歩5分）／JR山手線・京浜東北線「有楽町」駅 徒歩5分",
+ "notice": null,
+ "hours": "基本貸出時間 9:00〜21:00（前後2時間まで延長可）",
+ "rooms": [
+  {
+   "name": "6F HALL1",
+   "areaM2": 300,
+   "ceilingM": 4.2,
+   "theater": 360,
+   "school": 180,
+   "ushape": null,
+   "standing": 150,
+   "banquet": null,
+   "note": "単独利用。基本貸出時間は9:00〜21:00。"
+  },
+  {
+   "name": "6F HALL2",
+   "areaM2": 189,
+   "ceilingM": 4.2,
+   "theater": 180,
+   "school": 120,
+   "ushape": null,
+   "standing": 95,
+   "banquet": null,
+   "note": "単独利用。"
+  },
+  {
+   "name": "6F HALL3",
+   "areaM2": 199,
+   "ceilingM": 4.2,
+   "theater": 180,
+   "school": 90,
+   "ushape": null,
+   "standing": 100,
+   "banquet": null,
+   "note": "HALL面積は199㎡で、HALL3-2エリア（VIPルーム2室〔27㎡/26㎡〕、LOUNGE 79㎡、テラス85㎡）が付く。この付帯エリアを含む全体面積は331㎡。"
+  },
+  {
+   "name": "6F HALL1+2（エリア利用。クローク・ホワイエ・KITCHEN・厨房含む）",
+   "areaM2": 489,
+   "ceilingM": 4.2,
+   "theater": 432,
+   "school": 270,
+   "ushape": null,
+   "standing": 245,
+   "banquet": null,
+   "note": "全体面積803㎡（クローク21㎡、KITCHEN 83㎡、厨房12㎡、ホワイエ185㎡、控室3部屋〔45㎡/34㎡/22㎡〕を含む）。立食はKITCHENとホワイエを含めると379名。壁面への大規模プロジェクション演出ができるプロジェクターを備える。レイアウト図面ではスクール264席（縦）・243席（横）の表記もある。HALL3前のホワイエは使えない。"
+  },
+  {
+   "name": "6F HALL1+2+3（全エリア。クローク・ホワイエ・KITCHEN・厨房含む）",
+   "areaM2": 767,
+   "ceilingM": 4.2,
+   "theater": 760,
+   "school": 438,
+   "ushape": null,
+   "standing": 384,
+   "banquet": null,
+   "note": "料金表のHALL面積は688㎡で、スペック欄の面積は767㎡。全体面積は1,262㎡（クローク21㎡、KITCHEN 83㎡、ホワイエ228㎡、厨房12㎡、控室3部屋、HALL3-2エリアを含む）。立食はKITCHENとホワイエを含めると540名。ご利用案内（2026/7/1）の会場案内ページでは立食387名の表記もある。"
+  },
+  {
+   "name": "6F KITCHEN+ホワイエ",
+   "areaM2": 311,
+   "ceilingM": "2.9-3.8",
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": 158,
+   "banquet": null,
+   "note": "本格的な厨房設備を備える。厨房12㎡、クローク21㎡と13㎡が別にある。立食158名。"
+  },
+  {
+   "name": "7F バンケットルーム",
+   "areaM2": 76,
+   "ceilingM": 3.8,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": 38,
+   "banquet": null,
+   "note": "パントリー付き。アイランド形式32名。館内のホール・カンファレンスとの連動利用やゲスト控室としても使える。"
+  },
+  {
+   "name": "8F ROOM1",
+   "areaM2": 134,
+   "ceilingM": 3.8,
+   "theater": 98,
+   "school": 72,
+   "ushape": null,
+   "standing": 67,
+   "banquet": null,
+   "note": "通路側。ROOM1・2は分割利用ができる。"
+  },
+  {
+   "name": "8F ROOM2",
+   "areaM2": 167,
+   "ceilingM": 3.8,
+   "theater": 98,
+   "school": 72,
+   "ushape": null,
+   "standing": 84,
+   "banquet": null,
+   "note": "窓側。"
+  },
+  {
+   "name": "8F ROOM1+2（ホワイエ・ウェイティングルーム含む）",
+   "areaM2": 301,
+   "ceilingM": 3.8,
+   "theater": 196,
+   "school": 144,
+   "ushape": null,
+   "standing": 150,
+   "banquet": null,
+   "note": "全体面積401㎡（ホワイエ100㎡を含む）。スクール144席は3名掛けで、2名掛けは96席（レイアウト図面）。ROOM3〜5前のホワイエは使えない。"
+  },
+  {
+   "name": "8F ROOM3・ROOM4・ROOM5（各）",
+   "areaM2": 27,
+   "ceilingM": 3.0,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "アイランド形式12名。控室やミーティングに使う小部屋で、モニター・スピーカーマイク・ホワイトボード・姿見を備える。"
+  },
+  {
+   "name": "8F ROOM4+5（連結）",
+   "areaM2": 54,
+   "ceilingM": 3.0,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "ROOM4と5を連結して使える。公式の収容人数は30名（レイアウトの形式の表記はない）。レイアウト図面のスクール形式は24席。"
+  },
+  {
+   "name": "8F ROOM1〜5（全エリア。ホワイエ・ウェイティングルーム含む）",
+   "areaM2": 382,
+   "ceilingM": 3.8,
+   "theater": 196,
+   "school": 144,
+   "ushape": null,
+   "standing": 150,
+   "banquet": null,
+   "note": "全体面積527㎡（ホワイエ145㎡を含む）。"
+  },
+  {
+   "name": "9F ROOM6",
+   "areaM2": 181,
+   "ceilingM": 3.8,
+   "theater": 102,
+   "school": 40,
+   "ushape": null,
+   "standing": 91,
+   "banquet": null,
+   "note": "ガラス張りのオープンスペース。"
+  }
+ ],
+ "roomsSource": "https://www.hibiya.tokyo-midtown.com/jp/hall-conference/list/",
+ "ops": {
+  "prevDaySetup": {
+   "text": "本番日の前日以前の搬入・設営・リハーサルと、本番日の翌日以降の撤去は室料の30％割引で、連日利用の割引はない。基本貸出時間は9:00〜21:00で、前後2時間まで延長できる。時間利用の最低利用時間は5時間。予約時間内に退出を確認できないと延長利用料金を請求されることがある。荷物の事前受け取りはご利用日前日の午前着の指定が原則で、土日祝・月曜開催のときは平日着の指定にする。（出典：ご利用案内 2026/7/1版 P.18・P.71・P.75・P.78）",
+   "source": "https://www.hibiya.tokyo-midtown.com/assets/pdf/hall-conference/download/user_guide.pdf#page=18"
+  },
+  "loadingHours": {
+   "text": "館内配送センター（B2F）の受付は毎日8:00〜20:00で、それ以外の時間は会場スタッフに連絡する。長尺物（一辺2mまたは三辺合計2.5m以上）・1個100kg以上の重量物、および荷捌きに30分以上かかる作業は搬出入申請書が必要（長尺物・重量物は養生計画も提出）で、搬入日の5営業日前までに会場スタッフへ提出する（ご留意事項のページには施設利用開始日の1週間前までとの記載もある）。業務用備品の納品など30分未満の搬出入は申請不要で、搬入車でB2Fの館内配送センターへ行き『臨時搬出入申請書』を記入、通行カードとエアタイヤ台車を借りて30分以内に済ませる。搬出入用エレベーターは荷物用K1（扉2,600×1,600mm、かご2,500×2,300×高さ3,400mm〔一部〕、積載2,950kg）と作業員用K2（扉2,600×1,000mm、かご1,600×1,650×高さ3,000mm、積載1,150kg）で、占有はできない。床の積載荷重は250kg/㎡。（出典：ご利用案内 2026/7/1版 P.21・P.45〜P.47・P.75・P.78）",
+   "source": "https://www.hibiya.tokyo-midtown.com/assets/pdf/hall-conference/download/user_guide.pdf#page=45"
+  },
+  "vehicleRules": {
+   "text": "搬出入車両は日比谷通り側の出入口から入る。入場できるのは一般的な2tロング車まで（全長6,400×全幅2,200×高さ3,300mm）で、B2Fの荷捌き駐車場の車室は大（7,700×3,000×高さ3,300mm）と中（5,000×2,300×高さ3,300mm）。B1Fの荷捌き駐車場は商業店舗用で使えない。申請不要の搬出入は30分以内で、30分を超えると荷捌き係員から作業責任者に連絡があり荷捌き所から退場になる。申請ありの搬出入は30分ごとに400円の駐車料金がかかる（上限なし）。作業員用の駐車場はなく、ビル外周の道路への駐車（入場待ちを含む）とトラック間の荷物の載せ替えは禁止。（出典：ご利用案内 2026/7/1版 P.43・P.45・P.46・P.48）",
+   "source": "https://www.hibiya.tokyo-midtown.com/assets/pdf/hall-conference/download/user_guide.pdf#page=48"
+  },
+  "parking": {
+   "text": "地下3階の時間貸駐車場（平面式と機械式）が約200台で、営業は6:00〜26:00（営業時間外は入出庫不可）、料金は車400円/30分・バイク250円/1時間。機械式は普通車が全長5,300×全幅1,900×全高1,550mm・最大重量2,300kg、ハイルーフ車は全高2,050mm。平面式は普通車5,300×2,500mm、小型車5,000×2,300mm、身障者用6,000×3,500mm、全高はいずれも2,100mmで、身障者用（平面式）は2台ある。利用者・来場者向けに事前の駐車スペース確保はなく、割引もない。駐車券は施設で販売しており、必要枚数を事前に会場スタッフへ伝える。（出典：ご利用案内 2026/7/1版 P.42・P.78）",
+   "source": "https://www.hibiya.tokyo-midtown.com/assets/pdf/hall-conference/download/user_guide.pdf#page=42"
+  },
+  "waitingRooms": {
+   "text": "HALL1+2・HALL1+2+3のエリア利用には、控室3部屋（45㎡/34㎡/22㎡）とクロークが付く。HALL3にはHALL3-2エリア（VIPルーム2室〔27㎡/26㎡〕、LOUNGE 79㎡、テラス85㎡）が付帯する。8FのROOM1+2・ROOM1〜5のエリア利用にはウェイティングルームが含まれる。ROOM3/4/5は各27㎡（ROOM4+5は連結して54㎡）で、公式は登壇ゲストや運営スタッフの控室としても使えるとしている。7Fのバンケットルーム（76㎡、パントリー付き）もゲスト控室として使える。（出典：料金＆スペックページ、トップページ、ご利用案内 2026/7/1版 P.18）",
+   "source": "https://www.hibiya.tokyo-midtown.com/jp/hall-conference/list/"
+  },
+  "catering": {
+   "text": "ケータリングは、利用者が会場提携のケータリング会社へ直接発注し、支払いもイベント後にその会社へ直接行う。パーティ用の提携会社は帝国ホテル、日比谷松本楼、グレイス、ダイナック、アポルテ、エスプリ＆コー、ケータリングおり原、サンケイ会館、CBSケータリング、ゆしま扇、LOYCE CATERING、DEAN&DELUCA、ニラックス、フォリクラッセ、Party Maker、お弁当のみの会社は下鴨茶寮、とんかつ まい泉、なだ万、崎陽軒、京料理 美濃吉。例として帝国ホテルは20名以上、ブッフェのお料理単価8,000円〜、締切は30日前（土日祝除く）。会場にゴミ箱はなく、回収をケータリング会社に依頼する。ベジタリアン・ハラール対応は相談でき、ハラール食材は使えるが専用キッチン・専用調理機材での対応はできない。料飲を持ち込む場合は利用内容を会場スタッフに知らせる。6F KITCHENを使うときは衛生管理調査表を提出する。（出典：ご利用案内 2026/7/1版 P.21・P.35〜P.41）",
+   "source": "https://www.hibiya.tokyo-midtown.com/assets/pdf/hall-conference/download/user_guide.pdf#page=35"
+  },
+  "restaurants": {
+   "text": "東京ミッドタウン日比谷のレストラン＆フード一覧には、和食13、中華1、イタリアン・フレンチ・洋食13、アジアン・エスニック3、バー1、カフェ・スイーツ12、デリ・ベーカリー2、コンビニ1の店舗が掲載されている（B1〜7F、レストランの営業は11:00〜23:00）。ホール＆カンファレンスの公式ページは、館内のショップ・レストラン・カフェやTOHOシネマズ日比谷により、来場者の1日の滞在価値を高められるとしている。",
+   "source": "https://www.hibiya.tokyo-midtown.com/jp/restaurants/"
+  }
+ },
+ "documents": [
+  {
+   "title": "ご利用案内（2026/7/1版）",
+   "url": "https://www.hibiya.tokyo-midtown.com/assets/pdf/hall-conference/download/user_guide.pdf"
+  },
+  {
+   "title": "会場図面",
+   "url": "https://www.hibiya.tokyo-midtown.com/assets/pdf/hall-conference/download/venue_drawing.pdf"
+  },
+  {
+   "title": "サンプルレイアウト",
+   "url": "https://www.hibiya.tokyo-midtown.com/assets/pdf/hall-conference/download/layout_drawing.pdf"
+  },
+  {
+   "title": "旧料金表（2026年11月30日利用分まで適用、2024年1月現在）",
+   "url": "https://www.hibiya.tokyo-midtown.com/assets/pdf/hall-conference/download/old_pricelist.pdf"
+  },
+  {
+   "title": "無料付帯機材リスト（ご利用案内 P.22、2026/7/1版）",
+   "url": "https://www.hibiya.tokyo-midtown.com/assets/pdf/hall-conference/download/user_guide.pdf#page=22"
+  },
+  {
+   "title": "無料付帯備品リスト（ご利用案内 P.25、2026/7/1版）",
+   "url": "https://www.hibiya.tokyo-midtown.com/assets/pdf/hall-conference/download/user_guide.pdf#page=25"
+  },
+  {
+   "title": "ご利用の流れ（ご利用案内 P.19、2026/7/1版）",
+   "url": "https://www.hibiya.tokyo-midtown.com/assets/pdf/hall-conference/download/user_guide.pdf#page=19"
+  },
+  {
+   "title": "搬入出に関するご案内（ご利用案内 P.45、2026/7/1版）",
+   "url": "https://www.hibiya.tokyo-midtown.com/assets/pdf/hall-conference/download/user_guide.pdf#page=45"
+  },
+  {
+   "title": "サインスタンド・誘導員配置に関するご案内（ご利用案内 P.57、2026/7/1版）",
+   "url": "https://www.hibiya.tokyo-midtown.com/assets/pdf/hall-conference/download/user_guide.pdf#page=57"
+  }
+ ],
+ "checkedAt": "2026-11-02",
+ "lat": 35.674088,
+ "lng": 139.759552,
+ "nearby": {
+  "convenience": [
+   {
+    "name": "セブン-イレブン 東京ミッドタウン日比谷店",
+    "brand": "セブン-イレブン",
+    "distanceM": 58,
+    "walkMin": 1,
+    "hours": "6:00-23:00（月〜日・祝）",
+    "address": "東京都千代田区有楽町1丁目1-4",
+    "verified": true,
+    "source": "https://seven-eleven.areamarker.com/711map/info/428791",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "セブン-イレブン 日比谷駅前店",
+    "brand": "セブン-イレブン",
+    "distanceM": 99,
+    "walkMin": 2,
+    "hours": "24時間営業",
+    "address": "東京都千代田区有楽町1-6-3",
+    "verified": true,
+    "source": "https://seven-eleven.areamarker.com/711map/info/284954",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "ファミリーマート 日比谷シャンテ前店",
+    "brand": "ファミリーマート",
+    "distanceM": 126,
+    "walkMin": 2,
+    "hours": "24時間営業",
+    "address": "東京都千代田区有楽町1丁目2-5",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/20224",
+    "note": "距離は公式の店舗位置で計算"
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "アクセア 銀座ファイブ店",
+    "brand": "アクセア",
+    "distanceM": 270,
+    "walkMin": 4,
+    "hours": "平日 10:00-20:00／土・日・祝 休み",
+    "address": "東京都中央区銀座5-1 銀座ファイブ2F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/entry.html",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "アクセア 新橋駅銀座口店",
+    "brand": "アクセア",
+    "distanceM": 788,
+    "walkMin": 10,
+    "hours": "月曜8:00〜土曜19:00 休まず営業／日・祝 10:00-19:00",
+    "address": "東京都港区新橋2-18-9 第3光和ビル3F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/entry.html",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "3COINS +plus 西銀座デパート店",
+    "brand": "3COINS",
+    "distanceM": 371,
+    "walkMin": 5,
+    "hours": "11:00-20:00",
+    "address": "東京都中央区銀座4-1 西銀座デパート2F",
+    "verified": true,
+    "source": "https://palcloset.storelocator.jp/detail/2263",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "DAISO マロニエゲート銀座店",
+    "brand": "ダイソー",
+    "distanceM": 507,
+    "walkMin": 7,
+    "hours": "11:00-21:00",
+    "address": "東京都中央区銀座3-2-1 マロニエゲート銀座2 6階",
+    "verified": true,
+    "source": "https://www.daiso-sangyo.co.jp/shop/detail/009168",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "donki": [
+   {
+    "name": "ドン・キホーテ 銀座本館（銀座ナイン3号館）",
+    "brand": "ドン・キホーテ",
+    "distanceM": 744,
+    "walkMin": 10,
+    "hours": "24時間営業",
+    "address": "東京都中央区銀座8-10 銀座ナイン3号館",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=92",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "ピカソ赤坂店（ドン・キホーテ）",
+    "brand": "ドン・キホーテ",
+    "distanceM": 2009,
+    "walkMin": 26,
+    "hours": "7:00-3:00",
+    "address": "東京都港区赤坂3-11-14",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=289",
+    "note": "距離は住所の位置で計算。ドン・キホーテの別業態（公式サイトの店舗名は「ピカソ赤坂店」）。遠い"
+   }
+  ]
+ },
+ "drinkDelivery": {
+  "available": true
+ },
+ "photo": {
+  "src": "/images/venues/tokyo-midtown-hibiya-hall.jpg",
+  "credit": "© Charlie fong / CC BY-SA 4.0 · Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tokyo_Midtown_Hibiya_West_Facede.jpg"
+ }
+}

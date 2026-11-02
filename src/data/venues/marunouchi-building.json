@@ -1,0 +1,333 @@
+{
+ "slug": "marunouchi-building",
+ "nameJa": "丸ビルホール＆コンファレンススクエア",
+ "nameEn": "Marunouchi Building Hall & Conference Square",
+ "type": "conference",
+ "area": "marunouchi-nihonbashi-venues",
+ "address": "〒100-6307 東京都千代田区丸の内2丁目4-1 丸ビル 7F・8F",
+ "officialUrl": "https://www.marunouchi-h-c.jp/",
+ "organizerUrl": "https://www.marunouchi-h-c.jp/building/1/hall",
+ "bizintokyoSlug": "marunouchi_building",
+ "accessSummary": "JR東京駅 丸の内南口 徒歩約1分／東京メトロ丸ノ内線 東京駅 地下道直結 徒歩約3分／東京メトロ千代田線 二重橋前駅 直結 徒歩約4分／都営三田線 大手町駅 直結 徒歩約10分／東京メトロ東西線 大手町駅 直結 徒歩約11分",
+ "notice": null,
+ "hours": "丸ビルホール 9:00〜22:00（終日貸し）／コンファレンススクエア 9:00〜21:00",
+ "rooms": [
+  {
+   "name": "7F 丸ビルホール",
+   "areaM2": 400,
+   "ceilingM": 6.5,
+   "theater": 399,
+   "school": 240,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "幅13m×奥行28.5m。シアターは平土間（スタッキングチェア）で399席。電動移動客席（階段状）の場合は314席（ロールバックチェア234席＋スタッキングチェア80席）。スクールは平土間の3人掛けで240席。昇降ステージ（最大600mm）あり。室料に控室3室・利用者事務室・昇降式ステージ・電動移動客席・パントリー・給湯室・空調を含む。"
+  },
+  {
+   "name": "7F ホワイエ",
+   "areaM2": 200,
+   "ceilingM": 2.8,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "幅13m×奥行15m。受付やレセプションパーティの併催に使える。バーカウンターあり。"
+  },
+  {
+   "name": "8F Room1",
+   "areaM2": 80,
+   "ceilingM": 3.0,
+   "theater": 42,
+   "school": 30,
+   "ushape": 24,
+   "standing": null,
+   "banquet": null,
+   "note": "最低利用時間4時間"
+  },
+  {
+   "name": "8F Room2",
+   "areaM2": 100,
+   "ceilingM": 3.0,
+   "theater": 49,
+   "school": 40,
+   "ushape": 28,
+   "standing": null,
+   "banquet": null,
+   "note": "最低利用時間4時間"
+  },
+  {
+   "name": "8F Room3",
+   "areaM2": 90,
+   "ceilingM": 3.0,
+   "theater": 35,
+   "school": 30,
+   "ushape": 24,
+   "standing": null,
+   "banquet": null,
+   "note": "最低利用時間4時間"
+  },
+  {
+   "name": "8F Room4",
+   "areaM2": 200,
+   "ceilingM": 3.0,
+   "theater": 138,
+   "school": 102,
+   "ushape": 36,
+   "standing": null,
+   "banquet": null,
+   "note": "最低利用時間6時間"
+  },
+  {
+   "name": "8F Room5",
+   "areaM2": 46,
+   "ceilingM": 3.0,
+   "theater": 38,
+   "school": 30,
+   "ushape": 24,
+   "standing": null,
+   "banquet": null,
+   "note": "2026年10月1日から利用開始の新設の部屋。最低利用時間4時間"
+  },
+  {
+   "name": "8F Glass Room",
+   "areaM2": 30,
+   "ceilingM": 3.0,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "固定席12名。最低利用時間2時間"
+  }
+ ],
+ "roomsSource": "https://www.marunouchi-h-c.jp/_res/pdf/s1/conference/room/common/detail.pdf、https://www.marunouchi-h-c.jp/_res/pdf/s1/maru_building_all.pdf、https://www.marunouchi-h-c.jp/_res/pdf/s1/hall/room/layout.pdf",
+ "ops": {
+  "prevDaySetup": {
+   "text": "丸ビルホールの前日設営は9:00〜22:00に依頼している。その時間帯に他の利用が入っている場合は、特別に深夜設営（23:00〜翌9:00）の希望を受け付けている。営業時間外の貸出時間は7:00〜9:00と22:00〜23:00。設営・撤去日の室料は1日770,000円（計2日間まで・税別）で、一日利用（9:00〜22:00、設営・撤去時間を含む）の室料は990,000円（税別）。コンファレンススクエアの前日設営も9:00〜22:00で、営業時間外の貸出時間は8:00〜9:00と21:00〜23:00。（出典：よくあるご質問、丸ビルホール料金表 2026年10月改定）",
+   "source": "https://www.marunouchi-h-c.jp/building/1/hall"
+  },
+  "loadingHours": {
+   "text": "持込機材・什器は丸ビル地下2階から搬入する。搬入エレベーターは当施設の専用ではない。エレベーターの開口はW1450×H2400mm（カゴ内W1900×H2650×D1550mm）、耐荷重1200kg。利用の1週間前までに所定の作業届と搬入出の車両情報を提出する（よくあるご質問）。利用規則には、利用前の打合せで作業届が必要と判断された場合は利用日の4営業日前までに提出、台車での搬出入は貨物エレベーターを使うとある。7Fのホールには搬入出エレベーターがある（平面図）。（出典：よくあるご質問、ホール利用規則 2025年4月1日改訂、丸ビルホール平面図）",
+   "source": "https://www.marunouchi-h-c.jp/building/1/hall"
+  },
+  "vehicleRules": {
+   "text": "搬入エレベーター前の荷さばき場に駐車できる車両は、車高2.9m以下・車長6.0m以下・車幅1.8m以下。車両を使って搬出入するときは所定の作業届出書を提出する。（出典：よくあるご質問、ホール利用規則 2025年4月1日改訂）",
+   "source": "https://www.marunouchi-h-c.jp/building/1/hall"
+  },
+  "parking": {
+   "text": "丸ビル地下2階の駐車場を使う。台数に限りがあり、丸ビルホール＆コンファレンススクエアの利用による駐車料金の割引はない。1時間券を希望する場合は事前に申し出る。駐車場入口の車高制限は2.9m。パンフレット（2026年9月版）には、丸の内中央パーキング（丸ビルゾーン）が6:00〜24:00営業、収容409台、車高制限3.0m、基本料金30分ごとに400円、長時間サービスは3時間30分〜6時間まで2,800円とある。（出典：よくあるご質問、パンフレット 2026年9月版）",
+   "source": "https://www.marunouchi-h-c.jp/building/1/hall"
+  },
+  "waitingRooms": {
+   "text": "丸ビルホールの室料に控室3室と利用者事務室が含まれる。控室は①約13㎡、②③各約31㎡（天井高2.8m）。控室②③はパーテーションを外すと1室になる。（出典：パンフレット 2026年9月版、丸ビルホール料金表 2026年10月改定）",
+   "source": "https://www.marunouchi-h-c.jp/_res/pdf/s1/maru_building_all.pdf"
+  },
+  "catering": {
+   "text": "ケータリングを手配できる。飲み物（ペットボトル、カップ&ソーサー）や会議の弁当に対応し、原則として会場までの届けのみで、配膳は主催者が行う（配膳係は相談。パーティープランはサービス人件費を含む）。ケータリングの案内ページにはMARUDELIをはじめ8社のメニューがある。飲食の持込みは別途持込み料金がかかり、料金表では、施設で手配できる商品の持込みは断り、スタッフが特別に承認した場合のみ受け付けるとしている。持込み料金は懇親会パーティが会場参加者1名ごと800円、お弁当1個250円、お飲物（アルコール含む）1本250円、コーヒー・紅茶（ポット）1本1,000円（税別）。持込みの飲食品のごみは持ち帰る。（出典：よくあるご質問、ケータリングのページ、コンファレンススクエア料金表 特別対応 2026年4月改定）",
+   "source": "https://www.marunouchi-h-c.jp/building/1/hall"
+  }
+ },
+ "documents": [
+  {
+   "title": "丸ビルホール＆コンファレンススクエア パンフレット（2026年9月版）",
+   "url": "https://www.marunouchi-h-c.jp/_res/pdf/s1/maru_building_all.pdf"
+  },
+  {
+   "title": "丸ビルホール 料金・設備の詳細（2026年10月改定、備品料金表は2026年4月改定）",
+   "url": "https://www.marunouchi-h-c.jp/_res/pdf/s1/hall/room/detail.pdf"
+  },
+  {
+   "title": "丸ビルホール レイアウト図",
+   "url": "https://www.marunouchi-h-c.jp/_res/pdf/s1/hall/room/layout.pdf"
+  },
+  {
+   "title": "丸ビルホール 平面図",
+   "url": "https://www.marunouchi-h-c.jp/_res/pdf/s1/hall/common/floor.pdf"
+  },
+  {
+   "title": "丸ビルコンファレンススクエア 料金・設備の詳細（2026年10月改定、備品・特別対応料金表は2026年4月改定）",
+   "url": "https://www.marunouchi-h-c.jp/_res/pdf/s1/conference/room/common/detail.pdf"
+  },
+  {
+   "title": "丸ビルコンファレンススクエア Room1 レイアウト図",
+   "url": "https://www.marunouchi-h-c.jp/_res/pdf/s1/conference/room/room1/layout.pdf"
+  },
+  {
+   "title": "丸ビルコンファレンススクエア Room2 レイアウト図",
+   "url": "https://www.marunouchi-h-c.jp/_res/pdf/s1/conference/room/room2/layout.pdf"
+  },
+  {
+   "title": "丸ビルコンファレンススクエア Room3 レイアウト図",
+   "url": "https://www.marunouchi-h-c.jp/_res/pdf/s1/conference/room/room3/layout.pdf"
+  },
+  {
+   "title": "丸ビルコンファレンススクエア Room4 レイアウト図",
+   "url": "https://www.marunouchi-h-c.jp/_res/pdf/s1/conference/room/room4/layout.pdf"
+  },
+  {
+   "title": "丸ビルコンファレンススクエア Room5 レイアウト図",
+   "url": "https://www.marunouchi-h-c.jp/_res/pdf/s1/conference/room/room5/layout.pdf"
+  },
+  {
+   "title": "丸ビルコンファレンススクエア Glass Room レイアウト図",
+   "url": "https://www.marunouchi-h-c.jp/_res/pdf/s1/conference/room/glassroom/layout.pdf"
+  },
+  {
+   "title": "丸ビルホール利用申込書",
+   "url": "https://www.marunouchi-h-c.jp/_res/pdf/s1/hall/common/reference.pdf"
+  },
+  {
+   "title": "丸ビルホール 利用規約（2025年4月1日改訂）",
+   "url": "https://www.marunouchi-h-c.jp/building/1/hall/terms"
+  },
+  {
+   "title": "丸ビルコンファレンススクエア 利用規約",
+   "url": "https://www.marunouchi-h-c.jp/building/1/conference/terms"
+  },
+  {
+   "title": "お申し込み手順",
+   "url": "https://www.marunouchi-h-c.jp/building/1/hall/application-flow"
+  },
+  {
+   "title": "オンライン配信プランのご案内",
+   "url": "https://www.marunouchi-h-c.jp/_res/pdf/s1/conference/common/online_streaming_plan.pdf"
+  },
+  {
+   "title": "アクセスマップ",
+   "url": "https://www.marunouchi-h-c.jp/_res/pdf/s1/access/accessmap_j.pdf"
+  },
+  {
+   "title": "ビル内アクセスマップ（フロアマップ）",
+   "url": "https://www.marunouchi-h-c.jp/_res/pdf/s1/access/floormap_j.pdf"
+  },
+  {
+   "title": "ケータリング",
+   "url": "https://www.marunouchi-h-c.jp/catering"
+  },
+  {
+   "title": "資料ダウンロード",
+   "url": "https://www.marunouchi-h-c.jp/document-download"
+  }
+ ],
+ "checkedAt": "2026-11-02",
+ "lat": 35.681046,
+ "lng": 139.763794,
+ "nearby": {
+  "convenience": [
+   {
+    "name": "ナチュラルローソン 丸の内ビルディング店",
+    "brand": "ナチュラルローソン",
+    "distanceM": 40,
+    "walkMin": 1,
+    "hours": "7:00-23:00",
+    "address": "東京都千代田区丸の内2-4-1",
+    "verified": true,
+    "source": "https://www.areamarker.com/lawson/info/170535",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "セブン-イレブン 新丸ビル店",
+    "brand": "セブン-イレブン",
+    "distanceM": 138,
+    "walkMin": 2,
+    "hours": "7:00-23:00（月〜日・祝）",
+    "address": "東京都千代田区丸の内1-5-1 新丸の内ビルB1F",
+    "verified": true,
+    "source": "https://seven-eleven.areamarker.com/711map/info/231350",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "ローソン 丸の内二重橋前店",
+    "brand": "ローソン",
+    "distanceM": 138,
+    "walkMin": 2,
+    "hours": "7:00-23:00",
+    "address": "東京都千代田区丸の内2-3-1",
+    "verified": true,
+    "source": "https://www.areamarker.com/lawson/info/137644",
+    "note": "距離は公式の店舗位置で計算"
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "キンコーズ・大手町店",
+    "brand": "キンコーズ",
+    "distanceM": 606,
+    "walkMin": 8,
+    "hours": "平日 9:00-20:00／土・日・祝 休業",
+    "address": "東京都千代田区大手町1丁目6-1 大手町ビル1F",
+    "verified": true,
+    "source": "https://www.kinkos.co.jp/store/tokyo/t005/",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "アクセア 京橋店",
+    "brand": "アクセア",
+    "distanceM": 633,
+    "walkMin": 8,
+    "hours": "平日 8:00-22:00／土・日・祝 10:00-19:00",
+    "address": "東京都中央区八重洲2-8-8 大星八重洲ビル1F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/map/kyobashimap.html",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Can★Do 丸の内オアゾ店",
+    "brand": "キャンドゥ",
+    "distanceM": 419,
+    "walkMin": 6,
+    "hours": "月〜金 8:00-22:00／土〜日 9:00-21:00",
+    "address": "東京都千代田区丸の内1-6-4 丸の内オアゾ地下1階",
+    "verified": true,
+    "source": "https://shopinfo.cando-web.co.jp/detail/shop-5550/",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "Standard Products ヤエチカ店",
+    "brand": "Standard Products",
+    "distanceM": 541,
+    "walkMin": 7,
+    "hours": "10:00-20:00",
+    "address": "東京都中央区八重洲2-1 八重洲地下街 地下1階",
+    "verified": true,
+    "source": "https://www.daiso-sangyo.co.jp/shop/detail/001475",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "donki": [
+   {
+    "name": "ドン・キホーテ 銀座本館（銀座ナイン3号館）",
+    "brand": "ドン・キホーテ",
+    "distanceM": 1480,
+    "walkMin": 19,
+    "hours": "24時間営業",
+    "address": "東京都中央区銀座8-10 銀座ナイン3号館",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=92",
+    "note": "距離は住所の位置で計算。遠め。ドン・キホーテ公式サイトの店舗名は「銀座本館」"
+   },
+   {
+    "name": "ドン・キホーテ 秋葉原店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 2295,
+    "walkMin": 29,
+    "hours": "24時間営業",
+    "address": "東京都千代田区外神田4丁目3-3",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=98",
+    "note": "距離は住所の位置で計算。遠い。ドン・キホーテ公式サイトの店舗名は「秋葉原店」"
+   }
+  ]
+ },
+ "drinkDelivery": {
+  "available": true
+ },
+ "photo": {
+  "src": "/images/venues/marunouchi-building.jpg",
+  "credit": "© Kakidai / CC BY-SA 3.0 · Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Marunouchi_Building.JPG"
+ }
+}

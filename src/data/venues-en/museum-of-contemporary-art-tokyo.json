@@ -1,0 +1,118 @@
+{
+ "slug": "museum-of-contemporary-art-tokyo",
+ "name": "MUSEUM OF CONTEMPORARY ART TOKYO",
+ "address": "Tokyo 135-0022 4-1-1 Miyoshi, Koto-ku",
+ "accessSummary": "Tokyo Metro Hanzomon Line, Kiyosumi-shirakawa Station Exit B2: 9 min walk / Toei Oedo Line, Kiyosumi-shirakawa Station Exit A3: 13 min walk / Tokyo Metro Tozai Line, Kiba Station Exit 3: 15 min walk / Toei Shinjuku Line, Kikukawa Station Exit A4: 15 min walk",
+ "hours": "The museum is open 10:00-18:00 (last admission to the exhibition rooms is 30 minutes before closing; open until 20:00 on every Friday in November). The Auditorium and Seminar Rooms can be booked in the time slots 9:00-12:00 / 13:00-17:00 / 9:00-17:00. The Unique Venue is available 18:00-21:00 on open days (except late-opening days) and 9:00-21:00 on closed days (per the usage guide as of April 1, 2019). The Auditorium and Seminar Room time slots include time for preparation, cleanup and cleaning. The Unique Venue's available hours also include setup and removal time.",
+ "notice": "The Auditorium and Seminar Rooms are not rented for paid events, commercial purposes, the sale of goods or use as an exhibition space. In principle, they cannot be rented on closed days.",
+ "rooms": [
+  {
+   "name": "Auditorium (B2F)",
+   "note": "Tiered seating for 200 (chairs cannot be added in aisles or elsewhere). 200 roll-back chairs, a stage, a screen and 3 microphones are provided (free of charge), and the stage cannot in principle be removed. Eating and drinking are not allowed in the room. The usage fee is 10,500 yen for the morning (9:00-12:00), 14,000 yen for the afternoon (13:00-17:00) and 24,500 yen for the full day (9:00-17:00). Rented for lectures, symposiums, company general meetings, training sessions, meetings and study sessions; not rented for paid events (Auditorium and Seminar Room usage guide)."
+  },
+  {
+   "name": "Seminar Room 1 (B2F)",
+   "note": "Capacity of 40. 40 chairs with writing tablets, 1 lectern, a whiteboard and a roll screen are provided (free of charge). The usage fee is 2,100 yen for the morning, 2,800 yen for the afternoon and 4,900 yen for the full day. Eating and drinking are not allowed in the room. The Unique Venue usage guide (as of April 1, 2019) gives the area as about 72 m²."
+  },
+  {
+   "name": "Seminar Room 2 (B2F)",
+   "note": "Capacity of 40. 10 desks, 24 chairs (16 more can be added), a whiteboard and a roll screen are provided (free of charge). The usage fee is 2,100 yen for the morning, 2,800 yen for the afternoon and 4,900 yen for the full day. Eating and drinking are not allowed in the room. The Unique Venue usage guide (as of April 1, 2019) gives the area as about 83 m²."
+  },
+  {
+   "name": "Entrance Hall (1F, Unique Venue)",
+   "note": "10 m wide x 140 m deep x 8 m high. Available 9:00-21:00 on days when the museum is closed (the Unique Venue usage guide (as of April 1, 2019) also allows 18:00-21:00 on open days [except late-opening days] and gives the area as about 1,582 m²). The usage fee is 2,000,000 yen per day (excluding tax; the Sunken Garden, Water and Stone Promenade and Courtyard are in the same category). Fashion shows, parties and the like are applied for as a Unique Venue."
+  },
+  {
+   "name": "Sunken Garden (B2F, outdoor, Unique Venue)",
+   "note": "Available 9:00-21:00 on days when the museum is closed. The Unique Venue usage guide (as of April 1, 2019) gives the area as about 1,050 m². The usage fee is in the same category as the Entrance Hall (2,000,000 yen per day, excluding tax)."
+  },
+  {
+   "name": "Water and Stone Promenade (outdoor, Unique Venue)",
+   "note": "A waterside path leading from the Sunken Garden to the restaurant. The area is as stated in the Unique Venue usage guide (as of April 1, 2019)."
+  },
+  {
+   "name": "Courtyard (outdoor, Unique Venue)",
+   "note": "An outdoor space surrounded by the museum building. The area is as stated in the Unique Venue usage guide (as of April 1, 2019)."
+  },
+  {
+   "name": "Restaurant (B1F, Unique Venue)",
+   "note": "About 100 seats, food and drink allowed. Can be privately hired for receptions, networking parties and the like, and the private hire fee is applied for directly to the operator. The area and number of seats are as stated in the Unique Venue usage guide (as of April 1, 2019)."
+  },
+  {
+   "name": "Café (2F, Unique Venue)",
+   "note": "About 50 seats, food and drink allowed. Can be privately hired for receptions, networking parties and the like, and the private hire fee is applied for directly to the operator. The area and number of seats are as stated in the Unique Venue usage guide (as of April 1, 2019)."
+  }
+ ],
+ "ops": {
+  "vehicleRules": "When using the Unique Venue, vehicles are to be parked in the underground parking lot (height 2.1 m, capacity 96 vehicles), and prior application is required for parking. (Source: Unique Venue Usage Guide, as of April 1, 2019)",
+  "parking": "The parking lot has about 90 spaces (including spaces reserved for visitors with disabilities), and the fee is 300 yen for 1 hour (then 150 yen per 30 minutes, cash only). There is a height limit, and only vehicles of 2.1 m or less are allowed. If coming by large bus, inquire in advance. It is free for people who hold a fee-reduction approval certificate or a disability certificate. The Unique Venue usage guide (as of April 1, 2019) gives the capacity of the underground parking lot as 96 vehicles. (Source: Official website, Opening hours and closed days, and Access, retrieved November 2026)",
+  "catering": "Eating and drinking are not allowed in the Auditorium and Seminar Rooms. For the Unique Venue, when eating and drinking anywhere other than the restaurant and café (which can be privately hired), the user arranges catering and the like; eating and drinking are prohibited in the exhibition rooms, and food and drink that may stain the floor, such as red wine, cannot be served anywhere other than the restaurant and café. (Source: Auditorium and Seminar Room Usage Guide; Unique Venue Usage Guide, as of April 1, 2019)",
+  "restaurants": "Inside the museum are the restaurant \"100 Spoons\" on B1F (11:00-18:00, last order 17:00), the Café & Lounge \"Sandwich Upstairs\" on 2F (10:00-18:00, last order 17:30) and the museum shop \"NADiff contemporary\" (10:00-18:00); all are closed on the museum's closed days. The restaurant (about 100 seats) and the café (about 50 seats) can be privately hired for receptions, networking parties and the like (the private hire fee is applied for directly to the operator). (Source: Official website, Shop, restaurants and more, retrieved November 2026; Unique Venue Usage Guide, as of April 1, 2019)"
+ },
+ "documents": [
+  {
+   "title": "Auditorium and Seminar Room Usage Guide"
+  },
+  {
+   "title": "Rental Facilities and Photography Use"
+  },
+  {
+   "title": "Unique Venue (official page)"
+  },
+  {
+   "title": "Museum of Contemporary Art Tokyo Unique Venue Usage Guide (as of April 1, 2019)"
+  },
+  {
+   "title": "Museum of Contemporary Art Tokyo Unique Venue Program Implementation Guidelines (April 1, 2019)"
+  },
+  {
+   "title": "Unique Venue Program Application and Approval Form Templates (Forms 1 and 2)"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "7-Eleven Koto Miyoshi 4-chome",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "FamilyMart Koto Shirakawa 4-chome",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "7-Eleven Koto Shirakawa 3-chome",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location."
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "Accea Monzen-nakacho",
+    "hours": "Weekdays 10:00-19:00 / Closed Sat, Sun & holidays",
+    "note": "Distance is calculated from the address location. Rather far."
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Can Do Kiyosumi-shirakawa",
+    "hours": "Daily 10:00-21:00",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "Can Do Akafudado Kiyosumi",
+    "hours": "Mon-Sat 10:00-22:00 / Sun 9:30-22:00",
+    "note": "Distance is calculated from the official store location."
+   }
+  ],
+  "donki": [
+   {
+    "name": "Don Quijote Kinshicho North Exit",
+    "hours": "9:00-4:00",
+    "note": "Distance is calculated from the address location. Far. The store name on the Don Quijote official website is \"Kinshicho Kitaguchi\" (North Exit)."
+   }
+  ]
+ },
+ "photoCredit": "Uploader; Vantey / Public domain · Wikimedia Commons"
+}

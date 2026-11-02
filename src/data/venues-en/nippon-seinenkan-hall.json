@@ -1,0 +1,123 @@
+{
+ "slug": "nippon-seinenkan-hall",
+ "name": "Nippon Seinenkan Hall",
+ "address": "Tokyo 160-0013 4-1 Kasumigaoka-machi, Shinjuku-ku, Tokyo",
+ "accessSummary": "Gaienmae Station (Ginza Line) Exit 2b: 5 min walk / Kokuritsu-Kyogijo Station (Oedo Line) Exit A2: 10 min walk / Sendagaya Station and Shinanomachi Station (JR Chuo-Sobu Line, local trains): 12 min walk",
+ "hours": "The hall office is open for reception 9:00-17:00 (excluding non-performance days and closed days). The rental time slots are 9:00-17:00 / 13:00-22:00 / 9:00-22:00. Inquiries about open dates and provisional bookings are by phone only, with reception 9:00-15:00 (excluding the year-end and New Year period and closed days).",
+ "notice": null,
+ "rooms": [
+  {
+   "name": "Nippon Seinenkan Hall (fixed seating)",
+   "note": "1F: 811 seats and 4 wheelchair seats; 2F: 434 seats. The stage has a proscenium width of 19 m (12.6-18 m when the side curtains are used), a depth of 13.4 m (13 m when the horizon curtain is used), and a grid height of 18 m."
+  },
+  {
+   "name": "Rehearsal Room (Nara)",
+   "note": "Located on the dressing room floor on B1F. Double doors for soundproofing. A piano, long tables, chairs and partitions can be used. The usage fee is 10,000 yen per time slot (excluding tax; price list as of January 1, 2026)."
+  }
+ ],
+ "ops": {
+  "loadingHours": "Within Tokyo, the hall has a loading entrance where an 11-ton truck can be parked on level ground (the stage drawing shows the loading entrance and the loading elevator). Loading and unloading from anywhere other than the designated loading and unloading area is prohibited. The basic hall rental time slots are 9:00-17:00 / 13:00-22:00 / 9:00-22:00, and the early-morning and extension fee is 60,000 yen per 30 minutes (excluding tax).",
+  "vehicleRules": "Parking on the surrounding roads and the like is prohibited. The hall has no dedicated parking lot, and the paid parking lot in the basement of the same building cannot take microbuses or large buses; the entry height limit is 2.4 m.",
+  "parking": "The hall has no dedicated parking lot. Although there is no partnership, there is a paid parking lot on B1F and B2F of the same building (owned by the Japan Sport Council). From 7:00 to 23:00 it is 410 yen per 30 minutes (maximum 2,460 yen), and from 23:00 to 7:00 the next day it is 210 yen per 60 minutes (maximum 1,050 yen), with no discount for hall users. The vehicle limits are, for flat spaces, length 5.3 m, width 2.05 m, height 2.4 m and weight 2.3 t; for mechanical (lower tier) spaces, length 5.3 m, width 1.95 m, height 1.7 m and weight 2.3 t. Spaces are first come, first served, not reserved.",
+  "waitingRooms": "There are 8 rooms on the dressing room floor on B1F: the organizer's waiting room Buna (14㎡, 4 seats, with a safe), Dressing Room 1 Kuri (14㎡), Room 2 Katsura (19㎡), Room 3 Sakura (25㎡), Room 4 Keyaki (25㎡), Room 5 Tochi (44㎡, space for 15 seats), Room 6 Sugi (31㎡, space for 11 seats) and the Rehearsal Room Nara (81㎡). From each room the stage can be checked on a monitor. There are also a lounge, shower rooms (4 in total), a laundry room (1 washing machine and 4 refrigerators), a kitchenette (microwave and refrigerator), a copier (10 yen per black-and-white page, 50 yen per color page) and WiFi.",
+  "catering": "Guests are asked to refrain from eating and drinking in the auditorium.",
+  "restaurants": "Nippon Seinenkan Hotel, in the same building, has the restaurant East Wind Gaien on the 9th floor (120 seats, 200㎡). It is open to non-guests as well. The opening hours are breakfast 7:00-10:00 (last entry 9:30) and lunch 11:30-15:00 (L.O. 14:00)."
+ },
+ "documents": [
+  {
+   "title": "Basic Fees, Drawings and Hall Documents (official page)"
+  },
+  {
+   "title": "Price List (as of January 1, 2026)"
+  },
+  {
+   "title": "Equipment List (B1F dressing room floor as of December 2025 / foyer as of April 1, 2024)"
+  },
+  {
+   "title": "Stage Drawing and Stage Mechanism Specifications (as of April 2019)"
+  },
+  {
+   "title": "Sound Drawing (as of September 10, 2017)"
+  },
+  {
+   "title": "Lighting Drawing (as of April 2019)"
+  },
+  {
+   "title": "Seating Chart"
+  },
+  {
+   "title": "Dressing Room Drawing"
+  },
+  {
+   "title": "Application Documents for Approval to Lift Prohibited Acts (full set)"
+  },
+  {
+   "title": "Sales Application Form"
+  },
+  {
+   "title": "Cancellation Notice (Excel)"
+  },
+  {
+   "title": "Nippon Seinenkan Hall Terms of Use (revised April 13, 2026)"
+  },
+  {
+   "title": "Nippon Seinenkan Hall Application Procedure (revised April 13, 2026)"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "Lawson Sendagaya 2-chome",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "FamilyMart Jingu Stadium-dori",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "7-Eleven Kita-Aoyama 2-chome",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location."
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "Accea Gaienmae",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Accea Omotesando",
+    "hours": "Weekdays 9:00-20:00 / Closed Sat, Sun & holidays",
+    "note": "Distance is calculated from the address location. Rather far."
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Can Do Atre Shinanomachi",
+    "hours": "Daily 10:00-21:00",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "DAISO Harajuku",
+    "hours": "9:30-21:00",
+    "note": "Distance is calculated from the address location. Rather far."
+   }
+  ],
+  "donki": [
+   {
+    "name": "Don Quijote Shinjuku Tonanguchi Annex",
+    "hours": "9:00-2:00",
+    "note": "Distance is calculated from the address location. The store name on the Don Quijote official website is \"Shinjuku Tonanguchi Annex\" (新宿東南口別館). Far."
+   },
+   {
+    "name": "Don Quijote Shinjuku Tonanguchi",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. The store name on the Don Quijote official website is \"Shinjuku Tonanguchi\" (新宿東南口店). Far."
+   }
+  ]
+ },
+ "photoCredit": "© Kakidai / CC BY-SA 3.0 · Wikimedia Commons"
+}

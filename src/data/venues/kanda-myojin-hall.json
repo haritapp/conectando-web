@@ -1,0 +1,334 @@
+{
+ "slug": "kanda-myojin-hall",
+ "nameJa": "神田明神ホール",
+ "nameEn": "Kanda Myoujin Hall",
+ "type": "hall",
+ "area": "kanda-suidobashi-venues",
+ "address": "〒101-0021 東京都千代田区外神田2-16-2 神田明神文化交流館2F",
+ "officialUrl": "https://myoujin-hall.jp/",
+ "organizerUrl": "https://myoujin-hall.jp/about-hall/",
+ "bizintokyoSlug": "kanda-myojin-hall",
+ "accessSummary": "JR中央線・総武線 御茶ノ水駅 徒歩5分／東京メトロ丸ノ内線 御茶ノ水駅 徒歩5分／東京メトロ千代田線 新御茶ノ水駅 徒歩5分／東京メトロ銀座線 末広町駅 徒歩5分／JR京浜東北線・山手線 秋葉原駅 徒歩7分／東京メトロ日比谷線 秋葉原駅 徒歩7分",
+ "notice": "契約できるのは法人のみで、個人・団体・サークル等は申込不可（お申込み手続きの注意事項、2025年8月9日更新）。",
+ "hours": "基本会場費の利用時間は9:00〜20:00。20:00〜翌9:00は時間延長料の対象（運営者の承認制）。時間使用料での利用は最低5時間。営業日は原則年中無休で、予約は使用日の1年前（365日前）から受け付け。電話受付は平日10:00〜19:00。",
+ "rooms": [
+  {
+   "name": "ホール（2F）",
+   "areaM2": 316.6,
+   "ceilingM": 6.9,
+   "theater": 392,
+   "school": 240,
+   "ushape": null,
+   "standing": 300,
+   "banquet": null,
+   "note": "17.4m×17.4m。シアター392席・スクール240席はポータブルステージ使用時で、昇降ステージ使用時はシアター296席・スクール192席（公式の配置図）。立食パーティは300名、コンサートのスタンディング公演は650名。人員は700人まで（使用規約第20条）。昇降ステージは幅13m×奥行5m×高さ0〜1.2m、300インチ16:9スクリーン。可動間仕切りでホワイエと一体利用できる。基本会場費500,000円（9:00〜20:00）＋施設管理費50,000円（税別、2026年4月1日改定）"
+  },
+  {
+   "name": "ホワイエ（2F）",
+   "areaM2": 150.0,
+   "ceilingM": 7.2,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "クローク・バーカウンター・トイレがあり、ガラス折戸で外のデッキと直結。ホールとはスライディングウォールで一体利用できる。基本会場費に含まれる（見積サンプル「ホワイエ・クローク・控室等を含む」）"
+  },
+  {
+   "name": "VIPラウンジ（3F）",
+   "areaM2": 38.7,
+   "ceilingM": 2.8,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "VIP席15席（3F）"
+  }
+ ],
+ "roomsSource": "https://myoujin-hall.jp/about-hall/",
+ "ops": {
+  "prevDaySetup": {
+   "text": "前日などの準備日を別に借りられる。見積サンプル「準備・本番2日間利用」では、準備日（13:00〜18:00）を時間使用料（60,000円/時間・最低5時間）、本番日を基本会場費（500,000円・9:00〜20:00）で計上し、施設管理費は2日分（1日50,000円）。展示会3日間のサンプルは3日とも基本会場費。基本会場費の利用時間は9:00〜20:00で、それ以前・以降の準備・設営・撤去は時間外延長料（50,000円/時間）がかかり、運営者の承認が必要（以上すべて税別、2026年4月1日付の見積サンプル）。",
+   "source": "https://myoujin-hall.jp/wordpress/wp-content/uploads/2026/04/sample2.pdf"
+  },
+  "loadingHours": {
+   "text": "搬入出は利用時間内に行い、利用時間は準備開始から撤収完了までで、撤収完了は「荷捌きから車両が出庫するまで」とされる（お申込み手続きの注意事項、2025年8月9日更新）。搬入口は幅1,500×高さ2,300mm、搬入エレベーターは内寸 幅1,700×奥行2,530×高さ2,350mm・扉間口 幅1,700×高さ2,100mm・耐荷重2,000kg・定員30名（2025年5月5日更新の寸法図。ホール概要とアクセスのページには奥行2,450mmとある）。搬入出は催事1週間前までに物量・時間を連絡する。事前配送は手押し台車1台分までで、利用前日の10:00〜19:00着が基本（配送物に関する基本ルール、2026年5月15日更新）。",
+   "source": "https://myoujin-hall.jp/wordpress/wp-content/uploads/2025/10/hannyuuevsunpou.pdf"
+  },
+  "vehicleRules": {
+   "text": "荷捌き場は1階の他テナントとの共有スペースで、車両の留め置きは厳禁。作業が終わり次第すぐ退出する。荷捌き場に進入できるのは高さ4mまで・4tトラックまで、図面では2t車までを推奨（バックで入ると出やすい）。留め置きしたい車両は、会場側で2台分まで確保する指定駐車枠（高さ2.5mまで・ハイエースクラスまで、トラックは不可）へ移動する（以上、搬入出車両リスト）。搬入出は催事1週間前までに物量・時間を知らせ、破損のおそれがあるときは床・壁を養生して原状復帰する。展示会プラン（3日間以上）の付帯設備には「乗用車2台までホールスペース有り」とある。",
+   "source": "https://myoujin-hall.jp/wordpress/wp-content/uploads/2019/04/hannyu.pdf"
+  },
+  "parking": {
+   "text": "ホールに駐車場はなく、近隣のコインパーキングを使う（アクセスページ）。公式の周辺駐車場一覧（9か所）には、タイムズ東京ガーデンパレス51台、ユアーズ・パーキング外神田第1 7台、水林駐車場42台、TNS外神田3丁目10台、ナビパーク湯島第2 21台、秋葉原スーパービル42台、秋葉原ダイビル112台、秋葉原UDXパーキング785台（24時間営業・高さ2.4m・幅2.5m・長さ6m・重量2.3tまで、30分300円、平日24時間最大2,300円）、タイムズ秋葉原駅電気街口27台が載っている。",
+   "source": "https://myoujin-hall.jp/wordpress/wp-content/uploads/2024/06/parking.2024.06.04.pdf"
+  },
+  "waitingRooms": {
+   "text": "2階に楽屋2室（21.7㎡・16.6㎡、各〜10名程度、化粧台あり）と控室2室（4.2㎡・3.6㎡、各〜2名程度）、3階に主催者控室1室（7.1㎡、〜6名程度）とVIPラウンジ（38.7㎡、〜15名程度）がある。給湯室・喫煙室・バックトイレもある（人数は展示会プランのページ）。",
+   "source": "https://myoujin-hall.jp/about-hall/"
+  },
+  "catering": {
+   "text": "会場・ホワイエ・控室はすべて飲食可。パーティーの食事は、希望と予算に合わせて会場が専門会社を紹介する。ドリンクはペットボトルの水・お茶の手配を受け付け、会場の請求にまとめられる。見積サンプルにケータリング費用は別途と明記され、コーヒー・カップ一式は1杯300円、ミネラルウォーター350mlは1本130円。運営者が指定した場所以外での飲食・喫煙は禁止（使用規約第20条）。ケータリング・屋台業者のごみは、ビン・缶・生ごみとも業者が持ち帰る（ごみ処理のご案内、2025年9月24日更新）。",
+   "source": "https://myoujin-hall.jp/about-hall/"
+  },
+  "restaurants": {
+   "text": "ホール自体が懇親会・パーティに使え、トップページに「会議やセミナーに合わせて、懇親会やパーティでのご利用実績も多数」とある（立食300名、懇親会のみ半日利用の見積サンプルあり）。ホール公式サイトのバナーから、神田神社の明神会館「お食事会・パーティ」（和食×フレンチ、少人数〜最大120名）のページにも案内されている。",
+   "source": "https://myoujin-hall.jp/"
+  }
+ },
+ "documents": [
+  {
+   "title": "料金表（2026年4月1日改定）",
+   "url": "https://myoujin-hall.jp/wordpress/wp-content/uploads/2026/06/charge-9.pdf"
+  },
+  {
+   "title": "使用規約（平成29年9月1日作成・令和5年3月改定）",
+   "url": "https://myoujin-hall.jp/wordpress/wp-content/uploads/2023/03/kiyaku20230330.pdf"
+  },
+  {
+   "title": "お申込み手続きの注意事項（2025年8月9日更新）",
+   "url": "https://myoujin-hall.jp/wordpress/wp-content/uploads/2025/10/keiyaku.pdf"
+  },
+  {
+   "title": "キャンセル料比率（2025年11月26日更新）",
+   "url": "https://myoujin-hall.jp/wordpress/wp-content/uploads/2026/03/cancel.pdf"
+  },
+  {
+   "title": "ごみ処理に関するご案内（2025年9月24日更新）",
+   "url": "https://myoujin-hall.jp/wordpress/wp-content/uploads/2025/10/gomi.pdf"
+  },
+  {
+   "title": "配送物に関する基本ルール（2026年5月15日更新）",
+   "url": "https://myoujin-hall.jp/wordpress/wp-content/uploads/2026/05/haisou.pdf"
+  },
+  {
+   "title": "備品リスト（2026年3月15日更新）",
+   "url": "https://myoujin-hall.jp/wordpress/wp-content/uploads/2026/03/Bihin20260315.pdf"
+  },
+  {
+   "title": "搬入用エレベーター寸法図・荷捌き場・搬入口寸法図（2025年5月5日更新）",
+   "url": "https://myoujin-hall.jp/wordpress/wp-content/uploads/2025/10/hannyuuevsunpou.pdf"
+  },
+  {
+   "title": "搬入出図面（1F）",
+   "url": "https://myoujin-hall.jp/wordpress/wp-content/uploads/2019/04/hannyu.pdf"
+  },
+  {
+   "title": "搬入出車両リスト",
+   "url": "https://myoujin-hall.jp/wordpress/wp-content/uploads/2026/02/4177e5ea0650d245744e8ff6b2540f42.xlsx"
+  },
+  {
+   "title": "周辺コインパーキング",
+   "url": "https://myoujin-hall.jp/wordpress/wp-content/uploads/2024/06/parking.2024.06.04.pdf"
+  },
+  {
+   "title": "設備概要",
+   "url": "https://myoujin-hall.jp/wordpress/wp-content/uploads/2017/07/outline.pdf"
+  },
+  {
+   "title": "平面図2F",
+   "url": "https://myoujin-hall.jp/wordpress/wp-content/uploads/2026/02/2F_heimen.pdf"
+  },
+  {
+   "title": "スケール図2F",
+   "url": "https://myoujin-hall.jp/wordpress/wp-content/uploads/2026/02/2F_scale.pdf"
+  },
+  {
+   "title": "平面図3F",
+   "url": "https://myoujin-hall.jp/wordpress/wp-content/uploads/2021/09/be7c1a3025a33a8cd0a95d026a502730.pdf"
+  },
+  {
+   "title": "断面図",
+   "url": "https://myoujin-hall.jp/wordpress/wp-content/uploads/2020/04/danmen.pdf"
+  },
+  {
+   "title": "バトン図",
+   "url": "https://myoujin-hall.jp/wordpress/wp-content/uploads/2017/07/baton.pdf"
+  },
+  {
+   "title": "シアター［392席・ポータブルSt］配置図",
+   "url": "https://myoujin-hall.jp/wordpress/wp-content/uploads/2026/02/3c31a799fc35a5e16542940d13cf464d.pdf"
+  },
+  {
+   "title": "シアター［296席・昇降St］配置図",
+   "url": "https://myoujin-hall.jp/wordpress/wp-content/uploads/2026/02/296seat.pdf"
+  },
+  {
+   "title": "スクール［240席・ポータブルSt］配置図",
+   "url": "https://myoujin-hall.jp/wordpress/wp-content/uploads/2026/02/fd4a8e149b9f1e5adf6bdb87ff898ec7.pdf"
+  },
+  {
+   "title": "スクール［192席・昇降St］配置図",
+   "url": "https://myoujin-hall.jp/wordpress/wp-content/uploads/2026/04/5ba8618917a798035abde7c9bcfae963.pdf"
+  },
+  {
+   "title": "パーティーイメージ",
+   "url": "https://myoujin-hall.jp/wordpress/wp-content/uploads/2017/07/party.pdf"
+  },
+  {
+   "title": "展示会イメージ",
+   "url": "https://myoujin-hall.jp/wordpress/wp-content/uploads/2017/07/exhibition.pdf"
+  },
+  {
+   "title": "音響機材",
+   "url": "https://myoujin-hall.jp/wordpress/wp-content/uploads/2026/03/Onkyo20260319.pdf"
+  },
+  {
+   "title": "照明機材",
+   "url": "https://myoujin-hall.jp/wordpress/wp-content/uploads/2025/07/kizai-25.07.pdf"
+  },
+  {
+   "title": "映像機材",
+   "url": "https://myoujin-hall.jp/wordpress/wp-content/uploads/2024/12/fbd8ca8d55e6bb2a1a996d4e109dd0b7.pdf"
+  },
+  {
+   "title": "サインスタンド一覧",
+   "url": "https://myoujin-hall.jp/wordpress/wp-content/uploads/2026/03/signstand.pdf"
+  },
+  {
+   "title": "場外サインスタンド設置可能場所",
+   "url": "https://myoujin-hall.jp/wordpress/wp-content/uploads/2025/10/signokiba.pdf"
+  },
+  {
+   "title": "パーテーション一覧",
+   "url": "https://myoujin-hall.jp/wordpress/wp-content/uploads/2025/10/partition.pdf"
+  },
+  {
+   "title": "見積サンプル：セミナー・講演会・会議（1日利用）",
+   "url": "https://myoujin-hall.jp/wordpress/wp-content/uploads/2026/08/sample1.pdf"
+  },
+  {
+   "title": "見積サンプル：セミナー・講演会・会議（準備・本番2日間利用）",
+   "url": "https://myoujin-hall.jp/wordpress/wp-content/uploads/2026/04/sample2.pdf"
+  },
+  {
+   "title": "見積サンプル：懇親会（半日利用）",
+   "url": "https://myoujin-hall.jp/wordpress/wp-content/uploads/2026/04/sample5.pdf"
+  },
+  {
+   "title": "見積サンプル：展示会（3日間利用）",
+   "url": "https://myoujin-hall.jp/wordpress/wp-content/uploads/2026/04/sample6.pdf"
+  }
+ ],
+ "checkedAt": "2026-11-02",
+ "lat": 35.70145,
+ "lng": 139.767517,
+ "nearby": {
+  "convenience": [
+   {
+    "name": "セブン-イレブン 文京神田明神下店",
+    "brand": "セブン-イレブン",
+    "distanceM": 88,
+    "walkMin": 2,
+    "hours": "24時間営業",
+    "address": "東京都文京区湯島1-3-4",
+    "verified": true,
+    "source": "https://seven-eleven.areamarker.com/711map/info/109330",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "ファミリーマート お茶の水店",
+    "brand": "ファミリーマート",
+    "distanceM": 116,
+    "walkMin": 2,
+    "hours": "24時間営業",
+    "address": "東京都文京区湯島1-3-7",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/58861",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "ファミリーマート 清水坂下店",
+    "brand": "ファミリーマート",
+    "distanceM": 183,
+    "walkMin": 3,
+    "hours": "24時間営業",
+    "address": "東京都文京区湯島三丁目1番9号",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/23875",
+    "note": "距離は公式の店舗位置で計算"
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "アクセア 秋葉原店",
+    "brand": "アクセア",
+    "distanceM": 368,
+    "walkMin": 5,
+    "hours": "平日・土日祝 8:00-22:00",
+    "address": "東京都千代田区外神田3-16-14 秋葉原ビル",
+    "verified": true,
+    "source": "https://www.accea.co.jp/entry.html",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "アクセア 本郷三丁目店",
+    "brand": "アクセア",
+    "distanceM": 608,
+    "walkMin": 8,
+    "hours": "平日 10:00-19:00／土・日・祝 休み",
+    "address": "東京都文京区本郷2-13-10 湯浅ビル1F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/entry.html",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Can★Do 秋葉原店",
+    "brand": "キャンドゥ",
+    "distanceM": 269,
+    "walkMin": 4,
+    "hours": "毎日 10:00-21:00",
+    "address": "東京都千代田区外神田3-3-10",
+    "verified": true,
+    "source": "https://shopinfo.cando-web.co.jp/detail/shop-2832/",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "3COINS アトレ秋葉原店",
+    "brand": "3COINS",
+    "distanceM": 551,
+    "walkMin": 7,
+    "hours": "10:00-21:00",
+    "address": "東京都千代田区外神田1-17-6 アトレ秋葉原1 3F",
+    "verified": true,
+    "source": "https://palcloset.storelocator.jp/detail/1564",
+    "note": "距離は公式の店舗位置で計算。実際の道のりは約865m"
+   }
+  ],
+  "donki": [
+   {
+    "name": "ドン・キホーテ 秋葉原店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 387,
+    "walkMin": 5,
+    "hours": "24時間営業",
+    "address": "東京都千代田区外神田4丁目3-3",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=98",
+    "note": "距離は住所の位置で計算。ドン・キホーテ公式サイトの店舗名は「秋葉原店」"
+   },
+   {
+    "name": "ドン・キホーテ 上野店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 801,
+    "walkMin": 11,
+    "hours": "9:00-4:00",
+    "address": "東京都文京区湯島3-38-10",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=107",
+    "note": "距離は住所の位置で計算。ドン・キホーテ公式サイトの店舗名は「上野店」"
+   }
+  ]
+ },
+ "drinkDelivery": {
+  "available": true
+ },
+ "photo": {
+  "src": "/images/venues/kanda-myojin-hall.jpg",
+  "credit": "© Totti / CC BY-SA 4.0 · Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kanda-Myojin_Hall1.jpg"
+ }
+}

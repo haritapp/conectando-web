@@ -1,0 +1,423 @@
+{
+ "slug": "nihon-kyoiku-kaikan-hall",
+ "nameJa": "日本教育会館 一ツ橋ホール",
+ "nameEn": "Japan Education Center",
+ "type": "hall",
+ "area": "kanda-suidobashi-venues",
+ "address": "〒101-0003 東京都千代田区一ツ橋2-6-2",
+ "officialUrl": "https://www.jec.or.jp/",
+ "organizerUrl": "https://www.jec.or.jp/guide.html",
+ "bizintokyoSlug": "nihon-kyoiku-kaikan-hall",
+ "accessSummary": "神保町駅（都営新宿線・東京メトロ半蔵門線）A1出口 徒歩3分／神保町駅（都営三田線）A1出口 徒歩5分／竹橋駅（東京メトロ東西線）北の丸公園側出口 徒歩5分／九段下駅（東京メトロ東西線）6番出口 徒歩7分／水道橋駅（JR総武線）西口 徒歩15分",
+ "notice": "第五会議室（901・902号室）は2025年3月31日で貸出を終了している（2025年2月17日付のお知らせ）。",
+ "hours": "使用時間は9:00〜21:00（これ以外の時間は要相談）。午前9:00〜12:00・午後13:00〜17:00・夜間18:00〜21:00の3区分（ホールは午後13:00〜16:30・夜間17:30〜21:00）。年末年始（12月29日〜1月4日）を除き使用可。申込受付は平日9:00〜17:00の電話で、ホームページからの予約はできない。",
+ "rooms": [
+  {
+   "name": "一ツ橋ホール（3F）",
+   "areaM2": 767,
+   "ceilingM": null,
+   "theater": 802,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "定員802席（1列目・2列目・22列目が可動席。座席にテーブルなし）。車いすスペース約17席分（22列目の28席を撤去）。面積は全体767㎡（客席554㎡・舞台84㎡・ホワイエ129㎡）。舞台は間口12.5m×奥行8m（せり出し時11m、1・2列目を撤去）、高さ4m（舞台高1m）。平日全日（9:00〜21:00）¥543,400／土・日・祝日全日 ¥679,800（税込、2026年4月1日改定）。控室C（有料）は別料金"
+  },
+  {
+   "name": "中会議室（701+702）",
+   "areaM2": 205,
+   "ceilingM": 2.3,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "定員156名。スライディング区切りで701号室（60名）・702号室（72名）の2室に分割可。机52本。平日全日（9:00〜21:00）¥191,400／土・日・祝日全日 ¥229,900（税込、2026年4月1日改定）"
+  },
+  {
+   "name": "701号室",
+   "areaM2": 92,
+   "ceilingM": 2.3,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "定員60名。中会議室を区切った室。机20本。平日全日（9:00〜21:00）¥125,400／土・日・祝日全日 ¥150,700（税込、2026年4月1日改定）"
+  },
+  {
+   "name": "702号室",
+   "areaM2": 112,
+   "ceilingM": 2.3,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "定員72名。中会議室を区切った室。机24本。平日全日（9:00〜21:00）¥151,800／土・日・祝日全日 ¥182,600（税込、2026年4月1日改定）"
+  },
+  {
+   "name": "703号室",
+   "areaM2": 75,
+   "ceilingM": 2.6,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "定員36名。机12本。平日全日（9:00〜21:00）¥78,100／土・日・祝日全日 ¥94,600（税込、2026年4月1日改定）"
+  },
+  {
+   "name": "704号室",
+   "areaM2": 75,
+   "ceilingM": 2.6,
+   "theater": null,
+   "school": null,
+   "ushape": 36,
+   "standing": null,
+   "banquet": null,
+   "note": "定員36名。ロの字タイプ。机12本。平日全日（9:00〜21:00）¥78,100／土・日・祝日全日 ¥94,600（税込、2026年4月1日改定）"
+  },
+  {
+   "name": "705号室",
+   "areaM2": 32,
+   "ceilingM": 2.6,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "定員10名。サロンタイプ。机2台。平日全日（9:00〜21:00）¥45,100／土・日・祝日全日 ¥55,000（税込、2026年4月1日改定）"
+  },
+  {
+   "name": "707号室",
+   "areaM2": 138,
+   "ceilingM": 2.6,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "定員108名。机36本。平日全日（9:00〜21:00）¥137,500／土・日・祝日全日 ¥165,000（税込、2026年4月1日改定）"
+  },
+  {
+   "name": "第一会議室（8F）",
+   "areaM2": 363,
+   "ceilingM": "2.3-2.6",
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "定員300名。天井高は2.6m（一部2.3m）。机100本、可動式の机・椅子。平日全日（9:00〜21:00）¥293,700／土・日・祝日全日 ¥353,100（税込、2026年4月1日改定）"
+  },
+  {
+   "name": "第二会議室（805+806）",
+   "areaM2": 202,
+   "ceilingM": "2.4-2.6",
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "定員168名。スライディング区切りで805号室・806号室（各72名）の2室に分割可。天井高は2.6m（一部2.4m）。机56本。平日全日（9:00〜21:00）¥187,000／土・日・祝日全日 ¥224,400（税込、2026年4月1日改定）"
+  },
+  {
+   "name": "805号室",
+   "areaM2": 101,
+   "ceilingM": "2.4-2.6",
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "定員72名。第二会議室を区切った室。机24本。平日全日（9:00〜21:00）¥136,400／土・日・祝日全日 ¥163,900（税込、2026年4月1日改定）"
+  },
+  {
+   "name": "806号室",
+   "areaM2": 101,
+   "ceilingM": "2.4-2.6",
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "定員72名。第二会議室を区切った室。机24本。平日全日（9:00〜21:00）¥136,400／土・日・祝日全日 ¥163,900（税込、2026年4月1日改定）"
+  },
+  {
+   "name": "第三会議室（807+808）",
+   "areaM2": 110,
+   "ceilingM": 2.6,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "定員81名。スライディング区切りで807号室（42名）・808号室（30名）の2室に分割可。机27本。平日全日（9:00〜21:00）¥111,100／土・日・祝日全日 ¥134,200（税込、2026年4月1日改定）"
+  },
+  {
+   "name": "807号室",
+   "areaM2": 61,
+   "ceilingM": 2.6,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "定員42名。第三会議室を区切った室。机14本。平日全日（9:00〜21:00）¥83,600／土・日・祝日全日 ¥101,200（税込、2026年4月1日改定）"
+  },
+  {
+   "name": "808号室",
+   "areaM2": 49,
+   "ceilingM": 2.6,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "定員30名。第三会議室を区切った室。机10本。平日全日（9:00〜21:00）¥67,100／土・日・祝日全日 ¥81,400（税込、2026年4月1日改定）"
+  },
+  {
+   "name": "809号室",
+   "areaM2": 32,
+   "ceilingM": 2.6,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "定員10名。サロンタイプ。机2本。平日全日（9:00〜21:00）¥45,100／土・日・祝日全日 ¥55,000（税込、2026年4月1日改定）"
+  },
+  {
+   "name": "810号室",
+   "areaM2": 44,
+   "ceilingM": 2.6,
+   "theater": null,
+   "school": null,
+   "ushape": 30,
+   "standing": null,
+   "banquet": null,
+   "note": "定員30名。ロの字タイプ。机10本。平日全日（9:00〜21:00）¥60,500／土・日・祝日全日 ¥72,600（税込、2026年4月1日改定）"
+  },
+  {
+   "name": "一ツ橋画廊（1F・多目的スペース）",
+   "areaM2": null,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "展示のほか、イベントの物販・受付にも使えるフレキシブルな間仕切り付きスペース。画廊として使う場合は原則連続5日間を1単位として165,000円（延長は1日16,500円、開廊10:00〜18:00、音出し原則禁止）。ホール・会議室と併用する多目的スペース利用は1日貸で33,000円（9:00〜21:00）"
+  }
+ ],
+ "roomsSource": "https://www.jec.or.jp/room.html、https://www.jec.or.jp/hall.html、https://www.jec.or.jp/price.html",
+ "ops": {
+  "prevDaySetup": {
+   "text": "ホール・第一会議室を仕込み（備品なし）に使う場合は使用料が40%割引、リハーサルは30%割引。前延長は午前区分に限り最大60分（8:00契約・7:30入室）まで。午後・夜間区分からの前延長はできない。連日使用で荷物やレイアウトを残したままにするには連続での予約が必要（例：初日の午後＋夜間〜2日目の午前＋午後、FAQ）。会場には契約時間の30分前を目安に入室できる（以上、料金表 2026年4月1日改定）。",
+   "source": "https://www.jec.or.jp/price.html"
+  },
+  "loadingHours": {
+   "text": "使用時間は9:00〜21:00で、準備・後片付けの時間を含む。後延長は最大22:00（完全撤収）まで。搬入用エレベーターは台車専用で、出入口は高さ2.1m・横幅1.4m以内、かご内は高さ2.3m・横幅1.9m・奥行1.6m以内、総重量1.35t以下。事前送付の荷物は1階防災センター気付で受け付け（平日・休日とも9:00〜21:00、荷物の発送について 2024年2月21日）、4階エレベーターホールの共有スペース（鍵なし）に留め置く。",
+   "source": "https://www.jec.or.jp/pdf/ToS202604All.pdf"
+  },
+  "vehicleRules": {
+   "text": "荷物の搬入・搬出のための駐車は30分まで無料で、2tトラックまで可。30分以内でも1階防災センターに立ち寄り、指定された場所に駐車する。30分を超えると有料駐車として主催者に請求される。屋上駐車場の有料枠はトラック不可（会議室備品申込書）。（以上、屋上駐車場施設のご案内 2026年4月1日）",
+   "source": "https://www.jec.or.jp/pdf/Parking_Info_202604.pdf"
+  },
+  "parking": {
+   "text": "ホールまたは第一会議室を申し込んだ主催者には、屋上駐車場の無料駐車券を2台分用意する（事前申込不要、当日渡し）。3台目からは1台1区分2,200円（税込）で事前申込、無料分と合わせて5台まで。カーリフトの制限は高さ2m・横幅2.3m・長さ5m以内、総重量2.6t以下で、バスなどの大型車の駐車場はない。上記以外の会議室の主催者と参加者は近隣のコインパーキングや公共交通機関を使う。（屋上駐車場施設のご案内 2026年4月1日。FAQには「3台目以降・その他会議室の主催者は有料」とも書かれている。利用規約には、一般参加者用の駐車場・駐輪場はないとある）。",
+   "source": "https://www.jec.or.jp/pdf/Parking_Info_202604.pdf"
+  },
+  "waitingRooms": {
+   "text": "ホール用に控室A（無料、舞台下袖、7.7㎡、定員4名、ハンガーラック・インターネット接続口）、控室B（無料、和室仕様の5畳＋板の間、鏡台）、控室C（有料、64㎡、定員22名、鏡台・ドライヤーコンセント・姿見。平日全日50,600円／土・日・祝日全日63,800円、税込、2026年4月1日改定）がある。",
+   "source": "https://www.jec.or.jp/hall.html"
+  },
+  "catering": {
+   "text": "外部からの飲食物の持ち込みは原則不可（ケータリング不可）。館内の飲食店で手配した弁当・飲料（酒類を除く）に限り、会議室とホールのホワイエで飲食できる。ホール客席内は飲食できない。ゴミは持ち帰りで、引き取りサービスはない。懇親会・弁当の手配先として、9階の喜山倶楽部（弁当・懇親会）、2階の泰南飯店（弁当・懇親会）、地下1階のビストロシーズン（弁当）、1階のセブン-イレブン（ペットボトル発注）が利用規約PDFに挙げられている。",
+   "source": "https://www.jec.or.jp/faq.html"
+  },
+  "restaurants": {
+   "text": "地下1階に未来食堂（定食900円）・御燗（お座敷最大16名）・ビストロシーズン（宴会は料理＋飲み放題5,500円から、お弁当は最大400個前後）・ひげ勘・ばーんせっと（館内出前は内線222）、2階に泰南飯店 神保町店（宴会120名まで、30名から立食パーティー可）、9階に宴会場の喜山倶楽部（フレンチ）、1階にコンビニがある。2階の飲食店は宴会も可。館内の飲食店は12:00〜12:30が混雑するため、午前の催事を11:30に終えると昼食が取りやすいという案内がある（FAQ）。",
+   "source": "https://www.jec.or.jp/tenant.html"
+  }
+ },
+ "documents": [
+  {
+   "title": "利用規約（ホール・会議室料金表は2026年4月1日改定）",
+   "url": "https://www.jec.or.jp/pdf/ToS202604All.pdf"
+  },
+  {
+   "title": "予約開始・受付期間のご案内（2025年11月1日）",
+   "url": "https://www.jec.or.jp/pdf/yoyaku202604.pdf"
+  },
+  {
+   "title": "ホール・第一会議室ご利用に伴う屋上駐車場施設のご案内（2026年4月1日）",
+   "url": "https://www.jec.or.jp/pdf/Parking_Info_202604.pdf"
+  },
+  {
+   "title": "荷物の発送について／ゴミ処理について（2024年2月21日）",
+   "url": "https://www.jec.or.jp/pdf/baggage_and_garbage_20240221.pdf"
+  },
+  {
+   "title": "諸設備新使用料（2026年4月1日より改定）",
+   "url": "https://www.jec.or.jp/pdf/osirase20241213_3.pdf"
+  },
+  {
+   "title": "会議室備品申込書",
+   "url": "https://www.jec.or.jp/pdf/kaigisitu_bihin_mousikomisho20260801.pdf"
+  },
+  {
+   "title": "延長コード貸出本数（無料分）制限について（2025年8月1日）",
+   "url": "https://www.jec.or.jp/pdf/oshirase_20250801.pdf"
+  },
+  {
+   "title": "鍵付きロッカー利用申込書",
+   "url": "https://www.jec.or.jp/pdf/%E3%83%AD%E3%83%83%E3%82%AB%E3%83%BC%E3%81%94%E5%88%A9%E7%94%A8%E3%81%AE%E6%A1%88%E5%86%85.pdf"
+  },
+  {
+   "title": "ホール見取り図（2026年4月）",
+   "url": "https://www.jec.or.jp/pdf/Hall_3F2604.pdf"
+  },
+  {
+   "title": "舞台見取り図",
+   "url": "https://www.jec.or.jp/pdf/butai.pdf"
+  },
+  {
+   "title": "舞台機構設備平面図",
+   "url": "https://www.jec.or.jp/pdf/setsubiheimenzu.pdf"
+  },
+  {
+   "title": "ホール舞台備品基本仕様例（2026年4月）",
+   "url": "https://www.jec.or.jp/pdf/HallExample2604.pdf"
+  },
+  {
+   "title": "会議室・長期連続利用割引制度／利用支援（減免）のご案内",
+   "url": "https://www.jec.or.jp/pdf/waribiki.pdf"
+  },
+  {
+   "title": "第五会議室の貸出終了について（2025年2月17日）",
+   "url": "https://www.jec.or.jp/pdf/osirase20250214.pdf"
+  }
+ ],
+ "checkedAt": "2026-11-02",
+ "lat": 35.694248,
+ "lng": 139.756546,
+ "nearby": {
+  "convenience": [
+   {
+    "name": "セブン-イレブン 千代田一ツ橋2丁目店",
+    "brand": "セブン-イレブン",
+    "distanceM": 39,
+    "walkMin": 1,
+    "hours": "24時間営業",
+    "address": "東京都千代田区一ツ橋2-6-2",
+    "verified": true,
+    "source": "https://seven-eleven.areamarker.com/711map/info/368295",
+    "note": "距離は公式の店舗位置で計算。会場と同じ建物（日本教育会館）の1階"
+   },
+   {
+    "name": "ファミリーマート 神田神保町二丁目店",
+    "brand": "ファミリーマート",
+    "distanceM": 83,
+    "walkMin": 2,
+    "hours": "24時間営業",
+    "address": "東京都千代田区神田神保町2-23",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/19576",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "ファミリーマート 神保町さくら通り店",
+    "brand": "ファミリーマート",
+    "distanceM": 118,
+    "walkMin": 2,
+    "hours": "24時間営業",
+    "address": "東京都千代田区神田神保町二丁目19",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/58022",
+    "note": "距離は公式の店舗位置で計算"
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "アクセア 神保町店",
+    "brand": "アクセア",
+    "distanceM": 268,
+    "walkMin": 4,
+    "hours": "24時間営業（22時〜翌6時のカフェ利用は本人確認済みの会員のみ）",
+    "address": "東京都千代田区神田神保町1-10 角谷ビル1・2F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/entry.html",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "キンコーズ・神保町店",
+    "brand": "キンコーズ",
+    "distanceM": 351,
+    "walkMin": 5,
+    "hours": "平日 8:00-20:00／土・日・祝 休業",
+    "address": "東京都千代田区神田神保町3丁目10-4 NABOCUL TOWER 1F",
+    "verified": true,
+    "source": "https://www.kinkos.co.jp/store/tokyo/t038/",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Can★Do 神保町店",
+    "brand": "キャンドゥ",
+    "distanceM": 295,
+    "walkMin": 4,
+    "hours": "毎日 10:00-21:00",
+    "address": "東京都千代田区神田神保町2-14",
+    "verified": true,
+    "source": "https://shopinfo.cando-web.co.jp/detail/shop-5053/",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "DAISO 神田神保町すずらん通り店",
+    "brand": "ダイソー",
+    "distanceM": 402,
+    "walkMin": 6,
+    "hours": "10:00-21:00",
+    "address": "東京都千代田区神田神保町1-1-17 東京堂神保町第3ビルディング 1階",
+    "verified": true,
+    "source": "https://www.daiso-sangyo.co.jp/shop/detail/008732",
+    "note": "距離は住所の位置で計算。実際の道のりは約630m"
+   }
+  ],
+  "donki": [
+   {
+    "name": "ドン・キホーテ 後楽園店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 1319,
+    "walkMin": 17,
+    "hours": "24時間営業",
+    "address": "東京都文京区本郷1-33-9",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=343",
+    "note": "距離は住所の位置で計算。ドン・キホーテ公式サイトの店舗名は「後楽園店」。遠め"
+   },
+   {
+    "name": "ドン・キホーテ 秋葉原店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 1543,
+    "walkMin": 20,
+    "hours": "24時間営業",
+    "address": "東京都千代田区外神田4丁目3-3",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=98",
+    "note": "距離は住所の位置で計算。ドン・キホーテ公式サイトの店舗名は「秋葉原店」。遠め"
+   }
+  ]
+ },
+ "drinkDelivery": {
+  "available": true
+ },
+ "photo": {
+  "src": "/images/venues/nihon-kyoiku-kaikan-hall.jpg",
+  "credit": "© しんぎんぐきゃっと / CC BY-SA 4.0 · Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kanda-Jimbocho_2021.jpg"
+ }
+}

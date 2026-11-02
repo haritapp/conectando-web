@@ -1,0 +1,110 @@
+{
+ "slug": "k-stage-o",
+ "name": "K-Stage O!",
+ "address": "Tokyo 169-0072 K-SQUARE Building 3F, 1-8-4 Okubo, Shinjuku-ku",
+ "accessSummary": "Higashi-Shinjuku Station (Tokyo Metro Fukutoshin Line / Toei Oedo Line) Exit A1: 3 min walk / Seibu-Shinjuku Station (Seibu Shinjuku Line): 7 min walk / Shin-Okubo Station (JR): 10 min walk / Shinjuku Station (all lines): about 15 min walk",
+ "hours": "The available hours for private use include the time from entry to complete move-out. Main Hall: early morning 6:00-10:00 / daytime 10:00-16:00 / evening 16:00-24:00 (the 6-hour plan ends at 22:00) / all day 10:00-22:00. Small Hall: early morning 6:00-11:00 / late night 21:00-24:00 (the daytime, evening and all-day plans are for regular use only). The inquiry desk is open 10:30-19:00, and inquiries are accepted through the form only.",
+ "notice": "For the Small Hall (J-Stage O!), the daytime, evening and all-day plans can currently be booked for regular use only (price list of June 18, 2026). Hall rental bookings are not accepted more than 6 months ahead.",
+ "rooms": [
+  {
+   "name": "Main Hall K-Stage O!",
+   "note": "Audience area 165㎡, stage 42㎡ (width 12 m x depth 3.5 m x height 3.25 m, stage height 0.64 m). The official maximum capacity is \"207 seats (seated)\". The all-day private-use plan (10:00-22:00) is 330,000 yen on weekdays / 660,000 yen on Sat, Sun & holidays (excluding tax; limited-time campaign price. The rental fee is 369,600 yen / 726,000 yen. Price list of June 18, 2026). The 2 sound and lighting operators are 32,000 yen per person (excluding tax; staff arranged by the venue are the standard). Up to 7 wireless microphones are included in the base fee; for 8 or more, the price list says 4,000 yen per mic per day, while the FAQ says from 2,000 yen per mic, so the figures differ. Users of the Main Hall cannot enter the Small Hall side area, and the bonus-event (tokutenkai) space and the lobby are shared with Small Hall users."
+  },
+  {
+   "name": "Small Hall J-Stage O!",
+   "note": "Audience area 68.2㎡, stage 28㎡ (width 8 m x depth 3.5 m x height 3.25 m, stage height 0.64 m). The official maximum capacity is \"100 seats (seated)\". For private use, the plans that can currently be booked are early morning (weekdays 6:00-11:00, 5-hour plan 52,800 yen) and late night (21:00-24:00, 3-hour plan 44,000 yen on weekdays / 46,200 yen on Fri, Sat, Sun, holidays and days before holidays) (excluding tax, limited-time campaign price, price list of June 18, 2026). Users of the Small Hall cannot enter the Main Hall side area."
+  }
+ ],
+ "ops": {
+  "waitingRooms": "The Main Hall has 2 waiting rooms (Waiting Room A 16㎡, Waiting Room B 13.5㎡), and there is one restroom each for men and women. The waiting rooms included in the basic fee are 2 for the Main Hall and 1 for the Small Hall. An additional waiting room is 10,000 yen per day (excluding tax). (Source: Rental page, price list of June 18, 2026)",
+  "catering": "Eating and drinking in the hall (dinner shows, etc.) is an option at 100,000 yen per day (excluding tax). In principle, a 1-drink fee of 600 yen is collected from each attendee; plans where the organizer pays (guaranteed 1 drink) or with no drinks can also be discussed. Trash is in principle taken home; disposal at the venue is an option at 5,000 yen per day (excluding tax). (Source: Price list of June 18, 2026, FAQ)"
+ },
+ "documents": [
+  {
+   "title": "Main Hall Rental Price List (version of June 18, 2026)"
+  },
+  {
+   "title": "Small Hall Rental Price List (version of June 18, 2026)"
+  },
+  {
+   "title": "Notice to Hall Rental Users (reservation method, cancellation policy and payment method; dated August 19, 2024)"
+  },
+  {
+   "title": "Restriction of Accessible Areas / Floor Guide (Main Hall and Small Hall)"
+  },
+  {
+   "title": "3F Floor Guide (December 24, 2024)"
+  },
+  {
+   "title": "Main Hall Floor Plan (December 24, 2024)"
+  },
+  {
+   "title": "Small Hall Floor Plan (December 24, 2024)"
+  },
+  {
+   "title": "Main Hall Stage Equipment List"
+  },
+  {
+   "title": "Small Hall Stage Equipment List"
+  },
+  {
+   "title": "Inquiries / FAQ"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "FamilyMart Higashi-Shinjuku Station West",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "FamilyMart Shinjuku Shokuan-dori",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "Lawson Kabukicho 2-chome",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location."
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "Accea Shinjuku 3-chome",
+    "hours": "Weekdays 9:00-20:00 / Closed Sat, Sun & holidays",
+    "note": "Distance is calculated from the address location. Shown as \"Accea Mini\" (a small store) on the official site. Cash is not accepted for payment at the store (credit card, electronic money, QR code payment, BizSPOT Pay)."
+   },
+   {
+    "name": "Accea Nishi-Shinjuku",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Can Do Shin-Okubo",
+    "hours": "Mon-Fri 9:00-22:00 / Sat, Sun 9:00-21:00",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "DAISO Shinjuku Subnade",
+    "hours": "10:00-21:00",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "donki": [
+   {
+    "name": "Don Quijote Shinjuku",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. The store name on the Don Quijote official website is \"Shinjuku Store\" (新宿店)."
+   },
+   {
+    "name": "Don Quijote Shinjuku Kabukicho",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. The store name on the Don Quijote official website is \"Shinjuku Kabukicho Store\" (新宿歌舞伎町店)."
+   }
+  ]
+ },
+ "photoCredit": "Image of the nearest station, Shin-Okubo Station, not the venue building. © Tokyo-Good / CC BY-SA 4.0 · Wikimedia Commons"
+}

@@ -1,0 +1,366 @@
+{
+ "slug": "makuhari-messe",
+ "name": "MAKUHARI MESSE",
+ "address": "Chiba 261-8550 2-1 Nakase, Mihama-ku, Chiba City",
+ "accessSummary": "JR Keiyo Line, Kaihimmakuhari Station: about 5 min walk / JR Keiyo Line, Makuharitoyosuna Station: about 20 min walk / JR Sobu Line and Keisei Line, Makuharihongo Station: about 17 min by bus bound for \"Makuhari Messe Central\"",
+ "hours": "For the International Exhibition Hall, one day is 0:00-24:00 (a half day is 0:00-12:00 or 12:00-24:00). Meeting room use at the International Conference Hall is in time slots within 9:00-21:00. The basic usage fee for Makuhari Event Hall is for 12 consecutive hours, and attendant personnel costs are charged separately before 8:00 and after 22:00.",
+ "notice": null,
+ "rooms": [
+  {
+   "name": "International Exhibition Hall - Exhibition Halls 1-8 (each hall)",
+   "note": "Measured at wall centerlines: length (north-south) 112.5 m x width (east-west) 60 m. The floor load limit is up to 5 t/m². Halls can be combined or divided with movable partitions, and Halls 1-8 together total up to 54,000 m². Each hall comes with an organizer's room (116 m²), a multipurpose room (181 m²), a business meeting area (116 m²), a proscenium deck (2F, 62 m²), a storage room (2F, 5.7 m²) and a kitchenette (4 m²)."
+  },
+  {
+   "name": "International Exhibition Hall - Exhibition Halls 1-8 (all 8 halls)",
+   "note": "6,750 m² x 8 halls. Can be divided for use with movable partitions."
+  },
+  {
+   "name": "International Exhibition Hall - Exhibition Hall 9",
+   "note": "Measured at wall centerlines: length (east-west) 96 m x width (north-south) 96 m. The floor load limit is 5 t/m². Attached: organizer's room 68 m², multipurpose rooms 65 m² and 81 m², business meeting rooms 83 m², 124 m² and 86 m², conference room 130 m²."
+  },
+  {
+   "name": "International Exhibition Hall - Exhibition Halls 10 and 11 (each hall)",
+   "note": "Measured at wall centerlines: length (east-west) 96 m x width (north-south) 48 m. The floor load limit is 3 t/m². Hall 10: organizer's room 87 m², multipurpose room 87 m², business meeting room 85 m², conference room 130 m². Hall 11: organizer's room 92 m², multipurpose room 92 m², business meeting room 85 m², conference room 130 m². The ceiling height is as stated in the facility guide pamphlet (the official website gives a maximum of 34 m and a minimum of 16 m for Exhibition Halls 9-11 as a whole)."
+  },
+  {
+   "name": "International Exhibition Hall - Exhibition Halls 9-11 (all 3 halls)",
+   "note": "Exhibition Hall 9 (9,000 m²) + Exhibition Halls 10 and 11 (4,500 m² each). Connected by 2F connecting bridges to Exhibition Halls 1-8, the International Conference Hall and Makuhari Event Hall."
+  },
+  {
+   "name": "International Exhibition Hall - Outdoor Exhibition Space",
+   "note": "The usage fee is 46 yen per m² per day and 23 yen per half day (tax included, for use from April 1, 2026)."
+  },
+  {
+   "name": "International Exhibition Hall - Conference rooms attached to Exhibition Halls 1, 3, 4, 6 and 7 (each room)",
+   "note": "Includes the provided fixtures and equipment. The usage fee is 36,310 yen per room per day and 18,150 yen per half day (tax included, for use from April 1, 2026)."
+  },
+  {
+   "name": "International Exhibition Hall - Conference rooms attached to Exhibition Halls 2, 5 and 8 (each room)",
+   "note": "Includes the provided fixtures and equipment. The usage fee is 48,400 yen per room per day and 24,200 yen per half day (tax included, for use from April 1, 2026)."
+  },
+  {
+   "name": "International Exhibition Hall - Conference rooms attached to Exhibition Halls 9-11 (each room)",
+   "note": "Includes the provided fixtures and equipment. The usage fee is 57,540 yen per room per day and 28,770 yen per half day (tax included, for use from April 1, 2026)."
+  },
+  {
+   "name": "International Exhibition Hall - Special Meeting Room (Exhibition Halls 9-11, 2F)",
+   "note": "Includes one waiting room, a lobby, a reception counter and the provided fixtures and equipment. The usage fee is 77,920 yen per room per day and 38,960 yen per half day (tax included, for use from April 1, 2026). The theater capacity of 150 is as stated in the facility guide pamphlet (September 2024)."
+  },
+  {
+   "name": "International Conference Hall - Convention Hall (2F, entire room)",
+   "note": "32.4 m (east-west) x 42.9 m (north-south). Examination: 684. Classroom is 3 per desk. The facility introduction on the official website also says it accommodates \"1,600 people\"."
+  },
+  {
+   "name": "International Conference Hall - Convention Hall (2F, split A / B, each)",
+   "note": "32.4 m (east-west) x 20.7 m (north-south). Can be divided in two and each room used separately. Examination: 304. Classroom is 3 per desk."
+  },
+  {
+   "name": "International Conference Hall - International Conference Room (2F)",
+   "note": "25.6 m (east-west) x 24.8 m (north-south). Examination: 224. Classroom is 3 per desk."
+  },
+  {
+   "name": "International Conference Hall - Medium-sized Meeting Room 201 (2F, entire room)",
+   "note": "13.9 m (east-west) x 23.7 m (north-south). Examination: 100. Classroom is 3 per desk."
+  },
+  {
+   "name": "International Conference Hall - Medium-sized Meeting Room 201 (2F, split A / B, each)",
+   "note": "13.9 m (east-west) x 11.8 m (north-south). Classroom is 3 per desk."
+  },
+  {
+   "name": "International Conference Hall - Small-sized Meeting Room 202 (2F)",
+   "note": "9.1 m (east-west) x 9.1 m (north-south). Examination: 24. Classroom is 3 per desk."
+  },
+  {
+   "name": "International Conference Hall - Small-sized Meeting Room 203 (2F)",
+   "note": "8.0 m (east-west) x 9.0 m (north-south). Examination: 18. Classroom is 3 per desk."
+  },
+  {
+   "name": "International Conference Hall - Small-sized Meeting Room 204 (2F)",
+   "note": "8.0 m (east-west) x 6.6 m (north-south). Examination: 12. Classroom is 3 per desk."
+  },
+  {
+   "name": "International Conference Hall - Small-sized Meeting Room 205 (2F)",
+   "note": "8.0 m (east-west) x 6.6 m (north-south). Examination: 12. Classroom is 3 per desk."
+  },
+  {
+   "name": "International Conference Hall - Small meeting rooms 213, 214, 215 and 216 (2F, each room)",
+   "note": "3.9 m (east-west) x 4.2 m (north-south). Hollow square: 8 to 12 people. Priority is given to users of the Convention Hall."
+  },
+  {
+   "name": "International Conference Hall - Medium-sized Meeting Room 301 (3F, entire room)",
+   "note": "14.0 m (east-west) x 20.0 m (north-south). Examination: 120. Classroom is 3 per desk."
+  },
+  {
+   "name": "International Conference Hall - Medium-sized Meeting Room 301 (3F, split A)",
+   "note": "14.0 m (east-west) x 9.3 m (north-south). Classroom is 3 per desk."
+  },
+  {
+   "name": "International Conference Hall - Medium-sized Meeting Room 301 (3F, split B)",
+   "note": "14.0 m (east-west) x 10.7 m (north-south). Classroom is 3 per desk."
+  },
+  {
+   "name": "International Conference Hall - Medium-sized Meeting Room 302 (3F)",
+   "note": "11.4 m (east-west) x 17.0 m (north-south). Examination: 80. Classroom is 3 per desk."
+  },
+  {
+   "name": "International Conference Hall - Medium-sized Meeting Room 303 (3F)",
+   "note": "11.4 m (east-west) x 17.0 m (north-south). Examination: 80. Classroom is 3 per desk."
+  },
+  {
+   "name": "International Conference Hall - Medium-sized Meeting Room 304 (3F)",
+   "note": "14.4 m (east-west) x 13.2 m (north-south). Examination: 56. Classroom is 3 per desk."
+  },
+  {
+   "name": "International Conference Hall - Medium-sized Meeting Room 101 (1F, entire room)",
+   "note": "14.4 m (east-west) x 11.1 m (north-south). Examination: 54. Classroom is 3 per desk."
+  },
+  {
+   "name": "International Conference Hall - Medium-sized Meeting Room 101 (1F, split A / B, each)",
+   "note": "7.2 m (east-west) x 11.1 m (north-south). Classroom is 3 per desk."
+  },
+  {
+   "name": "International Conference Hall - Medium-sized Meeting Room 102 (1F, entire room)",
+   "note": "7.8 m (east-west) x 17.8 m (north-south). Examination: 60. Classroom is 3 per desk."
+  },
+  {
+   "name": "International Conference Hall - Medium-sized Meeting Room 102 (1F, split A)",
+   "note": "7.8 m (east-west) x 8.1 m (north-south). Classroom is 3 per desk. The price list gives the 102 split rooms as 65 m²."
+  },
+  {
+   "name": "International Conference Hall - Medium-sized Meeting Room 102 (1F, split B)",
+   "note": "7.8 m (east-west) x 9.0 m (north-south). Classroom is 3 per desk. The price list gives the 102 split rooms as 65 m²."
+  },
+  {
+   "name": "International Conference Hall - Medium-sized Meeting Room 103 (1F)",
+   "note": "19.2 m (east-west) x 8.1 m (north-south). Examination: 66. Classroom is 3 per desk. 103, 104 and 105 are listed together in the price list."
+  },
+  {
+   "name": "International Conference Hall - Medium-sized Meeting Room 104 (1F)",
+   "note": "19.2 m (east-west) x 8.1 m (north-south). Examination: 66. Classroom is 3 per desk."
+  },
+  {
+   "name": "International Conference Hall - Medium-sized Meeting Room 105 (1F)",
+   "note": "19.2 m (east-west) x 8.1 m (north-south). Examination: 66. Classroom is 3 per desk."
+  },
+  {
+   "name": "International Conference Hall - VIP Reception Room 1 (1F)",
+   "note": "Table and sofa set for 8 people."
+  },
+  {
+   "name": "International Conference Hall - VIP Reception Room 2 (1F)",
+   "note": "Table and sofa set for 6 people."
+  },
+  {
+   "name": "Makuhari Event Hall - Arena",
+   "note": "The ceiling height is up to 27 m. Capacity of up to 9,000 (facility introduction on the official website). 3,948 fixed seats (including box seats), 912 movable seats and about 3,000 temporary seats. 100 hanging hooks, 21 lighting truss battens, 4 lighting battens and 12 ceiling banner battens. For the seating charts (2F fixed 2,060 seats, 3F fixed 1,888 seats), see the official seating chart PDF."
+  },
+  {
+   "name": "Makuhari Event Hall - Staff Rooms 1-5 (5 rooms in total)",
+   "note": "Staff Room 1: 45 m², Staff Room 2: 40 m², Staff Room 3: 95 m², Staff Room 4: 125 m², Staff Room 5: 95 m². Wi-Fi is available in each staff room. Included in the basic usage fee: Staff Rooms 1-5 and the Rehearsal Room for use from January 2027, and Staff Room 1 and the Rehearsal Room for use through December 2026."
+  },
+  {
+   "name": "Makuhari Event Hall - Rehearsal Room",
+   "note": "1 room."
+  },
+  {
+   "name": "Makuhari Event Hall - VIP Reception Room",
+   "note": "1 room. 6 sofa seats. The usage fee is 33,000 yen per day (from January 1, 2027; 27,500 yen for use through December 2026), tax included in both cases."
+  },
+  {
+   "name": "Makuhari Event Hall - Lobby (South / North)",
+   "note": "South Lobby 400 m², North Lobby 400 m²."
+  }
+ ],
+ "ops": {
+  "prevDaySetup": "For the International Exhibition Hall, one day is 0:00-24:00 and a half day is 0:00-12:00 or 12:00-24:00. The usage fee per exhibition hall per day is 2,298,470 yen for Exhibition Halls 1-8, 3,065,330 yen for Exhibition Hall 9 and 1,532,660 yen for Exhibition Halls 10-11 (tax included, for use from April 1, 2026). Discounts (for example, an amount equivalent to 90% of the usage fee) are available for simultaneous use of 8 or more of Exhibition Halls 1-11 (7 or more if Hall 9 is included), for use in January or August, and for use of 30 consecutive days or more. For the International Conference Hall, when the Convention Hall or the International Conference Room is used for setup and removal, the fee is 80% of the usage fee (not applied to overtime charges). For Makuhari Event Hall, separate setup and removal fees are set, for 12 hours per session: 1,210,000 yen for ceremonies, assemblies, exhibitions and the like, 1,650,000 yen for commercial performances, and 660,000 yen for amateur sports and public events (tax included, for use from January 1, 2027; 990,000 yen, 1,320,000 yen and 495,000 yen for use through December 2026). For use before 8:00 or after 22:00, attendant personnel costs are charged separately. (Source: International Exhibition Hall Price List from April 1, 2026 use; International Conference Hall Price List, January 2027 edition; Makuhari Event Hall Price List, January 2027 edition and for use through December 2026)",
+  "loadingHours": "Exhibition halls are rented by the day (0:00-24:00) or half day. The load-in and load-out entrances are: for Exhibition Halls 1-8, north entrances W5.2 m x H4 m x 2 and south entrances W8.3 m x H5.6 m (on-site gate width 9 m); for Exhibition Halls 9-11, W10 m x H4.6 m for each hall (identical on the east and west sides, on-site gate width 10 m). Trucks can drive directly in through multiple load-in and load-out entrances of each hall. Makuhari Event Hall has 2 load-in and load-out entrances (4.5 m wide x 3.8 m high). The International Conference Hall has a freight elevator. Meeting room use at the International Conference Hall is in time slots within 9:00-21:00 (9-12, 13-17, 18-21, 9-17, 13-21 and 9-21), with overtime in 1-hour units. The basic usage fee for Makuhari Event Hall is for 12 consecutive hours as one session, and attendant personnel costs are charged separately before 8:00 and after 22:00. Procedures in advance: for the International Exhibition Hall, fill in the usage plan form by 1 month before the start of use, attach the venue layout drawing, the drawings of various construction work, the application for use of heating and cooling equipment and the application for use of electrical and other equipment, and hold a meeting with the Business Division 2 (the security plan is also a matter for the meeting). For the International Conference Hall and Makuhari Event Hall, meetings with the Business Division 1 begin about 1 month before the start of use, and for the Event Hall the load-in and load-out and setup and removal plans are also matters for the meeting. The user files the event notification with the police station, the event notification and fire prevention manager appointment notification with the fire department, and the food business permit application with the public health center. (Source: Facility Guide Pamphlet, September 2024; Usage Procedure; International Exhibition Hall Price List, April 2026; International Conference Hall Price List, January 2027 edition; Makuhari Event Hall Price List, January 2027 edition)",
+  "vehicleRules": "Vehicles that can enter through the on-site gates are limited to a gross weight (vehicle weight + load) of 30 t or less for Exhibition Halls 1-8, 45 t or less for Exhibition Halls 9-11, and 30 t or less for the load-in and load-out entrances of Makuhari Event Hall. The terms of use of the International Exhibition Hall, the International Conference Hall and Makuhari Event Hall require the user to prepare a security manual describing the plan for organizing and guiding load-in and load-out vehicles and visitor vehicles, the plan for organizing and guiding visitors, and emergency response, so that vehicles and visitors are guided safely and smoothly. Vehicles that need to be left on site can be parked in the Makuhari Messe parking lot, and the fee is based on the number of days of use (example: for a standard-size car entering at 20:00 on April 1 and leaving at 8:00 on April 2, 1,000 yen x 2 days). Overnight stays in the parking lot are not allowed. (Source: Facility Guide Pamphlet, September 2024; International Conference Hall and Makuhari Event Hall Terms of Use, applied from January 1, 2027; International Exhibition Hall Terms of Use, applied from October 1, 2023; official website Q&A)",
+  "parking": "The Makuhari Messe parking lot (3-1 Toyosuna, Mihama-ku, Chiba City) has 5,000 spaces for standard-size cars, 120 for large vehicles and 50 for motorcycles (plus 51 spaces for wheelchair users), and is open 8:00-23:00 (entry until 21:00). The fee is 1,000 yen per day per entry for standard and semi-medium-sized vehicles, 4,100 yen for large and medium-sized vehicles and 200 yen for motorcycles, and reservations are not accepted. Cashless payment is accepted. There is a bus drop-off and pick-up area, and it is free for up to 15 minutes for drop-off and pick-up only. The nearby Makuhari New City Prefectural Underground Parking No. 2 has 459 spaces and is open 24 hours, with a regular rate of 100 yen per 20 minutes and a maximum of 1,000 yen within 24 hours after parking (the official website shows Prefectural Underground Parking No. 1 as closed). (Source: Official website, Access and Q&A, retrieved November 2026)",
+  "waitingRooms": "In the International Exhibition Hall, each of Exhibition Halls 1-8 comes with an organizer's room (116 m²), a multipurpose room (181 m²), a business meeting area (116 m²) and a kitchenette, and the conference rooms are 3 rooms of 116 m² and 5 rooms of 82 m² (usage fee charged separately). Exhibition Hall 9 has an organizer's room (68 m²), 2 multipurpose rooms (65 m² and 81 m²), 3 business meeting rooms (83 m², 124 m² and 86 m²) and a conference room (130 m²); Hall 10 has an organizer's room (87 m²), a multipurpose room (87 m²), a business meeting room (85 m²) and a conference room (130 m²); Hall 11 has an organizer's room (92 m²), a multipurpose room (92 m²), a business meeting room (85 m²) and a conference room (130 m²). Exhibition Halls 9-11 also have a Special Meeting Room (2F, 176 m², with 1 waiting room). The International Conference Hall has 2 VIP reception rooms (Room 1: 65 m², seats 8; Room 2: 30 m², seats 6) and rooms 213-216 on the 2nd floor (16 m² each, hollow square for 8 to 12). Makuhari Event Hall has 5 staff rooms (45 m², 40 m², 95 m², 125 m² and 95 m²), a Rehearsal Room of 320 m², a VIP Reception Room of 62 m², 2 shower rooms and 1 first-aid room. Included in the basic usage fee: Staff Rooms 1-5 and the Rehearsal Room for use from January 2027, and Staff Room 1 and the Rehearsal Room for use through December 2026. (Source: Official website, facility pages for the International Exhibition Hall, International Conference Hall and Makuhari Event Hall; each price list)",
+  "catering": "All food and drink at the International Conference Hall is provided by Makuhari Messe, and food and drink arranged by the user cannot be brought in. The party plan starts at 4,000 yen (excluding tax) for food for 20 or more people; the banquet is up to 2 hours, in principle standing or buffet style, to be consulted on by 1 month before and ordered by 14 days before (excluding Saturdays, Sundays and holidays). The Hana Plan (with all-you-can-drink) is 7,700 yen including tax and the En Plan (with all-you-can-drink) is 6,600 yen including tax (each per person, room fee included). Bento boxes are 1,000 to 1,600 yen (excluding tax) and Shokado Gozen are 2,000 to 4,000 yen (excluding tax). The International Exhibition Hall does not have a designated vendor system, and the user arranges the vendors involved in setting up and running the venue (electricity, water, security, cleaning and so on). The user files the notifications and permit applications required for the event, such as the food business permit application to the public health center. (Source: International Conference Hall Party Plan, applied from February 1, 2026; Catering Menu PDF [applied from October 1, 2025]; International Conference Hall Price List, January 2027 edition; International Exhibition Hall Terms of Use, applied from October 1, 2023)",
+  "restaurants": "There are 2 cafeterias in the Central Mall of the International Exhibition Hall: WORLD KITCHENS! (in front of Exhibition Hall 6, 390 seats) and ROYAL KITCHENS! (in front of Exhibition Hall 1, 300 seats). Both accept private parties and bento box catering (business days depend on the event schedule). The convenience stores are New Yamazaki Daily Store Makuhari Messe (Central Entrance), Daily Yamazaki Makuhari Messe II (in front of Exhibition Hall 9) and Daily Yamazaki Makuhari Messe III (in front of Exhibition Hall 1). Makuhari Messe handles the \"Makuhari Messe Meal Ticket,\" which can be used at the main restaurants in the hotels and office buildings in Makuhari New City, including Makuhari Messe. (Source: Official website, Restaurants and Convenience Stores, and Q&A, retrieved November 2026)"
+ },
+ "documents": [
+  {
+   "title": "International Exhibition Hall Price List (for use from April 1, 2026)"
+  },
+  {
+   "title": "International Exhibition Hall Terms of Use (applied from October 1, 2023)"
+  },
+  {
+   "title": "International Conference Hall Price List (for use from January 1, 2027)"
+  },
+  {
+   "title": "International Conference Hall Price List (for use through December 2026)"
+  },
+  {
+   "title": "Makuhari Event Hall Price List (for use from January 1, 2027)"
+  },
+  {
+   "title": "Makuhari Event Hall Price List (for use through December 2026)"
+  },
+  {
+   "title": "International Conference Hall and Makuhari Event Hall Terms of Use (applied from January 1, 2027)"
+  },
+  {
+   "title": "International Conference Hall and Makuhari Event Hall Terms of Use (for use through December 2026)"
+  },
+  {
+   "title": "Makuhari Messe Facility Guide Pamphlet (September 2024)"
+  },
+  {
+   "title": "Makuhari Messe Floor Map (May 1, 2026)"
+  },
+  {
+   "title": "International Conference Hall Party Plan (applied from February 1, 2026)"
+  },
+  {
+   "title": "International Conference Hall Catering Menu"
+  },
+  {
+   "title": "Exhibition Halls 1-8 Surroundings, 1F Layout Plan"
+  },
+  {
+   "title": "Exhibition Halls 1-3, 4-6 and 7-8 Floor Plans"
+  },
+  {
+   "title": "Exhibition Halls 9-11, 1F and 2F Floor Plans"
+  },
+  {
+   "title": "Central, East and West Entrances and Central Mall Drawings"
+  },
+  {
+   "title": "International Conference Hall Floor Maps, 1F-3F (General Version)"
+  },
+  {
+   "title": "International Conference Hall Convention Hall Drawing"
+  },
+  {
+   "title": "International Conference Hall International Conference Room Drawing"
+  },
+  {
+   "title": "International Conference Hall 201 Drawing"
+  },
+  {
+   "title": "International Conference Hall 202-205 Drawing"
+  },
+  {
+   "title": "International Conference Hall 213-216 Drawing"
+  },
+  {
+   "title": "International Conference Hall 301 Drawing"
+  },
+  {
+   "title": "International Conference Hall 302 Drawing"
+  },
+  {
+   "title": "International Conference Hall 303 Drawing"
+  },
+  {
+   "title": "International Conference Hall 304 Drawing"
+  },
+  {
+   "title": "International Conference Hall 101 Drawing"
+  },
+  {
+   "title": "International Conference Hall 102 Drawing"
+  },
+  {
+   "title": "International Conference Hall 103 Drawing"
+  },
+  {
+   "title": "International Conference Hall 104 Drawing"
+  },
+  {
+   "title": "International Conference Hall 105 Drawing"
+  },
+  {
+   "title": "International Conference Hall VIP Reception Room 1 Drawing"
+  },
+  {
+   "title": "International Conference Hall VIP Reception Room 2 Drawing"
+  },
+  {
+   "title": "Makuhari Event Hall Floor Map"
+  },
+  {
+   "title": "Makuhari Event Hall 1F Floor Plan"
+  },
+  {
+   "title": "Makuhari Event Hall 2F Floor Plan"
+  },
+  {
+   "title": "Makuhari Event Hall 3F Floor Plan"
+  },
+  {
+   "title": "Makuhari Event Hall Seating Charts (full set)"
+  },
+  {
+   "title": "High-Speed Optical Fiber Service (Paid) Guide"
+  },
+  {
+   "title": "High-Speed Optical Fiber Service Price List (Ver. July 1, 2026)"
+  },
+  {
+   "title": "International Conference Hall Permanent Network Use Application Form (Excel)"
+  },
+  {
+   "title": "High-Speed Optical Fiber Application Forms (full set, Excel)"
+  },
+  {
+   "title": "Application Form for Photography in Makuhari Messe Common Areas (Excel)"
+  },
+  {
+   "title": "Makuhari Messe Meal Ticket, Participating Stores (from April 1, 2026)"
+  },
+  {
+   "title": "Materials and Facility Photos (download list for organizers)"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "7-Eleven World Business Garden",
+    "hours": "7:00-23:00 (Mon-Sun and holidays)",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "7-Eleven aune Kaihin-Makuhari",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "FamilyMart Makuhari Amuse Mall",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location."
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "Accea Kaihin-Makuhari",
+    "hours": "Weekdays 8:00-22:00 / Sat, Sun & holidays 9:00-19:00",
+    "note": "Distance is calculated from the address location. The official page says \"5 minutes on foot from Makuhari Messe.\""
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Seria Plena Makuhari",
+    "hours": "Daily 10:00-20:00",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "Can Do AEON Mall Makuhari New City",
+    "hours": "Daily 10:00-21:00",
+    "note": "Distance is calculated from the official store location."
+   }
+  ],
+  "donki": [
+   {
+    "name": "Don Quijote Makuhari",
+    "hours": "9:30-3:00",
+    "note": "Distance is calculated from the address location. Far. The store name on the Don Quijote official website is \"Makuhari\"."
+   }
+  ]
+ },
+ "photoCredit": "© 掬茶 / CC BY-SA 3.0 · Wikimedia Commons"
+}

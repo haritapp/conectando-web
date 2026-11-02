@@ -1,0 +1,160 @@
+{
+ "slug": "tokyo-midtown-hibiya-hall",
+ "name": "Tokyo Midtown Hibiya Hall & Conference",
+ "address": "Tokyo 100-0006 1-1-2 Yurakucho, Chiyoda-ku",
+ "accessSummary": "Hibiya Station (Tokyo Metro Chiyoda Line and Hibiya Line, Toei Mita Line): directly connected / Yurakucho Station (Tokyo Metro Yurakucho Line): directly connected (4 min walk) / Ginza Station (Tokyo Metro Marunouchi Line, Hibiya Line and Ginza Line): directly connected (5 min walk) / Yurakucho Station (JR Yamanote Line and Keihin-Tohoku Line): 5 min walk",
+ "hours": "Basic rental hours 9:00-21:00 (extension of up to 2 hours before and after is possible)",
+ "notice": null,
+ "rooms": [
+  {
+   "name": "6F HALL1",
+   "note": "Single-room use. Basic rental hours are 9:00-21:00."
+  },
+  {
+   "name": "6F HALL2",
+   "note": "Single-room use."
+  },
+  {
+   "name": "6F HALL3",
+   "note": "The HALL area is 199㎡, and it comes with the HALL3-2 area (2 VIP rooms [27㎡ / 26㎡], LOUNGE 79㎡, terrace 85㎡). The total area including this attached area is 331㎡."
+  },
+  {
+   "name": "6F HALL1+2 (area use; includes cloakroom, foyer, KITCHEN and kitchen)",
+   "note": "Total area is 803㎡ (includes cloakroom 21㎡, KITCHEN 83㎡, kitchen 12㎡, foyer 185㎡ and 3 waiting rooms [45㎡ / 34㎡ / 22㎡]). Standing capacity is 379 people including the KITCHEN and foyer. Equipped with projectors that allow large-scale projection onto the walls. The layout drawings also show classroom 264 seats (lengthwise) and 243 seats (crosswise). The foyer in front of HALL3 cannot be used."
+  },
+  {
+   "name": "6F HALL1+2+3 (all areas; includes cloakroom, foyer, KITCHEN and kitchen)",
+   "note": "The HALL area in the price list is 688㎡, while the area in the spec column is 767㎡. Total area is 1,262㎡ (includes cloakroom 21㎡, KITCHEN 83㎡, foyer 228㎡, kitchen 12㎡, 3 waiting rooms and the HALL3-2 area). Standing capacity is 540 people including the KITCHEN and foyer. The venue information page of the User Guide (July 1, 2026) also shows standing capacity as 387 people."
+  },
+  {
+   "name": "6F KITCHEN+Foyer",
+   "note": "Equipped with full-scale kitchen facilities. The kitchen (12㎡) and cloakrooms (21㎡ and 13㎡) are separate. Standing capacity is 158 people."
+  },
+  {
+   "name": "7F Banquet Room",
+   "note": "With pantry. Island layout: 32 people. Can also be used together with the halls and conference rooms in the building, or as a guest waiting room."
+  },
+  {
+   "name": "8F ROOM1",
+   "note": "Corridor side. ROOM1 and ROOM2 can be used separately."
+  },
+  {
+   "name": "8F ROOM2",
+   "note": "Window side."
+  },
+  {
+   "name": "8F ROOM1+2 (includes foyer and waiting room)",
+   "note": "Total area is 401㎡ (includes foyer 100㎡). Classroom 144 seats is with 3 people per desk; with 2 people per desk it is 96 seats (layout drawing). The foyer in front of ROOM3 to 5 cannot be used."
+  },
+  {
+   "name": "8F ROOM3, ROOM4 and ROOM5 (each)",
+   "note": "Island layout: 12 people. Small rooms used as waiting rooms or for meetings, equipped with a monitor, speaker microphone, whiteboard and full-length mirror."
+  },
+  {
+   "name": "8F ROOM4+5 (connected)",
+   "note": "ROOM4 and ROOM5 can be connected. The official capacity is 30 people (no layout type is stated). The layout drawing shows the classroom layout as 24 seats."
+  },
+  {
+   "name": "8F ROOM1 to 5 (all areas; includes foyer and waiting room)",
+   "note": "Total area is 527㎡ (includes foyer 145㎡)."
+  },
+  {
+   "name": "9F ROOM6",
+   "note": "Glass-walled open space."
+  }
+ ],
+ "ops": {
+  "prevDaySetup": "Load-in, setup and rehearsals on the day before the event day or earlier, and removal on the day after the event day or later, are charged at a 30% discount on the room fee; there is no discount for consecutive-day use. Basic rental hours are 9:00-21:00, and extension of up to 2 hours before and after is possible. The minimum use for hourly rental is 5 hours. If departure cannot be confirmed within the reserved time, an extension fee may be charged. Advance receipt of packages is in principle designated to arrive on the morning of the day before the day of use; for events held on Saturdays, Sundays, holidays or Mondays, designate arrival on a weekday. (Source: User Guide, version of July 1, 2026, p. 18, p. 71, p. 75, p. 78)",
+  "loadingHours": "The reception of the in-building delivery center (B2F) is open daily 8:00-20:00; outside those hours, contact the venue staff. A load-in/out application is required for long items (2 m or more on one side, or 2.5 m or more in total of the three sides), heavy items of 100 kg or more per piece, and work that takes 30 minutes or more to load or unload (for long and heavy items, a protection plan must also be submitted), and it is submitted to the venue staff at least 5 business days before the load-in date (the Notes page also says at least 1 week before the facility use start date). Load-in/out of less than 30 minutes, such as delivery of commercial fixtures, does not need an application; go to the in-building delivery center on B2F with the delivery vehicle, fill in the \"Temporary Load-in/Load-out Application\", borrow a pass card and an air-tire cart, and finish within 30 minutes. The load-in/out elevators are the cargo elevator K1 (door 2,600 x 1,600 mm, car 2,500 x 2,300 x height 3,400 mm [in part], capacity 2,950 kg) and the worker elevator K2 (door 2,600 x 1,000 mm, car 1,600 x 1,650 x height 3,000 mm, capacity 1,150 kg); exclusive use is not possible. The floor load capacity is 250 kg/㎡. (Source: User Guide, version of July 1, 2026, p. 21, pp. 45-47, p. 75, p. 78)",
+  "vehicleRules": "Load-in/out vehicles enter from the entrance on the Hibiya-dori side. Vehicles up to a standard 2-ton long truck can enter (length 6,400 x width 2,200 x height 3,300 mm), and the bays in the B2F loading parking are large (7,700 x 3,000 x height 3,300 mm) and medium (5,000 x 2,300 x height 3,300 mm). The B1F loading parking is for commercial shops and cannot be used. Load-in/out that needs no application is limited to 30 minutes; after 30 minutes, the loading staff contacts the person in charge of the work and the vehicle is made to leave the loading area. Load-in/out with an application costs a parking fee of 400 yen per 30 minutes (no upper limit). There is no parking for workers, and parking on the roads around the building (including waiting to enter) and transferring cargo between trucks are prohibited. (Source: User Guide, version of July 1, 2026, p. 43, p. 45, p. 46, p. 48)",
+  "parking": "The hourly parking lot on B3F (flat and mechanical types) has about 200 spaces, is open 6:00-26:00 (no entry or exit outside business hours), and costs 400 yen per 30 minutes for cars and 250 yen per hour for motorcycles. Mechanical type: standard cars up to length 5,300 x width 1,900 x height 1,550 mm and maximum weight 2,300 kg; high-roof vehicles up to height 2,050 mm. Flat type: standard cars 5,300 x 2,500 mm, small cars 5,000 x 2,300 mm, vehicles for people with disabilities 6,000 x 3,500 mm, with a height limit of 2,100 mm in all cases; there are 2 spaces for people with disabilities (flat type). There is no advance reservation of parking space for users and visitors, and no discount. Parking tickets are sold at the facility; tell the venue staff the number needed in advance. (Source: User Guide, version of July 1, 2026, p. 42, p. 78)",
+  "waitingRooms": "The area use of HALL1+2 and HALL1+2+3 comes with 3 waiting rooms (45㎡ / 34㎡ / 22㎡) and a cloakroom. HALL3 comes with the HALL3-2 area (2 VIP rooms [27㎡ / 26㎡], LOUNGE 79㎡, terrace 85㎡). The area use of 8F ROOM1+2 and ROOM1 to 5 includes a waiting room. ROOM3/4/5 are 27㎡ each (ROOM4+5 can be connected to make 54㎡), and the official site says they can also be used as waiting rooms for speaking guests and operating staff. The 7F Banquet Room (76㎡, with pantry) can also be used as a guest waiting room. (Source: Price & Spec page; top page; User Guide, version of July 1, 2026, p. 18)",
+  "catering": "For catering, the user orders directly from the venue's partner catering companies and also pays them directly after the event. Partner companies for parties are Imperial Hotel, Hibiya Matsumotoro, grace, DYNAC, APORTE, Esprit & co., Catering Orihara, Sankei Kaikan, CBS Catering, Yushima Ogi, LOYCE CATERING, DEAN & DELUCA, Nilax, Folie Classe and Party Maker; companies for boxed meals only are Shimogamo Saryo, Tonkatsu Maisen, Nadaman, Kiyoken and Kyoryori Minokichi. As an example, the Imperial Hotel is for 20 people or more, with a buffet food unit price from 8,000 yen, and the deadline is 30 days before (excluding Saturdays, Sundays and holidays). There are no trash bins in the venue, so ask the catering company to collect the trash. Vegetarian and halal requests can be consulted; halal ingredients can be used, but the dedicated kitchen and dedicated cooking equipment cannot be provided. When bringing in food and drink, inform the venue staff of the contents of the use. When using the 6F KITCHEN, submit a hygiene management survey sheet. (Source: User Guide, version of July 1, 2026, p. 21, pp. 35-41)",
+  "restaurants": "The restaurant & food list of Tokyo Midtown Hibiya shows Japanese cuisine 13, Chinese 1, Italian, French and Western 13, Asian and ethnic 3, bar 1, cafe and sweets 12, deli and bakery 2, and convenience store 1 (B1 to 7F; restaurants are open 11:00-23:00). The official Hall & Conference page says that the shops, restaurants and cafes in the building and TOHO Cinemas Hibiya can enhance the value of visitors' day of stay."
+ },
+ "documents": [
+  {
+   "title": "User Guide (July 1, 2026 edition)"
+  },
+  {
+   "title": "Venue Drawing"
+  },
+  {
+   "title": "Sample Layouts"
+  },
+  {
+   "title": "Old Price List (applies to use through November 30, 2026; as of January 2024)"
+  },
+  {
+   "title": "Free Equipment List (User Guide p. 22, July 1, 2026 edition)"
+  },
+  {
+   "title": "Free Furnishings List (User Guide p. 25, July 1, 2026 edition)"
+  },
+  {
+   "title": "Usage Flow (User Guide p. 19, July 1, 2026 edition)"
+  },
+  {
+   "title": "Guide to Load-in/Load-out (User Guide p. 45, July 1, 2026 edition)"
+  },
+  {
+   "title": "Guide to Sign Stands and Guide Staff Placement (User Guide p. 57, July 1, 2026 edition)"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "7-Eleven Tokyo Midtown Hibiya",
+    "hours": "6:00-23:00 (Mon-Sun & holidays)",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "7-Eleven Hibiya Ekimae",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "FamilyMart Hibiya Chanter-mae",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location."
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "Accea Ginza Five",
+    "hours": "Weekdays 10:00-20:00 / Closed Sat, Sun & holidays",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Accea Shimbashi Station Ginza Exit",
+    "hours": "Open continuously from Mon 8:00 to Sat 19:00 / Sun & holidays 10:00-19:00",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "3COINS +plus Nishi-Ginza Department Store",
+    "hours": "11:00-20:00",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "DAISO Marronnier Gate Ginza",
+    "hours": "11:00-21:00",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "donki": [
+   {
+    "name": "Don Quijote Ginza Main Building (Ginza Nine Building No. 3)",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Picasso Akasaka (Don Quijote)",
+    "hours": "7:00-3:00",
+    "note": "Distance is calculated from the address location. A different Don Quijote format (the store name on the official website is \"Picasso Akasaka\" (ピカソ赤坂店)). Far."
+   }
+  ]
+ },
+ "photoCredit": "© Charlie fong / CC BY-SA 4.0 · Wikimedia Commons"
+}

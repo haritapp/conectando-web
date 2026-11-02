@@ -1,0 +1,375 @@
+{
+ "slug": "midtown-yaesu-conference",
+ "nameJa": "東京ミッドタウン八重洲カンファレンス",
+ "nameEn": "Tokyo Midtown Yaesu Conference",
+ "type": "conference",
+ "area": "marunouchi-nihonbashi-venues",
+ "address": "〒104-0028 東京都中央区八重洲2-2-1 東京ミッドタウン八重洲 八重洲セントラルタワー4階・5階",
+ "officialUrl": "https://www.yaesu.tokyo-midtown.com/",
+ "organizerUrl": "https://www.yaesu.tokyo-midtown.com/conference/",
+ "bizintokyoSlug": "midtown-yaesu-conference",
+ "accessSummary": "JR東京駅 地下直結（八重洲地下街経由）／東京メトロ丸の内線 東京駅 地下直結（八重洲地下街経由）／東京メトロ銀座線 京橋駅 徒歩3分／東京メトロ東西線・銀座線・都営浅草線 日本橋駅 徒歩6分",
+ "notice": null,
+ "hours": "9:00〜21:00（平日・土日祝。休館日は年末年始と臨時設備点検日。電話受付は平日9:00〜17:00）",
+ "rooms": [
+  {
+   "name": "4F 大会議室1+2",
+   "areaM2": 382,
+   "ceilingM": 4.0,
+   "theater": 378,
+   "school": 240,
+   "ushape": 80,
+   "standing": 191,
+   "banquet": null,
+   "note": "2室を仕切って、セミナーと懇親会のように連動して使える。島型は縦レイアウトで120名。横レイアウトの図面はシアター385席・スクール243席・島型126席で、料金表の378・240名と数字が違う。公式ページでは「2つあわせて最大378名」とある"
+  },
+  {
+   "name": "4F 大会議室1",
+   "areaM2": 154,
+   "ceilingM": 4.0,
+   "theater": 132,
+   "school": 108,
+   "ushape": 48,
+   "standing": 77,
+   "banquet": null,
+   "note": null
+  },
+  {
+   "name": "4F 大会議室2",
+   "areaM2": 212,
+   "ceilingM": 4.0,
+   "theater": 198,
+   "school": 135,
+   "ushape": 54,
+   "standing": 106,
+   "banquet": null,
+   "note": null
+  },
+  {
+   "name": "4F パノラマルーム",
+   "areaM2": 103,
+   "ceilingM": 4.0,
+   "theater": 55,
+   "school": 39,
+   "ushape": 30,
+   "standing": 40,
+   "banquet": null,
+   "note": "2025年12月1日オープン。東京駅を見渡せる二面採光。大会議室の向かいで、サブ会場やネットワーキングスペースとして連動して使える"
+  },
+  {
+   "name": "5F イベントスペース",
+   "areaM2": 199,
+   "ceilingM": 4.0,
+   "theater": 140,
+   "school": 88,
+   "ushape": null,
+   "standing": 99,
+   "banquet": null,
+   "note": "スクールは縦レイアウト88席（横レイアウトは70席）。展示会や交流会向けの空間"
+  },
+  {
+   "name": "5F スタジオ",
+   "areaM2": 93,
+   "ceilingM": 4.0,
+   "theater": 50,
+   "school": 36,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "配信スタジオ。イベントスペースと併用する場合の公式表記は面積199+93㎡、スクール88+36席、シアター140+50席。平場で使う場合は別途設営費用がかかることがある"
+  },
+  {
+   "name": "4F 会議室A",
+   "areaM2": 58,
+   "ceilingM": 3.5,
+   "theater": 48,
+   "school": 30,
+   "ushape": 30,
+   "standing": null,
+   "banquet": null,
+   "note": null
+  },
+  {
+   "name": "4F 会議室B・C（各）",
+   "areaM2": 39,
+   "ceilingM": 3.5,
+   "theater": 30,
+   "school": 18,
+   "ushape": 18,
+   "standing": null,
+   "banquet": null,
+   "note": null
+  },
+  {
+   "name": "4F 会議室D・E（各）",
+   "areaM2": 7,
+   "ceilingM": 3.5,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "島型4名"
+  },
+  {
+   "name": "4F 会議室F",
+   "areaM2": 10,
+   "ceilingM": 3.5,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "島型8名"
+  }
+ ],
+ "roomsSource": "https://www.yaesu.tokyo-midtown.com/conference/facility/、https://contents.file-server.net/store/346/post-item-file-data/437050736/cffc0d50-e60e-4050-b83b-0be24ef08297.pdf",
+ "ops": {
+  "prevDaySetup": {
+   "text": "準備日は室料から20%値引きされる（1催事につき1日、9:00〜21:00）。準備・リハーサル・本番・撤収を含んだ時間で予約する。営業時間は9:00〜21:00。大会議室・パノラマルーム・イベントスペース・スタジオは、希望のレイアウトを事前に無料で設営してもらえる（レイアウトは利用日の2週間前までに連絡、催事中のレイアウト転換は別途費用）。荷物の事前配送は、着日を利用日の3営業日前から前営業日の平日で指定し、かご台車に収まる分は無料で預かってもらえる。（出典：利用案内・利用規約〈Ver. 2026/09/11〜〉）",
+   "source": "https://contents.file-server.net/store/346/post-item-file-data/437050736/cffc0d50-e60e-4050-b83b-0be24ef08297.pdf"
+  },
+  "loadingHours": {
+   "text": "車両での搬出入は事前申請のうえ、B2階の荷捌場と館内物流センターを使う。受け入れは平日7:00〜20:00（最終入館19:30）、土日祝7:00〜18:00（最終入館17:30）。「搬出入申請書」と「作業申請web」を利用日の2週間前までに出す。貨物エレベーター（B2階〜5階）は積載1,600kg、扉 幅1,250×高さ2,500mm、カゴ 幅1,400×奥行2,500×高さ2,800mm。台車は2台まで会場が無料で貸し出し、3台以上は物流センターで150円（税込）/30分。2t車3台以上、エレベーターを1時間以上占有、2m以上の長尺物、1個200kg超などは別途養生・作業費用がかかることがある。手持ちの荷物は申請なしで一般エレベーターを使える。（出典：利用案内・利用規約〈Ver. 2026/09/11〜〉）",
+   "source": "https://contents.file-server.net/store/346/post-item-file-data/437050736/cffc0d50-e60e-4050-b83b-0be24ef08297.pdf"
+  },
+  "vehicleRules": {
+   "text": "荷捌場の車両制限は高さ3,300mm未満・幅2,300mm未満・長さ6,500mm未満。駐車券を発券してB2階荷捌場に入庫し、物流センターが指定した場所に停める。「搬出入許可証」をフロントガラスに掲示する。退館時はセキュリティカードの返却と引き換えに、駐車券に25分間の無償打刻をしてもらえる（物流センター受け入れ時間外は防災センターで30分）。出入りは左折入庫・左折出庫のみ。ケータリングを台車で運ぶ場合も荷捌場の利用が必要。（出典：利用案内・利用規約〈Ver. 2026/09/11〜〉）",
+   "source": "https://contents.file-server.net/store/346/post-item-file-data/437050736/cffc0d50-e60e-4050-b83b-0be24ef08297.pdf"
+  },
+  "parking": {
+   "text": "カンファレンス専用ではなく、商業施設の利用者も使うビルの一般駐車場（機械式）。24時間利用でき、料金は300円/30分で上限なし。休館日は入出庫できない。車両サイズは、1号機が普通車（全長5,600×全幅2,050×全高1,550mm）とミドルルーフ車（全高1,850mm）、2号機がハイルーフ車（全高2,000mm）。B3階の駐車場からエレベーターで4・5階へ上がる。貸切バスはB2階のバスターミナル東京八重洲から4・5階へ直通のエレベーターがある（バスの申込はカンファレンスとは別）。（出典：利用案内・利用規約〈Ver. 2026/09/11〜〉）",
+   "source": "https://contents.file-server.net/store/346/post-item-file-data/437050736/cffc0d50-e60e-4050-b83b-0be24ef08297.pdf"
+  },
+  "waitingRooms": {
+   "text": "4Fに控室A・控室B、5Fに控室1・控室2（WAITING ROOM）がある。4F大会議室の控室A・Bは室料に含まれ、控室Aに机（2,100×900mm）と椅子6脚、控室Bに机（1,500×900mm）と椅子4脚、各室に姿見・コートハンガーが備わる。ホワイエは受付会場としても使え、4Fにはクロークがある。（出典：大会議室 写真付き備品機材一覧、利用案内・利用規約〈Ver. 2026/09/11〜〉）",
+   "source": "https://contents.file-server.net/store/346/post-item-file-data/260821215/401a18e7-c77f-4ef2-b3f7-02f1fc734eb8.pdf"
+  },
+  "catering": {
+   "text": "会議室内は飲食できる。お弁当・パーティーは施設指定のケータリング業者の中から選び、見積り・注文・精算は利用者が業者と直接行う（提携外の業者は衛生管理のため利用できない）。提携先には帝国ホテル、ホテルオークラエンタープライズ、京王プラザホテル、なだ万、崎陽軒、八芳園、チカバキッチン東京八重洲などがある。イベント後に懇親会やパーティーをする場合は、メイン会場とは別にスペースの予約が必要。ミネラルウォーター（410ml）は会場で150円で用意でき、利用日の1週間前までに注文する。45Lのごみ袋は7袋まで無償、8袋目以降は1枚2,000円。パントリーでは裸火・ガスコンロが禁止。（出典：利用案内・利用規約〈Ver. 2026/09/11〜〉、ケータリング提携先一覧）",
+   "source": "https://contents.file-server.net/store/346/post-item-file-data/437050736/cffc0d50-e60e-4050-b83b-0be24ef08297.pdf"
+  },
+  "restaurants": {
+   "text": "東京ミッドタウン八重洲の1〜3階にレストランがあり、営業時間は11:00〜23:00。5Fの交流ラウンジ横にカフェがある。",
+   "source": "https://www.yaesu.tokyo-midtown.com/conference/"
+  }
+ },
+ "documents": [
+  {
+   "title": "利用案内・利用規約（Ver. 2026/09/11〜）",
+   "url": "https://contents.file-server.net/store/346/post-item-file-data/437050736/cffc0d50-e60e-4050-b83b-0be24ef08297.pdf"
+  },
+  {
+   "title": "パンフレット（2025年12月版）",
+   "url": "https://contents.file-server.net/store/346/post-item-file-data/165581439/a59b90d4-0bac-441c-8bb9-3f9924dd2385.pdf"
+  },
+  {
+   "title": "会議室A～F 写真付き備品機材一覧",
+   "url": "https://contents.file-server.net/store/346/post-item-file-data/260823328/8ad16ff0-f437-46b4-840b-c502717e756a.pdf"
+  },
+  {
+   "title": "イベントスペース 写真付き備品機材一覧",
+   "url": "https://contents.file-server.net/store/346/post-item-file-data/260822774/641aef43-a7b9-41f3-a358-151d404f776c.pdf"
+  },
+  {
+   "title": "大会議室 写真付き備品機材一覧",
+   "url": "https://contents.file-server.net/store/346/post-item-file-data/260821215/401a18e7-c77f-4ef2-b3f7-02f1fc734eb8.pdf"
+  },
+  {
+   "title": "共通 写真付き備品機材一覧",
+   "url": "https://contents.file-server.net/store/346/post-item-file-data/591312200/99282934-df1f-49a1-81e4-865a1bde9c00.pdf"
+  },
+  {
+   "title": "スタジオ 写真付き備品機材一覧",
+   "url": "https://contents.file-server.net/store/346/post-item-file-data/588850655/99367ba4-b0ca-4154-b2d8-c6852ab9b6e4.pdf"
+  },
+  {
+   "title": "パノラマルーム 写真付き備品機材一覧",
+   "url": "https://contents.file-server.net/store/346/post-item-file-data/588850654/d541fe22-5653-432b-99f4-32f8d91f63f7.pdf"
+  },
+  {
+   "title": "東京駅からお越しの方へ（地下動線のご案内）",
+   "url": "https://contents.file-server.net/store/346/post-item-file-data/494074433/7be16946-590b-4ce6-95c4-339dc843ab1f.pdf"
+  },
+  {
+   "title": "館内アクセスのご案内",
+   "url": "https://contents.file-server.net/store/346/post-item-file-data/210903734/59d7d16e-4538-4686-aa72-cbf399a5b378.pdf"
+  },
+  {
+   "title": "フロアマップ",
+   "url": "https://contents.file-server.net/store/346/post-item-file-data/166098828/5d686637-5265-419b-afd0-b1d2d2914f2a.pdf"
+  },
+  {
+   "title": "【スタジオ】平面図",
+   "url": "https://contents.file-server.net/store/346/post-item-file-data/210905102/64f2711b-b27c-4018-acbd-59e5af51b342.pdf"
+  },
+  {
+   "title": "【イベントスペース】スクール形式 横 70席",
+   "url": "https://contents.file-server.net/store/346/post-item-file-data/210905101/a4a3d5cf-360e-4af4-8cb7-b164fa23a22b.pdf"
+  },
+  {
+   "title": "【イベントスペース 縦】スクール形式 88席",
+   "url": "https://contents.file-server.net/store/346/post-item-file-data/210905100/e7702fae-e9b9-4e48-8f8e-3d3d3b03b6f5.pdf"
+  },
+  {
+   "title": "【大会議室1＋2 横】シアター形式 385席",
+   "url": "https://contents.file-server.net/store/346/post-item-file-data/165581535/feaa5337-18f4-4fc3-9fee-c9876fa9d89a.pdf"
+  },
+  {
+   "title": "【大会議室1＋2 縦】シアター形式 378席",
+   "url": "https://contents.file-server.net/store/346/post-item-file-data/165581282/f36df1c0-6a02-462b-946d-c33c34df9e29.pdf"
+  },
+  {
+   "title": "【大会議室1＋2 横】スクール形式 243席",
+   "url": "https://contents.file-server.net/store/346/post-item-file-data/165581407/6a0a73bf-7ce1-4b96-a5cf-f2f00f68d54a.pdf"
+  },
+  {
+   "title": "【大会議室1＋2 縦】スクール形式 240席",
+   "url": "https://contents.file-server.net/store/346/post-item-file-data/166096069/36c0e2b3-2371-4c4e-847c-a27ff0f73c38.pdf"
+  },
+  {
+   "title": "【大会議室1＋2 横】島型 126席",
+   "url": "https://contents.file-server.net/store/346/post-item-file-data/165581309/5c71a511-987c-41a4-953d-32c02d55906e.pdf"
+  },
+  {
+   "title": "【大会議室1＋2 縦】島型 120席",
+   "url": "https://contents.file-server.net/store/346/post-item-file-data/166097549/01190a1d-3ed3-4ef7-9dbb-9a3317386366.pdf"
+  },
+  {
+   "title": "【パノラマルーム】スクール形式 39席",
+   "url": "https://contents.file-server.net/store/346/post-item-file-data/588517422/9dc25104-e1d1-464b-8312-52af083e59d4.pdf"
+  },
+  {
+   "title": "【会議室A～F】基本図",
+   "url": "https://contents.file-server.net/store/346/post-item-file-data/260840985/9c6c66cb-4619-4a2b-b3c4-6d06028f7ef4.pdf"
+  },
+  {
+   "title": "ケータリング提携先一覧",
+   "url": "https://contents.file-server.net/store/346/post-item-file-data/381506228/b2dc6eda-c9cc-4921-bbfd-2f87945b77b2.pdf"
+  },
+  {
+   "title": "【5Fチカバキッチン】ケータリングメニュー（2026年8月31日更新）",
+   "url": "https://contents.file-server.net/store/346/post-item-file-data/381506224/e9d6f523-17b5-46a3-ad14-23a20e551147.pdf"
+  }
+ ],
+ "checkedAt": "2026-11-02",
+ "lat": 35.679695,
+ "lng": 139.769165,
+ "nearby": {
+  "convenience": [
+   {
+    "name": "セブン-イレブン 東京ミッドタウン八重洲店",
+    "brand": "セブン-イレブン",
+    "distanceM": 82,
+    "walkMin": 2,
+    "hours": "7:00-23:00（月〜日・祝）",
+    "address": "東京都中央区八重洲2丁目2番1号",
+    "verified": true,
+    "source": "https://seven-eleven.areamarker.com/711map/info/508891",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "ローソン ヤエチカ店",
+    "brand": "ローソン",
+    "distanceM": 106,
+    "walkMin": 2,
+    "hours": "7:00-22:00",
+    "address": "東京都中央区八重洲2-1 八重洲地下街中3",
+    "verified": true,
+    "source": "https://www.areamarker.com/lawson/info/155240",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "セブン-イレブン 八重洲ダイビル店",
+    "brand": "セブン-イレブン",
+    "distanceM": 119,
+    "walkMin": 2,
+    "hours": "24時間営業",
+    "address": "東京都中央区京橋1丁目1-1",
+    "verified": true,
+    "source": "https://seven-eleven.areamarker.com/711map/info/549588",
+    "note": "距離は公式の店舗位置で計算"
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "アクセア 東京駅八重洲店",
+    "brand": "アクセア",
+    "distanceM": 148,
+    "walkMin": 2,
+    "hours": "24時間営業（22時〜翌6時のカフェ利用は本人確認済みの会員のみ）",
+    "address": "東京都中央区日本橋3-4-15 八重洲通ビルヂング1F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/map/tokyo_yaesu.html",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "アクセア 京橋店",
+    "brand": "アクセア",
+    "distanceM": 347,
+    "walkMin": 5,
+    "hours": "平日 8:00-22:00／土・日・祝 10:00-19:00",
+    "address": "東京都中央区八重洲2-8-8 大星八重洲ビル1F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/map/kyobashimap.html",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Standard Products ヤエチカ店",
+    "brand": "Standard Products",
+    "distanceM": 44,
+    "walkMin": 1,
+    "hours": "10:00-20:00",
+    "address": "東京都中央区八重洲2-1 八重洲地下街 地下1階",
+    "verified": true,
+    "source": "https://www.daiso-sangyo.co.jp/shop/detail/001475",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "3COINS ヤエチカ店",
+    "brand": "3COINS",
+    "distanceM": 45,
+    "walkMin": 1,
+    "hours": "10:00-21:00",
+    "address": "東京都中央区八重洲2-1 八重洲地下街南1号",
+    "verified": true,
+    "source": "https://palcloset.storelocator.jp/detail/361",
+    "note": "距離は公式の店舗位置で計算"
+   }
+  ],
+  "donki": [
+   {
+    "name": "ドン・キホーテ 銀座本館（銀座ナイン3号館）",
+    "brand": "ドン・キホーテ",
+    "distanceM": 1461,
+    "walkMin": 19,
+    "hours": "24時間営業",
+    "address": "東京都中央区銀座8-10 銀座ナイン3号館",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=92",
+    "note": "距離は住所の位置で計算。遠め。ドン・キホーテ公式サイトの店舗名は「銀座本館」"
+   },
+   {
+    "name": "ドン・キホーテ 秋葉原店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 2343,
+    "walkMin": 30,
+    "hours": "24時間営業",
+    "address": "東京都千代田区外神田4丁目3-3",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=98",
+    "note": "距離は住所の位置で計算。遠い。ドン・キホーテ公式サイトの店舗名は「秋葉原店」"
+   }
+  ]
+ },
+ "drinkDelivery": {
+  "available": true
+ },
+ "photo": {
+  "src": "/images/venues/midtown-yaesu-conference.jpg",
+  "credit": "© しっかかもっかか / CC BY-SA 4.0 · Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Entrance_of_Tokyo_Midtown_Yaesu.jpg"
+ }
+}

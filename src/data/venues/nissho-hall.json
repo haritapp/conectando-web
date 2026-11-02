@@ -1,0 +1,284 @@
+{
+ "slug": "nissho-hall",
+ "nameJa": "ニッショーホール・会議室",
+ "nameEn": "",
+ "type": "hall",
+ "area": "toranomon-roppongi-venues",
+ "address": "〒105-0001 東京都港区虎ノ門2丁目9番16号 日本消防会館2階",
+ "officialUrl": "https://nissho-hall.jp/",
+ "organizerUrl": "https://nissho-hall.jp/hall-nagare.html",
+ "bizintokyoSlug": "nissho-hall",
+ "accessSummary": "東京メトロ日比谷線 虎ノ門ヒルズ駅 A2a出口 徒歩2分／銀座線 虎ノ門駅 3番出口 徒歩5分／南北線 溜池山王駅 9番出口 徒歩7分／千代田線 霞ケ関駅 A13番出口 徒歩8分／JR新橋駅 烏森口 徒歩17分",
+ "notice": null,
+ "hours": "受付時間は9:00〜17:30。休館日は12月29日〜1月3日（平日・土休日が休館日になる場合がある）。ホールの使用時間は午前9:00〜12:00／午後13:00〜16:30／夜間17:30〜21:00、会議室は平日9:00〜17:00（ホール併用時は9:00〜21:00）。ホールの使用時間には準備・後片付け・搬出の時間を含み、2区分以上の使用が原則。使用時間の早出と延長は原則認めない（会議室は30分あたりの料金で早出・延長できる）。",
+ "rooms": [
+  {
+   "name": "2F ニッショーホール（固定席）",
+   "areaM2": null,
+   "ceilingM": null,
+   "theater": 1000,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "固定席1,000席（1階席671席＋車椅子席1席、2階席328席）。立見スペースはなく、2階席1列目とバルコニー席は立見禁止。舞台は間口14.4m・奥行6.9m・高さ7.0m。楽屋2部屋（楽屋1 20㎡、楽屋2 27㎡）は使用料に含まれる。"
+  },
+  {
+   "name": "2F 大会議室",
+   "areaM2": 245,
+   "ceilingM": null,
+   "theater": 270,
+   "school": 168,
+   "ushape": 78,
+   "standing": null,
+   "banquet": null,
+   "note": "基本レイアウトは横長スクール168席。縦長スクール180席、シアター270席、ロの字78席のレイアウト例もある。講演台・司会台は無料。レイアウト変更は3日前までに申し出る（有料）。平日（9:00〜17:00）のみ会議室だけで借りられ、土日祝はホールと併用する場合に限る。"
+  },
+  {
+   "name": "6F A会議室",
+   "areaM2": 74,
+   "ceilingM": null,
+   "theater": null,
+   "school": 45,
+   "ushape": 36,
+   "standing": null,
+   "banquet": null,
+   "note": "基本レイアウトはスクール45席。縦長スクール36席、ロの字36席のレイアウト例もある。B会議室と同じ広さ。"
+  },
+  {
+   "name": "6F B会議室",
+   "areaM2": 74,
+   "ceilingM": null,
+   "theater": null,
+   "school": 45,
+   "ushape": 36,
+   "standing": null,
+   "banquet": null,
+   "note": "基本レイアウトはスクール45席。縦長スクール36席、ロの字36席のレイアウト例もある。A会議室と同じ広さ。"
+  },
+  {
+   "name": "2F C会議室",
+   "areaM2": 53,
+   "ceilingM": null,
+   "theater": null,
+   "school": 24,
+   "ushape": 24,
+   "standing": null,
+   "banquet": null,
+   "note": "基本レイアウトはスクール24席。ロの字24席のレイアウト例もある。"
+  }
+ ],
+ "roomsSource": "https://nissho-hall.jp/hall.html、https://nissho-hall.jp/kaigishitsu.html、https://nissho-hall.jp/pdf/kaigi-layout_img.pdf",
+ "ops": {
+  "loadingHours": {
+   "text": "搬入は1階の搬入口から、ホール専用の搬入エレベーターを使う。エレベーターの内寸は奥行約1,600×幅約2,500×高さ約2,350mm、入口は幅約1,800×高さ約2,100mm。搬入・搬出は使用時間内に行い、予約の時間に搬入口を開ける。器具・諸道具の持込みや特殊な設備は、1か月前を目安にするホールとの打合せで相談する。1階の日本消防防災情報センターでは台車の使用が一切禁止。（出典：舞台図面、ホールご利用方法、ホール利用規約 令和7年9月1日）",
+   "source": "https://nissho-hall.jp/pdf/hall-stage.pdf"
+  },
+  "vehicleRules": {
+   "text": "主催者の車は1階の荷捌き駐車場（荷捌1〜4の4区画のうち指定された位置）に停める。2t車以下、車高2.8m未満の車が対象で、台数は平日2台、土休日3台まで。利用は「荷捌き駐車場利用届出書」で、利用年月日・時間（30分単位）・車両タイプを届け出る。出庫時間は厳守し、延長しそうなときは防災センター受付へ連絡して調整する。運転者は入館・退館とも防災センター受付で手続きする。届出先は日本消防協会 会館管理室（03-6263-9809）。（出典：荷捌き駐車場利用届出書、ホール利用規約 令和7年9月1日、各フロア平面図）",
+   "source": "https://nissho-hall.jp/pdf/hall-nisabaki.pdf"
+  },
+  "parking": {
+   "text": "来場者用の駐車場はなく、公共交通機関を使うよう案内している。会議室の規約でも、主催者・来場者の駐車場はなく近隣の駐車場を使うとある。ホールの主催者は1階の荷捌き場に駐車でき、平日2台まで・土休日3台まで（2t車以下、高さ2,800mmまで）。（出典：ホール利用規約 令和7年9月1日、会議室利用規約 令和8年4月1日、アクセス）",
+   "source": "https://nissho-hall.jp/pdf/hall-kiyaku.pdf"
+  },
+  "waitingRooms": {
+   "text": "ホールの楽屋は2部屋で、楽屋1が20㎡、楽屋2が27㎡。楽屋2部屋はホールの使用料に含まれる。楽屋・会議室の鍵はホール事務所で貸し出す。電気ポットは無料で使える。（出典：ホール案内、ホール利用料金表、ホール利用規約 令和7年9月1日）",
+   "source": "https://nissho-hall.jp/hall.html"
+  },
+  "catering": {
+   "text": "ホール内は飲食禁止で、飲食物の持込は固く断られる。使用者・主催者・出演者のお弁当は、ホール指定の業者を使う（空き箱は無料で回収）。会議室も飲食物の持込は固くお断りで、必ず指定業者を使う。パーティー会場として使う場合は相談する。（出典：ホール利用規約 令和7年9月1日、会議室利用規約 令和8年4月1日）",
+   "source": "https://nissho-hall.jp/pdf/hall-kiyaku.pdf"
+  },
+  "restaurants": {
+   "text": "日本消防会館の地下1階に飲食店がある。（出典：施設案内）",
+   "source": "https://nissho-hall.jp/shisetsu.html"
+  }
+ },
+ "documents": [
+  {
+   "title": "ホール利用規約（令和7年9月1日）",
+   "url": "https://nissho-hall.jp/pdf/hall-kiyaku.pdf"
+  },
+  {
+   "title": "会議室利用規約（令和8年4月1日）",
+   "url": "https://nissho-hall.jp/pdf/kaigi-kiyaku.pdf"
+  },
+  {
+   "title": "ホール料金表（令和6年7月改定）",
+   "url": "https://nissho-hall.jp/pdf/hall_price.pdf"
+  },
+  {
+   "title": "会議室使用料・付帯備品（令和6年7月改定）",
+   "url": "https://nissho-hall.jp/pdf/kaigi-price.pdf"
+  },
+  {
+   "title": "会議室使用申込書",
+   "url": "https://nissho-hall.jp/pdf/kaigi-moushikomisho.pdf"
+  },
+  {
+   "title": "会議室基本レイアウト",
+   "url": "https://nissho-hall.jp/pdf/kaigi-layout.pdf"
+  },
+  {
+   "title": "会議室その他レイアウト（縦長スクール・シアター・ロの字）",
+   "url": "https://nissho-hall.jp/pdf/kaigi-layout_img.pdf"
+  },
+  {
+   "title": "客席図",
+   "url": "https://nissho-hall.jp/pdf/hall-seat.pdf"
+  },
+  {
+   "title": "舞台図面（平面・断面・吊物重量）",
+   "url": "https://nissho-hall.jp/pdf/hall-stage.pdf"
+  },
+  {
+   "title": "舞台・客席断面図",
+   "url": "https://nissho-hall.jp/pdf/hall-seats.pdf"
+  },
+  {
+   "title": "各フロア平面図",
+   "url": "https://nissho-hall.jp/pdf/hall-floormap.pdf"
+  },
+  {
+   "title": "スクリーン姿図",
+   "url": "https://nissho-hall.jp/pdf/hall-screen.pdf"
+  },
+  {
+   "title": "ホール照明資料",
+   "url": "https://nissho-hall.jp/pdf/hall-lighting.pdf"
+  },
+  {
+   "title": "音響図面等",
+   "url": "https://nissho-hall.jp/pdf/hall-audio.pdf"
+  },
+  {
+   "title": "物品販売許可申請書",
+   "url": "https://nissho-hall.jp/pdf/hall_buppanshinseisho.pdf"
+  },
+  {
+   "title": "荷捌き駐車場利用届出書",
+   "url": "https://nissho-hall.jp/pdf/hall-nisabaki.pdf"
+  }
+ ],
+ "checkedAt": "2026-11-02",
+ "lat": 35.667744,
+ "lng": 139.745819,
+ "nearby": {
+  "convenience": [
+   {
+    "name": "ローソン 虎ノ門2丁目タワー店",
+    "brand": "ローソン",
+    "distanceM": 95,
+    "walkMin": 2,
+    "hours": "7:00-22:00",
+    "address": "東京都港区虎ノ門2-3-17",
+    "verified": true,
+    "source": "https://www.areamarker.com/lawson/info/386258",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "ローソン オークラプレステージタワー店",
+    "brand": "ローソン",
+    "distanceM": 181,
+    "walkMin": 3,
+    "hours": "7:00-23:00",
+    "address": "東京都港区虎ノ門2-10-4",
+    "verified": true,
+    "source": "https://www.areamarker.com/lawson/info/355022",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "ローソン 虎ノ門二丁目店",
+    "brand": "ローソン",
+    "distanceM": 223,
+    "walkMin": 3,
+    "hours": "7:30-21:00",
+    "address": "東京都港区虎ノ門2-2-1 住友不動産虎ノ門タワー1F",
+    "verified": true,
+    "source": "https://www.areamarker.com/lawson/info/344076",
+    "note": "距離は公式の店舗位置で計算"
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "キンコーズ・虎ノ門店",
+    "brand": "キンコーズ",
+    "distanceM": 341,
+    "walkMin": 5,
+    "hours": "平日 9:00-20:00／土・日・祝 休業",
+    "address": "東京都港区虎ノ門1丁目14-1 郵政福祉琴平ビル1F",
+    "verified": true,
+    "source": "https://www.kinkos.co.jp/store/tokyo/t001/",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "アクセア 溜池山王店",
+    "brand": "アクセア",
+    "distanceM": 345,
+    "walkMin": 5,
+    "hours": "平日 8:00-22:00／土・日・祝 休み",
+    "address": "東京都港区赤坂1-3-3 T-FRONTビル1F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/entry.html",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Can★Do 城山ヒルズ店",
+    "brand": "キャンドゥ",
+    "distanceM": 335,
+    "walkMin": 5,
+    "hours": "毎日 9:00-23:00",
+    "address": "東京都港区虎ノ門4-1-17 神谷町プライムプレイスB1階",
+    "verified": true,
+    "source": "https://shopinfo.cando-web.co.jp/detail/shop-1835/",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "Can★Do 赤坂一ツ木通り店",
+    "brand": "キャンドゥ",
+    "distanceM": 1192,
+    "walkMin": 15,
+    "hours": "月〜金 9:00-21:00／土〜日 9:00-20:00",
+    "address": "東京都港区赤坂3-17-10 フローレンス一ツ木ビル1階",
+    "verified": true,
+    "source": "https://shopinfo.cando-web.co.jp/detail/shop-5207/",
+    "note": "距離は公式の店舗位置で計算。遠め"
+   }
+  ],
+  "donki": [
+   {
+    "name": "ピカソ赤坂店（ドン・キホーテ）",
+    "brand": "ドン・キホーテ",
+    "distanceM": 1100,
+    "walkMin": 14,
+    "hours": "7:00-3:00",
+    "address": "東京都港区赤坂3-11-14",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=289",
+    "note": "距離は住所の位置で計算。ドン・キホーテの別業態（公式サイトの店舗名は「ピカソ赤坂店」）。遠め"
+   },
+   {
+    "name": "ドン・キホーテ 六本木店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 1174,
+    "walkMin": 15,
+    "hours": "24時間営業",
+    "address": "東京都港区六本木3-14-10",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=31",
+    "note": "距離は住所の位置で計算。ドン・キホーテ公式サイトの店舗名は「六本木店」。遠め"
+   }
+  ]
+ },
+ "drinkDelivery": {
+  "available": true
+ },
+ "photo": {
+  "src": "/images/venues/nissho-hall.jpg",
+  "credit": "最寄りの虎ノ門駅2b出口のイメージ写真です（会場の建物ではありません）。© Tokyo-Good / CC BY-SA 4.0 · Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tokyo-Metro-Toranomon-station-exit2b.jpg"
+ }
+}

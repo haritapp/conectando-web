@@ -1,0 +1,434 @@
+{
+ "slug": "kioi-terrace",
+ "nameJa": "東京ガーデンテラス紀尾井町 紀尾井カンファレンス",
+ "nameEn": "Tokyo Garden Terrace Kioi Conference",
+ "type": "conference",
+ "area": "toranomon-roppongi-venues",
+ "address": "〒102-0094 東京都千代田区紀尾井町1-4 東京ガーデンテラス紀尾井町 紀尾井タワー4階",
+ "officialUrl": "https://conference.tgt-kioicho.jp/",
+ "organizerUrl": "https://conference.tgt-kioicho.jp/guide/",
+ "bizintokyoSlug": "kioi_terrace",
+ "accessSummary": "東京メトロ永田町駅 9a出口直結／東京メトロ赤坂見附駅 D出口から徒歩1分",
+ "notice": null,
+ "hours": "原則9:00〜21:00（営業時間外の利用は相談）。年中無休（12月29日〜1月3日を除く）だが、2026年12月29日〜2027年1月3日は営業（2026年9月30日のお知らせ）。電話受付は平日9:30〜17:30。",
+ "rooms": [
+  {
+   "name": "メインルームA+B+C+D（全体）",
+   "areaM2": 470,
+   "ceilingM": 3.9,
+   "theater": 469,
+   "school": 372,
+   "ushape": 102,
+   "standing": 300,
+   "banquet": null,
+   "note": "スクール・シアターは縦配置と横配置で人数が違い、縦配置はスクール372名・シアター469名、横配置はスクール303名・シアター388名。公式の貸出単位は1スパン（A〜Dの各部屋）で、4部屋を仕切りで分けて使える。公式FAQには「最大500名（立食時）、交流を広くとるなら300〜350名を推奨」とあり、表の立食300名と数字が違う。"
+  },
+  {
+   "name": "メインルームB+C+D",
+   "areaM2": null,
+   "ceilingM": 3.9,
+   "theater": 336,
+   "school": 252,
+   "ushape": 78,
+   "standing": null,
+   "banquet": null,
+   "note": "3スパン。"
+  },
+  {
+   "name": "メインルームA+B",
+   "areaM2": null,
+   "ceilingM": 3.9,
+   "theater": 204,
+   "school": 156,
+   "ushape": 51,
+   "standing": null,
+   "banquet": null,
+   "note": "2スパン。"
+  },
+  {
+   "name": "メインルームC+D",
+   "areaM2": null,
+   "ceilingM": 3.9,
+   "theater": 204,
+   "school": 156,
+   "ushape": 51,
+   "standing": null,
+   "banquet": null,
+   "note": "2スパン。"
+  },
+  {
+   "name": "メインルームA",
+   "areaM2": 117.79,
+   "ceilingM": 3.9,
+   "theater": 96,
+   "school": 84,
+   "ushape": 36,
+   "standing": null,
+   "banquet": null,
+   "note": "1スパン。"
+  },
+  {
+   "name": "メインルームB",
+   "areaM2": 118.26,
+   "ceilingM": 3.9,
+   "theater": 96,
+   "school": 84,
+   "ushape": 36,
+   "standing": null,
+   "banquet": null,
+   "note": "1スパン。"
+  },
+  {
+   "name": "メインルームC",
+   "areaM2": 118.3,
+   "ceilingM": 3.9,
+   "theater": 96,
+   "school": 84,
+   "ushape": 36,
+   "standing": null,
+   "banquet": null,
+   "note": "1スパン。"
+  },
+  {
+   "name": "メインルームD",
+   "areaM2": 117.55,
+   "ceilingM": 3.9,
+   "theater": 96,
+   "school": 84,
+   "ushape": 36,
+   "standing": null,
+   "banquet": null,
+   "note": "1スパン。公式の備品表では、メインルームDに200インチワイド電動スクリーンがある。"
+  },
+  {
+   "name": "セミナールームA+B",
+   "areaM2": 230,
+   "ceilingM": "3.2-3.9",
+   "theater": 162,
+   "school": 120,
+   "ushape": 48,
+   "standing": 140,
+   "banquet": null,
+   "note": "各室の前面が全面ガラス張り。公式は2部屋に分割して使えるとしている。"
+  },
+  {
+   "name": "セミナールームA",
+   "areaM2": 106.58,
+   "ceilingM": "3.2-3.9",
+   "theater": 80,
+   "school": 63,
+   "ushape": 36,
+   "standing": null,
+   "banquet": null,
+   "note": "1スパン。"
+  },
+  {
+   "name": "セミナールームB",
+   "areaM2": 126.54,
+   "ceilingM": "3.2-3.9",
+   "theater": 96,
+   "school": 63,
+   "ushape": 36,
+   "standing": null,
+   "banquet": null,
+   "note": "1スパン。"
+  },
+  {
+   "name": "セミナールームC+D",
+   "areaM2": 240,
+   "ceilingM": "3.2-3.9",
+   "theater": 180,
+   "school": 135,
+   "ushape": 48,
+   "standing": 140,
+   "banquet": null,
+   "note": "公式FAQには「メインルームCD（240㎡）」「メインルームAB（230㎡）」と書かれた箇所があるが、部屋表ではセミナールームC+D 240㎡、A+B 230㎡。"
+  },
+  {
+   "name": "セミナールームC",
+   "areaM2": 121.69,
+   "ceilingM": "3.2-3.9",
+   "theater": 100,
+   "school": 63,
+   "ushape": 36,
+   "standing": null,
+   "banquet": null,
+   "note": "1スパン。"
+  },
+  {
+   "name": "セミナールームD",
+   "areaM2": 121.69,
+   "ceilingM": "3.2-3.9",
+   "theater": 100,
+   "school": 63,
+   "ushape": 36,
+   "standing": null,
+   "banquet": null,
+   "note": "1スパン。"
+  },
+  {
+   "name": "サクラルーム",
+   "areaM2": 56,
+   "ceilingM": "3.2-3.9",
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "島組20名（常設）。2面がガラス張りで、桜並木を見下ろせる。付帯設備はテーブル、椅子、LAN。"
+  },
+  {
+   "name": "テラスルーム",
+   "areaM2": 55,
+   "ceilingM": "3.2-3.9",
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "島組8名（常設）。2面がガラス張り。講演会の演者・代表者の控室や、小会議・商談にも使える部屋。付帯設備はテーブル、椅子、LAN。"
+  },
+  {
+   "name": "ミーティングルーム",
+   "areaM2": 33,
+   "ceilingM": "3.2-3.9",
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "島組10名（常設）。付帯設備はテーブル、椅子、LAN。"
+  },
+  {
+   "name": "控室1",
+   "areaM2": 24,
+   "ceilingM": 3.0,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "島組18名（常設）。"
+  },
+  {
+   "name": "控室2",
+   "areaM2": 21,
+   "ceilingM": 3.0,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "島組12名（常設）。"
+  }
+ ],
+ "roomsSource": "https://conference.tgt-kioicho.jp/overview/、https://conference.tgt-kioicho.jp/guide/assets/img/tgtc_pricelist_rooms.pdf",
+ "ops": {
+  "prevDaySetup": {
+   "text": "営業時間は原則9:00〜21:00で、営業時間外の利用は相談できる。準備・撤去を含めた入室から退室までが利用時間。深夜・早朝の設営は可能で、別途立会料がかかる。料金表には「夜間設営 22:00〜7:00」の枠があり、1時間あたりメインルームA〜Dが各22,825円（A+B+C+Dは91,025円）、セミナールームA+Bが44,825円・C+Dが47,025円、サクラルーム・テラスルームが各10,725円、ミーティングルームが6,325円（税別、2026年4月現在）。（出典：ご利用案内、よくあるご質問、料金表 2026年4月現在）",
+   "source": "https://conference.tgt-kioicho.jp/overview/"
+  },
+  "loadingHours": {
+   "text": "搬出入は地下1階の専用荷捌き場（サービスヤード）と搬出入専用エレベーターを使い、「物流管理センター」が一括管理している。受付は地下1階の物流管理センター窓口で、入館時にセキュリティカードと入館証（ビジター用）を受け取る。荷捌き場の混雑を避けるため搬出入の時間帯を事前に調整し、事前手続き済みの業者が優先される。貨物用エレベーターは地下荷捌き場から4Fの各会議室へ直通で、積載2,500kg、扉幅1,800×高さ2,400mm、カゴ内寸 幅1,800×奥行2,000×高さ3,050mm。開催1週間前までに「搬入・搬出計画書」の提出が必要。荷物を事前に送る場合は、送付状に「イベント日」「利用会場名」「担当者名」を書き、原則ご利用日の前日着で送る（土日祝を挟むときは前週金曜着）。精密機器は自分で厳重に梱包し、配送中の破損は会場の責任外。イベント翌日の発送も会場が手配できる（原則着払い）。エレベーターを専用で使う場合は有償のオペレーター費用がかかる。（出典：よくあるご質問）",
+   "source": "https://conference.tgt-kioicho.jp/faq/"
+  },
+  "vehicleRules": {
+   "text": "搬入出の車両は4tトラックまで入庫でき、荷捌き場入口の高さ制限は3.4m。紀尾井町通り側から東京ガーデンテラス紀尾井町の車両入口へ入り（プリンス通りからは入れない）、地下1階の荷捌用駐車場の物流用搬入口から入って管理センターで入館手続きをする。搬出入以外の駐停車は禁止、路上駐車と地下1階以外からの搬出入も禁止で、客用エレベーターは使えない。荷捌き場の駐車料金は150円／10分（搬出入業者の負担）。台車は1回100円で借りられる。手押し台車3台分以上の荷物やコピー機・金庫などの重量物を運ぶときは、床・壁の養生が必須。（出典：よくあるご質問、利用規約 2025年4月1日版）",
+   "source": "https://conference.tgt-kioicho.jp/faq/"
+  },
+  "parking": {
+   "text": "東京ガーデンテラス紀尾井町の駐車場は254台（EV充電スペースあり）で24時間営業。料金は20分300円、当日1日の最大料金は2,800円（24時まで）。車両制限は全長5m・全幅2.05m・全高2m・重量2.5t。入庫は左折入庫。バイクは当日最大990円。紀尾井カンファレンスの利用者向けの駐車割引はなく、請求書での精算はできる。大型イベントのときは公共交通機関の利用をすすめている。（出典：東京ガーデンテラス紀尾井町 アクセスのページ、紀尾井カンファレンス よくあるご質問）",
+   "source": "https://www.tgt-kioicho.jp/access/"
+  },
+  "waitingRooms": {
+   "text": "貸出用の控室が2室ある。控室1は24㎡（島組18名・常設）、控室2は21㎡（島組12名・常設）。室料は控室1・2とも午前（9:00-12:00）38,500円、午後（13:00-17:00）44,000円、夜間（18:00-21:00）38,500円、8時間（9:00-17:00）55,000円、12時間（9:00-21:00）55,000円（税別、2026年4月現在）。メインルームの控室は2部屋で、裏動線（バックヤード）からメインルームにつながる。テラスルーム（55㎡）は演者・代表者の控室としても使える。（出典：施設概要、料金表、よくあるご質問）",
+   "source": "https://conference.tgt-kioicho.jp/overview/"
+  },
+  "catering": {
+   "text": "食品衛生上の理由から、提携ケータリング会社を使うことになっており、飲食を目的とした飲食物の持込は原則できない（利用規約）。アレルギー、ハラル、ビーガンなどの事情があるときは相談できる。ケータリングはシービーサービス（最低発注15万円〜）、ニラックス（ケータリング11万円〜、デリバリー6万円〜）、フォリクラッセ（40名以上・20万円〜）、ダイナック（50名以上・1人6,050円〜）、CITABRIA（30名以上・21万円〜）、LOYCE CATERING（12.6万円〜）の6社（金額は税別または税込の公式表記どおりで、ダイナックのみ税込）。お弁当は亀戸升本、えがおのはし、懐石料理 青山、人形町 今半、明治座、美味探求 だい九の6社。ドリンクはペットボトル（500ml）200円／本、ホットコーヒー・紅茶・緑茶4,500円／10杯（税別、発注期限は利用日の10日前）。（出典：飲食サービス、利用規約、よくあるご質問）",
+   "source": "https://conference.tgt-kioicho.jp/overview/food-beverages/"
+  },
+  "restaurants": {
+   "text": "同じ紀尾井テラスの2Fにスターバックス コーヒー、フレッシュネス バーガー カフェ＆バー、4Fにラ・プレシューズ（焼き菓子など）がある。セミナー後の懇親会は、すべての会場が1フロアにまとまっているため、別の部屋に移して開ける。懇親会向けにフィンガーフードから立食パーティー、板前の出張握りなどをケータリングで手配できる。同じ敷地のザ・プリンスギャラリー 東京紀尾井町（紀尾井タワー30〜36階）のレストランやバーも案内されており、カンファレンス（4F）からエレベーターで直接行ける。（出典：よくあるご質問、オプション）",
+   "source": "https://conference.tgt-kioicho.jp/faq/"
+  }
+ },
+ "documents": [
+  {
+   "title": "施設スペック・施設利用料金表（2026年4月現在）",
+   "url": "https://conference.tgt-kioicho.jp/guide/assets/img/tgtc_pricelist_rooms.pdf"
+  },
+  {
+   "title": "設営関連費・レイアウト図面作成費（2024年5月現在）",
+   "url": "https://conference.tgt-kioicho.jp/guide/assets/img/layout-pricelist.pdf"
+  },
+  {
+   "title": "会場備品一覧",
+   "url": "https://conference.tgt-kioicho.jp/guide/assets/img/c80b66b1523a8165bb7b568d5ebdaf778be4953c.pdf"
+  },
+  {
+   "title": "フロアマップ",
+   "url": "https://conference.tgt-kioicho.jp/guide/assets/img/tgtc_floormap.pdf"
+  },
+  {
+   "title": "ご利用案内",
+   "url": "https://conference.tgt-kioicho.jp/guide/assets/img/tgtc_userguide.pdf"
+  },
+  {
+   "title": "紀尾井カンファレンス利用規約（2025年4月1日版）",
+   "url": "https://conference.tgt-kioicho.jp/guide/assets/img/UserPolicy20250401.pdf"
+  },
+  {
+   "title": "駅からのアクセス方法",
+   "url": "https://conference.tgt-kioicho.jp/guide/assets/img/tgtc_access.pdf"
+  },
+  {
+   "title": "全会場レイアウト図（ソーシャルディスタンス）",
+   "url": "https://conference.tgt-kioicho.jp/guide/assets/img/tgtc_allrooms_sd.pdf"
+  },
+  {
+   "title": "ケータリング ニラックス メニュー",
+   "url": "https://conference.tgt-kioicho.jp/guide/assets/img/NILAXMenu_Catering_Delivery.pdf"
+  },
+  {
+   "title": "ケータリング フォリクラッセ パーティープラン",
+   "url": "https://conference.tgt-kioicho.jp/guide/assets/img/fuoriclasse_partyplan2503.pdf"
+  },
+  {
+   "title": "ケータリング CITABRIA パッケージプラン（2025年6月）",
+   "url": "https://conference.tgt-kioicho.jp/guide/assets/img/CITABRIA_PACKAGE%20PLAN%20Menu_202506.pdf"
+  },
+  {
+   "title": "ケータリング LOYCE CATERING メニュー",
+   "url": "https://conference.tgt-kioicho.jp/guide/assets/img/LOYCECATERING_menu.pdf"
+  },
+  {
+   "title": "ケータリング ダイナック メニュー",
+   "url": "https://conference.tgt-kioicho.jp/guide/assets/img/DynacMenu_Catering_Delivery.pdf"
+  },
+  {
+   "title": "お弁当 人形町 今半",
+   "url": "https://conference.tgt-kioicho.jp/guide/assets/img/tgtc_imahan.pdf"
+  }
+ ],
+ "checkedAt": "2026-11-02",
+ "lat": 35.679237,
+ "lng": 139.736374,
+ "nearby": {
+  "convenience": [
+   {
+    "name": "ファミマ東京ガーデンテラス店",
+    "brand": "ファミリーマート",
+    "distanceM": 57,
+    "walkMin": 1,
+    "hours": "24時間営業",
+    "address": "東京都千代田区紀尾井町1-2",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/16278",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "ファミリーマート 紀尾井町店",
+    "brand": "ファミリーマート",
+    "distanceM": 238,
+    "walkMin": 3,
+    "hours": "24時間営業",
+    "address": "東京都千代田区紀尾井町3-33",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/17737",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "ファミリーマート 赤坂見附駅前店",
+    "brand": "ファミリーマート",
+    "distanceM": 311,
+    "walkMin": 4,
+    "hours": "24時間営業",
+    "address": "東京都港区赤坂3丁目8番1号 赤坂アルトビル1F",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/57204",
+    "note": "距離は公式の店舗位置で計算"
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "キンコーズ・赤坂見附店",
+    "brand": "キンコーズ",
+    "distanceM": 266,
+    "walkMin": 4,
+    "hours": "平日 9:00-20:00／土・日・祝 10:00-19:00",
+    "address": "東京都港区赤坂3丁目21-20 赤坂ロングビーチビル1F",
+    "verified": true,
+    "source": "https://www.kinkos.co.jp/store/tokyo/t023/",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "アクセア 永田町店",
+    "brand": "アクセア",
+    "distanceM": 483,
+    "walkMin": 7,
+    "hours": "平日 8:00-22:00／土・日・祝 休み",
+    "address": "東京都千代田区永田町1-11-32 全国町村会館西館1F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/entry.html",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Can★Do 赤坂一ツ木通り店",
+    "brand": "キャンドゥ",
+    "distanceM": 452,
+    "walkMin": 6,
+    "hours": "月〜金 9:00-21:00／土〜日 9:00-20:00",
+    "address": "東京都港区赤坂3-17-10 フローレンス一ツ木ビル1階",
+    "verified": true,
+    "source": "https://shopinfo.cando-web.co.jp/detail/shop-5207/",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "Can★Do アトレ信濃町店",
+    "brand": "キャンドゥ",
+    "distanceM": 1473,
+    "walkMin": 19,
+    "hours": "毎日 10:00-21:00",
+    "address": "東京都新宿区信濃町34 アトレ信濃町2階",
+    "verified": true,
+    "source": "https://shopinfo.cando-web.co.jp/detail/shop-5610/",
+    "note": "距離は公式の店舗位置で計算。遠め"
+   }
+  ],
+  "donki": [
+   {
+    "name": "ピカソ赤坂店（ドン・キホーテ）",
+    "brand": "ドン・キホーテ",
+    "distanceM": 497,
+    "walkMin": 7,
+    "hours": "7:00-3:00",
+    "address": "東京都港区赤坂3-11-14",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=289",
+    "note": "距離は住所の位置で計算。ドン・キホーテの別業態（公式サイトの店舗名は「ピカソ赤坂店」）"
+   },
+   {
+    "name": "ドン・キホーテ 六本木店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 1875,
+    "walkMin": 24,
+    "hours": "24時間営業",
+    "address": "東京都港区六本木3-14-10",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=31",
+    "note": "距離は住所の位置で計算。ドン・キホーテ公式サイトの店舗名は「六本木店」。遠い"
+   }
+  ]
+ },
+ "drinkDelivery": {
+  "available": true
+ },
+ "photo": {
+  "src": "/images/venues/kioi-terrace.jpg",
+  "credit": "© Kakidai / CC BY-SA 4.0 · Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tokyo_Garden_Terrace_4.jpg"
+ }
+}

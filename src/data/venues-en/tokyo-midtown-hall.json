@@ -1,0 +1,206 @@
+{
+ "slug": "tokyo-midtown-hall",
+ "name": "Tokyo Midtown Hall & Conference",
+ "address": "Tokyo 107-0052 9-7-1 Akasaka, Minato-ku",
+ "accessSummary": "Roppongi Station (Toei Oedo Line) Exit 8: directly connected / Roppongi Station (Tokyo Metro Hibiya Line): directly connected via underground passageway / Nogizaka Station (Tokyo Metro Chiyoda Line) Exit 3: about 3 min walk / Roppongi-itchome Station (Tokyo Metro Namboku Line) Exit 1: about 10 min walk",
+ "hours": "9:00-21:00 (open year-round except January 1; extension is only 1 hour before and after)",
+ "notice": null,
+ "rooms": [
+  {
+   "name": "Hall A (Midtown East B1F) - Entire",
+   "note": "Can be divided into 2 or 3 sections. The price list shows theater 816 people, while the separate layout list page shows theater 810 people (classroom 576 people is the same on both). Island layout is 462 people (lengthwise layout); for the crosswise layout, classroom 480, theater 697, island 378. Standing (party) is 600 people."
+  },
+  {
+   "name": "Hall A 2/3",
+   "note": "Figures from the layout list. Lengthwise layout: classroom 357, theater 504, island 282. Crosswise layout: classroom 318, theater 456, island 258, standing 400."
+  },
+  {
+   "name": "Hall A 1/2",
+   "note": "Figures from the layout list. Island layout: 180 people."
+  },
+  {
+   "name": "Hall A 1/3",
+   "note": "Figures from the layout list. Island layout: 114 people."
+  },
+  {
+   "name": "Hall B (Midtown East B1F) - Entire",
+   "note": "Can be divided into 2 sections. The price list shows classroom 408 and theater 559, while the separate layout list page shows classroom 405 and theater 570. Island layout is 294 people."
+  },
+  {
+   "name": "Hall B 3/4",
+   "note": "Figures from the layout list. Island layout: 216 people."
+  },
+  {
+   "name": "Hall B 1/2",
+   "note": "Figures from the layout list. Island layout: 138 people."
+  },
+  {
+   "name": "Conference Room 1 and Room 4 (each) (Midtown Tower 4F)",
+   "note": "Rooms 1 to 4 can be connected with movable partitions. Island layout: 36 people."
+  },
+  {
+   "name": "Conference Room 2 and Room 3 (each)",
+   "note": "Island layout: 36 people."
+  },
+  {
+   "name": "Conference Room 1+2 / 2+3 / 3+4",
+   "note": "Figures from the layout list. Island layout: 90 people."
+  },
+  {
+   "name": "Conference Room 1+2+3 / 2+3+4",
+   "note": "Figures from the layout list. Island layout: 126 people."
+  },
+  {
+   "name": "Conference Room 1+2+3+4",
+   "note": "Figures from the layout list. Island layout: 180 people."
+  },
+  {
+   "name": "Conference Room 5",
+   "note": "The price list shows theater 104 people, while the layout list shows 94 people. Island layout: 54 people."
+  },
+  {
+   "name": "Conference Room 6",
+   "note": "The price list shows theater 72 people, while the layout list shows 65 people. Island layout: 36 people."
+  },
+  {
+   "name": "Conference Room 5+6",
+   "note": "Figures from the layout list. Island layout: 108 people."
+  },
+  {
+   "name": "Conference Room 7",
+   "note": "A presentation room with a permanent stage. The price list shows theater 150 people, while the layout list shows 140 people. Island layout: 102 people."
+  },
+  {
+   "name": "Conference Room 8",
+   "note": "For small meetings. The price list shows classroom 16 people (no theater or party figures), while the layout list shows classroom 18, theater 24 and island 24."
+  },
+  {
+   "name": "Conference Room 9",
+   "note": "A room independent of the other Rooms. The price list shows theater 180 people, while the layout list shows 168 people. Island layout: 90 people."
+  }
+ ],
+ "ops": {
+  "prevDaySetup": "Load-in, preparation and setup (including rehearsals) on the day before the event day or earlier, and removal and clearing out on the day after the event day or later, are charged at a 30% discount on the room fee. Only the halls can use preparation and removal on the day before or earlier / the day after or later from 5 hours. The basic business hours are 9:00-21:00, and extension is only 1 hour before and after. Preparation and setup before the event day, and use before 9:00 or after 21:00, are subject to separate consultation; because the rental time runs from unlocking to locking, plan including the time for preparation and removal. (Source: Price List revised April 1, 2024; Usage Flow; Notes on Use)",
+  "loadingHours": "The hall's loading entrance connects directly to the ground level (shown as B1F in the building structure); it is flat, with an opening of W7,800 x H3,840 mm, wide enough for two 4-ton trucks. Usable hours are in principle 8:00-22:00 (as of August 2022). The \"Hall Load-in/Load-out Work Application\" is submitted at least 5 days before the event period (the application form also says at least 1 week). A control and guidance staff member on the user's side must be stationed at the loading entrance. For the conference rooms, vehicles enter from the B3F loading vehicle entrance and a \"Temporary Load-in/Load-out Work Application\" is submitted (at least 7 days before use according to the loading entrance MAP; at least 3 business days before according to the application form [revised June 2020]). Courier packages are in principle designated to arrive on the day before the day of use, and the delivery address differs between the hall and the conference rooms. (Source: Notes on Event Construction etc. as of August 2022; Hall and Conference Loading Entrance MAPs; Temporary Load-in/Load-out Work Application; Guide to Shipping Packages)",
+  "vehicleRules": "The hall's loading entrance is shared with the loading entrance for all of Midtown, and stopping or parking that obstructs other delivery vehicles is prohibited. Stopping, parking and unloading are allowed only within the designated hall premises. There is no temporary waiting space for load-in/out, so arrive in line with your time slot or circle around and wait. Waiting or unloading on public roads is not allowed, and vehicles that have finished work must move promptly. Vehicle height limit is 3.8 m. After load-in is finished and during the event, the shutter is in principle closed, and no vehicles or materials may be placed under the shutter. Motorcycles and bicycles may not be parked all day (use the building's motorcycle parking [paid] and bicycle parking [free up to 3 hours]). The conference B3F loading area is a vehicle bay for load-in/out, and parking there during in-building work hours is in principle not allowed; vehicle height limit is 3.3 m. Visitors arriving by bus use the designated \"bus drop-off space\" (reservations not accepted; no stopping or parking other than for boarding and alighting). There is no bus parking lot, so the user arranges it. (Source: Notes on Event Construction etc. as of August 2022; Hall Load-in/Load-out Work Application; Temporary Load-in/Load-out Work Application revised June 2020; Notes on Use)",
+  "parking": "Within the Tokyo Midtown block there is a public paid parking lot for about 400 cars, open 24 hours every day of the year, at 400 yen per 30 minutes. Parking reservations are not accepted. For users of the Hall and Conference, parking tickets (1 hour per ticket) can be prepared, and the amount used is included in the post-event settlement (notify the number of tickets in advance). Height limits are 2,300 mm for the self-propelled type, and for the mechanical flat reciprocating type 1,550 mm for standard cars and 2,050 mm for high-roof cars. (Source: Access page [for those coming by car, motorcycle or bicycle]; Notes on Hall Use)",
+  "waitingRooms": "The hall has 6 waiting rooms (tax included, morning + afternoon [9:00-17:00] rate): (1) 17㎡ on the Hall A side, 49,500 yen; (2) 32㎡ inside the backyard, A side, 91,300 yen; (3) 23㎡ inside the backyard, B side, 63,800 yen; (4) 32㎡ on the Hall B side, 91,300 yen; (5) 32㎡ on the Hall B side, 91,300 yen; (6) 62㎡ on the Hall B side, 169,400 yen (ceiling height is 3.0 m in all). The official site says there are also rooms of a grade suitable for VIP guests. The conference has 2 waiting rooms: (1) 23㎡ (next to Room1), 19,800 yen for 3 hours; (2) 28㎡ (next to Room5), 23,100 yen for 3 hours (tax included). The conference waiting rooms cannot be used on their own. (Source: Price List revised April 1, 2024; Hall and Conference pages)",
+  "catering": "Catering (food, drink and party arrangements) is handled by the designated companies of Hall & Conference, and bringing in food and drink from outside is declined under the terms of use (the FAQ says it is in principle declined for hygiene management, but to consult the venue staff first). The catering page lists, for parties, grace, DYNAC, Esprit&co., L'api catering, ICONIC STAGE, DEAN & DELUCA, Hotel Metropolitan Edmont, Happo-en, Imperial Hotel and The Ritz-Carlton, Tokyo, and, for boxed meals, Aoyama, Nadaman, Nihonbashi Daimasu, Maisen, APORTE, Bento Kameya and others. Guideline unit prices (excluding drinks, serving service fee and equipment fee) are finger food from 2,860 yen (grace), buffet from 7,700 yen (Hotel Metropolitan Edmont), from 11,000 yen (Imperial Hotel) and so on. Receptions and standing parties after meetings are also accepted. (Source: Catering page; Terms of Use revised March 2019; FAQ)",
+  "restaurants": "The official MICE page introduces Tokyo Midtown as a complex where about 130 shops, offices, a hotel and more come together, and says there are also restaurants suited to networking, receptions and parties, directing readers to the Tokyo Midtown restaurant list. The conference rooms can be provided with catering of cuisine from The Ritz-Carlton, Tokyo. As unique venues, Billboard Live TOKYO on the 4F of Galleria Garden Terrace (private hire etc. also available) and the 6th-floor hall of the Suntory Museum of Art (parties with a night view) are also introduced."
+ },
+ "documents": [
+  {
+   "title": "Hall & Conference Price List (revised April 1, 2024)"
+  },
+  {
+   "title": "Hall Floor Plan"
+  },
+  {
+   "title": "Conference Floor Plan"
+  },
+  {
+   "title": "Hall Free Equipment List (as of April 2025)"
+  },
+  {
+   "title": "Hall Free Furnishings List (as of April 2025)"
+  },
+  {
+   "title": "Conference Free Equipment List (as of April 2025)"
+  },
+  {
+   "title": "Conference Free Furnishings List (as of April 2025)"
+  },
+  {
+   "title": "Notes on Hall Use"
+  },
+  {
+   "title": "Notes on Conference Use"
+  },
+  {
+   "title": "Notes on Event Construction etc. (as of August 2022)"
+  },
+  {
+   "title": "Hall Load-in/Load-out Work Application"
+  },
+  {
+   "title": "Conference Temporary Load-in/Load-out Work Application (revised June 2020)"
+  },
+  {
+   "title": "Hall Loading Entrance Access MAP"
+  },
+  {
+   "title": "Conference Loading Entrance Access MAP"
+  },
+  {
+   "title": "Guide to Shipping Packages"
+  },
+  {
+   "title": "Common-Area Sign Stand & Guide Staff Placement Positions (April 2025)"
+  },
+  {
+   "title": "Hall Pit Drawing and Electrical Capacity Drawing (April 2025)"
+  },
+  {
+   "title": "Application and Usage Flow"
+  },
+  {
+   "title": "Terms of Use (revised March 2019)"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "FamilyMart Tokyo Midtown",
+    "hours": "6:30-20:00",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "7-Eleven Tokyo Midtown",
+    "hours": "6:30-23:00 (Mon-Sun & holidays)",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "FamilyMart Roppongi 7-chome",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location."
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "Accea Roppongi",
+    "hours": "Weekdays 8:00-22:00 / Sat, Sun & holidays 10:00-19:00",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Accea Roppongi-itchome",
+    "hours": "Weekdays 9:00-20:00 / Closed Sat, Sun & holidays",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Can Do Shiroyama Hills",
+    "hours": "Daily 9:00-23:00",
+    "note": "Distance is calculated from the official store location. Rather far."
+   },
+   {
+    "name": "Can Do Akasaka Hitotsugi-dori",
+    "hours": "Mon-Fri 9:00-21:00 / Sat-Sun 9:00-20:00",
+    "note": "Distance is calculated from the official store location. Rather far."
+   }
+  ],
+  "donki": [
+   {
+    "name": "Don Quijote Roppongi",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. The store name on the Don Quijote official website is \"Roppongi\" (六本木店)."
+   },
+   {
+    "name": "Picasso Akasaka (Don Quijote)",
+    "hours": "7:00-3:00",
+    "note": "Distance is calculated from the address location. A different Don Quijote format (the store name on the official website is \"Picasso Akasaka\" (ピカソ赤坂店)). Rather far."
+   }
+  ]
+ },
+ "photoCredit": "© Tokumeigakarinoaoshima / CC BY-SA 4.0 · Wikimedia Commons"
+}

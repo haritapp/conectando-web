@@ -1,0 +1,150 @@
+{
+ "slug": "mandarin-oriental-tokyo",
+ "name": "Mandarin Oriental, Tokyo",
+ "address": "Tokyo 103-8328 2-1-1 Nihonbashi Muromachi, Chuo-ku, Tokyo",
+ "accessSummary": "Directly connected to the underground passage of Mitsukoshimae Station (subway)",
+ "hours": null,
+ "notice": null,
+ "rooms": [
+  {
+   "name": "Grand Ballroom (Areas 1, 2 and 3, entire)",
+   "note": "Mitsui Tower, 3F. Can be divided into three soundproof sections. Equipped with 360-degree video projection."
+  },
+  {
+   "name": "Grand Ballroom (Areas 1 and 2, or Areas 2 and 3)",
+   "note": "Mitsui Tower, 3F."
+  },
+  {
+   "name": "Grand Ballroom (Areas 1 and 3)",
+   "note": "Mitsui Tower, 3F."
+  },
+  {
+   "name": "Sanctuary",
+   "note": "Mitsui Tower, 3F."
+  },
+  {
+   "name": "North Room",
+   "note": "Mitsui Tower, 3F. Introduced for use as an executive meeting room, for individual consultations, as a VIP lounge, and as the organizer's operations headquarters."
+  },
+  {
+   "name": "South Room",
+   "note": "Mitsui Tower, 3F. Introduced for use as a VIP waiting area, for previews, for sponsor service, and as a guest reception."
+  },
+  {
+   "name": "Linden Room",
+   "note": "Mitsui Main Building, 3F."
+  },
+  {
+   "name": "Alder Room",
+   "note": "Mitsui Main Building, 3F."
+  },
+  {
+   "name": "Oak Room",
+   "note": "Mitsui Main Building, 3F."
+  },
+  {
+   "name": "Maple Room",
+   "note": "Mitsui Main Building, 3F."
+  },
+  {
+   "name": "Beni Room",
+   "note": "Mitsui Main Building, 3F."
+  },
+  {
+   "name": "Shion",
+   "note": "Mitsui Main Building, 3F."
+  },
+  {
+   "name": "Akane",
+   "note": "Mitsui Main Building, 3F. Set up with one table."
+  },
+  {
+   "name": "Kouji",
+   "note": "Mitsui Main Building, 3F."
+  },
+  {
+   "name": "Toki",
+   "note": "Mitsui Main Building, 3F."
+  },
+  {
+   "name": "Ruri",
+   "note": "Mitsui Main Building, 3F."
+  }
+ ],
+ "ops": {
+  "parking": "Valet parking is available at the hotel entrance for hotel guests. Check current parking availability and rates with the hotel in advance. Barrier-free parking is also available.",
+  "waitingRooms": "The North Room (38㎡) on the 3rd floor of Mitsui Tower can be used for executive meetings, individual consultations, as a VIP lounge, and as an organizer's operations headquarters (\"organiser command centres\"). The South Room (38㎡) can be used for VIP waiting, previews, sponsor service and guest reception. Both are on the same floor as the event venues (Meetings & Events Brochure, May 2026 edition).",
+  "catering": "The hotel's chef team provides made-to-order catering, from light meals and working lunches to business dinners. Menus are adjusted to the program, purpose, dietary restrictions and allergies; contact the events team in advance for a consultation. The banquet menu includes breakfast, coffee breaks, lunch, bento boxes, canapés and a 2-hour drink package (Banquet Menu, March 2026 edition).",
+  "restaurants": "The hotel has Signature (French), The Pizza Bar on 38th, K'shiki (Italian), Tapas Molecular Bar, Sense (Cantonese cuisine), Oriental Lounge, Ventaglio, Mandarin Bar, The Cellar (private dining) and Sushi Shin by Miyakawa. The hotel states that private rooms and bespoke arrangements are available for celebrations and business dinners."
+ },
+ "documents": [
+  {
+   "title": "Meetings & Events Brochure (May 2026 edition)"
+  },
+  {
+   "title": "Fact Sheet (May 2026 edition)"
+  },
+  {
+   "title": "Banquet Menu (March 2026 edition)"
+  },
+  {
+   "title": "3F Banquet Hall Floor Map (August 2025 edition)"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "FamilyMart Nihonbashi Mitsui Tower",
+    "hours": "7:00-23:00",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "FamilyMart Nihonbashi Muromachi Mitsui Tower",
+    "hours": "7:00-22:00 (closed Sat, Sun & holidays)",
+    "note": "Distance is calculated from the official store location. The official store name is \"ファミマ日本橋室町三井タワー店\" (Famima Nihonbashi Muromachi Mitsui Tower store). The official store data says \"closed Sat, Sun & holidays\"."
+   },
+   {
+    "name": "7-Eleven Nihonbashi Hongokucho 3-chome",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location."
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "Accea Shin-Nihonbashi",
+    "hours": "Weekdays 9:00-20:00 / Sat, Sun & holidays 10:00-19:00",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Accea Otemachi",
+    "hours": "Open 24 hours (open every day of the year)",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Can Do Marunouchi Oazo",
+    "hours": "Mon-Fri 8:00-22:00 / Sat-Sun 9:00-21:00",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "3COINS Yaechika",
+    "hours": "10:00-21:00",
+    "note": "Distance is calculated from the official store location."
+   }
+  ],
+  "donki": [
+   {
+    "name": "Don Quijote Akihabara",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. Far. The store name on the Don Quijote official website is \"Akihabara\" (秋葉原店)."
+   },
+   {
+    "name": "Don Quijote Ginza Main Building (Ginza Nine Building No. 3)",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. Far. The store name on the Don Quijote official website is \"Ginza Main Building\" (銀座本館)."
+   }
+  ]
+ },
+ "photoCredit": "© Mandarin Oriental Hotel Group / CC BY-SA 3.0 · Wikimedia Commons"
+}

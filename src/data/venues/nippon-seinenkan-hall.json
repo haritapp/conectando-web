@@ -1,0 +1,239 @@
+{
+ "slug": "nippon-seinenkan-hall",
+ "nameJa": "日本青年館ホール",
+ "nameEn": "",
+ "type": "hall",
+ "area": "shinjuku-venues",
+ "address": "〒160-0013 東京都新宿区霞ヶ丘町4-1",
+ "officialUrl": "https://seinenkan-hall.com/",
+ "organizerUrl": "https://seinenkan-hall.com/organizer/stage",
+ "bizintokyoSlug": "nippon-seinenkan-hall",
+ "accessSummary": "東京メトロ銀座線 外苑前駅 2b出口から徒歩5分／都営大江戸線 国立競技場駅 A2出口から徒歩10分／JR中央・総武線（各停）千駄ヶ谷駅・信濃町駅から徒歩12分",
+ "notice": null,
+ "hours": "ホール事務所の受付時間は9:00〜17:00（休演日・休館日を除く）。貸出の時間区分は9:00〜17:00／13:00〜22:00／9:00〜22:00。空き日の問合せと仮予約は電話のみで、受付は9:00〜15:00（年末年始・休館日を除く）。",
+ "rooms": [
+  {
+   "name": "日本青年館ホール（固定席）",
+   "areaM2": null,
+   "ceilingM": null,
+   "theater": 1249,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "1階811席・車いす4席、2階434席。舞台は間口19m（袖幕使用時12.6〜18m）、奥行13.4m（ホリゾント幕使用時13m）、すのこの高さ18m。"
+  },
+  {
+   "name": "リハーサル室（楢）",
+   "areaM2": 81,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "地下1階の楽屋階にある。防音のため二重扉。ピアノ・長机・椅子・パーテーションを使える。利用料は1区分10,000円（税別、料金表 2026年1月1日現在）。"
+  }
+ ],
+ "roomsSource": "https://seinenkan-hall.com/hall/、https://seinenkan-hall.com/organizer/stage、https://seinenkan-hall.com/organizer/room",
+ "ops": {
+  "loadingHours": {
+   "text": "都内で11t車を平置きできる搬入口がある（舞台図面に搬入口と搬入用エレベーターの表記）。指定の搬入搬出場所以外からの搬入・搬出は禁止。ホール基本料金の時間区分は9:00〜17:00／13:00〜22:00／9:00〜22:00で、早朝・延長料は30分60,000円（税別）。",
+   "source": "https://seinenkan-hall.com/organizer/stage、https://seinenkan-hall.com/terms、https://seinenkan-hall.com/organizer/document"
+  },
+  "vehicleRules": {
+   "text": "周辺道路等への路上駐車は禁止。ホール専用の駐車場はなく、同じ建物の地下の有料駐車場はマイクロバス・大型バスの駐車ができず、入庫の高さ制限は2.4m。",
+   "source": "https://seinenkan-hall.com/terms、https://seinenkan-hall.com/faq/"
+  },
+  "parking": {
+   "text": "ホール専用の駐車場はない。提携はしていないが、同じ建物の地下1階・2階に有料駐車場がある（日本スポーツ振興センター所有）。7:00〜23:00は30分ごと410円（最大2,460円）、23:00〜翌7:00は60分ごと210円（最大1,050円）で、ホール利用者の割引はない。車両制限は平置きが縦5.3m・幅2.05m・高さ2.4m・重量2.3t、機械式（下段）が縦5.3m・幅1.95m・高さ1.7m・重量2.3t。予約制ではなく先着順。",
+   "source": "https://seinenkan-hall.com/faq/、https://nippon-seinenkan.or.jp/access/"
+  },
+  "waitingRooms": {
+   "text": "地下1階の楽屋階に8部屋。主催者控室〈橅〉14㎡（席4つ・金庫あり）、楽屋1号室〈栗〉14㎡、2号室〈桂〉19㎡、3号室〈桜〉25㎡、4号室〈欅〉25㎡、5号室〈栃〉44㎡（15席分）、6号室〈杉〉31㎡（11席分）、リハーサル室〈楢〉81㎡。各部屋から舞台の様子をモニターで確認できる。ほかにラウンジ、シャワー室（計4つ）、ランドリー室（洗濯機1台・冷蔵庫4台）、給湯室（電子レンジ・冷蔵庫）、コピー機（白黒1枚10円・カラー1枚50円）、WiFiがある。",
+   "source": "https://seinenkan-hall.com/organizer/room"
+  },
+  "catering": {
+   "text": "客席内での飲食はご遠慮いただいている。",
+   "source": "https://seinenkan-hall.com/faq/"
+  },
+  "restaurants": {
+   "text": "同じ建物の日本青年館ホテル9階にレストラン〈EAST WIND GAIEN〉（120席・200㎡）がある。宿泊者以外も利用でき、営業時間は朝食7:00〜10:00（最終入店9:30）、ランチ11:30〜15:00（L.O.14:00）。",
+   "source": "https://nippon-seinenkan.or.jp/restaurant/"
+  }
+ },
+ "documents": [
+  {
+   "title": "基本料金・図面・ホール資料（公式ページ）",
+   "url": "https://seinenkan-hall.com/organizer/document"
+  },
+  {
+   "title": "料金表（2026年1月1日現在）",
+   "url": "https://seinenkan-hall.com/wp-content/themes/seinenkan/asset/pdf/%E6%96%99%E9%87%91%E8%A1%A8.pdf"
+  },
+  {
+   "title": "備品表（B1楽屋階 2025年12月現在／ホワイエ 2024年4月1日現在）",
+   "url": "https://seinenkan-hall.com/wp-content/themes/seinenkan/asset/pdf/%E5%82%99%E5%93%81%E8%A1%A8.pdf"
+  },
+  {
+   "title": "舞台図面・舞台機構設備仕様表（2019年4月現在）",
+   "url": "https://seinenkan-hall.com/wp-content/themes/seinenkan/asset/pdf/%E8%88%9E%E5%8F%B0.pdf"
+  },
+  {
+   "title": "音響図面（2017年9月10日現在）",
+   "url": "https://seinenkan-hall.com/wp-content/themes/seinenkan/asset/pdf/%E9%9F%B3%E9%9F%BF.pdf"
+  },
+  {
+   "title": "照明図面（2019年4月現在）",
+   "url": "https://seinenkan-hall.com/wp-content/themes/seinenkan/asset/pdf/%E7%85%A7%E6%98%8E.pdf"
+  },
+  {
+   "title": "座席表図面",
+   "url": "https://seinenkan-hall.com/wp-content/themes/seinenkan/asset/pdf/%E5%BA%A7%E5%B8%AD%E8%A1%A8.pdf"
+  },
+  {
+   "title": "楽屋図面",
+   "url": "https://seinenkan-hall.com/wp-content/themes/seinenkan/asset/pdf/%E6%A5%BD%E5%B1%8B%E5%9B%B3%E9%9D%A2.pdf"
+  },
+  {
+   "title": "禁止行為の解除承認申請書類一式",
+   "url": "https://seinenkan-hall.com/wp-content/themes/seinenkan/asset/pdf/%E7%A6%81%E6%AD%A2%E8%A1%8C%E7%82%BA%E7%94%B3%E8%AB%8B%E6%9B%B8%E9%A1%9E%E4%B8%80%E5%BC%8F.pdf"
+  },
+  {
+   "title": "販売申請書",
+   "url": "https://seinenkan-hall.com/wp-content/themes/seinenkan/asset/pdf/%E8%B2%A9%E5%A3%B2%E7%94%B3%E8%AB%8B%E6%9B%B8.pdf"
+  },
+  {
+   "title": "使用取消届（Excel）",
+   "url": "https://seinenkan-hall.com/wp-content/themes/seinenkan/asset/pdf/%E4%BD%BF%E7%94%A8%E5%8F%96%E6%B6%88%E5%B1%8A.xlsx"
+  },
+  {
+   "title": "日本青年館ホール利用約款（2026年4月13日改定）",
+   "url": "https://seinenkan-hall.com/terms"
+  },
+  {
+   "title": "日本青年館ホール使用申込方法（2026年4月13日改定）",
+   "url": "https://seinenkan-hall.com/application"
+  }
+ ],
+ "checkedAt": "2026-11-02",
+ "lat": 35.67445,
+ "lng": 139.715469,
+ "nearby": {
+  "convenience": [
+   {
+    "name": "ローソン 千駄ヶ谷二丁目店",
+    "brand": "ローソン",
+    "distanceM": 328,
+    "walkMin": 5,
+    "hours": "24時間営業",
+    "address": "東京都渋谷区千駄ヶ谷2-32-4",
+    "verified": true,
+    "source": "https://www.areamarker.com/lawson/info/164279",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "ファミリーマート 神宮スタジアム通り店",
+    "brand": "ファミリーマート",
+    "distanceM": 348,
+    "walkMin": 5,
+    "hours": "24時間",
+    "address": "東京都港区北青山二丁目7番26号 メゾン青山1F",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/26909",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "セブン-イレブン 北青山2丁目店",
+    "brand": "セブン-イレブン",
+    "distanceM": 357,
+    "walkMin": 5,
+    "hours": "24時間営業",
+    "address": "東京都港区北青山2丁目12-5",
+    "verified": true,
+    "source": "https://seven-eleven.areamarker.com/711map/info/527339",
+    "note": "距離は公式の店舗位置で計算"
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "アクセア 外苑前店",
+    "brand": "アクセア",
+    "distanceM": 421,
+    "walkMin": 6,
+    "hours": "24時間営業",
+    "address": "東京都港区北青山2-7-9 日昭ビル1F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/entry.html",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "アクセア 表参道店",
+    "brand": "アクセア",
+    "distanceM": 1010,
+    "walkMin": 13,
+    "hours": "平日9:00～20:00／土日祝休み",
+    "address": "東京都港区北青山3-5-25 しもじまビル3F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/entry.html",
+    "note": "距離は住所の位置で計算。遠め"
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Can★Do アトレ信濃町店",
+    "brand": "キャンドゥ",
+    "distanceM": 794,
+    "walkMin": 10,
+    "hours": "毎日 10:00〜21:00",
+    "address": "東京都新宿区信濃町34 アトレ信濃町2階",
+    "verified": true,
+    "source": "https://shopinfo.cando-web.co.jp/detail/shop-5610/",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "DAISO 原宿店",
+    "brand": "ダイソー",
+    "distanceM": 1113,
+    "walkMin": 14,
+    "hours": "9:30-21:00",
+    "address": "東京都渋谷区神宮前1-19-24ビレッジ107 2階",
+    "verified": true,
+    "source": "https://www.daiso-sangyo.co.jp/shop/detail/007157",
+    "note": "距離は住所の位置で計算。遠め"
+   }
+  ],
+  "donki": [
+   {
+    "name": "ドン・キホーテ 新宿東南口別館",
+    "brand": "ドン・キホーテ",
+    "distanceM": 2076,
+    "walkMin": 26,
+    "hours": "9:00～2:00",
+    "address": "東京都新宿区新宿3丁目35-16",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=709",
+    "note": "距離は住所の位置で計算。ドン・キホーテ公式サイトの店舗名は「新宿東南口別館」。遠い"
+   },
+   {
+    "name": "ドン・キホーテ 新宿東南口店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 2124,
+    "walkMin": 27,
+    "hours": "24時間営業",
+    "address": "東京都新宿区新宿3丁目36-16",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=449",
+    "note": "距離は住所の位置で計算。ドン・キホーテ公式サイトの店舗名は「新宿東南口店」。遠い"
+   }
+  ]
+ },
+ "drinkDelivery": {
+  "available": true
+ },
+ "photo": {
+  "src": "/images/venues/nippon-seinenkan-hall.jpg",
+  "credit": "© Kakidai / CC BY-SA 3.0 · Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nihon_seinenkan_2012.JPG"
+ }
+}

@@ -1,0 +1,153 @@
+{
+ "slug": "muromachi-mitsui-hall",
+ "name": "Muromachi Mitsui Hall & Conference",
+ "address": "Tokyo 103-0022 3F COREDO Muromachi Terrace, 3-2-1 Nihonbashi-Muromachi, Chuo-ku",
+ "accessSummary": "Mitsukoshimae Station (Tokyo Metro Ginza Line and Hanzomon Line): directly connected / Shin-Nihonbashi Station (JR Sobu Rapid Line and Yokosuka Line): directly connected / Kanda Station (JR): 4 min walk / Tokyo Station (JR): 9 min walk",
+ "hours": "9:00-21:00 (excluding the year-end and New Year holidays and closure days for equipment inspection and the like). 8:00-9:00 and 21:00-22:00 can be used with an after-hours extension fee.",
+ "notice": null,
+ "rooms": [
+  {
+   "name": "3F Hall (front-back layout)",
+   "note": "Classroom is 3 per desk (204 seats with 2 per desk). Lifting stage (electric) W9198 x D3114 x H0-900 mm (adjustable; in principle it cannot be raised or lowered during the event, to prevent accidents). The foyer, pantry, waiting rooms and cloakroom are included in the basic venue fee. Hall-only use is available from a minimum of 5 hours."
+  },
+  {
+   "name": "3F Hall (side-side layout)",
+   "note": "The same hall as the front-back layout; this is the capacity when the seating is arranged sideways, centered on the middle between the screens."
+  },
+  {
+   "name": "3F Foyer",
+   "note": "The foyer exclusive to the hall. Included in the basic venue fee."
+  },
+  {
+   "name": "3F Room A",
+   "note": "Classroom is 3 per desk (36 seats with 2 per desk). Connected with Room B, it becomes Room A+B."
+  },
+  {
+   "name": "3F Room B",
+   "note": "Classroom is 3 per desk (36 seats with 2 per desk). Connected with Room A, it becomes Room A+B."
+  },
+  {
+   "name": "3F Room A+B (connected)",
+   "note": "Classroom is 3 per desk (72 seats with 2 per desk). Theater is 140 seats in the price list and the floor overview table, but 130 seats is also given in the floor overview text and in the facility overview PDF (2019). Hollow square is \"-\" in the floor overview table and 60 seats in the price list (version of July 28, 2025). Conference-only use can be booked from 3 months in advance."
+  },
+  {
+   "name": "3F Room C",
+   "note": "Cannot be booked on its own. It can be booked as a set with the hall, or as a set with Room A+B."
+  }
+ ],
+ "ops": {
+  "prevDaySetup": "The hall has a special preparation-day rate: 30% off the basic venue fee (applies to one day per event, 9:00-21:00). For both the hall and the conference rooms, bookings are made for time that includes setup and teardown. The standard usage time is 9:00-21:00, and 8:00-9:00 and 21:00-22:00 incur an after-hours extension fee, technical management fee and personnel costs. The hall's basic venue fee is 1,130,000 yen (9:00-21:00, excluding tax). The layout for both the hall and the conference rooms is finalized by 14 days before the use date (excluding Saturdays, Sundays and holidays). (Source: Price List version of July 28, 2025, Facility Guide as of May 2025)",
+  "loadingHours": "Loading in and out is done from the loading dock on B2F of Nihonbashi Muromachi Mitsui Tower, and goods are taken up to 3F by the loading/unloading elevator (F-1, load capacity 2,000 kg, B2F to 3F). The loading dock reception (in-house logistics center) is open weekdays 7:00-19:00 and Saturdays, Sundays and holidays 7:00-17:00. Outside these hours, loading in can start without any procedure. The \"Loading/Unloading Registration\" must be submitted to Muromachi Mitsui Hall & Conference by 10 days before the use date (excluding Saturdays, Sundays and holidays), and the in-house logistics center issues a permit. Only air carts with stoppers may be used as hand carts; up to 3 are free at the hall, and beyond that it is 100 yen per 30 minutes (tax included) at the in-house logistics center. When carrying goods by any means other than an air cart, protective covering (curing) is required inside the elevator and along the loading route. (Source: Loading and Unloading Guide as of August 5, 2026)",
+  "vehicleRules": "Loading/unloading vehicles must obtain a permit in advance, display it on the windshield, and enter the B2F loading dock from the entrance on the Nichigin-dori side (one-way). Vehicle limits are height 2,980 mm, length 6,600 mm and width 2,400 mm. The loading dock fee is 250 yen per 30 minutes (tax included), and 250 yen for each 30 minutes after that. With a permit, the first 20 minutes are waived. The number of vehicles that can be accepted at the same time is limited, and you may be asked to enter one vehicle at a time in turns. Fees to the in-house logistics center apply when 3 or more vehicles load in or out, for work outside the logistics center's hours, when the loading/unloading elevator is used continuously for 1 hour or more, and the like. The Terms of Service prohibit parking vehicles such as cars on the street. (Source: Loading and Unloading Guide as of August 5, 2026, Terms of Service)",
+  "parking": "Nihonbashi Muromachi Mitsui Tower has a mechanical parking lot (260 spaces). Entry and exit are 6:00-26:00 (excluding closure days), the rate is 250 yen per 30 minutes (tax included), and for weekday entry the maximum charge for up to 12 hours is 2,500 yen (no maximum charge is set for Saturdays, Sundays and holidays). Parking service tickets (30-minute ticket 250 yen, 60-minute ticket 500 yen) can be bought from the facility; tell them the number needed by 1 week before the use date. Vehicle limits are: standard cars, length 5.3 m, width 1.9 m, height 1.55 m, weight 2.5 t; high-roof cars, height 2.0 m. Trucks and buses cannot enter. If you want a flat-surface parking lot, use a nearby coin parking lot. (Source: Mechanical Parking Guide, version of 2021/7/1)",
+  "waitingRooms": "There are 3 waiting rooms, each with a washbasin. A cloakroom and pantry can also be used. The foyer, pantry, waiting rooms and cloakroom are included in the hall's basic venue fee. (Source: Facility Overview PDF, Price List version of July 28, 2025)",
+  "catering": "Food and drink service such as catering and lunch boxes is handled only by companies designated by the facility. Orders are placed by the user directly with the company, and the list of companies is given in the \"Catering Company Guide\" (September 24, 2026). Bringing in food and drink from outside is declined. There are no trash cans in the venue; take containers and other waste home or request trash collection. The loading/unloading registration for catering must be submitted by 10 days before the use date (excluding Saturdays, Sundays and holidays). When holding a reception after an event, guests are advised to book a separate venue. There is also a delivery service that brings dishes from shops in COREDO Muromachi and COREDO Nihonbashi to the venue, and a sustainable catering service (Crazy Kitchen). (Source: Facility Guide as of May 2025, Catering Company Guide of September 24, 2026, services page)",
+  "restaurants": "Nihonbashi Muromachi Mitsui Tower has a shopping and restaurant zone. A delivery service that brings dishes from shops in COREDO Muromachi and COREDO Nihonbashi to the event venue is also introduced. (Source: Access page, services page)"
+ },
+ "documents": [
+  {
+   "title": "Brochure"
+  },
+  {
+   "title": "Facility Overview"
+  },
+  {
+   "title": "Facility Guide (as of May 2025)"
+  },
+  {
+   "title": "Price List (version of July 28, 2025)"
+  },
+  {
+   "title": "Equipment Price List with Photos (as of June 29, 2026)"
+  },
+  {
+   "title": "Furnishings Price List with Photos (as of October 10, 2026)"
+  },
+  {
+   "title": "Floor Plan"
+  },
+  {
+   "title": "Hall Layout Drawings"
+  },
+  {
+   "title": "Conference Room Layouts"
+  },
+  {
+   "title": "Terms of Service"
+  },
+  {
+   "title": "Catering Company Guide (September 24, 2026)"
+  },
+  {
+   "title": "Loading and Unloading Guide (as of August 5, 2026)"
+  },
+  {
+   "title": "Mechanical Parking Guide (2021/7/1)"
+  },
+  {
+   "title": "Area Map"
+  },
+  {
+   "title": "Access Map from Public Transportation (as of October 2021)"
+  },
+  {
+   "title": "Document Downloads (official page)"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "FamilyMart Nihonbashi Muromachi Mitsui Tower",
+    "hours": "7:00-22:00 (closed Sat, Sun & holidays)",
+    "note": "Distance is calculated from the store's official location. The official store name is \"Famima Nihonbashi Muromachi Mitsui Tower\" (ファミマ日本橋室町三井タワー店). The official store data notes \"closed Saturdays, Sundays and holidays\"."
+   },
+   {
+    "name": "FamilyMart Nihonbashi Mitsui Tower",
+    "hours": "7:00-23:00",
+    "note": "Distance is calculated from the store's official location."
+   },
+   {
+    "name": "7-Eleven Nihonbashi Muromachi 3-chome",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the store's official location."
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "Accea Shin-Nihonbashi",
+    "hours": "Weekdays 9:00-20:00 / Sat, Sun & holidays 10:00-19:00",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Accea Otemachi",
+    "hours": "Open 24 hours (open every day)",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Can Do Marunouchi Oazo",
+    "hours": "Mon-Fri 8:00-22:00 / Sat-Sun 9:00-21:00",
+    "note": "Distance is calculated from the store's official location."
+   },
+   {
+    "name": "DAISO Ningyocho Station",
+    "hours": "9:00-21:00",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "donki": [
+   {
+    "name": "Don Quijote Akihabara",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. Rather far. The store name on the Don Quijote official website is \"Akihabara\"."
+   },
+   {
+    "name": "Don Quijote Ueno",
+    "hours": "9:00-4:00",
+    "note": "Distance is calculated from the address location. Far. The store name on the Don Quijote official website is \"Ueno\"."
+   }
+  ]
+ },
+ "photoCredit": "© Wpcpey / CC BY 4.0 · Wikimedia Commons"
+}

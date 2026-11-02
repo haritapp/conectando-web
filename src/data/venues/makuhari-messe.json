@@ -1,0 +1,778 @@
+{
+ "slug": "makuhari-messe",
+ "nameJa": "幕張メッセ",
+ "nameEn": "MAKUHARI MESSE",
+ "type": "exhibition",
+ "area": "chiba-venues",
+ "address": "〒261-8550 千葉県千葉市美浜区中瀬2-1",
+ "officialUrl": "https://www.m-messe.co.jp/",
+ "organizerUrl": "https://www.m-messe.co.jp/organizers/",
+ "bizintokyoSlug": "makuhari",
+ "accessSummary": "JR京葉線 海浜幕張駅 徒歩約5分／JR京葉線 幕張豊砂駅 徒歩約20分／JR総武線・京成線 幕張本郷駅 『幕張メッセ中央』行きバス約17分",
+ "notice": null,
+ "hours": "国際展示場の1日は0:00〜24:00（半日は0:00〜12:00／12:00〜24:00）。国際会議場の会議室利用は9:00〜21:00の時間枠。幕張イベントホールの基本使用料は連続12時間で、8時以前・22時以降は立会い人件費が別途必要",
+ "rooms": [
+  {
+   "name": "国際展示場 展示ホール1〜8（各ホール）",
+   "areaM2": 6750,
+   "ceilingM": "15-30",
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "壁芯で縦（南北）112.5m×横（東西）60m、制限床荷重は最大5t/㎡。可動間仕切りで連結・分割利用ができ、1〜8ホール全体で最大54,000㎡。各ホールに主催者室116㎡・多目的室181㎡・商談コーナー116㎡・プロセニアムデッキ（2階）62㎡・倉庫（2階）5.7㎡・給湯室4㎡が付く"
+  },
+  {
+   "name": "国際展示場 展示ホール1〜8（全8ホール）",
+   "areaM2": 54000,
+   "ceilingM": "15-30",
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "6,750㎡×8ホール。可動間仕切りによる分割利用ができる"
+  },
+  {
+   "name": "国際展示場 展示ホール9",
+   "areaM2": 9000,
+   "ceilingM": "16-34",
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "壁芯で縦（東西）96m×横（南北）96m、制限床荷重5t/㎡。付属：主催者室68㎡、多目的室65㎡・81㎡、商談室83㎡・124㎡・86㎡、会議室130㎡"
+  },
+  {
+   "name": "国際展示場 展示ホール10・11（各ホール）",
+   "areaM2": 4500,
+   "ceilingM": "16-20.7",
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "壁芯で縦（東西）96m×横（南北）48m、制限床荷重3t/㎡。ホール10：主催者室87㎡・多目的室87㎡・商談室85㎡・会議室130㎡。ホール11：主催者室92㎡・多目的室92㎡・商談室85㎡・会議室130㎡。天井高は施設案内パンフレットの記載（公式サイトは展示ホール9〜11全体で最高34m／最低16m）"
+  },
+  {
+   "name": "国際展示場 展示ホール9〜11（全3ホール）",
+   "areaM2": 18000,
+   "ceilingM": "16-34",
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "展示ホール9（9,000㎡）＋展示ホール10・11（各4,500㎡）。2階の連絡橋で展示ホール1〜8、国際会議場、幕張イベントホールとつながる"
+  },
+  {
+   "name": "国際展示場 屋外展示場",
+   "areaM2": 4160,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "使用料は1㎡あたり1日46円・半日23円（税込、2026年4月1日利用分から）"
+  },
+  {
+   "name": "国際展示場 展示ホール1・3・4・6・7附属の会議室（各室）",
+   "areaM2": 82,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "備え付けの備品・機器類を含む。使用料は1室1日36,310円・半日18,150円（税込、2026年4月1日利用分から）"
+  },
+  {
+   "name": "国際展示場 展示ホール2・5・8附属の会議室（各室）",
+   "areaM2": 116,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "備え付けの備品・機器類を含む。使用料は1室1日48,400円・半日24,200円（税込、2026年4月1日利用分から）"
+  },
+  {
+   "name": "国際展示場 展示ホール9〜11附属の会議室（各室）",
+   "areaM2": 130,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "備え付けの備品・機器類を含む。使用料は1室1日57,540円・半日28,770円（税込、2026年4月1日利用分から）"
+  },
+  {
+   "name": "国際展示場 特別会議室（展示ホール9〜11、2階）",
+   "areaM2": 176,
+   "ceilingM": null,
+   "theater": 150,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "控室1室・ロビー・受付カウンター・備え付けの備品・機器類を含む。使用料は1室1日77,920円・半日38,960円（税込、2026年4月1日利用分から）。シアター150名は施設案内パンフレット（2024年9月）の記載"
+  },
+  {
+   "name": "国際会議場 コンベンションホール（2F・全室）",
+   "areaM2": 1390,
+   "ceilingM": "7.5-9",
+   "theater": 1664,
+   "school": 1026,
+   "ushape": null,
+   "standing": 1000,
+   "banquet": null,
+   "note": "東西32.4m×南北42.9m。試験684名。スクールは3名掛け。公式サイトの施設紹介には「1,600名を収容」とも書かれている"
+  },
+  {
+   "name": "国際会議場 コンベンションホール（2F・分割A／B 各）",
+   "areaM2": 670,
+   "ceilingM": "7.5-9",
+   "theater": 806,
+   "school": 456,
+   "ushape": null,
+   "standing": 500,
+   "banquet": null,
+   "note": "東西32.4m×南北20.7m。2分割して各室で利用できる。試験304名。スクールは3名掛け"
+  },
+  {
+   "name": "国際会議場 国際会議室（2F）",
+   "areaM2": 635,
+   "ceilingM": 7.0,
+   "theater": 688,
+   "school": 336,
+   "ushape": null,
+   "standing": 500,
+   "banquet": null,
+   "note": "東西25.6m×南北24.8m。試験224名。スクールは3名掛け"
+  },
+  {
+   "name": "国際会議場 中会議室201（2F・全室）",
+   "areaM2": 330,
+   "ceilingM": 6.5,
+   "theater": 304,
+   "school": 150,
+   "ushape": 84,
+   "standing": 150,
+   "banquet": null,
+   "note": "東西13.9m×南北23.7m。試験100名。スクールは3名掛け"
+  },
+  {
+   "name": "国際会議場 中会議室201（2F・分割A／B 各）",
+   "areaM2": 165,
+   "ceilingM": 6.5,
+   "theater": 144,
+   "school": 60,
+   "ushape": 54,
+   "standing": null,
+   "banquet": null,
+   "note": "東西13.9m×南北11.8m。スクールは3名掛け"
+  },
+  {
+   "name": "国際会議場 小会議室202（2F）",
+   "areaM2": 83,
+   "ceilingM": 3.0,
+   "theater": 70,
+   "school": 36,
+   "ushape": 36,
+   "standing": null,
+   "banquet": null,
+   "note": "東西9.1m×南北9.1m。試験24名。スクールは3名掛け"
+  },
+  {
+   "name": "国際会議場 小会議室203（2F）",
+   "areaM2": 72,
+   "ceilingM": 3.0,
+   "theater": 56,
+   "school": 24,
+   "ushape": 30,
+   "standing": null,
+   "banquet": null,
+   "note": "東西8.0m×南北9.0m。試験18名。スクールは3名掛け"
+  },
+  {
+   "name": "国際会議場 小会議室204（2F）",
+   "areaM2": 53,
+   "ceilingM": 3.0,
+   "theater": 48,
+   "school": 18,
+   "ushape": 24,
+   "standing": null,
+   "banquet": null,
+   "note": "東西8.0m×南北6.6m。試験12名。スクールは3名掛け"
+  },
+  {
+   "name": "国際会議場 小会議室205（2F）",
+   "areaM2": 53,
+   "ceilingM": 3.0,
+   "theater": 48,
+   "school": 18,
+   "ushape": 24,
+   "standing": null,
+   "banquet": null,
+   "note": "東西8.0m×南北6.6m。試験12名。スクールは3名掛け"
+  },
+  {
+   "name": "国際会議場 小会議室213・214・215・216（2F・各室）",
+   "areaM2": 16,
+   "ceilingM": 2.7,
+   "theater": null,
+   "school": null,
+   "ushape": 12,
+   "standing": null,
+   "banquet": null,
+   "note": "東西3.9m×南北4.2m。ロの字は8〜12名。コンベンションホールを利用する人が優先"
+  },
+  {
+   "name": "国際会議場 中会議室301（3F・全室）",
+   "areaM2": 280,
+   "ceilingM": 3.0,
+   "theater": 256,
+   "school": 132,
+   "ushape": 72,
+   "standing": 130,
+   "banquet": null,
+   "note": "東西14.0m×南北20.0m。試験120名。スクールは3名掛け"
+  },
+  {
+   "name": "国際会議場 中会議室301（3F・分割A）",
+   "areaM2": 130,
+   "ceilingM": 3.0,
+   "theater": 108,
+   "school": 48,
+   "ushape": 42,
+   "standing": null,
+   "banquet": null,
+   "note": "東西14.0m×南北9.3m。スクールは3名掛け"
+  },
+  {
+   "name": "国際会議場 中会議室301（3F・分割B）",
+   "areaM2": 150,
+   "ceilingM": 3.0,
+   "theater": 126,
+   "school": 60,
+   "ushape": 48,
+   "standing": null,
+   "banquet": null,
+   "note": "東西14.0m×南北10.7m。スクールは3名掛け"
+  },
+  {
+   "name": "国際会議場 中会議室302（3F）",
+   "areaM2": 194,
+   "ceilingM": 3.0,
+   "theater": 196,
+   "school": 108,
+   "ushape": 60,
+   "standing": 100,
+   "banquet": null,
+   "note": "東西11.4m×南北17.0m。試験80名。スクールは3名掛け"
+  },
+  {
+   "name": "国際会議場 中会議室303（3F）",
+   "areaM2": 194,
+   "ceilingM": 3.0,
+   "theater": 196,
+   "school": 108,
+   "ushape": 60,
+   "standing": 100,
+   "banquet": null,
+   "note": "東西11.4m×南北17.0m。試験80名。スクールは3名掛け"
+  },
+  {
+   "name": "国際会議場 中会議室304（3F）",
+   "areaM2": 190,
+   "ceilingM": 3.0,
+   "theater": 172,
+   "school": 81,
+   "ushape": 54,
+   "standing": 80,
+   "banquet": null,
+   "note": "東西14.4m×南北13.2m。試験56名。スクールは3名掛け"
+  },
+  {
+   "name": "国際会議場 中会議室101（1F・全室）",
+   "areaM2": 160,
+   "ceilingM": 2.7,
+   "theater": 144,
+   "school": 96,
+   "ushape": 54,
+   "standing": 70,
+   "banquet": null,
+   "note": "東西14.4m×南北11.1m。試験54名。スクールは3名掛け"
+  },
+  {
+   "name": "国際会議場 中会議室101（1F・分割A／B 各）",
+   "areaM2": 80,
+   "ceilingM": 2.7,
+   "theater": 72,
+   "school": 36,
+   "ushape": 30,
+   "standing": null,
+   "banquet": null,
+   "note": "東西7.2m×南北11.1m。スクールは3名掛け"
+  },
+  {
+   "name": "国際会議場 中会議室102（1F・全室）",
+   "areaM2": 139,
+   "ceilingM": 2.7,
+   "theater": 160,
+   "school": 90,
+   "ushape": 60,
+   "standing": 60,
+   "banquet": null,
+   "note": "東西7.8m×南北17.8m。試験60名。スクールは3名掛け"
+  },
+  {
+   "name": "国際会議場 中会議室102（1F・分割A）",
+   "areaM2": 63,
+   "ceilingM": 2.7,
+   "theater": 60,
+   "school": 36,
+   "ushape": 30,
+   "standing": null,
+   "banquet": null,
+   "note": "東西7.8m×南北8.1m。スクールは3名掛け。料金表では102の分割を65㎡と表記"
+  },
+  {
+   "name": "国際会議場 中会議室102（1F・分割B）",
+   "areaM2": 70,
+   "ceilingM": 2.7,
+   "theater": 70,
+   "school": 36,
+   "ushape": 30,
+   "standing": null,
+   "banquet": null,
+   "note": "東西7.8m×南北9.0m。スクールは3名掛け。料金表では102の分割を65㎡と表記"
+  },
+  {
+   "name": "国際会議場 中会議室103（1F）",
+   "areaM2": 156,
+   "ceilingM": 3.0,
+   "theater": 170,
+   "school": 99,
+   "ushape": 66,
+   "standing": 70,
+   "banquet": null,
+   "note": "東西19.2m×南北8.1m。試験66名。スクールは3名掛け。料金表では103・104・105を一括で掲載"
+  },
+  {
+   "name": "国際会議場 中会議室104（1F）",
+   "areaM2": 156,
+   "ceilingM": 3.0,
+   "theater": 170,
+   "school": 99,
+   "ushape": 66,
+   "standing": 70,
+   "banquet": null,
+   "note": "東西19.2m×南北8.1m。試験66名。スクールは3名掛け"
+  },
+  {
+   "name": "国際会議場 中会議室105（1F）",
+   "areaM2": 156,
+   "ceilingM": 3.0,
+   "theater": 170,
+   "school": 99,
+   "ushape": 66,
+   "standing": 70,
+   "banquet": null,
+   "note": "東西19.2m×南北8.1m。試験66名。スクールは3名掛け"
+  },
+  {
+   "name": "国際会議場 第1特別応接室（1F）",
+   "areaM2": 65,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "8名掛けの応接セット"
+  },
+  {
+   "name": "国際会議場 第2特別応接室（1F）",
+   "areaM2": 30,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "6名掛けの応接セット"
+  },
+  {
+   "name": "幕張イベントホール アリーナ",
+   "areaM2": 3098,
+   "ceilingM": 27,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "天井高は最高27m。最大9,000名収容（公式サイトの施設紹介）。固定客席（ボックス席を含む）3,948席、可動客席912席、仮設席約3,000席。吊フック100箇所、ライトトラスバトン21本・ライトバトン4本・美術バトン12本。座席表（2F固定2,060席・3F固定1,888席）は公式の座席表PDFを参照"
+  },
+  {
+   "name": "幕張イベントホール 控室1〜5（計5室）",
+   "areaM2": null,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "控室1：45㎡、控室2：40㎡、控室3：95㎡、控室4：125㎡、控室5：95㎡。各控室でWi-Fi対応可。基本使用料に含まれるのは2027年1月利用分からは控室1〜5とリハーサルルーム、2026年12月利用分までは控室1とリハーサルルーム"
+  },
+  {
+   "name": "幕張イベントホール リハーサルルーム",
+   "areaM2": 320,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "1室"
+  },
+  {
+   "name": "幕張イベントホール 特別応接室",
+   "areaM2": 62,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "1室。ソファー6席。使用料は1日33,000円（2027年1月1日利用分から。2026年12月利用分までは27,500円）、いずれも税込"
+  },
+  {
+   "name": "幕張イベントホール ロビー（南・北）",
+   "areaM2": 400,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "南ロビー400㎡・北ロビー400㎡"
+  }
+ ],
+ "roomsSource": "https://www.m-messe.co.jp/organizers/guide/",
+ "ops": {
+  "prevDaySetup": {
+   "text": "国際展示場は、利用区分の1日が0:00〜24:00、半日が0:00〜12:00または12:00〜24:00で、1展示ホール1日の使用料は展示ホール1〜8が2,298,470円、展示ホール9が3,065,330円、展示ホール10〜11が1,532,660円（税込、2026年4月1日利用分から）。展示ホール1〜11のうち8ホール以上（9を含む場合は7ホール以上）の同時利用、1月・8月の利用、連続30日以上の利用は、使用料の9割相当などの割引がある。国際会議場はコンベンションホールまたは国際会議室を設営・撤去のために利用する場合、使用料の80%（超過料金には適用されない）。幕張イベントホールは設営・撤去料金が別に設定され、1回12時間で、式典・集会・展示会等は1,210,000円、興行は1,650,000円、アマチュアスポーツ・公的行事は660,000円（税込、2027年1月1日利用分から。2026年12月利用分までは990,000円・1,320,000円・495,000円）。8時以前・22時以降の利用は立会い人件費が別途必要。（出典：国際展示場使用料金表 2026年4月1日利用分より、国際会議場使用料金表 2027年1月版、幕張イベントホール使用料金表 2027年1月版・2026年12月までのご利用分）",
+   "source": "https://www.m-messe.co.jp/saved/files/document/pdf/1021/1/Price%20List%20202604-_InternationalExhibitionHall_J.pdf"
+  },
+  "loadingHours": {
+   "text": "展示ホールの貸出は1日（0:00〜24:00）または半日単位。搬入出口は、展示ホール1〜8が北搬入出口W5.2m×H4m×2・南搬入出口W8.3m×H5.6m（敷地内ゲート幅9m）、展示ホール9〜11が各ホールW10m×H4.6m（東西同一、敷地内ゲート幅10m）で、各ホールの複数の搬入出口からトラックが直接乗り入れられる。幕張イベントホールの搬入出口は2か所（幅4.5m×高さ3.8m）。国際会議場には荷物用エレベーターがある。国際会議場の会議室利用は9:00〜21:00の時間枠（9〜12時、13〜17時、18〜21時、9〜17時、13〜21時、9〜21時）で、超過は1時間単位。幕張イベントホールの基本使用料は連続12時間を1回とし、8時以前・22時以降は立会い人件費が別途必要。事前の手続き：国際展示場は利用開始1ヶ月前までに利用計画書へ記入し、会場構成図面・諸工事図面・冷暖房設備使用申込書・電気等設備利用申込書を添えて事業第二課と打合せする（警備計画も打合せ事項）。国際会議場・幕張イベントホールは利用開始のおよそ1ヶ月前までに事業第一課との打合せを開始し、イベントホールは搬入出・設営撤去計画も打合せ事項になっている。警察署への催物開催届、消防署への催物開催届・防火責任者選任届、保健所への食品営業許可申請は利用者が行う。（出典：施設案内パンフレット 2024年9月、ご利用の流れ、国際展示場使用料金表 2026年4月、国際会議場使用料金表 2027年1月版、幕張イベントホール使用料金表 2027年1月版）",
+   "source": "https://www.m-messe.co.jp/saved/files/document/pdf/1029/1/%E5%B9%95%E5%BC%B5%E3%83%A1%E3%83%83%E3%82%BB%20%E6%96%BD%E8%A8%AD%E6%A1%88%E5%86%85%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88.pdf"
+  },
+  "vehicleRules": {
+   "text": "敷地内ゲートから入れる車両は、展示ホール1〜8が総重量30t以下（車両重量＋積載重量）、展示ホール9〜11が総重量45t以下、幕張イベントホールの搬入出口は総重量30t以下。国際展示場・国際会議場・幕張イベントホールの利用規約では、搬入出車両と来場者車両の整理・誘導計画、来場者の整理・誘導計画、緊急時の対応を記した警備マニュアルを利用者が作成し、安全で円滑な車両・来場者の誘導を行うよう定めている。車両の留め置きは、幕張メッセ駐車場に停められ、料金は利用日数に応じた額（例：4月1日20:00入庫・4月2日8:00出庫なら普通車1,000円×2日）。駐車場内での宿泊はできない。（出典：施設案内パンフレット 2024年9月、国際会議場・幕張イベントホール利用規約 2027年1月1日適用、国際展示場利用規約 2023年10月1日適用、公式サイト Q&A）",
+   "source": "https://www.m-messe.co.jp/saved/files/document/pdf/1029/1/%E5%B9%95%E5%BC%B5%E3%83%A1%E3%83%83%E3%82%BB%20%E6%96%BD%E8%A8%AD%E6%A1%88%E5%86%85%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88.pdf"
+  },
+  "parking": {
+   "text": "幕張メッセ駐車場（千葉市美浜区豊砂3-1）は普通車5,000台・大型車120台・自動二輪車50台で（ほかに車椅子使用者用駐車場51台分）、営業時間は8:00〜23:00（入庫は21:00まで）。料金は普通・準中型が1日1回1,000円、大型・中型が4,100円、自動二輪車が200円で、予約はできない。キャッシュレス決済に対応。バスの乗降スペースがあり、乗降のみで15分以内なら無料。近隣の幕張新都心県営第二地下駐車場は459台・24時間営業で、通常20分100円、駐車後24時間の最大料金1,000円（県営第一地下駐車場は公式サイトで閉鎖中と表示）。（出典：公式サイト アクセス・Q&A 2026年11月取得）",
+   "source": "https://www.m-messe.co.jp/access/"
+  },
+  "waitingRooms": {
+   "text": "国際展示場 展示ホール1〜8は1ホールごとに主催者室116㎡・多目的室181㎡・商談コーナー116㎡・給湯室が付き、会議室は116㎡×3室・82㎡×5室（使用料は別）。展示ホール9は主催者室68㎡・多目的室2室（65㎡・81㎡）・商談室3室（83㎡・124㎡・86㎡）・会議室130㎡、ホール10は主催者室87㎡・多目的室87㎡・商談室85㎡・会議室130㎡、ホール11は主催者室92㎡・多目的室92㎡・商談室85㎡・会議室130㎡。展示ホール9〜11には特別会議室（2階・176㎡、控室1室付き）もある。国際会議場は特別応接室2室（第1：65㎡・8名掛け、第2：30㎡・6名掛け）と、2階の213〜216（各16㎡・ロの字8〜12名）がある。幕張イベントホールは控室5室（45㎡・40㎡・95㎡・125㎡・95㎡）、リハーサルルーム320㎡、特別応接室62㎡、シャワールーム2室、救護室1室。基本使用料に含まれるのは、2027年1月利用分からは控室1〜5とリハーサルルーム、2026年12月利用分までは控室1とリハーサルルーム。（出典：公式サイト 国際展示場・国際会議場・幕張イベントホールの施設紹介ページ、各使用料金表）",
+   "source": "https://www.m-messe.co.jp/organizers/guide/exhibitionhall/guide_exibition1-8"
+  },
+  "catering": {
+   "text": "国際会議場での飲食はすべて幕張メッセが提供し、利用者手配の飲食物の持込はできない。パーティープランは20名以上・料理4,000円（税抜）から、宴会は2時間まで、原則立食・ブッフェで、1ヶ月前までに相談し14日前（土日祝を除く）までに注文する。華プラン（飲み放題付）は税込7,700円、宴プラン（飲み放題付）は税込6,600円（いずれも1人、室料込み）。お弁当は1,000〜1,600円（税抜）、松花堂御膳は2,000〜4,000円（税抜）。国際展示場は指定業者制を採っておらず、会場設営・運営に関わる業者（電気・水道・警備・清掃など）は利用者が手配する。催物で必要な保健所への食品営業許可申請などの届出・許可申請は利用者が行う。（出典：国際会議場パーティープラン 2026年2月1日適用、ケータリングメニュー PDF〈記載は2025年10月1日分より適用〉、国際会議場使用料金表 2027年1月版、国際展示場利用規約 2023年10月1日適用）",
+   "source": "https://www.m-messe.co.jp/saved/files/document/pdf/1254/1/%E3%83%91%E3%83%BC%E3%83%86%E3%82%A3%E3%83%BC%E3%83%97%E3%83%A9%E3%83%B320260201-.pdf"
+  },
+  "restaurants": {
+   "text": "国際展示場の中央モールにカフェテリアが2店ある：WORLD KITCHENS（展示ホール6前、390席）とROYAL KITCHENS（展示ホール1前、300席）で、どちらも貸切パーティー・お弁当ケータリングを受け付けている（営業日はイベント開催状況による）。コンビニはニューヤマザキデイリーストア幕張メッセ店（中央エントランス）、デイリーヤマザキ幕張メッセII店（展示ホール9前）、III店（展示ホール1前）。幕張メッセをはじめ幕張新都心内のホテル・オフィスビルの主なレストランで使える「幕張新都心飲食共通利用券」を取り扱っている。（出典：公式サイト レストラン・コンビニエンスストア、Q&A 2026年11月取得）",
+   "source": "https://www.m-messe.co.jp/facility/shopping"
+  }
+ },
+ "documents": [
+  {
+   "title": "国際展示場使用料金表（2026年4月1日利用分より）",
+   "url": "https://www.m-messe.co.jp/saved/files/document/pdf/1021/1/Price%20List%20202604-_InternationalExhibitionHall_J.pdf"
+  },
+  {
+   "title": "国際展示場利用規約（2023年10月1日適用）",
+   "url": "https://www.m-messe.co.jp/saved/files/document/pdf/1045/1/%E5%9B%BD%E9%9A%9B%E5%B1%95%E7%A4%BA%E5%A0%B4%E5%88%A9%E7%94%A8%E8%A6%8F%E7%B4%84.pdf"
+  },
+  {
+   "title": "国際会議場使用料金表（2027年1月1日利用分より）",
+   "url": "https://www.m-messe.co.jp/saved/files/document/pdf/1269/1/%E5%9B%BD%E9%9A%9B%E4%BC%9A%E8%AD%B0%E5%A0%B4%20%E4%BD%BF%E7%94%A8%E6%96%99%E9%87%91%E8%A1%A8_202701-.pdf"
+  },
+  {
+   "title": "国際会議場使用料金表（2026年12月までのご利用分）",
+   "url": "https://www.m-messe.co.jp/saved/files/document/pdf/1104/1/Price%20List202604-_InternationalConferenceHall_J.pdf"
+  },
+  {
+   "title": "幕張イベントホール使用料金表（2027年1月1日利用分より）",
+   "url": "https://www.m-messe.co.jp/saved/files/document/pdf/1267/1/%E5%B9%95%E5%BC%B5%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E3%83%9B%E3%83%BC%E3%83%AB%E4%BD%BF%E7%94%A8%E6%96%99%E9%87%91%E8%A1%A8_202701-.pdf"
+  },
+  {
+   "title": "幕張イベントホール使用料金表（2026年12月までのご利用分）",
+   "url": "https://www.m-messe.co.jp/saved/files/document/pdf/1068/1/Price%20List202604-_MakuhariEventHall_J.pdf"
+  },
+  {
+   "title": "国際会議場・幕張イベントホール利用規約（2027年1月1日適用）",
+   "url": "https://www.m-messe.co.jp/saved/files/document/pdf/1268/1/%E5%9B%BD%E9%9A%9B%E4%BC%9A%E8%AD%B0%E5%A0%B4%E3%83%BB%E5%B9%95%E5%BC%B5%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E3%83%9B%E3%83%BC%E3%83%AB%20%E5%88%A9%E7%94%A8%E8%A6%8F%E7%B4%84_202701-.pdf"
+  },
+  {
+   "title": "国際会議場・幕張イベントホール利用規約（2026年12月までのご利用分）",
+   "url": "https://www.m-messe.co.jp/saved/files/document/pdf/1066/1/%E5%9B%BD%E9%9A%9B%E4%BC%9A%E8%AD%B0%E5%A0%B4%E3%83%BB%E5%B9%95%E5%BC%B5%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E3%83%9B%E3%83%BC%E3%83%AB%20%E5%88%A9%E7%94%A8%E8%A6%8F%E7%B4%84.pdf"
+  },
+  {
+   "title": "幕張メッセ 施設案内パンフレット（2024年9月）",
+   "url": "https://www.m-messe.co.jp/saved/files/document/pdf/1029/1/%E5%B9%95%E5%BC%B5%E3%83%A1%E3%83%83%E3%82%BB%20%E6%96%BD%E8%A8%AD%E6%A1%88%E5%86%85%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88.pdf"
+  },
+  {
+   "title": "幕張メッセ フロアマップ（2026年5月1日）",
+   "url": "https://www.m-messe.co.jp/saved/files/document/pdf/1031/1/%E5%B9%95%E5%BC%B5%E3%83%A1%E3%83%83%E3%82%BB%20%E3%83%95%E3%83%AD%E3%82%A2%E3%83%9E%E3%83%83%E3%83%97%28PDF%29_20260501.pdf"
+  },
+  {
+   "title": "国際会議場 パーティープラン（2026年2月1日適用）",
+   "url": "https://www.m-messe.co.jp/saved/files/document/pdf/1254/1/%E3%83%91%E3%83%BC%E3%83%86%E3%82%A3%E3%83%BC%E3%83%97%E3%83%A9%E3%83%B320260201-.pdf"
+  },
+  {
+   "title": "国際会議場 ケータリングメニュー",
+   "url": "https://www.m-messe.co.jp/saved/files/document/pdf/1255/1/%E3%82%B1%E3%83%BC%E3%82%BF%E3%83%AA%E3%83%B3%E3%82%B0%E3%83%A1%E3%83%8B%E3%83%A5%E3%83%BC20260301-.pdf"
+  },
+  {
+   "title": "展示ホール1〜8周り 1階配置図",
+   "url": "https://www.m-messe.co.jp/saved/files/document/pdf/1001/1/%E5%B1%95%E7%A4%BA%E3%83%9B%E3%83%BC%E3%83%AB%EF%BC%91%EF%BD%9E%EF%BC%98%E5%91%A8%E3%82%8A%E3%80%80%EF%BC%91%E9%9A%8E%E9%85%8D%E7%BD%AE%E5%9B%B3.pdf"
+  },
+  {
+   "title": "展示ホール1〜3、4〜6、7〜8 平面図",
+   "url": "https://www.m-messe.co.jp/saved/files/document/pdf/1004/1/%E5%B1%95%E7%A4%BA%E3%83%9B%E3%83%BC%E3%83%AB%EF%BC%91%EF%BD%9E%EF%BC%93%E3%80%81%EF%BC%94~%EF%BC%96%E3%80%81%EF%BC%97~%EF%BC%98%E3%80%80%E5%B9%B3%E9%9D%A2%E5%9B%B3.pdf"
+  },
+  {
+   "title": "展示ホール9〜11 1階・2階平面図",
+   "url": "https://www.m-messe.co.jp/saved/files/document/pdf/1010/1/%E5%B1%95%E7%A4%BA%E3%83%9B%E3%83%BC%E3%83%AB%EF%BC%99%EF%BD%9E11%E3%80%80%EF%BC%91%E9%9A%8E%E3%83%BB2%E9%9A%8E%E5%B9%B3%E9%9D%A2%E5%9B%B3.pdf"
+  },
+  {
+   "title": "中央・東・西エントランス、中央モール図面",
+   "url": "https://www.m-messe.co.jp/saved/files/document/pdf/1011/1/%E4%B8%AD%E5%A4%AE%E3%83%BB%E6%9D%B1%E3%83%BB%E8%A5%BF%E3%82%A8%E3%83%B3%E3%83%88%E3%83%A9%E3%83%B3%E3%82%B9%E3%80%81%E4%B8%AD%E5%A4%AE%E3%83%A2%E3%83%BC%E3%83%AB%E5%9B%B3%E9%9D%A2.pdf"
+  },
+  {
+   "title": "国際会議場 フロアマップ1〜3階（一般用）",
+   "url": "https://www.m-messe.co.jp/saved/files/document/pdf/1018/1/%E5%9B%BD%E9%9A%9B%E4%BC%9A%E8%AD%B0%E5%A0%B41F%E5%85%A8%E4%BD%93%E5%9B%B3%EF%BC%88%E5%85%AC%E9%96%8B%EF%BC%89.pdf"
+  },
+  {
+   "title": "国際会議場 コンベンションホール 図面",
+   "url": "https://www.m-messe.co.jp/saved/files/document/pdf/1121/1/%E3%82%B3%E3%83%B3%E3%83%99%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%9B%E3%83%BC%E3%83%AB.pdf"
+  },
+  {
+   "title": "国際会議場 国際会議室 図面",
+   "url": "https://www.m-messe.co.jp/saved/files/document/pdf/1120/1/%E5%9B%BD%E9%9A%9B%E4%BC%9A%E8%AD%B0%E5%AE%A4.pdf"
+  },
+  {
+   "title": "国際会議場 201 図面",
+   "url": "https://www.m-messe.co.jp/saved/files/document/pdf/1119/1/201.pdf"
+  },
+  {
+   "title": "国際会議場 202〜205 図面",
+   "url": "https://www.m-messe.co.jp/saved/files/document/pdf/1118/1/202%E3%83%BB203%E3%83%BB204%E3%83%BB205.pdf"
+  },
+  {
+   "title": "国際会議場 213〜216 図面",
+   "url": "https://www.m-messe.co.jp/saved/files/document/pdf/1117/1/213%E3%83%BB214%E3%83%BB215%E3%83%BB216.pdf"
+  },
+  {
+   "title": "国際会議場 301 図面",
+   "url": "https://www.m-messe.co.jp/saved/files/document/pdf/1124/1/301.pdf"
+  },
+  {
+   "title": "国際会議場 302 図面",
+   "url": "https://www.m-messe.co.jp/saved/files/document/pdf/1123/1/302.pdf"
+  },
+  {
+   "title": "国際会議場 303 図面",
+   "url": "https://www.m-messe.co.jp/saved/files/document/pdf/1259/1/303.pdf"
+  },
+  {
+   "title": "国際会議場 304 図面",
+   "url": "https://www.m-messe.co.jp/saved/files/document/pdf/1122/1/304.pdf"
+  },
+  {
+   "title": "国際会議場 101 図面",
+   "url": "https://www.m-messe.co.jp/saved/files/document/pdf/1115/1/101.pdf"
+  },
+  {
+   "title": "国際会議場 102 図面",
+   "url": "https://www.m-messe.co.jp/saved/files/document/pdf/1114/1/102.pdf"
+  },
+  {
+   "title": "国際会議場 103 図面",
+   "url": "https://www.m-messe.co.jp/saved/files/document/pdf/1113/1/103.pdf"
+  },
+  {
+   "title": "国際会議場 104 図面",
+   "url": "https://www.m-messe.co.jp/saved/files/document/pdf/1260/1/104.pdf"
+  },
+  {
+   "title": "国際会議場 105 図面",
+   "url": "https://www.m-messe.co.jp/saved/files/document/pdf/1261/1/105.pdf"
+  },
+  {
+   "title": "国際会議場 第一特別応接室 図面",
+   "url": "https://www.m-messe.co.jp/saved/files/document/pdf/1112/1/%E7%AC%AC%E4%B8%80%E7%89%B9%E5%88%A5%E5%BF%9C%E6%8E%A5%E5%AE%A4.pdf"
+  },
+  {
+   "title": "国際会議場 第二特別応接室 図面",
+   "url": "https://www.m-messe.co.jp/saved/files/document/pdf/1262/1/%E7%AC%AC%E4%BA%8C%E7%89%B9%E5%88%A5%E5%BF%9C%E6%8E%A5%E5%AE%A4.pdf"
+  },
+  {
+   "title": "幕張イベントホール フロアマップ",
+   "url": "https://www.m-messe.co.jp/saved/files/document/pdf/1096/1/%E5%B9%95%E5%BC%B5%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E3%83%9B%E3%83%BC%E3%83%AB%20%E3%83%95%E3%83%AD%E3%82%A2%E3%83%9E%E3%83%83%E3%83%97.pdf"
+  },
+  {
+   "title": "幕張イベントホール 平面図1階",
+   "url": "https://www.m-messe.co.jp/saved/files/document/pdf/1095/1/%E5%B9%95%E5%BC%B5%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E3%83%9B%E3%83%BC%E3%83%AB1%E9%9A%8E%20%E5%B9%B3%E9%9D%A2%E5%9B%B3.pdf"
+  },
+  {
+   "title": "幕張イベントホール 平面図2階",
+   "url": "https://www.m-messe.co.jp/saved/files/document/pdf/1093/1/%E5%B9%95%E5%BC%B5%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E3%83%9B%E3%83%BC%E3%83%AB2%E9%9A%8E%20%E5%B9%B3%E9%9D%A2%E5%9B%B3.pdf"
+  },
+  {
+   "title": "幕張イベントホール 平面図3階",
+   "url": "https://www.m-messe.co.jp/saved/files/document/pdf/1091/1/%E5%B9%95%E5%BC%B5%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E3%83%9B%E3%83%BC%E3%83%AB3%E9%9A%8E%20%E5%B9%B3%E9%9D%A2%E5%9B%B3.pdf"
+  },
+  {
+   "title": "幕張イベントホール 座席表（一式）",
+   "url": "https://www.m-messe.co.jp/saved/files/document/pdf/1088/1/%E5%B9%95%E5%BC%B5%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E3%83%9B%E3%83%BC%E3%83%AB%E5%BA%A7%E5%B8%AD%E8%A1%A8%28%E4%B8%80%E5%BC%8F%EF%BC%89.pdf"
+  },
+  {
+   "title": "高速光回線サービス（有料）のご案内",
+   "url": "https://www.m-messe.co.jp/saved/files/document/pdf/1250/1/%E9%AB%98%E9%80%9F%E5%85%89%E5%9B%9E%E7%B7%9A%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%EF%BC%88%E6%9C%89%E6%96%99%EF%BC%89%E3%81%AE%E3%81%94%E6%A1%88%E5%86%85.pdf"
+  },
+  {
+   "title": "高速光回線サービス料金表（Ver 2026年7月1日）",
+   "url": "https://www.m-messe.co.jp/saved/files/document/pdf/1263/1/%E9%AB%98%E9%80%9F%E5%85%89%E5%9B%9E%E7%B7%9A%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E6%96%99%E9%87%91%E8%A1%A8Ver20260701-.pdf"
+  },
+  {
+   "title": "国際会議場常設ネットワーク利用申込書（Excel）",
+   "url": "https://www.m-messe.co.jp/saved/files/document/57/f2/8648c798d3067bb505c30f2cad22f681099c57f2.xlsx"
+  },
+  {
+   "title": "高速光回線申込書一式（Excel）",
+   "url": "https://www.m-messe.co.jp/saved/files/document/a8/fc/c302d69daf52713386c65c9bba33eabec4f5a8fc.xlsx"
+  },
+  {
+   "title": "幕張メッセ共用部内撮影申込書（Excel）",
+   "url": "https://www.m-messe.co.jp/saved/files/document/e7/63/43d5d81c885143eba98b560f8beea0625b34e763.xlsx"
+  },
+  {
+   "title": "幕張新都心飲食共通利用券 取扱店舗（2026年4月1日〜）",
+   "url": "https://www.m-messe.co.jp/saved/files/document/pdf/1258/1/MakuhariNewCity_MealCoupon_Ja_20260401-.pdf"
+  },
+  {
+   "title": "各種資料・施設写真（主催者向けダウンロード一覧）",
+   "url": "https://www.m-messe.co.jp/organizers/support/layout/"
+  }
+ ],
+ "checkedAt": "2026-11-02",
+ "lat": 35.647194,
+ "lng": 140.034561,
+ "nearby": {
+  "convenience": [
+   {
+    "name": "セブン-イレブン ワールドビジネスガーデン店",
+    "brand": "セブン-イレブン",
+    "distanceM": 451,
+    "walkMin": 6,
+    "hours": "7:00-23:00（月〜日・祝）",
+    "address": "千葉県千葉市美浜区中瀬2-6",
+    "verified": true,
+    "source": "https://seven-eleven.areamarker.com/711map/info/219282",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "セブン-イレブン aune海浜幕張店",
+    "brand": "セブン-イレブン",
+    "distanceM": 726,
+    "walkMin": 10,
+    "hours": "24時間営業",
+    "address": "千葉県千葉市美浜区ひび野1-14",
+    "verified": true,
+    "source": "https://seven-eleven.areamarker.com/711map/info/484185",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "ファミリーマート 幕張アミューズモール店",
+    "brand": "ファミリーマート",
+    "distanceM": 761,
+    "walkMin": 10,
+    "hours": "24時間営業",
+    "address": "千葉県千葉市美浜区ひび野1丁目8",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/58579",
+    "note": "距離は公式の店舗位置で計算"
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "アクセア 海浜幕張店",
+    "brand": "アクセア",
+    "distanceM": 397,
+    "walkMin": 5,
+    "hours": "平日 8:00-22:00／土日祝 9:00-19:00",
+    "address": "千葉県千葉市美浜区中瀬2-6-1 WBGマリブウェスト2F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/map/kaihimmakuhari.html",
+    "note": "距離は住所の位置で計算。公式ページに「幕張メッセより徒歩5分」"
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Seria プレナ幕張店",
+    "brand": "セリア",
+    "distanceM": 535,
+    "walkMin": 7,
+    "hours": "月〜日 10:00-20:00",
+    "address": "千葉県千葉市美浜区ひび野2-4プレナ幕張 2F",
+    "verified": true,
+    "source": "https://shop.seria-group.com/seria/info/000002318",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "Can★Do イオンモール幕張新都心店",
+    "brand": "キャンドゥ",
+    "distanceM": 656,
+    "walkMin": 9,
+    "hours": "月〜日 10:00-21:00",
+    "address": "千葉県千葉市美浜区豊砂1-1 イオンモール幕張新都心グランドモール3階",
+    "verified": true,
+    "source": "https://shopinfo.cando-web.co.jp/detail/shop-5569/",
+    "note": "距離は公式の店舗位置で計算"
+   }
+  ],
+  "donki": [
+   {
+    "name": "ドン・キホーテ 幕張店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 1994,
+    "walkMin": 25,
+    "hours": "9:30-3:00",
+    "address": "千葉県千葉市花見川区幕張町1-7782-1",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=5",
+    "note": "距離は住所の位置で計算。遠い。ドン・キホーテ公式サイトの店舗名は「幕張店」"
+   }
+  ]
+ },
+ "drinkDelivery": {
+  "available": false
+ },
+ "photo": {
+  "src": "/images/venues/makuhari-messe.jpg",
+  "credit": "© 掬茶 / CC BY-SA 3.0 · Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Makuhari_Messe,_North_hall_2.jpg"
+ }
+}

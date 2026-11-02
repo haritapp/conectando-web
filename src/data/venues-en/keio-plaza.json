@@ -1,0 +1,217 @@
+{
+ "slug": "keio-plaza",
+ "name": "Keio Plaza Hotel Tokyo",
+ "address": "Tokyo 160-8330 2-2-1 Nishi-Shinjuku, Shinjuku-ku, Tokyo",
+ "accessSummary": "Shinjuku Station West Exit (JR, private railways and subways): 5 min walk / Tochomae Station (Toei Oedo Line): 1 min walk (just up the stairs from Exit A1 (B1))",
+ "hours": null,
+ "notice": null,
+ "rooms": [
+  {
+   "name": "Main Tower 5F Concord Ballroom - Full Span (A+B+C+D+E)",
+   "note": "Can be divided into 2 or 3 sections with sliding walls. The capacities listed are maximum capacities and vary by layout (official PDF, March 31, 2025 edition)."
+  },
+  {
+   "name": "Main Tower 5F Concord Ballroom - AB or BC",
+   "note": null
+  },
+  {
+   "name": "Main Tower 5F Concord Ballroom - D or E (each)",
+   "note": null
+  },
+  {
+   "name": "Main Tower 5F Concord Ballroom - B",
+   "note": null
+  },
+  {
+   "name": "Main Tower 5F Concord Ballroom - A or C (each)",
+   "note": null
+  },
+  {
+   "name": "South Tower 5F Eminence Hall",
+   "note": "At the front of the floor there are a cyclorama and 3 lift stages (total width 19.0 m, depth 4.0 m, height 0.4 m / 0.6 m / 0.8 m) (official PDF, March 31, 2025 edition)."
+  },
+  {
+   "name": "Main Tower 4F Hana - Full Span (A+B+C+D)",
+   "note": "The official PDF (March 31, 2025 edition) gives section B as 224㎡, but the table on the official page has no row for B alone."
+  },
+  {
+   "name": "Main Tower 4F Hana - ABC",
+   "note": null
+  },
+  {
+   "name": "Main Tower 4F Hana - BCD",
+   "note": null
+  },
+  {
+   "name": "Main Tower 4F Hana - AB or BC",
+   "note": null
+  },
+  {
+   "name": "Main Tower 4F Hana - CD",
+   "note": null
+  },
+  {
+   "name": "Main Tower 4F Hana - A or C (each)",
+   "note": null
+  },
+  {
+   "name": "Main Tower 4F Hana - D",
+   "note": null
+  },
+  {
+   "name": "South Tower 4F Nishiki",
+   "note": null
+  },
+  {
+   "name": "South Tower 4F Ohgi",
+   "note": null
+  },
+  {
+   "name": "South Tower 4F Natsume / Katsura / Mizuki (each)",
+   "note": "The ceiling height is 2.4 m in the table on the official page, but 3.0 m in the official PDF for the same venue (posted July 16, 2026; the date on the drawing is March 31, 2025). The figures differ."
+  },
+  {
+   "name": "Main Tower 4F Kaede",
+   "note": null
+  },
+  {
+   "name": "Main Tower 4F Keyaki",
+   "note": null
+  },
+  {
+   "name": "South Tower 3F Grace room",
+   "note": "Seated dinners are not available. The ceiling height in the official PDF (May 1, 2024 edition) is 2.8 m."
+  },
+  {
+   "name": "Main Tower 44F Harmony",
+   "note": null
+  },
+  {
+   "name": "Main Tower 43F Starlight / Moonlight",
+   "note": null
+  },
+  {
+   "name": "Main Tower 43F Comet",
+   "note": null
+  },
+  {
+   "name": "Main Tower 43F Subaru / Orion (each)",
+   "note": null
+  },
+  {
+   "name": "Main Tower 42F Takao / Fuji",
+   "note": "The area in the official PDF (May 1, 2024 edition) is 188㎡. The introduction on the official page says \"meetings for up to 180 people\", but the table shows 132 for school and 210 for theater."
+  },
+  {
+   "name": "Main Tower 42F Tama / Musashi / Mitake / Tsukui / Sagami (each)",
+   "note": "Tama and Sagami can also be used as waiting rooms for entertaining visitors."
+  }
+ ],
+ "ops": {
+  "loadingHours": "The car lifts for Concord Ballroom and Hana are 2.4 m high, 2.46 m deep and 6.9 m wide, and the car lift for Eminence Hall is 2.1 m high, 7.2 m deep and 2.1 m wide (as stated in the official PDFs; March 31, 2025 edition).",
+  "parking": "The hotel car park has 509 spaces (including wheelchair-accessible spaces) and is open 24 hours. Vehicles up to 2.1 m high, 6 m long, 2.08 m wide and 5 t in weight can enter. Vehicles up to 2.8 m high can enter from the entrance on the Tokyo Metropolitan Government side, but parking spaces are limited, so tell the bellman or the parking attendant when entering. The general rate is 400 yen per 30 minutes, with a maximum of 2,000 yen for up to 24 hours. Banquet use is free for up to 3.5 hours (hand the entry ticket to the venue staff), and exhibitions that use a banquet room are free for up to 2 hours.",
+  "waitingRooms": "Tama and Sagami on the 42nd floor (67㎡ each) can also be used as waiting rooms for entertaining visitors, for example with an aperitif service.",
+  "catering": "Bringing in food and drink to serve to attendees is prohibited (unless the hotel gives permission). Decorations, entertainment, costumes, gifts, flowers, photography and the like must use companies designated by the hotel; if a company other than the designated ones is used, the preparation and bring-in fees must be discussed with the hotel in advance (Banquet Room Terms of Use, last revised November 1, 2025).",
+  "restaurants": "The hotel's restaurants are the French restaurant Meilleur and Private Dining on the 44th floor of the Main Tower; on the 2nd floor, the Super Buffet Glass Court, the Chinese dining Nan-en and the all-day dining Jurin; on the 7th floor of the Main Tower, the teppanyaki Yamanami, the tempura Shun and the sushi Kyubey; and on the 1st floor, the soba Fumotoya. Bars and lounges are the Sky Lounge Aurora on the 45th floor of the Main Tower, the Main Bar Brillant on the 2nd floor, and the Cocktail & Tea Lounge and the Art Lounge Duet on the 3rd floor."
+ },
+ "documents": [
+  {
+   "title": "Banquet Room Terms of Use (last revised November 1, 2025)"
+  },
+  {
+   "title": "Parking Management Regulations (last revised December 1, 2023)"
+  },
+  {
+   "title": "Venue Brochure: Concord Ballroom (March 31, 2025 edition)"
+  },
+  {
+   "title": "Venue Brochure: Eminence Hall (March 31, 2025 edition)"
+  },
+  {
+   "title": "Venue Brochure: Hana (March 31, 2025 edition)"
+  },
+  {
+   "title": "Venue Brochure: Nishiki (March 31, 2025 edition)"
+  },
+  {
+   "title": "Venue Brochure: Ohgi (March 31, 2025 edition)"
+  },
+  {
+   "title": "Venue Brochure: Natsume, Katsura and Mizuki (March 31, 2025 edition)"
+  },
+  {
+   "title": "Venue Brochure: Grace room (May 1, 2024 edition)"
+  },
+  {
+   "title": "Venue Brochure: 42F Takao, Fuji, Tama, Musashi, Mitake, Tsukui and Sagami (May 1, 2024 edition)"
+  },
+  {
+   "title": "Venue Brochure: 43F Starlight, Moonlight, Comet, Subaru and Orion (May 1, 2024 edition)"
+  },
+  {
+   "title": "Venue Brochure: 44F Harmony (August 31, 2026 edition)"
+  },
+  {
+   "title": "Guide to Dedicated Fiber-Optic Internet Lines"
+  },
+  {
+   "title": "Banquet and Conference Room Floor Guide"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "7-Eleven Nishi-Shinjuku NTT Building",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "Lawson H Nishi-Shinjuku",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "Lawson Shinjuku Station West",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location."
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "Accea Shinjuku Building",
+    "hours": "Weekdays 8:00-21:00 / Sat, Sun & holidays 10:00-19:00",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Accea Shinjuku Minamiguchi",
+    "hours": "Weekdays open 24 hours (non-stop from Monday 8:00 am to Saturday 7:00 pm) / Sat until 19:00, Sun & holidays 10:00-19:00",
+    "note": "Distance is calculated from the address location. Cafe use from 22:00 to 6:00 the next day is for ID-verified members only (as shown on the official site)."
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "DAISO Keio Mall Annex",
+    "hours": "8:00-21:00",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "DAISO Shinjuku Cocoon Tower",
+    "hours": "8:00-21:00",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "donki": [
+   {
+    "name": "Don Quijote Shinjuku Tonanguchi",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. The store name on the Don Quijote official website is \"Shinjuku Tonanguchi\" (新宿東南口店)."
+   },
+   {
+    "name": "Don Quijote Shinjuku Kabukicho",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. The store name on the Don Quijote official website is \"Shinjuku Kabukicho\" (新宿歌舞伎町店)."
+   }
+  ]
+ },
+ "photoCredit": "© 鋸香具師 / CC0 · Wikimedia Commons"
+}

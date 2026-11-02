@@ -1,0 +1,196 @@
+{
+ "slug": "kinokuniya-hall",
+ "nameJa": "紀伊國屋ホール",
+ "nameEn": "",
+ "type": "hall",
+ "area": "shinjuku-venues",
+ "address": "〒160-0022 東京都新宿区新宿3-17-7 紀伊國屋書店新宿本店4F",
+ "officialUrl": "https://store.kinokuniya.co.jp/store/kinokuniya-hall/",
+ "organizerUrl": "https://store.kinokuniya.co.jp/theater/guide-hall/",
+ "bizintokyoSlug": "kinokuniya-hall",
+ "accessSummary": "JR線・小田急線・京王線「新宿」駅東口より徒歩5分／地下鉄丸ノ内線・副都心線・都営新宿線「新宿三丁目」駅B7出口",
+ "notice": null,
+ "hours": "使用区分は午前9:00〜12:00／午後13:00〜16:30／夜17:30〜21:30／全日9:00〜21:30で、準備・後片付けの時間を含む。延長は事前に劇場が了解した場合に限り、超過30分ごとに劇場料金の30%の割増金がかかる（使用料金表 2023年1月1日より）。",
+ "rooms": [
+  {
+   "name": "紀伊國屋ホール",
+   "areaM2": null,
+   "ceilingM": null,
+   "theater": 427,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "固定席427席（座席表の表記「客席数427」）。I・J列の1・2番と19・20番の座席は取り外し可能で、車椅子スペースとしても使える。舞台平面図に「間口9.0m・奥行6.6〜7.1m・高さ6.1m」の記載がある。使用料（税抜、2023年1月1日より）は平日が午前107,000円／午後158,000円／夜201,000円／全日431,000円、土日祝が午前147,000円／午後209,000円／夜209,000円／全日491,000円（連続する区分は、平日の午前＋午後251,000円・午後＋夜332,000円、土日祝の午前＋午後333,000円・午後＋夜408,000円）。"
+  }
+ ],
+ "roomsSource": "https://store.kinokuniya.co.jp/wp-content/uploads/2023/02/2-6ホール単発料金.pdf、https://store.kinokuniya.co.jp/wp-content/uploads/2021/03/新ホール座席表.pdf、https://store.kinokuniya.co.jp/wp-content/uploads/2024/08/ホール舞台平面図-1.pdf",
+ "ops": {
+  "waitingRooms": {
+   "text": "楽屋は20畳分で、楽屋鏡22面・姿見1面があり、シャワー室と洗面室がある（備品料金表 2024年8月より）。楽屋周りの備品として、パイプ椅子、長机、冷蔵庫（2段式・冷凍庫付）、電子レンジ（1500W）、洗濯機（二層式）、電気ポット（4ℓ）、姿見、シュテンダーがある（ホール制作回り備品リスト）。",
+   "source": "https://store.kinokuniya.co.jp/wp-content/uploads/2024/08/ホール備品一覧1.pdf"
+  }
+ },
+ "documents": [
+  {
+   "title": "劇場利用案内（図面・備品・料金のまとめ。使用申し込みは電話03-3354-0141）",
+   "url": "https://store.kinokuniya.co.jp/theater/guide-hall/"
+  },
+  {
+   "title": "紀伊國屋ホールご使用料金（2023年1月1日より）",
+   "url": "https://store.kinokuniya.co.jp/wp-content/uploads/2023/02/2-6ホール単発料金.pdf"
+  },
+  {
+   "title": "備品料金表・その他設備（2024年8月より）",
+   "url": "https://store.kinokuniya.co.jp/wp-content/uploads/2024/08/ホール備品一覧1.pdf"
+  },
+  {
+   "title": "ホール設備一覧（備品一覧2、2024年8月23日更新）",
+   "url": "https://store.kinokuniya.co.jp/wp-content/uploads/2024/08/ホール備品一覧2.pdf"
+  },
+  {
+   "title": "ホール制作回り備品（机・椅子の備品リスト）",
+   "url": "https://store.kinokuniya.co.jp/wp-content/uploads/2020/08/ホール制作回り備品.pdf"
+  },
+  {
+   "title": "ホール座席表（客席数427）",
+   "url": "https://store.kinokuniya.co.jp/wp-content/uploads/2021/03/新ホール座席表.pdf"
+  },
+  {
+   "title": "ホール舞台平面図（2021年7月改訂）",
+   "url": "https://store.kinokuniya.co.jp/wp-content/uploads/2024/08/ホール舞台平面図-1.pdf"
+  },
+  {
+   "title": "ホール舞台断面図（2021年7月改訂）",
+   "url": "https://store.kinokuniya.co.jp/wp-content/uploads/2024/08/ホール舞台断面図.pdf"
+  },
+  {
+   "title": "ホール照明機材リスト（2017年11月2日更新）",
+   "url": "https://store.kinokuniya.co.jp/wp-content/uploads/2020/08/ホール照明機材.pdf"
+  },
+  {
+   "title": "紀伊國屋ホール 案内図（2025年3月1日更新）",
+   "url": "https://store.kinokuniya.co.jp/wp-content/uploads/2025/03/紀伊國屋ホール_マップ.pdf"
+  }
+ ],
+ "checkedAt": "2026-11-02",
+ "lat": 35.691921,
+ "lng": 139.702774,
+ "nearby": {
+  "convenience": [
+   {
+    "name": "ファミリーマート 新宿三丁目東店",
+    "brand": "ファミリーマート",
+    "distanceM": 84,
+    "walkMin": 2,
+    "hours": "24時間",
+    "address": "東京都新宿区新宿3丁目17-17",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/57582",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "ファミリーマート 新宿三丁目店",
+    "brand": "ファミリーマート",
+    "distanceM": 137,
+    "walkMin": 2,
+    "hours": "24時間",
+    "address": "東京都新宿区新宿3-21-7 東新ビル",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/19260",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "ファミリーマート 新宿三丁目中央通り店",
+    "brand": "ファミリーマート",
+    "distanceM": 150,
+    "walkMin": 2,
+    "hours": "24時間",
+    "address": "東京都新宿区新宿3丁目34-11 ピースビル",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/57432",
+    "note": "距離は公式の店舗位置で計算"
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "アクセア 新宿東南口店",
+    "brand": "アクセア",
+    "distanceM": 242,
+    "walkMin": 4,
+    "hours": "平日9:00～20:00／土日祝休み",
+    "address": "東京都新宿区新宿3-35-4 ユーコービル3F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/entry.html",
+    "note": "距離は住所の位置で計算。公式で「アクセアミニ」（小型店）の表示。店頭の支払いは現金不可（クレジットカード・電子マネー・QRコード決済・BizSPOTペイ）"
+   },
+   {
+    "name": "アクセア 新宿三丁目店",
+    "brand": "アクセア",
+    "distanceM": 252,
+    "walkMin": 4,
+    "hours": "平日9:00～20:00／土日祝休み",
+    "address": "東京都新宿区新宿3-14-22 小川ビル3F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/entry.html",
+    "note": "距離は住所の位置で計算。公式で「アクセアミニ」（小型店）の表示。店頭の支払いは現金不可（クレジットカード・電子マネー・QRコード決済・BizSPOTペイ）"
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "DAISO ビックカメラ新宿東口店",
+    "brand": "ダイソー",
+    "distanceM": 97,
+    "walkMin": 2,
+    "hours": "10:00-22:00",
+    "address": "東京都新宿区新宿3-29-1 ビックカメラ新宿東口店8階",
+    "verified": true,
+    "source": "https://www.daiso-sangyo.co.jp/shop/detail/005173",
+    "note": "距離は住所の位置で計算。同じ8階に「Standard Products ビックカメラ新宿東口店」「THREEPPY ビックカメラ新宿東口店」（どちらも10:00-22:00）もある"
+   },
+   {
+    "name": "3COINS ルミネエスト新宿店",
+    "brand": "3COINS",
+    "distanceM": 161,
+    "walkMin": 3,
+    "hours": "平日 11:00-21:00／土日祝 10:30-21:00",
+    "address": "東京都新宿区新宿3-38-1ルミネエスト新宿3F",
+    "verified": true,
+    "source": "https://palcloset.storelocator.jp/map",
+    "note": "距離は公式の店舗位置で計算"
+   }
+  ],
+  "donki": [
+   {
+    "name": "ドン・キホーテ 新宿東南口別館",
+    "brand": "ドン・キホーテ",
+    "distanceM": 195,
+    "walkMin": 3,
+    "hours": "9:00～2:00",
+    "address": "東京都新宿区新宿3丁目35-16",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=709",
+    "note": "距離は住所の位置で計算。ドン・キホーテ公式サイトの店舗名は「新宿東南口別館」"
+   },
+   {
+    "name": "ドン・キホーテ 新宿東南口店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 204,
+    "walkMin": 3,
+    "hours": "24時間営業",
+    "address": "東京都新宿区新宿3丁目36-16",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=449",
+    "note": "距離は住所の位置で計算。ドン・キホーテ公式サイトの店舗名は「新宿東南口店」"
+   }
+  ]
+ },
+ "drinkDelivery": {
+  "available": true
+ },
+ "photo": {
+  "src": "/images/venues/kinokuniya-hall.jpg",
+  "credit": "© ブラ松 / CC BY-SA 4.0 · Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Shinjuku_KINOKUNIYA_COMPANY2023.12.jpg"
+ }
+}
