@@ -1,0 +1,211 @@
+{
+ "slug": "imperial-hotel-tokyo",
+ "name": "Imperial Hotel, Tokyo",
+ "address": "Tokyo 100-8558 1-1-1 Uchisaiwaicho, Chiyoda-ku",
+ "accessSummary": "Hibiya Station (Exit A13): 3 min walk / Uchisaiwaicho Station (Exit A5): 3 min walk / JR Yurakucho Station: 5 min walk / Tokyo Metro Yurakucho Station: 7 min walk / JR Shimbashi Station: 7 min walk",
+ "hours": null,
+ "notice": null,
+ "rooms": [
+  {
+   "name": "Main Building 2F Peacock Room (East & West)",
+   "note": "Seated buffet 700. The Peacock Room consists of three rooms, East, West and South; East and West can also be used together as one venue. Simultaneous interpretation equipment for 4 languages (4 interpreter booths). O-shape 240."
+  },
+  {
+   "name": "Main Building 2F Peacock Room (East)",
+   "note": "Seated buffet 370. Simultaneous interpretation equipment for 6 languages (2 interpreter booths). O-shape 162."
+  },
+  {
+   "name": "Main Building 2F Peacock Room (West)",
+   "note": "Seated buffet 220. O-shape 126."
+  },
+  {
+   "name": "Main Building 2F Peacock Room (South)",
+   "note": "Seated buffet 120."
+  },
+  {
+   "name": "Main Building 3F Fuji Room",
+   "note": "Seated buffet 350. Simultaneous interpretation equipment for 3 languages (2 interpreter booths). O-shape 144."
+  },
+  {
+   "name": "Main Building Mezzanine Hikari Room",
+   "note": "Seated buffet 200. Simultaneous interpretation equipment for 2 languages (2 interpreter booths, digital infrared system). Electric screen and LCD projector available. The Nikko Room and Gekko Room serve as anterooms. O-shape 114."
+  },
+  {
+   "name": "Main Building 4F Sakura Room",
+   "note": "Seated buffet 120. O-shape 84."
+  },
+  {
+   "name": "Main Building 2F Botan Room",
+   "note": "Seated buffet 80. Simultaneous interpretation equipment for 6 languages (4 interpreter booths). O-shape 74."
+  },
+  {
+   "name": "Main Building 2F Ran Room",
+   "note": "Seated buffet 80. O-shape 74."
+  },
+  {
+   "name": "Main Building 2F Kiku Room",
+   "note": "Seated buffet 60. O-shape 62."
+  },
+  {
+   "name": "Main Building 3F Tsuru Room",
+   "note": "Seated buffet 70. O-shape 66."
+  },
+  {
+   "name": "Main Building 3F Miyabi and Nishiki Rooms",
+   "note": "Seated buffet 120."
+  },
+  {
+   "name": "Main Building 3F Miyabi Room",
+   "note": "Seated buffet 70. O-shape 66."
+  },
+  {
+   "name": "Main Building 3F Nishiki Room",
+   "note": ""
+  },
+  {
+   "name": "Main Building 3F Mai Room",
+   "note": "Seated buffet 60. O-shape 60."
+  },
+  {
+   "name": "Main Building 3F Ohgi Room",
+   "note": "Seated buffet 60. O-shape 60."
+  },
+  {
+   "name": "Main Building 3F Irodori Room",
+   "note": "The room can also be used in divided form. O-shape 54."
+  },
+  {
+   "name": "Main Building 4F Yamabuki Room",
+   "note": "Seated buffet 30. Can be divided into Yamabuki Room I and II (54㎡ each). O-shape 46."
+  },
+  {
+   "name": "Main Building 4F Yamabuki Room I",
+   "note": "One of the two rooms into which the Yamabuki Room is divided."
+  },
+  {
+   "name": "Main Building 4F Yamabuki Room II",
+   "note": "One of the two rooms into which the Yamabuki Room is divided."
+  },
+  {
+   "name": "Main Building 4F Kaede Room",
+   "note": "Seated buffet 30. O-shape 36."
+  },
+  {
+   "name": "Main Building 4F Kiri Room",
+   "note": "Seated buffet 30. O-shape 28."
+  },
+  {
+   "name": "Main Building 4F Ume Room",
+   "note": "Seated buffet 30. O-shape 26."
+  },
+  {
+   "name": "Main Building 4F Momo Room",
+   "note": "Seated buffet 30. O-shape 30."
+  },
+  {
+   "name": "Main Building 4F Matsu Room",
+   "note": "O-shape 32."
+  },
+  {
+   "name": "Main Building 2F Hana Room",
+   "note": "Listed on one official page as the Hana, Chidori and Chigusa Rooms."
+  },
+  {
+   "name": "Main Building 2F Chidori Room",
+   "note": "Listed on one official page as the Hana, Chidori and Chigusa Rooms."
+  },
+  {
+   "name": "Main Building 2F Chigusa Room",
+   "note": "Listed on one official page as the Hana, Chidori and Chigusa Rooms."
+  },
+  {
+   "name": "Main Building 4F Kusunoki, Kashiwa, Katsura and Tachibana Rooms (each)",
+   "note": "The Kusunoki, Kashiwa, Katsura and Tachibana Rooms all have the same figures."
+  }
+ ],
+ "ops": {
+  "vehicleRules": "Vehicles heading to the banquet lobby entrance use the access road beyond the main entrance, reached from Hibiya-dori. Vehicles going directly to the parking lot will find it convenient to enter via the driveway between the Main Building and the Tower. (Source: Parking page)",
+  "parking": "The parking lot has 425 spaces. Rates are 600 yen per 30 minutes, with a daily maximum of 12,000 yen (tax included). Vehicle limits are 2.1 m in height, 1.95 m in width and 6 m in length; vehicles with low ground clearance cannot use the lot. For banquet parking benefits, wedding receptions get free parking on the day only; for general banquets it varies by event, so check with the organizer or the hotel's banquet reservations desk. EV chargers are available for a fee.",
+  "catering": "For banquets, the hotel provides the food and drinks. There are plans with food by purpose, including the Cocktail Buffet Plan (20 to 100 guests, 2 hours, free-flow drinks included, from 15,000 yen per person, tax and service charge included, April 1, 2026 to March 31, 2027) and the Meeting Plan (5 to 20 guests: 150,000 yen for a 4F banquet room; 21 to 40 guests: 250,000 yen for a 3F banquet room; each 120 minutes, coffee and tea included, April 1, 2026 to March 31, 2027). Food allergies and dietary restrictions can be discussed when booking, and children's menus are available for a fee. Screens, projectors, simultaneous interpretation systems, microphones, and high-speed internet and Wi-Fi can be requested when booking.",
+  "restaurants": "According to the floor map, the Main Building has restaurants and bars (including lounges) on the 17th floor, 1st floor, basement 1 and mezzanine. For banquet guests, there are cloakrooms on the Main Lobby, Banquet Lobby and banquet room floors, men's and women's changing rooms on the Main Building 2F, and a smoking room next to the cloakroom on the 3F."
+ },
+ "documents": [
+  {
+   "title": "Banquet Rooms: Search & Compare Venues"
+  },
+  {
+   "title": "Banquet Hall Usage Formats"
+  },
+  {
+   "title": "Meeting Plan Price List (April 1, 2026 to March 31, 2027)"
+  },
+  {
+   "title": "Cocktail Buffet Plan (April 1, 2026 to March 31, 2027)"
+  },
+  {
+   "title": "Parking Guide (PDF)"
+  },
+  {
+   "title": "Banquet and Meeting FAQs"
+  },
+  {
+   "title": "Floor Plan"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "7-Eleven Ginza 7-chome",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "7-Eleven Uchisaiwaicho 1-chome",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "Lawson Uchisaiwaicho 1-chome",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location."
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "Accea Ginza Five",
+    "hours": "Weekdays 10:00-20:00 / Closed Sat, Sun & holidays",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Accea Shimbashi Station Ginza Exit",
+    "hours": "Open continuously from Mon 8:00 to Sat 19:00 / Sun & holidays 10:00-19:00",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "3COINS +plus Nishi-Ginza Department Store",
+    "hours": "11:00-20:00",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "Seria Exit Melsa Ginza",
+    "hours": "Daily 11:00-20:00",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "donki": [
+   {
+    "name": "Don Quijote Ginza Main Building (Ginza Nine Building No. 3)",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Picasso Akasaka (Don Quijote)",
+    "hours": "7:00-3:00",
+    "note": "Distance is calculated from the address location. A different Don Quijote format (the store name on the official website is \"Picasso Akasaka\"). Far."
+   }
+  ]
+ },
+ "photoCredit": "© Syced / CC0 · Wikimedia Commons"
+}

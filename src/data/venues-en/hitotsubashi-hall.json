@@ -1,0 +1,176 @@
+{
+ "slug": "hitotsubashi-hall",
+ "name": "Hitotsubashi Hall",
+ "address": "Tokyo 101-8439 National Center of Sciences Building (reception desk on the 2F), 2-1-2 Hitotsubashi, Chiyoda-ku",
+ "accessSummary": "Jimbocho Station (Hanzomon, Mita and Shinjuku Lines) Exits A8 and A9: 4 min walk / Takebashi Station (Tozai Line) Exit 1b: 4 min walk",
+ "hours": "9:00-21:00. Three time slots: morning (9:00-13:00), afternoon (13:00-17:00) and evening (17:00-21:00), each including setup and teardown time. Closed during the year-end and New Year holidays, building inspection days, etc.",
+ "notice": "Rental is limited to meetings on academic or higher-education subjects held by universities, academic societies, national or local governments, etc. (Article 2 of the Rules of Use, revised October 1, 2025).",
+ "rooms": [
+  {
+   "name": "Hitotsubashi Hall (main hall)",
+   "note": "Fixed seats: 521 (494 on the 1st floor, 27 on the 2nd floor). With note-taking tables. 2 wheelchair spaces. 6 interpreter booths and 500 simultaneous interpretation receivers. No food or drink in the hall (water for speakers only). Usage fee: morning 188,500 yen / afternoon 227,300 yen / evening 246,200 yen (from October 1, 2025)"
+  },
+  {
+   "name": "Medium Conference Room 1",
+   "note": "Capacity 64 (32 desks, 64 chairs). Rooms 1 to 4 combined: 240. Usage fee for Medium Conference Rooms 1 to 4: morning 49,200 yen / afternoon 58,700 yen / evening 63,900 yen"
+  },
+  {
+   "name": "Medium Conference Room 2",
+   "note": "Capacity 64 (32 desks, 64 chairs)"
+  },
+  {
+   "name": "Medium Conference Room 3",
+   "note": "Capacity 64 (32 desks, 64 chairs)"
+  },
+  {
+   "name": "Medium Conference Room 4",
+   "note": "Capacity 48 (24 desks, 48 chairs). If you use the main video and audio equipment, book including Medium Conference Room 4. The assembly-type simultaneous interpretation booth and 200 receivers are for Medium Conference Room 4 only"
+  },
+  {
+   "name": "Conference Room 201",
+   "note": "Capacity 16 (8 desks, 16 chairs). Rooms 201 to 203 combined: 48. Usage fee for Rooms 201 to 203: morning 24,100 yen / afternoon 28,300 yen / evening 30,400 yen"
+  },
+  {
+   "name": "Conference Room 202",
+   "note": "Capacity 16 (10 desks, 16 chairs)"
+  },
+  {
+   "name": "Conference Room 203",
+   "note": "Capacity 16 (10 desks, 16 chairs). If you use the main video and audio equipment, book including Room 203"
+  },
+  {
+   "name": "Special Conference Room 101",
+   "note": "Capacity 24 (12 desks, 24 chairs). Rooms 101 to 103 combined: 72. If you use the main video and audio equipment, book including Room 101. Usage fee for Rooms 101 to 103: morning 29,300 yen / afternoon 34,500 yen / evening 37,700 yen"
+  },
+  {
+   "name": "Special Conference Room 102",
+   "note": "Capacity 24 (12 desks, 24 chairs)"
+  },
+  {
+   "name": "Special Conference Room 103",
+   "note": "Capacity 24 (12 desks, 24 chairs)"
+  },
+  {
+   "name": "VIP Room",
+   "note": "Capacity 14 (14 sofa seats). For receiving guests and lecturers. Usage fee: morning 17,800 yen / afternoon 21,000 yen / evening 23,000 yen"
+  },
+  {
+   "name": "Preparation Room",
+   "note": "Capacity 14 (2 tables, 10 chairs, 2 two-seater sofas). Can be used as an event office, waiting room, etc. Usage fee: morning 6,300 yen / afternoon 8,400 yen / evening 8,400 yen"
+  }
+ ],
+ "ops": {
+  "prevDaySetup": "There is no time slot for setup alone; book the previous day's evening slot (17:00-21:00) separately. You cannot enter and start setting up before your booked time. For multi-day use where equipment or exhibition panels stay in place until the last day, an all-day booking is required.",
+  "loadingHours": "The service yard for load-in and load-out (up to 2-ton short trucks) is open 8:30-21:00. The freight elevator has a load capacity of 1,800 kg; the car interior is 1,820 mm wide x 2,120 mm deep x 2,780 mm high, and the entrance is 1,370 mm wide x 2,290 mm high. When moving items by hand truck, cover the passage with protective material able to bear the weight. Packages sent in advance are received on weekdays 9:00-17:00 only, and packages left after use are held until they are shipped on the next weekday (parking classification table as of October 2022; guidance as of October 2025).",
+  "vehicleRules": "The service yard is for temporary stopping of load-in and load-out vehicles: up to 2-ton short trucks, maximum 1 hour, application form required (weekdays and weekends/holidays, 8:30-21:00). Every parking area requires a prior usage notification and is allocated in order of application. It can be used only during the booked meeting room time (as of October 2022).",
+  "parking": "The underground parking for speakers and organizers has up to 4 spaces (vehicle height up to 1,550 mm, width 1,850 mm, length 4,850 mm; weekdays 9:00-21:00; approval permit required). The driveway parking for chauffeur-driven cars has up to 3 spaces, maximum 3 hours, and the accessible parking has 1 space, maximum 3 hours. There is no parking for general attendees. Buses and microbuses cannot enter the driveway (as of October 2022).",
+  "waitingRooms": "The Hitotsubashi Hall main hall has a simple waiting room (facilities section of the Hitotsubashi Hall page). The Preparation Room (30㎡, 14 people) can also be used as an event office or waiting room, and the VIP Room (56㎡, 14 people) is for receiving guests and lecturers.",
+  "catering": "No food or drink is allowed in the Hitotsubashi Hall main hall (water for speakers only). Other meeting rooms allow food and drink; in the 2F lobby and corridors, drinks only. The hall introduces caterers with a track record over the past 3 years: Josui Kaikan, C's Catering Service and Ajikobo Suisen (not partner companies; users place orders directly; July 2026)."
+ },
+ "documents": [
+  {
+   "title": "Hitotsubashi University Hitotsubashi Hall Rules of Use (revised October 1, 2025)"
+  },
+  {
+   "title": "Hitotsubashi Hall Price List (from October 1, 2025)"
+  },
+  {
+   "title": "Notice of Hitotsubashi Hall Price Revision (December 20, 2024)"
+  },
+  {
+   "title": "Hitotsubashi University Hitotsubashi Hall Meeting Room Application Procedures (revised May 1, 2017)"
+  },
+  {
+   "title": "Handling of Cancellation Fees (November 1, 2022)"
+  },
+  {
+   "title": "Parking Usage Classification (as of October 2022)"
+  },
+  {
+   "title": "Freight Elevator Dimensional Drawing"
+  },
+  {
+   "title": "Shared Equipment and Fixtures List (as of October 2025)"
+  },
+  {
+   "title": "List of Introduced Vendors (July 2026)"
+  },
+  {
+   "title": "Actual-Size Drawings"
+  },
+  {
+   "title": "Floor Plan"
+  },
+  {
+   "title": "Exhibition Space Detail Drawing"
+  },
+  {
+   "title": "Electrical Outlet Layout"
+  },
+  {
+   "title": "Electrical Capacity Diagram"
+  },
+  {
+   "title": "Parking Route Map"
+  },
+  {
+   "title": "Usage Guide (guidance pamphlet, issued April 2015)"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "7-Eleven Jimbocho Station-mae",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the store's official location."
+   },
+   {
+    "name": "7-Eleven Kanda-Nishikicho Chiyoda-dori",
+    "hours": "7:00-23:00 (Mon-Sun & holidays)",
+    "note": "Distance is calculated from the store's official location."
+   },
+   {
+    "name": "7-Eleven Chiyoda Hitotsubashi 2-chome",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the store's official location."
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "Accea Jimbocho",
+    "hours": "Open 24 hours (cafe use from 22:00 to 6:00 the next day is for ID-verified members only)",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Kinko's Jimbocho",
+    "hours": "Weekdays 8:00-20:00 / Closed Sat, Sun & holidays",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "DAISO Kanda-Jimbocho Suzuran-dori",
+    "hours": "10:00-21:00",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Can Do Jimbocho",
+    "hours": "Daily 10:00-21:00",
+    "note": "Distance is calculated from the store's official location."
+   }
+  ],
+  "donki": [
+   {
+    "name": "Don Quijote Akihabara",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. The store name on the Don Quijote official website is \"Akihabara\". Rather far."
+   },
+   {
+    "name": "Don Quijote Korakuen",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. The store name on the Don Quijote official website is \"Korakuen\". Rather far."
+   }
+  ]
+ },
+ "photoCredit": "© 運転太郎 / CC BY 3.0 · Wikimedia Commons"
+}

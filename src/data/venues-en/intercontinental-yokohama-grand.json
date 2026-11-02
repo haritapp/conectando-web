@@ -1,0 +1,204 @@
+{
+ "slug": "intercontinental-yokohama-grand",
+ "name": "InterContinental Yokohama Grand",
+ "address": "Kanagawa 220-8522 1-1-1 Minatomirai, Nishi-ku, Yokohama",
+ "accessSummary": "About 5 min walk from Minatomirai Station (Minatomirai Line) / about 12 min walk from JR Sakuragicho Station (Keihin-Tohoku Line and Negishi Line)",
+ "hours": null,
+ "notice": null,
+ "rooms": [
+  {
+   "name": "1F Silk",
+   "note": "The official site gives capacities as ranges (minimum-maximum). The figures in the table are the maximums. Seated dinner 40-100, seated buffet 40-80, reception 80-150, classroom 60-120, theater 150-240, U-shape 35-57, hollow square 40-66, island layout 32-48. Can be used together with the adjacent Pre-function Room and Pearl."
+  },
+  {
+   "name": "1F Pearl",
+   "note": "The official site gives capacities as ranges (minimum-maximum). The figures in the table are the maximums. Seated dinner 20-50, seated buffet 20-40, reception 30-70, classroom 30-70, theater 70-115, U-shape 16-42, hollow square 20-48, island layout 28-42. Can be used together with the adjacent Pre-function Room and Silk."
+  },
+  {
+   "name": "1F Pre-function Room",
+   "note": "The official site gives capacities as ranges (minimum-maximum). The figures in the table are the maximums. Seated dinner 20-30, seated buffet 20-30, reception 20-50. Can be used for coffee breaks, exhibition space and the like."
+  },
+  {
+   "name": "3F InterContinental Ballroom (Entire)",
+   "note": "The official site gives capacities as ranges (minimum-maximum). The figures in the table are the maximums. Seated dinner 250-430, seated buffet 200-340, reception 360-700, classroom 280-420, theater 400-700, U-shape 84-126, hollow square 100-150, island layout 72-108. Can be divided into 3 rooms (Cannes, Nice and Monaco). Setting examples: seated dinner for 340, classroom for 405, reception for 700, theater for 560. Can also be used together with the adjacent Yokohama International Conference Hall."
+  },
+  {
+   "name": "3F Ballroom Monaco & Nice",
+   "note": "The official site gives capacities as ranges (minimum-maximum). The figures in the table are the maximums. Seated dinner 170-250, seated buffet 170-200, reception 200-360, classroom 200-270, theater 300-440, U-shape 60-90, hollow square 76-114, island layout 44-66. Setting example: seated dinner for 189."
+  },
+  {
+   "name": "3F Ballroom Cannes & Nice",
+   "note": "The official site gives capacities as ranges (minimum-maximum). The figures in the table are the maximums. Seated dinner 120-210, seated buffet 110-170, reception 200-310, classroom 160-230, theater 300-390, U-shape 52-78, hollow square 68-102, island layout 40-60. Setting example: seated dinner for 198."
+  },
+  {
+   "name": "3F Ballroom Monaco",
+   "note": "The official site gives capacities as ranges (minimum-maximum). The figures in the table are the maximums. Seated dinner 110-160, seated buffet 80-130, reception 100-230, classroom 100-160, theater 150-280, U-shape 44-66, hollow square 56-84, island layout 36-54."
+  },
+  {
+   "name": "3F Ballroom Nice",
+   "note": "The official site gives capacities as ranges (minimum-maximum). The figures in the table are the maximums. Seated dinner 50-80, seated buffet 40-60, reception 70-125, classroom 50-80, theater 80-120, U-shape 34-51, hollow square 40-60, island layout 36-54."
+  },
+  {
+   "name": "3F Ballroom Cannes",
+   "note": "The official site gives capacities as ranges (minimum-maximum). The figures in the table are the maximums. Seated dinner 80-110, seated buffet 60-90, reception 80-150, classroom 80-130, theater 120-210, U-shape 38-57, hollow square 48-72, island layout 36-54."
+  },
+  {
+   "name": "3F Pacific",
+   "note": "The official site gives capacities as ranges (minimum-maximum). The figures in the table are the maximums. Seated dinner 80-200, seated buffet 70-160, reception 100-300, classroom 90-200, theater 120-320, U-shape 28-42, hollow square 36-54, island layout 36-54. With a lounge and a balcony. Setting examples: seated dinner for 170, classroom for 171, reception for 300, theater for 306."
+  },
+  {
+   "name": "3F Bayview",
+   "note": "The official site gives capacities as ranges (minimum-maximum). The figures in the table are the maximums. Seated dinner 60-90, seated buffet 40-90, reception 80-150, classroom 70-90, theater 100-200, U-shape 26-45, hollow square 36-54, island layout 32-48. The upper limit for seated dinner differs between sources: 90 in the banquet hall overview PDF and the venue comparison table, 100 in the detail field of the banquet hall guide page (the PDF figure of 90 is used). With a bar counter."
+  },
+  {
+   "name": "3F Aegean",
+   "note": "The official site gives capacities as ranges (minimum-maximum). The figures in the table are the maximums. Seated dinner 40-60, seated buffet 40-50, reception 40-80, classroom 40-60, theater 50-100, U-shape 20-48, hollow square 20-54, island layout 20-48."
+  },
+  {
+   "name": "3F Atlantic",
+   "note": "The official site gives capacities as ranges (minimum-maximum). The figures in the table are the maximums. Seated dinner 40-80, seated buffet 40-60, reception 60-100, classroom 40-66, theater 50-104, U-shape 20-48, hollow square 20-54, island layout 20-48."
+  },
+  {
+   "name": "3F Adria",
+   "note": "The official site gives capacities as ranges (minimum-maximum). The figures in the table are the maximums. Seated dinner 10-30, seated buffet 20-30, reception 30-50, classroom 15-25, theater 20-40, U-shape 12-18, hollow square 16-24, island layout 12-18."
+  },
+  {
+   "name": "30F Le Grand (Dining Salon)",
+   "note": "The official site gives capacities as ranges (minimum-maximum). The figures in the table are the maximums. Seated dinner 6-15, reception 20-30."
+  },
+  {
+   "name": "30F Carlton (Dining Salon)",
+   "note": "The official site gives capacities as ranges (minimum-maximum). The figures in the table are the maximums. Seated dinner 14-26, reception 25-35."
+  },
+  {
+   "name": "30F Mayfair (Dining Salon)",
+   "note": "The official site gives capacities as ranges (minimum-maximum). The figures in the table are the maximums. Seated dinner 8-16, reception 30-40. With a living room that has a bar corner."
+  },
+  {
+   "name": "30F Al Bustan (Dining Salon)",
+   "note": "The official site gives capacities as ranges (minimum-maximum). The figures in the table are the maximums. Seated dinner 4-10, reception 20."
+  },
+  {
+   "name": "30F Amstel (Dining Salon)",
+   "note": "The official site gives capacities as ranges (minimum-maximum). The figures in the table are the maximums. Seated dinner 4-10, reception 20."
+  },
+  {
+   "name": "30F Willard (Dining Salon)",
+   "note": "The official site gives capacities as ranges (minimum-maximum). The figures in the table are the maximums. Seated dinner 4-10, reception 20."
+  },
+  {
+   "name": "2F Starboard (Party Space)",
+   "note": "The official site gives 40-80 for a standing reception. With a bar counter and lounge space. Live music such as piano is also possible. Not listed in the banquet hall overview PDF; the value is from the venue comparison table on the banquet hall guide page."
+  },
+  {
+   "name": "PACIFICO Yokohama Conference Center 6F Bay Bridge Cafeteria (Party Space)",
+   "note": "The official site gives 70-120 for seated dinner and 40-150 for a standing reception. Not listed in the banquet hall overview PDF; the value is from the venue comparison table on the banquet hall guide page."
+  }
+ ],
+ "ops": {
+  "parking": "Use the Minatomirai Public Parking Lot on the first basement level of PACIFICO Yokohama. It has 1,154 standard-vehicle spaces and electric vehicle charging stations, with a height limit of 2.1 m. It is divided into Blocks A to D, and Block A is the closest to the hotel tower. Preferential rates apply only at this parking lot.",
+  "waitingRooms": "The medium banquet halls (Bayview, Aegean, Atlantic, Adria, Silk and Pearl) are multi-purpose rooms that can be used for business meetings, seminars, celebrations, or as waiting rooms. Adria can also be used as a waiting room for small meetings and banquets.",
+  "catering": "The Hotel Facility Usage Regulations state that guests should refrain from bringing food or drink into the hotel and from ordering delivery from outside.",
+  "restaurants": "The hotel's restaurants are Chinese Restaurant Karyu (31F), Nadaman (4F; Japanese cuisine, sushi and teppanyaki steak), French Restaurant Azur (2F), Buffet Dining Ocean Terrace (1F), Lounge & Bar Marine Blue (2F) and the music lounge Starboard (2F). For meetings and parties, the banquet halls offer plans that bundle food, drink and room fee, such as the InterContinental Party Package (choose from course meal, table service or buffet)."
+ },
+ "documents": [
+  {
+   "title": "Banquet Hall Overview (PDF)"
+  },
+  {
+   "title": "Banquet Hall Guide (venue comparison and individual venue pages)"
+  },
+  {
+   "title": "InterContinental Ballroom Basic Information (floor plan and area table)"
+  },
+  {
+   "title": "InterContinental Ballroom Setting Examples"
+  },
+  {
+   "title": "InterContinental Ballroom Setting Examples for Divided Use"
+  },
+  {
+   "title": "Pacific Setting Examples"
+  },
+  {
+   "title": "Aegean Layout Plan"
+  },
+  {
+   "title": "Atlantic Layout Plan"
+  },
+  {
+   "title": "Adria Layout Plan"
+  },
+  {
+   "title": "Silk Layout Plan"
+  },
+  {
+   "title": "Le Grand Layout Plan"
+  },
+  {
+   "title": "Carlton Layout Plan"
+  },
+  {
+   "title": "Hotel Facility Usage Regulations"
+  },
+  {
+   "title": "Access"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "7-Eleven Yokohama Minatomirai 3-chome",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "FamilyMart Queen's Square Yokohama",
+    "hours": "7:00-23:00",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "FamilyMart MM Center Building",
+    "hours": "7:00-23:00",
+    "note": "Distance is calculated from the address location. The official store name is \"MM Center Building store\"."
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "Kinko's PACIFICO Yokohama",
+    "hours": "Varies by event period and by month (check the official monthly business calendar)",
+    "note": "Distance is calculated from the location on the official page's map. The store is inside the PACIFICO Yokohama exhibition hall."
+   },
+   {
+    "name": "ACCEA Yokohama Landmark Tower",
+    "hours": "Weekdays 8:00-20:00 / Sat, Sun & holidays 10:00-19:00",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "DAISO Minatomirai Tokyu Square",
+    "hours": "11:00-20:00",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "DAISO MARK IS Minatomirai",
+    "hours": "10:00-20:00",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "donki": [
+   {
+    "name": "Don Quijote Yokohama Nishiguchi",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. Far (22 min walk)."
+   },
+   {
+    "name": "Don Quijote Isezakicho",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. Far (25 min walk)."
+   }
+  ]
+ },
+ "photoCredit": "© Matthide127 / CC0 · Wikimedia Commons"
+}

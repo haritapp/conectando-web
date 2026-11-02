@@ -1,0 +1,318 @@
+{
+ "slug": "ike-biz",
+ "nameJa": "IKE・Biz としま産業振興プラザ",
+ "nameEn": "",
+ "type": "public",
+ "area": "ikebukuro-venues",
+ "address": "〒171-0021 東京都豊島区西池袋2-37-4",
+ "officialUrl": "https://www.toshima-plaza.jp/",
+ "organizerUrl": "https://www.toshima-plaza.jp/guide/",
+ "bizintokyoSlug": "ike-biz",
+ "accessSummary": "池袋駅西口 徒歩約10分／メトロポリタン改札（メトロポリタン口）より約7分",
+ "notice": "体育室は改修工事のため2026年11月24日から利用休止（予定）、利用再開は2027年3月11日の見込み（工事の進捗で変更あり）。多目的ホール・会議室は対象外。",
+ "hours": "利用時間 9:00〜21:30（正面玄関の開閉門は8:45〜21:45）。休館日は年末年始（12月29日〜1月3日）と毎月最終月曜日（祝日の場合は前週月曜日）。区外の団体も、事前の団体登録をすれば借りられる（区民団体が先に予約でき、区外団体の予約開始は会議室などが利用月の3か月前の20日10時、多目的ホールが6か月前の20日10時から）。物品販売・契約行為を伴う催しや、2,001円以上の入場料を取る催しは使用料が2倍。",
+ "rooms": [
+  {
+   "name": "6F 多目的ホール",
+   "areaM2": 280.9,
+   "ceilingM": null,
+   "theater": 250,
+   "school": 130,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "定員は机・椅子130名／椅子のみ250名。利用案内PDF（2024年4月版）のレイアウト例ではシアター238席、島型96席（8人島×12）、面接会場形式88席。使用料（税込）午前10,200円／午後13,700円／夜間13,700円／全日33,800円（営利利用は2倍）。マイク・飲食・アルコール可、歌唱・演奏不可。"
+  },
+  {
+   "name": "5F 第1会議室",
+   "areaM2": 30.6,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "定員22名。基本レイアウト22席、レイアウト変更不可。使用料（税込）午前1,700円／午後2,300円／夜間2,300円／全日5,600円。"
+  },
+  {
+   "name": "6F 第2会議室",
+   "areaM2": 42.6,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": 18,
+   "standing": null,
+   "banquet": null,
+   "note": "定員30名。基本レイアウト30席、口の字型18席。使用料（税込）午前2,100円／午後2,900円／夜間2,900円／全日7,100円。"
+  },
+  {
+   "name": "6F 第3会議室",
+   "areaM2": 88.4,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": 36,
+   "standing": null,
+   "banquet": null,
+   "note": "定員50名（利用案内PDFの基本レイアウトは53席、口の字型36席）。マイク利用・アルコール可。使用料（税込）午前3,600円／午後4,900円／夜間4,900円／全日12,000円。"
+  },
+  {
+   "name": "5F 美術室",
+   "areaM2": 47.5,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "美術利用の定員16名、会議利用の定員30名。机・椅子の設営は利用者。飲食可、アルコール不可。会議利用の使用料（税込）午前2,400円／午後3,200円／夜間3,200円／全日7,900円。"
+  },
+  {
+   "name": "5F 料理実習室",
+   "areaM2": 48.8,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "定員16名（調理台4台）。会議利用の定員も16名で、会議利用では調理台・食器・調理器具は使えない。飲食・アルコール可。会議利用の使用料（税込）午前1,500円／午後2,000円／夜間2,000円／全日4,900円。"
+  },
+  {
+   "name": "5F 第1和室・第2和室（各）",
+   "areaM2": 29.8,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "各15畳、定員各18名。ふすまで仕切られ2部屋連結で30畳として使える。机・座布団の設営は利用者。飲食可、アルコール不可。使用料（税込・各室）午前1,700円／午後2,300円／夜間2,300円／全日5,600円。"
+  },
+  {
+   "name": "5F 工芸室",
+   "areaM2": 40.7,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "定員14名。陶芸窯室を含む。飲食可、アルコール不可。使用料（税込）午前2,100円／午後2,800円／夜間2,800円／全日6,900円。"
+  },
+  {
+   "name": "5F 第1音楽室",
+   "areaM2": 43,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "定員20名。飲食・アルコール不可。使用料（税込）午前1,900円／午後2,600円／夜間2,600円／全日6,300円。"
+  },
+  {
+   "name": "5F 第2音楽室・第3音楽室",
+   "areaM2": 11.8,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "第2音楽室11.8㎡・第3音楽室12.5㎡、定員各5名。飲食・アルコール不可。使用料（税込・各室）午前600円／午後800円／夜間800円／全日1,900円。"
+  },
+  {
+   "name": "B2F 体育室",
+   "areaM2": 305.1,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "定員40名。飲食・アルコール不可。2026年11月24日から改修工事のため休止予定。"
+  }
+ ],
+ "roomsSource": "https://www.toshima-plaza.jp/facilities/",
+ "ops": {
+  "loadingHours": {
+   "text": "利用時間には準備と片づけの時間も含まれる。多目的ホールは設営を伴う準備作業があるため、利用時間どおりの鍵渡しになる（その他の貸室は利用時間の5分前から）。施設の利用時間は9:00〜21:30。大型の物品や大量の物品を持ち込むときは事前に施設の承認が必要で、持ち込み品の預かりはできない。公式サイトに搬入ルートの案内動画がある。（出典：利用案内PDF 2024年4月版、よくあるご質問）",
+   "source": "https://www.toshima-plaza.jp/faq/"
+  },
+  "vehicleRules": {
+   "text": "物品搬入や車椅子利用のために自動車で来館するときは、事前に施設の承認を受ける。駐車場は事前予約制で、入庫できない場合は近隣の駐車場を使う。（出典：利用案内PDF 2024年4月版、交通案内）",
+   "source": "https://www.toshima-plaza.jp/guide/"
+  },
+  "parking": {
+   "text": "駐車場は13台（車高1,780mm以下×車幅1,900mm×車長4,750mmが2台、車高1,560mm以下×車幅1,900mm×車長4,750mmが11台）。バイクの駐輪スペースはなく、自転車の駐輪場は54台。公式の交通案内では原則1団体につき1台で、混雑時は利用できない場合がある。2024年4月版の利用案内PDFでは1部屋につき1台（多目的ホールは2台）。入庫は午前区分（9:00〜12:00）の予約なら8:45から、午後・夜間区分ならおおよそ予約時間の30分前から。予約は貸室予約時に問い合わせる。",
+   "source": "https://www.toshima-plaza.jp/access/"
+  },
+  "waitingRooms": {
+   "text": "控室専用の部屋の案内はない。公式の施設利用例では、出演者控室として多目的ホールと同じ6階の会議室（第3会議室）を使える。ホール前のエントランスの一部は、来場者の荷物を預かるクロークとして使える（要相談）。（出典：施設利用例）",
+   "source": "https://www.toshima-plaza.jp/guide/usecase.html"
+  },
+  "catering": {
+   "text": "貸室内と5階エレベーターホールで飲食できる（音楽室・体育室は飲食禁止）。1階のカフェ「純喫茶いけびず」が、貸室利用者向けにサンドウィッチ・弁当などのデリバリーと、貸室でそのまま行う懇親会向けのケータリングパーティーコース（お飲み放題付き、1人4,000円・税込4,400円）を受け付けている。事前予約が必要で、予約状況や時間帯によっては受けられない。アルコールを出せるのは多目的ホール・第3会議室・料理実習室のみ。（出典：よくあるご質問、カフェのケータリングチラシ）",
+   "source": "https://www.toshima-plaza.jp/faq/"
+  },
+  "restaurants": {
+   "text": "1階にカフェ「純喫茶いけびず（イケビズカフェ）」がある。公式のケータリングチラシでは、懇親会や打ち上げに貸室をそのまま使えるとしている。（出典：よくあるご質問、カフェのケータリングチラシ）",
+   "source": "https://www.toshima-plaza.jp/ikebizcafe_party.pdf"
+  }
+ },
+ "documents": [
+  {
+   "title": "利用案内（2024年4月版）",
+   "url": "https://www.toshima-plaza.jp/guide/documents/70f5a96477359493d492413f24159674.pdf"
+  },
+  {
+   "title": "利用者登録申請書（PDF）",
+   "url": "https://www.toshima-plaza.jp/guide/documents/c712b8890e734c64f143211991902911.pdf"
+  },
+  {
+   "title": "団体構成員名簿（PDF）",
+   "url": "https://www.toshima-plaza.jp/guide/documents/groupmember_list20251.pdf"
+  },
+  {
+   "title": "撮影覚書（PDF、2026年2月）",
+   "url": "https://www.toshima-plaza.jp/guide/documents/mou_202602.pdf"
+  },
+  {
+   "title": "料理実習室のご案内（PDF）",
+   "url": "https://www.toshima-plaza.jp/news/aad71e59e74784c920b7abbb1d96e802.pdf"
+  },
+  {
+   "title": "料理実習室 備品リスト（PDF）",
+   "url": "https://www.toshima-plaza.jp/news/72c079106807efe079c8649d9df7c9d8.pdf"
+  },
+  {
+   "title": "カフェ ケータリングパーティーコース（PDF）",
+   "url": "https://www.toshima-plaza.jp/ikebizcafe_party.pdf"
+  },
+  {
+   "title": "各種資料ダウンロード（公式ページ）",
+   "url": "https://www.toshima-plaza.jp/guide/download.html"
+  }
+ ],
+ "checkedAt": "2026-11-02",
+ "lat": 35.727669,
+ "lng": 139.706528,
+ "nearby": {
+  "convenience": [
+   {
+    "name": "セブン-イレブン 豊島劇場通り東店",
+    "brand": "セブン-イレブン",
+    "distanceM": 124,
+    "walkMin": 2,
+    "hours": "24時間営業",
+    "address": "東京都豊島区西池袋1-7-7",
+    "verified": true,
+    "source": "https://seven-eleven.areamarker.com/711map/info/237281",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "ファミリーマート 西池袋三丁目店",
+    "brand": "ファミリーマート",
+    "distanceM": 140,
+    "walkMin": 2,
+    "hours": "24時間営業",
+    "address": "東京都豊島区西池袋3-1-13",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/59016",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "ローソン 西池袋二丁目店",
+    "brand": "ローソン",
+    "distanceM": 198,
+    "walkMin": 3,
+    "hours": "24時間営業",
+    "address": "東京都豊島区西池袋2-41-8",
+    "verified": true,
+    "source": "https://www.areamarker.com/lawson/info/130375",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "アクセア 西池袋店",
+    "brand": "アクセア",
+    "distanceM": 161,
+    "walkMin": 3,
+    "hours": "平日8:00〜22:00、土祝10:00〜19:00／日休み",
+    "address": "東京都豊島区西池袋1-7-10 ビルドT9ビル1F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/entry.html",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "キンコーズ・池袋西口店",
+    "brand": "キンコーズ",
+    "distanceM": 383,
+    "walkMin": 5,
+    "hours": "平日 9:00-22:00／土・日・祝 10:00-22:00",
+    "address": "東京都豊島区西池袋3丁目28-1 藤久ビル西2号 館1F",
+    "verified": true,
+    "source": "https://www.kinkos.co.jp/store/tokyo/t018/",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "3COINS +plus ルミネ池袋店",
+    "brand": "3COINS",
+    "distanceM": 296,
+    "walkMin": 4,
+    "hours": "11:00-21:00",
+    "address": "東京都豊島区西池袋1-11-1 ルミネ池袋5F",
+    "verified": true,
+    "source": "https://palcloset.storelocator.jp/map",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "DAISO 池袋東武店",
+    "brand": "ダイソー",
+    "distanceM": 439,
+    "walkMin": 6,
+    "hours": "10:00-20:00",
+    "address": "東京都豊島区西池袋1-1-25 東武百貨店池袋本店6階",
+    "verified": true,
+    "source": "https://www.daiso-sangyo.co.jp/shop/detail/001608",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "donki": [
+   {
+    "name": "ドン・キホーテ 池袋東口駅前店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 562,
+    "walkMin": 8,
+    "hours": "24時間営業",
+    "address": "東京都豊島区南池袋1-22-5",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=255",
+    "note": "距離は住所の位置で計算。ドン・キホーテ公式サイトの店舗名は「池袋東口駅前店」"
+   },
+   {
+    "name": "ドン・キホーテ 池袋駅西口店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 767,
+    "walkMin": 10,
+    "hours": "24時間営業",
+    "address": "東京都豊島区西池袋1-43-12",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=500",
+    "note": "距離は住所の位置で計算。ドン・キホーテ公式サイトの店舗名は「池袋駅西口店」"
+   }
+  ]
+ },
+ "drinkDelivery": {
+  "available": true
+ },
+ "photo": {
+  "src": "/images/venues/ike-biz.jpg",
+  "credit": "最寄りの池袋駅西口のイメージ写真です（会場の建物ではありません）。© Kakidai / CC BY-SA 3.0 · Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ikebukuro_station_west_2012.JPG"
+ }
+}

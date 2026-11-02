@@ -1,0 +1,156 @@
+{
+ "slug": "hyatt-regency-tokyo",
+ "name": "Hyatt Regency Tokyo",
+ "address": "Tokyo 160-0023 2-7-2 Nishi-Shinjuku, Shinjuku-ku",
+ "accessSummary": "Toei Oedo Line Tochomae Station Exit A7: about 1 min walk / Tokyo Metro Marunouchi Line Nishi-Shinjuku Station: about 4 min walk / JR Shinjuku Station West Exit: about 9 min walk",
+ "hours": null,
+ "notice": null,
+ "rooms": [
+  {
+   "name": "Century Room",
+   "note": "According to the floor plan, it can be divided into two rooms, A and B. Stage (flip-up type) available. Figures are for the whole room. Combined with the Crystal Room, up to 1,000 people (hyatt.com banquet page)."
+  },
+  {
+   "name": "Momoyama",
+   "note": "According to the floor plan, it can be divided into two rooms, A and B."
+  },
+  {
+   "name": "Crystal Room",
+   "note": null
+  },
+  {
+   "name": "Heian",
+   "note": null
+  },
+  {
+   "name": "Tenpyo",
+   "note": "According to the floor plan, it can be divided into two rooms, A and B."
+  },
+  {
+   "name": "Hakuho",
+   "note": null
+  },
+  {
+   "name": "Excellence",
+   "note": "Foyer and cloakroom adjacent."
+  },
+  {
+   "name": "Sky Room",
+   "note": "Foyer and cloakroom adjacent. Ceiling height is 2.7-8.0 m on the floor plan, and 2.7-3.0 m in the heading on the same page."
+  },
+  {
+   "name": "Asuka",
+   "note": null
+  },
+  {
+   "name": "Miyagino",
+   "note": null
+  },
+  {
+   "name": "Splendor",
+   "note": null
+  },
+  {
+   "name": "Yayoi",
+   "note": "Yayoi, Higashiyama and Yoshino are listed with the same area and capacity (all three rooms)."
+  },
+  {
+   "name": "Higashiyama",
+   "note": "Yayoi, Higashiyama and Yoshino are listed with the same area and capacity (all three rooms)."
+  },
+  {
+   "name": "Yoshino",
+   "note": "Yayoi, Higashiyama and Yoshino are listed with the same area and capacity (all three rooms)."
+  },
+  {
+   "name": "Applause",
+   "note": null
+  },
+  {
+   "name": "Ashigara",
+   "note": "Ashigara, Sengoku and Myojo are listed with the same area and capacity (all three rooms)."
+  },
+  {
+   "name": "Sengoku",
+   "note": "Ashigara, Sengoku and Myojo are listed with the same area and capacity (all three rooms)."
+  },
+  {
+   "name": "Myojo",
+   "note": "Ashigara, Sengoku and Myojo are listed with the same area and capacity (all three rooms)."
+  }
+ ],
+ "ops": {
+  "parking": "The car park on B1F-B3F has 415 spaces. The height limit is 2.1 m on the main entrance side and 2.6 m on the Central Park side. Motorcycles (motorbikes and scooters) cannot be parked. The fee is 400 yen per 30 minutes, and guests using the banquet facilities park free for up to 3 hours 30 minutes. A wheelchair-accessible parking space is on B3F.",
+  "restaurants": "The hotel has Crossroads Kitchen, Nineteen Eighty Lounge & Bar, Jade Garden (翡翠宮), Eau de Vie and Shinjuku Nadaman (official website, restaurants & bars page)."
+ },
+ "documents": [
+  {
+   "title": "Banquet Floor Map, Overall Plan (May 2026)"
+  },
+  {
+   "title": "Floor Map of Large Banquet Rooms (July 2026)"
+  },
+  {
+   "title": "Floor Map of Medium Banquet Rooms (July 2026)"
+  },
+  {
+   "title": "Floor Map of Small Banquet Rooms (March 2026)"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "FamilyMart Shinjuku Dai-ichi Seimei Building",
+    "hours": "7:00-23:00",
+    "note": "Distance is calculated from the store's official location, because the address block is the same as the hotel's and would give a distance of 0 m."
+   },
+   {
+    "name": "FamilyMart Shinjuku Mitsui Building",
+    "hours": "7:00-23:00",
+    "note": "Distance is calculated from the address location. The official store name is \"Famima Shinjuku Mitsui Building Store\"."
+   },
+   {
+    "name": "FamilyMart Shinjuku Island Tower",
+    "hours": "7:00-23:00",
+    "note": "Distance is calculated from the address location. The official store name is \"Famima Shinjuku Island Tower Store\"."
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "Kinko's Nishi-Shinjuku",
+    "hours": "Weekdays 8:00-20:00 / Sat 10:00-20:00 / Sun & holidays 10:00-20:00",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Accea Nishi-Shinjuku",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Can Do Nishi-Shinjuku",
+    "hours": "Daily 9:00-22:00",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Can Do Yakuhiguchi Shinjuku Park Tower",
+    "hours": "Mon-Fri 9:00-20:00 / Sat & Sun 10:00-19:30 / Holidays 10:00-19:30",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "donki": [
+   {
+    "name": "Don Quijote Shinjuku Kabukicho",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Don Quijote Shinjuku Southeast Exit",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location."
+   }
+  ]
+ },
+ "photoCredit": "© Rs1421 / CC BY-SA 3.0 · Wikimedia Commons"
+}

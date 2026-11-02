@@ -1,0 +1,311 @@
+{
+ "slug": "hotel-cadenza-tokyo",
+ "nameJa": "ホテルカデンツァ東京",
+ "nameEn": "Hotel Cadenza Tokyo",
+ "type": "hotel",
+ "area": "ikebukuro-venues",
+ "address": "〒179-0075 東京都練馬区高松5-8-20",
+ "officialUrl": "https://www.h-cadenza.jp/",
+ "organizerUrl": "https://www.h-cadenza.jp/page17",
+ "bizintokyoSlug": "hotel-cadenza-tokyo",
+ "accessSummary": "光が丘駅（大江戸線）A5出口 ホテル送迎バス約5分・徒歩約15分／練馬高野台駅（西武池袋線）北口 ホテル送迎バス約5分／成増駅 ホテル送迎バス約15分（成増便は平日のみ）",
+ "notice": null,
+ "hours": "会議利用の料金は9:00〜17:00（2時間単位）",
+ "rooms": [
+  {
+   "name": "B2F 大宴会場 ラ・ローズ 全体",
+   "areaM2": 580,
+   "ceilingM": 7.2,
+   "theater": 500,
+   "school": 380,
+   "ushape": null,
+   "standing": 400,
+   "banquet": 260,
+   "note": "一般正餐・婚礼正餐とも260。3分割可"
+  },
+  {
+   "name": "B2F ラ・ローズ 2分割（I または II）",
+   "areaM2": 290,
+   "ceilingM": 7.2,
+   "theater": 220,
+   "school": 160,
+   "ushape": null,
+   "standing": 180,
+   "banquet": 110,
+   "note": "一般正餐・婚礼正餐とも110。2室あり"
+  },
+  {
+   "name": "B2F ラ・ローズ 3分割（A・B・C 各）",
+   "areaM2": 191,
+   "ceilingM": 7.2,
+   "theater": 110,
+   "school": 80,
+   "ushape": null,
+   "standing": 100,
+   "banquet": 60,
+   "note": "一般正餐60、婚礼正餐は設定なし。3室あり"
+  },
+  {
+   "name": "2F 中宴会場 アゼリア 全体",
+   "areaM2": 317,
+   "ceilingM": null,
+   "theater": 280,
+   "school": 160,
+   "ushape": null,
+   "standing": 200,
+   "banquet": 120,
+   "note": "一般正餐・婚礼正餐とも120。2分割可"
+  },
+  {
+   "name": "2F アゼリア 2分割（A または B）",
+   "areaM2": 155,
+   "ceilingM": null,
+   "theater": 100,
+   "school": 80,
+   "ushape": null,
+   "standing": 80,
+   "banquet": 50,
+   "note": "一般正餐・婚礼正餐とも50。シアターは宴会場ページで100、料金表で110"
+  },
+  {
+   "name": "22F（オフィス棟）スカイバンケット レインボー",
+   "areaM2": 329,
+   "ceilingM": null,
+   "theater": 280,
+   "school": 160,
+   "ushape": null,
+   "standing": 200,
+   "banquet": 96,
+   "note": "一般正餐・婚礼正餐とも96"
+  },
+  {
+   "name": "B2F 小宴会場 マーガレット",
+   "areaM2": 83,
+   "ceilingM": null,
+   "theater": 60,
+   "school": 40,
+   "ushape": null,
+   "standing": 40,
+   "banquet": 40,
+   "note": null
+  },
+  {
+   "name": "B2F 小宴会場 カトレア",
+   "areaM2": 83,
+   "ceilingM": null,
+   "theater": 60,
+   "school": 40,
+   "ushape": null,
+   "standing": 40,
+   "banquet": 40,
+   "note": null
+  },
+  {
+   "name": "2F 小宴会場 コスモス",
+   "areaM2": 69,
+   "ceilingM": null,
+   "theater": 50,
+   "school": 30,
+   "ushape": null,
+   "standing": 30,
+   "banquet": 30,
+   "note": null
+  },
+  {
+   "name": "2F 小宴会場 ガーベラ",
+   "areaM2": 69,
+   "ceilingM": null,
+   "theater": 50,
+   "school": 30,
+   "ushape": null,
+   "standing": 30,
+   "banquet": 30,
+   "note": null
+  },
+  {
+   "name": "2F 小宴会場 フリージア",
+   "areaM2": 69,
+   "ceilingM": null,
+   "theater": 50,
+   "school": 30,
+   "ushape": null,
+   "standing": 30,
+   "banquet": 30,
+   "note": null
+  },
+  {
+   "name": "2F 小宴会場 ラベンダー",
+   "areaM2": 69,
+   "ceilingM": null,
+   "theater": 50,
+   "school": 30,
+   "ushape": null,
+   "standing": 30,
+   "banquet": 30,
+   "note": null
+  },
+  {
+   "name": "2F 小宴会場 シクラメン",
+   "areaM2": 53,
+   "ceilingM": null,
+   "theater": 30,
+   "school": 20,
+   "ushape": null,
+   "standing": null,
+   "banquet": 20,
+   "note": null
+  },
+  {
+   "name": "2F 特別室 天元（洋室）",
+   "areaM2": 28,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": 8,
+   "note": "一般正餐8名。和室（28㎡）もあり"
+  },
+  {
+   "name": "1F J.CITYホール",
+   "areaM2": 120,
+   "ceilingM": null,
+   "theater": 80,
+   "school": 60,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "宴会場一覧の料金表のみに掲載"
+  },
+  {
+   "name": "1F パーティールーム",
+   "areaM2": 85,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": 30,
+   "banquet": 20,
+   "note": "一般正餐・婚礼正餐とも20。宴会場一覧の料金表のみに掲載"
+  }
+ ],
+ "roomsSource": "https://www.h-cadenza.jp/page5",
+ "ops": {
+  "parking": {
+   "text": "地下駐車場80台。基本料金は1時間300円、以降30分ごとに150円。入庫7:00〜26:00、出庫は24時間。車体は高さ2.4mまで（2.4m以上の大型車は要問い合わせ）。宴会の利用者には4時間または8時間以内無料の駐車サービス券がある。",
+   "source": "https://www.h-cadenza.jp/access"
+  },
+  "waitingRooms": {
+   "text": "小宴会場（53〜83㎡の7室）は、少人数の会食や会議、控室に使えると案内している。特別室の天元は洋室28㎡・和室28㎡で、料金表に載っている。",
+   "source": "https://www.h-cadenza.jp/page5"
+  },
+  "catering": {
+   "text": "宴会場への飲食物の持込みは禁止事項。ホテルの料理は盛込料理20名から、立食・着席ビュッフェは25名からで、パーティープランは20名から（2時間飲み放題・室料込み、8,500円〜。サービス料・税込）。（宴会場利用規約 2024年2月版）",
+   "source": "https://cdn.r-corona.jp/prd.jln.r-corona.jp/assets/site_files/hgf1bsiq/1271754/q16c.jpg"
+  },
+  "restaurants": {
+   "text": "館内にビュッフェ＆ダイニング「LUMIÈRE」、日本料理「むさしの」、中国料理「白楽天」がある。3店とも個室があり、各店でグループプランを用意している。",
+   "source": "https://www.h-cadenza.jp/faq"
+  }
+ },
+ "documents": [
+  {
+   "title": "宴会場のご利用料金表",
+   "url": "https://cdn.r-corona.jp/prd.jln.r-corona.jp/assets/site_files/hgf1bsiq/1249776/g8ez.png"
+  },
+  {
+   "title": "宴会場利用規約（2024年2月版）",
+   "url": "https://cdn.r-corona.jp/prd.jln.r-corona.jp/assets/site_files/hgf1bsiq/1271754/q16c.jpg"
+  },
+  {
+   "title": "インターネット回線速度について（2023年11月）",
+   "url": "https://cdn.r-corona.jp/prd.jln.r-corona.jp/assets/site_files/hgf1bsiq/1250366/h95i.png"
+  }
+ ],
+ "checkedAt": "2026-11-02",
+ "lat": 35.75552,
+ "lng": 139.62059,
+ "nearby": {
+  "convenience": [
+   {
+    "name": "セブン-イレブン 練馬高松6丁目店",
+    "brand": "セブン-イレブン",
+    "distanceM": 120,
+    "walkMin": 2,
+    "hours": "24時間営業",
+    "address": "東京都練馬区高松6-1-9",
+    "verified": true,
+    "source": "https://seven-eleven.areamarker.com/711map/info/374025",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "ファミリーマート 練馬高松五丁目店",
+    "brand": "ファミリーマート",
+    "distanceM": 154,
+    "walkMin": 2,
+    "hours": "24時間営業",
+    "address": "東京都練馬区高松五丁目8番35号",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/21735",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "ローソン LTF練馬谷原店",
+    "brand": "ローソン",
+    "distanceM": 195,
+    "walkMin": 3,
+    "hours": "24時間営業",
+    "address": "東京都練馬区谷原1-22-11",
+    "verified": true,
+    "source": "https://www.areamarker.com/lawson/info/296472",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "copyshop": [],
+  "hundredYen": [
+   {
+    "name": "DAISO 光が丘IMA店",
+    "brand": "ダイソー",
+    "distanceM": 546,
+    "walkMin": 7,
+    "hours": "9:30-20:00",
+    "address": "東京都練馬区光が丘3丁目9番2号 光が丘IMA南館内1階・2階",
+    "verified": true,
+    "source": "https://www.daiso-sangyo.co.jp/shop/detail/001444",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "DAISO 練馬土支田店",
+    "brand": "ダイソー",
+    "distanceM": 1263,
+    "walkMin": 16,
+    "hours": "9:30-21:00",
+    "address": "東京都練馬区土支田4丁目9-5",
+    "verified": true,
+    "source": "https://www.daiso-sangyo.co.jp/shop/detail/002663",
+    "note": "距離は住所の位置で計算。遠め"
+   }
+  ],
+  "donki": [
+   {
+    "name": "ドン・キホーテ 大泉店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 2335,
+    "walkMin": 30,
+    "hours": "9:00-23:00",
+    "address": "東京都練馬区東大泉2-10-11 2階",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=721",
+    "note": "距離は住所の位置で計算。遠い。ドン・キホーテ公式サイトの店舗名は「大泉店」"
+   }
+  ]
+ },
+ "drinkDelivery": {
+  "available": true
+ },
+ "photo": {
+  "src": "/images/venues/hotel-cadenza-tokyo.jpg",
+  "credit": "最寄りの都営大江戸線 光が丘駅A5出口のイメージ写真です（会場の建物ではありません）。© LERK / CC BY-SA 4.0 · Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Toei-subway-E38-Hikarigaoka-station-entrance-A5-20191205-154435.jpg"
+ }
+}

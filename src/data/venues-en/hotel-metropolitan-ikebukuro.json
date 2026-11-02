@@ -1,0 +1,194 @@
+{
+ "slug": "hotel-metropolitan-ikebukuro",
+ "name": "Hotel Metropolitan Tokyo Ikebukuro",
+ "address": "Tokyo 171-8505 1-6-1 Nishi-Ikebukuro, Toshima-ku",
+ "accessSummary": "JR Ikebukuro Station, Metropolitan Gate: 1 min walk (7:00-23:00) / Ikebukuro Station West Exit (South): 3 min walk",
+ "hours": null,
+ "notice": null,
+ "rooms": [
+  {
+   "name": "3F - FUJI - All Rooms",
+   "note": "Can be divided (A to D)."
+  },
+  {
+   "name": "3F - FUJI - ABC",
+   "note": null
+  },
+  {
+   "name": "3F - FUJI - BCD",
+   "note": null
+  },
+  {
+   "name": "3F - FUJI - AB",
+   "note": null
+  },
+  {
+   "name": "3F - FUJI - CD",
+   "note": null
+  },
+  {
+   "name": "3F - FUJI - A",
+   "note": null
+  },
+  {
+   "name": "3F - FUJI - BC",
+   "note": null
+  },
+  {
+   "name": "3F - FUJI - D",
+   "note": null
+  },
+  {
+   "name": "4F - SAKURA",
+   "note": null
+  },
+  {
+   "name": "3F - CASSIOPEIA",
+   "note": null
+  },
+  {
+   "name": "3F - HIKARI",
+   "note": null
+  },
+  {
+   "name": "3F - ASAHI - All Rooms",
+   "note": "Can be divided into East and West."
+  },
+  {
+   "name": "3F - ASAHI - East",
+   "note": null
+  },
+  {
+   "name": "3F - ASAHI - West",
+   "note": null
+  },
+  {
+   "name": "2F - AKEBONO - All Rooms",
+   "note": "Reopened after renovation on October 1, 2026. Can be divided into East and West."
+  },
+  {
+   "name": "2F - AKEBONO - East",
+   "note": null
+  },
+  {
+   "name": "2F - AKEBONO - West",
+   "note": null
+  },
+  {
+   "name": "4F - ASAKAZE",
+   "note": null
+  },
+  {
+   "name": "4F - HATSUKAZE",
+   "note": null
+  },
+  {
+   "name": "4F - MATSUKAZE",
+   "note": null
+  },
+  {
+   "name": "4F - SHUNYO",
+   "note": null
+  },
+  {
+   "name": "25F - POLARIS",
+   "note": null
+  },
+  {
+   "name": "25F - MERCURY",
+   "note": null
+  },
+  {
+   "name": "25F - JUPITER",
+   "note": null
+  },
+  {
+   "name": "25F - VENUS",
+   "note": null
+  },
+  {
+   "name": "5F - VIP Room IRIS A",
+   "note": "Capacity is not stated."
+  },
+  {
+   "name": "5F - VIP Room IRIS B",
+   "note": "Capacity is not stated."
+  }
+ ],
+ "ops": {
+  "parking": "The car park on B2F of the hotel has 143 spaces, with a height limit of 2.1 m. The fee is 400 yen per 30 minutes, and banquet and wedding users park free for up to 5 hours. The separate-building car park has 566 spaces, a height limit of 2.1 m, and a fee of 250 yen per 15 minutes. Parking cannot be reserved, and the car parks may be full on Saturdays, Sundays and holidays.",
+  "waitingRooms": "There is a changing room on the banquet floor (4F). Notify the hotel in advance if you want to use it.",
+  "catering": "The banquet terms prohibit bringing in food or drink without the hotel's consent and holding entertainment that uses food or drink. Decorations, flowers, audio, lighting, entertainment and the like are in principle arranged by the hotel for a fee. If the customer wishes to arrange or bring in such items directly, prior consultation is required, and depending on the content the request may be declined or a bring-in fee may be charged. The date, place and method of bringing equipment and materials in and out and of installing signage follow the hotel's instructions.",
+  "restaurants": "The hotel's restaurants & bars are: Cuisine EST, Dining & Bar OVEST, Japanese Restaurant HANAMUSASHI, Japanese Kitchen & Bar SHUNKA, Chinese Restaurant KEI-LIN, All Day Dining CROSS DINE, Bar ORIENT EXPRESS, Mezzanine Lounge SUZUKAKE, Cake & Bakery Shop, and Teppanyaki SANKAITEI."
+ },
+ "documents": [
+  {
+   "title": "Banquet Capacity Spec Sheet (July 2026 edition)"
+  },
+  {
+   "title": "Floor Map (July 2026 edition)"
+  },
+  {
+   "title": "Banquet Regulations"
+  },
+  {
+   "title": "Meeting Plan (weekdays only; 6,000 yen per person, 3 hours, from 10 people)"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "7-Eleven Toshima Nishi-Ikebukuro 1-chome",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Lawson Nishi-Ikebukuro 2-chome",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "FamilyMart Ikebukuro Eki Nishi",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "Accea Nishi-Ikebukuro",
+    "hours": "Weekdays 8:00-22:00 / Sat & holidays 10:00-19:00 / Closed Sundays",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Kinko's Ikebukuro Nishiguchi",
+    "hours": "Weekdays 9:00-22:00 / Sat, Sun & holidays 10:00-22:00",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "3COINS +plus Lumine Ikebukuro",
+    "hours": "11:00-21:00",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "DAISO Ikebukuro Tobu",
+    "hours": "10:00-20:00",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "donki": [
+   {
+    "name": "Don Quijote Ikebukuro Higashiguchi Ekimae",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. The store name on the Don Quijote official website is \"Ikebukuro Higashiguchi Ekimae\"."
+   },
+   {
+    "name": "Don Quijote Ikebukuro Eki Nishiguchi",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. The store name on the Don Quijote official website is \"Ikebukuro Eki Nishiguchi\"."
+   }
+  ]
+ },
+ "photoCredit": "© Mdmd2016 / CC BY-SA 4.0 · Wikimedia Commons"
+}

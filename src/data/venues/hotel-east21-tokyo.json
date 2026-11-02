@@ -1,0 +1,168 @@
+{
+ "slug": "hotel-east21-tokyo",
+ "nameJa": "ホテル イースト21東京",
+ "nameEn": "Hotel East 21 Tokyo",
+ "type": "hotel",
+ "area": "marunouchi-nihonbashi-venues",
+ "address": "〒135-0016 東京都江東区東陽6-3-3",
+ "officialUrl": "https://okura.com/hotel-east-21-tokyo/ja/",
+ "organizerUrl": "https://okura.com/ja/japan/tokyo/hotel-east-21-tokyo/meetings-events/",
+ "bizintokyoSlug": "hotel-east21-tokyo",
+ "accessSummary": "東京メトロ東西線 東陽町駅 徒歩7分",
+ "notice": null,
+ "hours": null,
+ "rooms": [
+  {
+   "name": "1F イースト21ホール",
+   "areaM2": 1800,
+   "ceilingM": 6.7,
+   "theater": 1600,
+   "school": 1000,
+   "ushape": null,
+   "standing": 2000,
+   "banquet": null,
+   "note": "着席（宴会）は要相談。分割利用可"
+  },
+  {
+   "name": "3F 永代",
+   "areaM2": 700,
+   "ceilingM": 6.0,
+   "theater": 900,
+   "school": 500,
+   "ushape": null,
+   "standing": 800,
+   "banquet": 400,
+   "note": "分割利用可"
+  },
+  {
+   "name": "3F 東陽",
+   "areaM2": 410,
+   "ceilingM": 4.5,
+   "theater": 500,
+   "school": 270,
+   "ushape": null,
+   "standing": 400,
+   "banquet": 250,
+   "note": "分割利用可"
+  },
+  {
+   "name": "3F 牡丹",
+   "areaM2": 100,
+   "ceilingM": 3.0,
+   "theater": 90,
+   "school": 50,
+   "ushape": null,
+   "standing": 70,
+   "banquet": 50,
+   "note": "分割利用可"
+  },
+  {
+   "name": "3F 清澄",
+   "areaM2": 62,
+   "ceilingM": 3.0,
+   "theater": 50,
+   "school": 30,
+   "ushape": null,
+   "standing": 40,
+   "banquet": 30,
+   "note": "分割利用可"
+  },
+  {
+   "name": "3F 豊洲",
+   "areaM2": 30,
+   "ceilingM": 3.0,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": 10,
+   "note": "分割不可"
+  }
+ ],
+ "roomsSource": "https://okura.com/ja/japan/tokyo/hotel-east-21-tokyo/meetings-events/",
+ "ops": {
+  "parking": {
+   "text": "ホテルの基本情報には、駐車場111台、契約駐車場290台（大型バス5台）で、どちらも有料と載っている。",
+   "source": "https://okura.com/ja/japan/tokyo/hotel-east-21-tokyo/"
+  },
+  "restaurants": {
+   "text": "館内のレストランは、鉄板焼き 木場、中国料理 桃園、ブラスリー ハーモニー（西洋料理）、日本料理 さざんか、カクテルラウンジ パノラマ、ベーカリーショップ アン。",
+   "source": "https://okura.com/ja/japan/tokyo/hotel-east-21-tokyo/dining/"
+  }
+ },
+ "documents": [],
+ "checkedAt": "2026-11-02",
+ "lat": 35.675594,
+ "lng": 139.814224,
+ "nearby": {
+  "convenience": [
+   {
+    "name": "ファミリーマート 東京イースト21店",
+    "brand": "ファミリーマート",
+    "distanceM": 104,
+    "walkMin": 2,
+    "hours": "24時間営業",
+    "address": "東京都江東区東陽6丁目3-2",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/57502",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "セブン-イレブン 江東千石1丁目店",
+    "brand": "セブン-イレブン",
+    "distanceM": 121,
+    "walkMin": 2,
+    "hours": "24時間営業",
+    "address": "東京都江東区千石1丁目7-28",
+    "verified": true,
+    "source": "https://seven-eleven.areamarker.com/711map/info/337917",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "ナチュラルローソン 東陽七丁目店",
+    "brand": "ナチュラルローソン",
+    "distanceM": 204,
+    "walkMin": 3,
+    "hours": "24時間営業",
+    "address": "東京都江東区東陽7‐1‐2",
+    "verified": true,
+    "source": "https://www.areamarker.com/lawson/info/175656",
+    "note": "距離は公式の店舗位置で計算"
+   }
+  ],
+  "copyshop": [],
+  "hundredYen": [
+   {
+    "name": "Seria 西友東陽町店",
+    "brand": "セリア",
+    "distanceM": 596,
+    "walkMin": 8,
+    "hours": "毎日 10:00-21:00",
+    "address": "東京都江東区東陽4-12-30 西友東陽町店 2F",
+    "verified": true,
+    "source": "https://shop.seria-group.com/seria/info/000001902",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "DAISO 東陽町駅店",
+    "brand": "ダイソー",
+    "distanceM": 741,
+    "walkMin": 10,
+    "hours": "9:00-21:00",
+    "address": "東京都江東区東陽4-1-7 佐藤ダイヤビルディング1階",
+    "verified": true,
+    "source": "https://www.daiso-sangyo.co.jp/shop/detail/006922",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "donki": []
+ },
+ "drinkDelivery": {
+  "available": true
+ },
+ "photo": {
+  "src": "/images/venues/hotel-east21-tokyo.jpg",
+  "credit": "© Akitsumaru / CC BY-SA 4.0 · Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hotel_East21_Tokyo_20180616.jpg"
+ }
+}

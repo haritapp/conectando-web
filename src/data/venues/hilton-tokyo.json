@@ -1,0 +1,521 @@
+{
+ "slug": "hilton-tokyo",
+ "nameJa": "ヒルトン東京",
+ "nameEn": "",
+ "type": "hotel",
+ "area": "shinjuku-venues",
+ "address": "〒160-0023 東京都新宿区西新宿6-6-2",
+ "officialUrl": "https://tokyo.hiltonjapan.co.jp/",
+ "organizerUrl": "https://tokyo.hiltonjapan.co.jp/mice/",
+ "bizintokyoSlug": "hilton_tokyo",
+ "accessSummary": "西新宿駅（丸ノ内線）C8出口 徒歩約2分／都庁前駅 A7出口 徒歩約3分／新宿駅西口 徒歩約10分",
+ "notice": null,
+ "hours": null,
+ "rooms": [
+  {
+   "name": "4F 菊 全室（菊1〜4）",
+   "areaM2": 945,
+   "ceilingM": 5.0,
+   "theater": 1000,
+   "school": 450,
+   "ushape": null,
+   "standing": 650,
+   "banquet": 450,
+   "note": "菊4の天井高は2.6m。4分割（菊1〜4）で利用可。別に菊ホワイエ490㎡"
+  },
+  {
+   "name": "4F 菊1",
+   "areaM2": 294,
+   "ceilingM": 5.0,
+   "theater": 200,
+   "school": 170,
+   "ushape": null,
+   "standing": 160,
+   "banquet": 120,
+   "note": "LEDウォール（15m×3m）設置"
+  },
+  {
+   "name": "4F 菊2",
+   "areaM2": 168,
+   "ceilingM": 5.0,
+   "theater": 150,
+   "school": 100,
+   "ushape": null,
+   "standing": 100,
+   "banquet": 100,
+   "note": null
+  },
+  {
+   "name": "4F 菊3",
+   "areaM2": 336,
+   "ceilingM": 5.0,
+   "theater": 350,
+   "school": 200,
+   "ushape": null,
+   "standing": 200,
+   "banquet": 200,
+   "note": "LEDスクリーン設置"
+  },
+  {
+   "name": "4F 菊4",
+   "areaM2": 147,
+   "ceilingM": 2.6,
+   "theater": 150,
+   "school": 100,
+   "ushape": null,
+   "standing": 80,
+   "banquet": 80,
+   "note": null
+  },
+  {
+   "name": "4F 菊ホワイエ",
+   "areaM2": 490,
+   "ceilingM": 2.6,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": 250,
+   "banquet": null,
+   "note": "受付・コーヒーブレイク・カクテルレセプション・展示などに利用可"
+  },
+  {
+   "name": "3F 藤 全室（藤1〜3）",
+   "areaM2": 336,
+   "ceilingM": 2.7,
+   "theater": 300,
+   "school": 210,
+   "ushape": null,
+   "standing": 250,
+   "banquet": 170,
+   "note": null
+  },
+  {
+   "name": "3F 藤1",
+   "areaM2": 112,
+   "ceilingM": 2.7,
+   "theater": 60,
+   "school": 45,
+   "ushape": null,
+   "standing": 50,
+   "banquet": 40,
+   "note": null
+  },
+  {
+   "name": "3F 藤2",
+   "areaM2": 112,
+   "ceilingM": 2.7,
+   "theater": 100,
+   "school": 54,
+   "ushape": null,
+   "standing": 50,
+   "banquet": 50,
+   "note": null
+  },
+  {
+   "name": "3F 藤3",
+   "areaM2": 112,
+   "ceilingM": 2.7,
+   "theater": 100,
+   "school": 54,
+   "ushape": null,
+   "standing": 50,
+   "banquet": 50,
+   "note": null
+  },
+  {
+   "name": "3F 葵",
+   "areaM2": 112,
+   "ceilingM": 2.7,
+   "theater": 120,
+   "school": 72,
+   "ushape": null,
+   "standing": 50,
+   "banquet": 50,
+   "note": null
+  },
+  {
+   "name": "3F 桜 全室（桜1・2）",
+   "areaM2": 204,
+   "ceilingM": 2.7,
+   "theater": 160,
+   "school": 100,
+   "ushape": null,
+   "standing": 100,
+   "banquet": 80,
+   "note": null
+  },
+  {
+   "name": "3F 桜1",
+   "areaM2": 108,
+   "ceilingM": 2.7,
+   "theater": 70,
+   "school": 50,
+   "ushape": null,
+   "standing": 50,
+   "banquet": 40,
+   "note": null
+  },
+  {
+   "name": "3F 桜2",
+   "areaM2": 96,
+   "ceilingM": 2.7,
+   "theater": 70,
+   "school": 50,
+   "ushape": null,
+   "standing": 50,
+   "banquet": 40,
+   "note": null
+  },
+  {
+   "name": "3F 芙蓉",
+   "areaM2": 72,
+   "ceilingM": 2.7,
+   "theater": 60,
+   "school": 42,
+   "ushape": null,
+   "standing": 30,
+   "banquet": 30,
+   "note": null
+  },
+  {
+   "name": "3F 雅 ザ・スイート 全室",
+   "areaM2": 184,
+   "ceilingM": 2.8,
+   "theater": 60,
+   "school": 36,
+   "ushape": null,
+   "standing": 80,
+   "banquet": 40,
+   "note": "ザ・スイート40㎡・雅64㎡・ザ・ギャラリー80㎡の合計面積"
+  },
+  {
+   "name": "3F 雅",
+   "areaM2": 64,
+   "ceilingM": 2.8,
+   "theater": 60,
+   "school": 36,
+   "ushape": null,
+   "standing": 50,
+   "banquet": 40,
+   "note": null
+  },
+  {
+   "name": "3F 雅 ザ・スイート",
+   "areaM2": 40,
+   "ceilingM": 2.8,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": 12,
+   "note": "宴会場ページは正餐12名、フロアマップPDFは正餐の欄が空欄でボードルーム7/6名の表記"
+  },
+  {
+   "name": "3F 雅 ザ・ギャラリー",
+   "areaM2": 80,
+   "ceilingM": 2.8,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": 20,
+   "banquet": null,
+   "note": null
+  },
+  {
+   "name": "3F 雪花 全室（雪花1〜3）",
+   "areaM2": 236,
+   "ceilingM": 2.8,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": 100,
+   "banquet": null,
+   "note": null
+  },
+  {
+   "name": "3F 雪花1",
+   "areaM2": 84,
+   "ceilingM": 2.8,
+   "theater": 100,
+   "school": 54,
+   "ushape": null,
+   "standing": 60,
+   "banquet": 50,
+   "note": null
+  },
+  {
+   "name": "3F 雪花2",
+   "areaM2": 36,
+   "ceilingM": 2.8,
+   "theater": 25,
+   "school": 18,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": null
+  },
+  {
+   "name": "3F 雪花3",
+   "areaM2": 36,
+   "ceilingM": 2.8,
+   "theater": 25,
+   "school": 18,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": null
+  },
+  {
+   "name": "3F 雪花スタジオ",
+   "areaM2": 80,
+   "ceilingM": 2.8,
+   "theater": 40,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": null
+  },
+  {
+   "name": "3F FB Nook",
+   "areaM2": 24,
+   "ceilingM": 2.5,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": null
+  },
+  {
+   "name": "7F 桐",
+   "areaM2": 140,
+   "ceilingM": 2.6,
+   "theater": 60,
+   "school": 40,
+   "ushape": null,
+   "standing": 50,
+   "banquet": 40,
+   "note": null
+  },
+  {
+   "name": "7F 楓",
+   "areaM2": 80,
+   "ceilingM": 2.6,
+   "theater": 60,
+   "school": 40,
+   "ushape": null,
+   "standing": 50,
+   "banquet": 40,
+   "note": null
+  },
+  {
+   "name": "7F 檜",
+   "areaM2": 80,
+   "ceilingM": 2.6,
+   "theater": 60,
+   "school": 40,
+   "ushape": null,
+   "standing": 50,
+   "banquet": 40,
+   "note": null
+  },
+  {
+   "name": "7F 欅",
+   "areaM2": 40,
+   "ceilingM": 2.6,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": 16,
+   "note": null
+  },
+  {
+   "name": "7F 椿",
+   "areaM2": 35,
+   "ceilingM": 2.6,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": 16,
+   "note": null
+  },
+  {
+   "name": "7F 梅",
+   "areaM2": 30,
+   "ceilingM": 2.6,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": 10,
+   "note": null
+  },
+  {
+   "name": "7F 杉",
+   "areaM2": 30,
+   "ceilingM": 2.6,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": 10,
+   "note": null
+  }
+ ],
+ "roomsSource": "https://tokyo.hiltonjapan.co.jp/mice/large、https://tokyo.hiltonjapan.co.jp/mice/medium、https://tokyo.hiltonjapan.co.jp/mice/small（フロアマップPDFと照合）",
+ "ops": {
+  "parking": {
+   "text": "ホテル地下2階・3階に280台分の駐車場（車高2.1m）。宴会・会議の利用は3時間30分まで無料、24時間内は最大2,700円。延長は300円／30分。",
+   "source": "https://tokyo.hiltonjapan.co.jp/access/"
+  },
+  "restaurants": {
+   "text": "館内に、メトロポリタングリル（グリル料理）、日本料理「十二颯」、中国料理「王朝」、バー＆ラウンジZATTA、マーブルラウンジ（ビュッフェ）、セント・ジョージ バーがある（2F ダイニングフロアにメトロポリタングリル・十二颯・王朝・ZATTA）。個室は定員4〜12名が中心で、中国料理「王朝」に15〜40名の個室（室料はランチ20,000円／ディナー30,000円、税・サービス料込）。",
+   "source": "https://tokyo.hiltonjapan.co.jp/restaurants/private_list"
+  }
+ },
+ "documents": [
+  {
+   "title": "4階フロアマップ（菊・サイズと収容人数）",
+   "url": "https://tokyo.hiltonjapan.co.jp/pdf/mice/4F_FloorMap.pdf"
+  },
+  {
+   "title": "3階フロアマップ（藤・葵・桜・芙蓉・雅・雪花・サイズと収容人数）",
+   "url": "https://tokyo.hiltonjapan.co.jp/pdf/mice/3F_FloorMap.pdf"
+  },
+  {
+   "title": "7階フロアマップ（楓・檜・欅・椿・梅・杉・桐・サイズと収容人数）",
+   "url": "https://tokyo.hiltonjapan.co.jp/pdf/mice/7F_FloorMap.pdf"
+  },
+  {
+   "title": "4階 菊 宴会レイアウト図",
+   "url": "https://tokyo.hiltonjapan.co.jp/pdf/mice/4FBanquet.pdf"
+  },
+  {
+   "title": "ミーティングパッケージ（9:00〜21:00 フルデー お一人様25,000円〜／9:00〜17:00 ハーフデー 20,000円〜、10名以上）",
+   "url": "https://tokyo.hiltonjapan.co.jp/plans/mice/5216"
+  }
+ ],
+ "checkedAt": "2026-11-02",
+ "lat": 35.692543,
+ "lng": 139.691132,
+ "nearby": {
+  "convenience": [
+   {
+    "name": "セブン-イレブン 西新宿6丁目店",
+    "brand": "セブン-イレブン",
+    "distanceM": 168,
+    "walkMin": 3,
+    "hours": "24時間営業",
+    "address": "東京都新宿区西新宿6-12-6",
+    "verified": true,
+    "source": "https://seven-eleven.areamarker.com/711map/info/557725",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "ファミリーマート 新宿アイランドタワー店",
+    "brand": "ファミリーマート",
+    "distanceM": 204,
+    "walkMin": 3,
+    "hours": "7:00-23:00",
+    "address": "東京都新宿区西新宿6-5-1 新宿アイランドタワー",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/24517",
+    "note": "距離は住所の位置で計算。公式の店舗名は「ファミマ新宿アイランドタワー店」"
+   },
+   {
+    "name": "ファミリーマート 西新宿オークテラス店",
+    "brand": "ファミリーマート",
+    "distanceM": 231,
+    "walkMin": 3,
+    "hours": "6:30-23:00",
+    "address": "東京都新宿区西新宿6-10-2 オークテラス101",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/22999",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "キンコーズ・西新宿店",
+    "brand": "キンコーズ",
+    "distanceM": 316,
+    "walkMin": 4,
+    "hours": "平日 8:00-20:00／土 10:00-20:00／日祝 10:00-20:00",
+    "address": "東京都新宿区西新宿8-1-1 アゼリアビル1F",
+    "verified": true,
+    "source": "https://www.kinkos.co.jp/store/tokyo/t008/",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "アクセア 西新宿店",
+    "brand": "アクセア",
+    "distanceM": 501,
+    "walkMin": 7,
+    "hours": "24時間営業",
+    "address": "東京都新宿区西新宿7-12-3 西新宿佐藤ビル1F～4F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/entry.html",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Can★Do 西新宿店",
+    "brand": "キャンドゥ",
+    "distanceM": 371,
+    "walkMin": 5,
+    "hours": "毎日 9:00〜22:00",
+    "address": "東京都新宿区西新宿7-21-1",
+    "verified": true,
+    "source": "https://shopinfo.cando-web.co.jp/detail/shop-5068/",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "DAISO 新宿コクーンタワー店",
+    "brand": "ダイソー",
+    "distanceM": 634,
+    "walkMin": 8,
+    "hours": "8:00-21:00",
+    "address": "東京都新宿区西新宿1-7-3 地下2階",
+    "verified": true,
+    "source": "https://www.daiso-sangyo.co.jp/shop/detail/001737",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "donki": [
+   {
+    "name": "ドン・キホーテ 新宿歌舞伎町店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 959,
+    "walkMin": 12,
+    "hours": "24時間営業",
+    "address": "東京都新宿区歌舞伎町1-16-5",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=29",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "ドン・キホーテ 新宿東南口店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 1027,
+    "walkMin": 13,
+    "hours": "24時間営業",
+    "address": "東京都新宿区新宿3-36-16",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=449",
+    "note": "距離は住所の位置で計算。遠め"
+   }
+  ]
+ },
+ "drinkDelivery": {
+  "available": true
+ },
+ "photo": {
+  "src": "/images/venues/hilton-tokyo.jpg",
+  "credit": "© 松倉傑 / CC0 · Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E3%83%92%E3%83%AB%E3%83%88%E3%83%B3%E6%9D%B1%E4%BA%AC_%E5%85%A8%E6%99%AF.jpg"
+ }
+}

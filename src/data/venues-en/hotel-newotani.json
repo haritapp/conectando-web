@@ -1,0 +1,267 @@
+{
+ "slug": "hotel-newotani",
+ "name": "Hotel New Otani Tokyo",
+ "address": "Tokyo 102-8578 4-1 Kioi-cho, Chiyoda-ku",
+ "accessSummary": "Akasaka-mitsuke Station (Tokyo Metro Ginza Line / Marunouchi Line) Exit D (Kioi-cho Exit): 3 min walk / Nagatacho Station (Hanzomon Line / Namboku Line) Exit 7: 3 min walk / Kojimachi Station (Yurakucho Line) Exit 2: 6 min walk / Yotsuya Station (JR Chuo Line / Sobu Line, Marunouchi Line / Namboku Line) Kojimachi Exit and Akasaka Exit: 8 min walk",
+ "hours": null,
+ "notice": null,
+ "rooms": [
+  {
+   "name": "Tsuru - Entire Room",
+   "note": "The Main, Banquet Floor. Separate foyer of 460㎡. Can be divided into two rooms, East and West."
+  },
+  {
+   "name": "Tsuru - East",
+   "note": "The Main, Banquet Floor"
+  },
+  {
+   "name": "Tsuru - West",
+   "note": "The Main, Banquet Floor"
+  },
+  {
+   "name": "Tsuru - Foyer",
+   "note": "The Main, Banquet Floor. Can be used as a waiting room, etc."
+  },
+  {
+   "name": "Fuyo - Entire Room",
+   "note": "The Main, Banquet Floor. Separate foyer of 625㎡. Can be divided into three rooms: East, Central and West."
+  },
+  {
+   "name": "Fuyo - East",
+   "note": "The Main, Banquet Floor"
+  },
+  {
+   "name": "Fuyo - Central",
+   "note": "The Main, Banquet Floor"
+  },
+  {
+   "name": "Fuyo - West",
+   "note": "The Main, Banquet Floor"
+  },
+  {
+   "name": "Fuyo - Foyer",
+   "note": "The Main, Banquet Floor. Can be used as a waiting room, etc."
+  },
+  {
+   "name": "Hō - Entire Room",
+   "note": "Garden Tower, Banquet Floor"
+  },
+  {
+   "name": "Hō - East & Central",
+   "note": "Garden Tower, Banquet Floor"
+  },
+  {
+   "name": "Hō - Central",
+   "note": "Garden Tower, Banquet Floor"
+  },
+  {
+   "name": "Hō - East / West",
+   "note": "Garden Tower, Banquet Floor. The official (Japanese) listing reads \"East, West\"."
+  },
+  {
+   "name": "Hō - Foyer",
+   "note": "Garden Tower, Banquet Floor"
+  },
+  {
+   "name": "Orizuru Mai",
+   "note": "The Main, Arcade Floor"
+  },
+  {
+   "name": "Orizuru Yu",
+   "note": "The Main, Arcade Floor"
+  },
+  {
+   "name": "Orizuru Rei",
+   "note": "The Main, Arcade Floor"
+  },
+  {
+   "name": "Orizuru Sho",
+   "note": "The Main, Arcade Floor"
+  },
+  {
+   "name": "PALAZZO OTANI",
+   "note": "The Main, Banquet Floor"
+  },
+  {
+   "name": "AZALEA",
+   "note": "The Main, Banquet Floor"
+  },
+  {
+   "name": "ACERO",
+   "note": "The Main, Banquet Floor"
+  },
+  {
+   "name": "edo ROOM",
+   "note": "The Main, Banquet Floor"
+  },
+  {
+   "name": "Suiho",
+   "note": "Garden Tower, Banquet Floor"
+  },
+  {
+   "name": "Sirius",
+   "note": "Garden Court, Banquet Floor"
+  },
+  {
+   "name": "Aries",
+   "note": "Garden Court, Banquet Floor"
+  },
+  {
+   "name": "LAPIS L",
+   "note": "The Main, 16F"
+  },
+  {
+   "name": "Tsubaki",
+   "note": "The Main, Banquet Floor"
+  },
+  {
+   "name": "Tachibana",
+   "note": "The Main, Banquet Floor"
+  },
+  {
+   "name": "Sakura",
+   "note": "The Main, Banquet Floor"
+  },
+  {
+   "name": "AKEBONO",
+   "note": "The Main, 16F"
+  },
+  {
+   "name": "AKATSUKI",
+   "note": "The Main, 16F"
+  },
+  {
+   "name": "LAPIS 1, 2 and 3",
+   "note": "The Main, 16F"
+  },
+  {
+   "name": "STELLA 1, 2 and 3",
+   "note": "The Main, 16F"
+  },
+  {
+   "name": "Kiku",
+   "note": "Garden Tower, Banquet Floor"
+  },
+  {
+   "name": "Suisen",
+   "note": "Garden Tower, Banquet Floor"
+  },
+  {
+   "name": "Asebi",
+   "note": "Garden Tower, Banquet Floor"
+  },
+  {
+   "name": "Yamabuki",
+   "note": "Garden Tower, Banquet Floor"
+  },
+  {
+   "name": "Crescent",
+   "note": "Garden Court, Banquet Floor"
+  },
+  {
+   "name": "Boardroom",
+   "note": "Garden Court, Banquet Floor"
+  },
+  {
+   "name": "Summit East",
+   "note": "Garden Court, Banquet Floor"
+  },
+  {
+   "name": "Summit West",
+   "note": "Garden Court, Banquet Floor"
+  },
+  {
+   "name": "Waiting Rooms Kissho and Takasago",
+   "note": "The Main, Arcade Floor"
+  },
+  {
+   "name": "Waiting Room Chitose",
+   "note": "The Main, Arcade Floor"
+  },
+  {
+   "name": "Waiting Room Horai",
+   "note": "The Main, Arcade Floor"
+  },
+  {
+   "name": "Bride's Room",
+   "note": "The Main, Arcade Floor"
+  }
+ ],
+ "ops": {
+  "loadingHours": "Next to the banquet rooms there is a loading entrance that large trucks can drive into. Loading entrance dimensions: Tsuru 2.80 m wide x 2.90 m high; Fuyo 2.77 m wide x 2.30 m high (vehicles can pull up alongside and unload as they are); Hō 1.96 m wide x 2.10 m high; edo ROOM 1.80 m wide x 2.28 m high.",
+  "parking": "The car parks of The Main, Garden Tower and Garden Court together have 760 spaces. The fee is 500 yen per 30 minutes (tax included). Attendees of general banquets receive a parking service ticket depending on the time, giving up to 4 hours free (up to 6 hours for weddings). Time beyond that is charged at the regular parking rate.",
+  "waitingRooms": "The foyer of Tsuru (460㎡) and the foyer of Fuyo (625㎡) can be used as waiting rooms, etc. For PALAZZO OTANI, AZALEA and ACERO, the waiting rooms Tsubaki (65㎡), Tachibana (164㎡) and Sakura (89㎡) can be used. edo ROOM has its own waiting room and powder room. Boardroom, Crescent, and Summit East / West are small banquet rooms that can be used for meals, meetings and waiting rooms.",
+  "catering": "Food and drinks are provided by the hotel. Seated dinner courses are accepted from 8 guests, and standing or seated buffets from 20 guests. Banquet boxed lunch menus and takeaway menus are available.",
+  "restaurants": "There are 36 restaurants and bars in the hotel."
+ },
+ "documents": [
+  {
+   "title": "Guide to Hotel New Otani Tokyo (MICE brochure, June 2026 edition)"
+  },
+  {
+   "title": "Banquet Room Floor Map (June 2022 edition)"
+  },
+  {
+   "title": "Banquet Room Location Map (October 2023 edition)"
+  },
+  {
+   "title": "Banquet Drink Menu"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "7-Eleven Kioizaka",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "FamilyMart Kioicho",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "FamilyMart Motoakasaka 1-chome",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location."
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "Kinko's Akasaka-mitsuke",
+    "hours": "Weekdays 9:00-20:00 / Sat, Sun & holidays 10:00-19:00",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Accea Kojimachi",
+    "hours": "Weekdays, Sat, Sun & holidays 8:00-20:00",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Can Do Akasaka Hitotsugi-dori",
+    "hours": "Mon-Fri 9:00-21:00 / Sat-Sun 9:00-20:00",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "Can Do Atre Shinanomachi",
+    "hours": "Mon-Sun 10:00-21:00",
+    "note": "Distance is calculated from the official store location. Rather far."
+   }
+  ],
+  "donki": [
+   {
+    "name": "Picasso Akasaka (Don Quijote)",
+    "hours": "7:00-3:00",
+    "note": "Distance is calculated from the address location. A different store format from Don Quijote (the official site lists the store name as \"Picasso Akasaka\")."
+   },
+   {
+    "name": "Don Quijote Roppongi",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. Far. The store name on the Don Quijote official website is \"Roppongi\"."
+   }
+  ]
+ },
+ "photoCredit": "© 松倉傑 / CC0 · Wikimedia Commons"
+}

@@ -1,0 +1,175 @@
+{
+ "slug": "hilton-tokyo-odaiba",
+ "name": "Hilton Tokyo Odaiba",
+ "address": "Tokyo 135-8625 1-9-1 Daiba, Minato-ku",
+ "accessSummary": "Directly connected to Daiba Station (Yurikamome Line) / about 10 min walk from Tokyo Teleport Station (Rinkai Line)",
+ "hours": null,
+ "notice": null,
+ "rooms": [
+  {
+   "name": "1F Pegasus Grand Ballroom - Entire Room",
+   "note": "47.2 x 23.4 m. Can be divided. Has a permanent LED screen 21.6 m wide x 4.05 m high (available from March 9, 2026). The official FAQ (/faq/mice) says \"up to 1,200 theater, 720 school, 600 seated, 1,000 standing\", which differs from the numbers in the table on the venue page. Hollow square: 204 seats."
+  },
+  {
+   "name": "1F Pegasus 2/3",
+   "note": "31.8 x 23.4 m. Hollow square: 150 seats."
+  },
+  {
+   "name": "1F Pegasus 1/2",
+   "note": "23.6 x 23.4 m. Hollow square: 126 seats."
+  },
+  {
+   "name": "1F Pegasus 1/3",
+   "note": "15.4 x 23.4 m. Hollow square: 96 seats."
+  },
+  {
+   "name": "1F Medium Banquet Room Orion - Entire Room",
+   "note": "30.7 x 15.6 m. Hollow square: 114 seats."
+  },
+  {
+   "name": "1F Orion 1/2",
+   "note": "14.8 x 15.6 m. Hollow square: 66 seats."
+  },
+  {
+   "name": "1F Medium Banquet Room Apollon - Entire Room",
+   "note": "24.1 x 15.5 m. Hollow square: 90 seats."
+  },
+  {
+   "name": "1F Apollon 1/2",
+   "note": "11.5 x 15.5 m. Hollow square: 54 seats."
+  },
+  {
+   "name": "1F Medium Banquet Room Sirius - Entire Room",
+   "note": "19.0 x 13.1 m. Hollow square: 72 seats."
+  },
+  {
+   "name": "1F Sirius 1/2",
+   "note": "9.4 x 13.1 m. Hollow square: 42 seats."
+  },
+  {
+   "name": "1F Medium Banquet Room Jupiter",
+   "note": "14.4 x 11.2 m. Hollow square: 48 seats."
+  },
+  {
+   "name": "3F Sunrise Terrace",
+   "note": "16.3 x 8.9 m. With terrace. Hollow square: 42 seats."
+  },
+  {
+   "name": "3F Rainbow Terrace",
+   "note": "17.1 x 7.6 m. With terrace. Hollow square: 48 seats."
+  },
+  {
+   "name": "3F Sunset Terrace",
+   "note": "8.9 x 6.7 m. With terrace. Hollow square: 24 seats."
+  },
+  {
+   "name": "3F Luminous",
+   "note": "9.3 x 26.8 m. Hollow square: 78 seats."
+  },
+  {
+   "name": "3F Luminous Pearl Suite",
+   "note": "4.8 x 8.2 m."
+  },
+  {
+   "name": "3F Luminous Aqua Suite",
+   "note": "4.6 x 5.1 m."
+  },
+  {
+   "name": "3F Private Boardroom Orchid Room",
+   "note": "12.6 x 5.3 m. With terrace and a restroom inside the room. Hollow square: 16 seats."
+  },
+  {
+   "name": "3F Private Boardroom Rose Room",
+   "note": "13.0 x 5.3 m. With terrace and a restroom inside the room. Hollow square: 20 seats."
+  },
+  {
+   "name": "3F Private Boardroom Iris Room",
+   "note": "8.7 x 5.3 m. With terrace and a restroom inside the room. Hollow square: 14 seats."
+  },
+  {
+   "name": "1F Small Banquet Room Fuji Room",
+   "note": "8.0 x 4.7 m. Hollow square: 18 seats."
+  },
+  {
+   "name": "1F Small Banquet Rooms Ran Room and Hagi Room (each)",
+   "note": "8.0 x 4.7 m. Hollow square: 12 seats."
+  },
+  {
+   "name": "1F Small Banquet Rooms Momo Room, Sumire Room, Tsubaki Room and Ume Room (each)",
+   "note": "8.5 x 4.2 m. Hollow square: 18 seats."
+  },
+  {
+   "name": "1F Small Banquet Room Kiku Room",
+   "note": "5.1 x 5.7 m. Hollow square: 12 seats."
+  }
+ ],
+ "ops": {
+  "parking": "The hotel has an underground car park with 187 spaces (height limit 2.1 m). For banquet and wedding guests' parking, the official guidance is \"please inquire\". The overtime fee is 550 yen per 30 minutes. For security, the car park exit is closed from 23:30 to 6:30 the next day; to leave during this time, speak to the front desk or use the call button at the exit. For overnight guests, 2,000 yen per night (up to 24 hours).",
+  "catering": "For food hygiene management, the hotel officially asks that food and drinks brought in not be cooked or warmed in a microwave, and not be processed or served (cut, plated, etc.). Banquet plans come with food and free-flow drinks. The HILTON PARTY PLAN (October 1, 2026 to June 30, 2027) is a buffet at 15,000 yen per person or a course at 17,000 yen per person, with a 2-hour limit, up to 200 guests, and Pegasus is not available (tax included, service charge included).",
+  "restaurants": "The in-house restaurants are Seascape Terrace Dining, LE CHOU CHOU (Sweets & Deli), Japanese cuisine, teppanyaki, sushi and tempura at \"Sakura\", Captains Bar, Grillogy Bar & Grill, Chinese Cuisine \"Choryumon\", and room service. For company events and social gatherings, the HILTON PARTY PLAN and the ODAIBA PARTY PLAN WINTER 2026 (for year-end and New Year parties) are offered.",
+  "waitingRooms": "The small banquet rooms (Fuji, Ran, Hagi, Momo, Sumire, Tsubaki, Ume and Kiku on the 1F, 35 to 40㎡) are officially described as close to the large and medium banquet rooms and suitable for breakout rooms and waiting rooms. Rooms that get natural light can also be used as VIP waiting rooms."
+ },
+ "documents": [
+  {
+   "title": "Floor Plan: Medium Banquet Rooms"
+  },
+  {
+   "title": "Floor Plan: Ocean-View Banquet Rooms"
+  },
+  {
+   "title": "Floor Plan: Luminous"
+  },
+  {
+   "title": "Floor Plan: Private Boardroom"
+  },
+  {
+   "title": "Pegasus Grand Ballroom Equipment Drawing (2025)"
+  },
+  {
+   "title": "Pegasus Floor Plan"
+  },
+  {
+   "title": "Fact Sheet (December 2022 edition)"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "7-Eleven Daiba Ekimae",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the store's official location."
+   },
+   {
+    "name": "Lawson Aqua City Odaiba",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the store's official location."
+   },
+   {
+    "name": "FamilyMart Odaiba Tokyo Beach",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the store's official location."
+   }
+  ],
+  "copyshop": [],
+  "hundredYen": [
+   {
+    "name": "Seria Aqua City Odaiba",
+    "hours": "Mon 11:00-20:00 / Tue 11:00-21:00 / Wed-Fri 11:00-20:00 / Sat-Sun 11:00-21:00",
+    "note": "Distance is calculated from the store's official location."
+   },
+   {
+    "name": "DAISO DECKS Tokyo Beach",
+    "hours": "11:00-20:00",
+    "note": "Distance is calculated from the store's official location."
+   }
+  ],
+  "donki": [
+   {
+    "name": "Kirakira Donki Diver City Tokyo Plaza",
+    "hours": "10:00-21:00",
+    "note": "Distance is calculated from the address location. This is a different Don Quijote format (the official website lists the store as \"Kirakira Donki Diver City Tokyo Plaza\")."
+   }
+  ]
+ },
+ "photoCredit": "© Syced / CC0 · Wikimedia Commons"
+}

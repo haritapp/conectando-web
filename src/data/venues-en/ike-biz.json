@@ -1,0 +1,144 @@
+{
+ "slug": "ike-biz",
+ "name": "IKE・Biz Toshima Industry Promotion Plaza",
+ "address": "Tokyo 171-0021 2-37-4 Nishi-Ikebukuro, Toshima-ku",
+ "accessSummary": "Ikebukuro Station West Exit: about 10 min walk / about 7 min from the Metropolitan Gate (Metropolitan Exit)",
+ "hours": "Usage hours are 9:00-21:30 (the front gate is open 8:45-21:45). Closed from December 29 to January 3 and on the last Monday of every month (the previous Monday if it is a holiday). Groups from outside the ward can also rent the facility if they register as a group in advance (ward groups can book first; for groups from outside the ward, booking opens at 10:00 on the 20th, three months before the month of use for meeting rooms and similar, and six months before for the multipurpose hall). Usage fees are doubled for events involving product sales or contracts, and for events charging an admission fee of 2,001 yen or more.",
+ "notice": "The gymnasium is scheduled to be closed for renovation work from November 24, 2026, and is expected to reopen on March 11, 2027 (subject to change depending on the progress of the work). The multipurpose hall and meeting rooms are not affected.",
+ "rooms": [
+  {
+   "name": "6F Multipurpose Hall",
+   "note": "Capacity is 130 with tables and chairs / 250 with chairs only. In the layout examples in the user guide PDF (April 2024 edition): 238 seats theater style, 96 seats island style (12 islands of 8), 88 seats interview-venue style. Usage fee (tax included): morning 10,200 yen / afternoon 13,700 yen / evening 13,700 yen / all day 33,800 yen (double for commercial use). Microphones, food and alcohol allowed; singing and instrumental performance not allowed."
+  },
+  {
+   "name": "5F Meeting Room 1",
+   "note": "Capacity 22. Basic layout is 22 seats; the layout cannot be changed. Usage fee (tax included): morning 1,700 yen / afternoon 2,300 yen / evening 2,300 yen / all day 5,600 yen."
+  },
+  {
+   "name": "6F Meeting Room 2",
+   "note": "Capacity 30. Basic layout is 30 seats, or 18 seats in a square (hollow-square) layout. Usage fee (tax included): morning 2,100 yen / afternoon 2,900 yen / evening 2,900 yen / all day 7,100 yen."
+  },
+  {
+   "name": "6F Meeting Room 3",
+   "note": "Capacity 50 (the basic layout in the user guide PDF is 53 seats, or 36 seats in a square layout). Microphones and alcohol allowed. Usage fee (tax included): morning 3,600 yen / afternoon 4,900 yen / evening 4,900 yen / all day 12,000 yen."
+  },
+  {
+   "name": "5F Art Room",
+   "note": "Capacity 16 for art use, 30 for meeting use. Users set up the tables and chairs. Food and drink allowed; alcohol not allowed. Usage fee for meeting use (tax included): morning 2,400 yen / afternoon 3,200 yen / evening 3,200 yen / all day 7,900 yen."
+  },
+  {
+   "name": "5F Cooking Studio",
+   "note": "Capacity 16 (4 cooking stations). Capacity for meeting use is also 16, and cooking stations, tableware and cooking utensils cannot be used for meeting use. Food, drink and alcohol allowed. Usage fee for meeting use (tax included): morning 1,500 yen / afternoon 2,000 yen / evening 2,000 yen / all day 4,900 yen."
+  },
+  {
+   "name": "5F Japanese-style Rooms 1 and 2 (each)",
+   "note": "15 tatami mats each, capacity 18 each. Separated by sliding doors; the two rooms can be connected to use as 30 tatami mats. Users set up the tables and floor cushions. Food and drink allowed; alcohol not allowed. Usage fee (tax included, per room): morning 1,700 yen / afternoon 2,300 yen / evening 2,300 yen / all day 5,600 yen."
+  },
+  {
+   "name": "5F Craft Room",
+   "note": "Capacity 14. Includes the pottery kiln room. Food and drink allowed; alcohol not allowed. Usage fee (tax included): morning 2,100 yen / afternoon 2,800 yen / evening 2,800 yen / all day 6,900 yen."
+  },
+  {
+   "name": "5F Music Room 1",
+   "note": "Capacity 20. Food, drink and alcohol not allowed. Usage fee (tax included): morning 1,900 yen / afternoon 2,600 yen / evening 2,600 yen / all day 6,300 yen."
+  },
+  {
+   "name": "5F Music Rooms 2 and 3",
+   "note": "Music Room 2 is 11.8㎡ and Music Room 3 is 12.5㎡, capacity 5 each. Food, drink and alcohol not allowed. Usage fee (tax included, per room): morning 600 yen / afternoon 800 yen / evening 800 yen / all day 1,900 yen."
+  },
+  {
+   "name": "B2F Gymnasium",
+   "note": "Capacity 40. Food, drink and alcohol not allowed. Scheduled to close for renovation work from November 24, 2026."
+  }
+ ],
+ "ops": {
+  "loadingHours": "Usage hours include setup and clean-up time. Because the multipurpose hall requires setup work, the key is handed over exactly at the start of the usage time (for the other rooms, from 5 minutes before the usage time). The facility's usage hours are 9:00-21:30. Prior approval from the facility is required to bring in large or large quantities of items, and brought-in items cannot be stored. The official website has a video guide to the loading route. (Source: User Guide PDF April 2024 edition, FAQ)",
+  "vehicleRules": "Prior approval from the facility is required to come by car for loading items or for wheelchair use. The car park is by advance reservation only; if you cannot park there, use a nearby car park. (Source: User Guide PDF April 2024 edition, access guide)",
+  "parking": "The car park has 13 spaces (2 spaces for vehicles up to 1,780 mm high x 1,900 mm wide x 4,750 mm long, and 11 spaces for vehicles up to 1,560 mm high x 1,900 mm wide x 4,750 mm long). There is no motorcycle parking, and bicycle parking has 54 spaces. The official access guide says one space per group in principle, and it may not be available when busy. The user guide PDF (April 2024 edition) says one space per room (two for the multipurpose hall). Entry is from 8:45 for morning (9:00-12:00) bookings, and for afternoon and evening bookings from about 30 minutes before the booked time. Ask about reservations when booking the room.",
+  "waitingRooms": "No dedicated waiting rooms are listed. In the official facility use examples, a meeting room on the same 6th floor as the multipurpose hall (Meeting Room 3) can be used as a performers' waiting room. Part of the entrance area in front of the hall can be used as a cloakroom for visitors' belongings (consultation required). (Source: facility use examples)",
+  "catering": "Food and drink are allowed inside the rented rooms and in the 5F elevator hall (food and drink are prohibited in the music rooms and the gymnasium). The 1F cafe \"Junkissa Ikebiz\" accepts delivery of sandwiches, boxed meals and the like for room users, and a catering party course for socializing held in the rented room itself (with all-you-can-drink, 4,000 yen per person, 4,400 yen including tax). Advance reservation is required, and it may not be available depending on booking status and time slot. Alcohol can be served only in the multipurpose hall, Meeting Room 3 and the cooking studio. (Source: FAQ, cafe catering flyer)",
+  "restaurants": "There is a cafe on the 1st floor, \"Junkissa Ikebiz\" (Ikebiz Cafe). The official catering flyer says the rented rooms can be used as they are for socials and after-parties. (Source: FAQ, cafe catering flyer)"
+ },
+ "documents": [
+  {
+   "title": "User Guide (April 2024 edition)"
+  },
+  {
+   "title": "User Registration Application (PDF)"
+  },
+  {
+   "title": "Group Member List (PDF)"
+  },
+  {
+   "title": "Filming Memorandum (PDF, February 2026)"
+  },
+  {
+   "title": "Cooking Studio Guide (PDF)"
+  },
+  {
+   "title": "Cooking Studio Equipment List (PDF)"
+  },
+  {
+   "title": "Cafe Catering Party Course (PDF)"
+  },
+  {
+   "title": "Document Downloads (official page)"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "7-Eleven Toshima Gekijo-dori Higashi",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "FamilyMart Nishi-Ikebukuro 3-chome",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Lawson Nishi-Ikebukuro 2-chome",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "Accea Nishi-Ikebukuro",
+    "hours": "Weekdays 8:00-22:00, Sat & holidays 10:00-19:00 / Closed Sundays",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Kinko's Ikebukuro West Exit",
+    "hours": "Weekdays 9:00-22:00 / Sat, Sun & holidays 10:00-22:00",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "3COINS +plus LUMINE Ikebukuro",
+    "hours": "11:00-21:00",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "DAISO Ikebukuro Tobu",
+    "hours": "10:00-20:00",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "donki": [
+   {
+    "name": "Don Quijote Ikebukuro East Exit Ekimae",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. The store name on the Don Quijote official website is \"Ikebukuro East Exit Ekimae Store\"."
+   },
+   {
+    "name": "Don Quijote Ikebukuro Station West Exit",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. The store name on the Don Quijote official website is \"Ikebukuro Station West Exit Store\"."
+   }
+  ]
+ },
+ "photoCredit": "Image of the nearest station exit (Ikebukuro Station, West Exit), not the venue building. © Kakidai / CC BY-SA 3.0 · Wikimedia Commons"
+}

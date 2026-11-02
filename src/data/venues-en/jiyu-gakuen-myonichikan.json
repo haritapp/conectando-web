@@ -1,0 +1,133 @@
+{
+ "slug": "jiyu-gakuen-myonichikan",
+ "name": "Jiyu Gakuen Myonichikan",
+ "address": "Tokyo 171-0021 2-31-3 Nishi-Ikebukuro, Toshima-ku",
+ "accessSummary": "5 min walk from Ikebukuro Station Metropolitan Exit (JR, Tokyo Metro Marunouchi / Yurakucho / Fukutoshin Lines, Tobu Tojo Line, Seibu Ikebukuro Line) / 7 min walk from JR Mejiro Station",
+ "hours": "Usage hours 9:00-21:00 (including setup and cleanup). Closed on Mondays (the next day if Monday is a national holiday or substitute holiday) and over the year-end and New Year holidays. Classrooms and meeting rooms: minimum 2 hours; Dining Hall, Hall and Auditorium: minimum 3 hours; in 30-minute units. Reservations are taken by phone from 9:30 on the day one year before the date of use. (Terms of Use, revised October 2026)",
+ "notice": "As a nationally designated Important Cultural Property, bringing in or using open flame and smoking are prohibited. Nothing may be attached with nails, pins or tape. There are limits on high-power-consumption equipment and on the volume of musical instruments, and extension beyond the usage time is not allowed. Use for political or religious activities or for selling goods is not allowed. Applications are by phone only, and a site visit is in principle required (Terms of Use, revised October 2026).",
+ "rooms": [
+  {
+   "name": "Auditorium (Koudou)",
+   "note": "The official capacity is the number of people for standard seated use: 272."
+  },
+  {
+   "name": "Dining Hall (including the Small Dining Room)",
+   "note": "Seated 78 / standing 100 (official facility rental page). 2nd floor. Wheelchair users are guided to the service elevator."
+  },
+  {
+   "name": "Lounge Hall",
+   "note": "The official capacity is the number of people for standard seated use: 50. Available for night-time rental only (17:00-21:00)."
+  },
+  {
+   "name": "Large Classroom Taliesin",
+   "note": "The official capacity is the number of people for standard seated use: 36."
+  },
+  {
+   "name": "Large Classroom Toshima",
+   "note": "The official capacity is the number of people for standard seated use: 36."
+  },
+  {
+   "name": "Meeting Room Rm1921",
+   "note": "The official capacity is the number of people for standard seated use: 25."
+  },
+  {
+   "name": "Meeting Room Rm1925",
+   "note": "The official capacity is the number of people for standard seated use: 25."
+  },
+  {
+   "name": "Small Classroom Domani",
+   "note": "The official capacity is the number of people for standard seated use: 24."
+  },
+  {
+   "name": "Small Classroom Mañana",
+   "note": "The official capacity is the number of people for standard seated use: 24."
+  },
+  {
+   "name": "Small Classroom Kurasu",
+   "note": "The official capacity is the number of people for standard seated use: 16."
+  }
+ ],
+ "ops": {
+  "loadingHours": "Usage time includes setup and cleanup, from entering to leaving the room. Because there is no lobby or waiting room, rent the room from at least 30 minutes before the meeting starts. Extension beyond the usage time is not allowed. Desks and chairs can be moved within the room; the user does this and restores them to their original positions before leaving. (Source: Terms of Use, revised October 2026)",
+  "vehicleRules": "If a vehicle is used for loading and unloading for facility use, it is by reservation, and the organizer tells the staff in charge.",
+  "parking": "Under the Terms of Use, if you contact the venue in advance, up to 2 vehicles can use the parking lot during the reserved time only. The access page says there is no dedicated parking lot and to use nearby coin-operated parking lots. (Source: Terms of Use, revised October 2026)",
+  "waitingRooms": "Myonichikan has no waiting space. Arrive to match the reception time.",
+  "catering": "Please refrain from bringing in outside food and drink. The venue's meal guide offers boxed lunches (8 people or more; order by 7 days before the date of use), a buffet (standing, 40 people or more), French course meals (seated, 40 people or more), drinks and free-flow drinks, and receptions and parties can be held in the Dining Hall and the Hall. (Source: Terms of Use, revised October 2026; Meal Guide, revised February 2026)"
+ },
+ "documents": [
+  {
+   "title": "Guidelines for Use (Terms of Use and Fees, revised October 2026)"
+  },
+  {
+   "title": "Meal Guide (revised February 2026)"
+  },
+  {
+   "title": "Floor Plan"
+  },
+  {
+   "title": "Application and Lottery for Auditorium Use on Weekends and Holidays"
+  },
+  {
+   "title": "Facility Rental (Fees and Facilities)"
+  },
+  {
+   "title": "FAQ"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "Lawson Nishi-Ikebukuro 2-chome",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "7-Eleven Toshima Nishi-Ikebukuro 1-chome",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "7-Eleven Toshima Gekijo-dori Higashi",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "Accea Nishi-Ikebukuro",
+    "hours": "Weekdays 8:00-22:00 / Sat & holidays 10:00-19:00 / Closed Sundays",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Kinko's Ikebukuro West Exit",
+    "hours": "Weekdays 9:00-22:00 / Sat, Sun & holidays 10:00-22:00",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "3COINS +plus Lumine Ikebukuro",
+    "hours": "11:00-21:00",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "DAISO Ikebukuro Tobu",
+    "hours": "10:00-20:00",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "donki": [
+   {
+    "name": "Don Quijote Ikebukuro East Exit Ekimae",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. The store name on the Don Quijote official website is \"Ikebukuro Higashiguchi Ekimae\" (池袋東口駅前店)."
+   },
+   {
+    "name": "Don Quijote Ikebukuro Station West Exit",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. The store name on the Don Quijote official website is \"Ikebukuro Eki Nishiguchi\" (池袋駅西口店)."
+   }
+  ]
+ },
+ "photoCredit": "© jmho / CC0 · Wikimedia Commons"
+}

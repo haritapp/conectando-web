@@ -1,0 +1,503 @@
+{
+ "slug": "hotel-chinzanso-tokyo",
+ "nameJa": "ホテル椿山荘東京",
+ "nameEn": "Hotel Chinzanso Tokyo",
+ "type": "hotel",
+ "area": "ikebukuro-venues",
+ "address": "〒112-8680 東京都文京区関口2-10-8",
+ "officialUrl": "https://hotel-chinzanso-tokyo.jp/",
+ "organizerUrl": "https://hotel-chinzanso-tokyo.jp/banquet/",
+ "bizintokyoSlug": "hotel-chinzanso-tokyo",
+ "accessSummary": "江戸川橋駅（東京メトロ有楽町線）1a出口 徒歩約10分／早稲田駅（東京メトロ東西線）3a出口 徒歩約20分／早稲田駅（都電荒川線）徒歩約14分",
+ "notice": null,
+ "hours": null,
+ "rooms": [
+  {
+   "name": "バンケット棟5F グランドホール 椿",
+   "areaM2": 1350,
+   "ceilingM": 6.2,
+   "theater": 2000,
+   "school": 1000,
+   "ushape": null,
+   "standing": 2000,
+   "banquet": 770,
+   "note": "常設ステージ18m×6m。会場を半分に仕切って中宴会場として使える。大型リフトがあり自動車などの展示会も可能。別にロビー約400㎡"
+  },
+  {
+   "name": "バンケット棟5F グランドホール 椿1（分割）",
+   "areaM2": 720,
+   "ceilingM": 6.2,
+   "theater": 1000,
+   "school": 450,
+   "ushape": null,
+   "standing": 600,
+   "banquet": 420,
+   "note": "2023年12月版パンフレットの値"
+  },
+  {
+   "name": "バンケット棟5F グランドホール 椿2（分割）",
+   "areaM2": 630,
+   "ceilingM": 6.2,
+   "theater": 800,
+   "school": 400,
+   "ushape": null,
+   "standing": 500,
+   "banquet": 280,
+   "note": "2023年12月版パンフレットの値"
+  },
+  {
+   "name": "ホテル棟1F ボールルーム",
+   "areaM2": 634,
+   "ceilingM": 6.0,
+   "theater": 600,
+   "school": 360,
+   "ushape": null,
+   "standing": 500,
+   "banquet": 300,
+   "note": "面積はホワイエ379㎡を含む。天井高はホワイエ3.0m"
+  },
+  {
+   "name": "バンケット棟4F 雅",
+   "areaM2": 557,
+   "ceilingM": 3.7,
+   "theater": 700,
+   "school": 300,
+   "ushape": null,
+   "standing": 500,
+   "banquet": 260,
+   "note": "面積はホワイエ156㎡を含む"
+  },
+  {
+   "name": "バンケット棟1F 胡蝶",
+   "areaM2": 333,
+   "ceilingM": 3.7,
+   "theater": 350,
+   "school": 170,
+   "ushape": null,
+   "standing": 250,
+   "banquet": 150,
+   "note": "面積はホワイエ220㎡を含む。専用ガーデン252㎡"
+  },
+  {
+   "name": "バンケット棟3F フォレスタ",
+   "areaM2": 336,
+   "ceilingM": 4.2,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": 150,
+   "banquet": 150,
+   "note": "2026年10月オープン。着席は80〜150名。面積はホワイエ97.8㎡を含む"
+  },
+  {
+   "name": "バンケット棟4F 響",
+   "areaM2": 264,
+   "ceilingM": 2.7,
+   "theater": 240,
+   "school": 100,
+   "ushape": null,
+   "standing": 130,
+   "banquet": 90,
+   "note": null
+  },
+  {
+   "name": "バンケット棟4F 琴",
+   "areaM2": 140,
+   "ceilingM": 2.8,
+   "theater": 120,
+   "school": 60,
+   "ushape": null,
+   "standing": 60,
+   "banquet": 56,
+   "note": null
+  },
+  {
+   "name": "バンケット棟3F カメリア",
+   "areaM2": 284,
+   "ceilingM": 4.4,
+   "theater": 120,
+   "school": 70,
+   "ushape": null,
+   "standing": 100,
+   "banquet": 77,
+   "note": "着席は公式サイトで77、2023年12月版パンフレットで96"
+  },
+  {
+   "name": "ホテル棟4F アンフィシアター",
+   "areaM2": 225,
+   "ceilingM": 4.4,
+   "theater": null,
+   "school": 98,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "階段形式。同時通訳ブース、各席に質疑用マイク"
+  },
+  {
+   "name": "バンケット棟8〜11F ふじ・あけぼの・せいふう・まつかぜ（各）",
+   "areaM2": 262,
+   "ceilingM": 2.8,
+   "theater": 240,
+   "school": 120,
+   "ushape": null,
+   "standing": 130,
+   "banquet": 100,
+   "note": "4室が各1フロア貸切（8〜11F）"
+  },
+  {
+   "name": "バンケット棟6・7F はるひ・あおば（各）",
+   "areaM2": 212,
+   "ceilingM": 2.8,
+   "theater": 200,
+   "school": 100,
+   "ushape": null,
+   "standing": 110,
+   "banquet": 80,
+   "note": "各1フロア貸切、オープンキッチン付き"
+  },
+  {
+   "name": "ホテル棟1F ウィステリアルーム",
+   "areaM2": 283,
+   "ceilingM": 3.0,
+   "theater": 280,
+   "school": 150,
+   "ushape": null,
+   "standing": 180,
+   "banquet": 120,
+   "note": null
+  },
+  {
+   "name": "ホテル棟4F ヒッコリールーム",
+   "areaM2": 214,
+   "ceilingM": 3.0,
+   "theater": 180,
+   "school": 90,
+   "ushape": null,
+   "standing": 120,
+   "banquet": 90,
+   "note": "二分割して使える"
+  },
+  {
+   "name": "バンケット棟5F こもれび",
+   "areaM2": 262,
+   "ceilingM": 2.8,
+   "theater": 240,
+   "school": 120,
+   "ushape": null,
+   "standing": 130,
+   "banquet": 100,
+   "note": null
+  },
+  {
+   "name": "バンケット棟1F 瑞光",
+   "areaM2": 255,
+   "ceilingM": 3.7,
+   "theater": 240,
+   "school": 110,
+   "ushape": null,
+   "standing": 130,
+   "banquet": 100,
+   "note": null
+  },
+  {
+   "name": "ホテル棟4F ギンコウルーム",
+   "areaM2": 251,
+   "ceilingM": 3.0,
+   "theater": 190,
+   "school": 100,
+   "ushape": null,
+   "standing": 130,
+   "banquet": 100,
+   "note": null
+  },
+  {
+   "name": "ホテル棟1F メイプルルーム",
+   "areaM2": 228,
+   "ceilingM": 3.0,
+   "theater": 190,
+   "school": 90,
+   "ushape": null,
+   "standing": 120,
+   "banquet": 90,
+   "note": "二分割して使える。プライベートテラス147㎡"
+  },
+  {
+   "name": "バンケット棟1F 瑠璃",
+   "areaM2": 229,
+   "ceilingM": 3.0,
+   "theater": 220,
+   "school": 100,
+   "ushape": null,
+   "standing": 120,
+   "banquet": 80,
+   "note": "専用ガーデン126㎡"
+  },
+  {
+   "name": "バンケット棟4F 舞",
+   "areaM2": 228,
+   "ceilingM": 3.5,
+   "theater": 170,
+   "school": 70,
+   "ushape": null,
+   "standing": 80,
+   "banquet": 63,
+   "note": null
+  },
+  {
+   "name": "ホテル棟2F バンブールーム",
+   "areaM2": 220,
+   "ceilingM": 3.0,
+   "theater": 190,
+   "school": 90,
+   "ushape": null,
+   "standing": 120,
+   "banquet": 90,
+   "note": "二分割して使える"
+  },
+  {
+   "name": "ホテル棟2F ポプラルーム",
+   "areaM2": 170,
+   "ceilingM": 3.0,
+   "theater": 70,
+   "school": 42,
+   "ushape": null,
+   "standing": 60,
+   "banquet": 50,
+   "note": null
+  },
+  {
+   "name": "ホテル棟4F マホガニールーム",
+   "areaM2": 113,
+   "ceilingM": 3.0,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": 50,
+   "banquet": 30,
+   "note": null
+  },
+  {
+   "name": "ホテル棟4F オークルーム（3室）",
+   "areaM2": 88,
+   "ceilingM": 3.0,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": 30,
+   "banquet": 10,
+   "note": null
+  },
+  {
+   "name": "ホテル棟4F パインルーム",
+   "areaM2": 76,
+   "ceilingM": 3.0,
+   "theater": 24,
+   "school": 16,
+   "ushape": null,
+   "standing": 30,
+   "banquet": 24,
+   "note": null
+  },
+  {
+   "name": "ホテル棟5F シェフズテーブル",
+   "areaM2": 90,
+   "ceilingM": 3.0,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": 30,
+   "banquet": 22,
+   "note": null
+  },
+  {
+   "name": "ホテル棟4F マグノリアルーム",
+   "areaM2": 92,
+   "ceilingM": 3.0,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": 30,
+   "banquet": 10,
+   "note": null
+  },
+  {
+   "name": "バンケット棟4F 鼓（5室）",
+   "areaM2": null,
+   "ceilingM": 3.5,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": 50,
+   "banquet": 20,
+   "note": "面積は鼓1・2（分割可）181㎡、鼓3 158㎡、鼓5 69㎡、鼓6 53㎡、鼓7 38㎡。着席20・立食50は公式サイトの一覧値"
+  },
+  {
+   "name": "ホテル棟4F サツキルーム",
+   "areaM2": 70,
+   "ceilingM": 3.0,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": 16,
+   "note": null
+  },
+  {
+   "name": "ホテル棟4F チェスナットルーム",
+   "areaM2": 43,
+   "ceilingM": 3.0,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": 10,
+   "note": "会議室"
+  }
+ ],
+ "roomsSource": "https://hotel-chinzanso-tokyo.jp/banquet/hall/",
+ "ops": {
+  "loadingHours": {
+   "text": "大型の荷物の搬入はトラックでも可能。グランドホール椿には大型リフトがあり、自動車などの展示会もできる。",
+   "source": "https://hotel-chinzanso-tokyo.jp/contact/"
+  },
+  "parking": {
+   "text": "駐車場は300台、料金は30分500円（入庫から30分無料）。宴会・会議の参加者は8時間無料になる。ホテル棟のバレットパーキングもある（2026年10月1日から駐車場料金・サービス内容を改定との告知あり）。",
+   "source": "https://hotel-chinzanso-tokyo.jp/access/"
+  },
+  "waitingRooms": {
+   "text": "バンケット棟4Fの鼓（5室、38〜181㎡）は、他の宴会場を使うときの控室にも使える。ホテル棟4階とバンケット棟B1階に男性用・女性用の着替室がある。",
+   "source": "https://hotel-chinzanso-tokyo.jp/banquet/hall/tsuzumi/"
+  },
+  "catering": {
+   "text": "宴会場の料理はホテルが調理する（洋食、和食、薬膳を取り入れた中華に対応）。ホテルの料理を会場外へ届けるケータリングは通年の平日限定で受け付けている。",
+   "source": "https://hotel-chinzanso-tokyo.jp/offer/banquet/"
+  },
+  "restaurants": {
+   "text": "館内に料亭、和食、イタリアン、石焼料理、ラウンジなど全8店舗のレストランがある。庭園を一望できる個室で、会議後のディナーなどにも使えると案内している。",
+   "source": "https://hotel-chinzanso-tokyo.jp/banquet/mice/"
+  }
+ },
+ "documents": [
+  {
+   "title": "Banquets & Meetings 会場別収容人員数（2023年12月版）",
+   "url": "https://hotel-chinzanso-tokyo.jp/common/pdf/brochure/Banquets&Meetings_j.pdf"
+  },
+  {
+   "title": "ホテルパンフレット一覧",
+   "url": "https://hotel-chinzanso-tokyo.jp/brochure/"
+  },
+  {
+   "title": "ご宴会・会議 よくあるお問い合わせ",
+   "url": "https://hotel-chinzanso-tokyo.jp/contact/"
+  }
+ ],
+ "checkedAt": "2026-11-02",
+ "lat": 35.712711,
+ "lng": 139.726578,
+ "nearby": {
+  "convenience": [
+   {
+    "name": "セブン-イレブン 文京関口1丁目店",
+    "brand": "セブン-イレブン",
+    "distanceM": 322,
+    "walkMin": 5,
+    "hours": "24時間営業",
+    "address": "東京都文京区関口1-29-3",
+    "verified": true,
+    "source": "https://seven-eleven.areamarker.com/711map/info/360885",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "ローソン 文京音羽一丁目店",
+    "brand": "ローソン",
+    "distanceM": 345,
+    "walkMin": 5,
+    "hours": "24時間営業",
+    "address": "東京都文京区音羽1-20-2",
+    "verified": true,
+    "source": "https://www.areamarker.com/lawson/info/279597",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "ファミリーマート 江戸川橋駅西店",
+    "brand": "ファミリーマート",
+    "distanceM": 413,
+    "walkMin": 6,
+    "hours": "24時間営業",
+    "address": "東京都文京区関口1-44-10",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/19496",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "アクセア 早稲田店",
+    "brand": "アクセア",
+    "distanceM": 729,
+    "walkMin": 10,
+    "hours": "平日9:00〜20:00、土日祝10:00〜19:00",
+    "address": "東京都新宿区山吹町291-1",
+    "verified": true,
+    "source": "https://www.accea.co.jp/entry.html",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "DAISO ヨークフーズ早稲田店",
+    "brand": "ダイソー",
+    "distanceM": 844,
+    "walkMin": 11,
+    "hours": "10:00-22:00",
+    "address": "東京都新宿区早稲田町74-10 ヨークフーズ早稲田店3階",
+    "verified": true,
+    "source": "https://www.daiso-sangyo.co.jp/shop/detail/008604",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "DAISO 茗荷谷駅前店",
+    "brand": "ダイソー",
+    "distanceM": 985,
+    "walkMin": 13,
+    "hours": "9:30-21:30",
+    "address": "東京都文京区大塚1-4-15 アトラスタワー茗荷谷2階",
+    "verified": true,
+    "source": "https://www.daiso-sangyo.co.jp/shop/detail/003165",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "donki": [
+   {
+    "name": "ドン・キホーテ 新宿明治通り店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 1798,
+    "walkMin": 23,
+    "hours": "24時間営業",
+    "address": "東京都新宿区戸山3-16-6",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=378",
+    "note": "距離は住所の位置で計算。遠い。ドン・キホーテ公式サイトの店舗名は「新宿明治通り店」"
+   },
+   {
+    "name": "ドン・キホーテ 高田馬場駅前店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 1960,
+    "walkMin": 25,
+    "hours": "24時間営業",
+    "address": "東京都新宿区高田馬場1-26-5",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=276",
+    "note": "距離は住所の位置で計算。遠い。ドン・キホーテ公式サイトの店舗名は「高田馬場駅前店」"
+   }
+  ]
+ },
+ "drinkDelivery": {
+  "available": true
+ },
+ "photo": {
+  "src": "/images/venues/hotel-chinzanso-tokyo.jpg",
+  "credit": "© Zengame / CC BY 2.0 · Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Garden_and_Hotel_of_Chinzan-s%C5%8D_01_-_Apr_6%2C_2019.jpg"
+ }
+}

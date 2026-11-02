@@ -1,0 +1,73 @@
+{
+ "slug": "hotel-east21-tokyo",
+ "name": "Hotel East 21 Tokyo",
+ "address": "Tokyo 135-0016 6-3-3 Toyo, Koto-ku, Tokyo",
+ "accessSummary": "Toyocho Station (Tokyo Metro Tozai Line): 7 min walk",
+ "hours": null,
+ "notice": null,
+ "rooms": [
+  {
+   "name": "1F East 21 Hall",
+   "note": "Seated (banquet) setup requires consultation. Can be divided."
+  },
+  {
+   "name": "3F Eitai",
+   "note": "Can be divided."
+  },
+  {
+   "name": "3F Toyo",
+   "note": "Can be divided."
+  },
+  {
+   "name": "3F Botan",
+   "note": "Can be divided."
+  },
+  {
+   "name": "3F Kiyosumi",
+   "note": "Can be divided."
+  },
+  {
+   "name": "3F Toyosu",
+   "note": "Cannot be divided."
+  }
+ ],
+ "ops": {
+  "parking": "The hotel's basic information lists 111 parking spaces and 290 contracted parking spaces (including 5 large-bus spaces), both paid.",
+  "restaurants": "The in-house restaurants are Teppanyaki Kiba, Chinese Restaurant Toen, Brasserie Harmony (Western cuisine), Japanese Restaurant Sazanka, Cocktail Lounge Panorama and Bakery Shop Un."
+ },
+ "documents": [],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "FamilyMart Tokyo East 21",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the store's official location."
+   },
+   {
+    "name": "7-Eleven Koto Sengoku 1-chome",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the store's official location."
+   },
+   {
+    "name": "Natural Lawson Toyo 7-chome",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the store's official location."
+   }
+  ],
+  "copyshop": [],
+  "hundredYen": [
+   {
+    "name": "Seria Seiyu Toyocho",
+    "hours": "Daily 10:00-21:00",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "DAISO Toyocho Station",
+    "hours": "9:00-21:00",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "donki": []
+ },
+ "photoCredit": "© Akitsumaru / CC BY-SA 4.0 · Wikimedia Commons"
+}

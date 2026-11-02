@@ -1,0 +1,415 @@
+{
+ "slug": "hilton-tokyo-odaiba",
+ "nameJa": "ヒルトン東京お台場",
+ "nameEn": "Hilton Tokyo Odaiba",
+ "type": "hotel",
+ "area": "odaiba-ariake-venues",
+ "address": "〒135-8625 東京都港区台場1-9-1",
+ "officialUrl": "https://www.hiltonodaiba.jp/",
+ "organizerUrl": "https://www.hiltonodaiba.jp/mice/",
+ "bizintokyoSlug": "hilton-tokyo-odaiba",
+ "accessSummary": "ゆりかもめ「台場駅」直結／りんかい線「東京テレポート駅」徒歩約10分",
+ "notice": null,
+ "hours": null,
+ "rooms": [
+  {
+   "name": "1F 大宴会場 ペガサス 全体",
+   "areaM2": 1200,
+   "ceilingM": 8.0,
+   "theater": 1564,
+   "school": 1020,
+   "ushape": 174,
+   "standing": 1600,
+   "banquet": 720,
+   "note": "縦横47.2×23.4m。分割利用可。幅21.6×高さ4.05mの常設LEDスクリーンあり（2026年3月9日提供開始）。公式FAQ（/faq/mice）には「シアター1200名・スクール720名、着席600名・立食1000名まで」とあり、会場ページの表と数字が違う。口の字型 204席"
+  },
+  {
+   "name": "1F ペガサス 2/3",
+   "areaM2": 800,
+   "ceilingM": 8.0,
+   "theater": 1020,
+   "school": 660,
+   "ushape": 120,
+   "standing": 1000,
+   "banquet": 480,
+   "note": "縦横31.8×23.4m。口の字型 150席"
+  },
+  {
+   "name": "1F ペガサス 1/2",
+   "areaM2": 600,
+   "ceilingM": 8.0,
+   "theater": 748,
+   "school": 480,
+   "ushape": 96,
+   "standing": 800,
+   "banquet": 330,
+   "note": "縦横23.6×23.4m。口の字型 126席"
+  },
+  {
+   "name": "1F ペガサス 1/3",
+   "areaM2": 400,
+   "ceilingM": 8.0,
+   "theater": 462,
+   "school": 288,
+   "ushape": 78,
+   "standing": 480,
+   "banquet": 240,
+   "note": "縦横15.4×23.4m。口の字型 96席"
+  },
+  {
+   "name": "1F 中宴会場 オリオン 全体",
+   "areaM2": 500,
+   "ceilingM": 4.7,
+   "theater": 609,
+   "school": 378,
+   "ushape": 96,
+   "standing": 400,
+   "banquet": 320,
+   "note": "縦横30.7×15.6m。口の字型 114席"
+  },
+  {
+   "name": "1F オリオン 1/2",
+   "areaM2": 250,
+   "ceilingM": 4.7,
+   "theater": 294,
+   "school": 180,
+   "ushape": 51,
+   "standing": 200,
+   "banquet": 160,
+   "note": "縦横14.8×15.6m。口の字型 66席"
+  },
+  {
+   "name": "1F 中宴会場 アポロン 全体",
+   "areaM2": 400,
+   "ceilingM": 4.7,
+   "theater": 484,
+   "school": 288,
+   "ushape": 72,
+   "standing": 320,
+   "banquet": 240,
+   "note": "縦横24.1×15.5m。口の字型 90席"
+  },
+  {
+   "name": "1F アポロン 1/2",
+   "areaM2": 200,
+   "ceilingM": 4.7,
+   "theater": 224,
+   "school": 150,
+   "ushape": 45,
+   "standing": 160,
+   "banquet": 120,
+   "note": "縦横11.5×15.5m。口の字型 54席"
+  },
+  {
+   "name": "1F 中宴会場 シリウス 全体",
+   "areaM2": 250,
+   "ceilingM": 4.7,
+   "theater": 324,
+   "school": 195,
+   "ushape": 60,
+   "standing": 200,
+   "banquet": 150,
+   "note": "縦横19.0×13.1m。口の字型 72席"
+  },
+  {
+   "name": "1F シリウス 1/2",
+   "areaM2": 125,
+   "ceilingM": 4.7,
+   "theater": 154,
+   "school": 96,
+   "ushape": 33,
+   "standing": 100,
+   "banquet": 80,
+   "note": "縦横9.4×13.1m。口の字型 42席"
+  },
+  {
+   "name": "1F 中宴会場 ジュピター",
+   "areaM2": 150,
+   "ceilingM": 4.7,
+   "theater": 168,
+   "school": 108,
+   "ushape": 39,
+   "standing": 120,
+   "banquet": 90,
+   "note": "縦横14.4×11.2m。口の字型 48席"
+  },
+  {
+   "name": "3F サンライズテラス",
+   "areaM2": 150,
+   "ceilingM": 3.3,
+   "theater": 150,
+   "school": 96,
+   "ushape": 36,
+   "standing": 85,
+   "banquet": 80,
+   "note": "縦横16.3×8.9m。テラス付き。口の字型 42席"
+  },
+  {
+   "name": "3F レインボーテラス",
+   "areaM2": 170,
+   "ceilingM": 3.3,
+   "theater": 165,
+   "school": 105,
+   "ushape": 42,
+   "standing": 100,
+   "banquet": 90,
+   "note": "縦横17.1×7.6m。テラス付き。口の字型 48席"
+  },
+  {
+   "name": "3F サンセットテラス",
+   "areaM2": 50,
+   "ceilingM": 3.3,
+   "theater": 70,
+   "school": 30,
+   "ushape": 18,
+   "standing": 40,
+   "banquet": 40,
+   "note": "縦横8.9×6.7m。テラス付き。口の字型 24席"
+  },
+  {
+   "name": "3F ルミナス",
+   "areaM2": 248,
+   "ceilingM": 3.1,
+   "theater": 124,
+   "school": 124,
+   "ushape": 69,
+   "standing": 124,
+   "banquet": 124,
+   "note": "縦横9.3×26.8m。口の字型 78席"
+  },
+  {
+   "name": "3F ルミナス パール スイート",
+   "areaM2": 38,
+   "ceilingM": 3.1,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "縦横4.8×8.2m"
+  },
+  {
+   "name": "3F ルミナス アクア スイート",
+   "areaM2": 24,
+   "ceilingM": 3.1,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "縦横4.6×5.1m"
+  },
+  {
+   "name": "3F プライベートボードルーム オーキッドルーム",
+   "areaM2": 90,
+   "ceilingM": 3.3,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": 30,
+   "banquet": 16,
+   "note": "縦横12.6×5.3m。テラス付き、室内に化粧室あり。口の字型 16席"
+  },
+  {
+   "name": "3F プライベートボードルーム ローズルーム",
+   "areaM2": 90,
+   "ceilingM": 3.3,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": 30,
+   "banquet": 20,
+   "note": "縦横13.0×5.3m。テラス付き、室内に化粧室あり。口の字型 20席"
+  },
+  {
+   "name": "3F プライベートボードルーム アイリスルーム",
+   "areaM2": 60,
+   "ceilingM": 3.3,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": 20,
+   "banquet": 14,
+   "note": "縦横8.7×5.3m。テラス付き、室内に化粧室あり。口の字型 14席"
+  },
+  {
+   "name": "1F 小宴会場 藤",
+   "areaM2": 40,
+   "ceilingM": 3.2,
+   "theater": 36,
+   "school": 12,
+   "ushape": 15,
+   "standing": null,
+   "banquet": null,
+   "note": "縦横8.0×4.7m。口の字型 18席"
+  },
+  {
+   "name": "1F 小宴会場 蘭・萩（各）",
+   "areaM2": 40,
+   "ceilingM": 3.2,
+   "theater": 35,
+   "school": 9,
+   "ushape": 9,
+   "standing": null,
+   "banquet": null,
+   "note": "縦横8.0×4.7m。口の字型 12席"
+  },
+  {
+   "name": "1F 小宴会場 桃・菫・椿・梅（各）",
+   "areaM2": 35,
+   "ceilingM": 3.2,
+   "theater": 35,
+   "school": 12,
+   "ushape": 15,
+   "standing": null,
+   "banquet": null,
+   "note": "縦横8.5×4.2m。口の字型 18席"
+  },
+  {
+   "name": "1F 小宴会場 菊",
+   "areaM2": 35,
+   "ceilingM": 3.2,
+   "theater": 30,
+   "school": 9,
+   "ushape": 9,
+   "standing": null,
+   "banquet": null,
+   "note": "縦横5.1×5.7m。口の字型 12席"
+  }
+ ],
+ "roomsSource": "https://www.hiltonodaiba.jp/mice/large、https://www.hiltonodaiba.jp/mice/medium、https://www.hiltonodaiba.jp/mice/ocean_view、https://www.hiltonodaiba.jp/mice/private、https://www.hiltonodaiba.jp/mice/small",
+ "ops": {
+  "parking": {
+   "text": "ホテル地下に187台分の駐車場がある（車高2.1mまで）。宴会・婚礼の出席者の駐車は公式の案内では「お問い合わせください」。超過料金は30分ごとに550円。防犯上、23:30〜翌6:30は駐車場の出口が閉鎖され、この時間の出庫はフロントへ声をかけるか出口の呼び出しボタンを使う。宿泊は1泊（24時間まで）2,000円。",
+   "source": "https://www.hiltonodaiba.jp/access/"
+  },
+  "catering": {
+   "text": "お持ち込みの食品・飲料は、食品衛生管理上、加熱調理や電子レンジでの温め、カットやお皿への盛り付けなどの加工・提供をしないよう公式に案内されている。宴会プランは料理とフリーフローのドリンクつきで、HILTON PARTY PLAN（2026年10月1日〜2027年6月30日）はビュッフェ1人15,000円・コース1人17,000円、2時間制、200名まで、ペガサスは利用不可（税込、サービス料込み）。",
+   "source": "https://www.hiltonodaiba.jp/mice/"
+  },
+  "restaurants": {
+   "text": "館内のレストランは、シースケープ テラス・ダイニング、LE CHOU CHOU（スイーツ＆デリ）、日本料理・鉄板焼・寿司・天ぷらの「さくら」、キャプテンズ バー＆ラウンジ、グリロジー バー＆グリル、中國料理「跳龍門」、ルームサービス。会社のイベント・懇親会向けに HILTON PARTY PLAN と ODAIBA PARTY PLAN WINTER 2026（忘年会・新年会向け）が案内されている。",
+   "source": "https://www.hiltonodaiba.jp/plans/mice/7453"
+  },
+  "waitingRooms": {
+   "text": "小宴会場（1Fの藤・蘭・萩・桃・菫・椿・梅・菊、35〜40㎡）は、大・中宴会場に近く、分科会会場や控室に適していると公式に案内されている。外光の差し込む部屋はVIP用の控室としても使える。",
+   "source": "https://www.hiltonodaiba.jp/mice/small"
+  }
+ },
+ "documents": [
+  {
+   "title": "フロアプラン 中宴会場",
+   "url": "https://www.hiltonodaiba.jp/img_up/micefiles/フロアプラン「中宴会場」.pdf"
+  },
+  {
+   "title": "フロアプラン 海の見える宴会場",
+   "url": "https://www.hiltonodaiba.jp/img_up/micefiles/フロアプラン「海の見える宴会場」.pdf"
+  },
+  {
+   "title": "フロアプラン ルミナス",
+   "url": "https://www.hiltonodaiba.jp/img_up/micefiles/フロアプラン「ルミナス」.pdf"
+  },
+  {
+   "title": "フロアプラン プライベートボードルーム",
+   "url": "https://www.hiltonodaiba.jp/img_up/micefiles/フロアプラン「プライベートボードルーム」(4).pdf"
+  },
+  {
+   "title": "大宴会場ペガサス 設備図面（2025）",
+   "url": "https://www.hiltonodaiba.jp/img_up/micefiles/ヒルトン東京お台場大宴会場ペガサス設備図面2025_1.pdf"
+  },
+  {
+   "title": "ペガサス 図面",
+   "url": "https://www.hiltonodaiba.jp/img_up/micefiles/pegasus(1).pdf"
+  },
+  {
+   "title": "ファクトシート（2022年12月版）",
+   "url": "https://www.hiltonodaiba.jp/pdf/mice/TYOTO_Factsheet_JP_2022Dec.pdf"
+  }
+ ],
+ "checkedAt": "2026-11-02",
+ "lat": 35.626198,
+ "lng": 139.770645,
+ "nearby": {
+  "convenience": [
+   {
+    "name": "セブン-イレブン 台場駅前店",
+    "brand": "セブン-イレブン",
+    "distanceM": 126,
+    "walkMin": 2,
+    "hours": "24時間営業",
+    "address": "東京都港区台場2-6-1",
+    "verified": true,
+    "source": "https://seven-eleven.areamarker.com/711map/info/560615",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "ローソン アクアシティお台場店",
+    "brand": "ローソン",
+    "distanceM": 334,
+    "walkMin": 5,
+    "hours": "24時間営業",
+    "address": "東京都港区台場1-7-1",
+    "verified": true,
+    "source": "https://www.areamarker.com/lawson/info/198953",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "ファミリーマート お台場東京ビーチ店",
+    "brand": "ファミリーマート",
+    "distanceM": 502,
+    "walkMin": 7,
+    "hours": "24時間営業",
+    "address": "東京都港区台場1丁目6番1号デックス東京ビ-チ",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/26503",
+    "note": "距離は公式の店舗位置で計算"
+   }
+  ],
+  "copyshop": [],
+  "hundredYen": [
+   {
+    "name": "Seria アクアシティお台場店",
+    "brand": "セリア",
+    "distanceM": 333,
+    "walkMin": 5,
+    "hours": "月 11:00-20:00／火 11:00-21:00／水〜金 11:00-20:00／土〜日 11:00-21:00",
+    "address": "東京都港区台場1-7-1アクアシティお台場 4F",
+    "verified": true,
+    "source": "https://shop.seria-group.com/seria/info/000003057",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "DAISO デックス東京ビーチ店",
+    "brand": "ダイソー",
+    "distanceM": 576,
+    "walkMin": 8,
+    "hours": "11:00-20:00",
+    "address": "東京都港区台場一丁目6番1号デックス東京ビーチアイランドモール4階",
+    "verified": true,
+    "source": "https://www.daiso-sangyo.co.jp/shop/detail/002639",
+    "note": "距離は公式の店舗位置で計算"
+   }
+  ],
+  "donki": [
+   {
+    "name": "キラキラドンキ ダイバーシティ東京 プラザ店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 334,
+    "walkMin": 5,
+    "hours": "10:00-21:00",
+    "address": "東京都江東区青海1-1-10 ダイバーシティ東京 プラザ 2階",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=655",
+    "note": "距離は住所の位置で計算。ドン・キホーテの別業態（公式サイトの店舗名は「キラキラドンキ ダイバーシティ東京 プラザ店」）"
+   }
+  ]
+ },
+ "drinkDelivery": {
+  "available": true
+ },
+ "photo": {
+  "src": "/images/venues/hilton-tokyo-odaiba.jpg",
+  "credit": "© Syced / CC0 · Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hilton_Tokyo_Odaiba_2.jpg"
+ }
+}

@@ -1,0 +1,131 @@
+{
+ "slug": "hotel-cadenza-tokyo",
+ "name": "Hotel Cadenza Tokyo",
+ "address": "Tokyo 179-0075 5-8-20 Takamatsu, Nerima-ku",
+ "accessSummary": "Hikarigaoka Station (Oedo Line) Exit A5: about 5 min by hotel shuttle bus / about 15 min on foot / Nerima-Takanodai Station (Seibu Ikebukuro Line) North Exit: about 5 min by hotel shuttle bus / Narimasu Station: about 15 min by hotel shuttle bus (the Narimasu service runs on weekdays only)",
+ "hours": "Meeting rates apply to 9:00-17:00 (in 2-hour units)",
+ "notice": null,
+ "rooms": [
+  {
+   "name": "B2F Grand Ballroom La Rose - Entire Room",
+   "note": "General dinner and wedding banquet both 260. Can be divided into 3."
+  },
+  {
+   "name": "B2F La Rose Split in Two (I or II)",
+   "note": "General dinner and wedding banquet both 110. 2 rooms available."
+  },
+  {
+   "name": "B2F La Rose Split in Three (A, B and C, each)",
+   "note": "General dinner 60; no wedding banquet setting. 3 rooms available."
+  },
+  {
+   "name": "2F Medium Banquet Hall Azalea - Entire Room",
+   "note": "General dinner and wedding banquet both 120. Can be divided into 2."
+  },
+  {
+   "name": "2F Azalea Split in Two (A or B)",
+   "note": "General dinner and wedding banquet both 50. Theater is 100 on the banquet hall page and 110 on the price list."
+  },
+  {
+   "name": "22F (Office Building) Sky Banquet Rainbow",
+   "note": "General dinner and wedding banquet both 96."
+  },
+  {
+   "name": "B2F Small Banquet Hall Margaret",
+   "note": null
+  },
+  {
+   "name": "B2F Small Banquet Hall Cattleya",
+   "note": null
+  },
+  {
+   "name": "2F Small Banquet Hall Cosmos",
+   "note": null
+  },
+  {
+   "name": "2F Small Banquet Hall Gerbera",
+   "note": null
+  },
+  {
+   "name": "2F Small Banquet Hall Freesia",
+   "note": null
+  },
+  {
+   "name": "2F Small Banquet Hall Lavender",
+   "note": null
+  },
+  {
+   "name": "2F Small Banquet Hall Cyclamen",
+   "note": null
+  },
+  {
+   "name": "2F Special Room Tengen (Western-style room)",
+   "note": "General dinner 8. A Japanese-style room (28㎡) is also available."
+  },
+  {
+   "name": "1F J.CITY Hall",
+   "note": "Listed only in the price table of the banquet hall list."
+  },
+  {
+   "name": "1F Party Room",
+   "note": "General dinner and wedding banquet both 20. Listed only in the price table of the banquet hall list."
+  }
+ ],
+ "ops": {
+  "parking": "Underground parking for 80 cars. Basic fee 300 yen for the first hour, then 150 yen per 30 minutes. Entry 7:00 to 26:00, exit 24 hours. Vehicle height up to 2.4 m (for large vehicles of 2.4 m or more, please inquire). Banquet guests can get a parking service ticket for free parking within 4 or 8 hours.",
+  "waitingRooms": "The small banquet halls (7 rooms of 53 to 83㎡) are described as usable for small meals, meetings and waiting rooms. The special room Tengen has a 28㎡ Western-style room and a 28㎡ Japanese-style room, listed on the price list.",
+  "catering": "Bringing food or drink into the banquet halls is prohibited. The hotel's plated dishes are available from 20 people and standing or seated buffets from 25 people; the party plan is from 20 people (2-hour all-you-can-drink, room fee included, from 8,500 yen; service charge and tax included). (Banquet Hall Terms of Use, February 2024 edition)",
+  "restaurants": "The hotel has Buffet & Dining LUMIÈRE, Musashino Japanese Restaurant and Chinese Cuisine Hakurakuten. All three have private rooms, and each offers group plans."
+ },
+ "documents": [
+  {
+   "title": "Banquet Hall Price List"
+  },
+  {
+   "title": "Banquet Hall Terms of Use (February 2024 edition)"
+  },
+  {
+   "title": "Internet Connection Speed (November 2023)"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "7-Eleven Nerima Takamatsu 6-chome",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "FamilyMart Nerima Takamatsu 5-chome",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Lawson LTF Nerima Yahara",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "copyshop": [],
+  "hundredYen": [
+   {
+    "name": "DAISO Hikarigaoka IMA",
+    "hours": "9:30-20:00",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "DAISO Nerima Tokishida",
+    "hours": "9:30-21:00",
+    "note": "Distance is calculated from the address location. Rather far."
+   }
+  ],
+  "donki": [
+   {
+    "name": "Don Quijote Oizumi",
+    "hours": "9:00-23:00",
+    "note": "Distance is calculated from the address location. Far. The store name on the Don Quijote official website is \"Oizumi\"."
+   }
+  ]
+ },
+ "photoCredit": "Image of Exit A5 of Hikarigaoka Station (Toei Oedo Line), the nearest station, not the venue building. © LERK / CC BY-SA 4.0 · Wikimedia Commons"
+}

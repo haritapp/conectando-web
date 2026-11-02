@@ -1,0 +1,203 @@
+{
+ "slug": "hotel-chinzanso-tokyo",
+ "name": "Hotel Chinzanso Tokyo",
+ "address": "Tokyo 112-8680 2-10-8 Sekiguchi, Bunkyo-ku",
+ "accessSummary": "Edogawabashi Station (Tokyo Metro Yurakucho Line) Exit 1a: about 10 min walk / Waseda Station (Tokyo Metro Tozai Line) Exit 3a: about 20 min walk / Waseda Station (Toden Arakawa Line): about 14 min walk",
+ "hours": null,
+ "notice": null,
+ "rooms": [
+  {
+   "name": "Banquet Bldg. 5F - Grand Hall TSUBAKI",
+   "note": "Permanent stage 18 m x 6 m. The hall can be divided in half and used as a medium-sized banquet hall. A large lift allows exhibitions such as automobiles. Separate lobby of about 400㎡."
+  },
+  {
+   "name": "Banquet Bldg. 5F - Grand Hall TSUBAKI 1 (divided)",
+   "note": "Figures from the December 2023 edition brochure."
+  },
+  {
+   "name": "Banquet Bldg. 5F - Grand Hall TSUBAKI 2 (divided)",
+   "note": "Figures from the December 2023 edition brochure."
+  },
+  {
+   "name": "Hotel Bldg. 1F - Ballroom",
+   "note": "Area includes the 379㎡ foyer. Ceiling height of the foyer is 3.0 m."
+  },
+  {
+   "name": "Banquet Bldg. 4F - MIYABI",
+   "note": "Area includes the 156㎡ foyer."
+  },
+  {
+   "name": "Banquet Bldg. 1F - KOCHO",
+   "note": "Area includes the 220㎡ foyer. Private garden of 252㎡."
+  },
+  {
+   "name": "Banquet Bldg. 3F - FORESTA",
+   "note": "Opened in October 2026. Seated capacity is 80 to 150. Area includes the 97.8㎡ foyer."
+  },
+  {
+   "name": "Banquet Bldg. 4F - HIBIKI",
+   "note": null
+  },
+  {
+   "name": "Banquet Bldg. 4F - KOTO",
+   "note": null
+  },
+  {
+   "name": "Banquet Bldg. 3F - Camellia",
+   "note": "Seated capacity is 77 on the official website and 96 in the December 2023 edition brochure."
+  },
+  {
+   "name": "Hotel Bldg. 4F - Amphitheater",
+   "note": "Tiered seating. Simultaneous interpretation booth and a microphone at every seat for questions."
+  },
+  {
+   "name": "Banquet Bldg. 8F-11F - FUJI, AKEBONO, SEIFU, MATSUKAZE (each)",
+   "note": "Each of the 4 rooms takes up a whole floor (8F to 11F)."
+  },
+  {
+   "name": "Banquet Bldg. 6F & 7F - HARUHI, AOBA (each)",
+   "note": "Each takes up a whole floor, with an open kitchen."
+  },
+  {
+   "name": "Hotel Bldg. 1F - Wisteria Room",
+   "note": null
+  },
+  {
+   "name": "Hotel Bldg. 4F - Hickory Room",
+   "note": "Can be divided in two."
+  },
+  {
+   "name": "Banquet Bldg. 5F - KOMOREBI",
+   "note": null
+  },
+  {
+   "name": "Banquet Bldg. 1F - ZUIKO",
+   "note": null
+  },
+  {
+   "name": "Hotel Bldg. 4F - Ginkgo Room",
+   "note": null
+  },
+  {
+   "name": "Hotel Bldg. 1F - Maple Room",
+   "note": "Can be divided in two. Private terrace of 147㎡."
+  },
+  {
+   "name": "Banquet Bldg. 1F - RURI",
+   "note": "Private garden of 126㎡."
+  },
+  {
+   "name": "Banquet Bldg. 4F - MAI",
+   "note": null
+  },
+  {
+   "name": "Hotel Bldg. 2F - Bamboo Room",
+   "note": "Can be divided in two."
+  },
+  {
+   "name": "Hotel Bldg. 2F - Poplar Room",
+   "note": null
+  },
+  {
+   "name": "Hotel Bldg. 4F - Mahogany Room",
+   "note": null
+  },
+  {
+   "name": "Hotel Bldg. 4F - Oak Room (3 rooms)",
+   "note": null
+  },
+  {
+   "name": "Hotel Bldg. 4F - Pine Room",
+   "note": null
+  },
+  {
+   "name": "Hotel Bldg. 5F - Chef's Table",
+   "note": null
+  },
+  {
+   "name": "Hotel Bldg. 4F - Magnolia Room",
+   "note": null
+  },
+  {
+   "name": "Banquet Bldg. 4F - TSUZUMI (5 rooms)",
+   "note": "Areas: TSUZUMI 1 and 2 (can be divided) 181㎡, TSUZUMI 3 158㎡, TSUZUMI 5 69㎡, TSUZUMI 6 53㎡, TSUZUMI 7 38㎡. The seated 20 and standing 50 are the figures in the official list."
+  },
+  {
+   "name": "Hotel Bldg. 4F - Satsuki Room",
+   "note": null
+  },
+  {
+   "name": "Hotel Bldg. 4F - Chestnut Room",
+   "note": "Meeting room."
+  }
+ ],
+ "ops": {
+  "loadingHours": "Large items can also be loaded in by truck. Grand Hall TSUBAKI has a large lift, so exhibitions of items such as automobiles are also possible.",
+  "parking": "The car park has 300 spaces. The fee is 500 yen per 30 minutes (the first 30 minutes from entry are free). Banquet and meeting attendees get 8 hours free. Valet parking is also available at the Hotel Building (a notice says the car park fees and services will be revised from October 1, 2026).",
+  "waitingRooms": "TSUZUMI on the 4F of the Banquet Building (5 rooms, 38 to 181㎡) can also be used as waiting rooms when other banquet halls are in use. There are men's and women's changing rooms on the 4F of the Hotel Building and the B1F of the Banquet Building.",
+  "catering": "Banquet food is prepared by the hotel (Western, Japanese, and Chinese cuisine featuring medicinal recipes are available). Catering that delivers the hotel's food outside the venue is accepted year-round on weekdays only.",
+  "restaurants": "The hotel has 8 restaurants in total, including a ryotei, Japanese cuisine, Italian, stone-grilled cuisine, and a lounge. The hotel says its private rooms with a view of the garden can also be used for dinners after meetings and similar occasions."
+ },
+ "documents": [
+  {
+   "title": "Banquets & Meetings Capacity by Venue (December 2023 edition)"
+  },
+  {
+   "title": "Hotel Brochures"
+  },
+  {
+   "title": "Banquets & Meetings FAQ"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "7-Eleven Bunkyo Sekiguchi 1-chome",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Lawson Bunkyo Otowa 1-chome",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "FamilyMart Edogawabashi Eki Nishi",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "Accea Waseda",
+    "hours": "Weekdays 9:00-20:00 / Sat, Sun & holidays 10:00-19:00",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "DAISO York Foods Waseda",
+    "hours": "10:00-22:00",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "DAISO Myogadani Ekimae",
+    "hours": "9:30-21:30",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "donki": [
+   {
+    "name": "Don Quijote Shinjuku Meiji-dori",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. Far. The store name on the Don Quijote official website is \"Shinjuku Meiji-dori\"."
+   },
+   {
+    "name": "Don Quijote Takadanobaba Ekimae",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. Far. The store name on the Don Quijote official website is \"Takadanobaba Ekimae\"."
+   }
+  ]
+ },
+ "photoCredit": "© Zengame / CC BY 2.0 · Wikimedia Commons"
+}

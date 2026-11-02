@@ -1,0 +1,363 @@
+{
+ "slug": "hyatt-regency-tokyo",
+ "nameJa": "ハイアット リージェンシー 東京",
+ "nameEn": "Hyatt Regency Tokyo",
+ "type": "hotel",
+ "area": "shinjuku-venues",
+ "address": "〒160-0023 東京都新宿区西新宿2-7-2",
+ "officialUrl": "https://hyattregencytokyo.com/",
+ "organizerUrl": "https://hyattregencytokyo.com/meeting_events/",
+ "bizintokyoSlug": "hyatt_regency_tokyo",
+ "accessSummary": "都営大江戸線 都庁前駅 A7出口 徒歩約1分／東京メトロ丸ノ内線 西新宿駅 徒歩約4分／JR新宿駅 西口 徒歩約9分",
+ "notice": null,
+ "hours": null,
+ "rooms": [
+  {
+   "name": "センチュリールーム",
+   "areaM2": 790,
+   "ceilingM": 5.2,
+   "theater": 1000,
+   "school": 550,
+   "ushape": null,
+   "standing": 700,
+   "banquet": 500,
+   "note": "図面上はA・Bの2室に分割できる。ステージ（はね上げ式）あり。全体の数字。クリスタルルームと連結して最大1,000名（hyatt.com の宴会ページ）"
+  },
+  {
+   "name": "桃山",
+   "areaM2": 476,
+   "ceilingM": 3.0,
+   "theater": 700,
+   "school": 300,
+   "ushape": null,
+   "standing": 350,
+   "banquet": 300,
+   "note": "図面上はA・Bの2室に分割できる"
+  },
+  {
+   "name": "クリスタルルーム",
+   "areaM2": 364,
+   "ceilingM": 3.2,
+   "theater": 450,
+   "school": 240,
+   "ushape": null,
+   "standing": 300,
+   "banquet": 220,
+   "note": null
+  },
+  {
+   "name": "平安",
+   "areaM2": 238,
+   "ceilingM": 3.0,
+   "theater": 300,
+   "school": 150,
+   "ushape": null,
+   "standing": 150,
+   "banquet": 140,
+   "note": null
+  },
+  {
+   "name": "天平",
+   "areaM2": 218,
+   "ceilingM": 3.0,
+   "theater": 270,
+   "school": 130,
+   "ushape": null,
+   "standing": 140,
+   "banquet": 120,
+   "note": "図面上はA・Bの2室に分割できる"
+  },
+  {
+   "name": "白鳳",
+   "areaM2": 202,
+   "ceilingM": 3.0,
+   "theater": 240,
+   "school": 120,
+   "ushape": null,
+   "standing": 130,
+   "banquet": 120,
+   "note": null
+  },
+  {
+   "name": "エクセレンス",
+   "areaM2": 246,
+   "ceilingM": "3.0-3.3",
+   "theater": 120,
+   "school": 120,
+   "ushape": null,
+   "standing": 150,
+   "banquet": 140,
+   "note": "ホワイエ・クロークが隣接"
+  },
+  {
+   "name": "スカイルーム",
+   "areaM2": 244,
+   "ceilingM": "2.7-8.0",
+   "theater": 220,
+   "school": 120,
+   "ushape": null,
+   "standing": 150,
+   "banquet": 140,
+   "note": "ホワイエ・クロークが隣接。天井高は図面で2.7〜8.0m、同じ頁の見出しで2.7〜3.0m"
+  },
+  {
+   "name": "飛鳥",
+   "areaM2": 140,
+   "ceilingM": 3.0,
+   "theater": 160,
+   "school": 70,
+   "ushape": null,
+   "standing": 90,
+   "banquet": 80,
+   "note": null
+  },
+  {
+   "name": "宮城野",
+   "areaM2": 110,
+   "ceilingM": 2.7,
+   "theater": 130,
+   "school": 65,
+   "ushape": null,
+   "standing": 70,
+   "banquet": 50,
+   "note": null
+  },
+  {
+   "name": "スプレンダー",
+   "areaM2": 96,
+   "ceilingM": 3.0,
+   "theater": 100,
+   "school": 60,
+   "ushape": null,
+   "standing": 60,
+   "banquet": 48,
+   "note": null
+  },
+  {
+   "name": "弥生",
+   "areaM2": 76,
+   "ceilingM": 3.0,
+   "theater": 90,
+   "school": 45,
+   "ushape": null,
+   "standing": 50,
+   "banquet": 40,
+   "note": "弥生・東山・吉野は同じ面積・収容人数の表記（3室とも）"
+  },
+  {
+   "name": "東山",
+   "areaM2": 76,
+   "ceilingM": 3.0,
+   "theater": 90,
+   "school": 45,
+   "ushape": null,
+   "standing": 50,
+   "banquet": 40,
+   "note": "弥生・東山・吉野は同じ面積・収容人数の表記（3室とも）"
+  },
+  {
+   "name": "吉野",
+   "areaM2": 76,
+   "ceilingM": 3.0,
+   "theater": 90,
+   "school": 45,
+   "ushape": null,
+   "standing": 50,
+   "banquet": 40,
+   "note": "弥生・東山・吉野は同じ面積・収容人数の表記（3室とも）"
+  },
+  {
+   "name": "アプローズ",
+   "areaM2": 55,
+   "ceilingM": 3.0,
+   "theater": 36,
+   "school": 24,
+   "ushape": null,
+   "standing": 35,
+   "banquet": 18,
+   "note": null
+  },
+  {
+   "name": "足柄",
+   "areaM2": 46,
+   "ceilingM": 2.7,
+   "theater": 56,
+   "school": 24,
+   "ushape": null,
+   "standing": 30,
+   "banquet": 20,
+   "note": "足柄・仙石・明星は同じ面積・収容人数の表記（3室とも）"
+  },
+  {
+   "name": "仙石",
+   "areaM2": 46,
+   "ceilingM": 2.7,
+   "theater": 56,
+   "school": 24,
+   "ushape": null,
+   "standing": 30,
+   "banquet": 20,
+   "note": "足柄・仙石・明星は同じ面積・収容人数の表記（3室とも）"
+  },
+  {
+   "name": "明星",
+   "areaM2": 46,
+   "ceilingM": 2.7,
+   "theater": 56,
+   "school": 24,
+   "ushape": null,
+   "standing": 30,
+   "banquet": 20,
+   "note": "足柄・仙石・明星は同じ面積・収容人数の表記（3室とも）"
+  }
+ ],
+ "roomsSource": "https://hyattregencytokyo.com/hyatt_wp/wp-content/uploads/2026/07/Medium-sized-Banquet-Room-Floor-Map_%E4%B8%AD%E5%AE%B4%E4%BC%9A%E5%A0%B4%E3%81%AE%E5%B9%B3%E9%9D%A2%E5%9B%B3%E3%83%AA%E3%82%B9%E3%83%88.pdf",
+ "ops": {
+  "parking": {
+   "text": "駐車場はB1F〜B3Fで415台。車高制限は正面入口側2.1m、セントラルパーク側2.6m。バイク（オートバイ・原付）は駐車できない。料金は400円/30分で、宴会を利用する客は3時間30分まで無料。車いす対応の駐車スペースがB3Fにある。",
+   "source": "https://hyattregencytokyo.com/access/"
+  },
+  "restaurants": {
+   "text": "ホテル内にCrossroads Kitchen、Nineteen Eighty Lounge & Bar、Jade Garden（翡翠宮）、Eau de Vie、Shinjuku Nadamanがある（公式サイトのレストラン＆バーのページ）。",
+   "source": "https://hyattregencytokyo.com/access/"
+  }
+ },
+ "documents": [
+  {
+   "title": "宴会場フロアマップ 全体図（2026年5月）",
+   "url": "https://hyattregencytokyo.com/hyatt_wp/wp-content/uploads/2026/05/Hyatt-Regency-Tokyo-Overall-Floor-Plan.pdf"
+  },
+  {
+   "title": "大規模 宴会場のフロアマップ（2026年7月）",
+   "url": "https://hyattregencytokyo.com/hyatt_wp/wp-content/uploads/2026/07/Large-sized-Banquet-Room-Floor-Map-List_%E5%A4%A7%E5%AE%B4%E4%BC%9A%E5%A0%B4%E3%81%AE%E5%B9%B3%E9%9D%A2%E5%9B%B3%E3%83%AA%E3%82%B9%E3%83%88.pdf"
+  },
+  {
+   "title": "中規模 宴会場のフロアマップ（2026年7月）",
+   "url": "https://hyattregencytokyo.com/hyatt_wp/wp-content/uploads/2026/07/Medium-sized-Banquet-Room-Floor-Map_%E4%B8%AD%E5%AE%B4%E4%BC%9A%E5%A0%B4%E3%81%AE%E5%B9%B3%E9%9D%A2%E5%9B%B3%E3%83%AA%E3%82%B9%E3%83%88.pdf"
+  },
+  {
+   "title": "小規模 宴会場のフロアマップ（2026年3月）",
+   "url": "https://hyattregencytokyo.com/hyatt_wp/wp-content/uploads/2026/03/Small_sized_Banquet_Rooms.pdf"
+  }
+ ],
+ "checkedAt": "2026-11-02",
+ "lat": 35.691254,
+ "lng": 139.691376,
+ "nearby": {
+  "convenience": [
+   {
+    "name": "ファミリーマート 新宿第一生命ビルディング店",
+    "brand": "ファミリーマート",
+    "distanceM": 58,
+    "walkMin": 1,
+    "hours": "7:00-23:00",
+    "address": "東京都新宿区西新宿2-7-1",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/21681",
+    "note": "距離は公式の店舗位置で計算。住所の街区がホテルと同じで距離が0mになるため"
+   },
+   {
+    "name": "ファミリーマート 新宿三井ビル店",
+    "brand": "ファミリーマート",
+    "distanceM": 235,
+    "walkMin": 3,
+    "hours": "7:00-23:00",
+    "address": "東京都新宿区西新宿2-1-1 新宿三井ビル",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/16883",
+    "note": "距離は住所の位置で計算。公式の店舗名は「ファミマ新宿三井ビル店」"
+   },
+   {
+    "name": "ファミリーマート 新宿アイランドタワー店",
+    "brand": "ファミリーマート",
+    "distanceM": 261,
+    "walkMin": 4,
+    "hours": "7:00-23:00",
+    "address": "東京都新宿区西新宿6-5-1 新宿アイランドタワー",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/24517",
+    "note": "距離は住所の位置で計算。公式の店舗名は「ファミマ新宿アイランドタワー店」"
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "キンコーズ・西新宿店",
+    "brand": "キンコーズ",
+    "distanceM": 401,
+    "walkMin": 6,
+    "hours": "平日 8:00-20:00／土 10:00-20:00／日祝 10:00-20:00",
+    "address": "東京都新宿区西新宿8-1-1 アゼリアビル1F",
+    "verified": true,
+    "source": "https://www.kinkos.co.jp/store/tokyo/t008/",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "アクセア 西新宿店",
+    "brand": "アクセア",
+    "distanceM": 528,
+    "walkMin": 7,
+    "hours": "24時間営業",
+    "address": "東京都新宿区西新宿7-12-3 西新宿佐藤ビル1F～4F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/entry.html",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Can★Do 西新宿店",
+    "brand": "キャンドゥ",
+    "distanceM": 434,
+    "walkMin": 6,
+    "hours": "毎日 9:00〜22:00",
+    "address": "東京都新宿区西新宿7-21-1",
+    "verified": true,
+    "source": "https://shopinfo.cando-web.co.jp/detail/shop-5068/",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "Can★Do 薬ヒグチ新宿パークタワー店",
+    "brand": "キャンドゥ",
+    "distanceM": 511,
+    "walkMin": 7,
+    "hours": "月〜金 9:00〜20:00／土・日 10:00〜19:30／祝 10:00〜19:30",
+    "address": "東京都新宿区西新宿3-7-1 新宿パークタワービル 地下1階 薬ヒグチ新宿パークタワー店内",
+    "verified": true,
+    "source": "https://shopinfo.cando-web.co.jp/detail/shop-2677/",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "donki": [
+   {
+    "name": "ドン・キホーテ 新宿歌舞伎町店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 969,
+    "walkMin": 13,
+    "hours": "24時間営業",
+    "address": "東京都新宿区歌舞伎町1-16-5",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=29",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "ドン・キホーテ 新宿東南口店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 978,
+    "walkMin": 13,
+    "hours": "24時間営業",
+    "address": "東京都新宿区新宿3-36-16",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=449",
+    "note": "距離は住所の位置で計算"
+   }
+  ]
+ },
+ "drinkDelivery": {
+  "available": true
+ },
+ "photo": {
+  "src": "/images/venues/hyatt-regency-tokyo.jpg",
+  "credit": "© Rs1421 / CC BY-SA 3.0 · Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hyatt-Regency-Tokyo-01.jpg"
+ }
+}

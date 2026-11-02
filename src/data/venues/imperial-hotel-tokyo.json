@@ -1,0 +1,504 @@
+{
+ "slug": "imperial-hotel-tokyo",
+ "nameJa": "帝国ホテル 東京",
+ "nameEn": "Imperial Hotel, Tokyo",
+ "type": "hotel",
+ "area": "yurakucho-ginza-venues",
+ "address": "〒100-8558 東京都千代田区内幸町1-1-1",
+ "officialUrl": "https://www.imperialhotel.co.jp/tokyo/",
+ "organizerUrl": "https://www.imperialhotel.co.jp/tokyo/banquet",
+ "bizintokyoSlug": "imperial-hotel-tokyo",
+ "accessSummary": "日比谷駅（A13出口）徒歩3分／内幸町駅（A5出口）徒歩3分／JR有楽町駅 徒歩5分／東京メトロ有楽町駅 徒歩7分／JR新橋駅 徒歩7分",
+ "notice": null,
+ "hours": null,
+ "rooms": [
+  {
+   "name": "本館2階 孔雀の間（東西）",
+   "areaM2": 1965,
+   "ceilingM": 6.2,
+   "theater": 1800,
+   "school": 1200,
+   "ushape": 210,
+   "standing": 2000,
+   "banquet": 1320,
+   "note": "着席ブフェ700名 孔雀の間は東・西・南の3部屋で、東西を合わせて1会場としても使える。同時通訳装置4か国語（通訳室4）。 ロの字240名。"
+  },
+  {
+   "name": "本館2階 孔雀の間（東）",
+   "areaM2": 1073,
+   "ceilingM": 6.2,
+   "theater": 1000,
+   "school": 700,
+   "ushape": 132,
+   "standing": 1000,
+   "banquet": 720,
+   "note": "着席ブフェ370名 同時通訳装置6か国語（通訳室2）。 ロの字162名。"
+  },
+  {
+   "name": "本館2階 孔雀の間（西）",
+   "areaM2": 868,
+   "ceilingM": 6.2,
+   "theater": 750,
+   "school": 500,
+   "ushape": 96,
+   "standing": 500,
+   "banquet": 540,
+   "note": "着席ブフェ220名 ロの字126名。"
+  },
+  {
+   "name": "本館2階 孔雀の間（南）",
+   "areaM2": 435,
+   "ceilingM": 3.4,
+   "theater": 250,
+   "school": 170,
+   "ushape": null,
+   "standing": 250,
+   "banquet": 230,
+   "note": "着席ブフェ120名"
+  },
+  {
+   "name": "本館3階 富士の間",
+   "areaM2": 1236,
+   "ceilingM": 5.0,
+   "theater": 1000,
+   "school": 600,
+   "ushape": 117,
+   "standing": 1000,
+   "banquet": 600,
+   "note": "着席ブフェ350名 同時通訳装置3か国語（通訳室2）。 ロの字144名。"
+  },
+  {
+   "name": "本館中2階 光の間",
+   "areaM2": 550,
+   "ceilingM": 5.75,
+   "theater": 500,
+   "school": 300,
+   "ushape": 90,
+   "standing": 400,
+   "banquet": 300,
+   "note": "着席ブフェ200名 同時通訳装置2か国語（通訳室2、デジタル赤外線方式）。電動スクリーン・液晶プロジェクターあり。前室として日光の間・月光の間がある。 ロの字114名。"
+  },
+  {
+   "name": "本館4階 桜の間",
+   "areaM2": 284,
+   "ceilingM": 3.45,
+   "theater": 290,
+   "school": 190,
+   "ushape": 69,
+   "standing": 200,
+   "banquet": 180,
+   "note": "着席ブフェ120名 ロの字84名。"
+  },
+  {
+   "name": "本館2階 牡丹の間",
+   "areaM2": 208,
+   "ceilingM": 3.3,
+   "theater": 170,
+   "school": 120,
+   "ushape": 67,
+   "standing": 130,
+   "banquet": 120,
+   "note": "着席ブフェ80名 同時通訳装置6か国語（通訳室4）。 ロの字74名。"
+  },
+  {
+   "name": "本館2階 蘭の間",
+   "areaM2": 201,
+   "ceilingM": 3.3,
+   "theater": 170,
+   "school": 120,
+   "ushape": 67,
+   "standing": 130,
+   "banquet": 120,
+   "note": "着席ブフェ80名 ロの字74名。"
+  },
+  {
+   "name": "本館2階 菊の間",
+   "areaM2": 155,
+   "ceilingM": 3.3,
+   "theater": 130,
+   "school": 90,
+   "ushape": 55,
+   "standing": 100,
+   "banquet": 100,
+   "note": "着席ブフェ60名 ロの字62名。"
+  },
+  {
+   "name": "本館3階 鶴の間",
+   "areaM2": 178,
+   "ceilingM": 2.7,
+   "theater": 150,
+   "school": 100,
+   "ushape": 60,
+   "standing": 120,
+   "banquet": 120,
+   "note": "着席ブフェ70名 ロの字66名。"
+  },
+  {
+   "name": "本館3階 雅・錦の間",
+   "areaM2": 277,
+   "ceilingM": 2.7,
+   "theater": 200,
+   "school": 130,
+   "ushape": null,
+   "standing": 170,
+   "banquet": 170,
+   "note": "着席ブフェ120名"
+  },
+  {
+   "name": "本館3階 雅の間",
+   "areaM2": 165,
+   "ceilingM": 2.7,
+   "theater": 150,
+   "school": 100,
+   "ushape": 60,
+   "standing": 120,
+   "banquet": 120,
+   "note": "着席ブフェ70名 ロの字66名。"
+  },
+  {
+   "name": "本館3階 錦の間",
+   "areaM2": 112,
+   "ceilingM": 2.7,
+   "theater": 70,
+   "school": 50,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": ""
+  },
+  {
+   "name": "本館3階 舞の間",
+   "areaM2": 159,
+   "ceilingM": 2.8,
+   "theater": 120,
+   "school": 80,
+   "ushape": 54,
+   "standing": 100,
+   "banquet": 100,
+   "note": "着席ブフェ60名 ロの字60名。"
+  },
+  {
+   "name": "本館3階 扇の間",
+   "areaM2": 148,
+   "ceilingM": 2.8,
+   "theater": 120,
+   "school": 80,
+   "ushape": 54,
+   "standing": 100,
+   "banquet": 100,
+   "note": "着席ブフェ60名 ロの字60名。"
+  },
+  {
+   "name": "本館3階 彩の間",
+   "areaM2": 123,
+   "ceilingM": 2.6,
+   "theater": 130,
+   "school": 70,
+   "ushape": 48,
+   "standing": null,
+   "banquet": null,
+   "note": "会場を分割しての利用も可能。 ロの字54名。"
+  },
+  {
+   "name": "本館4階 山吹の間",
+   "areaM2": 108,
+   "ceilingM": 2.9,
+   "theater": 70,
+   "school": 40,
+   "ushape": 41,
+   "standing": 40,
+   "banquet": null,
+   "note": "着席ブフェ30名 山吹の間Ⅰ・Ⅱ（各54㎡）に分割して使える。 ロの字46名。"
+  },
+  {
+   "name": "本館4階 山吹の間Ⅰ",
+   "areaM2": 54,
+   "ceilingM": 2.9,
+   "theater": 30,
+   "school": 15,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "山吹の間を分割した1室。"
+  },
+  {
+   "name": "本館4階 山吹の間Ⅱ",
+   "areaM2": 54,
+   "ceilingM": 2.9,
+   "theater": 30,
+   "school": 15,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "山吹の間を分割した1室。"
+  },
+  {
+   "name": "本館4階 楓の間",
+   "areaM2": 92,
+   "ceilingM": 2.9,
+   "theater": 70,
+   "school": 40,
+   "ushape": 27,
+   "standing": 40,
+   "banquet": 50,
+   "note": "着席ブフェ30名 ロの字36名。"
+  },
+  {
+   "name": "本館4階 桐の間",
+   "areaM2": 85,
+   "ceilingM": 2.9,
+   "theater": 50,
+   "school": 30,
+   "ushape": 23,
+   "standing": 35,
+   "banquet": 30,
+   "note": "着席ブフェ30名 ロの字28名。"
+  },
+  {
+   "name": "本館4階 梅の間",
+   "areaM2": 78,
+   "ceilingM": 2.9,
+   "theater": 50,
+   "school": 30,
+   "ushape": 20,
+   "standing": 40,
+   "banquet": 40,
+   "note": "着席ブフェ30名 ロの字26名。"
+  },
+  {
+   "name": "本館4階 桃の間",
+   "areaM2": 77,
+   "ceilingM": 2.7,
+   "theater": 50,
+   "school": 30,
+   "ushape": 24,
+   "standing": 40,
+   "banquet": 40,
+   "note": "着席ブフェ30名 ロの字30名。"
+  },
+  {
+   "name": "本館4階 松の間",
+   "areaM2": 109,
+   "ceilingM": "2.6-3.1",
+   "theater": 70,
+   "school": 40,
+   "ushape": 25,
+   "standing": 40,
+   "banquet": 50,
+   "note": "ロの字32名。"
+  },
+  {
+   "name": "本館2階 花の間",
+   "areaM2": 56,
+   "ceilingM": null,
+   "theater": 40,
+   "school": 20,
+   "ushape": null,
+   "standing": 20,
+   "banquet": 20,
+   "note": "花・千鳥・千草の間として公式の1ページに掲載。"
+  },
+  {
+   "name": "本館2階 千鳥の間",
+   "areaM2": 51,
+   "ceilingM": null,
+   "theater": 40,
+   "school": 20,
+   "ushape": null,
+   "standing": 20,
+   "banquet": 20,
+   "note": "花・千鳥・千草の間として公式の1ページに掲載。"
+  },
+  {
+   "name": "本館2階 千草の間",
+   "areaM2": 47,
+   "ceilingM": null,
+   "theater": 40,
+   "school": 20,
+   "ushape": null,
+   "standing": 20,
+   "banquet": 20,
+   "note": "花・千鳥・千草の間として公式の1ページに掲載。"
+  },
+  {
+   "name": "本館4階 楠・柏・桂・橘の間（各）",
+   "areaM2": 51,
+   "ceilingM": 2.8,
+   "theater": 35,
+   "school": 30,
+   "ushape": null,
+   "standing": 20,
+   "banquet": 20,
+   "note": "楠・柏・桂・橘の各室とも同じ数値。"
+  }
+ ],
+ "roomsSource": "https://www.imperialhotel.co.jp/tokyo/banquet",
+ "ops": {
+  "vehicleRules": {
+   "text": "宴会ロビー入口に寄る車は、日比谷通りから正面玄関奥の進入路を使う。直接駐車場に入る車は、本館とタワー館の間の車路からの進入が便利。（出典：駐車場ページ）",
+   "source": "https://www.imperialhotel.co.jp/tokyo/facility-access/parking"
+  },
+  "parking": {
+   "text": "駐車場は425台。料金は30分600円、1日最大12,000円（税込）。車体制限は高さ2.1m・幅1.95m・長さ6mまでで、最低地上高の低い車は利用できない。宴会の駐車優待は披露宴が当日のみ無料、一般宴会は宴席により異なるため、主催者またはホテル宴会予約係に確認する。電気自動車用の充電器は有料。",
+   "source": "https://www.imperialhotel.co.jp/tokyo/facility-access/parking"
+  },
+  "catering": {
+   "text": "宴会はホテルが料理・飲み物を提供する。目的別に料理付きのプランがあり、カクテルブフェプラン（20〜100名・2時間・フリードリンク付き、お一人様15,000円〜、税・サービス料込、2026年4月1日〜2027年3月31日）、ミーティングプラン（5〜20名は4階宴会場150,000円、21〜40名は3階宴会場250,000円、各120分、コーヒー・紅茶付き、2026年4月1日〜2027年3月31日）など。食物アレルギー・食事制限は予約時に相談でき、お子様用メニューは有料。スクリーン・プロジェクター・同時通訳システム・マイク、高速インターネット回線・Wi-Fiは予約時に依頼できる。",
+   "source": "https://www.imperialhotel.co.jp/tokyo/faq/banquet"
+  },
+  "restaurants": {
+   "text": "館内マップでは、本館17階・1階・地下1階・中2階にレストラン・バー（ラウンジ含む）がある。宴会出席者向けに、メインロビー・宴会ロビー・宴会場の各フロアにクロークがあり、本館2階に男性用・女性用の着替え室、3階にクローク横の喫煙室がある。",
+   "source": "https://www.imperialhotel.co.jp/tokyo/facility-access/floor-map"
+  }
+ },
+ "documents": [
+  {
+   "title": "宴会場のご案内（宴会場検索・比較）",
+   "url": "https://www.imperialhotel.co.jp/tokyo/banquet"
+  },
+  {
+   "title": "宴会場ご利用形式について",
+   "url": "https://www.imperialhotel.co.jp/tokyo/banquet/format"
+  },
+  {
+   "title": "ミーティングプラン 料金表（2026年4月1日〜2027年3月31日）",
+   "url": "https://www.imperialhotel.co.jp/sites/default/files/file/2026-02/d67ac920ace443127366d5b77695f6eb.pdf"
+  },
+  {
+   "title": "カクテルブフェプラン（2026年4月1日〜2027年3月31日）",
+   "url": "https://www.imperialhotel.co.jp/sites/default/files/file/2026-02/ed34729efcacff40b6a5dd5c7fb4b3ff.pdf"
+  },
+  {
+   "title": "駐車場のご案内（PDF）",
+   "url": "https://www.imperialhotel.co.jp/sites/default/files/file/2023-12/fff6a01e930b4dcaec8ed5aebc8681aa.pdf"
+  },
+  {
+   "title": "宴会・会議 よくあるご質問",
+   "url": "https://www.imperialhotel.co.jp/tokyo/faq/banquet"
+  },
+  {
+   "title": "館内マップ",
+   "url": "https://www.imperialhotel.co.jp/tokyo/facility-access/floor-map"
+  }
+ ],
+ "checkedAt": "2026-11-02",
+ "lat": 35.671375,
+ "lng": 139.758057,
+ "nearby": {
+  "convenience": [
+   {
+    "name": "セブン-イレブン 銀座7丁目店",
+    "brand": "セブン-イレブン",
+    "distanceM": 191,
+    "walkMin": 3,
+    "hours": "24時間営業",
+    "address": "東京都中央区銀座7-2-18",
+    "verified": true,
+    "source": "https://seven-eleven.areamarker.com/711map/info/544289",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "セブン-イレブン 内幸町1丁目店",
+    "brand": "セブン-イレブン",
+    "distanceM": 212,
+    "walkMin": 3,
+    "hours": "24時間営業",
+    "address": "東京都千代田区内幸町1-6-6",
+    "verified": true,
+    "source": "https://seven-eleven.areamarker.com/711map/info/531559",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "ローソン 内幸町一丁目店",
+    "brand": "ローソン",
+    "distanceM": 265,
+    "walkMin": 4,
+    "hours": "24時間営業",
+    "address": "東京都千代田区内幸町1‐3‐3",
+    "verified": true,
+    "source": "https://www.areamarker.com/lawson/info/160130",
+    "note": "距離は公式の店舗位置で計算"
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "アクセア 銀座ファイブ店",
+    "brand": "アクセア",
+    "distanceM": 343,
+    "walkMin": 5,
+    "hours": "平日 10:00-20:00／土・日・祝 休み",
+    "address": "東京都中央区銀座5-1 銀座ファイブ2F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/entry.html",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "アクセア 新橋駅銀座口店",
+    "brand": "アクセア",
+    "distanceM": 490,
+    "walkMin": 7,
+    "hours": "月曜8:00〜土曜19:00 休まず営業／日・祝 10:00-19:00",
+    "address": "東京都港区新橋2-18-9 第3光和ビル3F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/entry.html",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "3COINS +plus 西銀座デパート店",
+    "brand": "3COINS",
+    "distanceM": 520,
+    "walkMin": 7,
+    "hours": "11:00-20:00",
+    "address": "東京都中央区銀座4-1 西銀座デパート2F",
+    "verified": true,
+    "source": "https://palcloset.storelocator.jp/detail/2263",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "Seria イグジットメルサ銀座店",
+    "brand": "セリア",
+    "distanceM": 549,
+    "walkMin": 7,
+    "hours": "毎日 11:00-20:00",
+    "address": "東京都中央区銀座5-7-10 EXITMELSA 5F",
+    "verified": true,
+    "source": "https://shop.seria-group.com/seria/info/000002655",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "donki": [
+   {
+    "name": "ドン・キホーテ 銀座本館（銀座ナイン3号館）",
+    "brand": "ドン・キホーテ",
+    "distanceM": 554,
+    "walkMin": 7,
+    "hours": "24時間営業",
+    "address": "東京都中央区銀座8-10 銀座ナイン3号館",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=92",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "ピカソ赤坂店（ドン・キホーテ）",
+    "brand": "ドン・キホーテ",
+    "distanceM": 1911,
+    "walkMin": 24,
+    "hours": "7:00-3:00",
+    "address": "東京都港区赤坂3-11-14",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=289",
+    "note": "距離は住所の位置で計算。ドン・キホーテの別業態（公式サイトの店舗名は「ピカソ赤坂店」）。遠い"
+   }
+  ]
+ },
+ "drinkDelivery": {
+  "available": true
+ },
+ "photo": {
+  "src": "/images/venues/imperial-hotel-tokyo.jpg",
+  "credit": "© Syced / CC0 · Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Buildings_around_Hibiya_%2820261%29.jpg"
+ }
+}
