@@ -1,0 +1,475 @@
+{
+ "slug": "royal-park-hotel-nihombashi",
+ "nameJa": "ロイヤルパークホテル",
+ "nameEn": "Royal Park Hotel",
+ "type": "hotel",
+ "area": "marunouchi-nihonbashi-venues",
+ "address": "〒103-8520 東京都中央区日本橋蛎殻町2-1-1",
+ "officialUrl": "https://www.rph.co.jp/",
+ "organizerUrl": "https://www.rph.co.jp/banquet/",
+ "bizintokyoSlug": "royal-park-hotel-nihombashi",
+ "accessSummary": "水天宮前駅（半蔵門線）4番出口 直結／人形町駅（日比谷線）A2出口 徒歩約5分／人形町駅（都営浅草線）A3出口 徒歩約8分",
+ "notice": null,
+ "hours": null,
+ "rooms": [
+  {
+   "name": "3F ロイヤルホール 全スパン",
+   "areaM2": 1000,
+   "ceilingM": 6.0,
+   "theater": 1200,
+   "school": 700,
+   "ushape": null,
+   "standing": 1000,
+   "banquet": 600,
+   "note": "公式の説明文は正餐600名・ブッフェ1,000名・シアター1,200名。同じ公式サイトの「お別れの会」のページには、ロイヤルホールは天井高6mで2,000名収容可能と書かれている。お部屋を区切って使える"
+  },
+  {
+   "name": "3F ロイヤルホール 2/3",
+   "areaM2": 660,
+   "ceilingM": 6.0,
+   "theater": 600,
+   "school": 470,
+   "ushape": null,
+   "standing": 500,
+   "banquet": 370,
+   "note": null
+  },
+  {
+   "name": "3F ロイヤルホール 1/2",
+   "areaM2": 500,
+   "ceilingM": 6.0,
+   "theater": 550,
+   "school": 300,
+   "ushape": null,
+   "standing": 350,
+   "banquet": 300,
+   "note": null
+  },
+  {
+   "name": "3F ロイヤルホール 1/3",
+   "areaM2": 330,
+   "ceilingM": 6.0,
+   "theater": 380,
+   "school": 180,
+   "ushape": null,
+   "standing": 200,
+   "banquet": 180,
+   "note": null
+  },
+  {
+   "name": "3F ロイヤルホール ホワイエ",
+   "areaM2": 380,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": null
+  },
+  {
+   "name": "2F 春海 全室",
+   "areaM2": 320,
+   "ceilingM": 3.0,
+   "theater": 340,
+   "school": 180,
+   "ushape": null,
+   "standing": 180,
+   "banquet": 180,
+   "note": null
+  },
+  {
+   "name": "2F 春海A",
+   "areaM2": 150,
+   "ceilingM": 3.0,
+   "theater": 100,
+   "school": 65,
+   "ushape": null,
+   "standing": 80,
+   "banquet": 60,
+   "note": null
+  },
+  {
+   "name": "2F 春海B",
+   "areaM2": 170,
+   "ceilingM": 3.0,
+   "theater": 170,
+   "school": 90,
+   "ushape": null,
+   "standing": 80,
+   "banquet": 70,
+   "note": null
+  },
+  {
+   "name": "2F 有明 全室",
+   "areaM2": 325,
+   "ceilingM": 3.0,
+   "theater": 350,
+   "school": 180,
+   "ushape": null,
+   "standing": 200,
+   "banquet": 180,
+   "note": null
+  },
+  {
+   "name": "2F 有明A",
+   "areaM2": 243,
+   "ceilingM": 3.0,
+   "theater": 230,
+   "school": 140,
+   "ushape": null,
+   "standing": 130,
+   "banquet": 120,
+   "note": null
+  },
+  {
+   "name": "2F 有明B",
+   "areaM2": 82,
+   "ceilingM": 3.0,
+   "theater": 70,
+   "school": 30,
+   "ushape": null,
+   "standing": 50,
+   "banquet": 30,
+   "note": null
+  },
+  {
+   "name": "2F 東雲 全室",
+   "areaM2": 220,
+   "ceilingM": 3.0,
+   "theater": 240,
+   "school": 120,
+   "ushape": null,
+   "standing": 120,
+   "banquet": 100,
+   "note": null
+  },
+  {
+   "name": "2F 東雲A",
+   "areaM2": 145,
+   "ceilingM": 3.0,
+   "theater": 100,
+   "school": 64,
+   "ushape": null,
+   "standing": 70,
+   "banquet": 60,
+   "note": null
+  },
+  {
+   "name": "2F 東雲B",
+   "areaM2": 75,
+   "ceilingM": 3.0,
+   "theater": 60,
+   "school": 32,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": null
+  },
+  {
+   "name": "3F クラウンルーム 全室",
+   "areaM2": 260,
+   "ceilingM": 3.0,
+   "theater": 300,
+   "school": 160,
+   "ushape": null,
+   "standing": 150,
+   "banquet": 120,
+   "note": null
+  },
+  {
+   "name": "3F クラウンルーム 1/2",
+   "areaM2": 130,
+   "ceilingM": 3.0,
+   "theater": 160,
+   "school": 60,
+   "ushape": null,
+   "standing": 60,
+   "banquet": 60,
+   "note": null
+  },
+  {
+   "name": "4F 瑠璃",
+   "areaM2": 177,
+   "ceilingM": 3.0,
+   "theater": 170,
+   "school": 100,
+   "ushape": null,
+   "standing": 100,
+   "banquet": 100,
+   "note": null
+  },
+  {
+   "name": "20F パラッツオ",
+   "areaM2": 200,
+   "ceilingM": 3.0,
+   "theater": 190,
+   "school": 100,
+   "ushape": null,
+   "standing": 100,
+   "banquet": 90,
+   "note": null
+  },
+  {
+   "name": "4F 琥珀",
+   "areaM2": 90,
+   "ceilingM": 3.0,
+   "theater": 80,
+   "school": 40,
+   "ushape": null,
+   "standing": 40,
+   "banquet": 40,
+   "note": null
+  },
+  {
+   "name": "4F 霞",
+   "areaM2": 48,
+   "ceilingM": 2.7,
+   "theater": 45,
+   "school": 20,
+   "ushape": null,
+   "standing": null,
+   "banquet": 20,
+   "note": null
+  },
+  {
+   "name": "4F 彩",
+   "areaM2": 48,
+   "ceilingM": 2.7,
+   "theater": 45,
+   "school": 20,
+   "ushape": null,
+   "standing": null,
+   "banquet": 20,
+   "note": null
+  },
+  {
+   "name": "4F 宴",
+   "areaM2": 48,
+   "ceilingM": 2.7,
+   "theater": 45,
+   "school": 20,
+   "ushape": null,
+   "standing": null,
+   "banquet": 20,
+   "note": null
+  },
+  {
+   "name": "5F ミーティングルーム",
+   "areaM2": 60,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "スクリーン常設。外来のお客様は8:00〜22:00で2時間44,000円（延長1時間につき22,000円）、ご宿泊者は0:00〜24:00で2時間33,000円（延長1時間につき16,500円）。税込"
+  }
+ ],
+ "roomsSource": "https://www.rph.co.jp/banquet/",
+ "ops": {
+  "loadingHours": {
+   "text": "会場の使用時間は設営から撤去までを含み、事前にホテル係員と決めた時間とする。超えると所定の延長料金がかかる（次の会場の使用開始時刻の関係で延長できない場合もある）。ホテルの了解のもとに主催者が直接依頼した業者が行う、装飾・演出の材料や機器の搬入・搬出は、ホテルの美観や導線を考慮した一定のルールのもとで行うよう、ホテルが業者に指示する。搬入・搬出が深夜に及び、ホテル係員の立会いが必要な場合は、別途立会い費用がかかることがある。会場装飾・装花・音響・照明・余興・コンパニオン・引出物の手配はホテル指定の業者を使い、指定以外の業者を使う場合は事前にホテルの了承を得る。（ご宴会・催事規約、PDF作成2017年2月）",
+   "source": "https://www.rph.co.jp/assets/files/pdf/terms-for-banquet.pdf"
+  },
+  "parking": {
+   "text": "ホテル駐車場は176台収容で、車高制限は2.3mまで。通常料金は30分300円（税込）。ご宴会に出席するお客様は3時間無料、ご披露宴は5時間無料、ご宿泊のお客様は1泊につき1台2,000円、レストランは3,000円以上の利用で2時間無料。優待時間を過ぎると通常料金。ホテル駐車場が満車の場合のみ、隣接する東京シティエアターミナルの駐車場も使える。駐車場にEV充電設備はない。",
+   "source": "https://www.rph.co.jp/about/access/"
+  },
+  "waitingRooms": {
+   "text": "3Fローズルームは、VIPやゲストの控室などに使える宴会場として案内されている。ロイヤルホールには隣接する控室を用意できる（お別れの会のページ）。4Fに紳士用・婦人用の更衣室があり、荷物を預けるクロークは各宴席フロア（2F・3F・4F）にある（宴会・会議のよくあるご質問）。",
+   "source": "https://www.rph.co.jp/banquet/rose/"
+  },
+  "restaurants": {
+   "text": "公式のレストラン＆バー一覧に8店が載っている。1Fはシェフズダイニング シンフォニー、ロビーラウンジ フォンテーヌ、スイーツ&ベーカリー 粋。5Fは日本料理 源氏香（個室あり）。B1Fは中国料理 桂花苑（個室あり）、すし処 日本橋 矢の根寿司（個室あり）、メインバー ロイヤルスコッツ（個室あり）。20Fは鉄板焼 すみだ（個室あり）。個室は、すみだが2室（4〜8名）、源氏香が洋個室2室（4〜18名、2室利用で19〜40名）と和個室3室（4〜8名）、桂花苑が2〜40名。懇親会は、宴会・会議の「セミナー・懇親会」のページで各種セミナーや懇親会に対応すると案内されており、宴会場パーティープラン2026（30〜120名、立食・着席、フリーフロー付き、お一人様15,000〜25,000円、2026年4月1日〜2027年3月31日、基本利用時間は11:00〜21:00の間で2時間制）がある。",
+   "source": "https://www.rph.co.jp/restaurants/"
+  }
+ },
+ "documents": [
+  {
+   "title": "宴会・会議（公式ページ）",
+   "url": "https://www.rph.co.jp/banquet/"
+  },
+  {
+   "title": "3F ロイヤルホール",
+   "url": "https://www.rph.co.jp/banquet/royal_hall/"
+  },
+  {
+   "title": "2F 春海",
+   "url": "https://www.rph.co.jp/banquet/harumi/"
+  },
+  {
+   "title": "2F 有明",
+   "url": "https://www.rph.co.jp/banquet/ariake/"
+  },
+  {
+   "title": "2F 東雲",
+   "url": "https://www.rph.co.jp/banquet/shinonome/"
+  },
+  {
+   "title": "3F クラウンルーム",
+   "url": "https://www.rph.co.jp/banquet/crown/"
+  },
+  {
+   "title": "4F 瑠璃",
+   "url": "https://www.rph.co.jp/banquet/ruri/"
+  },
+  {
+   "title": "20F パラッツオ",
+   "url": "https://www.rph.co.jp/banquet/palazzo/"
+  },
+  {
+   "title": "3F ローズルーム",
+   "url": "https://www.rph.co.jp/banquet/rose/"
+  },
+  {
+   "title": "4F 琥珀",
+   "url": "https://www.rph.co.jp/banquet/kohaku/"
+  },
+  {
+   "title": "4F 霞・彩・宴",
+   "url": "https://www.rph.co.jp/banquet/kasumi_aya_utage/"
+  },
+  {
+   "title": "5F ミーティングルーム（料金あり）",
+   "url": "https://www.rph.co.jp/banquet/meetingroom/"
+  },
+  {
+   "title": "ご宴会・催事規約（PDF作成2017年2月）",
+   "url": "https://www.rph.co.jp/assets/files/pdf/terms-for-banquet.pdf"
+  },
+  {
+   "title": "宴会・会議 よくあるご質問",
+   "url": "https://www.rph.co.jp/faq/banquet/"
+  },
+  {
+   "title": "アクセス・駐車場のご案内",
+   "url": "https://www.rph.co.jp/about/access/"
+  },
+  {
+   "title": "交通のご案内マップ（PDF作成2022年1月）",
+   "url": "https://www.rph.co.jp/assets/files/pdf/a1642998374109.pdf"
+  },
+  {
+   "title": "宴会場パーティープラン2026（2026年4月1日〜2027年3月31日）",
+   "url": "https://www.rph.co.jp/banquet/plan/xrg9ajw55t8/"
+  },
+  {
+   "title": "平日限定 バンケットミーティングプラン（2026年4月1日〜2027年3月31日）",
+   "url": "https://www.rph.co.jp/banquet/plan/19ax5jxb8/"
+  },
+  {
+   "title": "セミナー・懇親会",
+   "url": "https://www.rph.co.jp/banquet/plan/seminar/"
+  },
+  {
+   "title": "Web会議システム（料金あり）",
+   "url": "https://www.rph.co.jp/banquet/on-line_meeting/"
+  },
+  {
+   "title": "お料理・ケータリングサービス",
+   "url": "https://www.rph.co.jp/banquet/catering/"
+  },
+  {
+   "title": "CO₂ゼロ MICE（料金表PDF、2022年10月更新）",
+   "url": "https://www.rph.co.jp/assets/files/pdf/co2zero_mice.pdf"
+  }
+ ],
+ "checkedAt": "2026-11-02",
+ "lat": 35.682171,
+ "lng": 139.786316,
+ "nearby": {
+  "convenience": [
+   {
+    "name": "ファミリーマート 日本橋かきがら町店",
+    "brand": "ファミリーマート",
+    "distanceM": 57,
+    "walkMin": 1,
+    "hours": "24時間営業",
+    "address": "東京都中央区日本橋蛎殻町1-36",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/19201",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "セブン-イレブン T-CAT2階店",
+    "brand": "セブン-イレブン",
+    "distanceM": 102,
+    "walkMin": 2,
+    "hours": "7:00-21:00（月〜日・祝）",
+    "address": "東京都中央区日本橋箱崎町42-1",
+    "verified": true,
+    "source": "https://seven-eleven.areamarker.com/711map/info/324493",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "セブン-イレブン 日本橋T-CAT店",
+    "brand": "セブン-イレブン",
+    "distanceM": 112,
+    "walkMin": 2,
+    "hours": "24時間営業",
+    "address": "東京都中央区日本橋箱崎町22-1",
+    "verified": true,
+    "source": "https://seven-eleven.areamarker.com/711map/info/155464",
+    "note": "距離は公式の店舗位置で計算"
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "キンコーズ・水天宮店",
+    "brand": "キンコーズ",
+    "distanceM": 238,
+    "walkMin": 3,
+    "hours": "平日 8:00-20:00／土・日・祝 10:00-18:00",
+    "address": "東京都中央区日本橋蛎殻町1丁目39-5 水天宮北辰ビル1F",
+    "verified": true,
+    "source": "https://www.kinkos.co.jp/store/tokyo/t026/",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "アクセア 水天宮前店",
+    "brand": "アクセア",
+    "distanceM": 265,
+    "walkMin": 4,
+    "hours": "平日 9:00-20:00／土・日・祝 休み",
+    "address": "東京都中央区日本橋蛎殻町1-29-5 ウィンド水天宮ビル1F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/map/suitengumae.html",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Can★Do 東京シティエアターミナル店",
+    "brand": "キャンドゥ",
+    "distanceM": 147,
+    "walkMin": 2,
+    "hours": "毎日 10:00-20:00",
+    "address": "東京都中央区日本橋箱崎町42-1 東京シティエアターミナル2階",
+    "verified": true,
+    "source": "https://shopinfo.cando-web.co.jp/detail/shop-5275/",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "DAISO 人形町駅店",
+    "brand": "ダイソー",
+    "distanceM": 606,
+    "walkMin": 8,
+    "hours": "9:00-21:00",
+    "address": "東京都中央区日本橋人形町3-7-13 B1階・1階・2階",
+    "verified": true,
+    "source": "https://www.daiso-sangyo.co.jp/shop/detail/005391",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "donki": []
+ },
+ "drinkDelivery": {
+  "available": true
+ },
+ "photo": {
+  "src": "/images/venues/royal-park-hotel-nihombashi.jpg",
+  "credit": "Abasaa / Public domain · Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Royal_Park_Hotel_(Tokyo).JPG"
+ }
+}

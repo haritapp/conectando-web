@@ -1,0 +1,157 @@
+{
+ "slug": "sheraton-grande-tokyo-bay",
+ "name": "Sheraton Grande Tokyo Bay Hotel",
+ "address": "Chiba 279-0031 1-9 Maihama, Urayasu, Chiba",
+ "accessSummary": "From JR Maihama Station (South Exit), take the Disney Resort Line (monorail) and get off at Bayside Station: 1 min walk / Free shuttle bus from JR Maihama Station",
+ "hours": "Meeting package hours are 4 hours for a half day and 8 hours for a full day (banquet brochure).",
+ "notice": null,
+ "rooms": [
+  {
+   "name": "THE CLUB Fuji (A+B+C, entire room)",
+   "note": "Main Building 1F. Can be divided into three sections: A, B and C. Has a permanent large LED screen. Has a directly connected loading entrance, allowing vehicle load-in and exhibitions"
+  },
+  {
+   "name": "THE CLUB Fuji A",
+   "note": "16.95 m wide x 32 m deep"
+  },
+  {
+   "name": "THE CLUB Fuji B",
+   "note": "16.4 m wide x 32 m deep"
+  },
+  {
+   "name": "THE CLUB Fuji C",
+   "note": "16.6 m wide x 32 m deep"
+  },
+  {
+   "name": "THE CLUB Fuji A+B",
+   "note": "33.35 m wide x 32 m deep"
+  },
+  {
+   "name": "THE CLUB Fuji B+C",
+   "note": "33 m wide x 32 m deep"
+  },
+  {
+   "name": "Kegon",
+   "note": "Main Building 1F. Equipped with a 220-inch large LED screen. The independent foyer and the Zen garden can also be used for receptions"
+  },
+  {
+   "name": "Diamond (Party Room)",
+   "note": "New Building 1F"
+  },
+  {
+   "name": "Diamond Living Room",
+   "note": "New Building 1F. A living room with sofas and a bar counter"
+  },
+  {
+   "name": "Arianna",
+   "note": "Inside the Georgian Terrace, a stand-alone banquet room in the garden. Has a private terrace and a small room that can be used for speakers and VIPs or as a waiting room"
+  },
+  {
+   "name": "Bella Vita",
+   "note": "Inside the Georgian Terrace, a stand-alone banquet room in the garden. Has a private foyer and a private garden"
+  },
+  {
+   "name": "Ocean Blue",
+   "note": "New Building 2F"
+  },
+  {
+   "name": "Crystal Chapel",
+   "note": "New Building 2F"
+  },
+  {
+   "name": "Park View",
+   "note": "Main Building 12F"
+  },
+  {
+   "name": "The Bay Lounge",
+   "note": "Main Building 12F"
+  },
+  {
+   "name": "Akemi",
+   "note": "Main Building 2F. Hollow square for 42. Can be divided into two"
+  },
+  {
+   "name": "Irifune",
+   "note": "Main Building 2F. Hollow square for 42. Can be divided into two"
+  },
+  {
+   "name": "Vista",
+   "note": "Main Building 12F. Conference style for 18"
+  },
+  {
+   "name": "Horizon",
+   "note": "Main Building 12F. Conference style for 20"
+  },
+  {
+   "name": "Nagisa",
+   "note": "New Building 2F. Hollow square for 16"
+  },
+  {
+   "name": "Sango",
+   "note": "New Building 2F. Hollow square for 16"
+  },
+  {
+   "name": "VIP-A",
+   "note": "Main Building 1F. Hollow square for 12"
+  },
+  {
+   "name": "VIP-B",
+   "note": "Main Building 1F. Hollow square for 8"
+  },
+  {
+   "name": "Garden",
+   "note": "Outdoors. The venue detail page also lists it as 1,000㎡"
+  },
+  {
+   "name": "THE CLUB Fuji Foyer",
+   "note": "Dedicated foyer for THE CLUB Fuji"
+  },
+  {
+   "name": "Kegon Foyer",
+   "note": "Dedicated foyer for Kegon"
+  }
+ ],
+ "ops": {
+  "loadingHours": "THE CLUB Fuji has a directly connected loading entrance, allowing vehicle load-in and exhibitions, and it can accommodate large-scale exhibitions (banquet brochure, venue detail page).",
+  "parking": "There is a self-parking lot on the premises. The fee is 520 yen per hour and 3,100 yen per day. For hotel guests, it is 3,100 yen per vehicle for the first night and 1,600 yen per night from the second night on.",
+  "waitingRooms": "The small banquet rooms Akemi and Irifune (about 116 to 119㎡ each) on the Main Building 2F can be used for small banquets and meetings, and also as a convention secretariat or waiting room.",
+  "catering": "Dishes and drinks prepared by the hotel chefs (courses, buffets, standing receptions, lunches, coffee breaks and all-you-can-drink plans) are provided in the banquet rooms. The catering service section of the Meetings & Events page shows these per-person prices: coffee break 1,000 yen, afternoon break 1,000 yen, lunch 4,000 yen, dinner 8,000 yen, reception 5,500 yen, continental breakfast 1,800 yen and full breakfast 3,300 yen.",
+  "restaurants": "In the hotel, Grand Café (buffet dining), Grand Café Bar and Galleria Café (casual dining) are on the 1st floor, and Maihama Teppanyaki+ (teppanyaki), Asuka (Japanese cuisine) and Café Toastina are on the 2nd floor."
+ },
+ "documents": [
+  {
+   "title": "MICE Brochure: Banquet Room Pamphlet (marked © 2025; includes the capacity chart, floor plans and capacities when THE CLUB Fuji is divided)"
+  },
+  {
+   "title": "Meetings & Events (capacity chart, floor plans, equipment and services)"
+  },
+  {
+   "title": "Banquet Rooms & Event Spaces list (detail page for each venue)"
+  },
+  {
+   "title": "THE CLUB Fuji floor plan sample: Theater style"
+  },
+  {
+   "title": "THE CLUB Fuji floor plan sample: Classroom style"
+  },
+  {
+   "title": "THE CLUB Fuji floor plan sample: Reception"
+  },
+  {
+   "title": "THE CLUB Fuji floor plan sample: Banquet style"
+  },
+  {
+   "title": "Grand Menu (April 1, 2026 to March 31, 2027)"
+  },
+  {
+   "title": "Meetings & Events Inquiries (RFP)"
+  }
+ ],
+ "nearby": {
+  "convenience": [],
+  "copyshop": [],
+  "hundredYen": [],
+  "donki": []
+ },
+ "photoCredit": "© moore / CC BY-SA 3.0 · Wikimedia Commons"
+}

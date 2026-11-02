@@ -1,0 +1,295 @@
+{
+ "slug": "prince-sakura-tower-tokyo",
+ "nameJa": "ザ・プリンス さくらタワー東京",
+ "nameEn": "The Prince Sakura Tower Tokyo",
+ "type": "hotel",
+ "area": "shinagawa-venues",
+ "address": "〒108-8612 東京都港区高輪3-13-1",
+ "officialUrl": "https://www.princehotels.co.jp/sakuratower/",
+ "organizerUrl": "https://www.princehotels.co.jp/takanawa-area/banquet/",
+ "bizintokyoSlug": "prince-sakura-tower-tokyo",
+ "accessSummary": "品川駅（新幹線・JR線・京急線）高輪口 徒歩約3分／高輪台駅（都営浅草線）A1出口 徒歩約5分",
+ "notice": null,
+ "hours": null,
+ "rooms": [
+  {
+   "name": "コンファレンスフロア 2F 1スパン",
+   "areaM2": 37,
+   "ceilingM": 3.3,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": 14,
+   "note": "公式は「20室の多目的スペースを1フロアに集め、1室単位で広さを調整できる」と案内。ボードルーム18名。"
+  },
+  {
+   "name": "コンファレンスフロア 2F 2スパン",
+   "areaM2": 74,
+   "ceilingM": 3.3,
+   "theater": 40,
+   "school": 27,
+   "ushape": 15,
+   "standing": 30,
+   "banquet": 20,
+   "note": "ボードルーム20名。コの字・ボードルームの人数は会場仕様一覧PDF（2024年8月版）、ほかの人数はホテルの会場ページの表。"
+  },
+  {
+   "name": "コンファレンスフロア 2F 3スパン",
+   "areaM2": 111,
+   "ceilingM": 3.3,
+   "theater": 80,
+   "school": 45,
+   "ushape": 20,
+   "standing": 50,
+   "banquet": 40,
+   "note": "ボードルーム30名。"
+  },
+  {
+   "name": "コンファレンスフロア 2F 4スパン",
+   "areaM2": 148,
+   "ceilingM": 3.3,
+   "theater": 120,
+   "school": 72,
+   "ushape": 30,
+   "standing": 70,
+   "banquet": 60,
+   "note": "ボードルーム40名。"
+  },
+  {
+   "name": "コンファレンスフロア 2F 5スパン",
+   "areaM2": 185,
+   "ceilingM": 3.3,
+   "theater": 160,
+   "school": 99,
+   "ushape": 45,
+   "standing": 90,
+   "banquet": 80,
+   "note": "ボードルーム50名。"
+  },
+  {
+   "name": "コンファレンスフロア 2F 6スパン",
+   "areaM2": 222,
+   "ceilingM": 3.3,
+   "theater": 200,
+   "school": 117,
+   "ushape": null,
+   "standing": 110,
+   "banquet": 100,
+   "note": null
+  },
+  {
+   "name": "コンファレンスフロア 2F 7スパン",
+   "areaM2": 259,
+   "ceilingM": 3.3,
+   "theater": 240,
+   "school": 144,
+   "ushape": null,
+   "standing": 130,
+   "banquet": 120,
+   "note": null
+  },
+  {
+   "name": "コンファレンスフロア 2F 8スパン",
+   "areaM2": 296,
+   "ceilingM": 3.3,
+   "theater": 280,
+   "school": 171,
+   "ushape": null,
+   "standing": 150,
+   "banquet": 140,
+   "note": null
+  },
+  {
+   "name": "コンファレンスフロア 2F 9スパン",
+   "areaM2": 333,
+   "ceilingM": 3.3,
+   "theater": 320,
+   "school": 189,
+   "ushape": null,
+   "standing": 170,
+   "banquet": 160,
+   "note": null
+  },
+  {
+   "name": "コンファレンスフロア 2F 10スパン",
+   "areaM2": 370,
+   "ceilingM": 3.3,
+   "theater": 360,
+   "school": 216,
+   "ushape": null,
+   "standing": 190,
+   "banquet": 180,
+   "note": "10スパンはホテルの会場ページの表にあり、会場仕様一覧PDF（2024年8月版）は9スパンまで。"
+  }
+ ],
+ "roomsSource": "https://www.princehotels.co.jp/takanawa-area/banquet/halls/conference_floor.html（コンファレンスフロアの会場仕様）と https://www.princehotels.co.jp/takanawa-area/banquet/assets/pdf/takanawa_roomspec.pdf（会場仕様一覧、2024年8月版）。同じ高輪エリアのグランドプリンスホテル高輪・新高輪・国際館パミールの宴会場は含めていない。",
+ "ops": {
+  "loadingHours": {
+   "text": "搬入の経路は、公式の搬入・搬出路図（パンフレット54ページ）にある。ザ・プリンス さくらタワー東京は搬入扉が幅1.9m・高さ2.2m、搬入エレベーター扉が幅1.0m・高さ2.1m、搬入エレベーターのかご内が幅1.8m・奥行2.0m・高さ2.3m（宴会場パンフレット 2024年4月版）。",
+   "source": "https://www.princehotels.co.jp/takanawa-area/banquet/assets/pdf/pamphlet.pdf"
+  },
+  "parking": {
+   "text": "駐車場は1,000台で、予約は承っていない。一般の料金は30分600円（2025年7月5日改定）。宴会は4時間まで、催し物は2時間まで無料で、超過分は駐車料金がかかる。国際館パミール地下駐車場は高さ2m以下の車のみ。2m以上の車は屋外駐車場を使う。",
+   "source": "https://www.princehotels.co.jp/sakuratower/faq/"
+  },
+  "catering": {
+   "text": "ミーティング・パッケージ（2026年4月1日〜2027年3月31日）は、フルデイ（8:00A.M.〜5:00P.M.）が1名16,000円、ハーフデイ（8:00A.M.〜5:00P.M.のうち4時間）が1名12,000円で、5名より。会場は小宴会場／中宴会場で、人数に合う会場を用意する。会場料・スクリーン／プロジェクター・リフレッシュメント（コーヒー・紅茶・小菓子）・ミネラルウォーターが含まれる。ランチはお弁当（種類は問い合わせ）。60分延長は1名1,600円。ご利用日の3か月前から予約できる。",
+   "source": "https://www.princehotels.co.jp/takanawa-area/banquet/assets/pdf/meeting_package.pdf"
+  },
+  "restaurants": {
+   "text": "館内には、リストランテ カフェ チリエージョ、日本料理 なだ万 高輪プライム（個室あり）、鮨 銀座おのでら なだ万 高輪プライム店と、インルームダイニングがある。同じ高輪エリアのグランドプリンスホテル高輪・新高輪のレストラン・バーも、このページで案内している。",
+   "source": "https://www.princehotels.co.jp/sakuratower/restaurant/"
+  }
+ },
+ "documents": [
+  {
+   "title": "会場仕様一覧（2024年8月版）",
+   "url": "https://www.princehotels.co.jp/takanawa-area/banquet/assets/pdf/takanawa_roomspec.pdf"
+  },
+  {
+   "title": "宴会場パンフレット（2024年4月版）",
+   "url": "https://www.princehotels.co.jp/takanawa-area/banquet/assets/pdf/pamphlet.pdf"
+  },
+  {
+   "title": "ミーティング・パッケージ（2026年4月1日〜2027年3月31日）",
+   "url": "https://www.princehotels.co.jp/takanawa-area/banquet/assets/pdf/meeting_package.pdf"
+  },
+  {
+   "title": "館内案内図 ザ・プリンス さくらタワー東京",
+   "url": "https://www.princehotels.co.jp/takanawa-area/banquet/assets/pdf/floormap_sakura_tower.pdf"
+  },
+  {
+   "title": "高輪エリア 館内全体図",
+   "url": "https://www.princehotels.co.jp/takanawa-area/banquet/assets/pdf/takanawa_floor_guide.pdf"
+  },
+  {
+   "title": "高輪エリアマップ",
+   "url": "https://www.princehotels.co.jp/takanawa-area/banquet/assets/pdf/takanawa_areamap.pdf"
+  },
+  {
+   "title": "よくあるご質問（バンケット・駐車場）",
+   "url": "https://www.princehotels.co.jp/sakuratower/faq/"
+  }
+ ],
+ "checkedAt": "2026-11-02",
+ "lat": 35.630711,
+ "lng": 139.733948,
+ "nearby": {
+  "convenience": [
+   {
+    "name": "セブン-イレブン 品川駅前店",
+    "brand": "セブン-イレブン",
+    "distanceM": 352,
+    "walkMin": 5,
+    "hours": "24時間営業",
+    "address": "東京都港区高輪3-25-20",
+    "verified": true,
+    "source": "https://seven-eleven.areamarker.com/711map/info/112673",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "セブン-イレブン 高輪台駅前店",
+    "brand": "セブン-イレブン",
+    "distanceM": 362,
+    "walkMin": 5,
+    "hours": "24時間営業",
+    "address": "東京都港区白金台2丁目26番8号",
+    "verified": true,
+    "source": "https://seven-eleven.areamarker.com/711map/info/411252",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "ナチュラルローソン 高輪台駅前店",
+    "brand": "ナチュラルローソン",
+    "distanceM": 381,
+    "walkMin": 5,
+    "hours": "24時間営業",
+    "address": "東京都港区白金台2-26-10",
+    "verified": true,
+    "source": "https://www.areamarker.com/lawson/info/175722",
+    "note": "距離は公式の店舗位置で計算"
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "キンコーズ・品川店",
+    "brand": "キンコーズ",
+    "distanceM": 710,
+    "walkMin": 9,
+    "hours": "平日 8:00-22:00／土・日・祝 9:00-18:00",
+    "address": "東京都港区港南2丁目14-14 品川インターシティフロント2F",
+    "verified": true,
+    "source": "https://www.kinkos.co.jp/store/tokyo/t029/",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "アクセア 品川駅港南口店",
+    "brand": "アクセア",
+    "distanceM": 776,
+    "walkMin": 10,
+    "hours": "平日 8:00-21:00／土・日・祝 10:00-19:00",
+    "address": "東京都港区港南2-2-2 富士ビル2F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/map/shinagawaeki_konanguchi.html",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Seria ウィング高輪WEST店",
+    "brand": "セリア",
+    "distanceM": 365,
+    "walkMin": 5,
+    "hours": "月 10:00-21:00／火 10:00-20:00／水〜金 10:00-21:00／土〜日 10:00-20:00",
+    "address": "東京都港区高輪4-10-18 ウィング高輪WEST 2F",
+    "verified": true,
+    "source": "https://shop.seria-group.com/seria/info/000002470",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "Can★Do 五反田東急スクエア店",
+    "brand": "キャンドゥ",
+    "distanceM": 1049,
+    "walkMin": 14,
+    "hours": "毎日 10:00-21:00",
+    "address": "東京都品川区東五反田2-1-2 五反田東急スクエア店6階",
+    "verified": true,
+    "source": "https://shopinfo.cando-web.co.jp/detail/shop-5169/",
+    "note": "距離は公式の店舗位置で計算。遠め"
+   }
+  ],
+  "donki": [
+   {
+    "name": "ドン・キホーテ 五反田東口店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 924,
+    "walkMin": 12,
+    "hours": "8:00-5:00",
+    "address": "東京都品川区東五反田一丁目12番地7号",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=606",
+    "note": "距離は住所の位置で計算。ドン・キホーテ公式サイトの店舗名は「五反田東口店」"
+   },
+   {
+    "name": "プラチナ ドン・キホーテ白金台店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 1088,
+    "walkMin": 14,
+    "hours": "24時間営業",
+    "address": "東京都港区白金台3-15-5",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=368",
+    "note": "距離は住所の位置で計算。遠め"
+   }
+  ]
+ },
+ "drinkDelivery": {
+  "available": true
+ },
+ "photo": {
+  "src": "/images/venues/prince-sakura-tower-tokyo.jpg",
+  "credit": "© 織美左衛門 / CC BY-SA 4.0 · Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Prince_Sakura_Tower_Tokyo_2024.jpg"
+ }
+}

@@ -1,0 +1,130 @@
+{
+ "slug": "shibuya-qws",
+ "name": "SHIBUYA QWS SCRAMBLE HALL",
+ "address": "Tokyo 150-6115 Shibuya Scramble Square 15F (inside SHIBUYA QWS), 2-24-12 Shibuya, Shibuya-ku",
+ "accessSummary": "Directly connected to and directly above Shibuya Station (from the \"office entrance\" on Basement 2 or the 2nd floor of Shibuya Scramble Square, take the elevator to the reception on the 15th floor)",
+ "hours": "Hall usage blocks: full day 9:00-22:00 / morning to afternoon 9:00-15:00 / afternoon to night 16:00-22:00 (with prior approval, 7:00-9:00 and 22:00-23:00 can also be used as extensions). The operations office reception is open 9:00-18:00. An hourly plan (55,000 yen per hour, tax included) is also available. Year-end and New Year closure: from 16:00 on Fri, December 25, 2026 to Sun, January 3, 2027.",
+ "notice": "Only the SCRAMBLE HALL on the 15th floor is rented out to outside organizers. SHIBUYA QWS itself is membership-based and does not accept drop-in use. Open events aimed at SHIBUYA QWS members may be subject to content restrictions.",
+ "rooms": [
+  {
+   "name": "SCRAMBLE HALL",
+   "note": "Area and ceiling height follow the official figures of about 200㎡ and about 4,000 mm. One waiting room (about 11㎡) is included. For classroom layout, the facility overview gives about 90 people, while the official sample layout drawings (as of October 2019) show classroom, vertical layout: 120 seats (40 desks) and 117 seats (39 desks). Workshop layout is 6 seats x 15 islands (90 seats). The standing figure is for party layout, about 100 people. Depending on the layout, capacity may be 200 or fewer."
+  }
+ ],
+ "ops": {
+  "loadingHours": "Load-in and load-out must be done within the hall's usage hours, and a load-in/out application form must be submitted at least 2 weeks before the usage date. Application forms are accepted for one vehicle per 20-minute time slot. Load-in/out at 7:00-9:00 and 22:00-22:30 (as written on the application form) requires the hall extension fee (45,000 yen per hour, 49,500 yen tax included). Advance packages are accepted from 2 days before to 1 day before the usage date, up to 5 to 6 pieces (size 200, up to 30 kg; as of November 2024).",
+  "vehicleRules": "Delivery vehicles must be 3.0 m or lower in height (the sample entry on the application form goes up to 2-ton trucks). Use the designated loading/unloading entrance for load-in and load-out; on-street parking and illegal parking on the surrounding roads are prohibited. Apply in advance and follow the instructions of the loading area manager. Depending on events at other facilities inside Shibuya Scramble Square, use of the parking lot and the load-in/out elevators may be adjusted (Terms of Use, June 2026 edition).",
+  "waitingRooms": "The one waiting room (about 11㎡) attached to the hall is included in the basic usage fee. Up to 3 waiting rooms can be used, including the attached one; rooms other than the attached one are charged and are first-come, first-served, including QWS members.",
+  "catering": "Catering, boxed meals and meeting refreshments are handled by Cafe HInT inside QWS, next door to the hall. Boxed meals and sweets from TOKYU Foodshow EDGE on Basement 2 can also be arranged. Please refrain from bringing in outside catering; if it is unavoidable, coordinate with the Cafe HInT staff. Cooking inside the hall is not allowed.",
+  "restaurants": "Cafe HInT is inside SHIBUYA QWS on the same 15th floor and offers party menus and boxed meals. The hall can be used for networking receptions (official FAQ)."
+ },
+ "documents": [
+  {
+   "title": "Terms of Use (June 2026 edition)"
+  },
+  {
+   "title": "Fee Schedule (April 2026 edition. Basic usage fee: full day 450,000 yen; morning to afternoon / afternoon to night 250,000 yen each, excluding tax. Outside basic hours: 45,000 yen per hour. Technical attendance fee: 40,000 yen per person)"
+  },
+  {
+   "title": "Equipment Fee Schedule (September 2023 edition)"
+  },
+  {
+   "title": "Usage Flow (June 2026 edition)"
+  },
+  {
+   "title": "Equipment List (August 2026 edition)"
+  },
+  {
+   "title": "Load-in/Out Application Form (submit at least 2 weeks before the usage date)"
+  },
+  {
+   "title": "About Delivered Packages (as of November 2024)"
+  },
+  {
+   "title": "About the Internet Environment"
+  },
+  {
+   "title": "Hourly Plan"
+  },
+  {
+   "title": "15F Overall Floor Plan"
+  },
+  {
+   "title": "Cross-Section Drawing"
+  },
+  {
+   "title": "Batten Plan"
+  },
+  {
+   "title": "Sample Layout: Classroom Layout"
+  },
+  {
+   "title": "Sample Layout: Workshop Layout"
+  },
+  {
+   "title": "Sample Layout: Party Layout (Basic Catering Layout)"
+  },
+  {
+   "title": "Cafe HInT Catering & Boxed Meal Menu"
+  },
+  {
+   "title": "Various Documents (SCRAMBLE HALL official)"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "7-Eleven Shibuya Station East Exit",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "Lawson LAWSON+toks Shibuya Sakura Stage",
+    "hours": "7:00-23:00",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "Lawson Shibuya Hikarie",
+    "hours": "7:00-22:00",
+    "note": "Distance is calculated from the official store location."
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "Kinko's Shibuya Sakura Stage",
+    "hours": "Weekdays 9:00-22:00 / Sat, Sun & holidays 9:00-22:00",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Accea Shibuya",
+    "hours": "Open 24 hours, every day of the year",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Standard Products Shibuya Mark City",
+    "hours": "9:30-21:00",
+    "note": "Distance is calculated from the official store location. The actual walking route is about 912 m."
+   },
+   {
+    "name": "DAISO Shibuya Mark City",
+    "hours": "9:30-21:00",
+    "note": "Distance is calculated from the official store location. The actual walking route is about 892 m."
+   }
+  ],
+  "donki": [
+   {
+    "name": "MEGA Don Quijote Shibuya Main Store",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "MEGA Don Quijote Shibuya Annex",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location."
+   }
+  ]
+ },
+ "photoCredit": "© Sakura Torch / CC BY-SA 4.0 · Wikimedia Commons"
+}

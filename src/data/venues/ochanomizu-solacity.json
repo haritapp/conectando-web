@@ -1,0 +1,335 @@
+{
+ "slug": "ochanomizu-solacity",
+ "nameJa": "御茶ノ水ソラシティカンファレンスセンター",
+ "nameEn": "sola city Conference Center",
+ "type": "conference",
+ "area": "kanda-suidobashi-venues",
+ "address": "〒101-0062 東京都千代田区神田駿河台4-6",
+ "officialUrl": "https://solacity.jp/",
+ "organizerUrl": "https://solacity.jp/service/flow/",
+ "bizintokyoSlug": "ochanomizu_solacity",
+ "accessSummary": "新御茶ノ水駅（東京メトロ千代田線）B2出口 直結／御茶ノ水駅（JR中央線・総武線）聖橋口 徒歩1分／御茶ノ水駅（東京メトロ丸ノ内線）1番出口 徒歩4分／小川町駅（都営新宿線）B3出口 徒歩6分",
+ "notice": null,
+ "hours": "原則8:00〜22:00の営業。早朝・深夜の利用は相談可。ご予約時間の15分前から開錠。",
+ "rooms": [
+  {
+   "name": "sola city Hall",
+   "areaM2": 585,
+   "ceilingM": 4.5,
+   "theater": 624,
+   "school": 408,
+   "ushape": null,
+   "standing": 360,
+   "banquet": null,
+   "note": "2階。スクール形式は縦使い408席・横使い396席。WEST・EASTの2室に分割可。別にレセプションホール159㎡（受付・展示・懇親会に使える）と12名収容の控室が付帯"
+  },
+  {
+   "name": "sola city Hall【West】",
+   "areaM2": 291,
+   "ceilingM": 4.5,
+   "theater": 288,
+   "school": 198,
+   "ushape": null,
+   "standing": 180,
+   "banquet": null,
+   "note": "2階。島形式144名。レセプションホール159㎡と洗面台付きの控室が付帯"
+  },
+  {
+   "name": "sola city Hall【East】",
+   "areaM2": 294,
+   "ceilingM": 4.5,
+   "theater": 288,
+   "school": 198,
+   "ushape": null,
+   "standing": 180,
+   "banquet": null,
+   "note": "2階。島形式144名。洗面台付きの控室が付帯"
+  },
+  {
+   "name": "Terrace Room",
+   "areaM2": 142,
+   "ceilingM": 4,
+   "theater": 98,
+   "school": 72,
+   "ushape": 48,
+   "standing": 70,
+   "banquet": null,
+   "note": "2階。島形式63名。sola city Hallの映像・音声を共有してサテライト会場にできる"
+  },
+  {
+   "name": "Room A",
+   "areaM2": 112,
+   "ceilingM": 3.5,
+   "theater": 84,
+   "school": 56,
+   "ushape": 32,
+   "standing": 40,
+   "banquet": null,
+   "note": "1階。島形式36名。貸切時は控室としても使われている"
+  },
+  {
+   "name": "Room B",
+   "areaM2": 173,
+   "ceilingM": 3.5,
+   "theater": 144,
+   "school": 96,
+   "ushape": 44,
+   "standing": 80,
+   "banquet": null,
+   "note": "1階。島形式66名"
+  },
+  {
+   "name": "Room C",
+   "areaM2": 227,
+   "ceilingM": 3.5,
+   "theater": 184,
+   "school": 144,
+   "ushape": 66,
+   "standing": 120,
+   "banquet": null,
+   "note": "1階。島形式126名"
+  },
+  {
+   "name": "Room D",
+   "areaM2": 53,
+   "ceilingM": 3.5,
+   "theater": 45,
+   "school": 30,
+   "ushape": 24,
+   "standing": 20,
+   "banquet": null,
+   "note": "1階。島形式18名。可動壁でD-1（21㎡）とD-2（32㎡）に分割可。スタッフ用控室やクロークとして使われることも多い"
+  },
+  {
+   "name": "Room D-1【分割】",
+   "areaM2": 21,
+   "ceilingM": 3.5,
+   "theater": null,
+   "school": null,
+   "ushape": 12,
+   "standing": null,
+   "banquet": null,
+   "note": "1階。島形式12名。面接などにも使われている"
+  },
+  {
+   "name": "Room D-2【分割】",
+   "areaM2": 32,
+   "ceilingM": 3.5,
+   "theater": null,
+   "school": null,
+   "ushape": 16,
+   "standing": null,
+   "banquet": null,
+   "note": "1階。島形式16名"
+  }
+ ],
+ "roomsSource": "https://solacity.jp/facility/",
+ "ops": {
+  "loadingHours": {
+   "text": "荷捌きスペースの受付は平日7:30〜19:00、土曜9:00〜17:00。これ以外の時間は荷捌きのシャッターが閉まっているため、カンファレンスセンター（03-6206-4855）に電話するとスタッフが迎えに来る。荷捌きスペースと搬入出用エレベーターの利用には事前申請書が必要で、ご利用日の3日前まで（3日前が土日祝の場合は前の平日まで）に申請フォームから提出する。搬入用エレベーター（25・26号機）は最大積載1,700kg、箱W1,400×D2,000×H3,000mm、扉W1,400×H2,500mm。1階の会場（Room A〜D）は26号機、2階の会場（sola city Hall・Terrace Room）は25号機を使う。",
+   "source": "https://solacity.jp/access/carrying/"
+  },
+  "vehicleRules": {
+   "text": "ビル北側・淡路坂（線路沿い）の駐車場入口から入り、荷捌き側に進む（右折入庫はできない）。入口の高さ制限は2.9m。荷捌き所の利用は原則15分以内で、留め置きはできず、留め置く場合は駐車場へ移動する。荷捌き所を15分以上使うと300円/30分がかかるが、カンファレンスセンター利用者は事前申請により最大1時間まで無料。必ず1名は車両に待機し、搬入出時は養生をする。",
+   "source": "https://solacity.jp/access/carrying/"
+  },
+  "parking": {
+   "text": "地下2階の機械式駐車場。営業時間は7:00〜21:00（全館停電日を除く）、料金は300円/30分で、最大料金は月〜金2,400円・土日祝2,000円。車両制限は長さ5.6m・幅1.95m・高さ2.05m・重量2.6t。21時以降は入庫・出庫・車寄せの利用ができない。隣のビル（ワテラス）の駐車場は24時間営業（2026年2月時点）。",
+   "source": "https://solacity.jp/assets/pdf/porch_guide.pdf"
+  },
+  "waitingRooms": {
+   "text": "sola city Hallには12名収容の控室と、受付・展示・懇親会に使えるレセプションホール（159㎡）が付帯する。WESTとEASTには洗面台付きの控室が付帯する。",
+   "source": "https://solacity.jp/facility/solacity-hall/"
+  },
+  "catering": {
+   "text": "主催者による飲食物の持ち込み・手配・提供はできず、運営者の提携業者に頼む（使用規則でも、運営者指定業者以外の飲食物の持ち込みを禁止している）。参加者が個人で持ち込むのは可能。お弁当や懇親会は、複数の提携業者の中から要望と予算に合わせて提案を受けて手配する。アレルギーがある参加者がいる場合は事前に知らせると、対応できる業者と方法を案内してもらえる（使用規則は2026年6月1日現在）。",
+   "source": "https://solacity.jp/service/faq/"
+  },
+  "restaurants": {
+   "text": "ソラシティ地下1階と、地下1階の連絡通路でつながるワテラスモール（1〜3階がレストラン街）に飲食店がある。公式サイトは、同ビルや近隣のカフェ・飲食店をイベントの前後や打ち上げに使う店として案内している。",
+   "source": "https://solacity.jp/access/sightseeing/"
+  }
+ },
+ "documents": [
+  {
+   "title": "搬入出のご案内",
+   "url": "https://solacity.jp/assets/pdf/carry_guide.pdf"
+  },
+  {
+   "title": "駐車場（車寄せ）のご案内（2026年2月時点）",
+   "url": "https://solacity.jp/assets/pdf/porch_guide.pdf"
+  },
+  {
+   "title": "使用規則（2026年6月1日現在）",
+   "url": "https://solacity.jp/assets/pdf/rules.pdf"
+  },
+  {
+   "title": "会場備品リスト（2026年6月時点）",
+   "url": "https://solacity.jp/assets/pdf/equipment_list.pdf"
+  },
+  {
+   "title": "宅配便のご案内（2026年4月版）",
+   "url": "https://solacity.jp/assets/pdf/delivery.pdf"
+  },
+  {
+   "title": "会場料金表・収容人数",
+   "url": "https://solacity.jp/assets/pdf/common_floor.pdf"
+  },
+  {
+   "title": "2027年4月1日以降のご使用料金改定のお知らせ・会場料金表（2026年9月）",
+   "url": "https://solacity.jp/assets/pdf/notice_of_charge_revision_2027.pdf"
+  },
+  {
+   "title": "sola city Hall 設備概要",
+   "url": "https://solacity.jp/assets/pdf/room_hall_overview.pdf"
+  },
+  {
+   "title": "電源・LAN回路図",
+   "url": "https://solacity.jp/assets/pdf/room_dengen_kairo.pdf"
+  },
+  {
+   "title": "インターネットのご案内",
+   "url": "https://solacity.jp/assets/pdf/Internet.pdf"
+  },
+  {
+   "title": "21時以降ご利用のお客様へ（退館ルート）",
+   "url": "https://solacity.jp/assets/pdf/after_2100.pdf"
+  },
+  {
+   "title": "会場案内表示",
+   "url": "https://solacity.jp/assets/pdf/venue_map.pdf"
+  },
+  {
+   "title": "避難経路図",
+   "url": "https://solacity.jp/assets/pdf/evacuation_route.pdf"
+  },
+  {
+   "title": "レイアウト図・スケール図・各形式のレイアウト例",
+   "url": "https://solacity.jp/document/"
+  },
+  {
+   "title": "ドリンクメニュー",
+   "url": "https://solacity.jp/assets/pdf/drink_menu.pdf"
+  }
+ ],
+ "checkedAt": "2026-11-02",
+ "lat": 35.698673,
+ "lng": 139.766403,
+ "nearby": {
+  "convenience": [
+   {
+    "name": "ファミリーマート 御茶ノ水ソラシティ店",
+    "brand": "ファミリーマート",
+    "distanceM": 20,
+    "walkMin": 1,
+    "hours": "7:00-23:00",
+    "address": "東京都千代田区神田駿河台4丁目6番地",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/24900",
+    "note": "距離は公式の店舗位置で計算。公式の店舗名は「ファミマ御茶ノ水ソラシティ店」。会場と同じ住所（神田駿河台4-6）"
+   },
+   {
+    "name": "ローソン お茶の水サンクレール店",
+    "brand": "ローソン",
+    "distanceM": 151,
+    "walkMin": 2,
+    "hours": "7:00-22:00",
+    "address": "東京都千代田区神田駿河台4-3-1",
+    "verified": true,
+    "source": "https://www.areamarker.com/lawson/info/369410",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "セブン-イレブン 神田淡路町ワテラス店",
+    "brand": "セブン-イレブン",
+    "distanceM": 187,
+    "walkMin": 3,
+    "hours": "7:00-23:00（月〜日・祝）",
+    "address": "東京都千代田区神田淡路町2丁目105番地",
+    "verified": true,
+    "source": "https://seven-eleven.areamarker.com/711map/info/271199",
+    "note": "距離は公式の店舗位置で計算"
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "アクセア 淡路町店",
+    "brand": "アクセア",
+    "distanceM": 346,
+    "walkMin": 5,
+    "hours": "平日 9:00-20:00／土日祝 休み",
+    "address": "東京都千代田区神田淡路町1-3-1 トーハン淡路町ビル1F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/map/awajicho.html",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "アクセア 小川町店",
+    "brand": "アクセア",
+    "distanceM": 463,
+    "walkMin": 6,
+    "hours": "平日 8:00-22:00／土日祝 10:00-19:00",
+    "address": "東京都千代田区神田小川町2-2-2 小川町B5ビル1F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/map/ogawamachi.html",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Can★Do 秋葉原店",
+    "brand": "キャンドゥ",
+    "distanceM": 415,
+    "walkMin": 6,
+    "hours": "毎日 10:00-21:00",
+    "address": "東京都千代田区外神田3-3-10",
+    "verified": true,
+    "source": "https://shopinfo.cando-web.co.jp/detail/shop-2832/",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "3COINS アトレ秋葉原店",
+    "brand": "3COINS",
+    "distanceM": 532,
+    "walkMin": 7,
+    "hours": "10:00-21:00",
+    "address": "東京都千代田区外神田1-17-6 アトレ秋葉原1 3F",
+    "verified": true,
+    "source": "https://palcloset.storelocator.jp/detail/1564",
+    "note": "距離は公式の店舗位置で計算。実際の道のりは約816m"
+   }
+  ],
+  "donki": [
+   {
+    "name": "ドン・キホーテ 秋葉原店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 527,
+    "walkMin": 7,
+    "hours": "24時間営業",
+    "address": "東京都千代田区外神田4丁目3-3",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=98",
+    "note": "距離は住所の位置で計算。ドン・キホーテ公式サイトの店舗名は「秋葉原店」"
+   },
+   {
+    "name": "ドン・キホーテ 上野店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 1125,
+    "walkMin": 15,
+    "hours": "9:00-4:00",
+    "address": "東京都文京区湯島3-38-10",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=107",
+    "note": "距離は住所の位置で計算。遠め。ドン・キホーテ公式サイトの店舗名は「上野店」。実際の道のりは約1,401m"
+   }
+  ]
+ },
+ "drinkDelivery": {
+  "available": true
+ },
+ "photo": {
+  "src": "/images/venues/ochanomizu-solacity.jpg",
+  "credit": "© 掬茶 / CC BY-SA 3.0 · Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ochanomizu_SolaCity_20130721.jpg"
+ }
+}

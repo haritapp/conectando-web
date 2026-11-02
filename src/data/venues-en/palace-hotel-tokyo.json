@@ -1,0 +1,218 @@
+{
+ "slug": "palace-hotel-tokyo",
+ "name": "Palace Hotel Tokyo",
+ "address": "Tokyo 100-0005 1-1-1 Marunouchi, Chiyoda-ku",
+ "accessSummary": "Otemachi Station (Chiyoda, Hanzomon, Marunouchi, Tozai and Toei Mita Lines) Exit C13b: directly connected via an underground passage / Tokyo Station (JR) Marunouchi North Exit: 8 min walk",
+ "hours": "Usage hours for the Boardroom and Meeting Rooms on the 19th floor are 8:00-21:00",
+ "notice": null,
+ "rooms": [
+  {
+   "name": "2F Aoi Ballroom - Full Span",
+   "note": "Can be divided into A (east) 368㎡, B+C (center) 347㎡ and D (west) 379㎡. Combinations are also available: A+B 557㎡, A+B+C 748㎡, C+D 570㎡ and B+C+D 759㎡. The large window is 7 m high and 22 m wide. 8 motorized lifting screens"
+  },
+  {
+   "name": "2F Aoi Ballroom - Full Span + Foyer",
+   "note": "Foyer ceiling height 3.7 m. Reception only, 1,500 people"
+  },
+  {
+   "name": "2F Aoi Ballroom - 2/3",
+   "note": "Size of B+C+D"
+  },
+  {
+   "name": "2F Aoi Ballroom - 1/2",
+   "note": "Size of C+D (the largest of the division patterns)"
+  },
+  {
+   "name": "2F Aoi Ballroom - 1/3",
+   "note": "Size of D (west)"
+  },
+  {
+   "name": "2F Ume - Full Span",
+   "note": "A (90㎡): dining 40, reception 60, classroom 48, theater 84, hollow square 36. B (108㎡): dining 50, reception 70, classroom 60, theater 112, hollow square 42"
+  },
+  {
+   "name": "2F Ume - 1/2",
+   "note": "Size of B (the largest of the division patterns)"
+  },
+  {
+   "name": "2F Tachibana",
+   "note": null
+  },
+  {
+   "name": "2F Hagi - Full Span",
+   "note": "A (81㎡): dining 30, reception 50, classroom 54, theater 75, hollow square 30. B (68㎡): reception 40, classroom 36, theater 70"
+  },
+  {
+   "name": "2F Hagi - 1/2",
+   "note": "Size of A (the largest of the division patterns)"
+  },
+  {
+   "name": "4F Yamabuki - Full Span",
+   "note": "Can be divided into A and B (west and east)"
+  },
+  {
+   "name": "4F Yamabuki - Full Span + Foyer",
+   "note": "Foyer ceiling height 4.0 m. Reception only, 600 people. Balcony available"
+  },
+  {
+   "name": "4F Yamabuki - 1/2",
+   "note": "Size of A or B (the largest of the division patterns)"
+  },
+  {
+   "name": "4F Fuyo - Full Span",
+   "note": "Can be divided into A (64㎡) and B (66㎡)"
+  },
+  {
+   "name": "4F Fuyo - 1/2",
+   "note": "Size of B (the largest of the division patterns)"
+  },
+  {
+   "name": "4F Nadeshiko - Full Span",
+   "note": "Can be divided into A (49㎡) and B (50㎡)"
+  },
+  {
+   "name": "4F Nadeshiko - 1/2",
+   "note": "Size of B (the largest of the division patterns)"
+  },
+  {
+   "name": "4F Kikyo",
+   "note": null
+  },
+  {
+   "name": "19F Boardroom",
+   "note": "Up to 26 people (boardroom layout). The area includes the 90㎡ boardroom anteroom. Hotel guests have priority; for use without an overnight stay, reservations are accepted from 1 month before the day of use"
+  },
+  {
+   "name": "19F Meeting Room I",
+   "note": "Up to 12 people (boardroom layout)"
+  },
+  {
+   "name": "19F Meeting Room II",
+   "note": "Up to 12 people. Supports boardroom, classroom, hollow square and U-shape layouts (free layout)"
+  },
+  {
+   "name": "19F Meeting Room III",
+   "note": "Up to 6 people. Round table (cannot be moved). No AV equipment"
+  }
+ ],
+ "ops": {
+  "loadingHours": "A large lift can carry in vehicles and large exhibits (2.2 m x 2.2 m x 5.3 m, up to 3 t). (May 2026 factsheet)",
+  "vehicleRules": "The parking garage is entered from two places, Uchibori-dori and Eitai-dori. The entrance heights are: hotel entrance (Uchibori-dori side) 2.5 m, Eitai-dori side entrance 3 m, and loading dock (B2F) 3 m. The width (3 m) and length (6.5 m) are the same for all.",
+  "parking": "Underground parking for 350 cars. The fee is free for the first 30 minutes, then 500 yen per 30 minutes. There are 3 motorcycle-only spaces: free for the first 30 minutes, then 100 yen per 60 minutes. Banquet attendees get up to 4 hours free (tell the cloakroom). With restaurant use, parking is free for up to 2 hours for 5,000 yen or more and up to 4 hours for 10,000 yen or more.",
+  "waitingRooms": "There is a women's changing room (capacity 10) on the 2nd floor and a men's changing room (capacity 5) on the 3rd floor, with full-length mirrors and hangers provided. The floor map shows a dedicated waiting room for Aoi and a cloakroom.",
+  "catering": "Banquet cuisine is prepared by the hotel's chefs. Bringing in sake or wine incurs the prescribed corkage fee, and the amount is to be discussed with the banquet staff. Taking leftover food home is not possible for food hygiene reasons. Wi-Fi is free; wired LAN is 11,000 yen (tax included). There is also a catering service in which the hotel goes to a designated location (standing receptions from 30 people, seated dinners from 10 people).",
+  "restaurants": "The hotel has the French restaurant Esterre, the all-day dining restaurant Grand Kitchen, the Japanese restaurant Wadakura, the tempura restaurant Tatsumi, the teppanyaki restaurant GO, the Chinese restaurant Amber Palace and the sushi restaurant Sushi Kanesaka. Private room plans that can be used for private-hire parties and buffets are officially offered, and Grand Kitchen has a party plan with free-flow drinks."
+ },
+ "documents": [
+  {
+   "title": "Meetings & Events (official)"
+  },
+  {
+   "title": "Meeting Services & Facilities (official)"
+  },
+  {
+   "title": "Factsheet (PDF, May 2026 edition)"
+  },
+  {
+   "title": "2F and 4F Floor Map (PDF)"
+  },
+  {
+   "title": "Aoi Floor Plan (PDF)"
+  },
+  {
+   "title": "Ume Floor Plan (PDF)"
+  },
+  {
+   "title": "Tachibana Floor Plan (PDF)"
+  },
+  {
+   "title": "Hagi Floor Plan (PDF)"
+  },
+  {
+   "title": "Yamabuki Floor Plan (PDF)"
+  },
+  {
+   "title": "Fuyo Floor Plan (PDF)"
+  },
+  {
+   "title": "Nadeshiko Floor Plan (PDF)"
+  },
+  {
+   "title": "Kikyo Floor Plan (PDF)"
+  },
+  {
+   "title": "19F Boardroom and Meeting Rooms Floor Plan (PDF)"
+  },
+  {
+   "title": "Using the Hotel for Conferences and Meetings (official)"
+  },
+  {
+   "title": "Catering Service (official)"
+  },
+  {
+   "title": "FAQ: Banquets & Meetings (official)"
+  },
+  {
+   "title": "Access Map (PDF, July 2025 edition)"
+  },
+  {
+   "title": "Terms of Use (official)"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "7-Eleven Marunouchi Palace Building",
+    "hours": "7:00-23:00 (Mon-Sun & holidays)",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "FamilyMart Otemon Tower",
+    "hours": "7:00-23:00",
+    "note": "Distance is calculated from the official store location. The official store name is \"Famima Otemon Tower\" (ファミマ大手門タワー店)."
+   },
+   {
+    "name": "Lawson Otemachi Center Building",
+    "hours": "7:00-21:00",
+    "note": "Distance is calculated from the official store location."
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "Kinko's Otemachi",
+    "hours": "Weekdays 9:00-20:00 / Closed Sat, Sun & holidays",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Accea Otemachi",
+    "hours": "Open 24 hours (open every day of the year)",
+    "note": "Distance is calculated from the address location. The actual walking distance is about 1,010 m. Rather far."
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Can Do Marunouchi Oazo",
+    "hours": "Mon-Fri 8:00-22:00 / Sat, Sun & holidays 9:00-21:00",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "3COINS Yaechika",
+    "hours": "10:00-21:00",
+    "note": "Distance is calculated from the official store location."
+   }
+  ],
+  "donki": [
+   {
+    "name": "Don Quijote Ginza Main Building (Ginza Nine Building No. 3)",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. The actual walking distance is about 2,345 m. Far."
+   },
+   {
+    "name": "Don Quijote Akihabara",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. The store name on the official Don Quijote website is \"Akihabara\" (秋葉原店). The actual walking distance is about 2,302 m. Far."
+   }
+  ]
+ },
+ "photoCredit": "© Tokyo538 / CC0 · Wikimedia Commons"
+}

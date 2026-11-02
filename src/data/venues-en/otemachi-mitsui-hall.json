@@ -1,0 +1,153 @@
+{
+ "slug": "otemachi-mitsui-hall",
+ "name": "Otemachi Mitsui Hall",
+ "address": "Tokyo 100-0004 Otemachi One 3F, 1-2-1 Otemachi, Chiyoda-ku",
+ "accessSummary": "Otemachi Station (Tokyo Metro Chiyoda Line): directly connected, about 2 min walk / Otemachi Station (Tokyo Metro Hanzomon Line): directly connected, about 3 min walk / Otemachi Station (Tokyo Metro Marunouchi Line): directly connected, about 5 min walk / Otemachi Station (Toei Mita Line): directly connected, about 6 min walk / Otemachi Station (Tokyo Metro Tozai Line): directly connected, about 9 min walk; Takebashi Station: about 5 min walk / JR Tokyo Station Marunouchi Central Exit: connected by underground passage, about 12 min walk",
+ "hours": "Open every day of the year in principle (terms of use). The basic venue fee covers use from 9:00 to 20:00, and hourly use has a minimum of 5 hours. Entertainment use is only on Fridays, Saturdays, Sundays, holidays and specific days designated by the operator. The usage period includes the time from event preparation to restoration to original condition, and before 9:00 and after 20:00 an overtime extension fee is charged whatever the purpose, such as preparation, setup or teardown (operator approval required). From 23:00 to 8:00, a late-night and early-morning surcharge applies separately",
+ "notice": null,
+ "rooms": [
+  {
+   "name": "Hall",
+   "note": "Theater: 560 seats (280 movable seats + 280 front seats), up to 638 seats when the portable stage is used. Classroom, 3 per desk: up to 480 seats (24 seats x 20 rows), 408 seats when the lift stage is used. For 2 per desk, the facility overview (as of September 1, 2021) gives up to 320 seats and 272 seats when the lift stage is used; the layout drawings show 224 seats with the lift stage and 272 seats with the portable stage. Group layout: 216 seats (24 islands) with the lift stage, 252 seats (28 islands) with the portable stage. Standing party: about 500 people. The area with the movable seating stored is about 630㎡ (190 tsubo). About 18 m wide x 38 m deep; the ceiling height is 7.0 m from the floor to the underside of the battens. Lift stage: W15.0 x D6.0 x H0-1.2 m. Can be used as one space with the foyer through a sliding wall. The terms of use prohibit more than 700 people and heavy items over 350 kg/㎡. The business-use page includes a drawing of a 548-seat theater layout as operations preparation material dated August 1, 2019."
+  },
+  {
+   "name": "Foyer",
+   "note": "About 115 tsubo, about 19.5 m wide x 19.5 m deep. 7 m high (3.2 m in part). Has a cloakroom, 1 bar counter, 1 smoking room, and restrooms (men: 10 urinals, 10 stalls, 6 vanities / women: 19 stalls, 7 vanities / 1 multipurpose restroom). Can be used as one space with the hall through a sliding wall."
+  }
+ ],
+ "ops": {
+  "loadingHours": "The loading dock is on B2F. Vehicles up to 2,300 mm wide x 8,700 mm deep x 3,200 mm high can enter. It is available 24 hours, but the shutter is closed from 1:00 to 5:00, so an application is required. Use the hall's dedicated freight elevator (3,000 mm wide x 6,000 mm deep x 3,000 mm high, load capacity 10 t, vehicles can be carried in) to go up to the 3rd floor, where the hall is. The diagram marks \"card key required\" in front of the elevator. The load-in and load-out schedule is decided at the final meeting 2 weeks before the event. When using incidental equipment, hold a meeting with the operator on the load-in/out plan and other documents at least 1 month before the first day of use. (Source: Load-in Route Diagram as of November 2024, Facility Overview as of September 1, 2021, Steps Before Use, Terms of Use revised March 20, 2024). For advance mailing of packages, send them with arrival specified for the day before the use date. Packages that arrive before the day before cannot be stored.",
+  "vehicleRules": "Only vehicles can enter the B2F loading dock; it cannot be entered on foot. There are 3 loading and parking spaces dedicated to the hall (spaces No. 22, 23 and 24). Loading vehicles cannot enter B3F (the ceiling height is 2.9 m, so there is a risk of contact). You cannot go down directly from the B2F loading dock to the B3F parking lot; exit once and enter again. Parking bicycles, motorcycles and cars on the street at or near the hall is prohibited by the terms of use. (Source: Load-in Route Diagram as of November 2024, Terms of Use revised March 20, 2024)",
+  "parking": "The general parking lot is on B3F, with about 100 spaces. Vehicle limits are 1,900 mm wide x 5,300 mm deep x 2,050 mm high and 2,300 kg. Business hours are 7:00-23:00, and entry and exit outside business hours is not possible. 7:00-8:30 and 11:00-12:00 are crowded, and entering may take time. The fee is 400 yen per 30 minutes (no maximum). (Source: Load-in Route Diagram as of November 2024)",
+  "waitingRooms": "There are 6 waiting rooms behind the hall (Room 2+3 can be divided in two). Room 1 is 25.5㎡ (dressing room spec), Room 2+3 is 50.8㎡ (dressing room spec), Room 4 is 16.2㎡ (organizer waiting room spec), Room 5 is 32.7㎡ (large-group waiting room spec), and Room 6 is 17.7㎡ (VIP spec, with powder room). There are 1 shower room, 1 pantry and 1 smoking room in the back area. On 4F there are a simultaneous interpretation room (2 booths) and a control room. (Source: Facility Overview as of September 1, 2021, Business Use Overview)",
+  "catering": "The terms of use treat food and drink as an arranged item alongside equipment, fixtures and technical staff, and set the cancellation fee at the full estimated amount of the arranged items if the booking is cancelled within 14 days of the first day of use. Eating, drinking and smoking outside the places designated by the operator are prohibited. Users take their trash home; if it is disposed of at the venue, a separate disposal fee applies. (Source: Terms of Use revised March 20, 2024, Price List as of June 26, 2026)",
+  "restaurants": "OTEMACHI ONE AVENUE in the basement of Otemachi One is directly connected to Otemachi Station and has a wide range of restaurants and other stores. The venue publishes a layout drawing for a standing party using the hall and foyer (about 500 people). The upper floors house the Four Seasons Hotel Tokyo at Otemachi. (Source: Facility Overview page, Document Download page. Includes information from the operations preparation material dated August 1, 2019)"
+ },
+ "documents": [
+  {
+   "title": "Facility Overview (as of September 1, 2021)"
+  },
+  {
+   "title": "Price List (as of June 26, 2026, for bookings accepted from April 2026)"
+  },
+  {
+   "title": "Terms of Use (revised March 20, 2024)"
+  },
+  {
+   "title": "Load-in Route Diagram (as of November 2024)"
+  },
+  {
+   "title": "Access"
+  },
+  {
+   "title": "3F Floor Plan"
+  },
+  {
+   "title": "3F Floor Plan (with scale)"
+  },
+  {
+   "title": "4F Floor Plan"
+  },
+  {
+   "title": "Hall Cross-Section"
+  },
+  {
+   "title": "Evacuation Route Diagram"
+  },
+  {
+   "title": "Equipment List (as of June 1, 2026)"
+  },
+  {
+   "title": "Sound Equipment List"
+  },
+  {
+   "title": "Sound Guide (for incoming sound companies)"
+  },
+  {
+   "title": "Lighting Equipment List (May 20, 2024)"
+  },
+  {
+   "title": "Lighting Guide (for incoming lighting companies)"
+  },
+  {
+   "title": "Video Equipment List (August 1, 2022)"
+  },
+  {
+   "title": "Stage Mechanism List"
+  },
+  {
+   "title": "Theater Layout for 638 Seats"
+  },
+  {
+   "title": "Theater Layout for 560 Seats"
+  },
+  {
+   "title": "Classroom Layout for 480 Seats (3 per desk)"
+  },
+  {
+   "title": "Group Layout for 252 Seats"
+  },
+  {
+   "title": "Standing Party Layout for about 500 People"
+  },
+  {
+   "title": "Document Downloads (official page)"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "FamilyMart Otemachi Park Building",
+    "hours": "7:00-23:00",
+    "note": "Distance is calculated from the official store location. The official store name is \"Famima Otemachi Park Building Store\"."
+   },
+   {
+    "name": "Lawson Ote Center Building",
+    "hours": "7:00-21:00",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "7-Eleven KDDI Otemachi Building",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location."
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "Kinko's Otemachi",
+    "hours": "Weekdays 9:00-20:00 / Sat, Sun & holidays closed",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Accea Otemachi",
+    "hours": "Open 24 hours (open every day of the year)",
+    "note": "Distance is calculated from the address location. The actual walking route is about 767 m."
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Can Do Marunouchi Oazo",
+    "hours": "Mon-Fri 8:00-22:00 / Sat-Sun 9:00-21:00",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "DAISO Kanda-Jimbocho Suzuran-dori",
+    "hours": "10:00-21:00",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "donki": [
+   {
+    "name": "Don Quijote Akihabara",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. Far. The store name on the Don Quijote official website is \"Akihabara Store\". The actual walking route is about 2,059 m."
+   },
+   {
+    "name": "Don Quijote Korakuen",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. Far. The store name on the Don Quijote official website is \"Korakuen Store\". The actual walking route is about 2,375 m."
+   }
+  ]
+ },
+ "photoCredit": "© VVVN / CC BY 3.0 · Wikimedia Commons"
+}

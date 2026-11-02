@@ -1,0 +1,430 @@
+{
+ "slug": "otemachi-place",
+ "nameJa": "大手町プレイス ホール＆カンファレンス",
+ "nameEn": "OtemachiPLACE HALL & CONFERENCE",
+ "type": "conference",
+ "area": "marunouchi-nihonbashi-venues",
+ "address": "〒100-0004 東京都千代田区大手町二丁目3番1号 大手町プレイス（イーストタワー）1F・2F",
+ "officialUrl": "https://otemachi-place-hc.jp/",
+ "organizerUrl": "https://otemachi-place-hc.jp/flow/",
+ "bizintokyoSlug": "otemachi_place",
+ "accessSummary": "大手町駅 A5出口 徒歩1分（直結。東京メトロ丸ノ内線・東西線・千代田線・半蔵門線、都営三田線）／JR東京駅 丸の内北口 徒歩約7分",
+ "notice": null,
+ "hours": "ホールを含む利用は24時間可（本番は22:30まで）。ホールを含まない会議室は8:00〜22:00。22:00〜8:00の利用は深夜早朝手数料。時間区分は9:00-12:00／13:00-17:00／18:00-21:00。問い合わせ窓口は平日10:00〜19:00。ビル休館日（11月第四土曜・日曜）と年末年始（12月30日〜1月3日）は休業（利用規則第5条）。利用期間には準備から原状回復までの時間が含まれ、準備・設営・撤去のための延長は時間外延長料の対象（運営者の承認が必要）",
+ "rooms": [
+  {
+   "name": "2F ホールA+B",
+   "areaM2": 750,
+   "ceilingM": 5.0,
+   "theater": 742,
+   "school": 304,
+   "ushape": null,
+   "standing": 400,
+   "banquet": null,
+   "note": "スクール2名掛けは304（公式ページの表は322）。3名掛け456（横）。グループ形式270（公式ページは297）。シアターはレイアウト例で横726・縦744。窓あり、遮光ブラインドで暗転可"
+  },
+  {
+   "name": "2F ホールA",
+   "areaM2": 365,
+   "ceilingM": 5.0,
+   "theater": 330,
+   "school": 144,
+   "ushape": null,
+   "standing": 200,
+   "banquet": null,
+   "note": "スクール3名掛け216。グループ形式135。立食は約200名"
+  },
+  {
+   "name": "2F ホールB",
+   "areaM2": 365,
+   "ceilingM": 5.0,
+   "theater": 330,
+   "school": 144,
+   "ushape": null,
+   "standing": 200,
+   "banquet": null,
+   "note": "スクール3名掛け216。グループ形式135。立食は約200名。プロジェクター・スクリーンが2式あり縦使い・横使いを選べる"
+  },
+  {
+   "name": "2F ルーム201（201a+b+c）",
+   "areaM2": 122,
+   "ceilingM": 2.5,
+   "theater": 90,
+   "school": 48,
+   "ushape": 48,
+   "standing": 50,
+   "banquet": null,
+   "note": "スクール3名掛け72。グループ形式54（料金表PDFでは「-」）。立食は約50名。レイアウト例のページではシアター110名の記載もある"
+  },
+  {
+   "name": "2F ルーム201a",
+   "areaM2": 39,
+   "ceilingM": 2.5,
+   "theater": null,
+   "school": null,
+   "ushape": 18,
+   "standing": null,
+   "banquet": null,
+   "note": "ロの字は3名掛け。控室形式18名"
+  },
+  {
+   "name": "2F ルーム201b",
+   "areaM2": 38,
+   "ceilingM": 2.5,
+   "theater": null,
+   "school": null,
+   "ushape": 18,
+   "standing": null,
+   "banquet": null,
+   "note": "ロの字は3名掛け。控室形式18名"
+  },
+  {
+   "name": "2F ルーム201c",
+   "areaM2": 45,
+   "ceilingM": 2.5,
+   "theater": null,
+   "school": null,
+   "ushape": 18,
+   "standing": null,
+   "banquet": null,
+   "note": "ロの字は3名掛け"
+  },
+  {
+   "name": "2F ルーム202",
+   "areaM2": 78,
+   "ceilingM": 3.5,
+   "theater": 67,
+   "school": 24,
+   "ushape": 36,
+   "standing": 30,
+   "banquet": null,
+   "note": "スクール3名掛け36。グループ形式30。立食は約30名。定員の表記は20名〜69名"
+  },
+  {
+   "name": "1F カンファレンス101",
+   "areaM2": 107,
+   "ceilingM": 3.5,
+   "theater": 90,
+   "school": 42,
+   "ushape": 42,
+   "standing": 40,
+   "banquet": null,
+   "note": "スクール3名掛け63。グループ形式45。立食は約40名"
+  },
+  {
+   "name": "1F カンファレンス102",
+   "areaM2": 86,
+   "ceilingM": 3.5,
+   "theater": 60,
+   "school": 30,
+   "ushape": 36,
+   "standing": 30,
+   "banquet": null,
+   "note": "スクール3名掛け45。グループ形式36。立食は約30名。ロの字は料金表PDFが36、公式ページの表は30"
+  },
+  {
+   "name": "1F カンファレンス103",
+   "areaM2": 129,
+   "ceilingM": 3.5,
+   "theater": 110,
+   "school": 48,
+   "ushape": 48,
+   "standing": 50,
+   "banquet": null,
+   "note": "スクール3名掛け72。グループ形式54。立食は約50名"
+  },
+  {
+   "name": "1F カンファレンス104",
+   "areaM2": 24,
+   "ceilingM": 2.8,
+   "theater": null,
+   "school": null,
+   "ushape": 8,
+   "standing": null,
+   "banquet": null,
+   "note": "控室形式8名"
+  },
+  {
+   "name": "1F カンファレンス105",
+   "areaM2": 98,
+   "ceilingM": 3.5,
+   "theater": 99,
+   "school": 44,
+   "ushape": 42,
+   "standing": 40,
+   "banquet": null,
+   "note": "スクール3名掛け66。グループ形式54。立食は約40名"
+  },
+  {
+   "name": "1F カンファレンス106+107",
+   "areaM2": 104,
+   "ceilingM": 3.5,
+   "theater": 90,
+   "school": 44,
+   "ushape": 42,
+   "standing": 40,
+   "banquet": null,
+   "note": "スクール3名掛け66。グループ形式54。立食は約40名"
+  },
+  {
+   "name": "1F カンファレンス106",
+   "areaM2": 45,
+   "ceilingM": 3.5,
+   "theater": null,
+   "school": null,
+   "ushape": 24,
+   "standing": null,
+   "banquet": null,
+   "note": "控室形式18名"
+  },
+  {
+   "name": "1F カンファレンス107",
+   "areaM2": 59,
+   "ceilingM": 3.5,
+   "theater": null,
+   "school": null,
+   "ushape": 30,
+   "standing": null,
+   "banquet": null,
+   "note": "控室形式36名"
+  },
+  {
+   "name": "全館貸切（2F+1F）",
+   "areaM2": 1500,
+   "ceilingM": 5.0,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "総面積1,500㎡（料金表PDFはホワイエ込みで2,198㎡）。利用可能人数300〜750名。ホワイエ・受付・クロークを専有できる貸切プラン。天井高5.0mはホール"
+  },
+  {
+   "name": "2F貸切",
+   "areaM2": 950,
+   "ceilingM": 5.0,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "総面積950㎡（料金表PDFはホワイエ込みで1,330㎡）。利用可能人数150〜750名。ホワイエ・受付・クロークを専有できる貸切プラン。天井高5.0mはホール"
+  },
+  {
+   "name": "1F貸切",
+   "areaM2": 550,
+   "ceilingM": 3.5,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "総面積550㎡（料金表PDFはホワイエ込みで868㎡）。利用可能人数50〜200名。天井高3.5mは一部"
+  },
+  {
+   "name": "1F 103〜105プラン",
+   "areaM2": 328,
+   "ceilingM": 3.5,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "カンファレンス103・104・105をまとめて借りるとホワイエの一部を専有できるプラン。総面積328㎡、利用可能人数30〜200名。天井高3.5mは一部"
+  }
+ ],
+ "roomsSource": "https://otemachi-place-hc.jp/wp-content/uploads/sites/2/2026/06/charge.pdf",
+ "ops": {
+  "loadingHours": {
+   "text": "搬入出は地下2階の荷捌きスペースから貨物用エレベーター（E1・E2。どちらかは当日の受付で指示）で行う。物流センター受付(E)は平日8:00〜17:00、受付(W)は終日で、地下2階の受付で入館バッジとセキュリティカードを受け取る。E1は間口1,800×奥行1,900mm・出入口幅1,400×高さ2,700mm・積載1,600kg、E2は間口2,200×奥行2,300mm・出入口幅1,600×高さ2,700mm・積載3,000kg。荷捌駐車場の利用は、利用日の1週間前（営業日）までに作業等・荷捌利用申請書（様式8-2）を催事担当者へ提出する。荷物の事前預かりは利用前営業日の午前着・発払いで、ホールを含む案件は20個、会議室のみは10個まで（超える場合は預かり料50,000円〜）（2026年4月1日版）。",
+   "source": "https://otemachi-place-hc.jp/wp-content/uploads/sites/2/2026/04/carrying20260401.pdf"
+  },
+  "vehicleRules": {
+   "text": "地下2階の荷捌き駐車場は車高3.2m・車幅2.85m・全長7.8mまで。利用には事前申請が必要で、当日は申請書を出力して物流センター受付(E)に提示する。料金は400円／30分（機械精算）。搬入出ルートには養生をし、廊下などの共用部は作業場ではないため会場内で作業する。空段ボール・残材・梱包材は持ち帰る（2026年4月1日版）。",
+   "source": "https://otemachi-place-hc.jp/wp-content/uploads/sites/2/2026/04/carrying20260401.pdf"
+  },
+  "parking": {
+   "text": "大手町プレイスビル全体で198台の機械式駐車場（地下2階）。普通車は高さ1,550mm・全幅2,000mm・全長5,300mm・重量2,300kgまで、ハイルーフは高さ2,050mmまで。利用時間は7:00〜23:00（一般・契約・搬入車共通）。料金は変動するためタイムズ大手町プレイスのホームページで確認する。（2026年4月1日版）。会場では駐車場の事前予約を受けず、無料枠・割引もない（FAQ）。",
+   "source": "https://otemachi-place-hc.jp/wp-content/uploads/sites/2/2026/04/carrying20260401.pdf"
+  },
+  "waitingRooms": {
+   "text": "ホールに付帯する控室はなく、ルーム201・ルーム202などを控室として使う。ルーム201a・201bは控室形式で各18名。",
+   "source": "https://otemachi-place-hc.jp/faq/"
+  },
+  "catering": {
+   "text": "お弁当・ケータリングの指定業者はなく、紹介も可能。業者の持ち込みもでき、その場合ゴミ処理は受けないため事前に担当者へ連絡する。会場内の飲食は可能で、通常清掃で落ちない汚れは特別清掃費がかかる場合がある。会場の手配物は、ビュッフェ料理・2時間フリードリンク・サービススタッフで1名5,000円〜、コーヒー・紅茶のポットサービスは10杯分3,500円〜（税別、2026年4月1日版料金表）。",
+   "source": "https://otemachi-place-hc.jp/faq/"
+  },
+  "restaurants": {
+   "text": "同じ大手町プレイス内にレストラン・カフェ・コンビニがある（休業日に注意）。2階には出汁しゃぶ おばんざい おかか東京、神戸牛焼肉＆生タン料理 舌賛、大手町 浅田などが入る。パーティー（懇親会）はホール・会議室ともに利用できる。",
+   "source": "https://otemachi-place.jp/shop/"
+  }
+ },
+ "documents": [
+  {
+   "title": "料金表（2026年4月1日）",
+   "url": "https://otemachi-place-hc.jp/wp-content/uploads/sites/2/2026/06/charge.pdf"
+  },
+  {
+   "title": "搬入・搬出動線、搬入出時の注意、駐車場のご案内（2026年4月1日）",
+   "url": "https://otemachi-place-hc.jp/wp-content/uploads/sites/2/2026/04/carrying20260401.pdf"
+  },
+  {
+   "title": "宅急便利用時のご案内（2026年4月1日現在）",
+   "url": "https://otemachi-place-hc.jp/wp-content/uploads/sites/2/2026/04/Delivery-Rule20260410.pdf"
+  },
+  {
+   "title": "ゴミ処理の基本ルール",
+   "url": "https://otemachi-place-hc.jp/wp-content/uploads/sites/2/2026/03/dust-rule.pdf"
+  },
+  {
+   "title": "ネット回線資料（2026年4月）",
+   "url": "https://otemachi-place-hc.jp/wp-content/uploads/sites/2/2026/04/internet20260402.pdf"
+  },
+  {
+   "title": "ホール機材料金表（2026年4月1日）",
+   "url": "https://otemachi-place-hc.jp/wp-content/uploads/sites/2/2026/04/equipment_price_hall20260401.pdf"
+  },
+  {
+   "title": "2F スケール図",
+   "url": "https://otemachi-place-hc.jp/wp-content/uploads/sites/2/2025/06/2f-scale.pdf"
+  },
+  {
+   "title": "1F スケール図",
+   "url": "https://otemachi-place-hc.jp/wp-content/uploads/sites/2/2025/06/1f-scale.pdf"
+  },
+  {
+   "title": "2F 電気・弱電図面／LAN取り口（2026年2月）",
+   "url": "https://otemachi-place-hc.jp/wp-content/uploads/sites/2/2026/02/PowerLayout_2f_0210.pdf"
+  },
+  {
+   "title": "1F 電気・弱電図面／LAN取り口（2026年2月）",
+   "url": "https://otemachi-place-hc.jp/wp-content/uploads/sites/2/2026/02/PowerLayout_1F_0212.pdf"
+  },
+  {
+   "title": "避難経路図",
+   "url": "https://otemachi-place-hc.jp/wp-content/uploads/sites/2/2025/06/evacuation_routes.pdf"
+  },
+  {
+   "title": "アクセスマップ",
+   "url": "https://otemachi-place-hc.jp/wp-content/uploads/sites/2/2025/06/access.pdf"
+  },
+  {
+   "title": "利用規則（2023年10月1日改訂、2025年10月28日変更）",
+   "url": "https://otemachi-place-hc.jp/tos/"
+  },
+  {
+   "title": "資料ダウンロード（図面・機材リスト一覧）",
+   "url": "https://otemachi-place-hc.jp/download/"
+  }
+ ],
+ "checkedAt": "2026-11-02",
+ "lat": 35.686779,
+ "lng": 139.767426,
+ "nearby": {
+  "convenience": [
+   {
+    "name": "JPローソン 大手町プレイス地下2F店",
+    "brand": "ローソン",
+    "distanceM": 52,
+    "walkMin": 1,
+    "hours": "7:00-21:00",
+    "address": "東京都千代田区大手町2-3-1 大手町プレイス地下2F",
+    "verified": true,
+    "source": "https://www.areamarker.com/lawson/info/354206",
+    "note": "距離は公式の店舗位置で計算。会場と同じ建物（大手町プレイス）の地下2階。公式の店舗名は「ＪＰローソン大手町プレイス地下２Ｆ」"
+   },
+   {
+    "name": "JPローソン 大手町プレイス2F店",
+    "brand": "ローソン",
+    "distanceM": 96,
+    "walkMin": 2,
+    "hours": "7:00-21:00",
+    "address": "東京都千代田区大手町2-3-1 大手町プレイス2F",
+    "verified": true,
+    "source": "https://www.areamarker.com/lawson/info/354212",
+    "note": "距離は公式の店舗位置で計算。会場と同じ建物（大手町プレイス）の2階。公式の店舗名は「ＪＰローソン大手町プレイス２Ｆ」"
+   },
+   {
+    "name": "ローソン アーバンネット大手町店",
+    "brand": "ローソン",
+    "distanceM": 105,
+    "walkMin": 2,
+    "hours": "7:00-22:00",
+    "address": "東京都千代田区大手町2-2-2 アーバンネット大手町ビルB1F",
+    "verified": true,
+    "source": "https://www.areamarker.com/lawson/info/344113",
+    "note": "距離は公式の店舗位置で計算"
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "キンコーズ・大手町店",
+    "brand": "キンコーズ",
+    "distanceM": 243,
+    "walkMin": 4,
+    "hours": "平日 9:00-20:00／土・日・祝 休業",
+    "address": "東京都千代田区大手町1丁目6-1 大手町ビル1F",
+    "verified": true,
+    "source": "https://www.kinkos.co.jp/store/tokyo/t005/",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "アクセア 大手町店",
+    "brand": "アクセア",
+    "distanceM": 344,
+    "walkMin": 5,
+    "hours": "24時間営業（年中無休）",
+    "address": "東京都千代田区内神田2-2-6 田中ビル1F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/entry.html",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Can★Do 丸の内オアゾ店",
+    "brand": "キャンドゥ",
+    "distanceM": 315,
+    "walkMin": 4,
+    "hours": "月〜金 8:00-22:00／土・日・祝 9:00-21:00",
+    "address": "東京都千代田区丸の内1-6-4 丸の内オアゾ地下1階",
+    "verified": true,
+    "source": "https://shopinfo.cando-web.co.jp/detail/shop-5550/",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "3COINS ヤエチカ店",
+    "brand": "3COINS",
+    "distanceM": 793,
+    "walkMin": 10,
+    "hours": "10:00-21:00",
+    "address": "東京都中央区八重洲2-1 八重洲地下街南1号",
+    "verified": true,
+    "source": "https://palcloset.storelocator.jp/detail/361/",
+    "note": "距離は公式の店舗位置で計算。実際の道のりは約1,044m。遠め"
+   }
+  ],
+  "donki": [
+   {
+    "name": "ドン・キホーテ 秋葉原店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 1592,
+    "walkMin": 20,
+    "hours": "24時間営業",
+    "address": "東京都千代田区外神田4丁目3-3",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=98",
+    "note": "距離は住所の位置で計算。ドン・キホーテ公式サイトの店舗名は「秋葉原店」。実際の道のりは約1,902m。遠い"
+   }
+  ]
+ },
+ "drinkDelivery": {
+  "available": true
+ },
+ "photo": {
+  "src": "/images/venues/otemachi-place.jpg",
+  "credit": "© Beryllium Transistor / CC BY-SA 4.0 · Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Otemachi_Place_West_Tower.jpg"
+ }
+}

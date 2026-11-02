@@ -1,0 +1,161 @@
+{
+ "slug": "ochanomizu-solacity",
+ "name": "sola city Conference Center",
+ "address": "Tokyo 101-0062 4-6 Kanda-Surugadai, Chiyoda-ku",
+ "accessSummary": "Shin-Ochanomizu Station (Tokyo Metro Chiyoda Line) Exit B2: directly connected / Ochanomizu Station (JR Chuo Line and Sobu Line) Hijiribashi Exit: 1 min walk / Ochanomizu Station (Tokyo Metro Marunouchi Line) Exit 1: 4 min walk / Ogawamachi Station (Toei Shinjuku Line) Exit B3: 6 min walk",
+ "hours": "Generally open 8:00-22:00. Early-morning and late-night use can be discussed. The doors are unlocked from 15 minutes before the reserved time.",
+ "notice": null,
+ "rooms": [
+  {
+   "name": "sola city Hall",
+   "note": "2F. Classroom layout: 408 seats when the room is used lengthwise, 396 seats when used widthwise. Can be divided into 2 rooms, WEST and EAST. A separate Reception Hall of 159㎡ (can be used for registration, exhibits and social gatherings) and a waiting room for 12 people are attached."
+  },
+  {
+   "name": "sola city Hall [West]",
+   "note": "2F. Island layout: 144 people. A Reception Hall of 159㎡ and a waiting room with a washbasin are attached."
+  },
+  {
+   "name": "sola city Hall [East]",
+   "note": "2F. Island layout: 144 people. A waiting room with a washbasin is attached."
+  },
+  {
+   "name": "Terrace Room",
+   "note": "2F. Island layout: 63 people. Can share the video and audio of sola city Hall and be used as a satellite venue."
+  },
+  {
+   "name": "Room A",
+   "note": "1F. Island layout: 36 people. When the venue is booked exclusively, it is also used as a waiting room."
+  },
+  {
+   "name": "Room B",
+   "note": "1F. Island layout: 66 people."
+  },
+  {
+   "name": "Room C",
+   "note": "1F. Island layout: 126 people."
+  },
+  {
+   "name": "Room D",
+   "note": "1F. Island layout: 18 people. A movable wall divides it into D-1 (21㎡) and D-2 (32㎡). Often used as a staff waiting room or a cloakroom."
+  },
+  {
+   "name": "Room D-1 (divided)",
+   "note": "1F. Island layout: 12 people. Also used for interviews and the like."
+  },
+  {
+   "name": "Room D-2 (divided)",
+   "note": "1F. Island layout: 16 people."
+  }
+ ],
+ "ops": {
+  "loadingHours": "Reception for the loading area is 7:30-19:00 on weekdays and 9:00-17:00 on Saturdays. Outside these hours the loading-area shutter is closed, so call the Conference Center (03-6206-4855) and a staff member will come to meet you. An advance application form is required to use the loading area and the load-in/load-out elevator; submit it through the application form by 3 days before the date of use (if the day 3 days before falls on a Saturday, Sunday or holiday, by the preceding weekday). The load-in elevators (No. 25 and No. 26) have a maximum load of 1,700 kg, a car size of W1,400 x D2,000 x H3,000 mm and a door size of W1,400 x H2,500 mm. Venues on the 1st floor (Rooms A to D) use Elevator No. 26, and venues on the 2nd floor (sola city Hall and Terrace Room) use Elevator No. 25.",
+  "vehicleRules": "Enter from the parking entrance on the north side of the building, on Awajizaka slope (along the railway tracks), and proceed toward the loading area (right turns into the entrance are not possible). The height limit at the entrance is 2.9 m. Use of the loading area is in principle limited to 15 minutes, vehicles cannot be left there, and if you need to leave a vehicle, move it to the parking lot. Using the loading area for more than 15 minutes costs 300 yen per 30 minutes, but Conference Center users can use it free for up to 1 hour maximum with an advance application. At least one person must always wait with the vehicle, and protective covering must be put in place during loading and unloading.",
+  "parking": "Mechanical parking on the 2nd basement level. Hours are 7:00-21:00 (except on days of a whole-building power outage), and the rate is 300 yen per 30 minutes, with a maximum charge of 2,400 yen Mon-Fri and 2,000 yen on Sat, Sun and holidays. Vehicle limits are 5.6 m in length, 1.95 m in width, 2.05 m in height and 2.6 t in weight. Entry, exit and use of the vehicle porch are not possible after 21:00. The parking lot of the neighboring building (WATERRAS) is open 24 hours (as of February 2026).",
+  "waitingRooms": "sola city Hall has a waiting room for 12 people and a Reception Hall (159㎡) that can be used for registration, exhibits and social gatherings. WEST and EAST each have a waiting room with a washbasin.",
+  "catering": "Organizers cannot bring in, arrange or serve food and drink themselves; request it through the operator's partner vendors (the usage rules also prohibit bringing in food and drink from anyone other than the operator-designated vendors). Individual participants may bring in their own. For boxed lunches and social gatherings, you receive proposals from several partner vendors to match your needs and budget, and then arrange it. If any participants have allergies, tell the venue in advance and you will be told which vendors and methods can accommodate them (usage rules as of June 1, 2026).",
+  "restaurants": "There are restaurants on the B1 floor of sola city and in WATERRAS Mall (a restaurant district on floors 1 to 3), which is connected by the B1 passage. The official website introduces cafes and restaurants in the same building and nearby as places to use before and after events and for after-parties."
+ },
+ "documents": [
+  {
+   "title": "Load-in and Load-out Guide"
+  },
+  {
+   "title": "Parking (Vehicle Porch) Guide (as of February 2026)"
+  },
+  {
+   "title": "Usage Rules (as of June 1, 2026)"
+  },
+  {
+   "title": "Venue Equipment List (as of June 2026)"
+  },
+  {
+   "title": "Parcel Delivery Guide (April 2026 edition)"
+  },
+  {
+   "title": "Venue Price List and Capacities"
+  },
+  {
+   "title": "Notice of Usage Fee Revision from April 1, 2027 and Venue Price List (September 2026)"
+  },
+  {
+   "title": "sola city Hall Facility Overview"
+  },
+  {
+   "title": "Power and LAN Circuit Diagram"
+  },
+  {
+   "title": "Internet Guide"
+  },
+  {
+   "title": "For Customers Using the Venue After 21:00 (Exit Route)"
+  },
+  {
+   "title": "Venue Guide Signage"
+  },
+  {
+   "title": "Evacuation Route Map"
+  },
+  {
+   "title": "Layout Plans, Scale Drawings and Layout Examples for Each Format"
+  },
+  {
+   "title": "Drink Menu"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "FamilyMart Ochanomizu Sola City",
+    "hours": "7:00-23:00",
+    "note": "Distance is calculated from the official store location. The official store name is \"Famima Ochanomizu Sola City\" (ファミマ御茶ノ水ソラシティ店). Same address as the venue (4-6 Kanda-Surugadai)."
+   },
+   {
+    "name": "Lawson Ochanomizu Sunclair",
+    "hours": "7:00-22:00",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "7-Eleven Kanda Awajicho WATERRAS",
+    "hours": "7:00-23:00 (Mon-Sun & holidays)",
+    "note": "Distance is calculated from the official store location."
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "Accea Awajicho",
+    "hours": "Weekdays 9:00-20:00 / Closed Sat, Sun & holidays",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Accea Ogawamachi",
+    "hours": "Weekdays 8:00-22:00 / Sat, Sun & holidays 10:00-19:00",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Can Do Akihabara",
+    "hours": "Daily 10:00-21:00",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "3COINS Atre Akihabara",
+    "hours": "10:00-21:00",
+    "note": "Distance is calculated from the official store location. The actual walking distance is about 816 m."
+   }
+  ],
+  "donki": [
+   {
+    "name": "Don Quijote Akihabara",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. The store name on the Don Quijote official website is \"Akihabara\" (秋葉原店)."
+   },
+   {
+    "name": "Don Quijote Ueno",
+    "hours": "9:00-4:00",
+    "note": "Distance is calculated from the address location. Rather far. The store name on the Don Quijote official website is \"Ueno\" (上野店). The actual walking distance is about 1,401 m."
+   }
+  ]
+ },
+ "photoCredit": "© 掬茶 / CC BY-SA 3.0 · Wikimedia Commons"
+}

@@ -1,0 +1,124 @@
+{
+ "slug": "royal-park-hotel-iconic-shiodome",
+ "name": "The Royal Park Hotel Iconic Tokyo Shiodome",
+ "address": "Tokyo 105-8333 1-6-3 Higashi-Shimbashi, Minato-ku, Tokyo",
+ "accessSummary": "Shimbashi Station (JR Shiodome Exit / Toei Asakusa Line): about 3 min walk / Shimbashi Station (Tokyo Metro Ginza Line): about 5 min walk / Shiodome Station (Toei Oedo Line): about 1 min walk / Shiodome Station (Yurikamome, West Exit): about 1 min walk",
+ "hours": "The Sky Meeting Plan (26F meeting rooms) is available within business hours of 9:00-21:00, and includes setup time.",
+ "notice": null,
+ "rooms": [
+  {
+   "name": "25F Shiosai A+B (entire room)",
+   "note": "Seated buffet: 100 people. These figures are from the hotel's official page. The fact sheet (as of January 2025) gives 110 for seated buffet, 135 for classroom and 210 for theater, so its figures differ from the page."
+  },
+  {
+   "name": "25F Shiosai A",
+   "note": "Seated buffet: 60 people. The fact sheet (as of January 2025) gives 81 for classroom."
+  },
+  {
+   "name": "25F Shiosai B",
+   "note": "Seated buffet: 30 people. The fact sheet (as of January 2025) gives 60 for classroom."
+  },
+  {
+   "name": "26F Meeting Room AB",
+   "note": "Maximum capacity: 10 people. The official table combines A and B in one row (there are 4 meeting rooms in total)."
+  },
+  {
+   "name": "26F Meeting Room D",
+   "note": "Maximum capacity: 12 people."
+  },
+  {
+   "name": "26F Meeting Room E",
+   "note": "Maximum capacity: 15 people."
+  }
+ ],
+ "ops": {
+  "parking": "The public parking lot in the hotel basement (B3-B4F) has 192 spaces (hotel fact sheet, as of January 2025). Advance reservations are not accepted. Vehicles up to 5.3 m long, up to 1.95 m wide and up to 1.55-2.1 m high can be accommodated. Banquet hall users get up to 3 hours free and meeting room users get up to 2 hours free; extensions cost 300 yen (tax included) per 20 minutes. For parking inquiries, contact the parking management office (080-5781-5994).",
+  "waitingRooms": "The four meeting rooms on the 26F (A and B: 26.3㎡ for 10 people, D: 36.3㎡ for 12 people, E: 40.6㎡ for 15 people) are introduced as usable for meetings, waiting rooms and the like. The Sky Meeting Plan is for 6 to 15 people and costs 10,000 yen per person (4 hours) / 13,000 yen (with lunch, 6 hours) / 15,000 yen (with lunch, 8 hours), including tax and service charge; the plan period is April 1, 2026 to March 31, 2027. This plan is for meetings and discussions only, and a specific room cannot be requested. A 50-inch monitor and Wi-Fi are free; a projector (16,500 yen), a screen (5,500 yen) and a whiteboard (3,300 yen) are charged. (Sky Meeting Plan Guide, April 1, 2026 to March 31, 2027)",
+  "restaurants": "The hotel has 4 restaurants and bars: on the 24F, All-Day Dining \"HARMONY\" (80 seats; private rooms for 6 to 14) and Bar & Lounge \"THE BAR\" (46 seats); on the 25F, Japanese Cuisine \"Oshima Shinbashi Shiodome branch\" (96 seats; 5 private rooms for 4 to 18); and on the 1F, Cafe \"CHAYA Macrobiotics\" (70 seats). The official FAQ says restaurants can be reserved for private use, after-parties and parties (inquire with the restaurant). The party plans for the banquet hall \"Shiosai\" are buffet style (from 20 people; 13,000 / 15,000 / 18,000 yen) and formal dinner style (from 10 people; 15,000 / 18,000 / 25,000 yen); both include 2 hours of free drinks, and the price includes food, drinks, venue fee, tax and service charge (April 1, 2026 to March 31, 2027; the 13,000 yen buffet is not available from December 1, 2026 to January 31, 2027; buffet time extension is 1,300 yen per person per 30 minutes)."
+ },
+ "documents": [
+  {
+   "title": "Banquets and Meetings page (tables for the banquet hall \"Shiosai\" and the meeting rooms)"
+  },
+  {
+   "title": "Sky Meeting Plan guide (PDF, April 1, 2026 to March 31, 2027)"
+  },
+  {
+   "title": "Party Plan \"Buffet Style\" (PDF, April 1, 2026 to March 31, 2027)"
+  },
+  {
+   "title": "Party Plan \"Formal Dinner Style\" (PDF, April 1, 2026 to March 31, 2027)"
+  },
+  {
+   "title": "Hotel fact sheet (banquet hall and meeting room tables, floor guide, 192 parking spaces, as of January 2025)"
+  },
+  {
+   "title": "Access and parking guide"
+  },
+  {
+   "title": "Access map (PDF)"
+  },
+  {
+   "title": "Frequently Asked Questions"
+  },
+  {
+   "title": "Dining (Restaurants & Bars)"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "FamilyMart Shiodome Tower",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "FamilyMart Shiodome Shiosite",
+    "hours": "6:00-1:00",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "FamilyMart Shiodome Media Tower",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location."
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "Kinko's Shiodome",
+    "hours": "Weekdays 9:00-19:00 / Closed Sat, Sun & holidays",
+    "note": "Distance is calculated from the location on the official page's map. Same building as the venue (Shiodome Tower B2F)."
+   },
+   {
+    "name": "Accea Shiodome City Center",
+    "hours": "Weekdays, Sat, Sun & holidays 8:00-22:00",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "3COINS OOOPS! Shimbashi Station Shiodome Exit",
+    "hours": "Weekdays 8:00-22:00 / Sat, Sun & holidays 10:00-21:00",
+    "note": "Distance is calculated from the official store location. The in-station format \"OOOPS!\" listed in the official 3COINS store list."
+   },
+   {
+    "name": "Seria Exit Melsa Ginza",
+    "hours": "Daily 11:00-20:00",
+    "note": "Distance is calculated from the official store location."
+   }
+  ],
+  "donki": [
+   {
+    "name": "Don Quijote Ginza Main Building (Ginza Nine Building No. 3)",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. The store name on the Don Quijote official website is \"Ginza Main Building\" (銀座本館)."
+   },
+   {
+    "name": "Don Quijote Roppongi",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. Far. The store name on the Don Quijote official website is \"Roppongi\" (六本木店)."
+   }
+  ]
+ },
+ "photoCredit": "© Kakidai / CC BY-SA 3.0 · Wikimedia Commons"
+}

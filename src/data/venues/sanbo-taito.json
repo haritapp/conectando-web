@@ -1,0 +1,305 @@
+{
+ "slug": "sanbo-taito",
+ "nameJa": "東京都立産業貿易センター 台東館",
+ "nameEn": "Tokyo Metropolitan Industrial Trade Center Taito (TAITO-KAN)",
+ "type": "exhibition",
+ "area": "ueno-asakusa-venues",
+ "address": "〒111-0033 東京都台東区花川戸2-6-5",
+ "officialUrl": "https://www.sanbo.metro.tokyo.lg.jp/taito/",
+ "organizerUrl": "https://www.sanbo.metro.tokyo.lg.jp/taito/guide/rent/",
+ "bizintokyoSlug": "sanbo-taito",
+ "accessSummary": "浅草駅（東京メトロ銀座線）7番出口 徒歩5分／浅草駅（東武スカイツリーライン）徒歩5分／浅草駅（都営浅草線）A5出口 徒歩8分／浅草駅（つくばエクスプレス）A1出口 徒歩9分／都営バス二天門下車すぐ",
+ "notice": null,
+ "hours": "展示室・会議室の開場時間は最大9時〜21時。休場日は12月29日〜31日、1月1日〜3日。問い合わせ・空室確認の電話受付は平日9時〜17時（03-3844-6190）",
+ "rooms": [
+  {
+   "name": "4階展示室（全室）",
+   "areaM2": 1495,
+   "ceilingM": 3.0,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "収容人数は全室600名（公式表記。レイアウト別の人数表示はない）。中央柱1本、木質床、スライディングウォールで南北に分けられる。床耐荷重600kg/㎡。電気容量は単相100/200V 80kVA・三相200V 50kVA。料金は1日（9〜21時）469,200円、日中（9〜17時）312,800円、夜間1時間39,100円（税込）。"
+  },
+  {
+   "name": "4階展示室（半室）",
+   "areaM2": 747.5,
+   "ceilingM": 3.0,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "収容人数は半室300名（公式表記）。4階展示室ページの料金表では半室を745.5㎡と表記しているが、同ページの面積欄・料金一覧・利用案内は747.5㎡。料金は1日234,600円、日中156,400円、夜間1時間19,550円（税込）。半室利用ではワイヤレスマイクは1本。"
+  },
+  {
+   "name": "5階・6階展示室（各階 全室）",
+   "areaM2": 1479,
+   "ceilingM": 3.0,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "5階・6階は同じ広さの別々の展示室。収容人数は全室600名（公式表記）。床耐荷重600kg/㎡。料金は1日464,100円、日中309,400円、夜間1時間38,700円（税込）。"
+  },
+  {
+   "name": "5階・6階展示室（各階 半室）",
+   "areaM2": 739.5,
+   "ceilingM": 3.0,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "収容人数は半室300名（公式表記）。料金は1日232,050円、日中154,700円、夜間1時間19,350円（税込）。"
+  },
+  {
+   "name": "7階展示室（全室）",
+   "areaM2": 1383,
+   "ceilingM": 3.0,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "収容人数は全室600名（公式表記）。装飾等の高さ制限は2.4m。料金は1日434,100円、日中289,400円、夜間1時間36,200円（税込）。"
+  },
+  {
+   "name": "7階展示室（半室）",
+   "areaM2": 691.5,
+   "ceilingM": 3.0,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "収容人数は半室300名（公式表記）。装飾等の高さ制限は2.4m。料金は1日217,050円、日中144,700円、夜間1時間18,100円（税込）。"
+  },
+  {
+   "name": "4〜7階 全展示室（全館利用）",
+   "areaM2": 5836,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "会期と搬入・準備・設営作業の場合のみ適用（会期最終日の搬出・撤去には適用されない）。料金は1日1,831,500円、日中1,221,000円、夜間1時間152,700円（税込）。"
+  },
+  {
+   "name": "2階 会議室A",
+   "areaM2": 67.4,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "定員35名。3人掛け机11台・椅子35脚、ホワイトボード、100型自立式スクリーン、プロジェクター台を設置。ロの字型からスクール型までレイアウトは自在（公式表記）。料金は1日（9〜21時）20,000円、午前・午後14,000円、午後・夜間14,000円、午前6,000円、午後8,000円、夜間6,000円（税込）。机・椅子の追加や持込みは不可。"
+  },
+  {
+   "name": "2階 会議室B",
+   "areaM2": 67.4,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "定員35名。3人掛け机11台・椅子35脚、ホワイトボード、100型自立式スクリーン、プロジェクター台を設置。ロの字型からスクール型までレイアウトは自在（公式表記）。料金は会議室Aと同じ（1日20,000円ほか、税込）。机・椅子の追加や持込みは不可。"
+  }
+ ],
+ "roomsSource": "https://www.sanbo.metro.tokyo.lg.jp/taito/facilities/",
+ "ops": {
+  "prevDaySetup": {
+   "text": "設営・準備・撤去などの作業だけの利用でも展示室を借りられ、その場合は「1日」（9〜21時）または「日中」（9〜17時）の料金が適用される。利用時間には搬入・設営・準備・撤収・原状回復/清掃を含む。会期中の開場前（7〜9時）は展示室と併せて搬出入・造作取付けなどの時間外利用ができ、料金は1時間あたり7階8,800円・5・6階9,400円・4階9,500円（半室は4,400円・4,700円・4,750円、税込）。備品の利用料は準備日・撤収日も1日として計算される。（利用案内2026年8月版）",
+   "source": "https://www.sanbo.metro.tokyo.lg.jp/taito/facilities/charge/"
+  },
+  "loadingHours": {
+   "text": "搬出入は2階の荷扱場から行う。展示室の開場時間は最大9〜21時で、搬入・搬出・設営のための時間外利用は7〜9時（展示室と併せて）と、会期最終日のみ17〜20時。20時以降は東京都環境確保条例のため、車両による荷扱場での搬出入はできない。荷物用エレベーターは2台（7号機 積載3t：出入口W2.0×H2.6m、かご内W2.0×H2.6×D4.15m／8号機 積載2t：出入口W1.5×H2.4m、かご内W1.7×H2.4×D3.0m）。利用月の2か月前に搬出入調整会議があり、荷扱場利用計画書は利用開始日の60日前〜30日前に提出する。（利用案内2026年8月版）",
+   "source": "https://www.sanbo.metro.tokyo.lg.jp/files/taito/taitokan_guidance_pamphlet.pdf"
+  },
+  "vehicleRules": {
+   "text": "搬出入車両の入場には当センター発行の「入車証」が必要で、入車証のない車両と指定時間外の車両は入車できない。搬出入以外の駐車・留置きはできず、指定時間内でも出車すると再入車できない（再度の搬出入は荷扱場利用計画書の提出時に申し出る）。荷扱場は普通車35台、進入口の車高制限3.4m、長さ5m以上の大型車は普通車3台分として換算する。周辺道路は駐車禁止区域で、路上駐車は不可。クレーン車・フォークリフト・ユニック等を使う場合は事前相談が必要。床耐荷重は600kg/㎡以下。（利用案内2026年8月版）",
+   "source": "https://www.sanbo.metro.tokyo.lg.jp/files/taito/taitokan_guidance_pamphlet.pdf"
+  },
+  "parking": {
+   "text": "当センター専用の駐車場はない。1階の台東区有料駐車場（区民会館駐車場）や近隣の有料駐車場を利用するよう案内している。荷扱場は搬出入車両用で、搬出入以外の駐車はできない。（利用案内2026年8月版）",
+   "source": "https://www.sanbo.metro.tokyo.lg.jp/files/taito/taitokan_guidance_pamphlet.pdf"
+  },
+  "catering": {
+   "text": "展示室で来場者向けの軽飲食サービスを行う場合は「軽飲食等設営届」を提出する（内容によっては保健所への届出が必要。食品の調理加工・試飲試食・販売は台東保健所の許可が必要）。18時以降、展示室に限り、当センターが許可したケータリングで手配したアルコール類の飲酒が認められる。会議室は宴会・パーティ・酒類の持込み・飲酒を伴う親睦会に使えず、生ゴミ・弁当ガラを含むゴミは持ち帰る。展示室付属の給湯室は利用料金に含まれる。（利用案内2026年8月版）",
+   "source": "https://www.sanbo.metro.tokyo.lg.jp/files/taito/taitokan_guidance_pamphlet.pdf"
+  },
+  "restaurants": {
+   "text": "8階の台東区民会館内にレストラン「上野精養軒 浅草店」があり、11:00〜16:00（LO15:00）・月曜定休。公式の案内に「宴会・ケータリング・お弁当別途承ります」とある（TEL 03-3842-0771）。（利用案内2026年8月版）",
+   "source": "https://www.sanbo.metro.tokyo.lg.jp/files/taito/taitokan_guidance_pamphlet.pdf"
+  }
+ },
+ "documents": [
+  {
+   "title": "展示室・会議室 利用案内（パンフレット・ご利用規則 2026年8月版）",
+   "url": "https://www.sanbo.metro.tokyo.lg.jp/files/taito/taitokan_guidance_pamphlet.pdf"
+  },
+  {
+   "title": "利用料金一覧（展示室・会議室・時間外利用）",
+   "url": "https://www.sanbo.metro.tokyo.lg.jp/files/taito/guidance/taitokan_guidance_usage_charge.pdf"
+  },
+  {
+   "title": "関係機関への届出一覧",
+   "url": "https://www.sanbo.metro.tokyo.lg.jp/files/taito/guidance/taitokan_guidance_related_organizations.pdf"
+  },
+  {
+   "title": "展示室の設備・備品一覧（保有数量記載）",
+   "url": "https://www.sanbo.metro.tokyo.lg.jp/files/taito/document/bihin_tai.pdf"
+  },
+  {
+   "title": "4階展示室 平面図",
+   "url": "https://www.sanbo.metro.tokyo.lg.jp/files/taito/zumen/tai_4.pdf"
+  },
+  {
+   "title": "5階展示室 平面図",
+   "url": "https://www.sanbo.metro.tokyo.lg.jp/files/taito/zumen/tai_5.pdf"
+  },
+  {
+   "title": "6階展示室 平面図",
+   "url": "https://www.sanbo.metro.tokyo.lg.jp/files/taito/zumen/tai_6.pdf"
+  },
+  {
+   "title": "7階展示室 平面図",
+   "url": "https://www.sanbo.metro.tokyo.lg.jp/files/taito/zumen/tai_7.pdf"
+  },
+  {
+   "title": "催物のあらましと利用内容（様式）",
+   "url": "https://www.sanbo.metro.tokyo.lg.jp/files/taito/document/reiwa3/3_aramashi_riyou_tai.pdf"
+  },
+  {
+   "title": "荷扱場利用計画書（様式）",
+   "url": "https://www.sanbo.metro.tokyo.lg.jp/files/taito/document/reiwa3/4_niatsukaiba_riyou_tai.pdf"
+  },
+  {
+   "title": "装飾等設営申請書（様式）",
+   "url": "https://www.sanbo.metro.tokyo.lg.jp/files/taito/document/reiwa3/5_soshoku_setsuei_tai.pdf"
+  },
+  {
+   "title": "軽飲食等設営届（様式）",
+   "url": "https://www.sanbo.metro.tokyo.lg.jp/files/taito/document/8_inshoku_setsuei_tai.pdf"
+  },
+  {
+   "title": "申請書・図面ダウンロード（全様式の一覧ページ）",
+   "url": "https://www.sanbo.metro.tokyo.lg.jp/taito/guide/download/"
+  }
+ ],
+ "checkedAt": "2026-11-02",
+ "lat": 35.714359,
+ "lng": 139.798386,
+ "nearby": {
+  "convenience": [
+   {
+    "name": "セブン-イレブン 浅草馬道店",
+    "brand": "セブン-イレブン",
+    "distanceM": 184,
+    "walkMin": 3,
+    "hours": "24時間営業",
+    "address": "東京都台東区浅草6-10-2",
+    "verified": true,
+    "source": "https://seven-eleven.areamarker.com/711map/info/549594",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "セブン-イレブン 台東浅草6丁目店",
+    "brand": "セブン-イレブン",
+    "distanceM": 316,
+    "walkMin": 4,
+    "hours": "24時間営業",
+    "address": "東京都台東区浅草6-1-18",
+    "verified": true,
+    "source": "https://seven-eleven.areamarker.com/711map/info/363524",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "セブン-イレブン 東武浅草駅前店",
+    "brand": "セブン-イレブン",
+    "distanceM": 361,
+    "walkMin": 5,
+    "hours": "24時間営業",
+    "address": "東京都台東区浅草1-1-16",
+    "verified": true,
+    "source": "https://seven-eleven.areamarker.com/711map/info/445363",
+    "note": "距離は公式の店舗位置で計算"
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "アクセア 新御徒町店",
+    "brand": "アクセア",
+    "distanceM": 1486,
+    "walkMin": 19,
+    "hours": "平日9:00〜20:00／土日祝休み",
+    "address": "東京都台東区元浅草1-1-1 ヒューリック新御徒町ビル1F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/entry.html",
+    "note": "距離は住所の位置で計算。遠め。実際の道のりは約1,988m"
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Seria 浅草EKIMISE店",
+    "brand": "セリア",
+    "distanceM": 285,
+    "walkMin": 4,
+    "hours": "月〜日 10:00-20:00",
+    "address": "東京都台東区花川戸1-4-1 浅草EKIMISE 5F",
+    "verified": true,
+    "source": "https://shop.seria-group.com/seria/info/000001964",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "DAISO セイムス浅草雷門通り店",
+    "brand": "ダイソー",
+    "distanceM": 385,
+    "walkMin": 5,
+    "hours": "4:00-27:00（公式のお知らせ：2026年5月1日より 04:00～03:00 に営業時間変更）",
+    "address": "東京都台東区浅草1-1-2 浅草スクエア3階",
+    "verified": true,
+    "source": "https://www.daiso-sangyo.co.jp/shop/detail/005355",
+    "note": "距離は公式の店舗位置で計算"
+   }
+  ],
+  "donki": [
+   {
+    "name": "ドン・キホーテ浅草EKIMISE店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 353,
+    "walkMin": 5,
+    "hours": "10:00-20:00",
+    "address": "東京都台東区花川戸一丁目4番1号 4F",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=747",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "ドン・キホーテ 浅草店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 475,
+    "walkMin": 6,
+    "hours": "24時間営業",
+    "address": "東京都台東区浅草2-10",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=326",
+    "note": "距離は住所の位置で計算。ドン・キホーテ公式サイトの店舗名は「浅草店」"
+   }
+  ]
+ },
+ "drinkDelivery": {
+  "available": true
+ },
+ "photo": {
+  "src": "/images/venues/sanbo-taito.jpg",
+  "credit": "© Comyu / CC BY-SA 4.0 · Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tokyo_Metropolitan_Industrial_Trade_Center_Taito_Hall_with_Berabou_Edo_Taito_Taiga_Drama_Museum_2025.jpg"
+ }
+}

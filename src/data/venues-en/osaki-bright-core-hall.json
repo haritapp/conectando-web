@@ -1,0 +1,155 @@
+{
+ "slug": "osaki-bright-core-hall",
+ "name": "Osaki Bright Core Hall",
+ "address": "Tokyo 141-0001 Osaki Bright Core 3F, 5-5-15 Kita-Shinagawa, Shinagawa-ku",
+ "accessSummary": "Osaki Station (JR Yamanote Line / JR Saikyo Line / JR Shonan-Shinjuku Line / Rinkai Line): 5 min walk",
+ "hours": "Standard use is 9:00-20:00 (11 hours). Hourly use has a minimum of 6 hours. The hall can be rented 24 hours, but the event itself cannot be held from 23:00 to 7:00 the next day. Phone reception is open weekdays 10:00-19:00 (as of August 4, 2025). Closed for the year-end and New Year holidays (December 29 to January 3). The usage time includes preparation, setup and cleanup. Time before and after standard use (9:00-20:00) is charged an overtime extension fee and requires prior approval from the operator",
+ "notice": null,
+ "rooms": [
+  {
+   "name": "Entire Hall",
+   "note": "Theater: up to 460 seats (standard 400 seats). Classroom, 3 per desk: up to 360 seats (standard 306 seats); the drawing for 2 per desk shows 240 seats. Group layout: 216 seats (24 islands) in the specifications overview, 252 seats (9 per island) in the drawing. Seated buffet: 144 seats (18 tables). 15 m wide x 29 m deep. One 200-inch screen and two 150-inch screens, 3 projectors. When the entire hall is used, the foyer, waiting rooms, cloakroom and bar counter can also be used exclusively."
+  },
+  {
+   "name": "Hall A (front)",
+   "note": "Half-hall use. Group layout: 108 seats (12 islands). One 200-inch screen, 1 projector. In half-hall use, the foyer, corridor and restrooms are shared areas, and the cloakroom and bar counter cannot be used. Hall A has 2 waiting rooms (01 and 02)."
+  },
+  {
+   "name": "Hall B (rear)",
+   "note": "Half-hall use. Group layout: 108 seats (12 islands). Two 150-inch screens, 2 projectors. In half-hall use, the foyer, corridor and restrooms are shared areas, and the cloakroom and bar counter cannot be used. Hall B has 1 waiting room (03)."
+  },
+  {
+   "name": "Foyer",
+   "note": "The area is 216.4㎡ (excluding the corridor) on the hall overview page and 217.6㎡ in the specifications overview PDF (created August 1, 2014). 16 m wide x 10-14 m deep. Bar counter (with refrigerator, ice maker and sink). A standing reception can be held in the foyer right after the hall event with no changeover time. Included in the basic hall fee for entire-hall use."
+  }
+ ],
+ "ops": {
+  "loadingHours": "Load-in and load-out go from the loading area on B1F up to the 3rd floor by the freight elevator. Load-in and load-out is possible from 7:00 to 23:30. The elevator interior is W1,800 x D2,300 x H3,000 mm with a load capacity of 2,000 kg, and the door is W1,300 x H2,400 mm. A security card is required on the day, which the representative picks up at the hall office (3F). Load-in and load-out using the visitor elevators is prohibited. Floors, walls and similar must be protected. For advance procedures, write the items, times, vehicle size and number of vehicles on the load-in/out notice and submit it to the building through the person in charge at least 2 weeks before the event (the load-in route map says to contact the facility person in charge by 1 week before). The Operations & Preparation Q&A gives the load-in/out hours as \"23:30 to 7:00 the next day\", which conflicts with 7:00-23:30 on the load-in route map. Load-in and load-out may not be possible without prior application. Advance mailing of packages needs coordination with the events before and after, so consult the person in charge and send them with arrival specified for the day before the use date (guideline: up to 10 boxes, 180 cm or less in the sum of three sides and 30 kg or less).",
+  "vehicleRules": "Vehicles allowed to enter are up to 3,000 mm high x 2,200 mm wide x 6,400 mm long, up to a 2-ton short truck (load capacity 2,000 kg). Loading and unloading at street level is not possible; the loading areas on B1F (2 spaces) are used. The loading area is free for the first 30 minutes after entry, then 250 yen per 30 minutes. Vehicles cannot be left standing; leave promptly when work is finished (the Operations & Preparation Q&A says to move in principle within 30 minutes). The freight elevator and loading area are common areas of the building, so do not obstruct other tenants or visitors. Parking cars, motorcycles and bicycles on the street is prohibited by the terms of use.",
+  "parking": "The hall has no dedicated parking lot; use the paid mechanical parking lots underground. Osaki Bright Core underground has 35 spaces (for sedan-type cars), with vehicle limits of 1.55 m high, 1.85 m wide, 5.0 m long and 1.9 t. Osaki Bright Tower underground has 51 spaces (for wagon-type cars), with limits of 2.05 m high, 1.95 m wide, 5.30 m long and 2.3 t. Neither can be reserved. From 7:00 to 23:30 the fee is 250 yen per 30 minutes (maximum 1,800 yen); from 23:30 to 7:00 the maximum is 500 yen and entry and exit are not possible. There is no parking discount. There are parking vouchers that can be settled when paying the balance; if you use them, notify the venue at least 2 weeks before the event. Bicycle parking is on the grounds around the outside of the building.",
+  "waitingRooms": "There are 3 waiting rooms. Waiting room 01 is 29㎡ (8.7 tsubo), waiting room 02 is 29㎡ (8.7 tsubo), and waiting room 03 is 25.2㎡ (7.6 tsubo). Waiting rooms 01 and 02 can be used as one. There are also an operations office and a cloakroom (8.5㎡, with fixed hangers). The fees for the waiting rooms, cloakroom and foyer are included in the venue fee. In half-hall use, Hall A has 2 waiting rooms (01 and 02) and Hall B has 1 waiting room (03). Keys to the waiting rooms and cloakroom are lent out, and users manage their own valuables.",
+  "catering": "Eating and drinking is allowed in all areas. Open flames and cooking are not allowed. For boxed meals and the like, the venue can arrange several companies (pickup handling, trash disposal and consolidated billing are available), and no fee is charged when the user arranges directly. There is no designated-vendor system. When arranging directly, consult in advance about the load-in route and the like, and the people involved do a site inspection. The user disposes of or takes away boxed-meal trash. Trash up to a total of 540 L is disposed of free if sorted. A standing reception in the foyer is 5,500 yen per person (tax included) for food plus 2 hours of free-flow drinks. (Source: Operations & Preparation Q&A, as of August 4, 2025, option arrangement example)",
+  "restaurants": "After a conference, seminar or similar in the hall, a standing reception for around 200 people can be held in the foyer with no changeover time (from 5,500 yen per person, tax included). There is a 7-Eleven on the 1st floor of the building, and the supermarket \"Life Shinagawa Gotenyama\" is directly across the street."
+ },
+ "documents": [
+  {
+   "title": "Price List (General) (April 1, 2026)"
+  },
+  {
+   "title": "Price List (Ward Resident Rate) (April 1, 2026)"
+  },
+  {
+   "title": "Terms of Use (partially revised December 2025)"
+  },
+  {
+   "title": "Cancellation Policy"
+  },
+  {
+   "title": "Load-in Route and Parking Map"
+  },
+  {
+   "title": "Map"
+  },
+  {
+   "title": "Operations & Preparation Q&A (as of August 4, 2025)"
+  },
+  {
+   "title": "Specifications Overview (created August 1, 2014)"
+  },
+  {
+   "title": "Floor Plan"
+  },
+  {
+   "title": "Scale Drawing (created August 1, 2014)"
+  },
+  {
+   "title": "Equipment List"
+  },
+  {
+   "title": "Sound Equipment List (created April 1, 2024)"
+  },
+  {
+   "title": "Lighting Equipment List (created April 1, 2024)"
+  },
+  {
+   "title": "Video Equipment List (created April 1, 2024)"
+  },
+  {
+   "title": "Power Circuit Diagram (as of April 1, 2026)"
+  },
+  {
+   "title": "Basic Lighting Setup Plan"
+  },
+  {
+   "title": "Entire Hall Theater Layout for 460 (created August 1, 2014)"
+  },
+  {
+   "title": "Entire Hall Classroom Layout for 360"
+  },
+  {
+   "title": "Entire Hall Standing Buffet Layout for about 300"
+  },
+  {
+   "title": "Download All Documents (ZIP)"
+  },
+  {
+   "title": "Document Downloads (official page)"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "7-Eleven Osaki Bright Core",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location. Same building as the venue (Osaki Bright Core)."
+   },
+   {
+    "name": "FamilyMart Osaki Bright Tower",
+    "hours": "6:00-23:00 (Saturday 7:00-23:00; closed on Sundays and holidays)",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "FamilyMart Osaki New City",
+    "hours": "8:00-22:00",
+    "note": "Distance is calculated from the official store location."
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "Accea Gate City Osaki",
+    "hours": "Weekdays 9:00-20:00 / Sat, Sun & holidays 10:00-19:00",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Accea Gotanda",
+    "hours": "Open 24 hours (open every day of the year)",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "DAISO Osaki New City",
+    "hours": "9:30-21:00",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Can Do Gotanda Tokyu Square",
+    "hours": "Daily 10:00-21:00",
+    "note": "Distance is calculated from the official store location."
+   }
+  ],
+  "donki": [
+   {
+    "name": "Don Quijote Gotanda Higashiguchi",
+    "hours": "8:00-5:00",
+    "note": "Distance is calculated from the address location. The store name on the Don Quijote official website is \"Gotanda Higashiguchi Store\"."
+   },
+   {
+    "name": "Don Quijote Togoshi Ginza",
+    "hours": "9:00-2:00",
+    "note": "Distance is calculated from the address location. Far. The actual walking route is about 1,992 m."
+   }
+  ]
+ },
+ "photoCredit": "Wakuwaku99 / Public domain · Wikimedia Commons"
+}

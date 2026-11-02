@@ -1,0 +1,360 @@
+{
+ "slug": "ritz-carlton-tokyo",
+ "nameJa": "ザ・リッツ・カールトン東京",
+ "nameEn": "The Ritz-Carlton, Tokyo",
+ "type": "hotel",
+ "area": "toranomon-roppongi-venues",
+ "address": "〒107-6245 東京都港区赤坂9-7-1 東京ミッドタウン",
+ "officialUrl": "https://www.ritzcarlton.com/ja/hotels/tyorz-the-ritz-carlton-tokyo/overview/",
+ "organizerUrl": "https://www.ritzcarlton.com/ja/hotels/tyorz-the-ritz-carlton-tokyo/events/",
+ "bizintokyoSlug": "ritz-carlton-tokyo",
+ "accessSummary": "六本木駅（日比谷線・大江戸線）に直結／乃木坂駅（千代田線）",
+ "notice": null,
+ "hours": "ミーティング・パッケージは午前8時から午後5時の間で最長8時間（半日・全日）",
+ "rooms": [
+  {
+   "name": "2F ザ・リッツ・カールトン大宴会場（ボールルーム I〜IV を合わせた全室）",
+   "areaM2": 560,
+   "ceilingM": 5.0,
+   "theater": 500,
+   "school": 330,
+   "ushape": 120,
+   "standing": 400,
+   "banquet": 270,
+   "note": "公式のフロア図で、大宴会場はボールルーム I〜IV の4室に区切られている。公式ページ内の総面積の表記は、冒頭が1,352㎡、説明文が1,100㎡、見出しが約990㎡（全6室）とばらつく。部屋数も、冒頭の数字はイベントルーム9室・小会議室11室、見出しは全6室、よくあるご質問は9室と異なる"
+  },
+  {
+   "name": "2F ボールルーム I",
+   "areaM2": 135,
+   "ceilingM": 5.0,
+   "theater": 130,
+   "school": 90,
+   "ushape": 39,
+   "standing": 80,
+   "banquet": 60,
+   "note": "コンファレンス形式36名"
+  },
+  {
+   "name": "2F ボールルーム II",
+   "areaM2": 144,
+   "ceilingM": 5.0,
+   "theater": 140,
+   "school": 100,
+   "ushape": 45,
+   "standing": 100,
+   "banquet": 60,
+   "note": "コンファレンス形式36名"
+  },
+  {
+   "name": "2F ボールルーム III",
+   "areaM2": 144,
+   "ceilingM": 5.0,
+   "theater": 140,
+   "school": 100,
+   "ushape": 45,
+   "standing": 100,
+   "banquet": 60,
+   "note": "コンファレンス形式36名"
+  },
+  {
+   "name": "2F ボールルーム IV",
+   "areaM2": 135,
+   "ceilingM": 5.0,
+   "theater": 130,
+   "school": 90,
+   "ushape": 39,
+   "standing": 80,
+   "banquet": 60,
+   "note": "コンファレンス形式36名"
+  },
+  {
+   "name": "2F ホワイエ（大宴会場に隣接するプリファンクションエリア）",
+   "areaM2": 282,
+   "ceilingM": 5.3,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": 200,
+   "banquet": null,
+   "note": null
+  },
+  {
+   "name": "2F テラス（檜町公園に面した屋外）",
+   "areaM2": 322,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": 200,
+   "banquet": null,
+   "note": null
+  },
+  {
+   "name": "2F チャペル",
+   "areaM2": 44,
+   "ceilingM": 5.0,
+   "theater": null,
+   "school": 80,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": null
+  },
+  {
+   "name": "1F パークビュールーム（全室）",
+   "areaM2": 221,
+   "ceilingM": 3.0,
+   "theater": 200,
+   "school": 100,
+   "ushape": 48,
+   "standing": 120,
+   "banquet": 110,
+   "note": "説明文の面積は220㎡。パークビューウエスト＋イーストに区切って使える"
+  },
+  {
+   "name": "1F パークビューウエスト",
+   "areaM2": 104,
+   "ceilingM": 3.0,
+   "theater": 90,
+   "school": 70,
+   "ushape": 30,
+   "standing": 60,
+   "banquet": 50,
+   "note": "コンファレンス形式24名"
+  },
+  {
+   "name": "1F パークビューイースト",
+   "areaM2": 117,
+   "ceilingM": 3.0,
+   "theater": 110,
+   "school": 80,
+   "ushape": 36,
+   "standing": 60,
+   "banquet": 60,
+   "note": "コンファレンス形式30名"
+  },
+  {
+   "name": "1F マグノリアガーデンルーム（ガーデンルーム＋マグノリアルーム）",
+   "areaM2": 84,
+   "ceilingM": 3.0,
+   "theater": 75,
+   "school": 35,
+   "ushape": 36,
+   "standing": 50,
+   "banquet": 40,
+   "note": "コンファレンス形式30名。説明文ではガーデンルーム50㎡とマグノリアルーム35㎡に仕切れると案内（表ではガーデンルーム56㎡）"
+  },
+  {
+   "name": "1F ザ・ガーデンルーム",
+   "areaM2": 56,
+   "ceilingM": 3.0,
+   "theater": 45,
+   "school": 20,
+   "ushape": 18,
+   "standing": null,
+   "banquet": 20,
+   "note": "コンファレンス形式18名"
+  },
+  {
+   "name": "1F マグノリアルーム",
+   "areaM2": 35,
+   "ceilingM": 3.0,
+   "theater": 35,
+   "school": 15,
+   "ushape": 15,
+   "standing": null,
+   "banquet": 10,
+   "note": "コンファレンス形式12名"
+  },
+  {
+   "name": "1F メイプルルーム",
+   "areaM2": 36,
+   "ceilingM": 3.0,
+   "theater": 35,
+   "school": 15,
+   "ushape": 12,
+   "standing": null,
+   "banquet": 10,
+   "note": "コンファレンス形式12名"
+  },
+  {
+   "name": "1F サイプレスルーム",
+   "areaM2": 45,
+   "ceilingM": 3.0,
+   "theater": 50,
+   "school": 25,
+   "ushape": 21,
+   "standing": null,
+   "banquet": 20,
+   "note": "コンファレンス形式24名"
+  },
+  {
+   "name": "1F ボードルーム",
+   "areaM2": 45,
+   "ceilingM": 3.0,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "コンファレンス形式14名"
+  },
+  {
+   "name": "1F サロン",
+   "areaM2": 35,
+   "ceilingM": 3.0,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": null
+  }
+ ],
+ "roomsSource": "https://www.ritzcarlton.com/ja/hotels/tyorz-the-ritz-carlton-tokyo/events/",
+ "ops": {
+  "parking": {
+   "text": "ホテル敷地内に駐車場があり、料金は1時間800円、1日8,000円、毎週56,000円。バレーパーキングサービス（1日8,000円）と電気自動車の充電ステーションもある。（公式の施設情報）",
+   "source": "https://www.ritzcarlton.com/ja/hotels/tyorz-the-ritz-carlton-tokyo/overview/"
+  },
+  "restaurants": {
+   "text": "公式のダイニングページに館内の7店が載っている：ニナ ザ・リッツ・カールトン東京（パティスリー、毎日11:00〜20:00）、Héritage by Kei Kobayashi（フランス料理、火・水休業）、ビストロノミー「タワーズ」（毎日7:00〜10:30／11:30〜15:00／17:30〜21:00）、日本料理 ひのきざか（会席・寿司・天ぷら・鉄板焼き、毎日11:30〜14:30／17:30〜21:00）、ザ・ロビーラウンジ（毎日11:00〜、金土は23:00まで）、ザ・バー（45階、15:00〜、土日は12:00〜）、ラ・ブティック（毎日11:00〜21:00）。",
+   "source": "https://www.ritzcarlton.com/ja/hotels/tyorz-the-ritz-carlton-tokyo/dining/"
+  }
+ },
+ "documents": [
+  {
+   "title": "会議・イベントのページ（収容人数表・設備・ミーティングパッケージ・RFP）",
+   "url": "https://www.ritzcarlton.com/ja/hotels/tyorz-the-ritz-carlton-tokyo/events/"
+  },
+  {
+   "title": "フロア図 1階（パークビュールーム、ガーデンルームなど）",
+   "url": "https://cache.marriott.com/is/image/marriotts7prod/tokyo_mtg_floorplan_ritz_tokyo_00235_mtg_floorplan_rev:Classic-Hor?wid=686&fit=constrain"
+  },
+  {
+   "title": "フロア図 2階（大宴会場、ホワイエ、テラス、チャペル）",
+   "url": "https://cache.marriott.com/is/image/marriotts7prod/tokyo_mtg_floorplan_ritz_tokyo_00236_mtg_floorplan:Classic-Hor?wid=686&fit=constrain"
+  },
+  {
+   "title": "会議・イベントのRFP（提案依頼書）",
+   "url": "https://www.ritzcarlton.com/ja/hotels-and-resorts/meetings-and-celebrations/meetings/rfp/?marshaCode=tyorz"
+  },
+  {
+   "title": "ホテル概要・駐車場・アクセス",
+   "url": "https://www.ritzcarlton.com/ja/hotels/tyorz-the-ritz-carlton-tokyo/overview/"
+  },
+  {
+   "title": "ダイニング",
+   "url": "https://www.ritzcarlton.com/ja/hotels/tyorz-the-ritz-carlton-tokyo/dining/"
+  }
+ ],
+ "checkedAt": "2026-11-02",
+ "lat": 35.666023,
+ "lng": 139.732208,
+ "nearby": {
+  "convenience": [
+   {
+    "name": "ファミリーマート 東京ミッドタウン店",
+    "brand": "ファミリーマート",
+    "distanceM": 82,
+    "walkMin": 2,
+    "hours": "6:30-20:00",
+    "address": "東京都港区赤坂9丁目7-1",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/21461",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "セブン-イレブン 東京ミッドタウン店",
+    "brand": "セブン-イレブン",
+    "distanceM": 125,
+    "walkMin": 2,
+    "hours": "6:30-23:00（月〜日・祝）",
+    "address": "東京都港区赤坂9-7-2",
+    "verified": true,
+    "source": "https://seven-eleven.areamarker.com/711map/info/224633",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "ファミリーマート 六本木七丁目店",
+    "brand": "ファミリーマート",
+    "distanceM": 227,
+    "walkMin": 3,
+    "hours": "24時間営業",
+    "address": "東京都港区六本木7-13-2",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/58967",
+    "note": "距離は公式の店舗位置で計算"
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "アクセア 六本木店",
+    "brand": "アクセア",
+    "distanceM": 405,
+    "walkMin": 6,
+    "hours": "平日 8:00-22:00／土・日・祝 10:00-19:00",
+    "address": "東京都港区六本木6-1-4 丸正小林ビル1F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/map/roppongi.html",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "アクセア 六本木一丁目店",
+    "brand": "アクセア",
+    "distanceM": 518,
+    "walkMin": 7,
+    "hours": "平日 9:00-20:00／土・日・祝 休み",
+    "address": "東京都港区六本木2-3-2 VORT六本木一丁目1F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/map/roppongi1chome.html",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Can★Do 城山ヒルズ店",
+    "brand": "キャンドゥ",
+    "distanceM": 1079,
+    "walkMin": 14,
+    "hours": "毎日 9:00-23:00",
+    "address": "東京都港区虎ノ門4-1-17 神谷町プライムプレイスB1階",
+    "verified": true,
+    "source": "https://shopinfo.cando-web.co.jp/detail/shop-1835/",
+    "note": "距離は公式の店舗位置で計算。遠め"
+   },
+   {
+    "name": "Can★Do 赤坂一ツ木通り店",
+    "brand": "キャンドゥ",
+    "distanceM": 1083,
+    "walkMin": 14,
+    "hours": "月〜金 9:00-21:00／土〜日 9:00-20:00",
+    "address": "東京都港区赤坂3-17-10 フローレンス一ツ木ビル1階",
+    "verified": true,
+    "source": "https://shopinfo.cando-web.co.jp/detail/shop-5207/",
+    "note": "距離は公式の店舗位置で計算。遠め"
+   }
+  ],
+  "donki": [
+   {
+    "name": "ドン・キホーテ 六本木店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 453,
+    "walkMin": 6,
+    "hours": "24時間営業",
+    "address": "東京都港区六本木3-14-10",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=31",
+    "note": "距離は住所の位置で計算。ドン・キホーテ公式サイトの店舗名は「六本木店」"
+   }
+  ]
+ },
+ "drinkDelivery": {
+  "available": true
+ },
+ "photo": {
+  "src": "/images/venues/ritz-carlton-tokyo.jpg",
+  "credit": "© Guilhem Vellut / CC BY 2.0 · Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tokyo_Midtown_%40_Roppongi_(14086744240).jpg"
+ }
+}
