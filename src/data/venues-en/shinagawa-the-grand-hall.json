@@ -1,0 +1,128 @@
+{
+ "slug": "shinagawa-the-grand-hall",
+ "name": "THE GRAND HALL",
+ "address": "Tokyo 108-0075 Shinagawa Grand Central Tower 3F, 2-16-4 Konan, Minato-ku",
+ "accessSummary": "JR Shinagawa Station (Yamanote Line, Keihin-Tohoku Line, Yokosuka Line, Tokaido Main Line, Tokaido/Sanyo Shinkansen) Konan Exit: 3 min walk / Keikyu Shinagawa Station: 8 min walk",
+ "hours": "All-day use is an 11-hour slot from 9:00 to 20:00, and the time slot cannot be shifted. Hourly use is a 6-hour pack with no restriction on the time slot. If the use time overlaps 22:00-8:00, a late-night/early-morning fee (30,000 yen per person, tax excluded) applies. The venue is in principle open all year (it may close for inspections and the like).",
+ "notice": "The foyer, hall and waiting rooms are rented out exclusively to one company. When applying, you tell them the organizer, purpose and content of use, and depending on the content, use may be declined.",
+ "rooms": [
+  {
+   "name": "Hall",
+   "note": "Ceiling height is measured to the bottom of the battens. Theater layout: 484 seats, consisting of 220 roll-back chairs at the rear + 264 at the front (varies depending on whether the stage and roll-back chairs are used; e.g., 418 seats when 2 stage sections are used). Classroom: 342 seats at 3 per desk (228 seats at 2 per desk). T-shaped group layout: 315 seats at 3 per desk, 210 seats at 2 per desk. Standing (inside the hall): 350 recommended; 400 or more is possible if packed tighter. 14.2 m wide x 30.35 m deep. 2 lifting stage sections (W14.0 m x D3.0 m)."
+  },
+  {
+   "name": "Foyer",
+   "note": "Ceiling height 3 m (2.5 m in part). Recommended capacity for a standing party (reception). About 54.2 m wide x 8.2-9.2 m deep. Has a drink counter (refrigerator, ice maker, water facilities) and a cloakroom."
+  }
+ ],
+ "ops": {
+  "loadingHours": "Load-in and load-out work is done only at the commercial loading area in the B2F C3 parking lot. There are 2 load-in/load-out elevators that connect to the 3rd floor. No. 37 is 2,400 mm wide x 1,720 mm deep x 2,500 mm high (load capacity 2,000 kg), and No. 38 is a car lift measuring 2,425 mm wide x 5,570 mm deep x 2,700 mm high (load capacity 3,500 kg). Trucks that can enter the loading area are up to 2-ton trucks, 3.1 m high and 7.0 m long. When there is load-in/load-out work, tell the hall staff in advance. (Source: Load-in/Load-out Document as of November 1, 2025, Access page)",
+  "vehicleRules": "Because the loading area is a shared part of the building, up to 2 vehicles can enter at the same time for load-in/load-out. During work, place at least 1 guide staff member to avoid accidents and congestion with other vehicles. When loading or unloading heavy or sharp objects, cover and protect the floors and doors of the hall and foyer. Parking on the street near the hall or building is prohibited. (Source: Load-in/Load-out Document as of November 1, 2025, Terms of Use Article 17)",
+  "parking": "The hall has no dedicated parking lot. It recommends using the nearby Grand Commons C2 parking lot (グランドコモンズC2駐車場, B2F of Grand Central Tower). Hours 7:00-24:00 (last entry 23:00); the fee is 250 yen per 30 minutes (maximum 3,000 yen). The hall does not handle parking discounts, parking ticket handling or reservations. The hall overview page lists a mechanical paid parking lot with 86 spaces (1,900 mm wide x 5,000 mm long x 2,000 mm high, up to 2 tons). The load-in/load-out document says that for the mechanical parking lot, the limit is 2.1 m high and 5.3 m long (as of November 1, 2025).",
+  "waitingRooms": "There are 3 waiting rooms (Waiting Room 1: 45㎡, Waiting Room 2: 49㎡, Waiting Room 3 / storage: 38㎡; ceiling height 2.6 m). Waiting Rooms 1 and 2 have a monitor showing the hall, a full-length mirror, a clothes rack and so on, and Waiting Room 3 has a vending machine. There are also restrooms (men's and women's) for the waiting rooms and changing room / shower rooms (men's and women's). All of the rented areas are included in the venue usage fee.",
+  "catering": "For receptions and parties, the hall introduces catering companies (reception cost from 6,000 yen per person, including food, 2 hours of free drinks and service staff, tax excluded). For food and drink arranged externally, the operator shows the fee in a quotation. Eating and drinking outside the places designated by the operator, and cooking inside the hall that the operator has not approved, are prohibited. For drinks, coffee pots are from 4,000 yen, and mineral water and tea are from 2,600 yen for a case of 24 bottles (tax excluded). (Source: Price page, Terms of Use)"
+ },
+ "documents": [
+  {
+   "title": "Load-in/Load-out Document (as of November 1, 2025)"
+  },
+  {
+   "title": "Access Map (Walking Route)"
+  },
+  {
+   "title": "Access Map (Parking Entrance)"
+  },
+  {
+   "title": "Price"
+  },
+  {
+   "title": "Terms of Use"
+  },
+  {
+   "title": "Overall Plan"
+  },
+  {
+   "title": "Overall Plan (Power Supply Diagram)"
+  },
+  {
+   "title": "Hall Plan"
+  },
+  {
+   "title": "Hall Plan (Power Supply Diagram)"
+  },
+  {
+   "title": "Hall Plan (Cross-Section)"
+  },
+  {
+   "title": "Hall Plan (Batten and Fly Bridge Diagram)"
+  },
+  {
+   "title": "Equipment List (updated December 29, 2025)"
+  },
+  {
+   "title": "Sound Equipment List"
+  },
+  {
+   "title": "Lighting Equipment List"
+  },
+  {
+   "title": "Video Equipment List"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "Lawson Shinagawa Grand Passage",
+    "hours": "7:00-23:00",
+    "note": "Distance is calculated from the store's official location."
+   },
+   {
+    "name": "FamilyMart Shinagawa Grand Passage",
+    "hours": "7:00-23:00",
+    "note": "Distance is calculated from the store's official location."
+   },
+   {
+    "name": "Lawson H Shinagawa Intercity",
+    "hours": "7:30-22:00",
+    "note": "Distance is calculated from the store's official location."
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "Kinko's Shinagawa",
+    "hours": "Weekdays 8:00-22:00 / Sat, Sun & holidays 9:00-18:00",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Accea Shinagawa Station Konan Exit",
+    "hours": "Weekdays 8:00-21:00, Sat, Sun & holidays 10:00-19:00",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Seria Wing Takanawa WEST",
+    "hours": "Mon 10:00-21:00 / Tue 10:00-20:00 / Wed-Fri 10:00-21:00 / Sat-Sun 10:00-20:00",
+    "note": "Distance is calculated from the store's official location."
+   },
+   {
+    "name": "Can Do Shin-Baba",
+    "hours": "Mon-Sun 10:00-20:00",
+    "note": "Distance is calculated from the store's official location."
+   }
+  ],
+  "donki": [
+   {
+    "name": "Don Quijote Gotanda East Exit",
+    "hours": "8:00-5:00",
+    "note": "Distance is calculated from the address location. Rather far. The store name on the official Don Quijote website is \"Gotanda East Exit Store\" (五反田東口店)."
+   },
+   {
+    "name": "Platinum Don Quijote Shirokanedai",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. Far."
+   }
+  ]
+ },
+ "photoCredit": "© Kakidai / CC BY-SA 4.0 · Wikimedia Commons"
+}

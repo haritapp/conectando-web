@@ -1,0 +1,308 @@
+{
+ "slug": "taito-millennium-hall",
+ "nameJa": "台東区生涯学習センター ミレニアムホール",
+ "nameEn": "",
+ "type": "hall",
+ "area": "ueno-asakusa-venues",
+ "address": "〒111-8621 東京都台東区西浅草3丁目25番16号（2階）",
+ "officialUrl": "https://www.city.taito.lg.jp/gakushu/shogaigakushu/shogaigakushusisetsu/syougaigakusyuucente/index.html",
+ "organizerUrl": "https://www.city.taito.lg.jp/gakushu/shogaigakushu/shogaigakushusisetsu/syougaigakusyuucente/riyouannai/riyouannai.html",
+ "bizintokyoSlug": "taito-millennium-hall",
+ "accessSummary": "東京メトロ日比谷線「入谷駅」1番出口 徒歩約8分／つくばエクスプレス「浅草駅」A2出口 徒歩約8分／JR山手線・京浜東北線「鶯谷駅」南口 徒歩約15分",
+ "notice": "改修工事のため休館中。2026年11月15日（日）午前9時にリニューアルオープンし、一般利用が始まる。営利目的の使用と営利目的の物品販売はできない。区外の個人・2人以上の団体も利用者登録をすれば借りられる（ミレニアムホールは区外料金の加算なし）が、全日利用の抽選は区内の登録者だけで、区外は先着順予約から。",
+ "hours": "利用時間 9:00〜22:00（使用料の払込は20:00まで）。ミレニアムホールの時間区分は午前9:00〜12:00／午後13:00〜17:00／夜間18:00〜21:00（夜間2は〜22:00）／全日9:00〜21:00（全日2は〜22:00）で、準備と後片付けの時間を含む。休館日は毎月第1・第3・第5月曜日（祝日・休日の場合は翌日）と年末年始（12月29日〜1月3日）。開館時間のページには「9時から20時」の記載もある。",
+ "rooms": [
+  {
+   "name": "ミレニアムホール（2階）",
+   "areaM2": 329,
+   "ceilingM": null,
+   "theater": 300,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "固定席300席（車椅子用スペース4席・親子室6席）。定員300人。舞台は幅12.4m×奥行7.2m、高さ80.5cm。バトン飛切り高さ9m（舞台平面図）。残響時間1.7秒（空席時）。フルコンサートピアノ1台、磁気ループあり。舞台機構・音響・照明・ピンスポットのオペレータは別途料金。搬入出用エレベーターは幅2.1m×奥行3.0m×高さ2.49m（ドア開口幅1.95m）（楽屋及び舞台図）。"
+  },
+  {
+   "name": "301研修室（3階）",
+   "areaM2": 140,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "定員108人。マルチプロジェクター・音響操作卓・書画カメラ（OHP）は別途使用料。"
+  },
+  {
+   "name": "303会議室（3階）",
+   "areaM2": 46,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "定員30人。"
+  },
+  {
+   "name": "304会議室・305会議室（3階、各室）",
+   "areaM2": 28,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "各室の定員18人。2室は一体利用でき、一体利用の定員は36人。"
+  },
+  {
+   "name": "306会議室・307会議室（3階、各室）",
+   "areaM2": 28,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "各室の定員18人。2室は一体利用でき、一体利用の定員は36人。"
+  },
+  {
+   "name": "312リハーサル室（3階）",
+   "areaM2": 81,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "定員27人。ダンス目的の使用も可（緩衝材床）。練習用グランドピアノと音響装置は別途使用料。"
+  },
+  {
+   "name": "407研修室（4階）",
+   "areaM2": 120,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "定員98人。机・椅子は常設ではない。ダンスでの使用も可。音響装置は別途使用料。（4階フロア案内 2023年10月12日更新）"
+  },
+  {
+   "name": "501コンピュータ研修室（5階）",
+   "areaM2": 90,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "定員24人。ノートパソコン等の研修用OA機器（パソコン、プロジェクター、スクリーン）を使うときは別途使用料。（5階フロア案内 2018年6月17日更新）"
+  },
+  {
+   "name": "504教育研修室（5階）",
+   "areaM2": 78,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "定員54人。スクリーンあり。（5階フロア案内 2018年6月17日更新）"
+  }
+ ],
+ "roomsSource": "https://www.city.taito.lg.jp/gakushu/shogaigakushu/shogaigakushusisetsu/syougaigakusyuucente/furoaannai/2kai.html ／ https://www.city.taito.lg.jp/gakushu/shogaigakushu/shogaigakushusisetsu/syougaigakusyuucente/furoaannai/3kai.html ／ https://www.city.taito.lg.jp/gakushu/shogaigakushu/shogaigakushusisetsu/syougaigakusyuucente/furoaannai/4kai.html ／ https://www.city.taito.lg.jp/gakushu/shogaigakushu/shogaigakushusisetsu/syougaigakusyuucente/furoaannai/5kai.html",
+ "ops": {
+  "loadingHours": {
+   "text": "大道具・照明器具などを持ち込むときは、事前に種類・数量・搬入日時の承認が必要で、持ち込んだものの保管は一切できない。利用日の1か月前までに、舞台装置などについて担当係員と打合せをし、プログラム・進行表・入場券なども出す。使用日時より前の荷物の送付は断られる。利用時間には準備と後片付けの時間を含む。",
+   "source": "https://www.city.taito.lg.jp/kusei/online/yoyaku/riyosyaguide.files/2.pdf"
+  },
+  "parking": {
+   "text": "地下駐車場は改修工事のため2025年4月から利用できず、2026年11月中旬頃に再開予定。",
+   "source": "https://www.city.taito.lg.jp/gakushu/shogaigakushu/shogaigakushusisetsu/syougaigakusyuucente/riyouannai/kyuukann.html"
+  },
+  "waitingRooms": {
+   "text": "楽屋は4室。楽屋1・2は各定員6名で連結でき、シャワールーム（2口）が付く。楽屋3・4は各定員2名の個室。楽屋事務室もある。楽屋は付帯設備として別途使用料がかかる。",
+   "source": "https://www.city.taito.lg.jp/gakushu/shogaigakushu/shogaigakushusisetsu/syougaigakusyuucente/furoaannai/2kai.html"
+  },
+  "catering": {
+   "text": "館内での飲酒と、決められた場所以外での飲食は禁止。ミレニアムホールの客席内（親子室を含む）での飲食も禁止で、飲食はロビーで行う。出たゴミは各自で持ち帰る。",
+   "source": "https://www.city.taito.lg.jp/kusei/online/yoyaku/riyosyaguide.files/2.pdf"
+  },
+  "restaurants": {
+   "text": "1階にコーヒーショップ Cafe 香逢（ハーブティー・コーヒー・軽食）がある（1階フロア案内 2023年10月12日更新）。ホール前のホワイエに自動販売機がある。",
+   "source": "https://www.city.taito.lg.jp/gakushu/shogaigakushu/shogaigakushusisetsu/syougaigakusyuucente/furoaannai/1kai.html"
+  }
+ },
+ "documents": [
+  {
+   "title": "施設使用料一覧表",
+   "url": "https://www.city.taito.lg.jp/gakushu/shogaigakushu/shogaigakushusisetsu/syougaigakusyuucente/riyouannai/shisetsu-shiyouryou.files/siyouryou.pdf"
+  },
+  {
+   "title": "施設使用料一覧表（付帯設備）",
+   "url": "https://www.city.taito.lg.jp/gakushu/shogaigakushu/shogaigakushusisetsu/syougaigakusyuucente/riyouannai/shisetsu-shiyouryou.files/hutai.pdf"
+  },
+  {
+   "title": "本予約・還付のお知らせ（2025年4月1日）",
+   "url": "https://www.city.taito.lg.jp/gakushu/shogaigakushu/shogaigakushusisetsu/syougaigakusyuucente/riyouannai/riyouannai.files/honyoyaku20250401.pdf"
+  },
+  {
+   "title": "利用予約について",
+   "url": "https://www.city.taito.lg.jp/gakushu/shogaigakushu/shogaigakushusisetsu/syougaigakusyuucente/riyouannai/riyouannai.html"
+  },
+  {
+   "title": "生涯学習センターご利用上のご注意（2023年2月8日更新）",
+   "url": "https://www.city.taito.lg.jp/gakushu/shogaigakushu/shogaigakushusisetsu/syougaigakusyuucente/riyouannai/riyoujounogotyuui.html"
+  },
+  {
+   "title": "公共施設予約システム 利用者ガイド 第2章 集会施設の利用について（令和8年1月 集会施設の利用区分の見直し反映版）",
+   "url": "https://www.city.taito.lg.jp/kusei/online/yoyaku/riyosyaguide.files/2.pdf"
+  },
+  {
+   "title": "施設ご利用要件（2026年4月13日更新）",
+   "url": "https://www.city.taito.lg.jp/kusei/online/yoyaku/riyouyouken2026.html"
+  },
+  {
+   "title": "舞台平面図（寸法＆吊位置）",
+   "url": "https://www.city.taito.lg.jp/gakushu/shogaigakushu/shogaigakushusisetsu/syougaigakusyuucente/furoaannai/2kai.files/butai-heimennzu.pdf"
+  },
+  {
+   "title": "楽屋及び舞台図",
+   "url": "https://www.city.taito.lg.jp/gakushu/shogaigakushu/shogaigakushusisetsu/syougaigakusyuucente/furoaannai/2kai.files/gakuya-butaizu.pdf"
+  },
+  {
+   "title": "客席図面（Ver.18'01）",
+   "url": "https://www.city.taito.lg.jp/gakushu/shogaigakushu/shogaigakushusisetsu/syougaigakusyuucente/furoaannai/2kai.files/kyakusekizumen.pdf"
+  },
+  {
+   "title": "ホール全体図（Ver.20'1010）",
+   "url": "https://www.city.taito.lg.jp/gakushu/shogaigakushu/shogaigakushusisetsu/syougaigakusyuucente/furoaannai/2kai.files/ho-ru.zentai.pdf"
+  },
+  {
+   "title": "生涯学習センター休室・休館のお知らせ（2026年6月19日）",
+   "url": "https://www.city.taito.lg.jp/gakushu/shogaigakushu/shogaigakushusisetsu/syougaigakusyuucente/riyouannai/kyuukann.files/20260619oshirase.pdf"
+  }
+ ],
+ "checkedAt": "2026-11-02",
+ "lat": 35.717503,
+ "lng": 139.789352,
+ "nearby": {
+  "convenience": [
+   {
+    "name": "ファミリーマート 入谷二丁目店",
+    "brand": "ファミリーマート",
+    "distanceM": 103,
+    "walkMin": 2,
+    "hours": "24時間営業",
+    "address": "東京都台東区入谷2-1-8",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/57387",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "ファミリーマート 西浅草三丁目店",
+    "brand": "ファミリーマート",
+    "distanceM": 139,
+    "walkMin": 2,
+    "hours": "24時間営業",
+    "address": "東京都台東区西浅草3丁目 29-23",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/59390",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "セブン-イレブン 台東西浅草3丁目店",
+    "brand": "セブン-イレブン",
+    "distanceM": 164,
+    "walkMin": 3,
+    "hours": "24時間営業",
+    "address": "東京都台東区西浅草3-22-17",
+    "verified": true,
+    "source": "https://seven-eleven.areamarker.com/711map/info/274507",
+    "note": "距離は公式の店舗位置で計算"
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "キンコーズ・上野店",
+    "brand": "キンコーズ",
+    "distanceM": 1133,
+    "walkMin": 15,
+    "hours": "平日 9:00-22:00／土・日・祝 10:00-18:00",
+    "address": "東京都台東区東上野4丁目3-4",
+    "verified": true,
+    "source": "https://www.kinkos.co.jp/store/tokyo/t028/",
+    "note": "距離は住所の位置で計算。遠め"
+   },
+   {
+    "name": "アクセア 新御徒町店",
+    "brand": "アクセア",
+    "distanceM": 1255,
+    "walkMin": 16,
+    "hours": "平日9:00〜20:00／土日祝休み",
+    "address": "東京都台東区元浅草1-1-1 ヒューリック新御徒町ビル1F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/entry.html",
+    "note": "距離は住所の位置で計算。遠め"
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "DAISO ココスナカムラ入谷店",
+    "brand": "ダイソー",
+    "distanceM": 519,
+    "walkMin": 7,
+    "hours": "10:00-20:00",
+    "address": "東京都台東区入谷1-6-6 ココスナカムラ入谷店2階",
+    "verified": true,
+    "source": "https://www.daiso-sangyo.co.jp/shop/detail/005448",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "DAISO 浅草ROX店",
+    "brand": "ダイソー",
+    "distanceM": 605,
+    "walkMin": 8,
+    "hours": "10:30-21:00",
+    "address": "東京都台東区浅草1-25-15 浅草ROX4階",
+    "verified": true,
+    "source": "https://www.daiso-sangyo.co.jp/shop/detail/007646",
+    "note": "距離は公式の店舗位置で計算。実際の道のりは約817m"
+   }
+  ],
+  "donki": [
+   {
+    "name": "ドン・キホーテ 浅草店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 511,
+    "walkMin": 7,
+    "hours": "24時間営業",
+    "address": "東京都台東区浅草2-10",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=326",
+    "note": "距離は住所の位置で計算。ドン・キホーテ公式サイトの店舗名は「浅草店」"
+   },
+   {
+    "name": "ドン・キホーテ浅草EKIMISE店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 1037,
+    "walkMin": 13,
+    "hours": "10:00-20:00",
+    "address": "東京都台東区花川戸一丁目4番1号 4F",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=747",
+    "note": "距離は住所の位置で計算。遠め"
+   }
+  ]
+ },
+ "drinkDelivery": {
+  "available": true
+ },
+ "photo": {
+  "src": "/images/venues/taito-millennium-hall.jpg",
+  "credit": "© Suikotei / CC BY 4.0 · Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Taito_Lifelong_learning_center_20250921.jpg"
+ }
+}

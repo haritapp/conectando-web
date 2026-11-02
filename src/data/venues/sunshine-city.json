@@ -1,0 +1,670 @@
+{
+ "slug": "sunshine-city",
+ "nameJa": "サンシャインシティ",
+ "nameEn": "SUNSHINE CITY",
+ "type": "exhibition",
+ "area": "ikebukuro-venues",
+ "address": "〒170-0013 東京都豊島区東池袋3-1",
+ "officialUrl": "https://sunshinecity.jp/",
+ "organizerUrl": "https://co.sunshinecity.co.jp/business/",
+ "bizintokyoSlug": "sunshine_city",
+ "accessSummary": "池袋駅（JR・東京メトロ・西武線・東武線）35番出口 徒歩約8分／東京メトロ有楽町線 東池袋駅 6・7番出口 地下通路で徒歩約3分（直結）／都電荒川線 東池袋四丁目（サンシャイン前）停留場 徒歩約4分",
+ "notice": "展示ホールは1日単位の貸出で、収容人数の定員は設けていない。会議室は音の出るイベント・飲食物の持込み・パーティーのみの利用ができず、展示会として使う場合は料金が20%割増（清掃料金も別）。文化会館ビル7階の会議室は2023年1月で貸出終了（現在の会議室はワールドインポートマートビル5Fのコンファレンスルームと文化会館ビル5Fの特別ホール）。（出典：展示ホールよくあるご質問、会議室 利用規程 2025年4月改定）",
+ "hours": "展示ホールは1日単位の貸出で基本使用時間は10:00〜18:00（前後は延長料金）。会議室は営業時間9:00〜20:30（午前9〜12時・午後13〜17時・夜間17:30〜20:30の3区分、年末年始を除く毎日営業）",
+ "rooms": [
+  {
+   "name": "展示ホールA 全体（ワールドインポートマートビル4F）",
+   "areaM2": 3969,
+   "ceilingM": "2.5-3.0",
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "ワールドインポートマートビル4F。床荷重 平均300kg/㎡、会場照明900LUX。事務室3室・VIPルーム・厨房設備（A-1）が付帯。収容人数の定員は設けていない（会場レイアウトにより有効面積が異なるため）。A-1・A-2・A-3の3分割ができ、A-2とA-3を合わせた利用もできる"
+  },
+  {
+   "name": "展示ホールA-1",
+   "areaM2": 1568,
+   "ceilingM": "2.5-3.0",
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "A-1事務室（30㎡）、厨房設備「おあしす」が付帯"
+  },
+  {
+   "name": "展示ホールA-2",
+   "areaM2": 1261,
+   "ceilingM": "2.5-3.0",
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "A-2事務室（30㎡）が付帯"
+  },
+  {
+   "name": "展示ホールA-3",
+   "areaM2": 1140,
+   "ceilingM": "2.5-3.0",
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "A-3事務室（45㎡）が付帯"
+  },
+  {
+   "name": "展示ホールB（文化会館ビル4F）",
+   "areaM2": 2343,
+   "ceilingM": "3.6-8.6",
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "2フロア分の吹抜けで天井高8.6mの部分がある（それ以外は3.6m）。床荷重 平均300kg/㎡、会場照明900LUX。事務室3室（B-1は4F、B-2・B-3は5F）が付帯"
+  },
+  {
+   "name": "展示ホールC（文化会館ビル3F）",
+   "areaM2": 2860,
+   "ceilingM": "3.0-3.67",
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "床荷重 平均500kg/㎡（ほかのホールは300kg/㎡）、会場照明900LUX。事務室2室（C-1 52㎡・C-2 54㎡）が付帯。スライディングウォールで分割し、セミナーなどにも使える"
+  },
+  {
+   "name": "展示ホールD 全体（文化会館ビル2F）",
+   "areaM2": 3341,
+   "ceilingM": "2.6-3.0",
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "床荷重 平均300kg/㎡、会場照明900LUX。事務室3室（D-1 25㎡・D-2 22㎡・D-3 16㎡）が付帯。D-1①・D-1②・D-2・D-3・D-4の5分割ができる"
+  },
+  {
+   "name": "展示ホールD-1①",
+   "areaM2": 564,
+   "ceilingM": "2.6-3.0",
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": ""
+  },
+  {
+   "name": "展示ホールD-1②",
+   "areaM2": 808,
+   "ceilingM": "2.6-3.0",
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": ""
+  },
+  {
+   "name": "展示ホールD-2",
+   "areaM2": 800,
+   "ceilingM": "2.6-3.0",
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": ""
+  },
+  {
+   "name": "展示ホールD-3",
+   "areaM2": 694,
+   "ceilingM": "2.6-3.0",
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": ""
+  },
+  {
+   "name": "展示ホールD-4",
+   "areaM2": 475,
+   "ceilingM": "2.6-3.0",
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": ""
+  },
+  {
+   "name": "コンファレンスルーム Room1",
+   "areaM2": 42,
+   "ceilingM": null,
+   "theater": 36,
+   "school": 24,
+   "ushape": 18,
+   "standing": 30,
+   "banquet": null,
+   "note": "ワールドインポートマートビル5F。スクールは3人掛け（2人掛けは16席）。島型（3人掛け）24席。天吊りプロジェクターの設置はない"
+  },
+  {
+   "name": "コンファレンスルーム Room2",
+   "areaM2": 42,
+   "ceilingM": null,
+   "theater": 36,
+   "school": 24,
+   "ushape": 18,
+   "standing": 30,
+   "banquet": null,
+   "note": "ワールドインポートマートビル5F。スクールは3人掛け（2人掛けは16席）。島型（3人掛け）24席。天吊りプロジェクターの設置はない"
+  },
+  {
+   "name": "コンファレンスルーム Room3",
+   "areaM2": 61,
+   "ceilingM": null,
+   "theater": 57,
+   "school": 36,
+   "ushape": 30,
+   "standing": 40,
+   "banquet": null,
+   "note": "ワールドインポートマートビル5F。スクールは3人掛け（2人掛けは24席）。島型（3人掛け）30席。天吊りプロジェクターの設置はない"
+  },
+  {
+   "name": "コンファレンスルーム Room4",
+   "areaM2": 141,
+   "ceilingM": null,
+   "theater": 156,
+   "school": 90,
+   "ushape": 48,
+   "standing": 100,
+   "banquet": null,
+   "note": "ワールドインポートマートビル5F。スクールは3人掛け（2人掛けは60席）。島型（3人掛け）84席"
+  },
+  {
+   "name": "コンファレンスルーム Room5",
+   "areaM2": 145,
+   "ceilingM": null,
+   "theater": 156,
+   "school": 90,
+   "ushape": 48,
+   "standing": 100,
+   "banquet": null,
+   "note": "ワールドインポートマートビル5F。スクールは3人掛け（2人掛けは60席）。島型（3人掛け）84席"
+  },
+  {
+   "name": "コンファレンスルーム Room4+5（連結）",
+   "areaM2": 286,
+   "ceilingM": null,
+   "theater": 336,
+   "school": 198,
+   "ushape": 90,
+   "standing": 200,
+   "banquet": null,
+   "note": "ワールドインポートマートビル5F。スクールは3人掛け（2人掛けは132席）。島型（3人掛け）192席"
+  },
+  {
+   "name": "コンファレンスルーム Room6",
+   "areaM2": 96,
+   "ceilingM": null,
+   "theater": 89,
+   "school": 51,
+   "ushape": 30,
+   "standing": 80,
+   "banquet": null,
+   "note": "ワールドインポートマートビル5F。スクールは3人掛け（2人掛けは34席）。島型（3人掛け）48席"
+  },
+  {
+   "name": "コンファレンスルーム Room7",
+   "areaM2": 65,
+   "ceilingM": null,
+   "theater": 56,
+   "school": 36,
+   "ushape": 30,
+   "standing": 40,
+   "banquet": null,
+   "note": "ワールドインポートマートビル5F。スクールは3人掛け（2人掛けは24席）。島型（3人掛け）36席"
+  },
+  {
+   "name": "コンファレンスルーム Room8",
+   "areaM2": 66,
+   "ceilingM": null,
+   "theater": 56,
+   "school": 36,
+   "ushape": 30,
+   "standing": 40,
+   "banquet": null,
+   "note": "ワールドインポートマートビル5F。スクールは3人掛け（2人掛けは24席）。島型（3人掛け）36席"
+  },
+  {
+   "name": "コンファレンスルーム Room9",
+   "areaM2": 97,
+   "ceilingM": null,
+   "theater": 90,
+   "school": 60,
+   "ushape": 36,
+   "standing": 80,
+   "banquet": null,
+   "note": "ワールドインポートマートビル5F。スクールは3人掛け（2人掛けは40席）。島型（3人掛け）54席"
+  },
+  {
+   "name": "コンファレンスルーム Room6+7（連結）",
+   "areaM2": 161,
+   "ceilingM": null,
+   "theater": 144,
+   "school": 87,
+   "ushape": 54,
+   "standing": 120,
+   "banquet": null,
+   "note": "ワールドインポートマートビル5F。スクールは3人掛け（2人掛けは58席）。島型（3人掛け）84席"
+  },
+  {
+   "name": "コンファレンスルーム Room7+8（連結）",
+   "areaM2": 131,
+   "ceilingM": null,
+   "theater": 120,
+   "school": 72,
+   "ushape": 42,
+   "standing": 80,
+   "banquet": null,
+   "note": "ワールドインポートマートビル5F。スクールは3人掛け（2人掛けは48席）。島型（3人掛け）72席"
+  },
+  {
+   "name": "コンファレンスルーム Room8+9（連結）",
+   "areaM2": 163,
+   "ceilingM": null,
+   "theater": 156,
+   "school": 96,
+   "ushape": 54,
+   "standing": 120,
+   "banquet": null,
+   "note": "ワールドインポートマートビル5F。スクールは3人掛け（2人掛けは64席）。島型（3人掛け）90席"
+  },
+  {
+   "name": "コンファレンスルーム Room6+7+8（連結）",
+   "areaM2": 227,
+   "ceilingM": null,
+   "theater": 216,
+   "school": 123,
+   "ushape": 66,
+   "standing": 160,
+   "banquet": null,
+   "note": "ワールドインポートマートビル5F。スクールは3人掛け（2人掛けは82席）。島型（3人掛け）120席。面積は、Room6・7・8の各室の面積の合計と2023年10月版の定員・設備一覧PDFが227㎡。公式ウェブの表は277㎡と表記している"
+  },
+  {
+   "name": "コンファレンスルーム Room7+8+9（連結）",
+   "areaM2": 228,
+   "ceilingM": null,
+   "theater": 228,
+   "school": 132,
+   "ushape": 66,
+   "standing": 160,
+   "banquet": null,
+   "note": "ワールドインポートマートビル5F。スクールは3人掛け（2人掛けは88席）。島型（3人掛け）126席"
+  },
+  {
+   "name": "コンファレンスルーム Room6〜9（連結）",
+   "areaM2": 324,
+   "ceilingM": null,
+   "theater": 336,
+   "school": 198,
+   "ushape": 90,
+   "standing": 200,
+   "banquet": null,
+   "note": "ワールドインポートマートビル5F。スクールは3人掛け（2人掛けは132席）。島型（3人掛け）174席"
+  },
+  {
+   "name": "コンファレンスルーム Room10",
+   "areaM2": 42,
+   "ceilingM": null,
+   "theater": 36,
+   "school": 21,
+   "ushape": 18,
+   "standing": 30,
+   "banquet": null,
+   "note": "ワールドインポートマートビル5F。スクールは3人掛け（2人掛けは14席）。島型（3人掛け）18席"
+  },
+  {
+   "name": "コンファレンスルーム Room11",
+   "areaM2": 72,
+   "ceilingM": null,
+   "theater": 64,
+   "school": 45,
+   "ushape": 30,
+   "standing": 50,
+   "banquet": null,
+   "note": "ワールドインポートマートビル5F。スクールは3人掛け（2人掛けは30席）。島型（3人掛け）42席"
+  },
+  {
+   "name": "コンファレンスルーム Room12",
+   "areaM2": 76,
+   "ceilingM": null,
+   "theater": 80,
+   "school": 48,
+   "ushape": 30,
+   "standing": 50,
+   "banquet": null,
+   "note": "ワールドインポートマートビル5F。スクールは3人掛け（2人掛けは32席）。島型（3人掛け）48席"
+  },
+  {
+   "name": "コンファレンスルーム Room13",
+   "areaM2": 80,
+   "ceilingM": null,
+   "theater": 80,
+   "school": 48,
+   "ushape": 36,
+   "standing": 50,
+   "banquet": null,
+   "note": "ワールドインポートマートビル5F。スクールは3人掛け（2人掛けは32席）。島型（3人掛け）48席"
+  },
+  {
+   "name": "コンファレンスルーム Room14",
+   "areaM2": 158,
+   "ceilingM": null,
+   "theater": 156,
+   "school": 102,
+   "ushape": 54,
+   "standing": 120,
+   "banquet": null,
+   "note": "ワールドインポートマートビル5F。スクールは3人掛け（2人掛けは68席）。島型（3人掛け）90席"
+  },
+  {
+   "name": "コンファレンスルーム Room15",
+   "areaM2": 200,
+   "ceilingM": null,
+   "theater": 204,
+   "school": 135,
+   "ushape": 66,
+   "standing": 150,
+   "banquet": null,
+   "note": "ワールドインポートマートビル5F。スクールは3人掛け（2人掛けは90席）。島型（3人掛け）108席"
+  },
+  {
+   "name": "コンファレンスルーム Room16",
+   "areaM2": 134,
+   "ceilingM": null,
+   "theater": 120,
+   "school": 72,
+   "ushape": 42,
+   "standing": 90,
+   "banquet": null,
+   "note": "ワールドインポートマートビル5F。スクールは3人掛け（2人掛けは48席）。島型（3人掛け）72席"
+  },
+  {
+   "name": "コンファレンスルーム Room17（研修ルーム）",
+   "areaM2": 121,
+   "ceilingM": null,
+   "theater": null,
+   "school": 54,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "ワールドインポートマートビル5F。研修専用設計。スクールは2人掛け（島型2人掛けも54席）。研修に必須な備品の利用料が室料に含まれる。机は横幅150cm×奥行60cmの2人掛けで、各席に電源タップ2口。基本レイアウトは島型"
+  },
+  {
+   "name": "特別ホール 501号室",
+   "areaM2": 245,
+   "ceilingM": null,
+   "theater": 276,
+   "school": 204,
+   "ushape": 84,
+   "standing": 200,
+   "banquet": null,
+   "note": "文化会館ビル5F。スクールは3人掛け（2人掛けは136席）。島型（3人掛け）132席。企業単位の展示会併設のセミナー、シンポジウム、株主総会などに向く"
+  },
+  {
+   "name": "特別ホール 502号室",
+   "areaM2": 206,
+   "ceilingM": null,
+   "theater": 217,
+   "school": 171,
+   "ushape": 78,
+   "standing": 150,
+   "banquet": null,
+   "note": "文化会館ビル5F。スクールは3人掛け（2人掛けは114席）。島型（3人掛け）108席"
+  },
+  {
+   "name": "噴水広場（専門店街アルパ B1）",
+   "areaM2": null,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "地下1階〜3階の4層吹抜けのオープンスペース。会場図にはステージ125㎡・ステージ下104㎡・噴水62㎡・控室14.7㎡。イベント開催可能時間は10:00〜20:00で、基本料金は平日660,000円・土日祝1,100,000円（税込、電気料金・立会管理者1名・基本備品を含む）。628インチの大型ビジョンがある（噴水広場 会場利用規程 2026年7月）"
+  }
+ ],
+ "roomsSource": "https://co.sunshinecity.co.jp/exhibition/facilities/ ／ https://co.sunshinecity.co.jp/conference/guidance.html ／ https://co.sunshinecity.co.jp/fountain/",
+ "ops": {
+  "prevDaySetup": {
+   "text": "展示ホールは開催日の前後に設営・撤去だけを行う日の使用料が基本使用料金の半額で、この日は冷暖房・換気を運転しない（運転したい場合は時間外空調料金・時間外換気料金が別にかかる）。設営・開催・撤去を1日で行う場合は、開催日の基本使用料金が適用される。会議室のレイアウト変更を施設に頼む場合は、申込時に申告し、2週間前までに希望レイアウトを知らせ、1週間前までに確定する（変更費は別途）。会議室で連日使うときに荷物を部屋に置いたままにできるかは、予約状況による相談になる。（出典：展示ホール料金表 2026年2月現在、会議室 部屋検索ページ、会議室よくあるご質問）",
+   "source": "https://co.sunshinecity.co.jp/file/pdf/exhibition/hall_price.pdf"
+  },
+  "loadingHours": {
+   "text": "展示ホールは基本使用時間10:00〜18:00の前後も、1時間ごとに基本使用料金の10%の延長料金で使え、早朝・深夜も利用日内（0:00〜24:00）なら使える。使用時間は、防災センターに解錠を依頼して警備員が解錠し終えた時刻から、施錠を依頼した時刻までで確定し、解錠・施錠には利用者の立会いが必要。搬出入は「搬出入許可証」（事前に申込み）を車のフロントに見えるよう掲示し、申請した日時・指定の経路と場所で行う（指定時間以外の搬出入はできない）。事前に搬出入の時間・経路・車両台数を担当者と打ち合わせる。会議室は営業時間9:00〜20:30で、搬出入があるときは所定の「作業届」を出す。会議室あての荷物は宅配便で、利用の3日前から預かる（ゆうパックは不可）。（出典：展示ホール利用規程 2026年7月改訂、展示ホールよくあるご質問、会議室 利用規程 2025年4月改定）",
+   "source": "https://co.sunshinecity.co.jp/file/pdf/exhibition/hall_rule.pdf"
+  },
+  "vehicleRules": {
+   "text": "荷捌所は駐車場ではなく、荷物の積み降ろしが済んだらすぐに出庫する。荷捌所へは貨物自動車のみで、車高2.1mまでの乗用車・ワゴン車は地下2・3階の一般駐車場に停めて人荷用エレベーターで運ぶ（一般乗用エレベーターは使用不可）。荷捌所が混むときは、利用者が整理員か警備員（指定会社のアール・エス・シー）を置く。展示ホールAの荷捌所は北荷捌所（東入口からB1へ。車両制限は高さ3.5m・幅2.5m・長さ8.6m）と南荷捌所（南A入口からB1へ。高さ2.8m・幅2.5m・長さ6.0m）で、荷下ろし用の駐車スペースは2t車用（高さ2.8mまで）9車室と10車室、4t車用（高さ3.5mまで）6車室。荷捌所は駐車料金がかかるが、申込者には搬出入車両の駐車料金を1時間無料にする（事前に「イベント搬出入専用特別荷捌券（1時間）」を申し込む）。展示ホールB・Cの荷捌所は首都高速直結（文化会館ビル3F）で、入路は高速道路に限られ所定の料金がかかり、車高は3.6m（一部3.3m）以下。展示ホールDは文化会館ビル1Fのバスターミナルに入り、車高3.8m以下。（出典：展示ホール利用規程 2026年7月改訂、展示ホール基本仕様資料）",
+   "source": "https://co.sunshinecity.co.jp/file/pdf/exhibition/hall_carryroute.pdf"
+  },
+  "parking": {
+   "text": "地下2・3階に1,800台収容の駐車場があり、24時間営業。料金は0〜6時間が30分ごとに400円、6〜24時間が4,800円で、24時間を過ぎると同じ料金体系を繰り返す。後払いにできる駐車券も販売している。展示ホール利用者の専用スペースではない。会議室の利用に伴う駐車サービス券はないが、来客用の駐車券を発行して利用時間に応じて後から請求できる。（出典：展示ホール利用規程 2026年7月改訂、展示ホールよくあるご質問、会議室よくあるご質問）",
+   "source": "https://co.sunshinecity.co.jp/file/pdf/exhibition/hall_rule.pdf"
+  },
+  "waitingRooms": {
+   "text": "展示ホールに付帯する事務室は1日単位の貸出で、使用料は15,000〜55,000円（税抜）。展示ホールAはA-1事務室30㎡・A-2事務室30㎡・A-3事務室45㎡とVIPルーム94㎡（55,000円）、Bは B-1事務室30㎡（4F）・B-2事務室30㎡・B-3事務室72㎡（5F）、CはC-1事務室52㎡・C-2事務室54㎡、DはD-1事務室25㎡・D-2事務室22㎡・D-3事務室16㎡。事務室には長机・イス・ホワイトボードなどが付く。（出典：展示ホール料金表 2026年2月現在）",
+   "source": "https://co.sunshinecity.co.jp/file/pdf/exhibition/hall_price.pdf"
+  },
+  "catering": {
+   "text": "展示ホールのお弁当・ケータリングは指定会社のサンシャインエンタプライズ（申込締切2週間前）を使い、外部業者を使う場合は持込手数料（発注金額の10%）がかかる。展示ホール内での食品・飲料の試飲・試食・調理・販売は、豊島区保健所に事前に相談する。会議室は飲食物の持込み（配布）ができず、指定業者以外の手配もできない。お弁当・ペットボトル・コーヒーは7日前までに注文書で申し込む。会議・セミナー後の懇親会・パーティーは、ケータリングを立食30名から頼め、基本2時間で、会議室使用後のパーティー室料は無料（パーティーのみの利用は不可）。（出典：展示ホール利用規程 2026年7月改訂、会議室 利用規程 2025年4月改定、会議室ケータリングのページ）",
+   "source": "https://co.sunshinecity.co.jp/file/pdf/exhibition/hall_rule.pdf"
+  },
+  "restaurants": {
+   "text": "展示ホール利用規程は、水族館や館内の各レストランをパーティー会場として使える（詳細は担当者に問合せ）と案内し、館内飲食店で使える「共通ご飲食券」（500円券）を販売している。会議室は、サンシャイン水族館の貸切パーティー（期間限定）と、サンシャインクルーズ・クルーズのパーティープランを組み合わせた「会議＆懇親会プラン」を案内している。（出典：展示ホール利用規程 2026年7月改訂、会議室ケータリングのページ）",
+   "source": "https://co.sunshinecity.co.jp/file/pdf/exhibition/hall_rule.pdf"
+  }
+ },
+ "documents": [
+  {
+   "title": "展示ホール利用規程（2026年7月改訂）",
+   "url": "https://co.sunshinecity.co.jp/file/pdf/exhibition/hall_rule.pdf"
+  },
+  {
+   "title": "展示ホール料金表（2026年2月現在）",
+   "url": "https://co.sunshinecity.co.jp/file/pdf/exhibition/hall_price.pdf"
+  },
+  {
+   "title": "展示ホール基本仕様資料・会場への搬出入経路（A〜D）",
+   "url": "https://co.sunshinecity.co.jp/file/pdf/exhibition/hall_carryroute.pdf"
+  },
+  {
+   "title": "展示ホールA図面（平面・天伏・電気設備）",
+   "url": "https://co.sunshinecity.co.jp/file/pdf/exhibition/hall_drawing_a.pdf"
+  },
+  {
+   "title": "展示ホールB図面（平面・天伏・電気設備）",
+   "url": "https://co.sunshinecity.co.jp/file/pdf/exhibition/hall_drawing_b.pdf"
+  },
+  {
+   "title": "展示ホールC図面（平面・天伏・電気設備）",
+   "url": "https://co.sunshinecity.co.jp/file/pdf/exhibition/hall_drawing_c.pdf"
+  },
+  {
+   "title": "展示ホールD図面（平面・天伏・電気設備）",
+   "url": "https://co.sunshinecity.co.jp/file/pdf/exhibition/hall_drawing_d.pdf"
+  },
+  {
+   "title": "催事案内看板のご案内",
+   "url": "https://co.sunshinecity.co.jp/file/pdf/exhibition/hall_signage.pdf"
+  },
+  {
+   "title": "交通アクセス図（展示ホール）",
+   "url": "https://co.sunshinecity.co.jp/file/pdf/exhibition/hall_access.pdf"
+  },
+  {
+   "title": "臨時回線のお申し込みについて（2026年2月〜）",
+   "url": "https://co.sunshinecity.co.jp/file/pdf/exhibition/organizer_04.pdf"
+  },
+  {
+   "title": "会議室 利用規程（2025年4月改定）",
+   "url": "https://co.sunshinecity.co.jp/conference/guide.html"
+  },
+  {
+   "title": "会議室 定員・設備・サービス一覧（2023年10月）",
+   "url": "https://co.sunshinecity.co.jp/file/pdf/conference/ichiran.pdf"
+  },
+  {
+   "title": "会議室 料金表一覧",
+   "url": "https://co.sunshinecity.co.jp/file/pdf/conference/ryoukinichiran.pdf"
+  },
+  {
+   "title": "会議室 室内詳細図（コンファレンスルーム）",
+   "url": "https://co.sunshinecity.co.jp/file/pdf/conference/roomsyousai_c.pdf"
+  },
+  {
+   "title": "会議室 室内詳細図（特別ホール）",
+   "url": "https://co.sunshinecity.co.jp/file/pdf/conference/roomsyousai_t.pdf"
+  },
+  {
+   "title": "会議室 インターネット接続サービスの詳細",
+   "url": "https://co.sunshinecity.co.jp/file/pdf/conference/internet.pdf"
+  },
+  {
+   "title": "会議室申込書",
+   "url": "https://co.sunshinecity.co.jp/file/pdf/conference/download-use-application.pdf"
+  },
+  {
+   "title": "噴水広場 会場利用規程（2026年7月）",
+   "url": "https://co.sunshinecity.co.jp/file/pdf/fountain/fountain_202607.pdf"
+  }
+ ],
+ "checkedAt": "2026-11-02",
+ "lat": 35.72929,
+ "lng": 139.719193,
+ "nearby": {
+  "convenience": [
+   {
+    "name": "ファミリーマート サンシャインシティアルパB1店",
+    "brand": "ファミリーマート",
+    "distanceM": 135,
+    "walkMin": 2,
+    "hours": "7:00-23:00",
+    "address": "東京都豊島区東池袋3-1-1 サンシャインシティアルパ地下1階",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/59031",
+    "note": "距離は公式の店舗位置で計算。サンシャインシティ内（館内の店。距離は街区の中心から）"
+   },
+   {
+    "name": "ファミリーマート サンシャイン南店",
+    "brand": "ファミリーマート",
+    "distanceM": 143,
+    "walkMin": 2,
+    "hours": "24時間営業",
+    "address": "東京都豊島区東池袋4-26-1",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/59434",
+    "note": "距離は公式の店舗位置で計算。実際の道のりは約486m"
+   },
+   {
+    "name": "ファミリーマート 東池袋店",
+    "brand": "ファミリーマート",
+    "distanceM": 200,
+    "walkMin": 3,
+    "hours": "24時間営業",
+    "address": "東京都豊島区東池袋3丁目15-2",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/77142",
+    "note": "距離は公式の店舗位置で計算"
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "アクセア 東池袋店",
+    "brand": "アクセア",
+    "distanceM": 292,
+    "walkMin": 4,
+    "hours": "平日9:00〜20:00、土10:00〜19:00／日祝休み",
+    "address": "東京都豊島区東池袋1-25-2 朝日生命池袋ビル1F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/entry.html",
+    "note": "距離は住所の位置で計算。実際の道のりは約528m"
+   },
+   {
+    "name": "キンコーズ・池袋東口店",
+    "brand": "キンコーズ",
+    "distanceM": 346,
+    "walkMin": 5,
+    "hours": "平日 10:00-18:00／土・日・祝 休業",
+    "address": "東京都豊島区南池袋2丁目29-13 東陽興産ビル1F",
+    "verified": true,
+    "source": "https://www.kinkos.co.jp/store/tokyo/t043/",
+    "note": "距離は住所の位置で計算。実際の道のりは約605m"
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "3COINS 池袋サンシャインシティ店",
+    "brand": "3COINS",
+    "distanceM": 64,
+    "walkMin": 1,
+    "hours": "10:00-20:00",
+    "address": "東京都豊島区東池袋3-1-1 サンシャインシティ アルパB1F",
+    "verified": true,
+    "source": "https://palcloset.storelocator.jp/detail/318",
+    "note": "距離は公式の店舗位置で計算。サンシャインシティ内（館内の店。距離は街区の中心から）"
+   },
+   {
+    "name": "Seria 池袋サンシャインシティアルタ店",
+    "brand": "セリア",
+    "distanceM": 108,
+    "walkMin": 2,
+    "hours": "月〜日 11:00-20:00",
+    "address": "東京都豊島区東池袋3-1-3 池袋サンシャインシティアルタ 1F",
+    "verified": true,
+    "source": "https://shop.seria-group.com/seria/info/000002850",
+    "note": "距離は公式の店舗位置で計算。サンシャインシティ内（館内の店。距離は街区の中心から）"
+   }
+  ],
+  "donki": [
+   {
+    "name": "ドン・キホーテ 池袋東口駅前店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 613,
+    "walkMin": 8,
+    "hours": "24時間営業",
+    "address": "東京都豊島区南池袋1-22-5",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=255",
+    "note": "距離は住所の位置で計算。ドン・キホーテ公式サイトの店舗名は「池袋東口駅前店」。実際の道のりは約835m"
+   },
+   {
+    "name": "ドン・キホーテ 池袋駅西口店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 809,
+    "walkMin": 11,
+    "hours": "24時間営業",
+    "address": "東京都豊島区西池袋1-43-12",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=500",
+    "note": "距離は住所の位置で計算。ドン・キホーテ公式サイトの店舗名は「池袋駅西口店」。実際の道のりは約1,194m"
+   }
+  ]
+ },
+ "drinkDelivery": {
+  "available": true
+ },
+ "photo": {
+  "src": "/images/venues/sunshine-city.jpg",
+  "credit": "© Morio / CC BY-SA 3.0 · Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sunshine_60_1_Ikebukuro_Tokyo_16_November_2003.jpg"
+ }
+}

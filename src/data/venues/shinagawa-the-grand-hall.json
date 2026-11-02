@@ -1,0 +1,243 @@
+{
+ "slug": "shinagawa-the-grand-hall",
+ "nameJa": "品川ザ・グランドホール",
+ "nameEn": "THE GRAND HALL",
+ "type": "conference",
+ "area": "shinagawa-venues",
+ "address": "〒108-0075 東京都港区港南2-16-4 品川グランドセントラルタワー3階",
+ "officialUrl": "https://tg-hall.com/",
+ "organizerUrl": "https://tg-hall.com/download",
+ "bizintokyoSlug": "shinagawa-the-grand-hall",
+ "accessSummary": "JR品川駅（山手線・京浜東北線・横須賀線・東海道本線・東海道・山陽新幹線）港南口 徒歩3分／京急 品川駅 徒歩8分",
+ "notice": "ホワイエ・ホール・控室を1社で貸し切る。申込時に主催者・使用目的・内容を伝え、内容によっては使用を断る場合がある。",
+ "hours": "終日利用は9:00〜20:00の11時間枠で、時間帯をずらせない。時間利用は6時間パックで時間枠の制限はない。利用時間が22:00〜8:00にかかる場合は深夜早朝手数料（1名30,000円・税抜）がかかる。営業日は原則年中無休（点検などで休業する場合がある）。",
+ "rooms": [
+  {
+   "name": "ホール",
+   "areaM2": 432,
+   "ceilingM": 5.95,
+   "theater": 484,
+   "school": 342,
+   "ushape": null,
+   "standing": 350,
+   "banquet": null,
+   "note": "天井高はバトン下端。シアターは後方ロールバックチェア220席＋前方264席で484席（ステージやロールバックチェアの使用有無で変動、ステージ2面使用時は418席など）。スクールは3名掛け342席（2名掛けは228席）。T字グループ形式は3名掛け315席・2名掛け210席。立食（ホール内）は推奨350名で、詰めれば400名以上も可能。幅14.2m×奥行30.35m。昇降ステージ2面（W14.0m×D3.0m）。"
+  },
+  {
+   "name": "ホワイエ",
+   "areaM2": 479,
+   "ceilingM": "2.5-3",
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": 350,
+   "banquet": null,
+   "note": "天井高3m（一部2.5m）。立食パーティー（懇親会）の推奨人数。幅約54.2m×奥行8.2〜9.2m。ドリンクカウンター（冷蔵庫・製氷機・水回り）とクロークがある。"
+  }
+ ],
+ "roomsSource": "https://tg-hall.com/about",
+ "ops": {
+  "loadingHours": {
+   "text": "搬入出の作業は、地下2階C3駐車場にある商業用の荷捌場だけで行う。搬入出用エレベーターは2基で3階までつながる。37号機は幅2,400×奥行1,720×高さ2,500mm（荷重2,000kg）、38号機はカーリフトで幅2,425×奥行5,570×高さ2,700mm（荷重3,500kg）。荷捌場に入れるトラックは高さ3.1m・全長7.0mの2t車まで。搬入出作業があるときは事前にホールのスタッフへ伝える。（出典：搬入出資料 2025年11月1日現在、アクセスページ）",
+   "source": "https://tg-hall.com/hubfs/TGH/Hall/hall_PDF_Image/doc/carry-notes20260203.pdf"
+  },
+  "vehicleRules": {
+   "text": "荷捌場はビルの共用部のため、同時に入庫できる搬入出車両は2台まで。作業中は他の車両との事故・渋滞を避けるため、誘導員を1名以上置く。重量物・鋭利物を搬入出するときは、ホール・ホワイエの床と扉を養生する。ホール・ビル近辺の路上駐車は禁止。（出典：搬入出資料 2025年11月1日現在、利用規約 第17条）",
+   "source": "https://tg-hall.com/hubfs/TGH/Hall/hall_PDF_Image/doc/carry-notes20260203.pdf"
+  },
+  "parking": {
+   "text": "ホール専用の駐車場はない。近隣のグランドコモンズC2駐車場（グランドセントラルタワーB2F）の利用をすすめている。営業時間7:00〜24:00（入庫は23:00まで）、料金は30分250円（上限3,000円）。駐車割引・駐車券の扱い・予約はホールでは受け付けない。ホール概要ページには、機械式有料駐車場86台（幅1,900×長さ5,000×高さ2,000mm、2tまで）の記載がある。搬入出資料では、機械式駐車場に止める場合は高さ2.1m・全長5.3m（2025年11月1日現在）。",
+   "source": "https://tg-hall.com/access"
+  },
+  "waitingRooms": {
+   "text": "控室が3室ある（控室1：45㎡、控室2：49㎡、控室3兼倉庫：38㎡。天井高2.6m）。控室1・2にはホール内モニター・姿見・ハンガーラックなどがあり、控室3には自動販売機がある。控室用のトイレ（男女）と更衣室兼シャワールーム（男女）もある。貸切エリアはすべて会場使用料に含まれる。",
+   "source": "https://tg-hall.com/about"
+  },
+  "catering": {
+   "text": "懇親会・パーティーは、ホールがケータリング会社を紹介する（懇親会費用は1人6,000円〜、料理・2時間フリードリンク・サービススタッフ込、税抜）。外部に手配する飲食物は、運営者が見積書で料金を示す。運営者指定の場所以外での飲食と、運営者が承諾していないホール内の調理は禁止。ドリンクは、コーヒーポット4,000円〜、ミネラルウォーター・お茶は24本入り1ケース2,600円〜（税抜）。（出典：料金ページ、利用規約）",
+   "source": "https://tg-hall.com/price"
+  }
+ },
+ "documents": [
+  {
+   "title": "搬入出資料（2025年11月1日現在）",
+   "url": "https://tg-hall.com/hubfs/TGH/Hall/hall_PDF_Image/doc/carry-notes20260203.pdf"
+  },
+  {
+   "title": "アクセスマップ（徒歩ルート）",
+   "url": "https://tg-hall.com/hubfs/pdf/doc/narrow-area-map.pdf"
+  },
+  {
+   "title": "アクセスマップ（駐車場入口）",
+   "url": "https://tg-hall.com/hubfs/pdf/doc/wide-area-map.pdf"
+  },
+  {
+   "title": "料金",
+   "url": "https://tg-hall.com/price"
+  },
+  {
+   "title": "利用規約",
+   "url": "https://tg-hall.com/tos"
+  },
+  {
+   "title": "全体図",
+   "url": "https://tg-hall.com/hubfs/pdf/layout/overall_plan.pdf"
+  },
+  {
+   "title": "全体図（電源図）",
+   "url": "https://tg-hall.com/hubfs/pdf/layout/overall_circuit_plan.pdf"
+  },
+  {
+   "title": "ホール図",
+   "url": "https://tg-hall.com/hubfs/pdf/layout/hall_basic_plan.pdf"
+  },
+  {
+   "title": "ホール図（電源図）",
+   "url": "https://tg-hall.com/hubfs/pdf/doc/floor_circuit.pdf"
+  },
+  {
+   "title": "ホール図（断面図）",
+   "url": "https://tg-hall.com/hubfs/TGH/Hall/hall_PDF_Image/doc/danmen.pdf"
+  },
+  {
+   "title": "ホール図（バトン・フライブリッジ図）",
+   "url": "https://tg-hall.com/hubfs/TGH/Hall/hall_PDF_Image/doc/bridgebaton.pdf"
+  },
+  {
+   "title": "備品リスト（2025年12月29日更新）",
+   "url": "https://tg-hall.com/hubfs/TGH/Hall/hall_PDF_Image/doc/eq_list20251229.pdf"
+  },
+  {
+   "title": "音響機材リスト",
+   "url": "https://tg-hall.com/hubfs/pdf/doc/sound_list.pdf"
+  },
+  {
+   "title": "照明機材リスト",
+   "url": "https://tg-hall.com/hubfs/pdf/doc/light_list.pdf"
+  },
+  {
+   "title": "映像機材リスト",
+   "url": "https://tg-hall.com/hubfs/pdf/doc/visual_list.pdf"
+  }
+ ],
+ "checkedAt": "2026-11-02",
+ "lat": 35.626488,
+ "lng": 139.740677,
+ "nearby": {
+  "convenience": [
+   {
+    "name": "ローソン 品川グランパサージュ店",
+    "brand": "ローソン",
+    "distanceM": 21,
+    "walkMin": 1,
+    "hours": "7:00-23:00",
+    "address": "東京都港区港南2-16-3 品川グランドセントラルタワー1F",
+    "verified": true,
+    "source": "https://www.areamarker.com/lawson/info/143892",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "ファミリーマート 品川グランパサージュ店",
+    "brand": "ファミリーマート",
+    "distanceM": 41,
+    "walkMin": 1,
+    "hours": "7:00-23:00",
+    "address": "東京都港区港南2丁目16-5",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/20424",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "ローソン H品川インターシティ店",
+    "brand": "ローソン",
+    "distanceM": 130,
+    "walkMin": 2,
+    "hours": "7:30-22:00",
+    "address": "東京都港区港南2-15-2 インターシティS&R棟2F",
+    "verified": true,
+    "source": "https://www.areamarker.com/lawson/info/177900",
+    "note": "距離は公式の店舗位置で計算"
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "キンコーズ・品川店",
+    "brand": "キンコーズ",
+    "distanceM": 281,
+    "walkMin": 4,
+    "hours": "平日 8:00-22:00／土・日・祝 9:00-18:00",
+    "address": "東京都港区港南2丁目14-14 品川インターシティフロント2F",
+    "verified": true,
+    "source": "https://www.kinkos.co.jp/store/tokyo/t029/",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "アクセア 品川駅港南口店",
+    "brand": "アクセア",
+    "distanceM": 336,
+    "walkMin": 5,
+    "hours": "平日8:00〜21:00、土日祝10:00〜19:00",
+    "address": "東京都港区港南2-2-2 富士ビル2F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/entry.html",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Seria ウィング高輪WEST店",
+    "brand": "セリア",
+    "distanceM": 406,
+    "walkMin": 6,
+    "hours": "月 10:00-21:00／火 10:00-20:00／水〜金 10:00-21:00／土〜日 10:00-20:00",
+    "address": "東京都港区高輪4-10-18ウィング高輪WEST 2F",
+    "verified": true,
+    "source": "https://shop.seria-group.com/seria/info/000002470",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "Can★Do 新馬場店",
+    "brand": "キャンドゥ",
+    "distanceM": 914,
+    "walkMin": 12,
+    "hours": "月〜日 10:00-20:00",
+    "address": "東京都品川区北品川2-7-22",
+    "verified": true,
+    "source": "https://shopinfo.cando-web.co.jp/detail/shop-5254/",
+    "note": "距離は公式の店舗位置で計算"
+   }
+  ],
+  "donki": [
+   {
+    "name": "ドン・キホーテ 五反田東口店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 1411,
+    "walkMin": 18,
+    "hours": "8:00-5:00",
+    "address": "東京都品川区東五反田一丁目12番地7号",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=606",
+    "note": "距離は住所の位置で計算。遠め。ドン・キホーテ公式サイトの店舗名は「五反田東口店」"
+   },
+   {
+    "name": "プラチナ ドン・キホーテ白金台店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 1856,
+    "walkMin": 24,
+    "hours": "24時間営業",
+    "address": "東京都港区白金台3-15-5",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=368",
+    "note": "距離は住所の位置で計算。遠い"
+   }
+  ]
+ },
+ "drinkDelivery": {
+  "available": true
+ },
+ "photo": {
+  "src": "/images/venues/shinagawa-the-grand-hall.jpg",
+  "credit": "© Kakidai / CC BY-SA 4.0 · Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Shinagawa_Grand_Central_Tower_2014_%E2%85%A1.JPG"
+ }
+}

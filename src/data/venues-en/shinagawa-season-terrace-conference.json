@@ -1,0 +1,148 @@
+{
+ "slug": "shinagawa-season-terrace-conference",
+ "name": "SHINAGAWA SEASON TERRACE CONFERENCE",
+ "address": "Tokyo 108-0075 Shinagawa Season Terrace 3F, 1-2-70 Konan, Minato-ku",
+ "accessSummary": "JR Shinagawa Station Konan Exit: 6 min walk / Keikyu Shinagawa Station Takanawa Exit: 9 min walk (10 min walk on the access map PDF)",
+ "hours": "7:00-23:00 (before 7:00, consult the facility). Extensions apply before 9:00 and from 19:00 onward. From 23:00 to 7:00, a late-night/early-morning attendant fee applies (33,000 yen per person or more, tax included). Rental may not be possible during maintenance or building closure days.",
+ "notice": "The usage time includes all the time for setup, cleanup and the removal of load-in and load-out vehicles. Sending and receiving packages is also limited to within the usage time.",
+ "rooms": [
+  {
+   "name": "Conference A",
+   "note": "Classroom is 2 per desk. Additional meeting-chair fee applies from 43 people. Island layout: 24 people (4 islands of 6). U-shape: 20 people on the official site's room page and in the venue specifications and price list (as of October 2026), but 18 people in the price list PDF (as of October 2026). Separated by movable walls; if another party uses the neighboring room, sound from each side may be heard. The foyer (115㎡) is in principle a shared area for Conference A, B and C, and can be occupied only when A+B+C is used."
+  },
+  {
+   "name": "Conference B",
+   "note": "Classroom is 2 per desk. Additional meeting-chair fee applies from 57 people. Island layout: 30 people (5 islands of 6). Separated by movable walls; if another party uses the neighboring room, sound from each side may be heard. The foyer (115㎡) is in principle a shared area for Conference A, B and C, and can be occupied only when A+B+C is used."
+  },
+  {
+   "name": "Conference C",
+   "note": "Classroom is 2 per desk. Additional meeting-chair fee applies from 71 people. Island layout: 36 people (6 islands of 6). Separated by movable walls; if another party uses the neighboring room, sound from each side may be heard. The foyer (115㎡) is in principle a shared area for Conference A, B and C, and can be occupied only when A+B+C is used."
+  },
+  {
+   "name": "Conference A+B",
+   "note": "Classroom is 2 per desk. Additional meeting-chair fee applies from 99 people. Island layout: 48 people (8 islands of 6). Separated by movable walls; if another party uses the neighboring room, sound from each side may be heard. The foyer (115㎡) is in principle a shared area for Conference A, B and C, and can be occupied only when A+B+C is used."
+  },
+  {
+   "name": "Conference B+C",
+   "note": "Classroom is 2 per desk. Additional meeting-chair fee applies from 131 people. Island layout: 72 people (12 islands of 6). Separated by movable walls; if another party uses the neighboring room, sound from each side may be heard. The foyer (115㎡) is in principle a shared area for Conference A, B and C, and can be occupied only when A+B+C is used."
+  },
+  {
+   "name": "Conference A+B+C",
+   "note": "Classroom is 2 per desk. Additional meeting-chair fee applies from 171 people. Island layout: 108 people (18 islands of 6). Separated by movable walls; if another party uses the neighboring room, sound from each side may be heard. The foyer (115㎡) is in principle a shared area for Conference A, B and C, and can be occupied only when A+B+C is used."
+  },
+  {
+   "name": "Hall (Annex Building 3F, with waiting room)",
+   "note": "Classroom is 3 per desk. Additional meeting-chair fee applies from 97 people. Island layout: 54 people (6 islands of 9). One waiting room is included (the waiting room cannot be used on its own)."
+  }
+ ],
+ "ops": {
+  "loadingHours": "Load-in and load-out are done at the building's shared loading area (the same entrance as the parking lot), and loading work must be completed within 30 minutes. All load-in in the building goes through here, so it gets congested. Submit the \"Cargo Load-in/Out and Vehicle Parking Notice\" in advance. There are only 2 elevators (1 on the hall side), and they cannot be occupied exclusively. Hand carts cannot use the regular elevators and must use the rear route for load-in. Hand carts must have front cushion bumpers and gray tires; carts that do not meet this requirement and items with tires need protection of the route inside the building (designated carts are also available at the venue). Vehicles used for load-in and load-out must be 3.4 m high or less. (Source: Cargo Handling Guide, Cargo Load-in/Out and Vehicle Parking Notice, Terms of Use as of August 24, 2026)",
+  "vehicleRules": "The loading area shares the parking lot entrance, so parking charges start automatically after 30 minutes. When using multiple vehicles, they enter one at a time. Some spaces are priority spaces and may not be usable even when empty. Load-in and load-out vehicles cannot be left parked and must move right after the work is finished. For trucks with a tail lift, protect the contact point between the lift and the loading-area floor with corrugated plastic sheets or similar. Follow the instructions of security guards and parking attendants. Roadside parking near the building is prohibited. (Source: Cargo Handling Guide, Cargo Load-in/Out and Vehicle Parking Notice, Terms of Use as of August 24, 2026)",
+  "parking": "Use the multi-story parking garage of Shinagawa Season Terrace. Hours are 7:00-24:00, and vehicles cannot exit outside operating hours. Closed days are the building-wide power outage days and the year-end and New Year period. Cars: 600 yen for up to the first hour, then 300 yen per 30 minutes (rounded up for less than 30 minutes), maximum 2,400 yen per day (per 24 hours). Motorcycles: 1,000 yen per entry (per 24 hours). Vehicles that can enter: up to 5,300 mm long, 1,950 mm wide, 1,550 mm high and 2,300 kg, with a minimum ground clearance of 90 mm or more (drive slowly, fold in antennas and door mirrors, enter forward).",
+  "waitingRooms": "There are 2 paid waiting rooms on the Conference floor (Waiting Room 1: 10㎡, 8 people; Waiting Room 2: 10㎡, 5 people; 4,400 yen per hour each, tax included). The Hall comes with 1 waiting room. Waiting rooms cannot be used on their own. Equipment: chairs, tables and a garment rack.",
+  "catering": "Eating and drinking is allowed in each room and the foyer, but for hygiene reasons outside food and drink may not be brought in as a rule. If you wish to bring something in for special reasons, consult in advance. Use the venue's designated vendors to arrange food and drink. Boxed meals, hors d'oeuvres, catering and drinks are arranged by the venue staff. Trash is in principle taken home (collection is also available for 1,650 yen per bag, tax included; sorting required; food waste not accepted). (Source: Terms of Use as of August 24, 2026, official site FAQ)"
+ },
+ "documents": [
+  {
+   "title": "Terms of Use (as of August 24, 2026)"
+  },
+  {
+   "title": "Price List (as of October 2026)"
+  },
+  {
+   "title": "Venue Specifications and Price List (as of October 2026)"
+  },
+  {
+   "title": "Cargo Handling Guide"
+  },
+  {
+   "title": "Cargo Load-in/Out and Vehicle Parking Notice"
+  },
+  {
+   "title": "Parking Vehicle Restrictions and Fees"
+  },
+  {
+   "title": "Floor Map"
+  },
+  {
+   "title": "Equipment List (as of October 2026)"
+  },
+  {
+   "title": "Power Supply Diagram"
+  },
+  {
+   "title": "Streaming Plan"
+  },
+  {
+   "title": "Internet Environment List for All Facilities"
+  },
+  {
+   "title": "Access Map"
+  },
+  {
+   "title": "Entrance Guide Map"
+  },
+  {
+   "title": "2F Atrium to 3F Hall"
+  },
+  {
+   "title": "Application for Use Form"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "FamilyMart Konan 1-chome",
+    "hours": "7:00-23:00",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "FamilyMart Shinagawa Station Konan Exit",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "Lawson Konan 1-chome",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location."
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "Accea Shinagawa Station Konan Exit",
+    "hours": "Weekdays 8:00-21:00, Sat, Sun & holidays 10:00-19:00",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Kinko's Shinagawa",
+    "hours": "Weekdays 8:00-22:00 / Sat, Sun & holidays 9:00-18:00",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Seria Wing Takanawa WEST",
+    "hours": "Mon 10:00-21:00 / Tue 10:00-20:00 / Wed-Fri 10:00-21:00 / Sat-Sun 10:00-20:00",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "Can Do Shin-Baba",
+    "hours": "Mon-Sun 10:00-20:00",
+    "note": "Distance is calculated from the official store location. Rather far."
+   }
+  ],
+  "donki": [
+   {
+    "name": "Don Quijote Gotanda East Exit",
+    "hours": "8:00-5:00",
+    "note": "Distance is calculated from the address location. Far. The store name on the Don Quijote official website is \"Gotanda East Exit\"."
+   },
+   {
+    "name": "Platinum Don Quijote Shirokanedai",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. Far."
+   }
+  ]
+ },
+ "photoCredit": "© Rankin2019 / CC BY-SA 4.0 · Wikimedia Commons"
+}

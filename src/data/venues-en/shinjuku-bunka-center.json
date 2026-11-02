@@ -1,0 +1,185 @@
+{
+ "slug": "shinjuku-bunka-center",
+ "name": "Shinjuku Bunka Center",
+ "address": "Tokyo 160-0022 6-14-1 Shinjuku, Shinjuku-ku",
+ "accessSummary": "Higashi-Shinjuku Station (Tokyo Metro Fukutoshin Line / Toei Oedo Line) Exit A3: 5 min walk / Shinjuku-sanchome Station (Tokyo Metro Marunouchi Line / Fukutoshin Line) Exit E1: 7 min walk (Exit B3: 11 min walk) / Shinjuku-sanchome Station (Toei Shinjuku Line) Exit C7: 10 min walk / Shinjuku Station (JR Lines / Keio Line / Odakyu Line) East Exit: 15 min walk / Seibu-Shinjuku Station (Seibu Shinjuku Line): 15 min walk",
+ "hours": "Open 9:00-22:00 (reception until 20:00). Closed in principle on the second Tuesday of every month and during the year-end and New Year holidays (December 29 to January 3). Time slots for halls and conference rooms: morning 9:00-12:00 / afternoon 13:00-17:00 / evening 18:00-22:00",
+ "notice": "Applications for the Main Hall and Small Hall are accepted only at the counter or by mail (not by phone or online), and a lottery is held on the 1st of every month. Ceremonies, lectures, training sessions and symposiums (Main Hall, usage category B) are accepted from the 1st of the month 6 months before the month of use. Conference rooms, and meeting or practice use of the Rehearsal Room and Exhibition Room, require group registration in advance.",
+ "rooms": [
+  {
+   "name": "Main Hall",
+   "note": "Fixed seating (1F 1,029 seats / 2F 572 seats). With the orchestra pit in use: 1,479 seats (122 fewer). About 30 wheelchair spaces. 1F. The stage is 20 m wide x 16.45 m deep x 6.5 to 9.5 m high. Because of the building's structure, use of multiple Japanese drums or standing-style use of the audience seating may not be possible. The seat count is the number after the renovation work in Reiwa 5-7 (2023-2025)."
+  },
+  {
+   "name": "Small Hall",
+   "note": "210 movable seats, flat floor. 3F. The stage is movable, 9.7 m wide x 4.84 m deep (64㎡). Not available for events that use large amounts of PA, events that use brass or percussion instruments, events that use water, fire or smoke, or dance performances with vigorous movement."
+  },
+  {
+   "name": "Exhibition Room",
+   "note": "Capacity 100 (layout not specified). B1F. Interior 14.0 m x 17.5 m. 40 long tables, 100 chairs and a whiteboard are free. For exhibition use, the whole room or half the room can be used (wall length: Exhibition Room 1 47.5 m / Exhibition Room 2 43 m); for meeting or practice use, the whole room only, and panels and spotlights cannot be used. Group registration is required for meeting or practice use. Use for the purpose of eating and drinking and exhibition-and-sale events are not allowed."
+  },
+  {
+   "name": "Rehearsal Room",
+   "note": "Capacity 100 (layout not specified). B2F. Interior about 10 m x 20 m. It is booked first as a dressing room for the Main Hall, so practice use may not be possible. Meetings, merchandise sales, gatherings for an unspecified number of people and use for the purpose of eating and drinking are not allowed."
+  },
+  {
+   "name": "Conference Room 1",
+   "note": "Capacity 60 (layout not specified). 4F. Sound-absorbing structure. 22 long tables. Screen and piano (upright) are available for a fee."
+  },
+  {
+   "name": "Conference Room 2",
+   "note": "Capacity 30 (layout not specified). 4F. Sound-absorbing structure. 13 long tables. Screen and piano (upright) are available for a fee."
+  },
+  {
+   "name": "Conference Room 3",
+   "note": "Capacity 20 (layout not specified). 4F. 9 long tables."
+  },
+  {
+   "name": "Conference Room 4",
+   "note": "Capacity 20 (layout not specified). 4F. 9 long tables."
+  },
+  {
+   "name": "Japanese-style Conference Room",
+   "note": "35 tatami mats. Capacity 46 (layout not specified). 4F. Zaisu floor chairs, raised zaisu chairs, low tables, raised low tables and a mizuya (preparation area) are provided. Tea ceremony and flower arrangement equipment is available for a fee."
+  },
+  {
+   "name": "Conference Room 5",
+   "note": "Capacity 19 (layout not specified). 1F. 7 long tables. In all conference rooms, gatherings for an unspecified number of people, use for the purpose of eating and drinking, and use over capacity are not allowed, and group registration is required for use."
+  }
+ ],
+ "ops": {
+  "prevDaySetup": "The usage plan form (Main Hall and Small Hall) has fields for the date and time of setup (preparation), rehearsal, the performance and teardown. The practice rates for the Main Hall and Small Hall apply only on days other than the performance day (Main Hall: 254,150 yen for a full weekday / 305,000 yen on Sat, Sun & holidays; Small Hall: 43,350 yen for a full weekday / 51,950 yen on Sat, Sun & holidays). (Source: Usage Plan Form, Main Hall Fee Schedule, Small Hall Fee Schedule)",
+  "loadingHours": "Manage the schedule so that everything from preparation to load-out is finished within the usage time. The 1F and B1F floor plan of the Main Hall (July 2025 edition) shows the \"stage-set load-in entrance\" and the \"load-in/load-out vehicle road\" on the stage-right side. There is a freight elevator next to the Small Hall. Stand flowers and flower stands must be collected by the next day, and until then they are placed beside the 1F service entrance. (Source: Notes in the Usage Plan Form, Waste Disposal Guide, Floor Plan of the Whole Building)",
+  "parking": "There is a parking lot on B2F exclusively for organizers, which can be used only by people holding the parking ticket issued after the usage application (there is no parking lot for general visitors). The number of spaces is 8 for the Main Hall, 2 for the Small Hall, 2 for the Exhibition Room (the whole room in usage category B; 1 for a half room, and 1 for category C), and 1 each for the conference rooms and the Rehearsal Room. Vehicle size is height 2.6 m or less, width in principle 1.7 m or less, length in principle 4.7 m or less, and weight in principle 1,500 kg or less. Because the number of spaces for visitors with disabilities is limited, notify the venue in advance of the date and time of the visit and the vehicle type.",
+  "waitingRooms": "The Main Hall has 7 dressing rooms on B1F (Dressing Room 1: 36 people, 92.5㎡; Dressing Room 2: 8 people, 25.5㎡; Dressing Rooms 3 and 4: 12 people, 30.5㎡ each; Dressing Room 5: 4 people, 20.5㎡; Dressing Room 6: 2 people, 8.0㎡; Dressing Room 7: 2 people, 8.9㎡), a special waiting room (8 people, 30.8㎡) and the Rehearsal Room (100 people, 202㎡), plus a separate organizer's room. The Small Hall has 2 dressing rooms (Dressing Room 1: 18 people, 35.0㎡; Dressing Room 2: 10 people, 18.5㎡) and an organizer's room. The full-day dressing room fee is the same on weekdays and on Sat, Sun & holidays: for the Main Hall side, from 1,200 yen (Dressing Rooms 6 and 7) to 9,700 yen (when the Rehearsal Room is used as a dressing room); for the Small Hall side, Dressing Room 1 is 3,400 yen and Dressing Room 2 is 1,500 yen.",
+  "catering": "For performances in the Main Hall and Small Hall, the sale or serving of food and drink is strictly prohibited, and eating, drinking and smoking are not allowed in the auditorium. The Exhibition Room, Rehearsal Room and conference rooms cannot be used for the purpose of eating and drinking. For paid music, dance and similar performances, you can ask MOVECAFE&life, the restaurant tenant on the 2F, to set up a stand at the bar counter in the 1F foyer; apply directly at least one and a half months before the desired date. If there are vendors bringing in boxed meals and the like, ask them to take back the containers. (Source: Usage Plan Form, Waste Disposal Guide)",
+  "restaurants": "The building has a restaurant tenant, MOVECAFE&life (cafe and light meals, open 10:00-19:00; closed on the closed days of Shinjuku Bunka Center, and when that day falls on a holiday, the next weekday)."
+ },
+ "documents": [
+  {
+   "title": "Facility Usage Guide (official)"
+  },
+  {
+   "title": "Facility and Dressing Room Fee List (revised April 1, 2011 (Heisei 23))"
+  },
+  {
+   "title": "Main Hall Fee Schedule (Performance and Practice)"
+  },
+  {
+   "title": "Main Hall Dressing Room Fee Schedule"
+  },
+  {
+   "title": "Small Hall Fee Schedule (Performance and Practice)"
+  },
+  {
+   "title": "Small Hall Dressing Room Fee Schedule"
+  },
+  {
+   "title": "Exhibition Room Fee Schedule"
+  },
+  {
+   "title": "Rehearsal Room Fee Schedule"
+  },
+  {
+   "title": "Conference Room Fee Schedule"
+  },
+  {
+   "title": "Ancillary Equipment Fee Schedule"
+  },
+  {
+   "title": "Main Hall 1F and B1F Floor Plan (July 2025)"
+  },
+  {
+   "title": "Main Hall Stage Plan (July 2025)"
+  },
+  {
+   "title": "Main Hall Seating Chart"
+  },
+  {
+   "title": "Small Hall Stage Plan (with audience seating)"
+  },
+  {
+   "title": "Small Hall Stage Plan (without audience seating)"
+  },
+  {
+   "title": "Stage, Lighting and Sound Equipment Documents"
+  },
+  {
+   "title": "Exhibition Room Floor Plan"
+  },
+  {
+   "title": "Conference Room Floor Plan"
+  },
+  {
+   "title": "Shinjuku Bunka Center Usage Plan Form (Main Hall and Small Hall)"
+  },
+  {
+   "title": "FY2026 (Reiwa 8) General Group Facility Use Lottery Reception Schedule"
+  },
+  {
+   "title": "About Facility User Group Registration"
+  },
+  {
+   "title": "About Waste Disposal for Facility Use"
+  },
+  {
+   "title": "Access Map (July 25, 2025)"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "Lawson Shinjuku Bunka Center-mae",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "7-Eleven Shinjuku 6-chome Bunka Center-dori",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "FamilyMart Higashi-Shinjuku",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location."
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "Accea Shinjuku 3-chome",
+    "hours": "Weekdays 9:00-20:00 (closed Sat, Sun & holidays)",
+    "note": "Distance is calculated from the address location. Accea Mini (small store). Cash not accepted (credit card, e-money, QR code payment and BizSPOT Pay only)."
+   },
+   {
+    "name": "Accea Shinjuku Gyoen-mae",
+    "hours": "Weekdays open 24 hours (open continuously from 8:00 Monday morning to 19:00 Saturday evening) / Sat until 19:00, Sun & holidays 10:00-19:00",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Seria Shinjuku Marui Annex",
+    "hours": "Weekdays 11:00-20:00 / Sat, Sun & holidays 10:30-20:00",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "DAISO Shinjuku Subnade",
+    "hours": "10:00-21:00",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "donki": [
+   {
+    "name": "Don Quijote Shinjuku",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. The store name on the Don Quijote official website is \"Shinjuku Store\"."
+   },
+   {
+    "name": "Don Quijote Shinjuku Kabukicho",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. The store name on the Don Quijote official website is \"Shinjuku Kabukicho Store\"."
+   }
+  ]
+ },
+ "photoCredit": "© WhisperToMe / CC0 · Wikimedia Commons"
+}

@@ -1,0 +1,487 @@
+{
+ "slug": "takanawagateway",
+ "nameJa": "TAKANAWA GATEWAY Convention Center（高輪ゲートウェイコンベンションセンター）",
+ "nameEn": "TAKANAWA GATEWAY Convention Center",
+ "type": "conference",
+ "area": "shinagawa-venues",
+ "address": "〒108-0074 東京都港区高輪2-21-2 THE LINKPILLAR 1 SOUTH B2F/B1F/6F",
+ "officialUrl": "https://www.takanawagateway-cc.com/",
+ "organizerUrl": "https://www.takanawagateway-cc.com/how-to/",
+ "bizintokyoSlug": "takanawagateway",
+ "accessSummary": "JR山手線・京浜東北・根岸線「高輪ゲートウェイ駅」直結／「泉岳寺駅」A2出口から屋外経由",
+ "notice": "申込は施設の審査があり、利用できない場合がある。手続き・案内は日本語で、口頭・電話では申し込めない（利用申込書をメールで返送）。受付開始は貸室で異なり、LINKPILLAR Hall全スパンは利用開始日の2年前、ホール分割・Room 1・6F Conference Hall全スパンは1年前、Room 2〜7・601〜604・Conference Hall分割は6か月前（いずれもその月の受付初日）。飲食物の持込は禁止。",
+ "hours": "利用は原則9:00〜21:00（利用枠は午前9:00〜12:00／午後13:00〜17:00／夜間18:00〜21:00、全日は9:00〜21:00）。利用時間には準備・片づけを含む。延長は8:00〜23:00の間で承る。保守・点検日と休業日を除き通年営業。",
+ "rooms": [
+  {
+   "name": "B2F LINKPILLAR Hall A・B・C（全スパン）",
+   "areaM2": 1640,
+   "ceilingM": 7.0,
+   "theater": 1924,
+   "school": 1344,
+   "ushape": null,
+   "standing": 800,
+   "banquet": null,
+   "note": "縦使いはシアター1,924・スクール1,344、横使いはシアター1,656・スクール1,200。無柱空間で、2分割・3分割もできる。床荷重1,000kg/㎡。最大収容人数。レイアウトで変わる。スクールは3名掛け。"
+  },
+  {
+   "name": "B2F LINKPILLAR Hall A・B ／ C・B（3分の2利用）",
+   "areaM2": 1065,
+   "ceilingM": 7.0,
+   "theater": 1144,
+   "school": 798,
+   "ushape": null,
+   "standing": 500,
+   "banquet": null,
+   "note": "A・BとC・Bは同じ規模。最大収容人数。レイアウトで変わる。スクールは3名掛け。"
+  },
+  {
+   "name": "B2F LINKPILLAR Hall A・b1 ／ C・b2（2分の1利用）",
+   "areaM2": 820,
+   "ceilingM": 7.0,
+   "theater": 768,
+   "school": 588,
+   "ushape": null,
+   "standing": 400,
+   "banquet": null,
+   "note": "公式表記は「A・b1」「C・b2」。A・b1とC・b2は同じ規模。最大収容人数。レイアウトで変わる。スクールは3名掛け。"
+  },
+  {
+   "name": "B2F LINKPILLAR Hall A（3分の1利用）",
+   "areaM2": 574,
+   "ceilingM": 7.0,
+   "theater": 528,
+   "school": 420,
+   "ushape": null,
+   "standing": 280,
+   "banquet": null,
+   "note": "最大収容人数。レイアウトで変わる。スクールは3名掛け。"
+  },
+  {
+   "name": "B2F LINKPILLAR Hall B（3分の1利用）",
+   "areaM2": 492,
+   "ceilingM": 7.0,
+   "theater": 440,
+   "school": 360,
+   "ushape": null,
+   "standing": 240,
+   "banquet": null,
+   "note": "最大収容人数。レイアウトで変わる。スクールは3名掛け。"
+  },
+  {
+   "name": "B2F LINKPILLAR Hall C（3分の1利用）",
+   "areaM2": 574,
+   "ceilingM": 7.0,
+   "theater": 528,
+   "school": 420,
+   "ushape": null,
+   "standing": 280,
+   "banquet": null,
+   "note": "最大収容人数。レイアウトで変わる。スクールは3名掛け。"
+  },
+  {
+   "name": "B2F Room 5",
+   "areaM2": 82,
+   "ceilingM": 3.5,
+   "theater": 88,
+   "school": 60,
+   "ushape": null,
+   "standing": 40,
+   "banquet": null,
+   "note": "床荷重500kg/㎡。最大収容人数。レイアウトで変わる。スクールは3名掛け。"
+  },
+  {
+   "name": "B2F Room 6",
+   "areaM2": 83,
+   "ceilingM": 3.5,
+   "theater": 88,
+   "school": 60,
+   "ushape": null,
+   "standing": 40,
+   "banquet": null,
+   "note": "床荷重500kg/㎡。最大収容人数。レイアウトで変わる。スクールは3名掛け。"
+  },
+  {
+   "name": "B2F Room 7",
+   "areaM2": 83,
+   "ceilingM": 3.5,
+   "theater": 88,
+   "school": 60,
+   "ushape": null,
+   "standing": 40,
+   "banquet": null,
+   "note": "床荷重500kg/㎡。最大収容人数。レイアウトで変わる。スクールは3名掛け。"
+  },
+  {
+   "name": "B1F Room 1",
+   "areaM2": 270,
+   "ceilingM": 3.6,
+   "theater": 253,
+   "school": 210,
+   "ushape": null,
+   "standing": 135,
+   "banquet": null,
+   "note": "公式ページの説明文には「315㎡」とあるが、同ページの表・料金表・パンフレットは270㎡（表の270㎡を採用）。床荷重500kg/㎡。最大収容人数。レイアウトで変わる。スクールは3名掛け。"
+  },
+  {
+   "name": "B1F Room 2",
+   "areaM2": 60,
+   "ceilingM": 3.5,
+   "theater": 78,
+   "school": 54,
+   "ushape": null,
+   "standing": 30,
+   "banquet": null,
+   "note": "床荷重500kg/㎡。最大収容人数。レイアウトで変わる。スクールは3名掛け。"
+  },
+  {
+   "name": "B1F Room 3",
+   "areaM2": 59,
+   "ceilingM": 3.5,
+   "theater": 70,
+   "school": 36,
+   "ushape": null,
+   "standing": 30,
+   "banquet": null,
+   "note": "床荷重500kg/㎡。最大収容人数。レイアウトで変わる。スクールは3名掛け。"
+  },
+  {
+   "name": "B1F Room 4",
+   "areaM2": 45,
+   "ceilingM": 3.5,
+   "theater": 54,
+   "school": 36,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "床荷重500kg/㎡。最大収容人数。レイアウトで変わる。スクールは3名掛け。"
+  },
+  {
+   "name": "6F Conference Hall A",
+   "areaM2": 475,
+   "ceilingM": 4.0,
+   "theater": 506,
+   "school": 378,
+   "ushape": null,
+   "standing": 230,
+   "banquet": null,
+   "note": "縦使いはシアター506・スクール378、横使いはシアター473・スクール351。2分割（A1・A2）もできる。最大収容人数。レイアウトで変わる。スクールは3名掛け。"
+  },
+  {
+   "name": "6F Conference Hall A1",
+   "areaM2": 237,
+   "ceilingM": 4.0,
+   "theater": 220,
+   "school": 147,
+   "ushape": null,
+   "standing": 110,
+   "banquet": null,
+   "note": "Conference Hall Aの2分の1。最大収容人数。レイアウトで変わる。スクールは3名掛け。"
+  },
+  {
+   "name": "6F Conference Hall A2",
+   "areaM2": 237,
+   "ceilingM": 4.0,
+   "theater": 207,
+   "school": 147,
+   "ushape": null,
+   "standing": 110,
+   "banquet": null,
+   "note": "Conference Hall Aの2分の1。最大収容人数。レイアウトで変わる。スクールは3名掛け。"
+  },
+  {
+   "name": "6F Conference Hall B",
+   "areaM2": 367,
+   "ceilingM": 4.0,
+   "theater": 362,
+   "school": 270,
+   "ushape": null,
+   "standing": 180,
+   "banquet": null,
+   "note": "縦使いはシアター362・スクール270、横使いはシアター323・スクール240。2分割（B1・B2）もできる。最大収容人数。レイアウトで変わる。スクールは3名掛け。"
+  },
+  {
+   "name": "6F Conference Hall B1",
+   "areaM2": 183,
+   "ceilingM": 4.0,
+   "theater": 160,
+   "school": 120,
+   "ushape": null,
+   "standing": 90,
+   "banquet": null,
+   "note": "Conference Hall Bの2分の1。最大収容人数。レイアウトで変わる。スクールは3名掛け。"
+  },
+  {
+   "name": "6F Conference Hall B2",
+   "areaM2": 183,
+   "ceilingM": 4.0,
+   "theater": 148,
+   "school": 120,
+   "ushape": null,
+   "standing": 90,
+   "banquet": null,
+   "note": "Conference Hall Bの2分の1。最大収容人数。レイアウトで変わる。スクールは3名掛け。"
+  },
+  {
+   "name": "6F Conference Hall C",
+   "areaM2": 313,
+   "ceilingM": 4.0,
+   "theater": 311,
+   "school": 240,
+   "ushape": null,
+   "standing": 150,
+   "banquet": null,
+   "note": "縦使いはシアター311・スクール240、横使いはシアター273・スクール198。2分割（C1・C2）もできる。最大収容人数。レイアウトで変わる。スクールは3名掛け。"
+  },
+  {
+   "name": "6F Conference Hall C1",
+   "areaM2": 156,
+   "ceilingM": 4.0,
+   "theater": 125,
+   "school": 90,
+   "ushape": null,
+   "standing": 70,
+   "banquet": null,
+   "note": "Conference Hall Cの2分の1。最大収容人数。レイアウトで変わる。スクールは3名掛け。"
+  },
+  {
+   "name": "6F Conference Hall C2",
+   "areaM2": 156,
+   "ceilingM": 4.0,
+   "theater": 130,
+   "school": 90,
+   "ushape": null,
+   "standing": 70,
+   "banquet": null,
+   "note": "Conference Hall Cの2分の1。最大収容人数。レイアウトで変わる。スクールは3名掛け。"
+  },
+  {
+   "name": "6F Room 601",
+   "areaM2": 128,
+   "ceilingM": 3.0,
+   "theater": 112,
+   "school": 72,
+   "ushape": null,
+   "standing": 60,
+   "banquet": null,
+   "note": "床荷重500kg/㎡。最大収容人数。レイアウトで変わる。スクールは3名掛け。"
+  },
+  {
+   "name": "6F Room 602",
+   "areaM2": 125,
+   "ceilingM": 3.0,
+   "theater": 98,
+   "school": 72,
+   "ushape": null,
+   "standing": 60,
+   "banquet": null,
+   "note": "床荷重500kg/㎡。最大収容人数。レイアウトで変わる。スクールは3名掛け。"
+  },
+  {
+   "name": "6F Room 603",
+   "areaM2": 146,
+   "ceilingM": 3.0,
+   "theater": 126,
+   "school": 90,
+   "ushape": null,
+   "standing": 70,
+   "banquet": null,
+   "note": "床荷重500kg/㎡。最大収容人数。レイアウトで変わる。スクールは3名掛け。"
+  },
+  {
+   "name": "6F Room 604",
+   "areaM2": 146,
+   "ceilingM": 3.0,
+   "theater": 112,
+   "school": 90,
+   "ushape": null,
+   "standing": 70,
+   "banquet": null,
+   "note": "床荷重500kg/㎡。最大収容人数。レイアウトで変わる。スクールは3名掛け。"
+  }
+ ],
+ "roomsSource": "https://www.takanawagateway-cc.com/facility/",
+ "ops": {
+  "loadingHours": {
+   "text": "B2F LINKPILLAR Hallは搬入出用スペースが直結していて、開口部は高さ3.3m×幅3m。搬入出も利用時間（準備・片づけを含む）の中で行う。重量物の搬出入は事前に申し出が必要で、床・壁は施設管理者の指示で養生する。事前送付の荷物は事前の申し出が必要で、午前利用なら前日夕方（前日が休業日なら直前の営業日）、午後利用なら当日午前に着くよう指定する。保管料は3個まで無料、4個目から1個あたり550円／1日（税込）。多量・大きな荷物は保管場所を有料で借りる場合がある。（出典：施設詳細、利用規則 2025年3月、什器・備品料金表 2026年1月）",
+   "source": "https://www.takanawagateway-cc.com/facility/"
+  },
+  "vehicleRules": {
+   "text": "荷捌きスペースがあり、車での搬入は事前申請が必要。B2F LINKPILLAR Hallには専用の搬入車室がある。来場者の乗用車の整理・誘導・警備は主催者の責任で行う（来場者が多い見込みなどの場合は施設管理者が手配し、費用は主催者負担）。（出典：よくあるご質問、施設詳細、利用規則 2025年3月）",
+   "source": "https://www.takanawagateway-cc.com/faq/"
+  },
+  "parking": {
+   "text": "車で来る場合は、TAKANAWA GATEWAY CITYの駐車場を使う。",
+   "source": "https://www.takanawagateway-cc.com/access/"
+  },
+  "waitingRooms": {
+   "text": "B2F：控室L1（24㎡）・L2（26㎡）・L3（25㎡）・L4（20㎡）。LINKPILLAR Hallを借りる場合のみ予約でき、控室だけの貸出はない。6F：控室1（22㎡）・控室2（17㎡）、Meeting Room 1〜5（37㎡・17㎡・17㎡・23㎡・18㎡。控室や少人数の打ち合わせ向け）。6Fの控室とMeeting Roomも単独では貸し出さない。",
+   "source": "https://www.takanawagateway-cc.com/facility/"
+  },
+  "catering": {
+   "text": "飲食物の持込は禁止（食品の安全確保・公衆衛生のため。弁当も不可）。ケータリングは付帯サービスとして施設が案内していて、パーティープランは10社（お料理・2時間飲み放題付き4,950円〜12,500円〈税込〉、30〜50名からなど社ごとに最少人数あり）、お弁当は8社（693円〜1,430円〈税込〉、総額の最低金額あり）。お菓子の提供は可能。（出典：ケータリングサービス、よくあるご質問、利用規則 2025年3月）",
+   "source": "https://www.takanawagateway-cc.com/service/catering/"
+  },
+  "restaurants": {
+   "text": "会議・セミナーと懇親会は、準備の都合上、別々の会場を使う。懇親会の料理は、付帯サービスのパーティープランで手配する。（出典：よくあるご質問、ケータリングサービス）",
+   "source": "https://www.takanawagateway-cc.com/faq/"
+  }
+ },
+ "documents": [
+  {
+   "title": "利用規則（2025年3月）",
+   "url": "https://www.takanawagateway-cc.com/imageurl/2025/03/TAKANAWA-GATEWAY-Convention-Center-%E5%88%A9%E7%94%A8%E8%A6%8F%E5%89%87%EF%BC%8825%E5%B9%B43%E6%9C%88%EF%BC%89.pdf"
+  },
+  {
+   "title": "貸室利用料金表（2026年2月現在）",
+   "url": "https://www.takanawagateway-cc.com/imageurl/2026/02/%E8%B2%B8%E5%AE%A4%E5%88%A9%E7%94%A8%E6%96%99%E9%87%91%E8%A1%A8202602.pdf"
+  },
+  {
+   "title": "什器・備品料金表（2026年1月現在）",
+   "url": "https://www.takanawagateway-cc.com/imageurl/2024/06/%E4%BB%80%E5%99%A8%E3%83%BB%E5%82%99%E5%93%81%E6%96%99%E9%87%91%E8%A1%A8202601.pdf"
+  },
+  {
+   "title": "パンフレット 日本語（2026年3月更新）",
+   "url": "https://www.takanawagateway-cc.com/imageurl/2026/02/JPN_TAKANAWA_GATEWAY_Convention_Center.pdf"
+  },
+  {
+   "title": "サンプルレイアウト図・資料ダウンロード",
+   "url": "https://www.takanawagateway-cc.com/download/"
+  },
+  {
+   "title": "ご利用方法（2024年7月作成）",
+   "url": "https://www.takanawagateway-cc.com/how-to/"
+  },
+  {
+   "title": "貸出会議備品",
+   "url": "https://www.takanawagateway-cc.com/service/rental/"
+  },
+  {
+   "title": "ケータリングサービス",
+   "url": "https://www.takanawagateway-cc.com/service/catering/"
+  },
+  {
+   "title": "よくあるご質問",
+   "url": "https://www.takanawagateway-cc.com/faq/"
+  }
+ ],
+ "checkedAt": "2026-11-02",
+ "lat": 35.635559,
+ "lng": 139.739594,
+ "nearby": {
+  "convenience": [
+   {
+    "name": "ローソン 高輪店",
+    "brand": "ローソン",
+    "distanceM": 103,
+    "walkMin": 2,
+    "hours": "24時間営業",
+    "address": "東京都港区高輪2-14-13",
+    "verified": true,
+    "source": "https://www.areamarker.com/lawson/info/100262",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "ローソン H三田四丁目店",
+    "brand": "ローソン",
+    "distanceM": 511,
+    "walkMin": 7,
+    "hours": "24時間営業",
+    "address": "東京都港区三田4-19-27",
+    "verified": true,
+    "source": "https://www.areamarker.com/lawson/info/178420",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "セブン-イレブン 泉岳寺駅前店",
+    "brand": "セブン-イレブン",
+    "distanceM": 535,
+    "walkMin": 7,
+    "hours": "24時間営業",
+    "address": "東京都港区三田3-11-22",
+    "verified": true,
+    "source": "https://seven-eleven.areamarker.com/711map/info/392796",
+    "note": "距離は公式の店舗位置で計算"
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "アクセア 高輪ゲートウェイ泉岳寺駅前店",
+    "brand": "アクセア",
+    "distanceM": 660,
+    "walkMin": 9,
+    "hours": "平日24時間営業（月曜朝8時から土曜夜7時まで休まず営業）／土〜19:00、日祝 10:00〜19:00（平日の祝前日は休まず営業）",
+    "address": "東京都港区三田3-11-24 国際興業三田第2ビル1F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/entry.html",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "アクセア 品川駅港南口店",
+    "brand": "アクセア",
+    "distanceM": 749,
+    "walkMin": 10,
+    "hours": "平日8:00〜21:00、土日祝10:00〜19:00",
+    "address": "東京都港区港南2-2-2 富士ビル2F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/entry.html",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Seria ウィング高輪WEST店",
+    "brand": "セリア",
+    "distanceM": 825,
+    "walkMin": 11,
+    "hours": "月 10:00-21:00／火 10:00-20:00／水〜金 10:00-21:00／土〜日 10:00-20:00",
+    "address": "東京都港区高輪4-10-18ウィング高輪WEST 2F",
+    "verified": true,
+    "source": "https://shop.seria-group.com/seria/info/000002470",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "Can★Do 白金店",
+    "brand": "キャンドゥ",
+    "distanceM": 1208,
+    "walkMin": 16,
+    "hours": "月〜日 10:00-21:00",
+    "address": "東京都港区白金3-23-3",
+    "verified": true,
+    "source": "https://shopinfo.cando-web.co.jp/detail/shop-1743/",
+    "note": "距離は公式の店舗位置で計算。遠め"
+   }
+  ],
+  "donki": [
+   {
+    "name": "プラチナ ドン・キホーテ白金台店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 1386,
+    "walkMin": 18,
+    "hours": "24時間営業",
+    "address": "東京都港区白金台3-15-5",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=368",
+    "note": "距離は住所の位置で計算。遠め"
+   },
+   {
+    "name": "ドン・キホーテ 五反田東口店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 1648,
+    "walkMin": 21,
+    "hours": "8:00-5:00",
+    "address": "東京都品川区東五反田一丁目12番地7号",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=606",
+    "note": "距離は住所の位置で計算。遠い。ドン・キホーテ公式サイトの店舗名は「五反田東口店」"
+   }
+  ]
+ },
+ "drinkDelivery": {
+  "available": true
+ },
+ "photo": {
+  "src": "/images/venues/takanawagateway.jpg",
+  "credit": "© Mr.Asylum / CC0 · Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:TAKANAWA_GATEWAY_CITY_Convention_Center.jpg"
+ }
+}

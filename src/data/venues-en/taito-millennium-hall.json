@@ -1,0 +1,147 @@
+{
+ "slug": "taito-millennium-hall",
+ "name": "Taito City Lifelong Learning Center Millennium Hall",
+ "address": "Tokyo 111-8621 2F, 3-25-16 Nishi-Asakusa, Taito-ku",
+ "accessSummary": "Iriya Station (Tokyo Metro Hibiya Line) Exit 1: about 8 min walk / Asakusa Station (Tsukuba Express) Exit A2: about 8 min walk / Uguisudani Station (JR Yamanote Line / Keihin-Tohoku Line) South Exit: about 15 min walk",
+ "hours": "Usage hours 9:00-22:00 (payment of usage fees until 20:00). Millennium Hall time slots are morning 9:00-12:00 / afternoon 13:00-17:00 / evening 18:00-21:00 (Evening 2 until 22:00) / full day 9:00-21:00 (Full day 2 until 22:00), and include setup and cleanup time. Closed on the 1st, 3rd and 5th Monday of each month (the next day if it is a public holiday or day off) and during the year-end and New Year holidays (December 29 to January 3). The opening hours page also mentions \"9:00 to 20:00\".",
+ "notice": "Closed for renovation work. The center reopens on Sunday, November 15, 2026 at 9:00 a.m., when general use starts. Commercial use and commercial sales of goods are not permitted. Individuals and groups of two or more people from outside the ward can also rent after user registration (no out-of-ward surcharge for Millennium Hall), but the lottery for full-day use is only for registered users within the ward, and out-of-ward users start from first-come reservations.",
+ "rooms": [
+  {
+   "name": "Millennium Hall (2F)",
+   "note": "300 fixed seats (4 wheelchair spaces, 6 seats in the parent-and-child room). Capacity 300 people. The stage is 12.4 m wide x 7.2 m deep, 80.5 cm high. Batten fly height 9 m (stage plan). Reverberation time 1.7 seconds (empty). One full concert grand piano, magnetic loop installed. Operators for stage mechanisms, sound, lighting and spotlights cost extra. The load-in/out elevator is 2.1 m wide x 3.0 m deep x 2.49 m high (door opening width 1.95 m) (Dressing Rooms and Stage Plan)."
+  },
+  {
+   "name": "301 Training Room (3F)",
+   "note": "Capacity 108 people. Multi-projector, sound console and document camera (OHP) cost extra."
+  },
+  {
+   "name": "303 Meeting Room (3F)",
+   "note": "Capacity 30 people."
+  },
+  {
+   "name": "304 and 305 Meeting Rooms (3F, each)",
+   "note": "Capacity 18 people per room. The two rooms can be used as one; combined capacity is 36 people."
+  },
+  {
+   "name": "306 and 307 Meeting Rooms (3F, each)",
+   "note": "Capacity 18 people per room. The two rooms can be used as one; combined capacity is 36 people."
+  },
+  {
+   "name": "312 Rehearsal Room (3F)",
+   "note": "Capacity 27 people. Dance use is also permitted (cushioned floor). Practice grand piano and sound equipment cost extra."
+  },
+  {
+   "name": "407 Training Room (4F)",
+   "note": "Capacity 98 people. Desks and chairs are not permanently set up. Can also be used for dance. Sound equipment costs extra. (4th-floor guide, updated October 12, 2023)"
+  },
+  {
+   "name": "501 Computer Training Room (5F)",
+   "note": "Capacity 24 people. Training OA equipment such as laptops (computers, projector, screen) costs extra when used. (5th-floor guide, updated June 17, 2018)"
+  },
+  {
+   "name": "504 Education and Training Room (5F)",
+   "note": "Capacity 54 people. Screen available. (5th-floor guide, updated June 17, 2018)"
+  }
+ ],
+ "ops": {
+  "loadingHours": "When bringing in large stage sets, lighting equipment and the like, approval of the type, quantity and load-in date and time is required in advance, and brought-in items cannot be stored at all. By one month before the date of use, hold a meeting with the staff in charge about stage equipment and so on, and also submit the program, schedule of events, admission tickets and the like. Packages sent before the usage date and time are refused. Usage time includes setup and cleanup time.",
+  "parking": "The underground parking lot has been unavailable since April 2025 due to renovation work and is scheduled to reopen around mid-November 2026.",
+  "waitingRooms": "There are 4 dressing rooms. Dressing Rooms 1 and 2 each hold 6 people, can be connected, and have a shower room (2 showers). Dressing Rooms 3 and 4 are private rooms for 2 people each. There is also a dressing room office. Dressing rooms cost extra as ancillary facilities.",
+  "catering": "Drinking alcohol in the building and eating or drinking outside designated areas are prohibited. Eating and drinking inside the Millennium Hall seating area (including the parent-and-child room) is also prohibited; eat and drink in the lobby. Take your own trash home.",
+  "restaurants": "On the 1st floor there is a coffee shop, Cafe Shanhou (香逢) (herbal tea, coffee, light meals) (1st-floor guide, updated October 12, 2023). There are vending machines in the foyer in front of the hall."
+ },
+ "documents": [
+  {
+   "title": "Facility Fee Schedule"
+  },
+  {
+   "title": "Facility Fee Schedule (Ancillary Equipment)"
+  },
+  {
+   "title": "Notice on Confirmed Reservations and Refunds (April 1, 2025)"
+  },
+  {
+   "title": "About Reservations"
+  },
+  {
+   "title": "Notes for Using the Lifelong Learning Center (updated February 8, 2023)"
+  },
+  {
+   "title": "Public Facility Reservation System User Guide, Chapter 2: Using Meeting Facilities (version reflecting the January 2026 revision of meeting-facility usage categories)"
+  },
+  {
+   "title": "Facility Usage Requirements (updated April 13, 2026)"
+  },
+  {
+   "title": "Stage Plan (Dimensions and Rigging Positions)"
+  },
+  {
+   "title": "Dressing Rooms and Stage Plan"
+  },
+  {
+   "title": "Seating Plan (Ver.18'01)"
+  },
+  {
+   "title": "Hall Overall Plan (Ver.20'1010)"
+  },
+  {
+   "title": "Notice of Room and Center Closures (June 19, 2026)"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "FamilyMart Iriya 2-chome",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the store's official location."
+   },
+   {
+    "name": "FamilyMart Nishi-Asakusa 3-chome",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the store's official location."
+   },
+   {
+    "name": "7-Eleven Taito Nishi-Asakusa 3-chome",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the store's official location."
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "Kinko's Ueno",
+    "hours": "Weekdays 9:00-22:00 / Sat, Sun & holidays 10:00-18:00",
+    "note": "Distance is calculated from the address location. Rather far."
+   },
+   {
+    "name": "Accea Shin-Okachimachi",
+    "hours": "Weekdays 9:00-20:00 / closed Sat, Sun & holidays",
+    "note": "Distance is calculated from the address location. Rather far."
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "DAISO Cocos Nakamura Iriya",
+    "hours": "10:00-20:00",
+    "note": "Distance is calculated from the store's official location."
+   },
+   {
+    "name": "DAISO Asakusa ROX",
+    "hours": "10:30-21:00",
+    "note": "Distance is calculated from the store's official location. The actual walking distance is about 817 m."
+   }
+  ],
+  "donki": [
+   {
+    "name": "Don Quijote Asakusa",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. The store name on the Don Quijote official website is \"Asakusa Store\"."
+   },
+   {
+    "name": "Don Quijote Asakusa EKIMISE",
+    "hours": "10:00-20:00",
+    "note": "Distance is calculated from the address location. Rather far."
+   }
+  ]
+ },
+ "photoCredit": "© Suikotei / CC BY 4.0 · Wikimedia Commons"
+}

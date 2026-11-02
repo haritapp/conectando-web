@@ -1,0 +1,644 @@
+{
+ "slug": "shinjuku-ns-building",
+ "nameJa": "新宿NSビル",
+ "nameEn": "SHINJUKU NS Building",
+ "type": "conference",
+ "area": "shinjuku-venues",
+ "address": "〒163-0813 東京都新宿区西新宿2丁目4番1号 新宿NSビル",
+ "officialUrl": "https://www.shinjuku-ns.jp/",
+ "organizerUrl": "https://www.shinjuku-ns.jp/rental/",
+ "bizintokyoSlug": "shinjuku-ns-building",
+ "accessSummary": "都営地下鉄大江戸線「都庁前駅」A3出口 徒歩約3分／JR線・京王線・小田急線・東京メトロ丸ノ内線「新宿駅」南口・西口 徒歩7分／都営地下鉄新宿線・京王新線「新宿駅」新都心口 徒歩約6分／西武新宿線「西武新宿駅」徒歩約15分",
+ "notice": "B1のNSイベントホールは改修中で、再開は2026年12月1日（予定）。予約は、NSイベントホールとNSスカイカンファレンスが使用日の1年前から（スカイの分割利用は6か月前から。使用規則 2023年7月現在）、NS会議室は6か月前から。北側オープンプラザは土日祝のみの貸出で、招待客・会員限定の催しや企業の宣伝・商品販売はできない。",
+ "hours": "NS会議室・NSスカイカンファレンスの使用時間帯は9:00〜12:00／13:00〜17:00／18:00〜21:00（準備・後片付けを含む。会議室は17:00〜18:00に1時間延長料金あり）。NSイベントホールの基準時間は9:00〜17:00（8時間）で、時間外は1時間ごとの追加料金。貸ホール・貸会議室の問い合わせ受付は平日9:00〜17:00（MICEサービスセンター）",
+ "rooms": [
+  {
+   "name": "NSイベントホール 全展示ホール",
+   "areaM2": 2637,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "B1。大・中・小展示ホールの一体利用。公式の貸ホール一覧では人数規模300〜1,300人。基準使用料金（9:00〜17:00）2,930,000円、時間外1時間366,000円（税抜）。床荷重500kg/㎡以下。改修中で2026年12月1日（予定）に再開"
+  },
+  {
+   "name": "NSイベントホール 大展示ホール（全）",
+   "areaM2": 1809,
+   "ceilingM": 4.0,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "天井格子下3.75m。搬入口の扉は高さ3.45m×幅2.75m。ホール専用の荷捌場に横付けできる。基準使用料金（9:00〜17:00）2,050,000円、時間外1時間257,000円（税抜）。A・Bに分割できる"
+  },
+  {
+   "name": "NSイベントホール 大展示ホール A",
+   "areaM2": 1114,
+   "ceilingM": 4.0,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "大展示ホールの分割使用。搬入口の扉は高さ2.26m×幅1.74m。基準使用料金（9:00〜17:00）1,280,000円、時間外1時間161,000円（税抜）"
+  },
+  {
+   "name": "NSイベントホール 大展示ホール B",
+   "areaM2": 694,
+   "ceilingM": 4.0,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "大展示ホールの分割使用。搬入口の扉は高さ3.45m×幅2.75m。基準使用料金（9:00〜17:00）820,000円、時間外1時間102,000円（税抜）"
+  },
+  {
+   "name": "NSイベントホール 中展示ホール",
+   "areaM2": 716,
+   "ceilingM": 3.8,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "天井格子下3.55m。搬入口の扉は高さ2.95m×幅2.20m。ホール専用の荷捌場に横付けできる。基準使用料金（9:00〜17:00）840,000円、時間外1時間105,000円（税抜）"
+  },
+  {
+   "name": "NSイベントホール 小展示ホール",
+   "areaM2": 111,
+   "ceilingM": 3.0,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "搬入口の扉は高さ2.26m×幅1.48m。小展示ホールのみの使用はできず、他のホールと併用する。基準使用料金（9:00〜17:00）120,000円、時間外1時間15,000円（税抜）"
+  },
+  {
+   "name": "NSイベントホール （控）事務室",
+   "areaM2": 39,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "1室のみ。1日30,000円（税抜、精算金として請求）"
+  },
+  {
+   "name": "NSイベントホール ホワイエ",
+   "areaM2": 414,
+   "ceilingM": 3.6,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": null
+  },
+  {
+   "name": "NSスカイカンファレンス ルーム1",
+   "areaM2": 139,
+   "ceilingM": 4.0,
+   "theater": 88,
+   "school": 60,
+   "ushape": 32,
+   "standing": 80,
+   "banquet": null,
+   "note": "30階。スクールはルーム1〜6が机（幅1500mm）に2名掛け。ルーム2と一体利用可。使用料（9:00〜17:00）200,000円（税抜）"
+  },
+  {
+   "name": "NSスカイカンファレンス ルーム2",
+   "areaM2": 149,
+   "ceilingM": 4.0,
+   "theater": 99,
+   "school": 70,
+   "ushape": 36,
+   "standing": 90,
+   "banquet": null,
+   "note": "30階。スクールはルーム1〜6が机（幅1500mm）に2名掛け。ルーム1と一体利用可。使用料（9:00〜17:00）214,000円（税抜）"
+  },
+  {
+   "name": "NSスカイカンファレンス ルーム1+2（一体利用）",
+   "areaM2": 288,
+   "ceilingM": 4.0,
+   "theater": 220,
+   "school": 160,
+   "ushape": 64,
+   "standing": 170,
+   "banquet": null,
+   "note": "30階。スクールはルーム1〜6が机（幅1500mm）に2名掛け。島型 6名×21島。使用料（9:00〜17:00）377,000円（税抜）"
+  },
+  {
+   "name": "NSスカイカンファレンス ルーム3",
+   "areaM2": 126,
+   "ceilingM": 4.0,
+   "theater": 78,
+   "school": 60,
+   "ushape": 28,
+   "standing": 80,
+   "banquet": null,
+   "note": "30階。スクールはルーム1〜6が机（幅1500mm）に2名掛け。ルーム4と一体利用可。使用料（9:00〜17:00）181,000円（税抜）"
+  },
+  {
+   "name": "NSスカイカンファレンス ルーム4",
+   "areaM2": 114,
+   "ceilingM": 4.0,
+   "theater": 68,
+   "school": 56,
+   "ushape": 28,
+   "standing": 70,
+   "banquet": null,
+   "note": "30階。スクールはルーム1〜6が机（幅1500mm）に2名掛け。ルーム3と一体利用可。使用料（9:00〜17:00）154,000円（税抜）"
+  },
+  {
+   "name": "NSスカイカンファレンス ルーム3+4（一体利用）",
+   "areaM2": 240,
+   "ceilingM": 4.0,
+   "theater": 163,
+   "school": 128,
+   "ushape": 48,
+   "standing": 140,
+   "banquet": null,
+   "note": "30階。スクールはルーム1〜6が机（幅1500mm）に2名掛け。島型 6名×18島。使用料（9:00〜17:00）314,000円（税抜）"
+  },
+  {
+   "name": "NSスカイカンファレンス ホールA",
+   "areaM2": 199,
+   "ceilingM": "4.0（一部4.8）",
+   "theater": 165,
+   "school": 135,
+   "ushape": 54,
+   "standing": 120,
+   "banquet": null,
+   "note": "30階。ホールBと一体利用可。スクールは机（幅1800mm）に3名掛け。使用料（9:00〜17:00）286,000円（税抜）"
+  },
+  {
+   "name": "NSスカイカンファレンス ホールB",
+   "areaM2": 226,
+   "ceilingM": "4.0（一部4.8）",
+   "theater": 188,
+   "school": 147,
+   "ushape": 54,
+   "standing": 130,
+   "banquet": null,
+   "note": "30階。ホールAと一体利用可。スクールは机（幅1800mm）に3名掛け。使用料（9:00〜17:00）324,000円（税抜）"
+  },
+  {
+   "name": "NSスカイカンファレンス ホールA+B（一体利用）",
+   "areaM2": 426,
+   "ceilingM": "4.0（一部4.8）",
+   "theater": 426,
+   "school": 312,
+   "ushape": 108,
+   "standing": 260,
+   "banquet": null,
+   "note": "30階。島型 5名×33島。スクールは机（幅1800mm）に3名掛け。使用料（9:00〜17:00）557,000円（税抜）"
+  },
+  {
+   "name": "NSスカイカンファレンス ルーム5",
+   "areaM2": 126,
+   "ceilingM": 4.0,
+   "theater": 78,
+   "school": 60,
+   "ushape": 28,
+   "standing": 80,
+   "banquet": null,
+   "note": "30階。スクールはルーム1〜6が机（幅1500mm）に2名掛け。ルーム6と一体利用可。使用料（9:00〜17:00）181,000円（税抜）"
+  },
+  {
+   "name": "NSスカイカンファレンス ルーム6",
+   "areaM2": 114,
+   "ceilingM": 4.0,
+   "theater": 68,
+   "school": 56,
+   "ushape": 28,
+   "standing": 70,
+   "banquet": null,
+   "note": "30階。スクールはルーム1〜6が机（幅1500mm）に2名掛け。ルーム5と一体利用可。使用料（9:00〜17:00）154,000円（税抜）"
+  },
+  {
+   "name": "NSスカイカンファレンス ルーム5+6（一体利用）",
+   "areaM2": 240,
+   "ceilingM": 4.0,
+   "theater": 163,
+   "school": 128,
+   "ushape": 48,
+   "standing": 140,
+   "banquet": null,
+   "note": "30階。スクールはルーム1〜6が机（幅1500mm）に2名掛け。使用料（9:00〜17:00）314,000円（税抜）"
+  },
+  {
+   "name": "NSスカイカンファレンス ルームA",
+   "areaM2": 61,
+   "ceilingM": 3.0,
+   "theater": null,
+   "school": null,
+   "ushape": 16,
+   "standing": 30,
+   "banquet": null,
+   "note": "30階。ロ型は机（幅2100mm）に3名掛け。スクリーンは移動式のみ。使用料（9:00〜17:00）88,000円（税抜）"
+  },
+  {
+   "name": "NSスカイカンファレンス ルームB",
+   "areaM2": 61,
+   "ceilingM": 3.0,
+   "theater": null,
+   "school": null,
+   "ushape": 16,
+   "standing": 30,
+   "banquet": null,
+   "note": "30階。ロ型は机（幅2100mm）に3名掛け。スクリーンは移動式のみ。使用料（9:00〜17:00）88,000円（税抜）"
+  },
+  {
+   "name": "NS会議室 3-A",
+   "areaM2": 59,
+   "ceilingM": 3.7,
+   "theater": null,
+   "school": 30,
+   "ushape": 30,
+   "standing": null,
+   "banquet": null,
+   "note": "3階東ブロック。スクール・ロ型とも3名掛け。机は幅1,800mm×奥行450mm。プロジェクター・スクリーン付き。使用料（9:00〜17:00）67,000円（税抜）"
+  },
+  {
+   "name": "NS会議室 3-B",
+   "areaM2": 59,
+   "ceilingM": 3.7,
+   "theater": null,
+   "school": 30,
+   "ushape": 30,
+   "standing": null,
+   "banquet": null,
+   "note": "3階東ブロック。スクール・ロ型とも3名掛け。机は幅1,800mm×奥行450mm。プロジェクター・スクリーン付き。使用料（9:00〜17:00）67,000円（税抜）"
+  },
+  {
+   "name": "NS会議室 3-C",
+   "areaM2": 68,
+   "ceilingM": 3.7,
+   "theater": null,
+   "school": 36,
+   "ushape": 36,
+   "standing": null,
+   "banquet": null,
+   "note": "3階東ブロック。スクール・ロ型とも3名掛け。机は幅1,800mm×奥行450mm。プロジェクター・スクリーン付き。使用料（9:00〜17:00）71,000円（税抜）"
+  },
+  {
+   "name": "NS会議室 3-D",
+   "areaM2": 101,
+   "ceilingM": 3.7,
+   "theater": null,
+   "school": 63,
+   "ushape": 42,
+   "standing": null,
+   "banquet": null,
+   "note": "3階南ブロック。スクール・ロ型とも3名掛け。机は幅1,800mm×奥行600mm。プロジェクター・スクリーン付き。使用料（9:00〜17:00）98,000円（税抜）"
+  },
+  {
+   "name": "NS会議室 3-E",
+   "areaM2": 62,
+   "ceilingM": 3.7,
+   "theater": null,
+   "school": 30,
+   "ushape": 30,
+   "standing": null,
+   "banquet": null,
+   "note": "3階南ブロック。スクール・ロ型とも3名掛け。机は幅1,800mm×奥行450mm。プロジェクター・スクリーン付き。使用料（9:00〜17:00）67,000円（税抜）"
+  },
+  {
+   "name": "NS会議室 3-F",
+   "areaM2": 64,
+   "ceilingM": 3.7,
+   "theater": null,
+   "school": 30,
+   "ushape": 30,
+   "standing": null,
+   "banquet": null,
+   "note": "3階南ブロック。スクール・ロ型とも3名掛け。机は幅1,800mm×奥行450mm。プロジェクター・スクリーン付き。使用料（9:00〜17:00）67,000円（税抜）"
+  },
+  {
+   "name": "NS会議室 3-G",
+   "areaM2": 122,
+   "ceilingM": 3.7,
+   "theater": null,
+   "school": 81,
+   "ushape": 48,
+   "standing": null,
+   "banquet": null,
+   "note": "3階南ブロック。スクール・ロ型とも3名掛け。机は幅1,800mm×奥行450mm。プロジェクター・スクリーン付き。使用料（9:00〜17:00）120,000円（税抜）"
+  },
+  {
+   "name": "NS会議室 3-H",
+   "areaM2": 123,
+   "ceilingM": 3.7,
+   "theater": null,
+   "school": 96,
+   "ushape": 54,
+   "standing": null,
+   "banquet": null,
+   "note": "3階西ブロック。スクール・ロ型とも3名掛け。机は幅1,800mm×奥行450mm。プロジェクター・スクリーン付き。使用料（9:00〜17:00）127,000円（税抜）"
+  },
+  {
+   "name": "NS会議室 3-I",
+   "areaM2": 89,
+   "ceilingM": 3.7,
+   "theater": null,
+   "school": 54,
+   "ushape": 42,
+   "standing": null,
+   "banquet": null,
+   "note": "3階西ブロック。スクール・ロ型とも3名掛け。机は幅1,800mm×奥行450mm。プロジェクター・スクリーン付き。使用料（9:00〜17:00）89,000円（税抜）"
+  },
+  {
+   "name": "NS会議室 3-J",
+   "areaM2": 138,
+   "ceilingM": 3.7,
+   "theater": null,
+   "school": 96,
+   "ushape": 54,
+   "standing": null,
+   "banquet": null,
+   "note": "3階西ブロック。スクール・ロ型とも3名掛け。机は幅1,800mm×奥行450mm。プロジェクター・スクリーン付き。使用料（9:00〜17:00）127,000円（税抜）"
+  },
+  {
+   "name": "NS会議室 3-K",
+   "areaM2": 98,
+   "ceilingM": 3.7,
+   "theater": null,
+   "school": 63,
+   "ushape": 42,
+   "standing": null,
+   "banquet": null,
+   "note": "3階西ブロック。スクール・ロ型とも3名掛け。机は幅1,800mm×奥行450mm。プロジェクター・スクリーン付き。使用料（9:00〜17:00）98,000円（税抜）"
+  },
+  {
+   "name": "NS会議室 3-L",
+   "areaM2": 96,
+   "ceilingM": 3.7,
+   "theater": null,
+   "school": 54,
+   "ushape": 42,
+   "standing": null,
+   "banquet": null,
+   "note": "3階北ブロック。スクール・ロ型とも3名掛け。机は幅1,800mm×奥行600mm。プロジェクター・スクリーン付き。使用料（9:00〜17:00）89,000円（税抜）"
+  },
+  {
+   "name": "NS会議室 3-M",
+   "areaM2": 117,
+   "ceilingM": 3.7,
+   "theater": null,
+   "school": 72,
+   "ushape": 48,
+   "standing": null,
+   "banquet": null,
+   "note": "3階北ブロック。スクール・ロ型とも3名掛け。机は幅1,800mm×奥行600mm。プロジェクター・スクリーン付き。使用料（9:00〜17:00）104,000円（税抜）"
+  },
+  {
+   "name": "NS会議室 3-N",
+   "areaM2": 112,
+   "ceilingM": 3.7,
+   "theater": null,
+   "school": 72,
+   "ushape": 48,
+   "standing": null,
+   "banquet": null,
+   "note": "3階北ブロック。スクール・ロ型とも3名掛け。机は幅1,800mm×奥行600mm。プロジェクター・スクリーン付き。使用料（9:00〜17:00）104,000円（税抜）"
+  },
+  {
+   "name": "北側オープンプラザ",
+   "areaM2": 1500,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "屋外の公開空地。活用できるのは最大1,500㎡（北側1,150㎡＋170㎡、南側1,150㎡＋170㎡の組み合わせ）。公式の貸ホール一覧では人数規模200〜400人。貸出は土日祝のみ、基本使用時間10:00〜23:00。給排水なし。電源は北側・南側に単相100V・三相200Vがあり、使用実費を負担"
+  }
+ ],
+ "roomsSource": "https://www.shinjuku-ns.jp/rental/",
+ "ops": {
+  "prevDaySetup": {
+   "text": "NSイベントホールは、搬出入・施工などの準備と撤去のために使う日の使用料が、基準使用料金の50%になる（冷暖房は運転しない。運転が必要な場合は基準外冷暖房空調料金が別途かかる）。準備・撤去が開催日と同じ日になる場合は、基準時間内は通常の料金。準備・開催・撤去の使用日と時間は「作業計画書」にまとめ、使用開始日の10日前までに出す。（出典：NSイベントホール公式ページ、NSイベントホール使用マニュアル 2022年8月現在）",
+   "source": "https://www.shinjuku-ns.jp/rental/eventhall/"
+  },
+  "loadingHours": {
+   "text": "NSイベントホールの搬出入は、ビル2階西側（都庁第二庁舎の向かい側）の駐車場出入口から行い、搬出入車の出入りはビル駐車場の営業時間（6:30〜23:30）内。大ホール・中ホールには専用の荷捌場があり、車を横付けできる。搬入口の扉は大ホール3.45m×2.75m（高さ×幅）、中ホール2.95m×2.20m、小ホール2.26m×1.48m。梱包材を置く場所はなく、搬入のたびに持ち帰る。NSスカイカンファレンス・NS会議室は、搬出入がある場合に事前搬入届を作業日の10日前までに出す。荷捌場はB1のみで、事前に預かる荷物は各部屋の段ボール2箱まで。使用時間には準備と後片付けの時間も含まれ、搬出入の関係者の入退室時間が実際の使用時間になる。（出典：NSイベントホール公式ページ、NSイベントホール使用マニュアル 2022年8月現在、NSスカイカンファレンス事前搬入届・使用規則 2023年7月現在、NS会議室使用規則 2023年7月現在）",
+   "source": "https://www.shinjuku-ns.jp/rental/eventhall/"
+  },
+  "vehicleRules": {
+   "text": "搬出入できる車は高さ2.9m以下・長さ7.5m以下・幅2.5m以下（サイドミラーを含む）で、重量は4トンまで。荷物の積み下ろしだけに使い、駐車が必要な場合は一般駐車場を使う。違法駐車、B1での駐車、ビル周りの路上駐車は禁止。NSスカイカンファレンス・NS会議室では、積み下ろしは1台につき20分以内。事前搬入届に載せた車ごとに、搬出入車用の駐車サービス当日券（無料）が出る（申込書は利用日の10日前まで）。NSイベントホールは、開催期間中に荷捌場へ商品・梱包材・装飾資材・ごみを置けない。（出典：アクセスページ、NSスカイカンファレンス事前搬入届 2023年7月現在、NSイベントホール使用マニュアル 2022年8月現在）",
+   "source": "https://www.shinjuku-ns.jp/access/"
+  },
+  "parking": {
+   "text": "ビルの地下1階・地下2階に駐車場があり、336台（うち時間貸し約100台）。入出庫は6:30〜23:30、料金は30分300円。一般車は高さ2.1m以下（B1は2.9m、B2は2.1m）、長さ7.5m以下、幅2.5m以下。入口は都庁第二庁舎側の道路にあり、それ以外の道路側には出入口がない。ビル内の店で買い物・飲食をすると駐車料金が無料になるサービスがある（金額により1〜2時間）。招待者用の駐車サービス当日券は1枚4,400円（税込）。（出典：アクセスページ、NSスカイカンファレンス駐車券発行申込書 2023年7月現在）",
+   "source": "https://www.shinjuku-ns.jp/access/"
+  },
+  "waitingRooms": {
+   "text": "NSイベントホールに（控）事務室が1室（39㎡）あり、1日30,000円（税抜）。北側オープンプラザは、ビル内に控室のスペースがある（応相談）。（出典：NSイベントホール公式ページ、北側オープンプラザ公式ページ）",
+   "source": "https://www.shinjuku-ns.jp/rental/eventhall/"
+  },
+  "catering": {
+   "text": "公式ページで、泉レストラン、アポルテフードファクトリー、NEO DINING、サガボウ、ニラックスの5社のケータリング（プラン・メニューPDF）を案内している。NSスカイカンファレンスの申込書は、ケータリングは泉レストラン、ドリンクのデリバリーはリーベンハウス NS店とタリーズコーヒー新宿NSビル店（ごみ袋を依頼する）を案内している（2023年7月現在）。NSイベントホールでは、来場者への飲食サービスはビル内の飲食業者を使い、ビル外からの持込はご遠慮（使用マニュアル 2022年8月現在）。NS会議室では、持ち込んだ弁当・ペットボトル類は原則持ち帰り（申込書 2023年7月現在）。",
+   "source": "https://www.shinjuku-ns.jp/rental/"
+  },
+  "restaurants": {
+   "text": "ビル1階にSUBWAY、あるでん亭、CoCo壱番屋があり、29階にイルキャンティ パラディーソ西新宿店、魚や、すし屋 銀蔵、築地食堂 源ちゃん、自然物語 ごだいごなどのレストランがある（29階へは1階から直通のNSスカイエレベーター）。NSスカイカンファレンスの過去事例に、懇親会会場が載っている。",
+   "source": "https://www.shinjuku-ns.jp/shop/"
+  }
+ },
+ "documents": [
+  {
+   "title": "貸ホール・貸会議室（公式）",
+   "url": "https://www.shinjuku-ns.jp/rental/"
+  },
+  {
+   "title": "NSイベントホール 使用申込書・使用マニュアル・関連使用料金表・貸出備品のご案内（2022年8月現在）",
+   "url": "https://www.shinjuku-ns.jp/wp/wp-content/themes/shinjuku-ns/img/pdf/eventhall_application.pdf"
+  },
+  {
+   "title": "NSイベントホール 平面図",
+   "url": "https://www.shinjuku-ns.jp/wp/wp-content/themes/shinjuku-ns/img/pdf/eventhall_groundplan.pdf"
+  },
+  {
+   "title": "NSスカイカンファレンス 使用申込書・使用規則・事前搬入届・駐車券発行申込書・使用料金表（2023年7月現在）",
+   "url": "https://www.shinjuku-ns.jp/wp/wp-content/themes/shinjuku-ns/img/pdf/skyconference_application.pdf"
+  },
+  {
+   "title": "NSスカイカンファレンス 平面図",
+   "url": "https://www.shinjuku-ns.jp/wp/wp-content/themes/shinjuku-ns/img/pdf/skyconference_groundplan.pdf"
+  },
+  {
+   "title": "NS会議室 使用申込書・使用規則・事前搬入届・駐車券発行申込書・使用料金表（2023年7月現在）",
+   "url": "https://www.shinjuku-ns.jp/wp/wp-content/themes/shinjuku-ns/img/pdf/meetingroom_application.pdf"
+  },
+  {
+   "title": "NS会議室 平面図（3階東ブロック）",
+   "url": "https://www.shinjuku-ns.jp/wp/wp-content/themes/shinjuku-ns/img/pdf/meetingroom_groundplan-east.pdf"
+  },
+  {
+   "title": "NS会議室 平面図（3階南ブロック）",
+   "url": "https://www.shinjuku-ns.jp/wp/wp-content/themes/shinjuku-ns/img/pdf/meetingroom_groundplan-south.pdf"
+  },
+  {
+   "title": "NS会議室 平面図（3階西ブロック）",
+   "url": "https://www.shinjuku-ns.jp/wp/wp-content/themes/shinjuku-ns/img/pdf/meetingroom_groundplan-west.pdf"
+  },
+  {
+   "title": "NS会議室 平面図（3階北ブロック）",
+   "url": "https://www.shinjuku-ns.jp/wp/wp-content/themes/shinjuku-ns/img/pdf/meetingroom_groundplan-north.pdf"
+  },
+  {
+   "title": "キャンセルポリシー",
+   "url": "https://www.shinjuku-ns.jp/cancel_policy/"
+  },
+  {
+   "title": "アクセス・駐車場",
+   "url": "https://www.shinjuku-ns.jp/access/"
+  },
+  {
+   "title": "ケータリング 泉レストラン プラン・メニュー",
+   "url": "https://www.shinjuku-ns.jp/wp/wp-content/themes/shinjuku-ns/img/pdf/izumi_restaurant_catering.pdf"
+  },
+  {
+   "title": "ケータリング アポルテフードファクトリー プラン・メニュー",
+   "url": "https://www.shinjuku-ns.jp/wp/wp-content/themes/shinjuku-ns/img/pdf/aporte_catering.pdf"
+  },
+  {
+   "title": "ケータリング NEO DINING プラン・メニュー",
+   "url": "https://www.shinjuku-ns.jp/wp/wp-content/uploads/2026/10/NEO_DINING_2026_plan.pdf"
+  },
+  {
+   "title": "ケータリング サガボウ プラン・メニュー",
+   "url": "https://www.shinjuku-ns.jp/wp/wp-content/themes/shinjuku-ns/img/pdf/sagabou_catering.pdf"
+  },
+  {
+   "title": "ケータリング ニラックス プラン・メニュー",
+   "url": "https://www.shinjuku-ns.jp/wp/wp-content/uploads/2026/04/nilax_catering.pdf"
+  }
+ ],
+ "checkedAt": "2026-11-02",
+ "lat": 35.688148,
+ "lng": 139.693329,
+ "nearby": {
+  "convenience": [
+   {
+    "name": "ファミリーマート 新宿モノリス店",
+    "brand": "ファミリーマート",
+    "distanceM": 115,
+    "walkMin": 2,
+    "hours": "7:30-23:00",
+    "address": "東京都新宿区西新宿2-3-1",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/77360",
+    "note": "距離は公式の店舗位置で計算。新宿モノリス（オフィスビル）の地下1階"
+   },
+   {
+    "name": "セブン-イレブン 西新宿新和ビル店",
+    "brand": "セブン-イレブン",
+    "distanceM": 162,
+    "walkMin": 3,
+    "hours": "24時間営業",
+    "address": "東京都新宿区西新宿3-2-4",
+    "verified": true,
+    "source": "https://seven-eleven.areamarker.com/711map/info/300541",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "ファミリーマート 新宿新都心店",
+    "brand": "ファミリーマート",
+    "distanceM": 266,
+    "walkMin": 4,
+    "hours": "24時間営業",
+    "address": "東京都新宿区西新宿1-20-2",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/77204",
+    "note": "距離は公式の店舗位置で計算。室町ビル1階"
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "アクセア 新宿南口店",
+    "brand": "アクセア",
+    "distanceM": 184,
+    "walkMin": 3,
+    "hours": "平日24時間営業（月曜朝8時から土曜夜19時まで休まず営業）／土～19:00、日祝10:00～19:00",
+    "address": "東京都新宿区西新宿3-1-4 第2佐山ビル1F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/entry.html",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "アクセア 新宿ビルディング店",
+    "brand": "アクセア",
+    "distanceM": 467,
+    "walkMin": 6,
+    "hours": "平日8:00～21:00／土日祝10:00～19:00",
+    "address": "東京都新宿区西新宿1-8-1 新宿ビルディング地下2階",
+    "verified": true,
+    "source": "https://www.accea.co.jp/entry.html",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Can★Do 薬ヒグチ新宿パークタワー店",
+    "brand": "キャンドゥ",
+    "distanceM": 279,
+    "walkMin": 4,
+    "hours": "月〜金 9:00〜20:00／土・日 10:00〜19:30／祝 10:00〜19:30",
+    "address": "東京都新宿区西新宿3-7-1 新宿パークタワービル 地下1階 薬ヒグチ新宿パークタワー店内",
+    "verified": true,
+    "source": "https://shopinfo.cando-web.co.jp/detail/shop-2677/",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "DAISO 京王モールアネックス店",
+    "brand": "ダイソー",
+    "distanceM": 345,
+    "walkMin": 5,
+    "hours": "8:00-21:00",
+    "address": "東京都新宿区西新宿1丁目19番地 京王モールアネックス内",
+    "verified": true,
+    "source": "https://www.daiso-sangyo.co.jp/shop/detail/002645",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "donki": [
+   {
+    "name": "ドン・キホーテ 新宿東南口店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 825,
+    "walkMin": 11,
+    "hours": "24時間営業",
+    "address": "東京都新宿区新宿3-36-16",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=449",
+    "note": "距離は住所の位置で計算。ドン・キホーテ公式サイトの店舗名は「新宿東南口店」"
+   },
+   {
+    "name": "ドン・キホーテ 新宿東南口別館",
+    "brand": "ドン・キホーテ",
+    "distanceM": 912,
+    "walkMin": 12,
+    "hours": "9:00～2:00",
+    "address": "東京都新宿区新宿3-35-16",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=709",
+    "note": "距離は住所の位置で計算。ドン・キホーテ公式サイトの店舗名は「新宿東南口別館」"
+   }
+  ]
+ },
+ "drinkDelivery": {
+  "available": true
+ },
+ "photo": {
+  "src": "/images/venues/shinjuku-ns-building.jpg",
+  "credit": "© User:Kentin / CC BY-SA 3.0 · Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Shinjuku_NS_building.jpg"
+ }
+}

@@ -1,0 +1,156 @@
+{
+ "slug": "shin-yokohama-prince-hotel",
+ "name": "Shin Yokohama Prince Hotel",
+ "address": "Kanagawa 222-8533 3-4 Shin-Yokohama, Kohoku-ku, Yokohama",
+ "accessSummary": "Shin-Yokohama Station (JR Yokohama Line) North Ticket Gate: about 2 min walk / Shin-Yokohama Station (Tokaido Shinkansen) East Exit: about 2 min walk / Shin-Yokohama Station (Yokohama Municipal Subway) Exit 3: about 2 min walk / Shin-Yokohama Station (Sotetsu / Tokyu Shin-Yokohama Line) Exit 6: about 2 min walk",
+ "hours": null,
+ "notice": "The hotel parking lot (shared with Prince Pepe) will close in March 2027 (planned). After the closure there will be no partner parking lot, and the official site advises using nearby coin parking lots (notice of June 2026).",
+ "rooms": [
+  {
+   "name": "5F Sinfonia (Main Banquet Hall)",
+   "note": "The buffet figure is the number for standing. 26.5 m long x 48.1 m wide. Has 4 fixed interpretation booths, a lighting control room, a mixing room and screens (6 m x 9 m, 2 screens). Examples in the layout diagram PDF: 1,024 seats theater, 500 seats classroom, 52 tables / 416 seats dinner."
+  },
+  {
+   "name": "4F Chidori",
+   "note": "15.4 m long x 27.3 m wide. Ceiling height is 3.00-4.05 m in the banquet hall list (3.2-4.05 m in the brochure of March 31, 2025)."
+  },
+  {
+   "name": "4F Wakana",
+   "note": "15.4 m long x 27.3 m wide. Ceiling height is 3.00-4.05 m in the banquet hall list (3.2-4.05 m in the brochure of March 31, 2025)."
+  },
+  {
+   "name": "4F Sakuragawa",
+   "note": "15.4 m long x 27.3 m wide. Ceiling height is 3.00-4.05 m in the banquet hall list (3.2-4.05 m in the brochure of March 31, 2025)."
+  },
+  {
+   "name": "3F Serenade",
+   "note": "Includes the 91㎡ anteroom (the brochure gives anteroom 91㎡ and main room 329㎡). 15.4 m long x 27.3 m wide. Ceiling height is 3.00-4.05 m in the banquet hall list (3.2-4.05 m in the brochure of March 31, 2025)."
+  },
+  {
+   "name": "3F Fantasia",
+   "note": "Includes the 91㎡ anteroom (the brochure gives anteroom 91㎡ and main room 337㎡). 15.4 m long x 27.3 m wide. Ceiling height is 3.00-4.05 m in the banquet hall list (3.2-4.05 m in the brochure of March 31, 2025)."
+  },
+  {
+   "name": "3F Nocturne",
+   "note": "15.4 m long x 27.3 m wide. Ceiling height is 3.00-4.05 m in the banquet hall list (3.2-4.05 m in the brochure of March 31, 2025)."
+  },
+  {
+   "name": "4F Onoe (Small Banquet Room)",
+   "note": "Ceiling height is as given in the brochure (March 31, 2025 edition)."
+  },
+  {
+   "name": "3F Prelude (Small Banquet Room)",
+   "note": "Ceiling height is as given in the brochure (March 31, 2025 edition)."
+  },
+  {
+   "name": "42F Sky Banquet",
+   "note": "Top floor of the hotel (150 m above ground)"
+  },
+  {
+   "name": "42F Sky Banquet Foyer",
+   "note": "Can be used as a reception or waiting area"
+  },
+  {
+   "name": "5F Waiting Room 511",
+   "note": "Waiting room"
+  },
+  {
+   "name": "5F Waiting Rooms 519 and 507",
+   "note": "Waiting room"
+  },
+  {
+   "name": "4F Waiting Room 411",
+   "note": "Waiting room"
+  },
+  {
+   "name": "4F Waiting Rooms 419 and 407",
+   "note": "Waiting room"
+  },
+  {
+   "name": "3F Waiting Rooms 319 and 321",
+   "note": "Waiting room"
+  },
+  {
+   "name": "3F Waiting Room 323",
+   "note": "Waiting room"
+  }
+ ],
+ "ops": {
+  "loadingHours": "The main banquet hall Sinfonia (5F) has a dedicated load-in entrance, which is reached from the 5F parking lot. The floor plan shows a \"5F/6F parking lot connecting passage\", a banquet-only elevator (3F-6F) and a banquet/parking lot elevator (B1-7F).",
+  "parking": "A multi-level self-drive parking structure shared by the hotel and Prince Pepe, with up to 800 spaces. It is not reservable, and it can fill up because of events at nearby facilities. Vehicles that can enter must be within 2.1 m in height, 5.0 m in length, 1.9 m in width, 2.5 t in weight and 15-25 cm in minimum ground clearance. Banquet use gets 3 hours free; beyond that it is 350 yen per 30 minutes (present the parking ticket at the place of use). The hotel connecting entrances are on parking floors 5F, 7F and 9F. This parking lot will end operations in March 2027 (planned).",
+  "waitingRooms": "The banquet waiting rooms are, on the 5F, 511 (48㎡) and 519 and 507 (34㎡); on the 4F, 411 (48㎡) and 419 and 407 (34㎡); and on the 3F, 319 and 321 (33㎡) and 323 (50㎡).",
+  "restaurants": "The in-hotel restaurants number 8 on the official restaurant list: Buffet Dining Kochel (2F, private rooms for 30-50 guests), Hagoromo Japanese Restaurant (40F, Japanese-style room for 4-6, Western-style private room for 6-8), Top of Yokohama Teppanyaki & Dining (41F, Sky Garden private rooms for 10-16, up to 40 with 4 rooms used), Top of Yokohama Bar Lounge (42F), Chinese Restaurant BANKODEN (private rooms; all-you-can-drink available), KIJIMA Shin Yokohama (private rooms available), Lobby Lounge ROSSO, and the rooftop (7F) ROOF TOP BBQ \"BREEZE TERRACE\" (all-you-can-drink available). The private room sizes are from the brochure (March 31, 2025 edition). The official site also advertises an \"after-party set plan at a restaurant or bar of your choice\"."
+ },
+ "documents": [
+  {
+   "title": "Banquet Hall List (web)"
+  },
+  {
+   "title": "Banquet Hall Brochure (March 31, 2025 edition)"
+  },
+  {
+   "title": "5F Floor Plan (PDF)"
+  },
+  {
+   "title": "4F Floor Plan (PDF)"
+  },
+  {
+   "title": "3F Floor Plan (PDF)"
+  },
+  {
+   "title": "Sinfonia Layout Diagram (Theater, PDF)"
+  },
+  {
+   "title": "Parking Guide (rates and services)"
+  },
+  {
+   "title": "Notice of Parking Lot Closure (June 2026)"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "Lawson Shin-Yokohama 3-chome",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the store's official location."
+   },
+   {
+    "name": "7-Eleven Shin-Yokohama Arena-dori",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the store's official location."
+   },
+   {
+    "name": "FamilyMart Kohoku Shinohara-cho",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the store's official location."
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "Accea Shin-Yokohama",
+    "hours": "Weekdays 9:00-20:00 / Sat, Sun & holidays 10:00-19:00",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Can Do Shin-Yokohama Prince Pepe",
+    "hours": "Mon-Sun 10:00-21:00",
+    "note": "Distance is calculated from the store's official location."
+   },
+   {
+    "name": "3COINS +plus Cubic Plaza Shin-Yokohama",
+    "hours": "10:00-21:00",
+    "note": "Distance is calculated from the store's official location."
+   }
+  ],
+  "donki": [
+   {
+    "name": "MEGA Don Quijote Shin-Yokohama",
+    "hours": "9:00-4:00",
+    "note": "Distance is calculated from the address location."
+   }
+  ]
+ },
+ "photoCredit": "© J o / CC BY-SA 3.0 · Wikimedia Commons"
+}

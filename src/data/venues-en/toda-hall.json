@@ -1,0 +1,150 @@
+{
+ "slug": "toda-hall",
+ "name": "TODA HALL & CONFERENCE TOKYO",
+ "address": "Tokyo 104-0031 TODA BUILDING 4F, 1-7-1 Kyobashi, Chuo-ku",
+ "accessSummary": "Tokyo Station (JR lines / Tokyo Metro Marunouchi Line), Yaesu Central Exit: 7 min walk / Kyobashi Station (Tokyo Metro Ginza Line), Exit 6: 3 min walk / Nihombashi Station (Tokyo Metro Ginza Line & Tozai Line): 5 min walk / Takaracho Station (Toei Asakusa Line): 7 min walk",
+ "hours": "Hall: Base usage hours are 9:00-20:00. If there is no other booking, there are no set hours of use and the hall can be used 24 hours a day; a late-night/early-morning fee applies from 23:00 to 8:00. Conference: every day 9:00-21:00, at most 7:00-23:00 (early-morning handling fee before 8:00). Open all year round in principle. The operations office is open on weekdays 10:00-19:00 (Hall User Manual Ver.2026.07.08, Conference User Guide, June 13, 2026 edition)",
+ "notice": "Hall bookings are accepted from 1 year before the date of use (6 months before for Hall B only and for Conference only), and a provisional booking is held for 7 days. The contract is an electronic contract, and the venue reviews the content of the event to decide whether it can be rented. Payment is by bank transfer only (no credit cards, and full payment after the event is not possible); the full basic venue fee must be paid within 15 days of the contract. The hall has volume limits, such as no percussion instruments or subwoofers allowed in, and the performance itself must end by 22:30.",
+ "rooms": [
+  {
+   "name": "Hall A",
+   "note": "Classroom is 3 per desk (2 per desk: 240 seats). Group layout: 252 seats (324 seats on the Hall A overview page). Standing reception inside the hall: 400. About 6 m from the floor (under the battens), about 16 m wide x 32 m deep, floor load capacity 500 kg/㎡, and exhibition vehicles can be brought into the hall. Comes with 3 waiting rooms, a bar counter and a cloakroom. Base rental fee (9:00-20:00): 800,000 yen (excl. tax); 1,000,000 yen (excl. tax) for contracts signed on or after January 1, 2027. The foyer is not rented on its own; the hall and waiting rooms come as a set."
+  },
+  {
+   "name": "Foyer A (attached to Hall A)",
+   "note": "Included in the Hall A rental area. 65 m long and glass-walled, with a long vision display using 12 projectors. Standing party in the foyer: 350. Can also be used for exhibitions (set up by the organizer)."
+  },
+  {
+   "name": "Hall B",
+   "note": "Classroom is 3 per desk (2 per desk: 120 seats). Group layout: 144 seats (180 seats on the Hall B overview page). About 13 m wide x 20 m deep, floor load capacity 500 kg/㎡. Comes with 3 waiting rooms, a bar counter and a cloakroom. Has a foyer independent of Hall A. Base rental fee (9:00-20:00): 400,000 yen (excl. tax); prices are revised for contracts from January 1, 2027."
+  },
+  {
+   "name": "Foyer B (attached to Hall B)",
+   "note": "Included in the Hall B rental area. Independent of Hall A."
+  },
+  {
+   "name": "Room401+402",
+   "note": "Classroom is 3 per desk (2 per desk: 68 seats). Group layout: 72 seats. When combined. Three 150-inch screens. Full day (9:00-21:00): 200,000 yen (excl. tax)."
+  },
+  {
+   "name": "Room401 / 402 (each, when divided)",
+   "note": "Classroom is 3 per desk (2 per desk: 34 seats). Group layout: 36 seats. Full day (9:00-21:00): 120,000 yen each (excl. tax)."
+  },
+  {
+   "name": "Room403+404",
+   "note": "Classroom is 3 per desk (2 per desk: 56 seats). Group layout: 54 seats. Hollow square layout: 48 seats. When combined. Full day (9:00-21:00): 165,000 yen (excl. tax)."
+  },
+  {
+   "name": "Room403 / 404 (each, when divided)",
+   "note": "Classroom is 3 per desk (2 per desk: 24 seats). Group layout: 36 seats. Full day (9:00-21:00): 99,000 yen each (excl. tax)."
+  },
+  {
+   "name": "Room405",
+   "note": "Island layout: 6 seats. No equipment. Full day (9:00-21:00): 25,000 yen (excl. tax)."
+  }
+ ],
+ "ops": {
+  "prevDaySetup": "If there is no other booking, the hall has no set hours of use and can be used 24 hours a day. Setup, preparation or teardown outside the base hours (9:00-20:00) incurs an overtime extension fee regardless of purpose (Hall A: 40,000 yen per 30 minutes, excl. tax). Use between 23:00 and 8:00 incurs a separate late-night/early-morning fee (30,000 yen per person, excl. tax). Items sent in advance can be received on the day before. (Source: Hall Terms of Use as of October 10, 2025; Hall User Manual Ver.2026.07.08; price page)",
+  "loadingHours": "The loading area on the 1st floor normally has its shutter closed and opens about 15 minutes before the start of the usage time. There is no place for vehicles that arrive early to wait. The time spent at the loading area counts as usage time, and it can be used only on the day the hall is rented. The loading area is shared by the building, and Hall A and Hall B each have a reserved slot for one van. The freight elevator requires a card key (lent on the day). The Hall A elevator has an opening of W5,800 x H3,000 mm, an interior of W5,800 x D2,400 x H3,000 mm and a capacity of up to 4,550 kg; for Hall B, the building's shared emergency elevator is used, with an opening of W1,600 x H2,400 mm, an interior of W1,800 x D2,100 x H3,000 mm and a capacity of up to 1,800 kg. The Hall A door on the 4th floor has an interior of W2,200 x H2,450 mm. The building's front entrance is locked from 23:00 to 7:00, and during that time access is from the 1st floor via the freight elevator. Discuss the load-in/load-out plan with the venue up to 1 month before the start of use. Items sent in advance can be received on the day before, with shipping paid by the sender, and up to one hand truck load (about 10 boxes) can be held. The conference rooms have no load-in route and hand trucks cannot be used, so items are carried by hand (if rented together with the hall, the hall's load-in route can be used). (Source: Load-in/Load-out Guide, June 20, 2025 edition; Hall User Manual Ver.2026.07.08; Conference User Guide, June 13, 2026 edition; Hall Terms of Use)",
+  "vehicleRules": "Vehicles that can enter the loading area are up to 3.5 m in height and 4-ton long trucks. Vehicles cannot be left standing after unloading, and unloading on the street is not allowed. Vehicles must always back in, and the organizer must provide one guide (there are no security guards). The driver stays near the vehicle so that it can be moved immediately. A vehicle that needs to be left uses a parking space on B2F. The building's shared loading area on B1F can be used after consulting the venue staff, with stops limited to 30 minutes. (Source: Load-in/Load-out Guide, June 20, 2025 edition; Hall User Manual Ver.2026.07.08)",
+  "parking": "There is one parking space each for Hall A and Hall B on B2F; beyond that, use nearby parking. Entry and exit are possible 6:00-24:00 (exit outside these hours is not possible), and the available time follows the hall's contract hours; time until the vehicle exits counts as usage time and is subject to extension fees. Vehicle size limit: length 5,150 x width 2,050 x height 2,600 mm. Advance application is required; send the application form by email to the person in charge at least 1 week before the use date. On the day, display the parking permit issued at the operations office on the dashboard. (Source: Parking Guide for Hall Users, May 27, 2026 edition; FAQ)",
+  "waitingRooms": "Hall A and Hall B each have 3 waiting rooms, free of charge. Hall A: Waiting Room A1 about 20.2㎡ (recommended 4 people), A2 about 18.4㎡ (recommended 4 people), A3 about 32.2㎡ (recommended 8 people); Hall B: Waiting Room B1 about 14.2㎡ (recommended 2 people), B2 about 11.2㎡ (recommended 2 people), B3 about 12.0㎡ (recommended 1 person). All have a ceiling height of 2,600 mm and a sink. There is a restroom (2 private rooms), and a smoking room only for Hall A (none in Hall B's backyard). (Source: Hall A and B Waiting Room Specifications; FAQ)",
+  "catering": "The hall has no designated vendors, and no outside-catering fee applies even if you bring your own caterer. The venue can also introduce vendors, and payment is made directly to the vendor. Open flames and cooking are not allowed; use IH or microwave ovens for warming. Trash is in principle taken home; venue disposal is 2,000 yen per bag (excl. tax; the Hall User Manual states 70L bags and the price page states 90L bags). Boxed meals, coffee and plastic-bottled drinks can be arranged by the venue, with boxed meals from 1,200 yen per item (excl. tax). The only booth that may serve food and drink to visitors is the bar counter, and prior consultation with the public health center is required. Conference Rooms 401 to 404 use only the designated vendor (Royce Catering), and catering can be brought in when they are rented together with the hall. (Source: Hall User Manual Ver.2026.07.08; Party Use Guide; Food and Drink Service Rules, May 14, 2026 edition; Conference User Guide, June 13, 2026 edition)",
+  "restaurants": "TODA BUILDING has, on the 2nd floor, Trattoria TOSCANA Kyobashi (Italian), WASHOKUBIYORI OSAKETO KYOBASHI, THE SAKAI Tokyo (sushi), TEPPAN ISOROKU and MEIYANG WEIFANG (Chinese cuisine); on the 6th floor, CREATIVE MUSEUM TOKYO CAFE; and on the 1st floor, Gallery & Bakery Tokyo and a 7-Eleven. The venue states that it can be used for a networking reception, and the official page shows layouts such as up to about 400 people in the Hall A foyer, and holding it in Hall A or B after a changeover."
+ },
+ "documents": [
+  {
+   "title": "Hall User Manual (Ver.2026.07.08)"
+  },
+  {
+   "title": "Hall Terms of Use (as of October 10, 2025)"
+  },
+  {
+   "title": "Conference User Guide (June 13, 2026 edition)"
+  },
+  {
+   "title": "Conference Terms of Use"
+  },
+  {
+   "title": "Load-in/Load-out Guide (June 20, 2025 edition)"
+  },
+  {
+   "title": "Parking Guide for Hall Users (May 27, 2026 edition)"
+  },
+  {
+   "title": "Food and Drink Service Rules (May 14, 2026 edition)"
+  },
+  {
+   "title": "Cancellation Fees"
+  },
+  {
+   "title": "Notice of Price Revision (August 17, 2026)"
+  },
+  {
+   "title": "Hall A Waiting Room Specifications"
+  },
+  {
+   "title": "Hall B Waiting Room Specifications"
+  },
+  {
+   "title": "Hall Rental Prices"
+  },
+  {
+   "title": "Conference Rental Prices"
+  },
+  {
+   "title": "4F Floor Plan"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "Natural Lawson Kyobashi 1-chome",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "Lawson Nihonbashi 3-chome",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "7-Eleven Yaesu Daibiru",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location."
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "Accea Tokyo Station Yaesu",
+    "hours": "Open 24 hours (cafe use from 22:00 to 6:00 the next day is for identity-verified members only)",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "ACCEA Kyobashi",
+    "hours": "Weekdays 8:00-22:00 / Sat, Sun & holidays 10:00-19:00",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "3COINS Yaechika",
+    "hours": "10:00-21:00",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "DAISO Marronnier Gate Ginza",
+    "hours": "11:00-21:00",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "donki": [
+   {
+    "name": "Don Quijote Ginza Main Building (Ginza Nine Building No. 3)",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. Rather far."
+   }
+  ]
+ },
+ "photoCredit": "© Mochizuki1018 / CC BY 4.0 · Wikimedia Commons"
+}

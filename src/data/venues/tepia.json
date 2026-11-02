@@ -1,0 +1,294 @@
+{
+ "slug": "tepia",
+ "nameJa": "TEPIA",
+ "nameEn": "TEPIA",
+ "type": "conference",
+ "area": "toranomon-roppongi-venues",
+ "address": "〒107-0061 東京都港区北青山2-8-44",
+ "officialUrl": "https://www.tepia.jp/",
+ "organizerUrl": "https://www.tepia.jp/facilities/",
+ "bizintokyoSlug": "tepia",
+ "accessSummary": "東京メトロ銀座線「外苑前」駅 2b出口 徒歩4分／都営大江戸線「青山一丁目」駅 徒歩9分／都営大江戸線「国立競技場」駅 徒歩11分／JR「千駄ヶ谷」駅・「信濃町」駅 徒歩14分",
+ "notice": "申込は、TEPIAホール・エキシビションホールが利用日の1年前から、会議室が利用日の6か月前から。商品の直接販売を目的とする使用は、協会の承認がない限り受け付けない。敷地内・館内は禁煙。",
+ "hours": "エキシビションホールの使用料は9:00〜18:00の1日使用。TEPIAホール・会議室は9:00〜21:00（午前9:00〜12:00／午後13:00〜17:00／夜間18:00〜21:00）で、使用時間には準備・後片付けの時間を含む。問い合わせ受付は10:00〜16:00（土・日・祝日を除く）。（料金表 2025年8月1日改訂）",
+ "rooms": [
+  {
+   "name": "エキシビションホール（全ホール）",
+   "areaM2": 1230,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "3階。L字型で、可動間仕切壁でA・B・Cの3区画に分けられる。面積に共通スペース135㎡を含む。"
+  },
+  {
+   "name": "エキシビションホール A+B",
+   "areaM2": 705,
+   "ceilingM": 3.735,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "共通スペース135㎡を除く。平面図に天井高3,735mm・創作物の高さ制限3,200mmの記載あり。"
+  },
+  {
+   "name": "エキシビションホール C",
+   "areaM2": 390,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "1区画のみの利用。"
+  },
+  {
+   "name": "TEPIAホール",
+   "areaM2": 240,
+   "ceilingM": 4.35,
+   "theater": 250,
+   "school": 144,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "4階。スクール形式は3名掛。料金はホワイエ170㎡を含む。257インチのスクリーン（投影サイズ240インチ）と7,000lmのプロジェクターを備える。"
+  },
+  {
+   "name": "B1F会議室A",
+   "areaM2": 126.5,
+   "ceilingM": null,
+   "theater": 108,
+   "school": 63,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "スクール形式は3名掛。専用控室あり。"
+  },
+  {
+   "name": "B1F会議室B",
+   "areaM2": 63.5,
+   "ceilingM": null,
+   "theater": 48,
+   "school": 30,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "スクール形式は3名掛。"
+  },
+  {
+   "name": "B1F会議室C",
+   "areaM2": 76.3,
+   "ceilingM": null,
+   "theater": 60,
+   "school": 36,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "スクール形式は3名掛。"
+  }
+ ],
+ "roomsSource": "https://www.tepia.jp/facilities/price/",
+ "ops": {
+  "prevDaySetup": {
+   "text": "準備・撤去のために使用する場合の使用料は規定料金の70%（準備・撤去各2日間のみ適用）。準備・撤去が開催日と同じ日の場合は規定料金になる。",
+   "source": "https://www.tepia.jp/facilities/rules/"
+  },
+  "loadingHours": {
+   "text": "エキシビションホール用に大型の搬出入エレベーターが2基あり、各階直通。3.5t（W3,000×D3,500×H2,930mm）がB2〜3階、3.0t（W2,350×D3,000×H2,930mm）がB1〜4階。搬出入の日時・経路・場所は事前打合せに基づく指定どおりに行い、建物・設備は養生する。施設利用計画書と設備利用申込書は使用日の10日前まで、使用開始の1か月前をめどに詳細の打合せを行う。",
+   "source": "https://www.tepia.jp/facilities/exhibitionhall/"
+  },
+  "vehicleRules": {
+   "text": "搬出入口に入れる車は4トン車まで。搬出入の時間・経路・場所・車両台数は事前に係員と打合せ、「搬出入場駐車許可」を打合せ時に提出する。",
+   "source": "https://www.tepia.jp/facilities/exhibitionhall/"
+  },
+  "parking": {
+   "text": "普通車用の有料駐車場がある。",
+   "source": "https://www.tepia.jp/access/"
+  },
+  "waitingRooms": {
+   "text": "B1F会議室Aには専用控室があり、控室セット（テーブル1・2人掛ソファー1・肘付椅子2）を無料で使える。エキシビションホールにも控室セット（テーブル1・椅子5）の貸出備品がある。",
+   "source": "https://www.tepia.jp/facilities/option/"
+  },
+  "catering": {
+   "text": "TEPIAホールのケータリングサービスは現在休止中で、ホワイエでの懇親会を希望する場合は相談する。館外からの飲食物の持込みも相談とされている。",
+   "source": "https://www.tepia.jp/facilities/tepiahall/"
+  }
+ },
+ "documents": [
+  {
+   "title": "エキシビションホール・TEPIAホール・会議室料金表（2025年8月1日改訂）",
+   "url": "https://www.tepia.jp/files/facilities/price_list.pdf"
+  },
+  {
+   "title": "エキシビションホール平面図（1/200）",
+   "url": "https://www.tepia.jp/files/facilities/dw_exhibitionhall.pdf"
+  },
+  {
+   "title": "TEPIAホール図面（スクールレイアウト）",
+   "url": "https://www.tepia.jp/files/facilities/dws_tepiahall.pdf"
+  },
+  {
+   "title": "TEPIAホール図面（シアターレイアウト）",
+   "url": "https://www.tepia.jp/files/facilities/dwt_tepiahall.pdf"
+  },
+  {
+   "title": "B1F会議室A図面（スクールレイアウト）",
+   "url": "https://www.tepia.jp/files/facilities/dws_room_a.pdf"
+  },
+  {
+   "title": "B1F会議室A図面（シアターレイアウト）",
+   "url": "https://www.tepia.jp/files/facilities/dwt_room_a.pdf"
+  },
+  {
+   "title": "B1F会議室B図面（スクールレイアウト）",
+   "url": "https://www.tepia.jp/files/facilities/dws_room_b.pdf"
+  },
+  {
+   "title": "B1F会議室B図面（シアターレイアウト）",
+   "url": "https://www.tepia.jp/files/facilities/dwt_room_b.pdf"
+  },
+  {
+   "title": "B1F会議室C図面（スクールレイアウト）",
+   "url": "https://www.tepia.jp/files/facilities/dws_room_c.pdf"
+  },
+  {
+   "title": "B1F会議室C図面（シアターレイアウト）",
+   "url": "https://www.tepia.jp/files/facilities/dwt_room_c.pdf"
+  },
+  {
+   "title": "会場備品・貸出備品一覧（ページ）",
+   "url": "https://www.tepia.jp/facilities/option/"
+  },
+  {
+   "title": "使用規程（ページ）",
+   "url": "https://www.tepia.jp/facilities/rules/"
+  },
+  {
+   "title": "ご利用の流れ（ページ）",
+   "url": "https://www.tepia.jp/facilities/flow/"
+  }
+ ],
+ "checkedAt": "2026-11-02",
+ "lat": 35.672749,
+ "lng": 139.718033,
+ "nearby": {
+  "convenience": [
+   {
+    "name": "ファミリーマート 神宮スタジアム通り店",
+    "brand": "ファミリーマート",
+    "distanceM": 154,
+    "walkMin": 2,
+    "hours": "24時間営業",
+    "address": "東京都港区北青山二丁目7番26号 メゾン青山1F",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/26909",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "セブン-イレブン 外苑前駅前店",
+    "brand": "セブン-イレブン",
+    "distanceM": 260,
+    "walkMin": 4,
+    "hours": "24時間営業",
+    "address": "東京都港区北青山2-7-19",
+    "verified": true,
+    "source": "https://seven-eleven.areamarker.com/711map/info/418225",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "ファミリーマート 北青山二丁目店",
+    "brand": "ファミリーマート",
+    "distanceM": 263,
+    "walkMin": 4,
+    "hours": "24時間営業",
+    "address": "東京都港区北青山2-12-13",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/57754",
+    "note": "距離は公式の店舗位置で計算"
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "アクセア 外苑前店",
+    "brand": "アクセア",
+    "distanceM": 191,
+    "walkMin": 3,
+    "hours": "24時間営業",
+    "address": "東京都港区北青山2-7-9 日昭ビル1F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/entry.html",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "アクセア 表参道店",
+    "brand": "アクセア",
+    "distanceM": 923,
+    "walkMin": 12,
+    "hours": "平日 9:00-20:00／土・日・祝 休み",
+    "address": "東京都港区北青山3-5-25 しもじまビル3F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/entry.html",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Can★Do アトレ信濃町店",
+    "brand": "キャンドゥ",
+    "distanceM": 837,
+    "walkMin": 11,
+    "hours": "毎日 10:00-21:00",
+    "address": "東京都新宿区信濃町34 アトレ信濃町2階",
+    "verified": true,
+    "source": "https://shopinfo.cando-web.co.jp/detail/shop-5610/",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "3COINS 原宿本店",
+    "brand": "3COINS",
+    "distanceM": 1377,
+    "walkMin": 18,
+    "hours": "11:00-20:00",
+    "address": "東京都渋谷区神宮前6-12-22 秋田ビル1F",
+    "verified": true,
+    "source": "https://palcloset.storelocator.jp/detail/1505",
+    "note": "距離は公式の店舗位置で計算。遠め"
+   }
+  ],
+  "donki": [
+   {
+    "name": "ピカソ赤坂店（ドン・キホーテ）",
+    "brand": "ドン・キホーテ",
+    "distanceM": 1759,
+    "walkMin": 22,
+    "hours": "7:00-3:00",
+    "address": "東京都港区赤坂3-11-14",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=289",
+    "note": "距離は住所の位置で計算。ドン・キホーテの別業態（公式サイトの店舗名は「ピカソ赤坂店」）。遠い"
+   },
+   {
+    "name": "ドン・キホーテ 六本木店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 1885,
+    "walkMin": 24,
+    "hours": "24時間営業",
+    "address": "東京都港区六本木3-14-10",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=31",
+    "note": "距離は住所の位置で計算。ドン・キホーテ公式サイトの店舗名は「六本木店」。遠い"
+   }
+  ]
+ },
+ "drinkDelivery": {
+  "available": true
+ },
+ "photo": {
+  "src": "/images/venues/tepia.jpg",
+  "credit": "© Wiiii / CC BY-SA 3.0 · Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tepia_2009_%282%29.jpg"
+ }
+}

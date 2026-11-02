@@ -1,0 +1,367 @@
+{
+ "slug": "shinjuku-bunka-center",
+ "nameJa": "新宿区立新宿文化センター",
+ "nameEn": "",
+ "type": "hall",
+ "area": "shinjuku-venues",
+ "address": "〒160-0022 東京都新宿区新宿6-14-1",
+ "officialUrl": "https://www.regasu-shinjuku.or.jp/bunka-center/",
+ "organizerUrl": "https://www.regasu-shinjuku.or.jp/bunka-center/facilities/",
+ "bizintokyoSlug": "shinjuku-bunka-center",
+ "accessSummary": "東京メトロ副都心線・都営大江戸線「東新宿駅」A3出口 徒歩5分／東京メトロ丸ノ内線・副都心線「新宿三丁目駅」E1出口 徒歩7分（B3出口 徒歩11分）／都営新宿線「新宿三丁目駅」C7出口 徒歩10分／JR線・京王線・小田急線「新宿駅」東口 徒歩15分／西武新宿線「西武新宿駅」徒歩15分",
+ "notice": "大ホール・小ホールの申込は窓口か郵送のみ（電話・インターネット不可）で、毎月1日に抽選がある。式典・講演会・研修会・シンポジウム（大ホール、利用区分B）は利用月の6か月前の1日から受け付ける。会議室、リハーサル室・展示室の会議・練習利用は事前の団体登録が必要。",
+ "hours": "開館9:00〜22:00（受付は20:00まで）。休館日は原則として毎月第2火曜日と年末年始（12月29日〜1月3日）。ホール・会議室の時間区分は午前9:00〜12:00／午後13:00〜17:00／夜間18:00〜22:00",
+ "rooms": [
+  {
+   "name": "大ホール",
+   "areaM2": null,
+   "ceilingM": null,
+   "theater": 1601,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "固定席（1階1,029席／2階572席）。オーケストラピット使用時は1,479席（122席減）。車椅子席30席程度。1階。舞台は間口20m×奥行16.45m×高さ6.5〜9.5m。建物の構造上、複数の和太鼓の使用やスタンディング形式での客席利用はできない場合がある。座席数は令和5〜7年の改修工事後の数"
+  },
+  {
+   "name": "小ホール",
+   "areaM2": 173.5,
+   "ceilingM": null,
+   "theater": 210,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "移動席210席、床はフラット。3階。舞台は移動式で間口9.7m×奥行4.84m（64㎡）。PAを大量に使う催し、金管・打楽器を使う催し、水・火・スモークを使う催し、動きの激しい舞踊公演は開けない"
+  },
+  {
+   "name": "展示室",
+   "areaM2": 266.5,
+   "ceilingM": 2.9,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "収容定員100名（レイアウトの指定なし）。地下1階。内寸14.0m×17.5m。長机40台・椅子100脚・ホワイトボードは無料。展示利用は全室・半室（壁面は第1展示室47.5m／第2展示室43m）、会議・練習利用は全室のみで、パネル・スポットライトは使えない。会議・練習利用は団体登録が必要。飲食を目的とした利用と展示即売はできない"
+  },
+  {
+   "name": "リハーサル室",
+   "areaM2": 202,
+   "ceilingM": 3.2,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "収容定員100名（レイアウトの指定なし）。地下2階。内寸約10m×20m。大ホールの楽屋として優先受付のため練習利用できないことがある。会議・物販・不特定多数を対象とした集まり・飲食目的の利用はできない"
+  },
+  {
+   "name": "第1会議室",
+   "areaM2": 101.5,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "定員60名（レイアウトの指定なし）。4階。吸音構造。長机22台。スクリーン・ピアノ（アップライト）は有料"
+  },
+  {
+   "name": "第2会議室",
+   "areaM2": 76.5,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "定員30名（レイアウトの指定なし）。4階。吸音構造。長机13台。スクリーン・ピアノ（アップライト）は有料"
+  },
+  {
+   "name": "第3会議室",
+   "areaM2": 52.5,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "定員20名（レイアウトの指定なし）。4階。長机9台"
+  },
+  {
+   "name": "第4会議室",
+   "areaM2": 52.5,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "定員20名（レイアウトの指定なし）。4階。長机9台"
+  },
+  {
+   "name": "和会議室",
+   "areaM2": 115.5,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "35畳。定員46名（レイアウトの指定なし）。4階。座椅子・高座椅子・座卓・高座卓・水屋あり。茶道具・華道用具は有料"
+  },
+  {
+   "name": "第5会議室",
+   "areaM2": 45.5,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "定員19名（レイアウトの指定なし）。1階。長机7台。会議室全般で、不特定多数を対象とした集まり・飲食を目的とした利用・定員超えの利用はできず、利用には団体登録が必要"
+  }
+ ],
+ "roomsSource": "https://www.regasu-shinjuku.or.jp/bunka-center/facilities/",
+ "ops": {
+  "prevDaySetup": {
+   "text": "利用企画書（大ホール・小ホール）には、仕込み（準備）・リハーサル・本番・撤収の日時をそれぞれ書く欄がある。大ホール・小ホールの練習利用料金は、公演本番日以外の日に限り適用される（大ホール 平日全日254,150円／土日休日305,000円、小ホール 平日全日43,350円／土日休日51,950円）。（出典：利用企画書、大ホール料金表、小ホール料金表）",
+   "source": "https://www.regasu-shinjuku.or.jp/bunka-center/wp-content/uploads/2026/08/517c0fb9e091251445b339323e195276.pdf"
+  },
+  "loadingHours": {
+   "text": "準備から搬出まですべて利用時間内に終えるよう進行を管理する。大ホールの1階・地下1階平面図（2025年7月版）に、舞台上手側の「大道具搬入口」と「搬入出用車路」が示されている。小ホール横に荷物用エレベーターがある。スタンド花・花の台は翌日までに回収し、それまでは1階通用口の横に置く。（出典：利用企画書の確認事項、ゴミ出しの案内、フロア全体図）",
+   "source": "https://www.regasu-shinjuku.or.jp/bunka-center/wp-content/uploads/2026/08/517c0fb9e091251445b339323e195276.pdf"
+  },
+  "parking": {
+   "text": "地下2階に主催者専用の駐車場があり、利用申請後に渡す駐車券を持つ人だけが使える（一般来場者用の駐車場はない）。台数は大ホール8台、小ホール2台、展示室2台（利用区分Bの全室。半室は1台、区分Cは1台）、会議室・リハーサル室は各1台。車の大きさは高さ2.6m以下、幅は原則1.7m以下、長さは原則4.7m以下、重量は原則1,500kg以下。障がいのある来場者は台数に限りがあるため、来館日時・車種を事前に連絡する。",
+   "source": "https://www.regasu-shinjuku.or.jp/bunka-center/facilities/"
+  },
+  "waitingRooms": {
+   "text": "大ホールは地下1階に楽屋7室（第1楽屋36名・92.5㎡、第2楽屋8名・25.5㎡、第3・第4楽屋各12名・30.5㎡、第5楽屋4名・20.5㎡、第6楽屋2名・8.0㎡、第7楽屋2名・8.9㎡）と特別控室（8名・30.8㎡）、リハーサル室（100名・202㎡）があり、別に主催者控室がある。小ホールは楽屋2室（第1楽屋18名・35.0㎡、第2楽屋10名・18.5㎡）と主催者控室がある。楽屋の全日料金は平日・土日休日同額で、大ホール側は1,200円（第6・第7楽屋）〜9,700円（リハーサル室を楽屋に使う場合）、小ホール側は第1楽屋3,400円・第2楽屋1,500円。",
+   "source": "https://www.regasu-shinjuku.or.jp/bunka-center/facilities/main-hall/"
+  },
+  "catering": {
+   "text": "大ホール・小ホールの公演では、飲食物の販売・提供は固く禁止で、客席内は喫煙・飲食禁止。展示室・リハーサル室・会議室は飲食を目的とした利用ができない。有料の音楽・舞踊などの公演では、1Fホワイエのバーカウンターに2FレストランテナントのMOVECAFE＆lifeの出店を依頼でき、出店希望日の1か月半前までに直接申し込む。お弁当など持ち込みの業者がいる場合は、容器の引取を依頼する。（出典：利用企画書、ゴミ出しの案内）",
+   "source": "https://www.regasu-shinjuku.or.jp/bunka-center/wp-content/uploads/2026/08/517c0fb9e091251445b339323e195276.pdf"
+  },
+  "restaurants": {
+   "text": "館内にレストランテナントのMOVECAFE＆life（カフェ・軽食、営業10:00〜19:00。定休日は新宿文化センターの休館日で、休祝日の場合は翌平日）がある。",
+   "source": "https://www.regasu-shinjuku.or.jp/bunka-center/facilities/"
+  }
+ },
+ "documents": [
+  {
+   "title": "施設利用ガイド（公式）",
+   "url": "https://www.regasu-shinjuku.or.jp/bunka-center/facilities/"
+  },
+  {
+   "title": "施設・楽屋利用料金一覧表（平成23年4月1日改正）",
+   "url": "https://www.regasu-shinjuku.or.jp/bunka-center/wp-content/uploads/2017/10/d1d0524b3d741ab29427f8ecb4ffc088-2.pdf"
+  },
+  {
+   "title": "大ホール料金表（本番・練習）",
+   "url": "https://www.regasu-shinjuku.or.jp/bunka-center/wp-content/uploads/2014/11/ryoukin_main-hall01.pdf"
+  },
+  {
+   "title": "大ホール楽屋料金表",
+   "url": "https://www.regasu-shinjuku.or.jp/bunka-center/wp-content/uploads/2014/11/ryoukin_main-hall02.pdf"
+  },
+  {
+   "title": "小ホール料金表（本番・練習）",
+   "url": "https://www.regasu-shinjuku.or.jp/bunka-center/wp-content/uploads/2014/11/ryoukin_2nd-hall01.pdf"
+  },
+  {
+   "title": "小ホール楽屋料金表",
+   "url": "https://www.regasu-shinjuku.or.jp/bunka-center/wp-content/uploads/2014/11/ryoukin_2nd-hall02.pdf"
+  },
+  {
+   "title": "展示室料金表",
+   "url": "https://www.regasu-shinjuku.or.jp/bunka-center/wp-content/uploads/2014/11/ryoukin_exhibition.pdf"
+  },
+  {
+   "title": "リハーサル室料金表",
+   "url": "https://www.regasu-shinjuku.or.jp/bunka-center/wp-content/uploads/2014/11/ryoukin_Rehearsal.pdf"
+  },
+  {
+   "title": "会議室料金表",
+   "url": "https://www.regasu-shinjuku.or.jp/bunka-center/wp-content/uploads/2014/11/ryoukin_conference.pdf"
+  },
+  {
+   "title": "附帯設備利用料金表",
+   "url": "https://www.regasu-shinjuku.or.jp/bunka-center/wp-content/uploads/2026/01/c22a66f1b043254b347b8b981341cea5.pdf"
+  },
+  {
+   "title": "大ホール 1階・地下1階平面図（2025年7月）",
+   "url": "https://www.regasu-shinjuku.or.jp/bunka-center/wp-content/uploads/2025/10/e704832c3cdfec3043a0cf219a721a2c.pdf"
+  },
+  {
+   "title": "大ホール 舞台平面図（2025年7月）",
+   "url": "https://www.regasu-shinjuku.or.jp/bunka-center/wp-content/uploads/2025/10/c15fb236d7f504b8825060cd93e51502.pdf"
+  },
+  {
+   "title": "大ホール 座席表",
+   "url": "https://www.regasu-shinjuku.or.jp/bunka-center/wp-content/uploads/2015/10/dd76dd416351cca3f4ba5658f9d3f81c.pdf"
+  },
+  {
+   "title": "小ホール 舞台平面図（客席あり）",
+   "url": "https://www.regasu-shinjuku.or.jp/bunka-center/wp-content/uploads/2025/10/882d75969044086c738a0d7f809af365.pdf"
+  },
+  {
+   "title": "小ホール 舞台平面図（客席なし）",
+   "url": "https://www.regasu-shinjuku.or.jp/bunka-center/wp-content/uploads/2025/10/72ab58559fd0f2b530abe6aa9b3e2603.pdf"
+  },
+  {
+   "title": "舞台・照明・音響設備資料",
+   "url": "https://www.regasu-shinjuku.or.jp/bunka-center/includes/3532/"
+  },
+  {
+   "title": "展示室 平面図",
+   "url": "https://www.regasu-shinjuku.or.jp/bunka-center/wp-content/uploads/2014/11/exhibit_floorplan.pdf"
+  },
+  {
+   "title": "会議室 フロア平面図",
+   "url": "https://www.regasu-shinjuku.or.jp/bunka-center/wp-content/uploads/2017/05/69d235105cea9d216a7e62afaa06b405.pdf"
+  },
+  {
+   "title": "新宿区立新宿文化センター利用企画書（大ホール・小ホール）",
+   "url": "https://www.regasu-shinjuku.or.jp/bunka-center/wp-content/uploads/2026/08/517c0fb9e091251445b339323e195276.pdf"
+  },
+  {
+   "title": "2026（令和8）年度 一般団体 施設利用抽選受付日程表",
+   "url": "https://www.regasu-shinjuku.or.jp/bunka-center/wp-content/uploads/2026/08/d45894399b53ab392d90fc1ed49e72e6.pdf"
+  },
+  {
+   "title": "施設利用団体登録について",
+   "url": "https://www.regasu-shinjuku.or.jp/bunka-center/information-list/10837/"
+  },
+  {
+   "title": "施設利用ゴミ処理について",
+   "url": "https://www.regasu-shinjuku.or.jp/bunka-center/wp-content/uploads/2015/10/0e9b77dcb2311eb0c691025304d8d824-1.pdf"
+  },
+  {
+   "title": "アクセスマップ（2025年7月25日）",
+   "url": "https://www.regasu-shinjuku.or.jp/bunka-center/wp-content/uploads/2017/08/Access-map_20250725.pdf"
+  }
+ ],
+ "checkedAt": "2026-11-02",
+ "lat": 35.695446,
+ "lng": 139.709061,
+ "nearby": {
+  "convenience": [
+   {
+    "name": "ローソン 新宿文化センター前店",
+    "brand": "ローソン",
+    "distanceM": 72,
+    "walkMin": 1,
+    "hours": "24時間営業",
+    "address": "東京都新宿区新宿6-27-2",
+    "verified": true,
+    "source": "https://www.areamarker.com/lawson/info/262674",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "セブン-イレブン 新宿6丁目文化センター通り店",
+    "brand": "セブン-イレブン",
+    "distanceM": 92,
+    "walkMin": 2,
+    "hours": "24時間営業",
+    "address": "東京都新宿区新宿6-12-8",
+    "verified": true,
+    "source": "https://seven-eleven.areamarker.com/711map/info/468269",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "ファミリーマート 東新宿店",
+    "brand": "ファミリーマート",
+    "distanceM": 148,
+    "walkMin": 2,
+    "hours": "24時間営業",
+    "address": "東京都新宿区新宿5-13-9",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/16618",
+    "note": "距離は公式の店舗位置で計算"
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "アクセア 新宿三丁目店",
+    "brand": "アクセア",
+    "distanceM": 473,
+    "walkMin": 6,
+    "hours": "平日9:00～20:00（土日祝休み）",
+    "address": "東京都新宿区新宿3-14-22 小川ビル3F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/entry.html",
+    "note": "距離は住所の位置で計算。アクセアミニ（小型店）。現金不可（クレジットカード・電子マネー・QRコード決済・BizSPOTペイのみ）"
+   },
+   {
+    "name": "アクセア 新宿御苑前店",
+    "brand": "アクセア",
+    "distanceM": 720,
+    "walkMin": 9,
+    "hours": "平日24時間営業（月曜朝8時から土曜夜19時まで休まず営業）／土～19:00、日祝10:00～19:00",
+    "address": "東京都新宿区新宿2-2-7 新宿KGビル1F・2F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/entry.html",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Seria 新宿マルイアネックス店",
+    "brand": "セリア",
+    "distanceM": 646,
+    "walkMin": 9,
+    "hours": "平日 11:00-20:00／土日祝 10:30-20:00",
+    "address": "東京都新宿区新宿3-1-26 新宿マルイアネックス 4F",
+    "verified": true,
+    "source": "https://shop.seria-group.com/seria/info/000001428",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "DAISO 新宿サブナード店",
+    "brand": "ダイソー",
+    "distanceM": 701,
+    "walkMin": 9,
+    "hours": "10:00-21:00",
+    "address": "東京都新宿区歌舞伎町1丁目靖国通り下 新宿サブナード地下街内",
+    "verified": true,
+    "source": "https://www.daiso-sangyo.co.jp/shop/detail/008703",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "donki": [
+   {
+    "name": "ドン・キホーテ 新宿店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 638,
+    "walkMin": 8,
+    "hours": "24時間営業",
+    "address": "東京都新宿区大久保1-12-6",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=8",
+    "note": "距離は住所の位置で計算。ドン・キホーテ公式サイトの店舗名は「新宿店」"
+   },
+   {
+    "name": "ドン・キホーテ 新宿歌舞伎町店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 695,
+    "walkMin": 9,
+    "hours": "24時間営業",
+    "address": "東京都新宿区歌舞伎町1-16-5",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=29",
+    "note": "距離は住所の位置で計算。ドン・キホーテ公式サイトの店舗名は「新宿歌舞伎町店」"
+   }
+  ]
+ },
+ "drinkDelivery": {
+  "available": true
+ },
+ "photo": {
+  "src": "/images/venues/shinjuku-bunka-center.jpg",
+  "credit": "© WhisperToMe / CC0 · Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Shinjukubunkacenter.jpg"
+ }
+}
