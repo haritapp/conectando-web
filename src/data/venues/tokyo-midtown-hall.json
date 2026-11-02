@@ -1,0 +1,443 @@
+{
+ "slug": "tokyo-midtown-hall",
+ "nameJa": "東京ミッドタウン ホール＆カンファレンス",
+ "nameEn": "Tokyo Midtown Hall & Conference",
+ "type": "conference",
+ "area": "toranomon-roppongi-venues",
+ "address": "〒107-0052 東京都港区赤坂9-7-1",
+ "officialUrl": "https://www.tokyo-midtown.com/jp/facilities/hall/",
+ "organizerUrl": "https://www.tokyo-midtown.com/jp/facilities/hall/download/",
+ "bizintokyoSlug": "midtown",
+ "accessSummary": "都営大江戸線 六本木駅 8番出口より直結／東京メトロ日比谷線 六本木駅 地下通路で直結／東京メトロ千代田線 乃木坂駅 3番出口 徒歩約3分／東京メトロ南北線 六本木一丁目駅 1番出口 徒歩約10分",
+ "notice": null,
+ "hours": "9:00〜21:00（年中無休、1月1日を除く。延長は前後1時間ずつのみ）",
+ "rooms": [
+  {
+   "name": "ホールA（ミッドタウン・イースト B1F）全体",
+   "areaM2": 770,
+   "ceilingM": 7.0,
+   "theater": 816,
+   "school": 576,
+   "ushape": null,
+   "standing": 600,
+   "banquet": null,
+   "note": "2分割・3分割で使える。料金表のシアターは816名、別ページのレイアウト一覧ではシアター810名（スクール576名は共通）。島型は462名（縦配置）、横配置はスクール480・シアター697・島型378。立食（パーティ）は600名。"
+  },
+  {
+   "name": "ホールA 2/3",
+   "areaM2": 515,
+   "ceilingM": 7.0,
+   "theater": 504,
+   "school": 357,
+   "ushape": null,
+   "standing": 400,
+   "banquet": null,
+   "note": "レイアウト一覧の値。縦配置はスクール357・シアター504・島型282、横配置はスクール318・シアター456・島型258・立食400。"
+  },
+  {
+   "name": "ホールA 1/2",
+   "areaM2": 380,
+   "ceilingM": 7.0,
+   "theater": 341,
+   "school": 234,
+   "ushape": null,
+   "standing": 300,
+   "banquet": null,
+   "note": "レイアウト一覧の値。島型180名。"
+  },
+  {
+   "name": "ホールA 1/3",
+   "areaM2": 250,
+   "ceilingM": 7.0,
+   "theater": 216,
+   "school": 156,
+   "ushape": null,
+   "standing": 180,
+   "banquet": null,
+   "note": "レイアウト一覧の値。島型114名。"
+  },
+  {
+   "name": "ホールB（ミッドタウン・イースト B1F）全体",
+   "areaM2": 540,
+   "ceilingM": 7.0,
+   "theater": 559,
+   "school": 408,
+   "ushape": null,
+   "standing": 420,
+   "banquet": null,
+   "note": "2分割で使える。料金表の数字はスクール408・シアター559、別ページのレイアウト一覧ではスクール405・シアター570。島型は294名。"
+  },
+  {
+   "name": "ホールB 3/4",
+   "areaM2": 410,
+   "ceilingM": 7.0,
+   "theater": 378,
+   "school": 267,
+   "ushape": null,
+   "standing": 320,
+   "banquet": null,
+   "note": "レイアウト一覧の値。島型216名。"
+  },
+  {
+   "name": "ホールB 1/2",
+   "areaM2": 265,
+   "ceilingM": 7.0,
+   "theater": 236,
+   "school": 174,
+   "ushape": null,
+   "standing": 180,
+   "banquet": null,
+   "note": "レイアウト一覧の値。島型138名。"
+  },
+  {
+   "name": "カンファレンス Room1・Room4（各）（ミッドタウン・タワー 4F）",
+   "areaM2": 80,
+   "ceilingM": 3.0,
+   "theater": 64,
+   "school": 30,
+   "ushape": null,
+   "standing": 40,
+   "banquet": null,
+   "note": "Room1〜4は可動間仕切りで連結して使える。島型36名。"
+  },
+  {
+   "name": "カンファレンス Room2・Room3（各）",
+   "areaM2": 78,
+   "ceilingM": 3.0,
+   "theater": 64,
+   "school": 30,
+   "ushape": null,
+   "standing": 40,
+   "banquet": null,
+   "note": "島型36名。"
+  },
+  {
+   "name": "カンファレンス Room1+2 / 2+3 / 3+4",
+   "areaM2": 158,
+   "ceilingM": 3.0,
+   "theater": 108,
+   "school": 90,
+   "ushape": null,
+   "standing": 80,
+   "banquet": null,
+   "note": "レイアウト一覧の値。島型90名。"
+  },
+  {
+   "name": "カンファレンス Room1+2+3 / 2+3+4",
+   "areaM2": 236,
+   "ceilingM": 3.0,
+   "theater": 168,
+   "school": 150,
+   "ushape": null,
+   "standing": 120,
+   "banquet": null,
+   "note": "レイアウト一覧の値。島型126名。"
+  },
+  {
+   "name": "カンファレンス Room1+2+3+4",
+   "areaM2": 316,
+   "ceilingM": 3.0,
+   "theater": 216,
+   "school": 180,
+   "ushape": null,
+   "standing": 180,
+   "banquet": null,
+   "note": "レイアウト一覧の値。島型180名。"
+  },
+  {
+   "name": "カンファレンス Room5",
+   "areaM2": 123,
+   "ceilingM": 3.0,
+   "theater": 104,
+   "school": 60,
+   "ushape": null,
+   "standing": 65,
+   "banquet": null,
+   "note": "料金表のシアターは104名、レイアウト一覧では94名。島型54名。"
+  },
+  {
+   "name": "カンファレンス Room6",
+   "areaM2": 93,
+   "ceilingM": 3.0,
+   "theater": 72,
+   "school": 36,
+   "ushape": null,
+   "standing": 50,
+   "banquet": null,
+   "note": "料金表のシアターは72名、レイアウト一覧では65名。島型36名。"
+  },
+  {
+   "name": "カンファレンス Room5+6",
+   "areaM2": 216,
+   "ceilingM": 3.0,
+   "theater": 144,
+   "school": 120,
+   "ushape": null,
+   "standing": 115,
+   "banquet": null,
+   "note": "レイアウト一覧の値。島型108名。"
+  },
+  {
+   "name": "カンファレンス Room7",
+   "areaM2": 208,
+   "ceilingM": 6.0,
+   "theater": 150,
+   "school": 99,
+   "ushape": null,
+   "standing": 110,
+   "banquet": null,
+   "note": "ステージ常設のプレゼンテーションルーム。料金表のシアターは150名、レイアウト一覧では140名。島型102名。"
+  },
+  {
+   "name": "カンファレンス Room8",
+   "areaM2": 51,
+   "ceilingM": 3.0,
+   "theater": null,
+   "school": 16,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "少人数の会議向け。料金表はスクール16名（シアター・パーティの数字なし）、レイアウト一覧ではスクール18・シアター24・島型24。"
+  },
+  {
+   "name": "カンファレンス Room9",
+   "areaM2": 219,
+   "ceilingM": 3.0,
+   "theater": 180,
+   "school": 120,
+   "ushape": null,
+   "standing": 110,
+   "banquet": null,
+   "note": "他のRoomから独立した部屋。料金表のシアターは180名、レイアウト一覧では168名。島型90名。"
+  }
+ ],
+ "roomsSource": "https://www.tokyo-midtown.com/jp/facilities/hall/hall-a-b/、https://www.tokyo-midtown.com/jp/facilities/hall/conference/、https://www.tokyo-midtown.com/jp/facilities/hall/pdf/price/tmhc_price.pdf、https://www.tokyo-midtown.com/jp/facilities/hall/hall-a-b/layout.html、https://www.tokyo-midtown.com/jp/facilities/hall/conference/layout.html",
+ "ops": {
+  "prevDaySetup": {
+   "text": "本番日の前日以前の搬入・準備・設営（リハーサル含む）と、本番日の翌日以降の撤去・撤収は、室料が30％割引になる。前日以前・翌日以降の準備・撤去を5時間から使えるのはホールのみ。基本の営業時間は9:00〜21:00で、延長は前後1時間ずつのみ。開催日以前の準備設営や9時前・21時以降の利用は別途相談で、開錠から施錠までが貸出時間のため準備・撤去の時間も含めて計画する。（出典：ご利用料金表 2024.4.1改定、ご利用の流れ、ご利用に関する注意事項）",
+   "source": "https://www.tokyo-midtown.com/jp/facilities/hall/pdf/price/tmhc_price.pdf"
+  },
+  "loadingHours": {
+   "text": "ホールの搬入口は地上階に直結（建築構造上の表記はB1F）で、間口W7,800×H3,840mm、4tトラック2台分の開口がありフラット。利用できる時間は原則8:00〜22:00（2022年8月現在）。「ホール搬入出作業申請書」は会期5日前までに提出する（申請書の様式には1週間前までとの記載もある）。搬入口には利用者側の管理誘導員を常駐させる。カンファレンスはB3Fの搬入車入口から入り、「臨時搬出入作業申請書」を提出する（搬入口MAPでは利用の7日前まで、申請書の様式〔2020/6改訂〕では3営業日前まで）。宅配便は原則利用日の前日着の指定で、ホールとカンファレンスで宛先が異なる。（出典：イベント施工等に関する注意事項 2022年8月現在、ホール・カンファレンス搬入口MAP、臨時搬出入作業申請書、荷物発送に関するご案内）",
+   "source": "https://www.tokyo-midtown.com/jp/facilities/hall/pdf/others/pdfothersevent_attention.pdf"
+  },
+  "vehicleRules": {
+   "text": "ホール搬入口の入口はミッドタウン全体の搬入口と共用で、他の搬入車両の妨げになる駐停車は禁止。指定されたホール敷地内に限り駐停車・荷降ろしができる。搬入出待ちの一時停車スペースはなく、時間に合わせて来るか周回して待つ。公道での待機・荷降ろしは不可で、作業が終わった車両はすみやかに移動する。車高制限3.8m。搬入終了後と本番中は原則シャッターを閉め、シャッター下に車両・資材を置けない。オートバイ・自転車は終日駐車不可（館内のバイク置き場〔有料〕・駐輪場〔3時間まで無料〕を使う）。カンファレンスのB3F荷捌場は搬出入のための車室で、館内作業時間中の駐車は原則不可、車高制限3.3m。バスでの来場は指定の「バス乗降スペース」を使い（予約不可、乗降以外の駐停車不可）、バスの駐車場はなく利用者が手配する。（出典：イベント施工等に関する注意事項 2022年8月現在、ホール搬入出作業申請書、臨時搬出入作業申請書 2020/6改訂、ご利用に関する注意事項）",
+   "source": "https://www.tokyo-midtown.com/jp/facilities/hall/pdf/others/pdfothersevent_attention.pdf"
+  },
+  "parking": {
+   "text": "東京ミッドタウンの街区内に一般有料駐車場が約400台あり、年中無休の24時間営業、料金は400円/30分。駐車場の予約は受け付けていない。ホール・カンファレンスの利用者向けには駐車券（1時間/1枚）を用意でき、使った分は催事後の精算に載る（事前に枚数を連絡する）。車高制限は自走式2,300mm、機械式平面往復式は普通車1,550mm・ハイルーフ2,050mm。（出典：アクセス〔車・バイク・自転車でお越しの方〕ページ、ホールご利用に関する注意事項）",
+   "source": "https://www.tokyo-midtown.com/jp/access/car-bike/"
+  },
+  "waitingRooms": {
+   "text": "ホールに控室が6室ある（税込、午前＋午後〔9:00-17:00〕の料金）：①17㎡ ホールA側 49,500円、②32㎡ バックヤード内A側 91,300円、③23㎡ バックヤード内B側 63,800円、④32㎡ ホールB側 91,300円、⑤32㎡ ホールB側 91,300円、⑥62㎡ ホールB側 169,400円（天井高はいずれも3.0m）。公式はVIP対応にふさわしいグレードの部屋もあるとしている。カンファレンスには控室が2室あり、①23㎡（Room1となり）が3時間19,800円、②28㎡（Room5となり）が3時間23,100円（税込）。カンファレンスの控室のみの利用はできない。（出典：ご利用料金表 2024.4.1改定、ホール・カンファレンスの各ページ）",
+   "source": "https://www.tokyo-midtown.com/jp/facilities/hall/pdf/price/tmhc_price.pdf"
+  },
+  "catering": {
+   "text": "ケータリング（飲食・パーティ関係）はホール＆カンファレンスの指定会社が行い、外部からの飲食の持ち込みは利用規約でお断りとされている（よくある質問では、衛生管理上原則ご遠慮いただくが、まず会場スタッフに相談とある）。ケータリングページには、パーティ用にgrace、DYNAC、Esprit&co.、L'api catering、ICONIC STAGE、DEAN & DELUCA、ホテルメトロポリタン エドモント、八芳園、帝国ホテル、ザ・リッツ・カールトン東京、お弁当に青山、なだ万、日本ばし大増、まい泉、APORTE、Bento亀屋などが掲載されている。目安単価（ドリンク・配膳サービス料・備品料別）は、フィンガーフード2,860円〜（grace）、ブッフェ7,700円〜（ホテルメトロポリタン エドモント）、11,000円〜（帝国ホテル）など。会議後の懇親会や立食パーティも受けている。（出典：ケータリングページ、ご利用規約 2019.3改定、よくある質問）",
+   "source": "https://www.tokyo-midtown.com/jp/facilities/hall/catering/"
+  },
+  "restaurants": {
+   "text": "公式のMICEページは、東京ミッドタウンを、130におよぶ商業店舗やオフィス、ホテルなどが集まる複合施設と紹介し、ネットワーキングや懇親会、パーティに適したレストランもあるとして、東京ミッドタウンのレストラン一覧へ案内している。カンファレンスはザ・リッツ・カールトン東京の料理をケータリングで提供できる。ユニークベニューとして、ガーデンテラス4Fのビルボードライブ東京（貸切等も可能）と、サントリー美術館の6階ホール（夜景を見ながらのパーティ）も案内されている。",
+   "source": "https://www.tokyo-midtown.com/jp/facilities/hall/mice/"
+  }
+ },
+ "documents": [
+  {
+   "title": "ホール＆カンファレンス ご利用料金表（2024.4.1改定）",
+   "url": "https://www.tokyo-midtown.com/jp/facilities/hall/pdf/price/tmhc_price.pdf"
+  },
+  {
+   "title": "ホールフロア図面",
+   "url": "https://www.tokyo-midtown.com/jp/facilities/hall/pdf/hall_facility/hall_floor.pdf"
+  },
+  {
+   "title": "カンファレンスフロア図面",
+   "url": "https://www.tokyo-midtown.com/jp/facilities/hall/pdf/conference_floor.pdf"
+  },
+  {
+   "title": "ホール無料付帯機材一覧（2025年4月現在）",
+   "url": "https://www.tokyo-midtown.com/jp/facilities/hall/pdf/option/fixture_list_hall_2504.pdf"
+  },
+  {
+   "title": "ホール無料付帯備品一覧（2025年4月現在）",
+   "url": "https://www.tokyo-midtown.com/jp/facilities/hall/pdf/option/furniture_hall_2504.pdf"
+  },
+  {
+   "title": "カンファレンス無料付帯機材一覧（2025年4月現在）",
+   "url": "https://www.tokyo-midtown.com/jp/facilities/hall/pdf/option/fixture_list_conf_2504.pdf"
+  },
+  {
+   "title": "カンファレンス無料付帯備品一覧（2025年4月現在）",
+   "url": "https://www.tokyo-midtown.com/jp/facilities/hall/pdf/option/furniture_conf_2504.pdf"
+  },
+  {
+   "title": "ホールご利用に関する注意事項",
+   "url": "https://www.tokyo-midtown.com/jp/facilities/hall/pdf/others/hall_guide_2512.pdf"
+  },
+  {
+   "title": "カンファレンスご利用に関する注意事項",
+   "url": "https://www.tokyo-midtown.com/jp/facilities/hall/pdf/others/conf_guide_2512.pdf"
+  },
+  {
+   "title": "イベント施工等に関する注意事項（2022年8月現在）",
+   "url": "https://www.tokyo-midtown.com/jp/facilities/hall/pdf/others/pdfothersevent_attention.pdf"
+  },
+  {
+   "title": "ホール搬入出作業申請書",
+   "url": "https://www.tokyo-midtown.com/jp/facilities/hall/pdf/application_digestion/hall_entrance_1706.pdf"
+  },
+  {
+   "title": "カンファレンス臨時搬出入作業申請書（2020/6改訂）",
+   "url": "https://www.tokyo-midtown.com/jp/facilities/hall/pdf/application_digestion/conf_operation_sheet.pdf"
+  },
+  {
+   "title": "ホール搬入口アクセスMAP",
+   "url": "https://www.tokyo-midtown.com/jp/facilities/hall/pdf/map/hall_goods_entrance_map_2512.pdf"
+  },
+  {
+   "title": "カンファレンス搬入口アクセスMAP",
+   "url": "https://www.tokyo-midtown.com/jp/facilities/hall/pdf/map/conference_goods_entrance_map.pdf"
+  },
+  {
+   "title": "荷物発送に関するご案内",
+   "url": "https://www.tokyo-midtown.com/jp/facilities/hall/pdf/others/dispatching.pdf"
+  },
+  {
+   "title": "共用部サインスタンド＆誘導員配置可能位置（2025年4月）",
+   "url": "https://www.tokyo-midtown.com/jp/facilities/hall/pdf/others/sign_stand_2504.pdf"
+  },
+  {
+   "title": "ホールピット図・電気容量図（2025年4月）",
+   "url": "https://www.tokyo-midtown.com/jp/facilities/hall/pdf/hall_facility/hall_pit_electric_capacity_2504.pdf"
+  },
+  {
+   "title": "お申し込みとご利用の流れ",
+   "url": "https://www.tokyo-midtown.com/jp/facilities/hall/pdf/request/request_useflow_1903.pdf"
+  },
+  {
+   "title": "利用規約（2019.3改定）",
+   "url": "https://www.tokyo-midtown.com/jp/facilities/hall/rule/"
+  }
+ ],
+ "checkedAt": "2026-11-02",
+ "lat": 35.666023,
+ "lng": 139.732208,
+ "nearby": {
+  "convenience": [
+   {
+    "name": "ファミリーマート 東京ミッドタウン店",
+    "brand": "ファミリーマート",
+    "distanceM": 82,
+    "walkMin": 2,
+    "hours": "6:30-20:00",
+    "address": "東京都港区赤坂9丁目7-1",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/21461",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "セブン-イレブン 東京ミッドタウン店",
+    "brand": "セブン-イレブン",
+    "distanceM": 125,
+    "walkMin": 2,
+    "hours": "6:30-23:00（月〜日・祝）",
+    "address": "東京都港区赤坂9-7-2",
+    "verified": true,
+    "source": "https://seven-eleven.areamarker.com/711map/info/224633",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "ファミリーマート 六本木七丁目店",
+    "brand": "ファミリーマート",
+    "distanceM": 227,
+    "walkMin": 3,
+    "hours": "24時間営業",
+    "address": "東京都港区六本木7-13-2",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/58967",
+    "note": "距離は公式の店舗位置で計算"
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "アクセア 六本木店",
+    "brand": "アクセア",
+    "distanceM": 405,
+    "walkMin": 6,
+    "hours": "平日 8:00-22:00／土・日・祝 10:00-19:00",
+    "address": "東京都港区六本木6-1-4 丸正小林ビル1F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/entry.html",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "アクセア 六本木一丁目店",
+    "brand": "アクセア",
+    "distanceM": 518,
+    "walkMin": 7,
+    "hours": "平日 9:00-20:00／土・日・祝 休み",
+    "address": "東京都港区六本木2-3-2 VORT六本木一丁目1F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/entry.html",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Can★Do 城山ヒルズ店",
+    "brand": "キャンドゥ",
+    "distanceM": 1079,
+    "walkMin": 14,
+    "hours": "毎日 9:00-23:00",
+    "address": "東京都港区虎ノ門4-1-17 神谷町プライムプレイスB1階",
+    "verified": true,
+    "source": "https://shopinfo.cando-web.co.jp/detail/shop-1835/",
+    "note": "距離は公式の店舗位置で計算。遠め"
+   },
+   {
+    "name": "Can★Do 赤坂一ツ木通り店",
+    "brand": "キャンドゥ",
+    "distanceM": 1083,
+    "walkMin": 14,
+    "hours": "月〜金 9:00-21:00／土〜日 9:00-20:00",
+    "address": "東京都港区赤坂3-17-10 フローレンス一ツ木ビル1階",
+    "verified": true,
+    "source": "https://shopinfo.cando-web.co.jp/detail/shop-5207/",
+    "note": "距離は公式の店舗位置で計算。遠め"
+   }
+  ],
+  "donki": [
+   {
+    "name": "ドン・キホーテ 六本木店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 453,
+    "walkMin": 6,
+    "hours": "24時間営業",
+    "address": "東京都港区六本木3-14-10",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=31",
+    "note": "距離は住所の位置で計算。ドン・キホーテ公式サイトの店舗名は「六本木店」"
+   },
+   {
+    "name": "ピカソ赤坂店（ドン・キホーテ）",
+    "brand": "ドン・キホーテ",
+    "distanceM": 1084,
+    "walkMin": 14,
+    "hours": "7:00-3:00",
+    "address": "東京都港区赤坂3-11-14",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=289",
+    "note": "距離は住所の位置で計算。ドン・キホーテの別業態（公式サイトの店舗名は「ピカソ赤坂店」）。遠め"
+   }
+  ]
+ },
+ "drinkDelivery": {
+  "available": true
+ },
+ "photo": {
+  "src": "/images/venues/tokyo-midtown-hall.jpg",
+  "credit": "© Tokumeigakarinoaoshima / CC BY-SA 4.0 · Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:TOKYO_MIDTOWN_EAST.jpg"
+ }
+}

@@ -1,0 +1,322 @@
+{
+ "slug": "nihonbashi-hall",
+ "nameJa": "日本橋三井ホール",
+ "nameEn": "Nihonbashi Mitsui Hall",
+ "type": "hall",
+ "area": "marunouchi-nihonbashi-venues",
+ "address": "〒103-0022 東京都中央区日本橋室町2-2-1 COREDO室町1 5F（エントランス4F）",
+ "officialUrl": "https://www.nihonbashi-hall.jp/",
+ "organizerUrl": "https://www.nihonbashi-hall.jp/about/business/",
+ "bizintokyoSlug": "nihonbashi-hall",
+ "accessSummary": "東京メトロ銀座線・半蔵門線 三越前駅 直結（A6出口横 COREDO室町1）／JR総武線快速・横須賀線 新日本橋駅 地下道直結／JR神田駅 東口 徒歩約9分／JR東京駅 日本橋口 徒歩約9分",
+ "notice": null,
+ "hours": "施設利用可能時間は全日9:00〜21:00（時間外は要相談。使用規約 2026年4月1日現在）。料金表の基本会場費は9:00〜20:00、エンタメ利用は8:00〜22:00の間で11時間",
+ "rooms": [
+  {
+   "name": "5F ホール",
+   "areaM2": 704,
+   "ceilingM": 7.0,
+   "theater": 690,
+   "school": 432,
+   "ushape": null,
+   "standing": 600,
+   "banquet": 300,
+   "note": "幅20.5×奥行34.0m。座席収納時は636㎡。昇降ステージは幅16.4×奥行6.0m、高さ0〜1,200mm。シアターはロールバックチェア254席・390席・690席の3種の図面がある。スクール432名は3名掛け（2名掛けは288名）。円卓着席パーティー300席、立食パーティーは500名・600名の図面があり、エンタメ利用のスタンディングは1000名。着席ビュッフェは180席。ビジネスユースのページ見出しは「シアター形式 678席」で、施設概要・設備表の690席と数字が違う（678席はエンタメ利用の基本座席番号の席数）"
+  },
+  {
+   "name": "5F ホワイエ",
+   "areaM2": 288,
+   "ceilingM": 3.0,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "幅44.0×奥行3.9m、床はカーペット。スライディングウォールでホールと一体で使える。バーカウンター（冷蔵庫・製氷機・流し台）と喫煙所がある"
+  },
+  {
+   "name": "4F エントランス",
+   "areaM2": 115,
+   "ceilingM": "3.0-3.5",
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "床は石材。クロークは45㎡"
+  }
+ ],
+ "roomsSource": "https://www.nihonbashi-hall.jp/about/business/、https://www.nihonbashi-hall.jp/usage/ex-party/、https://www.nihonbashi-hall.jp/usage/ex-seminar/、https://www.nihonbashi-hall.jp/pdf/docs/outline2.pdf",
+ "ops": {
+  "prevDaySetup": {
+   "text": "準備日会場費は1日1,200,000円（9:00〜20:00、税別）で、1開催につき1日まで適用される。利用時間は準備を始める時刻から退出までで、利用時間の開始前に準備を始めてはならない。施設の利用可能時間は全日9:00〜21:00で、時間外は要相談。料金表の基本会場費は9:00〜20:00、エンタメ利用は8:00〜22:00の間で11時間とされ、表記が異なる。（出典：利用料金表〈2026年3月28日以降の契約分〉、使用規約〈2026年4月1日現在〉）",
+   "source": "https://www.nihonbashi-hall.jp/pdf/docs/charge202608.pdf"
+  },
+  "loadingHours": {
+   "text": "搬入出をする場合は、必ず事前にホール担当者へ連絡する（担当者がビル管理会社へ申請する）。搬入エレベーターは内寸 幅2,900×奥行2,000×高さ3,000mm、荷重3,000kg。1階の夜間通用口からの搬入出もできるので、担当者に相談する。B3Fから搬入出する場合は事前に搬入動線を確認する。（出典：搬入導線図〈2019年12月8日現在〉、施設概要〈2021年2月現在〉、ご利用までの流れ）",
+   "source": "https://www.nihonbashi-hall.jp/pdf/map/carry-in.pdf"
+  },
+  "vehicleRules": {
+   "text": "搬入車両は1Fの「COREDO室町荷捌場 入口」（江戸桜通り沿い）から入り、B3FのCOREDO室町1荷捌場へ向かう。B3F荷捌場へ入れるのは2tショート車まで。駐車は30分間無料で、駐車できるのは平日は1台（①）、土日祝日は3台（①〜③）。早朝はゴミ収集車が停まっていることがあり、その場合は空くまで待つ。路上駐車は使用規約で禁止されている。（出典：搬入導線図〈2019年12月8日現在〉、使用規約〈2026年4月1日現在〉）",
+   "source": "https://www.nihonbashi-hall.jp/pdf/map/carry-in.pdf"
+  },
+  "parking": {
+   "text": "日本橋三井ホールには専用駐車場がなく、COREDO室町2地下の「COREDO室町駐車場」を使う。営業時間は6:00〜26:00（営業時間内に必ず出庫する）、料金は250円/30分で上限なし、駐車割引はない。車両制限は高さ2.0m・幅1.95m・長さ5.3m、重量2,300kg（対応していない車両がある）。",
+   "source": "https://www.nihonbashi-hall.jp/about/access/"
+  },
+  "waitingRooms": {
+   "text": "控室はRoom1+2（5F、44㎡、二分割可）、Room3（6F、23㎡）、Room4（6F、27㎡）の3区画。各室に長テーブル、洗面所、フィッティングルーム、冷蔵庫、ハンガーラックがある。ほかに打合せ室12㎡、スタッフ室18㎡（施設概要）、シャワー室2室、音響・照明・映像のコントロールブース。（出典：ビジネスユース、施設概要〈2021年2月現在〉）",
+   "source": "https://www.nihonbashi-hall.jp/about/business/"
+  },
+  "catering": {
+   "text": "使用規約では、運営者の指定業者を利用するのが原則で、運営者が承諾すれば指定業者以外も使える（その場合は利用関係者になる）。運営者指定の場所以外での飲食と、無断での火気使用・調理は禁止されている。5Fホワイエにバーカウンター（冷蔵庫・製氷機・流し台）がある。（出典：使用規約〈2026年4月1日現在〉第4条・第9条）",
+   "source": "https://www.nihonbashi-hall.jp/pdf/list/tos_260401.pdf"
+  }
+ },
+ "documents": [
+  {
+   "title": "アクセスマップ",
+   "url": "https://www.nihonbashi-hall.jp/pdf/map/access2.pdf"
+  },
+  {
+   "title": "搬入導線図（2019年12月8日現在）",
+   "url": "https://www.nihonbashi-hall.jp/pdf/map/carry-in.pdf"
+  },
+  {
+   "title": "利用料金表（2026年3月28日以降の契約分）",
+   "url": "https://www.nihonbashi-hall.jp/pdf/docs/charge202608.pdf"
+  },
+  {
+   "title": "使用規約（2026年4月1日現在）",
+   "url": "https://www.nihonbashi-hall.jp/pdf/list/tos_260401.pdf"
+  },
+  {
+   "title": "誘導員の立哨・看板設置場所について",
+   "url": "https://www.nihonbashi-hall.jp/pdf/docs/誘導員・場外サイン資料.pdf"
+  },
+  {
+   "title": "施設概要（2021年2月現在）",
+   "url": "https://www.nihonbashi-hall.jp/pdf/docs/outline2.pdf"
+  },
+  {
+   "title": "4Fフロアー図面",
+   "url": "https://www.nihonbashi-hall.jp/pdf/floor/4f.pdf"
+  },
+  {
+   "title": "5Fフロアー図面",
+   "url": "https://www.nihonbashi-hall.jp/pdf/floor/5f.pdf"
+  },
+  {
+   "title": "5Fフロアー図面（スケール入り）",
+   "url": "https://www.nihonbashi-hall.jp/pdf/floor/hallscale.pdf"
+  },
+  {
+   "title": "6Fフロアー図面",
+   "url": "https://www.nihonbashi-hall.jp/pdf/floor/6f.pdf"
+  },
+  {
+   "title": "施工ルールについて（物置禁止エリア 4F〜6F）",
+   "url": "https://www.nihonbashi-hall.jp/pdf/floor/物置禁止エリア（4F～6F）.pdf"
+  },
+  {
+   "title": "備品リスト（2026年3月現在）",
+   "url": "https://www.nihonbashi-hall.jp/pdf/list/equipment2603.pdf"
+  },
+  {
+   "title": "5F 一般コンセント図",
+   "url": "https://www.nihonbashi-hall.jp/pdf/electric/5f-el.pdf"
+  },
+  {
+   "title": "バトン・トラス図面",
+   "url": "https://www.nihonbashi-hall.jp/pdf/list/baton-plan.pdf"
+  },
+  {
+   "title": "音響機材表（2025年5月版）",
+   "url": "https://www.nihonbashi-hall.jp/pdf/list/sound_v202505.pdf"
+  },
+  {
+   "title": "照明機材表（2025年11月版）",
+   "url": "https://www.nihonbashi-hall.jp/pdf/list/light_v202511.pdf"
+  },
+  {
+   "title": "映像機材表",
+   "url": "https://www.nihonbashi-hall.jp/pdf/list/video2.pdf"
+  },
+  {
+   "title": "レイアウト シアター ロールバックチェアー254席",
+   "url": "https://www.nihonbashi-hall.jp/pdf/layout/business/rb254.pdf"
+  },
+  {
+   "title": "レイアウト シアター ロールバック+スタッキング390席",
+   "url": "https://www.nihonbashi-hall.jp/pdf/layout/business/seat390.pdf"
+  },
+  {
+   "title": "レイアウト シアター ロールバック+スタッキング690席",
+   "url": "https://www.nihonbashi-hall.jp/pdf/layout/business/seat690.pdf"
+  },
+  {
+   "title": "レイアウト スクール100名（2名掛け）",
+   "url": "https://www.nihonbashi-hall.jp/pdf/layout/business/scl100.pdf"
+  },
+  {
+   "title": "レイアウト スクール150名（2名掛け）",
+   "url": "https://www.nihonbashi-hall.jp/pdf/layout/business/scl150.pdf"
+  },
+  {
+   "title": "レイアウト スクール200名（2名掛け）",
+   "url": "https://www.nihonbashi-hall.jp/pdf/layout/business/scl200.pdf"
+  },
+  {
+   "title": "レイアウト スクール250名（3名掛け）",
+   "url": "https://www.nihonbashi-hall.jp/pdf/layout/business/scl250.pdf"
+  },
+  {
+   "title": "レイアウト スクール300名（3名掛け）",
+   "url": "https://www.nihonbashi-hall.jp/pdf/layout/business/scl300.pdf"
+  },
+  {
+   "title": "レイアウト スクール350名（3名掛け）",
+   "url": "https://www.nihonbashi-hall.jp/pdf/layout/business/scl350.pdf"
+  },
+  {
+   "title": "レイアウト スクール400名（3名掛け）",
+   "url": "https://www.nihonbashi-hall.jp/pdf/layout/business/scl400.pdf"
+  },
+  {
+   "title": "レイアウト 立食パーティー500名",
+   "url": "https://www.nihonbashi-hall.jp/pdf/layout/business/pty500.pdf"
+  },
+  {
+   "title": "レイアウト 立食パーティー600名",
+   "url": "https://www.nihonbashi-hall.jp/pdf/layout/business/pty600.pdf"
+  },
+  {
+   "title": "レイアウト 着席ビュッフェ180席",
+   "url": "https://www.nihonbashi-hall.jp/pdf/layout/business/pty-seating.pdf"
+  },
+  {
+   "title": "レイアウト スタンディング1000名（エンタメ利用）",
+   "url": "https://www.nihonbashi-hall.jp/pdf/layout/entertainment/standing.pdf"
+  }
+ ],
+ "checkedAt": "2026-11-02",
+ "lat": 35.686451,
+ "lng": 139.774048,
+ "nearby": {
+  "convenience": [
+   {
+    "name": "ファミリーマート 日本橋三井タワー店",
+    "brand": "ファミリーマート",
+    "distanceM": 111,
+    "walkMin": 2,
+    "hours": "7:00-23:00",
+    "address": "東京都中央区日本橋室町2丁目1-1",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/77193",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "ローソン 日本橋本町二丁目店",
+    "brand": "ローソン",
+    "distanceM": 151,
+    "walkMin": 2,
+    "hours": "24時間営業",
+    "address": "東京都中央区日本橋本町2-3-4",
+    "verified": true,
+    "source": "https://www.areamarker.com/lawson/info/223208",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "ファミリーマート 日本橋本町店",
+    "brand": "ファミリーマート",
+    "distanceM": 164,
+    "walkMin": 3,
+    "hours": "24時間営業",
+    "address": "東京都中央区日本橋本町三丁目1番1号日本橋TIビル1階",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/57998",
+    "note": "距離は公式の店舗位置で計算"
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "アクセア 新日本橋店",
+    "brand": "アクセア",
+    "distanceM": 288,
+    "walkMin": 4,
+    "hours": "平日 9:00-20:00／土・日・祝 10:00-19:00",
+    "address": "東京都中央区日本橋本町4-1-1 加島商館ビル 1F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/map/shinnihonbashi.html",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "アクセア 小伝馬町店",
+    "brand": "アクセア",
+    "distanceM": 649,
+    "walkMin": 9,
+    "hours": "平日 8:00-22:00／土 8:00-19:00／日・祝 10:00-19:00",
+    "address": "東京都中央区日本橋小伝馬町12-5 小伝馬町YSビル1階",
+    "verified": true,
+    "source": "https://www.accea.co.jp/map/kodemmacho.html",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "DAISO 人形町駅店",
+    "brand": "ダイソー",
+    "distanceM": 709,
+    "walkMin": 9,
+    "hours": "9:00-21:00",
+    "address": "東京都中央区日本橋人形町3-7-13 B1階・1階・2階",
+    "verified": true,
+    "source": "https://www.daiso-sangyo.co.jp/shop/detail/005391",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "Can★Do 丸の内オアゾ店",
+    "brand": "キャンドゥ",
+    "distanceM": 721,
+    "walkMin": 10,
+    "hours": "月〜金 8:00-22:00／土〜日 9:00-21:00",
+    "address": "東京都千代田区丸の内1-6-4 丸の内オアゾ地下1階",
+    "verified": true,
+    "source": "https://shopinfo.cando-web.co.jp/detail/shop-5550/",
+    "note": "距離は公式の店舗位置で計算"
+   }
+  ],
+  "donki": [
+   {
+    "name": "ドン・キホーテ 秋葉原店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 1595,
+    "walkMin": 20,
+    "hours": "24時間営業",
+    "address": "東京都千代田区外神田4丁目3-3",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=98",
+    "note": "距離は住所の位置で計算。遠め。ドン・キホーテ公式サイトの店舗名は「秋葉原店」"
+   },
+   {
+    "name": "ドン・キホーテ 銀座本館（銀座ナイン3号館）",
+    "brand": "ドン・キホーテ",
+    "distanceM": 2330,
+    "walkMin": 30,
+    "hours": "24時間営業",
+    "address": "東京都中央区銀座8-10 銀座ナイン3号館",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=92",
+    "note": "距離は住所の位置で計算。遠い。ドン・キホーテ公式サイトの店舗名は「銀座本館」"
+   }
+  ]
+ },
+ "drinkDelivery": {
+  "available": true
+ },
+ "photo": {
+  "src": "/images/venues/nihonbashi-hall.jpg",
+  "credit": "© Wpcpey / CC BY 4.0 · Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:COREDO_1_2019.jpg"
+ }
+}

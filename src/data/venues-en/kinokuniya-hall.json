@@ -1,0 +1,105 @@
+{
+ "slug": "kinokuniya-hall",
+ "name": "Kinokuniya Hall",
+ "address": "Tokyo 160-0022 Kinokuniya Bookstore Shinjuku Main Store 4F, 3-17-7 Shinjuku, Shinjuku-ku",
+ "accessSummary": "Shinjuku Station East Exit (JR lines, Odakyu Line, Keio Line): 5 min walk / Shinjuku-sanchome Station (Tokyo Metro Marunouchi Line / Fukutoshin Line, Toei Shinjuku Line) Exit B7",
+ "hours": "The usage slots are morning 9:00-12:00 / afternoon 13:00-16:30 / evening 17:30-21:30 / all day 9:00-21:30, and include setup and cleanup time. Extensions are allowed only if the theater has agreed in advance, with a surcharge of 30% of the theater fee for every 30 minutes over (usage fee table, from January 1, 2023).",
+ "notice": null,
+ "rooms": [
+  {
+   "name": "Kinokuniya Hall",
+   "note": "427 fixed seats (the seating chart says \"Seats: 427\"). The seats numbered 1 and 2 and 19 and 20 in rows I and J are removable and can also be used as wheelchair spaces. The stage plan gives \"opening width 9.0 m, depth 6.6-7.1 m, height 6.1 m\". Usage fees (excluding tax, from January 1, 2023) are, on weekdays, morning 107,000 yen / afternoon 158,000 yen / evening 201,000 yen / all day 431,000 yen, and on Sat, Sun & holidays, morning 147,000 yen / afternoon 209,000 yen / evening 209,000 yen / all day 491,000 yen (consecutive slots: weekdays morning + afternoon 251,000 yen and afternoon + evening 332,000 yen; Sat, Sun & holidays morning + afternoon 333,000 yen and afternoon + evening 408,000 yen)."
+  }
+ ],
+ "ops": {
+  "waitingRooms": "The dressing room is the size of 20 tatami mats, with 22 dressing-room mirrors and 1 full-length mirror, and has a shower room and a washroom (equipment fee list, from August 2024). Equipment around the dressing room includes folding chairs, long tables, a refrigerator (2-door, with freezer), a microwave (1500 W), a washing machine (twin-tub), an electric kettle (4 L), a full-length mirror and Ständer (シュテンダー) (production-side equipment list for the hall)."
+ },
+ "documents": [
+  {
+   "title": "Theater Usage Guide (summary of drawings, equipment and fees; to apply for use, call 03-3354-0141)"
+  },
+  {
+   "title": "Kinokuniya Hall Usage Fees (from January 1, 2023)"
+  },
+  {
+   "title": "Equipment Fee List and Other Facilities (from August 2024)"
+  },
+  {
+   "title": "Hall Facilities List (Equipment List 2, updated August 23, 2024)"
+  },
+  {
+   "title": "Hall Production-side Equipment (list of desks and chairs)"
+  },
+  {
+   "title": "Hall Seating Chart (427 seats)"
+  },
+  {
+   "title": "Hall Stage Plan (revised July 2021)"
+  },
+  {
+   "title": "Hall Stage Section (revised July 2021)"
+  },
+  {
+   "title": "Hall Lighting Equipment List (updated November 2, 2017)"
+  },
+  {
+   "title": "Kinokuniya Hall Access Map (updated March 1, 2025)"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "FamilyMart Shinjuku 3-chome East",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "FamilyMart Shinjuku 3-chome",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "FamilyMart Shinjuku 3-chome Chuo-dori",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location."
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "Accea Shinjuku Tonanguchi",
+    "hours": "Weekdays 9:00-20:00 / Closed Sat, Sun & holidays",
+    "note": "Distance is calculated from the address location. Shown as \"Accea Mini\" (a small store) on the official site. Cash is not accepted for payment at the store (credit card, electronic money, QR code payment, BizSPOT Pay)."
+   },
+   {
+    "name": "Accea Shinjuku 3-chome",
+    "hours": "Weekdays 9:00-20:00 / Closed Sat, Sun & holidays",
+    "note": "Distance is calculated from the address location. Shown as \"Accea Mini\" (a small store) on the official site. Cash is not accepted for payment at the store (credit card, electronic money, QR code payment, BizSPOT Pay)."
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "DAISO Bic Camera Shinjuku East Exit",
+    "hours": "10:00-22:00",
+    "note": "Distance is calculated from the address location. On the same 8th floor there are also \"Standard Products Bic Camera Shinjuku East Exit\" and \"THREEPPY Bic Camera Shinjuku East Exit\" (both 10:00-22:00)."
+   },
+   {
+    "name": "3COINS Lumine Est Shinjuku",
+    "hours": "Weekdays 11:00-21:00 / Sat, Sun & holidays 10:30-21:00",
+    "note": "Distance is calculated from the official store location."
+   }
+  ],
+  "donki": [
+   {
+    "name": "Don Quijote Shinjuku Tonanguchi Annex",
+    "hours": "9:00-2:00",
+    "note": "Distance is calculated from the address location. The store name on the Don Quijote official website is \"Shinjuku Tonanguchi Annex\" (新宿東南口別館)."
+   },
+   {
+    "name": "Don Quijote Shinjuku Tonanguchi",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. The store name on the Don Quijote official website is \"Shinjuku Tonanguchi Store\" (新宿東南口店)."
+   }
+  ]
+ },
+ "photoCredit": "© ブラ松 / CC BY-SA 4.0 · Wikimedia Commons"
+}

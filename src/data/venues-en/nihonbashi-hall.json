@@ -1,0 +1,181 @@
+{
+ "slug": "nihonbashi-hall",
+ "name": "Nihonbashi Mitsui Hall",
+ "address": "Tokyo 103-0022 COREDO Muromachi 1, 5F (entrance on 4F), 2-2-1 Nihonbashi-Muromachi, Chuo-ku, Tokyo",
+ "accessSummary": "Directly connected to Mitsukoshimae Station (Tokyo Metro Ginza Line and Hanzomon Line), next to Exit A6 (COREDO Muromachi 1) / Directly connected via underground passage to Shin-Nihombashi Station (JR Sobu Line Rapid and Yokosuka Line) / About 9 min walk from the East Exit of JR Kanda Station / About 9 min walk from the Nihombashi Exit of JR Tokyo Station",
+ "hours": "The facility is available 9:00-21:00 every day (consult for use outside these hours; Terms of Use as of April 1, 2026). In the price list, the basic venue fee is for 9:00-20:00 and entertainment use is 11 hours between 8:00 and 22:00",
+ "notice": null,
+ "rooms": [
+  {
+   "name": "5F Hall",
+   "note": "20.5 m wide x 34.0 m deep. 636㎡ when the seating is retracted. The elevating stage is 16.4 m wide x 6.0 m deep, with a height of 0-1,200 mm. For theater there are three layout drawings: roll-back chairs 254 seats, 390 seats and 690 seats. Classroom 432 is 3 per desk (288 with 2 per desk). Round-table seated party 300 seats; for standing parties there are layout drawings for 500 and 600 people, and standing for entertainment use is 1000. Seated buffet is 180 seats. The heading on the business-use page says \"Theater layout: 678 seats\", which differs from the 690 seats in the facility overview and equipment table (678 is the number of seats in the basic seat numbering for entertainment use)."
+  },
+  {
+   "name": "5F Foyer",
+   "note": "44.0 m wide x 3.9 m deep, carpet floor. Can be used together with the Hall through the sliding wall. Has a bar counter (refrigerator, ice machine, sink) and a smoking area."
+  },
+  {
+   "name": "4F Entrance",
+   "note": "Stone floor. The cloakroom is 45㎡."
+  }
+ ],
+ "ops": {
+  "prevDaySetup": "The setup-day venue fee is 1,200,000 yen per day (9:00-20:00, excluding tax), applied for up to 1 day per event. Usage time runs from the time setup starts until leaving, and setup must not start before the start of the usage time. The facility is available 9:00-21:00 every day, and outside these hours consultation is required. The price list states the basic venue fee as 9:00-20:00 and entertainment use as 11 hours between 8:00 and 22:00, so the notations differ. (Source: Price List (for contracts from March 28, 2026), Terms of Use (as of April 1, 2026))",
+  "loadingHours": "When loading in or out, always contact the hall staff in advance (the staff applies to the building management company). The load-in elevator interior is 2,900 mm wide x 2,000 mm deep x 3,000 mm high, with a load capacity of 3,000 kg. Loading in and out is also possible through the night service entrance on 1F, so consult the staff. When loading from B3F, check the load-in route in advance. (Source: Load-in Route Map (as of December 8, 2019), Facility Overview (as of February 2021), Process Before Use)",
+  "vehicleRules": "Delivery vehicles enter from the 1F \"COREDO Muromachi Loading Area Entrance\" (along Edo-sakura-dori) and go to the COREDO Muromachi 1 loading area on B3F. Only vehicles up to 2-ton short trucks can enter the B3F loading area. Parking is free for 30 minutes, and the number of spaces is 1 (①) on weekdays and 3 (①-③) on Saturdays, Sundays and holidays. In the early morning a garbage truck may be parked there, in which case wait until it is free. Parking on the street is prohibited by the Terms of Use. (Source: Load-in Route Map (as of December 8, 2019), Terms of Use (as of April 1, 2026))",
+  "parking": "Nihonbashi Mitsui Hall has no parking lot of its own and uses \"COREDO Muromachi Parking\" in the basement of COREDO Muromachi 2. Hours are 6:00-26:00 (vehicles must exit within business hours), the fee is 250 yen per 30 minutes with no maximum, and there is no parking discount. Vehicle limits are height 2.0 m, width 1.95 m, length 5.3 m and weight 2,300 kg (some vehicles are not supported).",
+  "waitingRooms": "There are 3 waiting room sections: Room 1+2 (5F, 44㎡, can be divided into two), Room 3 (6F, 23㎡) and Room 4 (6F, 27㎡). Each room has a long table, a washroom, a fitting room, a refrigerator and a clothes rack. There are also a meeting room of 12㎡, a staff room of 18㎡ (facility overview), 2 shower rooms, and control booths for sound, lighting and video. (Source: Business Use, Facility Overview (as of February 2021))",
+  "catering": "Under the Terms of Use, using the operator's designated vendors is the rule, and vendors other than the designated ones can be used if the operator approves (in that case they become persons connected with the use). Eating and drinking outside the places designated by the operator, and unauthorized use of open flames or cooking, are prohibited. The 5F foyer has a bar counter (refrigerator, ice machine, sink). (Source: Terms of Use (as of April 1, 2026), Articles 4 and 9)"
+ },
+ "documents": [
+  {
+   "title": "Access Map"
+  },
+  {
+   "title": "Load-in Route Map (as of December 8, 2019)"
+  },
+  {
+   "title": "Price List (for contracts from March 28, 2026)"
+  },
+  {
+   "title": "Terms of Use (as of April 1, 2026)"
+  },
+  {
+   "title": "Guide Staff Posts and Signage Locations"
+  },
+  {
+   "title": "Facility Overview (as of February 2021)"
+  },
+  {
+   "title": "4F Floor Plan"
+  },
+  {
+   "title": "5F Floor Plan"
+  },
+  {
+   "title": "5F Floor Plan (with scale)"
+  },
+  {
+   "title": "6F Floor Plan"
+  },
+  {
+   "title": "Construction Rules (Areas Where Placing Items Is Prohibited, 4F-6F)"
+  },
+  {
+   "title": "Equipment List (as of March 2026)"
+  },
+  {
+   "title": "5F General Outlet Plan"
+  },
+  {
+   "title": "Baton and Truss Drawings"
+  },
+  {
+   "title": "Sound Equipment List (May 2025 edition)"
+  },
+  {
+   "title": "Lighting Equipment List (November 2025 edition)"
+  },
+  {
+   "title": "Video Equipment List"
+  },
+  {
+   "title": "Layout: Theater, Roll-back Chairs, 254 Seats"
+  },
+  {
+   "title": "Layout: Theater, Roll-back + Stacking Chairs, 390 Seats"
+  },
+  {
+   "title": "Layout: Theater, Roll-back + Stacking Chairs, 690 Seats"
+  },
+  {
+   "title": "Layout: Classroom, 100 People (2 per desk)"
+  },
+  {
+   "title": "Layout: Classroom, 150 People (2 per desk)"
+  },
+  {
+   "title": "Layout: Classroom, 200 People (2 per desk)"
+  },
+  {
+   "title": "Layout: Classroom, 250 People (3 per desk)"
+  },
+  {
+   "title": "Layout: Classroom, 300 People (3 per desk)"
+  },
+  {
+   "title": "Layout: Classroom, 350 People (3 per desk)"
+  },
+  {
+   "title": "Layout: Classroom, 400 People (3 per desk)"
+  },
+  {
+   "title": "Layout: Standing Party, 500 People"
+  },
+  {
+   "title": "Layout: Standing Party, 600 People"
+  },
+  {
+   "title": "Layout: Seated Buffet, 180 Seats"
+  },
+  {
+   "title": "Layout: Standing, 1000 People (Entertainment Use)"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "FamilyMart Nihonbashi Mitsui Tower",
+    "hours": "7:00-23:00",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "Lawson Nihonbashi Honcho 2-chome",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "FamilyMart Nihonbashi Honcho",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location."
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "Accea Shin-Nihonbashi",
+    "hours": "Weekdays 9:00-20:00 / Sat, Sun & holidays 10:00-19:00",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Accea Kodemmacho",
+    "hours": "Weekdays 8:00-22:00 / Sat 8:00-19:00 / Sun & holidays 10:00-19:00",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "DAISO Ningyocho Station",
+    "hours": "9:00-21:00",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Can Do Marunouchi Oazo",
+    "hours": "Mon-Fri 8:00-22:00 / Sat-Sun 9:00-21:00",
+    "note": "Distance is calculated from the official store location."
+   }
+  ],
+  "donki": [
+   {
+    "name": "Don Quijote Akihabara",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. Rather far. The store name on the Don Quijote official website is \"Akihabara\" (秋葉原店)."
+   },
+   {
+    "name": "Don Quijote Ginza Main Building (Ginza Nine Building No. 3)",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. Far. The store name on the Don Quijote official website is \"Ginza Main Building\" (銀座本館)."
+   }
+  ]
+ },
+ "photoCredit": "© Wpcpey / CC BY 4.0 · Wikimedia Commons"
+}

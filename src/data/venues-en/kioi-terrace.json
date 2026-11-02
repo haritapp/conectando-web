@@ -1,0 +1,195 @@
+{
+ "slug": "kioi-terrace",
+ "name": "Tokyo Garden Terrace Kioi Conference",
+ "address": "Tokyo 102-0094 Kioi Tower 4F, Tokyo Garden Terrace Kioicho, 1-4 Kioicho, Chiyoda-ku",
+ "accessSummary": "Directly connected to Exit 9a of Tokyo Metro Nagatacho Station / 1 min walk from Exit D of Tokyo Metro Akasaka-mitsuke Station",
+ "hours": "In principle 9:00-21:00 (use outside business hours can be discussed). Open every day of the year (except December 29 to January 3), but open from December 29, 2026 to January 3, 2027 (notice of September 30, 2026). Telephone reception is weekdays 9:30-17:30.",
+ "notice": null,
+ "rooms": [
+  {
+   "name": "Main Room A+B+C+D (entire)",
+   "note": "The classroom and theater numbers differ between the vertical and horizontal layouts: the vertical layout gives classroom 372 and theater 469, and the horizontal layout gives classroom 303 and theater 388. The official rental unit is one span (each of rooms A to D), and the four rooms can be divided by partitions. The official FAQ says \"up to 500 people (standing), and 300-350 recommended if you want wide mingling\", which differs from the standing figure of 300 in the table."
+  },
+  {
+   "name": "Main Room B+C+D",
+   "note": "3 spans."
+  },
+  {
+   "name": "Main Room A+B",
+   "note": "2 spans."
+  },
+  {
+   "name": "Main Room C+D",
+   "note": "2 spans."
+  },
+  {
+   "name": "Main Room A",
+   "note": "1 span."
+  },
+  {
+   "name": "Main Room B",
+   "note": "1 span."
+  },
+  {
+   "name": "Main Room C",
+   "note": "1 span."
+  },
+  {
+   "name": "Main Room D",
+   "note": "1 span. According to the official equipment list, Main Room D has a 200-inch wide electric screen."
+  },
+  {
+   "name": "Seminar Room A+B",
+   "note": "The front of each room is fully glass-walled. The official site says it can be divided into 2 rooms."
+  },
+  {
+   "name": "Seminar Room A",
+   "note": "1 span."
+  },
+  {
+   "name": "Seminar Room B",
+   "note": "1 span."
+  },
+  {
+   "name": "Seminar Room C+D",
+   "note": "The official FAQ has places that say \"Main Room CD (240㎡)\" and \"Main Room AB (230㎡)\", but in the room table they are Seminar Room C+D 240㎡ and A+B 230㎡."
+  },
+  {
+   "name": "Seminar Room C",
+   "note": "1 span."
+  },
+  {
+   "name": "Seminar Room D",
+   "note": "1 span."
+  },
+  {
+   "name": "Sakura Room",
+   "note": "Island layout for 20 (permanent). Two sides are glass-walled, overlooking the cherry trees. Equipment included: tables, chairs and LAN."
+  },
+  {
+   "name": "Terrace Room",
+   "note": "Island layout for 8 (permanent). Two sides are glass-walled. It can also be used as a waiting room for speakers and representatives of lectures, or for small meetings and business talks. Equipment included: tables, chairs and LAN."
+  },
+  {
+   "name": "Meeting Room",
+   "note": "Island layout for 10 (permanent). Equipment included: tables, chairs and LAN."
+  },
+  {
+   "name": "Waiting Room 1",
+   "note": "Island layout for 18 (permanent)."
+  },
+  {
+   "name": "Waiting Room 2",
+   "note": "Island layout for 12 (permanent)."
+  }
+ ],
+ "ops": {
+  "prevDaySetup": "Business hours are in principle 9:00-21:00, and use outside business hours can be discussed. Usage time runs from entry to exit, including setup and removal. Late-night and early-morning setup is possible, with a separate attendance fee. The price list has a \"night-time setup 22:00-7:00\" slot, per hour: 22,825 yen each for Main Rooms A to D (91,025 yen for A+B+C+D), 44,825 yen for Seminar Room A+B and 47,025 yen for C+D, 10,725 yen each for the Sakura Room and Terrace Room, and 6,325 yen for the Meeting Room (tax excluded, as of April 2026). (Source: User Guide, FAQ, price list as of April 2026)",
+  "loadingHours": "Load-in and load-out use the dedicated loading area (service yard) and the load-in/load-out-only elevator on B1F, and are managed in one place by the \"Logistics Management Center\". Reception is at the Logistics Management Center counter on B1F, where you receive a security card and a visitor pass on entry. To avoid congestion in the loading area, load-in/load-out times are coordinated in advance, and contractors who have completed the procedures in advance have priority. The freight elevator goes directly from the B1F loading area to each conference room on 4F, with a load capacity of 2,500 kg, door width 1,800 x height 2,400 mm, and car interior width 1,800 x depth 2,000 x height 3,050 mm. A \"Load-in/Load-out Plan\" must be submitted by 1 week before the event. When sending luggage in advance, write the \"event date\", \"venue name\" and \"contact person's name\" on the delivery slip, and in principle send it to arrive the day before the day of use (arriving on the Friday of the previous week if a weekend or holiday falls in between). Precision equipment must be packed securely by yourself, and the venue is not responsible for damage during delivery. The venue can also arrange shipping on the day after the event (in principle cash on delivery). Exclusive use of the elevator involves a paid operator fee. (Source: FAQ)",
+  "vehicleRules": "Vehicles for load-in/load-out up to 4-ton trucks can enter, with a height limit of 3.4 m at the loading area entrance. Enter the vehicle entrance of Tokyo Garden Terrace Kioicho from the Kioicho-dori side (entry from Prince-dori is not possible), go in through the logistics load-in entrance of the B1F loading parking area, and complete the entry procedure at the management center. Parking and stopping other than for load-in/load-out is prohibited, and so are street parking and load-in/load-out from anywhere other than B1F; the guest elevators cannot be used. The parking fee at the loading area is 150 yen per 10 minutes (paid by the load-in/load-out contractor). Hand trucks can be borrowed for 100 yen each time. When carrying loads of 3 or more hand-truck loads or heavy items such as copiers and safes, floor and wall protection is required. (Source: FAQ, Terms of Use version of April 1, 2025)",
+  "parking": "The parking lot of Tokyo Garden Terrace Kioicho has 254 spaces (with EV charging spaces) and is open 24 hours. The fee is 300 yen per 20 minutes, with a maximum of 2,800 yen for the day (until 24:00). Vehicle limits are length 5 m, width 2.05 m, height 2 m and weight 2.5 t. Entry is by left turn. Motorcycles are 990 yen maximum per day. There is no parking discount for users of Kioi Conference, but payment by invoice is possible. For large events, the use of public transportation is recommended. (Source: Tokyo Garden Terrace Kioicho access page, Kioi Conference FAQ)",
+  "waitingRooms": "There are 2 waiting rooms for rent. Waiting Room 1 is 24㎡ (island layout for 18, permanent) and Waiting Room 2 is 21㎡ (island layout for 12, permanent). The room fee for both Waiting Rooms 1 and 2 is 38,500 yen for morning (9:00-12:00), 44,000 yen for afternoon (13:00-17:00), 38,500 yen for night (18:00-21:00), 55,000 yen for 8 hours (9:00-17:00) and 55,000 yen for 12 hours (9:00-21:00) (tax excluded, as of April 2026). There are 2 waiting rooms for the Main Room, connected to the Main Room from the back-of-house route (backyard). The Terrace Room (55㎡) can also be used as a waiting room for speakers and representatives. (Source: Facility overview, price list, FAQ)",
+  "catering": "For food hygiene reasons, partner caterers must be used, and bringing in food and drink for consumption is in principle not allowed (Terms of Use). You can consult about allergies, halal, vegan and other needs. The caterers are six companies: CB Service (minimum order 150,000 yen and up), Nilax (catering from 110,000 yen, delivery from 60,000 yen), Fuoriclasse (40 or more people, from 200,000 yen), Dynac (50 or more people, from 6,050 yen per person), CITABRIA (30 or more people, from 210,000 yen) and LOYCE CATERING (from 126,000 yen) (amounts follow the official notation, tax excluded or included; only Dynac is tax included). The lunch box vendors are six companies: Kameido Masumoto, Egao no Hashi, Kaiseki Ryori Aoyama, Ningyocho Imahan, Meijiza and Bimi Tankyu Daikyu. Drinks are 200 yen per bottle for PET bottles (500 ml) and 4,500 yen per 10 cups for hot coffee, black tea and green tea (tax excluded; the order deadline is 10 days before the day of use). (Source: Food and beverage service, Terms of Use, FAQ)",
+  "restaurants": "In the same Kioi Terrace, there are Starbucks Coffee, Freshness Burger Cafe & Bar on 2F, and La Précieuse (baked sweets and more) on 4F. For after-seminar receptions, since all the rooms are gathered on one floor, the party can be held by moving to a different room. For receptions, catering can be arranged from finger food to standing parties and sushi chefs making sushi on site. The restaurants and bars of The Prince Gallery Tokyo Kioicho on the same grounds (Kioi Tower, 30F to 36F) are also introduced, and can be reached directly by elevator from the conference (4F). (Source: FAQ, options)"
+ },
+ "documents": [
+  {
+   "title": "Facility Specifications and Facility Usage Rates (as of April 2026)"
+  },
+  {
+   "title": "Setup Fees and Layout Drawing Fees (as of May 2024)"
+  },
+  {
+   "title": "Venue Equipment List"
+  },
+  {
+   "title": "Floor Map"
+  },
+  {
+   "title": "User Guide"
+  },
+  {
+   "title": "Kioi Conference Terms of Use (version of April 1, 2025)"
+  },
+  {
+   "title": "How to Get There from the Station"
+  },
+  {
+   "title": "Layout Drawings for All Rooms (Social Distancing)"
+  },
+  {
+   "title": "Catering: Nilax Menu"
+  },
+  {
+   "title": "Catering: Fuoriclasse Party Plan"
+  },
+  {
+   "title": "Catering: CITABRIA Package Plan (June 2025)"
+  },
+  {
+   "title": "Catering: LOYCE CATERING Menu"
+  },
+  {
+   "title": "Catering: Dynac Menu"
+  },
+  {
+   "title": "Lunch Boxes: Ningyocho Imahan"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "FamilyMart Tokyo Garden Terrace",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "FamilyMart Kioicho",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "FamilyMart Akasaka-mitsuke Ekimae",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location."
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "Kinko's Akasaka-mitsuke",
+    "hours": "Weekdays 9:00-20:00 / Sat, Sun & holidays 10:00-19:00",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Accea Nagatacho",
+    "hours": "Weekdays 8:00-22:00 / Closed Sat, Sun & holidays",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Can Do Akasaka Hitotsugi-dori",
+    "hours": "Mon-Fri 9:00-21:00 / Sat-Sun 9:00-20:00",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "Can Do Atre Shinanomachi",
+    "hours": "Daily 10:00-21:00",
+    "note": "Distance is calculated from the official store location. Rather far."
+   }
+  ],
+  "donki": [
+   {
+    "name": "Picasso Akasaka (Don Quijote)",
+    "hours": "7:00-3:00",
+    "note": "Distance is calculated from the address location. This is a separate Don Quijote format (the store name on the official website is \"Picasso Akasaka\")."
+   },
+   {
+    "name": "Don Quijote Roppongi",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. The store name on the Don Quijote official website is \"Roppongi\". Far."
+   }
+  ]
+ },
+ "photoCredit": "© Kakidai / CC BY-SA 4.0 · Wikimedia Commons"
+}

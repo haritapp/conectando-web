@@ -1,0 +1,191 @@
+{
+ "slug": "nihon-kyoiku-kaikan-hall",
+ "name": "Japan Education Center Hitotsubashi Hall",
+ "address": "Tokyo 101-0003 2-6-2 Hitotsubashi, Chiyoda-ku",
+ "accessSummary": "Jimbocho Station (Toei Shinjuku Line and Tokyo Metro Hanzomon Line) Exit A1: 3 min walk / Jimbocho Station (Toei Mita Line) Exit A1: 5 min walk / Takebashi Station (Tokyo Metro Tozai Line) Kitanomaru Park-side exit: 5 min walk / Kudanshita Station (Tokyo Metro Tozai Line) Exit 6: 7 min walk / Suidobashi Station (JR Sobu Line) West Exit: 15 min walk",
+ "hours": "Usage hours are 9:00-21:00 (other times by consultation). There are 3 time slots: morning 9:00-12:00, afternoon 13:00-17:00 and evening 18:00-21:00 (for the hall: afternoon 13:00-16:30 and evening 17:30-21:00). Available except during the year-end and New Year holidays (December 29 to January 4). Applications are accepted by phone on weekdays 9:00-17:00; booking through the website is not possible.",
+ "notice": "The Fifth Conference Room (Rooms 901 and 902) ceased to be available for rental on March 31, 2025 (notice dated February 17, 2025).",
+ "rooms": [
+  {
+   "name": "Hitotsubashi Hall (3F)",
+   "note": "Capacity 802 seats (rows 1, 2 and 22 are movable seats; no tables on the seats). Wheelchair space for about 17 seats (28 seats of row 22 removed). Total area 767㎡ (seating 554㎡, stage 84㎡, foyer 129㎡). The stage is 12.5 m wide x 8 m deep (11 m when extended, with rows 1 and 2 removed) and 4 m high (stage height 1 m). Weekday all day (9:00-21:00) ¥543,400 / Sat, Sun & holidays all day ¥679,800 (tax included, revised April 1, 2026). Waiting Room C (paid) is charged separately"
+  },
+  {
+   "name": "Medium Conference Room (701+702)",
+   "note": "Capacity 156 people. Can be divided by a sliding partition into Room 701 (60 people) and Room 702 (72 people). 52 desks. Weekday all day (9:00-21:00) ¥191,400 / Sat, Sun & holidays all day ¥229,900 (tax included, revised April 1, 2026)"
+  },
+  {
+   "name": "Room 701",
+   "note": "Capacity 60 people. A room created by dividing the Medium Conference Room. 20 desks. Weekday all day (9:00-21:00) ¥125,400 / Sat, Sun & holidays all day ¥150,700 (tax included, revised April 1, 2026)"
+  },
+  {
+   "name": "Room 702",
+   "note": "Capacity 72 people. A room created by dividing the Medium Conference Room. 24 desks. Weekday all day (9:00-21:00) ¥151,800 / Sat, Sun & holidays all day ¥182,600 (tax included, revised April 1, 2026)"
+  },
+  {
+   "name": "Room 703",
+   "note": "Capacity 36 people. 12 desks. Weekday all day (9:00-21:00) ¥78,100 / Sat, Sun & holidays all day ¥94,600 (tax included, revised April 1, 2026)"
+  },
+  {
+   "name": "Room 704",
+   "note": "Capacity 36 people. Hollow square layout. 12 desks. Weekday all day (9:00-21:00) ¥78,100 / Sat, Sun & holidays all day ¥94,600 (tax included, revised April 1, 2026)"
+  },
+  {
+   "name": "Room 705",
+   "note": "Capacity 10 people. Salon type. 2 desks. Weekday all day (9:00-21:00) ¥45,100 / Sat, Sun & holidays all day ¥55,000 (tax included, revised April 1, 2026)"
+  },
+  {
+   "name": "Room 707",
+   "note": "Capacity 108 people. 36 desks. Weekday all day (9:00-21:00) ¥137,500 / Sat, Sun & holidays all day ¥165,000 (tax included, revised April 1, 2026)"
+  },
+  {
+   "name": "First Conference Room (8F)",
+   "note": "Capacity 300 people. Ceiling height is 2.6 m (2.3 m in part). 100 desks, movable desks and chairs. Weekday all day (9:00-21:00) ¥293,700 / Sat, Sun & holidays all day ¥353,100 (tax included, revised April 1, 2026)"
+  },
+  {
+   "name": "Second Conference Room (805+806)",
+   "note": "Capacity 168 people. Can be divided by a sliding partition into Room 805 and Room 806 (72 people each). Ceiling height is 2.6 m (2.4 m in part). 56 desks. Weekday all day (9:00-21:00) ¥187,000 / Sat, Sun & holidays all day ¥224,400 (tax included, revised April 1, 2026)"
+  },
+  {
+   "name": "Room 805",
+   "note": "Capacity 72 people. A room created by dividing the Second Conference Room. 24 desks. Weekday all day (9:00-21:00) ¥136,400 / Sat, Sun & holidays all day ¥163,900 (tax included, revised April 1, 2026)"
+  },
+  {
+   "name": "Room 806",
+   "note": "Capacity 72 people. A room created by dividing the Second Conference Room. 24 desks. Weekday all day (9:00-21:00) ¥136,400 / Sat, Sun & holidays all day ¥163,900 (tax included, revised April 1, 2026)"
+  },
+  {
+   "name": "Third Conference Room (807+808)",
+   "note": "Capacity 81 people. Can be divided by a sliding partition into Room 807 (42 people) and Room 808 (30 people). 27 desks. Weekday all day (9:00-21:00) ¥111,100 / Sat, Sun & holidays all day ¥134,200 (tax included, revised April 1, 2026)"
+  },
+  {
+   "name": "Room 807",
+   "note": "Capacity 42 people. A room created by dividing the Third Conference Room. 14 desks. Weekday all day (9:00-21:00) ¥83,600 / Sat, Sun & holidays all day ¥101,200 (tax included, revised April 1, 2026)"
+  },
+  {
+   "name": "Room 808",
+   "note": "Capacity 30 people. A room created by dividing the Third Conference Room. 10 desks. Weekday all day (9:00-21:00) ¥67,100 / Sat, Sun & holidays all day ¥81,400 (tax included, revised April 1, 2026)"
+  },
+  {
+   "name": "Room 809",
+   "note": "Capacity 10 people. Salon type. 2 desks. Weekday all day (9:00-21:00) ¥45,100 / Sat, Sun & holidays all day ¥55,000 (tax included, revised April 1, 2026)"
+  },
+  {
+   "name": "Room 810",
+   "note": "Capacity 30 people. Hollow square layout. 10 desks. Weekday all day (9:00-21:00) ¥60,500 / Sat, Sun & holidays all day ¥72,600 (tax included, revised April 1, 2026)"
+  },
+  {
+   "name": "Hitotsubashi Gallery (1F, Multipurpose Space)",
+   "note": "A space with flexible partitions that can be used for exhibitions as well as for event merchandise sales and reception. When used as a gallery, the charge is 165,000 yen per unit of 5 consecutive days in principle (extension 16,500 yen per day; open 10:00-18:00; playing sound is prohibited in principle). Use as a multipurpose space together with the hall or conference rooms is 33,000 yen for a one-day rental (9:00-21:00)"
+  }
+ ],
+ "ops": {
+  "prevDaySetup": "When the hall or the First Conference Room is used for setup (without equipment), the usage fee is discounted by 40%, and for rehearsals by 30%. Early extension is limited to the morning slot, up to 60 minutes (contract from 8:00, entry at 7:30). Early extension from the afternoon or evening slots is not possible. To leave luggage or layout in place for consecutive-day use, consecutive bookings are required (example: afternoon + evening on the first day to morning + afternoon on the second day, FAQ). You can enter the venue from about 30 minutes before the contracted time (all of the above from the Price List, revised April 1, 2026).",
+  "loadingHours": "Usage hours are 9:00-21:00 and include preparation and cleanup. Late extension is up to 22:00 (complete clearance). The freight elevator is for hand trucks only; the entrance must be within 2.1 m high and 1.4 m wide, the interior within 2.3 m high, 1.9 m wide and 1.6 m deep, and the total weight 1.35 t or less. Packages sent in advance are received c/o the 1F Disaster Prevention Center (9:00-21:00 on both weekdays and holidays; Shipping of Packages, February 21, 2024) and are kept in the shared space (no lock) in the 4F elevator hall.",
+  "vehicleRules": "Parking for loading and unloading packages is free for up to 30 minutes and allowed for trucks up to 2 tons. Even if the stay is within 30 minutes, stop by the 1F Disaster Prevention Center and park in the designated place. After 30 minutes it is charged to the organizer as paid parking. The paid spaces in the rooftop parking lot cannot be used by trucks (Conference Room Equipment Application Form). (All of the above from the Rooftop Parking Facility Guide, April 1, 2026.)",
+  "parking": "For organizers who have booked the hall or the First Conference Room, 2 free parking tickets for the rooftop parking lot are provided (no advance application needed; handed over on the day). From the 3rd vehicle, 2,200 yen (tax included) per vehicle per time slot with advance application, up to 5 vehicles including the free ones. The car lift limits are height 2 m, width 2.3 m and length 5 m or less, and total weight 2.6 t or less; there is no parking lot for buses or other large vehicles. Organizers and attendees of the other conference rooms use nearby coin parking lots or public transport. (Rooftop Parking Facility Guide, April 1, 2026. The FAQ also states that \"the 3rd vehicle onward and organizers of other conference rooms pay.\" The Terms of Use state that there is no parking or bicycle parking for general attendees.)",
+  "waitingRooms": "For the hall there are Waiting Room A (free, stage-left wing, 7.7㎡, capacity 4, with a clothes rack and an internet connection port), Waiting Room B (free, Japanese-style room with 5 tatami mats plus a wooden-floor area, dressing table) and Waiting Room C (paid, 64㎡, capacity 22, with a dressing table, a hair-dryer outlet and a full-length mirror; weekday all day 50,600 yen / Sat, Sun & holidays all day 63,800 yen, tax included, revised April 1, 2026).",
+  "catering": "Bringing in outside food and drink is not allowed in principle (no catering). Only box lunches and drinks (excluding alcohol) arranged through the restaurants in the building may be consumed, in the conference rooms and in the hall foyer. Eating and drinking is not allowed in the hall seating area. Take your trash with you; there is no collection service. The Terms of Use PDF lists the following for receptions and box lunches: Kizan Club on the 9th floor (box lunches and receptions), Tainan Hanten on the 2nd floor (box lunches and receptions), Bistro Season in the basement (box lunches) and the 7-Eleven on the 1st floor (plastic bottle orders).",
+  "restaurants": "On the B1F there are Miraishokudo (set meal 900 yen), Okan (tatami-room seating for up to 16 people), Bistro Season (banquets from 5,500 yen for food plus all-you-can-drink; box lunches up to around 400), Higekan and Cafe Bansetto (in-house delivery via extension 222); on the 2F, Tainan Hanten Jimbocho (banquets for up to 120 people; standing parties possible from 30 people); on the 9F, the banquet hall Kizan Club (French); and a convenience store on the 1F. The restaurants on the 2F can also do banquets. The FAQ notes that the restaurants in the building are crowded from 12:00 to 12:30, so ending a morning event at 11:30 makes it easier to have lunch."
+ },
+ "documents": [
+  {
+   "title": "Terms of Use (hall and conference room price list revised April 1, 2026)"
+  },
+  {
+   "title": "Booking Start and Reception Period Guide (November 1, 2025)"
+  },
+  {
+   "title": "Rooftop Parking Facility Guide for Hall and First Conference Room Use (April 1, 2026)"
+  },
+  {
+   "title": "Shipping of Packages / Waste Disposal (February 21, 2024)"
+  },
+  {
+   "title": "New Equipment Usage Fees (revised from April 1, 2026)"
+  },
+  {
+   "title": "Conference Room Equipment Application Form"
+  },
+  {
+   "title": "Limit on the Number of Extension Cords Lent (Free Portion) (August 1, 2025)"
+  },
+  {
+   "title": "Locker with Key Application Form"
+  },
+  {
+   "title": "Hall Floor Plan (April 2026)"
+  },
+  {
+   "title": "Stage Floor Plan"
+  },
+  {
+   "title": "Stage Mechanism Equipment Plan"
+  },
+  {
+   "title": "Hall Stage Equipment Basic Specification Example (April 2026)"
+  },
+  {
+   "title": "Guide to the Conference Room Long-term Consecutive Use Discount System / Usage Support (Fee Reduction)"
+  },
+  {
+   "title": "Notice of End of Rental of the Fifth Conference Room (February 17, 2025)"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "7-Eleven Chiyoda Hitotsubashi 2-chome",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location. It is on the 1st floor of the same building as the venue (Japan Education Center)."
+   },
+   {
+    "name": "FamilyMart Kanda-Jimbocho 2-chome",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "FamilyMart Jimbocho Sakura-dori",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location."
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "Accea Jimbocho",
+    "hours": "Open 24 hours (cafe use from 22:00 to 6:00 the next day is for identity-verified members only)",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Kinko's Jimbocho",
+    "hours": "Weekdays 8:00-20:00 / Closed Sat, Sun & holidays",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Can Do Jimbocho",
+    "hours": "Daily 10:00-21:00",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "DAISO Kanda Jimbocho Suzuran-dori",
+    "hours": "10:00-21:00",
+    "note": "Distance is calculated from the address location. The actual walking distance is about 630 m."
+   }
+  ],
+  "donki": [
+   {
+    "name": "Don Quijote Korakuen",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. The store name on the Don Quijote official website is \"Korakuen\". Rather far."
+   },
+   {
+    "name": "Don Quijote Akihabara",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. The store name on the Don Quijote official website is \"Akihabara\". Rather far."
+   }
+  ]
+ },
+ "photoCredit": "© しんぎんぐきゃっと / CC BY-SA 4.0 · Wikimedia Commons"
+}

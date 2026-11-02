@@ -1,0 +1,310 @@
+{
+ "slug": "muromachi-mitsui-hall",
+ "nameJa": "室町三井ホール＆カンファレンス",
+ "nameEn": "Muromachi Mitsui Hall & Conference",
+ "type": "conference",
+ "area": "marunouchi-nihonbashi-venues",
+ "address": "〒103-0022 東京都中央区日本橋室町三丁目2番1号 COREDO室町テラス3階",
+ "officialUrl": "https://www.mitsui-mice.jp/nihonbashi/muromachi/",
+ "organizerUrl": "https://www.mitsui-mice.jp/nihonbashi/muromachi/guide",
+ "bizintokyoSlug": "muromachi-mitsui-hall",
+ "accessSummary": "東京メトロ銀座線・半蔵門線 三越前駅 直結／JR総武快速線・横須賀線 新日本橋駅 直結／JR神田駅 徒歩4分／JR東京駅 徒歩9分",
+ "notice": null,
+ "hours": "9:00〜21:00（年末年始・設備点検等の休館日を除く）。8:00〜9:00と21:00〜22:00は時間外延長料金で利用できる",
+ "rooms": [
+  {
+   "name": "3F Hall（縦レイアウト）",
+   "areaM2": 373,
+   "ceilingM": 5.9,
+   "theater": 420,
+   "school": 306,
+   "ushape": null,
+   "standing": 200,
+   "banquet": null,
+   "note": "スクールは3名掛け（2名掛けは204席）。昇降ステージ（電動）W9198×D3114×H0〜900mm（調整可。事故防止のため本番中の昇降は原則不可）。ホワイエ・パントリー・控室・クロークは基本会場費に含まれる。ホールのみ最低5時間から利用できる。"
+  },
+  {
+   "name": "3F Hall（横レイアウト）",
+   "areaM2": 373,
+   "ceilingM": 5.9,
+   "theater": 336,
+   "school": 252,
+   "ushape": null,
+   "standing": 200,
+   "banquet": null,
+   "note": "縦レイアウトと同じホールで、スクリーン間中央を基準に横向きに配置する場合の人数。"
+  },
+  {
+   "name": "3F Foyer（ホワイエ）",
+   "areaM2": 213,
+   "ceilingM": 3.6,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": 100,
+   "banquet": null,
+   "note": "ホール専有のホワイエ。基本会場費に含まれる。"
+  },
+  {
+   "name": "3F Room A",
+   "areaM2": 81,
+   "ceilingM": 3.4,
+   "theater": 70,
+   "school": 54,
+   "ushape": 36,
+   "standing": 40,
+   "banquet": null,
+   "note": "スクールは3名掛け（2名掛けは36席）。Room Bとの連結で Room A+B。"
+  },
+  {
+   "name": "3F Room B",
+   "areaM2": 81,
+   "ceilingM": 3.4,
+   "theater": 70,
+   "school": 54,
+   "ushape": 36,
+   "standing": 40,
+   "banquet": null,
+   "note": "スクールは3名掛け（2名掛けは36席）。Room Aとの連結で Room A+B。"
+  },
+  {
+   "name": "3F Room A+B（連結）",
+   "areaM2": 162,
+   "ceilingM": 3.4,
+   "theater": 140,
+   "school": 108,
+   "ushape": 60,
+   "standing": 80,
+   "banquet": null,
+   "note": "スクールは3名掛け（2名掛けは72席）。シアターは料金表・フロア概要の表で140席、フロア概要の説明文と施設概要PDF（2019年）では130席の表記もある。ロの字はフロア概要の表では「−」、料金表（2025年7月28日版）では60席。カンファレンスのみの利用は3か月前から予約できる。"
+  },
+  {
+   "name": "3F Room C",
+   "areaM2": 25,
+   "ceilingM": 3.4,
+   "theater": null,
+   "school": null,
+   "ushape": 18,
+   "standing": null,
+   "banquet": null,
+   "note": "単独では予約できない。ホールとのセット、またはRoom A+Bとのセットで予約できる。"
+  }
+ ],
+ "roomsSource": "https://www.mitsui-mice.jp/nihonbashi/muromachi/floor、https://www.mitsui-mice.jp/nihonbashi/wp/wp-content/themes/mitsui-mice/assets/pdf/price_table.pdf",
+ "ops": {
+  "prevDaySetup": {
+   "text": "ホールには準備日の特別料金があり、基本会場費から30％オフ（1催事につき1日適用、9:00〜21:00）。ホール・カンファレンスとも、予約は準備・撤収を含む時間で行う。利用時間は9:00〜21:00が原則で、8:00〜9:00と21:00〜22:00は時間外の延長料・技術管理費・人件費がかかる。ホールの基本会場費は1,130,000円（9:00〜21:00、税別）。レイアウトはホール・カンファレンスとも利用日の14日前（土日祝を除く）までに確定する。（出典：ご利用料金表 2025年7月28日版、ご利用案内 2025年5月現在）",
+   "source": "https://www.mitsui-mice.jp/nihonbashi/muromachi/fee"
+  },
+  "loadingHours": {
+   "text": "搬出入は日本橋室町三井タワーB2Fの荷捌場から、搬出入用エレベーター（F-1、積載2,000kg、B2F〜3F）で3Fへ上げる。荷捌受付の営業時間（館内物流センター）は平日7:00〜19:00、土日祝7:00〜17:00。営業時間外は手続きなしで搬入を始められる。「搬出入届」は利用日の10日前（土日祝を除く）までに室町三井ホール＆カンファレンスへ提出し、館内物流センターが許可証を発行する。台車はストッパー付きエア台車に限り、ホールで3台まで無料、それ以上は館内物流センターで100円／30分（税込）。エア台車以外で運ぶときは、エレベーター内と搬出入経路の養生が必要。（出典：搬出入のご案内 2026年8月5日現在）",
+   "source": "https://www.mitsui-mice.jp/nihonbashi/wp/wp-content/themes/mitsui-mice/assets/pdf/guide_hanshutsunyu.pdf"
+  },
+  "vehicleRules": {
+   "text": "搬出入車両は事前に許可証を取り、フロントガラスに掲示して日銀通り側（一方通行）の入口から地下2階の荷捌場へ入る。車両制限は高さ2,980mm・長さ6,600mm・幅2,400mm。荷捌場の利用料は30分250円（税込）で、以降30分ごとに250円。許可証があると20分間は免除される。同時に受け入れられる台数に限りがあり、1台ずつ入れ替わりで入場を頼まれることがある。車両3台以上の搬出入、物流センターの時間外の作業、搬出入エレベーターを連続1時間以上使う場合などは、館内物流センターへの費用が発生する。利用規約は、自動車などを路上駐車することを禁止している。（出典：搬出入のご案内 2026年8月5日現在、利用規約）",
+   "source": "https://www.mitsui-mice.jp/nihonbashi/wp/wp-content/themes/mitsui-mice/assets/pdf/guide_hanshutsunyu.pdf"
+  },
+  "parking": {
+   "text": "日本橋室町三井タワーの機械式駐車場（260台）がある。入出庫は6:00〜26:00（休館日を除く）、料金は30分250円（税込）、平日入庫は12時間までの最大料金2,500円（土日祝の最大料金の設定はない）。駐車サービス券（30分券250円、60分券500円）を施設から購入でき、必要枚数は利用日の1週間前までに伝える。車両制限は、普通車が全長5.3m・全幅1.9m・全高1.55m・車重2.5t、ハイルーフ車が全高2.0m。トラック・バスは入庫できない。平置き駐車場を希望する場合は近隣のコインパーキングを使う。（出典：機械式駐車場のご案内 2021/7/1版）",
+   "source": "https://www.mitsui-mice.jp/nihonbashi/wp/wp-content/themes/mitsui-mice/assets/pdf/guide_parking.pdf"
+  },
+  "waitingRooms": {
+   "text": "控室が3部屋あり、洗面台が付いている。ほかにクローク、パントリーが使える。ホワイエ・パントリー・控室・クロークは、ホールの基本会場費に含まれる。（出典：施設概要PDF、ご利用料金表 2025年7月28日版）",
+   "source": "https://www.mitsui-mice.jp/nihonbashi/muromachi/floor"
+  },
+  "catering": {
+   "text": "ケータリングやお弁当などの飲食の提供は、施設指定の会社のみが対応する。注文は利用者から会社へ直接行い、会社の一覧は「ケータリング会社のご案内」（2026年9月24日）で案内している。外部からの飲食物の持込みは断っている。会場にゴミ箱はなく、容器などは持ち帰るかゴミの回収を依頼する。ケータリングの搬出入届は利用日の10日前（土日祝を除く）までに提出する。催事後に懇親会を開くときは、別の会場を予約するよう案内している。COREDO室町・COREDO日本橋の店舗の料理を会場へ届けるデリバリーサービスと、サステナブル・ケータリング（クレイジーキッチン）もある。（出典：ご利用案内 2025年5月現在、ケータリング会社のご案内 2026年9月24日、サービスのページ）",
+   "source": "https://www.mitsui-mice.jp/nihonbashi/wp/wp-content/themes/mitsui-mice/assets/pdf/catering.pdf"
+  },
+  "restaurants": {
+   "text": "日本橋室町三井タワー内にショッピング・レストランゾーンがある。COREDO室町・COREDO日本橋の店舗の料理を、イベント会場へ届けるデリバリーサービスも案内している。（出典：アクセスのページ、サービスのページ）",
+   "source": "https://www.mitsui-mice.jp/nihonbashi/muromachi/access"
+  }
+ },
+ "documents": [
+  {
+   "title": "パンフレット",
+   "url": "https://www.mitsui-mice.jp/nihonbashi/wp/wp-content/themes/mitsui-mice/assets/pdf/facility_brochure.pdf"
+  },
+  {
+   "title": "施設概要",
+   "url": "https://www.mitsui-mice.jp/nihonbashi/wp/wp-content/themes/mitsui-mice/assets/pdf/shisetsu.pdf"
+  },
+  {
+   "title": "ご利用案内（2025年5月現在）",
+   "url": "https://www.mitsui-mice.jp/nihonbashi/wp/wp-content/themes/mitsui-mice/assets/pdf/guide.pdf"
+  },
+  {
+   "title": "ご利用料金表（2025年7月28日版）",
+   "url": "https://www.mitsui-mice.jp/nihonbashi/wp/wp-content/themes/mitsui-mice/assets/pdf/price_table.pdf"
+  },
+  {
+   "title": "機材料金表（写真付き）（2026年6月29日現在）",
+   "url": "https://www.mitsui-mice.jp/nihonbashi/wp/wp-content/themes/mitsui-mice/assets/pdf/price_1.pdf"
+  },
+  {
+   "title": "備品料金表（写真付き）（2026年10月10日現在）",
+   "url": "https://www.mitsui-mice.jp/nihonbashi/wp/wp-content/themes/mitsui-mice/assets/pdf/price_2.pdf"
+  },
+  {
+   "title": "フロア図面",
+   "url": "https://www.mitsui-mice.jp/nihonbashi/wp/wp-content/themes/mitsui-mice/assets/pdf/floor.pdf"
+  },
+  {
+   "title": "ホールレイアウト図面",
+   "url": "https://www.mitsui-mice.jp/nihonbashi/wp/wp-content/themes/mitsui-mice/assets/pdf/halllayout.pdf"
+  },
+  {
+   "title": "カンファレンスレイアウト各種",
+   "url": "https://www.mitsui-mice.jp/nihonbashi/wp/wp-content/themes/mitsui-mice/assets/pdf/conferencelayout.pdf"
+  },
+  {
+   "title": "利用規約",
+   "url": "https://www.mitsui-mice.jp/nihonbashi/wp/wp-content/themes/mitsui-mice/assets/pdf/terms.pdf"
+  },
+  {
+   "title": "ケータリング会社のご案内（2026年9月24日）",
+   "url": "https://www.mitsui-mice.jp/nihonbashi/wp/wp-content/themes/mitsui-mice/assets/pdf/catering.pdf"
+  },
+  {
+   "title": "搬出入のご案内（2026年8月5日現在）",
+   "url": "https://www.mitsui-mice.jp/nihonbashi/wp/wp-content/themes/mitsui-mice/assets/pdf/guide_hanshutsunyu.pdf"
+  },
+  {
+   "title": "機械式駐車場のご案内（2021/7/1）",
+   "url": "https://www.mitsui-mice.jp/nihonbashi/wp/wp-content/themes/mitsui-mice/assets/pdf/guide_parking.pdf"
+  },
+  {
+   "title": "周辺マップ",
+   "url": "https://www.mitsui-mice.jp/nihonbashi/wp/wp-content/themes/mitsui-mice/assets/pdf/accessmap.pdf"
+  },
+  {
+   "title": "公共交通機関からのアクセスマップ（2021年10月時点）",
+   "url": "https://www.mitsui-mice.jp/nihonbashi/wp/wp-content/themes/mitsui-mice/assets/pdf/tika.pdf"
+  },
+  {
+   "title": "資料ダウンロード（公式ページ）",
+   "url": "https://www.mitsui-mice.jp/nihonbashi/muromachi/docs"
+  }
+ ],
+ "checkedAt": "2026-11-02",
+ "lat": 35.687458,
+ "lng": 139.77272,
+ "nearby": {
+  "convenience": [
+   {
+    "name": "ファミリーマート 日本橋室町三井タワー店",
+    "brand": "ファミリーマート",
+    "distanceM": 47,
+    "walkMin": 1,
+    "hours": "7:00-22:00（土日祝休み）",
+    "address": "東京都中央区日本橋室町3丁目2-1",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/57109",
+    "note": "距離は公式の店舗位置で計算。公式の店舗名は「ファミマ日本橋室町三井タワー店」。公式の店舗データに「土日祝休み」の記載あり"
+   },
+   {
+    "name": "ファミリーマート 日本橋三井タワー店",
+    "brand": "ファミリーマート",
+    "distanceM": 56,
+    "walkMin": 1,
+    "hours": "7:00-23:00",
+    "address": "東京都中央区日本橋室町2丁目1-1",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/77193",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "セブン-イレブン 日本橋室町3丁目店",
+    "brand": "セブン-イレブン",
+    "distanceM": 110,
+    "walkMin": 2,
+    "hours": "24時間営業",
+    "address": "東京都中央区日本橋室町3-4-4",
+    "verified": true,
+    "source": "https://seven-eleven.areamarker.com/711map/info/464700",
+    "note": "距離は公式の店舗位置で計算"
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "アクセア 新日本橋店",
+    "brand": "アクセア",
+    "distanceM": 189,
+    "walkMin": 3,
+    "hours": "平日 9:00-20:00／土・日・祝 10:00-19:00",
+    "address": "東京都中央区日本橋本町4-1-1 加島商館ビル 1F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/map/shinnihonbashi.html",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "アクセア 大手町店",
+    "brand": "アクセア",
+    "distanceM": 578,
+    "walkMin": 8,
+    "hours": "24時間営業（年中無休）",
+    "address": "東京都千代田区内神田2-2-6 田中ビル1F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/map/otemachi.html",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Can★Do 丸の内オアゾ店",
+    "brand": "キャンドゥ",
+    "distanceM": 669,
+    "walkMin": 9,
+    "hours": "月〜金 8:00-22:00／土〜日 9:00-21:00",
+    "address": "東京都千代田区丸の内1-6-4 丸の内オアゾ地下1階",
+    "verified": true,
+    "source": "https://shopinfo.cando-web.co.jp/detail/shop-5550/",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "DAISO 人形町駅店",
+    "brand": "ダイソー",
+    "distanceM": 839,
+    "walkMin": 11,
+    "hours": "9:00-21:00",
+    "address": "東京都中央区日本橋人形町3-7-13 B1階・1階・2階",
+    "verified": true,
+    "source": "https://www.daiso-sangyo.co.jp/shop/detail/005391",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "donki": [
+   {
+    "name": "ドン・キホーテ 秋葉原店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 1471,
+    "walkMin": 19,
+    "hours": "24時間営業",
+    "address": "東京都千代田区外神田4丁目3-3",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=98",
+    "note": "距離は住所の位置で計算。遠め。ドン・キホーテ公式サイトの店舗名は「秋葉原店」"
+   },
+   {
+    "name": "ドン・キホーテ 上野店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 2297,
+    "walkMin": 29,
+    "hours": "9:00-4:00",
+    "address": "東京都文京区湯島3-38-10",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=107",
+    "note": "距離は住所の位置で計算。遠い。ドン・キホーテ公式サイトの店舗名は「上野店」"
+   }
+  ]
+ },
+ "drinkDelivery": {
+  "available": true
+ },
+ "photo": {
+  "src": "/images/venues/muromachi-mitsui-hall.jpg",
+  "credit": "© Wpcpey / CC BY 4.0 · Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nihonbashimuromachi_Mitsui_Tower_Office_tower_entrance_201912.jpg"
+ }
+}

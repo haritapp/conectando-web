@@ -1,0 +1,144 @@
+{
+ "slug": "nissho-hall",
+ "name": "Nissho Hall and Conference Rooms",
+ "address": "Tokyo 105-0001 Nihon Shobo Kaikan 2F, 2-9-16 Toranomon, Minato-ku",
+ "accessSummary": "Tokyo Metro Hibiya Line, Toranomon Hills Station Exit A2a: 2 min walk / Ginza Line, Toranomon Station Exit 3: 5 min walk / Namboku Line, Tameike-sanno Station Exit 9: 7 min walk / Chiyoda Line, Kasumigaseki Station Exit A13: 8 min walk / JR Shimbashi Station Karasumori Exit: 17 min walk",
+ "hours": "Reception hours are 9:00-17:30. Closed December 29 to January 3 (weekdays and Sat, Sun & holidays may also be closed days). Hall usage hours are morning 9:00-12:00 / afternoon 13:00-16:30 / evening 17:30-21:00; the conference rooms are weekdays 9:00-17:00 (9:00-21:00 when used together with the hall). Hall usage time includes setup, cleanup and load-out, and in principle 2 or more time slots must be used. Early start and extension of usage time are in principle not allowed (the conference rooms can start early or extend at a rate per 30 minutes).",
+ "notice": null,
+ "rooms": [
+  {
+   "name": "2F Nissho Hall (fixed seating)",
+   "note": "1,000 fixed seats (671 on the 1st-floor level plus 1 wheelchair seat, and 328 on the 2nd-floor level). There is no standing space, and standing is prohibited in the first row of the 2nd-floor seats and in the balcony seats. The stage is 14.4 m wide, 6.9 m deep and 7.0 m high. Two dressing rooms (Dressing Room 1, 20㎡; Dressing Room 2, 27㎡) are included in the usage fee."
+  },
+  {
+   "name": "2F Large Conference Room",
+   "note": "The basic layout is 168 seats in horizontal classroom style. Layout examples also include 180 seats in vertical classroom style, 270 seats in theater style and 78 seats in hollow-square style. Lecterns and moderator desks are free. Layout changes must be requested by 3 days before (fee applies). The room can be rented on its own only on weekdays (9:00-17:00), and on Sat, Sun & holidays only when used together with the hall."
+  },
+  {
+   "name": "6F Conference Room A",
+   "note": "The basic layout is 45 seats in classroom style. Layout examples also include 36 seats in vertical classroom style and 36 seats in hollow-square style. It is the same size as Conference Room B."
+  },
+  {
+   "name": "6F Conference Room B",
+   "note": "The basic layout is 45 seats in classroom style. Layout examples also include 36 seats in vertical classroom style and 36 seats in hollow-square style. It is the same size as Conference Room A."
+  },
+  {
+   "name": "2F Conference Room C",
+   "note": "The basic layout is 24 seats in classroom style. A layout example with 24 seats in hollow-square style is also available."
+  }
+ ],
+ "ops": {
+  "loadingHours": "Load-in uses the load-in entrance on the 1st floor and the load-in elevator dedicated to the hall. The elevator interior is about 1,600 mm deep x about 2,500 mm wide x about 2,350 mm high, and the entrance is about 1,800 mm wide x about 2,100 mm high. Load-in and load-out are done within the usage time, and the load-in entrance is opened at the reserved time. Bringing in equipment and props, and special facilities, are discussed in a meeting with the hall, to be held about 1 month in advance. The use of hand trucks is completely prohibited at the Japan Fire and Disaster Prevention Information Center on the 1st floor. (Source: Stage drawings, Hall usage guide, Hall Terms of Use of September 1, 2025)",
+  "vehicleRules": "Organizers' vehicles park in the 1st-floor loading parking area (at the designated position among the 4 spaces, Loading 1 to 4). This applies to vehicles of 2 t or less and under 2.8 m in height, and the number of vehicles is up to 2 on weekdays and 3 on Sat, Sun & holidays. Use is by the \"Loading Area Parking Use Notification Form\", stating the date of use, time (in 30-minute units) and vehicle type. Exit times must be strictly observed, and if you are likely to run over, contact the disaster prevention center reception to adjust. Drivers complete the procedures at the disaster prevention center reception both on entering and leaving the building. The notification is submitted to the Japan Fire Association, Building Management Office (03-6263-9809). (Source: Loading Area Parking Use Notification Form, Hall Terms of Use of September 1, 2025, floor plans of each floor)",
+  "parking": "There is no parking lot for visitors, and the venue asks guests to use public transportation. The conference room terms of use also state that there is no parking lot for organizers or visitors and that nearby parking lots should be used. Hall organizers can park in the 1st-floor loading area, up to 2 vehicles on weekdays and up to 3 on Sat, Sun & holidays (2 t or less, up to 2,800 mm in height). (Source: Hall Terms of Use of September 1, 2025, Conference Room Terms of Use of April 1, 2026, access)",
+  "waitingRooms": "The hall has 2 dressing rooms, Dressing Room 1 at 20㎡ and Dressing Room 2 at 27㎡. Both dressing rooms are included in the hall usage fee. The keys to the dressing rooms and conference rooms are lent out at the hall office. An electric kettle can be used free of charge. (Source: Hall guide, Hall price list, Hall Terms of Use of September 1, 2025)",
+  "catering": "Eating and drinking is prohibited in the hall, and bringing in food and drink is firmly refused. For lunch boxes for users, organizers and performers, use the vendor designated by the hall (empty boxes are collected free of charge). In the conference rooms too, bringing in food and drink is firmly refused, and the designated vendor must be used. If you use it as a party venue, consult in advance. (Source: Hall Terms of Use of September 1, 2025, Conference Room Terms of Use of April 1, 2026)",
+  "restaurants": "There are restaurants on the B1 floor of Nihon Shobo Kaikan. (Source: Facility guide)"
+ },
+ "documents": [
+  {
+   "title": "Hall Terms of Use (September 1, 2025)"
+  },
+  {
+   "title": "Conference Room Terms of Use (April 1, 2026)"
+  },
+  {
+   "title": "Hall Price List (revised July 2024)"
+  },
+  {
+   "title": "Conference Room Fees and Equipment (revised July 2024)"
+  },
+  {
+   "title": "Conference Room Application Form"
+  },
+  {
+   "title": "Conference Room Basic Layouts"
+  },
+  {
+   "title": "Conference Room Other Layouts (Vertical Classroom, Theater, Hollow Square)"
+  },
+  {
+   "title": "Seating Chart"
+  },
+  {
+   "title": "Stage Drawings (Plan, Section, Rigging Weights)"
+  },
+  {
+   "title": "Stage and Seating Sections"
+  },
+  {
+   "title": "Floor Plans of Each Floor"
+  },
+  {
+   "title": "Screen Drawings"
+  },
+  {
+   "title": "Hall Lighting Materials"
+  },
+  {
+   "title": "Audio Drawings, etc."
+  },
+  {
+   "title": "Merchandise Sales Permission Application Form"
+  },
+  {
+   "title": "Loading Area Parking Use Notification Form"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "Lawson Toranomon 2-chome Tower",
+    "hours": "7:00-22:00",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "Lawson Okura Prestige Tower",
+    "hours": "7:00-23:00",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "Lawson Toranomon 2-chome",
+    "hours": "7:30-21:00",
+    "note": "Distance is calculated from the official store location."
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "Kinko's Toranomon",
+    "hours": "Weekdays 9:00-20:00 / Closed Sat, Sun & holidays",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Accea Tameike-Sanno",
+    "hours": "Weekdays 8:00-22:00 / Closed Sat, Sun & holidays",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Can Do Shiroyama Hills",
+    "hours": "Daily 9:00-23:00",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "Can Do Akasaka Hitotsugi-dori",
+    "hours": "Mon-Fri 9:00-21:00 / Sat-Sun 9:00-20:00",
+    "note": "Distance is calculated from the official store location. Rather far."
+   }
+  ],
+  "donki": [
+   {
+    "name": "Picasso Akasaka (Don Quijote)",
+    "hours": "7:00-3:00",
+    "note": "Distance is calculated from the address location. This is a separate Don Quijote format (the store name on the official website is \"Picasso Akasaka\"). Rather far."
+   },
+   {
+    "name": "Don Quijote Roppongi",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. The store name on the Don Quijote official website is \"Roppongi\". Rather far."
+   }
+  ]
+ },
+ "photoCredit": "Image of the nearest station exit, Toranomon Station Exit 2b, not the venue building. © Tokyo-Good / CC BY-SA 4.0 · Wikimedia Commons"
+}

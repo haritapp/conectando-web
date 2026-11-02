@@ -1,0 +1,210 @@
+{
+ "slug": "nikkei-hall",
+ "name": "NIKKEI Hall & Conference Room",
+ "address": "Tokyo 100-8066 Nikkei Building (Nikkei Hall on floors 3-5, rental conference rooms on 6F), 1-3-7 Otemachi, Chiyoda-ku, Tokyo",
+ "accessSummary": "Directly connected to Exit C2b of Otemachi Station (subway) / Tokyo Metro Chiyoda Line Otemachi Station, gate toward Kandabashi: about 2 min walk / Tokyo Metro Tozai Line Takebashi Station Exit 4: about 2 min walk / Tokyo Metro Marunouchi Line Otemachi Station, gate toward the Sankei-mae intersection: about 5 min walk / Tokyo Metro Hanzomon Line Otemachi Station, gate toward the Imperial Palace: about 5 min walk / Toei Mita Line Otemachi Station, gate toward Otemachi: about 6 min walk / Tokyo Metro Tozai Line Otemachi Station, west gate: about 9 min walk",
+ "hours": "Open 9:00-22:00 (time slots: morning 9:00-12:00 / afternoon 13:00-17:00 / evening 18:00-22:00). Open every day of the year, but closed on Saturdays, Sundays, holidays and the year-end and New Year holidays when there are no bookings. May close temporarily for equipment maintenance and inspection.",
+ "notice": null,
+ "rooms": [
+  {
+   "name": "3F-5F Nikkei Hall",
+   "note": "610 fixed seats (up to 14 wheelchair spaces can be set up). Seats have desks stored in the seat backs. The stage opening is 14,700 mm wide x 6,700 mm high, and the stage depth is 10,800 mm (8,000 mm when the acoustic reflector is set up). The foyer is 358㎡ on the 3rd floor and 236㎡ on the 4th floor (the introduction text on the same page says about 540㎡ for the 3rd and 4th floors combined). The elevator for moving equipment in and out has interior dimensions of W180 x D300 x H250 cm and a load capacity of 3,500 kg."
+  },
+  {
+   "name": "6F Nikkei Conference Room (entire)",
+   "note": "Capacity figures are a guide. Can be divided into smaller rooms with movable partitions. School style is the basic layout; changing to other layouts incurs a layout change fee."
+  },
+  {
+   "name": "6F Nikkei Conference Room A",
+   "note": null
+  },
+  {
+   "name": "6F Nikkei Conference Room B",
+   "note": null
+  },
+  {
+   "name": "6F Nikkei Conference Room C",
+   "note": null
+  },
+  {
+   "name": "6F Nikkei Conference Room B+C",
+   "note": null
+  },
+  {
+   "name": "6F Nikkei Otemachi Seminar Room 1 A",
+   "note": null
+  },
+  {
+   "name": "6F Nikkei Otemachi Seminar Room 1 B",
+   "note": null
+  },
+  {
+   "name": "6F Nikkei Otemachi Seminar Room 1 A+B",
+   "note": null
+  },
+  {
+   "name": "6F Nikkei Otemachi Seminar Room 2 A",
+   "note": null
+  },
+  {
+   "name": "6F Nikkei Otemachi Seminar Room 2 B",
+   "note": null
+  },
+  {
+   "name": "6F Nikkei Otemachi Seminar Room 2 A+B",
+   "note": null
+  },
+  {
+   "name": "6F Meeting Room 6B",
+   "note": "Available only on Saturdays, Sundays and holidays. Cannot be used alone; apply together with the Hall, Conference Room, or Seminar Room 1 or 2."
+  }
+ ],
+ "ops": {
+  "prevDaySetup": "Use for setup and rehearsals (excluding public dress rehearsals) is charged at half the usage-slot fee. This half-price discount is not applied when the deposit is invoiced; it is settled when the fees for attached equipment and so on are invoiced. For the rental conference rooms, this applies only when setup and the event itself take place in the same room. Early-morning work (8:00-9:00) can be discussed. The usage time includes setup, the event and teardown, and runs from entering to leaving the building (Usage Guide (Terms), September 1, 2023 edition).",
+  "loadingHours": "Advance application is required to load in and out using the freight elevator in the Nikkei Building; submit the \"Parking Use Application\", \"Load-in/Load-out Notice\", \"Work Notice\" and similar forms. Because it can take time depending on the volume, time of day and elevator congestion, consult in advance. Plan to finish everything from setup to teardown within your usage slot; use beyond the slot is not possible. There is no dedicated baggage storage space, so arrange shipping so that packages can be received at the venue on the day (Usage Guide (Terms), September 1, 2023 edition, FAQ).",
+  "vehicleRules": "Advance application is required to load in and out using the Nikkei Building parking lot. Because the number and size of vehicles that can be used are limited, consult in advance and then submit the \"Parking Use Application\", \"Load-in/Load-out Notice\", \"Work Notice\" and similar forms (Usage Guide (Terms), September 1, 2023 edition).",
+  "parking": "There is no parking lot or bicycle parking exclusively for visitors. Use the mechanical parking lot on the 2nd basement floor of the Otemachi Conference Center (open 7:00-22:00, exit possible 24 hours, 300 yen per 30 minutes). Check the usable vehicle sizes with the parking lot (TEL 03-3213-3938). There is no space to park bicycles or motorcycles. For organizers' parking, contact the Nikkei Hall Business Headquarters (TEL 03-6256-7686). The 2nd basement floor of the Nikkei Building has 3 wheelchair-only parking spaces, but they are not exclusive to the hall.",
+  "waitingRooms": "The Nikkei Hall has 7 waiting rooms. 3rd floor: Waiting Room 3A 17㎡, 6 people; 3B 22㎡, 6 people (with toilet and shower); 3C 13㎡, 6 people; 3D 15㎡, 10 people. 4th floor: Waiting Room 4A 25㎡, 6 people; 4B 36㎡, 12 people (can be used connected to 4A); 4C 28㎡, 21 people. There is a shower room in the 4th-floor back area. The rental conference rooms (6F) include one speaker waiting room in the usage fee (limited number).",
+  "catering": "Bento boxes, catering, signs, fresh flowers and decorations are handled by designated vendors, and the hall introduces them. Vendors other than the designated ones cannot be used. Eating and drinking inside the hall seating area is prohibited; eating and drinking take place in the 3rd- and 4th-floor foyers. Consult in advance when using the foyers or similar spaces for anything involving food or drink. The drink corner in the 3rd-floor foyer cannot be rented on its own; if it is used, it is operated only by the designated vendor (FAQ, Usage Guide (Terms), September 1, 2023 edition).",
+  "restaurants": "There are restaurants and a convenience store in the Otemachi Conference Mall on the 1st basement floor (closed on Sundays and holidays). There is a drink vending machine in the 4th-floor foyer."
+ },
+ "documents": [
+  {
+   "title": "Usage Guide (Terms) (September 1, 2023 edition)"
+  },
+  {
+   "title": "Nikkei Hall and Rental Conference Room Usage Fees"
+  },
+  {
+   "title": "Nikkei Hall Attached Equipment and Fixtures Usage Fees"
+  },
+  {
+   "title": "Nikkei Hall Attached Equipment Set Prices"
+  },
+  {
+   "title": "Rental Conference Room Attached Equipment and Fixtures Usage Fees"
+  },
+  {
+   "title": "Nikkei Hall Equipment List"
+  },
+  {
+   "title": "Nikkei Hall Stage Fixtures"
+  },
+  {
+   "title": "Nikkei Hall Seating Chart"
+  },
+  {
+   "title": "Nikkei Hall 3F Hall Floor Plan"
+  },
+  {
+   "title": "Nikkei Hall 4F Hall Floor Plan"
+  },
+  {
+   "title": "Nikkei Hall 5F Hall Floor Plan"
+  },
+  {
+   "title": "Nikkei Hall Stage Floor Plan (acoustic reflector stored)"
+  },
+  {
+   "title": "Nikkei Hall Stage Floor Plan (acoustic reflector set up)"
+  },
+  {
+   "title": "Nikkei Hall Stage Cross-Section (acoustic reflector stored)"
+  },
+  {
+   "title": "Nikkei Hall Stage Cross-Section (acoustic reflector set up)"
+  },
+  {
+   "title": "6F Rental Conference Rooms: School-Style Floor Plan"
+  },
+  {
+   "title": "6F Rental Conference Rooms: School-Style Floor Plan (Divided)"
+  },
+  {
+   "title": "6F Rental Conference Rooms: Theater-Style Floor Plan"
+  },
+  {
+   "title": "6F Rental Conference Rooms: Theater-Style Floor Plan (Divided)"
+  },
+  {
+   "title": "6F Rental Conference Rooms: Hollow Square Floor Plan"
+  },
+  {
+   "title": "6F Rental Conference Rooms: Hollow Square Floor Plan (Divided)"
+  },
+  {
+   "title": "Nikkei Hall Application Form (zip)"
+  },
+  {
+   "title": "Nikkei Hall Usage Plan (zip)"
+  },
+  {
+   "title": "Rental Conference Room Application Form (zip)"
+  },
+  {
+   "title": "Rental Conference Room Usage Plan (zip)"
+  },
+  {
+   "title": "Booking (Process and Cancellation Fees)"
+  },
+  {
+   "title": "FAQ"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "Lawson Kanda-Nishikicho",
+    "hours": "7:00-20:00",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "7-Eleven Kanda-Nishikicho Chiyoda-dori",
+    "hours": "7:00-23:00 (Mon-Sun & holidays)",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "FamilyMart Uchikanda 1-chome",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location."
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "Accea Uchikanda",
+    "hours": "Weekdays, Sat, Sun & holidays 8:00-22:00 (during Accea Cafe's opening hours)",
+    "note": "Distance is calculated from the address location. An unmanned self-service store inside Accea. Cash cannot be used."
+   },
+   {
+    "name": "Accea Otemachi",
+    "hours": "Open 24 hours (open every day of the year)",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "DAISO Kanda-Jimbocho Suzuran-dori",
+    "hours": "10:00-21:00",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Can Do Marunouchi Oazo",
+    "hours": "Mon-Fri 8:00-22:00 / Sat-Sun 9:00-21:00",
+    "note": "Distance is calculated from the official store location."
+   }
+  ],
+  "donki": [
+   {
+    "name": "Don Quijote Akihabara",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. Rather far. The store name on the Don Quijote official website is \"Akihabara\" (秋葉原店)."
+   },
+   {
+    "name": "Don Quijote Korakuen",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. Far. The store name on the Don Quijote official website is \"Korakuen\" (後楽園店)."
+   }
+  ]
+ },
+ "photoCredit": "© J o / CC BY-SA 3.0 · Wikimedia Commons"
+}

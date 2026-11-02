@@ -1,0 +1,211 @@
+{
+ "slug": "k-stage-o",
+ "nameJa": "K-Stage O!",
+ "nameEn": "K-Stage O!",
+ "type": "hall",
+ "area": "shinjuku-venues",
+ "address": "〒169-0072 東京都新宿区大久保1-8-4 K-SQUAREビル3F",
+ "officialUrl": "https://kstageo.com/",
+ "organizerUrl": "https://kstageo.com/spec-rental-2/",
+ "bizintokyoSlug": "k-stage-o",
+ "accessSummary": "東京メトロ副都心線・都営大江戸線「東新宿駅」A1出口から徒歩3分／西武新宿線「西武新宿駅」から徒歩7分／JR「新大久保駅」から徒歩10分／各線「新宿駅」から徒歩約15分",
+ "notice": "小ホール（J-Stage O!）の昼・夜・終日プランは、現在定期利用のみ予約可（料金表 2026年6月18日版）。ホールレンタルは6か月以上先の予約を受け付けていない。",
+ "hours": "貸切利用の利用可能時間は、入りから完全撤収までを含む。大ホールは早朝6:00〜10:00／昼10:00〜16:00／夜16:00〜24:00（6時間プランは22:00まで）／終日10:00〜22:00。小ホールは早朝6:00〜11:00／深夜21:00〜24:00（昼・夜・終日は定期利用のみ）。問い合わせ窓口は10:30〜19:00で、受付はフォームのみ。",
+ "rooms": [
+  {
+   "name": "大ホール K-Stage O!",
+   "areaM2": 207,
+   "ceilingM": 3.8,
+   "theater": 207,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "客席165㎡・ステージ42㎡（幅12m×奥行3.5m×高さ3.25m、舞台高0.64m）。公式の最大収容人数は「207席（着席時）」。貸切の終日プラン（10:00〜22:00）は平日330,000円／土日祝660,000円（税抜、限定キャンペーン価格。レンタル料金は369,600円／726,000円。料金表 2026年6月18日版）。音響・照明オペレーター2名は1名32,000円（税抜、会場手配スタッフが基本）。ワイヤレスマイクは7本まで基本料金に含まれ、8本以上は料金表で1本4,000円／日、よくあるご質問では1本2,000円〜と数字が違う。大ホール利用者は小ホール側の区域に入れず、特典会スペースとロビーは小ホール利用者との共用。"
+  },
+  {
+   "name": "小ホール J-Stage O!",
+   "areaM2": 96.2,
+   "ceilingM": 3.8,
+   "theater": 100,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "客席68.2㎡・ステージ28㎡（幅8m×奥行3.5m×高さ3.25m、舞台高0.64m）。公式の最大収容人数は「100席（着席時）」。貸切で今予約できるのは早朝（平日6:00〜11:00、5時間プラン52,800円）と深夜（21:00〜24:00、3時間プラン平日44,000円／金土日祝・祝前日46,200円）のプラン（税抜、限定キャンペーン価格、料金表 2026年6月18日版）。小ホール利用者は大ホール側の区域に入れない。"
+  }
+ ],
+ "roomsSource": "https://kstageo.com/spec-rental-2/",
+ "ops": {
+  "waitingRooms": {
+   "text": "大ホールの控室は2部屋（A控室16㎡、B控室13.5㎡）で、男女別トイレが各1部屋ある。基本利用料金に含まれる控室は大ホールが2部屋、小ホールが1部屋。控室の追加1室は1日10,000円（税抜）。（出典：レンタルページ、料金表 2026年6月18日版）",
+   "source": "https://kstageo.com/spec-rental-2/"
+  },
+  "catering": {
+   "text": "ホール内飲食利用（ディナーショー等）はオプション料金で1日100,000円（税抜）。入場者から1ドリンク代600円を徴収するのが基本で、主催者負担（1ドリンク保証）やドリンクなしのプランも相談できる。ゴミは原則持ち帰りで、会場での処分はオプション1日5,000円（税抜）。（出典：料金表 2026年6月18日版、よくあるご質問）",
+   "source": "https://kstageo.com/contact/"
+  }
+ },
+ "documents": [
+  {
+   "title": "大ホール ホールレンタル料金表（2026年6月18日版）",
+   "url": "https://kstageo.com/wp-content/uploads/2026/06/KakaoTalk_20260620_111614838.jpg"
+  },
+  {
+   "title": "小ホール ホールレンタル料金表（2026年6月18日版）",
+   "url": "https://kstageo.com/wp-content/uploads/2026/06/KakaoTalk_20260620_111611400.jpg"
+  },
+  {
+   "title": "ホールレンタル利用者様へ（予約方法・キャンセルポリシー・支払方法、2024年8月19日付）",
+   "url": "https://kstageo.com/wp-content/uploads/2025/02/KakaoTalk_20250217_114308154.jpg"
+  },
+  {
+   "title": "立入可能区域の限定について・フロア案内図（大ホール・小ホール）",
+   "url": "https://kstageo.com/wp-content/uploads/2026/01/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88-2026-01-10-164907.png"
+  },
+  {
+   "title": "3Fフロアガイド（2024年12月24日）",
+   "url": "https://kstageo.com/wp-content/uploads/2024/12/HP%E7%94%A8_3F%E3%83%95%E3%83%AD%E3%82%A2%E3%82%AC%E3%82%A4%E3%83%8920241224-01-scaled.jpg"
+  },
+  {
+   "title": "大ホール 平面図（2024年12月24日）",
+   "url": "https://kstageo.com/wp-content/uploads/2024/12/K-Stage-O%E5%B9%B3%E9%9D%A2%E5%9B%B3-_HP%E7%94%A8_20241224_%E3%82%A2%E3%83%BC%E3%83%88%E3%83%9C%E3%83%BC%E3%83%89-1-scaled.jpg"
+  },
+  {
+   "title": "小ホール 平面図（2024年12月24日）",
+   "url": "https://kstageo.com/wp-content/uploads/2024/12/J-Stage-O%E5%B9%B3%E9%9D%A2%E5%9B%B3-_HP%E7%94%A8_20241224_%E3%82%A2%E3%83%BC%E3%83%88%E3%83%9C%E3%83%BC%E3%83%89-1-scaled.jpg"
+  },
+  {
+   "title": "大ホール 舞台設備表",
+   "url": "https://kstageo.com/wp-content/uploads/2023/03/K-Stage-O_Stage_Equipment.jpg"
+  },
+  {
+   "title": "小ホール 舞台設備表",
+   "url": "https://kstageo.com/wp-content/uploads/2024/08/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88-2024-08-21-180411.png"
+  },
+  {
+   "title": "お問い合わせ・よくあるご質問",
+   "url": "https://kstageo.com/contact/"
+  }
+ ],
+ "checkedAt": "2026-11-02",
+ "lat": 35.698437,
+ "lng": 139.704498,
+ "nearby": {
+  "convenience": [
+   {
+    "name": "ファミリーマート 東新宿駅西店",
+    "brand": "ファミリーマート",
+    "distanceM": 38,
+    "walkMin": 1,
+    "hours": "24時間",
+    "address": "東京都新宿区大久保1-8-2",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/26904",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "ファミリーマート 新宿職安通り店",
+    "brand": "ファミリーマート",
+    "distanceM": 79,
+    "walkMin": 1,
+    "hours": "24時間",
+    "address": "東京都新宿区大久保1-12-1 第2韓国広場ビル",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/23973",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "ローソン 歌舞伎町二丁目店",
+    "brand": "ローソン",
+    "distanceM": 102,
+    "walkMin": 2,
+    "hours": "24時間営業",
+    "address": "東京都新宿区歌舞伎町2-17-10",
+    "verified": true,
+    "source": "https://www.areamarker.com/lawson/info/260600",
+    "note": "距離は公式の店舗位置で計算"
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "アクセア 新宿三丁目店",
+    "brand": "アクセア",
+    "distanceM": 688,
+    "walkMin": 9,
+    "hours": "平日9:00～20:00／土日祝休み",
+    "address": "東京都新宿区新宿3-14-22 小川ビル3F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/entry.html",
+    "note": "距離は住所の位置で計算。公式で「アクセアミニ」（小型店）の表示。店頭の支払いは現金不可（クレジットカード・電子マネー・QRコード決済・BizSPOTペイ）"
+   },
+   {
+    "name": "アクセア 西新宿店",
+    "brand": "アクセア",
+    "distanceM": 906,
+    "walkMin": 12,
+    "hours": "24時間営業",
+    "address": "東京都新宿区西新宿7-12-3 西新宿佐藤ビル1F～4F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/entry.html",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Can★Do 新大久保店",
+    "brand": "キャンドゥ",
+    "distanceM": 309,
+    "walkMin": 4,
+    "hours": "月〜金 9:00〜22:00／土・日 9:00〜21:00",
+    "address": "東京都新宿区大久保1-15-18 みゆきビル1・2階",
+    "verified": true,
+    "source": "https://shopinfo.cando-web.co.jp/detail/shop-1569/",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "DAISO 新宿サブナード店",
+    "brand": "ダイソー",
+    "distanceM": 445,
+    "walkMin": 6,
+    "hours": "10:00-21:00",
+    "address": "東京都新宿区歌舞伎町1丁目靖国通り下 新宿サブナード地下街内",
+    "verified": true,
+    "source": "https://www.daiso-sangyo.co.jp/shop/detail/008703",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "donki": [
+   {
+    "name": "ドン・キホーテ 新宿店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 141,
+    "walkMin": 2,
+    "hours": "24時間営業",
+    "address": "東京都新宿区大久保1-12-6",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=8",
+    "note": "距離は住所の位置で計算。ドン・キホーテ公式サイトの店舗名は「新宿店」"
+   },
+   {
+    "name": "ドン・キホーテ 新宿歌舞伎町店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 577,
+    "walkMin": 8,
+    "hours": "24時間営業",
+    "address": "東京都新宿区歌舞伎町1-16-5",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=29",
+    "note": "距離は住所の位置で計算。ドン・キホーテ公式サイトの店舗名は「新宿歌舞伎町店」"
+   }
+  ]
+ },
+ "drinkDelivery": {
+  "available": true
+ },
+ "photo": {
+  "src": "/images/venues/k-stage-o.jpg",
+  "credit": "最寄りの新大久保駅のイメージ写真です（会場の建物ではありません）。© Tokyo-Good / CC BY-SA 4.0 · Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Shin-Okubo-Station-newstation-building.jpg"
+ }
+}

@@ -1,0 +1,143 @@
+{
+ "slug": "newpier-hall",
+ "name": "New Pier Hall",
+ "address": "Tokyo 105-0022 New Pier Takeshiba North Tower 1F, 1-11-1 Kaigan, Minato-ku",
+ "accessSummary": "Yurikamome Takeshiba Station: 2 min walk / JR Lines and Tokyo Monorail Hamamatsucho Station: 7 min walk / Toei Oedo Line Daimon Station: 8 min walk / Toei Asakusa Line Daimon Station: 10 min walk",
+ "hours": "Full-day use 9:00-21:00 or 10:00-22:00. Block use: Block 1 9:00-13:00 / 10:00-14:00, Block 2 13:00-17:00 / 14:00-18:00, Block 3 17:00-21:00 / 18:00-22:00. The usage hours are fixed at the time of contract and include setup and cleanup time. (Rules of Use, April 1, 2026 version)",
+ "notice": null,
+ "rooms": [
+  {
+   "name": "Hall (entire)",
+   "note": "W27 m x D27 m flat floor with a wooden floor (load capacity 600 kg/㎡). The facility outline PDF gives the area as about 730㎡, while the Space Arrangement page gives 737㎡. The ceiling height of 5.8 m is measured to the lowest point of the hanging equipment (4.7 m under part of the catwalk). Theater is the maximum using 396 roll-back chairs together with 400 stacking chairs. Classroom is the maximum using the entire floor with desks and chairs; a sample layout that also uses roll-back chairs gives 460 seats. The \"About New Pier Hall\" page also states a maximum of 430 seats at 3 persons per desk for conferences and seminars. Roll-back chairs come in 396 or 216 seats, and stacking chairs in 400 seats."
+  },
+  {
+   "name": "Hall (divided use, one side)",
+   "note": "One side of the floor divided in two by the movable partition wall (W27 m x D11.6 m). When used as a reception venue, about 200 people standing. Use of only one side is also possible."
+  },
+  {
+   "name": "Hall (divided use, the other side)",
+   "note": "The other side of the floor divided in two by the movable partition wall (W27 m x D15.3 m). The official page describes \"one side as a theater-style presentation venue and the other as a reception venue\" and states divided-use theater as 216 seats in the sample arrangement and 288 seats at maximum (it does not specify which side the seat count refers to, but it gives the reception side as 316㎡)."
+  },
+  {
+   "name": "Foyer",
+   "note": "Ceiling height 4 m (3.6 m in part). Has a bar counter with a sink and refrigerator. It can be used for parties combining the hall, foyer and car porch, and for exhibits in the foyer."
+  }
+ ],
+ "ops": {
+  "prevDaySetup": "When using the venue for the full day for preparation, setup, rehearsal and teardown, the \"full-day use (setup/teardown day)\" rate (715,000 yen including tax) applies, for up to 2 days per event. It does not apply to block use. Setup and teardown time is included in the usage time. Before 9:00 (10:00) and after 21:00 (22:00), an after-hours extension fee (220,000 yen per hour including tax) is required, and use before 8:00 or after 23:00 is not allowed. Equipment usage fees are discounted on setup and rehearsal days (lighting 50% off, sound half price). (The Rules of Use and the price list are both the April 1, 2026 version.)",
+  "loadingHours": "The loading entrance opening is 3.6 m wide x 4.0 m high, with a weight limit of 4 t (the loading entrance map and the FAQ page state a height of 3.8 m). It is about 10 m from the loading entrance to the hall with no steps, and large items such as exhibit vehicles can also be brought in. Load-in and load-out are the user's responsibility, and protection of wall and floor surfaces is required. Load-in and load-out must be done within the contracted usage time (including setup and teardown), and extension fees apply outside that time. A meeting with the staff member on setup and equipment is held at least 30 days before the usage date. The application for release from prohibited acts must be submitted to the Shiba Fire Station no later than 14 days before the event date. (Facility outline PDF, April 1, 2026 version; Rules of Use, April 1, 2026 version)",
+  "vehicleRules": "Delivery vehicles and broadcast relay vehicles may not be left overnight. About 12 passenger cars can park free of charge inside the orange zebra zone at the stage door beside the hall. It is not an exclusive space; vehicles of contractors entering and leaving the building also stop there. Because large trucks enter and leave the port area, vehicles must be kept strictly within the zebra zone frame, and parking is prohibited on the sea side of the loading entrance. Vehicles that obstruct entry and exit must be moved, with the event temporarily halted. Vehicle management is the responsibility of the organizer/operator. (Facility outline PDF, April 1, 2026 version; Notes on Vehicle Parking on Usage Days PDF)",
+  "parking": "The New Pier Takeshiba North Tower parking lot under the building (B1F to B3F, self-park, 149 spaces) can be used (operated by Times 24). The official PDF says \"about 150 spaces, 600 yen per hour, 3,600 yen per 24 hours\"; it has no tie-up with the hall, and there are no discount tickets or service tickets. (Notes on Vehicle Parking on Usage Days PDF)",
+  "waitingRooms": "There are 5 waiting rooms: Waiting Room 1 (58㎡, 20 people), Waiting Room 2 (57㎡, 20 people), Waiting Room 3 (21㎡, 4 people), Waiting Room 4 (21㎡, 4 people) and the Organizer's Waiting Room (21㎡, 6 people). There are also shower rooms (one each for men and women) and a kitchenette. Waiting Room 1 and the Organizer's Waiting Room are included in the hall usage fee; Waiting Rooms 2 to 4 are 11,000 yen each including tax, and the shower rooms are 5,500 yen each including tax. (The facility outline PDF and the price list are both the April 1, 2026 version.)",
+  "catering": "Catering and staff boxed meals are included in the \"quoted separately\" items on the price list. Eating and drinking inside the hall is not allowed while a setup using roll-back chairs (movable seating) is out, but is possible with other layouts. The Rules of Use ask that eating and drinking outside designated areas be refrained from. Trash must be taken home. (Price list, April 1, 2026 version; Rules of Use, April 1, 2026 version)",
+  "restaurants": "The official facility outline lists Tsukiji Uemura Takeshiba Hinkan (03-5776-6118) as a restaurant among the surrounding facilities. The official page explains that receptions can be held standing with about 200 people on one side of the hall divided in two (316㎡), or as a party combining the floor, foyer and car porch. The foyer has a bar counter (with a sink and refrigerator). (Facility outline PDF, April 1, 2026 version)"
+ },
+ "documents": [
+  {
+   "title": "Facility Outline (ver.20260401)"
+  },
+  {
+   "title": "Rules of Use (ver.20260401)"
+  },
+  {
+   "title": "Price List (April 2026 onward)"
+  },
+  {
+   "title": "Notice of Price Revision (March 2026)"
+  },
+  {
+   "title": "Equipment List (2026)"
+  },
+  {
+   "title": "Overall Floor Plan"
+  },
+  {
+   "title": "Hall and Foyer Drawings"
+  },
+  {
+   "title": "Stage Lighting Equipment Diagram"
+  },
+  {
+   "title": "Stage Lighting Circuit Diagram"
+  },
+  {
+   "title": "Basic Lighting Rigging Plan"
+  },
+  {
+   "title": "Notes on Lighting Rigging"
+  },
+  {
+   "title": "DMX Compatibility Table"
+  },
+  {
+   "title": "Electroacoustic Equipment Diagram"
+  },
+  {
+   "title": "Hanging Equipment Plan View"
+  },
+  {
+   "title": "Map"
+  },
+  {
+   "title": "Loading Entrance Map"
+  },
+  {
+   "title": "Notes on Vehicle Parking on Usage Days"
+  },
+  {
+   "title": "Booking Status (as of November 2, 2026)"
+  },
+  {
+   "title": "Rehearsal Plan Terms of Use (2025)"
+  },
+  {
+   "title": "Rehearsal Plan Price Guide (2025)"
+  },
+  {
+   "title": "Space Arrangement (floor plan)"
+  },
+  {
+   "title": "FAQ for Organizers"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "FamilyMart Nanzando Takeshiba Station Front",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "7-Eleven Shiodome Building",
+    "hours": "Weekdays 7:00-23:00 / Sat, Sun & holidays 7:00-19:00",
+    "note": "Distance is calculated from the official store location. The actual walking distance is about 680 m."
+   },
+   {
+    "name": "7-Eleven Minato-ku Kaigan 1-chome",
+    "hours": "Daily 7:00-23:00",
+    "note": "Distance is calculated from the official store location. The actual walking distance is about 808 m."
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "Accea Hamamatsucho",
+    "hours": "Weekdays 8:00-22:00 / Sat, Sun & holidays 10:00-19:00",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Kinko's Shiodome",
+    "hours": "Weekdays 9:00-19:00 / Closed Sat, Sun & holidays",
+    "note": "Distance is calculated from the address location. The actual walking distance is about 1,520 m. Rather far."
+   }
+  ],
+  "hundredYen": [],
+  "donki": [
+   {
+    "name": "Don Quijote Ginza Main Building (Ginza Nine Building No. 3)",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. Rather far."
+   }
+  ]
+ },
+ "photoCredit": "© Beryllium Transistor / CC BY-SA 4.0 · Wikimedia Commons"
+}
