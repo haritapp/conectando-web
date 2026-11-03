@@ -108,6 +108,8 @@ export const AREA_LABEL: Record<string, string> = {
   'kanda-suidobashi-venues': '神田・秋葉原・飯田橋・水道橋',
   'ueno-asakusa-venues': '上野・浅草',
   'odaiba-ariake-venues': 'お台場・有明',
+  'tama-venues': '多摩（八王子・立川）',
+  'east-tokyo-venues': '錦糸町・船堀（東京東部）',
   'yokohama-venues': '横浜',
   'chiba-venues': '千葉（幕張・舞浜）',
 };

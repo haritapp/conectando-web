@@ -1,0 +1,233 @@
+{
+ "slug": "tokyo-convention-hall",
+ "name": "Tokyo Convention Hall",
+ "address": "Tokyo 104-0031 Tokyo Square Garden 5F, 3-1-1 Kyobashi, Chuo-ku",
+ "accessSummary": "JR Tokyo Station Yaesu South Exit: 5 min walk / JR Yurakucho Station Kyobashi Exit: 6 min walk / Tokyo Metro Ginza Line Kyobashi Station Exit 3: directly connected / Tokyo Metro Yurakucho Line Ginza-itchome Station Exit 7: 2 min walk / Toei Asakusa Line Takaracho Station Exit A4: 2 min walk",
+ "hours": "The usage categories are all day 9:00-21:00, daytime 9:00-17:00, morning 9:00-12:00, afternoon 13:00-17:00 and evening 18:00-21:00, and each can be extended in 1-hour units. The maximum usable time is 8:00-21:00. Before 8:00 and after 21:00, the fee for the corresponding time slot is 50% higher. Usage time includes setup and removal. (Source: User Guide as of January 1, 2026)",
+ "notice": "Applications are accepted from 12 months before the usage date (from 6 months before for the Small Hall and meeting rooms, which do not include the Large Hall). Provisional reservations are accepted by email only and are held for 2 weeks. The fee must be paid in full before the event date. Cancellation fees are 30% from the application date to 91 days before, 50% from 90 to 61 days before, 70% from 60 to 31 days before, and 100% from 30 days before to the day itself. If video, sound, lighting, streaming equipment or construction work is brought in from outside, the charge is 150,000 yen (excluding tax) per vendor per day. Bringing in simultaneous interpretation equipment is declined. For food and drink, use the designated caterers. The building is closed from December 31 to January 3 and on the third Sunday of February. (Source: User Guide as of January 1, 2026)",
+ "rooms": [
+  {
+   "name": "Large Hall (entire)",
+   "note": "Can be divided in two: A and B."
+  },
+  {
+   "name": "Large Hall A",
+   "note": null
+  },
+  {
+   "name": "Large Hall B",
+   "note": null
+  },
+  {
+   "name": "Small Hall",
+   "note": null
+  },
+  {
+   "name": "Mid-Sized Meeting Room I (entire)",
+   "note": "Can be divided in three: A, B and C."
+  },
+  {
+   "name": "Mid-Sized Meeting Room I-A",
+   "note": null
+  },
+  {
+   "name": "Mid-Sized Meeting Room I-B",
+   "note": null
+  },
+  {
+   "name": "Mid-Sized Meeting Room I-C",
+   "note": null
+  },
+  {
+   "name": "Mid-Sized Meeting Room II (entire)",
+   "note": "Can be divided in three: A, B and C."
+  },
+  {
+   "name": "Mid-Sized Meeting Room II-A",
+   "note": null
+  },
+  {
+   "name": "Mid-Sized Meeting Room II-B",
+   "note": null
+  },
+  {
+   "name": "Mid-Sized Meeting Room II-C",
+   "note": null
+  },
+  {
+   "name": "Small-Sized Meeting Room A",
+   "note": "Island layout for 10 people."
+  },
+  {
+   "name": "Small-Sized Meeting Room B",
+   "note": null
+  },
+  {
+   "name": "Small-Sized Meeting Room C",
+   "note": null
+  },
+  {
+   "name": "Foyer I",
+   "note": "Available when the Large Hall and Mid-Sized Meeting Room I are used at the same time. Shared areas are, in principle, limited to reception and the like."
+  },
+  {
+   "name": "Foyer II",
+   "note": "Available when the Small Hall and Mid-Sized Meeting Room II are used at the same time. Shared areas are, in principle, limited to reception and the like."
+  }
+ ],
+ "ops": {
+  "prevDaySetup": "The facility usage fee is half price only for load-in of equipment and goods on the day before the event. The regular usage fee applies if you start up video, lighting, sound or streaming equipment, or run projection or operation checks. If you use equipment or fixtures on a setup day or rehearsal day other than the event day, those fees also apply.",
+  "loadingHours": "For load-in and load-out, agree on the route and the number of vehicles with the facility staff in advance, and submit a \"Load-out/Load-in Notice\" at least 1 week before the usage date. You cannot enter the building unless you bring the notice on the day. Take the necessary protective covering measures; if they are not accepted, the work may be stopped. Users provide their own hand trucks. There are 2 passenger elevators (1950 x 1950 x 2500 mm) and 1 freight elevator (1500 x 2300 x 2700 mm, load capacity 1600 kg). Advance delivery by courier or mail requires prior notice and approval, and may not be accepted depending on how the facility is being used. In principle, courier and other packages are not accepted on the day.",
+  "vehicleRules": "Vehicles for load-in and load-out must leave as soon as loading and unloading are finished. Long-term parking is not allowed. Agree on the load-in route and the number of vehicles with the facility staff in advance.",
+  "parking": "The hourly parking lot has about 210 spaces, open 7:00-23:00 (except closure days), 300 yen per 30 minutes (tax included). Parking limits: elevator A: length 5600 x width 1950 x height 2050 mm, weight 2300 kg; elevator B: length 5300 x width 1950 x height 2050 mm, weight 2600 kg.",
+  "catering": "Boxed meals, drinks and catering are arranged through the facility's designated vendors. Tell them the final numbers at least 1 week before the event. Bringing in food and drink from vendors other than the designated ones is discouraged, and bringing in food and drink for sanitary reasons is not accepted at all."
+ },
+ "documents": [
+  {
+   "title": "User Guide (Terms of Use), as of January 1, 2026"
+  },
+  {
+   "title": "Entire 5F Floor Plan, blank plan (version of February 3, 2016)"
+  },
+  {
+   "title": "Entire 5F Floor Plan, with dimensions (version of February 3, 2016)"
+  },
+  {
+   "title": "Entire 5F Layout Plan, theater layout, full span (version of February 3, 2016)"
+  },
+  {
+   "title": "Entire 5F Layout Plan, theater layout, divided (version of February 3, 2016)"
+  },
+  {
+   "title": "Entire 5F Layout Plan, classroom layout, full span (version of February 3, 2016)"
+  },
+  {
+   "title": "Entire 5F Layout Plan, classroom layout, divided (version of February 3, 2016)"
+  },
+  {
+   "title": "Large Hall (entire), theater layout (version of February 3, 2016)"
+  },
+  {
+   "title": "Large Hall (entire), classroom layout (version of February 3, 2016)"
+  },
+  {
+   "title": "Large Hall (entire), hollow-square layout (version of February 3, 2016)"
+  },
+  {
+   "title": "Large Halls A and B, theater layout, divided (version of February 3, 2016)"
+  },
+  {
+   "title": "Large Halls A and B, classroom layout, divided (version of February 3, 2016)"
+  },
+  {
+   "title": "Large Halls A and B, hollow-square layout, divided (version of February 3, 2016)"
+  },
+  {
+   "title": "Small Hall, theater layout (version of February 3, 2016)"
+  },
+  {
+   "title": "Small Hall, classroom layout (version of February 3, 2016)"
+  },
+  {
+   "title": "Small Hall, hollow-square layout (version of February 3, 2016)"
+  },
+  {
+   "title": "Mid-Sized Meeting Room I (entire), theater layout (version of February 3, 2016)"
+  },
+  {
+   "title": "Mid-Sized Meeting Room I (entire), classroom layout (version of February 3, 2016)"
+  },
+  {
+   "title": "Mid-Sized Meeting Room I (entire), hollow-square layout (version of February 3, 2016)"
+  },
+  {
+   "title": "Mid-Sized Meeting Rooms I-A, B and C, theater layout, divided (version of February 3, 2016)"
+  },
+  {
+   "title": "Mid-Sized Meeting Rooms I-A, B and C, classroom layout, divided (version of February 3, 2016)"
+  },
+  {
+   "title": "Mid-Sized Meeting Rooms I-A, B and C, hollow-square layout, divided (version of February 3, 2016)"
+  },
+  {
+   "title": "Mid-Sized Meeting Room II (entire), theater layout (version of February 3, 2016)"
+  },
+  {
+   "title": "Mid-Sized Meeting Room II (entire), classroom layout (version of February 3, 2016)"
+  },
+  {
+   "title": "Mid-Sized Meeting Room II (entire), hollow-square layout (version of February 3, 2016)"
+  },
+  {
+   "title": "Mid-Sized Meeting Rooms II-A, B and C, theater layout, divided (version of February 3, 2016)"
+  },
+  {
+   "title": "Mid-Sized Meeting Rooms II-A, B and C, classroom layout, divided (version of February 3, 2016)"
+  },
+  {
+   "title": "Mid-Sized Meeting Rooms II-A, B and C, hollow-square layout, divided (version of February 3, 2016)"
+  },
+  {
+   "title": "Small-Sized Meeting Rooms A, B and C, divided (version of February 3, 2016)"
+  },
+  {
+   "title": "Small-Sized Meeting Room A, island layout (version of February 3, 2016)"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "FamilyMart Chuo Yaesu 2-chome",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "7-Eleven Kyobashi Sogokan 110 Tower",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. It is inside an office building, and the official site does not say whether the general public can enter."
+   },
+   {
+    "name": "7-Eleven Kyobashi Ekimae",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "Kinko's Ginza-itchome",
+    "hours": "Weekdays 9:00-20:00 / Sat 10:00-19:00 / Sun & holidays closed (reception until 30 min before closing)",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Kinko's Otemachi",
+    "hours": "Weekdays 9:00-20:00 / Sat, Sun & holidays closed (reception until 30 min before closing)",
+    "note": "Distance is calculated from the address location. Rather far."
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "DAISO Marronnier Gate Ginza",
+    "hours": "11:00-21:00",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "DAISO Ningyocho Station",
+    "hours": "9:00-21:00",
+    "note": "Distance is calculated from the address location. Far."
+   }
+  ],
+  "donki": [
+   {
+    "name": "Okashi Donki / Osake Donki (Yaechika, Yaesu Underground Shopping Center)",
+    "hours": "9:00-21:30",
+    "note": "Distance is calculated from the address location. A different Don Quijote format (a specialty store for sweets and alcohol)."
+   },
+   {
+    "name": "Don Quijote Ginza Main Building (Ginza Nine Building No. 3)",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. Rather far."
+   }
+  ]
+ },
+ "photoCredit": "© Yasu / CC BY-SA 3.0 · Wikimedia Commons"
+}

@@ -1,0 +1,404 @@
+{
+ "slug": "warehouse-terrada-tennoz",
+ "nameJa": "寺田倉庫 天王洲",
+ "nameEn": "TERRADA EVENT SPACE",
+ "type": "exhibition",
+ "area": "shinagawa-venues",
+ "address": "〒140-0002 東京都品川区東品川2-1-3（B&C HALL。各会場は天王洲エリアに分かれている）",
+ "officialUrl": "https://event-space.terrada.co.jp/",
+ "organizerUrl": "https://event-space.terrada.co.jp/flow/",
+ "bizintokyoSlug": "warehouse-terrada-tennoz",
+ "accessSummary": "天王洲アイル駅（りんかい線 B出口／東京モノレール羽田空港線 中央口）から各会場まで徒歩10分以内。会場間は徒歩5分ほど。G1-5F：B出口徒歩4分／中央口徒歩5分。B&C HALL・D HALL・T-LOTUS M：B出口徒歩8分／中央口徒歩6分。WHAT CAFE：B出口徒歩4分／中央口徒歩5分。SONORRA：B出口徒歩5分／中央口徒歩5分。TERRADA ACT STUDIO TENNOZ Rim：B出口徒歩9分／中央口徒歩9分／京急本線 北品川駅徒歩9分／JR品川駅 港南口徒歩14分。BONDED GALLERY：B出口徒歩8分／中央口徒歩11分。",
+ "notice": "全スペース共通：法人利用のみで、個人利用は申し込めない。会場料金は前払いで、支払いは請求書払いのみ。仮予約は2週間までで、確定優先の運用。全スペース共通：イベント利用での時間貸しはない。撮影利用は最低3時間から1時間単位。全スペース共通：品川消防署（予防課）への事前相談と各種届出が必要。全スペース共通：全会場禁煙。裸火の使用、水を使う演出、植物・動物の持込みは禁止。全スペース共通：音出しはできるが、音漏れの程度により音量の調整を頼むことがある。スモークは水性のみで、管理対応費が1日10,000円（税抜）かかる。全スペース共通：会場のレイアウト図面づくり、施工、資材の搬入出は主催者が行う。G1-5F・B&C HALL・D HALL・WHAT CAFE・T-LOTUS M・SONORRA：申込は利用日の12ヶ月前から受け付け、利用開始日の30日前までに利用申込書を出す（出した時点で契約成立）。G1-5F・B&C HALL・D HALL・WHAT CAFE・T-LOTUS M・SONORRA：契約成立後の取消は、利用開始日の60日前までが施設利用料の50%、31日前までが75%、30日前以降が100%のキャンセル料。G1-5F・B&C HALL・D HALL・WHAT CAFE・T-LOTUS M・SONORRA：使えるのは展覧会・展示会、セミナー・発表会と、協議して合意した目的。利用開始日の14日前までに、内容の打合せと開催概要の書面共有が必要。G1-5F・B&C HALL・D HALL・WHAT CAFE・T-LOTUS M・SONORRA：会期中は申込者側の担当者を1人以上置き、会場前の行列整理、場内の整理・警備、控室・楽屋・給湯室の管理は申込者が行う。申込者の持込品の損害保険に入り、保険証券の写しを出す。T-LOTUS M：降雨50mm/時以上、風速10m/秒以上、波高1.0m以上、視界1,000m以下のいずれかで利用を制限することがあり、強風・波浪の注意報や暴風・波浪の警報などで中止することがある。運営計画（進行管理、時間別人員配置）を本番の3営業日前までに出す。（出典：よくあるご質問、利用方法、利用規約 2026年10月1日改定）",
+ "hours": "G1-5F：9:00〜18:00（9時間）。時間外は7:00〜9:00・18:00〜24:00が時間外料金A、0:00〜7:00が時間外料金B。B&C HALL・D HALL・WHAT CAFE・T-LOTUS M・SONORRA：10:00〜22:00（12時間）。時間外は7:00〜10:00・22:00〜24:00が時間外料金A、0:00〜7:00が時間外料金B。TERRADA ACT STUDIO TENNOZ Rim：9:00〜22:00（13時間）。1時間単位の貸出はない。BONDED GALLERY：11:00〜19:00（8時間）。全スペース共通：利用時間には準備・後片付けの時間も含む。G1-5F・B&C HALL・D HALL・WHAT CAFE・T-LOTUS M・SONORRAは時間外の延長ができる。",
+ "rooms": [
+  {
+   "name": "G1-5F",
+   "areaM2": 1367.22,
+   "ceilingM": 4.62,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": 600,
+   "banquet": null,
+   "note": "G1ビル（東京都品川区東品川2-6-4）の5階。有効天高は4,620mm（紹介文には天井高5.5mとある）。収容人数はスタッフ込み・造作なしのスタンディング。車両展示×、キッチン（給排水設備）×。単日から最長半年間の長期イベントまで使える。"
+  },
+  {
+   "name": "B&C HALL（1F・2F全体）",
+   "areaM2": 1085,
+   "ceilingM": "2.5-5.3",
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": 600,
+   "banquet": null,
+   "note": "東京都品川区東品川2-1-3。総面積1085㎡（328坪）の2階建て。有効天高は1Fが5.3m、2Fが2.5mで、どちらも一部の区画に限る。収容人数はスタッフ込み・造作なしのスタンディングで、換気設備上の最大。レイアウトにより実際の人数は減る。両階にキッチンがある。車両展示◯。"
+  },
+  {
+   "name": "B&C HALL 1F",
+   "areaM2": 700.95,
+   "ceilingM": 5.3,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "有効天高5.3mは一部の区画に限る。キッチン（給排水設備）がある。"
+  },
+  {
+   "name": "B&C HALL 2F",
+   "areaM2": 384.17,
+   "ceilingM": 2.5,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "有効天高2.5mは一部の区画に限る。キッチン（給排水設備）がある。1Fへの吹き抜けがある（施設図面）。"
+  },
+  {
+   "name": "D HALL",
+   "areaM2": 458.22,
+   "ceilingM": 4.55,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": 400,
+   "banquet": null,
+   "note": "東京都品川区東品川2-1-3。1F。倉庫をスケルトンにリニューアルした無柱空間で、照明・音響機器の吊元がある。収容人数はスタッフ込み・造作なしのスタンディングで、換気設備上の最大。車両展示◯、キッチン×。面積などの数値は計画値で、変更になる場合がある。"
+  },
+  {
+   "name": "WHAT CAFE",
+   "areaM2": 760,
+   "ceilingM": 2.45,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": 500,
+   "banquet": null,
+   "note": "東京都品川区東品川2-1-11。1F。常設の展示壁と、スチームコンベクション・フライヤーなどを備えたキッチンがある。運河に面した屋外ウッドデッキも使える。会場内に控室がある。収容人数はスタッフ込み・造作なしのスタンディング。車両展示×。"
+  },
+  {
+   "name": "T-LOTUS M（全体）",
+   "areaM2": null,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": 170,
+   "banquet": null,
+   "note": "東京都品川区東品川2-1先。運河に浮かぶ帆船（クルーズ不可）で、地下・1階・トップデッキの3層。面積と有効天高はデッキごとに表記されている。収容人数はスタッフ込み・造作なしのスタンディング。キッチン（給排水設備）◯、車両展示×。展示用パネルがある。"
+  },
+  {
+   "name": "T-LOTUS M ルーフトップ",
+   "areaM2": 140,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "屋上での音出しは9:00〜21:00まで。時間内でも大音量はできず、近隣から苦情があるとその場で催事を中止することがある。"
+  },
+  {
+   "name": "T-LOTUS M メインデッキ",
+   "areaM2": 100,
+   "ceilingM": 3.3,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "有効天高は施設ページ・料金表が3.3m。施設図面は区画ごとに2.65m・3.0m・3.36m。"
+  },
+  {
+   "name": "T-LOTUS M ローデッキ",
+   "areaM2": 120,
+   "ceilingM": 2.29,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": ""
+  },
+  {
+   "name": "SONORRA",
+   "areaM2": 252.66,
+   "ceilingM": 4.4,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": 180,
+   "banquet": null,
+   "note": "東京都品川区東品川2-1-3。2F。ライブハウス。ステージと音響・照明設備があり、観客スペースと控室がある。収容人数はスタッフ込み・造作なしのスタンディングで、換気設備上の最大。車両展示×、キッチン×。"
+  },
+  {
+   "name": "TERRADA ACT STUDIO TENNOZ Rim",
+   "areaM2": 473.7,
+   "ceilingM": 3.5,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": 150,
+   "banquet": null,
+   "note": "東京都品川区東品川1-3-15（TENNOZ Rim内）。1F。面積は打合せスペースを含み、スタジオ部分は229.4㎡。3面鏡張りの無柱リハーサルスタジオ。Wi-Fi・有線LANは無料。キッチン（給排水設備）◯、車両展示×。"
+  },
+  {
+   "name": "BONDED GALLERY",
+   "areaM2": 132.71,
+   "ceilingM": 3.8,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "東京都品川区東品川1-32-8 TERRADA ART COMPLEXⅡ 4F。ホワイトキューブのギャラリー。温度・湿度の管理、保税区域内全域の監視カメラ、大型エレベーター、駐車場直結の広い搬入口がある。保税ギャラリーとして使う場合は追加費用がかかる。比較表の収容人数は「-」。"
+  }
+ ],
+ "roomsSource": "https://event-space.terrada.co.jp/all-spaces/",
+ "ops": {
+  "prevDaySetup": {
+   "text": "G1-5F・B&C HALL・D HALL・WHAT CAFE・T-LOTUS M・SONORRA：料金表に「設営・撤去」の区分があり、設営・撤去だけを行う日の基本料金は本番日の半額。基本使用時間は本番日と同じ。（出典：各会場の料金表）",
+   "source": "https://event-space.terrada.co.jp/wp-content/uploads/2026/10/【TERRADA-EVENT-SPACE】BC-HALL料金表_261001.pdf"
+  },
+  "loadingHours": {
+   "text": "全スペース共通：設営・搬入と撤去・搬出は、すべて利用時間内に申込者側のスタッフで行う。基本利用時間の前後は時間外料金で使える。搬出入スペースとエレベーターには時間・場所の利用制限があり、利用前の打合せで利用時間・利用台数・利用車種・ナンバーを書面で伝える。搬出入の導線には養生をする。宅配便での搬入は利用時間内に申込者が受け取り、宛先住所の末尾に「○○（施設名）イベント用」と書く。会場利用前の荷物の受取りと、利用後の発送は受け付けない。（出典：利用規約 第15条、よくあるご質問）",
+   "source": "https://event-space.terrada.co.jp/wp-content/uploads/2026/09/【TERRADA-EVENT-SPACE】利用規約_261001.pdf"
+  },
+  "vehicleRules": {
+   "text": "B&C HALL・D HALL：車両展示ができる。安全のため、搬入出時と本番時は車両を走行させず、ガソリンなどの燃料は抜いて搬入する（比較表の条件はガソリン抜き・手押し）。G1-5F・WHAT CAFE・T-LOTUS M・SONORRA・TERRADA ACT STUDIO TENNOZ Rim・BONDED GALLERY：比較表の車両展示は×。全スペース共通：寺田倉庫が指定する範囲の外で、車両の通行、駐車、物品の放置、立入りをしてはいけない。（出典：よくあるご質問、施設一覧の比較表、利用規約 第8条）",
+   "source": "https://event-space.terrada.co.jp/faq/"
+  },
+  "parking": {
+   "text": "全スペース共通：駐車場はない。（出典：よくあるご質問）",
+   "source": "https://event-space.terrada.co.jp/faq/"
+  },
+  "waitingRooms": {
+   "text": "WHAT CAFE・SONORRA：会場内に控室がある。G1-5F・B&C HALL・D HALL：隣接する建物内のスペースを、有料で控室に使える（控室のご案内）。控室のご案内のスペースはG1-2F（G1ビル2階、680.17㎡、小部屋・トイレを含む）で、基本使用時間は9:00〜18:00。鍵のかかる小部屋と、男性用・女性用・バリアフリーのトイレがある。G1-2Fだけの単独利用はできず、寺田倉庫の他会場と一緒に使う場合に限る。（出典：よくあるご質問、控室のご案内 最終更新日2025.9.30）",
+   "source": "https://event-space.terrada.co.jp/faq/"
+  },
+  "catering": {
+   "text": "全スペース共通：飲食物・ケータリングの持込みができる。B&C HALL・WHAT CAFE・T-LOTUS M：キッチン設備（一部有料）があり、調理もできる。全スペース共通：ケータリングの手配は寺田倉庫に頼め、相談は利用申込の完了後から受け付ける。飲食は寺田倉庫が認める場所に限る。（出典：よくあるご質問、利用規約 第8条）",
+   "source": "https://event-space.terrada.co.jp/faq/"
+  }
+ },
+ "documents": [
+  {
+   "title": "利用規約（2026年10月1日改定）",
+   "url": "https://event-space.terrada.co.jp/wp-content/uploads/2026/09/【TERRADA-EVENT-SPACE】利用規約_261001.pdf"
+  },
+  {
+   "title": "G1-5F 料金表（2023/11/09更新）",
+   "url": "https://event-space.terrada.co.jp/wp-content/uploads/2026/10/【TERRADA-EVENT-SPACE】G1-5F料金表_261001.pdf"
+  },
+  {
+   "title": "B&C HALL 料金表（2023/11/09更新）",
+   "url": "https://event-space.terrada.co.jp/wp-content/uploads/2026/10/【TERRADA-EVENT-SPACE】BC-HALL料金表_261001.pdf"
+  },
+  {
+   "title": "D HALL 料金表（2026/02/04更新）",
+   "url": "https://event-space.terrada.co.jp/wp-content/uploads/2026/10/【TERRADA-EVENT-SPACE】D-HALL料金表_261001.pdf"
+  },
+  {
+   "title": "WHAT CAFE 料金表（2025/06/18更新）",
+   "url": "https://event-space.terrada.co.jp/wp-content/uploads/2026/10/【TERRADA-EVENT-SPACE】WHAT-CAFE料金表_261001.pdf"
+  },
+  {
+   "title": "T-LOTUS M 料金表（2026/08/14更新）",
+   "url": "https://event-space.terrada.co.jp/wp-content/uploads/2026/10/【TERRADA-EVENT-SPACE】T-LOTUS-M料金表_261001.pdf"
+  },
+  {
+   "title": "SONORRA 料金表（2026/10/01更新）",
+   "url": "https://event-space.terrada.co.jp/wp-content/uploads/2026/09/【TERRADA-EVENT-SPACE】SONORRA料金表_261001.pdf"
+  },
+  {
+   "title": "TERRADA ACT STUDIO TENNOZ Rim 料金表（2026/09/04更新）",
+   "url": "https://event-space.terrada.co.jp/wp-content/uploads/2025/11/【TERRADA-EVENT-SPACE】TERRADA-ACT-STUDIO-TENNOZ-Rim料金表_260904.pdf"
+  },
+  {
+   "title": "BONDED GALLERY 料金表（2026/04/10更新）",
+   "url": "https://event-space.terrada.co.jp/wp-content/uploads/2026/04/【TERRADA-EVENT-SPACE】料金表_BONDED-GALLERY_260410.pdf"
+  },
+  {
+   "title": "G1-5F 施設図面",
+   "url": "https://event-space.terrada.co.jp/wp-content/uploads/2025/11/G1-5F-Floor-Plan-2102.pdf"
+  },
+  {
+   "title": "B&C HALL 施設図面",
+   "url": "https://event-space.terrada.co.jp/wp-content/uploads/2025/11/BC-HALL-Floor-Plan-2102.pdf"
+  },
+  {
+   "title": "D HALL 施設図面",
+   "url": "https://event-space.terrada.co.jp/wp-content/uploads/2026/03/D-HALL-Floor-Plan-2603.pdf"
+  },
+  {
+   "title": "WHAT CAFE 施設図面",
+   "url": "https://event-space.terrada.co.jp/wp-content/uploads/2025/11/WHAT-CAFE-Floor-Plan-2602.pdf"
+  },
+  {
+   "title": "T-LOTUS M 施設図面",
+   "url": "https://event-space.terrada.co.jp/wp-content/uploads/2025/11/T-LOTUS-M-Floor-Plan-2602.pdf"
+  },
+  {
+   "title": "SONORRA 施設図面",
+   "url": "https://event-space.terrada.co.jp/wp-content/uploads/2026/09/SONORRA-Floor-Plan-2602.pdf"
+  },
+  {
+   "title": "TERRADA ACT STUDIO TENNOZ Rim 施設図面",
+   "url": "https://event-space.terrada.co.jp/wp-content/uploads/2025/11/Terrada-Act-Studio-Tennoz-Rim-Floor-Plan-2602.pdf"
+  },
+  {
+   "title": "BONDED GALLERY 施設図面",
+   "url": "https://event-space.terrada.co.jp/wp-content/uploads/2025/11/BONDED-GALLERY-Floor-Plan-2602.pdf"
+  },
+  {
+   "title": "G1-5F レイアウト例",
+   "url": "https://event-space.terrada.co.jp/wp-content/uploads/2026/04/251023_Event-Layout-Plan_G1-5F.pdf"
+  },
+  {
+   "title": "B&C HALL レイアウト例",
+   "url": "https://event-space.terrada.co.jp/wp-content/uploads/2026/04/251023_Event-Layout-Plan_BC-HALL.pdf"
+  },
+  {
+   "title": "WHAT CAFE レイアウト例",
+   "url": "https://event-space.terrada.co.jp/wp-content/uploads/2026/04/251023_Event-Layout-Plan_WHAT-CAFE.pdf"
+  },
+  {
+   "title": "T-LOTUS M レイアウト例",
+   "url": "https://event-space.terrada.co.jp/wp-content/uploads/2026/04/251023_Event-Layout-Plan_T-LOTUS-M.pdf"
+  },
+  {
+   "title": "SONORRA レイアウト例",
+   "url": "https://event-space.terrada.co.jp/wp-content/uploads/2026/09/261001_Event-Layout-Plan_SONORRA.pdf"
+  },
+  {
+   "title": "備品リスト（2026年7月14日）",
+   "url": "https://event-space.terrada.co.jp/wp-content/uploads/2026/07/【TERRADA-EVENT-SPACE】備品リスト_20260714.pdf"
+  },
+  {
+   "title": "控室のご案内（最終更新日2025.9.30）",
+   "url": "https://event-space.terrada.co.jp/wp-content/uploads/2026/04/【TERRADA-EVENT-SPACE】控室のご案内_250930.pdf"
+  }
+ ],
+ "checkedAt": "2026-11-02",
+ "lat": 35.62286,
+ "lng": 139.747757,
+ "nearby": {
+  "convenience": [
+   {
+    "name": "ファミリーマート 天王洲ファーストタワー店",
+    "brand": "ファミリーマート",
+    "distanceM": 166,
+    "walkMin": 3,
+    "hours": "24時間",
+    "address": "東京都品川区東品川2丁目2-4",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/77363",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "セブン-イレブン ＡＩＭスフィアタワー天王洲",
+    "brand": "セブン-イレブン",
+    "distanceM": 176,
+    "walkMin": 3,
+    "hours": "月〜金 7:00-23:00／土・日・祝 7:00-20:00",
+    "address": "東京都品川区東品川2丁目2-8",
+    "verified": true,
+    "source": "https://seven-eleven.areamarker.com/711map/info/512444",
+    "note": "距離は公式の店舗位置で計算。ビル内店舗"
+   },
+   {
+    "name": "セブン-イレブン 品川天王洲",
+    "brand": "セブン-イレブン",
+    "distanceM": 183,
+    "walkMin": 3,
+    "hours": "24時間営業",
+    "address": "東京都品川区東品川2-2-27",
+    "verified": true,
+    "source": "https://seven-eleven.areamarker.com/711map/info/041565",
+    "note": "距離は公式の店舗位置で計算"
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "アクセア 天王洲アイルシーフォートスクエア店",
+    "brand": "アクセア",
+    "distanceM": 247,
+    "walkMin": 4,
+    "hours": "平日 9:00-19:00／土・日・祝 休み",
+    "address": "東京都品川区東品川2-3-12 シーフォートスクエア1F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/entry.html",
+    "note": "距離は住所の位置で計算。店頭の支払いは現金不可（クレジットカード・電子マネー・QRコード決済・BizSPOTペイ）"
+   },
+   {
+    "name": "アクセア 品川駅港南口店",
+    "brand": "アクセア",
+    "distanceM": 859,
+    "walkMin": 11,
+    "hours": "平日 8:00-21:00／土・日・祝 10:00-19:00",
+    "address": "東京都港区港南2-2-2 富士ビル2F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/entry.html",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Can★Do 新馬場店",
+    "brand": "キャンドゥ",
+    "distanceM": 599,
+    "walkMin": 8,
+    "hours": "毎日 10:00-20:00",
+    "address": "東京都品川区北品川2-7-22",
+    "verified": true,
+    "source": "https://shopinfo.cando-web.co.jp/detail/shop-5254/",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "Seria ウィング高輪WEST店",
+    "brand": "セリア",
+    "distanceM": 738,
+    "walkMin": 10,
+    "hours": "平日 10:00-21:00／土・日・祝 10:00-20:00",
+    "address": "東京都港区高輪4-10-18 ウィング高輪WEST 2F",
+    "verified": true,
+    "source": "https://shop.seria-group.com/seria/info/000002470",
+    "note": "距離は公式の店舗位置で計算"
+   }
+  ],
+  "donki": [
+   {
+    "name": "ドン・キホーテ 五反田東口店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 2116,
+    "walkMin": 27,
+    "hours": "8:00-5:00",
+    "address": "東京都品川区東五反田1丁目12番地7号",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=606",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "キラキラドンキ ダイバーシティ東京 プラザ店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 2392,
+    "walkMin": 30,
+    "hours": "10:00-21:00（お知らせ：平日 11:00-20:00／土・日・祝 10:00-21:00）",
+    "address": "東京都江東区青海1-1-10 ダイバーシティ東京 プラザ 2階",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=655",
+    "note": "距離は住所の位置で計算。ドン・キホーテの別業態（公式の店舗名は「キラキラドンキ」）。遠い"
+   }
+  ]
+ },
+ "drinkDelivery": {
+  "available": true
+ },
+ "photo": {
+  "src": "/images/venues/warehouse-terrada-tennoz.jpg",
+  "credit": "© Civi / CC BY-SA 4.0 · Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Warehouse_TERRADA_main_building.jpg"
+ }
+}

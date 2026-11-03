@@ -1,0 +1,410 @@
+{
+ "slug": "tokyo-prince-hotel",
+ "nameJa": "東京プリンスホテル",
+ "nameEn": "Tokyo Prince Hotel",
+ "type": "hotel",
+ "area": "shimbashi-hamamatsucho-venues",
+ "address": "〒105-8560 東京都港区芝公園3-3-1",
+ "officialUrl": "https://www.princehotels.co.jp/tokyo/",
+ "organizerUrl": "https://www.princehotels.co.jp/tokyo/banquet/",
+ "bizintokyoSlug": "tokyo_prince_hotel",
+ "accessSummary": "都営地下鉄三田線「御成門駅」(A1出口)から徒歩1分／都営地下鉄浅草線・大江戸線「大門駅」(A6出口)から徒歩7分／JR・東京モノレール「浜松町駅」から徒歩10分／東京メトロ日比谷線「神谷町駅」(3番出口)から徒歩10分。浜松町駅（大門駅）からホテルまで無料シャトルバスがある。",
+ "notice": "パーティープランは3F・11Fの中宴会場が対象で、2F大宴会場を使う場合は会場料と音響照明費が別にかかる。ミーティングパッケージは利用日の3か月前から予約を受け付ける。食物アレルギー対応は8品目（えび・かに・くるみ・小麦・そば・卵・乳・落花生）のみ。ミーティングパッケージでは利用日の2週間前までに申し出る。",
+ "rooms": [
+  {
+   "name": "鳳凰の間（全室利用）",
+   "areaM2": 1650,
+   "ceilingM": 6.5,
+   "theater": 1500,
+   "school": 900,
+   "ushape": null,
+   "standing": 2000,
+   "banquet": 900,
+   "note": "2F。ディナーは900名、ブッフェは2,000名まで。西・東の2室に分けて使える。"
+  },
+  {
+   "name": "鳳凰の間（分割利用）",
+   "areaM2": 732.8,
+   "ceilingM": 6.5,
+   "theater": 800,
+   "school": 360,
+   "ushape": null,
+   "standing": 800,
+   "banquet": 300,
+   "note": "2F。西または東の1室分。"
+  },
+  {
+   "name": "プロビデンスホール",
+   "areaM2": 858,
+   "ceilingM": 5.8,
+   "theater": 900,
+   "school": 400,
+   "ushape": null,
+   "standing": 800,
+   "banquet": 350,
+   "note": "2F。"
+  },
+  {
+   "name": "マグノリアホール",
+   "areaM2": 594,
+   "ceilingM": 5.6,
+   "theater": 650,
+   "school": 300,
+   "ushape": null,
+   "standing": 500,
+   "banquet": 250,
+   "note": "2F。鳳凰の間に隣接する。"
+  },
+  {
+   "name": "サンフラワーホール",
+   "areaM2": 530,
+   "ceilingM": 2.9,
+   "theater": 450,
+   "school": 200,
+   "ushape": null,
+   "standing": 300,
+   "banquet": 160,
+   "note": "2F。大きな窓がある。"
+  },
+  {
+   "name": "ゴールデンカップ",
+   "areaM2": 178,
+   "ceilingM": 2.5,
+   "theater": 120,
+   "school": 80,
+   "ushape": null,
+   "standing": 100,
+   "banquet": 80,
+   "note": "3F。"
+  },
+  {
+   "name": "紅梅・福寿",
+   "areaM2": 118,
+   "ceilingM": 2.5,
+   "theater": 70,
+   "school": 56,
+   "ushape": null,
+   "standing": 60,
+   "banquet": 48,
+   "note": "3F。"
+  },
+  {
+   "name": "高砂・末広",
+   "areaM2": 165,
+   "ceilingM": 2.4,
+   "theater": 120,
+   "school": 80,
+   "ushape": null,
+   "standing": 80,
+   "banquet": 64,
+   "note": "11F。ホテル最上階。"
+  },
+  {
+   "name": "ハイビスカス",
+   "areaM2": 69,
+   "ceilingM": 2.4,
+   "theater": null,
+   "school": 30,
+   "ushape": null,
+   "standing": 30,
+   "banquet": 26,
+   "note": "3F。"
+  },
+  {
+   "name": "雲井",
+   "areaM2": 49,
+   "ceilingM": 2.5,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": 20,
+   "banquet": 20,
+   "note": "3F。"
+  },
+  {
+   "name": "泉・桂・楓・錦・芙蓉（ソファーセット付）",
+   "areaM2": 59,
+   "ceilingM": 2.4,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "4F。会議スタイル10名。少人数の会議や控室に使える。"
+  },
+  {
+   "name": "梓・橘・葵",
+   "areaM2": 59,
+   "ceilingM": 2.4,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "4F。会議スタイル20名。"
+  },
+  {
+   "name": "ピオニー",
+   "areaM2": 112,
+   "ceilingM": 2.7,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": 40,
+   "banquet": 40,
+   "note": "11F。"
+  },
+  {
+   "name": "マーガレット",
+   "areaM2": 82,
+   "ceilingM": 2.7,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": 30,
+   "banquet": 10,
+   "note": "11F。2部屋に分かれ、控室にも向く。"
+  }
+ ],
+ "roomsSource": "https://www.princehotels.co.jp/tokyo/banquet/large/",
+ "ops": {
+  "parking": {
+   "text": "時間駐車は8:00A.M.〜8:00P.M.が30分500円、8:00P.M.〜8:00A.M.が60分100円。最大料金は当日12:00MID.まで6,000円。ゴールデンウィーク・年末年始と、大型宴会などで設ける特定日は最大料金がない。サービス駐車は宴会が4時間まで無料、宿泊は1泊1,000円。一般車両の事前予約はできない。大型バスは利用日の3か月前から前日5:00P.M.まで、スマートパーク バス予約サービスで予約する（30分1,100円、8:00P.M.〜8:00A.M.の最大料金8,250円）。（出典：駐車場料金のご案内 2023年11月1日改訂、アクセス、よくある質問）",
+   "source": "https://www.princehotels.co.jp/tokyo/access/"
+  },
+  "waitingRooms": {
+   "text": "4Fの「泉・桂・楓・錦・芙蓉」（59㎡、会議スタイル10名）は、少人数の会議や控室に使える。11Fの「マーガレット」（82㎡）は2部屋に分かれ、控室にも向く。",
+   "source": "https://www.princehotels.co.jp/tokyo/banquet/small/"
+  },
+  "restaurants": {
+   "text": "館内にブッフェダイニング、日本料理（和食・寿司・天ぷら）、中国料理、焼肉、カフェ＆バー、ティーサロン、メインバー、ベーカリーがある。個室のある店もある。",
+   "source": "https://www.princehotels.co.jp/tokyo/restaurant/"
+  }
+ },
+ "documents": [
+  {
+   "title": "宴会場 フロアレイアウト図 全館",
+   "url": "https://www.princehotels.co.jp/tokyo/banquet/pdf/whole.pdf"
+  },
+  {
+   "title": "宴会場 フロアレイアウト図 2F",
+   "url": "https://www.princehotels.co.jp/tokyo/banquet/pdf/2f.pdf"
+  },
+  {
+   "title": "宴会場 フロアレイアウト図 3F",
+   "url": "https://www.princehotels.co.jp/tokyo/banquet/pdf/3f.pdf"
+  },
+  {
+   "title": "宴会場 フロアレイアウト図 4F",
+   "url": "https://www.princehotels.co.jp/tokyo/banquet/pdf/4f.pdf"
+  },
+  {
+   "title": "宴会場 フロアレイアウト図 11F",
+   "url": "https://www.princehotels.co.jp/tokyo/banquet/pdf/11f.pdf"
+  },
+  {
+   "title": "鳳凰の間 平面図",
+   "url": "https://www.princehotels.co.jp/tokyo/banquet/large/pdf/01a.pdf"
+  },
+  {
+   "title": "プロビデンスホール 平面図",
+   "url": "https://www.princehotels.co.jp/tokyo/banquet/large/pdf/02a.pdf"
+  },
+  {
+   "title": "マグノリアホール 平面図",
+   "url": "https://www.princehotels.co.jp/tokyo/banquet/large/pdf/03a.pdf"
+  },
+  {
+   "title": "サンフラワーホール 平面図",
+   "url": "https://www.princehotels.co.jp/tokyo/banquet/large/pdf/04a.pdf"
+  },
+  {
+   "title": "ゴールデンカップ 平面図",
+   "url": "https://www.princehotels.co.jp/tokyo/banquet/medium/pdf/01a.pdf"
+  },
+  {
+   "title": "紅梅・福寿 平面図",
+   "url": "https://www.princehotels.co.jp/tokyo/banquet/medium/pdf/02a.pdf"
+  },
+  {
+   "title": "高砂・末広 平面図",
+   "url": "https://www.princehotels.co.jp/tokyo/banquet/medium/pdf/03a.pdf"
+  },
+  {
+   "title": "ハイビスカス 平面図",
+   "url": "https://www.princehotels.co.jp/tokyo/banquet/small/pdf/01a.pdf"
+  },
+  {
+   "title": "雲井 平面図",
+   "url": "https://www.princehotels.co.jp/tokyo/banquet/small/pdf/02a.pdf"
+  },
+  {
+   "title": "泉・桂・楓・錦・芙蓉 平面図",
+   "url": "https://www.princehotels.co.jp/tokyo/banquet/small/pdf/03a.pdf"
+  },
+  {
+   "title": "梓・橘・葵 平面図",
+   "url": "https://www.princehotels.co.jp/tokyo/banquet/small/pdf/04a.pdf"
+  },
+  {
+   "title": "ピオニー・マーガレット 平面図",
+   "url": "https://www.princehotels.co.jp/tokyo/banquet/small/pdf/056a.pdf"
+  },
+  {
+   "title": "宴会場 寸法・面積表（天井高を含む。安全・安心の取り組み資料、2021年3月）",
+   "url": "https://www.princehotels.co.jp/tokyo/banquet/pdf/safety.pdf"
+  },
+  {
+   "title": "ミーティングパッケージ（2026年4月1日〜2027年3月31日）",
+   "url": "https://www.princehotels.co.jp/tokyo/files/banquet_meeting_package_plan.pdf"
+  },
+  {
+   "title": "宴会場パーティープラン（2026年4月1日〜2027年3月31日）",
+   "url": "https://www.princehotels.co.jp/tokyo/banquet/party/"
+  },
+  {
+   "title": "大宴会場 ご利用人数・平面図・レイアウト例",
+   "url": "https://www.princehotels.co.jp/tokyo/banquet/large/"
+  },
+  {
+   "title": "中宴会場 ご利用人数・平面図・レイアウト例",
+   "url": "https://www.princehotels.co.jp/tokyo/banquet/medium/"
+  },
+  {
+   "title": "小宴会場 ご利用人数・平面図・レイアウト例",
+   "url": "https://www.princehotels.co.jp/tokyo/banquet/small/"
+  },
+  {
+   "title": "駐車場料金のご案内（2023年11月1日改訂）",
+   "url": "https://www.princehotels.co.jp/file.jsp?id=303652"
+  },
+  {
+   "title": "駐車場ご利用方法（精算のご案内）",
+   "url": "https://www.princehotels.co.jp/file.jsp?id=373374"
+  },
+  {
+   "title": "JR浜松町駅間シャトルバス時刻表",
+   "url": "https://www.princehotels.co.jp/file.jsp?id=519543"
+  }
+ ],
+ "checkedAt": "2026-11-02",
+ "lat": 35.65889,
+ "lng": 139.748795,
+ "nearby": {
+  "convenience": [
+   {
+    "name": "ローソン S東京プリンスホテル店",
+    "brand": "ローソン",
+    "distanceM": 0,
+    "walkMin": 1,
+    "hours": "7:00〜23:00（年中無休）",
+    "address": "東京都港区芝公園3-3-1 東京プリンスホテル B1",
+    "verified": true,
+    "source": "https://www.princehotels.co.jp/tokyo/facility/lawson/",
+    "note": "ホテル館内B1の店。館内の店のため距離0、徒歩1分とした"
+   },
+   {
+    "name": "ファミリーマート 芝大門店",
+    "brand": "ファミリーマート",
+    "distanceM": 394,
+    "walkMin": 5,
+    "hours": "24時間営業",
+    "address": "東京都港区芝公園1-7-13",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/58978",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "ファミリーマート 芝公園店",
+    "brand": "ファミリーマート",
+    "distanceM": 725,
+    "walkMin": 10,
+    "hours": "24時間営業",
+    "address": "東京都港区芝3-5-5",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/58541",
+    "note": "距離は公式の店舗位置で計算"
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "キンコーズ・虎ノ門店",
+    "brand": "キンコーズ",
+    "distanceM": 1103,
+    "walkMin": 14,
+    "hours": "平日 9:00-20:00／土・日・祝 休業（フルサービス受付は閉店時間の30分前まで）",
+    "address": "東京都港区虎ノ門1-14-1 郵政福祉琴平ビル1F",
+    "verified": true,
+    "source": "https://www.kinkos.co.jp/store/tokyo/t001/",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "キンコーズ・田町店",
+    "brand": "キンコーズ",
+    "distanceM": 1467,
+    "walkMin": 19,
+    "hours": "平日 10:00-20:00／土・日・祝 休業（セルフ・フルサービスとも受付は閉店時間の30分前まで）",
+    "address": "東京都港区芝5-29-14 田町日工ビル1F",
+    "verified": true,
+    "source": "https://www.kinkos.co.jp/store/tokyo/t017/",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Can★Do 城山ヒルズ店",
+    "brand": "キャンドゥ",
+    "distanceM": 808,
+    "walkMin": 11,
+    "hours": "月〜日 9:00〜23:00",
+    "address": "東京都港区虎ノ門4-1-17 神谷町プライムプレイス B1階",
+    "verified": true,
+    "source": "https://shopinfo.cando-web.co.jp/detail/shop-1835/",
+    "note": "距離は公式の店舗位置で計算。ビル内の店"
+   },
+   {
+    "name": "Can★Do 麻布十番店",
+    "brand": "キャンドゥ",
+    "distanceM": 1368,
+    "walkMin": 18,
+    "hours": "月〜日 10:00〜21:00",
+    "address": "東京都港区麻布十番2-4-1 ウィン麻布十番ハラビル1階",
+    "verified": true,
+    "source": "https://shopinfo.cando-web.co.jp/detail/shop-1930/",
+    "note": "距離は公式の店舗位置で計算"
+   }
+  ],
+  "donki": [
+   {
+    "name": "ドン・キホーテ 六本木店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 1343,
+    "walkMin": 17,
+    "hours": "24時間営業",
+    "address": "東京都港区六本木3-14-10",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=31",
+    "note": "距離は住所の位置で計算。遠い"
+   },
+   {
+    "name": "ドン・キホーテ 銀座本館",
+    "brand": "ドン・キホーテ",
+    "distanceM": 1572,
+    "walkMin": 20,
+    "hours": "24時間営業",
+    "address": "東京都中央区銀座8-10 銀座ナイン3号館",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=92",
+    "note": "距離は住所の位置で計算。遠い"
+   }
+  ]
+ },
+ "drinkDelivery": {
+  "available": true
+ },
+ "photo": {
+  "src": "/images/venues/tokyo-prince-hotel.jpg",
+  "credit": "© Kakidai / CC BY-SA 4.0 · Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tokyo_Prince_Hotel.jpg"
+ }
+}

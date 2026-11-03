@@ -1,0 +1,198 @@
+{
+ "slug": "tokyo-dome-city",
+ "name": "Tokyo Dome City",
+ "address": "Tokyo 112-0004 1-3-61 Koraku, Bunkyo-ku",
+ "accessSummary": "Kanadevia Hall (Meetport basement): right by Exit A2 of Toei Subway Suidobashi Station. Directly across the crosswalk from the East Exit of JR Suidobashi Station. It can also be reached from Tokyo Metro Korakuen Station. Korakuen Hall (Korakuen Hall Building 5F): the nearest stations are JR Suidobashi Station (West and East Exits), Toei Subway Suidobashi Station Exit A2 and Tokyo Metro Korakuen Station. Gallery AaMo (inside LaQua, 1-1-1 Kasuga, Bunkyo-ku, Tokyo 112-0003): the nearest stations are Tokyo Metro Korakuen Station, Toei Subway Kasuga Station and JR Suidobashi Station (East and West Exits). Prism Hall: adjacent to Suidobashi Station and Korakuen Station.",
+ "hours": "Kanadevia Hall: Basic usage hours are 9:00-23:00. Outside these hours, 23:00-24:00 and 6:00-9:00 cost 88,000 yen per 30 minutes, and 0:00-6:00 costs 110,000 yen per 30 minutes (tax included). Korakuen Hall: The time categories in the usage rules are the daytime session 9:00-15:30 (no extension), the evening session 16:00-21:00, and the all-day session 9:00-21:00. The basic hours in the fee schedule are 9:00-22:00, and on weekends and holidays they are divided into the first half of the day 9:00-16:00, the second half of the day 16:00-22:00, and all day 9:00-22:00. On weekdays, up to 6 hours within the basic hours costs 792,000 yen, each additional hour costs 132,000 yen, and each hour outside the basic hours costs 198,000 yen (tax included). Gallery AaMo: The basic fee is per day for 9:00-21:00. Outside these hours, the fee is 55,000 yen per 30 minutes (tax included). Theater G-Rosso: Basic usage hours are 10:00-22:00, divided into daytime 10:00-16:00, evening 16:00-22:00 and all day 10:00-22:00. Outside these hours, the fee is 33,000 yen per 30 minutes on weekdays and 44,000 yen on weekends and holidays (tax included, fee schedule for fiscal 2025). Prism Hall: The basic fee on event days covers 10:00-18:00. Outside these hours, the fee per hour is 363,000 yen for the entire hall, 297,000 yen for Pattern A and 181,500 yen for Patterns B and C (tax included).",
+ "notice": "Prism Hall: Half-hall use (Patterns A, B and C) is available on weekdays only. Patterns B and C may be held at the same time as another company's event, and information about other companies' events is not disclosed in advance. As a rule, the organizer provides the sound equipment. Because the hall is divided by a sliding wall, sound may leak through. Applications are in principle accepted from 11 months before. Theater G-Rosso: Applications are accepted from 1 year before the usage date. Because the entrances connect directly to a public space, entry and exit must be managed. A hero show is held in the daytime on weekends, holidays and long school breaks, so whether the theater can be used for other purposes is subject to consultation. Kanadevia Hall: Announcing the event and selling tickets before the contract is concluded are prohibited. Two performances a day cost 1.5 times the basic usage fee, and three performances cost 2 times. Cancellation penalties are 30% of the basic usage fee for cancellations 3 months or more before the start of use, 60% for 1 month or more but less than 3 months before, and the full amount for less than 1 month before. Casualty insurance such as event insurance is required. Gallery AaMo: The organizer must be present throughout the event period. For merchandise sales, a merchandise usage fee of 10% of sales (tax included) applies. Korakuen Hall: The fee schedule for general events does not apply to combat sports (pro wrestling, kickboxing, professional boxing). Half of the basic fee is paid as a deposit at the time of application.",
+ "rooms": [
+  {
+   "name": "Tokyo Dome (Ground)",
+   "note": "Capacity 55,000 (about 43,500 for baseball). Ground area 13,000㎡, 100 m to each foul pole, 122 m to center field, fence height 4 m. Building area 46,755㎡, highest point 56.190 m above ground."
+  },
+  {
+   "name": "Kanadevia Hall",
+   "note": "A multipurpose hall in the basement of Meetport. Seated capacity is up to 2,471 (including standing-room spaces) and standing capacity is up to 3,190. Breakdown: 3rd balcony (1F) 447 seats + standing room 21 on the left and 21 on the right; 2nd balcony (B1F) 478 seats + standing room 37 on the left and 37 on the right; 1st balcony (B2F) 440 seats; arena (B3F) 990 seated / 1,709 standing. Wheelchair spaces and suite-room seats are not included. Stage formats are end, standing, center and circle. Changing or removing the stage takes extra time and cost."
+  },
+  {
+   "name": "Korakuen Hall",
+   "note": "5F of the Korakuen Hall Building. The main floor is 25 m east-west by 23 m north-south. The whole 5F hall is 1,692.9㎡ (including seating). Seating is 780 fixed seats on the south side and movable seats of 109 on the east, 109 on the west and 405 on the north, for a total of 1,403 seats. The movable seats fold away. There is a 119.35㎡ waiting room on the 4F."
+  },
+  {
+   "name": "Gallery AaMo Hall",
+   "note": "Inside LaQua. It is rented by the day. The usage fee includes the exhibition space, foyer, Rooms A and C, sound control room, restrooms, ticket box, LAN and Tokyo Dome Parking Lot No. 2 (up to 5 vehicles)."
+  },
+  {
+   "name": "Gallery AaMo Foyer",
+   "note": "Rented together with the hall. On the simple floor plan, the foyer is 12.7 m x 6.5 m."
+  },
+  {
+   "name": "Theater G-Rosso",
+   "note": "765 seats (fire-code capacity 814). There is a separate space for 3 wheelchairs. The stage has 3 tiers (lower, middle and upper), with a maximum height difference of 7,500 mm. The lower stage is W16,800 x D4,500 x H450 mm. There are 4 dressing rooms."
+  },
+  {
+   "name": "Prism Hall (entire hall)",
+   "note": "Maximum capacity 2,085. Floor load capacity 500 kg/㎡. There are no steps at the entrances or in the corridors. The seat numbers are reference values: about 1,200 for theater, about 1,000 for classroom, about 1,500 for exam venue, about 1,500 for standing buffet and about 670 for seated buffet."
+  },
+  {
+   "name": "Prism Hall Pattern A",
+   "note": "Maximum capacity 1,745. Partial use is available on weekdays only."
+  },
+  {
+   "name": "Prism Hall Pattern B (west half)",
+   "note": "Maximum capacity 1,030. Partial use is available on weekdays only. Entrances are west and south; side rooms are Reception Room A and Organizer Waiting Room A; the load-in entrance is A. The seat number is a reference value: about 700 for exam venue. It may be held at the same time as another company's event."
+  },
+  {
+   "name": "Prism Hall Pattern C (east half)",
+   "note": "Maximum capacity 1,030. Partial use is available on weekdays only. The entrance is east; side rooms are Reception Room B and Organizer Waiting Room B; the load-in entrance is C. The seat number is a reference value: about 700 for exam venue. It may be held at the same time as another company's event."
+  }
+ ],
+ "ops": {
+  "prevDaySetup": "Kanadevia Hall: The basic usage fee for setup, removal and dark days (9:00-23:00) is 1,485,000 yen Monday to Thursday, 1,540,000 yen on Friday, and 2,200,000 yen on weekends, holidays and special days (Dec 30-Jan 3) (tax included). Gallery AaMo: The preparation-day fee is 550,000 yen for 12 hours within 9:00-27:00 (tax included). If setup or removal and the event are held on the same day, the basic fee applies. Theater G-Rosso: On days other than the event day (setup, rehearsal, dark and removal days), the venue fee for the whole day (10:00-22:00) is half price (fee schedule for fiscal 2025). Prism Hall: The special setup and removal day fee (9:00-22:00) is 1,815,000 yen for the entire hall, 1,485,000 yen for Pattern A and 907,500 yen for Patterns B and C (tax included). Korakuen Hall: The usage fee for the Korakuen Exhibition Hall is 264,000 yen (tax included), and the setup day is half price.",
+  "loadingHours": "Kanadevia Hall: If you enter the building early in the morning (before 7:00), a hall staff lodging fee of 22,000 yen per person applies, and if you leave late at night (after 23:30), a hall staff late-night transportation fee of 16,500 yen per person applies (tax included). Korakuen Hall: If you enter at or before 7:00 in the morning, a previous-night stay fee of 22,000 yen applies, and if you leave at or after 23:30 at night, a transportation fee of 16,500 yen applies (tax included). Theater G-Rosso: The load-in entrance is at the stage-right wing, at the basement 1 level of Parking Lot No. 2. Entering at or before 7:00 in the morning costs a previous-night stay fee of 22,000 yen, and leaving at or after 23:30 at night costs a transportation fee of 16,500 yen (tax included, fee schedule for fiscal 2025). Security for load-in and load-out is charged separately by quotation. Gallery AaMo: The usage period runs from the start of preparation until you leave after restoring the space to its original condition. If restoration is not finished by the deadline, an overtime fee applies. Restoration work is done by a contractor designated by the company. Prism Hall: For half-hall use (Patterns A, B and C), the facility adjusts the load-in and load-out times, so they may not be as you request.",
+  "vehicleRules": "Kanadevia Hall: The load-in entrance is behind the center of the rear stage, with a shutter opening of 9 m wide x 5.1 m high. The door behind the stage-right side is 1.8 m wide x 2.1 m high. The freight elevator has inside dimensions of 3.5 m wide x 13 m deep x 4 m high and a load capacity of 30,000 kg. Gallery AaMo: The load-in entrance is 4.9 m wide x 4.0 m high. Korakuen Hall: There is 1 large load-in lift, 1 small lift and 1 service elevator. Theater G-Rosso: Vehicles that can reach the load-in entrance are those that can pass through Parking Lot No. 2 (vehicle height in principle 2.0 m or less; over 2.0 m requires consultation). Prism Hall: Placing staff at the entrances, vehicle guidance, cleaning and submitting fire-safety documents are handled by the designated contractor, Tokyo Dome Facilities.",
+  "parking": "Kanadevia Hall: The basic usage fee includes 10 spaces in the basement 4 parking area for people involved in the event. From the 11th vehicle, the fee is 6,600 yen per vehicle per day (tax included, vehicle height up to 2.1 m). Gallery AaMo: The usage fee includes 5 spaces in Tokyo Dome Parking Lot No. 2. From the 6th vehicle, the fee is 6,600 yen per vehicle per day (tax included, vehicle height up to 2.1 m), and a vehicle list must be submitted in advance. Theater G-Rosso: The usage fee includes a parking service (up to 3 vehicles per day). Service tickets must be applied for by the specified date. To reserve spaces for the 4th vehicle onward, the fee is 6,600 yen per vehicle per day (tax included, vehicle height up to 2.1 m, fee schedule for fiscal 2025). Korakuen Hall: The Dome parking lot costs 6,600 yen per vehicle per day (tax included). Prism Hall: The parking fee is charged separately by quotation, and a parking application procedure is required.",
+  "waitingRooms": "Kanadevia Hall: The basic usage fee includes the Organizer Waiting Room (23㎡), Waiting Room 101 (43㎡) and Waiting Room 104 (79㎡). Additional rooms per day: Waiting Room 102 (39㎡) 11,000 yen, Waiting Room 103 (18㎡) 7,700 yen, Recording Room (82㎡) 22,000 yen, Multipurpose Room (24㎡) 11,000 yen, other waiting rooms (9㎡ to 25㎡) 5,500 yen, and the Suite Room (up to 8 people per room) 55,000 yen (tax included). Korakuen Hall: There is a 119.35㎡ waiting room on the 4F (1 large room can be split into 3 rooms, plus 2 small rooms). The usage fee for general events includes Waiting Rooms A to E, the Organizer Waiting Room and the shower room. Theater G-Rosso: The usage fee includes Dressing Rooms 1 to 4 (Dressing Room 1 11.9㎡, Dressing Room 2 13.6㎡, Dressing Room 3 25.5㎡ (can be split into 2 rooms), Dressing Room 4 21.5㎡). Additional rooms per day: Dressing Room 6 is 22,000 yen and the rest room is 7,700 yen (tax included, fee schedule for fiscal 2025). Gallery AaMo: Room A, Room C and the sound control room are included in the usage fee. Room B costs 11,000 yen per day (tax included). Prism Hall: Per day, Organizer Waiting Room A 22,000 yen, Organizer Waiting Room B 33,000 yen, Reception Room A 44,000 yen, Reception Room B 11,000 yen, Coordination Rooms A and B 11,000 yen each, Pantry Waiting Room 11,000 yen and Pantry 22,000 yen (tax included).",
+  "catering": "Staff boxed meals can be arranged for event organizers and staff within Tokyo Dome City. Boxed meals start from 550 yen, from 5 meals, and must be ordered by 15:00 three days before, excluding weekends and holidays. For receptions and meals in waiting rooms, each venue page has catering introduction materials from 2ndtable Inc. and Dynac Co., Ltd. (April 2026 edition).",
+  "restaurants": "Meetport, where Kanadevia Hall is located, has 8 shops on the 1F to 5F: Boul'Ange, ITALIAN BBQ CARVINO, STARBUCKS COFFEE, TOKYO MERCATO, Komeda's Coffee, Jojoen, Seafood Buffet Iroha and Seiryumon. For organizers using the rental venues, the banquet rooms at Tokyo Dome Hotel are offered at special discounted prices (direct line of the Sales Department 03-5805-2121; say you are \"using a venue in the City\")."
+ },
+ "documents": [
+  {
+   "title": "Korakuen Hall Fee Schedule (for general events, April 1, 2026 - March 31, 2027)"
+  },
+  {
+   "title": "Korakuen Hall Usage Rules (general)"
+  },
+  {
+   "title": "Korakuen Hall 5F Floor Plan"
+  },
+  {
+   "title": "Kanadevia Hall Fee Schedule (April 1, 2026 - March 31, 2027)"
+  },
+  {
+   "title": "Kanadevia Hall Usage Rules (as of October 1, 2025)"
+  },
+  {
+   "title": "Kanadevia Hall Overview Diagram (load-in entrance and stage dimensions)"
+  },
+  {
+   "title": "Kanadevia Hall Seating Chart"
+  },
+  {
+   "title": "Kanadevia Hall B3F Floor Plan"
+  },
+  {
+   "title": "Kanadevia Hall B3F Floor Plan (standing)"
+  },
+  {
+   "title": "Kanadevia Hall Application Form"
+  },
+  {
+   "title": "Gallery AaMo Fee Schedule (April 1, 2026 - March 31, 2027)"
+  },
+  {
+   "title": "Gallery AaMo Simple Floor Plan"
+  },
+  {
+   "title": "Gallery AaMo Usage Rules"
+  },
+  {
+   "title": "Gallery AaMo Application Form"
+  },
+  {
+   "title": "Theater G-Rosso Fee Schedule (fiscal 2025 edition)"
+  },
+  {
+   "title": "Theater G-Rosso Usage Rules"
+  },
+  {
+   "title": "Theater G-Rosso Application Form"
+  },
+  {
+   "title": "Theater G-Rosso Overall Floor Plan"
+  },
+  {
+   "title": "Theater G-Rosso Equipment and Parts List"
+  },
+  {
+   "title": "Prism Hall Fee Schedule (April 1, 2026 - March 31, 2027)"
+  },
+  {
+   "title": "Prism Hall Usage Rules"
+  },
+  {
+   "title": "Prism Hall Effective Area"
+  },
+  {
+   "title": "Prism Hall Layout Plan, theater, entire hall (about 1,200 seats)"
+  },
+  {
+   "title": "Prism Hall Layout Plan, theater, divided in 2 (about 600 seats)"
+  },
+  {
+   "title": "Prism Hall Layout Plan, classroom, entire hall (about 1,000 seats)"
+  },
+  {
+   "title": "Prism Hall Layout Plan, standing buffet, entire hall (about 1,500 people)"
+  },
+  {
+   "title": "Prism Hall Layout Plan, seated buffet, entire hall (about 670 seats)"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "7-Eleven Tokyo Dome City Meetport",
+    "hours": "Open 24 hours",
+    "note": "Because the store is on the 1F of Meetport (the same building as Kanadevia Hall), the distance is set at 0 m and 1 minute on foot. Multi-copy machine available."
+   },
+   {
+    "name": "7-Eleven Bunkyo Koraku 1-chome",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location. Multi-copy machine available."
+   },
+   {
+    "name": "Lawson Tokyo Dome Hotel",
+    "hours": "Open 24 hours",
+    "note": "On the 2F inside the Tokyo Dome Hotel. Distance is calculated from the official store location."
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "Accea Suidobashi",
+    "hours": "Weekdays 8:00-22:00 / Sat, Sun & holidays 10:00-19:00",
+    "note": "Distance is calculated from the address location (Geospatial Information Authority of Japan, block level)."
+   },
+   {
+    "name": "Accea Iidabashi",
+    "hours": "Weekdays 8:00-22:00 / Sat 10:00-19:00 / Sun & holidays closed",
+    "note": "Distance is calculated from the address location (Geospatial Information Authority of Japan)."
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "DAISO Metro M Korakuen",
+    "hours": "10:00-21:00",
+    "note": "Distance is calculated from the official store location. Small store."
+   },
+   {
+    "name": "Can Do Iidabashi Lamla",
+    "hours": "10:00-21:00",
+    "note": "Distance is calculated from the official store location."
+   }
+  ],
+  "donki": [
+   {
+    "name": "Don Quijote Korakuen",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location (Geospatial Information Authority of Japan). The store name on the Don Quijote official site is \"Korakuen Store\"."
+   },
+   {
+    "name": "Don Quijote Akihabara",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location (Geospatial Information Authority of Japan). The store name on the Don Quijote official site is \"Akihabara Store\". Far."
+   }
+  ]
+ },
+ "photoCredit": "© Syced / CC0 · Wikimedia Commons"
+}

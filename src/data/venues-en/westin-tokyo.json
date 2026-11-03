@@ -1,0 +1,180 @@
+{
+ "slug": "westin-tokyo",
+ "name": "The Westin Tokyo",
+ "address": "Tokyo 153-8580 1-4-1 Mita, Meguro-ku, Tokyo",
+ "accessSummary": "To Yebisu Garden Place: 5 min walk from JR Yamanote Line Ebisu Station East Exit (via the moving walkway \"Ebisu Skywalk\"), or 7 min walk from Tokyo Metro Hibiya Line Ebisu Station Exit 1. The hotel is adjacent to Yebisu Garden Place. By car, the Tengenji Ramp of the Metropolitan Expressway is convenient.",
+ "hours": null,
+ "notice": null,
+ "rooms": [
+  {
+   "name": "4F Sapphire",
+   "note": "Conference style: 36 people"
+  },
+  {
+   "name": "4F Emerald",
+   "note": "Conference style: 36 people"
+  },
+  {
+   "name": "4F Ruby",
+   "note": "Conference style: 14 people"
+  },
+  {
+   "name": "2F Tokachi",
+   "note": "Conference style: 24 people"
+  },
+  {
+   "name": "2F Eniwa",
+   "note": "Conference style: 24 people"
+  },
+  {
+   "name": "2F Youtei",
+   "note": "Conference style: 24 people"
+  },
+  {
+   "name": "4F Topaz",
+   "note": "Conference style: 14 people"
+  },
+  {
+   "name": "4F Aquamarine",
+   "note": "The official capacity table shows \"-\" for all layouts"
+  },
+  {
+   "name": "4F Pearl",
+   "note": "The official capacity table shows \"-\" for all layouts"
+  },
+  {
+   "name": "4F Crystal",
+   "note": "Reception: 30 people only"
+  },
+  {
+   "name": "B2F Galaxy",
+   "note": "The hotel's largest event room. The floor plan shows 3 partition lines. Conference style: 480 people"
+  },
+  {
+   "name": "B2F Star",
+   "note": "The floor plan shows 1 partition line. Conference style: 180 people"
+  },
+  {
+   "name": "B1F Kaede",
+   "note": "The floor plan shows a partition line dividing A and B. Conference style: 240 people"
+  },
+  {
+   "name": "B1F Kiri",
+   "note": "Conference style: 30 people"
+  },
+  {
+   "name": "B1F Sakura",
+   "note": "The floor plan shows a partition line dividing A and B. Conference style: 126 people"
+  },
+  {
+   "name": "B1F Kusunoki",
+   "note": "The floor plan shows a partition line dividing A and B. Conference style: 36 people"
+  },
+  {
+   "name": "Chapel",
+   "note": "Theater: 78 people only. It is the 17th row in the capacity table, while the official introduction says \"16 event rooms\""
+  }
+ ],
+ "ops": {
+  "parking": "The on-site hotel parking lot costs 1,200 yen per hour. Valet parking is 2,000 yen per day. There is an electric vehicle charging station. If you pay 3,000 yen or more at a restaurant, parking is free for up to 3 hours, and the parking fee for hotel guests is 3,000 yen per day. The parking lot of the neighboring Yebisu Garden Place is open 7:00-24:00, at 400 yen per 30 minutes, with a maximum charge of 4,000 yen for 7:00-24:00 and 1,600 yen for 24:00-7:00 the next day. Vehicles must be no more than 2.1 m high, 6.0 m long and 2.05 m wide, and no more than 4.0 t in weight. The entrances are on the north side (in front of the Sapporo Breweries headquarters) and the east side (in front of The Westin Tokyo). The Garden Place parking service is not offered at The Westin Tokyo. (Source: Marriott hotel overview, Yebisu Garden Place access and parking guide)",
+  "catering": "The Marriott meetings and events page lists the per-person catering prices. Afternoon break 4,150 yen, coffee break 4,150 yen, continental breakfast 2,500 yen, full breakfast 3,500 yen, lunch 12,000 yen, dinner 30,000 yen, reception 6,000 yen.",
+  "restaurants": "The hotel has 8 restaurants and bars. The Terrace (1F, international), Ryutenmon (Cantonese, with private dining), Mai (Japanese), Teppanyaki \"Yebisu\" (top floor), The Lounge, The Bar, Sky Bar \"Escalier\", and Patisserie by The Westin Tokyo."
+ },
+ "documents": [
+  {
+   "title": "Meetings and Events page (capacity table, floor plans, facilities and services)"
+  },
+  {
+   "title": "Floor Plan 2F (Tokachi, Eniwa, Youtei and others)"
+  },
+  {
+   "title": "Floor Plan 4F (Sapphire, Crystal, Emerald and others)"
+  },
+  {
+   "title": "Floor Plan B1F (Kaede, Kiri, Kusunoki, Sakura)"
+  },
+  {
+   "title": "Floor Plan B2F (Galaxy, Star)"
+  },
+  {
+   "title": "Room Diagram 2F Tokachi, Eniwa, Youtei"
+  },
+  {
+   "title": "Room Diagram 4F Emerald, Crystal, Sapphire"
+  },
+  {
+   "title": "Room Diagram 4F Ruby, Topaz, Pearl, Aquamarine"
+  },
+  {
+   "title": "Room Diagram B1F Kaede, Kiri"
+  },
+  {
+   "title": "Room Diagram B1F Sakura, Kusunoki"
+  },
+  {
+   "title": "Hotel Overview (parking, restaurants, hotel information)"
+  },
+  {
+   "title": "Yebisu Garden Place Parking Guide (brochure)"
+  },
+  {
+   "title": "Yebisu Garden Place Access and Parking"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "FamilyMart Yebisu Garden Place",
+    "hours": "7:00-23:00",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "7-Eleven Shibuya Ebisu 3-chome",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. Has a multi-copy machine."
+   },
+   {
+    "name": "FamilyMart Ebisu 4-chome",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location."
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "Kinko's Ebisu",
+    "hours": "Weekdays 9:00-22:00, Sat 9:00-20:00, Sun & holidays 9:00-20:00 (reception until 30 min before closing)",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Accea Ebisu",
+    "hours": "Weekdays 8:00-20:00, Sat 10:00-19:00, Closed Sun & holidays",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Can Do Peacock Store Ebisu Minami",
+    "hours": "Daily 8:00-23:00",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "DAISO Tokyu Store Meguro",
+    "hours": "9:00-22:00",
+    "note": "Distance is calculated from the official store location. Tenant inside a supermarket."
+   }
+  ],
+  "donki": [
+   {
+    "name": "Picasso Meguro Ekimae (Don Quijote)",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. A different Don Quijote format (the store name on the official website is \"Picasso Meguro Ekimae\")."
+   },
+   {
+    "name": "Platinum Don Quijote Shirokanedai",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location."
+   }
+  ]
+ },
+ "photoCredit": "© Harani0403 / CC BY-SA 3.0 · Wikimedia Commons"
+}

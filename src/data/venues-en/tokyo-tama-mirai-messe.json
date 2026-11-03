@@ -1,0 +1,139 @@
+{
+ "slug": "tokyo-tama-mirai-messe",
+ "name": "Tokyo Tama Mirai Messe",
+ "address": "Tokyo 192-0046 3-19-2 Myojin-cho, Hachioji-shi, Tokyo",
+ "accessSummary": "About 5 min walk from JR Hachioji Station (North Exit) (about 40 min from Shinjuku, about 60 min from Yokohama, about 10 min from Tachikawa) / about 2 min walk from Keio-Hachioji Station (Central Exit) (about 40 min from Shinjuku)",
+ "hours": "Opening hours are 9:00-21:00 for both the exhibition room and meeting rooms. For the exhibition room, the categories are daytime (9:00-17:00), daytime plus evening (until 18:00, 19:00 or 20:00) and all day (9:00-21:00), and after 17:00 time can be added by the hour. For the meeting rooms, the categories are all day (9:00-21:00), morning (9:00-12:00), afternoon (13:00-17:00), evening (18:00-21:00), morning and afternoon, and afternoon and evening; hourly use is not available. Closed from December 29 to January 3.",
+ "notice": "The exhibition room, or the exhibition room together with meeting rooms, can be applied for up to about 2 years in advance. After the regular priority reception held from April 1 to 21 each year (trade fairs and similar events aimed at promoting industry take priority), reception continues on a rolling basis from May 1. Use of the meeting rooms only is accepted from the beginning of the month 6 months before the start date. Provisional reservations are not possible, and a reservation is settled by the issue of a usage approval and payment of the advance deposit. If you cancel or reduce the scale, the fee already paid is not refunded (there is no cancellation fee rule). The usage fee must be paid in full by 30 days before the start of use for the exhibition room, and by 15 days before for meeting-room-only use. Sales of goods may not be approved depending on the content, such as items whose selling price cannot be judged appropriate. In the meeting rooms, uses involving noise, vibration, dust or strong odors are not allowed. For events with many visitors, waiting from the night before or early on the day is prohibited. The entire premises are non-smoking. (Source: Exhibition room and meeting room usage flow, FAQ, points to note for meeting room use, usage guide PDF)",
+ "rooms": [
+  {
+   "name": "Exhibition Room (entire room)",
+   "note": "1F. The upper limit on the number of people is 2,000 (this changes when sales are involved). Floor load capacity 4t/㎡. Theater 1,995 seats (layout drawing with all spans lengthwise), 100 exhibition booths (3m x 3m). Can be divided in 4, and each 1/4 room comes with a waiting room (about 10㎡). Daytime (9:00-17:00) 433,000 yen, all day (9:00-21:00) 649,000 yen (tax included)."
+  },
+  {
+   "name": "Exhibition Room 3/4",
+   "note": "The upper limit on the number of people is 1,500. Daytime 325,000 yen, all day 487,000 yen (tax included)."
+  },
+  {
+   "name": "Exhibition Room 1/2",
+   "note": "The upper limit on the number of people is 1,000. Daytime 217,000 yen, all day 325,000 yen (tax included)."
+  },
+  {
+   "name": "Exhibition Room 1/4",
+   "note": "The upper limit on the number of people is 500. Daytime 109,000 yen, all day 163,000 yen (tax included). Comes with a waiting room (about 10㎡)."
+  },
+  {
+   "name": "Meeting Room 1",
+   "note": "3F. Can be divided in 2; the area and capacity of A and B alone are not given officially. The upper limit on the number of people is 100 (the upper limit set by the ventilation plan; use above this is not possible). All day (9:00-21:00) 54,000 yen (tax included)."
+  },
+  {
+   "name": "Meeting Room 2",
+   "note": "3F. Can be divided in 2; the area and capacity of A and B alone are not given officially. The upper limit on the number of people is 100 (the upper limit set by the ventilation plan). All day 54,000 yen (tax included)."
+  },
+  {
+   "name": "Meeting Room 3",
+   "note": "3F. The upper limit on the number of people is 56 (upper limit set by the ventilation plan). All day 27,000 yen (tax included)."
+  },
+  {
+   "name": "Meeting Room 4",
+   "note": "3F. The upper limit on the number of people is 57 (upper limit set by the ventilation plan). All day 28,000 yen (tax included)."
+  },
+  {
+   "name": "Meeting Room 5",
+   "note": "3F. The upper limit on the number of people is 50 (upper limit set by the ventilation plan). All day 27,000 yen (tax included)."
+  },
+  {
+   "name": "Meeting Room 6",
+   "note": "3F. The upper limit on the number of people is 26 (upper limit set by the ventilation plan). All day 14,000 yen (tax included)."
+  },
+  {
+   "name": "Meeting Room 7",
+   "note": "3F. The upper limit on the number of people is 27 (upper limit set by the ventilation plan). All day 15,000 yen (tax included). The room list page gives the area as about 52㎡, while the individual page and the outline table of the price list give about 50㎡."
+  }
+ ],
+ "ops": {
+  "loadingHours": "Load-in, load-out and setup are done within the set usage time. For the exhibition room, on each day of use you submit an \"opening permit\" to the 1F disaster prevention center (reception from 8:00) at the approved planned opening time, and the door is unlocked for you. The back-yard side doors are opened, and the visitors' entrance is on the foyer side. From 8:00 to 9:00 before opening, out-of-hours use is available for load-in and load-out of exhibits, setup and so on (1/4 room 3,000 yen to entire room 9,000 yen, paid afterwards; not available for meeting room only use). From 17:00 to 21:00 on the last day of the event, night-time load-out use is available for restoring the premises to their original state (load-out and removal only, by the hour, 1/4 room 3,000 yen to entire room 9,000 yen, paid afterwards). For the back yard, submit a \"back-yard use plan\" stating the space, time and number of vehicles by 30 days before the start of use; only vehicles with the issued \"entry permit\" can enter during the designated time. Advance or later storage and safekeeping of goods brought in or out (including courier packages) is not provided. From May 1, 2026, courier packages are accepted only on the day of use, and the user must be present to receive and hand over pickups. For meeting-room-only use, the back yard cannot in principle be used.",
+  "vehicleRules": "When using the exhibition room, loading and unloading is done in the dedicated exhibition room back yard on the 1st floor. Entrance height 3.8m (vehicle height limit 3.6m), weight limit 4t/㎡, vehicle length limit about 8.3m, minimum turning radius about 6.5m. Vehicles can also be driven into the exhibition room (the loading entrance is 3.9m wide and 3.8m high). The number of vehicles that can load in and out is one 4t truck per 1/4 room, up to 3 depending on other events. For the 2nd and later vehicles to stay parked, consult in advance. When using the meeting rooms, use the loading area on B1 (about 2 vehicles, vehicle height limit 2.8m, weight limit 540kg/㎡, vehicle length limit about 6.2m, minimum turning radius about 6.1m; vehicles cannot stay parked in the loading space). For load-in and load-out to the meeting rooms on 3F, only elevator No. 5 connecting B1 to 3F can be used (load capacity 1.6t, car interior W1.5m x D2.3m x H2.3m, entrance W1.3m x H2.1m). Always assign a person in charge at the back yard and loading area, and turn off engines except when needed for work. Take away any trash generated by the work.",
+  "parking": "On B1 there is a car park exclusively for facility users (Tokyo Tama Mirai Messe, Tokyo Metropolitan Government Joint Government Building and Hachioji Public Health Center). It is not open to the general public, and people other than users cannot park there. The spaces are about 100 for regular cars, 4 for people with disabilities, 8 for motorcycles and 7 for mopeds, first come first served (no reservations). The parking ticket received at entry becomes free once validated at the facility being visited, and you cannot exit without validation. The gate opens from 8:30 for at most until 21:00 (shortest 8:30-18:30), and closes when the day's facility use ends; parking overnight until the next day is not possible. The height limit is 2.8m. Always enter by turning left from Renga-dori (right-turn entry is prohibited). For events in the exhibition room, the organizer may decide to restrict parking by visitors. Next to the entrance on the 1st floor of the government building and meeting room building there is a bicycle parking area exclusively for facility users (96 spaces, 8:30-21:00).",
+  "waitingRooms": "There is one waiting room per 1/4 of the exhibition room (about 10㎡, with a meeting table, chairs and so on), so 4 rooms when the entire room is used. The pantry is about 20㎡ and has a refrigerator, ice maker, microwave oven, IH cooker and so on; when using it, submit a \"pantry use notification form\". The number of pantries is described differently: the exhibition room page and the price list say \"2 rooms in the back yard\", while the usage guide PDF says \"3 rooms on the 1st floor and 1 room on the 3rd floor\". There is no permanent cloakroom; an organizer can use a space of about 10㎡ only when setting one up.",
+  "catering": "For box lunches, catering and drink service in the building, order from among the registered vendors. The list of registered vendors can be viewed in the PDF on the official website (as of August 29, 2024)."
+ },
+ "documents": [
+  {
+   "title": "Exhibition Room and Meeting Room Facility Usage Guide (PDF, cover dated September 2022)"
+  },
+  {
+   "title": "Tokyo Tama Mirai Messe Brochure (PDF)"
+  },
+  {
+   "title": "Price List (Exhibition Rooms, Meeting Rooms, Equipment and Supplies)"
+  },
+  {
+   "title": "Application Forms and Drawings Download (application documents, exhibition room drawings, meeting room drawings, waste sorting rules and fees, etc.)"
+  },
+  {
+   "title": "Load-in and Load-out Guide (Back Yard, Loading Area, Elevators)"
+  },
+  {
+   "title": "Notice of Change to Courier Package Receiving Rules (from May 1, 2026)"
+  },
+  {
+   "title": "On Entrusting Waste Disposal (January 10, 2024)"
+  },
+  {
+   "title": "Registered Vendor List for Box Lunches, Catering, etc. (as of August 29, 2024)"
+  },
+  {
+   "title": "Access Printable PDF (route map and transport guide)"
+  },
+  {
+   "title": "Points to Note for Doujinshi Exhibition and Sales Events (PDF)"
+  },
+  {
+   "title": "Consent Form for Doujinshi-Related Events (Points to Note, Attachment 1)"
+  },
+  {
+   "title": "Handling of Exhibits and Sales Items Prohibited for Under-18s (Points to Note, Attachment 2)"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "FamilyMart Keio Hachioji",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "FamilyMart Hachioji Myojin-cho 4-chome",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "FamilyMart Hachioji Myojin-cho",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location."
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "DAISO Don Quijote Hachioji Ekimae",
+    "hours": "9:00-21:00",
+    "note": "Distance is calculated from the address location. On the 7th floor of the Don Quijote building."
+   },
+   {
+    "name": "DAISO Hachioji OPA",
+    "hours": "10:00-21:00",
+    "note": "Distance is calculated from the address location (block position). On the 3rd floor of Hachioji OPA."
+   }
+  ],
+  "copyshop": [],
+  "donki": [
+   {
+    "name": "Don Quijote Hachioji Ekimae",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location."
+   }
+  ]
+ },
+ "photoCredit": "© DiKnK8713 / CC BY-SA 4.0 · Wikimedia Commons"
+}

@@ -1,0 +1,189 @@
+{
+ "slug": "yokohama-bay-hotel-tokyu",
+ "name": "The Yokohama Bay Hotel Tokyu",
+ "address": "Kanagawa 220-8543 2-3-7 Minatomirai, Nishi-ku, Yokohama, Kanagawa",
+ "accessSummary": "Directly connected to Minatomirai Station on the Minatomirai Line, about 1 min walk / about 10 min walk from Sakuragicho Station (JR lines and Yokohama Municipal Subway)",
+ "hours": "Meetings are charged at the rate for up to 2 hours, with an additional fee for each extra hour. Dining is charged at the rate for up to 2 hours. Exhibitions are charged at the daily rate for 9:00-21:00. Use before 9:00 and after 22:00 is charged at the regular fee plus 50%. (Price list as of July 1, 2026)",
+ "notice": "The amounts in the banquet room price list include service charge and taxes. Prices may change depending on the season and conditions of use. The Queen's Square Yokohama connecting passage at Minatomirai Station is closed from 24:00 to 7:00; during these hours, use Exit 5 to reach the main entrance.",
+ "rooms": [
+  {
+   "name": "Queens Grand Ballroom (entire A-B-C-D)",
+   "note": "B2F. Large banquet room. Can be divided into 4 sections, A to D. In the capacity columns, banquet = seated dinner, standing = buffet."
+  },
+  {
+   "name": "Queens Grand Ballroom (ABC)",
+   "note": "B2F."
+  },
+  {
+   "name": "Queens Grand Ballroom (BCD)",
+   "note": "B2F."
+  },
+  {
+   "name": "Queens Grand Ballroom (AB)",
+   "note": "B2F."
+  },
+  {
+   "name": "Queens Grand Ballroom (BC)",
+   "note": "B2F."
+  },
+  {
+   "name": "Queens Grand Ballroom (CD)",
+   "note": "B2F."
+  },
+  {
+   "name": "Queens Grand Ballroom (A)",
+   "note": "B2F."
+  },
+  {
+   "name": "Queens Grand Ballroom (B)",
+   "note": "B2F."
+  },
+  {
+   "name": "Queens Grand Ballroom (C)",
+   "note": "B2F."
+  },
+  {
+   "name": "Queens Grand Ballroom (D)",
+   "note": "B2F."
+  },
+  {
+   "name": "Ambassador's Ballroom (SN)",
+   "note": "B2F. Medium banquet room. Can be divided into 2 sections, S and N."
+  },
+  {
+   "name": "Ambassador's Ballroom (S)",
+   "note": "B2F."
+  },
+  {
+   "name": "Ambassador's Ballroom (N)",
+   "note": "B2F."
+  },
+  {
+   "name": "Admiral",
+   "note": "B2F. Small banquet room."
+  },
+  {
+   "name": "Yamayuri",
+   "note": "B2F. Small banquet room."
+  },
+  {
+   "name": "Rindo",
+   "note": "B2F. Small banquet room."
+  },
+  {
+   "name": "Hamayu",
+   "note": "B2F. Small banquet room."
+  },
+  {
+   "name": "Sazanka",
+   "note": "B2F. Small banquet room."
+  },
+  {
+   "name": "Rose",
+   "note": "B2F. Small banquet room. Seated dinner only."
+  },
+  {
+   "name": "Prince",
+   "note": "B1F. Small banquet room."
+  },
+  {
+   "name": "Princess",
+   "note": "B1F. Small banquet room."
+  },
+  {
+   "name": "Pacific Room",
+   "note": "25F. Small banquet room. A party room with a view over Yokohama Port."
+  },
+  {
+   "name": "Business Lounge",
+   "note": "24F. Meeting room. Capacity 10 people, layout is free-flow."
+  },
+  {
+   "name": "The Library",
+   "note": "23F. Meeting room. Capacity 10 people, layout is free-flow."
+  }
+ ],
+ "ops": {
+  "parking": "For hotel parking, use the underground parking lot of Queen's Square Yokohama (which has a dedicated hotel entrance). It is open 7:00-24:00 with 1,700 spaces, at 280 yen per 30 minutes. The maximum charge is 1,600 yen on weekdays and 2,000 yen on Sat, Sun & holidays (when exiting by 24:00 on the day of entry; excluding Jan 1-3, Dec 24, 25 and 31). Attendees of weddings and banquets get 3 hours free.",
+  "waitingRooms": "The small banquet room \"Rose\" (B2F, 30㎡, seated dinner for 10) can also be used as a waiting room when a banquet room is used."
+ },
+ "documents": [
+  {
+   "title": "Banquet Room Price List (as of July 1, 2026)"
+  },
+  {
+   "title": "Floor Guide and Specifications (capacity table)"
+  },
+  {
+   "title": "Sound and Lighting Equipment / Banquets (basic equipment, permanent equipment, web conferencing equipment)"
+  },
+  {
+   "title": "Guide to Web Conferencing and Video Streaming Systems"
+  },
+  {
+   "title": "Fact Sheet (hotel guide; banquet room tables as of January 2025)"
+  },
+  {
+   "title": "Area Map (for printing, October 2025 edition)"
+  },
+  {
+   "title": "Queen's Square Yokohama Access and Underground Parking Guide"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "FamilyMart Queen's Square Yokohama",
+    "hours": "7:00-23:00",
+    "note": "Distance is calculated from the store location on the official page."
+   },
+   {
+    "name": "FamilyMart MM Center Building",
+    "hours": "7:00-23:00",
+    "note": "Distance is calculated from the store location on the official page. Store inside a building; the official page does not say whether the general public can enter."
+   },
+   {
+    "name": "7-Eleven Yokohama Minatomirai 3-chome",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the store location on the official page."
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "Kinko's Pacifico Yokohama",
+    "hours": "Business days and hours change every month to match events (check the official business calendar)",
+    "note": "Distance is calculated from the address location (Geospatial Information Authority of Japan). On closed days and outside business hours, the Yokohama Station West Exit store is open (per the official page)."
+   },
+   {
+    "name": "Kinko's Yokohama Station West Exit",
+    "hours": "Weekdays 8:00-22:00 / Sat 9:00-22:00 / Sun & holidays 9:00-22:00",
+    "note": "Distance is calculated from the address location (Geospatial Information Authority of Japan). Rather far."
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "DAISO Minatomirai Tokyu Square",
+    "hours": "11:00-20:00",
+    "note": "Distance is calculated from the store location on the official page."
+   },
+   {
+    "name": "DAISO Mark Is Minatomirai",
+    "hours": "10:00-20:00",
+    "note": "Distance is calculated from the store location on the official page."
+   }
+  ],
+  "donki": [
+   {
+    "name": "Kirakira Donki Yokohama World Porters",
+    "hours": "10:30-21:00",
+    "note": "Distance is calculated from the address location (Geospatial Information Authority of Japan). A store under a different Don Quijote name (on the official website, it is the Don Quijote section on the 3F)."
+   },
+   {
+    "name": "Don Quijote Isezakicho",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location (Geospatial Information Authority of Japan). Far."
+   }
+  ]
+ },
+ "photoCredit": "© U-Kane / CC BY-SA 4.0 · Wikimedia Commons"
+}

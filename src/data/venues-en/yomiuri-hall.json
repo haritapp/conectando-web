@@ -1,0 +1,158 @@
+{
+ "slug": "yomiuri-hall",
+ "name": "Yomiuri Hall",
+ "address": "Yomiuri Kaikan 7F, 1-11-1 Yurakucho, Chiyoda-ku, Tokyo",
+ "accessSummary": "Right by the International Forum Exit of JR Yamanote Line / Keihin-Tohoku Line Yurakucho Station / Tokyo Metro Yurakucho Line Yurakucho Station Exits D4 and D6 / 3 min walk from Exit A2 of Tokyo Metro Hibiya Line and Chiyoda Line Hibiya Station / 5 min walk from Exit C9 of Tokyo Metro Ginza Line and Marunouchi Line Ginza Station / Toei Subway Mita Line Hibiya Station Exits D4 and D6",
+ "hours": "Usage hours are 9:00-22:00. There are 3 time slots: morning 9:00-12:00, afternoon 13:00-17:00 and evening 18:00-22:00. On weekdays you can book from 1 slot, and on Sat, Sun and holidays you book 2 or more slots. Each slot includes setup and cleanup time, and if you book consecutive slots, the time between the slots can also be used. Extensions past 22:00 are not possible. Only in unavoidable cases and with the hall's permission can the hall be used from 8:00, and extension fees, overtime labor costs and staff standby costs apply.",
+ "notice": "The hall is scheduled to be closed from January 18 to April 7, 2027 for renovation of the dimming equipment. Usage applications are accepted from the first business day of the same month 1 year before the desired month of use. First tell the hall your dates by phone, then send the usage approval application form and the checklist. Materials showing the organizer's activities must also be submitted. The hall screens applications and does not give reasons for approval or rejection. The reservation deposit is half of the usage fee up to 3 months before the usage date and the full amount after that, and the cancellation fee is the same. The legal capacity under the Fire Service Act is 1,100 people, and standing or stand-up viewing is not allowed. Eating, drinking alcohol and jumping in the audience seats are prohibited. Fire cannot be used, including open flames, and neither can smoke machines or anything else that sets off the smoke detectors. The whole building is non-smoking. Events with vibration or loud sound such as rock or taiko, and dance with many performers, may be declined. There are no meeting rooms or spaces where you can have a meal (there are 4 dressing rooms and 1 reception room). For streaming, 1 wired internet line is permanently installed, and 2 or more lines require temporary line work. Photography, video recording and audio recording require the hall's prior approval. There is no space or power supply for an outside broadcast van. By 30 days before the event, hold a meeting on stage, lighting and sound, and bring 4 copies each of the run sheet, the stage layout drawing and so on. (Source: Usage Guide (Rules) July 2026, Temporary Closure Notice, FAQ)",
+ "rooms": [
+  {
+   "name": "Yurakucho Yomiuri Hall",
+   "note": "1,100 seats (522 on the 1st-floor seating, 578 on the 2nd-floor seating; 4 wheelchair-accessible seats). areaM2 is the area of the audience seating (total of the 1st-floor and 2nd-floor seating), and ceilingM is the highest point of the audience seating. The main stage is 12.7 m wide x 10.9 m deep (the depth is measured to the horizon curtain), about 115㎡. The stage floor load capacity is 200 kg per ㎡."
+  }
+ ],
+ "ops": {
+  "loadingHours": "Use the loading elevator or the stage elevator for load-in. The loading entrance is along the JR tracks, on the Tokyo Station side. If you want the loading elevator to be put in dedicated operation, submit an application form. The hours when dedicated operation is possible are limited, and it is released once the load-in and load-out reach a natural pause. The hours are limited to within the hall's usage hours. Long items and panels over 9 shaku (2,727 mm) must be written on the application form. The audience seating area cannot be passed through during load-in and load-out; use the corridor on the stage-left side. The loading elevator takes panels up to 6 shaku x 9 shaku, and the stage elevator takes up to 6 shaku x 7 shaku and 4 shaku x 10 shaku. (Source: Facility Overview, Request for Dedicated Use of the Load-in/out Elevator (revised May 2026), Loading Entrance / Elevator and Corridor Dimensions) Luggage that can be left the day before is up to the 10 boxes stated in the application. Valuables, precision equipment and large items cannot be accepted. The hall receives luggage only on the weekday before the event, 10:00-17:00, and it is stored in a shared corridor, for which the hall takes no responsibility. If it exceeds 10 boxes, consult in advance. (Source: Day-before Luggage Storage Guide PDF)",
+  "vehicleRules": "There is no dedicated parking lot for vehicles carrying equipment, and a stopping space cannot be secured. When stopping, follow the instructions of the security guard on the 1st floor, and move the vehicle immediately after load-in and load-out is finished. Follow the instructions of the hall operator and the Yomiuri Kaikan staff. There is no space or power supply facility for an outside broadcast van. (Source: Usage Guide (Rules) July 2026, Request for Dedicated Use of the Load-in/out Elevator)",
+  "parking": "There is no dedicated parking lot. Use paid parking lots in the surrounding area.",
+  "waitingRooms": "There are 4 dressing rooms (two of 17㎡, one of 20㎡, one of 40㎡), included in the hall usage fee. There is 1 shower room each for men and women. There is 1 lobby reception room (13㎡) at 5,500 yen (tax included) per day. If you need a waiting room other than the dressing rooms and the reception room, the hall can introduce you to the rental meeting rooms of Tokyo Kotsu Kaikan (say \"using Yurakucho Yomiuri Hall\" when you inquire). (Source: Facility Overview, FAQ)",
+  "catering": "There is no designated caterer. The hall cannot dispose of bento waste, so collection by the vendor is required. Stand flowers must also be collected, and the hall can introduce vendors. There is no space in the hall where you can have a meal. Eating and drinking alcohol in the audience seats is prohibited, and eating and drinking are allowed in the lobby. The organizer prepares consumables such as stationery and tea leaves. (Source: FAQ, Usage Guide (Rules) July 2026)",
+  "restaurants": "The building has Chibo (okonomiyaki, 6F), Sushiro (sushi, 6F) and Komeda's Coffee (B2F). There is a kiosk at the back of the lobby, and 3 vending machines for soft drinks."
+ },
+ "documents": [
+  {
+   "title": "Usage Approval Application Form, Checklist and Usage Guide (Rules) (as of July 1, 2026)"
+  },
+  {
+   "title": "Hall Usage Reference Fees (examples for lectures and internal events, April 2026 edition)"
+  },
+  {
+   "title": "Equipment Usage Fees (from April 2026 usage)"
+  },
+  {
+   "title": "Notice of Temporary Closure (February 2, 2026; planned for January 18 to April 7, 2027)"
+  },
+  {
+   "title": "Guide to Setup Work (April 8, 2026 edition)"
+  },
+  {
+   "title": "Loading Entrance / Elevator and Corridor Dimensions"
+  },
+  {
+   "title": "Request for Dedicated Use of the Load-in/out Elevator (revised May 2026)"
+  },
+  {
+   "title": "Day-before Luggage Storage Application Form (December 27, 2024 edition)"
+  },
+  {
+   "title": "Organizer Pass Application Form (November 11, 2024 edition)"
+  },
+  {
+   "title": "Yurakucho Yomiuri Hall Signboard Copy"
+  },
+  {
+   "title": "Photography Use Application Form"
+  },
+  {
+   "title": "Emergency Response Information 1"
+  },
+  {
+   "title": "Seating Chart"
+  },
+  {
+   "title": "Stage Plan (May 14, 2025 edition)"
+  },
+  {
+   "title": "Stage Section (May 14, 2025 edition)"
+  },
+  {
+   "title": "Stage and Audience Seating Section"
+  },
+  {
+   "title": "Lobby Plan"
+  },
+  {
+   "title": "Lighting Documents: Drawings and Circuit Diagram (June 16, 2026 edition)"
+  },
+  {
+   "title": "Sound Power and Line Diagram"
+  },
+  {
+   "title": "Stage Equipment List (permanent) (April 1, 2026 edition)"
+  },
+  {
+   "title": "Sound Equipment Overview (April 1, 2026 edition)"
+  },
+  {
+   "title": "Lighting Equipment Overview (June 1, 2026 edition)"
+  },
+  {
+   "title": "Lobby Equipment List (April 1, 2026 edition)"
+  },
+  {
+   "title": "Dressing Room and Reception Room Equipment List (April 1, 2026 edition)"
+  },
+  {
+   "title": "Screen Equipment List (February 2, 2024 edition)"
+  },
+  {
+   "title": "Projector Equipment List"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "7-Eleven Yurakucho ITOCiA",
+    "hours": "Daily 7:00-23:00 (same on holidays)",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "FamilyMart Yurakucho Ekimae",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "FamilyMart Tokyo International Forum",
+    "hours": "7:00-23:30",
+    "note": "The address is Tokyo International Forum. Distance is calculated from the address location."
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "Kinko's Ginza-itchome",
+    "hours": "Weekdays 9:00-20:00, Sat 10:00-19:00, Closed Sun & holidays (reception until 30 min before closing)",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Kinko's Otemachi",
+    "hours": "Weekdays 9:00-20:00, Closed Sat, Sun & holidays (reception until 30 min before closing)",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "DAISO Marronnier Gate Ginza",
+    "hours": "11:00-21:00",
+    "note": "On the 6th floor of a commercial facility. Distance is calculated from the official store location."
+   },
+   {
+    "name": "Can Do Marunouchi Oazo",
+    "hours": "Mon-Fri 8:00-22:00, Sat, Sun & holidays 9:00-21:00",
+    "note": "Rather far. Distance is calculated from the official store location."
+   }
+  ],
+  "donki": [
+   {
+    "name": "Okashi Donki / Osake Donki (Yaechika, Yaesu Underground Shopping Center)",
+    "hours": "Mon-Thu, Sun & holidays 9:00-21:00, Fri & Sat 9:00-21:30",
+    "note": "The store name follows the official page. The top of the official page says 9:00-21:30, while the table by day of the week says Mon-Thu, Sun & holidays close at 21:00. Distance is calculated from the address location."
+   },
+   {
+    "name": "Don Quijote Ginza Main Building (Ginza Nine Building No. 3)",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location."
+   }
+  ]
+ },
+ "photoCredit": "© jmho / Public domain · Wikimedia Commons"
+}

@@ -1,0 +1,622 @@
+{
+ "slug": "tower-hall-funabori",
+ "nameJa": "タワーホール船堀",
+ "nameEn": "TOWER HALL FUNABORI",
+ "type": "hall",
+ "area": "east-tokyo-venues",
+ "address": "〒134-0091 東京都江戸川区船堀4-1-1",
+ "officialUrl": "https://www.towerhall.jp/",
+ "organizerUrl": "https://www.towerhall.jp/usage-guide/",
+ "bizintokyoSlug": "tower-hall-funabori",
+ "accessSummary": "都営新宿線 船堀駅 北口から徒歩約1分",
+ "notice": "江戸川区の施設。区外の会社・団体も借りられる。申込には江戸川区の予約システム「えどねっと」の登録が必要で、会社・団体は窓口で「大型文化施設利用団体（区外）」に登録する（区が使用を適当と認めた団体が対象。郵送・代理は不可。本人確認書類と、会社概要など団体の実在を示す書類を出す。2年に1回更新）。抽選に出せるのは団体登録だけで、個人登録は空き予約のみ。区内に事務所を有する団体は区民料金、それ以外は一般料金。営利目的は条件つき。営利を目的とした物品の展示販売や商品の直接販売の利用、営利を目的に継続して団体活動を行う利用は承認されない。入場料・参加費を取る催しは、金額に応じて会場使用料が割増（1001〜2000円は5割、2001〜3000円は7割5分、3001円〜は10割）。催しの目的が明確でない場合や公の施設にふさわしくない催しは、貸出を断ることがある。抽選は、大・小ホールと展示ホール（展示目的）が12か月前、会議室などの諸室が5か月前の5日9:00〜14日22:00。イベントホール・蓬莱は抽選も空き予約も窓口のみ。利用時間には準備・片付けを含む。取り消しは原則返金なし。火気は消防署への申請が必要。張り紙は不可、ゴミは持ち帰り。イベントホールと会議室では太鼓・管楽器・アンプを通した音出し（大声を含む）はできない。",
+ "hours": "部屋の利用時間は午前9:00〜12:00・午後13:00〜16:30・夜間17:30〜21:30、全日は9:00〜21:30（準備・片付けの時間を含む）。イベントホール・蓬莱は披露宴・宴会が2時間30分、会議・その他が3時間の区分。",
+ "rooms": [
+  {
+   "name": "イベントホール（太陽の間）",
+   "areaM2": 1500,
+   "ceilingM": 6,
+   "theater": null,
+   "school": 750,
+   "ushape": null,
+   "standing": 1500,
+   "banquet": 750,
+   "note": "2階。瑞雲・平安・福寿・桃源の4室をつないだ広さ。2室（300名）・3室（460名）をつないでも使える。"
+  },
+  {
+   "name": "瑞雲",
+   "areaM2": 375,
+   "ceilingM": null,
+   "theater": 360,
+   "school": 162,
+   "ushape": null,
+   "standing": 200,
+   "banquet": 140,
+   "note": "2階。イベントホールの1室。宴会は着席140名・立食200名、会議はスクール162名・シアター360名まで。"
+  },
+  {
+   "name": "平安",
+   "areaM2": 375,
+   "ceilingM": null,
+   "theater": 360,
+   "school": 162,
+   "ushape": null,
+   "standing": 200,
+   "banquet": 140,
+   "note": "2階。イベントホールの1室。宴会は着席140名・立食200名、会議はスクール162名・シアター360名まで。"
+  },
+  {
+   "name": "福寿",
+   "areaM2": 375,
+   "ceilingM": null,
+   "theater": 360,
+   "school": 162,
+   "ushape": null,
+   "standing": 200,
+   "banquet": 140,
+   "note": "2階。イベントホールの1室。宴会は着席140名・立食200名、会議はスクール162名・シアター360名まで。"
+  },
+  {
+   "name": "桃源",
+   "areaM2": 375,
+   "ceilingM": null,
+   "theater": 360,
+   "school": 162,
+   "ushape": null,
+   "standing": 200,
+   "banquet": 140,
+   "note": "2階。イベントホールの1室。宴会は着席140名・立食200名、会議はスクール162名・シアター360名まで。"
+  },
+  {
+   "name": "バンケットルーム（蓬莱の間）",
+   "areaM2": 170,
+   "ceilingM": null,
+   "theater": 150,
+   "school": 72,
+   "ushape": null,
+   "standing": 100,
+   "banquet": 80,
+   "note": "2階。専用ロビー付。"
+  },
+  {
+   "name": "大ホール",
+   "areaM2": null,
+   "ceilingM": null,
+   "theater": 750,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "5階。舞台は間口13.8m・奥行15.2m・高さ90cm。"
+  },
+  {
+   "name": "小ホール",
+   "areaM2": null,
+   "ceilingM": null,
+   "theater": 300,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "5階。最大300席で、舞台のレイアウトにより席数が変わる。舞台・座席は可動式。"
+  },
+  {
+   "name": "展示ホール",
+   "areaM2": 780,
+   "ceilingM": 4,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "1階。2分割で使える。床耐荷重は1t/㎡。"
+  },
+  {
+   "name": "展示ホール1",
+   "areaM2": 390,
+   "ceilingM": 4,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "1階。分割利用の1室。"
+  },
+  {
+   "name": "展示ホール2",
+   "areaM2": 390,
+   "ceilingM": 4,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "1階。分割利用の1室。"
+  },
+  {
+   "name": "301会議室",
+   "areaM2": 72,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "3階。定員36名。"
+  },
+  {
+   "name": "302会議室",
+   "areaM2": 71,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "3階。定員32名。"
+  },
+  {
+   "name": "303会議室",
+   "areaM2": 111,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "3階。定員48名。"
+  },
+  {
+   "name": "304会議室",
+   "areaM2": 36,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "3階。定員12名。"
+  },
+  {
+   "name": "305会議室",
+   "areaM2": 36,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "3階。定員12名。"
+  },
+  {
+   "name": "306会議室",
+   "areaM2": 64,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "3階。定員30名。"
+  },
+  {
+   "name": "307会議室",
+   "areaM2": 97,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "3階。定員42名。"
+  },
+  {
+   "name": "応接会議室",
+   "areaM2": 55,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "3階。定員24名。"
+  },
+  {
+   "name": "401会議室",
+   "areaM2": 129,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "4階。定員63名。"
+  },
+  {
+   "name": "402会議室",
+   "areaM2": 61,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "4階。定員30名。"
+  },
+  {
+   "name": "403会議室",
+   "areaM2": 61,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "4階。定員30名。"
+  },
+  {
+   "name": "404会議室",
+   "areaM2": 35,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "4階。定員12名。"
+  },
+  {
+   "name": "405会議室",
+   "areaM2": 35,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "4階。定員12名。"
+  },
+  {
+   "name": "406会議室",
+   "areaM2": 61,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "4階。定員30名。"
+  },
+  {
+   "name": "407会議室",
+   "areaM2": 59,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "4階。定員36名。"
+  },
+  {
+   "name": "特別会議室",
+   "areaM2": 70,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "4階。定員16名。"
+  },
+  {
+   "name": "研修室",
+   "areaM2": 149,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "4階。定員84名。"
+  },
+  {
+   "name": "リハーサル室",
+   "areaM2": 253,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "4階。フローリング。施設案内ページは198㎡と表記している。"
+  },
+  {
+   "name": "和室1",
+   "areaM2": null,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "4階。28畳。"
+  },
+  {
+   "name": "和室2",
+   "areaM2": null,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "4階。20畳。炉・水屋付。"
+  }
+ ],
+ "roomsSource": "https://www.towerhall.jp/facility/ ／ https://www.towerhall.jp/tower/wp-content/uploads/2026/04/fee_01.png ／ https://funabori-matsuya.com/banquet/hall/",
+ "ops": {
+  "loadingHours": {
+   "text": "ホール専用サービスヤードは7:00〜23:00。",
+   "source": "https://www.towerhall.jp/tower/wp-content/uploads/2022/06/ks05.pdf"
+  },
+  "vehicleRules": {
+   "text": "搬入口は、大ホール利用者専用（入口高3.8m・3台）、展示ホール利用者専用（入口高3.5m・2台）、小ホール利用者専用（入口高3.7m・2台）。搬入経路の高架は高さ3.6mと4.2m。",
+   "source": "https://www.towerhall.jp/tower/wp-content/uploads/2022/04/map_keiro.png"
+  },
+  "parking": {
+   "text": "地下1階74台・地下2階87台（計161台）。高さ制限は2.6mで、車椅子など広い駐車スペースが必要な人向けの区画もある。利用時間は8:30〜22:00。料金は最初の1時間200円、以後1時間ごとに100円。催しによって満車になる場合があり、公共交通機関の利用をすすめている。",
+   "source": "https://www.towerhall.jp/access/"
+  },
+  "waitingRooms": {
+   "text": "大ホールの楽屋は4階に5室（第一 和6畳・シャワー付、第二 洋18㎡・シャワー付、第三 和11畳、第四 洋31㎡、第五 洋51㎡）。小ホールの楽屋は5階に4室（第一 和12畳、第二 洋37㎡、第三 洋25㎡、第四 洋23㎡）。2階イベントホール用の控室は松・桜・藤（席数38・定員12名）。料金は料金表に載っている。",
+   "source": "https://www.towerhall.jp/tower/wp-content/uploads/2026/04/fee_01.png"
+  },
+  "catering": {
+   "text": "2階の宴会場（イベントホール・蓬莱）は、船堀マツヤサロンの案内で、飲食物の持込みは食品衛生上の理由で原則お断り。大・小・展示ホールと会議室は、定められた場所以外での飲食・喫煙はご遠慮、定められた場所以外での飲酒はできない。ホール客席内での飲食はご遠慮。",
+   "source": "https://funabori-matsuya.com/faq/"
+  },
+  "restaurants": {
+   "text": "7階にレストラン「サロン・ド・サロン」（11:00〜21:00、食事のオーダーストップ20:00、ドリンクは20:30、年中無休）。1階にキャラバンコーヒー（9:00〜19:00）、キリンシティ（月〜土 11:30〜23:00、日・祝 11:30〜22:00）、つきじ植むら 旬泉坊（11:00〜15:00、17:00〜22:00）。",
+   "source": "https://www.towerhall.jp/facility/"
+  }
+ },
+ "documents": [
+  {
+   "title": "施設料金表（一般料金）（令和8年4月1日改定後）",
+   "url": "https://www.towerhall.jp/tower/wp-content/uploads/2026/04/fee_01.png"
+  },
+  {
+   "title": "施設料金表（江戸川区民料金）（令和8年4月1日改定後）",
+   "url": "https://www.towerhall.jp/tower/wp-content/uploads/2026/04/fee_02.png"
+  },
+  {
+   "title": "ご利用上の注意事項（令和8年4月一部改正）",
+   "url": "https://www.towerhall.jp/tower/wp-content/uploads/2026/04/HP%E7%94%A8%EF%BC%BF%E4%BD%BF%E7%94%A8%E4%B8%8A%E3%81%AE%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A0%85.pdf"
+  },
+  {
+   "title": "搬入経路（ホール専用サービスヤード・入口高さ）",
+   "url": "https://www.towerhall.jp/tower/wp-content/uploads/2022/04/map_keiro.png"
+  },
+  {
+   "title": "大ホール座席表",
+   "url": "https://www.towerhall.jp/tower/wp-content/uploads/2022/06/gb05.pdf"
+  },
+  {
+   "title": "小ホール座席表",
+   "url": "https://www.towerhall.jp/tower/wp-content/uploads/2022/06/gb07.pdf"
+  },
+  {
+   "title": "タワーホール船堀平面図（1階〜5階）",
+   "url": "https://www.towerhall.jp/tower/wp-content/uploads/2022/06/gb03.pdf"
+  },
+  {
+   "title": "大ホール舞台平面図",
+   "url": "https://www.towerhall.jp/tower/wp-content/uploads/2022/06/gb06.pdf"
+  },
+  {
+   "title": "小ホール舞台平面図",
+   "url": "https://www.towerhall.jp/tower/wp-content/uploads/2022/06/gb08.pdf"
+  },
+  {
+   "title": "小ホール舞台機構",
+   "url": "https://www.towerhall.jp/tower/wp-content/uploads/2022/06/gb09.pdf"
+  },
+  {
+   "title": "大ホール ロビーホワイエ図面",
+   "url": "https://www.towerhall.jp/tower/wp-content/uploads/2022/06/gb04.pdf"
+  },
+  {
+   "title": "小ホール ホワイエ図面",
+   "url": "https://www.towerhall.jp/tower/wp-content/uploads/2022/06/gb10.pdf"
+  },
+  {
+   "title": "展示ホール平面図",
+   "url": "https://www.towerhall.jp/tower/wp-content/uploads/2022/06/Exhibition_Hall_ground_plan.pdf"
+  },
+  {
+   "title": "1F展示ホール コンセント図",
+   "url": "https://www.towerhall.jp/tower/wp-content/uploads/2022/06/ch01.pdf"
+  },
+  {
+   "title": "2階イベントホール コンセント図",
+   "url": "https://www.towerhall.jp/tower/wp-content/uploads/2022/06/ch02.pdf"
+  },
+  {
+   "title": "2F コンセント図",
+   "url": "https://www.towerhall.jp/tower/wp-content/uploads/2022/06/ch03.pdf"
+  },
+  {
+   "title": "3F コンセント図",
+   "url": "https://www.towerhall.jp/tower/wp-content/uploads/2022/06/ch04.pdf"
+  },
+  {
+   "title": "4F コンセント図",
+   "url": "https://www.towerhall.jp/tower/wp-content/uploads/2022/06/ch05.pdf"
+  },
+  {
+   "title": "4階大ホール コンセント図",
+   "url": "https://www.towerhall.jp/tower/wp-content/uploads/2022/06/ch06.pdf"
+  },
+  {
+   "title": "5階大ホール・小ホール コンセント図",
+   "url": "https://www.towerhall.jp/tower/wp-content/uploads/2022/06/ch07.pdf"
+  },
+  {
+   "title": "大ホール音響機材一覧（2026年7月掲載）",
+   "url": "https://www.towerhall.jp/tower/wp-content/uploads/2026/07/dk01.pdf"
+  },
+  {
+   "title": "小ホール用音響機材一覧（2026年7月掲載）",
+   "url": "https://www.towerhall.jp/tower/wp-content/uploads/2026/07/sk01.pdf"
+  },
+  {
+   "title": "大ホール照明設備一覧",
+   "url": "https://www.towerhall.jp/tower/wp-content/uploads/2022/06/dk06.pdf"
+  },
+  {
+   "title": "小ホール照明設備一覧",
+   "url": "https://www.towerhall.jp/tower/wp-content/uploads/2022/06/sk06.pdf"
+  },
+  {
+   "title": "大・小・展示ホール用 受付申込書（2026年7月掲載）",
+   "url": "https://www.towerhall.jp/tower/wp-content/uploads/2026/07/HP_%E5%8F%97%E4%BB%98%E7%94%A8%E7%94%B3%E8%BE%BC%E6%9B%B8%EF%BC%88%E3%83%9B%E3%83%BC%E3%83%AB%E7%94%A8%EF%BC%89%E7%9B%AE%E7%9A%84%E5%85%A5%E5%8A%9B.pdf"
+  },
+  {
+   "title": "禁止行為の解除承認申請書",
+   "url": "https://www.towerhall.jp/tower/wp-content/uploads/2026/09/%E7%A6%81%E6%AD%A2%E8%A1%8C%E7%82%BA-071-1%EF%BC%BF.pdf"
+  },
+  {
+   "title": "作業届出書",
+   "url": "https://www.towerhall.jp/tower/wp-content/uploads/2022/06/ks05.pdf"
+  },
+  {
+   "title": "えどねっと利用ガイド（第31版 令和8年6月12日改訂）",
+   "url": "https://www.city.edogawa.tokyo.jp/documents/1845/edonet-riyoguide_ver31_2.pdf"
+  },
+  {
+   "title": "えどねっと利用者規約（令和8年1月12日改正）",
+   "url": "https://www.city.edogawa.tokyo.jp/documents/1845/edonet-kiyaku_20260112-2.pdf"
+  }
+ ],
+ "checkedAt": "2026-11-02",
+ "lat": 35.684433,
+ "lng": 139.864273,
+ "nearby": {
+  "convenience": [
+   {
+    "name": "セブン-イレブン 江戸川船堀4丁目店",
+    "brand": "セブン-イレブン",
+    "distanceM": 74,
+    "walkMin": 1,
+    "hours": "24時間営業",
+    "address": "東京都江戸川区船堀4-2-2",
+    "verified": true,
+    "source": "https://seven-eleven.areamarker.com/711map/info/227809",
+    "note": "距離は公式の店舗位置で計算。マルチコピー機あり"
+   },
+   {
+    "name": "ファミリーマート 船堀一丁目店",
+    "brand": "ファミリーマート",
+    "distanceM": 91,
+    "walkMin": 2,
+    "hours": "24時間営業",
+    "address": "東京都江戸川区船堀1-8-15",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/19317",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "セブン-イレブン 江戸川船堀2丁目店",
+    "brand": "セブン-イレブン",
+    "distanceM": 216,
+    "walkMin": 3,
+    "hours": "24時間営業",
+    "address": "東京都江戸川区船堀2丁目22-16",
+    "verified": true,
+    "source": "https://seven-eleven.areamarker.com/711map/info/217841",
+    "note": "距離は公式の店舗位置で計算。マルチコピー機あり"
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "アクセア 錦糸町店",
+    "brand": "アクセア",
+    "distanceM": 4662,
+    "walkMin": 59,
+    "hours": "平日24時間営業（月曜朝9:00から土曜19:00まで休まず営業）／日・祝 10:00-19:00",
+    "address": "東京都墨田区江東橋3-8-7 錦糸町駅前プラザビル2F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/entry.html",
+    "note": "距離は住所の位置で計算。遠い"
+   },
+   {
+    "name": "アクセア 門前仲町店",
+    "brand": "アクセア",
+    "distanceM": 6484,
+    "walkMin": 82,
+    "hours": "平日 10:00-19:00／土・日・祝 休み",
+    "address": "東京都江東区門前仲町1-4-3 第三仲町ビル1F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/entry.html",
+    "note": "距離は住所の位置で計算。遠い"
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "DAISO 船堀店",
+    "brand": "ダイソー",
+    "distanceM": 403,
+    "walkMin": 6,
+    "hours": "9:00-21:00",
+    "address": "東京都江戸川区船堀4-16-20 1階",
+    "verified": true,
+    "source": "https://www.daiso-sangyo.co.jp/shop/result?keyword=%E8%88%B9%E5%A0%80",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "DAISO マルエツ一之江駅前店",
+    "brand": "ダイソー",
+    "distanceM": 1771,
+    "walkMin": 23,
+    "hours": "9:00-21:00",
+    "address": "東京都江戸川区一之江8-13-9 FRONT101 マルエツ一之江駅前3階",
+    "verified": true,
+    "source": "https://www.daiso-sangyo.co.jp/shop/result?keyword=%E6%B1%9F%E6%88%B8%E5%B7%9D%E5%8C%BA",
+    "note": "距離は住所の位置で計算。遠め"
+   }
+  ],
+  "donki": [
+   {
+    "name": "ピカソ環七江戸川店（ドン・キホーテ）",
+    "brand": "ドン・キホーテ",
+    "distanceM": 2870,
+    "walkMin": 36,
+    "hours": "9:00-0:00",
+    "address": "東京都江戸川区大杉3-10-1",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=96",
+    "note": "距離は住所の位置で計算。ドン・キホーテの別業態（公式サイトの店舗名は「ピカソ環七江戸川店」）。遠い"
+   },
+   {
+    "name": "ラパーク瑞江店（ドン・キホーテ）",
+    "brand": "ドン・キホーテ",
+    "distanceM": 3055,
+    "walkMin": 39,
+    "hours": "9:00-1:00",
+    "address": "東京都江戸川区瑞江2-1-2",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=203",
+    "note": "距離は住所の位置で計算。ドン・キホーテ公式サイトの店舗名は「ラパーク瑞江店」。遠い"
+   }
+  ]
+ },
+ "drinkDelivery": {
+  "available": true
+ },
+ "photo": {
+  "src": "/images/venues/tower-hall-funabori.jpg",
+  "credit": "© しんぎんぐきゃっと / CC BY-SA 4.0 · Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Funabori_Tower_and_Funabori_station.jpg"
+ }
+}

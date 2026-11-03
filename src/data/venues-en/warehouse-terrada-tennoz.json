@@ -1,0 +1,200 @@
+{
+ "slug": "warehouse-terrada-tennoz",
+ "name": "TERRADA EVENT SPACE (Warehouse TERRADA Tennozu)",
+ "address": "Tokyo 140-0002 2-1-3 Higashi-Shinagawa, Shinagawa-ku, Tokyo (B&C HALL; the venues are spread across the Tennozu area)",
+ "accessSummary": "All venues are within a 10 min walk of Tennozu Isle Station (Rinkai Line Exit B / Tokyo Monorail Haneda Airport Line Central Exit). It is about a 5 min walk between venues. G1-5F: 4 min walk from Exit B / 5 min walk from Central Exit. B&C HALL, D HALL, T-LOTUS M: 8 min walk from Exit B / 6 min walk from Central Exit. WHAT CAFE: 4 min walk from Exit B / 5 min walk from Central Exit. SONORRA: 5 min walk from Exit B / 5 min walk from Central Exit. TERRADA ACT STUDIO TENNOZ Rim: 9 min walk from Exit B / 9 min walk from Central Exit / 9 min walk from Keikyu Kitashinagawa Station / 14 min walk from JR Shinagawa Station Konan Exit. BONDED GALLERY: 8 min walk from Exit B / 11 min walk from Central Exit.",
+ "hours": "G1-5F: 9:00-18:00 (9 hours). Outside these hours, 7:00-9:00 and 18:00-24:00 are charged at Overtime Rate A, and 0:00-7:00 at Overtime Rate B. B&C HALL, D HALL, WHAT CAFE, T-LOTUS M, SONORRA: 10:00-22:00 (12 hours). Outside these hours, 7:00-10:00 and 22:00-24:00 are charged at Overtime Rate A, and 0:00-7:00 at Overtime Rate B. TERRADA ACT STUDIO TENNOZ Rim: 9:00-22:00 (13 hours). Hourly rental is not available. BONDED GALLERY: 11:00-19:00 (8 hours). All spaces: usage time includes setup and cleanup time. G1-5F, B&C HALL, D HALL, WHAT CAFE, T-LOTUS M and SONORRA can be extended beyond the hours.",
+ "notice": "All spaces: corporate use only; individuals cannot apply. Venue fees are paid in advance, by invoice only. A provisional booking is held for up to 2 weeks, and a confirmed booking takes priority. All spaces: hourly rental is not available for events. For filming, the minimum is 3 hours, then in 1-hour units. All spaces: prior consultation with the Shinagawa Fire Department (Fire Prevention Division) and various notifications are required. All spaces: no smoking at any venue. Open flames, water-based staging, and bringing in plants or animals are prohibited. All spaces: sound is allowed, but you may be asked to adjust the volume depending on how much sound leaks out. Only water-based smoke is allowed, with a management fee of 10,000 yen per day (excluding tax). All spaces: the organizer prepares the venue layout drawings and handles construction and the load-in and load-out of materials. G1-5F, B&C HALL, D HALL, WHAT CAFE, T-LOTUS M, SONORRA: applications are accepted from 12 months before the usage date, and the application form must be submitted by 30 days before the usage start date (the contract is concluded when it is submitted). G1-5F, B&C HALL, D HALL, WHAT CAFE, T-LOTUS M, SONORRA: cancellation after the contract is concluded incurs a cancellation fee of 50% of the facility fee up to 60 days before the usage start date, 75% up to 31 days before, and 100% from 30 days before. G1-5F, B&C HALL, D HALL, WHAT CAFE, T-LOTUS M, SONORRA: permitted uses are exhibitions and trade shows, seminars and presentations, and purposes agreed after discussion. A meeting on the content and a written share of the event outline are required by 14 days before the usage start date. G1-5F, B&C HALL, D HALL, WHAT CAFE, T-LOTUS M, SONORRA: during the event period, the applicant must assign at least 1 person in charge, and handles queue management in front of the venue, crowd control and security inside, and management of waiting rooms, dressing rooms and pantries. The applicant must take out damage insurance for the items it brings in and submit a copy of the insurance certificate. T-LOTUS M: use may be restricted if any of the following applies: rainfall of 50 mm/hour or more, wind speed of 10 m/second or more, wave height of 1.0 m or more, or visibility of 1,000 m or less; events may be cancelled upon strong wind or high wave advisories, storm or high wave warnings, and the like. An operation plan (progress management and staffing by time slot) must be submitted by 3 business days before the event. (Source: FAQ, How to Use, Terms of Use revised October 1, 2026)",
+ "rooms": [
+  {
+   "name": "G1-5F",
+   "note": "5th floor of the G1 Building (2-6-4 Higashi-Shinagawa, Shinagawa-ku, Tokyo). The effective ceiling height is 4,620 mm (the introduction says a 5.5 m ceiling). Capacity is standing, including staff, with no built-out construction. Vehicle display: not possible. Kitchen (water supply and drainage): none. Can be used from a single day up to long-term events of up to 6 months."
+  },
+  {
+   "name": "B&C HALL (entire 1F and 2F)",
+   "note": "2-1-3 Higashi-Shinagawa, Shinagawa-ku, Tokyo. Two-story building with a total area of 1,085㎡ (328 tsubo). The effective ceiling height is 5.3 m on the 1F and 2.5 m on the 2F, in both cases only in some sections. Capacity is standing, including staff, with no built-out construction, and is the maximum under the ventilation system. The actual number of people decreases depending on the layout. Both floors have a kitchen. Vehicle display: possible."
+  },
+  {
+   "name": "B&C HALL 1F",
+   "note": "The effective ceiling height of 5.3 m applies only to some sections. Has a kitchen (water supply and drainage)."
+  },
+  {
+   "name": "B&C HALL 2F",
+   "note": "The effective ceiling height of 2.5 m applies only to some sections. Has a kitchen (water supply and drainage). Has an atrium open to the 1F (facility drawing)."
+  },
+  {
+   "name": "D HALL",
+   "note": "2-1-3 Higashi-Shinagawa, Shinagawa-ku, Tokyo. 1F. A column-free space renovated from a warehouse into a bare-shell interior, with rigging points for lighting and sound equipment. Capacity is standing, including staff, with no built-out construction, and is the maximum under the ventilation system. Vehicle display: possible. Kitchen: none. Figures such as the area are planned values and may change."
+  },
+  {
+   "name": "WHAT CAFE",
+   "note": "2-1-11 Higashi-Shinagawa, Shinagawa-ku, Tokyo. 1F. Has permanent exhibition walls and a kitchen equipped with a steam convection oven, a fryer and more. An outdoor wooden deck facing the canal can also be used. There is a waiting room inside the venue. Capacity is standing, including staff, with no built-out construction. Vehicle display: not possible."
+  },
+  {
+   "name": "T-LOTUS M (entire)",
+   "note": "Off 2-1 Higashi-Shinagawa, Shinagawa-ku, Tokyo. A sailing ship floating on the canal (cruising is not possible), with 3 levels: basement, 1st floor and top deck. The area and effective ceiling height are given for each deck. Capacity is standing, including staff, with no built-out construction. Kitchen (water supply and drainage): available. Vehicle display: not possible. Exhibition panels are available."
+  },
+  {
+   "name": "T-LOTUS M Rooftop",
+   "note": "Sound on the rooftop is allowed only from 9:00 to 21:00. Even within these hours, loud volume is not allowed, and the event may be stopped on the spot if neighbors complain."
+  },
+  {
+   "name": "T-LOTUS M Main Deck",
+   "note": "The effective ceiling height is 3.3 m according to the facility page and price list. The facility drawing gives 2.65 m, 3.0 m and 3.36 m depending on the section."
+  },
+  {
+   "name": "T-LOTUS M Low Deck",
+   "note": null
+  },
+  {
+   "name": "SONORRA",
+   "note": "2-1-3 Higashi-Shinagawa, Shinagawa-ku, Tokyo. 2F. A live music venue. Has a stage, sound and lighting equipment, an audience area and a waiting room. Capacity is standing, including staff, with no built-out construction, and is the maximum under the ventilation system. Vehicle display: not possible. Kitchen: none."
+  },
+  {
+   "name": "TERRADA ACT STUDIO TENNOZ Rim",
+   "note": "1-3-15 Higashi-Shinagawa, Shinagawa-ku, Tokyo (inside TENNOZ Rim). 1F. The area includes the meeting space; the studio portion is 229.4㎡. A column-free rehearsal studio with mirrors on 3 sides. Wi-Fi and wired LAN are free. Kitchen (water supply and drainage): available. Vehicle display: not possible."
+  },
+  {
+   "name": "BONDED GALLERY",
+   "note": "TERRADA ART COMPLEX II 4F, 1-32-8 Higashi-Shinagawa, Shinagawa-ku, Tokyo. A white-cube gallery. Has temperature and humidity control, surveillance cameras throughout the bonded area, a large elevator, and a wide loading entrance connected directly to the parking lot. Additional fees apply when it is used as a bonded gallery. The capacity in the comparison table is \"-\"."
+  }
+ ],
+ "ops": {
+  "prevDaySetup": "G1-5F, B&C HALL, D HALL, WHAT CAFE, T-LOTUS M, SONORRA: the price list has a \"Setup and Teardown\" category, and the base fee for a day with only setup and teardown is half the fee for the event day. The base usage hours are the same as on the event day. (Source: price list of each venue)",
+  "loadingHours": "All spaces: setup and load-in, and teardown and load-out, are all done within the usage time by the applicant's staff. Time outside the base usage hours can be used at overtime rates. The loading areas and elevators have restrictions on hours and locations, and the usage hours, number of vehicles, vehicle types and license plate numbers are communicated in writing at the meeting before use. Protective covering is installed along the load-in and load-out route. Parcel deliveries are received by the applicant within the usage time, and the end of the delivery address must read \"(venue name) for event use\". Receiving packages before the venue is used and shipping them after use are not accepted. (Source: Terms of Use Article 15, FAQ)",
+  "vehicleRules": "B&C HALL, D HALL: vehicle display is possible. For safety, vehicles must not be driven during load-in and load-out or during the event, and must be brought in with gasoline and other fuel drained (the condition in the comparison table is fuel drained and moved by hand). G1-5F, WHAT CAFE, T-LOTUS M, SONORRA, TERRADA ACT STUDIO TENNOZ Rim, BONDED GALLERY: vehicle display is marked × in the comparison table. All spaces: outside the area designated by Warehouse TERRADA, you must not drive or park vehicles, leave items, or enter. (Source: FAQ, venue comparison table, Terms of Use Article 8)",
+  "parking": "All spaces: there is no parking lot. (Source: FAQ)",
+  "waitingRooms": "WHAT CAFE, SONORRA: there is a waiting room inside the venue. G1-5F, B&C HALL, D HALL: space in an adjacent building can be used as a waiting room for a fee (Waiting Room Guide). The space in the Waiting Room Guide is G1-2F (2F of the G1 Building, 680.17㎡, including small rooms and restrooms), with base usage hours of 9:00-18:00. It has lockable small rooms and men's, women's and accessible restrooms. G1-2F cannot be used on its own, only together with other Warehouse TERRADA venues. (Source: FAQ, Waiting Room Guide last updated September 30, 2025)",
+  "catering": "All spaces: food, drinks and catering may be brought in. B&C HALL, WHAT CAFE, T-LOTUS M: kitchen facilities (some for a fee) are available, and cooking is also possible. All spaces: catering arrangements are requested through Warehouse TERRADA, and consultations are accepted after the usage application is completed. Eating and drinking are limited to areas approved by Warehouse TERRADA. (Source: FAQ, Terms of Use Article 8)"
+ },
+ "documents": [
+  {
+   "title": "Terms of Use (revised October 1, 2026)"
+  },
+  {
+   "title": "G1-5F Price List (updated 2023/11/09)"
+  },
+  {
+   "title": "B&C HALL Price List (updated 2023/11/09)"
+  },
+  {
+   "title": "D HALL Price List (updated 2026/02/04)"
+  },
+  {
+   "title": "WHAT CAFE Price List (updated 2025/06/18)"
+  },
+  {
+   "title": "T-LOTUS M Price List (updated 2026/08/14)"
+  },
+  {
+   "title": "SONORRA Price List (updated 2026/10/01)"
+  },
+  {
+   "title": "TERRADA ACT STUDIO TENNOZ Rim Price List (updated 2026/09/04)"
+  },
+  {
+   "title": "BONDED GALLERY Price List (updated 2026/04/10)"
+  },
+  {
+   "title": "G1-5F Facility Drawing"
+  },
+  {
+   "title": "B&C HALL Facility Drawing"
+  },
+  {
+   "title": "D HALL Facility Drawing"
+  },
+  {
+   "title": "WHAT CAFE Facility Drawing"
+  },
+  {
+   "title": "T-LOTUS M Facility Drawing"
+  },
+  {
+   "title": "SONORRA Facility Drawing"
+  },
+  {
+   "title": "TERRADA ACT STUDIO TENNOZ Rim Facility Drawing"
+  },
+  {
+   "title": "BONDED GALLERY Facility Drawing"
+  },
+  {
+   "title": "G1-5F Layout Examples"
+  },
+  {
+   "title": "B&C HALL Layout Examples"
+  },
+  {
+   "title": "WHAT CAFE Layout Examples"
+  },
+  {
+   "title": "T-LOTUS M Layout Examples"
+  },
+  {
+   "title": "SONORRA Layout Examples"
+  },
+  {
+   "title": "Equipment List (July 14, 2026)"
+  },
+  {
+   "title": "Waiting Room Guide (last updated 2025.9.30)"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "FamilyMart Tennozu First Tower",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "7-Eleven AIM Sphere Tower Tennozu",
+    "hours": "Mon-Fri 7:00-23:00 / Sat, Sun & holidays 7:00-20:00",
+    "note": "Distance is calculated from the official store location. Store inside a building."
+   },
+   {
+    "name": "7-Eleven Shinagawa Tennozu",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location."
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "Accea Tennozu Isle Sea Fort Square",
+    "hours": "Weekdays 9:00-19:00 / Closed Sat, Sun & holidays",
+    "note": "Distance is calculated from the address location. In-store payment does not accept cash (credit cards, electronic money, QR code payments, BizSPOT Pay)."
+   },
+   {
+    "name": "Accea Shinagawa Station Konan Exit",
+    "hours": "Weekdays 8:00-21:00 / Sat, Sun & holidays 10:00-19:00",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Can Do Shin-Baba",
+    "hours": "Daily 10:00-20:00",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Seria Wing Takanawa WEST",
+    "hours": "Weekdays 10:00-21:00 / Sat, Sun & holidays 10:00-20:00",
+    "note": "Distance is calculated from the official store location."
+   }
+  ],
+  "donki": [
+   {
+    "name": "Don Quijote Gotanda East Exit",
+    "hours": "8:00-5:00",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Kirakira Donki Diver City Tokyo Plaza",
+    "hours": "10:00-21:00 (notice: weekdays 11:00-20:00 / Sat, Sun & holidays 10:00-21:00)",
+    "note": "Distance is calculated from the address location. A different Don Quijote format (the store name on the official website is \"Kirakira Donki Diver City Tokyo Plaza\"). Far."
+   }
+  ]
+ },
+ "photoCredit": "© Civi / CC BY-SA 4.0 · Wikimedia Commons"
+}

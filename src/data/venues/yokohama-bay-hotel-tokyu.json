@@ -1,0 +1,441 @@
+{
+ "slug": "yokohama-bay-hotel-tokyu",
+ "nameJa": "横浜ベイホテル東急",
+ "nameEn": "The Yokohama Bay Hotel Tokyu",
+ "type": "hotel",
+ "area": "yokohama-venues",
+ "address": "〒220-8543 神奈川県横浜市西区みなとみらい2-3-7",
+ "officialUrl": "https://www.tokyuhotels.co.jp/yokohamabay-h/",
+ "organizerUrl": "https://www.tokyuhotels.co.jp/yokohamabay-h/banquet/index.html",
+ "bizintokyoSlug": "yokohama-bay-hotel-tokyu",
+ "accessSummary": "みなとみらい線「みなとみらい駅」直結 徒歩約1分／JR線・横浜市営地下鉄「桜木町駅」徒歩約10分",
+ "notice": "宴会場料金一覧の金額はサービス料・税金込み。料金は時期や利用条件により変わることがある。みなとみらい駅のクイーンズスクエア横浜連絡口は24:00〜7:00閉鎖で、この間は5番出口から正面玄関へ行く。",
+ "hours": "会議は2時間以内の料金で、1時間ごとに追加料金がかかる。会食は2時間以内の料金。展示会は9:00〜21:00の1日料金。9:00以前と22:00以降の利用は正規料金の50%増し。（料金一覧 2026年7月1日現在）",
+ "rooms": [
+  {
+   "name": "クイーンズ グランド ボールルーム（全室 ABCD）",
+   "areaM2": 1193,
+   "ceilingM": 7.2,
+   "theater": 1400,
+   "school": 890,
+   "ushape": null,
+   "standing": 1200,
+   "banquet": 770,
+   "note": "B2F。大宴会場。A〜Dの4つに分けて使える。収容人数の欄は、banquet=正餐、standing=ブッフェ。"
+  },
+  {
+   "name": "クイーンズ グランド ボールルーム（ABC）",
+   "areaM2": 948,
+   "ceilingM": 7.2,
+   "theater": 1100,
+   "school": 690,
+   "ushape": null,
+   "standing": 900,
+   "banquet": 610,
+   "note": "B2F。"
+  },
+  {
+   "name": "クイーンズ グランド ボールルーム（BCD）",
+   "areaM2": 877,
+   "ceilingM": 7.2,
+   "theater": 1000,
+   "school": 660,
+   "ushape": null,
+   "standing": 850,
+   "banquet": 550,
+   "note": "B2F。"
+  },
+  {
+   "name": "クイーンズ グランド ボールルーム（AB）",
+   "areaM2": 632,
+   "ceilingM": 7.2,
+   "theater": 720,
+   "school": 400,
+   "ushape": null,
+   "standing": 550,
+   "banquet": 390,
+   "note": "B2F。"
+  },
+  {
+   "name": "クイーンズ グランド ボールルーム（BC）",
+   "areaM2": 632,
+   "ceilingM": 7.2,
+   "theater": 820,
+   "school": 460,
+   "ushape": null,
+   "standing": 550,
+   "banquet": 440,
+   "note": "B2F。"
+  },
+  {
+   "name": "クイーンズ グランド ボールルーム（CD）",
+   "areaM2": 561,
+   "ceilingM": 7.2,
+   "theater": 700,
+   "school": 390,
+   "ushape": null,
+   "standing": 500,
+   "banquet": 330,
+   "note": "B2F。"
+  },
+  {
+   "name": "クイーンズ グランド ボールルーム（A）",
+   "areaM2": 316,
+   "ceilingM": 7.2,
+   "theater": 360,
+   "school": 195,
+   "ushape": null,
+   "standing": 200,
+   "banquet": 170,
+   "note": "B2F。"
+  },
+  {
+   "name": "クイーンズ グランド ボールルーム（B）",
+   "areaM2": 316,
+   "ceilingM": 7.2,
+   "theater": 400,
+   "school": 235,
+   "ushape": null,
+   "standing": 250,
+   "banquet": 180,
+   "note": "B2F。"
+  },
+  {
+   "name": "クイーンズ グランド ボールルーム（C）",
+   "areaM2": 316,
+   "ceilingM": 7.2,
+   "theater": 400,
+   "school": 235,
+   "ushape": null,
+   "standing": 250,
+   "banquet": 180,
+   "note": "B2F。"
+  },
+  {
+   "name": "クイーンズ グランド ボールルーム（D）",
+   "areaM2": 245,
+   "ceilingM": 7.2,
+   "theater": 280,
+   "school": 155,
+   "ushape": null,
+   "standing": 150,
+   "banquet": 120,
+   "note": "B2F。"
+  },
+  {
+   "name": "アンバサダーズ ボールルーム（SN）",
+   "areaM2": 449,
+   "ceilingM": 4.5,
+   "theater": 500,
+   "school": 310,
+   "ushape": null,
+   "standing": 380,
+   "banquet": 280,
+   "note": "B2F。中宴会場。S・Nの2つに分けて使える。"
+  },
+  {
+   "name": "アンバサダーズ ボールルーム（S）",
+   "areaM2": 224,
+   "ceilingM": 4.5,
+   "theater": 224,
+   "school": 145,
+   "ushape": null,
+   "standing": 180,
+   "banquet": 130,
+   "note": "B2F。"
+  },
+  {
+   "name": "アンバサダーズ ボールルーム（N）",
+   "areaM2": 224,
+   "ceilingM": 4.5,
+   "theater": 224,
+   "school": 145,
+   "ushape": null,
+   "standing": 180,
+   "banquet": 130,
+   "note": "B2F。"
+  },
+  {
+   "name": "アドミラル",
+   "areaM2": 99,
+   "ceilingM": 4.5,
+   "theater": 110,
+   "school": 50,
+   "ushape": null,
+   "standing": 60,
+   "banquet": 50,
+   "note": "B2F。小宴会場。"
+  },
+  {
+   "name": "やまゆり",
+   "areaM2": 46,
+   "ceilingM": 4.0,
+   "theater": 48,
+   "school": 24,
+   "ushape": null,
+   "standing": null,
+   "banquet": 20,
+   "note": "B2F。小宴会場。"
+  },
+  {
+   "name": "りんどう",
+   "areaM2": 50,
+   "ceilingM": 4.0,
+   "theater": 50,
+   "school": 24,
+   "ushape": null,
+   "standing": null,
+   "banquet": 20,
+   "note": "B2F。小宴会場。"
+  },
+  {
+   "name": "はまゆう",
+   "areaM2": 47,
+   "ceilingM": 4.0,
+   "theater": 48,
+   "school": 24,
+   "ushape": null,
+   "standing": null,
+   "banquet": 20,
+   "note": "B2F。小宴会場。"
+  },
+  {
+   "name": "さざんか",
+   "areaM2": 33,
+   "ceilingM": 4.0,
+   "theater": 30,
+   "school": 18,
+   "ushape": null,
+   "standing": null,
+   "banquet": 18,
+   "note": "B2F。小宴会場。"
+  },
+  {
+   "name": "ばら",
+   "areaM2": 30,
+   "ceilingM": 4.0,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": 10,
+   "note": "B2F。小宴会場。正餐のみ。"
+  },
+  {
+   "name": "プリンス",
+   "areaM2": 158,
+   "ceilingM": 4.0,
+   "theater": 200,
+   "school": 90,
+   "ushape": null,
+   "standing": 100,
+   "banquet": 90,
+   "note": "B1F。小宴会場。"
+  },
+  {
+   "name": "プリンセス",
+   "areaM2": 71,
+   "ceilingM": 4.0,
+   "theater": 60,
+   "school": 36,
+   "ushape": null,
+   "standing": 40,
+   "banquet": 40,
+   "note": "B1F。小宴会場。"
+  },
+  {
+   "name": "パシフィックルーム",
+   "areaM2": 166,
+   "ceilingM": 2.7,
+   "theater": 64,
+   "school": 32,
+   "ushape": null,
+   "standing": 50,
+   "banquet": 40,
+   "note": "25F。小宴会場。横浜港を見渡すパーティールーム。"
+  },
+  {
+   "name": "ビジネスラウンジ",
+   "areaM2": 39,
+   "ceilingM": 2.7,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "24F。会議室。定員10名、レイアウトは流し。"
+  },
+  {
+   "name": "ザ・ライブラリー",
+   "areaM2": 39,
+   "ceilingM": 2.7,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "23F。会議室。定員10名、レイアウトは流し。"
+  }
+ ],
+ "roomsSource": "https://www.tokyuhotels.co.jp/yokohamabay-h/banquet/floor/index.html",
+ "ops": {
+  "parking": {
+   "text": "ホテルの駐車は、クイーンズスクエア横浜の地下駐車場（ホテル専用入口あり）を使う。営業は7:00〜24:00、1,700台で、料金は30分280円。上限は平日1,600円、土日祝2,000円（入庫日の24時までに出庫する場合。1/1〜1/3、12/24、12/25、12/31は除く）。婚礼・宴会の出席者は3時間無料になる。",
+   "source": "https://www.qsy-tqc.jp/access/"
+  },
+  "waitingRooms": {
+   "text": "小宴会場「ばら」（B2F・30㎡・正餐10名）は、宴会場を使うときの控室としても使える。",
+   "source": "https://www.tokyuhotels.co.jp/yokohamabay-h/banquet/bara/index.html"
+  }
+ },
+ "documents": [
+  {
+   "title": "宴会場の料金一覧（2026年7月1日現在）",
+   "url": "https://www.tokyuhotels.co.jp/yokohamabay-h/banquet/floor/files/floor_01.pdf"
+  },
+  {
+   "title": "フロアのご案内・スペック（収容人数表）",
+   "url": "https://www.tokyuhotels.co.jp/yokohamabay-h/banquet/floor/index.html"
+  },
+  {
+   "title": "音響照明設備／宴会（基本設備・常設機材・WEB会議機材）",
+   "url": "https://www.tokyuhotels.co.jp/yokohamabay-h/banquet/option/index.html"
+  },
+  {
+   "title": "WEB会議・映像配信システムのご案内",
+   "url": "https://www.tokyuhotels.co.jp/yokohamabay-h/banquet/plan/banqplan0024/index.html"
+  },
+  {
+   "title": "ファクトシート（館内案内・宴会場の表は2025年1月現在）",
+   "url": "https://www.tokyuhotels.co.jp/yokohamabay-h/guide/files/guide_10.pdf"
+  },
+  {
+   "title": "周辺マップ（印刷用・2025年10月版）",
+   "url": "https://www.tokyuhotels.co.jp/yokohamabay-h/acces/files/access_01.pdf"
+  },
+  {
+   "title": "クイーンズスクエア横浜 アクセス・地下駐車場ご利用案内",
+   "url": "https://www.qsy-tqc.jp/access/"
+  }
+ ],
+ "checkedAt": "2026-11-02",
+ "lat": 35.456661,
+ "lng": 139.634018,
+ "nearby": {
+  "convenience": [
+   {
+    "name": "ファミリーマート クイーンズスクエア横浜店",
+    "brand": "ファミリーマート",
+    "distanceM": 36,
+    "walkMin": 1,
+    "hours": "7:00-23:00",
+    "address": "神奈川県横浜市西区みなとみらい2-3-8",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/27154",
+    "note": "距離は公式ページの店舗位置で計算"
+   },
+   {
+    "name": "ファミリーマート MMセンタービル店",
+    "brand": "ファミリーマート",
+    "distanceM": 144,
+    "walkMin": 2,
+    "hours": "7:00-23:00",
+    "address": "神奈川県横浜市西区みなとみらい3-6-1",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/16558",
+    "note": "距離は公式ページの店舗位置で計算。ビル内の店で、一般の人が入れるかは公式ページに記載がない"
+   },
+   {
+    "name": "セブン-イレブン 横浜みなとみらい3丁目店",
+    "brand": "セブン-イレブン",
+    "distanceM": 156,
+    "walkMin": 2,
+    "hours": "24時間営業",
+    "address": "神奈川県横浜市西区みなとみらい3-7-1",
+    "verified": true,
+    "source": "https://seven-eleven.areamarker.com/711map/info/438038",
+    "note": "距離は公式ページの店舗位置で計算"
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "キンコーズ・パシフィコ横浜店",
+    "brand": "キンコーズ",
+    "distanceM": 369,
+    "walkMin": 5,
+    "hours": "営業日・営業時間はイベント開催に合わせて月ごとに変わる（公式の営業日カレンダーで確認）",
+    "address": "神奈川県横浜市西区みなとみらい1丁目1-1 パシフィコ横浜 展示ホール内",
+    "verified": true,
+    "source": "https://www.kinkos.co.jp/store/kanagawa/y004/",
+    "note": "距離は住所の位置（国土地理院）で計算。休業日や営業時間外は横浜駅西口店が営業（公式ページの案内）"
+   },
+   {
+    "name": "キンコーズ・横浜駅西口店",
+    "brand": "キンコーズ",
+    "distanceM": 1824,
+    "walkMin": 23,
+    "hours": "平日 8:00-22:00／土 9:00-22:00／日・祝 9:00-22:00",
+    "address": "神奈川県横浜市西区北幸1丁目11-11 NMF横浜西口ビル1F",
+    "verified": true,
+    "source": "https://www.kinkos.co.jp/store/kanagawa/y001/",
+    "note": "距離は住所の位置（国土地理院）で計算。遠め"
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "DAISO みなとみらい東急スクエア店",
+    "brand": "ダイソー",
+    "distanceM": 107,
+    "walkMin": 2,
+    "hours": "11:00-20:00",
+    "address": "神奈川県横浜市西区みなとみらい2-3-2 みなとみらい東急スクエア地下1階",
+    "verified": true,
+    "source": "https://www.daiso-sangyo.co.jp/shop/detail/003782",
+    "note": "距離は公式ページの店舗位置で計算"
+   },
+   {
+    "name": "DAISO マークイズみなとみらい店",
+    "brand": "ダイソー",
+    "distanceM": 233,
+    "walkMin": 3,
+    "hours": "10:00-20:00",
+    "address": "神奈川県横浜市西区みなとみらい3-5-1 地下1階",
+    "verified": true,
+    "source": "https://www.daiso-sangyo.co.jp/shop/detail/008713",
+    "note": "距離は公式ページの店舗位置で計算"
+   }
+  ],
+  "donki": [
+   {
+    "name": "キラキラドンキ 横浜ワールドポーターズ店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 529,
+    "walkMin": 7,
+    "hours": "10:30-21:00",
+    "address": "神奈川県横浜市中区新港2丁目2-1 横浜ワールドポーターズ3F",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=679",
+    "note": "距離は住所の位置（国土地理院）で計算。ドン・キホーテの別名の店（公式サイトでは3Fのドン・キホーテ区画）"
+   },
+   {
+    "name": "ドン・キホーテ 伊勢佐木町店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 1602,
+    "walkMin": 21,
+    "hours": "24時間営業",
+    "address": "神奈川県横浜市中区伊勢佐木町3-98",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=347",
+    "note": "距離は住所の位置（国土地理院）で計算。遠い"
+   }
+  ]
+ },
+ "drinkDelivery": {
+  "available": true
+ },
+ "photo": {
+  "src": "/images/venues/yokohama-bay-hotel-tokyu.jpg",
+  "credit": "© U-Kane / CC BY-SA 4.0 · Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pan_Pacific_Yokohama_Bay_Hotel_Tokyu.jpg"
+ }
+}

@@ -1,0 +1,251 @@
+{
+ "slug": "toshima-civic-center",
+ "name": "Toshima Civic Center",
+ "address": "Tokyo 170-0013 1-20-10 Higashi-Ikebukuro, Toshima-ku",
+ "accessSummary": "JR and other lines Ikebukuro Station East Exit: about 7 min walk (for wheelchair users, East Exits 34 and 35 are the nearest exits with an elevator)",
+ "hours": "The center is open 9:00-22:00 (room rental reception 9:00-21:00, last counter reception 20:30). Rooms are rented in the categories morning 9:00-12:00, afternoon 13:00-17:00, evening 18:00-22:00 and all day 9:00-22:00. If you reserve consecutive categories, the hour in between can also be used. Usage time includes preparation, cleanup and restoration. Keys are lent from 10 minutes before the start of use. For the evening slot, background music announcing closing time plays from 21:50, and you must leave by 22:00. The center is closed from December 29 to January 3",
+ "notice": "Groups and companies from outside the ward can also rent rooms. Group registration has 2 categories, \"ward residents\" and \"non-residents\", and only groups of 2 or more members can register (individual use is not allowed). Registration is done at the room rental reception on the 3F, and identification is required. Fees for groups from outside the ward are 2 times the ward resident fee, and reservations open later than for ward residents (for meeting rooms and the like, from 10:00 a.m. on the 20th of the month 3 months before the usage month; for the halls, from 10:00 a.m. on the 20th of the month 12 months before). Ward resident groups go through a lottery. Commercial use is also allowed, but the fee is doubled (4 times the ward resident fee for groups from outside the ward). Commercial use means events that sell goods or conclude contracts, and events that collect an admission fee, tuition or participation fee of 2,001 yen or more (4,001 yen or more for the Kitchen Room). If a fee of 2,001 yen or more is stated at the time of application, the commercial rate applies even if the actual participation fee is lower. If an event is found to be commercial after approval, an additional charge is collected. In meeting rooms and similar rooms, exercise, dance, singing, playing instruments and acting rehearsals are not allowed. In the halls, dance involving vigorous movement such as jumping is prohibited. The Entrance Hall is for exhibition-centered events, and performances, workshops and treatments cannot be held there. For the halls, the balance must be paid and a technical meeting (reservation required) held by 1 month before the usage date. Cancellations are accepted at the counter only. For meeting rooms and the like, half of the usage fee is refunded up to 10 days before, and nothing is refunded after that. For the halls, up to 1 month before only the advance payment (30% of the usage fee) is not refunded, and from 1 month to 10 days before half of the usage fee is refunded. The center is closed from December 29 to January 3. The whole building is non-smoking, there are no trash cans, and trash must be taken home. (Source: Room Rental Guide, About Commercial Fees, FAQ, Hall Usage Flow, Brochure)",
+ "rooms": [
+  {
+   "name": "Multipurpose Hall (8F-9F)",
+   "note": "Maximum capacity 480 (effective area 330.4㎡: 8F 264.0㎡, 9F 66.4㎡). Hall dimensions W11 m x D24 m. With the stage in use, the audience seating is up to 408 seats (324 seats on the 1st floor and 84 seats on the 2nd floor, all fixed). The 1st-floor seating is up to 400 seats without the stage, 360 seats with 1 stage section in use and 324 seats with 2 sections in use. Seating plan examples are theater 324 seats and seminar 120 seats. There are 2 lifting stage sections of W7 m x D2.4 m, and digital signage of W7.5 m x H5 m. A foyer is available (drawings as of July 2020)"
+  },
+  {
+   "name": "Small Hall (6F)",
+   "note": "Maximum capacity 160. Hall dimensions W10 m x D13 m. Seating plan examples are theater 160 seats and seminar 60 seats. A foyer is available. There is no dedicated waiting room; the neighboring Studio B can be used for a fee (drawings as of July 2020)"
+  },
+  {
+   "name": "Entrance Hall (1F)",
+   "note": "Capacity 18 (including people waiting to enter). Part of the hall is rented out, with no walls or doors, so it cannot be locked. It is for exhibition-centered events, and performances, workshops and treatments cannot be held. Power is limited to a total of 1,500 W at 3 points. The guideline for the height of items brought in is up to 180 cm"
+  },
+  {
+   "name": "Meeting Room 401",
+   "note": "Capacity 18. Microphones cannot be used in the 4th-floor meeting rooms."
+  },
+  {
+   "name": "Meeting Room 402",
+   "note": "Capacity 27. Microphones cannot be used in the 4th-floor meeting rooms."
+  },
+  {
+   "name": "Meeting Room 403",
+   "note": "Capacity 63. Microphones cannot be used in the 4th-floor meeting rooms."
+  },
+  {
+   "name": "Meeting Room 404",
+   "note": "Capacity 45. Microphones cannot be used in the 4th-floor meeting rooms."
+  },
+  {
+   "name": "Meeting Room 501",
+   "note": "Capacity 18. Microphones cannot be used in the 5th-floor meeting rooms."
+  },
+  {
+   "name": "Meeting Room 502",
+   "note": "Capacity 27. Microphones cannot be used in the 5th-floor meeting rooms."
+  },
+  {
+   "name": "Meeting Room 503",
+   "note": "Capacity 63. Microphones cannot be used in the 5th-floor meeting rooms."
+  },
+  {
+   "name": "Meeting Room 504",
+   "note": "Capacity 63. Microphones cannot be used in the 5th-floor meeting rooms."
+  },
+  {
+   "name": "Meeting Room 505",
+   "note": "Capacity 27. Microphones cannot be used in the 5th-floor meeting rooms."
+  },
+  {
+   "name": "Meeting Room 506",
+   "note": "Capacity 18. Microphones cannot be used in the 5th-floor meeting rooms."
+  },
+  {
+   "name": "Meeting Rooms 601 and 602 (joined)",
+   "note": "Capacity 72. The 6th-floor meeting rooms are rented only joined. Wired microphones can be used. Lecturer waiting room (capacity 2) can be used free of charge in the same usage category (first come, first served, advance reservation)."
+  },
+  {
+   "name": "Meeting Rooms 702 and 703 (joined)",
+   "note": "Capacity 81. The 7th-floor meeting rooms are rented only as 702 and 703 joined, or 701 to 703 joined. Wireless microphones can be used. Lecturer waiting room (capacity 2) can be used free of charge in the same usage category (first come, first served, advance reservation)."
+  },
+  {
+   "name": "Meeting Rooms 701, 702 and 703 (joined)",
+   "note": "Capacity 117. Wireless microphones can be used. Lecturer waiting room (capacity 2) can be used free of charge in the same usage category (first come, first served, advance reservation). The 6th- and 7th-floor meeting rooms can be divided with partitions."
+  },
+  {
+   "name": "Japanese-style Room (Washitsu)",
+   "note": "Japanese-style room 59.3㎡ (27 tatami mats) and preparation room (mizuya) 18.0㎡. Capacity 33 (brochure). Application for tea utensils must be made by 10 days before (for tea ceremony only). Microphones cannot be used."
+  },
+  {
+   "name": "Studio A",
+   "note": "Capacity 5. When used for dance, there are conditions such as wearing heel covers and not using anti-slip products; consult at the time of reservation."
+  },
+  {
+   "name": "Studio B",
+   "note": "Capacity 10."
+  },
+  {
+   "name": "Studio C",
+   "note": "Capacity 15."
+  },
+  {
+   "name": "Kitchen Room",
+   "note": "For cooking use, capacity 22 and effective area 77.4㎡; for meeting use, capacity 32 and effective area 55.0㎡. For meeting use, cooking equipment such as cookware, tableware, running water and the refrigerator cannot be used. Food prepared here and the equipment cannot be taken out of the room. Microphones cannot be used."
+  }
+ ],
+ "ops": {
+  "prevDaySetup": "The halls can be used on consecutive days for up to 7 days, and the meeting rooms, studios, Japanese-style room and Kitchen Room for up to 3 days. For multi-day use of the halls, the key is returned every day. When using the Entrance Hall on consecutive days, go to the reception after finishing that day's cleanup and have the items left behind checked to make sure they do not affect the passageway. (Source: Multipurpose Hall Usage Flow, Entrance Hall Usage Flow, Brochure)",
+  "loadingHours": "The hall usage time includes stage setup, rehearsal, strike (including the waiting rooms), load-out and leaving the building. For the Entrance Hall, load-in, load-out, preparation, cleanup and restoration must all be finished within the usage time, and load-in, setup preparation or waiting before the start time is not possible. Keys are lent from 10 minutes before the start of use, and you must restore the room and pass the inspection by 10 minutes before the end, then return the key immediately. Fees for additional equipment are paid within the usage time for the morning and afternoon slots, and by 21:00 for the evening slot. There is no elevator dedicated to load-in and load-out; elevators Nos. 3 and 4 near the loading area are shared with other users. No. 3 has a car interior of W1350 x D2000 x H2300 mm, a door opening of W1100 x H2100 mm and a limit of 1,150 kg; No. 4 has a car interior of W1400 x D1100 x H2300 mm, a door opening of W850 x H2100 mm and a limit of 600 kg. Courier packages must be received by yourself within the usage time; receiving at the reception desk and leaving packages near the rented room are not allowed. Shipping out must also be handed to the carrier yourself within the usage time. Large or numerous items require prior approval from the facility, and items brought in cannot be stored. (Source: Multipurpose Hall Usage Flow, Entrance Hall Usage Flow, Notes on Use, FAQ)",
+  "vehicleRules": "Parking and stopping at the loading area (load-in entrance) must be reserved at the room rental reception on the 3F by 10 days before the usage date. It is allowed only within the usage time, for up to 1 hour at a time and up to 2 times a day, and vehicles cannot be left standing. Reservations are also required when vendors such as flower and boxed-meal suppliers use it. The vehicle height limit is 3.2 m or less for Loading Area 1 and 3.6 m or less for Loading Area 2 (partly 3.2 m for Loading Area 2). (Source: Entrance Hall Usage Flow, the same meeting items)",
+  "parking": "There is no parking lot for general visitors. Groups that have reserved a room can use a mechanical multi-level parking lot free of charge for 1 vehicle per group during the reserved time. Spaces are limited, so reserve at the room rental reception on the 3F by 10 days before the usage date. Vehicles up to 1.6 m high, 1.95 m wide, 5.2 m long and 2.3 t in weight (minimum ground clearance 110 mm or less) can enter. Use across days is not possible. There is 1 space for wheelchair users. There is no motorcycle parking. Bicycles can use the users-only bicycle parking on basement 1 (about 100 spaces, 9:00-22:00) via the bicycle-only elevator. (Source: Access Guide, Notes on Use, Hall Usage Flows)",
+  "waitingRooms": "For the Multipurpose Hall, you can use the organizer waiting room (6 people) in the 8F foyer and 3 waiting rooms on the 7F (advance reservation). Waiting Room 1 has a capacity of 2, Waiting Room 2 a capacity of 15 (with shower, toilet and washbasin), and Waiting Room 3 a capacity of 22 (with shower, toilet and washbasin). The Small Hall has no dedicated waiting room, and the neighboring Studio B (paid) is recommended. The Entrance Hall has no waiting room, and because the rented area cannot be locked, use a coin locker for valuables or rent a meeting room together. If you rent a 6F or 7F meeting room, you can use the lecturer waiting room on the 7F (capacity 2) free of charge in the same usage category (first come, first served, advance reservation). (Source: Multipurpose Hall Usage Flow, Small Hall Usage Flow, Entrance Hall Usage Flow, Meeting Rooms 601 and 602 page)",
+  "catering": "When you order food or boxed meals from a vendor and bring them in, get approval from the facility in advance (plating in meeting rooms is discouraged). Eating and drinking in rented rooms is allowed, but standing parties and tasting events require floor protection, and you must tell the staff your plans when making the reservation. In the halls, eating and drinking is at your seat, and packaged boxed meals and drinks with lids are the basic rule. For food that involves serving, such as hors d'oeuvres and catering, standing meals, and food and drink involving alcohol, protect the floor with protective sheets or the like. When handling food and drink in the Entrance Hall, prior consultation with and notification to the Ikebukuro Public Health Center is required. Open flames cannot be used anywhere other than the Kitchen Room. Take trash home, and finish collecting catering and stand flowers within the usage time. (Source: Notes on Use, FAQ, Multipurpose Hall Usage Flow, Entrance Hall Usage Flow)",
+  "restaurants": "There is a cafe, Bar del Gufo, on the 1F. (Source: Public Space Introduction)"
+ },
+ "documents": [
+  {
+   "title": "Brochure (issued October 2025)"
+  },
+  {
+   "title": "About Commercial Fees (details)"
+  },
+  {
+   "title": "User Registration Application Form"
+  },
+  {
+   "title": "Multipurpose Hall Usage Flow (June 2026)"
+  },
+  {
+   "title": "Small Hall Usage Flow (June 2026)"
+  },
+  {
+   "title": "Entrance Hall Usage Flow (updated June 2026)"
+  },
+  {
+   "title": "Paid Additional Equipment List"
+  },
+  {
+   "title": "Multipurpose Hall Equipment (stage, sound, video, lighting) (October 2025)"
+  },
+  {
+   "title": "Small Hall Equipment (stage, sound, video, lighting) (August 2022)"
+  },
+  {
+   "title": "Multipurpose Hall 8F Floor Plan"
+  },
+  {
+   "title": "Multipurpose Hall 1st-Floor Seating Plan (as of July 2020)"
+  },
+  {
+   "title": "Multipurpose Hall 2nd-Floor Seating Plan (as of July 2020)"
+  },
+  {
+   "title": "Multipurpose Hall Cross-Section (as of July 2020)"
+  },
+  {
+   "title": "Multipurpose Hall Seating Plan (example: theater style, 324 seats)"
+  },
+  {
+   "title": "Multipurpose Hall Seating Plan (example: seminar style, 120 seats)"
+  },
+  {
+   "title": "Small Hall 6F Floor Plan"
+  },
+  {
+   "title": "Small Hall Floor Plan (as of July 2020)"
+  },
+  {
+   "title": "Small Hall Cross-Section (as of July 2020)"
+  },
+  {
+   "title": "Small Hall Seating Plan (example: theater style, 160 seats)"
+  },
+  {
+   "title": "Small Hall Seating Plan (example: seminar style, 60 seats)"
+  },
+  {
+   "title": "Entrance Hall 1F Floor Plan"
+  },
+  {
+   "title": "Entrance Hall Floor Plan"
+  },
+  {
+   "title": "Entrance Hall Meeting Items and Cross-Section"
+  },
+  {
+   "title": "Multipurpose Hall Waiting Room 1"
+  },
+  {
+   "title": "Multipurpose Hall Waiting Room 2"
+  },
+  {
+   "title": "Multipurpose Hall Waiting Room 3"
+  },
+  {
+   "title": "Meeting Room 401 Drawing"
+  },
+  {
+   "title": "Japanese-style Room Drawing"
+  },
+  {
+   "title": "Studio A Drawing"
+  },
+  {
+   "title": "Kitchen Room Drawing"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "FamilyMart Naka-Ikebukuro Koen Kita",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "7-Eleven Higashi-Ikebukuro Meiji-dori",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "7-Eleven Ikebukuro Sunshine 60-dori",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location."
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "Kinko's Ikebukuro East Exit",
+    "hours": "Weekdays 10:00-18:00 / Sat, Sun & holidays closed",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Accea Higashi-Ikebukuro",
+    "hours": "Weekdays 9:00-20:00 / Sat 10:00-19:00 / Sun & holidays closed",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Can Do Ikebukuro Sunshine-dori",
+    "hours": "10:00-22:00",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "DAISO Lagoon Ikebukuro",
+    "hours": "9:00-22:00",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "donki": [
+   {
+    "name": "Don Quijote Ikebukuro East Exit Ekimae",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Don Quijote Ikebukuro Station West Exit",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location."
+   }
+  ]
+ },
+ "photoCredit": "© Beryllium Transistor / CC BY-SA 4.0 · Wikimedia Commons"
+}
