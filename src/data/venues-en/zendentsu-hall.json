@@ -1,0 +1,157 @@
+{
+ "slug": "zendentsu-hall",
+ "name": "Zendentsu Hall",
+ "address": "Tokyo 101-0062 3-6 Kanda-Surugadai, Chiyoda-ku, Tokyo",
+ "accessSummary": "5 min walk from JR Chuo and Sobu Lines Ochanomizu Station (Hijiribashi Exit) / 5 min walk from Tokyo Metro Chiyoda Line Shin-Ochanomizu Station (Exit B3) / 5 min walk from Tokyo Metro Marunouchi Line Awajicho Station (Exit A5) / 5 min walk from Toei Subway Shinjuku Line Ogawamachi Station (Exit A7)",
+ "hours": "9:00-21:00 for the Hall, Meeting Room and Small Meeting Room alike. The time slots for the Hall are morning 9:00-12:00, afternoon 13:00-16:30 and evening 17:30-21:00, and those for the Meeting Room and Small Meeting Room are morning 9:00-12:00, afternoon 13:00-17:00 and evening 18:00-21:00. Usage time runs from the start of setup until leaving the building, and extensions are not possible (only an early extension from 8:00 to 9:00 is available, with an extension fee for every 30 minutes). (Source: Hall Usage Rules, Meeting Room Usage Rules, FAQ, Facility Usage Hours and Price List as of January 2026)",
+ "notice": "Applications are made by registering as a new user in My Page on the website. The Hall can be used for exhibitions, sales events, symposiums, parties and the like, and a flat format requires booking 2 or more slots. The Meeting Room and Small Meeting Room are used for meetings, lectures, workshops and the like, and cannot be used for parties or exhibitions. Write the purpose of use accurately when applying. If it is vague, the application may be declined, and subletting or use that differs greatly from the stated purpose may lead to the right of use being revoked. Performances with loud sound are limited to use on Sat, Sun and holidays, together with a booking of the Meeting Room and Small Meeting Room. Reservations for January to December of the following year are first-come, first-served, starting at 9:00 on April 1 for the Hall and at 9:00 on June 1 for the Meeting Rooms (Hall users can reserve a Meeting Room for the same day and time slot from April 1). A provisional booking is held for 1 week, and if it is not confirmed within that period, you cannot make another provisional booking for 7 days. The contract takes effect when the invoice is issued, and the usage fee is paid in advance. The refund rates on cancellation are, for the Hall, 75% for 180 days or more before the usage date, 50% for 90 to 179 days, 25% for 31 to 89 days and 0% within 30 days; for the Meeting Rooms, 90% for 90 days or more before, 45% for 60 to 89 days, 25% for 11 to 59 days and 0% within 10 days. For the Hall, make a reservation for a site visit and hold a meeting by 1 month before the event. For the Hall's sound and lighting control room, a technician from the building (paid) is assigned, at 44,000 yen (tax included) for 1 person (from usage on January 1, 2027, the building bills this together with the equipment usage fee). There is no smoking area, and trash must be taken home. (Source: How to Apply, Hall Usage Rules, Meeting Room Usage Rules, Inquiries FAQ, News July 21 and November 1, 2026)",
+ "rooms": [
+  {
+   "name": "Multipurpose Hall",
+   "note": "2F. Theater style: 420 seats as standard (stages A, B and C in use, stage depth 6.6 m), up to 464 seats at maximum (stages A and B in use, stage depth 4.5 m). Standing: up to 500 people; classroom: up to 200 people. It changes from theater style to a flat floor in about 10 minutes. 420 seats is the initial arrangement, and adding or removing seats is done by the organizer within the contracted time (a fee applies if requested from the building). When a projector is used, the number of seats is reduced."
+  },
+  {
+   "name": "Meeting Room",
+   "note": "3F. Capacity 42 people. Classroom style as standard. Bringing in desks and chairs other than the permanent ones is in principle not allowed."
+  },
+  {
+   "name": "Small Meeting Room",
+   "note": "3F. Capacity 12 people. Hollow-square style as standard. Equipment is in principle not lent. Removing the partition between it and the hall waiting room makes them usable as 1 room (the Small Meeting Room usage fee is required)."
+  },
+  {
+   "name": "Hall Waiting Room",
+   "note": "3F. Included in the hall usage fee. The attached restroom is charged separately."
+  }
+ ],
+ "ops": {
+  "loadingHours": "Usage time runs from the start of setup until leaving the building, and the time for stage setup, adding or removing seats, reception preparation and entry and exit is included in the contracted time. Entry is in principle from the contract start time. Send luggage to be used on the day to the building so that it arrives in the afternoon of the day before the usage date, and write the usage date and company name in the remarks field (consult in advance for large volumes). The building takes no responsibility for problems such as quantity or damage at receipt. Luggage after use is picked up the next morning, arranged by the organizer on a cash-on-delivery basis, and taken to the office on the 1F. If you ask the building to set up the hall, send the setup instruction form by 1 week before the event. (Source: Inquiries FAQ, Shipping, Hall Setup Work Instruction Form)",
+  "vehicleRules": "The loading entrance is inside the parking lot. Loading and unloading is done by stopping temporarily at No. 2 inside the parking lot, then moving to No. 3 to park when finished (No. 1 is for tenants only). From the loading entrance, use the elevator on the right at the end. The surrounding roads are one-way. (Source: Building Parking Lot Entrance and Loading Entrance)",
+  "parking": "The parking lot can be used only by the organizer on the day of hall use, and up to 2 vehicles can park at No. 3. The entrance height is 2.7 m. There is no parking lot for visitors, so state in the guidance that there is no parking lot and direct people to public transportation. (Source: Inquiries FAQ, Hall Usage Rules, Building Parking Lot Entrance and Loading Entrance)",
+  "waitingRooms": "A Hall Waiting Room (3F, about 33㎡) is provided, included in the hall usage fee. The attached restroom (3F, about 9㎡, with a washbasin and changing space) is charged separately: 5,280 yen each for morning, afternoon and evening, 6,600 yen for morning + afternoon and afternoon + evening, and 7,920 yen for the whole day (tax included). The Hall Waiting Room and the Small Meeting Room can be used as 1 room by removing the partition between them (the Small Meeting Room usage fee is required). (Source: Multipurpose Hall, Hall Waiting Room Layout (3F))",
+  "catering": "Eating and drinking are allowed in the venue. The organizer takes home the trash from food and drink brought in (there is no trash collection). For standing receptions, floor protection may be needed, so consult. The building cannot receive perishables such as bento, catering and flowers, so arrange for them to be delivered directly to the 2F venue on the day. Merchandise sales are allowed in the hall and the lobby (the building takes no responsibility for problems). Bringing food and drink into the hall control room is prohibited. (Source: Inquiries FAQ, Hall Usage Rules)"
+ },
+ "documents": [
+  {
+   "title": "Facility Usage Hours and Price List (as of January 2026)"
+  },
+  {
+   "title": "Building Pamphlet"
+  },
+  {
+   "title": "Building Guide Map"
+  },
+  {
+   "title": "Building Parking Lot Entrance and Loading Entrance"
+  },
+  {
+   "title": "Shipping"
+  },
+  {
+   "title": "Site Visit Pre-check List"
+  },
+  {
+   "title": "Hall Setup Work Instruction Form"
+  },
+  {
+   "title": "Multipurpose Hall and Meeting Room Equipment List"
+  },
+  {
+   "title": "Hall Layout (2F)"
+  },
+  {
+   "title": "Hall Layout Examples (2F)"
+  },
+  {
+   "title": "Hall Floor Plan - Seating Arrangement"
+  },
+  {
+   "title": "Hall Plan and Section"
+  },
+  {
+   "title": "Hall Waiting Room Layout (3F)"
+  },
+  {
+   "title": "Meeting Room Layout (3F)"
+  },
+  {
+   "title": "Hall (Sound and Lighting) Equipment"
+  },
+  {
+   "title": "Hall (Sound) - Microphone Connection Points"
+  },
+  {
+   "title": "Hall (Lighting) - DMX Chart"
+  },
+  {
+   "title": "Hall (Lighting and Electrical) Related"
+  },
+  {
+   "title": "Hall (Battens and Flown Items) Related"
+  },
+  {
+   "title": "Hall and Meeting Room - Wireless Microphone Channel Chart"
+  },
+  {
+   "title": "Emergency Exit Evacuation Routes 1F, 2F, 3F"
+  },
+  {
+   "title": "Evacuation Area"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "FamilyMart Kanda Awajicho 2-chome",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "FamilyMart Ochanomizu Solacity",
+    "hours": "7:00-23:00",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "FamilyMart Kanda Surugadai 3-chome",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location."
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "Accea Awajicho",
+    "hours": "Weekdays 9:00-20:00 / Closed Sat, Sun & holidays",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Accea Ogawamachi",
+    "hours": "Weekdays 8:00-22:00 / Sat, Sun & holidays 10:00-19:00",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "DAISO Kanda Jimbocho Suzuran-dori",
+    "hours": "10:00-21:00",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Can Do Akihabara",
+    "hours": "Daily 10:00-21:00",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "donki": [
+   {
+    "name": "Don Quijote Akihabara",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. The store name on the Don Quijote official website is \"Akihabara\"."
+   },
+   {
+    "name": "Don Quijote Ueno",
+    "hours": "9:00-4:00",
+    "note": "Distance is calculated from the address location. The store name on the Don Quijote official website is \"Ueno\". Rather far."
+   }
+  ]
+ },
+ "photoCredit": "© Mizushimasea / CC BY-SA 4.0 · Wikimedia Commons"
+}

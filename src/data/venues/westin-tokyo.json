@@ -1,0 +1,391 @@
+{
+ "slug": "westin-tokyo",
+ "nameJa": "ウェスティンホテル東京",
+ "nameEn": "The Westin Tokyo",
+ "type": "hotel",
+ "area": "shibuya-ebisu-venues",
+ "address": "〒153-8580 東京都目黒区三田1-4-1",
+ "officialUrl": "https://www.marriott.com/ja/hotels/tyowi-the-westin-tokyo/overview/",
+ "organizerUrl": "https://www.marriott.com/ja/hotels/tyowi-the-westin-tokyo/events/",
+ "bizintokyoSlug": "westin-tokyo",
+ "accessSummary": "恵比寿ガーデンプレイスまで、JR山手線 恵比寿駅 東口から徒歩5分（動く通路「恵比寿スカイウォーク」）、東京メトロ日比谷線 恵比寿駅 1番出口から徒歩7分。ホテルは恵比寿ガーデンプレイスに隣接。車は首都高速の天現寺ランプが便利",
+ "notice": null,
+ "rooms": [
+  {
+   "name": "4F サファイア",
+   "areaM2": 80,
+   "ceilingM": 3.0,
+   "theater": 48,
+   "school": 18,
+   "ushape": 18,
+   "standing": 30,
+   "banquet": 24,
+   "note": "コンファレンス形式36名"
+  },
+  {
+   "name": "4F エメラルド",
+   "areaM2": 80,
+   "ceilingM": 3.0,
+   "theater": 48,
+   "school": 18,
+   "ushape": 18,
+   "standing": 30,
+   "banquet": 24,
+   "note": "コンファレンス形式36名"
+  },
+  {
+   "name": "4F ルビー",
+   "areaM2": 38,
+   "ceilingM": 3.0,
+   "theater": null,
+   "school": null,
+   "ushape": 16,
+   "standing": null,
+   "banquet": null,
+   "note": "コンファレンス形式14名"
+  },
+  {
+   "name": "2F 十勝",
+   "areaM2": 39,
+   "ceilingM": 3.0,
+   "theater": 50,
+   "school": 18,
+   "ushape": 18,
+   "standing": null,
+   "banquet": null,
+   "note": "コンファレンス形式24名"
+  },
+  {
+   "name": "2F 恵庭",
+   "areaM2": 39,
+   "ceilingM": 3.0,
+   "theater": 50,
+   "school": 18,
+   "ushape": 18,
+   "standing": null,
+   "banquet": null,
+   "note": "コンファレンス形式24名"
+  },
+  {
+   "name": "2F 羊蹄",
+   "areaM2": 39,
+   "ceilingM": 3.0,
+   "theater": 50,
+   "school": 18,
+   "ushape": 18,
+   "standing": null,
+   "banquet": null,
+   "note": "コンファレンス形式24名"
+  },
+  {
+   "name": "4F トパーズ",
+   "areaM2": 38,
+   "ceilingM": 3.0,
+   "theater": null,
+   "school": null,
+   "ushape": 16,
+   "standing": null,
+   "banquet": null,
+   "note": "コンファレンス形式14名"
+  },
+  {
+   "name": "4F アクアマリン",
+   "areaM2": 49,
+   "ceilingM": 3.0,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "公式の収容人数表は全レイアウトが「-」"
+  },
+  {
+   "name": "4F パール",
+   "areaM2": 38,
+   "ceilingM": 2.5,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "公式の収容人数表は全レイアウトが「-」"
+  },
+  {
+   "name": "4F クリスタル",
+   "areaM2": 80,
+   "ceilingM": 3.0,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": 30,
+   "banquet": null,
+   "note": "レセプション30名のみ"
+  },
+  {
+   "name": "B2F ギャラクシー",
+   "areaM2": 1003.8,
+   "ceilingM": 5.0,
+   "theater": 1440,
+   "school": 660,
+   "ushape": 147,
+   "standing": 900,
+   "banquet": 570,
+   "note": "ホテル最大のイベントルーム。フロア図に仕切り線が3本ある。コンファレンス形式480名"
+  },
+  {
+   "name": "B2F スター",
+   "areaM2": 397,
+   "ceilingM": 4.5,
+   "theater": 460,
+   "school": 234,
+   "ushape": 84,
+   "standing": 280,
+   "banquet": 250,
+   "note": "フロア図に仕切り線が1本ある。コンファレンス形式180名"
+  },
+  {
+   "name": "B1F 楓",
+   "areaM2": 450,
+   "ceilingM": 3.5,
+   "theater": 561,
+   "school": 270,
+   "ushape": 78,
+   "standing": 300,
+   "banquet": 250,
+   "note": "フロア図にA・Bを分ける仕切り線がある。コンファレンス形式240名"
+  },
+  {
+   "name": "B1F 桐",
+   "areaM2": 96,
+   "ceilingM": 3.5,
+   "theater": 120,
+   "school": 54,
+   "ushape": 33,
+   "standing": 50,
+   "banquet": 50,
+   "note": "コンファレンス形式30名"
+  },
+  {
+   "name": "B1F 桜",
+   "areaM2": 228,
+   "ceilingM": 3.5,
+   "theater": 240,
+   "school": 144,
+   "ushape": 54,
+   "standing": 150,
+   "banquet": 130,
+   "note": "フロア図にA・Bを分ける仕切り線がある。コンファレンス形式126名"
+  },
+  {
+   "name": "B1F 楠",
+   "areaM2": 110,
+   "ceilingM": 3.5,
+   "theater": 110,
+   "school": 63,
+   "ushape": 39,
+   "standing": 60,
+   "banquet": 60,
+   "note": "フロア図にA・Bを分ける仕切り線がある。コンファレンス形式36名"
+  },
+  {
+   "name": "チャペル",
+   "areaM2": 88,
+   "ceilingM": 11.0,
+   "theater": 78,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "シアター78名のみ。収容人数表では17行目で、公式の紹介文は「イベントルーム16室」"
+  }
+ ],
+ "roomsSource": "https://www.marriott.com/ja/hotels/tyowi-the-westin-tokyo/events/",
+ "ops": {
+  "parking": {
+   "text": "ホテル敷地内の駐車場は1時間1,200円。バレーパーキングは1日2,000円。電気自動車の充電ステーションがある。レストランで3,000円以上支払うと駐車場を3時間まで無料で使え、宿泊客の駐車料金は1日3,000円。隣の恵比寿ガーデンプレイスの駐車場は7:00〜24:00営業で、30分400円、最大料金は7:00〜24:00が4,000円・24:00〜翌7:00が1,600円。駐車できる車は高さ2.1m・長さ6.0m・幅2.05m以下、重さ4.0t以下。入口は北（サッポロビール本社前）と東（ウェスティンホテル東京前）。ガーデンプレイスの駐車サービスは、ウェスティンホテル東京では実施していない。（出典：マリオット ホテル概要、恵比寿ガーデンプレイス アクセス・駐車場ガイド）",
+   "source": "https://www.marriott.com/ja/hotels/tyowi-the-westin-tokyo/overview/"
+  },
+  "catering": {
+   "text": "マリオットの会議・イベントのページに、ケータリングの1人あたり料金が載っている。アフタヌーンブレイク4,150円、コーヒーブレイク4,150円、コンチネンタル朝食2,500円、本格的な朝食3,500円、ランチ12,000円、ディナー30,000円、レセプション6,000円。",
+   "source": "https://www.marriott.com/ja/hotels/tyowi-the-westin-tokyo/events/"
+  },
+  "restaurants": {
+   "text": "館内にレストラン＆バーが8つある。ザ・テラス（1階、インターナショナル）、龍天門（広東料理、プライベートダイニングあり）、舞（日本料理）、鉄板焼「恵比寿」（最上階）、ザ・ラウンジ、ザ・バー、スカイバー「エスカリエ」、パティスリー・バイ・ウェスティンホテル東京。",
+   "source": "https://www.marriott.com/ja/hotels/tyowi-the-westin-tokyo/overview/"
+  }
+ },
+ "documents": [
+  {
+   "title": "会議・イベントのページ（収容人数表・フロアプラン・設備とサービス）",
+   "url": "https://www.marriott.com/ja/hotels/tyowi-the-westin-tokyo/events/"
+  },
+  {
+   "title": "フロア図 2F（十勝・恵庭・羊蹄ほか）",
+   "url": "https://www.marriott.com/content/dam/marriott-digital/wi/apec/hws/t/tyowi/en_us/floor-plan/meeting-space/assets/tyowif01.png"
+  },
+  {
+   "title": "フロア図 4F（サファイア・クリスタル・エメラルドほか）",
+   "url": "https://www.marriott.com/content/dam/marriott-digital/wi/apec/hws/t/tyowi/en_us/floor-plan/meeting-space/assets/tyowif02.png"
+  },
+  {
+   "title": "フロア図 B1F（楓・桐・楠・桜）",
+   "url": "https://www.marriott.com/content/dam/marriott-digital/wi/apec/hws/t/tyowi/en_us/floor-plan/meeting-space/assets/tyowif03.png"
+  },
+  {
+   "title": "フロア図 B2F（ギャラクシー・スター）",
+   "url": "https://www.marriott.com/content/dam/marriott-digital/wi/apec/hws/t/tyowi/en_us/floor-plan/meeting-space/assets/tyowif04.png"
+  },
+  {
+   "title": "部屋の図 2F 十勝・恵庭・羊蹄",
+   "url": "https://www.marriott.com/content/dam/marriott-digital/wi/apec/hws/t/tyowi/en_us/floor-plan/meeting-space/assets/tyowif05.png"
+  },
+  {
+   "title": "部屋の図 4F エメラルド・クリスタル・サファイア",
+   "url": "https://www.marriott.com/content/dam/marriott-digital/wi/apec/hws/t/tyowi/en_us/floor-plan/meeting-space/assets/tyowif06.png"
+  },
+  {
+   "title": "部屋の図 4F ルビー・トパーズ・パール・アクアマリン",
+   "url": "https://www.marriott.com/content/dam/marriott-digital/wi/apec/hws/t/tyowi/en_us/floor-plan/meeting-space/assets/tyowif07.png"
+  },
+  {
+   "title": "部屋の図 B1F 楓・桐",
+   "url": "https://www.marriott.com/content/dam/marriott-digital/wi/apec/hws/t/tyowi/en_us/floor-plan/meeting-space/assets/tyowif08.png"
+  },
+  {
+   "title": "部屋の図 B1F 桜・楠",
+   "url": "https://www.marriott.com/content/dam/marriott-digital/wi/apec/hws/t/tyowi/en_us/floor-plan/meeting-space/assets/tyowif09.png"
+  },
+  {
+   "title": "ホテル概要（駐車場・レストラン・ホテル情報）",
+   "url": "https://www.marriott.com/ja/hotels/tyowi-the-westin-tokyo/overview/"
+  },
+  {
+   "title": "恵比寿ガーデンプレイス 駐車場のご案内（パンフレット）",
+   "url": "https://gardenplace.jp/theme/ygp/assets/pdf/parking.pdf"
+  },
+  {
+   "title": "恵比寿ガーデンプレイス アクセス・駐車場",
+   "url": "https://gardenplace.jp/access/"
+  }
+ ],
+ "drinkDelivery": {
+  "available": true
+ },
+ "checkedAt": "2026-11-02",
+ "lat": 35.642441,
+ "lng": 139.71579,
+ "nearby": {
+  "convenience": [
+   {
+    "name": "ファミリーマート 恵比寿ガーデンプレイス店",
+    "brand": "ファミリーマート",
+    "distanceM": 225,
+    "walkMin": 3,
+    "hours": "7:00-23:00",
+    "address": "東京都渋谷区恵比寿4-20-3 恵比寿ガーデンプレイスタワー1F",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/12288",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "セブン-イレブン 渋谷恵比寿3丁目店",
+    "brand": "セブン-イレブン",
+    "distanceM": 384,
+    "walkMin": 5,
+    "hours": "24時間営業",
+    "address": "東京都渋谷区恵比寿3-3-3",
+    "verified": true,
+    "source": "https://seven-eleven.areamarker.com/711map/info/409717",
+    "note": "距離は住所の位置で計算。マルチコピー機あり"
+   },
+   {
+    "name": "ファミリーマート 恵比寿四丁目店",
+    "brand": "ファミリーマート",
+    "distanceM": 399,
+    "walkMin": 5,
+    "hours": "24時間営業",
+    "address": "東京都渋谷区恵比寿4-9-11",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/57580",
+    "note": "距離は公式の店舗位置で計算"
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "キンコーズ・恵比寿店",
+    "brand": "キンコーズ",
+    "distanceM": 508,
+    "walkMin": 7,
+    "hours": "平日 9:00-22:00、土 9:00-20:00、日・祝 9:00-20:00（受付は閉店の30分前まで）",
+    "address": "〒150-0013 東京都渋谷区恵比寿4丁目6-1 恵比寿MFビル1F",
+    "verified": true,
+    "source": "https://www.kinkos.co.jp/store/",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "アクセア 恵比寿店",
+    "brand": "アクセア",
+    "distanceM": 552,
+    "walkMin": 7,
+    "hours": "平日 8:00-20:00、土 10:00-19:00、日・祝 休み",
+    "address": "〒150-0013 東京都渋谷区恵比寿1-11-6 恵比寿山仁ビル2F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/entry.html",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Can★Do ピーコックストア恵比寿南店",
+    "brand": "キャンドゥ",
+    "distanceM": 785,
+    "walkMin": 10,
+    "hours": "毎日 8:00-23:00",
+    "address": "〒150-0022 東京都渋谷区恵比寿南2-3-3-101 ピーコックストア恵比寿南店2F",
+    "verified": true,
+    "source": "https://shopinfo.cando-web.co.jp/detail/shop-1212/",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "DAISO 東急ストア目黒店",
+    "brand": "ダイソー",
+    "distanceM": 810,
+    "walkMin": 11,
+    "hours": "9:00-22:00",
+    "address": "東京都品川区上大崎2-24-13 東急ストア目黒2F",
+    "verified": true,
+    "source": "https://www.daiso-sangyo.co.jp/shop/detail/003171",
+    "note": "距離は公式の店舗位置で計算。スーパー内のテナント"
+   }
+  ],
+  "donki": [
+   {
+    "name": "ピカソ目黒駅前店（ドン・キホーテ）",
+    "brand": "ドン・キホーテ",
+    "distanceM": 959,
+    "walkMin": 12,
+    "hours": "24時間営業",
+    "address": "〒153-0064 東京都目黒区下目黒1-1-15",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=508",
+    "note": "距離は住所の位置で計算。ドン・キホーテの別業態（公式サイトの店舗名は「ピカソ目黒駅前店」）"
+   },
+   {
+    "name": "プラチナ ドン・キホーテ白金台店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 1009,
+    "walkMin": 13,
+    "hours": "24時間営業",
+    "address": "〒108-0071 東京都港区白金台3-15-5",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=368",
+    "note": "距離は住所の位置で計算"
+   }
+  ]
+ },
+ "photo": {
+  "src": "/images/venues/westin-tokyo.jpg",
+  "credit": "© Harani0403 / CC BY-SA 3.0 · Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Westin_Hotel_Tokyo.jpg"
+ }
+}

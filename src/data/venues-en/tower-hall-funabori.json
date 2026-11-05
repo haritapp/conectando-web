@@ -1,0 +1,287 @@
+{
+ "slug": "tower-hall-funabori",
+ "name": "Tower Hall Funabori",
+ "address": "Tokyo 134-0091 4-1-1 Funabori, Edogawa-ku",
+ "accessSummary": "Toei Shinjuku Line Funabori Station North Exit: about 1 min walk",
+ "hours": "Room usage times are morning 9:00-12:00, afternoon 13:00-16:30 and evening 17:30-21:30, and all day 9:00-21:30 (including preparation and cleanup time). For the Event Hall and Horai, the categories are 2 hours 30 minutes for wedding receptions and banquets and 3 hours for meetings and others.",
+ "notice": "A facility of Edogawa Ward. Companies and groups from outside the ward can also rent rooms. To apply, you must register with Edonet, Edogawa Ward's reservation system, and companies and groups register at the counter as a \"Large Cultural Facility User Group (outside the ward)\" (for groups the ward deems appropriate to use the facility; by mail or through a proxy is not possible; submit identification and documents showing the group actually exists, such as a company profile; renewal every 2 years). Only group registrations can enter the lottery; individual registrations can only make reservations for open slots. Groups with an office in Edogawa Ward pay the ward resident rate, and all others pay the general rate. Commercial purposes are allowed with conditions. Use for exhibition sales of goods or direct sales of products for profit, and use for continued group activities for profit, are not approved. For events that charge an admission or participation fee, the venue usage fee is increased according to the amount (1,001-2,000 yen: 50% surcharge; 2,001-3,000 yen: 75% surcharge; 3,001 yen and above: 100% surcharge). If the purpose of an event is unclear, or the event is not suitable for a public facility, we may decline to rent. The lottery for the Large Hall, Small Hall and Exhibition Hall (for exhibition purposes) is held 12 months before, and for the meeting rooms and other rooms 5 months before, from 9:00 on the 5th to 22:00 on the 14th. For the Event Hall and Horai, both the lottery and reservations for open slots are at the counter only. Usage time includes preparation and cleanup. Cancellations are in principle not refunded. Use of open flames requires an application to the fire department. Posting notices is not allowed, and trash must be taken home. In the Event Hall and meeting rooms, drums, wind instruments and sound through amplifiers (including loud voices) are not allowed.",
+ "rooms": [
+  {
+   "name": "Event Hall (Taiyo-no-Ma)",
+   "note": "2F. The size of the 4 rooms Zuiun, Heian, Fukuju and Togen joined together. It can also be used with 2 rooms (300 people) or 3 rooms (460 people) joined."
+  },
+  {
+   "name": "Zuiun",
+   "note": "2F. One room of the Event Hall. Banquet: up to 140 seated or 200 standing; meeting: up to 162 classroom or 360 theater."
+  },
+  {
+   "name": "Heian",
+   "note": "2F. One room of the Event Hall. Banquet: up to 140 seated or 200 standing; meeting: up to 162 classroom or 360 theater."
+  },
+  {
+   "name": "Fukuju",
+   "note": "2F. One room of the Event Hall. Banquet: up to 140 seated or 200 standing; meeting: up to 162 classroom or 360 theater."
+  },
+  {
+   "name": "Togen",
+   "note": "2F. One room of the Event Hall. Banquet: up to 140 seated or 200 standing; meeting: up to 162 classroom or 360 theater."
+  },
+  {
+   "name": "Banquet Room (Horai-no-Ma)",
+   "note": "2F. With a dedicated lobby."
+  },
+  {
+   "name": "Large Hall",
+   "note": "5F. The stage is 13.8 m wide, 15.2 m deep and 90 cm high."
+  },
+  {
+   "name": "Small Hall",
+   "note": "5F. Up to 300 seats; the number of seats changes with the stage layout. The stage and seats are movable."
+  },
+  {
+   "name": "Exhibition Hall",
+   "note": "1F. Can be divided in two. Floor load capacity is 1 t/㎡."
+  },
+  {
+   "name": "Exhibition Hall 1",
+   "note": "1F. One of the two rooms when divided."
+  },
+  {
+   "name": "Exhibition Hall 2",
+   "note": "1F. One of the two rooms when divided."
+  },
+  {
+   "name": "Meeting Room 301",
+   "note": "3F. Capacity 36."
+  },
+  {
+   "name": "Meeting Room 302",
+   "note": "3F. Capacity 32."
+  },
+  {
+   "name": "Meeting Room 303",
+   "note": "3F. Capacity 48."
+  },
+  {
+   "name": "Meeting Room 304",
+   "note": "3F. Capacity 12."
+  },
+  {
+   "name": "Meeting Room 305",
+   "note": "3F. Capacity 12."
+  },
+  {
+   "name": "Meeting Room 306",
+   "note": "3F. Capacity 30."
+  },
+  {
+   "name": "Meeting Room 307",
+   "note": "3F. Capacity 42."
+  },
+  {
+   "name": "Reception Meeting Room",
+   "note": "3F. Capacity 24."
+  },
+  {
+   "name": "Meeting Room 401",
+   "note": "4F. Capacity 63."
+  },
+  {
+   "name": "Meeting Room 402",
+   "note": "4F. Capacity 30."
+  },
+  {
+   "name": "Meeting Room 403",
+   "note": "4F. Capacity 30."
+  },
+  {
+   "name": "Meeting Room 404",
+   "note": "4F. Capacity 12."
+  },
+  {
+   "name": "Meeting Room 405",
+   "note": "4F. Capacity 12."
+  },
+  {
+   "name": "Meeting Room 406",
+   "note": "4F. Capacity 30."
+  },
+  {
+   "name": "Meeting Room 407",
+   "note": "4F. Capacity 36."
+  },
+  {
+   "name": "Special Meeting Room",
+   "note": "4F. Capacity 16."
+  },
+  {
+   "name": "Training Room",
+   "note": "4F. Capacity 84."
+  },
+  {
+   "name": "Rehearsal Room",
+   "note": "4F. Wooden floor. The facility guide page gives the area as 198㎡."
+  },
+  {
+   "name": "Japanese-style Room 1",
+   "note": "4F. 28 tatami mats."
+  },
+  {
+   "name": "Japanese-style Room 2",
+   "note": "4F. 20 tatami mats. With a hearth and a preparation room (mizuya)."
+  }
+ ],
+ "ops": {
+  "loadingHours": "The hall-dedicated service yard is open 7:00-23:00.",
+  "vehicleRules": "The load-in entrances are: for Large Hall users only (entrance height 3.8 m, 3 vehicles), for Exhibition Hall users only (entrance height 3.5 m, 2 vehicles), and for Small Hall users only (entrance height 3.7 m, 2 vehicles). The overpasses on the load-in route are 3.6 m and 4.2 m high.",
+  "parking": "Basement 1 has 74 spaces and basement 2 has 87 spaces (161 in total). The height limit is 2.6 m, and there are also spaces for people who need wider parking spaces, such as wheelchair users. Hours of use are 8:30-22:00. The fee is 200 yen for the first hour and 100 yen for each hour after that. The lot may be full depending on events, and the use of public transportation is recommended.",
+  "waitingRooms": "The Large Hall dressing rooms are 5 rooms on the 4F (No. 1: Japanese-style 6 tatami mats with shower; No. 2: Western-style 18㎡ with shower; No. 3: Japanese-style 11 tatami mats; No. 4: Western-style 31㎡; No. 5: Western-style 51㎡). The Small Hall dressing rooms are 4 rooms on the 5F (No. 1: Japanese-style 12 tatami mats; No. 2: Western-style 37㎡; No. 3: Western-style 25㎡; No. 4: Western-style 23㎡). The waiting rooms for the 2F Event Hall are Matsu, Sakura and Fuji (38 seats, capacity 12). Fees are listed in the fee schedule.",
+  "catering": "For the 2F banquet rooms (Event Hall and Horai), according to the guidance of Funabori Matsuya Salon, bringing in food and drink is in principle not accepted for food hygiene reasons. For the Large Hall, Small Hall, Exhibition Hall and meeting rooms, eating and smoking outside designated places is discouraged, and drinking alcohol outside designated places is not allowed. Eating and drinking in the hall seating area is discouraged.",
+  "restaurants": "On the 7F is the restaurant \"Salon de Salon\" (11:00-21:00, last food order 20:00, drinks 20:30, open every day of the year). On the 1F are Caravan Coffee (9:00-19:00), Kirin City (Mon-Sat 11:30-23:00, Sun & holidays 11:30-22:00) and Tsukiji Uemura Shunsenbo (11:00-15:00, 17:00-22:00)."
+ },
+ "documents": [
+  {
+   "title": "Facility Fee Schedule (General Rates) (after the revision of April 1, 2026)"
+  },
+  {
+   "title": "Facility Fee Schedule (Edogawa Ward Resident Rates) (after the revision of April 1, 2026)"
+  },
+  {
+   "title": "Notes on Use (partially amended April 2026)"
+  },
+  {
+   "title": "Load-in Routes (hall-dedicated service yard and entrance heights)"
+  },
+  {
+   "title": "Large Hall Seating Chart"
+  },
+  {
+   "title": "Small Hall Seating Chart"
+  },
+  {
+   "title": "Tower Hall Funabori Floor Plans (1F to 5F)"
+  },
+  {
+   "title": "Large Hall Stage Plan"
+  },
+  {
+   "title": "Small Hall Stage Plan"
+  },
+  {
+   "title": "Small Hall Stage Mechanism"
+  },
+  {
+   "title": "Large Hall Lobby and Foyer Drawing"
+  },
+  {
+   "title": "Small Hall Foyer Drawing"
+  },
+  {
+   "title": "Exhibition Hall Floor Plan"
+  },
+  {
+   "title": "1F Exhibition Hall Outlet Diagram"
+  },
+  {
+   "title": "2F Event Hall Outlet Diagram"
+  },
+  {
+   "title": "2F Outlet Diagram"
+  },
+  {
+   "title": "3F Outlet Diagram"
+  },
+  {
+   "title": "4F Outlet Diagram"
+  },
+  {
+   "title": "4F Large Hall Outlet Diagram"
+  },
+  {
+   "title": "5F Large Hall and Small Hall Outlet Diagram"
+  },
+  {
+   "title": "Large Hall Sound Equipment List (posted July 2026)"
+  },
+  {
+   "title": "Small Hall Sound Equipment List (posted July 2026)"
+  },
+  {
+   "title": "Large Hall Lighting Equipment List"
+  },
+  {
+   "title": "Small Hall Lighting Equipment List"
+  },
+  {
+   "title": "Reception Application Form for the Large, Small and Exhibition Halls (posted July 2026)"
+  },
+  {
+   "title": "Application for Approval to Lift a Prohibition"
+  },
+  {
+   "title": "Work Notification Form"
+  },
+  {
+   "title": "Edonet User Guide (31st edition, revised June 12, 2026)"
+  },
+  {
+   "title": "Edonet User Terms (amended January 12, 2026)"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "7-Eleven Edogawa Funabori 4-chome",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location. Multi-copy machine available."
+   },
+   {
+    "name": "FamilyMart Funabori 1-chome",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "7-Eleven Edogawa Funabori 2-chome",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location. Multi-copy machine available."
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "Accea Kinshicho",
+    "hours": "Open 24 hours on weekdays (non-stop from Monday 9:00 to Saturday 19:00) / Sun & holidays 10:00-19:00",
+    "note": "Distance is calculated from the address location. Far."
+   },
+   {
+    "name": "Accea Monzen-Nakacho",
+    "hours": "Weekdays 10:00-19:00 / Sat, Sun & holidays closed",
+    "note": "Distance is calculated from the address location. Far."
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "DAISO Funabori",
+    "hours": "9:00-21:00",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "DAISO Maruetsu Ichinoe Ekimae",
+    "hours": "9:00-21:00",
+    "note": "Distance is calculated from the address location. Rather far."
+   }
+  ],
+  "donki": [
+   {
+    "name": "Picasso Kannana Edogawa (Don Quijote)",
+    "hours": "9:00-0:00",
+    "note": "Distance is calculated from the address location. A different Don Quijote format (the store name on the official site is \"Picasso Kannana Edogawa\"). Far."
+   },
+   {
+    "name": "La Park Mizue (Don Quijote)",
+    "hours": "9:00-1:00",
+    "note": "Distance is calculated from the address location. The store name on the Don Quijote official site is \"La Park Mizue\". Far."
+   }
+  ]
+ },
+ "photoCredit": "© しんぎんぐきゃっと / CC BY-SA 4.0 · Wikimedia Commons"
+}

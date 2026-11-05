@@ -1,0 +1,320 @@
+{
+ "slug": "ueno-seiyoken",
+ "nameJa": "上野精養軒",
+ "nameEn": "Ueno Seiyoken",
+ "type": "hall",
+ "area": "ueno-asakusa-venues",
+ "address": "〒110-8715 東京都台東区上野公園4-58",
+ "officialUrl": "https://www.seiyoken.co.jp/",
+ "organizerUrl": "https://www.seiyoken.co.jp/banquet/top.html",
+ "bizintokyoSlug": "ueno-seiyoken",
+ "accessSummary": "JR上野駅 公園口 徒歩5分／京成上野駅 正面口 徒歩5分／東京メトロ上野駅 7番口 徒歩5分／都営上野御徒町駅 A3出口 徒歩8分",
+ "notice": "宴会の予約は1年前から受け付ける。宴会・会議プランの時間は2時間で、料理の確定は5日前まで。料金は税込・サービス料別（10%）。会場で無料Wi-Fiを使える。スクリーン・プロジェクターなどの映像機器とマイクは有料で用意する。",
+ "rooms": [
+  {
+   "name": "桜の間",
+   "areaM2": 563,
+   "ceilingM": 4.1,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": 600,
+   "banquet": 320,
+   "note": "3F。大宴会場。ステージが常設"
+  },
+  {
+   "name": "桐の間",
+   "areaM2": 185,
+   "ceilingM": 4.0,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": 150,
+   "banquet": 110,
+   "note": "3F。大宴会場。三面窓"
+  },
+  {
+   "name": "藤の間",
+   "areaM2": 162,
+   "ceilingM": 3.2,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": 150,
+   "banquet": 100,
+   "note": "2F。大宴会場"
+  },
+  {
+   "name": "梅の間",
+   "areaM2": 123,
+   "ceilingM": 3.2,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": 80,
+   "banquet": 60,
+   "note": "2F。中宴会場。三面窓"
+  },
+  {
+   "name": "あやめの間",
+   "areaM2": 81,
+   "ceilingM": 2.8,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": 70,
+   "banquet": 50,
+   "note": "2F。中宴会場"
+  },
+  {
+   "name": "竹の間",
+   "areaM2": 89,
+   "ceilingM": 2.9,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": 60,
+   "banquet": 50,
+   "note": "2F。中宴会場"
+  },
+  {
+   "name": "ホール銀杏",
+   "areaM2": 121,
+   "ceilingM": 2.8,
+   "theater": 120,
+   "school": 90,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "B1F。会議・セミナー・発表会向けのホール"
+  },
+  {
+   "name": "菊の間",
+   "areaM2": 62,
+   "ceilingM": 4.1,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": 40,
+   "banquet": 28,
+   "note": "3F。小宴会場。シャンデリアと暖炉がある"
+  },
+  {
+   "name": "桔梗の間",
+   "areaM2": 63,
+   "ceilingM": 2.9,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": 40,
+   "banquet": 30,
+   "note": "2F。小宴会場"
+  },
+  {
+   "name": "松の間",
+   "areaM2": 68,
+   "ceilingM": 2.8,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": 40,
+   "banquet": 30,
+   "note": "2F。小宴会場"
+  },
+  {
+   "name": "つつじの間",
+   "areaM2": 47,
+   "ceilingM": 2.9,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": 25,
+   "banquet": 20,
+   "note": "2F。小宴会場"
+  },
+  {
+   "name": "らんの間",
+   "areaM2": 34,
+   "ceilingM": 2.9,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": 12,
+   "note": "2F。小宴会場"
+  }
+ ],
+ "roomsSource": "https://www.seiyoken.co.jp/banquet/hall.html",
+ "ops": {
+  "parking": {
+   "text": "専用駐車場が39台あり、本店の目の前。満車などで使えない日もある。貸切バスで来る場合は事前に担当者へ連絡する（連絡がないと、当日の状況によって駐車できないことがある）。専用駐車場へは、動物園通りから「五条天神社」脇の道路を進む。",
+   "source": "https://www.seiyoken.co.jp/access.html"
+  },
+  "restaurants": {
+   "text": "本店の建物内にレストラン「本店グリル」（個室3部屋）がある。営業は昼11:00〜15:00（土日祝は16:00まで）、夜17:00〜21:00（夜は予約のみ）で、月曜定休（祝日は営業）。フロア貸切のプレミアムパーティープランは25〜60名、2時間貸切（17:30〜21:00、フリーフロー90分付）。",
+   "source": "https://www.seiyoken.co.jp/restaurant/fukushima/index.html"
+  }
+ },
+ "documents": [
+  {
+   "title": "会場一覧（宴会・会議）",
+   "url": "https://www.seiyoken.co.jp/banquet/hall.html"
+  },
+  {
+   "title": "ご宴会スタイル 宴会お料理メニュー（2026年8月）",
+   "url": "https://www.seiyoken.co.jp/banquet/doc/ban-style.pdf"
+  },
+  {
+   "title": "グリル プレミアムパーティープラン（25〜60名・2時間貸切）",
+   "url": "https://www.seiyoken.co.jp/banquet/doc/grill-premium-party_260120.pdf"
+  },
+  {
+   "title": "記念式典・祝賀会 プラン",
+   "url": "https://www.seiyoken.co.jp/banquet/banquet_plan_01.html"
+  },
+  {
+   "title": "同窓会・謝恩会・歓送迎会 プラン",
+   "url": "https://www.seiyoken.co.jp/banquet/banquet_plan_03.html"
+  },
+  {
+   "title": "講演会・セミナー（会食付） プラン",
+   "url": "https://www.seiyoken.co.jp/banquet/banquet_plan_04.html"
+  },
+  {
+   "title": "二次会・親睦会 プラン",
+   "url": "https://www.seiyoken.co.jp/banquet/banquet_plan_05.html"
+  },
+  {
+   "title": "テーブルマナー講習プラン",
+   "url": "https://www.seiyoken.co.jp/banquet/banquet_plan_06.html"
+  },
+  {
+   "title": "アクセス・駐車場",
+   "url": "https://www.seiyoken.co.jp/access.html"
+  },
+  {
+   "title": "よくあるご質問",
+   "url": "https://www.seiyoken.co.jp/question.html"
+  }
+ ],
+ "checkedAt": "2026-11-02",
+ "lat": 35.713875,
+ "lng": 139.772797,
+ "nearby": {
+  "convenience": [
+   {
+    "name": "セブン-イレブン 上野公園前店",
+    "brand": "セブン-イレブン",
+    "distanceM": 365,
+    "walkMin": 5,
+    "hours": "24時間営業",
+    "address": "東京都台東区上野2-14-31 レイクサイドビル1F",
+    "verified": true,
+    "source": "https://seven-eleven.areamarker.com/711map/info/414003",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "ファミリーマート 上野仲町通り店",
+    "brand": "ファミリーマート",
+    "distanceM": 481,
+    "walkMin": 7,
+    "hours": "24時間営業",
+    "address": "東京都台東区上野2-12-1",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/26658",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "ファミリーマート 上野駅入谷口店",
+    "brand": "ファミリーマート",
+    "distanceM": 501,
+    "walkMin": 7,
+    "hours": "24時間営業",
+    "address": "東京都台東区上野7-7-7 早稲田ビルヂング",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/24536",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "キンコーズ・上野店",
+    "brand": "キンコーズ",
+    "distanceM": 546,
+    "walkMin": 7,
+    "hours": "平日 9:00-22:00／土・日・祝 10:00-18:00（受付は閉店30分前まで）",
+    "address": "東京都台東区東上野4-3-4",
+    "verified": true,
+    "source": "https://www.kinkos.co.jp/store/tokyo/t028/",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "アクセア 上野店",
+    "brand": "アクセア",
+    "distanceM": 568,
+    "walkMin": 8,
+    "hours": "平日 8:00-22:00／土・日・祝 10:00-19:00",
+    "address": "東京都台東区東上野2-18-4 第一樺澤ビル1F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/map/ueno.html",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "DAISO 松坂屋上野店",
+    "brand": "ダイソー",
+    "distanceM": 708,
+    "walkMin": 9,
+    "hours": "10:00-18:30",
+    "address": "東京都台東区上野3-29-5 松坂屋上野店6階",
+    "verified": true,
+    "source": "https://www.daiso-sangyo.co.jp/shop/detail/003635",
+    "note": "距離は住所の位置で計算。百貨店内の小型店"
+   },
+   {
+    "name": "DAISO 多慶屋御徒町店",
+    "brand": "ダイソー",
+    "distanceM": 891,
+    "walkMin": 12,
+    "hours": "9:00-21:00",
+    "address": "東京都台東区台東4-12-1 TAKEYA1 4階",
+    "verified": true,
+    "source": "https://www.daiso-sangyo.co.jp/shop/detail/003903",
+    "note": "距離は住所の位置で計算。小型店"
+   }
+  ],
+  "donki": [
+   {
+    "name": "ドン・キホーテ 御徒町店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 653,
+    "walkMin": 9,
+    "hours": "9:00-1:00（定休日なし）",
+    "address": "東京都台東区上野4-1-10",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=639",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "ドン・キホーテ 上野店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 665,
+    "walkMin": 9,
+    "hours": "9:00-4:00（定休日なし）",
+    "address": "東京都文京区湯島3-38-10",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=107",
+    "note": "距離は住所の位置で計算"
+   }
+  ]
+ },
+ "drinkDelivery": {
+  "available": true
+ },
+ "photo": {
+  "src": "/images/venues/ueno-seiyoken.jpg",
+  "credit": "© 運転太郎 / CC BY 3.0 · Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E4%B8%8A%E9%87%8E%E7%B2%BE%E9%A4%8A%E8%BB%92_-_panoramio_%281%29.jpg"
+ }
+}

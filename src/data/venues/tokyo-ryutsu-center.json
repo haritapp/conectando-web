@@ -1,0 +1,520 @@
+{
+ "slug": "tokyo-ryutsu-center",
+ "nameJa": "東京流通センター（TRC）",
+ "nameEn": "Tokyo Ryutsu Center (TRC)",
+ "type": "exhibition",
+ "area": "shinagawa-venues",
+ "address": "〒143-0006 東京都大田区平和島6-1-1",
+ "officialUrl": "https://www.trc-event.jp/",
+ "organizerUrl": "https://www.trc-event.jp/",
+ "bizintokyoSlug": "tokyo-ryutsu-center",
+ "accessSummary": "東京モノレール 流通センター駅 徒歩1分（駅正面）／浜松町駅からモノレール約10分、羽田空港から約5〜11分、東京駅から電車・モノレール約16分、品川駅から約15分／京浜急行バス「流通センター前」下車（大森駅から約12分、平和島駅から約4分）／首都高速 湾岸線 大井南ICと1号羽田線 平和島ICからそれぞれ約5分／第一展示場は駅の向かいにある10階建てオフィスビル（センタービル）の2階、第二展示場は駅の向かいの2階建ての建物",
+ "notice": "展示場の受付は使用希望日の1年前から。仮予約の期限は申込日から7日間。使用者は原則として法人格を持つ団体で、個人は条件を満たす場合に限る。契約成立後に使用者の都合で解除すると、使用開始日の180日前までは基準時間使用料の20%、90日前までは60%、90日未満は100%の契約解除料がかかる。開催書類は開催2週間前までに提出する。荷物の事前預かりはなく、使用期間中に使用ホールで受け取る。原状回復清掃は指定業者。音の出るイベントは内容で可否を判断するため事前に相談する。会議室は3か月前の1日から受付（平日9:00〜17:00）で、日曜・祝日は2割増し、キャンセルは利用日の1か月前の同日から半額。会議室を展示会・販売会に使う場合は別料金で、受付は6か月前の1日から。（出典：展示場使用細則 2026年4月1日改定、展示場のご利用の流れ、よくある質問、会議室利用のご案内 2025年10月時点、会議室 -展示利用-）",
+ "hours": "展示場は原則24時間使用でき、基準時間は9:00〜18:00。基準時間を超えると1時間ごとに基準時間使用料の15%がかかる。前後のイベントの都合で希望どおりにならないことがあり、基準時間外の使用は事前に連絡する。会議室は6:30〜22:30（センタービル開館時間）で、全日（8時間）と3時間の料金区分がある",
+ "rooms": [
+  {
+   "name": "Aホール",
+   "areaM2": 1156,
+   "ceilingM": "4",
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "第一展示場（センタービル2階）。収容人員目安は約1,000人。基準時間使用料590,000円（税抜）。床荷重500kg/㎡、照明1,400ルクス。搬出入は4t車まで"
+  },
+  {
+   "name": "Bホール",
+   "areaM2": 949,
+   "ceilingM": "4",
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "第一展示場（センタービル2階）。収容人員目安は約950人。基準時間使用料490,000円（税抜）。床荷重500kg/㎡。搬出入は4t車まで"
+  },
+  {
+   "name": "Cホール",
+   "areaM2": 970,
+   "ceilingM": "4",
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "第一展示場（センタービル2階）。収容人員目安は約970人。基準時間使用料510,000円（税抜）。床荷重500kg/㎡。搬出入は4t車まで"
+  },
+  {
+   "name": "Dホール",
+   "areaM2": 1398,
+   "ceilingM": "4",
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "第一展示場（センタービル2階）。収容人員目安は約1,300人。基準時間使用料720,000円（税抜）。床荷重500kg/㎡。搬出入は4t車まで"
+  },
+  {
+   "name": "A～Dホール一括使用",
+   "areaM2": 4473,
+   "ceilingM": "4",
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "第一展示場（センタービル2階）。4ホールは同じ階に並び、組み合わせても一括でも使える。収容人員目安は約4,200人。基準時間使用料2,000,000円（税抜）"
+  },
+  {
+   "name": "Eホール",
+   "areaM2": 1984,
+   "ceilingM": "4",
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "第二展示場（1階）。収容人員目安は約2,000人。基準時間使用料1,100,000円（税抜）。床荷重1,500kg/㎡、照明1,200ルクス。搬出入の車両制限なし"
+  },
+  {
+   "name": "Fホール",
+   "areaM2": 1989,
+   "ceilingM": "4",
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "第二展示場（2階）。収容人員目安は約2,000人。基準時間使用料1,100,000円（税抜）。床荷重800kg/㎡、照明1,200ルクス。搬出入の車両制限なし。貨物エレベーター2基（積載3.5t）で搬入する"
+  },
+  {
+   "name": "E・Fホール一括使用",
+   "areaM2": 3973,
+   "ceilingM": "4",
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "第二展示場の2ホール一括。収容人員目安は約4,000人。基準時間使用料1,960,000円（税抜）"
+  },
+  {
+   "name": "A～Fホール一括使用",
+   "areaM2": 8446,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "第一・第二展示場の全ホール一括。収容人員目安は約8,200人。基準時間使用料3,800,000円（税抜）"
+  },
+  {
+   "name": "第1会議室",
+   "areaM2": 168,
+   "ceilingM": null,
+   "theater": null,
+   "school": 70,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "センタービル2階。定員70名（スクール形式、3名がけ）。全日（8時間）61,000円、3時間26,000円、超過1時間10,000円（税抜）"
+  },
+  {
+   "name": "第2会議室",
+   "areaM2": 252,
+   "ceilingM": null,
+   "theater": null,
+   "school": 100,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "センタービル2階。定員100名（スクール形式、3名がけ）。全日92,000円、3時間38,000円、超過1時間15,000円（税抜）。放送設備（有線マイク2本・ワイヤレスマイク2本）と天吊り式スクリーンが標準"
+  },
+  {
+   "name": "第3会議室",
+   "areaM2": 84,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": 30,
+   "standing": null,
+   "banquet": null,
+   "note": "センタービル2階。定員30名（コの字）。全日32,000円、3時間13,000円、超過1時間5,000円（税抜）"
+  },
+  {
+   "name": "第4会議室",
+   "areaM2": 84,
+   "ceilingM": null,
+   "theater": null,
+   "school": 40,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "センタービル2階。定員40名（スクール形式、3名がけ）。全日32,000円、3時間13,000円、超過1時間5,000円（税抜）"
+  },
+  {
+   "name": "第5会議室",
+   "areaM2": 84,
+   "ceilingM": null,
+   "theater": null,
+   "school": 40,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "センタービル2階。定員40名（スクール形式、3名がけ）。全日32,000円、3時間13,000円、超過1時間5,000円（税抜）"
+  },
+  {
+   "name": "第6会議室",
+   "areaM2": 336,
+   "ceilingM": null,
+   "theater": null,
+   "school": 180,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "センタービル2階。定員180名（スクール形式、3名がけ）。全日111,000円、3時間46,000円、超過1時間20,000円（税抜）。放送設備と天吊り式スクリーンが標準"
+  },
+  {
+   "name": "206号室",
+   "areaM2": 84,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "センタービル2階。定員40名。全日32,000円、3時間13,000円、超過1時間5,000円（税抜）"
+  },
+  {
+   "name": "207号室",
+   "areaM2": 84,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "センタービル2階。定員40名。全日32,000円、3時間13,000円、超過1時間5,000円（税抜）"
+  },
+  {
+   "name": "232号室",
+   "areaM2": 66,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "センタービル2階。定員25名（2025年10月時点の案内。2023年6月版は24名）。全日32,000円、3時間13,000円、超過1時間5,000円（税抜）"
+  },
+  {
+   "name": "特別会議室 Aルーム",
+   "areaM2": 63,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "センタービル3階。定員11名。全日38,000円、3時間16,000円、超過1時間6,000円（税抜）。A・B室共用の控え室がある"
+  },
+  {
+   "name": "特別会議室 Bルーム",
+   "areaM2": 63,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "センタービル3階。定員10名。全日38,000円、3時間16,000円、超過1時間6,000円（税抜）"
+  },
+  {
+   "name": "特別会議室 A・B一括",
+   "areaM2": null,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "センタービル3階。定員20名。全日76,000円、3時間32,000円、超過1時間12,000円（税抜）"
+  }
+ ],
+ "roomsSource": "https://www.trc-event.jp/hall/hall01.html ／ https://www.trc-event.jp/hall/hall02.html ／ https://www.trc-event.jp/hall/meeting.html ／ https://www.trc-event.jp/download/pdf/riyou_goannai_2023.pdf ／ https://www.trc-event.jp/download/pdf/kaigi_omote.pdf ／ https://www.trc-event.jp/download/pdf/saisoku.pdf",
+ "ops": {
+  "prevDaySetup": {
+   "text": "準備日・撤去日の展示場使用料は基準時間使用料の50%。準備・開催・撤去の日程は使用日の1年前から申し込める。準備日・撤去日の基準時間帯は空調を運転していないため、使う場合は1時間ごとの空調料がかかる（Aホールは冷房24,800円・暖房20,870円・換気4,500円、税抜）。",
+   "source": "https://www.trc-event.jp/download/pdf/saisoku.pdf"
+  },
+  "loadingHours": {
+   "text": "第一展示場は24時間の搬出入ができる。搬出入は必ず南側スロープの搬入出口から行い、駐車場と共有荷捌き場からは行えない。スロープは一方通行。第二展示場も24時間の搬出入ができ、西側の搬入出口から行う。会議室を展示会に使う場合は、事前に搬出入届で申請した搬出入だけができる。宅配便は使用期間中に使用ホールで受け取り、荷物の受取・発送の代行はしない（配送票に使用ホール・主催者名・受取人氏名・当日の連絡先を書く）。",
+   "source": "https://www.trc-event.jp/download/pdf/saisoku.pdf"
+  },
+  "vehicleRules": {
+   "text": "第一展示場は4t車までスロープから各ホールの搬出入口に横付けでき（勾配8分の1、車路幅4.5m）、ホール内への車両乗入れはできない（手押しの展示は可）。第二展示場は乗入れ可能な車両の重量制限がなく、大型トラックを直付けできる。Fホールへは貨物エレベーター2基（積載3.5t、H2,800×W2,000×D3,500）で運ぶ。南ゲートの高さ制限は4.2mで、車高3.6m超は事前に連絡する。展示場内でのフォークリフトなど動力荷役機械の使用は禁止。車両の留め置きは有料駐車場を使い、渋滞時は構内への入構を規制する。会議室を展示会に使う場合の搬出入エリアは高さ3.15mの車両まで。",
+   "source": "https://www.trc-event.jp/download/pdf/saisoku.pdf"
+  },
+  "parking": {
+   "text": "主催者・来場者が使える時間貸はP1立体駐車場（センタービル隣り、約360台、24時間）。高さ制限は屋内2.0m・屋外3.8m。料金は普通車（高さ2.0m未満）が30分260円、大型車（2.0m以上）が30分520円（税込、現金のみ、事前精算機あり）。P2第二立体駐車場は月極で入居企業専用。駐車料金の割引と事前予約はなく、満車時は入構を断ることがある。大型バスが駐車できる場所は構内にない。要配慮者用の駐車スペースはM3階に2台分。展示場の主催者向けに、後払いの一括券、サービス券（1時間券・2時間券）、短期定期券（1日あたり車高2.0m未満2,600円・2.0m以上5,200円、税抜）がある。収容台数は2023年2月現在。",
+   "source": "https://www.trc-event.jp/download/pdf/parking.pdf"
+  },
+  "waitingRooms": {
+   "text": "主催者の控え室にはセンタービル2階の会議室を使える（費用別途、詳細は相談）。センタービル3階の特別会議室（Aルーム・Bルーム、各63㎡）はVIPルーム向きで、A・B室共用の控え室がある。第二展示場は専用ロビーと占有の配膳室・雑用室を無料で使える。",
+   "source": "https://www.trc-event.jp/faq/"
+  },
+  "catering": {
+   "text": "ケータリング・お弁当・リフレッシュメントはグループ会社のテーアールシーサービスで手配でき、ケータリングは大東企業のプランも案内している。外部のケータリング会社も紹介してもらえる。飲食物の持込みもでき、保健所など官公庁への申請は主催者が行う。会議室は持込みできるエリアが一部に限られ、事前に担当者へ確認する。会議室内へのBGMなどの持込みは禁止。",
+   "source": "https://www.trc-event.jp/food/"
+  },
+  "restaurants": {
+   "text": "センタービル1階にタリーズコーヒー、2階にそば・ラーメン・エスニックなどの飲食店とお弁当屋がある。物流ビルB棟1階のレストラン「TRCクラブ アーコレード」は打ち上げ・懇親会に使え、最大250名まで対応し、貸切やマイクの利用は相談できる。平日ランチタイムは原則営業しているが、土日祝日は営業していない可能性がある。",
+   "source": "https://www.trc-inc.co.jp/premises/facility/"
+  }
+ },
+ "documents": [
+  {
+   "title": "東京流通センター利用のご案内（2023年6月1日現在）",
+   "url": "https://www.trc-event.jp/download/pdf/riyou_goannai_2023.pdf"
+  },
+  {
+   "title": "展示場使用細則（2026年4月1日改定）",
+   "url": "https://www.trc-event.jp/download/pdf/saisoku.pdf"
+  },
+  {
+   "title": "展示場利用ガイド",
+   "url": "https://www.trc-event.jp/download/pdf/hall_guide.pdf"
+  },
+  {
+   "title": "第一展示場（A〜Dホール）搬出入ガイド",
+   "url": "https://www.trc-event.jp/download/pdf/guide_abcd.pdf"
+  },
+  {
+   "title": "第二展示場（E・Fホール）搬出入ガイド",
+   "url": "https://www.trc-event.jp/download/pdf/guide_ef.pdf"
+  },
+  {
+   "title": "第一展示場（A〜Dホール）設備図",
+   "url": "https://www.trc-event.jp/download/pdf/setsubi_a-d.pdf"
+  },
+  {
+   "title": "第一展示場（A〜Dホール）白図",
+   "url": "https://www.trc-event.jp/download/pdf/1003_a-d200.pdf"
+  },
+  {
+   "title": "第一展示場（A〜Dホール）電気図面 コンセント",
+   "url": "https://www.trc-event.jp/download/pdf/concent_abcd.pdf"
+  },
+  {
+   "title": "第一展示場（A〜Dホール）電気図面 仮設盤",
+   "url": "https://www.trc-event.jp/download/pdf/temp_board_abcd.pdf"
+  },
+  {
+   "title": "第二展示場（Eホール）設備図",
+   "url": "https://www.trc-event.jp/download/pdf/setsubi_e.pdf"
+  },
+  {
+   "title": "第二展示場（Eホール）白図",
+   "url": "https://www.trc-event.jp/download/pdf/1003_e200.pdf"
+  },
+  {
+   "title": "第二展示場（Eホール）電気図面 コンセント",
+   "url": "https://www.trc-event.jp/download/pdf/concent_e.pdf"
+  },
+  {
+   "title": "第二展示場（Eホール）電気図面 仮設盤",
+   "url": "https://www.trc-event.jp/download/pdf/temp_board_e.pdf"
+  },
+  {
+   "title": "第二展示場（Fホール）設備図",
+   "url": "https://www.trc-event.jp/download/pdf/setsubi_f.pdf"
+  },
+  {
+   "title": "第二展示場（Fホール）白図",
+   "url": "https://www.trc-event.jp/download/pdf/1003_f200.pdf"
+  },
+  {
+   "title": "第二展示場（Fホール）電気図面 コンセント",
+   "url": "https://www.trc-event.jp/download/pdf/concent_f.pdf"
+  },
+  {
+   "title": "第二展示場（Fホール）電気図面 仮設盤",
+   "url": "https://www.trc-event.jp/download/pdf/temp_board_f.pdf"
+  },
+  {
+   "title": "備品単価表",
+   "url": "https://www.trc-event.jp/download/pdf/equipment_cost.pdf"
+  },
+  {
+   "title": "駐車場・駐車券のご案内（収容台数は2023年2月現在）",
+   "url": "https://www.trc-event.jp/download/pdf/parking.pdf"
+  },
+  {
+   "title": "会議室利用のご案内（2025年10月時点）",
+   "url": "https://www.trc-event.jp/download/pdf/kaigi_omote.pdf"
+  },
+  {
+   "title": "3階特別会議室 レイアウト図",
+   "url": "https://www.trc-event.jp/download/pdf/3f_meeting_140501.pdf"
+  },
+  {
+   "title": "会議室 平面図",
+   "url": "https://www.trc-event.jp/download/pdf/meeting.pdf"
+  },
+  {
+   "title": "会議室使用申込書（展示場付帯利用者専用）",
+   "url": "https://www.trc-event.jp/download/pdf/kaigi_riyo.pdf"
+  },
+  {
+   "title": "会議室（展示会利用）のご案内（2021年10月25日現在）",
+   "url": "https://www.trc-event.jp/hall/pdf/meeting_exhibition/meeting_exhibition.pdf"
+  },
+  {
+   "title": "会議室（展示会利用）搬出入ガイド",
+   "url": "https://www.trc-event.jp/hall/pdf/meeting_exhibition/carrying_guide.pdf"
+  },
+  {
+   "title": "会議室（展示会利用）搬出入届",
+   "url": "https://www.trc-event.jp/hall/pdf/meeting_exhibition/carrying_regist.pdf"
+  },
+  {
+   "title": "防火・防災上の安全対策実施要領",
+   "url": "https://www.trc-event.jp/download/pdf/bousai.pdf"
+  },
+  {
+   "title": "防災センター（鍵の貸出・返却場所）のご案内",
+   "url": "https://www.trc-event.jp/download/pdf/bousai_key.pdf"
+  },
+  {
+   "title": "Wi-Fiご利用案内（主催者専用）",
+   "url": "https://www.trc-event.jp/download/pdf/wi_fi.pdf"
+  },
+  {
+   "title": "NTT東日本 申込書",
+   "url": "https://www.trc-event.jp/download/pdf/ntt.pdf"
+  }
+ ],
+ "checkedAt": "2026-11-02",
+ "lat": 35.5779381,
+ "lng": 139.7513108,
+ "nearby": {
+  "convenience": [
+   {
+    "name": "ローソン 東京流通センター店",
+    "brand": "ローソン",
+    "distanceM": 0,
+    "walkMin": 1,
+    "hours": "24時間営業",
+    "address": "東京都大田区平和島6-1-1（センタービル1階）",
+    "verified": true,
+    "source": "https://www.areamarker.com/lawson/info/143194",
+    "note": "第一展示場と同じセンタービル1階。距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "ローソン TRC 物流ビルA棟店",
+    "brand": "ローソン",
+    "distanceM": 133,
+    "walkMin": 2,
+    "hours": "24時間営業",
+    "address": "東京都大田区平和島6-1-1（物流ビルA棟 北側1階）",
+    "verified": true,
+    "source": "https://www.areamarker.com/lawson/info/370079",
+    "note": "TRC構内。距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "ローソン TRC 南B棟店",
+    "brand": "ローソン",
+    "distanceM": 338,
+    "walkMin": 5,
+    "hours": "24時間営業",
+    "address": "東京都大田区平和島6-1-1（物流ビルB棟 南側1階）",
+    "verified": true,
+    "source": "https://www.areamarker.com/lawson/info/274588",
+    "note": "TRC構内。距離は公式の店舗位置で計算"
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "コピー＆プリントサービス（TRC センタービル1階）",
+    "brand": "TRC",
+    "distanceM": 0,
+    "walkMin": 1,
+    "hours": "平日 11:00-17:00／土日祝 不定期オープン",
+    "address": "東京都大田区平和島6-1-1 センタービル1階",
+    "verified": true,
+    "source": "https://www.trc-inc.co.jp/premises/facility/",
+    "note": "TRC構内のサービス施設。不定休"
+   },
+   {
+    "name": "アクセア 大森ララ店",
+    "brand": "アクセア",
+    "distanceM": 2498,
+    "walkMin": 32,
+    "hours": "平日 9:00-19:00／土日祝 休み",
+    "address": "〒143-0023 東京都大田区山王2-1-5 大森駅ビルララ1F",
+    "verified": true,
+    "source": "http://www.accea.co.jp/entry.html",
+    "note": "距離は住所の位置で計算。現金は使えず、クレジットカード・電子マネー・QRコード決済など。遠い"
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Seria イトーヨーカドー大森店",
+    "brand": "セリア",
+    "distanceM": 1488,
+    "walkMin": 19,
+    "hours": "10:00-21:00",
+    "address": "東京都大田区大森北2-13-1 イトーヨーカドー大森店 2F",
+    "verified": true,
+    "source": "https://shop.seria-group.com/seria/info/000002071",
+    "note": "距離は公式の店舗位置で計算。遠め"
+   },
+   {
+    "name": "Seria 西友大森店",
+    "brand": "セリア",
+    "distanceM": 1795,
+    "walkMin": 23,
+    "hours": "10:00-21:00",
+    "address": "東京都品川区南大井6-27-25 西友大森店 4F",
+    "verified": true,
+    "source": "https://shop.seria-group.com/seria/info/000001940",
+    "note": "距離は公式の店舗位置で計算。遠い"
+   }
+  ],
+  "donki": [
+   {
+    "name": "ドン・キホーテ BIGFUN平和島店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 1195,
+    "walkMin": 15,
+    "hours": "7:00-3:00",
+    "address": "東京都大田区平和島1-1-1",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=60",
+    "note": "距離は住所の位置で計算。ドン・キホーテ公式サイトの店舗名は「BIGFUN平和島店」"
+   },
+   {
+    "name": "ドン・キホーテ 京急蒲田店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 3099,
+    "walkMin": 39,
+    "hours": "8:00-23:00",
+    "address": "東京都大田区蒲田4-50-11 ウィングキッチン京急蒲田内",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=672",
+    "note": "距離は住所の位置で計算。ドン・キホーテ公式サイトの店舗名は「京急蒲田店」。遠い"
+   }
+  ]
+ },
+ "drinkDelivery": {
+  "available": true
+ },
+ "photo": {
+  "src": "/images/venues/tokyo-ryutsu-center.jpg",
+  "credit": "© Kamemaru2000 / CC BY-SA 3.0 · Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tokyo_ryutsu_center.JPG"
+ }
+}

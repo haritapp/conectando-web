@@ -1,0 +1,203 @@
+{
+ "slug": "tokyo-dome-hotel",
+ "name": "Tokyo Dome Hotel",
+ "address": "Tokyo 112-8562 1-3-61 Koraku, Bunkyo-ku, Tokyo",
+ "accessSummary": "About 2 min walk from the East Exit of Suidobashi Station (JR Sobu Line) / about 1 min walk from Exit A2 of Suidobashi Station (Toei Mita Line) / about 5 min walk from Exit 2 of Korakuen Station (Tokyo Metro Marunouchi Line and Namboku Line) / about 6 min walk from Exit 6 of Kasuga Station (Toei Oedo Line). By car, use the Nishi-Kanda or Iidabashi exit of the Metropolitan Expressway.",
+ "hours": null,
+ "notice": "The banquet plan use time is 2 hours (2 hours 30 minutes for the Saturday and Sunday only plan), and a basic audio and lighting fee is charged separately from the price. For meetings there is a weekday-only Meeting Plan (15-40 people; 2, 4 or 8 hours between 9:00 and 17:00). Lectures, press conferences, interviews and photo shoots are not covered by the Meeting Plan. High-speed internet in the banquet rooms is 16,500 yen (tax included) per line per day, and one line is charged even when it is used the day before for checks or for rehearsal.",
+ "rooms": [
+  {
+   "name": "Grand Banquet Hall Tenku (entire room)",
+   "note": "B1. 46.2m x 22.1m. Retractable 300-inch screen (6.9m x 6.2m); supports simultaneous interpretation equipment. Can be divided in 2 (A and B) or in 3 (South, Center and North). In the official table, \"formal dining\" is entered as banquet and \"buffet\" as standing (the same for every row)."
+  },
+  {
+   "name": "Grand Banquet Hall Tenku (foyer)",
+   "note": "B1. Can be divided into A (133㎡) and B (166㎡)."
+  },
+  {
+   "name": "Grand Banquet Hall Tenku (A)",
+   "note": "B1. Frontage 19.7m."
+  },
+  {
+   "name": "Grand Banquet Hall Tenku (B)",
+   "note": "B1. Frontage 25.5m."
+  },
+  {
+   "name": "Grand Banquet Hall Tenku (South)",
+   "note": "B1. Frontage 14.7m."
+  },
+  {
+   "name": "Grand Banquet Hall Tenku (Center)",
+   "note": "B1. Frontage 16.6m."
+  },
+  {
+   "name": "Grand Banquet Hall Tenku (North)",
+   "note": "B1. Frontage 14.7m."
+  },
+  {
+   "name": "Grand Banquet Hall Tenku (South + Center / Center + North)",
+   "note": "B1. Two adjacent rooms used joined together (one row in the official table)."
+  },
+  {
+   "name": "Small Banquet Rooms Rainbow (虹) and Color (彩)",
+   "note": "B1. Each room. Rainbow is 5.7m wide x 7.5m deep; Color is 6.0m wide x 7.5m deep. Classroom is 24 people in a hollow-square layout."
+  },
+  {
+   "name": "Small Banquet Rooms Radiance (輝) and Echo (響)",
+   "note": "B1. Each room. Radiance is 6.6m wide x 7.5m deep; Echo is 6.4m wide x 7.5m deep. Classroom is 24 people in a hollow-square layout."
+  },
+  {
+   "name": "Medium Banquet Hall Aurora (entire room)",
+   "note": "B1. 20.4m x 16.7m. 120-inch screen. Can be divided in 2 (East and West)."
+  },
+  {
+   "name": "Medium Banquet Hall Aurora (East)",
+   "note": "B1. Frontage 10.1m."
+  },
+  {
+   "name": "Medium Banquet Hall Aurora (West)",
+   "note": "B1. Frontage 10.1m."
+  },
+  {
+   "name": "Medium Banquet Hall Cynthia (entire room)",
+   "note": "B1. 24.9m x 13.6m. 2 projectors, 2 120-inch wide screens and 1 120-inch screen. Can be divided in 2 (South and North)."
+  },
+  {
+   "name": "Medium Banquet Hall Cynthia (foyer)",
+   "note": "B1. Foyer."
+  },
+  {
+   "name": "Medium Banquet Hall Cynthia (South)",
+   "note": "B1. Frontage 12.1m."
+  },
+  {
+   "name": "Medium Banquet Hall Cynthia (North)",
+   "note": "B1. Frontage 12.1m."
+  },
+  {
+   "name": "5F Small Banquet Rooms Auspicious (吉祥), Masago (真砂) and Hatsune (初音)",
+   "note": "5F. Each room. 9.7m x 7.2m. Can be divided in 2: West 4.7m / East 4.9m. Classroom is 36 people even in a hollow-square layout. Only Hatsune has a U-shape layout example for 30 people and a permanently installed 98-inch 4K display with HDMI port."
+  },
+  {
+   "name": "5F Small Banquet Room Horai (蓬莱)",
+   "note": "5F. 9.7m x 7.2m. Can be divided in 2: West 4.9m / East 4.7m. Classroom is 34 people in a hollow-square layout."
+  },
+  {
+   "name": "42F Sky Banquet Sirius",
+   "note": "42F. 7.8m x 21.2m. 2 projectors, 2 70-inch screens and 1 120-inch screen. HDMI port available."
+  },
+  {
+   "name": "42F Sky Banquet Aries, Orion and Pegasus",
+   "note": "42F. Each room. 7.8m x 14.0m. A projection screen, projector and HDMI port are permanently installed in Aries only. There is a layout example for a 36-person meeting."
+  }
+ ],
+ "ops": {
+  "parking": "There is a car park on B2 and B3. The fee is 400 yen per 30 minutes on weekdays and 500 yen per 30 minutes on Saturdays, Sundays, holidays and specified days (tax included), with no maximum charge. Vehicles are limited to 3.3-5.0m in length, 1.4-1.9m in width, 2.1m or less in height and 2.5t or less in weight; large buses and vehicles taller than 2.1m cannot enter. Parking cannot be reserved, and entry may be restricted when it is crowded, such as when an event is held at Tokyo Dome. The hotel car park is limited to users of the hotel's facilities. The parking fee service for banquet users differs by banquet, so ask the banquet staff.",
+  "waitingRooms": "The small banquet rooms on B1 (4 rooms: Rainbow, Color, Radiance and Echo, 45-49㎡ each) can also be used as waiting rooms for guests of honor. The layout example for Rainbow is a waiting room for 20 people.",
+  "catering": "The usage rules ask that food and drink not be ordered from outside the hotel or brought in.",
+  "restaurants": "With the weekday-only Meeting Plan, private rooms of the 6F dining restaurant \"Deux Mille\" can be used (April 1, 2026 to March 31, 2027). Salon 1 \"Soleil\" is 55,000 yen per room for up to 14 people, and Salon 2 \"Ciel\" is 35,000 yen per room for up to 8 people, for 3 hours between 10:00 and 16:00 (no extension). The price includes room charge, service charge and consumption tax, and comes with a screen, projector and PC extension cable. Reserve at least 3 days before the day of use. Lectures, press conferences, interviews and photo shoots are not covered."
+ },
+ "documents": [
+  {
+   "title": "Tenku Venue Data and Capacity Table (2025)"
+  },
+  {
+   "title": "B1 Small Banquet Rooms (Rainbow, Radiance, Color, Echo) Venue Data and Capacity Table (2025)"
+  },
+  {
+   "title": "Aurora Venue Data and Capacity Table (2025)"
+  },
+  {
+   "title": "Cynthia Venue Data and Capacity Table (2025)"
+  },
+  {
+   "title": "5F Small Banquet Rooms Venue Data and Capacity Table (2025)"
+  },
+  {
+   "title": "42F Sky Banquet Venue Data and Capacity Table (2025)"
+  },
+  {
+   "title": "Meeting Plan (Weekdays Only) Information Page"
+  },
+  {
+   "title": "Meeting Plan Layout Example: B1 Small Banquet Rooms (June 2024)"
+  },
+  {
+   "title": "Meeting Plan Layout Example: Deux Mille Private Rooms (June 2024)"
+  },
+  {
+   "title": "High-Speed Internet Service Guide (Banquet Rooms)"
+  },
+  {
+   "title": "CO₂ Zero MICE Option Guide (September 2025)"
+  },
+  {
+   "title": "CO₂ Zero MICE Option Price List (November 2022)"
+  },
+  {
+   "title": "Parking Guide (Fees and Vehicle Restrictions)"
+  },
+  {
+   "title": "EV Charger User Guide (March 2023)"
+  },
+  {
+   "title": "Usage Rules (in effect from April 1, 2024)"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "Lawson Tokyo Dome Hotel",
+    "hours": "Open 24 hours",
+    "note": "On the 2F inside the hotel (the hotel's official facility guide also lists it as 2F, open 24 hours). Because it is inside the hotel, the distance is set at 0 m and a 1-minute walk."
+   },
+   {
+    "name": "7-Eleven Bunkyo Korakuen 1-chome",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location. Multi-copy machine available."
+   },
+   {
+    "name": "7-Eleven Tokyo Dome City Meets Port",
+    "hours": "Open 24 hours",
+    "note": "Inside Tokyo Dome City. Distance is calculated from the official store location. Multi-copy machine available."
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "Accea Suidobashi",
+    "hours": "Weekdays 8:00-22:00 / Sat, Sun & holidays 10:00-19:00",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Accea Iidabashi",
+    "hours": "Weekdays 8:00-22:00 / Sat 10:00-19:00 / Closed Sun & holidays",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "DAISO Metro M Korakuen",
+    "hours": "10:00-21:00",
+    "note": "Distance is calculated from the official store location. Small store."
+   },
+   {
+    "name": "Can Do Iidabashi Lamla",
+    "hours": "Daily 10:00-21:00",
+    "note": "Distance is calculated from the official store location."
+   }
+  ],
+  "donki": [
+   {
+    "name": "Don Quijote Korakuen",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. The store name on the Don Quijote official website is \"Korakuen\"."
+   },
+   {
+    "name": "Don Quijote Akihabara",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. The store name on the Don Quijote official website is \"Akihabara\". Far."
+   }
+  ]
+ },
+ "photoCredit": "© Braveheart / CC BY-SA 4.0 · Wikimedia Commons"
+}

@@ -1,0 +1,251 @@
+{
+ "slug": "tokyo-ryutsu-center",
+ "name": "Tokyo Ryutsu Center (TRC)",
+ "address": "Tokyo 143-0006 6-1-1 Heiwajima, Ota-ku, Tokyo",
+ "accessSummary": "1 min walk from Ryutsu Center Station on the Tokyo Monorail (directly in front of the station) / about 10 min by monorail from Hamamatsucho Station, about 5-11 min from Haneda Airport, about 16 min from Tokyo Station by train and monorail, and about 15 min from Shinagawa Station / Keikyu Bus, get off at \"Ryutsu Center-mae\" (about 12 min from Omori Station, about 4 min from Heiwajima Station) / about 5 min each from Oi-minami IC on the Metropolitan Expressway Bayshore Route and Heiwajima IC on Route 1 Haneda Line / The First Exhibition Hall is on the 2nd floor of the 10-storey office building (Center Building) across from the station, and the Second Exhibition Hall is in the 2-storey building across from the station",
+ "hours": "The exhibition halls can in principle be used 24 hours a day, with a base time of 9:00-18:00. Beyond the base time, 15% of the base-time usage fee is charged per hour. It may not go as requested because of the events before and after, and use outside the base time must be notified in advance. The meeting rooms are open 6:30-22:30 (Center Building opening hours), with all-day (8 hours) and 3-hour fee categories",
+ "notice": "Reception for the exhibition halls starts 1 year before the desired date of use. A provisional reservation is held for 7 days from the day of application. The user must in principle be an organization with legal personality, and individuals only when they meet certain conditions. If the user cancels after the contract is concluded, a cancellation fee of 20% of the base-time usage fee applies up to 180 days before the start of use, 60% up to 90 days before, and 100% within 90 days. Event documents must be submitted by 2 weeks before the event. There is no advance storage of packages; they are received at the hall in use during the usage period. Cleaning to restore the premises to their original state is done by a designated contractor. Whether events with sound can be held is judged by their content, so consult in advance. Meeting rooms are accepted from the 1st of the month 3 months before (weekdays 9:00-17:00), Sundays and holidays are 20% higher, and cancellation costs half from the same date 1 month before the day of use. Using meeting rooms for exhibitions or sales events is charged separately, and reception starts from the 1st of the month 6 months before. (Source: Exhibition Hall Usage Rules revised April 1, 2026, exhibition hall usage flow, FAQ, meeting room usage guide as of October 2025, meeting rooms - exhibition use)",
+ "rooms": [
+  {
+   "name": "Hall A",
+   "note": "First Exhibition Hall (Center Building, 2F). Approximate capacity about 1,000 people. Base-time usage fee 590,000 yen (excluding tax). Floor load 500kg/㎡, lighting 1,400 lux. Load-in and load-out up to 4t trucks."
+  },
+  {
+   "name": "Hall B",
+   "note": "First Exhibition Hall (Center Building, 2F). Approximate capacity about 950 people. Base-time usage fee 490,000 yen (excluding tax). Floor load 500kg/㎡. Load-in and load-out up to 4t trucks."
+  },
+  {
+   "name": "Hall C",
+   "note": "First Exhibition Hall (Center Building, 2F). Approximate capacity about 970 people. Base-time usage fee 510,000 yen (excluding tax). Floor load 500kg/㎡. Load-in and load-out up to 4t trucks."
+  },
+  {
+   "name": "Hall D",
+   "note": "First Exhibition Hall (Center Building, 2F). Approximate capacity about 1,300 people. Base-time usage fee 720,000 yen (excluding tax). Floor load 500kg/㎡. Load-in and load-out up to 4t trucks."
+  },
+  {
+   "name": "Halls A-D combined",
+   "note": "First Exhibition Hall (Center Building, 2F). The 4 halls are lined up on the same floor and can be used in combination or all together. Approximate capacity about 4,200 people. Base-time usage fee 2,000,000 yen (excluding tax)."
+  },
+  {
+   "name": "Hall E",
+   "note": "Second Exhibition Hall (1F). Approximate capacity about 2,000 people. Base-time usage fee 1,100,000 yen (excluding tax). Floor load 1,500kg/㎡, lighting 1,200 lux. No vehicle restrictions for load-in and load-out."
+  },
+  {
+   "name": "Hall F",
+   "note": "Second Exhibition Hall (2F). Approximate capacity about 2,000 people. Base-time usage fee 1,100,000 yen (excluding tax). Floor load 800kg/㎡, lighting 1,200 lux. No vehicle restrictions for load-in and load-out. Goods are brought in by 2 freight elevators (3.5t capacity)."
+  },
+  {
+   "name": "Halls E and F combined",
+   "note": "The 2 halls of the Second Exhibition Hall combined. Approximate capacity about 4,000 people. Base-time usage fee 1,960,000 yen (excluding tax)."
+  },
+  {
+   "name": "Halls A-F combined",
+   "note": "All halls of the First and Second Exhibition Halls combined. Approximate capacity about 8,200 people. Base-time usage fee 3,800,000 yen (excluding tax)."
+  },
+  {
+   "name": "Meeting Room 1",
+   "note": "Center Building 2F. Capacity 70 (classroom style, 3 per desk). All day (8 hours) 61,000 yen, 3 hours 26,000 yen, overtime per hour 10,000 yen (excluding tax)."
+  },
+  {
+   "name": "Meeting Room 2",
+   "note": "Center Building 2F. Capacity 100 (classroom style, 3 per desk). All day (8 hours) 92,000 yen, 3 hours 38,000 yen, overtime per hour 15,000 yen (excluding tax). Public address equipment (2 wired microphones and 2 wireless microphones) and a ceiling-mounted screen are standard."
+  },
+  {
+   "name": "Meeting Room 3",
+   "note": "Center Building 2F. Capacity 30 (U-shape). All day (8 hours) 32,000 yen, 3 hours 13,000 yen, overtime per hour 5,000 yen (excluding tax)."
+  },
+  {
+   "name": "Meeting Room 4",
+   "note": "Center Building 2F. Capacity 40 (classroom style, 3 per desk). All day (8 hours) 32,000 yen, 3 hours 13,000 yen, overtime per hour 5,000 yen (excluding tax)."
+  },
+  {
+   "name": "Meeting Room 5",
+   "note": "Center Building 2F. Capacity 40 (classroom style, 3 per desk). All day (8 hours) 32,000 yen, 3 hours 13,000 yen, overtime per hour 5,000 yen (excluding tax)."
+  },
+  {
+   "name": "Meeting Room 6",
+   "note": "Center Building 2F. Capacity 180 (classroom style, 3 per desk). All day (8 hours) 111,000 yen, 3 hours 46,000 yen, overtime per hour 20,000 yen (excluding tax). Public address equipment and a ceiling-mounted screen are standard."
+  },
+  {
+   "name": "Room 206",
+   "note": "Center Building 2F. Capacity 40. All day (8 hours) 32,000 yen, 3 hours 13,000 yen, overtime per hour 5,000 yen (excluding tax)."
+  },
+  {
+   "name": "Room 207",
+   "note": "Center Building 2F. Capacity 40. All day (8 hours) 32,000 yen, 3 hours 13,000 yen, overtime per hour 5,000 yen (excluding tax)."
+  },
+  {
+   "name": "Room 232",
+   "note": "Center Building 2F. Capacity 25 (as stated in the guide as of October 2025; the June 2023 edition says 24). All day 32,000 yen, 3 hours 13,000 yen, overtime per hour 5,000 yen (excluding tax)."
+  },
+  {
+   "name": "Special Meeting Room A",
+   "note": "Center Building 3F. Capacity 11. All day 38,000 yen, 3 hours 16,000 yen, overtime per hour 6,000 yen (excluding tax). A waiting room shared by Rooms A and B is available."
+  },
+  {
+   "name": "Special Meeting Room B",
+   "note": "Center Building 3F. Capacity 10. All day 38,000 yen, 3 hours 16,000 yen, overtime per hour 6,000 yen (excluding tax)."
+  },
+  {
+   "name": "Special Meeting Rooms A and B combined",
+   "note": "Center Building 3F. Capacity 20. All day 76,000 yen, 3 hours 32,000 yen, overtime per hour 12,000 yen (excluding tax)."
+  }
+ ],
+ "ops": {
+  "prevDaySetup": "The exhibition hall usage fee for setup days and removal days is 50% of the base-time usage fee. Setup, event and removal dates can be applied for from 1 year before the day of use. Air conditioning is not running during the base time on setup and removal days, so an hourly air-conditioning fee applies if it is used (Hall A: cooling 24,800 yen, heating 20,870 yen, ventilation 4,500 yen, excluding tax).",
+  "loadingHours": "The First Exhibition Hall allows load-in and load-out 24 hours a day. Load-in and load-out must always use the loading entrance on the south slope, and cannot use the car park or the shared loading area. The slope is one-way. The Second Exhibition Hall also allows load-in and load-out 24 hours a day, using the loading entrance on the west side. When meeting rooms are used for an exhibition, only the load-in and load-out applied for in advance with a load-in/load-out notice is allowed. Courier packages are received at the hall in use during the usage period, and receiving and shipping on your behalf is not provided (write the hall in use, organizer name, recipient name and same-day contact on the shipping slip).",
+  "vehicleRules": "At the First Exhibition Hall, vehicles up to 4t can pull up alongside the loading entrance of each hall from the slope (gradient 1 in 8, road width 4.5m), and vehicles cannot be driven into the halls (hand-pushed exhibits are allowed). The Second Exhibition Hall has no weight limit for vehicles that can drive in, and large trucks can pull up directly. Goods are carried to Hall F by 2 freight elevators (3.5t capacity, H2,800 x W2,000 x D3,500). The height limit at the south gate is 4.2m, and for vehicles over 3.6m high, contact us in advance. The use of powered handling equipment such as forklifts inside the exhibition halls is prohibited. Use a paid car park to leave vehicles parked, and entry to the premises is restricted when there is congestion. When meeting rooms are used for an exhibition, the load-in and load-out area accepts vehicles up to 3.15m high.",
+  "parking": "The hourly car park available to organizers and visitors is the P1 multi-storey car park (next to the Center Building, about 360 spaces, 24 hours). The height limit is 2.0m indoors and 3.8m outdoors. The fee for standard cars (under 2.0m high) is 260 yen per 30 minutes, and for large vehicles (2.0m or higher) 520 yen per 30 minutes (tax included, cash only, advance payment machine available). The P2 Second Multi-storey Car Park is monthly parking only for tenant companies. There is no parking fee discount or advance reservation, and entry may be refused when full. There is no place on the premises where large buses can park. Parking spaces for people who need consideration are 2 spaces on M3F. For exhibition hall organizers, a deferred-payment bulk ticket, service tickets (1-hour and 2-hour tickets) and a short-term pass (per day 2,600 yen for vehicles under 2.0m high and 5,200 yen for 2.0m or higher, excluding tax) are available. Capacity is as of February 2023.",
+  "waitingRooms": "Meeting rooms on the 2F of the Center Building can be used as organizer waiting rooms (separate fee, consult for details). The special meeting rooms on the 3F of the Center Building (Room A and Room B, 63㎡ each) suit a VIP room, and have a waiting room shared by Rooms A and B. The Second Exhibition Hall has a dedicated lobby and exclusive catering preparation and utility rooms that can be used free of charge.",
+  "catering": "Catering, box lunches and refreshments can be arranged through the group company TRC Service, and for catering a Daito Kigyo plan is also offered. External catering companies can also be introduced. Bringing in food and drink is also allowed, and the organizer makes the application to public offices such as the public health center. Meeting rooms allow bringing in food and drink only in some areas, so check with the person in charge in advance. Bringing in background music and the like to the meeting rooms is prohibited.",
+  "restaurants": "The Center Building has Tully's Coffee on the 1st floor, and soba, ramen, ethnic and other restaurants and a box lunch shop on the 2nd floor. The restaurant \"TRC Club Accolade\" on the 1st floor of Distribution Building B can be used for after-parties and receptions, accommodates up to 250 people, and private hire and microphone use can be discussed. It is in principle open for lunch on weekdays, but may not be open on Saturdays, Sundays and holidays."
+ },
+ "documents": [
+  {
+   "title": "Tokyo Ryutsu Center Usage Guide (as of June 1, 2023)"
+  },
+  {
+   "title": "Exhibition Hall Usage Rules (revised April 1, 2026)"
+  },
+  {
+   "title": "Exhibition Hall Usage Guide"
+  },
+  {
+   "title": "First Exhibition Hall (Halls A-D) Load-in and Load-out Guide"
+  },
+  {
+   "title": "Second Exhibition Hall (Halls E and F) Load-in and Load-out Guide"
+  },
+  {
+   "title": "First Exhibition Hall (Halls A-D) Facility Plan"
+  },
+  {
+   "title": "First Exhibition Hall (Halls A-D) Blank Plan"
+  },
+  {
+   "title": "First Exhibition Hall (Halls A-D) Electrical Drawing: Outlets"
+  },
+  {
+   "title": "First Exhibition Hall (Halls A-D) Electrical Drawing: Temporary Distribution Boards"
+  },
+  {
+   "title": "Second Exhibition Hall (Hall E) Facility Plan"
+  },
+  {
+   "title": "Second Exhibition Hall (Hall E) Blank Plan"
+  },
+  {
+   "title": "Second Exhibition Hall (Hall E) Electrical Drawing: Outlets"
+  },
+  {
+   "title": "Second Exhibition Hall (Hall E) Electrical Drawing: Temporary Distribution Boards"
+  },
+  {
+   "title": "Second Exhibition Hall (Hall F) Facility Plan"
+  },
+  {
+   "title": "Second Exhibition Hall (Hall F) Blank Plan"
+  },
+  {
+   "title": "Second Exhibition Hall (Hall F) Electrical Drawing: Outlets"
+  },
+  {
+   "title": "Second Exhibition Hall (Hall F) Electrical Drawing: Temporary Distribution Boards"
+  },
+  {
+   "title": "Equipment Unit Price List"
+  },
+  {
+   "title": "Car Park and Parking Ticket Guide (capacity as of February 2023)"
+  },
+  {
+   "title": "Meeting Room Usage Guide (as of October 2025)"
+  },
+  {
+   "title": "3F Special Meeting Rooms Layout Plan"
+  },
+  {
+   "title": "Meeting Room Floor Plan"
+  },
+  {
+   "title": "Meeting Room Usage Application Form (for exhibition hall users only)"
+  },
+  {
+   "title": "Meeting Room (Exhibition Use) Guide (as of October 25, 2021)"
+  },
+  {
+   "title": "Meeting Room (Exhibition Use) Load-in and Load-out Guide"
+  },
+  {
+   "title": "Meeting Room (Exhibition Use) Load-in and Load-out Notice"
+  },
+  {
+   "title": "Fire and Disaster Prevention Safety Measures Implementation Guidelines"
+  },
+  {
+   "title": "Disaster Prevention Center (Key Loan and Return Location) Guide"
+  },
+  {
+   "title": "Wi-Fi Usage Guide (Organizers Only)"
+  },
+  {
+   "title": "NTT East Application Form"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "Lawson Tokyo Ryutsu Center",
+    "hours": "Open 24 hours",
+    "note": "On the 1st floor of the Center Building, the same as the First Exhibition Hall. Distance is calculated from the official store location."
+   },
+   {
+    "name": "Lawson TRC Distribution Building A",
+    "hours": "Open 24 hours",
+    "note": "On the TRC premises. Distance is calculated from the official store location."
+   },
+   {
+    "name": "Lawson TRC Minami Building B",
+    "hours": "Open 24 hours",
+    "note": "On the TRC premises. Distance is calculated from the official store location."
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "Copy & Print Service (TRC Center Building 1F)",
+    "hours": "Weekdays 11:00-17:00 / Sat, Sun & holidays open irregularly",
+    "note": "A service facility on the TRC premises. Irregular closing days."
+   },
+   {
+    "name": "Accea Omori Lala",
+    "hours": "Weekdays 9:00-19:00 / Closed Sat, Sun & holidays",
+    "note": "Distance is calculated from the address location. Cash cannot be used; credit card, electronic money, QR code payment and so on. Far."
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Seria Ito-Yokado Omori",
+    "hours": "10:00-21:00",
+    "note": "Distance is calculated from the official store location. Rather far."
+   },
+   {
+    "name": "Seria Seiyu Omori",
+    "hours": "10:00-21:00",
+    "note": "Distance is calculated from the official store location. Far."
+   }
+  ],
+  "donki": [
+   {
+    "name": "Don Quijote BIGFUN Heiwajima",
+    "hours": "7:00-3:00",
+    "note": "Distance is calculated from the address location. The store name on the Don Quijote official website is \"BIGFUN Heiwajima\"."
+   },
+   {
+    "name": "Don Quijote Keikyu Kamata",
+    "hours": "8:00-23:00",
+    "note": "Distance is calculated from the address location. The store name on the Don Quijote official website is \"Keikyu Kamata\". Far."
+   }
+  ]
+ },
+ "photoCredit": "© Kamemaru2000 / CC BY-SA 3.0 · Wikimedia Commons"
+}

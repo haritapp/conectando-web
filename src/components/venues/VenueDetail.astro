@@ -56,7 +56,8 @@ const hotels = (hotelData?.hotels ?? []).map((h) => ({
 const hotelsPage = lang === 'en' ? hotelData?.pageEn : hotelData?.pageJa;
 const title = t.detailTitle(name);
 const description = t.detailDesc(name);
-const areaPath = AREA_LABEL[v.area] ? areaColumnPathI(v.area, lang) : null;
+const areaPath = AREA_LABEL[v.area] ? areaColumnPathI(v.area, lang) : null; // コラムが無い地域は null（リンクなし）
+const areaName = AREA_LABEL[v.area] ?? '';
 ---
 
 <BaseLayout title={`${title} | Conectando`} rawTitle description={description}>
@@ -66,7 +67,7 @@ const areaPath = AREA_LABEL[v.area] ? areaColumnPathI(v.area, lang) : null;
     <header class="vd-head">
       <div class="vd-badges">
         <span class="vd-badge">{TYPE_LABEL[v.type]}</span>
-        {areaPath && <a class="vd-area" href={areaPath}>{AREA_LABEL[v.area]}</a>}
+        {areaPath ? <a class="vd-area" href={areaPath}>{areaName}</a> : areaName && <span class="vd-area">{areaName}</span>}
       </div>
       <h1 class="vd-h1">{name}</h1>
       {subName && <p class="vd-en" lang={lang === 'en' ? 'ja' : undefined}>{subName}</p>}

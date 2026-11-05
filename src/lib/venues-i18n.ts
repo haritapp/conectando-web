@@ -127,6 +127,8 @@ export const AREA_LABEL_I: Record<Lang, Record<string, string>> = {
     'kanda-suidobashi-venues': '神田・秋葉原・飯田橋・水道橋',
     'ueno-asakusa-venues': '上野・浅草',
     'odaiba-ariake-venues': 'お台場・有明',
+    'tama-venues': '多摩（八王子・立川）',
+    'east-tokyo-venues': '錦糸町・船堀（東京東部）',
     'yokohama-venues': '横浜',
     'chiba-venues': '千葉（幕張・舞浜）',
   },
@@ -142,6 +144,8 @@ export const AREA_LABEL_I: Record<Lang, Record<string, string>> = {
     'kanda-suidobashi-venues': 'Kanda / Akihabara / Iidabashi / Suidobashi',
     'ueno-asakusa-venues': 'Ueno / Asakusa',
     'odaiba-ariake-venues': 'Odaiba / Ariake',
+    'tama-venues': 'Tama (Hachioji & Tachikawa)',
+    'east-tokyo-venues': 'Kinshicho & Funabori (East Tokyo)',
     'yokohama-venues': 'Yokohama',
     'chiba-venues': 'Chiba (Makuhari / Maihama)',
   },
@@ -163,8 +167,9 @@ const AREA_COLUMN_EN: Record<string, string> = {
   'yokohama-venues': 'event-venues-in-yokohama',
   'chiba-venues': 'event-venues-in-chiba-makuhari-maihama',
 };
-export const areaColumnPathI = (area: string, lang: Lang) =>
-  lang === 'en' ? `/en/column/${AREA_COLUMN_EN[area]}/` : `/column/${area}/`;
+// コラムが無い地域（多摩・東京東部など）は null を返し、呼び出し側はリンクを出さず地域名だけ表示する
+export const areaColumnPathI = (area: string, lang: Lang): string | null =>
+  AREA_COLUMN_EN[area] ? (lang === 'en' ? `/en/column/${AREA_COLUMN_EN[area]}/` : `/column/${area}/`) : null;
 
 export const venuesRoot = (lang: Lang) => (lang === 'en' ? '/en/venues/' : '/venues/');
 export const venuePathI = (slug: string, lang: Lang) => `${venuesRoot(lang)}${slug}/`;

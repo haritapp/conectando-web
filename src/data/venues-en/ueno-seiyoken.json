@@ -1,0 +1,150 @@
+{
+ "slug": "ueno-seiyoken",
+ "name": "Ueno Seiyoken",
+ "address": "Tokyo 110-8715 4-58 Uenokoen, Taito-ku, Tokyo",
+ "accessSummary": "5 min walk from JR Ueno Station Park Exit / 5 min walk from Keisei Ueno Station Main Exit / 5 min walk from Tokyo Metro Ueno Station Exit 7 / 8 min walk from Toei Ueno-okachimachi Station Exit A3",
+ "hours": null,
+ "notice": "Banquet reservations are accepted from 1 year in advance. Banquet and meeting plans run for 2 hours, and the menu must be confirmed by 5 days before. Prices include tax and exclude the 10% service charge. Free Wi-Fi is available at the venue. Video equipment such as screens and projectors, and microphones, are provided for a fee.",
+ "rooms": [
+  {
+   "name": "Sakura-no-Ma (Cherry Blossom Room)",
+   "note": "3F. Large banquet room. Permanent stage."
+  },
+  {
+   "name": "Kiri-no-Ma (Paulownia Room)",
+   "note": "3F. Large banquet room. Windows on three sides."
+  },
+  {
+   "name": "Fuji-no-Ma (Wisteria Room)",
+   "note": "2F. Large banquet room."
+  },
+  {
+   "name": "Ume-no-Ma (Plum Room)",
+   "note": "2F. Medium banquet room. Windows on three sides."
+  },
+  {
+   "name": "Ayame-no-Ma (Iris Room)",
+   "note": "2F. Medium banquet room."
+  },
+  {
+   "name": "Take-no-Ma (Bamboo Room)",
+   "note": "2F. Medium banquet room."
+  },
+  {
+   "name": "Hall Ginkgo",
+   "note": "B1F. Hall for meetings, seminars and presentations."
+  },
+  {
+   "name": "Kiku-no-Ma (Chrysanthemum Room)",
+   "note": "3F. Small banquet room. Has a chandelier and a fireplace."
+  },
+  {
+   "name": "Kikyo-no-Ma (Balloon Flower Room)",
+   "note": "2F. Small banquet room."
+  },
+  {
+   "name": "Matsu-no-Ma (Pine Room)",
+   "note": "2F. Small banquet room."
+  },
+  {
+   "name": "Tsutsuji-no-Ma (Azalea Room)",
+   "note": "2F. Small banquet room."
+  },
+  {
+   "name": "Ran-no-Ma (Orchid Room)",
+   "note": "2F. Small banquet room."
+  }
+ ],
+ "ops": {
+  "parking": "There is a private parking lot with 39 spaces, right in front of the main restaurant building. It may be unavailable on some days, for example when full. If you are coming by chartered bus, contact the person in charge in advance (without prior contact, you may not be able to park depending on the situation on the day). To reach the private parking lot, go from Dobutsuen-dori along the road beside Gojo Tenjinsha Shrine.",
+  "restaurants": "The main building houses the restaurant \"Honten Grill\" (3 private rooms). It is open for lunch 11:00-15:00 (until 16:00 on Sat, Sun & holidays) and dinner 17:00-21:00 (dinner by reservation only), and is closed on Mondays (open if Monday is a holiday). The Premium Party Plan, which reserves the whole floor, is for 25 to 60 people, 2-hour exclusive use (17:30-21:00, with 90 minutes of free-flow drinks)."
+ },
+ "documents": [
+  {
+   "title": "Room List (Banquets and Meetings)"
+  },
+  {
+   "title": "Banquet Style: Banquet Menu (August 2026)"
+  },
+  {
+   "title": "Grill Premium Party Plan (25-60 guests, 2-hour exclusive use)"
+  },
+  {
+   "title": "Commemorative Ceremony and Celebration Plan"
+  },
+  {
+   "title": "Reunion, Graduation Party, and Farewell/Welcome Party Plan"
+  },
+  {
+   "title": "Lecture and Seminar (with meal) Plan"
+  },
+  {
+   "title": "After-party and Social Gathering Plan"
+  },
+  {
+   "title": "Table Manners Lesson Plan"
+  },
+  {
+   "title": "Access and Parking"
+  },
+  {
+   "title": "FAQ"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "7-Eleven Ueno Koen-mae",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "FamilyMart Ueno Nakamachi-dori",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "FamilyMart Ueno Station Iriya Exit",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "Kinko's Ueno",
+    "hours": "Weekdays 9:00-22:00 / Sat, Sun & holidays 10:00-18:00 (reception until 30 min before closing)",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Accea Ueno",
+    "hours": "Weekdays 8:00-22:00 / Sat, Sun & holidays 10:00-19:00",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "DAISO Matsuzakaya Ueno",
+    "hours": "10:00-18:30",
+    "note": "Distance is calculated from the address location. Small store inside a department store."
+   },
+   {
+    "name": "DAISO Takeya Okachimachi",
+    "hours": "9:00-21:00",
+    "note": "Distance is calculated from the address location. Small store."
+   }
+  ],
+  "donki": [
+   {
+    "name": "Don Quijote Okachimachi",
+    "hours": "9:00-1:00 (open every day)",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Don Quijote Ueno",
+    "hours": "9:00-4:00 (open every day)",
+    "note": "Distance is calculated from the address location."
+   }
+  ]
+ },
+ "photoCredit": "© 運転太郎 / CC BY 3.0 · Wikimedia Commons"
+}

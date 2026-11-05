@@ -1,0 +1,152 @@
+{
+ "slug": "tokyo-opera-city-concert-hall",
+ "name": "Tokyo Opera City Concert Hall",
+ "address": "Tokyo 163-1403 Tokyo Opera City Tower 3F, 3-20-2 Nishi-Shinjuku, Shinjuku-ku, Tokyo",
+ "accessSummary": "Within 5 min walk from the East Exit of Hatsudai Station (Keio New Line, through service to the Toei Shinjuku Line) (directly connected to the Tokyo Opera City building) / about 20 min by bus from the West Exit of Shibuya Station (Keio Bus Shibu 64, get off at \"Tokyo Opera City\"; Shibu 63 and Shibu 66, get off at \"Tokyo Opera City Minami\") / about 10 min by bus from the West Exit of Shinjuku Station (Keio Bus Juku 41 and Juku 45, get off at \"Hatagaya Fudoson\")",
+ "hours": "The halls are used by time slot. For both the Concert Hall and the Recital Hall: morning 9:00-12:00, afternoon 13:00-16:30 and evening 17:30-21:30. All-day use (9:00-21:30) is available for the Concert Hall only, and applies when the morning and afternoon are used for rehearsal and the evening for the performance. Exceeding the slot time incurs an overtime fee. If you want 2 performances in one day, consult in advance. The rehearsal rooms (large and small): morning 9:00-12:30, afternoon 13:30-17:00, evening 18:00-21:30 and all day 9:00-21:30.",
+ "notice": "The main use of the halls is classical music concerts in the Concert Hall and recitals and chamber music in the Recital Hall. After application, the content of the performance is reviewed and approved, and the contract is concluded when the \"Usage Approval and Invoice\" arrives. When the hall is used for a performance other than a music concert, an equipment fee and the necessary actual expenses are charged in addition to the usage fee. For applications, first check availability by phone between 10:00 and 18:00 on weekdays, then submit the usage application form. Applications are accepted from the 1st of the month 18 months before the month of use (from the 1st of the month 12 months before for the rehearsal rooms). The hall usage fee is paid 30% within 2 weeks after the approval arrives and the remainder by 90 days before the day of use (for the rehearsal rooms, the full amount within 2 weeks after arrival). Cancellation fees: for the hall, 30% of the usage fee from the day the approval arrives to 91 days before the day of use, and the full amount from 90 days before to the day itself (cancellation 1 year or more before the day of use is free); for the rehearsal rooms, 50% up to 14 days before and the full amount from 13 days before to the day itself. The capacity is strictly observed, and standing room and auxiliary seats cannot be used. The Concert Hall has all reserved seats, and the Recital Hall has all unreserved seats. Eating and drinking on the stage and in the auditorium, and unauthorized photography, audio recording and video recording are not allowed. Merchandise sales are subject to a sales commission. When pyrotechnic effects are used or special security is needed, notification to the relevant authorities is required. A meeting with the person in charge is held by 14 days before the performance. January 2 and 3 are charged at the Sunday and holiday usage fee. For the weekday column of the hall usage fee, the website price table and the usage fee comparison table say \"weekday\", while the equipment list PDF says \"weekdays and Saturdays\", so the treatment of Saturday differs between the materials. (Source: Hall usage regulations, rehearsal room usage regulations, hall usage fee table, hall usage fee table / equipment list)",
+ "rooms": [
+  {
+   "name": "Concert Hall: Takemitsu Memorial (3F)",
+   "note": "1,632 fixed seats (including 10 wheelchair spaces; 972 on the 1st floor, 332 on the 2nd-floor balcony plus 26 in front of the organ, and 302 on the 3rd-floor balcony). Using the extended stage reduces this by 63 seats to 1,569, and the 3rd row of the 1st floor becomes the front row. Hall dimensions are 20.0m x 41.1m on the 1st floor (auditorium depth 32.4m), 20.0m x 47.15m on the 2nd floor and 21.2m x 47.15m on the 3rd floor. Ceiling height is 27.6m at the longest point, 2.7-3.7m between the main floor and the 2nd-floor balcony, 2.4-2.64m at the 2nd-floor balcony and 3.0m at the 3rd-floor balcony. The stage is 17.1-19.5m wide x 9.0m deep, 162.6㎡. Reverberation time is 1.96 seconds when full, NC value 20. The foyer has a cloakroom, organizer's waiting room, same-day ticket office and buffet. Usage fees (revised July 1, 2026, tax included) on weekdays are 550,000 yen morning, 1,122,000 yen afternoon, 1,254,000 yen evening and 1,925,000 yen all day; on Sundays and holidays, 770,000 yen morning, 1,254,000 yen afternoon, 1,254,000 yen evening and 2,046,000 yen all day. Labor costs (within basic hours) for ticket-takers, ushers and cloakroom staff are included. The pipe organ is 55,000 yen for use."
+  },
+  {
+   "name": "Recital Hall (B1F)",
+   "note": "265 fixed seats (the number of seats cannot be increased or decreased). Main floor 19.6m x 13.8m, ceiling height 8.0m. The stage is 5.4m x 10.8m, 40cm high. Reverberation time is 1.2 seconds when full, NC value 25. The floor is wooden flooring (oak). Main uses are chamber music, recitals, small choirs and vocal recitals. Usage fees (revised July 1, 2026, tax included) on weekdays are 88,000 yen morning, 171,600 yen afternoon and 204,600 yen evening; on Sundays and holidays, 143,000 yen morning, 204,600 yen afternoon and 204,600 yen evening. Labor costs (within basic hours) for ticket-takers and ushers are included."
+  },
+  {
+   "name": "Large Rehearsal Room (B1F)",
+   "note": "Capacity about 100 people. Wooden flooring (oak), NC value 25. There is a Steinway D-274 (11,000 yen for use). The rest room (26㎡, with chairs and tables) and waiting room g (27㎡) are spaces dedicated to the Large Rehearsal Room. Usage fees (as of July 1, 2026, tax included) on weekdays are 19,800 yen morning (9:00-12:30), 33,000 yen afternoon (13:30-17:00), 44,000 yen evening (18:00-21:30) and 88,000 yen all day; on Saturdays, Sundays and holidays, 27,500 yen morning, 44,000 yen afternoon, 44,000 yen evening and 110,000 yen all day. The orchestra set (orchestra chairs, double bass chairs, conductor's music stand and music stands) is 11,000 yen."
+  },
+  {
+   "name": "Small Rehearsal Room (B1F)",
+   "note": "Capacity about 40 people. Wooden flooring (oak), NC value 25. There is a Yamaha semi-grand piano (5,500 yen for use). Usage fees (as of July 1, 2026, tax included) on weekdays are 9,900 yen morning (9:00-12:30), 16,500 yen afternoon (13:30-17:00), 22,000 yen evening (18:00-21:30) and 44,000 yen all day; on Saturdays, Sundays and holidays, 16,500 yen morning, 22,000 yen afternoon, 22,000 yen evening and 55,000 yen all day."
+  }
+ ],
+ "ops": {
+  "loadingHours": "The hall usage time includes the time for setup, load-in and load-out on the stage, in the dressing rooms, in the foyer and so on. Setup, dress rehearsals and rehearsals using only the stage are 50% of each slot fee. Load-in and load-out follow the performance preparation schedule decided in advance, and if it needs to change, consult the hall staff. Performance staff must submit a list of people entering the building in advance and must always enter and leave through the stage door within the usage time. The keys to the dressing rooms and waiting rooms are received from, and returned to, the security guard at the stage door by the person in charge of the performance. For the rehearsal rooms, consult in advance about load-in and load-out, because the load-in time and the number of vehicles are coordinated with other users. (Source: Hall usage regulations, hall usage fee table, hall usage fee table / equipment list, rehearsal room usage regulations)",
+  "vehicleRules": "The loading entrance is on the 1st floor, reached from Yamate-dori. The freight elevator has a maximum load of 4.6t (W2,400 x D3,400 x H2,650, for loading and unloading instruments and the like). The table lift rises and lowers to the height of the truck bed and has a maximum load of 2t (W2,600 x D4,100 x H1,000). The car park guide lists the entry limits for delivery vehicles (height 3.0m, length 6.7m, width 2.2m) and the dedicated cargo vehicle loading area on B3. The speed limit on the premises is 8 km/h or less. (Source: Concert Hall specifications and equipment, car park guide)",
+  "parking": "The B2 car park of the Tokyo Opera City building (400 spaces) is used. It is open 7:00-23:30, the fee is 300 yen per 30 minutes, and the maximum charge during the building's opening hours is 2,200 yen (outside opening hours, 300 yen per 30 minutes is charged separately). Vehicles that can enter are up to 2.1m high, 6.0m long and 2.2m wide. Closed days are January 1 and 2, and the building-wide closure days of the second Sunday of February and the first Sunday of August. There is a parking area reserved for people with disabilities. The rehearsal rooms have no dedicated car park; use a paid public car park. Hall visitors are given a parking discount ticket for 1 hour (600 yen worth) from doors-open until the start of the performance and during intermission (for the Concert Hall, at the buffets on the 1st and 2nd floors; for the Recital Hall, the hall staff handle it). (Source: Tokyo Opera City building access, car park guide, parking discounts and barrier-free information, rehearsal room usage regulations)",
+  "waitingRooms": "Concert Hall: dressing room A (3F, 49㎡, with piano), dressing room B (3F, 25㎡, with piano), dressing rooms C to F (3F, 25㎡ each), dressing room G (4F, 23㎡), dressing room H (4F, 23㎡, with piano), dressing room 1 (4F, 84㎡), dressing room 2 (4F, 71㎡) and the organizer's waiting room (foyer 3F, 10㎡). Recital Hall: waiting room a (B1F, 26㎡, with piano), waiting room b (B1F, 33㎡), waiting room c (B1F, 32㎡) and the organizer's waiting room (foyer B1F, 15㎡). These are included in the hall usage fee. Waiting rooms d (25㎡), e (18㎡) and f (21㎡) are on B1F, 1,650 yen each (tax included), and are reserved separately. The Large Rehearsal Room comes with a rest room and waiting room g. To use waiting rooms with the rehearsal rooms, consult in advance. (As of July 1, 2026. Source: Hall usage fee table / equipment list, rehearsal room (large / small) usage fee table / equipment list, rehearsal room specifications and price list)",
+  "catering": "Eating and drinking is allowed in the foyers (the Concert Hall has buffets on the 1st and 2nd floor foyers). Eating and drinking is not allowed on the stage or in the auditorium. Eating and drinking is also not allowed inside the rehearsal rooms. (Source: Hall usage regulations, FAQ, rehearsal room usage regulations)",
+  "restaurants": "The same Tokyo Opera City building has Japanese, Western, Chinese and ethnic restaurants, fast food, cafes, a convenience store, a supermarket and specialty shops on B1F, 1F and 2F. The observation restaurants on 53F and 54F can be used for meals, tea, banquets and weddings (by elevator from the 2nd-floor office lobby)."
+ },
+ "documents": [
+  {
+   "title": "Hall Usage Fee Table / Equipment List (as of July 1, 2026)"
+  },
+  {
+   "title": "Rehearsal Room (Large / Small) Usage Fee Table / Equipment List (as of July 1, 2026)"
+  },
+  {
+   "title": "Concert Hall / Recital Hall Usage Fee Comparison Table (revised July 1, 2026)"
+  },
+  {
+   "title": "Hall Usage Regulations"
+  },
+  {
+   "title": "Rehearsal Room Usage Regulations"
+  },
+  {
+   "title": "Concert Hall / Recital Hall Usage Application Form"
+  },
+  {
+   "title": "Rehearsal Room (Large / Small) Usage Application Form"
+  },
+  {
+   "title": "Concert Hall Seating Plan"
+  },
+  {
+   "title": "Concert Hall Stage Plan"
+  },
+  {
+   "title": "Concert Hall Floor Plan, 1st Floor"
+  },
+  {
+   "title": "Concert Hall Floor Plan, 2nd Floor"
+  },
+  {
+   "title": "Concert Hall Floor Plan, 3rd Floor"
+  },
+  {
+   "title": "Recital Hall Seating Plan"
+  },
+  {
+   "title": "Recital Hall Stage Plan"
+  },
+  {
+   "title": "Recital Hall Lighting and Sound Plan"
+  },
+  {
+   "title": "Tokyo Opera City Building Basement 1 Floor Plan (stage door, Recital Hall, rehearsal rooms)"
+  },
+  {
+   "title": "Large Rehearsal Room Floor Plan"
+  },
+  {
+   "title": "Small Rehearsal Room Floor Plan"
+  },
+  {
+   "title": "New National Theatre and Tokyo Opera City Building Car Park Guide"
+  },
+  {
+   "title": "Concert Hall Pipe Organ Stop List"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "FamilyMart Tokyo Opera City",
+    "hours": "7:00-22:00",
+    "note": "On B1F of Tokyo Opera City Tower (listed in the building's official shop guide). Opens from 8:00 on Sundays and holidays (building official). The address is inside Tokyo Opera City, the same as the venue. Distance is calculated from the address location (0 m)."
+   },
+   {
+    "name": "FamilyMart Opera City Sunken Garden",
+    "hours": "7:00-23:00",
+    "note": "The address is inside Tokyo Opera City, the same as the venue. Distance is calculated from the address location (0 m)."
+   },
+   {
+    "name": "FamilyMart Hatsudai Station North Exit",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "Accea Shinjuku Minamiguchi",
+    "hours": "Open continuously from Monday 8:00 to Saturday 19:00 (24 hours on weekdays), Sun & holidays 10:00-19:00",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Accea Shinjuku Building",
+    "hours": "Weekdays 8:00-21:00 / Sat, Sun & holidays 10:00-19:00",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Can Do Tokyo Opera City",
+    "hours": "Daily 11:00-21:00",
+    "note": "The address is inside Tokyo Opera City, the same as the venue. Distance is calculated from the address location (0 m)."
+   },
+   {
+    "name": "Can Do Yakuhiguchi Shinjuku Park Tower",
+    "hours": "Mon-Fri 9:00-20:00 / Sat, Sun & holidays 10:00-19:30",
+    "note": "A sales area inside a pharmacy. Distance is calculated from the address location (the Can Do official nearby-store display also shows it as 0.53 km from the Tokyo Opera City store)."
+   }
+  ],
+  "donki": [
+   {
+    "name": "Don Quijote Shinjuku Southeast Exit",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. Far."
+   },
+   {
+    "name": "Don Quijote Shinjuku Southeast Exit Annex",
+    "hours": "9:00-2:00",
+    "note": "Distance is calculated from the address location. Far."
+   }
+  ]
+ },
+ "photoCredit": "© Kakidai / CC BY-SA 4.0 · Wikimedia Commons"
+}

@@ -1,0 +1,370 @@
+{
+ "slug": "tokyo-kaikan",
+ "nameJa": "東京會舘",
+ "nameEn": "TOKYO KAIKAN",
+ "type": "hall",
+ "area": "marunouchi-nihonbashi-venues",
+ "address": "〒100-0005 東京都千代田区丸の内3-2-1",
+ "officialUrl": "https://www.kaikan.co.jp/",
+ "organizerUrl": "https://www.kaikan.co.jp/banquet/",
+ "bizintokyoSlug": "tokyo-kaikan",
+ "accessSummary": "JR京葉線 東京駅 6番出口 徒歩約3分（地下コンコースで直結）／JR有楽町駅 国際フォーラム口 徒歩約5分／JR東京駅 丸の内南口 徒歩約10分／東京メトロ千代田線 二重橋前〈丸の内〉駅・有楽町線 有楽町駅・日比谷線 日比谷駅、都営三田線 日比谷駅 B5出口 地下コンコースで直結",
+ "notice": "宴会場の使用時間は、設営から撤去までを含めて事前に打ち合わせた時間内。契約時間を超えると追加室料がかかり、次の宴会の都合で延長できない場合もある。申込金は見積額の10%を基準に提示され、見積概算額は契約で決めた期日までに前受金として支払う。有料人数は開催日の10日前までに連絡し、その後の変更は開催日前の最終平日の正午まで。正午を過ぎると最終決定の人数分を請求され、10日前の確定後に9日前から最終平日の正午までに10%以上減るときは、その10%以降の料金を請求される。取消料・日程変更料（日数は申し出の翌日から数える）は、181日以上前が申込金の全額、180〜121日前が見積額の20%、120〜91日前が30%、90〜61日前が40%、60〜31日前が50%、30〜11日前が60%、10〜2日前が80%、前日と当日が全額（いずれも実費諸費用を加える）。株主総会・賀詞交歓会など利用が集中する期間と長期の仮予約は、別の金額になる。装飾・装花・音響・照明・余興・音楽・レセプタント・引出物は東京會舘指定の委託会社を使う。ほかの会社を使うときは事前の了解が要り、手数料がかかることがある。主催者が直接頼んだ会社の搬入・搬出と、看板のサイズ・取付け方法・設置場所は東京會舘の指示に従い、立会いが必要と判断された場合は立会人件費が別にかかる。クロークは現金・貴重品・パソコンやスマートフォンなどの精密機器と、生ものを預かれない。本舘の出入口（1階正面玄関・東京商工会議所側・丸の内仲通り側・地下1階）は、平日10:00、土日祝8:30から営業終了まで開錠している。（出典：宴会場利用規約 2020年9月1日現在、アクセスのページ）",
+ "rooms": [
+  {
+   "name": "ローズ（全室）",
+   "areaM2": 1500,
+   "ceilingM": 7,
+   "theater": 2000,
+   "school": 1170,
+   "ushape": null,
+   "standing": 1800,
+   "banquet": 800,
+   "note": "3F。分割は1/3・1/2・2/3（図面ではWest・Center・East）"
+  },
+  {
+   "name": "ローズ 2/3",
+   "areaM2": 990,
+   "ceilingM": 7,
+   "theater": 1280,
+   "school": 750,
+   "ushape": null,
+   "standing": 800,
+   "banquet": 530,
+   "note": "3F"
+  },
+  {
+   "name": "ローズ 1/2",
+   "areaM2": 740,
+   "ceilingM": 7,
+   "theater": 900,
+   "school": 540,
+   "ushape": null,
+   "standing": 650,
+   "banquet": 380,
+   "note": "3F"
+  },
+  {
+   "name": "ローズ 1/3",
+   "areaM2": 500,
+   "ceilingM": 7,
+   "theater": 570,
+   "school": 320,
+   "ushape": null,
+   "standing": 350,
+   "banquet": 230,
+   "note": "3F"
+  },
+  {
+   "name": "ホワイエ（3F）",
+   "areaM2": 488,
+   "ceilingM": 3.3,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "3F。人数の設定なし（公式の表は面積と天井高のみ）"
+  },
+  {
+   "name": "サクラ（全室）",
+   "areaM2": 650,
+   "ceilingM": 5,
+   "theater": 820,
+   "school": 400,
+   "ushape": null,
+   "standing": 450,
+   "banquet": 300,
+   "note": "7F。1/2に分けて使える"
+  },
+  {
+   "name": "サクラ 1/2",
+   "areaM2": 309,
+   "ceilingM": 5,
+   "theater": 360,
+   "school": 150,
+   "ushape": null,
+   "standing": 200,
+   "banquet": 120,
+   "note": "7F"
+  },
+  {
+   "name": "ウィステリア",
+   "areaM2": 317,
+   "ceilingM": 5,
+   "theater": 400,
+   "school": 190,
+   "ushape": null,
+   "standing": 200,
+   "banquet": 120,
+   "note": "7F。天井高は図面PDFの値（スペック表は5.2m）"
+  },
+  {
+   "name": "ロイヤル",
+   "areaM2": 375,
+   "ceilingM": 5.2,
+   "theater": 460,
+   "school": 210,
+   "ushape": null,
+   "standing": 280,
+   "banquet": 150,
+   "note": "7F"
+  },
+  {
+   "name": "マグノリア",
+   "areaM2": 296,
+   "ceilingM": 4.7,
+   "theater": 280,
+   "school": 140,
+   "ushape": null,
+   "standing": 120,
+   "banquet": 110,
+   "note": "7F"
+  },
+  {
+   "name": "クインス",
+   "areaM2": 217,
+   "ceilingM": 5,
+   "theater": 240,
+   "school": 110,
+   "ushape": null,
+   "standing": 110,
+   "banquet": 90,
+   "note": "7F"
+  },
+  {
+   "name": "アイリス",
+   "areaM2": 118,
+   "ceilingM": 4.5,
+   "theater": null,
+   "school": null,
+   "ushape": 42,
+   "standing": 40,
+   "banquet": null,
+   "note": "7F。面積は図面PDFの値（スペック表は140㎡）。ロの字は図面のレイアウト例。図面にWest・Eastの区切り線がある"
+  },
+  {
+   "name": "アゼリア",
+   "areaM2": 140,
+   "ceilingM": 4.5,
+   "theater": null,
+   "school": null,
+   "ushape": 48,
+   "standing": 50,
+   "banquet": null,
+   "note": "7F。ロの字は図面のレイアウト例。図面にWest・Eastの区切り線がある"
+  },
+  {
+   "name": "バイオレット",
+   "areaM2": 51,
+   "ceilingM": 3.6,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "7F。人数の設定なし（公式の表は面積と天井高のみ）"
+  }
+ ],
+ "roomsSource": "https://www.kaikan.co.jp/banquet/room.html?view=all ／ https://www.kaikan.co.jp/banquet/3F.pdf ／ https://www.kaikan.co.jp/banquet/iris.pdf ／ https://www.kaikan.co.jp/banquet/wisteria.pdf",
+ "ops": {
+  "waitingRooms": {
+   "text": "3Fの大宴会場（ローズ）には、皇居を望む控え室を用意できる。7Fのアゼリア・アイリスは、控室として使うレイアウト例が図面にある。（出典：宴会場・スペック・フロアマップ、アゼリア・アイリスの図面）",
+   "source": "https://www.kaikan.co.jp/banquet/room.html?view=all"
+  },
+  "parking": {
+   "text": "本舘の車の利用者は、地下2階の機械式駐車場「丸の内二重橋ビル駐車場」（全170台、営業時間7:00〜23:00）を使う。東京會舘の利用客にはこの駐車場のサービス券を発行する。料金は丸の内パークイン共通で、0〜3.5時間は30分ごとに400円、3.5〜6時間は2,800円、6〜9.5時間は2,800円に30分ごと400円を加算、9.5〜24時間は5,600円（税込。24時間を過ぎると同じ料金を繰り返す）。車の規格は、特大型ハイルーフが全長5,300mm・全幅1,950mm・全高2,000mm・重量2,500kg（51台）、特中型ハイルーフが全長5,000mm（そのほかは同じ。21台）。全高はアクセスマップでは「2,000mm未満」。規格内でも入庫できない車種があり、規格を超える車は入れない。ミラーをたためない車、スペアタイヤ装着車、後付けのルーフキャリア・ルーフレール装着車、ピックアップトラックなどトラック形状の車、泥除け・アース装着車（テープ止めの了承があれば可）は入庫できない。規格を超える車は別の駐車場を案内するので、事前に東京會舘の本舘営業事務所へ連絡する。定期点検の休業日は、ほかの丸の内パークインを使う（近隣の丸の内パークインのサービス券は、1F玄関係か2Fフロントで発行）。（出典：丸の内パークイン駐車場のページ、アクセスのページ、アクセスマップ、丸の内二重橋ビル駐車場 車両規格）",
+   "source": "https://www.marunouchi.com/information/parking/"
+  },
+  "catering": {
+   "text": "飲食物の持込みと、東京會舘が用意した飲食物の持ち帰りは禁止。事前に東京會舘の了解があれば認められる場合がある。食物アレルギーは事前に営業担当者へ伝える。アレルゲンを除く対応は可能な限りで、同じ厨房で調理するため微量のアレルゲンが混ざることがある。（出典：宴会場利用規約 2020年9月1日現在）",
+   "source": "https://www.kaikan.co.jp/banquet/images/honkankiyaku200901.pdf"
+  },
+  "restaurants": {
+   "text": "本舘にはレストラン プルニエ、ローストビーフ＆グリル ロッシニ、ロッシニテラス、日本料理 八千代、鉄板焼 TOKYO KAIKAN 會、メインバーが入る。ペストリーショップ「スイーツ＆ギフト」もある。（出典：レストラン一覧）",
+   "source": "https://www.kaikan.co.jp/restaurant/index.html"
+  }
+ },
+ "documents": [
+  {
+   "title": "宴会場利用規約（2020年9月1日現在）",
+   "url": "https://www.kaikan.co.jp/banquet/images/honkankiyaku200901.pdf"
+  },
+  {
+   "title": "ローズ 図面（ファイルの日付 2025年11月）",
+   "url": "https://www.kaikan.co.jp/banquet/rose.pdf"
+  },
+  {
+   "title": "サクラ（全室） 図面（ファイルの日付 2025年9月）",
+   "url": "https://www.kaikan.co.jp/banquet/sakura.pdf"
+  },
+  {
+   "title": "サクラ（1/2） 図面（ファイルの日付 2025年5月）",
+   "url": "https://www.kaikan.co.jp/banquet/sakura_half.pdf"
+  },
+  {
+   "title": "ウィステリア 図面（ファイルの日付 2025年5月）",
+   "url": "https://www.kaikan.co.jp/banquet/wisteria.pdf"
+  },
+  {
+   "title": "ロイヤル 図面（ファイルの日付 2026年4月）",
+   "url": "https://www.kaikan.co.jp/banquet/images/royal.pdf"
+  },
+  {
+   "title": "マグノリア 図面（ファイルの日付 2025年1月）",
+   "url": "https://www.kaikan.co.jp/banquet/magnolia.pdf"
+  },
+  {
+   "title": "クインス 図面（ファイルの日付 2024年11月）",
+   "url": "https://www.kaikan.co.jp/banquet/quince.pdf"
+  },
+  {
+   "title": "アイリス 図面（ファイルの日付 2019年8月）",
+   "url": "https://www.kaikan.co.jp/banquet/iris.pdf"
+  },
+  {
+   "title": "アゼリア 図面（ファイルの日付 2019年8月）",
+   "url": "https://www.kaikan.co.jp/banquet/azalea.pdf"
+  },
+  {
+   "title": "バイオレット 図面（ファイルの日付 2020年5月）",
+   "url": "https://www.kaikan.co.jp/banquet/violet_2.pdf"
+  },
+  {
+   "title": "3Fフロア図（縮尺1/300、ファイルの日付 2019年3月）",
+   "url": "https://www.kaikan.co.jp/banquet/3F.pdf"
+  },
+  {
+   "title": "7Fフロア図（縮尺1/400、ファイルの日付 2019年3月）",
+   "url": "https://www.kaikan.co.jp/banquet/7F.pdf"
+  },
+  {
+   "title": "交通のご案内 アクセスマップ（日英併記、ファイルの日付 2025年2月）",
+   "url": "https://www.kaikan.co.jp/en/images/TokyoKaikanMAP_2502.pdf"
+  },
+  {
+   "title": "丸の内二重橋ビル駐車場 車両規格（ファイルの日付 2023年1月）",
+   "url": "https://www.kaikan.co.jp/nijubashi_garage.pdf"
+  }
+ ],
+ "checkedAt": "2026-11-02",
+ "lat": 35.677837,
+ "lng": 139.761429,
+ "nearby": {
+  "convenience": [
+   {
+    "name": "ローソン 新東京ビル",
+    "brand": "ローソン",
+    "distanceM": 140,
+    "walkMin": 2,
+    "hours": "7:00-23:00",
+    "address": "東京都千代田区丸の内3-3-1",
+    "verified": true,
+    "source": "https://www.areamarker.com/lawson/info/169213",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "ローソン 丸の内マイプラザ",
+    "brand": "ローソン",
+    "distanceM": 181,
+    "walkMin": 3,
+    "hours": "7:00-23:00",
+    "address": "東京都千代田区丸の内2-1-1",
+    "verified": true,
+    "source": "https://www.areamarker.com/lawson/info/170593",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "ローソン 丸の内パークビル",
+    "brand": "ローソン",
+    "distanceM": 182,
+    "walkMin": 3,
+    "hours": "7:00-23:00",
+    "address": "東京都千代田区丸の内2-6-1",
+    "verified": true,
+    "source": "https://www.areamarker.com/lawson/info/153011",
+    "note": "距離は公式の店舗位置で計算"
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "アクセア 銀座ファイブ店",
+    "brand": "アクセア",
+    "distanceM": 609,
+    "walkMin": 8,
+    "hours": "平日 10:00-20:00／土・日・祝 休み",
+    "address": "東京都中央区銀座5-1 銀座ファイブ2F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/map/ginzafive.html",
+    "note": "アクセアミニ（小型店）。現金不可（カード・電子マネー・QR決済）。距離は住所の位置で計算"
+   },
+   {
+    "name": "アクセア 京橋店",
+    "brand": "アクセア",
+    "distanceM": 631,
+    "walkMin": 8,
+    "hours": "平日 8:00-22:00／土・日・祝 10:00-19:00",
+    "address": "東京都中央区八重洲2-8-8 大星八重洲ビル1F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/map/kyobashimap.html",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "DAISO マロニエゲート銀座店",
+    "brand": "ダイソー",
+    "distanceM": 578,
+    "walkMin": 8,
+    "hours": "11:00-21:00",
+    "address": "東京都中央区銀座3-2-1 マロニエゲート銀座2 6階",
+    "verified": true,
+    "source": "https://www.daiso-sangyo.co.jp/shop/detail/009168",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "Can★Do 丸の内オアゾ店",
+    "brand": "キャンドゥ",
+    "distanceM": 833,
+    "walkMin": 11,
+    "hours": "月〜金 8:00-22:00／土・日・祝 9:00-21:00",
+    "address": "東京都千代田区丸の内1-6-4 丸の内オアゾ B1F",
+    "verified": true,
+    "source": "https://shopinfo.cando-web.co.jp/detail/shop-5550/",
+    "note": "距離は公式の店舗位置で計算"
+   }
+  ],
+  "donki": [
+   {
+    "name": "ドン・キホーテ 銀座本館",
+    "brand": "ドン・キホーテ",
+    "distanceM": 1120,
+    "walkMin": 14,
+    "hours": "24時間営業",
+    "address": "東京都中央区銀座8-10 銀座ナイン3号館",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=92",
+    "note": "遠め。距離は住所の位置で計算"
+   },
+   {
+    "name": "ピカソ赤坂店（ドン・キホーテ）",
+    "brand": "ドン・キホーテ",
+    "distanceM": 2202,
+    "walkMin": 28,
+    "hours": "7:00-3:00",
+    "address": "東京都港区赤坂3-11-14",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=289",
+    "note": "ドン・キホーテの別業態（公式サイトの店舗名は「ピカソ赤坂店」）。遠い。距離は住所の位置で計算"
+   }
+  ]
+ },
+ "drinkDelivery": {
+  "available": true
+ },
+ "photo": {
+  "src": "/images/venues/tokyo-kaikan.jpg",
+  "credit": "© 妖精書士 (talk) / Public domain · Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tokyo-kaikan.JPG"
+ }
+}

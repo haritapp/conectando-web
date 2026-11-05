@@ -1,0 +1,289 @@
+{
+ "slug": "tokyo-opera-city-concert-hall",
+ "nameJa": "東京オペラシティ コンサートホール",
+ "nameEn": "Tokyo Opera City Concert Hall",
+ "type": "hall",
+ "area": "shinjuku-venues",
+ "address": "〒163-1403 東京都新宿区西新宿3-20-2 東京オペラシティタワー3F",
+ "officialUrl": "https://www.operacity.jp/concert/",
+ "organizerUrl": "https://www.operacity.jp/concert/rental/",
+ "bizintokyoSlug": "tokyo-opera-city-concert-hall",
+ "accessSummary": "京王新線（都営新宿線乗り入れ）初台駅 東口 徒歩5分以内（東京オペラシティビルに直結）／渋谷駅西口からバス約20分（京王バス 渋64「東京オペラシティ」下車、渋63・渋66「東京オペラシティ南」下車）／新宿駅西口からバス約10分（京王バス 宿41・宿45「幡ヶ谷不動尊」下車）",
+ "notice": "ホールの主な用途は、コンサートホールがクラシック音楽のコンサート、リサイタルホールがリサイタル・室内楽。申込み後に公演内容を審査して承認し、「使用承認書兼請求書」の到達で契約が成立する。音楽会以外の公演に使うときは、使用料のほかに付帯設備費と必要な実費がかかる。申込みは平日10〜18時に電話で空きを確認してから使用申込書を出す。受付は使用月の18か月前の月の1日から（リハーサルルームは12か月前の1日から）。使用料は、ホールが承認書の到着後2週間以内に30%、使用日の90日前までに残りを払う（リハーサルルームは到着後2週間以内に全額）。取消料は、ホールが承認書の到達日から使用日の91日前まで使用料の30%、90日前から当日まで全額（使用日の1年以上前の取消しは無料）、リハーサルルームが14日前まで50%、13日前から当日まで全額。定員は厳守で、立見・補助席は使えない。コンサートホールは全席指定席、リサイタルホールは全席自由席。ステージと客席での飲食、無断の撮影・録音・録画はできない。物品販売は販売手数料がかかる。火気を使う演出や特別な警備が必要なときは、関係官庁への届出が要る。公演の14日前までに担当者と打合せをする。1月2日・3日は日・祝日の使用料になる。ホール使用料の平日の列は、Webの料金表と使用料比較表では「平日」、付帯設備表PDFでは「平日・土」と書かれていて、土曜の扱いが資料で異なる。（出典：ホール使用規程、リハーサルルーム使用規程、ホール使用料金表、ホール 使用料金表／付帯設備表）",
+ "hours": "ホールは区分制。コンサートホール・リサイタルホールとも、午前の部9:00〜12:00、午後の部13:00〜16:30、夜間の部17:30〜21:30。全日使用（9:00〜21:30）はコンサートホールのみで、午前・午後をリハーサル、夜間を公演に使う場合に適用する。区分の時間を超えると超過使用料がかかる。1日2公演を希望するときは相談する。リハーサルルーム（大・小）は、午前の部9:00〜12:30、午後の部13:30〜17:00、夜間の部18:00〜21:30、全日使用9:00〜21:30。",
+ "rooms": [
+  {
+   "name": "コンサートホール（タケミツ メモリアル・3F）",
+   "areaM2": null,
+   "ceilingM": null,
+   "theater": 1632,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "固定席1,632席（車いす席10席を含む。1階972席、2階バルコニー332席とオルガン前26席、3階バルコニー302席）。張出舞台を使うと63席減の1,569席になり、1階の3列目が最前列。ホール寸法は1階席20.0m×41.1m（客席奥行32.4m）、2階席20.0m×47.15m、3階席21.2m×47.15m。天井高は最長部27.6m、平土間〜2階バルコニー間2.7〜3.7m、2階バルコニー2.4〜2.64m、3階バルコニー3.0m。ステージは間口17.1〜19.5m×奥行9.0m、162.6㎡。残響は満席時1.96秒、NC値20。ホワイエにクローク・主催者控室・当日券売場・ビュッフェがある。使用料（2026年7月1日改定・税込）は、平日が午前550,000円・午後1,122,000円・夜間1,254,000円・全日1,925,000円、日・祝が午前770,000円・午後1,254,000円・夜間1,254,000円・全日2,046,000円。もぎり・場内案内・クロークの要員の人件費（基本時間内）を含む。パイプオルガンは使用料55,000円"
+  },
+  {
+   "name": "リサイタルホール（B1F）",
+   "areaM2": null,
+   "ceilingM": 8,
+   "theater": 265,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "固定席265席（座席数の増減はできない）。平土間19.6m×13.8m、天井高8.0m。ステージは5.4m×10.8m、高さ40cm。残響は満席時1.2秒、NC値25。床はフローリング（楢）。主な用途は室内楽、リサイタル、小合唱、独唱会。使用料（2026年7月1日改定・税込）は、平日が午前88,000円・午後171,600円・夜間204,600円、日・祝が午前143,000円・午後204,600円・夜間204,600円。もぎり・場内案内の要員の人件費（基本時間内）を含む"
+  },
+  {
+   "name": "大リハーサルルーム（B1F）",
+   "areaM2": 267,
+   "ceilingM": 3.2,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "定員100名程度。床はフローリング（楢）、NC値25。スタインウェイ D274型がある（使用11,000円）。休憩室（26㎡、椅子・テーブルあり）と控室g（27㎡）は大リハーサルルームの専用スペース。使用料（2026年7月1日現在・税込）は、平日が午前（9:00〜12:30）19,800円・午後（13:30〜17:00）33,000円・夜間（18:00〜21:30）44,000円・全日88,000円、土・日・祝が午前27,500円・午後44,000円・夜間44,000円・全日110,000円。オーケストラセット（オーケストラ椅子・コントラバス椅子・指揮譜面台・譜面台）は11,000円"
+  },
+  {
+   "name": "小リハーサルルーム（B1F）",
+   "areaM2": 90,
+   "ceilingM": 3,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "定員40名程度。床はフローリング（楢）、NC値25。ヤマハのセミグランドピアノがある（使用5,500円）。使用料（2026年7月1日現在・税込）は、平日が午前（9:00〜12:30）9,900円・午後（13:30〜17:00）16,500円・夜間（18:00〜21:30）22,000円・全日44,000円、土・日・祝が午前16,500円・午後22,000円・夜間22,000円・全日55,000円"
+  }
+ ],
+ "roomsSource": "https://www.operacity.jp/concert/rental/",
+ "ops": {
+  "loadingHours": {
+   "text": "ホールの使用時間には、ステージ・楽屋・ホワイエなどでの仕込み、搬入、搬出の時間も含まれる。ステージ上だけを使う仕込み・ゲネプロ・リハーサルは、各区分料金の50%。搬入・搬出は事前に決める公演準備スケジュールに沿って行い、変更するときはホール担当者に相談する。公演関係者は入館者名簿を事前に出し、必ず楽屋口から使用時間内に出入りする。楽屋・控室の鍵は、公演責任者が楽屋口の警備員から受け取って返す。リハーサルルームは、搬入時間帯や車の台数を他の利用者と調整するため、搬入・搬出を事前に相談する。（出典：ホール使用規程、ホール使用料金表、ホール 使用料金表／付帯設備表、リハーサルルーム使用規程）",
+   "source": "https://www.operacity.jp/concert/rental/hall/rule/"
+  },
+  "vehicleRules": {
+   "text": "搬入口は1階で、山手通りから進入する。搬出入用エレベーターは最大積載量4.6t（W2,400×D3,400×H2,650、楽器などの搬出入用）。テーブルリフターはトラックの荷台の高さに合わせて昇降し、最大積載量2t（W2,600×D4,100×H1,000）。駐車場案内には、納品車の進入制限（高さ3.0m・長さ6.7m・幅2.2m）と、B3の荷物車専用荷捌所が載っている。場内の制限速度は8km/h以下。（出典：コンサートホール仕様・付帯設備、駐車場のご案内）",
+   "source": "https://www.operacity.jp/concert/rental/hall/ch_spec/"
+  },
+  "parking": {
+   "text": "東京オペラシティビルの地下2階駐車場（400台）を使う。営業時間は7:00〜23:30、料金は30分300円で、ビル営業時間内の最大料金は2,200円（営業時間外は別途30分300円）。進入できる車は高さ2.1m・長さ6.0m・幅2.2mまで。休業日は1月1日・2日と、全館休館日の2月第2日曜日・8月第1日曜日。身体の不自由な方専用の駐車エリアがある。リハーサルルームの専用駐車場はなく、有料の一般駐車場を使う。ホールの来場者には、駐車料金1時間分（600円分）の割引券を、開場から開演までと休憩時に出す（コンサートホールは1階・2階のビュッフェ、リサイタルホールはホールスタッフが受付）。（出典：東京オペラシティビルのアクセス、駐車場のご案内、駐車場割引・バリアフリー等、リハーサルルーム使用規程）",
+   "source": "https://www.tokyooperacity.co.jp/shop/access.jsp"
+  },
+  "waitingRooms": {
+   "text": "コンサートホール：楽屋A（3F・49㎡・ピアノあり）、楽屋B（3F・25㎡・ピアノあり）、楽屋C〜F（3F・各25㎡）、楽屋G（4F・23㎡）、楽屋H（4F・23㎡・ピアノあり）、楽屋1（4F・84㎡）、楽屋2（4F・71㎡）、主催者控室（ホワイエ3F・10㎡）。リサイタルホール：控室a（B1F・26㎡・ピアノあり）、控室b（B1F・33㎡）、控室c（B1F・32㎡）、主催者控室（ホワイエB1F・15㎡）。ここまではホール使用料に含まれる。控室d（25㎡）・e（18㎡）・f（21㎡）はB1Fにあり、各1,650円（税込）で、別に予約する。大リハーサルルームには休憩室と控室gが付く。リハーサルルームで控室を使うときは相談する。（2026年7月1日現在。出典：ホール 使用料金表／付帯設備表、リハーサルルーム（大／小）使用料金表／付帯設備表、リハーサルルーム仕様・料金表）",
+   "source": "https://www.operacity.jp/concert/rental/download/pdf/fee-equipment01.pdf"
+  },
+  "catering": {
+   "text": "ホワイエ内は飲食できる（コンサートホールのホワイエ1階・2階にビュッフェがある）。ステージと客席での飲食はできない。リハーサルルーム内も飲食できない。（出典：ホール使用規程、よくあるご質問、リハーサルルーム使用規程）",
+   "source": "https://www.operacity.jp/concert/rental/hall/rule/"
+  },
+  "restaurants": {
+   "text": "同じ東京オペラシティビルのB1F・1F・2Fに、和洋中エスニックのレストラン、ファーストフード、カフェ、コンビニ、スーパー、専門ショップが入る。53F・54Fの展望レストランは、食事や喫茶、宴会、ウェディングに使える（2階オフィスロビーからエレベーター）。",
+   "source": "https://www.tokyooperacity.co.jp/shop/page.jsp?id=2"
+  }
+ },
+ "documents": [
+  {
+   "title": "ホール 使用料金表／付帯設備表（2026年7月1日現在）",
+   "url": "https://www.operacity.jp/concert/rental/download/pdf/fee-equipment01.pdf"
+  },
+  {
+   "title": "リハーサルルーム（大／小）使用料金表／付帯設備表（2026年7月1日現在）",
+   "url": "https://www.operacity.jp/concert/rental/download/pdf/fee-equipment02.pdf"
+  },
+  {
+   "title": "コンサートホール／リサイタルホール 使用料比較表（2026年7月1日改定）",
+   "url": "https://www.operacity.jp/topics/img/uploadImages/2026rentalfee.pdf"
+  },
+  {
+   "title": "ホール使用規程",
+   "url": "https://www.operacity.jp/concert/rental/hall/rule/"
+  },
+  {
+   "title": "リハーサルルーム使用規程",
+   "url": "https://www.operacity.jp/concert/rental/rehearsal/rule/"
+  },
+  {
+   "title": "コンサートホール／リサイタルホール 使用申込書",
+   "url": "https://www.operacity.jp/concert/rental/download/pdf/hall_application.pdf"
+  },
+  {
+   "title": "リハーサルルーム（大・小）使用申込書",
+   "url": "https://www.operacity.jp/concert/rental/download/pdf/rr_application.pdf"
+  },
+  {
+   "title": "コンサートホール 座席図",
+   "url": "https://www.operacity.jp/concert/rental/download/pdf/1_CH_seat.pdf"
+  },
+  {
+   "title": "コンサートホール 舞台平面図",
+   "url": "https://www.operacity.jp/concert/rental/download/pdf/6_CH_stage.pdf"
+  },
+  {
+   "title": "コンサートホール 平面図 1階",
+   "url": "https://www.operacity.jp/concert/rental/download/pdf/3_CH_1F.pdf"
+  },
+  {
+   "title": "コンサートホール 平面図 2階",
+   "url": "https://www.operacity.jp/concert/rental/download/pdf/4_CH_2F.pdf"
+  },
+  {
+   "title": "コンサートホール 平面図 3階",
+   "url": "https://www.operacity.jp/concert/rental/download/pdf/5_CH_3F.pdf"
+  },
+  {
+   "title": "リサイタルホール 座席図",
+   "url": "https://www.operacity.jp/concert/rental/download/pdf/7_RH_seat.pdf"
+  },
+  {
+   "title": "リサイタルホール 舞台平面図",
+   "url": "https://www.operacity.jp/concert/rental/download/pdf/8_RH_stage.pdf"
+  },
+  {
+   "title": "リサイタルホール 照明・音響図",
+   "url": "https://www.operacity.jp/concert/rental/download/pdf/9_RH_lighting_PA.pdf"
+  },
+  {
+   "title": "東京オペラシティビル 地下1階 平面図（楽屋口・リサイタルホール・リハーサルルーム）",
+   "url": "https://www.operacity.jp/concert/rental/download/pdf/2_CH_B1.pdf"
+  },
+  {
+   "title": "大リハーサルルーム 平面図",
+   "url": "https://www.operacity.jp/concert/rental/download/pdf/10_LRR.pdf"
+  },
+  {
+   "title": "小リハーサルルーム 平面図",
+   "url": "https://www.operacity.jp/concert/rental/download/pdf/11_SRR.pdf"
+  },
+  {
+   "title": "新国立劇場・東京オペラシティビル 駐車場のご案内",
+   "url": "https://www.tokyooperacity.co.jp/shop/pdfimage.jsp?id=1"
+  },
+  {
+   "title": "コンサートホール パイプオルガン ストップリスト",
+   "url": "https://www.operacity.jp/concert/facilities/ch/organ/pdf/disposition.pdf"
+  }
+ ],
+ "checkedAt": "2026-11-02",
+ "lat": 35.684101,
+ "lng": 139.685852,
+ "nearby": {
+  "convenience": [
+   {
+    "name": "ファミリーマート 東京オペラシティ店",
+    "brand": "ファミリーマート",
+    "distanceM": 0,
+    "walkMin": 1,
+    "hours": "7:00-22:00",
+    "address": "東京都新宿区西新宿3-20-2 東京オペラシティタワーB1",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/26504",
+    "note": "東京オペラシティタワーB1F（ビル公式のショップ案内に掲載）。日祝は8:00から（ビル公式）。住所が会場と同じ東京オペラシティ内。距離は住所の位置で計算（0m）"
+   },
+   {
+    "name": "ファミリーマート オペラシティサンクンガーデン店",
+    "brand": "ファミリーマート",
+    "distanceM": 0,
+    "walkMin": 1,
+    "hours": "7:00-23:00",
+    "address": "東京都新宿区西新宿三丁目20-2",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/24754",
+    "note": "住所が会場と同じ東京オペラシティ内。距離は住所の位置で計算（0m）"
+   },
+   {
+    "name": "ファミリーマート 初台駅北口店",
+    "brand": "ファミリーマート",
+    "distanceM": 276,
+    "walkMin": 4,
+    "hours": "24時間営業",
+    "address": "東京都渋谷区本町1-4-15",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/19075",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "アクセア 新宿南口店",
+    "brand": "アクセア",
+    "distanceM": 894,
+    "walkMin": 12,
+    "hours": "月曜8:00〜土曜19:00は通し営業（平日24時間）、日祝10:00-19:00",
+    "address": "東京都新宿区西新宿3-1-4 第2佐山ビル1F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/map/shinjukuminami.html",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "アクセア 新宿ビルディング店",
+    "brand": "アクセア",
+    "distanceM": 1276,
+    "walkMin": 16,
+    "hours": "平日8:00-21:00／土日祝10:00-19:00",
+    "address": "東京都新宿区西新宿1-8-1 新宿ビルディング地下2階",
+    "verified": true,
+    "source": "https://www.accea.co.jp/map/shinjuku_building.html",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Can★Do 東京オペラシティ店",
+    "brand": "キャンドゥ",
+    "distanceM": 0,
+    "walkMin": 1,
+    "hours": "毎日 11:00-21:00",
+    "address": "東京都新宿区西新宿3-20-2 東京オペラシティ1階",
+    "verified": true,
+    "source": "https://shopinfo.cando-web.co.jp/detail/shop-5390/",
+    "note": "住所が会場と同じ東京オペラシティ内。距離は住所の位置で計算（0m）"
+   },
+   {
+    "name": "Can★Do 薬ヒグチ新宿パークタワー店",
+    "brand": "キャンドゥ",
+    "distanceM": 533,
+    "walkMin": 7,
+    "hours": "月〜金 9:00-20:00／土・日・祝 10:00-19:30",
+    "address": "東京都新宿区西新宿3-7-1 新宿パークタワービル 地下1階 薬ヒグチ新宿パークタワー店内",
+    "verified": true,
+    "source": "https://shopinfo.cando-web.co.jp/detail/shop-2677/",
+    "note": "薬局店内の売場。距離は住所の位置で計算（Can★Do公式の近隣店舗表示でも東京オペラシティ店から0.53km）"
+   }
+  ],
+  "donki": [
+   {
+    "name": "ドン・キホーテ 新宿東南口店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 1617,
+    "walkMin": 21,
+    "hours": "24時間営業",
+    "address": "東京都新宿区新宿3丁目36-16",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=449",
+    "note": "距離は住所の位置で計算。遠い"
+   },
+   {
+    "name": "ドン・キホーテ 新宿東南口別館",
+    "brand": "ドン・キホーテ",
+    "distanceM": 1699,
+    "walkMin": 22,
+    "hours": "9:00-2:00",
+    "address": "東京都新宿区新宿3丁目35-16",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=709",
+    "note": "距離は住所の位置で計算。遠い"
+   }
+  ]
+ },
+ "drinkDelivery": {
+  "available": true
+ },
+ "photo": {
+  "src": "/images/venues/tokyo-opera-city-concert-hall.jpg",
+  "credit": "© Kakidai / CC BY-SA 4.0 · Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:2018_Tokyo_Opera_City_Tower.jpg"
+ }
+}

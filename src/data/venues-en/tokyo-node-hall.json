@@ -1,0 +1,137 @@
+{
+ "slug": "tokyo-node-hall",
+ "name": "TOKYO NODE HALL",
+ "address": "Tokyo 105-5501 Toranomon Hills Station Tower 46F, 2-6-2 Toranomon, Minato-ku, Tokyo",
+ "accessSummary": "Directly connected to Toranomon Hills Station (Tokyo Metro Hibiya Line) / connected to Toranomon Station (Ginza Line) by an underground passage. The entrance is on the 8F of Toranomon Hills Station Tower (via the shuttle elevator from the 7F Sky Lobby, or the C elevator). From 8F, take the elevator for the upper floors to 45F, then the escalator or the EAST elevator from 45F to 46F",
+ "hours": "Hall rental fees are set by time slot (excluding tax, as of April 2024): 9:00-21:00 is 2,200,000 yen, 9:00-18:00 is 1,900,000 yen and 12:00-21:00 is 2,000,000 yen; an extension is 270,000 yen per hour. For use between 21:00 and 9:00 the next day, whether for preparation, setup or the event itself, the venue fee is 50% off. Rooms (Room A to F) have a single slot of 9:00-21:00; an extension per hour is 8,000 yen for Rooms A and B and 4,000 yen for Rooms C to F",
+ "notice": "To use or rent a space, apply through the inquiry form (enter the desired date, purpose and expected size). If the seating layout of the hall is changed, a separate setup fee applies. Cancellation after submitting the venue use application is subject to a cancellation fee: for the hall, 10% up to 1 year before, 30% up to 6 months before, 50% up to 3 months before, 70% up to 1 month before, and 100% after 1 month before (for rooms, 100% after 1 month before). Equipment, facilities, services, catering and so on that have already been arranged may also be charged. GALLERY A/B/C accept only long-term events (about 3 months or longer), and SKY GARDEN & POOL is not currently available for rent. The whole of TOKYO NODE, including the terrace, is non-smoking. (Source: Venue price list as of April 2024, inquiry form for space use, ACCESS & INFORMATION)",
+ "rooms": [
+  {
+   "name": "TOKYO NODE HALL (46F)",
+   "note": "Soundproof structure with a 3-step movable tiered floor that supports theater, classroom, party and other formats. The stage is W16 x D4-8.5m. There is a car lift that can bring in large exhibits such as automobiles. The seat count is 338 on the floor plan and price list; the facility page says about 330 seated."
+  },
+  {
+   "name": "Room A (46F)",
+   "note": "Capacity 15. 9:00-21:00 100,000 yen, extension 8,000 yen per hour (excluding tax, as of April 2024)."
+  },
+  {
+   "name": "Room B (46F)",
+   "note": "Capacity 15. 9:00-21:00 100,000 yen, extension 8,000 yen per hour (excluding tax, as of April 2024)."
+  },
+  {
+   "name": "Room C (46F)",
+   "note": "Capacity 6. 9:00-21:00 50,000 yen, extension 4,000 yen per hour (excluding tax, as of April 2024)."
+  },
+  {
+   "name": "Room D (46F)",
+   "note": "Capacity 8. 9:00-21:00 50,000 yen, extension 4,000 yen per hour (excluding tax, as of April 2024)."
+  },
+  {
+   "name": "Room E (46F)",
+   "note": "Capacity 6. 9:00-21:00 50,000 yen, extension 4,000 yen per hour (excluding tax, as of April 2024)."
+  },
+  {
+   "name": "Room F (46F)",
+   "note": "Capacity 6. 9:00-21:00 50,000 yen, extension 4,000 yen per hour (excluding tax, as of April 2024)."
+  },
+  {
+   "name": "GALLERY A (45F)",
+   "note": "Capacity about 138. Accepted only for long-term events (about 3 months or longer)."
+  },
+  {
+   "name": "GALLERY B (45F)",
+   "note": "Capacity about 484. Accepted only for long-term events (about 3 months or longer)."
+  },
+  {
+   "name": "GALLERY C (45F)",
+   "note": "Capacity about 128. Accepted only for long-term events (about 3 months or longer)."
+  },
+  {
+   "name": "TOKYO NODE CAFE interior (8F)",
+   "note": "Normally 63 seats. Private hire is within normal opening hours (11:00-22:00): 60 minutes for preparation, 30 minutes for reception and 120 minutes for the event (210 minutes in total). Minimum guarantee for hiring the whole interior from 450,000 yen (tax included; varies in certain months), plus a separate private-hire fee from 55,000 yen."
+  },
+  {
+   "name": "TOKYO NODE CAFE terrace (8F)",
+   "note": "Normally 34 seats. Private hire is standing, up to 50 people."
+  }
+ ],
+ "ops": {
+  "loadingHours": "For delivery of goods, contacting the Toranomon Hills Station Tower Logistics Center (tel. 03-6206-7840) is advised. The 46F hall has a car lift that can bring in large exhibits such as automobiles. (Source: Toranomon Hills access, 46F/47F floor plan)",
+  "parking": "The Station Tower car park is mechanical, open every day 0:00-24:00, at 200 yen per 15 minutes. Vehicles are limited to length 5.3m, width 2.05m, height 1.65 to 2.1m, minimum ground clearance 70mm and weight up to 2.5t. For TOKYO NODE, enter from 1F and use the B3 car park, then take the \"C elevator\" up to 8F. There is no car park or drop-off point for sightseeing buses. The number of spaces for event organizers is limited, so check with the event consultation desk. (Source: Toranomon Hills access, TOKYO NODE ACCESS & INFORMATION)",
+  "catering": "The restaurants and cafes inside TOKYO NODE provide catering services, and a tasting of them was held at the HALL preview on May 11, 2026. (Source: TOKYO NODE ANNOUNCEMENT 2026 TOKYO NODE HALL preview)",
+  "restaurants": "There are 4 restaurants inside TOKYO NODE (KEI Collection PARIS and apothéose on 49F, TOKYO NODE DINING on 45F, and TOKYO NODE CAFE on 8F)."
+ },
+ "documents": [
+  {
+   "title": "TOKYO NODE Venue Price List (as of April 2024)"
+  },
+  {
+   "title": "46F/47F Floor Plan (TOKYO NODE HALL)"
+  },
+  {
+   "title": "45F Floor Plan (GALLERY A/B/C)"
+  },
+  {
+   "title": "8F Floor Plan (TOKYO NODE CAFE and Volumetric Video Studio)"
+  },
+  {
+   "title": "TOKYO NODE CAFE Private Hire Floor Plan"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "Lawson Toranomon 2-chome Tower",
+    "hours": "7:00-22:00",
+    "note": "Distance is calculated from the address location. A store inside a building; it has not been confirmed whether the general public can enter."
+   },
+   {
+    "name": "FamilyMart Toranomon Twin Building",
+    "hours": "8:00-20:00 (closed Sat, Sun & holidays; may close for building reasons such as the year-end and New Year holidays)",
+    "note": "Distance is calculated from the official store location. A store inside a building; it has not been confirmed whether the general public can enter."
+   },
+   {
+    "name": "FamilyMart Toranomon Hills",
+    "hours": "7:00-23:00",
+    "note": "Distance is calculated from the official store location. A store inside a building; it has not been confirmed whether the general public can enter."
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "Kinko's Toranomon",
+    "hours": "Weekdays 9:00-20:00 / Closed Sat, Sun & holidays (full-service reception until 30 min before closing)",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Accea Toranomon",
+    "hours": "Open 24 hours on weekdays (Monday 8:00 to Saturday 19:00) / Sat until 19:00, Sun & holidays 10:00-19:00",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Can Do Shiroyama Hills",
+    "hours": "Daily 9:00-23:00",
+    "note": "Distance is calculated from the official store location. A store inside a building; it has not been confirmed whether the general public can enter."
+   },
+   {
+    "name": "Watts Shiodome Shiosite",
+    "hours": "8:00-20:30 (Sat, Sun & holidays 10:00-20:00)",
+    "note": "Distance is calculated from the address location. Far."
+   }
+  ],
+  "donki": [
+   {
+    "name": "Picasso Akasaka (Don Quijote)",
+    "hours": "7:00-3:00",
+    "note": "Distance is calculated from the address location. A different Don Quijote store format (the official site lists the store name as \"Picasso Akasaka\"). Far."
+   },
+   {
+    "name": "Don Quijote Roppongi",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. Far."
+   }
+  ]
+ },
+ "photoCredit": "© Syced / CC0 · Wikimedia Commons"
+}

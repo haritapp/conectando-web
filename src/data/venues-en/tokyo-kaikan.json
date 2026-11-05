@@ -1,0 +1,175 @@
+{
+ "slug": "tokyo-kaikan",
+ "name": "TOKYO KAIKAN",
+ "address": "Tokyo 100-0005 3-2-1 Marunouchi, Chiyoda-ku, Tokyo",
+ "accessSummary": "About 3 min walk from Exit 6 of Tokyo Station (JR Keiyo Line; directly connected by the underground concourse) / about 5 min walk from the International Forum Exit of JR Yurakucho Station / about 10 min walk from the Marunouchi South Exit of JR Tokyo Station / directly connected by the underground concourse from Nijubashimae <Marunouchi> Station (Tokyo Metro Chiyoda Line), Yurakucho Station (Yurakucho Line) and Hibiya Station (Hibiya Line), and from Exit B5 of Hibiya Station (Toei Mita Line)",
+ "hours": null,
+ "notice": "The banquet room use time is the time agreed in advance, including setup through removal. If the contracted time is exceeded, an additional room charge applies, and an extension may not be possible because of the next banquet. The application deposit is presented on the basis of 10% of the estimate, and the estimated amount is paid as an advance payment by the date set in the contract. The number of paying guests must be reported by 10 days before the event, and changes after that are accepted until noon on the last weekday before the event. After noon, the number of guests finally decided is charged, and if the number falls by 10% or more between 9 days before and noon on the last weekday before the event after the number was confirmed 10 days before, charges are billed from that 10% onward. Cancellation and rescheduling fees (days are counted from the day after the request) are: 181 days or more before, the full application deposit; 180-121 days before, 20% of the estimate; 120-91 days before, 30%; 90-61 days before, 40%; 60-31 days before, 50%; 30-11 days before, 60%; 10-2 days before, 80%; the day before and the day of the event, the full amount (actual expenses are added in every case). Peak periods such as shareholders' meetings and New Year's greeting events, and long-term provisional reservations, are subject to different amounts. For decoration, flowers, sound, lighting, entertainment, music, receptionists and gifts, a subcontractor designated by Tokyo Kaikan is used. Using another company requires prior consent, and a fee may be charged. Load-in and load-out by companies the organizer hired directly, and the size, mounting method and placement of signs, follow Tokyo Kaikan's instructions, and if attendance is judged necessary, attendant labor costs are charged separately. The cloakroom cannot hold cash, valuables, precision equipment such as computers and smartphones, or perishable food. The entrances of the main building (1F front entrance, Tokyo Chamber of Commerce and Industry side, Marunouchi Naka-dori side, and B1) are unlocked from 10:00 on weekdays and from 8:30 on Saturdays, Sundays and holidays until closing. (Source: Banquet Room Terms of Use as of September 1, 2020, access page)",
+ "rooms": [
+  {
+   "name": "Rose (entire room)",
+   "note": "3F. Can be divided into 1/3, 1/2 and 2/3 (West, Center and East in the floor plan)."
+  },
+  {
+   "name": "Rose 2/3",
+   "note": "3F"
+  },
+  {
+   "name": "Rose 1/2",
+   "note": "3F"
+  },
+  {
+   "name": "Rose 1/3",
+   "note": "3F"
+  },
+  {
+   "name": "Foyer (3F)",
+   "note": "3F. No capacity is set (the official table gives only area and ceiling height)."
+  },
+  {
+   "name": "Sakura (entire room)",
+   "note": "7F. Can be used divided in 1/2."
+  },
+  {
+   "name": "Sakura 1/2",
+   "note": "7F"
+  },
+  {
+   "name": "Wisteria",
+   "note": "7F. The ceiling height is the value from the floor plan PDF (the spec table says 5.2m)."
+  },
+  {
+   "name": "Royal",
+   "note": "7F"
+  },
+  {
+   "name": "Magnolia",
+   "note": "7F"
+  },
+  {
+   "name": "Quince",
+   "note": "7F"
+  },
+  {
+   "name": "Iris",
+   "note": "7F. The area is the value from the floor plan PDF (the spec table says 140㎡). The hollow-square layout is the layout example in the floor plan. The floor plan has a dividing line between West and East."
+  },
+  {
+   "name": "Azeria",
+   "note": "7F. The hollow-square layout is the layout example in the floor plan. The floor plan has a dividing line between West and East."
+  },
+  {
+   "name": "Violet",
+   "note": "7F. No capacity is set (the official table gives only area and ceiling height)."
+  }
+ ],
+ "ops": {
+  "waitingRooms": "A waiting room with a view of the Imperial Palace can be prepared for the 3F main banquet hall (Rose). For Azeria and Iris on 7F, the floor plans have layout examples for use as waiting rooms. (Source: Banquet and Meeting rooms, specs and floor map; floor plans of Azeria and Iris)",
+  "parking": "Drivers visiting the main building use the mechanical car park on B2, \"Marunouchi Nijubashi Building Car Park\" (170 spaces in total, open 7:00-23:00). Tokyo Kaikan guests are issued a service ticket for this car park. The fee is the common Marunouchi Park Inn rate: 400 yen per 30 minutes for 0 to 3.5 hours, 2,800 yen for 3.5 to 6 hours, 2,800 yen plus 400 yen per 30 minutes for 6 to 9.5 hours, and 5,600 yen for 9.5 to 24 hours (tax included; the same fee repeats after 24 hours). The vehicle limits are, for extra-large high-roof vehicles, length 5,300mm, width 1,950mm, height 2,000mm and weight 2,500kg (51 spaces), and for special medium high-roof vehicles, length 5,000mm (otherwise the same; 21 spaces). The height is \"under 2,000mm\" on the access map. Some vehicle types cannot enter even if they are within the limits, and vehicles over the limits cannot enter. Vehicles whose mirrors cannot be folded, vehicles with a spare tire mounted, vehicles with an aftermarket roof carrier or roof rails, truck-shaped vehicles such as pickup trucks, and vehicles with mud flaps or earth straps (allowed if taped with consent) cannot enter. For vehicles over the limits, another car park will be suggested, so contact the Tokyo Kaikan main building sales office in advance. On the closed days for regular inspection, use another Marunouchi Park Inn (service tickets for nearby Marunouchi Park Inn car parks are issued at the 1F entrance desk or the 2F front desk). (Source: Marunouchi Park Inn car park page, access page, access map, Marunouchi Nijubashi Building Car Park vehicle limits)",
+  "catering": "Bringing in food and drink, and taking home food and drink prepared by Tokyo Kaikan, are prohibited. They may be allowed if Tokyo Kaikan agrees in advance. Tell your sales representative about food allergies in advance. Removing allergens is handled as far as possible, but because the food is prepared in the same kitchen, traces of allergens may be mixed in. (Source: Banquet Room Terms of Use as of September 1, 2020)",
+  "restaurants": "The main building houses Restaurant Prunier, Roast Beef & Grill Rossini, Rossini Terrace, the Japanese restaurant Yachiyo, the teppanyaki restaurant Kai (鉄板焼 TOKYO KAIKAN 會) and the Main Bar. There is also the pastry shop \"Sweets & Gifts\". (Source: Restaurant list)"
+ },
+ "documents": [
+  {
+   "title": "Banquet Room Terms of Use (as of September 1, 2020)"
+  },
+  {
+   "title": "Rose Floor Plan (file dated November 2025)"
+  },
+  {
+   "title": "Sakura (entire room) Floor Plan (file dated September 2025)"
+  },
+  {
+   "title": "Sakura (1/2) Floor Plan (file dated May 2025)"
+  },
+  {
+   "title": "Wisteria Floor Plan (file dated May 2025)"
+  },
+  {
+   "title": "Royal Floor Plan (file dated April 2026)"
+  },
+  {
+   "title": "Magnolia Floor Plan (file dated January 2025)"
+  },
+  {
+   "title": "Quince Floor Plan (file dated November 2024)"
+  },
+  {
+   "title": "Iris Floor Plan (file dated August 2019)"
+  },
+  {
+   "title": "Azeria Floor Plan (file dated August 2019)"
+  },
+  {
+   "title": "Violet Floor Plan (file dated May 2020)"
+  },
+  {
+   "title": "3F Floor Map (scale 1/300, file dated March 2019)"
+  },
+  {
+   "title": "7F Floor Map (scale 1/400, file dated March 2019)"
+  },
+  {
+   "title": "Transportation Guide Access Map (Japanese and English, file dated February 2025)"
+  },
+  {
+   "title": "Marunouchi Nijubashi Building Car Park Vehicle Limits (file dated January 2023)"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "Lawson Shin-Tokyo Building",
+    "hours": "7:00-23:00",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "Lawson Marunouchi My Plaza",
+    "hours": "7:00-23:00",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "Lawson Marunouchi Park Building",
+    "hours": "7:00-23:00",
+    "note": "Distance is calculated from the official store location."
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "Accea Ginza Five",
+    "hours": "Weekdays 10:00-20:00 / Closed Sat, Sun & holidays",
+    "note": "Distance is calculated from the address location. Shown as \"Accea Mini\" (a small store) on the official site. Cash is not accepted (credit card, electronic money, QR code payment)."
+   },
+   {
+    "name": "ACCEA Kyobashi",
+    "hours": "Weekdays 8:00-22:00 / Sat, Sun & holidays 10:00-19:00",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "DAISO Marronnier Gate Ginza",
+    "hours": "11:00-21:00",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "Can Do Marunouchi Oazo",
+    "hours": "Mon-Fri 8:00-22:00 / Sat, Sun & holidays 9:00-21:00",
+    "note": "Distance is calculated from the official store location."
+   }
+  ],
+  "donki": [
+   {
+    "name": "Don Quijote Ginza Main Building",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. Rather far."
+   },
+   {
+    "name": "Picasso Akasaka (Don Quijote)",
+    "hours": "7:00-3:00",
+    "note": "Distance is calculated from the address location. Far. A different Don Quijote store format (the official site lists the store name as \"Picasso Akasaka\")."
+   }
+  ]
+ },
+ "photoCredit": "© 妖精書士 (talk) / Public domain · Wikimedia Commons"
+}

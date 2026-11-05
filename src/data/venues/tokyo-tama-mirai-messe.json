@@ -1,0 +1,296 @@
+{
+ "slug": "tokyo-tama-mirai-messe",
+ "nameJa": "東京たま未来メッセ",
+ "nameEn": "Tokyo Tama Mirai Messe",
+ "type": "exhibition",
+ "area": "tama-venues",
+ "address": "〒192-0046 東京都八王子市明神町3-19-2",
+ "officialUrl": "https://www.tamaskc.metro.tokyo.lg.jp/",
+ "organizerUrl": "https://www.tamaskc.metro.tokyo.lg.jp/organizer/",
+ "bizintokyoSlug": "tokyo-tama-mirai-messe",
+ "accessSummary": "JR八王子駅（北口）から徒歩約5分（新宿から約40分、横浜から約60分、立川から約10分）／京王八王子駅（中央口）から徒歩約2分（新宿から約40分）",
+ "notice": "展示室、または展示室と会議室の併用は、最大で約2年前から申し込める。毎年4月1日〜21日の定期順位受付（産業振興を目的とした見本市などが優先）のあと、5月1日から随時受付になる。会議室だけの利用は、利用開始日の6か月前の月初から受け付ける。仮予約はできず、利用承認書の交付と予納金の支払いで予約が決まる。取消しや規模を縮小した場合、入金した料金は返金されない（キャンセル料の定めはない）。利用料金は、展示室は利用開始日の30日前まで、会議室だけの場合は15日前までに全額を払う。物販は、販売価格の適正性が分からないものなど、内容によって承認されないことがある。会議室は、騒音・振動・ほこり・強い臭気を伴う使い方ができない。来場者が多い催事では、前日夜間や当日早朝からの待機が禁止されている。敷地内は全面禁煙。（出典：展示室・会議室ご利用の流れ、よくあるご質問、会議室ご利用上の留意事項、利用案内PDF）",
+ "hours": "開場時間は展示室・会議室とも9:00〜21:00。展示室は、日中（9:00〜17:00）、日中＋夜間（18:00・19:00・20:00まで）、一日（9:00〜21:00）の区分で、17時以降は1時間単位で追加できる。会議室は、一日（9:00〜21:00）、午前（9:00〜12:00）、午後（13:00〜17:00）、夜間（18:00〜21:00）、午前・午後、午後・夜間の区分で、1時間単位の利用はできない。休場日は12月29日〜1月3日。",
+ "rooms": [
+  {
+   "name": "展示室 全室",
+   "areaM2": 2400,
+   "ceilingM": 10,
+   "theater": 1995,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "1階。収容人数の上限は2,000名（物販を伴う場合は変わる）。床耐荷重4t/㎡。シアター1,995席（全スパン縦長のレイアウト図）、展示ブース（3m×3m）100ブース。4分割でき、1/4室ごとに控室（約10㎡）が付く。日中（9:00〜17:00）433,000円、一日（9:00〜21:00）649,000円（税込）。"
+  },
+  {
+   "name": "展示室 3/4室",
+   "areaM2": 1800,
+   "ceilingM": 10,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "収容人数の上限は1,500名。日中325,000円、一日487,000円（税込）。"
+  },
+  {
+   "name": "展示室 1/2室",
+   "areaM2": 1200,
+   "ceilingM": 10,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "収容人数の上限は1,000名。日中217,000円、一日325,000円（税込）。"
+  },
+  {
+   "name": "展示室 1/4室",
+   "areaM2": 600,
+   "ceilingM": 10,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "収容人数の上限は500名。日中109,000円、一日163,000円（税込）。控室（約10㎡）が付く。"
+  },
+  {
+   "name": "第1会議室",
+   "areaM2": 200,
+   "ceilingM": 3,
+   "theater": null,
+   "school": 96,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "3階。2分割でき、A・B単独の面積と人数は公式に示されていない。収容人数の上限は100名（換気計画上の上限で、超える利用はできない）。一日（9:00〜21:00）54,000円（税込）。"
+  },
+  {
+   "name": "第2会議室",
+   "areaM2": 200,
+   "ceilingM": 3,
+   "theater": null,
+   "school": 96,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "3階。2分割でき、A・B単独の面積と人数は公式に示されていない。収容人数の上限は100名（換気計画上の上限）。一日54,000円（税込）。"
+  },
+  {
+   "name": "第3会議室",
+   "areaM2": 100,
+   "ceilingM": 3,
+   "theater": null,
+   "school": 48,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "3階。収容人数の上限は56名（換気計画上の上限）。一日27,000円（税込）。"
+  },
+  {
+   "name": "第4会議室",
+   "areaM2": 100,
+   "ceilingM": 3,
+   "theater": null,
+   "school": 48,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "3階。収容人数の上限は57名（換気計画上の上限）。一日28,000円（税込）。"
+  },
+  {
+   "name": "第5会議室",
+   "areaM2": 100,
+   "ceilingM": 3,
+   "theater": null,
+   "school": 48,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "3階。収容人数の上限は50名（換気計画上の上限）。一日27,000円（税込）。"
+  },
+  {
+   "name": "第6会議室",
+   "areaM2": 50,
+   "ceilingM": 3,
+   "theater": null,
+   "school": 24,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "3階。収容人数の上限は26名（換気計画上の上限）。一日14,000円（税込）。"
+  },
+  {
+   "name": "第7会議室",
+   "areaM2": 50,
+   "ceilingM": 3,
+   "theater": null,
+   "school": 26,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "3階。収容人数の上限は27名（換気計画上の上限）。一日15,000円（税込）。部屋一覧ページは面積を約52㎡と書き、個別ページと料金一覧の概要表は約50㎡と書いている。"
+  }
+ ],
+ "roomsSource": "https://www.tamaskc.metro.tokyo.lg.jp/facilities/room/charge/ ／ https://www.tamaskc.metro.tokyo.lg.jp/facilities/room/ ／ https://www.tamaskc.metro.tokyo.lg.jp/facilities/room/floor/",
+ "ops": {
+  "loadingHours": {
+   "text": "搬入・搬出や設営は、所定の利用時間内に行う。展示室は、利用日ごとに承認した開扉予定時間に、1階防災センター（8:00から受付）へ「開扉証」を出して開錠してもらう。バックヤード側の出入口を開け、来場者の入口はホワイエ側になる。開場前の8:00〜9:00は、展示品の搬入・搬出、設営などのための時間外利用ができる（1/4室3,000円〜全室9,000円、後納。会議室だけの利用は不可）。会期最終日の17:00〜21:00は、原状回復のための夜間搬出利用ができる（搬出・撤去のみ、1時間単位、1/4室3,000円〜全室9,000円、後納）。バックヤードは、利用スペース・時間・車両台数を書いた「バックヤード利用計画書」を利用開始日の30日前までに出し、交付される「入車証」のある車だけが指定時間内に入れる。搬入物・搬出物（宅配便を含む）の事前・事後の預かりと保管はしない。宅配便は2026年5月1日から利用当日着のみで、受取と集荷は利用者本人が立ち会う。会議室だけの利用では、バックヤードは原則使えない。",
+   "source": "https://www.tamaskc.metro.tokyo.lg.jp/assets/file/common/riyou_tebiki_tama20240830.pdf"
+  },
+  "vehicleRules": {
+   "text": "展示室を使う場合は、1階の展示室専用バックヤードで荷さばきする。入口高3.8m（車両の高さ制限3.6m）、重量制限4t/㎡、車長制限約8.3m、最小回転半径約6.5m。展示室への車の乗入れもできる（搬入口は幅3.9m・高さ3.8m）。搬入出できる台数は1/4室あたり4tトラック1台で、他の催事の状況により最大3台まで。2台目以降の停め置きは相談する。会議室を使う場合は、地下1階の荷さばき場を使う（2台程度、車両の高さ制限2.8m、重量制限540kg/㎡、車長制限約6.2m、最小回転半径約6.1m。荷さばきスペースでの停め置きは不可）。3階の会議室への搬入出は、地下1階〜3階を結ぶエレベーター5号機（積載1.6t、かご内寸 幅1.5m×奥行2.3m×高さ2.3m、入口 幅1.3m×高さ2.1m）だけが使える。バックヤードと荷さばき場には必ず責任者を置き、作業に必要な場合を除いてエンジンを切る。作業で出たゴミは持ち帰る。",
+   "source": "https://www.tamaskc.metro.tokyo.lg.jp/guide/loading/"
+  },
+  "parking": {
+   "text": "地下1階に、施設利用者（東京たま未来メッセ・東京都合同庁舎・八王子市保健所）専用の駐車場がある。一般には開放しておらず、利用者以外は停められない。台数は一般車用約100台、障害者専用4台、バイク専用8台、原付専用7台で、先着順（予約不可）。入庫時の駐車券は、訪問先の施設で認証を受けると無料になり、認証しないと出庫できない。開門は8:30〜最長21:00（最短は8:30〜18:30）で、その日の施設利用が終わると閉門し、翌日までの駐車はできない。高さ制限は2.8m。れんが通りから必ず左折で入る（右折入場は禁止）。展示室のイベントでは、主催者の判断で来場者の駐車を制限することがある。庁舎・会議室棟1階の入口横に、施設利用者専用の駐輪場（96台、8:30〜21:00）がある。",
+   "source": "https://www.tamaskc.metro.tokyo.lg.jp/jastice-outside/faq/"
+  },
+  "waitingRooms": {
+   "text": "控室は展示室の1/4室ごとに1部屋（約10㎡、ミーティングテーブル・チェアなど）で、全室を使うと4室。パントリーは約20㎡で、冷蔵庫・製氷機・電子レンジ・IH調理器などがあり、使うときは「パントリー利用届出書」を出す。パントリーの数は、展示室ページと料金一覧が「バックヤード内に2室」、利用案内PDFが「1階に3室、3階にも1室」と、書き方が分かれている。常設のクロークはなく、主催者が設ける場合だけ約10㎡のスペースを使える。",
+   "source": "https://www.tamaskc.metro.tokyo.lg.jp/facilities/room/floor/"
+  },
+  "catering": {
+   "text": "館内でのお弁当・ケータリング・ドリンクサービスは、登録業者の中から選んで発注する。登録業者のリストは公式サイトのPDF（2024.8.29現在）で見られる。",
+   "source": "https://www.tamaskc.metro.tokyo.lg.jp/organizer/"
+  }
+ },
+ "documents": [
+  {
+   "title": "展示室・会議室 施設利用案内（PDF、表紙は2022.09）",
+   "url": "https://www.tamaskc.metro.tokyo.lg.jp/assets/file/common/riyou_tebiki_tama20240830.pdf"
+  },
+  {
+   "title": "東京たま未来メッセ パンフレット（PDF）",
+   "url": "https://www.tamaskc.metro.tokyo.lg.jp/assets/file/common/tamaMM_leaflet_20240315OL.pdf"
+  },
+  {
+   "title": "ご利用料金一覧（展示室・会議室・設備備品）",
+   "url": "https://www.tamaskc.metro.tokyo.lg.jp/facilities/room/charge/"
+  },
+  {
+   "title": "申請書・図面ダウンロード（申込書類、展示室図面集、会議室図面集、ゴミ分別ルールと料金など）",
+   "url": "https://www.tamaskc.metro.tokyo.lg.jp/jastice-outside/guide/download/"
+  },
+  {
+   "title": "搬入・搬出のご案内（バックヤード・荷さばき場・エレベーター）",
+   "url": "https://www.tamaskc.metro.tokyo.lg.jp/guide/loading/"
+  },
+  {
+   "title": "宅配便受取ルール変更のご案内（2026年5月1日から）",
+   "url": "https://www.tamaskc.metro.tokyo.lg.jp/jastice-outside/outimages/shorui_pdf_download/51"
+  },
+  {
+   "title": "廃棄物処理を委託される場合について（2024/1/10）",
+   "url": "https://www.tamaskc.metro.tokyo.lg.jp/jastice-outside/outimages/shorui_pdf_download/54"
+  },
+  {
+   "title": "お弁当・ケータリング等登録業者リスト（2024.8.29現在）",
+   "url": "https://www.tamaskc.metro.tokyo.lg.jp/assets/file/organizer/catering.pdf"
+  },
+  {
+   "title": "交通アクセス 印刷用PDF（路線図・交通案内）",
+   "url": "https://www.tamaskc.metro.tokyo.lg.jp/assets/file/access/tama_access_map.pdf"
+  },
+  {
+   "title": "同人誌展示即売会等の留意事項（PDF）",
+   "url": "https://www.tamaskc.metro.tokyo.lg.jp/assets/file/guide/tmm_doujin_ryuuijikou.pdf"
+  },
+  {
+   "title": "同人誌関連イベント用同意書（留意事項 別添1）",
+   "url": "https://www.tamaskc.metro.tokyo.lg.jp/assets/file/guide/tmm_doujin_ryuuijikou_tenpu1_douisho.pdf"
+  },
+  {
+   "title": "18歳未満禁止の展示物・販売物の取り扱い（留意事項 別添2）",
+   "url": "https://www.tamaskc.metro.tokyo.lg.jp/assets/file/guide/tmm_doujin_ryuuijikou_tenpu2_r18.pdf"
+  }
+ ],
+ "checkedAt": "2026-11-02",
+ "lat": 35.656578,
+ "lng": 139.342804,
+ "nearby": {
+  "convenience": [
+   {
+    "name": "ファミリーマート 京王八王子店",
+    "brand": "ファミリーマート",
+    "distanceM": 243,
+    "walkMin": 4,
+    "hours": "24時間営業",
+    "address": "東京都八王子市明神町2-26-10",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/57858",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "ファミリーマート 八王子明神町四丁目店",
+    "brand": "ファミリーマート",
+    "distanceM": 312,
+    "walkMin": 4,
+    "hours": "24時間営業",
+    "address": "東京都八王子市明神町4-2-11",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/58906",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "ファミリーマート 八王子明神町店",
+    "brand": "ファミリーマート",
+    "distanceM": 421,
+    "walkMin": 6,
+    "hours": "24時間営業",
+    "address": "東京都八王子市明神町2-16-9",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/58709",
+    "note": "距離は公式の店舗位置で計算"
+   }
+  ],
+  "copyshop": [],
+  "hundredYen": [
+   {
+    "name": "DAISO ドン・キホーテ八王子駅前店",
+    "brand": "ダイソー",
+    "distanceM": 524,
+    "walkMin": 7,
+    "hours": "9:00-21:00",
+    "address": "東京都八王子市中町1-3 ドン・キホーテ八王子駅前店7階",
+    "verified": true,
+    "source": "https://www.daiso-sangyo.co.jp/shop/result?keyword=%E5%85%AB%E7%8E%8B%E5%AD%90",
+    "note": "距離は住所の位置で計算。ドン・キホーテの建物の7階"
+   },
+   {
+    "name": "DAISO 八王子OPA店",
+    "brand": "ダイソー",
+    "distanceM": 602,
+    "walkMin": 8,
+    "hours": "10:00-21:00",
+    "address": "東京都八王子市旭町1-12 八王子OPA3階",
+    "verified": true,
+    "source": "https://www.daiso-sangyo.co.jp/shop/result?keyword=%E5%85%AB%E7%8E%8B%E5%AD%90",
+    "note": "距離は住所の位置で計算（街区の位置）。八王子OPAの3階"
+   }
+  ],
+  "donki": [
+   {
+    "name": "ドン・キホーテ 八王子駅前店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 524,
+    "walkMin": 7,
+    "hours": "24時間営業",
+    "address": "東京都八王子市中町1-3",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=220",
+    "note": "距離は住所の位置で計算"
+   }
+  ]
+ },
+ "drinkDelivery": {
+  "available": false
+ },
+ "photo": {
+  "src": "/images/venues/tokyo-tama-mirai-messe.jpg",
+  "credit": "© DiKnK8713 / CC BY-SA 4.0 · Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tokyo-tama-mirai-messe.jpg"
+ }
+}

@@ -1,0 +1,387 @@
+{
+ "slug": "tokyo-dome-city",
+ "nameJa": "東京ドームシティ",
+ "nameEn": "TOKYO DOME CITY",
+ "type": "hall",
+ "area": "kanda-suidobashi-venues",
+ "address": "〒112-0004 東京都文京区後楽1-3-61",
+ "officialUrl": "https://www.tokyo-dome.co.jp/",
+ "organizerUrl": "https://www.tokyo-dome.co.jp/business/event-space",
+ "bizintokyoSlug": "tokyo_dome_city",
+ "accessSummary": "Kanadevia Hall（ミーツポート地下）：都営地下鉄水道橋駅A2出口からすぐ。JR水道橋駅東口から横断歩道を渡った正面。東京メトロ後楽園駅からも行ける。後楽園ホール（後楽園ホールビル5F）：JR水道橋駅（西口・東口）、都営地下鉄水道橋駅A2出口、東京メトロ後楽園駅が最寄り。Gallery AaMo（LaQua内、〒112-0003 東京都文京区春日1丁目1-1）：東京メトロ後楽園駅、都営地下鉄春日駅、JR水道橋駅（東口・西口）が最寄り。プリズムホール：水道橋駅・後楽園駅に隣接。",
+ "notice": "プリズムホール：半面利用（パターンA・B・C）は平日のみ。パターンB・Cは他社の催事と同時開催になる場合があり、他社の催事情報は事前に開示されない。音響設備は原則として主催者が用意する。スライディングウォールで仕切るため音漏れの可能性がある。申込は原則11か月前から受け付ける。シアターGロッソ：申込は利用日の1年前から。出入口がパブリックスペースに直結しているため、入退場の管理が必要。土日祝と長期休みの日中はヒーローショーがあり、他用途で使えるかは相談になる。Kanadevia Hall：契約成立前のイベント告知とチケット販売は禁止。1日2回公演は基本利用料金の1.5倍、3回公演は2倍。解約の違約金は、利用開始の3か月以上前が基本利用料金の30%、1か月以上3か月未満前が60%、1か月未満前が全額。イベント保険など損害保険への加入が必要。Gallery AaMo：開催期間中は主催者の常駐が必須。物販は売上（税込）の10%が物販利用料としてかかる。後楽園ホール：一般イベント用の料金は格闘技（プロレス、キック、プロボクシング）には適用されない。申込時に基本料金の半額を予約金として支払う。",
+ "hours": "Kanadevia Hall：基本利用時間は9時〜23時。時間外は23時〜24時と6時〜9時が30分につき88,000円、0時〜6時が30分につき110,000円（税込）。後楽園ホール：利用規定の時間区分は昼間の部9:00〜15:30（延長不可）、夜間の部16:00〜21:00、全日の部9:00〜21:00。料金表の基本時間は9:00〜22:00で、土日祝は昼半日9:00〜16:00、夜半日16:00〜22:00、全日9:00〜22:00に分かれる。平日は基本時間内6時間までが792,000円、超過は1時間につき132,000円、基本時間外は1時間につき198,000円（税込）。Gallery AaMo：基本料金は9:00〜21:00の1日単位。時間外は30分につき55,000円（税込）。シアターGロッソ：基本利用料金は10:00〜22:00。昼間10:00〜16:00、夜間16:00〜22:00、全日10:00〜22:00に分かれる。時間外は30分につき平日33,000円、土日祝44,000円（税込、2025年度の料金表）。プリズムホール：開催日の基本料金は10:00〜18:00。時間外は1時間につき、全面363,000円、パターンA 297,000円、パターンB・C 181,500円（税込）。",
+ "rooms": [
+  {
+   "name": "東京ドーム（グラウンド）",
+   "areaM2": 13000,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "収容人数55,000人（野球時は約43,500人）。グラウンド面積13,000㎡、両翼100m、センターまで122m、フェンスの高さ4m。建築面積46,755㎡、最高部の高さは地上56.190m。"
+  },
+  {
+   "name": "Kanadevia Hall",
+   "areaM2": null,
+   "ceilingM": null,
+   "theater": 2471,
+   "school": null,
+   "ushape": null,
+   "standing": 3190,
+   "banquet": null,
+   "note": "ミーツポートの地下にある多目的ホール。着席は最大2,471人（立見を含む）、スタンディングは最大3,190人。内訳は第3バルコニー（1階）447席＋立見L21・R21人、第2バルコニー（B1階）478席＋立見L37・R37人、第1バルコニー（B2階）440席、アリーナ（B3階）着席990席／スタンディング1,709人。車いす席・スイートルーム席は含まない。ステージ形式はエンド・スタンディング・センター・サークル。舞台の変換・撤去は別途時間と費用がかかる。"
+  },
+  {
+   "name": "後楽園ホール",
+   "areaM2": 575,
+   "ceilingM": null,
+   "theater": 1403,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "後楽園ホールビル5F。メインフロアは東西25m×南北23m。5Fホール全体は1,692.9㎡（客席を含む）。客席は南の固定席780席、可動席は東109席・西109席・北405席で合計1,403席。可動席は折りたためる。4Fに控室119.35㎡がある。"
+  },
+  {
+   "name": "Gallery AaMo ホール",
+   "areaM2": 730,
+   "ceilingM": 5,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "LaQua内。貸出しは1日単位。利用料金に展示スペース・ホワイエ・諸室A・諸室C・音響調整室・トイレ・チケットボックス・LAN・東京ドーム第2駐車場（5台まで）が含まれる。"
+  },
+  {
+   "name": "Gallery AaMo ホワイエ",
+   "areaM2": 100,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "ホールと一体で貸し出す。簡易平面図ではホワイエは12.7m×6.5m。"
+  },
+  {
+   "name": "シアターGロッソ",
+   "areaM2": null,
+   "ceilingM": null,
+   "theater": 765,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "客席765席（消防定員は814名）。別に車いす3台のスペースがある。舞台は下段・中段・上段の3層で、最大高低差は7,500mm。下段舞台はW16,800×D4,500×H450mm。楽屋は4室。"
+  },
+  {
+   "name": "プリズムホール 全面",
+   "areaM2": 2809,
+   "ceilingM": 5,
+   "theater": 1200,
+   "school": 1000,
+   "ushape": null,
+   "standing": 1500,
+   "banquet": 670,
+   "note": "収容人数は最大2,085名。床荷重は500kg/㎡。出入口・通路に段差はない。席数は参考値で、シアター約1,200席、スクール約1,000席、試験会場約1,500席、立食ブッフェ約1,500席、着席ブッフェ約670席。"
+  },
+  {
+   "name": "プリズムホール パターンA",
+   "areaM2": 2327,
+   "ceilingM": 5,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "収容人数は最大1,745名。部分利用は平日のみ。"
+  },
+  {
+   "name": "プリズムホール パターンB（西半面）",
+   "areaM2": 1374,
+   "ceilingM": 5,
+   "theater": 600,
+   "school": 500,
+   "ushape": null,
+   "standing": 700,
+   "banquet": 300,
+   "note": "収容人数は最大1,030名。部分利用は平日のみ。出入口は西・南、諸室は応接室A・主催者控室A、搬出入口はA。席数は参考値で、試験会場約700席。他社の催事と同時開催になる場合がある。"
+  },
+  {
+   "name": "プリズムホール パターンC（東半面）",
+   "areaM2": 1374,
+   "ceilingM": 5,
+   "theater": 600,
+   "school": 500,
+   "ushape": null,
+   "standing": 700,
+   "banquet": 300,
+   "note": "収容人数は最大1,030名。部分利用は平日のみ。出入口は東、諸室は応接室B・主催者控室B、搬出入口はC。席数は参考値で、試験会場約700席。他社の催事と同時開催になる場合がある。"
+  }
+ ],
+ "roomsSource": "https://www.tokyo-dome.co.jp/business/event-space ／ https://www.tokyo-dome.co.jp/business/event-space/tdc-hall ／ https://www.tokyo-dome.co.jp/business/event-space/hall ／ https://www.tokyo-dome.co.jp/business/event-space/aamo ／ https://www.tokyo-dome.co.jp/business/event-space/g-rosso ／ https://www.tokyo-dome.co.jp/business/event-space/prism",
+ "ops": {
+  "prevDaySetup": {
+   "text": "Kanadevia Hall：設営・撤去・休演日（9時〜23時）の基本利用料金は、月〜木1,485,000円、金1,540,000円、土日祝・特定日（12/30〜1/3）2,200,000円（税込）。Gallery AaMo：準備日料金は9:00〜27:00のうち12時間で550,000円（税込）。設営または撤去と開催を1日で行う場合は基本料金になる。シアターGロッソ：本番日以外（設営日・リハ日・休演日・撤去日）の全日（10時〜22時）の会場利用料金は半額（2025年度の料金表）。プリズムホール：設営・撤去日特別料金（9:00〜22:00）は、全面1,815,000円、パターンA 1,485,000円、パターンB・C 907,500円（税込）。後楽園ホール：後楽園展示会場の利用料金は264,000円（税込）で、設営日は半額。",
+   "source": "https://www.tokyo-dome.co.jp/business/event-space"
+  },
+  "loadingHours": {
+   "text": "Kanadevia Hall：早朝（7時以前）に入館するとホールスタッフ宿泊費が1名22,000円、深夜（23時30分以降）に退館するとホールスタッフ深夜交通費が1名16,500円かかる（税込）。後楽園ホール：早朝（7:00）以前に入館すると前泊料金22,000円、深夜（23:30）以降に退館すると交通費16,500円がかかる（税込）。シアターGロッソ：搬入口は上手袖にあり、第2駐車場の地下1階レベルにある。早朝（7:00）以前の入館は前泊料金22,000円、深夜（23:30）以降の退館は交通費16,500円（税込、2025年度の料金表）。搬出入の警備費は別途見積もり。Gallery AaMo：利用期間は準備の開始から、原状回復を終えて退出するまで。期限までに原状回復が終わらないと時間外料金がかかる。原状回復の作業は会社指定の業者が行う。プリズムホール：半面利用（パターンA・B・C）は搬出入の時間を施設が調整するため、希望どおりにならない場合がある。",
+   "source": "https://www.tokyo-dome.co.jp/files/business/event-space/tdc-hall/hall_fee.pdf"
+  },
+  "vehicleRules": {
+   "text": "Kanadevia Hall：搬入口は舞台奥中央の後方で、シャッター開口が幅9m×高さ5.1m。上手側舞台後方の扉は幅1.8m×高さ2.1m。搬入用エレベーターは内径が幅3.5m×奥行13m×高さ4mで、積載荷重は30,000kg。Gallery AaMo：荷入口は幅4.9m×高さ4.0m。後楽園ホール：大型搬入リフト1基、小型リフト1基、業務用エレベーター1基がある。シアターGロッソ：搬入口まで入れるのは、第2駐車場を通行できる車（車高は原則2.0m以下、2.0m超は要相談）。プリズムホール：出入口の係員配置、車両誘導、清掃、消防書類の提出は、指定業者の東京ドームファシリティーズが担当する。",
+   "source": "https://www.tokyo-dome.co.jp/files/business/event-space/tdc-hall/hall_overview.pdf"
+  },
+  "parking": {
+   "text": "Kanadevia Hall：基本利用料金に地下4階の関係者駐車場10台分が含まれる。11台目以降は1台・1日につき6,600円（税込、車高2.1m以内）。Gallery AaMo：利用料金に東京ドーム第2駐車場5台分が含まれる。6台目以降は1台・1日につき6,600円（税込、車高2.1m以内）で、事前に車両表の提出が必要。シアターGロッソ：利用料金に駐車場サービス（1日3台まで）が含まれる。サービス券は指定日までの申請が必要。4台目以降の枠を確保する場合は1台・1日につき6,600円（税込、車高2.1m以内、2025年度の料金表）。後楽園ホール：ドーム駐車場は1台・1日につき6,600円（税込）。プリズムホール：駐車料金は別途見積もりで、駐車場の申請手続きが必要。",
+   "source": "https://www.tokyo-dome.co.jp/files/business/event-space/tdc-hall/hall_fee.pdf"
+  },
+  "waitingRooms": {
+   "text": "Kanadevia Hall：基本利用料金に主催者控室（23㎡）、控室101（43㎡）、控室104（79㎡）が含まれる。追加は1日につき、控室102（39㎡）11,000円、控室103（18㎡）7,700円、収録室（82㎡）22,000円、多目的室（24㎡）11,000円、その他控室（9㎡〜25㎡）5,500円、スイートルーム（1室最大8名）55,000円（税込）。後楽園ホール：4Fに控室119.35㎡がある（大1室は3室に分けられ、小2室）。一般イベント用の利用料金に控室A〜E、主催者控室、シャワールームが含まれる。シアターGロッソ：利用料金に楽屋1〜4（楽屋1 11.9㎡、楽屋2 13.6㎡、楽屋3 25.5㎡（2室に分割可）、楽屋4 21.5㎡）が含まれる。追加は1日につき、楽屋6が22,000円、休憩室が7,700円（税込、2025年度の料金表）。Gallery AaMo：諸室A、諸室C、音響調整室は利用料金に含まれる。諸室Bは1日11,000円（税込）。プリズムホール：1日につき、主催者控室A 22,000円、主催者控室B 33,000円、応接室A 44,000円、応接室B 11,000円、調整室A・B 各11,000円、パントリー控室11,000円、パントリー22,000円（税込）。",
+   "source": "https://www.tokyo-dome.co.jp/files/business/event-space/tdc-hall/hall_fee.pdf"
+  },
+  "catering": {
+   "text": "東京ドームシティ内のイベント主催者とスタッフ向けに、スタッフ弁当を手配できる。弁当は550円から、5食から、土日祝を除く3日前の15:00までの注文。懇親会や控室の食事向けに、2ndtable株式会社と株式会社ダイナックのケータリング紹介資料（2026年4月版）が各会場ページにある。",
+   "source": "https://www.tokyo-dome.co.jp/dome/staff-bento"
+  },
+  "restaurants": {
+   "text": "Kanadevia Hallがあるミーツポートには、ブール アンジュ、ITALIAN BBQ CARVINO、STARBUCKS COFFEE、TOKYO MERCATO、コメダ珈琲店、叙々苑、海鮮バイキング いろは、青龍門の8店が1F〜5Fに入る。貸し会場を使う主催者には、東京ドームホテルの宴会場を特別割引価格で案内している（セールス部直通 03-5805-2121、「シティ内会場ご利用」と伝える）。",
+   "source": "https://www.tokyo-dome.co.jp/meetsport"
+  }
+ },
+ "documents": [
+  {
+   "title": "後楽園ホール 利用料金一覧（一般イベント用、2026年4月1日〜2027年3月31日）",
+   "url": "https://www.tokyo-dome.co.jp/files/business/event-space/hall/hall_price_list.pdf"
+  },
+  {
+   "title": "後楽園ホール 利用規定（一般）",
+   "url": "https://www.tokyo-dome.co.jp/files/business/event-space/hall/pdf_rules.pdf"
+  },
+  {
+   "title": "後楽園ホール 5F平面図",
+   "url": "https://www.tokyo-dome.co.jp/themes/common/doc/business/event-space/hall/spec.pdf"
+  },
+  {
+   "title": "Kanadevia Hall 利用料金一覧（2026年4月1日〜2027年3月31日）",
+   "url": "https://www.tokyo-dome.co.jp/files/business/event-space/tdc-hall/hall_fee.pdf"
+  },
+  {
+   "title": "Kanadevia Hall 利用規定（2025年10月1日現在）",
+   "url": "https://www.tokyo-dome.co.jp/files/business/event-space/tdc-hall/hall_regulations.pdf"
+  },
+  {
+   "title": "Kanadevia Hall 概要図（搬入口・舞台寸法）",
+   "url": "https://www.tokyo-dome.co.jp/files/business/event-space/tdc-hall/hall_overview.pdf"
+  },
+  {
+   "title": "Kanadevia Hall 座席香盤",
+   "url": "https://www.tokyo-dome.co.jp/themes/common/doc/business/event-space/tdc-hall/seatingplan.pdf"
+  },
+  {
+   "title": "Kanadevia Hall B3F平面図",
+   "url": "https://www.tokyo-dome.co.jp/themes/common/doc/business/event-space/tdc-hall/B3F.pdf"
+  },
+  {
+   "title": "Kanadevia Hall B3F平面図（スタンディング）",
+   "url": "https://www.tokyo-dome.co.jp/themes/common/doc/business/event-space/tdc-hall/B3F_standing.pdf"
+  },
+  {
+   "title": "Kanadevia Hall 利用申込書",
+   "url": "https://www.tokyo-dome.co.jp/files/business/event-space/tdc-hall/hall_application.pdf"
+  },
+  {
+   "title": "Gallery AaMo 利用料金一覧（2026年4月1日〜2027年3月31日）",
+   "url": "https://www.tokyo-dome.co.jp/files/business/event-space/aamo/price_list.pdf"
+  },
+  {
+   "title": "Gallery AaMo 簡易平面図",
+   "url": "https://www.tokyo-dome.co.jp/files/business/event-space/aamo/plan_view.pdf"
+  },
+  {
+   "title": "Gallery AaMo 利用規定",
+   "url": "https://www.tokyo-dome.co.jp/files/business/event-space/aamo/provision.pdf"
+  },
+  {
+   "title": "Gallery AaMo 利用申込書",
+   "url": "https://www.tokyo-dome.co.jp/files/business/event-space/aamo/confirmation.pdf"
+  },
+  {
+   "title": "シアターGロッソ 利用料金一覧（2025年度版）",
+   "url": "https://www.tokyo-dome.co.jp/themes/common/doc/g-rosso/organizer/list.pdf"
+  },
+  {
+   "title": "シアターGロッソ 利用規定",
+   "url": "https://www.tokyo-dome.co.jp/themes/common/doc/g-rosso/organizer/kiyaku.pdf"
+  },
+  {
+   "title": "シアターGロッソ 利用申込書",
+   "url": "https://www.tokyo-dome.co.jp/themes/common/doc/g-rosso/organizer/application.pdf"
+  },
+  {
+   "title": "シアターGロッソ 全体平面図",
+   "url": "https://www.tokyo-dome.co.jp/themes/common/doc/business/event-space/g-rosso/spec.pdf"
+  },
+  {
+   "title": "シアターGロッソ 機材部品リスト",
+   "url": "https://www.tokyo-dome.co.jp/themes/common/doc/g-rosso/organizer/list_machinery.pdf"
+  },
+  {
+   "title": "プリズムホール 利用料金一覧（2026年4月1日〜2027年3月31日）",
+   "url": "https://www.tokyo-dome.co.jp/files/business/event-space/prism/fee.pdf"
+  },
+  {
+   "title": "プリズムホール ご利用規定",
+   "url": "https://www.tokyo-dome.co.jp/files/business/event-space/prism/rules.pdf"
+  },
+  {
+   "title": "プリズムホール 有効面積",
+   "url": "https://www.tokyo-dome.co.jp/files/business/event-space/prism/map.pdf"
+  },
+  {
+   "title": "プリズムホール レイアウト図 シアター全面（約1,200席）",
+   "url": "https://www.tokyo-dome.co.jp/files/business/event-space/prism/prism_1200seat.pdf"
+  },
+  {
+   "title": "プリズムホール レイアウト図 シアター2分割（約600席）",
+   "url": "https://www.tokyo-dome.co.jp/files/business/event-space/prism/prism_600seat.pdf"
+  },
+  {
+   "title": "プリズムホール レイアウト図 スクール全面（約1,000席）",
+   "url": "https://www.tokyo-dome.co.jp/files/business/event-space/prism/prism_1000school.pdf"
+  },
+  {
+   "title": "プリズムホール レイアウト図 立食ブッフェ全面（約1,500人）",
+   "url": "https://www.tokyo-dome.co.jp/files/business/event-space/prism/prism_buffet_1500perons.pdf"
+  },
+  {
+   "title": "プリズムホール レイアウト図 着席ブッフェ全面（約670席）",
+   "url": "https://www.tokyo-dome.co.jp/files/business/event-space/prism/prism_buffet_670seat.pdf"
+  }
+ ],
+ "checkedAt": "2026-11-02",
+ "lat": 35.702899,
+ "lng": 139.754487,
+ "nearby": {
+  "convenience": [
+   {
+    "name": "セブン-イレブン 東京ドームシティミーツポート店",
+    "brand": "セブン-イレブン",
+    "distanceM": 0,
+    "walkMin": 1,
+    "hours": "24時間営業",
+    "address": "東京都文京区後楽1-3-61",
+    "verified": true,
+    "source": "https://seven-eleven.areamarker.com/711map/info/241695",
+    "note": "ミーツポート1F（Kanadevia Hallと同じ建物）のため距離は0m、徒歩1分とした。マルチコピー機あり"
+   },
+   {
+    "name": "セブン-イレブン 文京後楽1丁目店",
+    "brand": "セブン-イレブン",
+    "distanceM": 202,
+    "walkMin": 3,
+    "hours": "24時間営業",
+    "address": "東京都文京区後楽1-1-1",
+    "verified": true,
+    "source": "https://seven-eleven.areamarker.com/711map/info/527121",
+    "note": "距離は公式の店舗位置で計算。マルチコピー機あり"
+   },
+   {
+    "name": "ローソン 東京ドームホテル",
+    "brand": "ローソン",
+    "distanceM": 322,
+    "walkMin": 5,
+    "hours": "24時間営業",
+    "address": "東京都文京区後楽1-3-61 東京ドームホテル2F",
+    "verified": true,
+    "source": "https://www.areamarker.com/lawson/info/370100",
+    "note": "東京ドームホテル館内の2F。距離は公式の店舗位置で計算"
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "アクセア 水道橋店",
+    "brand": "アクセア",
+    "distanceM": 180,
+    "walkMin": 3,
+    "hours": "平日 8:00-22:00／土・日・祝 10:00-19:00",
+    "address": "東京都千代田区神田三崎町2-9-18 TDCビル1F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/entry.html",
+    "note": "距離は住所の位置（国土地理院、街区）で計算"
+   },
+   {
+    "name": "アクセア 飯田橋店",
+    "brand": "アクセア",
+    "distanceM": 654,
+    "walkMin": 9,
+    "hours": "平日 8:00-22:00／土 10:00-19:00／日・祝 休み",
+    "address": "東京都千代田区飯田橋1-8-10 キャッスルウェルビル1F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/entry.html",
+    "note": "距離は住所の位置（国土地理院）で計算"
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "DAISO メトロ・エム後楽園店",
+    "brand": "ダイソー",
+    "distanceM": 559,
+    "walkMin": 7,
+    "hours": "10:00-21:00",
+    "address": "東京都文京区春日1-2-3 メトロ・エム後楽園店4階",
+    "verified": true,
+    "source": "https://www.daiso-sangyo.co.jp/shop/detail/008570",
+    "note": "距離は公式の店舗位置で計算。小型店"
+   },
+   {
+    "name": "Can★Do 飯田橋ラムラ店",
+    "brand": "キャンドゥ",
+    "distanceM": 925,
+    "walkMin": 12,
+    "hours": "10:00-21:00",
+    "address": "東京都新宿区神楽河岸1-1 飯田橋ラムラ2階",
+    "verified": true,
+    "source": "https://shopinfo.cando-web.co.jp/detail/shop-5182/",
+    "note": "距離は公式の店舗位置で計算"
+   }
+  ],
+  "donki": [
+   {
+    "name": "ドン・キホーテ 後楽園店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 345,
+    "walkMin": 5,
+    "hours": "24時間営業",
+    "address": "東京都文京区本郷1-33-9",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=343",
+    "note": "距離は住所の位置（国土地理院）で計算。ドン・キホーテ公式サイトの店舗名は「後楽園店」"
+   },
+   {
+    "name": "ドン・キホーテ 秋葉原店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 1574,
+    "walkMin": 20,
+    "hours": "24時間営業",
+    "address": "東京都千代田区外神田4丁目3-3",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=98",
+    "note": "距離は住所の位置（国土地理院）で計算。ドン・キホーテ公式サイトの店舗名は「秋葉原店」。遠い"
+   }
+  ]
+ },
+ "drinkDelivery": {
+  "available": true
+ },
+ "photo": {
+  "src": "/images/venues/tokyo-dome-city.jpg",
+  "credit": "© Syced / CC0 · Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tokyo_Dome_City_7.jpg"
+ }
+}

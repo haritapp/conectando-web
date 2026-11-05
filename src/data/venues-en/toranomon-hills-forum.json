@@ -1,0 +1,279 @@
+{
+ "slug": "toranomon-hills-forum",
+ "name": "Toranomon Hills Forum",
+ "address": "Tokyo 105-6305 Toranomon Hills Mori Tower 5F, 1-23-3 Toranomon, Minato-ku",
+ "accessSummary": "Tokyo Metro Hibiya Line Toranomon Hills Station Exits B1 and A1b / Ginza Line Toranomon Station Exits B1 and B4 (via the 2F deck) / Chiyoda Line and Marunouchi Line Kasumigaseki Station Exit A12: about 8 min walk / JR Shimbashi Station Karasumori Exit: about 11 min walk (travel times do not include transfers; walking minutes are calculated at 80 m per minute from the nearest exit)",
+ "hours": "Basic business hours are 9:00-21:00 every day except the year-end and New Year holidays. Venue fees come in 12-hour (9:00-21:00) and 9-hour (9:00-18:00 / 12:00-21:00) categories, with extension fees in 1-hour units. Use from 21:00 to 9:00 the next day has a 50% discount on the venue fee (whether for preparation, setup or the event itself). Extension fees start 15 minutes after the reserved end time, and an extension may not be possible depending on usage on the day. The building is open 7:00-23:00; for entry at other times, use the night entrance (an application form is required). (Source: Facility Service Terms of Use, Fee Schedule as of April 1, 2026, Useful Q&A)",
+ "notice": "Applications are accepted from 12 months before the usage date (reception is Monday to Friday 9:00-18:00, excluding holidays and the year-end and New Year holidays). A provisional reservation is held for 1 week and is automatically canceled if there is no contact. The reserved time must include setup, rehearsal and removal. The Main Hall, Hall A and Hall B can be reserved separately (divided) from 3 months before (5 hours or more), and Meeting Rooms 1 to 4 can be reserved separately from 2 months before (3 hours or more). Payment is made in advance in a lump sum by bank transfer no later than 10 days before the usage date. Cancellation fees, as a share of the venue fee: for the Main Hall and Hall A, 10% from 1 year before, 20% from 6 months before, 30% from 3 months before, 50% from 1 month before and the full amount from 1 week before; for Hall B, 10% from 6 months before, 30% from 3 months before, 50% from 1 month before and the full amount from 1 week before; for the meeting rooms and guest rooms, 30% from 1 month before, 50% from 1 week before and the full amount from 3 days before. A meeting is held 1 month to 2 weeks before the event, and documents must be submitted by 10 days before the event date. Depending on the content of the event, a notification to the Shiba Fire Department is required at least 1 week before the event, and the organizer files it themselves. Organizers are asked not to bring in food and drink, and food and drink from vendors outside the partner list may require a notification to the public health center. Waste after the event must be taken home. Smoke effects cannot be used anywhere in the building. Guide signs cannot be placed in the building's common areas (guides may stand in position). Loud events and the playing of percussion instruments such as Japanese drums are prohibited. (Source: Facility Service Terms of Use, Usage Flow, Fee Schedule as of April 1, 2026, Notes on Venue Setup and Notifications to Government Offices, Useful Q&A)",
+ "rooms": [
+  {
+   "name": "Main Hall",
+   "note": "5F. Can be divided in two (Main Hall-1 / -2). Comes with a projector, screen, stage, motorized battens and a dedicated cloakroom. 168 desks (W1800 x D450 mm). Floor load capacity 1,000 kg/㎡."
+  },
+  {
+   "name": "Main Hall-1",
+   "note": "When the Main Hall is divided."
+  },
+  {
+   "name": "Main Hall-2",
+   "note": "When the Main Hall is divided."
+  },
+  {
+   "name": "Hall A",
+   "note": "5F. Can be divided into 2 to 3 sections (A-1 to A-4; joining is also possible). 50 m long glass curtain wall. Comes with a projector, screen, stage and battens. 132 desks (W1800 x D450 mm). Floor load capacity 1,000 kg/㎡."
+  },
+  {
+   "name": "Hall A-1",
+   "note": "When Hall A is divided."
+  },
+  {
+   "name": "Hall A-2",
+   "note": "When Hall A is divided."
+  },
+  {
+   "name": "Hall A-3",
+   "note": "When Hall A is divided."
+  },
+  {
+   "name": "Hall A-4",
+   "note": "When Hall A is divided."
+  },
+  {
+   "name": "Hall A-1+2",
+   "note": "When Hall A is joined."
+  },
+  {
+   "name": "Hall A-2+3",
+   "note": "When Hall A is joined."
+  },
+  {
+   "name": "Hall A-3+4",
+   "note": "When Hall A is joined."
+  },
+  {
+   "name": "Hall A-1+2+3",
+   "note": "When Hall A is joined."
+  },
+  {
+   "name": "Hall A-2+3+4",
+   "note": "When Hall A is joined."
+  },
+  {
+   "name": "Meeting Room 1",
+   "note": "5F. Comes with a projector, screen, DVD/BD player and microphone. Floor load capacity 500 kg/㎡."
+  },
+  {
+   "name": "Meeting Room 2",
+   "note": "5F. Comes with a projector, screen, DVD/BD player and microphone. Floor load capacity 500 kg/㎡."
+  },
+  {
+   "name": "Meeting Room 3",
+   "note": "5F. Comes with a projector, screen, DVD/BD player and microphone. Floor load capacity 500 kg/㎡."
+  },
+  {
+   "name": "Meeting Room 4",
+   "note": "5F. Comes with a projector, screen, DVD/BD player and microphone. Floor load capacity 500 kg/㎡."
+  },
+  {
+   "name": "Guestroom 1",
+   "note": "5F. Can be used as a dedicated waiting room for the Main Hall (separate venue fee and setup fee). 2 desks (W2200 x D1200 mm) and 12 chairs."
+  },
+  {
+   "name": "Guestroom 2",
+   "note": "5F. Can be used as a dedicated waiting room for the Main Hall (separate venue fee and setup fee). 2 desks (W2200 x D1200 mm) and 12 chairs."
+  },
+  {
+   "name": "Hall B",
+   "note": "4F. Can be divided into 2 to 4 sections. Comes with a foyer of about 360㎡ (using it for a party costs a separate setup fee of 25,000 yen, excluding tax). Comes with a projector, screen, stage and battens. 119 desks (W1800 x D450 mm). Floor load capacity 1,000 kg/㎡."
+  },
+  {
+   "name": "Hall B-1",
+   "note": "When Hall B is divided."
+  },
+  {
+   "name": "Hall B-2",
+   "note": "When Hall B is divided."
+  },
+  {
+   "name": "Hall B-3",
+   "note": "When Hall B is divided."
+  },
+  {
+   "name": "Hall B-4",
+   "note": "When Hall B is divided."
+  },
+  {
+   "name": "Hall B-1+2",
+   "note": "When Hall B is joined."
+  },
+  {
+   "name": "Hall B-3+4",
+   "note": "When Hall B is joined."
+  },
+  {
+   "name": "Guestroom 3",
+   "note": "4F. Can be used as a dedicated waiting room for the Hall B (separate venue fee and setup fee). 2 desks (W2200 x D1200 mm) and 12 chairs."
+  },
+  {
+   "name": "Guestroom 4",
+   "note": "4F. Can be used as a dedicated waiting room for the Hall B (separate venue fee and setup fee). 2 desks (W2200 x D1200 mm) and 12 chairs."
+  }
+ ],
+ "ops": {
+  "prevDaySetup": "When renting on consecutive days, if the reservation ends by 21:00, you can leave everything except valuables in the venue. Advance delivery of packages (by courier) is in principle on the day before the usage date. (Source: Useful Q&A)",
+  "loadingHours": "The reserved time includes load-in, setup, rehearsal and removal. Check in and check out at the reception desk when entering and leaving, and the venue fee is charged for the time from check-in to check-out. For setup, preparation and removal outside business hours (9:00-21:00), a separate charge applies for facility staff attendance. Packages can be sent in advance by Yamato Transport courier designated by the building (attach the designated label; total of three sides 200 cm or less, 30 kg or less). Hand trucks can be used only between the loading area on basement 3 and the freight elevator, and require an advance application. The narrowest point on the route to the load-in elevator is 2,300 mm high and 1,450 mm wide. The elevator doorways are W1,800 x H2,500 mm (No. 44) and W1,300 x H2,600 mm (Nos. 35 and 36). (Source: Usage Flow, Useful Q&A)",
+  "vehicleRules": "Vehicles for load-in and load-out may stay for no more than 30 minutes. Up to 2 vehicles of 2 tons or less can arrive at the same time (for four 2-ton trucks, slots of 2 vehicles every 30 minutes). Vehicles of 3 tons or more arrive 1 at a time every 30 minutes. Vehicles up to 4.0 t load capacity, 3.8 m height, 8.4 m length and 2.4 m width are accepted; larger ones cannot enter. Use of the loading area and the load-in elevator requires an advance application. (Source: Useful Q&A)",
+  "parking": "There are hourly parking lots in Toranomon Hills Mori Tower (self-parking, some mechanical) and in the adjacent Business Tower and Station Tower (mechanical). The fee is 200 yen per 15 minutes, all day from 0:00 to 24:00 (discounts apply for use of shops and restaurants and with the Hills Card Mastercard). Vehicle limits at Mori Tower: length 5.0-6.0 m, width 1.85-2.5 m, height 2.0-2.4 m, weight 2.0-3.0 t.",
+  "waitingRooms": "Guestrooms 1 and 2 (5F, dedicated to the Main Hall), Guestrooms 3 and 4 (4F, dedicated to Hall B), and the meeting rooms on the 5F (subject to availability) can be used as waiting rooms. A venue fee and setup fee are charged separately from the main venue.",
+  "catering": "Catering is chosen from the partner companies selected by the Forum (The Okura Tokyo, Royal Park Hotel, ANA InterContinental Tokyo, Roppongi Hills Club, Happo-en, CITABRIA, 味彩). The price is 5,000 yen to 12,650 yen per person (excluding tax, service charge included), with a minimum of 30 to 100 people (menu as of May 2025). Cafe service and boxed meals can also be arranged through the partner companies. For a reception, the venue fee and a party plan fee apply, and the venue is rented for at least 5 hours in total: 2 hours of preparation, 2 hours for the event and 1 hour for removal. Organizers are asked not to bring in food and drink. (Source: Catering Service, Useful Q&A)",
+  "restaurants": "There are restaurants and shops on the 1F to 4F of Toranomon Hills Mori Tower, which can be used after meetings and events."
+ },
+ "documents": [
+  {
+   "title": "Fee Schedule: Venue Fees and Cancellation Fees (as of April 1, 2026)"
+  },
+  {
+   "title": "Fee Schedule: Video, Sound, Lighting and Equipment System Fees (as of October 2026)"
+  },
+  {
+   "title": "Facility Use Application Form"
+  },
+  {
+   "title": "Facility Service Terms of Use"
+  },
+  {
+   "title": "Usage Flow"
+  },
+  {
+   "title": "Notes on Venue Setup and Notifications to Government Offices (as of September 1, 2019)"
+  },
+  {
+   "title": "Guidelines on Volume and Construction Noise (revised May 10, 2023)"
+  },
+  {
+   "title": "Notes on Using Sound Equipment: Volume and Sound Pressure Levels (revised May 10, 2023)"
+  },
+  {
+   "title": "Volume and Sound Pressure Level Drawings"
+  },
+  {
+   "title": "Useful Q&A: Load-in, Load-out and Courier"
+  },
+  {
+   "title": "Received Luggage Confirmation Form (Word)"
+  },
+  {
+   "title": "Access Map by Car"
+  },
+  {
+   "title": "All Venue Drawings (for printing)"
+  },
+  {
+   "title": "Floor Map"
+  },
+  {
+   "title": "4F Floor Plan (with dimensions and fire safety equipment)"
+  },
+  {
+   "title": "5F Floor Plan (with dimensions and fire safety equipment)"
+  },
+  {
+   "title": "Power Supply Drawings (5F and 4F)"
+  },
+  {
+   "title": "Electrical Capacity Drawing (5F)"
+  },
+  {
+   "title": "Electrical Capacity Drawing (4F)"
+  },
+  {
+   "title": "Event Power Panel Guide"
+  },
+  {
+   "title": "LAN Port Layout Drawing"
+  },
+  {
+   "title": "Main Hall Floor Drawing [theater layout]"
+  },
+  {
+   "title": "Main Hall Floor Drawing [classroom layout]"
+  },
+  {
+   "title": "Hall A Floor Drawing [theater layout]"
+  },
+  {
+   "title": "Hall A Floor Drawing [classroom layout]"
+  },
+  {
+   "title": "Hall B Floor Drawing [theater layout]"
+  },
+  {
+   "title": "Hall B Floor Drawing [classroom layout]"
+  },
+  {
+   "title": "Fixtures List"
+  },
+  {
+   "title": "Equipment List"
+  },
+  {
+   "title": "Brochure (2026 edition)"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "FamilyMart Toranomon Hills",
+    "hours": "7:00-23:00",
+    "note": "A store in the same Toranomon Hills Mori Tower as the venue (the Forum's Useful Q&A says it is on the 3F). The difference from the block position in Geospatial Information Authority of Japan data is about 70 m."
+   },
+   {
+    "name": "Lawson Toranomon 1-chome",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "7-Eleven Toranomon 1-chome",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. Multi-copy machine available."
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "Kinko's Toranomon",
+    "hours": "Weekdays 9:00-20:00 / Sat, Sun & holidays closed (full-service reception until 30 min before closing)",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Accea Toranomon",
+    "hours": "Open 24 hours on weekdays (non-stop from Monday 8:00 to Saturday 19:00) / Sat until 19:00, Sun & holidays 10:00-19:00",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Can Do Shiroyama Hills",
+    "hours": "Daily 9:00-23:00",
+    "note": "Distance is calculated from the address location. A store inside a building; we have not been able to confirm whether the general public can enter."
+   },
+   {
+    "name": "Watts Shiodome Shiosite",
+    "hours": "8:00-20:30 (Sat, Sun & holidays 10:00-20:00)",
+    "note": "Distance is calculated from the official store location. Far."
+   }
+  ],
+  "donki": [
+   {
+    "name": "Don Quijote Ginza Main Building (Ginza Nine Building No. 3)",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. Far."
+   },
+   {
+    "name": "Picasso Akasaka (Don Quijote)",
+    "hours": "7:00-3:00",
+    "note": "Distance is calculated from the address location. A different Don Quijote format (the store name on the official site is \"Picasso Akasaka\"). Far."
+   }
+  ]
+ },
+ "photoCredit": "© おつみださ / CC BY 3.0 · Wikimedia Commons"
+}

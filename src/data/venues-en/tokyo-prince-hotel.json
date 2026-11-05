@@ -1,0 +1,207 @@
+{
+ "slug": "tokyo-prince-hotel",
+ "name": "Tokyo Prince Hotel",
+ "address": "Tokyo 105-8560 3-3-1 Shibakoen, Minato-ku",
+ "accessSummary": "Toei Mita Line Onarimon Station (Exit A1): 1 min walk / Toei Asakusa Line and Oedo Line Daimon Station (Exit A6): 7 min walk / JR and Tokyo Monorail Hamamatsucho Station: 10 min walk / Tokyo Metro Hibiya Line Kamiyacho Station (Exit 3): 10 min walk. A free shuttle bus runs between Hamamatsucho Station (Daimon Station) and the hotel.",
+ "hours": null,
+ "notice": "The party plans cover the medium banquet rooms on the 3F and 11F; if the 2F large banquet hall is used, a venue fee and a sound and lighting fee are charged separately. Reservations for the Meeting Package are accepted from 3 months before the usage date. Food allergy support covers only 8 items (shrimp, crab, walnut, wheat, buckwheat, egg, milk, peanut). For the Meeting Package, tell the hotel at least 2 weeks before the usage date.",
+ "rooms": [
+  {
+   "name": "Ho-o-no-Ma (entire)",
+   "note": "2F. Up to 900 for dinner and 2,000 for buffet. It can be split into 2 rooms, west and east."
+  },
+  {
+   "name": "Ho-o-no-Ma (split)",
+   "note": "2F. One room, west or east."
+  },
+  {
+   "name": "Providence Hall",
+   "note": "2F."
+  },
+  {
+   "name": "Magnolia Hall",
+   "note": "2F. Adjacent to Ho-o-no-Ma."
+  },
+  {
+   "name": "Sunflower Hall",
+   "note": "2F. Has large windows."
+  },
+  {
+   "name": "Golden Cup",
+   "note": "3F."
+  },
+  {
+   "name": "Kobai & Fukuju",
+   "note": "3F."
+  },
+  {
+   "name": "Takasago & Suehiro",
+   "note": "11F. The top floor of the hotel."
+  },
+  {
+   "name": "Hibiscus",
+   "note": "3F."
+  },
+  {
+   "name": "Kumoi",
+   "note": "3F."
+  },
+  {
+   "name": "Izumi, Katsura, Kaede, Nishiki and Fuyo (with sofa set)",
+   "note": "4F. Meeting style for 10 people. Can be used for small meetings or as waiting rooms."
+  },
+  {
+   "name": "Azusa, Tachibana and Aoi",
+   "note": "4F. Meeting style for 20 people."
+  },
+  {
+   "name": "Peony",
+   "note": "11F."
+  },
+  {
+   "name": "Marguerite",
+   "note": "11F. Split into 2 rooms, and also suitable as waiting rooms."
+  }
+ ],
+ "ops": {
+  "parking": "Hourly parking is 500 yen per 30 minutes from 8:00 A.M. to 8:00 P.M. and 100 yen per 60 minutes from 8:00 P.M. to 8:00 A.M. The maximum charge is 6,000 yen for use until 12:00 midnight on the same day. There is no maximum charge during Golden Week, the year-end and New Year holidays, and specific days set for large banquets and the like. Service parking is free for up to 4 hours for banquets, and 1,000 yen per night for overnight guests. Advance reservations are not possible for regular vehicles. Large buses are reserved through the Smart Park bus reservation service from 3 months before the usage date until 5:00 P.M. on the day before (1,100 yen per 30 minutes, maximum charge of 8,250 yen from 8:00 P.M. to 8:00 A.M.). (Source: Parking Fee Guide revised November 1, 2023, Access, FAQ)",
+  "waitingRooms": "\"Izumi, Katsura, Kaede, Nishiki and Fuyo\" on the 4F (59㎡, meeting style for 10 people) can be used for small meetings or as waiting rooms. \"Marguerite\" on the 11F (82㎡) is split into 2 rooms and is also suitable as waiting rooms.",
+  "restaurants": "The hotel has a buffet dining restaurant, Japanese cuisine (Japanese food, sushi, tempura), Chinese cuisine, yakiniku, a cafe and bar, a tea salon, a main bar and a bakery. Some restaurants have private rooms."
+ },
+ "documents": [
+  {
+   "title": "Banquet Room Floor Layout, Entire Hotel"
+  },
+  {
+   "title": "Banquet Room Floor Layout, 2F"
+  },
+  {
+   "title": "Banquet Room Floor Layout, 3F"
+  },
+  {
+   "title": "Banquet Room Floor Layout, 4F"
+  },
+  {
+   "title": "Banquet Room Floor Layout, 11F"
+  },
+  {
+   "title": "Ho-o-no-Ma Floor Plan"
+  },
+  {
+   "title": "Providence Hall Floor Plan"
+  },
+  {
+   "title": "Magnolia Hall Floor Plan"
+  },
+  {
+   "title": "Sunflower Hall Floor Plan"
+  },
+  {
+   "title": "Golden Cup Floor Plan"
+  },
+  {
+   "title": "Kobai & Fukuju Floor Plan"
+  },
+  {
+   "title": "Takasago & Suehiro Floor Plan"
+  },
+  {
+   "title": "Hibiscus Floor Plan"
+  },
+  {
+   "title": "Kumoi Floor Plan"
+  },
+  {
+   "title": "Izumi, Katsura, Kaede, Nishiki and Fuyo Floor Plan"
+  },
+  {
+   "title": "Azusa, Tachibana and Aoi Floor Plan"
+  },
+  {
+   "title": "Peony and Marguerite Floor Plan"
+  },
+  {
+   "title": "Banquet Room Dimensions and Area Table (including ceiling height; safety and security measures document, March 2021)"
+  },
+  {
+   "title": "Meeting Package (April 1, 2026 - March 31, 2027)"
+  },
+  {
+   "title": "Banquet Room Party Plans (April 1, 2026 - March 31, 2027)"
+  },
+  {
+   "title": "Large Banquet Rooms: Capacities, Floor Plans and Layout Examples"
+  },
+  {
+   "title": "Medium Banquet Rooms: Capacities, Floor Plans and Layout Examples"
+  },
+  {
+   "title": "Small Banquet Rooms: Capacities, Floor Plans and Layout Examples"
+  },
+  {
+   "title": "Parking Fee Guide (revised November 1, 2023)"
+  },
+  {
+   "title": "How to Use the Parking Lot (payment guide)"
+  },
+  {
+   "title": "Shuttle Bus Timetable to JR Hamamatsucho Station"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "Lawson S Tokyo Prince Hotel",
+    "hours": "7:00-23:00 (open every day of the year)",
+    "note": "A store on B1 inside the hotel. Because it is inside the hotel, the distance is set at 0 and 1 minute on foot."
+   },
+   {
+    "name": "FamilyMart Shiba-Daimon",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "FamilyMart Shibakoen",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location."
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "Kinko's Toranomon",
+    "hours": "Weekdays 9:00-20:00 / Sat, Sun & holidays closed (full-service reception until 30 min before closing)",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Kinko's Tamachi",
+    "hours": "Weekdays 10:00-20:00 / Sat, Sun & holidays closed (self-service and full-service reception both until 30 min before closing)",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Can Do Shiroyama Hills",
+    "hours": "Mon-Sun 9:00-23:00",
+    "note": "Distance is calculated from the official store location. A store inside a building."
+   },
+   {
+    "name": "Can Do Azabu-Juban",
+    "hours": "Mon-Sun 10:00-21:00",
+    "note": "Distance is calculated from the official store location."
+   }
+  ],
+  "donki": [
+   {
+    "name": "Don Quijote Roppongi",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. Far."
+   },
+   {
+    "name": "Don Quijote Ginza Main Building (Ginza Nine Building No. 3)",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. Far."
+   }
+  ]
+ },
+ "photoCredit": "© Kakidai / CC BY-SA 4.0 · Wikimedia Commons"
+}
