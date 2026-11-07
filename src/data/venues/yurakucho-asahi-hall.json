@@ -1,0 +1,352 @@
+{
+ "slug": "yurakucho-asahi-hall",
+ "nameJa": "有楽町朝日ホール",
+ "nameEn": "Yurakucho Asahi Hall",
+ "type": "hall",
+ "area": "yurakucho-ginza-venues",
+ "address": "〒100-0006 東京都千代田区有楽町2-5-1 有楽町マリオン11F",
+ "officialUrl": "https://www.asahi-hall.jp/yurakucho/",
+ "organizerUrl": "https://www.asahi-hall.jp/yurakucho/hall/moushikomi.html",
+ "bizintokyoSlug": "yurakucho-asahi-hall",
+ "accessSummary": "JR山手線・京浜東北線 有楽町駅 中央口・銀座口 徒歩1〜2分／東京メトロ丸ノ内線・銀座線・日比谷線 銀座駅 C4出口 徒歩1〜2分／東京メトロ有楽町線 有楽町駅 D7出口 徒歩1〜2分",
+ "notice": "ホールの夜間区分（17:30〜21:00）は試写会（映写のみ）と翌日の催事の仕込みに限る。宗教的・政治的活動、債権者会議、ネズミ講、マルチ商法などに類する催しは利用できない（2022年1月現在の利用規定）。",
+ "hours": "ホール・スクエアの利用区分は午前・午後 9:00〜16:30、午後・夜間 13:00〜21:00、夜間 17:30〜21:00、全日 9:00〜21:00（利用時間には搬入・仕込み・リハーサル・撤去を含み、延長は原則できない）。ギャラリーの開館時間は11:00〜19:00（金曜から翌週水曜の6日間を1単位とし、木曜は休館、日・祝日は開館）",
+ "rooms": [
+  {
+   "name": "ホール",
+   "areaM2": null,
+   "ceilingM": null,
+   "theater": 772,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "Aタイプ636席（舞台の奥行き7mまでの通常タイプ）、Bタイプ最大772席（せり舞台を半分沈めて可動いすを並べる。固定636席、可動136席）、朝日名人会タイプ714席。Bタイプで当ホールの液晶プロジェクターを使う場合は前打ちのため可動いす14席を省き、最大758席。席数は2026年3月の料金表と座席表のページの数字で、2022年1月現在の利用規定は収容員数をA舞台で最大652席・B舞台で最大772席としており、Aタイプの席数が異なる。基本利用料（税込・2026年3月）はAタイプで平日 午前・午後357,500円／午後・夜間543,400円／夜間326,700円／全日660,000円、土・日・祝日 午前・午後424,600円／午後・夜間620,400円／夜間363,000円／全日718,300円。Bタイプは転換作業人件費66,000円（税込）と可動いす代が別にかかる。DLPシネマプロジェクターを備える"
+  },
+  {
+   "name": "スクエア ABC（全室）",
+   "areaM2": 255,
+   "ceilingM": 3,
+   "theater": 234,
+   "school": 123,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "3室の間仕切りを取り外した利用。スクール形式全室123席（プロジェクター使用117席）、会議形式全室78席。利用例のページの本文はスクール形式全室123席・プロジェクター使用129席、シアター形式全室232席、会議形式部屋別129席としており、利用例の図面PDFの席数（シアター全室234席・プロジェクター使用230席、会議形式部屋別132席）と数字が異なる。基本利用料（税込・2024年5月）は午前・午後236,500円／午後・夜間275,000円／夜間137,500円／全日335,500円。パーティー・試飲・試食会で使う場合は基本利用料に44,000円（税込）が加算される。光ファイバー回線は常備（無料、事前のプロバイダー契約が必要）"
+  },
+  {
+   "name": "スクエア A室",
+   "areaM2": 81,
+   "ceilingM": 3,
+   "theater": 88,
+   "school": 42,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "間仕切りを入れた部屋別利用の席数。基本利用料（税込・2024年5月）は午前・午後88,000円／午後・夜間103,400円／夜間51,700円／全日123,200円。パーティー・試飲・試食会で使う場合は16,500円（税込）が加算される"
+  },
+  {
+   "name": "スクエア B室",
+   "areaM2": 93,
+   "ceilingM": 3,
+   "theater": 132,
+   "school": 63,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "間仕切りを入れた部屋別利用の席数。会議形式48席。基本利用料（税込・2024年5月）は午前・午後105,600円／午後・夜間123,200円／夜間61,600円／全日145,200円。パーティー・試飲・試食会で使う場合は16,500円（税込）が加算される"
+  },
+  {
+   "name": "スクエア C室",
+   "areaM2": 81,
+   "ceilingM": 3,
+   "theater": 88,
+   "school": 42,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "間仕切りを入れた部屋別利用の席数。基本利用料（税込・2024年5月）は午前・午後88,000円／午後・夜間103,400円／夜間51,700円／全日123,200円。パーティー・試飲・試食会で使う場合は16,500円（税込）が加算される。部屋別利用（A・B・C室）の合計はシアター形式308席（プロジェクター使用296席）、スクール形式147席（プロジェクター使用141席）、会議形式132席"
+  },
+  {
+   "name": "スクエア AB室・BC室",
+   "areaM2": 174,
+   "ceilingM": 3,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "基本利用料（税込・2024年5月）は午前・午後193,600円／午後・夜間226,600円／夜間113,300円／全日268,400円。パーティー・試飲・試食会で使う場合は33,000円（税込）が加算される。パーティーのみの利用は2区分から。1区分での利用はホール・ギャラリーとの連動またはスクエアでの催事関連に限り、パーティーで使える部屋は最大でABかBCの2室まで"
+  },
+  {
+   "name": "ギャラリー AB室",
+   "areaM2": 156,
+   "ceilingM": 3.2,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "高さ3.2m（一部2.7m）。壁面の長さ（外周）48.8m。6日間の基本利用料（税込・2022年6月現在）1,045,000円。パネル・間仕切りで壁面を構成できる"
+  },
+  {
+   "name": "ギャラリー A室",
+   "areaM2": 105,
+   "ceilingM": 3.2,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "高さ3.2m（一部2.7m）。壁面の長さ（外周）45.9m。6日間の基本利用料（税込・2022年6月現在）770,000円"
+  },
+  {
+   "name": "ギャラリー B室",
+   "areaM2": 51,
+   "ceilingM": 3.2,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "壁面の長さ（外周）27.6m。6日間の基本利用料（税込・2022年6月現在）363,000円"
+  }
+ ],
+ "roomsSource": "https://www.asahi-hall.jp/yurakucho/hall/zaseki.html",
+ "ops": {
+  "prevDaySetup": {
+   "text": "ホールの夜間区分（17:30〜21:00）は、翌日の催事の仕込みに限って利用できる。基本利用料は平日326,700円・土日祝363,000円（税込、2026年3月）。スクエアの夜間区分も仕込みのみの利用で、A室・C室51,700円、B室61,600円、AB室・BC室113,300円、ABC室137,500円（税込、2024年5月）。ギャラリーの作品の搬入と展示作業は木曜日の午後1時から午後7時（2022年6月現在）。",
+   "source": "https://www.asahi-hall.jp/yurakucho/hall/ryoukin.html"
+  },
+  "loadingHours": {
+   "text": "利用時間には機材などの搬入、舞台・照明のセット、音合わせなどの仕込みの時間、リハーサル、来場者の入退場、後片付け・搬出に要する時間も含む。利用日の2週間前までに舞台・照明・音響、受付方法、持込機器・道具や搬入・搬出などを当ホールとの打ち合わせで決め、仕込みの時間（リハーサルを除く）は1時間以上確保する。荷物の搬出入は向かって右側のエレベーターを使う。エレベーターは間口幅1,050mm×高さ2,100mm、カゴは幅1,850mm×奥行1,850mm×高さ2,700mm、積載荷重1,600kg（24名）で、積載できる長さはパイプ3,400mm、看板3,000mm、角もの（300巾）3,000mm、板状（1,000巾）3,200mm。ギャラリーの搬出は最終日の午後7時までに完了する（2022年1月現在の利用規定、2019年2月7日のエレベーター規格表）。",
+   "source": "https://www.asahi-hall.jp/yurakucho/hall/pdf/kitei.pdf"
+  },
+  "vehicleRules": {
+   "text": "搬入・搬出などで駐車場が必要な場合は、あらかじめホール事務室に連絡する（2022年1月現在の利用規定）。",
+   "source": "https://www.asahi-hall.jp/yurakucho/hall/pdf/kitei.pdf"
+  },
+  "parking": {
+   "text": "当ホール専用の駐車場はない。ビル地下駐車場を有料で利用できる（2022年1月現在の利用規定）。",
+   "source": "https://www.asahi-hall.jp/yurakucho/hall/pdf/kitei.pdf"
+  },
+  "waitingRooms": {
+   "text": "ホールの控室は5室。控室A・B（合わせて56㎡、メイクルーム、ホール内を確認できるモニターあり、間仕切りで2部屋に分けられる）は6,600円（夜間3,850円）、控室C（28㎡、テーブル席8席と応接セット、モニターあり）はホール基本利用料に含まれる、控室D（20㎡、化粧台・洗面台・シャワー室・ロッカーあり）と控室E（10㎡、化粧台あり）は2,750〜3,300円（夜間1,650円）（税込、2026年3月）。",
+   "source": "https://www.asahi-hall.jp/yurakucho/hall/setubi.html"
+  },
+  "catering": {
+   "text": "ロビーで試飲・試食を行う場合は千代田保健所への書類の提出が必要になる（品目によってはホールの判断でお断りすることもある）。調理器具の持込み・調理行為・飲食の営業はできない。舞台上・客席での飲食は禁止で、ロビー・控室での飲酒はお断りしている。スクエアはパーティー・試飲・試食会に使え、基本利用料に16,500円〜44,000円（税込）が加算される（2022年1月現在の利用規定、2024年5月の料金表）。",
+   "source": "https://www.asahi-hall.jp/yurakucho/hall/pdf/kitei.pdf"
+  }
+ },
+ "documents": [
+  {
+   "title": "有楽町朝日ホール利用規定（2022年1月現在）",
+   "url": "https://www.asahi-hall.jp/yurakucho/hall/pdf/kitei.pdf"
+  },
+  {
+   "title": "ホール 基本利用料・控室利用料・ホール備品利用料（2026年3月）",
+   "url": "https://www.asahi-hall.jp/yurakucho/hall/pdf/ryoukin.pdf?202603"
+  },
+  {
+   "title": "朝日スクエア 基本利用料・備品利用料（2024年5月）",
+   "url": "https://www.asahi-hall.jp/yurakucho/square/pdf/ryoukin.pdf?202405"
+  },
+  {
+   "title": "朝日ギャラリー 基本利用料・備品利用料（2022年6月現在）",
+   "url": "https://www.asahi-hall.jp/yurakucho/gallery/pdf/ryoukin.pdf"
+  },
+  {
+   "title": "DLPシネマプロジェクター利用規定",
+   "url": "https://www.asahi-hall.jp/yurakucho/hall/pdf/dlp.pdf"
+  },
+  {
+   "title": "ホール座席表 Aタイプ",
+   "url": "https://www.asahi-hall.jp/yurakucho/hall/pdf/hall_a.pdf"
+  },
+  {
+   "title": "ホール座席表 Bタイプ",
+   "url": "https://www.asahi-hall.jp/yurakucho/hall/pdf/hall_b.pdf"
+  },
+  {
+   "title": "ホール座席表 Bタイプ（液晶プロジェクター使用）",
+   "url": "https://www.asahi-hall.jp/yurakucho/hall/pdf/hall_b_758.pdf"
+  },
+  {
+   "title": "ホール座席表 朝日名人会タイプ",
+   "url": "https://www.asahi-hall.jp/yurakucho/hall/pdf/hall_m.pdf"
+  },
+  {
+   "title": "舞台機構・設備図（2013年9月）",
+   "url": "https://www.asahi-hall.jp/yurakucho/hall/pdf/12_zu.pdf"
+  },
+  {
+   "title": "12階ロビー図面",
+   "url": "https://www.asahi-hall.jp/yurakucho/hall/pdf/12_lobby.pdf"
+  },
+  {
+   "title": "12階ロビーコンセント系統図",
+   "url": "https://www.asahi-hall.jp/yurakucho/hall/pdf/12_de.pdf?202602"
+  },
+  {
+   "title": "12階フロア案内図",
+   "url": "https://www.asahi-hall.jp/yurakucho/hall/pdf/12_floor.pdf"
+  },
+  {
+   "title": "エレベーター規格表（2019年2月7日）",
+   "url": "https://www.asahi-hall.jp/yurakucho/hall/pdf/ev.pdf"
+  },
+  {
+   "title": "スクエア平面図（寸法入）",
+   "url": "https://www.asahi-hall.jp/yurakucho/square/pdf/square_all1.pdf"
+  },
+  {
+   "title": "スクエア平面図（間仕切り有り）",
+   "url": "https://www.asahi-hall.jp/yurakucho/square/pdf/square_all2.pdf"
+  },
+  {
+   "title": "スクエア平面図（間仕切り無し）",
+   "url": "https://www.asahi-hall.jp/yurakucho/square/pdf/square_all3.pdf"
+  },
+  {
+   "title": "スクエア利用例 シアター形式全室234席",
+   "url": "https://www.asahi-hall.jp/yurakucho/square/pdf/square_the_234.pdf"
+  },
+  {
+   "title": "スクエア利用例 スクール形式全室123席",
+   "url": "https://www.asahi-hall.jp/yurakucho/square/pdf/square_sch_123.pdf"
+  },
+  {
+   "title": "スクエア利用例 会議形式部屋別132席",
+   "url": "https://www.asahi-hall.jp/yurakucho/square/pdf/square_mee_132.pdf"
+  },
+  {
+   "title": "ギャラリー図面",
+   "url": "https://www.asahi-hall.jp/yurakucho/gallery/pdf/gallery_1.pdf"
+  },
+  {
+   "title": "アクセス地図",
+   "url": "https://www.asahi-hall.jp/yurakucho/access/pdf/map.pdf?202210"
+  }
+ ],
+ "checkedAt": "2026-11-07",
+ "lat": 35.673576,
+ "lng": 139.762802,
+ "nearby": {
+  "convenience": [
+   {
+    "name": "セブン-イレブン 有楽町駅前店",
+    "brand": "セブン-イレブン",
+    "distanceM": 77,
+    "walkMin": 1,
+    "hours": "24時間営業",
+    "address": "東京都千代田区有楽町2-8-2",
+    "verified": true,
+    "source": "https://seven-eleven.areamarker.com/711map/info/394424",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "ファミリーマート 有楽町駅前店",
+    "brand": "ファミリーマート",
+    "distanceM": 97,
+    "walkMin": 2,
+    "hours": "24時間営業",
+    "address": "東京都千代田区有楽町2丁目8-4",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/20223",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "セブン-イレブン 有楽町イトシア店",
+    "brand": "セブン-イレブン",
+    "distanceM": 110,
+    "walkMin": 2,
+    "hours": "7:00-23:00（月〜日・祝）",
+    "address": "東京都千代田区有楽町2-7-1",
+    "verified": true,
+    "source": "https://seven-eleven.areamarker.com/711map/info/318571",
+    "note": "距離は公式の店舗位置で計算"
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "アクセア 銀座ファイブ店",
+    "brand": "アクセア",
+    "distanceM": 170,
+    "walkMin": 3,
+    "hours": "平日 10:00-20:00／土・日・祝 休み",
+    "address": "東京都中央区銀座5-1 銀座ファイブ2F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/entry.html",
+    "note": "距離は住所の位置で計算。アクセアミニ（小型店）。店頭では現金払い不可（クレジットカード・電子マネー・QRコード決済など）"
+   },
+   {
+    "name": "キンコーズ・銀座一丁目店",
+    "brand": "キンコーズ",
+    "distanceM": 531,
+    "walkMin": 7,
+    "hours": "平日 9:00-20:00／土 10:00-19:00／日・祝 休業",
+    "address": "東京都中央区銀座1丁目7-3 京橋三菱ビル1F",
+    "verified": true,
+    "source": "https://www.kinkos.co.jp/store/tokyo/t002/",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "3COINS +plus 西銀座デパート店",
+    "brand": "3COINS",
+    "distanceM": 85,
+    "walkMin": 2,
+    "hours": "11:00-20:00",
+    "address": "東京都中央区銀座4-1 西銀座デパート2F",
+    "verified": true,
+    "source": "https://palcloset.storelocator.jp/detail/2263",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "DAISO マロニエゲート銀座店",
+    "brand": "ダイソー",
+    "distanceM": 220,
+    "walkMin": 3,
+    "hours": "11:00-21:00",
+    "address": "東京都中央区銀座3-2-1 マロニエゲート銀座2 6階",
+    "verified": true,
+    "source": "https://www.daiso-sangyo.co.jp/shop/detail/009168",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "donki": [
+   {
+    "name": "ドン・キホーテ 銀座本館（銀座ナイン3号館）",
+    "brand": "ドン・キホーテ",
+    "distanceM": 645,
+    "walkMin": 9,
+    "hours": "24時間営業",
+    "address": "東京都中央区銀座8-10 銀座ナイン3号館",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=92",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "ドン・キホーテ ピカソ赤坂店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 2305,
+    "walkMin": 29,
+    "hours": "7:00-3:00",
+    "address": "東京都港区赤坂3-11-14",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=289",
+    "note": "距離は住所の位置で計算。ドン・キホーテ公式サイトの店舗名は「ピカソ赤坂店」。ドン・キホーテの別業態。遠い"
+   }
+  ]
+ },
+ "drinkDelivery": {
+  "available": true
+ },
+ "photo": {
+  "src": "/images/venues/yurakucho-asahi-hall.jpg",
+  "credit": "© Kakidai / CC BY-SA 4.0 · Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Yurakucho_Marion_2.jpg"
+ }
+}

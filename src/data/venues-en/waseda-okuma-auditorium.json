@@ -1,0 +1,104 @@
+{
+ "slug": "waseda-okuma-auditorium",
+ "name": "Waseda University Okuma Auditorium",
+ "address": "Tokyo 169-0071 1-104 Totsukamachi, Shinjuku-ku",
+ "accessSummary": "Waseda Station (Tokyo Metro Tozai Line): 5 min walk / Waseda Station (Tokyo Sakura Tram, Toden Arakawa Line): 5 min walk / Nishi-Waseda Station (Tokyo Metro Fukutoshin Line): 17 min walk",
+ "hours": "9:00-21:00 (including setup and cleanup time. Use outside these hours is by prior consultation; student groups cannot use it outside these hours)",
+ "notice": "A facility used for the university's official events and events hosted by university departments. Outside organizations may use it with permission only when the use is non-profit, of high academic value, open to Waseda students or the general public, and beneficial to the university without interfering with operations: (1) officially recognized student groups, (2) academic societies and associations whose president, chair or the like is a full-time Waseda faculty or staff member, and (3) other organizations approved by the university (inquire in advance). Commercial events such as performances and events that charge admission are declined. The facility is not available in February, March, early to mid April and August because of graduation ceremonies, entrance ceremonies, entrance examinations, maintenance inspections and the like (April 1, 2026 version).",
+ "rooms": [
+  {
+   "name": "Okuma Auditorium Main Auditorium (1F-3F)",
+   "note": "Fixed seating. 637 seats on the 1st floor (including 2 wheelchair seats) and 484 seats on the 2nd floor. Standing is prohibited. Sound equipment: 10 wired microphones, 6 wireless handheld microphones, 6 wireless pin microphones, 1 piano (YAMAHA CF), simultaneous interpretation equipment available (equipment overview as of June 2017)"
+  },
+  {
+   "name": "Okuma Auditorium Small Auditorium (B1F)",
+   "note": "Fixed seating. 1 piano (KAWAI RX-3). Events with sound require booking both the Main Auditorium and the Small Auditorium (equipment overview as of June 2017)"
+  }
+ ],
+ "ops": {
+  "prevDaySetup": "The application form has separate date and time fields for setup, the event and cleanup, and the usage time includes setup and cleanup work. Available hours are 9:00-21:00. Venue setup, AV equipment operation and lighting operation in the wings, and cleanup are done by the user. (Source: https://www.waseda.jp/culture/assets/uploads/2020/07/1okuma-shiyou1_200701.xls)",
+  "loadingHours": "Large equipment is loaded in and out through the loading entrance at the back of the auditorium. By 10 days before the usage date, notify Waseda University Property Management Co., Ltd. of the reason for entering the campus and the load-in and load-out dates and times. Loading from the plaza in front of the auditorium is by consultation. The auditorium management office does not hold luggage or receive courier deliveries (April 1, 2026 version). (Source: https://waseda.box.com/v/okumakodo-guide)",
+  "vehicleRules": "Parking at the loading entrance is limited to 1 hour and requires an advance application. There is no vehicle parking space on the university campus; if a vehicle must enter for equipment load-in or for a speaker, consult Property Management in advance (April 1, 2026 version). (Source: https://waseda.box.com/v/okumakodo-guide)",
+  "waitingRooms": "The Large Waiting Room (B1F) is a dressing-room type with makeup stations for 6 people, 15 long benches, 15 stools, 3 tables, 4 partitions, a sink, a wash basin, a refrigerator and a tea set, and Main Auditorium users have priority. The VIP Room (1F) can be used only by speakers (invited guests). The 1F waiting room has priority use by Main Auditorium users and the basement waiting room by Small Auditorium users (food and drink allowed). The management office is beside the elevator at the right end of the 1F lobby (waiting room equipment as of April 1, 2010; usage guide April 1, 2026 version). (Source: https://www.waseda.jp/culture/assets/uploads/2015/06/OkumaAuditoriumMainHallChambers.docx)",
+  "catering": "Eating and drinking are prohibited inside the auditorium (including the lobby). Water pitchers (mineral water) for speakers on stage, and eating and drinking in the waiting rooms and the Large Waiting Room, are allowed. In the lobby only, drinks with a tightly closing lid are allowed (April 1, 2026 version). (Source: https://waseda.box.com/v/okumakodo-guide)"
+ },
+ "documents": [
+  {
+   "title": "Okuma Auditorium Usage Guide (April 1, 2026 version)"
+  },
+  {
+   "title": "Okuma Auditorium Application Form [for on-campus and off-campus hosted events] (revised July 1, 2020)"
+  },
+  {
+   "title": "Auditorium Use Pledge (student groups and student use hosted by university departments, revised July 19, 2018)"
+  },
+  {
+   "title": "Sound & Video Equipment Use Application (May 17, 2021 version)"
+  },
+  {
+   "title": "Equipment Overview (sound and video) (as of June 1, 2017)"
+  },
+  {
+   "title": "Waiting Rooms (as of April 1, 2010)"
+  },
+  {
+   "title": "Rental Equipment List (November 21, 2025)"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "7-Eleven Bunkyo Sekiguchi 1-chome",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "7-Eleven Nishi-Waseda 1-chome",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "FamilyMart Waseda Tsurumakicho",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location."
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "Accea Waseda",
+    "hours": "Weekdays 9:00-20:00, Sat, Sun & holidays 10:00-19:00",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Accea Takadanobaba",
+    "hours": "Open 24 hours on weekdays (non-stop from Monday 8:00 to Saturday 19:00) / Sat until 19:00, Sun & holidays 10:00-19:00",
+    "note": "Distance is calculated from the address location. Rather far."
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "DAISO York Foods Waseda",
+    "hours": "10:00-22:00",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "DAISO Kusuri no Fukutaro Ichigaya Yanagicho",
+    "hours": "10:00-22:00",
+    "note": "Distance is calculated from the address location. Rather far."
+   }
+  ],
+  "donki": [
+   {
+    "name": "Don Quijote Shinjuku Meiji-dori",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. Rather far. The store name on the Don Quijote official site is \"Shinjuku Meiji-dori store\"."
+   },
+   {
+    "name": "Don Quijote Takadanobaba Ekimae",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. Rather far. The store name on the Don Quijote official site is \"Takadanobaba Ekimae store\"."
+   }
+  ]
+ },
+ "photoCredit": "© Wiiii / CC BY-SA 3.0 · Wikimedia Commons"
+}

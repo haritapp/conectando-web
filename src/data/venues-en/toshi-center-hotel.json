@@ -1,0 +1,155 @@
+{
+ "slug": "toshi-center-hotel",
+ "name": "Toshi Center Hotel",
+ "address": "Tokyo 102-0093 2-4-1 Hirakawacho, Chiyoda-ku",
+ "accessSummary": "Nagatacho Station (Tokyo Metro Yurakucho, Hanzomon and Namboku Lines) Exits 9a and 9b: about 3 min walk / same station Exits 4 and 5: about 4 min walk / Kojimachi Station (Yurakucho Line) Exit 1: about 4 min walk / Akasaka-mitsuke Station (Marunouchi and Ginza Lines) Exit D: about 8 min walk / Yotsuya Station (JR Chuo Line) Kojimachi Exit: about 14 min walk",
+ "hours": "Meeting rooms can be used from 9:00 to 21:00. Reservations for meetings and banquets are accepted 9:00-18:00 (Sales & Banquet Section, 03-5216-8819). When used as an exhibition, 50% is added to the meeting room fee (100% for the 5F meeting rooms). The wired LAN line fee for meeting rooms is 11,000 yen (wireless LAN is free) (price list 2025.4)",
+ "notice": null,
+ "rooms": [
+  {
+   "name": "3F Cosmos Hall (Entire Hall)",
+   "note": "Round-table seated dinner for 350, comb-table seated dinner for 528. Can be divided in two. Classroom for 504 is 3 per desk (2 per desk in the price list: 336). Room fee (price list 2025.4, tax and service charge included): Full day (9:00-21:00) 1,512,500 yen / One day (9:00-17:00 or 13:00-21:00) 1,149,500 yen / 3 hours (apply from 30 days before the use date) 726,000 yen / Extra hour (8:00-22:00) 217,800 yen / Banquet (2 hours) 338,800 yen"
+  },
+  {
+   "name": "3F Cosmos Hall I & II (Split Use)",
+   "note": "Area and capacities when divided. For example, I: classroom 252 seats and II: standing reception, or I: theater 384 seats. Classroom for 252 is 3 per desk (2 per desk in the price list: 168). Room fee (price list 2025.4, tax and service charge included): Full day (9:00-21:00) 907,500 yen / One day (9:00-17:00 or 13:00-21:00) 726,000 yen / 3 hours (apply from 30 days before the use date) 423,500 yen / Extra hour (8:00-22:00) 157,300 yen / Banquet (2 hours) 242,000 yen"
+  },
+  {
+   "name": "5F Orion",
+   "note": "Comb-table seated dinner for 240. Classroom for 225 is 3 per desk (2 per desk in the price list: 150). Room fee (price list 2025.4, tax and service charge included): Full day (9:00-21:00) 726,000 yen / One day (9:00-17:00 or 13:00-21:00) 605,000 yen / 3 hours (apply from 30 days before the use date) 363,000 yen / Extra hour (8:00-22:00) 96,800 yen / Banquet (2 hours) 181,500 yen"
+  },
+  {
+   "name": "5F Subaru",
+   "note": "Comb-table seated dinner for 90. Classroom for 72 is 3 per desk (2 per desk in the price list: 48). Room fee (price list 2025.4, tax and service charge included): Full day (9:00-21:00) 302,500 yen / One day (9:00-17:00 or 13:00-21:00) 242,000 yen / 3 hours (apply from 30 days before the use date) 151,250 yen / Extra hour (8:00-22:00) 30,250 yen / Banquet (2 hours) 60,500 yen"
+  },
+  {
+   "name": "5F Kiku (Reception Room)",
+   "note": "Reception style for 8 (shown as 8 in the square-shaped column of the price list). Room fee (price list 2025.4, tax and service charge included): Full day (9:00-21:00) 96,800 yen / One day (9:00-17:00 or 13:00-21:00) 72,600 yen / 3 hours (apply from 30 days before the use date) 42,350 yen / Extra hour (8:00-22:00) 12,100 yen / Banquet (2 hours) 24,200 yen"
+  },
+  {
+   "name": "5F Sakura",
+   "note": "Room fee (price list 2025.4, tax and service charge included): Full day (9:00-21:00) 96,800 yen / One day (9:00-17:00 or 13:00-21:00) 72,600 yen / 3 hours (apply from 30 days before the use date) 42,350 yen / Extra hour (8:00-22:00) 12,100 yen / Banquet (2 hours) 24,200 yen"
+  },
+  {
+   "name": "5F Ran",
+   "note": "Room fee (price list 2025.4, tax and service charge included): Full day (9:00-21:00) 96,800 yen / One day (9:00-17:00 or 13:00-21:00) 72,600 yen / 3 hours (apply from 30 days before the use date) 42,350 yen / Extra hour (8:00-22:00) 12,100 yen / Banquet (2 hours) 24,200 yen"
+  },
+  {
+   "name": "5F Matsu",
+   "note": "Comb-table seated dinner for 48. Room fee (price list 2025.4, tax and service charge included): Full day (9:00-21:00) 133,100 yen / One day (9:00-17:00 or 13:00-21:00) 108,900 yen / 3 hours (apply from 30 days before the use date) 72,600 yen / Extra hour (8:00-22:00) 18,150 yen / Banquet (2 hours) 36,300 yen"
+  },
+  {
+   "name": "6F Medium Meeting Room 601",
+   "note": "Comb-table seated dinner for 138. Classroom for 108 is 3 per desk (2 per desk in the price list: 72). Room fee (price list 2025.4, tax and service charge included): Full day (9:00-21:00) 302,500 yen / One day (9:00-17:00 or 13:00-21:00) 242,000 yen / 3 hours (apply from 30 days before the use date) 151,250 yen / Extra hour (8:00-22:00) 30,250 yen / Banquet (2 hours) 60,500 yen"
+  },
+  {
+   "name": "6F Small Meeting Room 602",
+   "note": "Island layout for 12. Can also be used as a waiting room. Room fee (price list 2025.4, tax and service charge included): Full day (9:00-21:00) 66,550 yen / One day (9:00-17:00 or 13:00-21:00) 48,400 yen / 3 hours (apply from 30 days before the use date) 30,250 yen / Extra hour (8:00-22:00) 9,075 yen / Banquet (2 hours) 18,150 yen"
+  },
+  {
+   "name": "6F Small Meeting Rooms 603, 604, 605, 607, 608 and 609 (each)",
+   "note": "6 rooms. Comb-table seated dinner for 48. Room fee (price list 2025.4, tax and service charge included): Full day (9:00-21:00) 121,000 yen / One day (9:00-17:00 or 13:00-21:00) 96,800 yen / 3 hours (apply from 30 days before the use date) 60,500 yen / Extra hour (8:00-22:00) 12,100 yen / Banquet (2 hours) 24,200 yen"
+  },
+  {
+   "name": "6F Medium Meeting Room 606",
+   "note": "Comb-table seated dinner for 120. Classroom for 108 is 3 per desk (2 per desk in the price list: 72). Room fee (price list 2025.4, tax and service charge included): Full day (9:00-21:00) 302,500 yen / One day (9:00-17:00 or 13:00-21:00) 242,000 yen / 3 hours (apply from 30 days before the use date) 151,250 yen / Extra hour (8:00-22:00) 30,250 yen / Banquet (2 hours) 60,500 yen"
+  },
+  {
+   "name": "7F Medium Meeting Room 701",
+   "note": "Comb-table seated dinner for 108. Classroom for 72 is 3 per desk (2 per desk in the price list: 48). Room fee (price list 2025.4, tax and service charge included): Full day (9:00-21:00) 242,000 yen / One day (9:00-17:00 or 13:00-21:00) 181,500 yen / 3 hours (apply from 30 days before the use date) 121,000 yen / Extra hour (8:00-22:00) 30,250 yen / Banquet (2 hours) 60,500 yen"
+  },
+  {
+   "name": "7F Small Meeting Room 702",
+   "note": "Island layout for 12. Can also be used as a waiting room. Room fee (price list 2025.4, tax and service charge included): Full day (9:00-21:00) 66,550 yen / One day (9:00-17:00 or 13:00-21:00) 48,400 yen / 3 hours (apply from 30 days before the use date) 30,250 yen / Extra hour (8:00-22:00) 9,075 yen / Banquet (2 hours) 18,150 yen"
+  },
+  {
+   "name": "7F Small Meeting Rooms 703, 704, 705, 707, 708 and 709 (each)",
+   "note": "6 rooms. Comb-table seated dinner for 48. Room fee (price list 2025.4, tax and service charge included): Full day (9:00-21:00) 121,000 yen / One day (9:00-17:00 or 13:00-21:00) 96,800 yen / 3 hours (apply from 30 days before the use date) 60,500 yen / Extra hour (8:00-22:00) 12,100 yen / Banquet (2 hours) 24,200 yen"
+  },
+  {
+   "name": "7F Medium Meeting Room 706",
+   "note": "Comb-table seated dinner for 108. Classroom for 72 is 3 per desk (2 per desk in the price list: 48). Room fee (price list 2025.4, tax and service charge included): Full day (9:00-21:00) 242,000 yen / One day (9:00-17:00 or 13:00-21:00) 181,500 yen / 3 hours (apply from 30 days before the use date) 121,000 yen / Extra hour (8:00-22:00) 30,250 yen / Banquet (2 hours) 60,500 yen"
+  }
+ ],
+ "ops": {
+  "loadingHours": "The reserved time includes setup and teardown, and the venue opens 30 minutes before the reserved time on the day. Arrange with the carrier for packages to arrive within the reserved time; they are accepted from the day before. If a vendor you have engaged will decorate the venue or similar, notify the hotel in advance by phone (03-5216-8819). Loading and unloading of decorations and equipment, and the size, mounting method and location of signs, follow the rules the hotel explains to vendors.",
+  "parking": "The parking lot has 103 spaces; the basic fee is 400 yen per 20 minutes (standard cars). The mechanical parking for standard cars accepts vehicles up to 1.55 m high, 1.90 m wide, 5.3 m long and 2.3 t. For meeting room and banquet hall use, 2 spaces for the organizer are free; request them when booking. Buses (groups only, reservation required) can park in the bus yard; for overnight stays, medium and large buses cost 5,000 yen per night. If the lot is full, use nearby coin parking.",
+  "waitingRooms": "The 3F Cosmos Hall has a waiting room (31㎡, ceiling height 2.8 m). The 5F Kiku (47㎡) is a reception room for up to 8 people, and Sakura and Ran (47㎡ each) are also introduced as available for use as waiting rooms. The 6F 602 and 7F 702 (33㎡ each) can also be used as waiting rooms. Waiting room fees: full day 36,300 yen / one day 24,200 yen / 3 hours 18,150 yen / extra hour 6,050 yen (price list 2025.4, tax and service charge included).",
+  "catering": "Bringing in food and drink is prohibited under the Meeting, Banquet and Event Terms. Decorations, flowers, signs and special equipment are arranged by the hotel's designated vendors; to use a vendor other than the designated ones, prior approval from the hotel is required (dated April 1, 2019). For banquet cuisine, an example course is 9,680 yen and an example buffet is 7,260 yen (tax and service charge included). When the banquet food cost is 7,260 yen or more, the room fee is the \"banquet room fee (2 hours)\"; when it is under 7,260 yen, the 3-hour rate applies.",
+  "restaurants": "The hotel has Restaurant IRIS (lobby floor, 80 seats), Japanese Restaurant BAIRIN (1F, 127 seats, including 40 seats in private rooms) and LOUNGE (lobby floor, 57 seats). The official site says they can also be used for after-parties and networking gatherings. BAIRIN's private rooms are Yuki-no-Ma and the Western-style private rooms for 2 to 8 guests, and Tsuki-no-Ma + Hana-no-Ma for 26 guests (room fees are 5,500 yen / 11,000 yen for 2 hours)."
+ },
+ "documents": [
+  {
+   "title": "Meeting Room & Banquet Hall Price List (2025.4)"
+  },
+  {
+   "title": "Meeting, Banquet and Event Terms (April 1, 2019)"
+  },
+  {
+   "title": "Meeting Plan (April 1, 2026 - March 31, 2027)"
+  },
+  {
+   "title": "Party Plan (April 1, 2026 - March 31, 2027)"
+  },
+  {
+   "title": "Meeting Room Discount & Availability Calendar (November 2026 - March 2027)"
+  },
+  {
+   "title": "Guide to Use (Preparation and Day-of Flow)"
+  },
+  {
+   "title": "Floor Map"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "Lawson Hirakawacho 1-chome",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location"
+   },
+   {
+    "name": "FamilyMart Kioicho",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location"
+   },
+   {
+    "name": "FamilyMart Kioicho Sanbanchi",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location"
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "Kinko's Kojimachi",
+    "hours": "Weekdays 9:00-19:00 / Closed Sat, Sun & holidays",
+    "note": "Distance is calculated from the address location"
+   },
+   {
+    "name": "Accea Kojimachi",
+    "hours": "Weekdays, Sat, Sun & holidays 8:00-20:00",
+    "note": "Distance is calculated from the address location"
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Can Do Akasaka Hitotsugi-dori",
+    "hours": "Mon-Fri 9:00-21:00 / Sat-Sun 9:00-20:00",
+    "note": "Distance is calculated from the official store location"
+   }
+  ],
+  "donki": [
+   {
+    "name": "Picasso Akasaka (Don Quijote)",
+    "hours": "7:00-3:00",
+    "note": "Distance is calculated from the address location. The store name on the Don Quijote official website is \"Picasso Akasaka\" (ピカソ赤坂店). A different format of Don Quijote."
+   },
+   {
+    "name": "Don Quijote Roppongi",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. The store name on the Don Quijote official website is \"Roppongi\" (六本木店). Far."
+   }
+  ]
+ },
+ "photoCredit": "© Abasaa / Public domain · Wikimedia Commons"
+}

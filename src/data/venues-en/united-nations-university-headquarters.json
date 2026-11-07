@@ -1,0 +1,112 @@
+{
+ "slug": "united-nations-university-headquarters",
+ "name": "United Nations University Headquarters",
+ "address": "Tokyo 150-8925 5-53-70 Jingumae, Shibuya-ku",
+ "accessSummary": "Omotesando Station (Tokyo Metro) Exit B2: walk / Shibuya Station (JR, Tokyo Metro, Keio, Tokyu) Exit B2 or B3: walk",
+ "hours": "The building is open Monday to Friday 9:30-17:30. Use outside opening hours (before 9:30 and after 17:30), on Saturdays and Sundays, and on UNU holidays carries a 40% surcharge on the total usage fee.",
+ "notice": "Rentals are made to UN agencies and third parties (international organizations, public bodies, embassies, private companies, etc.); commercial, political and religious activities are not permitted, and the final decision rests with UNU (Conference Facilities Guidelines, revised June 2023). The International Conference Hall usage guide page is aimed at academic and non-profit organizations",
+ "rooms": [
+  {
+   "name": "U Thant International Conference Hall (3F & 4F)",
+   "note": "Fixed desks and seats in theater style. 304 seats in the 3F main hall and 60 seats in the 4F gallery, 364 seats in total. 3 interpretation booths. The layout cannot be changed. Fees: 545,000 yen for a full day / 363,000 yen for a half day."
+  },
+  {
+   "name": "Elizabeth Rose Conference Hall (5F)",
+   "note": "Fixed desks and seats in a square (hollow-square) layout, with auxiliary seats in 3 rows along 2 sides of the square. Capacity 110 to 160. 3 interpretation booths (6F). The layout cannot be changed. Fees: 242,000 yen for a full day / 157,000 yen for a half day. The usage guide page says 110 seats; the guidelines (the newer one) say 110 to 160 seats."
+  },
+  {
+   "name": "Reception Hall (2F)",
+   "note": "Standing reception for up to 100 to 150. 14 long tables, 6 round tables for catering, 145 chairs. Fees: 206,000 yen for a full day / 121,000 yen for a half day. The usage guide page says 120 to 150 seats; the guidelines (the newer one) say 100 to 150."
+  },
+  {
+   "name": "Annex Space (1F)",
+   "note": "Capacity 100 to 120. Private entrance. 200 chairs and more. Fees: 240,000 yen for a full day / 150,000 yen for a half day."
+  },
+  {
+   "name": "Annex Terrace (1F)",
+   "note": "Capacity 25 to 40. 9 small meeting tables, 60 chairs. Fees: full day 50,000 yen when used together with Annex Space, 156,000 yen alone. Half day 45,000 yen together, 105,000 yen alone."
+  },
+  {
+   "name": "Committee Room 1 (5F)",
+   "note": "Capacity 20 seats. The usage guide page says 25 seats each; the guidelines (the newer one) say 20 seats."
+  },
+  {
+   "name": "Committee Rooms 2 & 3 (5F)",
+   "note": "Capacity 25 each."
+  }
+ ],
+ "ops": {
+  "prevDaySetup": "There is no statement allowing day-before setup or day-before load-in; preparation and teardown are done within the usage time. In addition to the venue usage time, up to 4 hours in total can be used free of charge for preparation before the event and teardown after it. The half-day and full-day fees of the main venues, such as the U Thant International Conference Hall, also include up to 4 hours for preparation and cleanup. (Source: UNU Conference Facilities Guidelines, revised June 2023)",
+  "vehicleRules": "For security reasons there is basically no parking lot; if you need to park a vehicle, you are directed to nearby private parking lots (Cosmos Aoyama Building, Oval Building, etc.). If you wish to use a vehicle for reasons such as a wheelchair, tell UNU when booking. Vehicles such as taxis can drive up to the front of the facility. (Source: UNU Conference Facilities Guidelines, revised June 2023)",
+  "parking": "There is no parking lot for visitors. Use of nearby private parking lots (Cosmos Aoyama Building, Oval Building, etc.) is recommended.",
+  "waitingRooms": "Use of the U Thant International Conference Hall includes the Visitor's Room (VIP Room), Meeting Room, Multi-Purpose Room, pantry, 3F foyer and 2F registration area. Use of the Elizabeth Rose Conference Hall includes the Visitor's Room (VIP Room), Staff Room, Lounge, pantry (if required), 5F foyer, information counter and 2F registration area. (Source: UNU Conference Facilities Guidelines, revised June 2023)",
+  "catering": "Bringing in food and drink other than water, and eating and drinking inside the venues, is not allowed unless otherwise agreed by both parties. Prior approval is required to provide food and drink catering on the premises or nearby. Catering service costs are borne by the user. The official FAQ says water or tea in a bottle may be brought in, and for coffee breaks, book the 2F Reception Hall or a room attached to each venue. The Reception Hall and the Annex Space have a pantry that can be used to prepare catering. (Source: UNU Conference Facilities Guidelines, revised June 2023)"
+ },
+ "documents": [
+  {
+   "title": "UNU Conference Facilities Guidelines (revised June 2023; the PDF file name carries the November 2024 version)"
+  },
+  {
+   "title": "Conference Management Unit: Reservation Process Flowchart (April 2025 edition)"
+  },
+  {
+   "title": "International Conference Hall Usage Guide (Basic Conditions for Third-Party Use, FAQ)"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "FamilyMart Aoyama Oval Building",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location"
+   },
+   {
+    "name": "7-Eleven Shibuya 2-chome",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location"
+   },
+   {
+    "name": "7-Eleven Shibuya Jingumae 5-chome",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location"
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "Accea Shibuya Aoyama-dori",
+    "hours": "Weekdays 8:00-22:00, Sat, Sun & holidays 10:00-19:00",
+    "note": "Distance is calculated from the address location"
+   },
+   {
+    "name": "Accea Omotesando",
+    "hours": "Weekdays 9:00-20:00 / Closed Sat, Sun & holidays",
+    "note": "Distance is calculated from the address location"
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "DAISO Shibuya Mark City",
+    "hours": "9:30-21:00",
+    "note": "Distance is calculated from the address location. The same building also has \"Standard Products Shibuya Mark City\" (9:30-21:00)."
+   },
+   {
+    "name": "DAISO Shibuya Center-gai",
+    "hours": "10:00-21:30",
+    "note": "Distance is calculated from the address location. Rather far."
+   }
+  ],
+  "donki": [
+   {
+    "name": "MEGA Don Quijote Shibuya Main Store",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location"
+   },
+   {
+    "name": "MEGA Don Quijote Shibuya Annex",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. Rather far."
+   }
+  ]
+ },
+ "photoCredit": "© Wiiii / CC BY-SA 3.0 · Wikimedia Commons"
+}

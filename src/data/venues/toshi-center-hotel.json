@@ -1,0 +1,354 @@
+{
+ "slug": "toshi-center-hotel",
+ "nameJa": "都市センターホテル",
+ "nameEn": "TOSHI CENTER HOTEL",
+ "type": "hotel",
+ "area": "toranomon-roppongi-venues",
+ "address": "〒102-0093 東京都千代田区平河町2-4-1",
+ "officialUrl": "https://www.rihga.co.jp/toshicenter/",
+ "organizerUrl": "https://www.rihga.co.jp/toshicenter/meeting/",
+ "bizintokyoSlug": "toshi-center-hotel",
+ "accessSummary": "東京メトロ 有楽町線・半蔵門線・南北線 永田町駅 9a・9b番出口 徒歩約3分／同 4番・5番出口 徒歩約4分／有楽町線 麹町駅 1番出口 徒歩約4分／丸ノ内線・銀座線 赤坂見附駅 D出口 徒歩約8分／JR中央線 四ツ谷駅 麹町口 徒歩約14分",
+ "notice": null,
+ "hours": "会議室の利用時間は午前9時から午後9時まで。会議・宴会の予約受付は9:00〜18:00（営業・宴会課 03-5216-8819）。展示会として利用する場合は会議室料金の50%を加算（5階会議室は100%加算）。会議室の有線LAN回線使用料は11,000円（無線LANは無料）（料金表2025.4）",
+ "rooms": [
+  {
+   "name": "3階 コスモスホール（全体）",
+   "areaM2": 634,
+   "ceilingM": 5.7,
+   "theater": 750,
+   "school": 504,
+   "ushape": null,
+   "standing": 500,
+   "banquet": 350,
+   "note": "丸テーブル正餐350名、櫛テーブル正餐528名。2分割して利用できる。スクール504名は3名掛け（料金表では2名掛け336名）。室料（料金表2025.4、税・サービス料込）：全日（9〜21時）1,512,500円／1日（9〜17時または13〜21時）1,149,500円／3時間（使用日の30日前から申込）726,000円／追加1時間（8〜22時）217,800円／宴会（2時間）338,800円"
+  },
+  {
+   "name": "3階 コスモスホールⅠ・Ⅱ（分割利用）",
+   "areaM2": 324,
+   "ceilingM": 5.7,
+   "theater": 384,
+   "school": 252,
+   "ushape": null,
+   "standing": 250,
+   "banquet": 160,
+   "note": "分割時の面積・人数。例としてⅠ：スクール252席・Ⅱ：立食パーティ、またはⅠ：シアター384席。スクール252名は3名掛け（料金表では2名掛け168名）。室料（料金表2025.4、税・サービス料込）：全日（9〜21時）907,500円／1日（9〜17時または13〜21時）726,000円／3時間（使用日の30日前から申込）423,500円／追加1時間（8〜22時）157,300円／宴会（2時間）242,000円"
+  },
+  {
+   "name": "5階 オリオン",
+   "areaM2": 298,
+   "ceilingM": 3.0,
+   "theater": 340,
+   "school": 225,
+   "ushape": 90,
+   "standing": 200,
+   "banquet": 150,
+   "note": "櫛テーブル正餐240名。スクール225名は3名掛け（料金表では2名掛け150名）。室料（料金表2025.4、税・サービス料込）：全日（9〜21時）726,000円／1日（9〜17時または13〜21時）605,000円／3時間（使用日の30日前から申込）363,000円／追加1時間（8〜22時）96,800円／宴会（2時間）181,500円"
+  },
+  {
+   "name": "5階 スバル",
+   "areaM2": 125,
+   "ceilingM": 3.0,
+   "theater": 112,
+   "school": 72,
+   "ushape": 48,
+   "standing": 60,
+   "banquet": 50,
+   "note": "櫛テーブル正餐90名。スクール72名は3名掛け（料金表では2名掛け48名）。室料（料金表2025.4、税・サービス料込）：全日（9〜21時）302,500円／1日（9〜17時または13〜21時）242,000円／3時間（使用日の30日前から申込）151,250円／追加1時間（8〜22時）30,250円／宴会（2時間）60,500円"
+  },
+  {
+   "name": "5階 菊（応接室）",
+   "areaM2": 47,
+   "ceilingM": 2.8,
+   "theater": null,
+   "school": null,
+   "ushape": 8,
+   "standing": null,
+   "banquet": null,
+   "note": "応接スタイル8名（料金表では口型欄に8）。室料（料金表2025.4、税・サービス料込）：全日（9〜21時）96,800円／1日（9〜17時または13〜21時）72,600円／3時間（使用日の30日前から申込）42,350円／追加1時間（8〜22時）12,100円／宴会（2時間）24,200円"
+  },
+  {
+   "name": "5階 桜",
+   "areaM2": 47,
+   "ceilingM": 2.8,
+   "theater": null,
+   "school": 16,
+   "ushape": 16,
+   "standing": null,
+   "banquet": null,
+   "note": "室料（料金表2025.4、税・サービス料込）：全日（9〜21時）96,800円／1日（9〜17時または13〜21時）72,600円／3時間（使用日の30日前から申込）42,350円／追加1時間（8〜22時）12,100円／宴会（2時間）24,200円"
+  },
+  {
+   "name": "5階 蘭",
+   "areaM2": 47,
+   "ceilingM": 2.8,
+   "theater": null,
+   "school": 16,
+   "ushape": 16,
+   "standing": null,
+   "banquet": null,
+   "note": "室料（料金表2025.4、税・サービス料込）：全日（9〜21時）96,800円／1日（9〜17時または13〜21時）72,600円／3時間（使用日の30日前から申込）42,350円／追加1時間（8〜22時）12,100円／宴会（2時間）24,200円"
+  },
+  {
+   "name": "5階 松",
+   "areaM2": 70,
+   "ceilingM": 2.8,
+   "theater": 50,
+   "school": 30,
+   "ushape": 24,
+   "standing": 40,
+   "banquet": 30,
+   "note": "櫛テーブル正餐48名。室料（料金表2025.4、税・サービス料込）：全日（9〜21時）133,100円／1日（9〜17時または13〜21時）108,900円／3時間（使用日の30日前から申込）72,600円／追加1時間（8〜22時）18,150円／宴会（2時間）36,300円"
+  },
+  {
+   "name": "6階 中会議室601",
+   "areaM2": 166,
+   "ceilingM": 3.0,
+   "theater": 176,
+   "school": 108,
+   "ushape": 60,
+   "standing": 110,
+   "banquet": 80,
+   "note": "櫛テーブル正餐138名。スクール108名は3名掛け（料金表では2名掛け72名）。室料（料金表2025.4、税・サービス料込）：全日（9〜21時）302,500円／1日（9〜17時または13〜21時）242,000円／3時間（使用日の30日前から申込）151,250円／追加1時間（8〜22時）30,250円／宴会（2時間）60,500円"
+  },
+  {
+   "name": "6階 小会議室602",
+   "areaM2": 33,
+   "ceilingM": 2.8,
+   "theater": null,
+   "school": null,
+   "ushape": 12,
+   "standing": null,
+   "banquet": null,
+   "note": "島型12名。控え室としても利用できる。室料（料金表2025.4、税・サービス料込）：全日（9〜21時）66,550円／1日（9〜17時または13〜21時）48,400円／3時間（使用日の30日前から申込）30,250円／追加1時間（8〜22時）9,075円／宴会（2時間）18,150円"
+  },
+  {
+   "name": "6階 小会議室603・604・605・607・608・609（各室）",
+   "areaM2": 70,
+   "ceilingM": 2.8,
+   "theater": 50,
+   "school": 30,
+   "ushape": 30,
+   "standing": 40,
+   "banquet": 30,
+   "note": "6室。櫛テーブル正餐48名。室料（料金表2025.4、税・サービス料込）：全日（9〜21時）121,000円／1日（9〜17時または13〜21時）96,800円／3時間（使用日の30日前から申込）60,500円／追加1時間（8〜22時）12,100円／宴会（2時間）24,200円"
+  },
+  {
+   "name": "6階 中会議室606",
+   "areaM2": 157,
+   "ceilingM": 3.0,
+   "theater": 154,
+   "school": 108,
+   "ushape": 54,
+   "standing": 100,
+   "banquet": 80,
+   "note": "櫛テーブル正餐120名。スクール108名は3名掛け（料金表では2名掛け72名）。室料（料金表2025.4、税・サービス料込）：全日（9〜21時）302,500円／1日（9〜17時または13〜21時）242,000円／3時間（使用日の30日前から申込）151,250円／追加1時間（8〜22時）30,250円／宴会（2時間）60,500円"
+  },
+  {
+   "name": "7階 中会議室701",
+   "areaM2": 125,
+   "ceilingM": 3.0,
+   "theater": 112,
+   "school": 72,
+   "ushape": 48,
+   "standing": 70,
+   "banquet": 60,
+   "note": "櫛テーブル正餐108名。スクール72名は3名掛け（料金表では2名掛け48名）。室料（料金表2025.4、税・サービス料込）：全日（9〜21時）242,000円／1日（9〜17時または13〜21時）181,500円／3時間（使用日の30日前から申込）121,000円／追加1時間（8〜22時）30,250円／宴会（2時間）60,500円"
+  },
+  {
+   "name": "7階 小会議室702",
+   "areaM2": 33,
+   "ceilingM": 2.8,
+   "theater": null,
+   "school": null,
+   "ushape": 12,
+   "standing": null,
+   "banquet": null,
+   "note": "島型12名。控え室としても利用できる。室料（料金表2025.4、税・サービス料込）：全日（9〜21時）66,550円／1日（9〜17時または13〜21時）48,400円／3時間（使用日の30日前から申込）30,250円／追加1時間（8〜22時）9,075円／宴会（2時間）18,150円"
+  },
+  {
+   "name": "7階 小会議室703・704・705・707・708・709（各室）",
+   "areaM2": 70,
+   "ceilingM": 2.8,
+   "theater": 50,
+   "school": 30,
+   "ushape": 30,
+   "standing": 40,
+   "banquet": 30,
+   "note": "6室。櫛テーブル正餐48名。室料（料金表2025.4、税・サービス料込）：全日（9〜21時）121,000円／1日（9〜17時または13〜21時）96,800円／3時間（使用日の30日前から申込）60,500円／追加1時間（8〜22時）12,100円／宴会（2時間）24,200円"
+  },
+  {
+   "name": "7階 中会議室706",
+   "areaM2": 125,
+   "ceilingM": 3.0,
+   "theater": 112,
+   "school": 72,
+   "ushape": 48,
+   "standing": 70,
+   "banquet": 60,
+   "note": "櫛テーブル正餐108名。スクール72名は3名掛け（料金表では2名掛け48名）。室料（料金表2025.4、税・サービス料込）：全日（9〜21時）242,000円／1日（9〜17時または13〜21時）181,500円／3時間（使用日の30日前から申込）121,000円／追加1時間（8〜22時）30,250円／宴会（2時間）60,500円"
+  }
+ ],
+ "roomsSource": "https://www.rihga.co.jp/toshicenter/meeting/（室料は https://rihga.meclib.jp/rtc-meeting-charge-202504/book/index.html）",
+ "ops": {
+  "loadingHours": {
+   "text": "会場のご予約時間には準備・撤去の時間を含み、当日はご予約時間の30分前に開場する。お荷物の送付は、予約時間内に到着するよう配送会社へ手配し、前日到着から受け付けている。依頼した業者が会場装飾などを行う場合は、事前に電話（03-5216-8819）で連絡する。装飾・機器の搬入・搬出、看板のサイズ・取付方法・設置場所は、ホテルが業者へ説明するルールに従う。",
+   "source": "https://www.rihga.co.jp/toshicenter/meeting/guide/flow2.html"
+  },
+  "parking": {
+   "text": "駐車場は103台で、基本料金は20分400円（普通車）。普通車用の機械式駐車場は高さ1.55m・幅1.90m・長さ5.3m・重量2.3tまで。会議室・宴会場の利用では主催者の2台分が無料で、予約の際に申し出る。バス（団体のみ・要予約）はバスヤードに駐車でき、宿泊利用時は中・大型バス1泊5,000円。満車の場合は近隣のコインパーキングを利用する。",
+   "source": "https://www.rihga.co.jp/toshicenter/access/"
+  },
+  "waitingRooms": {
+   "text": "3階コスモスホールには控室（31㎡、天井高2.8m）がある。5階の菊（47㎡）は8名までの応接室で、桜・蘭（各47㎡）も控え室としての利用が案内されている。6階の602・7階の702（各33㎡）も控え室として利用できる。　控室の室料は、全日36,300円／1日24,200円／3時間18,150円／追加1時間6,050円（料金表2025.4、税・サービス料込）。",
+   "source": "https://www.rihga.co.jp/toshicenter/meeting/venue/cosmos"
+  },
+  "catering": {
+   "text": "会議・宴会・催事規約で飲食の持ち込みは禁止事項。装飾・装花・看板・特殊な機器はホテルが指定業者に手配し、指定業者以外を使う場合は事前にホテルの了解が必要（2019年4月1日付）。宴会の料理は、コース料理の一例9,680円、ビュッフェ料理の一例7,260円（税・サービス料込）。宴会料理代が7,260円以上のとき室料は「宴会室料（2時間）」、7,260円未満のときは3時間料金。",
+   "source": "https://rihga.meclib.jp/rtc-policy-banquet-terms/book/index.html"
+  },
+  "restaurants": {
+   "text": "館内にレストラン アイリス（ロビー階・80席）、和食処 梅林（1階・127席、うち個室40席）、ラウンジ（ロビー階・57席）がある。公式は2次会や懇親会にも利用できると案内している。梅林の個室は雪の間・洋個室が2〜8名、月の間＋花の間が26名（室料は2時間5,500円／11,000円）。",
+   "source": "https://www.rihga.co.jp/toshicenter/meeting/"
+  }
+ },
+ "documents": [
+  {
+   "title": "会議室・宴会場 料金表（2025.4）",
+   "url": "https://rihga.meclib.jp/rtc-meeting-charge-202504/book/index.html"
+  },
+  {
+   "title": "会議・宴会・催事規約（2019年4月1日）",
+   "url": "https://rihga.meclib.jp/rtc-policy-banquet-terms/book/index.html"
+  },
+  {
+   "title": "ミーティングプラン（2026年4月1日〜2027年3月31日）",
+   "url": "https://rihga.meclib.jp/rtc-meeting-plan-202604/book/index.html"
+  },
+  {
+   "title": "パーティプラン（2026年4月1日〜2027年3月31日）",
+   "url": "https://rihga.meclib.jp/rtc-meeting-banquet-party-plan-202604/book/index.html"
+  },
+  {
+   "title": "会議室割引・空室状況カレンダー（2026年11月〜2027年3月）",
+   "url": "https://rihga.meclib.jp/library/books/rtc-meeting-calendar-202611/book/index.html"
+  },
+  {
+   "title": "ご利用のご案内（事前準備・当日の流れ）",
+   "url": "https://www.rihga.co.jp/toshicenter/meeting/guide/"
+  },
+  {
+   "title": "フロアマップ",
+   "url": "https://www.rihga.co.jp/toshicenter/facilities/floor_map"
+  }
+ ],
+ "checkedAt": "2026-11-07",
+ "lat": 35.681808,
+ "lng": 139.738815,
+ "nearby": {
+  "convenience": [
+   {
+    "name": "ローソン 平河町一丁目店",
+    "brand": "ローソン",
+    "distanceM": 87,
+    "walkMin": 2,
+    "hours": "24時間営業",
+    "address": "東京都千代田区平河町1-6-8",
+    "verified": true,
+    "source": "https://www.areamarker.com/lawson/info/381054",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "ファミリーマート 紀尾井町店",
+    "brand": "ファミリーマート",
+    "distanceM": 124,
+    "walkMin": 2,
+    "hours": "24時間営業",
+    "address": "東京都千代田区紀尾井町3-33",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/17737",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "ファミリーマート 紀尾井町三番地店",
+    "brand": "ファミリーマート",
+    "distanceM": 133,
+    "walkMin": 2,
+    "hours": "24時間営業",
+    "address": "東京都千代田区紀尾井町3-20",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/77430",
+    "note": "距離は公式の店舗位置で計算"
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "キンコーズ・麹町店",
+    "brand": "キンコーズ",
+    "distanceM": 287,
+    "walkMin": 4,
+    "hours": "平日 9:00-19:00／土・日・祝 休業",
+    "address": "東京都千代田区麹町2丁目3-9 麹町プレイス1F",
+    "verified": true,
+    "source": "https://www.kinkos.co.jp/store/tokyo/t046/",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "アクセア 麹町店",
+    "brand": "アクセア",
+    "distanceM": 316,
+    "walkMin": 4,
+    "hours": "平日・土日祝 8:00-20:00",
+    "address": "東京都千代田区麹町2-4-11 麹町スクエアプラザ2F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/entry.html",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Can★Do 赤坂一ツ木通り店",
+    "brand": "キャンドゥ",
+    "distanceM": 771,
+    "walkMin": 10,
+    "hours": "月〜金 9:00-21:00／土〜日 9:00-20:00",
+    "address": "東京都港区赤坂3-17-10 フローレンス一ツ木ビル1階",
+    "verified": true,
+    "source": "https://shopinfo.cando-web.co.jp/detail/shop-5207/",
+    "note": "距離は公式の店舗位置で計算"
+   }
+  ],
+  "donki": [
+   {
+    "name": "ドン・キホーテ ピカソ赤坂店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 787,
+    "walkMin": 10,
+    "hours": "7:00-3:00",
+    "address": "東京都港区赤坂3-11-14",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=289",
+    "note": "距離は住所の位置で計算。ドン・キホーテ公式サイトの店舗名は「ピカソ赤坂店」。ドン・キホーテの別業態"
+   },
+   {
+    "name": "ドン・キホーテ 六本木店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 2188,
+    "walkMin": 28,
+    "hours": "24時間営業",
+    "address": "東京都港区六本木3-14-10",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=31",
+    "note": "距離は住所の位置で計算。ドン・キホーテ公式サイトの店舗名は「六本木店」。遠い"
+   }
+  ]
+ },
+ "drinkDelivery": {
+  "available": true
+ },
+ "photo": {
+  "src": "/images/venues/toshi-center-hotel.jpg",
+  "credit": "© Abasaa / Public domain · Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Toshi_Center_Hotel.JPG"
+ }
+}

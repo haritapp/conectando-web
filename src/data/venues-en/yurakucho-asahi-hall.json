@@ -1,0 +1,178 @@
+{
+ "slug": "yurakucho-asahi-hall",
+ "name": "Yurakucho Asahi Hall",
+ "address": "Tokyo 100-0006 Yurakucho Marion 11F, 2-5-1 Yurakucho, Chiyoda-ku",
+ "accessSummary": "Yurakucho Station (JR Yamanote and Keihin-Tohoku Lines) Central Exit / Ginza Exit: 1-2 min walk / Ginza Station (Tokyo Metro Marunouchi, Ginza and Hibiya Lines) Exit C4: 1-2 min walk / Yurakucho Station (Tokyo Metro Yurakucho Line) Exit D7: 1-2 min walk",
+ "hours": "Usage periods for the Hall and Square are morning & afternoon 9:00-16:30, afternoon & evening 13:00-21:00, evening 17:30-21:00, and all day 9:00-21:00 (usage time includes load-in, setup, rehearsal and teardown, and extensions are in principle not possible). The Gallery is open 11:00-19:00 (the unit is 6 days from Friday to the following Wednesday; closed on Thursdays, open on Sundays and national holidays)",
+ "notice": "The Hall's evening period (17:30-21:00) is limited to preview screenings (projection only) and setup for the next day's event. Events of the following kinds cannot be held: religious or political activities, creditors' meetings, pyramid schemes, multi-level marketing and the like (Rules of Use as of January 2022).",
+ "rooms": [
+  {
+   "name": "Hall",
+   "note": "Type A has 636 seats (standard type with a stage depth of up to 7m), Type B has up to 772 seats (the lift stage is lowered halfway and movable chairs are set up; 636 fixed, 136 movable), and the Asahi Meijinkai type has 714 seats. When the hall's LCD projector is used with Type B, 14 movable chairs are omitted for front projection, giving a maximum of 758 seats. The seat counts are the figures on the March 2026 price list and seating chart pages; the Rules of Use as of January 2022 give the capacity as up to 652 seats for Stage A and up to 772 seats for Stage B, so the Type A seat count differs. Basic usage fees (tax included, March 2026) for Type A are, on weekdays: morning & afternoon 357,500 yen / afternoon & evening 543,400 yen / evening 326,700 yen / all day 660,000 yen; on Sat, Sun & holidays: morning & afternoon 424,600 yen / afternoon & evening 620,400 yen / evening 363,000 yen / all day 718,300 yen. For Type B, a changeover labor fee of 66,000 yen (tax included) and a charge for the movable chairs are separate. A DLP cinema projector is available"
+  },
+  {
+   "name": "Square ABC (all rooms)",
+   "note": "Use with the partitions between the 3 rooms removed. Classroom for all rooms: 123 seats (117 seats with the projector in use); conference style for all rooms: 78 seats. The text of the usage examples page gives classroom for all rooms as 123 seats (129 seats with the projector in use), theater for all rooms as 232 seats, and conference style by room as 129 seats, which differ from the seat counts in the usage-example drawing PDFs (theater for all rooms 234 seats, 230 with the projector in use; conference style by room 132 seats). Basic usage fees (tax included, May 2024): morning & afternoon 236,500 yen / afternoon & evening 275,000 yen / evening 137,500 yen / all day 335,500 yen. When used for a party, tasting or sampling event, 44,000 yen (tax included) is added to the basic usage fee. A fiber-optic line is always available (free; a provider contract must be arranged in advance)"
+  },
+  {
+   "name": "Square Room A",
+   "note": "Seat counts for use by room with the partitions in place. Basic usage fees (tax included, May 2024): morning & afternoon 88,000 yen / afternoon & evening 103,400 yen / evening 51,700 yen / all day 123,200 yen. When used for a party, tasting or sampling event, 16,500 yen (tax included) is added"
+  },
+  {
+   "name": "Square Room B",
+   "note": "Seat counts for use by room with the partitions in place. Conference style: 48 seats. Basic usage fees (tax included, May 2024): morning & afternoon 105,600 yen / afternoon & evening 123,200 yen / evening 61,600 yen / all day 145,200 yen. When used for a party, tasting or sampling event, 16,500 yen (tax included) is added"
+  },
+  {
+   "name": "Square Room C",
+   "note": "Seat counts for use by room with the partitions in place. Basic usage fees (tax included, May 2024): morning & afternoon 88,000 yen / afternoon & evening 103,400 yen / evening 51,700 yen / all day 123,200 yen. When used for a party, tasting or sampling event, 16,500 yen (tax included) is added. Total for use by room (Rooms A, B and C): theater 308 seats (296 with the projector in use), classroom 147 seats (141 with the projector in use), conference style 132 seats"
+  },
+  {
+   "name": "Square Rooms AB and BC",
+   "note": "Basic usage fees (tax included, May 2024): morning & afternoon 193,600 yen / afternoon & evening 226,600 yen / evening 113,300 yen / all day 268,400 yen. When used for a party, tasting or sampling event, 33,000 yen (tax included) is added. Party-only use starts at 2 periods. Use of a single period is limited to use linked with the Hall or Gallery, or to events related to the Square; the rooms that can be used for a party are at most 2 rooms, AB or BC"
+  },
+  {
+   "name": "Gallery Rooms AB",
+   "note": "Height 3.2m (2.7m in some parts). Wall length (perimeter) 48.8m. Basic usage fee for 6 days (tax included, as of June 2022) is 1,045,000 yen. Walls can be configured with panels and partitions"
+  },
+  {
+   "name": "Gallery Room A",
+   "note": "Height 3.2m (2.7m in some parts). Wall length (perimeter) 45.9m. Basic usage fee for 6 days (tax included, as of June 2022) is 770,000 yen"
+  },
+  {
+   "name": "Gallery Room B",
+   "note": "Wall length (perimeter) 27.6m. Basic usage fee for 6 days (tax included, as of June 2022) is 363,000 yen"
+  }
+ ],
+ "ops": {
+  "prevDaySetup": "The Hall's evening period (17:30-21:00) can be used only for setup for the next day's event. The basic usage fee is 326,700 yen on weekdays and 363,000 yen on Sat, Sun & holidays (tax included, March 2026). The Square's evening period is also for setup use only: Rooms A and C 51,700 yen, Room B 61,600 yen, Rooms AB and BC 113,300 yen, Rooms ABC 137,500 yen (tax included, May 2024). Load-in of Gallery works and installation work take place on Thursday from 1:00 pm to 7:00 pm (as of June 2022).",
+  "loadingHours": "Usage time also includes the time needed for loading in equipment and the like, setting up the stage and lighting, sound checks and other setup, rehearsal, visitors' entry and exit, and cleanup and load-out. By 2 weeks before the usage date, the stage, lighting and sound, reception method, equipment and items to be brought in, and load-in and load-out are decided in a meeting with the hall, and at least 1 hour of setup time (excluding rehearsal) must be secured. Use the elevator on the right side as seen from the front for moving baggage in and out. The elevator has a door opening 1,050mm wide x 2,100mm high; the car is 1,850mm wide x 1,850mm deep x 2,700mm high, with a load capacity of 1,600kg (24 people). Items that can be loaded are, by length: pipes 3,400mm, signboards 3,000mm, square items (300 wide) 3,000mm, and board-shaped items (1,000 wide) 3,200mm. Load-out of the Gallery must be completed by 7:00 pm on the last day (Rules of Use as of January 2022, elevator specification sheet of February 7, 2019).",
+  "vehicleRules": "If parking is needed for load-in, load-out and the like, contact the hall office in advance (Rules of Use as of January 2022).",
+  "parking": "There is no parking lot dedicated to the hall. The building's underground parking lot can be used for a fee (Rules of Use as of January 2022).",
+  "waitingRooms": "The Hall has 5 waiting rooms. Waiting Rooms A and B (56㎡ together, with a makeup room and a monitor to check the inside of the hall; can be divided into 2 rooms by a partition) are 6,600 yen (3,850 yen for the evening period). Waiting Room C (28㎡, with 8 table seats, a reception set and a monitor) is included in the Hall's basic usage fee. Waiting Room D (20㎡, with a dressing table, washbasin, shower room and lockers) and Waiting Room E (10㎡, with a dressing table) are 2,750 to 3,300 yen (1,650 yen for the evening period) (tax included, March 2026).",
+  "catering": "For tasting or sampling in the lobby, documents must be submitted to the Chiyoda Public Health Center (depending on the item, the hall may decline). Bringing in cooking utensils, cooking, and food and drink businesses are not allowed. Eating and drinking on the stage and in the auditorium are prohibited, and drinking alcohol in the lobby and waiting rooms is not permitted. The Square can be used for parties, tastings and sampling events, with 16,500 to 44,000 yen (tax included) added to the basic usage fee (Rules of Use as of January 2022, price list of May 2024)."
+ },
+ "documents": [
+  {
+   "title": "Yurakucho Asahi Hall Rules of Use (as of January 2022)"
+  },
+  {
+   "title": "Hall: Basic Usage Fees, Waiting Room Fees and Hall Equipment Fees (March 2026)"
+  },
+  {
+   "title": "Asahi Square: Basic Usage Fees and Equipment Fees (May 2024)"
+  },
+  {
+   "title": "Asahi Gallery: Basic Usage Fees and Equipment Fees (as of June 2022)"
+  },
+  {
+   "title": "DLP Cinema Projector Rules of Use"
+  },
+  {
+   "title": "Hall Seating Chart, Type A"
+  },
+  {
+   "title": "Hall Seating Chart, Type B"
+  },
+  {
+   "title": "Hall Seating Chart, Type B (with LCD projector)"
+  },
+  {
+   "title": "Hall Seating Chart, Asahi Meijinkai Type"
+  },
+  {
+   "title": "Stage Machinery and Equipment Drawing (September 2013)"
+  },
+  {
+   "title": "12th Floor Lobby Drawing"
+  },
+  {
+   "title": "12th Floor Lobby Outlet Circuit Diagram"
+  },
+  {
+   "title": "12th Floor Floor Guide Map"
+  },
+  {
+   "title": "Elevator Specification Sheet (February 7, 2019)"
+  },
+  {
+   "title": "Square Floor Plan (with dimensions)"
+  },
+  {
+   "title": "Square Floor Plan (with partitions)"
+  },
+  {
+   "title": "Square Floor Plan (without partitions)"
+  },
+  {
+   "title": "Square Usage Example: Theater, all rooms, 234 seats"
+  },
+  {
+   "title": "Square Usage Example: Classroom, all rooms, 123 seats"
+  },
+  {
+   "title": "Square Usage Example: Conference style by room, 132 seats"
+  },
+  {
+   "title": "Gallery Drawing"
+  },
+  {
+   "title": "Access Map"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "7-Eleven Yurakucho Ekimae",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location"
+   },
+   {
+    "name": "FamilyMart Yurakucho Ekimae",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location"
+   },
+   {
+    "name": "7-Eleven Yurakucho ITOCiA",
+    "hours": "7:00-23:00 (Mon-Sun & holidays)",
+    "note": "Distance is calculated from the official store location"
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "Accea Ginza Five",
+    "hours": "Weekdays 10:00-20:00 / Closed Sat, Sun & holidays",
+    "note": "Distance is calculated from the address location. This is an Accea Mini (small-format store). Cash is not accepted at the store (credit cards, e-money, QR code payments, etc.)"
+   },
+   {
+    "name": "Kinko's Ginza 1-chome",
+    "hours": "Weekdays 9:00-20:00 / Sat 10:00-19:00 / Closed Sun & holidays",
+    "note": "Distance is calculated from the address location"
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "3COINS +plus Nishi-Ginza Department Store",
+    "hours": "11:00-20:00",
+    "note": "Distance is calculated from the official store location"
+   },
+   {
+    "name": "DAISO Marronnier Gate Ginza",
+    "hours": "11:00-21:00",
+    "note": "Distance is calculated from the address location"
+   }
+  ],
+  "donki": [
+   {
+    "name": "Don Quijote Ginza Main Building (Ginza Nine Building No. 3)",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location"
+   },
+   {
+    "name": "Picasso Akasaka (Don Quijote)",
+    "hours": "7:00-3:00",
+    "note": "Distance is calculated from the address location. The store name on the Don Quijote official website is \"Picasso Akasaka\" (ピカソ赤坂店). A different Don Quijote format. Far."
+   }
+  ]
+ },
+ "photoCredit": "© Kakidai / CC BY-SA 4.0 · Wikimedia Commons"
+}
