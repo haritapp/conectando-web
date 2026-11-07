@@ -1,0 +1,335 @@
+{
+ "slug": "minato-libra-hall",
+ "nameJa": "港区立男女平等参画センター リーブラ",
+ "nameEn": "",
+ "type": "public",
+ "area": "shinagawa-venues",
+ "address": "〒105-0023 東京都港区芝浦1-16-1 みなとパーク芝浦2階",
+ "officialUrl": "https://www.minatolibra.jp/",
+ "organizerUrl": "https://www.minatolibra.jp/guide/",
+ "bizintokyoSlug": "minato-libra-hall",
+ "accessSummary": "JR「田町駅」東口（芝浦口）ペデストリアンデッキ 徒歩5分／都営地下鉄浅草線・三田線「三田駅」A6出口 徒歩6分",
+ "notice": "貸室は事前登録が必要な港区の公共施設で、営利目的の利用、参加者を募集する講習会・セミナーでの利用、企業など営利団体が関係する活動での利用はできない。",
+ "hours": "開館 午前9時〜午後9時30分（窓口受付 午前9時〜午後8時）。休館日は年末年始12月29日〜1月3日",
+ "rooms": [
+  {
+   "name": "リーブラホール",
+   "areaM2": 310.3,
+   "ceilingM": 3.8,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "定員208人（車いす4席含む）。面積はホワイエ・楽屋・倉庫等を含み、ホール内のみは約230㎡。客席は可動式（192席と96席の2段階、追加12席可）、通常の貸出状態は平土間。パイプ椅子約90脚（2025年12月現在）"
+  },
+  {
+   "name": "和室1（茶室）",
+   "areaM2": 26.61,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "定員10人。用途は茶道・着付け・作法のみ"
+  },
+  {
+   "name": "和室2（大広間）",
+   "areaM2": 46.07,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "定員30人"
+  },
+  {
+   "name": "和室1・2",
+   "areaM2": 72.68,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "定員40人"
+  },
+  {
+   "name": "学習室A（吸音）",
+   "areaM2": 90.17,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "定員46人"
+  },
+  {
+   "name": "学習室B（吸音）",
+   "areaM2": 74.94,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "定員36人"
+  },
+  {
+   "name": "学習室C",
+   "areaM2": 91.67,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "定員55人。巻き上げ式スクリーン（4：3・約130インチ）あり"
+  },
+  {
+   "name": "学習室D1",
+   "areaM2": 38.89,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "定員15人"
+  },
+  {
+   "name": "学習室D2",
+   "areaM2": 32.43,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "定員12人"
+  },
+  {
+   "name": "学習室E",
+   "areaM2": 51.84,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "定員24人"
+  },
+  {
+   "name": "造形表現室",
+   "areaM2": 58.88,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "定員18人"
+  },
+  {
+   "name": "料理室",
+   "areaM2": 86.44,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "定員30人"
+  },
+  {
+   "name": "造形表現室＋料理室",
+   "areaM2": 145.32,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "定員48人"
+  },
+  {
+   "name": "多目的室1",
+   "areaM2": 55.41,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "定員20人"
+  },
+  {
+   "name": "多目的室2",
+   "areaM2": 59.82,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "定員18人"
+  },
+  {
+   "name": "多目的室1・2",
+   "areaM2": 115.23,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "定員38人"
+  }
+ ],
+ "roomsSource": "https://www.minatolibra.jp/floor/",
+ "ops": {
+  "loadingHours": {
+   "text": "事前の荷物の受け取りは行っていない。施設利用の準備・片付けは利用承認の時間内に行う。機材を持ち込む場合は事前に職員へ相談する。危険物と大きな荷物の持ち込みはできない。",
+   "source": "https://www.minatolibra.jp/faq/"
+  },
+  "parking": {
+   "text": "みなとパーク芝浦の地下駐車場を利用する。最初の2時間まで無料（障害者の乗車する車両は3時間まで）で、窓口で駐車券を提示すると施設利用の証明の打刻を受けられる。営業時間は午前7時〜午後11時で、この時間外は入出庫できない。無料時間を過ぎると課金される。",
+   "source": "https://www.minatolibra.jp/access/"
+  },
+  "waitingRooms": {
+   "text": "リーブラホールに楽屋が2室（6人部屋・4人部屋）、音響・調光室が1室ある。通常の貸出では調光室に入れない。",
+   "source": "https://www.minatolibra.jp/mlibra/wp-content/uploads/2023/11/aeb0cdcefd85a3eea44294dd1cb8de33.pdf"
+  },
+  "catering": {
+   "text": "ケータリングはできない。飲食できる部屋は学習室、多目的室、和室、料理室、造形表現室、リーブラホールの楽屋など。リーブラホール内、ホールホワイエ、ワークルームなどは飲食不可。飲酒は不可。飲食を目的とする団体登録・施設利用も不可（料理室を除く）。",
+   "source": "https://www.minatolibra.jp/guide/"
+  }
+ },
+ "documents": [
+  {
+   "title": "リーブラホール仕様（PDF）",
+   "url": "https://www.minatolibra.jp/mlibra/wp-content/uploads/2023/11/aeb0cdcefd85a3eea44294dd1cb8de33.pdf"
+  },
+  {
+   "title": "施設使用料金",
+   "url": "https://www.minatolibra.jp/price/"
+  },
+  {
+   "title": "フロアガイド",
+   "url": "https://www.minatolibra.jp/floor/"
+  },
+  {
+   "title": "施設利用案内（利用条件・登録種別・キャンセル・利用上の注意）",
+   "url": "https://www.minatolibra.jp/guide/"
+  },
+  {
+   "title": "各種書類ダウンロード（利用登録書類、発表会・講演会等催事実施届出書）",
+   "url": "https://www.minatolibra.jp/download/"
+  },
+  {
+   "title": "よくある質問",
+   "url": "https://www.minatolibra.jp/faq/"
+  }
+ ],
+ "checkedAt": "2026-11-07",
+ "lat": 35.646198,
+ "lng": 139.751663,
+ "nearby": {
+  "convenience": [
+   {
+    "name": "ローソン Hみなとパーク芝浦店",
+    "brand": "ローソン",
+    "distanceM": 79,
+    "walkMin": 1,
+    "hours": "7:00-23:00",
+    "address": "東京都港区芝浦1-16-1",
+    "verified": true,
+    "source": "https://www.areamarker.com/lawson/info/239132",
+    "note": "距離は公式の店舗位置で計算。会場と同じ建物（みなとパーク芝浦）の1階"
+   },
+   {
+    "name": "セブン-イレブン 港区芝浦1丁目店",
+    "brand": "セブン-イレブン",
+    "distanceM": 157,
+    "walkMin": 2,
+    "hours": "24時間営業",
+    "address": "東京都港区芝浦1丁目13-10",
+    "verified": true,
+    "source": "https://seven-eleven.areamarker.com/711map/info/444524",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "ファミマムスブ田町店",
+    "brand": "ファミリーマート",
+    "distanceM": 205,
+    "walkMin": 3,
+    "hours": "7:00-23:00",
+    "address": "東京都港区芝浦3丁目1番1号 田町ステーションタワーN 2F",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/16657",
+    "note": "距離は公式の店舗位置で計算"
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "キンコーズ・田町店",
+    "brand": "キンコーズ",
+    "distanceM": 627,
+    "walkMin": 8,
+    "hours": "平日 10:00-20:00／土・日・祝 休業",
+    "address": "東京都港区芝5丁目29-14 田町日工ビル1F",
+    "verified": true,
+    "source": "https://www.kinkos.co.jp/store/tokyo/t017/",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "アクセア 田町店",
+    "brand": "アクセア",
+    "distanceM": 730,
+    "walkMin": 10,
+    "hours": "24時間営業",
+    "address": "東京都港区三田3-1-11 エック三田ビル1F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/entry.html",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Seria 田町センタービル店",
+    "brand": "セリア",
+    "distanceM": 430,
+    "walkMin": 6,
+    "hours": "毎日 10:00-21:00",
+    "address": "東京都港区芝5-34-7 田町センタービル B1F",
+    "verified": true,
+    "source": "https://shop.seria-group.com/seria/info/000002840",
+    "note": "距離は公式の店舗位置で計算"
+   }
+  ],
+  "donki": [
+   {
+    "name": "ドン・キホーテ 六本木店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 2375,
+    "walkMin": 30,
+    "hours": "24時間営業",
+    "address": "東京都港区六本木3-14-10",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=31",
+    "note": "距離は住所の位置で計算。遠い（徒歩約30分）"
+   }
+  ]
+ },
+ "drinkDelivery": {
+  "available": true
+ },
+ "photo": {
+  "src": "/images/venues/minato-libra-hall.jpg",
+  "credit": "最寄りの田町駅芝浦口のイメージ写真です（会場の建物ではありません）。© Moriryota / CC BY-SA 4.0 · Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tamachi_eki_shibaura_guchi.jpg"
+ }
+}

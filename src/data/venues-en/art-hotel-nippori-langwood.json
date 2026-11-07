@@ -1,0 +1,135 @@
+{
+ "slug": "art-hotel-nippori-langwood",
+ "name": "Art Hotel Nippori Lungwood Tokyo",
+ "address": "Tokyo 116-0014 5-50-5 Higashi-Nippori, Arakawa-ku, Tokyo",
+ "accessSummary": "1 min walk from the South Exit of Nippori Station (JR Yamanote Line, Keihin-Tohoku Line and Joban Line; Keisei Electric Railway; Toei Nippori-Toneri Liner)",
+ "hours": null,
+ "notice": null,
+ "rooms": [
+  {
+   "name": "Lungwood Room",
+   "note": "2F. Buffet: 720 guests"
+  },
+  {
+   "name": "Lungwood Room A B",
+   "note": "2F. Buffet: 480 guests"
+  },
+  {
+   "name": "Hisho hoo",
+   "note": "2F. Buffet: 330 guests"
+  },
+  {
+   "name": "Kujaku Tancho Toki",
+   "note": "2F. Buffet: 150 guests"
+  },
+  {
+   "name": "Hakucho",
+   "note": "2F. Buffet: 100 guests"
+  },
+  {
+   "name": "Flower Room",
+   "note": "2F. Buffet: 60 guests"
+  },
+  {
+   "name": "Bara Ran",
+   "note": "2F. Buffet: 40 guests"
+  },
+  {
+   "name": "Cattleya Iris Rose Aoi",
+   "note": "2F"
+  },
+  {
+   "name": "Symphony",
+   "note": "3F. Buffet: 40 guests"
+  },
+  {
+   "name": "Concerto",
+   "note": "3F. Buffet: 50 guests"
+  },
+  {
+   "name": "Concerto A",
+   "note": "3F"
+  },
+  {
+   "name": "Concerto B",
+   "note": "3F"
+  },
+  {
+   "name": "Prelude",
+   "note": "3F. Buffet: 30 guests"
+  },
+  {
+   "name": "Luce",
+   "note": "5F. Buffet: 100 guests"
+  },
+  {
+   "name": "Luce A",
+   "note": "5F. Buffet: 40 guests"
+  },
+  {
+   "name": "Luce B",
+   "note": "5F. Buffet: 50 guests"
+  },
+  {
+   "name": "Eterno",
+   "note": "6F. Buffet: 80 guests"
+  },
+  {
+   "name": "Vent",
+   "note": "6F"
+  },
+  {
+   "name": "Vento A & B",
+   "note": "6F"
+  }
+ ],
+ "ops": {
+  "restaurants": "The in-house restaurants are Western Dining (03-3803-1234) and Japanese cuisine (03-3803-2310)."
+ },
+ "documents": [],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "7-Eleven Arakawa Higashi-Nippori 5-chome",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the store's official location."
+   },
+   {
+    "name": "FamilyMart Kusuri Higuchi Nippori",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the store's official location."
+   },
+   {
+    "name": "FamilyMart Nippori Ekimae",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the store's official location."
+   }
+  ],
+  "copyshop": [],
+  "hundredYen": [
+   {
+    "name": "Seria Inageya Arakawa Higashi-Nippori",
+    "hours": "Daily 10:00-21:00",
+    "note": "Distance is calculated from the store's official location."
+   },
+   {
+    "name": "Can Do Fresspo Higashi-Nippori",
+    "hours": "Daily 10:00-20:00",
+    "note": "Distance is calculated from the store's official location."
+   }
+  ],
+  "donki": [
+   {
+    "name": "Don Quijote Uguisudani",
+    "hours": "8:00-1:00",
+    "note": "Distance is calculated from the address location. The store name on the Don Quijote official site is \"Uguisudani store\"."
+   },
+   {
+    "name": "Don Quijote Okachimachi",
+    "hours": "9:00-1:00",
+    "note": "Distance is calculated from the address location. Far. The store name on the Don Quijote official site is \"Okachimachi store\"."
+   }
+  ]
+ },
+ "photoCredit": "Image of the South Exit of JR Nippori Station, not the venue building. © MaedaAkihiko / CC0 · Wikimedia Commons"
+}

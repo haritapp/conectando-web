@@ -1,0 +1,93 @@
+{
+ "slug": "courtyard-by-marriott-tokyo-ginza-hotel",
+ "name": "Courtyard by Marriott Tokyo Ginza Hotel",
+ "address": "Tokyo 104-0061 6-14-10 Ginza, Chuo-ku",
+ "accessSummary": "Close to Higashi-Ginza Station and Ginza Station (as stated on the official experiences and surroundings page)",
+ "hours": null,
+ "notice": null,
+ "rooms": [
+  {
+   "name": "Sakura (entire room)",
+   "note": "Dimensions 18.5 x 23.2 m. Conference style: 88 seats"
+  },
+  {
+   "name": "Sakura A (2/3)",
+   "note": "Dimensions 13.7 x 18.6 m. Conference style: 68 seats"
+  },
+  {
+   "name": "Sakura B (1/3)",
+   "note": "Dimensions 9.8 x 17.8 m. Conference style: 56 seats"
+  },
+  {
+   "name": "Fuyo",
+   "note": "Dimensions 18.7 x 8.8 m. Conference style: 62 seats"
+  },
+  {
+   "name": "Tatsuta",
+   "note": "Dimensions 14.5 x 19.3 m. Conference style: 82 seats"
+  }
+ ],
+ "ops": {
+  "catering": "The hotel offers portion-type (individually plated) food and drink options for events.",
+  "restaurants": "The hotel has RISTASIX (Asian fusion cuisine, daily 6:30-23:00), GINZA MURAKI (Japanese cuisine, daily 11:30-21:30) and Bar KORIN."
+ },
+ "documents": [
+  {
+   "title": "Banquet Room Capacity Table (official page, as of 2026-11-07)"
+  },
+  {
+   "title": "Floor Plans and Venue List (official page, as of 2026-11-07)"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "7-Eleven Ginza 6-chome Chuo",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "FamilyMart Ginza 7-chome",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "7-Eleven Ginza 7-chome Higashi",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "Accea Higashi-Ginza",
+    "hours": "Weekdays 9:00-20:00 / Closed Sat, Sun & holidays",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Accea Higashi-Ginza Kabukiza-mae",
+    "hours": "Weekdays 9:00-20:00 / Sat 10:00-19:00 / Closed Sun & holidays",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Seria Exit Melsa Ginza",
+    "hours": "Daily 11:00-20:00",
+    "note": "Distance is calculated from the store's official location."
+   },
+   {
+    "name": "3COINS +plus Nishi-Ginza Department Store",
+    "hours": "11:00-20:00",
+    "note": "Distance is calculated from the store's official location. \"+plus\" is a store format listed in the official 3COINS store list."
+   }
+  ],
+  "donki": [
+   {
+    "name": "Don Quijote Ginza Honkan (Ginza Nine Building 3)",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location."
+   }
+  ]
+ },
+ "photoCredit": "© Abasaa / Public domain · Wikimedia Commons"
+}

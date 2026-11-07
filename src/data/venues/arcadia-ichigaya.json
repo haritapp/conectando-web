@@ -1,0 +1,429 @@
+{
+ "slug": "arcadia-ichigaya",
+ "nameJa": "アルカディア市ヶ谷（私学会館）",
+ "nameEn": "ARCADIA ICHIGAYA SHIGAKU KAIKAN",
+ "type": "hotel",
+ "area": "kanda-suidobashi-venues",
+ "address": "〒102-0073 東京都千代田区九段北4-2-25",
+ "officialUrl": "https://www.arcadia-jp.org/",
+ "organizerUrl": "https://www.arcadia-jp.org/banquet/",
+ "bizintokyoSlug": "arcadia-ichigaya",
+ "accessSummary": "JR中央線・総武線（各駅停車）市ヶ谷駅から徒歩2分／地下鉄 有楽町線・南北線 市ヶ谷駅（1 または A1）出口から徒歩2分／地下鉄 新宿線 市ヶ谷駅（A1 または A4）出口から徒歩2分",
+ "notice": null,
+ "hours": null,
+ "rooms": [
+  {
+   "name": "3階 富士",
+   "areaM2": 530,
+   "theater": 500,
+   "school": 360,
+   "ushape": 114,
+   "standing": 320,
+   "banquet": 280,
+   "note": "天井高6mを超える（会場案内ページ）。ロビーオープン時はスクール500・シアター700・立食500・着席360で室料20％増し。ご宴会（料理お1人5,830円以上）は室料50％割引"
+  },
+  {
+   "name": "3階 富士 (東)・(西)",
+   "areaM2": 255,
+   "theater": 240,
+   "school": 180,
+   "ushape": 66,
+   "standing": 160,
+   "banquet": 140,
+   "note": "表の「(東)・(西)」の行（面積は1室分）"
+  },
+  {
+   "name": "3階 天城・高尾",
+   "areaM2": 25,
+   "theater": 24,
+   "school": 18,
+   "ushape": 12,
+   "standing": 15,
+   "banquet": 12,
+   "note": "口型は対面式配席"
+  },
+  {
+   "name": "4階 飛鳥",
+   "areaM2": 80,
+   "theater": 80,
+   "school": 52,
+   "ushape": 36,
+   "standing": 40,
+   "banquet": 40
+  },
+  {
+   "name": "4階 飛鳥 (東)・(西)",
+   "areaM2": 40,
+   "theater": 40,
+   "school": 26,
+   "ushape": 24,
+   "standing": 24,
+   "banquet": 24,
+   "note": "口型は対面式配席（表の「(東)・(西)」の行）"
+  },
+  {
+   "name": "4階 鳳凰",
+   "areaM2": 167,
+   "theater": 150,
+   "school": 103,
+   "ushape": 54,
+   "standing": 80,
+   "banquet": 80
+  },
+  {
+   "name": "4階 鳳凰 (東)・(西)",
+   "areaM2": 80,
+   "theater": 80,
+   "school": 52,
+   "ushape": 36,
+   "standing": 40,
+   "banquet": 40,
+   "note": "表の「(東)・(西)」の行"
+  },
+  {
+   "name": "5階 赤城",
+   "areaM2": 68,
+   "theater": 60,
+   "school": 42,
+   "ushape": 30,
+   "standing": 35,
+   "banquet": 30
+  },
+  {
+   "name": "5階 赤城 (東)・(西)",
+   "areaM2": 34,
+   "theater": 30,
+   "school": 23,
+   "ushape": 18,
+   "standing": 20,
+   "banquet": 20,
+   "note": "口型は対面式配席（表の「(東)・(西)」の行）"
+  },
+  {
+   "name": "5階 大雪・穂高",
+   "areaM2": 220,
+   "theater": 200,
+   "school": 162,
+   "ushape": 60,
+   "standing": 150,
+   "banquet": 110
+  },
+  {
+   "name": "5階 大雪・穂高 (東)・(西)",
+   "areaM2": 110,
+   "theater": 100,
+   "school": 81,
+   "ushape": 48,
+   "standing": 70,
+   "banquet": 50,
+   "note": "表の「(東)・(西)」の行"
+  },
+  {
+   "name": "6階 伊吹",
+   "areaM2": 140,
+   "theater": 120,
+   "school": 88,
+   "ushape": 48,
+   "standing": 70,
+   "banquet": 60
+  },
+  {
+   "name": "6階 伊吹 (東)・(西南)",
+   "areaM2": 68,
+   "theater": 60,
+   "school": 42,
+   "ushape": 30,
+   "standing": 35,
+   "banquet": 30,
+   "note": "表の行の表記どおり"
+  },
+  {
+   "name": "6階 伊吹 (東西)",
+   "areaM2": 103,
+   "theater": 80,
+   "school": 61,
+   "ushape": 36,
+   "standing": 50,
+   "banquet": 40,
+   "note": "表の行の表記どおり"
+  },
+  {
+   "name": "6階 伊吹 (西)・(南)",
+   "areaM2": 34,
+   "theater": 30,
+   "school": 23,
+   "ushape": 18,
+   "standing": 20,
+   "banquet": 20,
+   "note": "口型は対面式配席（表の行の表記どおり）"
+  },
+  {
+   "name": "6階 阿蘇・霧島",
+   "areaM2": 220,
+   "theater": 200,
+   "school": 162,
+   "ushape": 60,
+   "standing": 150,
+   "banquet": 110
+  },
+  {
+   "name": "6階 阿蘇・霧島 (東)・(西)",
+   "areaM2": 110,
+   "theater": 100,
+   "school": 81,
+   "ushape": 48,
+   "standing": 70,
+   "banquet": 50,
+   "note": "表の「(東)・(西)」の行"
+  },
+  {
+   "name": "6階 貴船",
+   "areaM2": 57,
+   "theater": 50,
+   "school": 37,
+   "ushape": 24,
+   "standing": 30,
+   "banquet": 20
+  },
+  {
+   "name": "7階 白根",
+   "areaM2": 65,
+   "theater": 60,
+   "school": 45,
+   "ushape": 30,
+   "standing": 35,
+   "banquet": 30
+  },
+  {
+   "name": "7階 妙高",
+   "areaM2": 73,
+   "theater": 70,
+   "school": 56,
+   "ushape": 36,
+   "standing": 40,
+   "banquet": 30
+  },
+  {
+   "name": "7階 白山",
+   "areaM2": 55,
+   "theater": 50,
+   "school": null,
+   "ushape": 30,
+   "standing": 30,
+   "banquet": 28,
+   "note": "口型は対面式配席"
+  },
+  {
+   "name": "7階 雲取",
+   "areaM2": 48,
+   "theater": 40,
+   "school": 24,
+   "ushape": 24,
+   "standing": 25,
+   "banquet": 20
+  },
+  {
+   "name": "7階 吉野・鳥海",
+   "areaM2": 50,
+   "theater": 50,
+   "school": 36,
+   "ushape": 24,
+   "standing": 25,
+   "banquet": 20
+  },
+  {
+   "name": "7階 琴平",
+   "areaM2": 105,
+   "theater": 90,
+   "school": 72,
+   "ushape": 42,
+   "standing": 50,
+   "banquet": 40
+  }
+ ],
+ "roomsSource": "https://www.arcadia-jp.org/banquet/banquet_price/",
+ "ops": {
+  "loadingHours": {
+   "text": "会場宛の荷物は、宴席名・会合名と開催日を書いて「アルカディア市ヶ谷『用度係』」（〒102-0073 東京都千代田区九段北4-2-25）へ送る。宿泊用の荷物は着払い不可。会場の利用は設営から撤去まで含め契約時間内に終了する決まりで、所定の時間を超えると延長料金がかかる。会場設営などの搬入・搬出で料金表の時間枠（午前9:00〜12:00／午後13:00〜16:30／夜間17:30〜21:00）の外を使う場合は、別途使用料金がかかる。（約款は令和3年4月1日改定）",
+   "source": "https://www.arcadia-jp.org/faq/"
+  },
+  "vehicleRules": {
+   "text": "当館前の道路は駐車禁止区域。マイクロバス・大型バスは駐車場へ入庫できない。",
+   "source": "https://www.arcadia-jp.org/access/"
+  },
+  "parking": {
+   "text": "タイムズ24株式会社が運営する地下駐車場（名称「タイムズ アルカディア市ヶ谷 私学会館」）。営業時間は7:00〜23:00で、23:00から翌7:00はシャッターが閉まり入出庫できない。高さ制限2.1m。料金は15分330円（税込）。最大料金・会館利用割引は公式のPDFに記載（2026年8月版）。オートバイの駐輪スペースはない。",
+   "source": "https://www.arcadia-jp.org/faq/"
+  },
+  "catering": {
+   "text": "飲食物の持ち込みはお断り。看板・装飾・電源増設・照明追加・音楽・余興・コンパニオンなどは原則として当館が指定業者に手配する。指定業者以外を使う場合は事前に連絡して打合せが必要で、内容により持込料がかかることがある。",
+   "source": "https://www.arcadia-jp.org/banquet/banquet_terms/"
+  },
+  "restaurants": {
+   "text": "2階のレストランフロアに、フランス料理「フォッセ」、中国料理「翠」、江戸前鰻「うな誠」、ラウンジ「スリーゼ」の4店がある。",
+   "source": "https://www.arcadia-jp.org/restaurant/"
+  }
+ },
+ "documents": [
+  {
+   "title": "料金・設備（会議・宴会場の室料・器具料金）",
+   "url": "https://www.arcadia-jp.org/banquet/banquet_price/"
+  },
+  {
+   "title": "会議・宴会・催事約款（令和3年4月1日改定）",
+   "url": "https://www.arcadia-jp.org/banquet/banquet_terms/"
+  },
+  {
+   "title": "3階 会議宴会場フロアー平面図",
+   "url": "https://www.arcadia-jp.org/img/floormap-3f.pdf"
+  },
+  {
+   "title": "4階 会議宴会場フロアー平面図",
+   "url": "https://www.arcadia-jp.org/img/floormap-4f.pdf"
+  },
+  {
+   "title": "5階 会議宴会場フロアー平面図",
+   "url": "https://www.arcadia-jp.org/img/floormap-5f.pdf"
+  },
+  {
+   "title": "6階 会議宴会場フロアー平面図",
+   "url": "https://www.arcadia-jp.org/img/floormap-6f.pdf"
+  },
+  {
+   "title": "7階 会議宴会場フロアー平面図",
+   "url": "https://www.arcadia-jp.org/img/floormap-7f.pdf"
+  },
+  {
+   "title": "2階 レストランフロアー平面図（2024年版）",
+   "url": "https://www.arcadia-jp.org/img/floormap_2F_2024.pdf"
+  },
+  {
+   "title": "会館案内図（2025年7月版）",
+   "url": "https://www.arcadia-jp.org/img/location_map_2025_07.pdf"
+  },
+  {
+   "title": "駐車場料金表（タイムズ、2026年8月版）",
+   "url": "https://www.arcadia-jp.org/img/TIMES_Parking_Pricelist_202608.pdf"
+  }
+ ],
+ "checkedAt": "2026-11-07",
+ "lat": 35.692139,
+ "lng": 139.737534,
+ "nearby": {
+  "convenience": [
+   {
+    "name": "ファミリーマート 市ヶ谷店",
+    "brand": "ファミリーマート",
+    "distanceM": 57,
+    "walkMin": 1,
+    "hours": "24時間営業",
+    "address": "東京都千代田区九段北4-2-11",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/26541",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "ファミリーマート 新宿市谷見附店",
+    "brand": "ファミリーマート",
+    "distanceM": 176,
+    "walkMin": 3,
+    "hours": "24時間営業",
+    "address": "東京都新宿区市谷田町1-3",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/24686",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "ファミリーマート 市谷田町店",
+    "brand": "ファミリーマート",
+    "distanceM": 286,
+    "walkMin": 4,
+    "hours": "24時間営業",
+    "address": "東京都新宿区市谷田町2-38-3",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/23657",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "アクセア 市ヶ谷八幡町店",
+    "brand": "アクセア",
+    "distanceM": 304,
+    "walkMin": 4,
+    "hours": "平日 8:00〜22:00／土日祝 休み",
+    "address": "東京都新宿区市谷八幡町11-1 市ヶ谷八幡町ビル1F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/entry.html",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "アクセア 市ヶ谷店",
+    "brand": "アクセア",
+    "distanceM": 341,
+    "walkMin": 5,
+    "hours": "平日 8:00〜22:00／土 10:00〜19:00／日祝 休み",
+    "address": "東京都千代田区九段北3-2-5 九段北325ビル1F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/entry.html",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Can★Do 飯田橋ラムラ店",
+    "brand": "キャンドゥ",
+    "distanceM": 1114,
+    "walkMin": 14,
+    "hours": "毎日 10:00-21:00",
+    "address": "東京都新宿区神楽河岸1-1 飯田橋ラムラ2階",
+    "verified": true,
+    "source": "https://shopinfo.cando-web.co.jp/detail/shop-5182/",
+    "note": "距離は住所の位置で計算。遠め"
+   },
+   {
+    "name": "3COINS 飯田橋メトロピア店",
+    "brand": "3COINS",
+    "distanceM": 1248,
+    "walkMin": 16,
+    "hours": "平日 8:00-21:00／土日祝 9:00-21:00",
+    "address": "東京都新宿区神楽坂1-13 東京メトロ飯田橋駅B1階改札前",
+    "verified": true,
+    "source": "https://palcloset.storelocator.jp/map",
+    "note": "距離は公式の店舗位置で計算。遠め。飯田橋駅の改札前（小型店）"
+   }
+  ],
+  "donki": [
+   {
+    "name": "ピカソ赤坂店（ドン・キホーテ）",
+    "brand": "ドン・キホーテ",
+    "distanceM": 1924,
+    "walkMin": 25,
+    "hours": "7:00-3:00",
+    "address": "東京都港区赤坂3-11-14",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=289",
+    "note": "距離は住所の位置で計算。遠い。ドン・キホーテの別業態（公式サイトの店舗名は「ピカソ赤坂店」）"
+   },
+   {
+    "name": "ドン・キホーテ 後楽園店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 2177,
+    "walkMin": 28,
+    "hours": "24時間営業",
+    "address": "東京都文京区本郷1-33-9",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=343",
+    "note": "距離は住所の位置で計算。遠い。ドン・キホーテ公式サイトの店舗名は「後楽園店」"
+   }
+  ]
+ },
+ "drinkDelivery": {
+  "available": true
+ },
+ "photo": {
+  "src": "/images/venues/arcadia-ichigaya.jpg",
+  "credit": "© Abasaa / Public domain · Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Arcadia_Ichigaya.JPG"
+ }
+}

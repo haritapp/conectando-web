@@ -1,0 +1,154 @@
+{
+ "slug": "hachioji-ellcy",
+ "name": "Hachioji ELLCY",
+ "address": "Tokyo 192-0071 6-7 Yokamachi, Hachioji-shi, Tokyo",
+ "accessSummary": "JR Chuo Line Hachioji Station North Exit: 12 min walk (5 min by bus) / Keio Line Keio-Hachioji Station: 15 min walk (7 min by bus) / 7 min by car from Hachioji IC on the Chuo Expressway",
+ "hours": null,
+ "notice": null,
+ "rooms": [
+  {
+   "name": "2F Rooms (each)",
+   "note": "The rental meeting room price list gives 25 tsubo and a capacity of 25."
+  },
+  {
+   "name": "Fuji (富士) (3F)",
+   "note": "Maximum capacity 60 (room guide). The rental meeting room price list gives \"Tachibana/Fuji\" as 35 tsubo and 35 people."
+  },
+  {
+   "name": "Sakura (桜) (3F)",
+   "note": "Maximum capacity 60 (room guide)."
+  },
+  {
+   "name": "Momo (桃) (3F)",
+   "note": "Maximum capacity 30 (room guide)."
+  },
+  {
+   "name": "Tachibana (橘) (3F)",
+   "note": "Maximum capacity 50 (room guide). The rental meeting room price list gives \"Tachibana/Fuji\" as 35 tsubo and 35 people."
+  },
+  {
+   "name": "Oto (桜桃) (3F)",
+   "note": "Maximum capacity 80 (room guide). The rental meeting room price list gives 60 tsubo (198㎡) and 50 people."
+  },
+  {
+   "name": "Fuji-Oto (富士桜桃) (3F)",
+   "note": "Maximum capacity 150 (room guide). The rental meeting room price list gives 105 tsubo (346㎡) and 80 people."
+  },
+  {
+   "name": "Fukuroku (福禄) (3F)",
+   "note": "Maximum capacity 20."
+  },
+  {
+   "name": "Tsurukame (鶴亀) (3F)",
+   "note": "Maximum capacity 20."
+  },
+  {
+   "name": "Tsubaki (椿) (4F)",
+   "note": "Maximum capacity 80 (room guide). The rental meeting room price list gives \"Tsubaki/Ume\" as 50 tsubo (165㎡) and 50 people."
+  },
+  {
+   "name": "Ume (梅) (4F)",
+   "note": "Maximum capacity 80 (room guide). The rental meeting room price list gives \"Tsubaki/Ume\" as 50 tsubo (165㎡) and 50 people."
+  },
+  {
+   "name": "Sugi (杉) (4F)",
+   "note": "Maximum capacity 150 (room guide). The rental meeting room price list gives 100 tsubo (330㎡) and 80 people."
+  },
+  {
+   "name": "Sugi-Tsubaki (杉椿) (4F)",
+   "note": "The rental meeting room price list gives 150 tsubo (495㎡) and a capacity of 120."
+  },
+  {
+   "name": "Sugi-Tsubaki-Ume (杉椿梅) (4F)",
+   "note": "Maximum capacity 350 (room guide). The rental meeting room price list gives 200 tsubo (660㎡) and 200 people. The floor guide describes the 4F grand banquet hall as seating \"up to 400 people\"."
+  },
+  {
+   "name": "Katsura-Kaede-Kusu-Kiri (桂楓楠桐) (5F)",
+   "note": "72 tatami mats. Maximum capacity 80."
+  },
+  {
+   "name": "Kikyo (桔梗) (5F)",
+   "note": "6 tatami mats. Maximum capacity 4."
+  },
+  {
+   "name": "Takao-an (髙尾庵) (5F)",
+   "note": "10 tatami mats. Maximum capacity 10."
+  },
+  {
+   "name": "Hagi-Satsuki (萩皐月) (5F)",
+   "note": "12 tatami mats. Maximum capacity 12."
+  }
+ ],
+ "ops": {
+  "loadingHours": "Load-in and load-out start and end times follow what is agreed in advance; the venue may ask to change the times for its own reasons. Load-in through the front entrance is prohibited; follow the venue's instructions for the route. For load-in, load-out and construction work, the person in charge of the work, transport company, number of vehicles, set-up company, number of set-up staff and names of workers must be notified in advance on the venue's form. Two copies each of the venue floor plan and the electrical wiring drawing must be submitted by 10 days before the work date.",
+  "catering": "Decoration, flowers, audio, lighting, entertainment and commemorative gifts are arranged by the venue's designated companies; if you ask a company other than a designated one directly, you must notify the venue in advance and obtain its approval. For rental meeting rooms, tea and water (250 yen), self-service coffee (550 yen per person), and Western-style boxed lunches at 3,240 yen and Chinese-style boxed lunches at 2,160 yen (one-way containers) are available.",
+  "parking": "Partner parking lots are listed. For banquets and weddings, parking is free for 4 hours with spending of 3,000 yen or more per person; for the restaurant and Apple Eye, free for 2 hours with spending of 1,000 yen or more per bill (bring a usage certificate or parking ticket). Use for meetings, exhibitions, seminars and the like without food and drink is charged. For large buses and microbuses, consult the venue; paid parking lots are introduced.",
+  "restaurants": "The same building has the Italian restaurant Enchante on B1F, the lobby lounge Apple Eye on 1F, and the Japanese restaurant Fuyo and Chinese restaurant Ryuo on 5F."
+ },
+ "documents": [
+  {
+   "title": "Rental Meeting Rooms: Prices and Options (checked November 7, 2026)"
+  },
+  {
+   "title": "Room Guide"
+  },
+  {
+   "title": "Banquet Hall Terms of Use"
+  },
+  {
+   "title": "Services and Options (Banquets)"
+  },
+  {
+   "title": "Floor and Facility Guide"
+  },
+  {
+   "title": "Access"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "7-Eleven Hachioji Yokamachi 5-chome",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "FamilyMart Hachioji Kita-Odori",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "7-Eleven Hachioji Yokamachi",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location."
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "Accea Keio-Hachioji Ekimae",
+    "hours": "Weekdays 9:00-20:00 / Closed Sat, Sun & holidays",
+    "note": "Distance is calculated from the address location. Rather far. Open weekdays only (closed Sat, Sun & holidays)."
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "DAISO Don Quijote Hachioji Ekimae",
+    "hours": "9:00-21:00",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "Seria Hachioji Octore",
+    "hours": "Mon-Sun 10:00-20:00",
+    "note": "Distance is calculated from the official store location."
+   }
+  ],
+  "donki": [
+   {
+    "name": "Don Quijote Hachioji Ekimae",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. The store name on the Don Quijote official website is \"Hachioji Ekimae\" (八王子駅前店)."
+   }
+  ]
+ },
+ "photoCredit": "Image of the North Exit of JR Hachioji Station, the nearest station, not the venue building. © 103momo / CC BY-SA 3.0 · Wikimedia Commons"
+}

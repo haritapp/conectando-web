@@ -1,0 +1,223 @@
+{
+ "slug": "dai-ichi-hotel-tokyo",
+ "nameJa": "第一ホテル東京",
+ "nameEn": "",
+ "type": "hotel",
+ "area": "shimbashi-hamamatsucho-venues",
+ "address": "〒105-8621 東京都港区新橋1丁目2番6号",
+ "officialUrl": "https://www.hankyu-hotel.com/hotel/dh/dhtokyo",
+ "organizerUrl": "https://www.hankyu-hotel.com/hotel/dh/dhtokyo/meetings_top",
+ "bizintokyoSlug": "dai-ichi-hotel-tokyo",
+ "accessSummary": "新橋駅（JR・東京メトロ銀座線）徒歩約2分（内幸町地下歩道で直結）／新橋駅（都営浅草線・ゆりかもめ）徒歩約5分／内幸町駅（都営三田線）徒歩約3分／汐留駅（都営大江戸線）徒歩約10分",
+ "notice": null,
+ "hours": null,
+ "rooms": [
+  {
+   "name": "ラ・ローズ（5階）",
+   "areaM2": 581,
+   "ceilingM": 7.2,
+   "theater": 650,
+   "school": 400,
+   "ushape": null,
+   "standing": 500,
+   "banquet": 360,
+   "note": "2分割（Ⅰ・Ⅱ）可。分割時は各291㎡・天井高7.2m：シアター260／スクール162／立食ブッフェ200／正餐140。全面の着席ブッフェは260名、分割時は110名"
+  },
+  {
+   "name": "プリマヴェーラ（4階）",
+   "areaM2": 479,
+   "ceilingM": 3.4,
+   "theater": 540,
+   "school": 320,
+   "ushape": null,
+   "standing": 350,
+   "banquet": 230,
+   "note": "移動壁で2分割（Ⅰ・Ⅱ）可。分割時は各240㎡・天井高3.4m：シアター200／スクール126／立食ブッフェ120／正餐110。着席ブッフェは全面200名、分割時80名"
+  },
+  {
+   "name": "ルミエール（21階）",
+   "areaM2": 180,
+   "ceilingM": 3.4,
+   "theater": 100,
+   "school": 72,
+   "ushape": null,
+   "standing": 70,
+   "banquet": 72,
+   "note": "最上階のバンケットホール。着席ブッフェ64名。ホワイエ・附室あり"
+  },
+  {
+   "name": "フローラ（4階）",
+   "areaM2": 120,
+   "ceilingM": 2.9,
+   "theater": 100,
+   "school": 50,
+   "ushape": null,
+   "standing": 50,
+   "banquet": 40,
+   "note": "2分割（E・W）可。分割時は各60㎡・天井高2.9m：シアター50／スクール24／立食25／正餐20"
+  },
+  {
+   "name": "コスモス／シクラメン／カトレア（4階）",
+   "areaM2": 60,
+   "ceilingM": 2.9,
+   "theater": 50,
+   "school": 24,
+   "ushape": null,
+   "standing": 25,
+   "banquet": 20,
+   "note": "3室とも同じ広さ（各60㎡）。表の人数は1室あたり"
+  },
+  {
+   "name": "マーガレット（4階）",
+   "areaM2": 100,
+   "ceilingM": 3.4,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": 40,
+   "banquet": 25,
+   "note": "宴会・パーティ利用の人数のみ公式の表にある（正餐25／立食40）"
+  }
+ ],
+ "roomsSource": "https://www.hankyu-hotel.com/hotel/dh/dhtokyo/banquet_rooms",
+ "ops": {
+  "parking": {
+   "text": "ホテル地下駐車場（タイムズ第一ホテル東京）は74台（契約車両を含む）。料金は1泊2,200円（税込）で、3,000円以上のレストラン利用で2時間サービス。事前の予約は受け付けておらず、満車の場合は周辺の有料駐車場を利用する。近隣ビル地下駐車場（タイムズ新幸橋ビルディング）も案内されている。",
+   "source": "https://www.hankyu-hotel.com/hotel/dh/dhtokyo/access"
+  },
+  "restaurants": {
+   "text": "館内にレストランがある。地下1階に世界バイキング「エトワール」・焼鳥「伊勢廣」・鰻「神田きくかわ」・「一石三鳥」、2階にフレンチ「アンシャンテ」・日本料理「明石」・カフェバー「トラックス」・中国料理「盤古殿」、21階に鉄板焼「一徹」、1階にパティスリー「ル・ド・ブリク」とロビーラウンジ。",
+   "source": "https://www.hankyu-hotel.com/hotel/dh/dhtokyo/info"
+  }
+ },
+ "documents": [
+  {
+   "title": "宴会パンフレット（デジタル版）",
+   "url": "https://hankyu-hotel.meclib.jp/dht7788/book/"
+  },
+  {
+   "title": "ケータリングサービスのご案内",
+   "url": "https://www.hankyu-hotel.com/hotel/dh/dhtokyo/meetings"
+  }
+ ],
+ "checkedAt": "2026-11-07",
+ "lat": 35.668728,
+ "lng": 139.757355,
+ "nearby": {
+  "convenience": [
+   {
+    "name": "ファミリーマート フレッサイン新橋店",
+    "brand": "ファミリーマート",
+    "distanceM": 59,
+    "walkMin": 1,
+    "hours": "24時間営業",
+    "address": "東京都港区新橋一丁目14番3号",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/57797",
+    "note": "距離は公式店舗一覧の位置で計算（住所の位置では会場と同じ街区のため）"
+   },
+   {
+    "name": "ファミリーマート アーバンネット内幸町ビル/S店",
+    "brand": "ファミリーマート",
+    "distanceM": 121,
+    "walkMin": 2,
+    "hours": "7:30-23:00",
+    "address": "東京都港区新橋1-1-13",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/69994",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "ファミリーマート 新橋外堀通り店",
+    "brand": "ファミリーマート",
+    "distanceM": 122,
+    "walkMin": 2,
+    "hours": "24時間営業",
+    "address": "東京都港区新橋2-6-1 さくら新橋ビル1階",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/58437",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "アクセア 新橋駅銀座口店",
+    "brand": "アクセア",
+    "distanceM": 235,
+    "walkMin": 3,
+    "hours": "平日24時間営業（月曜朝8時から土曜夜19時まで休まず営業）／土〜19:00、日祝 10:00〜19:00",
+    "address": "東京都港区新橋2-18-9 第3光和ビル3F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/entry.html",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "アクセア 新橋内幸町店(旧新橋店)",
+    "brand": "アクセア",
+    "distanceM": 319,
+    "walkMin": 4,
+    "hours": "平日9:00〜20:00／土日祝休み",
+    "address": "東京都港区西新橋1-16-3 第1東洋海事ビル1F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/entry.html",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "3COINS OOOPS! 新橋駅汐留口店",
+    "brand": "3COINS",
+    "distanceM": 288,
+    "walkMin": 4,
+    "hours": "平日 8:00-22:00／土日祝 10:00-21:00",
+    "address": "東京都港区新橋2丁目17-14 JR新橋駅構内B1F",
+    "verified": true,
+    "source": "https://palcloset.storelocator.jp/map",
+    "note": "距離は公式の店舗位置で計算。公式の3COINS店舗一覧に載る駅ナカ業態「OOOPS!」"
+   },
+   {
+    "name": "Seria イグジットメルサ銀座店",
+    "brand": "セリア",
+    "distanceM": 641,
+    "walkMin": 9,
+    "hours": "毎日 11:00-20:00",
+    "address": "東京都中央区銀座5-7-10 EXIT MELSA 5F",
+    "verified": true,
+    "source": "https://shop.seria-group.com/seria/info/000002655",
+    "note": "距離は公式の店舗位置で計算"
+   }
+  ],
+  "donki": [
+   {
+    "name": "ドン・キホーテ 銀座本館（銀座ナイン3号館）",
+    "brand": "ドン・キホーテ",
+    "distanceM": 460,
+    "walkMin": 6,
+    "hours": "24時間営業",
+    "address": "東京都中央区銀座8-10 銀座ナイン3号館",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=92",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "ピカソ赤坂店（ドン・キホーテ）",
+    "brand": "ドン・キホーテ",
+    "distanceM": 1932,
+    "walkMin": 25,
+    "hours": "7:00-3:00",
+    "address": "東京都港区赤坂3-11-14",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=289",
+    "note": "距離は住所の位置で計算。遠い。ドン・キホーテの別業態（公式サイトの店舗名は「ピカソ赤坂店」）"
+   }
+  ]
+ },
+ "drinkDelivery": {
+  "available": true
+ },
+ "photo": {
+  "src": "/images/venues/dai-ichi-hotel-tokyo.jpg",
+  "credit": "JR新橋駅 日比谷口のイメージ写真です（会場の建物ではありません）。© PRiMENON / CC BY-SA 3.0 · Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:JRE_Shinbashi_Station_Hibiya_exit.jpg"
+ }
+}

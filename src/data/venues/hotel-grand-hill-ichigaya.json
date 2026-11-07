@@ -1,0 +1,419 @@
+{
+ "slug": "hotel-grand-hill-ichigaya",
+ "nameJa": "ホテルグランドヒル市ヶ谷",
+ "nameEn": "",
+ "type": "hotel",
+ "area": "kanda-suidobashi-venues",
+ "address": "〒162-0845 東京都新宿区市谷本村町4-1",
+ "officialUrl": "https://www.ghi.gr.jp/",
+ "organizerUrl": "https://www.ghi.gr.jp/conference/index.html",
+ "bizintokyoSlug": "hotel-grand-hill-ichigaya",
+ "accessSummary": "JR中央・総武線 市ヶ谷駅 徒歩3分／都営新宿線 市ヶ谷駅4番出口 徒歩3分／東京メトロ有楽町線・南北線 市ヶ谷駅7番出口 徒歩3分",
+ "notice": null,
+ "hours": "会議 9:00〜17:00／宴会 9:00〜21:00（この時間帯以外は割増料金）。宴会・会議の問い合わせ受付 9:00〜18:00（土・日・祝 10:00〜18:00）",
+ "rooms": [
+  {
+   "name": "東館3階 瑠璃 全室",
+   "areaM2": 561.6,
+   "ceilingM": 7.0,
+   "theater": 600,
+   "school": 324,
+   "ushape": null,
+   "standing": 450,
+   "banquet": 360,
+   "note": "スライディングウォールで東・中・西に分割可。スクールは7列378席のレイアウト例もあり"
+  },
+  {
+   "name": "東館3階 瑠璃（東）",
+   "areaM2": null,
+   "ceilingM": 7.0,
+   "theater": 200,
+   "school": 126,
+   "ushape": null,
+   "standing": 150,
+   "banquet": 120,
+   "note": null
+  },
+  {
+   "name": "東館3階 瑠璃（中）",
+   "areaM2": null,
+   "ceilingM": 7.0,
+   "theater": 200,
+   "school": 126,
+   "ushape": null,
+   "standing": 150,
+   "banquet": 120,
+   "note": null
+  },
+  {
+   "name": "東館3階 瑠璃（西）",
+   "areaM2": null,
+   "ceilingM": 7.0,
+   "theater": 200,
+   "school": 126,
+   "ushape": null,
+   "standing": 150,
+   "banquet": 120,
+   "note": null
+  },
+  {
+   "name": "東館3階 珊瑚",
+   "areaM2": 162,
+   "ceilingM": 3.0,
+   "theater": 168,
+   "school": 108,
+   "ushape": 60,
+   "standing": 100,
+   "banquet": 80,
+   "note": "コの字93名"
+  },
+  {
+   "name": "東館3階 真珠",
+   "areaM2": 108.9,
+   "ceilingM": 3.0,
+   "theater": 112,
+   "school": 60,
+   "ushape": 42,
+   "standing": 70,
+   "banquet": 50,
+   "note": null
+  },
+  {
+   "name": "東館3階 翡翠",
+   "areaM2": 108.9,
+   "ceilingM": 3.0,
+   "theater": 112,
+   "school": 60,
+   "ushape": 42,
+   "standing": 70,
+   "banquet": 50,
+   "note": null
+  },
+  {
+   "name": "東館2階 白樺 全室",
+   "areaM2": 270.9,
+   "ceilingM": 3.0,
+   "theater": 364,
+   "school": 180,
+   "ushape": null,
+   "standing": 180,
+   "banquet": 130,
+   "note": "東・西の2分割可"
+  },
+  {
+   "name": "東館2階 白樺（西）",
+   "areaM2": 162,
+   "ceilingM": 3.0,
+   "theater": 168,
+   "school": 108,
+   "ushape": 60,
+   "standing": 100,
+   "banquet": 80,
+   "note": "コの字93名"
+  },
+  {
+   "name": "東館2階 白樺（東）",
+   "areaM2": 108.9,
+   "ceilingM": 3.0,
+   "theater": 112,
+   "school": 60,
+   "ushape": 42,
+   "standing": 70,
+   "banquet": 50,
+   "note": "コの字57名"
+  },
+  {
+   "name": "東館2階 芙蓉",
+   "areaM2": 180,
+   "ceilingM": 2.6,
+   "theater": 180,
+   "school": 84,
+   "ushape": 54,
+   "standing": 100,
+   "banquet": 80,
+   "note": "コの字72名"
+  },
+  {
+   "name": "東館2階 鼓",
+   "areaM2": 40.8,
+   "ceilingM": 3.0,
+   "theater": 32,
+   "school": 18,
+   "ushape": 24,
+   "standing": 20,
+   "banquet": 20,
+   "note": "コの字30名。琵琶・琴も同じ広さ・人数"
+  },
+  {
+   "name": "東館2階 琵琶",
+   "areaM2": 40.8,
+   "ceilingM": 3.0,
+   "theater": 32,
+   "school": 18,
+   "ushape": 24,
+   "standing": 20,
+   "banquet": 20,
+   "note": null
+  },
+  {
+   "name": "東館2階 琴",
+   "areaM2": 40.8,
+   "ceilingM": 3.0,
+   "theater": 32,
+   "school": 18,
+   "ushape": 24,
+   "standing": 20,
+   "banquet": 20,
+   "note": "控室としても利用できる"
+  },
+  {
+   "name": "東館地下1階 葵（和室）",
+   "areaM2": 100,
+   "ceilingM": 2.6,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": 48,
+   "note": "会議利用の料金あり（人数の表記なし）"
+  },
+  {
+   "name": "東館地下1階 桂（和室）",
+   "areaM2": 55,
+   "ceilingM": 2.6,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": 32,
+   "note": "会議利用の料金あり（人数の表記なし）。高座"
+  },
+  {
+   "name": "東館地下1階 萩（和室）",
+   "areaM2": 35,
+   "ceilingM": 2.4,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": 12,
+   "note": "会議利用の料金あり（人数の表記なし）。掘りごたつ"
+  },
+  {
+   "name": "西館3階 ペガサス",
+   "areaM2": 100,
+   "ceilingM": 2.4,
+   "theater": 80,
+   "school": 42,
+   "ushape": 42,
+   "standing": 60,
+   "banquet": 40,
+   "note": "レイアウト図の寸法は734×1437cm"
+  },
+  {
+   "name": "西館3階 オリオン",
+   "areaM2": 100,
+   "ceilingM": 2.4,
+   "theater": 80,
+   "school": 42,
+   "ushape": 42,
+   "standing": 60,
+   "banquet": 40,
+   "note": "レイアウト図の寸法は770×1430cm"
+  }
+ ],
+ "roomsSource": "https://www.ghi.gr.jp/conference/fare.html",
+ "ops": {
+  "parking": {
+   "text": "駐車場は地下1階・2階に61台で、事前の予約は受け付けていない。車高は2.1mまで。駐車時間は8:00〜22:00で、一般利用は20分330円、最大料金は8:00〜22:00で月〜土2,000円・日曜と休日1,400円（22:00〜8:00は入出庫できない）。宴集会を利用した客は4時間無料。",
+   "source": "https://www.ghi.gr.jp/access/index.html"
+  },
+  "waitingRooms": {
+   "text": "琴（東館2階、40.8㎡）は控室としても利用できる。ペガサス・オリオン（西館3階）は、宴会が始まるまでの待合いスペースとして使える。",
+   "source": "https://www.ghi.gr.jp/conference/list/tsuzumi_biwa_koto.html"
+  },
+  "catering": {
+   "text": "宴会料金は、1名5,000円以上の食事を注文した場合に限り適用される。装飾・装花・音響・音楽・バンケットコンパニオン・引出物はホテル指定の業者を使い、指定外の業者を使うときは事前にホテルの了解が必要。PCなどの機材持込料は1台3,300円、吊看板の持込料は2,200円（2024年10月1日適用の料金表）。",
+   "source": "https://www.ghi.gr.jp/conference/regulation.html"
+  },
+  "restaurants": {
+   "text": "東館1階に欧風ダイニング「サルビア」とCafé＆Bar カトレア、東館地下1階に日本料理「ふじ」がある。昼食は11:30〜14:30（ラストオーダー14:00）、夕食は17:00〜21:00（ラストオーダー20:30）。",
+   "source": "https://www.ghi.gr.jp/faq/index.html"
+  }
+ },
+ "documents": [
+  {
+   "title": "料金一覧（2024年10月1日適用）",
+   "url": "https://www.ghi.gr.jp/conference/fare.html"
+  },
+  {
+   "title": "宴会場ご利用規約",
+   "url": "https://www.ghi.gr.jp/conference/regulation.html"
+  },
+  {
+   "title": "瑠璃 宴会場のご案内（レイアウト図）",
+   "url": "https://www.ghi.gr.jp/conference/list/pdf/ruri.pdf"
+  },
+  {
+   "title": "珊瑚 宴会場のご案内（レイアウト図）",
+   "url": "https://www.ghi.gr.jp/conference/list/pdf/sango.pdf"
+  },
+  {
+   "title": "真珠 宴会場のご案内（レイアウト図）",
+   "url": "https://www.ghi.gr.jp/conference/list/pdf/shinju.pdf"
+  },
+  {
+   "title": "翡翠 宴会場のご案内（レイアウト図）",
+   "url": "https://www.ghi.gr.jp/conference/list/pdf/hisui.pdf"
+  },
+  {
+   "title": "白樺 宴会場のご案内（レイアウト図）",
+   "url": "https://www.ghi.gr.jp/conference/list/pdf/shirakaba.pdf"
+  },
+  {
+   "title": "芙蓉 宴会場のご案内（レイアウト図）",
+   "url": "https://www.ghi.gr.jp/conference/list/pdf/fuyoun.pdf"
+  },
+  {
+   "title": "鼓・琵琶・琴 宴会場のご案内（レイアウト図）",
+   "url": "https://www.ghi.gr.jp/conference/list/pdf/tsuzumi_biwa_koto.pdf"
+  },
+  {
+   "title": "葵 宴会場のご案内",
+   "url": "https://www.ghi.gr.jp/conference/list/pdf/aoi.pdf"
+  },
+  {
+   "title": "桂 宴会場のご案内",
+   "url": "https://www.ghi.gr.jp/conference/list/pdf/katsura.pdf"
+  },
+  {
+   "title": "萩 宴会場のご案内",
+   "url": "https://www.ghi.gr.jp/conference/list/pdf/hagi.pdf"
+  },
+  {
+   "title": "ペガサス 宴会場のご案内（レイアウト図）",
+   "url": "https://www.ghi.gr.jp/conference/list/pdf/pegasus2019.pdf"
+  },
+  {
+   "title": "オリオン 宴会場のご案内（レイアウト図）",
+   "url": "https://www.ghi.gr.jp/conference/list/pdf/orion2019.pdf"
+  },
+  {
+   "title": "WEB会議・WEBセミナー用プラン",
+   "url": "https://www.ghi.gr.jp/conference/list/pdf/teleconference_plan.pdf"
+  },
+  {
+   "title": "セルフロッカー利用規約（2023年8月28日制定）",
+   "url": "https://www.ghi.gr.jp/regulation/locker_rules.pdf"
+  }
+ ],
+ "checkedAt": "2026-11-07",
+ "lat": 35.691605,
+ "lng": 139.732208,
+ "nearby": {
+  "convenience": [
+   {
+    "name": "ファミリーマート 市谷本村町店",
+    "brand": "ファミリーマート",
+    "distanceM": 60,
+    "walkMin": 1,
+    "hours": "24時間営業",
+    "address": "東京都新宿区市谷本村町3-29 FORECAST市ヶ谷1階",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/20517",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "ファミリーマート 新宿市谷見附店",
+    "brand": "ファミリーマート",
+    "distanceM": 323,
+    "walkMin": 5,
+    "hours": "24時間営業",
+    "address": "東京都新宿区市谷田町1-3",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/24686",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "ファミリーマート 市ヶ谷店",
+    "brand": "ファミリーマート",
+    "distanceM": 457,
+    "walkMin": 6,
+    "hours": "24時間営業",
+    "address": "東京都千代田区九段北4-2-11",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/26541",
+    "note": "距離は公式の店舗位置で計算"
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "アクセア 市ヶ谷八幡町店",
+    "brand": "アクセア",
+    "distanceM": 204,
+    "walkMin": 3,
+    "hours": "平日 8:00〜22:00／土日祝 休み",
+    "address": "東京都新宿区市谷八幡町11-1 市ヶ谷八幡町ビル1F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/entry.html",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "アクセア 四ツ谷店",
+    "brand": "アクセア",
+    "distanceM": 720,
+    "walkMin": 9,
+    "hours": "平日 8:00〜21:00／土 10:00〜19:00／日祝 休み",
+    "address": "東京都新宿区四谷1-18 オオノヤビル1F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/entry.html",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "DAISO くすりの福太郎市谷柳町店",
+    "brand": "ダイソー",
+    "distanceM": 1002,
+    "walkMin": 13,
+    "hours": "10:00-22:00",
+    "address": "東京都新宿区市谷柳町37マージュ市谷柳町地下1階",
+    "verified": true,
+    "source": "https://www.daiso-sangyo.co.jp/shop/detail/009482",
+    "note": "距離は住所の位置で計算。遠め"
+   },
+   {
+    "name": "Can★Do 飯田橋ラムラ店",
+    "brand": "キャンドゥ",
+    "distanceM": 1451,
+    "walkMin": 19,
+    "hours": "毎日 10:00-21:00",
+    "address": "東京都新宿区神楽河岸1-1 飯田橋ラムラ2階",
+    "verified": true,
+    "source": "https://shopinfo.cando-web.co.jp/detail/shop-5182/",
+    "note": "距離は住所の位置で計算。遠め"
+   }
+  ],
+  "donki": [
+   {
+    "name": "ピカソ赤坂店（ドン・キホーテ）",
+    "brand": "ドン・キホーテ",
+    "distanceM": 1921,
+    "walkMin": 25,
+    "hours": "7:00-3:00",
+    "address": "東京都港区赤坂3-11-14",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=289",
+    "note": "距離は住所の位置で計算。遠い。ドン・キホーテの別業態（公式サイトの店舗名は「ピカソ赤坂店」）"
+   }
+  ]
+ },
+ "drinkDelivery": {
+  "available": true
+ },
+ "photo": {
+  "src": "/images/venues/hotel-grand-hill-ichigaya.jpg",
+  "credit": "© Abasaa / Public domain · Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hotel_Grand_Hill_Ichigaya.JPG"
+ }
+}

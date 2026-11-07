@@ -1,0 +1,155 @@
+{
+ "slug": "global-business-hub-tokyo",
+ "nameJa": "グローバルビジネスハブ東京",
+ "nameEn": "Global Business Hub Tokyo",
+ "type": "conference",
+ "area": "marunouchi-nihonbashi-venues",
+ "address": "〒100-0004 東京都千代田区大手町1丁目9-2 大手町フィナンシャルシティ グランキューブ3F",
+ "officialUrl": "https://www.gbh-tokyo.or.jp/",
+ "organizerUrl": null,
+ "bizintokyoSlug": "global-business-hub-tokyo",
+ "accessSummary": "半蔵門線・千代田線・丸の内線・東西線・都営三田線「大手町」駅直結／JR「東京」駅から地下で直結",
+ "notice": "会議室やイベントスペースのみの利用は受け付けていない（オフィス入居者向け施設）",
+ "hours": "平日9:00〜21:00（土日祝休業）。オフィスは24時間利用可能。設備保守点検により臨時休館となる場合あり",
+ "rooms": [
+  {
+   "name": "Field（イベントスペース）",
+   "areaM2": null,
+   "ceilingM": null,
+   "theater": null,
+   "school": 100,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "最大200名規模のセミナー・ワークショップに利用可。1面を利用したコの字の会議形式、3面を利用したスクール形式（100名程度）。イベント予約がない時間はコワークスペースとして利用"
+  }
+ ],
+ "roomsSource": "https://www.gbh-tokyo.or.jp/floor/",
+ "ops": {
+  "restaurants": {
+   "text": "同じ建物（大手町フィナンシャルシティ グランキューブ）の1階・地下1階にレストラン、カフェ、コンビニが営業している。日常のランチから大切なお客様との会食まで利用できるとの案内がある。",
+   "source": "https://www.gbh-tokyo.or.jp/access/"
+  }
+ },
+ "documents": [],
+ "checkedAt": "2026-11-07",
+ "lat": 35.688286,
+ "lng": 139.765411,
+ "nearby": {
+  "convenience": [
+   {
+    "name": "ナチュラルローソン 大手町フィナンシャルシティノース店",
+    "brand": "ナチュラルローソン",
+    "distanceM": 33,
+    "walkMin": 1,
+    "hours": "7:00-23:00",
+    "address": "東京都千代田区大手町1‐9‐5",
+    "verified": true,
+    "source": "https://www.areamarker.com/lawson/info/175774",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "ナチュラルローソン S大手町フィナンシャルシティサウス店",
+    "brand": "ナチュラルローソン",
+    "distanceM": 48,
+    "walkMin": 1,
+    "hours": "10:00-21:00",
+    "address": "東京都千代田区大手町1‐9‐7",
+    "verified": true,
+    "source": "https://www.areamarker.com/lawson/info/175797",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "ローソン 大手町フィナンシャルシティグランキューブ店",
+    "brand": "ローソン",
+    "distanceM": 64,
+    "walkMin": 1,
+    "hours": "7:00-23:00",
+    "address": "東京都千代田区大手町1‐9‐2",
+    "verified": true,
+    "source": "https://www.areamarker.com/lawson/info/243300",
+    "note": "距離は公式の店舗位置で計算"
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "キンコーズ・大手町店",
+    "brand": "キンコーズ",
+    "distanceM": 213,
+    "walkMin": 3,
+    "hours": "平日 9:00-20:00／土・日・祝 休業",
+    "address": "東京都千代田区大手町1丁目6-1 大手町ビル1F",
+    "verified": true,
+    "source": "https://www.kinkos.co.jp/store/tokyo/t005/",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "アクセア 大手町店",
+    "brand": "アクセア",
+    "distanceM": 229,
+    "walkMin": 3,
+    "hours": "24時間営業（年中無休）",
+    "address": "東京都千代田区内神田2-2-6 田中ビル1F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/map/otemachi.html",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Can★Do 丸の内オアゾ店",
+    "brand": "キャンドゥ",
+    "distanceM": 488,
+    "walkMin": 7,
+    "hours": "月〜金 8:00-22:00／土〜日 9:00-21:00",
+    "address": "東京都千代田区丸の内1-6-4 丸の内オアゾ地下1階",
+    "verified": true,
+    "source": "https://shopinfo.cando-web.co.jp/detail/shop-5550/",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "DAISO 神田神保町すずらん通り店",
+    "brand": "ダイソー",
+    "distanceM": 928,
+    "walkMin": 12,
+    "hours": "10:00-21:00",
+    "address": "東京都千代田区神田神保町1-1-17東京堂神保町第3ビルディング 1階",
+    "verified": true,
+    "source": "https://www.daiso-sangyo.co.jp/shop/detail/008732",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "donki": [
+   {
+    "name": "ドン・キホーテ 秋葉原店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 1489,
+    "walkMin": 19,
+    "hours": "24時間営業",
+    "address": "東京都千代田区外神田4丁目3-3",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=98",
+    "note": "距離は住所の位置で計算。遠め。ドン・キホーテ公式サイトの店舗名は「秋葉原店」"
+   },
+   {
+    "name": "ドン・キホーテ 後楽園店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 2200,
+    "walkMin": 28,
+    "hours": "24時間営業",
+    "address": "東京都文京区本郷1-33-9",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=343",
+    "note": "距離は住所の位置で計算。遠い。ドン・キホーテ公式サイトの店舗名は「後楽園店」"
+   }
+  ]
+ },
+ "drinkDelivery": {
+  "available": true
+ },
+ "photo": {
+  "src": "/images/venues/global-business-hub-tokyo.jpg",
+  "credit": "© Akonnchiroll / CC BY-SA 4.0 · Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Otemachi_Financial_City_Grand_Cube1.jpg"
+ }
+}

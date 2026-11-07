@@ -1,0 +1,522 @@
+{
+ "slug": "hokutopia",
+ "nameJa": "北とぴあ",
+ "nameEn": "",
+ "type": "public",
+ "area": "ikebukuro-venues",
+ "address": "〒114-8503 東京都北区王子1-11-1",
+ "officialUrl": "https://www.hokutopia.jp/",
+ "organizerUrl": "https://www.hokutopia.jp/usage-guidance/",
+ "bizintokyoSlug": "hokutopia",
+ "accessSummary": "東京メトロ南北線「王子」5番出口 直結／JR京浜東北線「王子」北口 徒歩2分／都電荒川線「王子駅前」徒歩5分",
+ "notice": null,
+ "hours": "開館 8:30〜22:00。施設受付窓口 9:00〜20:00。貸出の時間帯は午前9:00〜12:00／午後13:00〜17:00／夜間18:00〜22:00／終日9:00〜22:00",
+ "rooms": [
+  {
+   "name": "さくらホール（2階）",
+   "areaM2": null,
+   "ceilingM": null,
+   "theater": 1300,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "固定席1,300（1階806・2階494）。車椅子席使用時は1階席30席減。舞台プロセニアム形式 最大間口18m／高さ9m／奥行17m／オーケストラピット68㎡。リハーサル室93㎡・定員60名、楽屋7室"
+  },
+  {
+   "name": "つつじホール（3階）",
+   "areaM2": null,
+   "ceilingM": null,
+   "theater": 402,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "固定席402。舞台間口9m／高さ4.5m／奥行7m。リハーサル室71㎡・定員50名（単独貸出可）、楽屋4室"
+  },
+  {
+   "name": "飛鳥ホール（13階）",
+   "areaM2": 513,
+   "ceilingM": 3.45,
+   "theater": 384,
+   "school": 288,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "シアターは椅子のみの場合384、スクールは机使用時288。楽屋なし。舞台間口7.0m／奥行2.65m／高さ2.76m。運動・和太鼓・バンド演奏は不可"
+  },
+  {
+   "name": "ペガサスホール（15階）",
+   "areaM2": 232,
+   "ceilingM": null,
+   "theater": 173,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "椅子のみの場合173。楽屋3室・リハーサル室（約97㎡・定員64名）あり。可動式舞台 幅3.6m／奥行2.4m／高さ0.3m。打楽器は不可"
+  },
+  {
+   "name": "スカイホール（14階）",
+   "areaM2": 184,
+   "ceilingM": null,
+   "theater": 138,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "椅子のみの場合138。楽屋なし。可動式舞台 幅3.6m／奥行2.4m／高さ0.3m。打楽器は不可"
+  },
+  {
+   "name": "カナリアホール（14階）",
+   "areaM2": 148,
+   "ceilingM": null,
+   "theater": 110,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "椅子のみの場合110。楽屋2室あり。面積は約148㎡。打楽器は不可"
+  },
+  {
+   "name": "ドームホール（6階）",
+   "areaM2": null,
+   "ceilingM": null,
+   "theater": 150,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "定員150名、楽屋なし。夜間帯は18:00〜22:00"
+  },
+  {
+   "name": "展示ホール（地下1階）",
+   "areaM2": 549,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "定員360名。分割利用可。全日全面使用の連続使用は14日まで"
+  },
+  {
+   "name": "第一研修室（7階）",
+   "areaM2": 170,
+   "ceilingM": null,
+   "theater": null,
+   "school": 84,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "3人掛けデスク 7列×4列"
+  },
+  {
+   "name": "第二研修室（7階）",
+   "areaM2": 205,
+   "ceilingM": null,
+   "theater": null,
+   "school": 120,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "3人掛けデスク 10列×4列。分割利用の場合 各103㎡・各60名（分割時は音響機材使用不可）"
+  },
+  {
+   "name": "601会議室（6階）",
+   "areaM2": null,
+   "ceilingM": null,
+   "theater": null,
+   "school": 24,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "3人掛けデスク 4列×2列。音響設備は使用不可"
+  },
+  {
+   "name": "701会議室（7階）",
+   "areaM2": 102,
+   "ceilingM": null,
+   "theater": null,
+   "school": 54,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "3人掛けデスク 6列×3列。音響機材は使用不可"
+  },
+  {
+   "name": "801会議室（8階）",
+   "areaM2": 60,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "20名掛け円卓、定員20名。机の配置替え・移動は不可"
+  },
+  {
+   "name": "802会議室（8階）",
+   "areaM2": 97,
+   "ceilingM": null,
+   "theater": null,
+   "school": 54,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "3人掛けデスク 6列×3列。分割利用の場合 各48.5㎡・各27名"
+  },
+  {
+   "name": "803会議室（8階）",
+   "areaM2": 48,
+   "ceilingM": null,
+   "theater": null,
+   "school": 24,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "3人掛けデスク 4列×2列"
+  },
+  {
+   "name": "804（A・B）会議室（8階）",
+   "areaM2": 54,
+   "ceilingM": null,
+   "theater": null,
+   "school": 24,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "パーテーションで2分割可（各12名）。窓なし"
+  },
+  {
+   "name": "805（A・B）会議室（8階）",
+   "areaM2": 54,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": 24,
+   "standing": null,
+   "banquet": null,
+   "note": "ロの字形式24名。パーテーションで2分割可（各12名）。窓なし"
+  },
+  {
+   "name": "806会議室（8階）",
+   "areaM2": 48,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": 24,
+   "standing": null,
+   "banquet": null,
+   "note": "ロの字形式24名"
+  },
+  {
+   "name": "807会議室（8階）",
+   "areaM2": 48,
+   "ceilingM": null,
+   "theater": null,
+   "school": 24,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "3人掛けデスク 4列×2列"
+  },
+  {
+   "name": "808会議室（8階）",
+   "areaM2": 48,
+   "ceilingM": null,
+   "theater": null,
+   "school": 24,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "3人掛けデスク 4列×2列"
+  },
+  {
+   "name": "901会議室（9階）",
+   "areaM2": 119,
+   "ceilingM": null,
+   "theater": null,
+   "school": 54,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "3人掛けデスク 6列×3列。流し台付き準備スペースあり"
+  },
+  {
+   "name": "902会議室（9階）",
+   "areaM2": 119,
+   "ceilingM": null,
+   "theater": null,
+   "school": 54,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "3人掛けデスク 6列×3列。流し台付き準備スペースあり"
+  },
+  {
+   "name": "1601会議室（16階）",
+   "areaM2": 219,
+   "ceilingM": null,
+   "theater": null,
+   "school": 84,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "3人掛けデスク。照明がシャンデリアのため他の会議室より明るさがやや落ちる"
+  },
+  {
+   "name": "1602会議室（16階）",
+   "areaM2": 81,
+   "ceilingM": null,
+   "theater": null,
+   "school": 36,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "3人掛けデスク 2列×6列。音響設備は使用不可。空調の利きが悪く外気温が高いと室温が下がらない"
+  },
+  {
+   "name": "第1和室《せきれい》（9階）",
+   "areaM2": 125,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "30畳、定員48名。南北に分割可（各15畳・各24名）"
+  },
+  {
+   "name": "第2和室《かわせみ》（9階）",
+   "areaM2": 74,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "20畳、定員18名。西東に分割可（各10畳・各9名）"
+  },
+  {
+   "name": "茶室《致祥軒》（9階）",
+   "areaM2": null,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "16畳（前庭・入側4畳・水屋3畳付き）、定員18名。茶会用"
+  },
+  {
+   "name": "多目的ルーム（地下1階）",
+   "areaM2": 214,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "全面44名。分割A面125㎡・26名（壁鏡・手摺バーあり）、B面89㎡・18名。分割時は1団体利用のみ"
+  },
+  {
+   "name": "音楽スタジオ（地下1階・第1〜第3）",
+   "areaM2": 33,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "第1音楽スタジオ 33㎡・定員20名。バンド練習・楽器練習用"
+  }
+ ],
+ "roomsSource": "https://www.hokutopia.jp/hall-guide/",
+ "ops": {
+  "loadingHours": {
+   "text": "搬出入は荷物用エレベーターを使う（正面玄関左右の各3基は荷物用ではない）。7号機は地下3階〜17階・積載1.45t・カゴ内寸1.85×1.75×2.3m・ドア1.0×2.1m、9号機は地下3階〜3階・積載2.0t・カゴ内寸2.2×2.8×2.1m・ドア1.7×2.1m、12号機は展示ホール専用（地下1階〜1階・積載2.0t・同寸法）。準備・後片付け（搬出入含む）は承認された使用時間内に行う。ホールは使用の約1か月前までに舞台事務所と打合せが必要。",
+   "source": "https://www.hokutopia.jp/usage-guidance/reservation"
+  },
+  "vehicleRules": {
+   "text": "車での搬出入は地下駐車場（高さ制限2.8m）を使う。入庫から30分を超えると駐車料金（200円／30分）がかかる。1階正面玄関前への乗り入れと、地下駐車場入口横の地上駐車場の無許可利用は不可。展示ホール1階の搬入スペースには2tトラック（積載2t以下・車高3m以下・車長5m以下・車幅2.5m以下）1台分が入る。さくらホール舞台面・楽屋はさくらホール主催者専用駐車場から直接搬入でき、つつじホールは主催者専用駐車場が搬出入口に面していないため7号機か9号機を使う。宅配便は使用時間内に使用施設で受け取れるよう手配し、事前搬入は預からない。",
+   "source": "https://www.hokutopia.jp/usage-guidance/reservation"
+  },
+  "parking": {
+   "text": "地下駐車場あり（台数の記載は確認できず、スペースが限られるため車での来館は控えるよう案内）。積載2t以上・車高2.8m以上・車幅2m以上のいずれかに該当する車両は入場不可。料金は大型車両700円／30分、その他200円／30分（大型車両は長さ4.7m・幅1.7m・高さ2mのいずれかを超える車両）。入庫8:15〜22:00、出庫23:00まで。地下駐車場入口両脇の地上スペースはさくらホール・つつじホール主催者専用で、北とぴあ発行の許可証が必要。",
+   "source": "https://www.hokutopia.jp/access/"
+  },
+  "waitingRooms": {
+   "text": "ホールに付随する楽屋あり。さくらホールは楽屋7室（15〜35㎡・定員3〜11名）とシャワー室、つつじホールは楽屋4室（14〜52㎡・定員4〜8名）、ペガサスホールは楽屋3室（18〜24㎡・定員7名）、カナリアホールは楽屋2室（11〜12㎡）。飛鳥ホール・スカイホールに楽屋はない。第一・第二研修室には講師控室（16㎡／21㎡・定員2名、研修室に付随して申込み）がある。",
+   "source": "https://www.hokutopia.jp/hall-guide/halls/sakura_hall"
+  },
+  "catering": {
+   "text": "ホール内は飲食不可。研修室は飲食可（飲酒・喫煙は不可）、会議室・和室は飲食・飲酒可（室内禁煙）。厨房・配膳室はなく、給水・給湯は各階の湯沸室を使う。使用後の弁当容器などは主催者が持ち帰る。承認を受けない飲食物の販売・提供は禁止。",
+   "source": "https://www.hokutopia.jp/hall-guide/conference/"
+  },
+  "restaurants": {
+   "text": "館内テナントに、1階のビアレストラン「キリンシティ」（11:00〜22:30）、17階の展望レストラン「山海亭」（11:00〜21:30）、16〜17階の王子東武サロン（各種宴会・パーティ・ケータリングサービスなどに利用できるホールと案内）がある。",
+   "source": "https://www.hokutopia.jp/tenant/"
+  }
+ },
+ "documents": [
+  {
+   "title": "令和7年4月1日以降の北とぴあ新料金表",
+   "url": "https://www.hokutopia.jp/wp-content/uploads/2025/02/48d00243fbc06a28a6e59d8ec3cdb2f5.pdf"
+  },
+  {
+   "title": "施設ご利用料金（区民の方）",
+   "url": "https://www.hokutopia.jp/usage-guidance/fee"
+  },
+  {
+   "title": "施設ご利用料金（区民以外の方）",
+   "url": "https://www.hokutopia.jp/usage-guidance/fee/fee01"
+  },
+  {
+   "title": "施設ご利用申し込みについて（申込受付期間・搬出入・使用上の注意）",
+   "url": "https://www.hokutopia.jp/usage-guidance/reservation"
+  },
+  {
+   "title": "さくらホール舞台平面図",
+   "url": "https://www.hokutopia.jp/wp-content/uploads/2022/01/6d86036e19aead75cfae3da6401c640a.pdf"
+  },
+  {
+   "title": "さくらホール客席図",
+   "url": "https://www.hokutopia.jp/wp-content/uploads/2022/01/7d52640d3c0fb28a45ebdf5e6e806cb6.pdf"
+  },
+  {
+   "title": "つつじホール舞台平面図",
+   "url": "https://www.hokutopia.jp/wp-content/uploads/2022/01/dea0bc7caca93e44a454cbd15e9f2324.pdf"
+  },
+  {
+   "title": "つつじホール客席図",
+   "url": "https://www.hokutopia.jp/wp-content/uploads/2022/01/dff8c612dc9c3efeaa8888d9be710367.pdf"
+  },
+  {
+   "title": "飛鳥ホール平面図",
+   "url": "https://www.hokutopia.jp/wp-content/uploads/2015/03/db49ce942b75bcd35c9a35f347766a74.pdf"
+  },
+  {
+   "title": "ペガサスホール平面図",
+   "url": "https://www.hokutopia.jp/wp-content/uploads/2015/03/pega.pdf"
+  },
+  {
+   "title": "スカイホール平面図",
+   "url": "https://www.hokutopia.jp/wp-content/uploads/2015/03/sky.pdf"
+  },
+  {
+   "title": "カナリアホール平面図",
+   "url": "https://www.hokutopia.jp/wp-content/uploads/2015/03/canary.pdf"
+  },
+  {
+   "title": "6Fドームホール平面図",
+   "url": "https://www.hokutopia.jp/wp-content/uploads/2015/03/50bf1bd8e946fb0f43cfacbc8f43ba3b.pdf"
+  },
+  {
+   "title": "展示ホール平面図",
+   "url": "https://www.hokutopia.jp/wp-content/uploads/2015/03/0523c20e5ec96ac07aac2a8b9f4b0aca.pdf"
+  },
+  {
+   "title": "さくらホール主催者専用駐車場",
+   "url": "https://www.hokutopia.jp/wp-content/uploads/2015/03/ilovepdf_jpg_to_pdf.pdf"
+  },
+  {
+   "title": "つつじホール主催者専用駐車場",
+   "url": "https://www.hokutopia.jp/wp-content/uploads/2015/03/attachment_5_1.pdf"
+  },
+  {
+   "title": "展示ホール専用駐車場",
+   "url": "https://www.hokutopia.jp/wp-content/uploads/2015/03/attachment_1.pdf"
+  },
+  {
+   "title": "作業入館許可申請書",
+   "url": "https://www.hokutopia.jp/wp-content/uploads/2017/08/94c557fb1604af9ab4a93974f4af2b0d.pdf"
+  },
+  {
+   "title": "物品販売申請書",
+   "url": "https://www.hokutopia.jp/wp-content/uploads/2015/03/0352f08c226a7ee56f65974ab26a98a1.pdf"
+  },
+  {
+   "title": "北とぴあ館内・撮影許可願",
+   "url": "https://www.hokutopia.jp/wp-content/uploads/2015/03/b66c4fdb2d42909687c85d26f9e5a5d3.pdf"
+  },
+  {
+   "title": "各種PDFダウンロード（会議室ごとの詳細案内・設備表ほか）",
+   "url": "https://www.hokutopia.jp/download/"
+  }
+ ],
+ "checkedAt": "2026-11-07",
+ "lat": 35.754681,
+ "lng": 139.736511,
+ "nearby": {
+  "convenience": [
+   {
+    "name": "ローソン 北区王子一丁目店",
+    "brand": "ローソン",
+    "distanceM": 82,
+    "walkMin": 2,
+    "hours": "24時間営業",
+    "address": "東京都北区王子1-16-5",
+    "verified": true,
+    "source": "https://www.areamarker.com/lawson/info/264785",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "セブン-イレブン 王子駅北店",
+    "brand": "セブン-イレブン",
+    "distanceM": 84,
+    "walkMin": 2,
+    "hours": "24時間営業",
+    "address": "東京都北区王子1-13-16",
+    "verified": true,
+    "source": "https://seven-eleven.areamarker.com/711map/info/532783",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "ファミリーマート 王子駅前店",
+    "brand": "ファミリーマート",
+    "distanceM": 117,
+    "walkMin": 2,
+    "hours": "24時間営業",
+    "address": "東京都北区王子1丁目9-6",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/77247",
+    "note": "距離は公式の店舗位置で計算"
+   }
+  ],
+  "copyshop": [],
+  "hundredYen": [
+   {
+    "name": "DAISO 王子駅前店",
+    "brand": "ダイソー",
+    "distanceM": 152,
+    "walkMin": 2,
+    "hours": "9:30-21:00",
+    "address": "東京都北区王子1-9-3",
+    "verified": true,
+    "source": "https://www.daiso-sangyo.co.jp/shop/detail/004018",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "DAISO コーナン王子堀船店",
+    "brand": "ダイソー",
+    "distanceM": 750,
+    "walkMin": 10,
+    "hours": "9:00-21:00",
+    "address": "東京都北区堀船1丁目23番13号",
+    "verified": true,
+    "source": "https://www.daiso-sangyo.co.jp/shop/detail/003765",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "donki": []
+ },
+ "drinkDelivery": {
+  "available": true
+ },
+ "photo": {
+  "src": "/images/venues/hokutopia.jpg",
+  "credit": "© Guilhem Vellut from Annecy, France / CC BY 2.0 · Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hokutopia_2014-05-12.jpg"
+ }
+}

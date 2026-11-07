@@ -1,0 +1,100 @@
+{
+ "slug": "aioi-nissay-dowa-shinjuku-building-hall",
+ "name": "Aioi Nissay Dowa Insurance Shinjuku Building Rental Hall & Meeting Rooms",
+ "address": "Tokyo 151-0053 3-25-3 Yoyogi, Shibuya-ku",
+ "accessSummary": "Shinjuku Station (Toei Shinjuku Line / Keio New Line), underground passage \"One Day Street\" Exit 01: 6 min walk / Tochomae Station (Toei Oedo Line) Exit A4: 8 min walk / Shinjuku Station (JR lines / Odakyu Line) South Exit: 13 min walk",
+ "hours": "Both the rental hall and the meeting rooms are open on Sat, Sun & holidays, 9:00-21:00. Closed over the year-end and New Year holidays and on the building-wide statutory inspection days. The reception desk (inquiries) is open on weekdays 9:00-17:00",
+ "notice": null,
+ "rooms": [
+  {
+   "name": "Rental Hall (B1F)",
+   "note": "The official wording is \"maximum capacity: 378 with desks and chairs / 550 chairs only\". Extensions are up to 2 hours"
+  },
+  {
+   "name": "Meeting Room A (3F)",
+   "note": "The official wording is \"conference style 28, classroom style 24\""
+  },
+  {
+   "name": "Meeting Room BC (3F)",
+   "note": "The official wording is \"conference style 32, classroom style 48\". B and C can be used separately (in that case, half the rate)"
+  },
+  {
+   "name": "Meeting Room D (3F)",
+   "note": "Ceiling-mounted projector and motorized screen installed (equipment renewed in February 2026). The official wording is \"conference style 48, classroom style 96\""
+  }
+ ],
+ "ops": {
+  "loadingHours": "Load-in to the hall is through the parking-lot entrance on B1F, with staff guiding you (the loading door is 1,800 mm wide x 2,400 mm high). For the 3F meeting rooms, goods are carried in and out through the 1F loading entrance by freight elevator. Machinery and equipment must be brought in within the booked time. The loading method and time must be agreed in advance, and the type of items, date/time and electrical capacity must be submitted in writing beforehand. Packages sent in advance are accepted on weekdays only, and the courier company name and date must be notified beforehand. (Source: Terms of Use, revised October 15, 2025)",
+  "vehicleRules": "Vehicles entering the parking-lot entrance are limited to 5 m in length, 1.9 m in width and 2 m in height. There is no parking space for large vehicles (cargo vehicles). Temporary storage of delivered goods is in principle declined. (Source: Terms of Use, revised October 15, 2025)",
+  "parking": "The parking lot is a contract lot and cannot be used by visitors; please use public transportation.",
+  "waitingRooms": "There are 2 waiting rooms in the hall (free of charge).",
+  "catering": "Party-style use is not allowed. Food and drink such as boxed meals and tea can be consumed in the venue. Drinking, parties, sales of goods and the like without the office's approval are prohibited."
+ },
+ "documents": [
+  {
+   "title": "Guide to Use (also the Terms of Use) (revised October 15, 2025)"
+  },
+  {
+   "title": "Rental Hall Availability (as of October 18, 2026)"
+  },
+  {
+   "title": "Rental Hall and Meeting Room Price List, Equipment Price List and Layout Examples (posted on the official website, revised October 1, 2026)"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "Lawson Yoyogi 3-chome",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the store's official location."
+   },
+   {
+    "name": "Lawson Keio Presso Inn Shinjuku",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the store's official location."
+   },
+   {
+    "name": "FamilyMart Yoyogi 3-chome",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the store's official location."
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "Accea Shinjuku Minamiguchi",
+    "hours": "Weekdays open 24 hours (open continuously from 8:00 Monday morning to 19:00 Saturday evening) / Sat until 19:00, Sun & holidays 10:00-19:00",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Kinko's Shinjuku Minamiguchi",
+    "hours": "Weekdays 8:00-22:00 / Sat 8:00-22:00 / Sun & holidays 8:00-22:00",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Can Do Yakuhiguchi Shinjuku Park Tower",
+    "hours": "Mon-Fri 9:00-20:00 / Sat, Sun 10:00-19:30 / Holidays 10:00-19:30",
+    "note": "Distance is calculated from the store's official location."
+   },
+   {
+    "name": "DAISO Keio Mall Annex",
+    "hours": "8:00-21:00",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "donki": [
+   {
+    "name": "Don Quijote Shinjuku Tonanguchi",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the store's official location. The store name on the Don Quijote official website is \"Shinjuku Tonanguchi\" (新宿東南口店). Rather far."
+   },
+   {
+    "name": "Don Quijote Shinjuku Tonanguchi Annex",
+    "hours": "9:00-2:00",
+    "note": "Distance is calculated from the store's official location. The store name on the Don Quijote official website is \"Shinjuku Tonanguchi Annex\" (新宿東南口別館). Rather far."
+   }
+  ]
+ },
+ "photoCredit": "© 鋸香具師 / CC0 · Wikimedia Commons"
+}

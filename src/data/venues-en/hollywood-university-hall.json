@@ -1,0 +1,97 @@
+{
+ "slug": "hollywood-university-hall",
+ "name": "Hollywood University Hall",
+ "address": "Tokyo 106-8541 Roppongi Hills Hollywood Plaza, 6-4-1 Roppongi, Minato-ku",
+ "accessSummary": "Hibiya Line Roppongi Station Exits 1a, 1b, 1c: 0 min via directly connected passage / Oedo Line Roppongi Station Exit 3: 3 min / Chiyoda Line Nogizaka Station Exit 5: 6 min / Namboku Line Azabu-juban Station Exit 4: 8 min",
+ "hours": "9:00-21:00 (time slots in the fee schedule. Use outside these hours, in the early morning or at night, is 75,000 yen per 30 min (excl. tax))",
+ "notice": "As a school facility, it is rented out only for cultural and educational purposes, within the range that does not interfere with school operations. Apply with a project proposal; the school corporation reviews it and notifies you of the decision.",
+ "rooms": [
+  {
+   "name": "5F Main Hall (Auditorium)",
+   "note": "Can be divided into 2-3 sections with partitions. Ceremony layout up to 1,200 seats; concert layout 808 audience seats (up to 1,200 seats can be arranged); zoned layout with 380 seminar seats and a standing party area for 500"
+  },
+  {
+   "name": "7F Classrooms (8 rooms)",
+   "note": "Can be divided with partitions and adjusted from 20 tsubo to 120 tsubo. 24 outlets for hair dryers in each classroom. Fees are charged per classroom, as classrooms on the 7th to 10th floors"
+  }
+ ],
+ "ops": {
+  "loadingHours": "Load in and out using the shared loading area and the shared freight elevator. If there is work to be done, submit a \"work notification\" to the hall staff. Cover (protect) the load-in/load-out route before starting; the 1F elevator hall is also used by the general public, so a staff member must be present during covering work.",
+  "vehicleRules": "Vehicles cannot be left in the loading area. Leave promptly after load-in and load-out are finished.",
+  "waitingRooms": "The 7F classrooms (up to 8 rooms) can be used as waiting rooms. The size of each room can be adjusted with partitions.",
+  "catering": "Eating and drinking is allowed inside the hall and classrooms. It is prohibited in shared spaces such as the elevator hall. Introductions to lighting, sound, catering and other vendors are available."
+ },
+ "documents": [
+  {
+   "title": "5F Floor Plan"
+  },
+  {
+   "title": "5F Batten Plan"
+  },
+  {
+   "title": "7F Overall Floor Plan"
+  },
+  {
+   "title": "Fees and Equipment List"
+  },
+  {
+   "title": "Precautions"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "FamilyMart Roppongi Hills",
+    "hours": "6:00-24:00",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Lawson Minato Roppongi-dori",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Natural Lawson Roppongi Hills",
+    "hours": "7:00-23:00",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "Accea Roppongi",
+    "hours": "Weekdays 8:00-22:00 / Sat, Sun & holidays 10:00-19:00",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Accea Roppongi-itchome",
+    "hours": "Weekdays 9:00-20:00 / Closed Sat, Sun & holidays",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Can Do Azabu-juban",
+    "hours": "Daily 10:00-21:00",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Can Do Shiroyama Hills",
+    "hours": "Daily 9:00-23:00",
+    "note": "Distance is calculated from the address location. Rather far."
+   }
+  ],
+  "donki": [
+   {
+    "name": "Don Quijote Roppongi",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. The store name on the Don Quijote official website is \"Roppongi\" (六本木店)."
+   },
+   {
+    "name": "Picasso Akasaka (Don Quijote)",
+    "hours": "7:00-3:00",
+    "note": "Distance is calculated from the address location. A different Don Quijote format (the store name on the official website is \"Picasso Akasaka\" (ピカソ赤坂店)). Far."
+   }
+  ]
+ },
+ "photoCredit": "Image of an entrance of Roppongi Station, not the venue building. © MaedaAkihiko / CC BY-SA 4.0 · Wikimedia Commons"
+}

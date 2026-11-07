@@ -1,0 +1,201 @@
+{
+ "slug": "hitomi-memorial-hall",
+ "nameJa": "昭和女子大学 人見記念講堂",
+ "nameEn": "Hitomi Memorial Hall",
+ "type": "hall",
+ "area": "shibuya-ebisu-venues",
+ "address": "〒154-8533 東京都世田谷区太子堂1-7-57",
+ "officialUrl": "https://hall.swu.ac.jp/",
+ "organizerUrl": "https://hall.swu.ac.jp/rental/index.html",
+ "bizintokyoSlug": "hitomi-memorial-hall",
+ "accessSummary": "東急田園都市線（地下鉄半蔵門線直通）「三軒茶屋駅」徒歩7分／渋谷駅から東急バス（渋05・11・12・21・22・23・24・82）「昭和女子大学前」下車",
+ "notice": "貸出は法人格を有する団体のみで、個人への貸出は行っていない。学内使用が多く、空き状況によって学外に貸し出す。初めて使う団体にはホール使用の可否の審査がある。",
+ "hours": "使用時間は8:30〜22:00（搬入・仕込み・リハーサル・本公演・原状回復・搬出を含む）。予約受付は電話で9:00〜17:00",
+ "rooms": [
+  {
+   "name": "ホール（客席）",
+   "areaM2": null,
+   "ceilingM": null,
+   "theater": 2070,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "固定席：1階1,538席（車いす兼用席6席を含む）＋2階532席。オーケストラピット使用時は1,970席。立ち見席は禁止。舞台は間口20m・奥行16m・高さ8.7m・面積320m²。"
+  }
+ ],
+ "roomsSource": "https://hall.swu.ac.jp/about/outline.html",
+ "ops": {
+  "loadingHours": {
+   "text": "使用時間は8:30〜22:00で、搬入・仕込み・リハーサル・本公演・原状回復・搬出の時間を全部含む。8:30前の早朝使用は料金20%増、22:00以降は50%増。舞台には大道具搬入口と、1tまでの搬出用リフトがある。搬出入の時間と楽器・機材の搬出入は、公演の14日前までに行う事前打合せで決める。搬出入時の金属音・話し声など近隣への騒音に配慮する。",
+   "source": "https://hall.swu.ac.jp/albums/abm.php?d=1512&f=abm00030809.pdf&n=kiyaku.pdf"
+  },
+  "vehicleRules": {
+   "text": "講堂玄関前の歩道部分には車を駐停車させない。来場者送迎用バスの留置きは原則許可しない。オーケストラ等の出演者送迎用バスは、講堂地下駐車場入口付近か楽屋出入口に誘導する。道路運送車両法の保安基準を満たさない改造車の入構は許可しない。搬入車両は付帯設備使用計画書に大型車・普通車の台数とトン数を記入する。国道246号沿いの誘導はホール側、来場者・車両の誘導係6名以上は主催者側で配置する。",
+   "source": "https://hall.swu.ac.jp/albums/abm.php?d=1512&f=abm00030809.pdf&n=kiyaku.pdf"
+  },
+  "parking": {
+   "text": "地下有料駐車場は全42台、30分550円、車高2m以下。正門前の案内板で空きを確認して入る。入構時に守衛へコンサートチケットまたは学内イベントのチラシ等を見せる必要があり、見せないと利用できない。台数に限りがあるため公共交通機関を推奨している。",
+   "source": "https://hall.swu.ac.jp/"
+  },
+  "waitingRooms": {
+   "text": "楽屋は2階に3室、3階に6室（楽屋A〜I）。ほかに1階の舞台控室（1室22,000円（税込））とロイヤルシート（1室・7席分、33,000円（税込））がある。2階にシャワールームが2室ある。楽屋の鍵はホール事務室で受け取り、使用後は職員に手渡しで返却する。",
+   "source": "https://hall.swu.ac.jp/about/outline.html"
+  },
+  "catering": {
+   "text": "客席内での飲食は禁止。アルコール類の持込みと飲酒は禁止。ケータリングの搬入場所は、付帯設備使用計画書で楽屋口か2階・3階の楽屋前から選ぶ。弁当の空き箱などのごみは、納品業者に持ち帰らせるなど使用者側で処理する。",
+   "source": "https://hall.swu.ac.jp/albums/abm.php?d=1512&f=abm00030809.pdf&n=kiyaku.pdf"
+  }
+ },
+ "documents": [
+  {
+   "title": "人見記念講堂貸出規約",
+   "url": "https://hall.swu.ac.jp/albums/abm.php?d=1512&f=abm00030809.pdf&n=kiyaku.pdf"
+  },
+  {
+   "title": "ホール使用料（ウェブページ）",
+   "url": "https://hall.swu.ac.jp/rental/on-that-day.html"
+  },
+  {
+   "title": "ホール使用料（PDF）",
+   "url": "https://hall.swu.ac.jp/albums/abm.php?d=1512&f=abm00035726.pdf&n=ryokin.pdf"
+  },
+  {
+   "title": "使用申請書",
+   "url": "https://hall.swu.ac.jp/albums/abm.php?d=1512&f=abm00030807.pdf&n=shinsei.pdf"
+  },
+  {
+   "title": "付帯設備使用計画書（2022年11月1日改訂）",
+   "url": "https://hall.swu.ac.jp/albums/abm.php?d=1512&f=abm00030805.pdf&n=hutai.pdf"
+  },
+  {
+   "title": "会場使用計画書",
+   "url": "https://hall.swu.ac.jp/albums/abm.php?d=1512&f=abm00030806.pdf&n=kskeikaku.pdf"
+  },
+  {
+   "title": "物品販売申請書",
+   "url": "https://hall.swu.ac.jp/albums/abm.php?d=1512&f=abm00030810.pdf&n=buppan.pdf"
+  },
+  {
+   "title": "舞台平面図",
+   "url": "https://hall.swu.ac.jp/albums/abm.php?d=1512&f=abm00030812.pdf&n=floor_plan.pdf"
+  },
+  {
+   "title": "舞台断面図",
+   "url": "https://hall.swu.ac.jp/albums/abm.php?d=1512&f=abm00030811.pdf&n=cross_section.pdf"
+  },
+  {
+   "title": "座席表 2,070席",
+   "url": "https://hall.swu.ac.jp/albums/abm.php?d=1512&f=abm00030813.pdf&n=seat.pdf"
+  }
+ ],
+ "checkedAt": "2026-11-07",
+ "lat": 35.645466,
+ "lng": 139.675186,
+ "nearby": {
+  "convenience": [
+   {
+    "name": "ファミリーマート 三軒茶屋東店",
+    "brand": "ファミリーマート",
+    "distanceM": 137,
+    "walkMin": 2,
+    "hours": "24時間営業",
+    "address": "東京都世田谷区太子堂 1-12-34",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/58392",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "セブン-イレブン 三軒茶屋駅東店",
+    "brand": "セブン-イレブン",
+    "distanceM": 155,
+    "walkMin": 2,
+    "hours": "24時間営業",
+    "address": "東京都世田谷区太子堂2-12-1",
+    "verified": true,
+    "source": "https://seven-eleven.areamarker.com/711map/info/464478",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "ローソン 世田谷三宿一丁目店",
+    "brand": "ローソン",
+    "distanceM": 168,
+    "walkMin": 3,
+    "hours": "24時間営業",
+    "address": "東京都世田谷区三宿1-14-1",
+    "verified": true,
+    "source": "https://www.areamarker.com/lawson/info/176093",
+    "note": "距離は公式の店舗位置で計算"
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "アクセア 三軒茶屋店",
+    "brand": "アクセア",
+    "distanceM": 711,
+    "walkMin": 9,
+    "hours": "平日9:00〜20:00、土日祝10:00〜19:00",
+    "address": "東京都世田谷区太子堂4-4-1 来るビル1F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/entry.html",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "DAISO ダイエー三軒茶屋店",
+    "brand": "ダイソー",
+    "distanceM": 385,
+    "walkMin": 5,
+    "hours": "10:00-21:00",
+    "address": "東京都世田谷区太子堂1-14-16 ダイエー三軒茶屋店2階",
+    "verified": true,
+    "source": "https://www.daiso-sangyo.co.jp/shop/detail/005353",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "Can★Do 三軒茶屋店",
+    "brand": "キャンドゥ",
+    "distanceM": 435,
+    "walkMin": 6,
+    "hours": "月〜日 10:00-21:00",
+    "address": "東京都世田谷区太子堂4-23-12 井上ビル",
+    "verified": true,
+    "source": "https://shopinfo.cando-web.co.jp/detail/shop-5095/",
+    "note": "距離は公式の店舗位置で計算"
+   }
+  ],
+  "donki": [
+   {
+    "name": "ドン・キホーテ 中目黒本店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 1680,
+    "walkMin": 21,
+    "hours": "24時間営業",
+    "address": "東京都目黒区青葉台2-19-10",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=208",
+    "note": "距離は住所の位置で計算。遠い。ドン・キホーテ公式サイトの店舗名は「中目黒本店」"
+   },
+   {
+    "name": "ドン・キホーテ 下北沢店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 1760,
+    "walkMin": 22,
+    "hours": "8:00-1:00",
+    "address": "東京都世田谷区北沢2-3-6",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=624",
+    "note": "距離は住所の位置で計算。遠い。ドン・キホーテ公式サイトの店舗名は「下北沢店」"
+   }
+  ]
+ },
+ "drinkDelivery": {
+  "available": true
+ },
+ "photo": {
+  "src": "/images/venues/hitomi-memorial-hall.jpg",
+  "credit": "© Dick Thomas Johnson / CC BY 2.0 · Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E6%98%AD%E5%92%8C%E5%A5%B3%E5%AD%90%E5%A4%A7%E5%AD%A6%E4%BA%BA%E8%A6%8B%E8%A8%98%E5%BF%B5%E8%AC%9B%E5%A0%82_(15069185411).jpg"
+ }
+}

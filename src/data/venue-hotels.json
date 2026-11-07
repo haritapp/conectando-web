@@ -1,4 +1,58 @@
 {
+ "aioi-nissay-dowa-shinjuku-building-hall": {
+  "pageJa": "https://www.bizintokyo.com/hotels/aioi-nissay-dowa-shinjuku-building-hall/",
+  "pageEn": "https://www.bizintokyo.com/en/hotels/aioi-nissay-dowa-shinjuku-building-hall/",
+  "hotels": [
+   {
+    "nameJa": "キンプトン新宿東京 by IHG",
+    "nameEn": "Kimpton Shinjuku Tokyo By IHG",
+    "accessJa": "あいおいニッセイ同和損保新宿ビル貸ホール・貸会議室まで徒歩約1分",
+    "accessEn": "About 1 min walk to Aioi Nissay Dowa Shinjuku Hall",
+    "urlJa": "https://expedia.com/affiliate/4uBctfi",
+    "urlEn": "https://expedia.com/affiliate/6vB8zaR"
+   },
+   {
+    "nameJa": "MIMARU東京 新宿WEST",
+    "nameEn": "MIMARU Tokyo Shinjuku West",
+    "accessJa": "あいおいニッセイ同和損保新宿ビル貸ホール・貸会議室まで徒歩約2分",
+    "accessEn": "About 2 min walk to Aioi Nissay Dowa Shinjuku Hall",
+    "urlJa": "https://expedia.com/affiliate/I0gcnPQ",
+    "urlEn": "https://expedia.com/affiliate/ihDLsLU"
+   },
+   {
+    "nameJa": "パーク ハイアット 東京",
+    "nameEn": "Park Hyatt Tokyo",
+    "accessJa": "あいおいニッセイ同和損保新宿ビル貸ホール・貸会議室まで徒歩約3分",
+    "accessEn": "About 3 min walk to Aioi Nissay Dowa Shinjuku Hall",
+    "urlJa": "https://expedia.com/affiliate/QsbmKK8",
+    "urlEn": "https://expedia.com/affiliate/IfTZqnO"
+   },
+   {
+    "nameJa": "新宿ワシントンホテル 本館",
+    "nameEn": "Shinjuku Washington Hotel Main",
+    "accessJa": "あいおいニッセイ同和損保新宿ビル貸ホール・貸会議室まで徒歩約3分",
+    "accessEn": "About 3 min walk to Aioi Nissay Dowa Shinjuku Hall",
+    "urlJa": "https://expedia.com/affiliate/PYKmIGR",
+    "urlEn": "https://expedia.com/affiliate/aRHAfuE"
+   },
+   {
+    "nameJa": "ザ ノット 東京新宿",
+    "nameEn": "The Knot Tokyo Shinjuku",
+    "accessJa": "あいおいニッセイ同和損保新宿ビル貸ホール・貸会議室まで徒歩約7分",
+    "accessEn": "About 7 min walk to Aioi Nissay Dowa Shinjuku Hall",
+    "urlJa": "https://expedia.com/affiliate/7u1SRQT",
+    "urlEn": "https://expedia.com/affiliate/up5SRzv"
+   },
+   {
+    "nameJa": "京王プラザホテル プレミアグラン",
+    "nameEn": "Keio Plaza Hotel Tokyo PremierGrand",
+    "accessJa": "あいおいニッセイ同和損保新宿ビル貸ホール・貸会議室まで徒歩約8分",
+    "accessEn": "About 8 min walk to Aioi Nissay Dowa Shinjuku Hall",
+    "urlJa": "https://expedia.com/affiliate/vL7MA6D",
+    "urlEn": "https://expedia.com/affiliate/ULqPhvM"
+   }
+  ]
+ },
  "akasaka-intercity-conference": {
   "pageJa": "https://www.bizintokyo.com/hotels/akasaka-intercity/",
   "pageEn": "https://www.bizintokyo.com/en/hotels/akasaka-intercity/",
@@ -269,6 +323,60 @@
    }
   ]
  },
+ "arcadia-ichigaya": {
+  "pageJa": "https://www.bizintokyo.com/hotels/arcadia-ichigaya/",
+  "pageEn": "https://www.bizintokyo.com/en/hotels/arcadia-ichigaya/",
+  "hotels": [
+   {
+    "nameJa": "ホテルユニ スタークラブ",
+    "nameEn": "Hotel Yuni Star Club",
+    "accessJa": "アルカディア市ヶ谷まで徒歩約4分",
+    "accessEn": "About 4 min walk to Arcadia Ichigaya",
+    "urlJa": "https://expedia.com/affiliate/XVXRDeS",
+    "urlEn": "https://expedia.com/affiliate/nwx2yOu"
+   },
+   {
+    "nameJa": "ホテルモントレ半蔵門",
+    "nameEn": "Hotel Monterey Hanzomon",
+    "accessJa": "アルカディア市ヶ谷まで徒歩約9分",
+    "accessEn": "About 9 min walk to Arcadia Ichigaya",
+    "urlJa": "https://expedia.com/affiliate/r2fwdfz",
+    "urlEn": "https://expedia.com/affiliate/8I4iywX"
+   },
+   {
+    "nameJa": "ダイヤモンドホテル〈半蔵門〉",
+    "nameEn": "Diamond Hotel",
+    "accessJa": "アルカディア市ヶ谷まで徒歩約11分",
+    "accessEn": "About 11 min walk to Arcadia Ichigaya",
+    "urlJa": "https://expedia.com/affiliate/qMD22B9",
+    "urlEn": "https://expedia.com/affiliate/CpQTJeA"
+   },
+   {
+    "nameJa": "アパホテル〈永田町半蔵門駅前〉",
+    "nameEn": "APA Hotel Nagatacho Hanzomon Ekimae",
+    "accessJa": "アルカディア市ヶ谷まで徒歩約13分",
+    "accessEn": "About 13 min walk to Arcadia Ichigaya",
+    "urlJa": "https://expedia.com/affiliate/kS2Lu0N",
+    "urlEn": "https://expedia.com/affiliate/BIKFnoV"
+   },
+   {
+    "nameJa": "Nest Hotel Tokyo Hanzomon",
+    "nameEn": "Nest Hotel Tokyo Hanzomon",
+    "accessJa": "アルカディア市ヶ谷まで徒歩約13分",
+    "accessEn": "About 13 min walk to Arcadia Ichigaya",
+    "urlJa": "https://expedia.com/affiliate/B483w3h",
+    "urlEn": "https://expedia.com/affiliate/TNmkddD"
+   },
+   {
+    "nameJa": "ホテル京阪 東京四谷",
+    "nameEn": "Hotel Keihan Tokyo Yotsuya",
+    "accessJa": "アルカディア市ヶ谷まで徒歩約14分",
+    "accessEn": "About 14 min walk to Arcadia Ichigaya",
+    "urlJa": "https://expedia.com/affiliate/mbNfkG7",
+    "urlEn": "https://expedia.com/affiliate/EgRVn8Z"
+   }
+  ]
+ },
  "ariake-arena": {
   "pageJa": "https://www.bizintokyo.com/hotels/ariake-arena/",
   "pageEn": "https://www.bizintokyo.com/en/hotels/ariake-arena/",
@@ -374,6 +482,60 @@
     "accessEn": "About 12 min walk to Ariake Central Tower Hall & Conference",
     "urlJa": "https://expedia.com/affiliate/265oImu",
     "urlEn": "https://expedia.com/affiliate/AAw248f"
+   }
+  ]
+ },
+ "art-hotel-nippori-langwood": {
+  "pageJa": "https://www.bizintokyo.com/hotels/art-hotel-nippori-langwood/",
+  "pageEn": "https://www.bizintokyo.com/en/hotels/art-hotel-nippori-langwood/",
+  "hotels": [
+   {
+    "nameJa": "アルモントホテル日暮里",
+    "nameEn": "Almont Hotel Nippori",
+    "accessJa": "アートホテル日暮里 ラングウッドまで徒歩約1分",
+    "accessEn": "About 1 min walk to ART HOTEL Nippori Lungwood",
+    "urlJa": "https://expedia.com/affiliate/dGRvdnj",
+    "urlEn": "https://expedia.com/affiliate/9iNKLy8"
+   },
+   {
+    "nameJa": "アパホテル〈TKP日暮里駅前〉",
+    "nameEn": "APA Hotel TKP Nippori-Ekimae",
+    "accessJa": "アートホテル日暮里 ラングウッドまで徒歩約2分",
+    "accessEn": "About 2 min walk to ART HOTEL Nippori Lungwood",
+    "urlJa": "https://expedia.com/affiliate/g9e84Y4",
+    "urlEn": "https://expedia.com/affiliate/A835XBF"
+   },
+   {
+    "nameJa": "ホテルマイステイズ日暮里",
+    "nameEn": "Hotel MyStays Nippori",
+    "accessJa": "アートホテル日暮里 ラングウッドまで徒歩約2分",
+    "accessEn": "About 2 min walk to ART HOTEL Nippori Lungwood",
+    "urlJa": "https://expedia.com/affiliate/lWBfrA0",
+    "urlEn": "https://expedia.com/affiliate/atGqz9r"
+   },
+   {
+    "nameJa": "ホテル東京トリップ",
+    "nameEn": "HOTEL Tokyo Trip Ueno Nishi Nippori",
+    "accessJa": "アートホテル日暮里 ラングウッドまで徒歩約7分",
+    "accessEn": "About 7 min walk to ART HOTEL Nippori Lungwood",
+    "urlJa": "https://expedia.com/affiliate/rjD9y0E",
+    "urlEn": "https://expedia.com/affiliate/CxaMiTV"
+   },
+   {
+    "nameJa": "カンデオホテルズ上野公園",
+    "nameEn": "Candeo Hotels Uenokoen",
+    "accessJa": "アートホテル日暮里 ラングウッドまで徒歩約12分",
+    "accessEn": "About 12 min walk to ART HOTEL Nippori Lungwood",
+    "urlJa": "https://expedia.com/affiliate/TymPyIW",
+    "urlEn": "https://expedia.com/affiliate/ePqvOLx"
+   },
+   {
+    "nameJa": "三井ガーデンホテル上野",
+    "nameEn": "Mitsui Garden Hotel Ueno",
+    "accessJa": "アートホテル日暮里 ラングウッドから電車で数駅（直線距離約1.9km）",
+    "accessEn": "A few train stops from ART HOTEL Nippori Lungwood (about 1.9km away)",
+    "urlJa": "https://expedia.com/affiliate/Qsuk15V",
+    "urlEn": "https://expedia.com/affiliate/5CrlS6u"
    }
   ]
  },
@@ -1457,6 +1619,60 @@
    }
   ]
  },
+ "bellesalle-shinjuku-central-park": {
+  "pageJa": "https://www.bizintokyo.com/hotels/bellesalle-shinjuku-central-park/",
+  "pageEn": "https://www.bizintokyo.com/en/hotels/bellesalle-shinjuku-central-park/",
+  "hotels": [
+   {
+    "nameJa": "ヒルトン東京",
+    "nameEn": "Hilton Tokyo",
+    "accessJa": "ベルサール新宿セントラルパークまで徒歩約3分",
+    "accessEn": "About 3 min walk to Bellesalle Shinjuku Central Park",
+    "urlJa": "https://expedia.com/affiliate/BoqX9nO",
+    "urlEn": "https://expedia.com/affiliate/CmPYyo1"
+   },
+   {
+    "nameJa": "ハイアット リージェンシー 東京",
+    "nameEn": "Hyatt Regency Tokyo",
+    "accessJa": "ベルサール新宿セントラルパークまで徒歩約4分",
+    "accessEn": "About 4 min walk to Bellesalle Shinjuku Central Park",
+    "urlJa": "https://expedia.com/affiliate/x0Vmb9f",
+    "urlEn": "https://expedia.com/affiliate/Gq8lFCK"
+   },
+   {
+    "nameJa": "京王プラザホテル",
+    "nameEn": "Keio Plaza Hotel Tokyo",
+    "accessJa": "ベルサール新宿セントラルパークまで徒歩約9分",
+    "accessEn": "About 9 min walk to Bellesalle Shinjuku Central Park",
+    "urlJa": "https://expedia.com/affiliate/j4nH8fH",
+    "urlEn": "https://expedia.com/affiliate/yChOgU5"
+   },
+   {
+    "nameJa": "京王プラザホテル プレミアグラン",
+    "nameEn": "Keio Plaza Hotel Tokyo PremierGrand",
+    "accessJa": "ベルサール新宿セントラルパークまで徒歩約9分",
+    "accessEn": "About 9 min walk to Bellesalle Shinjuku Central Park",
+    "urlJa": "https://expedia.com/affiliate/vL7MA6D",
+    "urlEn": "https://expedia.com/affiliate/ULqPhvM"
+   },
+   {
+    "nameJa": "パーク ハイアット 東京",
+    "nameEn": "Park Hyatt Tokyo",
+    "accessJa": "ベルサール新宿セントラルパークまで徒歩約11分",
+    "accessEn": "About 11 min walk to Bellesalle Shinjuku Central Park",
+    "urlJa": "https://expedia.com/affiliate/QsbmKK8",
+    "urlEn": "https://expedia.com/affiliate/IfTZqnO"
+   },
+   {
+    "nameJa": "新宿ワシントンホテル 本館",
+    "nameEn": "Shinjuku Washington Hotel Main",
+    "accessJa": "ベルサール新宿セントラルパークまで徒歩約12分",
+    "accessEn": "About 12 min walk to Bellesalle Shinjuku Central Park",
+    "urlJa": "https://expedia.com/affiliate/PYKmIGR",
+    "urlEn": "https://expedia.com/affiliate/aRHAfuE"
+   }
+  ]
+ },
  "bellesalle-shinjuku-grand": {
   "pageJa": "https://www.bizintokyo.com/hotels/bellesalle-shinjuku/",
   "pageEn": "https://www.bizintokyo.com/en/hotels/bellesalle-shinjuku/",
@@ -2159,6 +2375,114 @@
    }
   ]
  },
+ "dai-ichi-hotel-tokyo": {
+  "pageJa": "https://www.bizintokyo.com/hotels/dai-ichi-hotel-tokyo/",
+  "pageEn": "https://www.bizintokyo.com/en/hotels/dai-ichi-hotel-tokyo/",
+  "hotels": [
+   {
+    "nameJa": "ダイワロイネットホテル新橋",
+    "nameEn": "Daiwa Roynet Hotel Shimbashi",
+    "accessJa": "第一ホテル東京まで徒歩約1分",
+    "accessEn": "About 1 min walk to Dai-ichi Hotel Tokyo",
+    "urlJa": "https://expedia.com/affiliate/NXrdPud",
+    "urlEn": "https://expedia.com/affiliate/nz5Ygcj"
+   },
+   {
+    "nameJa": "THE BLOSSOM HIBIYA（ザ・ブロッサム日比谷）",
+    "nameEn": "THE BLOSSOM HIBIYA",
+    "accessJa": "第一ホテル東京まで徒歩約1分",
+    "accessEn": "About 1 min walk to Dai-ichi Hotel Tokyo",
+    "urlJa": "https://expedia.com/affiliate/4KGyojP",
+    "urlEn": "https://expedia.com/affiliate/UpLu4Px"
+   },
+   {
+    "nameJa": "メルキュールホテル東京日比谷",
+    "nameEn": "Mercure Tokyo Hibiya",
+    "accessJa": "第一ホテル東京まで徒歩約1分",
+    "accessEn": "About 1 min walk to Dai-ichi Hotel Tokyo",
+    "urlJa": "https://expedia.com/affiliate/W7vcKeq",
+    "urlEn": "https://expedia.com/affiliate/wJsf6O3"
+   },
+   {
+    "nameJa": "the b 新橋",
+    "nameEn": "the b shimbashi",
+    "accessJa": "第一ホテル東京まで徒歩約4分",
+    "accessEn": "About 4 min walk to Dai-ichi Hotel Tokyo",
+    "urlJa": "https://expedia.com/affiliate/CFHZTBY",
+    "urlEn": "https://expedia.com/affiliate/tExVfS1"
+   },
+   {
+    "nameJa": "ザ ロイヤルパーク キャンバス 銀座コリドー",
+    "nameEn": "The Royal Park Canvas Ginza Corridor",
+    "accessJa": "第一ホテル東京まで徒歩約5分",
+    "accessEn": "About 5 min walk to Dai-ichi Hotel Tokyo",
+    "urlJa": "https://expedia.com/affiliate/WacgJ6l",
+    "urlEn": "https://expedia.com/affiliate/aYFv9I3"
+   },
+   {
+    "nameJa": "帝国ホテル東京",
+    "nameEn": "Imperial Hotel Tokyo",
+    "accessJa": "第一ホテル東京まで徒歩約5分",
+    "accessEn": "About 5 min walk to Dai-ichi Hotel Tokyo",
+    "urlJa": "https://expedia.com/affiliate/rxLjaiz",
+    "urlEn": "https://expedia.com/affiliate/b6ngyHb"
+   }
+  ]
+ },
+ "ebisu-the-garden-hall": {
+  "pageJa": "https://www.bizintokyo.com/hotels/ebisu-the-garden-hall/",
+  "pageEn": "https://www.bizintokyo.com/en/hotels/ebisu-the-garden-hall/",
+  "hotels": [
+   {
+    "nameJa": "ウェスティンホテル東京",
+    "nameEn": "The Westin Tokyo",
+    "accessJa": "ザ・ガーデンホールまで徒歩約2分",
+    "accessEn": "About 2 min walk to The Garden Hall",
+    "urlJa": "https://expedia.com/affiliates/tokyo-hotels-the-westin-tokyo.fiXtlwF",
+    "urlEn": "https://expedia.com/affiliates/tokyo-hotels-the-westin-tokyo.YFHcu7i"
+   },
+   {
+    "nameJa": "プリンス スマート イン 恵比寿",
+    "nameEn": "Prince Smart Inn Ebisu",
+    "accessJa": "ザ・ガーデンホールまで徒歩約9分",
+    "accessEn": "About 9 min walk to The Garden Hall",
+    "urlJa": "https://expedia.com/affiliate/D3D7bzb",
+    "urlEn": "https://expedia.com/affiliate/DClmRTV"
+   },
+   {
+    "nameJa": "東急ステイ 渋谷 恵比寿",
+    "nameEn": "Tokyu Stay Shibuya Ebisu",
+    "accessJa": "ザ・ガーデンホールまで徒歩約10分",
+    "accessEn": "About 10 min walk to The Garden Hall",
+    "urlJa": "https://expedia.com/affiliate/IDUJQWi",
+    "urlEn": "https://expedia.com/affiliate/b64cU17"
+   },
+   {
+    "nameJa": "ドシー恵比寿",
+    "nameEn": "Do-c Ebisu",
+    "accessJa": "ザ・ガーデンホールまで徒歩約10分",
+    "accessEn": "About 10 min walk to The Garden Hall",
+    "urlJa": "https://expedia.com/affiliate/Ljf42l5",
+    "urlEn": "https://expedia.com/affiliate/qgCs9m0"
+   },
+   {
+    "nameJa": "HOTEL GRAPHY SHIBUYA",
+    "nameEn": "HOTEL GRAPHY SHIBUYA",
+    "accessJa": "ザ・ガーデンホールから電車で数駅（直線距離約1.4km）",
+    "accessEn": "A few train stops from The Garden Hall (about 1.4km away)",
+    "urlJa": "https://expedia.com/affiliate/r77Q7c8",
+    "urlEn": "https://expedia.com/affiliate/8iij64Y"
+   },
+   {
+    "nameJa": "シェラトン都ホテル東京",
+    "nameEn": "Sheraton Miyako Hotel Tokyo",
+    "accessJa": "ザ・ガーデンホールから電車で数駅（直線距離約1.5km）",
+    "accessEn": "A few train stops from The Garden Hall (about 1.5km away)",
+    "urlJa": "https://expedia.com/affiliate/tNl0syh",
+    "urlEn": "https://expedia.com/affiliate/LLqkT76"
+   }
+  ]
+ },
  "four-seasons-otemachi": {
   "pageJa": "https://www.bizintokyo.com/hotels/four-seasons-otemachi/",
   "pageEn": "https://www.bizintokyo.com/en/hotels/four-seasons-otemachi/",
@@ -2210,6 +2534,60 @@
     "accessEn": "About 5 min walk to Four Seasons Hotel Tokyo at Otemachi",
     "urlJa": "https://expedia.com/affiliate/IZCLjLE",
     "urlEn": "https://expedia.com/affiliate/SMTykLh"
+   }
+  ]
+ },
+ "futako-tamagawa-rise-studio-hall": {
+  "pageJa": "https://www.bizintokyo.com/hotels/futako-tamagawa-rise-studio-hall/",
+  "pageEn": "https://www.bizintokyo.com/en/hotels/futako-tamagawa-rise-studio-hall/",
+  "hotels": [
+   {
+    "nameJa": "二子玉川エクセルホテル東急",
+    "nameEn": "Futako-Tamagawa Excel Hotel Tokyu",
+    "accessJa": "二子玉川ライズ スタジオ & ホールまで徒歩約1分",
+    "accessEn": "About 1 min walk to Futako-Tamagawa Rise Studio & Hall",
+    "urlJa": "https://expedia.com/affiliate/Pi98ESn",
+    "urlEn": "https://expedia.com/affiliate/rOSybpF"
+   },
+   {
+    "nameJa": "パールホテル溝ノ口",
+    "nameEn": "Pearl Hotel Mizonokuchi",
+    "accessJa": "二子玉川ライズ スタジオ & ホールから徒歩圏外（直線距離約1.6km）",
+    "accessEn": "Outside walking distance of Futako-Tamagawa Rise Studio & Hall (about 1.6km away)",
+    "urlJa": "https://expedia.com/affiliate/rH4SrTY",
+    "urlEn": "https://expedia.com/affiliate/QvFRwdD"
+   },
+   {
+    "nameJa": "東急ステイ 用賀",
+    "nameEn": "Tokyu Stay Yoga",
+    "accessJa": "二子玉川ライズ スタジオ & ホールから徒歩圏外（直線距離約1.7km）",
+    "accessEn": "Outside walking distance of Futako-Tamagawa Rise Studio & Hall (about 1.7km away)",
+    "urlJa": "https://expedia.com/affiliate/yuQ2Kvg",
+    "urlEn": "https://expedia.com/affiliate/E45QiUA"
+   },
+   {
+    "nameJa": "HOTEL ARU KSP",
+    "nameEn": "Hotel ARU KSP",
+    "accessJa": "二子玉川ライズ スタジオ & ホールから徒歩圏外（直線距離約2.0km）",
+    "accessEn": "Outside walking distance of Futako-Tamagawa Rise Studio & Hall (about 2.0km away)",
+    "urlJa": "https://expedia.com/affiliate/qOr5VwO",
+    "urlEn": "https://expedia.com/affiliate/07vrhQ4"
+   },
+   {
+    "nameJa": "ＪＲ東日本ホテルメッツ 溝ノ口",
+    "nameEn": "JR-East Hotel Mets Mizonokuchi",
+    "accessJa": "二子玉川ライズ スタジオ & ホールから徒歩圏外（直線距離約2.2km）",
+    "accessEn": "Outside walking distance of Futako-Tamagawa Rise Studio & Hall (about 2.2km away)",
+    "urlJa": "https://expedia.com/affiliate/ip4oXSR",
+    "urlEn": "https://expedia.com/affiliate/UWj39C7"
+   },
+   {
+    "nameJa": "ホテル梶ケ谷プラザ",
+    "nameEn": "Hotel Kajigaya Plaza",
+    "accessJa": "二子玉川ライズ スタジオ & ホールから徒歩圏外（直線距離約3.4km）",
+    "accessEn": "Outside walking distance of Futako-Tamagawa Rise Studio & Hall (about 3.4km away)",
+    "urlJa": "https://expedia.com/affiliate/QbiIIml",
+    "urlEn": "https://expedia.com/affiliate/ZDBfyAI"
    }
   ]
  },
@@ -2318,6 +2696,60 @@
     "accessEn": "About 6 min walk to Ginza Blossom Central Hall",
     "urlJa": "https://expedia.com/affiliate/hKbOZKf",
     "urlEn": "https://expedia.com/affiliate/kGDxHlX"
+   }
+  ]
+ },
+ "global-business-hub-tokyo": {
+  "pageJa": "https://www.bizintokyo.com/hotels/global-business-hub-tokyo/",
+  "pageEn": "https://www.bizintokyo.com/en/hotels/global-business-hub-tokyo/",
+  "hotels": [
+   {
+    "nameJa": "星のや東京",
+    "nameEn": "HOSHINOYA Tokyo",
+    "accessJa": "グローバルビジネスハブ東京まで徒歩約1分",
+    "accessEn": "About 1 min walk to Global Business Hub Tokyo",
+    "urlJa": "https://expedia.com/affiliate/Qt5aibS",
+    "urlEn": "https://expedia.com/affiliate/gqxLuyF"
+   },
+   {
+    "nameJa": "フォーシーズンズホテル東京大手町",
+    "nameEn": "Four Seasons Hotel Tokyo at Otemachi",
+    "accessJa": "グローバルビジネスハブ東京まで徒歩約2分",
+    "accessEn": "About 2 min walk to Global Business Hub Tokyo",
+    "urlJa": "https://expedia.com/affiliate/TvcdRqz",
+    "urlEn": "https://expedia.com/affiliate/o3ommHq"
+   },
+   {
+    "nameJa": "アスコット丸の内東京",
+    "nameEn": "Ascott Marunouchi Tokyo",
+    "accessJa": "グローバルビジネスハブ東京まで徒歩約3分",
+    "accessEn": "About 3 min walk to Global Business Hub Tokyo",
+    "urlJa": "https://expedia.com/affiliate/YSdAyWv",
+    "urlEn": "https://expedia.com/affiliate/vTrP87N"
+   },
+   {
+    "nameJa": "アマン東京",
+    "nameEn": "Aman Tokyo",
+    "accessJa": "グローバルビジネスハブ東京まで徒歩約4分",
+    "accessEn": "About 4 min walk to Global Business Hub Tokyo",
+    "urlJa": "https://expedia.com/affiliate/wMGHrVr",
+    "urlEn": "https://expedia.com/affiliate/kZQ3QYF"
+   },
+   {
+    "nameJa": "KKRホテル東京",
+    "nameEn": "KKR Hotel Tokyo",
+    "accessJa": "グローバルビジネスハブ東京まで徒歩約6分",
+    "accessEn": "About 6 min walk to Global Business Hub Tokyo",
+    "urlJa": "https://expedia.com/affiliate/IZCLjLE",
+    "urlEn": "https://expedia.com/affiliate/SMTykLh"
+   },
+   {
+    "nameJa": "パレスホテル東京",
+    "nameEn": "Palace Hotel Tokyo",
+    "accessJa": "グローバルビジネスハブ東京まで徒歩約6分",
+    "accessEn": "About 6 min walk to Global Business Hub Tokyo",
+    "urlJa": "https://expedia.com/affiliate/3dKCWod",
+    "urlEn": "https://expedia.com/affiliate/qRmrjfT"
    }
   ]
  },
@@ -2591,6 +3023,114 @@
    }
   ]
  },
+ "hamamatsucho-convention-hall": {
+  "pageJa": "https://www.bizintokyo.com/hotels/hamamatsucho-convention-hall/",
+  "pageEn": "https://www.bizintokyo.com/en/hotels/hamamatsucho-convention-hall/",
+  "hotels": [
+   {
+    "nameJa": "京急EXイン浜松町大門駅",
+    "nameEn": "KEIKYU EX INN HAMAMATSU-CHO DAIMON-STATION",
+    "accessJa": "浜松町コンベンションホールまで徒歩約2分",
+    "accessEn": "About 2 min walk to Hamamatsucho Convention Hall",
+    "urlJa": "https://expedia.com/affiliate/KhCRd59",
+    "urlEn": "https://expedia.com/affiliate/1cYn5LL"
+   },
+   {
+    "nameJa": "相鉄フレッサイン大門駅前",
+    "nameEn": "Sotetsu Fresa Inn Daimon Ekimae",
+    "accessJa": "浜松町コンベンションホールまで徒歩約2分",
+    "accessEn": "About 2 min walk to Hamamatsucho Convention Hall",
+    "urlJa": "https://expedia.com/affiliate/bvUv0lX",
+    "urlEn": "https://expedia.com/affiliate/VLwAmKb"
+   },
+   {
+    "nameJa": "プレミアアパートマンデー浜松町駅",
+    "nameEn": "Premium Apart Monday Hamamatsucho Station",
+    "accessJa": "浜松町コンベンションホールまで徒歩約3分",
+    "accessEn": "About 3 min walk to Hamamatsucho Convention Hall",
+    "urlJa": "https://expedia.com/affiliate/6BzgXyA",
+    "urlEn": "https://expedia.com/affiliate/I2dcxfe"
+   },
+   {
+    "nameJa": "三交インGrande東京浜松町",
+    "nameEn": "Sanco Inn Grande Tokyo Hamamatsucho",
+    "accessJa": "浜松町コンベンションホールまで徒歩約3分",
+    "accessEn": "About 3 min walk to Hamamatsucho Convention Hall",
+    "urlJa": "https://expedia.com/affiliate/PnXjAmT",
+    "urlEn": "https://expedia.com/affiliate/7s9ZLmm"
+   },
+   {
+    "nameJa": "リッチモンドホテル東京芝",
+    "nameEn": "Richmond Hotel Tokyo Shiba",
+    "accessJa": "浜松町コンベンションホールまで徒歩約4分",
+    "accessEn": "About 4 min walk to Hamamatsucho Convention Hall",
+    "urlJa": "https://expedia.com/affiliate/eC9ViUF",
+    "urlEn": "https://expedia.com/affiliate/L9yDLFC"
+   },
+   {
+    "nameJa": "MONday Apart 浜松町大門",
+    "nameEn": "MONday Apart Hamamatsucho Daimon",
+    "accessJa": "浜松町コンベンションホールまで徒歩約5分",
+    "accessEn": "About 5 min walk to Hamamatsucho Convention Hall",
+    "urlJa": "https://expedia.com/affiliate/WIhUUVX",
+    "urlEn": "https://expedia.com/affiliate/1suQBUg"
+   }
+  ]
+ },
+ "happo-en": {
+  "pageJa": "https://www.bizintokyo.com/hotels/happo-en/",
+  "pageEn": "https://www.bizintokyo.com/en/hotels/happo-en/",
+  "hotels": [
+   {
+    "nameJa": "シェラトン都ホテル東京",
+    "nameEn": "Sheraton Miyako Hotel Tokyo",
+    "accessJa": "八芳園まで徒歩約3分",
+    "accessEn": "About 3 min walk to Happo-en",
+    "urlJa": "https://expedia.com/affiliate/tNl0syh",
+    "urlEn": "https://expedia.com/affiliate/LLqkT76"
+   },
+   {
+    "nameJa": "グランドプリンスホテル高輪",
+    "nameEn": "Grand Prince Hotel Takanawa",
+    "accessJa": "八芳園まで徒歩約12分",
+    "accessEn": "About 12 min walk to Happo-en",
+    "urlJa": "https://expedia.com/affiliate/QdZc2HM",
+    "urlEn": "https://expedia.com/affiliate/f9lS4J9"
+   },
+   {
+    "nameJa": "アパホテル〈品川泉岳寺駅前〉",
+    "nameEn": "APA Hotel Shinagawa Sengakuji Ekimae",
+    "accessJa": "八芳園まで徒歩約13分",
+    "accessEn": "About 13 min walk to Happo-en",
+    "urlJa": "https://expedia.com/affiliate/Je1QxTD",
+    "urlEn": "https://expedia.com/affiliate/Guu3vwZ"
+   },
+   {
+    "nameJa": "ミヤコシティ東京高輪",
+    "nameEn": "Miyako City Tokyo Takanawa",
+    "accessJa": "八芳園まで徒歩約13分",
+    "accessEn": "About 13 min walk to Happo-en",
+    "urlJa": "https://expedia.com/affiliate/PCzwGYu",
+    "urlEn": "https://expedia.com/affiliate/z4GQF3L"
+   },
+   {
+    "nameJa": "東急ステイ高輪（泉岳寺駅前）",
+    "nameEn": "Tokyu Stay Takanawa (Sengakuji Ekimae)",
+    "accessJa": "八芳園まで徒歩約13分",
+    "accessEn": "About 13 min walk to Happo-en",
+    "urlJa": "https://expedia.com/affiliate/5UzhCsS",
+    "urlEn": "https://expedia.com/affiliate/oPVOV1o"
+   },
+   {
+    "nameJa": "グランドプリンスホテル高輪 高輪花香路",
+    "nameEn": "Takanawa Hanakohro Grand Prince Hotel Takanawa Annex",
+    "accessJa": "八芳園まで徒歩約13分",
+    "accessEn": "About 13 min walk to Happo-en",
+    "urlJa": "https://expedia.com/affiliate/jDxRqnv",
+    "urlEn": "https://expedia.com/affiliate/xGS86aa"
+   }
+  ]
+ },
  "hikarie-hall": {
   "pageJa": "https://www.bizintokyo.com/hotels/hikarie/",
   "pageEn": "https://www.bizintokyo.com/en/hotels/hikarie/",
@@ -2861,6 +3401,60 @@
    }
   ]
  },
+ "hollywood-university-hall": {
+  "pageJa": "https://www.bizintokyo.com/hotels/hollywood-university-hall/",
+  "pageEn": "https://www.bizintokyo.com/en/hotels/hollywood-university-hall/",
+  "hotels": [
+   {
+    "nameJa": "グランドハイアット東京",
+    "nameEn": "Grand Hyatt Tokyo",
+    "accessJa": "ハリウッド大学ホールまで徒歩約3分",
+    "accessEn": "About 3 min walk to Hollywood University Hall",
+    "urlJa": "https://expedia.com/affiliate/n6tWnXo",
+    "urlEn": "https://expedia.com/affiliate/H7XpZPU"
+   },
+   {
+    "nameJa": "カンデオホテルズ東京六本木",
+    "nameEn": "Candeo Hotels Tokyo Roppongi",
+    "accessJa": "ハリウッド大学ホールまで徒歩約3分",
+    "accessEn": "About 3 min walk to Hollywood University Hall",
+    "urlJa": "https://expedia.com/affiliate/cr36X3S",
+    "urlEn": "https://expedia.com/affiliate/OY5lOED"
+   },
+   {
+    "nameJa": "レム六本木",
+    "nameEn": "remm Roppongi",
+    "accessJa": "ハリウッド大学ホールまで徒歩約4分",
+    "accessEn": "About 4 min walk to Hollywood University Hall",
+    "urlJa": "https://expedia.com/affiliate/DFDWaKA",
+    "urlEn": "https://expedia.com/affiliate/xL4WWb0"
+   },
+   {
+    "nameJa": "ホテル＆レジデンス六本木",
+    "nameEn": "Roppongi Hotel S",
+    "accessJa": "ハリウッド大学ホールまで徒歩約6分",
+    "accessEn": "About 6 min walk to Hollywood University Hall",
+    "urlJa": "https://expedia.com/affiliate/wha7DYv",
+    "urlEn": "https://expedia.com/affiliate/NMSCjQr"
+   },
+   {
+    "nameJa": "三井ガーデンホテル六本木プレミア",
+    "nameEn": "Mitsui Garden Hotel Roppongi Premier",
+    "accessJa": "ハリウッド大学ホールまで徒歩約7分",
+    "accessEn": "About 7 min walk to Hollywood University Hall",
+    "urlJa": "https://expedia.com/affiliate/ovDeQ8i",
+    "urlEn": "https://expedia.com/affiliate/FLTZnQs"
+   },
+   {
+    "nameJa": "ザ・リッツ・カールトン東京",
+    "nameEn": "The Ritz-Carlton, Tokyo",
+    "accessJa": "ハリウッド大学ホールまで徒歩約7分",
+    "accessEn": "About 7 min walk to Hollywood University Hall",
+    "urlJa": "https://expedia.com/affiliate/e4vFIUy",
+    "urlEn": "https://expedia.com/affiliate/i7zFSjl"
+   }
+  ]
+ },
  "hotel-cadenza-tokyo": {
   "pageJa": "https://www.bizintokyo.com/hotels/hotel-cadenza-tokyo/",
   "pageEn": "https://www.bizintokyo.com/en/hotels/hotel-cadenza-tokyo/",
@@ -3020,6 +3614,114 @@
     "accessEn": "A few train stops from Hotel East 21 Tokyo (about 2.4km away)",
     "urlJa": "https://expedia.com/affiliate/q5S9GSt",
     "urlEn": "https://expedia.com/affiliate/Vg12rhF"
+   }
+  ]
+ },
+ "hotel-grand-hill-ichigaya": {
+  "pageJa": "https://www.bizintokyo.com/hotels/hotel-grand-hill-ichigaya/",
+  "pageEn": "https://www.bizintokyo.com/en/hotels/hotel-grand-hill-ichigaya/",
+  "hotels": [
+   {
+    "nameJa": "ファーストキャビン市ヶ谷",
+    "nameEn": "First Cabin Ichigaya",
+    "accessJa": "ホテル グランドヒル市ヶ谷まで徒歩約2分",
+    "accessEn": "About 2 min walk to Hotel Grand Hill Ichigaya",
+    "urlJa": "https://expedia.com/affiliate/IhjavFY",
+    "urlEn": "https://expedia.com/affiliate/Bmkmp0c"
+   },
+   {
+    "nameJa": "ホテルモントレ半蔵門",
+    "nameEn": "Hotel Monterey Hanzomon",
+    "accessJa": "ホテル グランドヒル市ヶ谷まで徒歩約12分",
+    "accessEn": "About 12 min walk to Hotel Grand Hill Ichigaya",
+    "urlJa": "https://expedia.com/affiliate/r2fwdfz",
+    "urlEn": "https://expedia.com/affiliate/8I4iywX"
+   },
+   {
+    "nameJa": "ホテルニューオータニ東京 エグゼクティブハウス禅",
+    "nameEn": "Hotel New Otani Tokyo Executive House ZEN",
+    "accessJa": "ホテル グランドヒル市ヶ谷まで徒歩約14分",
+    "accessEn": "About 14 min walk to Hotel Grand Hill Ichigaya",
+    "urlJa": "https://expedia.com/affiliate/CSkdejq",
+    "urlEn": "https://expedia.com/affiliate/qRaV5cg"
+   },
+   {
+    "nameJa": "Nest Hotel Tokyo Hanzomon",
+    "nameEn": "Nest Hotel Tokyo Hanzomon",
+    "accessJa": "ホテル グランドヒル市ヶ谷から電車で数駅（直線距離約1.2km）",
+    "accessEn": "A few train stops from Hotel Grand Hill Ichigaya (about 1.2km away)",
+    "urlJa": "https://expedia.com/affiliate/B483w3h",
+    "urlEn": "https://expedia.com/affiliate/TNmkddD"
+   },
+   {
+    "nameJa": "ホテルニューオータニ東京",
+    "nameEn": "Hotel New Otani Tokyo",
+    "accessJa": "ホテル グランドヒル市ヶ谷から電車で数駅（直線距離約1.3km）",
+    "accessEn": "A few train stops from Hotel Grand Hill Ichigaya (about 1.3km away)",
+    "urlJa": "https://expedia.com/affiliate/LT1KugT",
+    "urlEn": "https://expedia.com/affiliate/OC2HYgi"
+   },
+   {
+    "nameJa": "都市センターホテル",
+    "nameEn": "Toshi Center Hotel Tokyo",
+    "accessJa": "ホテル グランドヒル市ヶ谷から電車で数駅（直線距離約1.3km）",
+    "accessEn": "A few train stops from Hotel Grand Hill Ichigaya (about 1.3km away)",
+    "urlJa": "https://expedia.com/affiliate/8vc7qZj",
+    "urlEn": "https://expedia.com/affiliate/AdL5UW4"
+   }
+  ]
+ },
+ "hotel-mariners-court-tokyo": {
+  "pageJa": "https://www.bizintokyo.com/hotels/hotel-mariners-court-tokyo/",
+  "pageEn": "https://www.bizintokyo.com/en/hotels/hotel-mariners-court-tokyo/",
+  "hotels": [
+   {
+    "nameJa": "L stay & grow 晴海",
+    "nameEn": "L stay & grow Harumi",
+    "accessJa": "ホテルマリナーズコート東京まで徒歩約3分",
+    "accessEn": "About 3 min walk to Hotel Mariners' Court Tokyo",
+    "urlJa": "https://expedia.com/affiliate/b6vSDgs",
+    "urlEn": "https://expedia.com/affiliate/hWTQCiQ"
+   },
+   {
+    "nameJa": "プレミアホテル-CABIN PRESIDENT-東京",
+    "nameEn": "Premier Hotel CABIN PRESIDENT Tokyo",
+    "accessJa": "ホテルマリナーズコート東京まで徒歩約4分",
+    "accessEn": "About 4 min walk to Hotel Mariners' Court Tokyo",
+    "urlJa": "https://expedia.com/affiliate/usjvB56",
+    "urlEn": "https://expedia.com/affiliate/tNhRMze"
+   },
+   {
+    "nameJa": "ラビスタ東京ベイ",
+    "nameEn": "La Vista Tokyo Bay",
+    "accessJa": "ホテルマリナーズコート東京まで徒歩約10分",
+    "accessEn": "About 10 min walk to Hotel Mariners' Court Tokyo",
+    "urlJa": "https://expedia.com/affiliate/jraNNEb",
+    "urlEn": "https://expedia.com/affiliate/bY6B5G1"
+   },
+   {
+    "nameJa": "東京・豊洲 万葉倶楽部",
+    "nameEn": "Manyo Club (Toyosu)",
+    "accessJa": "ホテルマリナーズコート東京まで徒歩約10分",
+    "accessEn": "About 10 min walk to Hotel Mariners' Court Tokyo",
+    "urlJa": "https://expedia.com/affiliate/ASVebtq",
+    "urlEn": "https://expedia.com/affiliate/pp83Tuo"
+   },
+   {
+    "nameJa": "ホテルJALシティ東京豊洲",
+    "nameEn": "Hotel JAL City Tokyo Toyosu",
+    "accessJa": "ホテルマリナーズコート東京まで徒歩約12分",
+    "accessEn": "About 12 min walk to Hotel Mariners' Court Tokyo",
+    "urlJa": "https://expedia.com/affiliate/A6VgXpQ",
+    "urlEn": "https://expedia.com/affiliate/F3nwpkD"
+   },
+   {
+    "nameJa": "メズム東京、オートグラフ コレクション",
+    "nameEn": "Mesm Tokyo, Autograph Collection",
+    "accessJa": "ホテルマリナーズコート東京から徒歩圏外（直線距離約1.5km）",
+    "accessEn": "Outside walking distance of Hotel Mariners' Court Tokyo (about 1.5km away)",
+    "urlJa": "https://expedia.com/affiliate/seOjtkl",
+    "urlEn": "https://expedia.com/affiliate/UqyOUtK"
    }
   ]
  },
@@ -4046,6 +4748,60 @@
     "accessEn": "About 3 min walk to Tokyo Midtown Yaesu Conference",
     "urlJa": "https://expedia.com/affiliate/hPTd6m6",
     "urlEn": "https://expedia.com/affiliate/egP3L03"
+   }
+  ]
+ },
+ "minato-libra-hall": {
+  "pageJa": "https://www.bizintokyo.com/hotels/minato-libra-hall/",
+  "pageEn": "https://www.bizintokyo.com/en/hotels/minato-libra-hall/",
+  "hotels": [
+   {
+    "nameJa": "ホテルザセレスティン東京芝",
+    "nameEn": "Hotel The Celestine Tokyo Shiba",
+    "accessJa": "港区立男女平等参画センター リーブラまで徒歩約7分",
+    "accessEn": "About 7 min walk to Minato Libra Hall",
+    "urlJa": "https://expedia.com/affiliate/iN60UyD",
+    "urlEn": "https://expedia.com/affiliate/ufzDsqj"
+   },
+   {
+    "nameJa": "ヴィラフォンテーヌ東京浜松町",
+    "nameEn": "Hotel Villa Fontaine Tokyo Hamamatsucho",
+    "accessJa": "港区立男女平等参画センター リーブラまで徒歩約8分",
+    "accessEn": "About 8 min walk to Minato Libra Hall",
+    "urlJa": "https://expedia.com/affiliate/nZ8ArtC",
+    "urlEn": "https://expedia.com/affiliate/3Snw5TX"
+   },
+   {
+    "nameJa": "ザ・プリンス パークタワー東京",
+    "nameEn": "The Prince Park Tower Tokyo",
+    "accessJa": "港区立男女平等参画センター リーブラまで徒歩約13分",
+    "accessEn": "About 13 min walk to Minato Libra Hall",
+    "urlJa": "https://expedia.com/affiliate/xJ4vjyS",
+    "urlEn": "https://expedia.com/affiliate/zOMHvSw"
+   },
+   {
+    "nameJa": "ホテル インターコンチネンタル東京ベイ",
+    "nameEn": "Hotel InterContinental Tokyo Bay",
+    "accessJa": "港区立男女平等参画センター リーブラまで徒歩約15分",
+    "accessEn": "About 15 min walk to Minato Libra Hall",
+    "urlJa": "https://expedia.com/affiliate/vNHln8G",
+    "urlEn": "https://expedia.com/affiliate/C8QZU2e"
+   },
+   {
+    "nameJa": "メズム東京、オートグラフ コレクション",
+    "nameEn": "Mesm Tokyo, Autograph Collection",
+    "accessJa": "港区立男女平等参画センター リーブラまで徒歩約18分",
+    "accessEn": "About 18 min walk to Minato Libra Hall",
+    "urlJa": "https://expedia.com/affiliate/seOjtkl",
+    "urlEn": "https://expedia.com/affiliate/UqyOUtK"
+   },
+   {
+    "nameJa": "東急ステイ高輪（泉岳寺駅前）",
+    "nameEn": "Tokyu Stay Takanawa (Sengakuji Ekimae)",
+    "accessJa": "港区立男女平等参画センター リーブラまで徒歩約18分",
+    "accessEn": "About 18 min walk to Minato Libra Hall",
+    "urlJa": "https://expedia.com/affiliate/5UzhCsS",
+    "urlEn": "https://expedia.com/affiliate/oPVOV1o"
    }
   ]
  },
