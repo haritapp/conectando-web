@@ -1,0 +1,160 @@
+{
+ "slug": "hamamatsucho-convention-hall",
+ "name": "Hamamatsucho Convention Hall",
+ "address": "Tokyo 105-0013 Nippon Life Hamamatsucho Crea Tower 5F & 6F, 2-3-1 Hamamatsucho, Minato-ku, Tokyo",
+ "accessSummary": "2 min walk from the North Exit of Hamamatsucho Station (JR / Tokyo Monorail) / Directly connected to Exit B5 of Daimon Station (Toei Subway Oedo Line / Asakusa Line)",
+ "hours": "Available hours are in principle 8:00-22:00. The usage categories are all day 9:00-21:00, morning 9:00-12:00, afternoon 13:00-17:00 and evening 18:00-21:00 (including setup and cleanup time)",
+ "notice": null,
+ "rooms": [
+  {
+   "name": "Main Hall (5F)",
+   "note": "Can be divided into 2."
+  },
+  {
+   "name": "Main Hall A (5F)"
+  },
+  {
+   "name": "Main Hall B (5F)"
+  },
+  {
+   "name": "Event Hall 1 (Foyer) (5F)",
+   "note": "Available when the entire adjacent hall is used."
+  },
+  {
+   "name": "Room 1 (waiting room) (5F)",
+   "note": "Available when the entire adjacent hall is used."
+  },
+  {
+   "name": "Large Hall (5F)",
+   "note": "Can be divided into 2."
+  },
+  {
+   "name": "Large Hall A (5F)"
+  },
+  {
+   "name": "Large Hall B (5F)"
+  },
+  {
+   "name": "Event Hall 2 (Foyer) (5F)",
+   "note": "Available when the entire adjacent hall is used."
+  },
+  {
+   "name": "Room 2 (waiting room) (5F)",
+   "note": "Available when the entire adjacent hall is used."
+  },
+  {
+   "name": "Conference Room A (6F)"
+  },
+  {
+   "name": "Conference Room B (6F)"
+  },
+  {
+   "name": "Conference Room C (6F)"
+  },
+  {
+   "name": "Meeting Room 1 (6F)"
+  },
+  {
+   "name": "Meeting Room 2 (6F)"
+  },
+  {
+   "name": "Meeting Room 3 (6F)"
+  },
+  {
+   "name": "Meeting Room 4+5+6 (6F)",
+   "note": "Can be divided into 3."
+  },
+  {
+   "name": "Meeting Room 4 (6F)"
+  },
+  {
+   "name": "Meeting Room 5 (6F)"
+  },
+  {
+   "name": "Meeting Room 6 (6F)"
+  },
+  {
+   "name": "Meeting Room 7 (6F)"
+  },
+  {
+   "name": "Reception (6F)"
+  }
+ ],
+ "ops": {
+  "prevDaySetup": "Advance delivery by courier or mail is accepted only on the day before use, and only if approved after prior notice.",
+  "loadingHours": "For load-in and load-out, the route and number of vehicles are agreed in advance with the venue staff. Necessary protective covering is to be provided, and work may be stopped if protective covering of the designated areas is not permitted. Users provide their own hand trucks.",
+  "vehicleRules": "Vehicles for load-in and load-out leave as soon as loading and unloading are finished. Long-term parking is not possible.",
+  "waitingRooms": "On 5F there are Room 1 (13㎡, hollow square for 6) and Room 2 (24㎡, hollow square for 12). Both can be used when the entire adjacent hall is used; the base usage fee is 40,000 yen for Room 1 and 60,000 yen for Room 2 (excluding tax).",
+  "catering": "Caterers are designated by the venue. Users are asked not to bring in food or drink other than from the users themselves and the venue's designated vendors. If arranged through the venue, the final number is to be notified by 1 week before the event. A separate bring-in fee applies if video, audio or lighting equipment is brought in."
+ },
+ "documents": [
+  {
+   "title": "Leaflet (October 2020 edition)"
+  },
+  {
+   "title": "Terms of Use (October 2020 edition)"
+  },
+  {
+   "title": "Access Map"
+  },
+  {
+   "title": "Facility Fees, Video/Audio Equipment and Venue Fixtures (web page)"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "7-Eleven World Trade Center Building South Tower",
+    "hours": "Mon-Fri 7:00-21:00 / Closed Sat, Sun & holidays",
+    "note": "Distance is calculated from the official store location. Located in the South Tower of the World Trade Center Building. Closed Sat, Sun & holidays."
+   },
+   {
+    "name": "FamilyMart Hamamatsucho Ekimae",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "FamilyMart Hamamatsucho Station North Exit",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location."
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "Accea Hamamatsucho",
+    "hours": "Weekdays 8:00-22:00 / Sat, Sun & holidays 10:00-19:00",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Accea Onarimon",
+    "hours": "Weekdays 9:00-20:00 / Closed Sat, Sun & holidays",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "3COINS OOOPS! Shimbashi Station Shiodome Exit",
+    "hours": "Weekdays 8:00-22:00 / Sat, Sun & holidays 10:00-21:00",
+    "note": "Distance is calculated from the official store location. Rather far. A store inside JR Shimbashi Station (the in-station format of 3COINS)."
+   },
+   {
+    "name": "Seria Tamachi Center Building",
+    "hours": "Mon-Sun 10:00-21:00",
+    "note": "Distance is calculated from the official store location. Rather far."
+   }
+  ],
+  "donki": [
+   {
+    "name": "Don Quijote Ginza Honkan",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. Rather far. The store name on the Don Quijote official website is \"Ginza Honkan\" (銀座本館)."
+   },
+   {
+    "name": "Don Quijote Roppongi",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. Far."
+   }
+  ]
+ },
+ "photoCredit": "© Beryllium Transistor / CC BY-SA 4.0 · Wikimedia Commons"
+}

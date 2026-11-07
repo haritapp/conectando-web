@@ -1,0 +1,159 @@
+{
+ "slug": "hotel-emisia-tokyo-tachikawa",
+ "name": "HOTEL emisia TOKYO TACHIKAWA",
+ "address": "Tokyo 190-0012 2-14-16 Akebono-cho, Tachikawa-shi, Tokyo",
+ "accessSummary": "JR Tachikawa Station North Exit: about 2 min walk",
+ "hours": "Banquet rooms are open 9:00-21:00. For early morning or late night outside these hours, please consult the hotel (January 2026 edition: Venue Facilities, Capacity and Price List)",
+ "notice": null,
+ "rooms": [
+  {
+   "name": "4F Carlo Grande",
+   "note": "Seated-style standing buffet (combination of standing and seated): 336 guests"
+  },
+  {
+   "name": "4F Scala",
+   "note": "Standing-seated buffet: 100 guests"
+  },
+  {
+   "name": "4F Carlo",
+   "note": "Standing-seated buffet: 140 guests"
+  },
+  {
+   "name": "4F Luna",
+   "note": null
+  },
+  {
+   "name": "4F Stella",
+   "note": null
+  },
+  {
+   "name": "3F San Marco Grande",
+   "note": "Standing-seated buffet: 140 guests"
+  },
+  {
+   "name": "3F Verita",
+   "note": "Standing-seated buffet: 60 guests"
+  },
+  {
+   "name": "3F San Marco",
+   "note": "Standing-seated buffet: 60 guests"
+  },
+  {
+   "name": "3F Cattleya / Dahlia / Rosa",
+   "note": "Three rooms of the same size. Figures in the table are per room"
+  },
+  {
+   "name": "3F Sorriso",
+   "note": "Standing-seated buffet: 30 guests"
+  },
+  {
+   "name": "3F Felice",
+   "note": null
+  },
+  {
+   "name": "2F Chianti Grande",
+   "note": "Standing-seated buffet: 140 guests"
+  },
+  {
+   "name": "2F Soave",
+   "note": "Standing-seated buffet: 60 guests"
+  },
+  {
+   "name": "2F Chianti",
+   "note": "Standing-seated buffet: 60 guests"
+  },
+  {
+   "name": "2F Casanova Grande",
+   "note": "Standing-seated buffet: 70 guests"
+  },
+  {
+   "name": "2F Two Small Banquet Rooms",
+   "note": "Standing-seated buffet: 50 guests"
+  },
+  {
+   "name": "2F Casanova / Castellina / Michel",
+   "note": "Three rooms of the same size. Figures in the table are per room"
+  },
+  {
+   "name": "2F Amaretto",
+   "note": "Standing-seated buffet: 30 guests"
+  },
+  {
+   "name": "1F Sole",
+   "note": "Meeting room only; food and drink service is not available. Contact the staff directly about layouts"
+  }
+ ],
+ "ops": {
+  "parking": "Mechanical parking for standard-size cars only, underground at the hotel. It is first come, first served and reservations are not accepted. The size limits are height 1.55 m, length 4.8 m and width 1.75 m; for vehicles outside these limits, or when the lot is full, use a nearby paid parking lot. The fee is 400 yen for the first hour, then 200 yen for every 30 minutes. Hours are 9:00-22:00, and vehicles cannot enter or exit outside these hours. A banquet comes with 3 hours of free parking (meeting use is not covered).",
+  "catering": "The hotel arranges banquet decorations, flowers, sound, lighting, entertainment and the like. If the organizer wants to arrange them directly, the hotel's prior approval is required. For equipment and materials of vendors the organizer hires with the hotel's approval, the hotel gives the vendors instructions on load-in and load-out (Terms of Use for Banquet Rooms).",
+  "restaurants": "The top floor has Sky Restaurant Hareus. It is open for morning 6:45-10:00 (L.O. 9:30) and lunch 11:00-15:00; dinner is closed for the time being. The private-room plan for enjoying the lunch buffet in a private room is for 20 guests or more, from 15,000 yen (from 18,150 yen including tax and service charge)."
+ },
+ "documents": [
+  {
+   "title": "Venue Facilities, Capacity and Price List (January 2026 edition)"
+  },
+  {
+   "title": "Terms of Use for Banquet Rooms (effective September 1, 2010)"
+  },
+  {
+   "title": "Information on Music Copyright and Related Rights"
+  },
+  {
+   "title": "Music Copyright Confirmation Form"
+  },
+  {
+   "title": "Food Allergy Inquiry Sheet"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "7-Eleven Hotel Emisia Tokyo Tachikawa",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location. Same address as the venue (store inside the hotel)"
+   },
+   {
+    "name": "Lawson Tachikawa Akebono-cho 2-chome",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location"
+   },
+   {
+    "name": "Lawson Tachikawa Akebonobashi",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location"
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "Kinko's Tachikawa",
+    "hours": "Weekdays 9:00-20:00 / Sat, Sun & holidays 10:00-20:00",
+    "note": "Distance is calculated from the address location"
+   },
+   {
+    "name": "Accea Tachikawa From Nakabu",
+    "hours": "Weekdays 10:00-19:00 / Closed Sat, Sun & holidays",
+    "note": "Distance is calculated from the address location. Open weekdays only (closed Sat, Sun & holidays)"
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "DAISO Tachikawa From Nakabu",
+    "hours": "10:00-20:00",
+    "note": "Distance is calculated from the official store location"
+   },
+   {
+    "name": "DAISO MEGA Don Quijote Tachikawa",
+    "hours": "10:00-21:00",
+    "note": "Distance is calculated from the official store location. On the 6th floor inside Don Quijote"
+   }
+  ],
+  "donki": [
+   {
+    "name": "MEGA Don Quijote Tachikawa",
+    "hours": "8:00-2:00 the next day",
+    "note": "Distance is calculated from the address location. The store name on the Don Quijote official site is \"MEGA Don Quijote Tachikawa\""
+   }
+  ]
+ },
+ "photoCredit": "Image of JR Tachikawa Station (North Exit), the nearest station, not the venue building. © DiKnK8713 / CC BY-SA 4.0 · Wikimedia Commons"
+}

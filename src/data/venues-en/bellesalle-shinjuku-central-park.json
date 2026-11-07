@@ -1,0 +1,134 @@
+{
+ "slug": "bellesalle-shinjuku-central-park",
+ "name": "Bellesalle Shinjuku Central Park",
+ "address": "Tokyo 160-0023 Sumitomo Fudosan Shinjuku Central Park Building 1F, Shinjuku Central Park City, 6-13-1 Nishi-Shinjuku, Shinjuku-ku",
+ "accessSummary": "Tochomae Station (Oedo Line) Exit A5: 4 min walk / Nishi-Shinjuku Station (Marunouchi Line) Exit 2: 6 min walk / Nishi-Shinjuku-gochome Station (Oedo Line) Exit A1: 6 min walk / Shinjuku Station West Exit: 13 min walk / Shinjuku Station (Shinjuku Line) Exit 7: 14 min walk",
+ "hours": null,
+ "notice": null,
+ "rooms": [
+  {
+   "name": "1F Event Hall - Entire Hall",
+   "note": "Classroom is 2 per desk. Classroom, 3 per desk: 756 seats. Island layout: 576 seats (96 islands). Separate lobby exclusively for the Event Hall, 174㎡. 8-hour rate from 1,628,000 yen including tax (regular rate ①, Mon-Wed)"
+  },
+  {
+   "name": "1F Event Hall - Hall A",
+   "note": "Classroom is 2 per desk. Classroom, 3 per desk: 432 seats. Island layout: 288 seats (48 islands). 8-hour rate from 1,188,000 yen including tax (regular rate ①, Mon-Wed)"
+  },
+  {
+   "name": "1F Event Hall - Hall B",
+   "note": "Classroom is 2 per desk. Classroom, 3 per desk: 270 seats. Island layout: 216 seats (36 islands). 8-hour rate from 660,000 yen including tax (regular rate ①, Mon-Wed)"
+  },
+  {
+   "name": "Waiting Room 1",
+   "note": "Usage fee 0 yen. The waiting room cannot be used on its own"
+  },
+  {
+   "name": "Waiting Room 2",
+   "note": "Usage fee 0 yen. The waiting room cannot be used on its own"
+  }
+ ],
+ "ops": {
+  "loadingHours": "If there is load-in or load-out, an advance load-in notice must be submitted at least 1 week before the work date. If it is not submitted, the loading area cannot be used. The loading area is used only for loading and unloading. Load-in and load-out vehicles must enter and leave within the usage time. The person in charge on site checks in and out at the service center on the 1F of Sumitomo Fudosan Shinjuku Central Park Building before and after the work. Products, packing materials, decoration materials, trash and the like may not be left in the loading area during the usage period. (Source: Terms of Use, 2026 edition)",
+  "vehicleRules": "There is a load-in and loading route where a 10-ton truck can park directly. Parking at the loading area is only for loading and unloading; if parking is needed, use an outside parking lot. When multiple vehicles are used, they share one vehicle's loading space in staggered turns. Illegal parking, parking outside the designated parking lot, and roadside parking around the building are prohibited. Enter the vehicle type, vehicle size and number of vehicles on the advance load-in notice.",
+  "parking": "For nearby parking lots, the official guidance is to search for \"Bellesalle Shinjuku Central Park\" on the website of the Tokyo Metropolitan Road Improvement and Conservation Corporation (s-park).",
+  "waitingRooms": "There are 2 waiting rooms. Waiting Room 1 is 36㎡ and Waiting Room 2 is 17㎡, and the usage fee is 0 yen for each. The waiting rooms cannot be used on their own.",
+  "catering": "The Event Hall operates under a comprehensive management system (designated vendor system), in which setup and removal are carried out by the operator's designated vendors. If a vendor other than the designated ones is used, a bring-in fee applies. For bringing in rental items, the fee is 55,000 yen including tax for a venue area of up to 1,000㎡ and 110,000 yen including tax for 1,001 to 1,500㎡. For bringing in setup and construction work, the fee is 165,000 yen including tax for up to 1,000㎡. The outside food/drink fee applies only to party use, and is 440,000 yen including tax for up to 1,200㎡ (bringing in drinks only or boxed meals is not covered; under the terms of use, the event space is excluded)."
+ },
+ "documents": [
+  {
+   "title": "Price List (updated July 3, 2026)"
+  },
+  {
+   "title": "Price Calendar"
+  },
+  {
+   "title": "Terms of Use (2026ver2)"
+  },
+  {
+   "title": "Advance Load-in Notice"
+  },
+  {
+   "title": "Bring-in Fee Guide"
+  },
+  {
+   "title": "1F Floor Plan"
+  },
+  {
+   "title": "Ceiling Plan"
+  },
+  {
+   "title": "Floor Plan (flooring)"
+  },
+  {
+   "title": "Event Power Supply Plan"
+  },
+  {
+   "title": "Evacuation Route Plan"
+  },
+  {
+   "title": "HALL B Drawing"
+  },
+  {
+   "title": "Access Map (June 2025)"
+  },
+  {
+   "title": "Declaration and Pledge of Non-Affiliation with Anti-Social Forces"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "7-Eleven Nishi-Shinjuku 6-chome",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the store's official location."
+   },
+   {
+    "name": "Lawson S Shinjuku Green Tower Building",
+    "hours": "8:00-20:00",
+    "note": "Distance is calculated from the store's official location. The official store name is \"S Shinjuku Green Tower Building\"."
+   },
+   {
+    "name": "FamilyMart Shinjuku i-Town",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the store's official location."
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "Kinko's Nishi-Shinjuku",
+    "hours": "Weekdays 8:00-20:00 / Sat 10:00-20:00 / Sun & holidays 10:00-20:00",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Accea Nishi-Shinjuku",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "DAISO Lawson Store 100 Nakano Chuo",
+    "hours": "0:00-24:00",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Can Do Nishi-Shinjuku",
+    "hours": "Daily 9:00-22:00",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "donki": [
+   {
+    "name": "Don Quijote Shinjuku Kabukicho",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. Rather far."
+   },
+   {
+    "name": "Don Quijote Shinjuku Tonanguchi",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. Rather far."
+   }
+  ]
+ },
+ "photoCredit": "Image of an exit of Tochomae Station (Toei Oedo Line), the nearest station, not the venue building. © nesnad / CC BY 3.0 · Wikimedia Commons"
+}

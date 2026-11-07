@@ -1,0 +1,74 @@
+{
+ "slug": "global-business-hub-tokyo",
+ "name": "Global Business Hub Tokyo",
+ "address": "Tokyo 100-0004 Otemachi Financial City Grand Cube 3F, 1-9-2 Otemachi, Chiyoda-ku, Tokyo",
+ "accessSummary": "Directly connected to Otemachi Station (Hanzomon Line, Chiyoda Line, Marunouchi Line, Tozai Line, Toei Mita Line) / Directly connected underground from JR Tokyo Station",
+ "hours": "Weekdays 9:00-21:00 (closed Sat, Sun & holidays). The office is accessible 24 hours. The facility may close temporarily for equipment maintenance and inspection",
+ "notice": "Meeting rooms and event space cannot be booked on their own (a facility for office tenants)",
+ "rooms": [
+  {
+   "name": "Field (Event Space)",
+   "note": "Can be used for seminars and workshops of up to 200 people. Meeting format in a U-shape using 1 side, or classroom format (about 100 people) using 3 sides. When no event is booked, it is used as a coworking space"
+  }
+ ],
+ "ops": {
+  "restaurants": "On the 1st floor and the 1st basement floor of the same building (Otemachi Financial City Grand Cube) there are restaurants, cafes and convenience stores. The official guide says they can be used for anything from everyday lunches to dining with important guests. (Source: https://www.gbh-tokyo.or.jp/access/)"
+ },
+ "documents": [],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "Natural Lawson Otemachi Financial City North",
+    "hours": "7:00-23:00",
+    "note": "Distance is calculated from the store's official location"
+   },
+   {
+    "name": "Natural Lawson S Otemachi Financial City South",
+    "hours": "10:00-21:00",
+    "note": "Distance is calculated from the store's official location"
+   },
+   {
+    "name": "Lawson Otemachi Financial City Grand Cube",
+    "hours": "7:00-23:00",
+    "note": "Distance is calculated from the store's official location"
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "Kinko's Otemachi",
+    "hours": "Weekdays 9:00-20:00 / Sat, Sun & holidays closed",
+    "note": "Distance is calculated from the address location"
+   },
+   {
+    "name": "Accea Otemachi",
+    "hours": "Open 24 hours (every day of the year)",
+    "note": "Distance is calculated from the address location"
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Can Do Marunouchi Oazo",
+    "hours": "Mon-Fri 8:00-22:00 / Sat, Sun 9:00-21:00",
+    "note": "Distance is calculated from the store's official location"
+   },
+   {
+    "name": "DAISO Kanda-Jimbocho Suzuran-dori",
+    "hours": "10:00-21:00",
+    "note": "Distance is calculated from the address location"
+   }
+  ],
+  "donki": [
+   {
+    "name": "Don Quijote Akihabara",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. Rather far. The store name on the Don Quijote official website is \"Akihabara\""
+   },
+   {
+    "name": "Don Quijote Korakuen",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. Far. The store name on the Don Quijote official website is \"Korakuen\""
+   }
+  ]
+ },
+ "photoCredit": "© Akonnchiroll / CC BY-SA 4.0 · Wikimedia Commons"
+}

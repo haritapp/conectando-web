@@ -1,0 +1,233 @@
+{
+ "slug": "hokutopia",
+ "name": "Hokutopia",
+ "address": "Tokyo 114-8503 1-11-1 Oji, Kita-ku, Tokyo",
+ "accessSummary": "Directly connected to Exit 5 of Oji Station (Tokyo Metro Namboku Line) / 2 min walk from the North Exit of Oji Station (JR Keihin-Tohoku Line) / 5 min walk from Oji-ekimae Station (Toden Arakawa Line)",
+ "hours": "Open 8:30-22:00. Facility reception desk 9:00-20:00. Rental time slots: morning 9:00-12:00 / afternoon 13:00-17:00 / evening 18:00-22:00 / all day 9:00-22:00",
+ "notice": null,
+ "rooms": [
+  {
+   "name": "Sakura Hall (2F)",
+   "note": "1,300 fixed seats (806 on the 1st floor, 494 on the 2nd floor). 30 fewer seats on the 1st floor when wheelchair seating is used. Proscenium stage, max opening 18m / height 9m / depth 17m, orchestra pit 68㎡. Rehearsal room 93㎡ (capacity 60), 7 dressing rooms"
+  },
+  {
+   "name": "Tsutsuji Hall (3F)",
+   "note": "402 fixed seats. Stage opening 9m / height 4.5m / depth 7m. Rehearsal room 71㎡ (capacity 50, can be rented separately), 4 dressing rooms"
+  },
+  {
+   "name": "Asuka Hall (13F)",
+   "note": "Theater is 384 with chairs only; classroom is 288 with desks. No dressing rooms. Stage opening 7.0m / depth 2.65m / height 2.76m. Exercise, wadaiko drumming and band performances are not allowed"
+  },
+  {
+   "name": "Pegasus Hall (15F)",
+   "note": "173 with chairs only. 3 dressing rooms and a rehearsal room (about 97㎡, capacity 64). Movable stage width 3.6m / depth 2.4m / height 0.3m. Percussion instruments are not allowed"
+  },
+  {
+   "name": "Sky Hall (14F)",
+   "note": "138 with chairs only. No dressing rooms. Movable stage width 3.6m / depth 2.4m / height 0.3m. Percussion instruments are not allowed"
+  },
+  {
+   "name": "Canary Hall (14F)",
+   "note": "110 with chairs only. 2 dressing rooms. Area is about 148㎡. Percussion instruments are not allowed"
+  },
+  {
+   "name": "Dome Hall (6F)",
+   "note": "Capacity 150, no dressing rooms. Night-time slot is 18:00-22:00"
+  },
+  {
+   "name": "Exhibition Hall (B1F)",
+   "note": "Capacity 360. Can be divided. Consecutive use of the entire hall for all-day use is limited to 14 days"
+  },
+  {
+   "name": "Training Room 1 (7F)",
+   "note": "3-person desks, 7 rows x 4 rows"
+  },
+  {
+   "name": "Training Room 2 (7F)",
+   "note": "3-person desks, 10 rows x 4 rows. When divided: 103㎡ and 60 people each (audio equipment cannot be used when divided)"
+  },
+  {
+   "name": "Meeting Room 601 (6F)",
+   "note": "3-person desks, 4 rows x 2 rows. Audio equipment cannot be used"
+  },
+  {
+   "name": "Meeting Room 701 (7F)",
+   "note": "3-person desks, 6 rows x 3 rows. Audio equipment cannot be used"
+  },
+  {
+   "name": "Meeting Room 801 (8F)",
+   "note": "Round table seating 20, capacity 20. Desks cannot be rearranged or moved"
+  },
+  {
+   "name": "Meeting Room 802 (8F)",
+   "note": "3-person desks, 6 rows x 3 rows. When divided: 48.5㎡ and 27 people each"
+  },
+  {
+   "name": "Meeting Room 803 (8F)",
+   "note": "3-person desks, 4 rows x 2 rows"
+  },
+  {
+   "name": "Meeting Room 804 (A/B) (8F)",
+   "note": "Can be divided into 2 with a partition (12 people each). No windows"
+  },
+  {
+   "name": "Meeting Room 805 (A/B) (8F)",
+   "note": "Hollow-square format for 24. Can be divided into 2 with a partition (12 people each). No windows"
+  },
+  {
+   "name": "Meeting Room 806 (8F)",
+   "note": "Hollow-square format for 24"
+  },
+  {
+   "name": "Meeting Room 807 (8F)",
+   "note": "3-person desks, 4 rows x 2 rows"
+  },
+  {
+   "name": "Meeting Room 808 (8F)",
+   "note": "3-person desks, 4 rows x 2 rows"
+  },
+  {
+   "name": "Meeting Room 901 (9F)",
+   "note": "3-person desks, 6 rows x 3 rows. Preparation space with a sink"
+  },
+  {
+   "name": "Meeting Room 902 (9F)",
+   "note": "3-person desks, 6 rows x 3 rows. Preparation space with a sink"
+  },
+  {
+   "name": "Meeting Room 1601 (16F)",
+   "note": "3-person desks. The lighting is a chandelier, so it is somewhat dimmer than other meeting rooms"
+  },
+  {
+   "name": "Meeting Room 1602 (16F)",
+   "note": "3-person desks, 2 rows x 6 rows. Audio equipment cannot be used. Air conditioning is weak, and the room temperature does not drop when it is hot outside"
+  },
+  {
+   "name": "Japanese-style Room 1 \"Sekirei\" (9F)",
+   "note": "30 tatami mats, capacity 48. Can be divided north and south (15 mats and 24 people each)"
+  },
+  {
+   "name": "Japanese-style Room 2 \"Kawasemi\" (9F)",
+   "note": "20 tatami mats, capacity 18. Can be divided west and east (10 mats and 9 people each)"
+  },
+  {
+   "name": "Tea Room \"Chishoken\" (9F)",
+   "note": "16 tatami mats (with front garden, 4-mat side area and 3-mat preparation room), capacity 18. For tea gatherings"
+  },
+  {
+   "name": "Multipurpose Room (B1F)",
+   "note": "44 for the entire room. When divided: Section A 125㎡, 26 people (wall mirror and handrail bar), Section B 89㎡, 18 people. Only one group can use the room when divided"
+  },
+  {
+   "name": "Music Studios (B1F, Studios 1-3)",
+   "note": "Music Studio 1 is 33㎡, capacity 20. For band and instrument practice"
+  }
+ ],
+ "ops": {
+  "loadingHours": "Use the freight elevators for load-in and load-out (the 3 elevators on each side of the main entrance are not freight elevators). No. 7 runs from B3F to 17F, load capacity 1.45t, car interior 1.85 x 1.75 x 2.3m, door 1.0 x 2.1m. No. 9 runs from B3F to 3F, load capacity 2.0t, car interior 2.2 x 2.8 x 2.1m, door 1.7 x 2.1m. No. 12 is dedicated to the Exhibition Hall (B1F to 1F, load capacity 2.0t, same dimensions). Setup and cleanup (including load-in and load-out) must be done within the approved usage time. A meeting with the stage office is required about 1 month before using a hall. (Source: https://www.hokutopia.jp/usage-guidance/reservation)",
+  "vehicleRules": "For load-in and load-out by car, use the underground parking lot (height limit 2.8m). Parking fees (200 yen per 30 minutes) apply after 30 minutes from entry. Driving up to the 1st-floor main entrance and unauthorized use of the surface parking lot beside the underground parking entrance are not allowed. The load-in space on the 1st floor of the Exhibition Hall fits one 2-ton truck (load of 2t or less, height 3m or less, length 5m or less, width 2.5m or less). For the Sakura Hall stage and dressing rooms, goods can be brought in directly from the Sakura Hall organizer-only parking lot; for Tsutsuji Hall, the organizer-only parking lot does not face the load-in entrance, so use elevator No. 7 or No. 9. Arrange for parcel deliveries to be received at the facility being used within the usage time; advance deliveries are not accepted. (Source: https://www.hokutopia.jp/usage-guidance/reservation)",
+  "parking": "There is an underground parking lot (the number of spaces could not be confirmed; because space is limited, visitors are asked to avoid coming by car). Vehicles with a load of 2t or more, a height of 2.8m or more, or a width of 2m or more cannot enter. Fees are 700 yen per 30 minutes for large vehicles and 200 yen per 30 minutes for others (large vehicles are those exceeding 4.7m in length, 1.7m in width or 2m in height). Entry 8:15-22:00, exit until 23:00. The surface spaces on both sides of the underground parking entrance are reserved for Sakura Hall and Tsutsuji Hall organizers and require a permit issued by Hokutopia. (Source: https://www.hokutopia.jp/access/)",
+  "waitingRooms": "Halls have attached dressing rooms. Sakura Hall has 7 dressing rooms (15-35㎡, capacity 3-11) and a shower room, Tsutsuji Hall has 4 dressing rooms (14-52㎡, capacity 4-8), Pegasus Hall has 3 dressing rooms (18-24㎡, capacity 7), and Canary Hall has 2 dressing rooms (11-12㎡). Asuka Hall and Sky Hall have no dressing rooms. Training Rooms 1 and 2 have instructor waiting rooms (16㎡ / 21㎡, capacity 2; applied for together with the training room). (Source: https://www.hokutopia.jp/hall-guide/halls/sakura_hall)",
+  "catering": "Food and drink are not allowed in the halls. Food and drink are allowed in the training rooms (no alcohol or smoking), and food, drink and alcohol are allowed in the meeting rooms and Japanese-style rooms (no smoking indoors). There is no kitchen or serving room; use the hot-water rooms on each floor for water and hot water. Organizers must take away used boxed-meal containers and the like. Selling or providing food and drink without approval is prohibited. (Source: https://www.hokutopia.jp/hall-guide/conference/)",
+  "restaurants": "Tenants in the building include the beer restaurant \"Kirin City\" on the 1st floor (11:00-22:30), the observation restaurant \"Sankaitei\" on the 17th floor (11:00-21:30), and Oji Tobu Salon on the 16th-17th floors (described as a hall usable for various banquets, parties and catering services). (Source: https://www.hokutopia.jp/tenant/)"
+ },
+ "documents": [
+  {
+   "title": "New Hokutopia Price List from April 1, 2025 (Reiwa 7)"
+  },
+  {
+   "title": "Facility Usage Fees (for Kita Ward residents)"
+  },
+  {
+   "title": "Facility Usage Fees (for non-residents)"
+  },
+  {
+   "title": "About Facility Reservations (application period, load-in/load-out, usage precautions)"
+  },
+  {
+   "title": "Sakura Hall Stage Plan"
+  },
+  {
+   "title": "Sakura Hall Seating Chart"
+  },
+  {
+   "title": "Tsutsuji Hall Stage Plan"
+  },
+  {
+   "title": "Tsutsuji Hall Seating Chart"
+  },
+  {
+   "title": "Asuka Hall Floor Plan"
+  },
+  {
+   "title": "Pegasus Hall Floor Plan"
+  },
+  {
+   "title": "Sky Hall Floor Plan"
+  },
+  {
+   "title": "Canary Hall Floor Plan"
+  },
+  {
+   "title": "6F Dome Hall Floor Plan"
+  },
+  {
+   "title": "Exhibition Hall Floor Plan"
+  },
+  {
+   "title": "Sakura Hall Organizer-only Parking Lot"
+  },
+  {
+   "title": "Tsutsuji Hall Organizer-only Parking Lot"
+  },
+  {
+   "title": "Exhibition Hall Dedicated Parking Lot"
+  },
+  {
+   "title": "Work Entry Permit Application"
+  },
+  {
+   "title": "Merchandise Sales Application"
+  },
+  {
+   "title": "Hokutopia Interior Photography Permit Request"
+  },
+  {
+   "title": "PDF Downloads (detailed guides for each meeting room, equipment lists, etc.)"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "Lawson Kita-ku Oji 1-chome",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the store's official location"
+   },
+   {
+    "name": "7-Eleven Oji Station North",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the store's official location"
+   },
+   {
+    "name": "FamilyMart Oji Ekimae",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the store's official location"
+   }
+  ],
+  "copyshop": [],
+  "hundredYen": [
+   {
+    "name": "DAISO Oji Ekimae",
+    "hours": "9:30-21:00",
+    "note": "Distance is calculated from the address location"
+   },
+   {
+    "name": "DAISO Konan Oji Horifune",
+    "hours": "9:00-21:00",
+    "note": "Distance is calculated from the address location"
+   }
+  ],
+  "donki": []
+ },
+ "photoCredit": "© Guilhem Vellut from Annecy, France / CC BY 2.0 · Wikimedia Commons"
+}

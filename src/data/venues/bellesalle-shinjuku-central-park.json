@@ -1,0 +1,268 @@
+{
+ "slug": "bellesalle-shinjuku-central-park",
+ "nameJa": "ベルサール新宿セントラルパーク",
+ "nameEn": "",
+ "type": "conference",
+ "area": "shinjuku-venues",
+ "address": "〒160-0023 東京都新宿区西新宿6-13-1 新宿セントラルパークシティ内 住友不動産新宿セントラルパークビル1F",
+ "officialUrl": "https://www.bellesalle.co.jp/shisetsu/shinjuku/bs_shinjuku/",
+ "organizerUrl": "https://www.bellesalle.co.jp/download/bs_shinjuku/",
+ "bizintokyoSlug": "bellesalle-shinjuku-central-park",
+ "accessSummary": "都庁前駅（大江戸線）A5出口 徒歩4分／西新宿駅（丸ノ内線）2番出口 徒歩6分／西新宿五丁目駅（大江戸線）A1出口 徒歩6分／新宿駅西口 徒歩13分／新宿駅（新宿線）7番出口 徒歩14分",
+ "notice": null,
+ "hours": null,
+ "rooms": [
+  {
+   "name": "1F イベントホール HALL全体",
+   "areaM2": 1011,
+   "ceilingM": "6.0（一部5.4）",
+   "theater": null,
+   "school": 504,
+   "ushape": null,
+   "standing": 600,
+   "banquet": null,
+   "note": "スクールは2名掛け。スクール3名掛け 756席。島型 576席（96島）。別にイベントホール専用ロビー174㎡。8時間料金 税込1,628,000円〜（通常料金①・月〜水）"
+  },
+  {
+   "name": "1F イベントホール HALL A",
+   "areaM2": 607,
+   "ceilingM": "6.0（一部5.4）",
+   "theater": null,
+   "school": 288,
+   "ushape": null,
+   "standing": 360,
+   "banquet": null,
+   "note": "スクールは2名掛け。スクール3名掛け 432席。島型 288席（48島）。8時間料金 税込1,188,000円〜（通常料金①・月〜水）"
+  },
+  {
+   "name": "1F イベントホール HALL B",
+   "areaM2": 404,
+   "ceilingM": "6.0（一部5.4）",
+   "theater": null,
+   "school": 180,
+   "ushape": null,
+   "standing": 240,
+   "banquet": null,
+   "note": "スクールは2名掛け。スクール3名掛け 270席。島型 216席（36島）。8時間料金 税込660,000円〜（通常料金①・月〜水）"
+  },
+  {
+   "name": "控室1",
+   "areaM2": 36,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "使用料0円。控室のみの利用は不可"
+  },
+  {
+   "name": "控室2",
+   "areaM2": 17,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "使用料0円。控室のみの利用は不可"
+  }
+ ],
+ "roomsSource": "https://www.bellesalle.co.jp/shisetsu/shinjuku/bs_shinjuku/（各部屋の詳細ページ）／https://www.bellesalle.co.jp/wp-content/uploads/shinjukucp_price.pdf（2026/7/3更新）",
+ "ops": {
+  "loadingHours": {
+   "text": "搬出入がある場合は事前搬入届を作業日の1週間前までに提出する。提出がない場合は荷捌き場を利用できない。荷捌き場の利用は荷物の積み下ろしのみ。搬入・搬出車の出入りは使用時間内に行う。現場責任者は作業の前後に住友不動産新宿セントラルパークビル1Fのサービスセンターで入館・退館の手続きをする。使用期間中の荷捌き場には、商品・梱包材・装飾資材・ゴミ等を置けない（2026年版 使用規約）。",
+   "source": "https://www.bellesalle.co.jp/wp-content/uploads/shinjukucp_jizen.pdf"
+  },
+  "vehicleRules": {
+   "text": "10tトラックを直接駐車できる搬入荷捌き動線がある。荷捌き場での駐車は積み下ろしのみで、駐車が必要な場合は外の駐車場を使う。複数台の車両は1台分の荷捌場を時間差で使う。違法駐車、指定駐車場以外、ビル周りの路上駐車は禁止。事前搬入届に車種・車両サイズ・台数を記入する。",
+   "source": "https://www.bellesalle.co.jp/wp-content/uploads/shinjukucp_jizen.pdf"
+  },
+  "parking": {
+   "text": "近隣駐車場は東京都道路整備保全公社のサイト（s-park）で「ベルサール新宿セントラルパーク」と検索して確認する案内になっている。",
+   "source": "https://www.bellesalle.co.jp/shisetsu/shinjuku/bs_shinjuku/"
+  },
+  "waitingRooms": {
+   "text": "控室は2室。控室1が36㎡、控室2が17㎡で、使用料は各0円。控室のみの利用はできない。",
+   "source": "https://www.bellesalle.co.jp/shisetsu/shinjuku/bs_shinjuku/"
+  },
+  "catering": {
+   "text": "イベントホールは総合マネジメント制度（指定業者制度）で、設営・撤去は当社指定業者が行う。指定業者以外を使う場合は持込料がかかる。レンタル品の持込は会場面積〜1,000㎡で税込55,000円、1,001〜1,500㎡で税込110,000円。設営・施工の持込は〜1,000㎡で税込165,000円。飲食の持込手数料はパーティー利用時のみで、〜1,200㎡で税込440,000円（飲料のみ・弁当は対象外。使用規約ではイベントスペースは除く）。",
+   "source": "https://www.bellesalle.co.jp/wp-content/uploads/mochikomi_price.pdf"
+  }
+ },
+ "documents": [
+  {
+   "title": "利用料金一覧表（2026年7月3日更新）",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/shinjukucp_price.pdf"
+  },
+  {
+   "title": "料金カレンダー",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/eventhall_calender1.pdf"
+  },
+  {
+   "title": "使用規約（2026ver2）",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/kiyaku.pdf"
+  },
+  {
+   "title": "事前搬入届",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/shinjukucp_jizen.pdf"
+  },
+  {
+   "title": "持込料のご案内",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/mochikomi_price.pdf"
+  },
+  {
+   "title": "1F平面図",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/shinjukucp_plane.pdf"
+  },
+  {
+   "title": "天井図",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/shinjukucp_ceiling.pdf"
+  },
+  {
+   "title": "床図",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/shinjukucp_floor.pdf"
+  },
+  {
+   "title": "イベント電源図",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/shinjukucp_electric.pdf"
+  },
+  {
+   "title": "避難経路図",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/shinjukucp_escape.pdf"
+  },
+  {
+   "title": "HALL B 図面",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/shinjukucp_hall_b.pdf"
+  },
+  {
+   "title": "アクセスマップ（2025年6月）",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/access_shinjukucp.pdf"
+  },
+  {
+   "title": "反社会的勢力でないことの表明・確約書",
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/bellesalle_bouhai.pdf"
+  }
+ ],
+ "checkedAt": "2026-11-07",
+ "lat": 35.693039,
+ "lng": 139.689163,
+ "nearby": {
+  "convenience": [
+   {
+    "name": "セブン-イレブン 西新宿6丁目店",
+    "brand": "セブン-イレブン",
+    "distanceM": 73,
+    "walkMin": 1,
+    "hours": "24時間営業",
+    "address": "東京都新宿区西新宿6-12-6",
+    "verified": true,
+    "source": "https://seven-eleven.areamarker.com/711map/info/557725",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "ローソン Ｓ新宿グリーンタワービル",
+    "brand": "ローソン",
+    "distanceM": 80,
+    "walkMin": 1,
+    "hours": "8:00〜20:00",
+    "address": "東京都新宿区西新宿6-14-1",
+    "verified": true,
+    "source": "https://www.areamarker.com/lawson/info/380853",
+    "note": "距離は公式の店舗位置で計算。公式の店舗名は「Ｓ新宿グリーンタワービル」"
+   },
+   {
+    "name": "ファミリーマート 新宿アイタウン店",
+    "brand": "ファミリーマート",
+    "distanceM": 164,
+    "walkMin": 3,
+    "hours": "24時間",
+    "address": "東京都新宿区西新宿6-21-1",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/57630",
+    "note": "距離は公式の店舗位置で計算"
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "キンコーズ・西新宿店",
+    "brand": "キンコーズ",
+    "distanceM": 455,
+    "walkMin": 6,
+    "hours": "平日 8:00-20:00／土 10:00-20:00／日祝 10:00-20:00",
+    "address": "東京都新宿区西新宿8-1-1 アゼリアビル1F",
+    "verified": true,
+    "source": "https://www.kinkos.co.jp/store/tokyo/t008/",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "アクセア 西新宿店",
+    "brand": "アクセア",
+    "distanceM": 670,
+    "walkMin": 9,
+    "hours": "24時間営業",
+    "address": "東京都新宿区西新宿7-12-3 西新宿佐藤ビル1F～4F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/entry.html",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "DAISO ローソンストア100中野中央店",
+    "brand": "ダイソー",
+    "distanceM": 480,
+    "walkMin": 6,
+    "hours": "0:00-24:00",
+    "address": "東京都中野区中央1-21-2 メゾン淀橋YSビル",
+    "verified": true,
+    "source": "https://www.daiso-sangyo.co.jp/shop/detail/003701",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "Can★Do 西新宿店",
+    "brand": "キャンドゥ",
+    "distanceM": 525,
+    "walkMin": 7,
+    "hours": "毎日 9:00〜22:00",
+    "address": "東京都新宿区西新宿7-21-1",
+    "verified": true,
+    "source": "https://shopinfo.cando-web.co.jp/detail/shop-5068/",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "donki": [
+   {
+    "name": "ドン・キホーテ 新宿歌舞伎町店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 1130,
+    "walkMin": 15,
+    "hours": "24時間営業",
+    "address": "東京都新宿区歌舞伎町1-16-5",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=29",
+    "note": "距離は住所の位置で計算。遠め"
+   },
+   {
+    "name": "ドン・キホーテ 新宿東南口店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 1213,
+    "walkMin": 16,
+    "hours": "24時間営業",
+    "address": "東京都新宿区新宿3-36-16",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=449",
+    "note": "距離は住所の位置で計算。遠め"
+   }
+  ]
+ },
+ "drinkDelivery": {
+  "available": true
+ },
+ "photo": {
+  "src": "/images/venues/bellesalle-shinjuku-central-park.jpg",
+  "credit": "最寄りの都営大江戸線 都庁前駅の出口のイメージ写真です（会場の建物ではありません）。© nesnad / CC BY 3.0 · Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tochomae_stn_exit_-_October_29_2017.jpg"
+ }
+}

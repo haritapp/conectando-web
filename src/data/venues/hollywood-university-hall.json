@@ -1,0 +1,199 @@
+{
+ "slug": "hollywood-university-hall",
+ "nameJa": "ハリウッド大学ホール",
+ "nameEn": "",
+ "type": "public",
+ "area": "toranomon-roppongi-venues",
+ "address": "〒106-8541 東京都港区六本木6-4-1 六本木ヒルズ ハリウッドプラザ",
+ "officialUrl": "https://hall.hollywood.ac.jp/",
+ "organizerUrl": "https://hall.hollywood.ac.jp/privacy.html",
+ "bizintokyoSlug": "hollywood-university-hall",
+ "accessSummary": "日比谷線六本木駅1a・1b・1c出口直結通路0分／大江戸線六本木駅3番出口3分／千代田線乃木坂駅5番出口6分／南北線麻布十番駅4番出口8分",
+ "notice": "学校施設のため、学校運営に支障のない範囲で文化的・教育的な用途に限って貸し出す。企画書を添えて申し込み、学園が審査して可否を連絡する。",
+ "hours": "9:00-21:00（料金表の時間区分。早朝・夜間の時間外使用は30分75,000円（税別））",
+ "rooms": [
+  {
+   "name": "5F 大ホール（講堂）",
+   "areaM2": 601.26,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": 500,
+   "banquet": null,
+   "note": "パーティションで2〜3分割可。式典レイアウト最大1,200席、コンサートレイアウト客席808席（最大1,200席配置可）、セミナー380席とパーティ立席500のエリア分けレイアウト"
+  },
+  {
+   "name": "7F 教室（8部屋）",
+   "areaM2": null,
+   "ceilingM": 3,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "パーティションで区切り、20坪〜120坪に調整可。各教室にドライヤー用コンセント24口。料金は7階〜10階の教室として1教室単位"
+  }
+ ],
+ "roomsSource": "https://hall.hollywood.ac.jp/index.html（会場の案内）、https://hall.hollywood.ac.jp/zumenpdf/5F_A.pdf（面積）",
+ "ops": {
+  "loadingHours": {
+   "text": "荷捌所（共用）と搬出入エレベーター（共用）を使って搬出入する。作業がある場合は「作業届」をホール担当者へ提出する。搬出入経路は養生してから開始し、1階エレベーターホールは一般の方も通るため、養生中は係員の立会いが必要。",
+   "source": "https://hall.hollywood.ac.jp/privacy.html"
+  },
+  "vehicleRules": {
+   "text": "荷捌所は車両の留置き不可。搬出入終了後は速やかに出庫する。",
+   "source": "https://hall.hollywood.ac.jp/privacy.html"
+  },
+  "waitingRooms": {
+   "text": "7階の教室（最大8部屋）を控室として使える。各部屋はパーティションで広さを調整できる。",
+   "source": "https://hall.hollywood.ac.jp/index.html"
+  },
+  "catering": {
+   "text": "ホール・教室内での飲食は可能。エレベーターホール等の共有スペースでの飲食は禁止。照明・音響・ケータリングなどの業者の紹介が可能。",
+   "source": "https://hall.hollywood.ac.jp/privacy.html"
+  }
+ },
+ "documents": [
+  {
+   "title": "5F 平面図",
+   "url": "https://hall.hollywood.ac.jp/zumenpdf/5F_A.pdf"
+  },
+  {
+   "title": "5F バトン図",
+   "url": "https://hall.hollywood.ac.jp/zumenpdf/5F_C.pdf"
+  },
+  {
+   "title": "7F 全体平面図",
+   "url": "https://hall.hollywood.ac.jp/zumenpdf/7F_A.pdf"
+  },
+  {
+   "title": "料金・備品一覧",
+   "url": "https://hall.hollywood.ac.jp/price.html"
+  },
+  {
+   "title": "諸注意",
+   "url": "https://hall.hollywood.ac.jp/privacy.html"
+  }
+ ],
+ "checkedAt": "2026-11-07",
+ "lat": 35.661423,
+ "lng": 139.729691,
+ "nearby": {
+  "convenience": [
+   {
+    "name": "ファミリーマート 六本木ヒルズ店",
+    "brand": "ファミリーマート",
+    "distanceM": 94,
+    "walkMin": 2,
+    "hours": "6:00-24:00",
+    "address": "東京都港区六本木6-2-31 六本木ヒルズノースタワーB1階",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/20658",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "ローソン 港六本木通店",
+    "brand": "ローソン",
+    "distanceM": 120,
+    "walkMin": 2,
+    "hours": "24時間営業",
+    "address": "東京都港区六本木7-18",
+    "verified": true,
+    "source": "https://www.areamarker.com/lawson/info/291196",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "ナチュラルローソン 六本木ヒルズ店",
+    "brand": "ナチュラルローソン",
+    "distanceM": 142,
+    "walkMin": 2,
+    "hours": "7:00-23:00",
+    "address": "東京都港区六本木6-10-1",
+    "verified": true,
+    "source": "https://www.areamarker.com/lawson/info/264495",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "アクセア 六本木店",
+    "brand": "アクセア",
+    "distanceM": 189,
+    "walkMin": 3,
+    "hours": "平日8:00〜22:00、土日祝10:00〜19:00",
+    "address": "東京都港区六本木6-1-4 丸正小林ビル1F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/entry.html",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "アクセア 六本木一丁目店",
+    "brand": "アクセア",
+    "distanceM": 937,
+    "walkMin": 12,
+    "hours": "平日9:00〜20:00／土日祝休み",
+    "address": "東京都港区六本木2-3-2 VORT六本木一丁目1F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/entry.html",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Can★Do 麻布十番店",
+    "brand": "キャンドゥ",
+    "distanceM": 740,
+    "walkMin": 10,
+    "hours": "毎日 10:00-21:00",
+    "address": "東京都港区麻布十番2-4-1 ウィン麻布十番ハラビル1階",
+    "verified": true,
+    "source": "https://shopinfo.cando-web.co.jp/detail/shop-1930/",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "Can★Do 城山ヒルズ店",
+    "brand": "キャンドゥ",
+    "distanceM": 1412,
+    "walkMin": 18,
+    "hours": "毎日 9:00-23:00",
+    "address": "東京都港区虎ノ門4-1-17 神谷町プライムプレイスB1階",
+    "verified": true,
+    "source": "https://shopinfo.cando-web.co.jp/detail/shop-1835/",
+    "note": "距離は住所の位置で計算。遠め"
+   }
+  ],
+  "donki": [
+   {
+    "name": "ドン・キホーテ 六本木店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 457,
+    "walkMin": 6,
+    "hours": "24時間営業",
+    "address": "東京都港区六本木3-14-10",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=31",
+    "note": "距離は住所の位置で計算。ドン・キホーテ公式サイトの店舗名は「六本木店」"
+   },
+   {
+    "name": "ピカソ赤坂店（ドン・キホーテ）",
+    "brand": "ドン・キホーテ",
+    "distanceM": 1643,
+    "walkMin": 21,
+    "hours": "7:00-3:00",
+    "address": "東京都港区赤坂3-11-14",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=289",
+    "note": "距離は住所の位置で計算。ドン・キホーテの別業態（公式サイトの店舗名は「ピカソ赤坂店」）。遠い"
+   }
+  ]
+ },
+ "drinkDelivery": {
+  "available": true
+ },
+ "photo": {
+  "src": "/images/venues/hollywood-university-hall.jpg",
+  "credit": "六本木駅の出入口のイメージ写真です（会場の建物ではありません）。© MaedaAkihiko / CC BY-SA 4.0 · Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Roppongi-STA_Entrance7.jpg"
+ }
+}

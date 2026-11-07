@@ -1,0 +1,403 @@
+{
+ "slug": "hamamatsucho-convention-hall",
+ "nameJa": "浜松町コンベンションホール",
+ "nameEn": "Hamamatsucho Convention Hall",
+ "type": "conference",
+ "area": "shimbashi-hamamatsucho-venues",
+ "address": "〒105-0013 東京都港区浜松町二丁目3番1号 日本生命浜松町クレアタワー 5F・6F",
+ "officialUrl": "https://www.hmc.conventionhall.jp/",
+ "organizerUrl": "https://www.hmc.conventionhall.jp/guide/",
+ "bizintokyoSlug": "hamamatsucho-convention-hall",
+ "accessSummary": "JR・東京モノレール浜松町駅 北口から徒歩2分／都営地下鉄 大江戸線・浅草線 大門駅 B5出口から直結",
+ "notice": null,
+ "hours": "利用可能時間は原則8:00～22:00。利用区分は全日9:00～21:00、午前9:00～12:00、午後13:00～17:00、夜間18:00～21:00（準備・撤去の時間を含む）",
+ "rooms": [
+  {
+   "name": "メインホール（5F）",
+   "areaM2": 651,
+   "ceilingM": 7.0,
+   "theater": 601,
+   "school": 324,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "2分割可"
+  },
+  {
+   "name": "メインホールA（5F）",
+   "areaM2": 325,
+   "ceilingM": 7.0,
+   "theater": 280,
+   "school": 168,
+   "ushape": null,
+   "standing": null,
+   "banquet": null
+  },
+  {
+   "name": "メインホールB（5F）",
+   "areaM2": 310,
+   "ceilingM": 7.0,
+   "theater": 234,
+   "school": 138,
+   "ushape": null,
+   "standing": null,
+   "banquet": null
+  },
+  {
+   "name": "展示ホール1（ホワイエ）（5F）",
+   "areaM2": 150,
+   "ceilingM": 4.5,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "隣接するホール全面を利用する場合に利用可"
+  },
+  {
+   "name": "控室1（5F）",
+   "areaM2": 13,
+   "ceilingM": 2.7,
+   "theater": null,
+   "school": null,
+   "ushape": 6,
+   "standing": null,
+   "banquet": null,
+   "note": "隣接するホール全面を利用する場合に利用可"
+  },
+  {
+   "name": "大ホール（5F）",
+   "areaM2": 505,
+   "ceilingM": 4.5,
+   "theater": 430,
+   "school": 291,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "2分割可"
+  },
+  {
+   "name": "大ホールA（5F）",
+   "areaM2": 229,
+   "ceilingM": 4.5,
+   "theater": 165,
+   "school": 111,
+   "ushape": null,
+   "standing": null,
+   "banquet": null
+  },
+  {
+   "name": "大ホールB（5F）",
+   "areaM2": 265,
+   "ceilingM": 4.5,
+   "theater": 180,
+   "school": 120,
+   "ushape": null,
+   "standing": null,
+   "banquet": null
+  },
+  {
+   "name": "展示ホール2（ホワイエ）（5F）",
+   "areaM2": 150,
+   "ceilingM": 4.5,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "隣接するホール全面を利用する場合に利用可"
+  },
+  {
+   "name": "控室2（5F）",
+   "areaM2": 24,
+   "ceilingM": 2.7,
+   "theater": null,
+   "school": null,
+   "ushape": 12,
+   "standing": null,
+   "banquet": null,
+   "note": "隣接するホール全面を利用する場合に利用可"
+  },
+  {
+   "name": "大会議室A（6F）",
+   "areaM2": 160,
+   "ceilingM": 3.5,
+   "theater": 128,
+   "school": 75,
+   "ushape": null,
+   "standing": null,
+   "banquet": null
+  },
+  {
+   "name": "大会議室B（6F）",
+   "areaM2": 199,
+   "ceilingM": 3.5,
+   "theater": 160,
+   "school": 105,
+   "ushape": null,
+   "standing": null,
+   "banquet": null
+  },
+  {
+   "name": "大会議室C（6F）",
+   "areaM2": 147,
+   "ceilingM": 3.5,
+   "theater": 120,
+   "school": 66,
+   "ushape": null,
+   "standing": null,
+   "banquet": null
+  },
+  {
+   "name": "会議室1（6F）",
+   "areaM2": 151,
+   "ceilingM": 3.5,
+   "theater": 106,
+   "school": 63,
+   "ushape": null,
+   "standing": null,
+   "banquet": null
+  },
+  {
+   "name": "会議室2（6F）",
+   "areaM2": 90,
+   "ceilingM": 3.5,
+   "theater": 58,
+   "school": 36,
+   "ushape": null,
+   "standing": null,
+   "banquet": null
+  },
+  {
+   "name": "会議室3（6F）",
+   "areaM2": 62,
+   "ceilingM": 3.5,
+   "theater": 36,
+   "school": 24,
+   "ushape": null,
+   "standing": null,
+   "banquet": null
+  },
+  {
+   "name": "会議室4+5+6（6F）",
+   "areaM2": 94,
+   "ceilingM": 3.5,
+   "theater": 63,
+   "school": 42,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "3分割可"
+  },
+  {
+   "name": "会議室4（6F）",
+   "areaM2": 30,
+   "ceilingM": 3.5,
+   "theater": null,
+   "school": null,
+   "ushape": 18,
+   "standing": null,
+   "banquet": null
+  },
+  {
+   "name": "会議室5（6F）",
+   "areaM2": 32,
+   "ceilingM": 3.5,
+   "theater": null,
+   "school": null,
+   "ushape": 18,
+   "standing": null,
+   "banquet": null
+  },
+  {
+   "name": "会議室6（6F）",
+   "areaM2": 32,
+   "ceilingM": 3.5,
+   "theater": null,
+   "school": null,
+   "ushape": 18,
+   "standing": null,
+   "banquet": null
+  },
+  {
+   "name": "会議室7（6F）",
+   "areaM2": 32,
+   "ceilingM": 3.5,
+   "theater": null,
+   "school": null,
+   "ushape": 8,
+   "standing": null,
+   "banquet": null
+  },
+  {
+   "name": "受付（6F）",
+   "ceilingM": 3.5,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null
+  }
+ ],
+ "roomsSource": "https://www.hmc.conventionhall.jp/facility/",
+ "ops": {
+  "prevDaySetup": {
+   "text": "宅配便・郵便物での事前納品は、事前連絡のうえ承認した場合に限り、ご利用前日のみ受け付ける。",
+   "source": "https://www.hmc.conventionhall.jp/price/"
+  },
+  "loadingHours": {
+   "text": "搬入・搬出にあたっては、事前に経路や車両台数を会場担当者と打ち合わせます。必要な養生を行い、所定箇所の養生が認められない場合は作業を中止することがあります。台車は利用者が用意します。",
+   "source": "https://www.hmc.conventionhall.jp/guide/"
+  },
+  "vehicleRules": {
+   "text": "搬入・搬出用の車両は、荷積み・荷降し作業が終わり次第退出します。長時間の駐車はできません。",
+   "source": "https://www.hmc.conventionhall.jp/guide/"
+  },
+  "waitingRooms": {
+   "text": "5Fに控室1（13㎡、ロの字6名）と控室2（24㎡、ロの字12名）があります。いずれも隣接するホール全面を利用する場合に利用でき、料金は控室1が基本利用料40,000円、控室2が60,000円（税別）です。",
+   "source": "https://www.hmc.conventionhall.jp/facility/"
+  },
+  "catering": {
+   "text": "ケータリング業者は会場の指定です。利用者および会場指定業者以外の飲食物の持ち込みは遠慮するよう案内されています。会場で手配した場合は、開催1週間前までに最終数を連絡します。映像・音響・照明機材を持ち込む場合は別途持込料金がかかります。",
+   "source": "https://www.hmc.conventionhall.jp/price/"
+  }
+ },
+ "documents": [
+  {
+   "title": "リーフレット（令和2年10月版）",
+   "url": "https://www.hmc.conventionhall.jp/download/leaflet_r021007.pdf"
+  },
+  {
+   "title": "利用規約（令和2年10月版）",
+   "url": "https://www.hmc.conventionhall.jp/download/terms_r021001.pdf"
+  },
+  {
+   "title": "アクセスMAP",
+   "url": "https://www.hmc.conventionhall.jp/download/accessmap.pdf"
+  },
+  {
+   "title": "施設利用料金・映像音響機材・会場備品（Webページ）",
+   "url": "https://www.hmc.conventionhall.jp/price/"
+  }
+ ],
+ "checkedAt": "2026-11-07",
+ "lat": 35.65564,
+ "lng": 139.755569,
+ "nearby": {
+  "convenience": [
+   {
+    "name": "セブン-イレブン 世界貿易センタービル南館店",
+    "brand": "セブン-イレブン",
+    "distanceM": 116,
+    "walkMin": 2,
+    "hours": "月〜金 7:00-21:00／土・日・祝 休業",
+    "address": "東京都港区浜松町2-4-1",
+    "verified": true,
+    "source": "https://seven-eleven.areamarker.com/711map/info/483895",
+    "note": "距離は公式の店舗位置で計算。世界貿易センタービル南館の店舗。土日祝は休業"
+   },
+   {
+    "name": "ファミリーマート 浜松町駅前店",
+    "brand": "ファミリーマート",
+    "distanceM": 133,
+    "walkMin": 2,
+    "hours": "24時間営業",
+    "address": "東京都港区浜松町2丁目6-2",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/77276",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "ファミリーマート 浜松町駅北口店",
+    "brand": "ファミリーマート",
+    "distanceM": 142,
+    "walkMin": 2,
+    "hours": "24時間営業",
+    "address": "東京都港区浜松町1-29-6 浜松町セントラルビル1階",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/58043",
+    "note": "距離は公式の店舗位置で計算"
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "アクセア 浜松町店",
+    "brand": "アクセア",
+    "distanceM": 80,
+    "walkMin": 1,
+    "hours": "平日8:00〜22:00／土日祝10:00〜19:00",
+    "address": "東京都港区浜松町2-1-12 VORT浜松町Ⅲ 1F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/entry.html",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "アクセア 御成門店",
+    "brand": "アクセア",
+    "distanceM": 776,
+    "walkMin": 10,
+    "hours": "平日9:00〜20:00／土日祝休み",
+    "address": "東京都港区西新橋3-23-6 白川ビル1F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/entry.html",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "3COINS OOOPS! 新橋駅汐留口店",
+    "brand": "3COINS",
+    "distanceM": 1224,
+    "walkMin": 16,
+    "hours": "平日8:00-22:00／土日祝10:00-21:00",
+    "address": "東京都港区新橋2丁目17-14 JR新橋駅構内B1F",
+    "verified": true,
+    "source": "https://palcloset.storelocator.jp/points/345",
+    "note": "距離は公式の店舗位置で計算。遠め。JR新橋駅構内の店舗（3COINSの駅ナカ業態）"
+   },
+   {
+    "name": "セリア 田町センタービル店",
+    "brand": "セリア",
+    "distanceM": 1290,
+    "walkMin": 17,
+    "hours": "月〜日 10:00-21:00",
+    "address": "東京都港区芝5-34-7 田町センタービル B1F",
+    "verified": true,
+    "source": "https://shop.seria-group.com/seria/info/000002840",
+    "note": "距離は公式の店舗位置で計算。遠め"
+   }
+  ],
+  "donki": [
+   {
+    "name": "ドン・キホーテ 銀座本館",
+    "brand": "ドン・キホーテ",
+    "distanceM": 1482,
+    "walkMin": 19,
+    "hours": "24時間営業",
+    "address": "東京都中央区銀座8-10 銀座ナイン3号館",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=92",
+    "note": "距離は住所の位置で計算。遠め。ドン・キホーテ公式サイトの店舗名は「銀座本館」"
+   },
+   {
+    "name": "ドン・キホーテ 六本木店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 2041,
+    "walkMin": 26,
+    "hours": "24時間営業",
+    "address": "東京都港区六本木3-14-10",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=31",
+    "note": "距離は住所の位置で計算。遠い"
+   }
+  ]
+ },
+ "drinkDelivery": {
+  "available": true
+ },
+ "photo": {
+  "src": "/images/venues/hamamatsucho-convention-hall.jpg",
+  "credit": "© Beryllium Transistor / CC BY-SA 4.0 · Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nippon_Life_Hamamatsucho_Crea_Tower.jpg"
+ }
+}

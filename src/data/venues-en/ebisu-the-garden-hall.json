@@ -1,0 +1,118 @@
+{
+ "slug": "ebisu-the-garden-hall",
+ "name": "The Garden Hall / The Garden Room (Yebisu Garden Place)",
+ "address": "Tokyo 153-0062 1-13-2 Mita, Meguro-ku",
+ "accessSummary": "Ebisu Station (JR Yamanote Line) East Exit: 5 min walk / Ebisu Station (Tokyo Metro Hibiya Line) Exit 1: 7 min walk",
+ "hours": "Basic use 9:00-20:00 (11 hours, including setup and cleanup)",
+ "notice": null,
+ "rooms": [
+  {
+   "name": "The Garden Hall",
+   "note": "Area and ceiling height are approximate. Classroom is 240 seats at 2 per desk, 360 seats at 3 per desk. Foyer about 330㎡, entrance about 170㎡ (as of August 2025)"
+  },
+  {
+   "name": "The Garden Room",
+   "note": "Area and ceiling height are approximate. Classroom is 132 seats at 2 per desk, 198 seats at 3 per desk (as of August 2025)"
+  }
+ ],
+ "ops": {
+  "prevDaySetup": "When basic use or hourly use is used for setup, installation, rehearsal and removal, up to 2 days per event are charged at the \"setup/removal day rate\". Basic use is 9:00-20:00 (11 hours) and includes setup and cleanup time. Before 9:00 or after 20:00, the venue can be used with an overtime extension fee only if prior approval is obtained from the person in charge (Terms of Use set in March 2024). (Source: Terms of Use PDF)",
+  "loadingHours": "Load-in and load-out of construction items, products, equipment and the like use the designated B1F loading entrance. Props are carried in and out after being protected with protective sheets, at the user's responsibility. If construction is carried out inside the venue, consult the person in charge in advance and submit construction drawings, setup drawings and electrical drawings. A meeting with the person in charge is held at least 15 days before the date of use (Terms of Use set in March 2024). (Source: Terms of Use PDF)",
+  "vehicleRules": "Roadside parking and illegal parking on the surrounding roads are prohibited (Terms of Use set in March 2024). (Source: Terms of Use PDF)",
+  "parking": "The paid parking lot of Yebisu Garden Place can be used. Hours 7:00-24:00, 400 yen per 30 minutes. Maximum fee is 4,000 yen for 7:00-24:00 and 1,600 yen for 24:00-7:00 the next day. Vehicles must be 2.1 m or less in height, 6.0 m or less in length, 2.05 m or less in width and 4.0 t or less in weight. Spaces are limited, and on Saturdays, Sundays and holidays, use of other transportation is recommended. (Source: Yebisu Garden Place access page)",
+  "waitingRooms": "The floor plan of The Garden Hall shows dressing rooms, a dressing room lobby and an office. Equipment includes 1 hanger rack in each dressing room and 4 long tables in the dressing rooms (as of February 25, 2026). (Source: The Garden Hall floor plan PDF)",
+  "catering": "Eating and drinking outside designated areas, use of open flame, and cooking without permission are prohibited (Terms of Use set in March 2024). (Source: Terms of Use PDF)"
+ },
+ "documents": [
+  {
+   "title": "Notice of Price Revision (revised January 1, 2025)"
+  },
+  {
+   "title": "Terms of Use (set March 2024)"
+  },
+  {
+   "title": "Equipment Charges (November 2025 / February 2026 edition)"
+  },
+  {
+   "title": "Equipment List (as of February 25, 2026)"
+  },
+  {
+   "title": "The Garden Hall Floor Plan (August 2025)"
+  },
+  {
+   "title": "The Garden Hall Batten Plan (August 2025)"
+  },
+  {
+   "title": "The Garden Hall Theater A (August 2025)"
+  },
+  {
+   "title": "The Garden Hall Theater B (August 2025)"
+  },
+  {
+   "title": "The Garden Hall Theater C (August 2025)"
+  },
+  {
+   "title": "The Garden Hall Entrance (March 2026)"
+  },
+  {
+   "title": "The Garden Room Floor Plan (March 2026)"
+  },
+  {
+   "title": "The Garden Room Batten Plan (March 2026)"
+  },
+  {
+   "title": "The Garden Room Theater (March 2026)"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "FamilyMart Yebisu Garden Place",
+    "hours": "7:00-23:00",
+    "note": "Distance is calculated from the official store location"
+   },
+   {
+    "name": "FamilyMart Kosei Chuo Hospital/S",
+    "hours": "8:00-19:00",
+    "note": "Distance is calculated from the official store location. Short opening hours because the store is inside a hospital (Kosei Chuo Hospital)"
+   },
+   {
+    "name": "7-Eleven Ebisu America Bashi",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location"
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "Kinko's Ebisu",
+    "hours": "Weekdays 9:00-22:00 / Sat, Sun & holidays 9:00-20:00",
+    "note": "Distance is calculated from the address location"
+   },
+   {
+    "name": "Accea Ebisu",
+    "hours": "Weekdays 8:00-20:00, Sat 10:00-19:00 / Closed Sun & holidays",
+    "note": "Distance is calculated from the address location"
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Can Do Peacock Store Ebisu Minami",
+    "hours": "Daily 8:00-23:00",
+    "note": "Distance is calculated from the official store location"
+   },
+   {
+    "name": "Can Do Shirokanedai",
+    "hours": "Daily 10:00-21:00",
+    "note": "Distance is calculated from the official store location. Rather far."
+   }
+  ],
+  "donki": [
+   {
+    "name": "Don Quijote Nakameguro Main Store",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. Far. The store name on the Don Quijote official website is \"Nakameguro Main Store\""
+   }
+  ]
+ },
+ "photoCredit": "© Wpcpey / CC BY 4.0 · Wikimedia Commons"
+}

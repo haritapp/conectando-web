@@ -1,0 +1,125 @@
+{
+ "slug": "happo-en",
+ "name": "HAPPO-EN",
+ "address": "Tokyo 108-8631 1-1-1 Shirokanedai, Minato-ku, Tokyo",
+ "accessSummary": "Shirokanedai Station (Tokyo Metro Namboku Line / Toei Mita Line) Exit 2: 1 min walk",
+ "hours": "Inquiries accepted Weekdays 10:00-19:00 / Sat, Sun & holidays 9:30-19:30",
+ "notice": "The CLUB FLOOR, including STUDIO KOKU on the 5F and HALL HAKU on the 6F, is available only to member companies of CLUB HAPPO-EN for Business.",
+ "rooms": [
+  {
+   "name": "Hakuho-kan",
+   "note": "Honzen (formal individual-tray meal) 150 guests; low-table (zataku) seating 150 guests. A grand hall of 144 tatami mats. A separate page (Meetings) lists school 160 and theater 387."
+  },
+  {
+   "name": "MANGETSU",
+   "note": "Classroom: 272 with 2 per desk, 408 with 3 per desk. Seated buffet 320 guests."
+  },
+  {
+   "name": "MEIGETSU",
+   "note": "Classroom: 112 with 2 per desk, 168 with 3 per desk. Seated buffet 96 guests."
+  },
+  {
+   "name": "FUGETSU"
+  },
+  {
+   "name": "HAKOU",
+   "note": "A separate page (Meetings) lists school 150 and theater 256."
+  },
+  {
+   "name": "KIOTO",
+   "note": "A separate page (Meetings) lists school 105 and theater 160."
+  },
+  {
+   "name": "AKARI"
+  },
+  {
+   "name": "MAKI"
+  },
+  {
+   "name": "TAKENIWA"
+  },
+  {
+   "name": "WASHI",
+   "note": "The Meetings page lists a maximum area of 333㎡, theater 280 and school 120 (2 per desk) / 180 (3 per desk), which differs from the figures in the banquet hall list (theater 400, school 220). Two 147-inch screens, projector, ceiling speakers and internet connection (LAN and wireless) available."
+  }
+ ],
+ "ops": {
+  "waitingRooms": "The whole 4F of the main building is waiting rooms, which can also be used for breakout sessions after a large meeting or for small meetings. The members-only CLUB FLOOR has its own waiting rooms.",
+  "catering": "For banquets and meetings, HAPPO-EN plans and provides the food as well. Meals for allergies, vegan, vegetarian and similar needs are available. Catering is for venues outside HAPPO-EN, and there is a plan for 50 guests or more at 13,200 yen per person (tax and service charge included).",
+  "parking": "There is a parking lot for up to 107 cars, and parking is free of charge. (Answer to an FAQ about family introduction meetings (kaogoshirae) and betrothal gift ceremonies (yuino))",
+  "restaurants": "The grounds have the Japanese restaurant (ryotei) Kochuan (also listed as a banquet room, up to 40 guests), ALL DAY DINING FUDO, Kappou BUTAI and the HAPPO-EN Patisserie."
+ },
+ "documents": [
+  {
+   "title": "Banquet Hall List"
+  },
+  {
+   "title": "Meeting Plan (area and equipment of Washi)"
+  },
+  {
+   "title": "CLUB HAPPO-EN for Business (CLUB FLOOR)"
+  },
+  {
+   "title": "Catering Plan"
+  },
+  {
+   "title": "Facility Information (access and taxi travel times)"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "FamilyMart Takanawa 1-chome",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "Lawson Shirokanedai 2-chome",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "7-Eleven Shirokanedai Ekimae",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location."
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "Accea Takanawa Gateway Sengakuji Ekimae",
+    "hours": "Weekdays open 24 hours (non-stop from 8:00 Monday to 19:00 Saturday) / Sat until 19:00, Sun & holidays 10:00-19:00 (open non-stop on the day before a weekday holiday)",
+    "note": "Distance is calculated from the address location. Rather far."
+   },
+   {
+    "name": "Accea Meguro Ekimae",
+    "hours": "Weekdays 9:00-20:00 / Sat, Sun & holidays 10:00-19:00",
+    "note": "Distance is calculated from the address location. Rather far."
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Can Do Shirokanedai",
+    "hours": "Daily 10:00-21:00",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "Can Do Shirokane",
+    "hours": "Daily 10:00-21:00",
+    "note": "Distance is calculated from the official store location."
+   }
+  ],
+  "donki": [
+   {
+    "name": "Platinum Don Quijote Shirokanedai",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Don Quijote Gotanda Higashiguchi",
+    "hours": "8:00-5:00",
+    "note": "Distance is calculated from the address location. Rather far. The store name on the Don Quijote official website is \"Gotanda Higashiguchi\"."
+   }
+  ]
+ },
+ "photoCredit": "© Suikotei / CC BY-SA 4.0 · Wikimedia Commons"
+}

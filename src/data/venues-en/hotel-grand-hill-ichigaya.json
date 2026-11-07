@@ -1,0 +1,193 @@
+{
+ "slug": "hotel-grand-hill-ichigaya",
+ "name": "Hotel Grand Hill Ichigaya",
+ "address": "Tokyo 162-0845 4-1 Ichigaya-Honmura-cho, Shinjuku-ku, Tokyo",
+ "accessSummary": "JR Chuo-Sobu Line Ichigaya Station: 3 min walk / Toei Shinjuku Line Ichigaya Station Exit 4: 3 min walk / Tokyo Metro Yurakucho Line & Namboku Line Ichigaya Station Exit 7: 3 min walk",
+ "hours": "Conferences 9:00-17:00 / Banquets 9:00-21:00 (surcharge outside these hours). Banquet and conference inquiries accepted 9:00-18:00 (Sat, Sun & holidays 10:00-18:00)",
+ "notice": null,
+ "rooms": [
+  {
+   "name": "East Wing 3F Ruri - Entire Room",
+   "note": "Can be divided into East, Center and West with sliding walls. A classroom layout with 7 rows and 378 seats is also available"
+  },
+  {
+   "name": "East Wing 3F Ruri (East)",
+   "note": null
+  },
+  {
+   "name": "East Wing 3F Ruri (Center)",
+   "note": null
+  },
+  {
+   "name": "East Wing 3F Ruri (West)",
+   "note": null
+  },
+  {
+   "name": "East Wing 3F Sango",
+   "note": "U-shape: 93 guests"
+  },
+  {
+   "name": "East Wing 3F Shinju",
+   "note": null
+  },
+  {
+   "name": "East Wing 3F Hisui",
+   "note": null
+  },
+  {
+   "name": "East Wing 2F Shirakaba - Entire Room",
+   "note": "Can be divided into East and West"
+  },
+  {
+   "name": "East Wing 2F Shirakaba (West)",
+   "note": "U-shape: 93 guests"
+  },
+  {
+   "name": "East Wing 2F Shirakaba (East)",
+   "note": "U-shape: 57 guests"
+  },
+  {
+   "name": "East Wing 2F Fuyou",
+   "note": "U-shape: 72 guests"
+  },
+  {
+   "name": "East Wing 2F Tsuzumi",
+   "note": "U-shape: 30 guests. Biwa and Koto have the same size and capacity"
+  },
+  {
+   "name": "East Wing 2F Biwa",
+   "note": null
+  },
+  {
+   "name": "East Wing 2F Koto",
+   "note": "Can also be used as a waiting room"
+  },
+  {
+   "name": "East Wing B1F Aoi (Japanese-style room)",
+   "note": "Meeting-use fee available (no capacity figure given)"
+  },
+  {
+   "name": "East Wing B1F Katsura (Japanese-style room)",
+   "note": "Meeting-use fee available (no capacity figure given). Raised platform seating (takaza)"
+  },
+  {
+   "name": "East Wing B1F Hagi (Japanese-style room)",
+   "note": "Meeting-use fee available (no capacity figure given). Sunken kotatsu seating"
+  },
+  {
+   "name": "West Wing 3F Pegasus",
+   "note": "Dimensions on the layout drawing are 734 x 1437 cm"
+  },
+  {
+   "name": "West Wing 3F Orion",
+   "note": "Dimensions on the layout drawing are 770 x 1430 cm"
+  }
+ ],
+ "ops": {
+  "parking": "The parking lot is on B1 and B2 with 61 spaces, and advance reservations are not accepted. Vehicle height limit is 2.1 m. Parking hours are 8:00-22:00; the general rate is 330 yen per 20 minutes, with a maximum of 2,000 yen Mon-Sat and 1,400 yen on Sundays and holidays (8:00-22:00; vehicles cannot enter or exit between 22:00 and 8:00). Guests who use a banquet or meeting get 4 hours free.",
+  "waitingRooms": "Koto (East Wing 2F, 40.8㎡) can also be used as a waiting room. Pegasus and Orion (West Wing 3F) can be used as waiting spaces until a banquet starts.",
+  "catering": "The banquet rate applies only when meals of 5,000 yen or more per person are ordered. Vendors designated by the hotel must be used for decorations, flowers, sound, music, banquet companions and gifts; to use a vendor not designated by the hotel, the hotel's prior approval is required. The fee for bringing in equipment such as a PC is 3,300 yen per unit, and the fee for bringing in a hanging sign is 2,200 yen (price list applied from October 1, 2024).",
+  "restaurants": "On East Wing 1F there are Western Dining Salvia and Café & Bar Cattleya, and on East Wing B1F there is Japanese Cuisine Fuji. Lunch is 11:30-14:30 (last order 14:00) and dinner is 17:00-21:00 (last order 20:30)."
+ },
+ "documents": [
+  {
+   "title": "Price List (applied from October 1, 2024)"
+  },
+  {
+   "title": "Terms of Use for Banquet Rooms"
+  },
+  {
+   "title": "Ruri Banquet Room Guide (Layout Drawing)"
+  },
+  {
+   "title": "Sango Banquet Room Guide (Layout Drawing)"
+  },
+  {
+   "title": "Shinju Banquet Room Guide (Layout Drawing)"
+  },
+  {
+   "title": "Hisui Banquet Room Guide (Layout Drawing)"
+  },
+  {
+   "title": "Shirakaba Banquet Room Guide (Layout Drawing)"
+  },
+  {
+   "title": "Fuyou Banquet Room Guide (Layout Drawing)"
+  },
+  {
+   "title": "Tsuzumi, Biwa and Koto Banquet Room Guide (Layout Drawing)"
+  },
+  {
+   "title": "Aoi Banquet Room Guide"
+  },
+  {
+   "title": "Katsura Banquet Room Guide"
+  },
+  {
+   "title": "Hagi Banquet Room Guide"
+  },
+  {
+   "title": "Pegasus Banquet Room Guide (Layout Drawing)"
+  },
+  {
+   "title": "Orion Banquet Room Guide (Layout Drawing)"
+  },
+  {
+   "title": "Plan for Web Meetings and Web Seminars"
+  },
+  {
+   "title": "Self-Locker Terms of Use (established August 28, 2023)"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "FamilyMart Ichigaya-Honmura-cho",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location"
+   },
+   {
+    "name": "FamilyMart Shinjuku Ichigaya Mitsuke",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location"
+   },
+   {
+    "name": "FamilyMart Ichigaya",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location"
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "Accea Ichigaya Hachimancho",
+    "hours": "Weekdays 8:00-22:00 / Closed Sat, Sun & holidays",
+    "note": "Distance is calculated from the address location"
+   },
+   {
+    "name": "Accea Yotsuya",
+    "hours": "Weekdays 8:00-21:00 / Sat 10:00-19:00 / Closed Sun & holidays",
+    "note": "Distance is calculated from the address location"
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "DAISO Kusuri no Fukutaro Ichigaya Yanagicho",
+    "hours": "10:00-22:00",
+    "note": "Distance is calculated from the address location. Rather far."
+   },
+   {
+    "name": "Can Do Iidabashi Lamla",
+    "hours": "Daily 10:00-21:00",
+    "note": "Distance is calculated from the address location. Rather far."
+   }
+  ],
+  "donki": [
+   {
+    "name": "Picasso Akasaka (Don Quijote)",
+    "hours": "7:00-3:00",
+    "note": "Distance is calculated from the address location. Far. A different Don Quijote format (the store name on the Don Quijote official site is \"Picasso Akasaka\")"
+   }
+  ]
+ },
+ "photoCredit": "© Abasaa / Public domain · Wikimedia Commons"
+}

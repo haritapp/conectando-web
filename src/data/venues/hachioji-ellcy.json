@@ -1,0 +1,357 @@
+{
+ "slug": "hachioji-ellcy",
+ "nameJa": "八王子エルシィ",
+ "nameEn": "",
+ "type": "conference",
+ "area": "tama-venues",
+ "address": "〒192-0071 東京都八王子市八日町6-7",
+ "officialUrl": "https://hachiojiellcy.co.jp/",
+ "organizerUrl": "https://hachiojiellcy.co.jp/rental-room",
+ "bizintokyoSlug": "hachioji-ellcy",
+ "accessSummary": "JR中央線「八王子駅」北口 徒歩12分（バス5分）／京王線「京王八王子駅」徒歩15分（バス7分）／中央自動車道 八王子ICより車7分",
+ "notice": null,
+ "hours": null,
+ "rooms": [
+  {
+   "name": "2F各室",
+   "areaM2": 82,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "貸会議室料金表の表記は25坪・収容25名"
+  },
+  {
+   "name": "富士（3F）",
+   "areaM2": 115,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "最大収容人数60名（お部屋案内）。貸会議室料金表は「橘/富士」35坪・35名"
+  },
+  {
+   "name": "桜（3F）",
+   "areaM2": 115,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "最大収容人数60名（お部屋案内）"
+  },
+  {
+   "name": "桃（3F）",
+   "areaM2": 115,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "最大収容人数30名（お部屋案内）"
+  },
+  {
+   "name": "橘（3F）",
+   "areaM2": 115,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "最大収容人数50名（お部屋案内）。貸会議室料金表は「橘/富士」35坪・35名"
+  },
+  {
+   "name": "桜桃（3F）",
+   "areaM2": 230,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "最大収容人数80名（お部屋案内）。貸会議室料金表は60坪（198㎡）・50名"
+  },
+  {
+   "name": "富士桜桃（3F）",
+   "areaM2": 347,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "最大収容人数150名（お部屋案内）。貸会議室料金表は105坪（346㎡）・80名"
+  },
+  {
+   "name": "福禄（3F）",
+   "areaM2": 33,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "最大収容人数20名"
+  },
+  {
+   "name": "鶴亀（3F）",
+   "areaM2": 33,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "最大収容人数20名"
+  },
+  {
+   "name": "椿（4F）",
+   "areaM2": 165,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "最大収容人数80名（お部屋案内）。貸会議室料金表は「椿/梅」50坪（165㎡）・50名"
+  },
+  {
+   "name": "梅（4F）",
+   "areaM2": 165,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "最大収容人数80名（お部屋案内）。貸会議室料金表は「椿/梅」50坪（165㎡）・50名"
+  },
+  {
+   "name": "杉（4F）",
+   "areaM2": 330,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "最大収容人数150名（お部屋案内）。貸会議室料金表は100坪（330㎡）・80名"
+  },
+  {
+   "name": "杉椿（4F）",
+   "areaM2": 495,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "貸会議室料金表の表記は150坪（495㎡）・収容120名"
+  },
+  {
+   "name": "杉椿梅（4F）",
+   "areaM2": 660,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "最大収容人数350名（お部屋案内）。貸会議室料金表は200坪（660㎡）・200名。フロア案内は4F大宴会場を「400名様まで着席可能」と表記"
+  },
+  {
+   "name": "桂楓楠桐（5F）",
+   "areaM2": 119,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "72畳。最大収容人数80名"
+  },
+  {
+   "name": "桔梗（5F）",
+   "areaM2": 10,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "6畳。最大収容人数4名"
+  },
+  {
+   "name": "髙尾庵（5F）",
+   "areaM2": 17,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "10畳。最大収容人数10名"
+  },
+  {
+   "name": "萩皐月（5F）",
+   "areaM2": 20,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "12畳。最大収容人数12名"
+  }
+ ],
+ "roomsSource": "https://hachiojiellcy.co.jp/company/rooms（部屋名・面積・最大収容人数）／https://hachiojiellcy.co.jp/rental-room（貸会議室の料金・収容人数）",
+ "ops": {
+  "loadingHours": {
+   "text": "搬入・搬出の開始・終了時間は打ち合わせどおりに行う。会場の都合で時刻の変更を依頼されることがある。正面からの搬入は禁止で、順路は会場の指示に従う。搬入・搬出・施工の際は、施工担当者・運送会社・車両台数・設営会社名・設営要員数・作業員氏名を会場所定の用紙で事前に届け出る。会場平面図と電気配線施工図は各2部を施工日の10日前までに提出する。",
+   "source": "https://hachiojiellcy.co.jp/guide"
+  },
+  "catering": {
+   "text": "装飾・装花・音響・照明・余興・記念品は会場の指定取扱い会社が手配し、指定会社以外に直接依頼する場合は事前連絡と会場の了承が必要。貸会議室ではお茶・水（250円）、セルフコーヒー（1人550円）、洋食弁当3,240円・中華弁当2,160円（ワンウェイ容器）を用意している。",
+   "source": "https://hachiojiellcy.co.jp/rental-room"
+  },
+  "parking": {
+   "text": "提携駐車場を案内している。宴会・婚礼は1人3,000円以上の利用で4時間無料、レストラン・アップルアイは1会計1,000円以上で2時間無料（利用証明書または駐車券を持参）。飲食を伴わない会議・展示会・セミナー等の利用は有料。大型バス・マイクロバスは相談制で有料駐車場を紹介する。",
+   "source": "https://hachiojiellcy.co.jp/company/access"
+  },
+  "restaurants": {
+   "text": "同じ建物に、B1Fイタリアンレストラン アンシャンテ、1Fロビーラウンジ アップルアイ、5F日本料理 芙蓉・中国料理 龍皇がある。",
+   "source": "https://hachiojiellcy.co.jp/company/floor"
+  }
+ },
+ "documents": [
+  {
+   "title": "貸会議室 料金・オプション（2026年11月7日確認）",
+   "url": "https://hachiojiellcy.co.jp/rental-room"
+  },
+  {
+   "title": "お部屋案内",
+   "url": "https://hachiojiellcy.co.jp/company/rooms"
+  },
+  {
+   "title": "宴会場利用規約",
+   "url": "https://hachiojiellcy.co.jp/guide"
+  },
+  {
+   "title": "サービス・オプション（宴会）",
+   "url": "https://hachiojiellcy.co.jp/banquet/service"
+  },
+  {
+   "title": "フロア・施設案内",
+   "url": "https://hachiojiellcy.co.jp/company/floor"
+  },
+  {
+   "title": "アクセス",
+   "url": "https://hachiojiellcy.co.jp/company/access"
+  }
+ ],
+ "checkedAt": "2026-11-07",
+ "lat": 35.660389,
+ "lng": 139.329071,
+ "nearby": {
+  "convenience": [
+   {
+    "name": "セブン-イレブン 八王子八日町5丁目店",
+    "brand": "セブン-イレブン",
+    "distanceM": 80,
+    "walkMin": 1,
+    "hours": "24時間営業",
+    "address": "東京都八王子市八日町5番15",
+    "verified": true,
+    "source": "https://seven-eleven.areamarker.com/711map/info/425923",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "ファミリーマート 八王子北大通り店",
+    "brand": "ファミリーマート",
+    "distanceM": 341,
+    "walkMin": 5,
+    "hours": "24時間営業",
+    "address": "東京都八王子市大横町12番10",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/57132",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "セブン-イレブン 八王子八日町店",
+    "brand": "セブン-イレブン",
+    "distanceM": 398,
+    "walkMin": 5,
+    "hours": "24時間営業",
+    "address": "東京都八王子市八日町1-16",
+    "verified": true,
+    "source": "https://seven-eleven.areamarker.com/711map/info/517358",
+    "note": "距離は公式の店舗位置で計算"
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "アクセア 京王八王子駅前店",
+    "brand": "アクセア",
+    "distanceM": 1219,
+    "walkMin": 16,
+    "hours": "平日9:00〜20:00／土日祝休み",
+    "address": "東京都八王子市明神町3-20-6 八王子ファーストスクエア1F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/entry.html",
+    "note": "距離は住所の位置で計算。遠め。平日のみ営業（土日祝休み）"
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "DAISO ドン・キホーテ八王子駅前店",
+    "brand": "ダイソー",
+    "distanceM": 786,
+    "walkMin": 10,
+    "hours": "9:00-21:00",
+    "address": "東京都八王子市中町1-3 ドン・キホーテ八王子駅前店7階",
+    "verified": true,
+    "source": "https://www.daiso-sangyo.co.jp/shop/detail/001638",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "Seria 八王子オクトーレ店",
+    "brand": "セリア",
+    "distanceM": 932,
+    "walkMin": 12,
+    "hours": "月〜日 10:00-20:00",
+    "address": "東京都八王子市旭町9-1八王子オクトーレ 5F",
+    "verified": true,
+    "source": "https://shop.seria-group.com/seria/info/000001710",
+    "note": "距離は公式の店舗位置で計算"
+   }
+  ],
+  "donki": [
+   {
+    "name": "ドン・キホーテ 八王子駅前店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 788,
+    "walkMin": 10,
+    "hours": "24時間営業",
+    "address": "東京都八王子市中町1-3",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=220",
+    "note": "距離は住所の位置で計算。ドン・キホーテ公式サイトの店舗名は「八王子駅前店」"
+   }
+  ]
+ },
+ "drinkDelivery": {
+  "available": false
+ },
+ "photo": {
+  "src": "/images/venues/hachioji-ellcy.jpg",
+  "credit": "最寄りのJR八王子駅北口のイメージ写真です（会場の建物ではありません）。© 103momo / CC BY-SA 3.0 · Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hachioji_Station_North_2014.jpg"
+ }
+}

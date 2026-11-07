@@ -1,0 +1,102 @@
+{
+ "slug": "dai-ichi-hotel-tokyo",
+ "name": "Dai-ichi Hotel Tokyo",
+ "address": "Tokyo 105-8621 1-2-6 Shimbashi, Minato-ku",
+ "accessSummary": "Shimbashi Station (JR / Tokyo Metro Ginza Line): about 2 min walk (directly connected via the Uchisaiwaicho underground walkway) / Shimbashi Station (Toei Asakusa Line / Yurikamome): about 5 min walk / Uchisaiwaicho Station (Toei Mita Line): about 3 min walk / Shiodome Station (Toei Oedo Line): about 10 min walk",
+ "hours": null,
+ "notice": null,
+ "rooms": [
+  {
+   "name": "La Rose (5F)",
+   "note": "Can be divided into 2 (I and II). When divided, each part is 291㎡ with a 7.2 m ceiling: theater 260 / classroom 162 / standing buffet 200 / seated dinner 140. Seated buffet: 260 for the whole room, 110 when divided"
+  },
+  {
+   "name": "Primavera (4F)",
+   "note": "Can be divided into 2 (I and II) by a movable wall. When divided, each part is 240㎡ with a 3.4 m ceiling: theater 200 / classroom 126 / standing buffet 120 / seated dinner 110. Seated buffet: 200 for the whole room, 80 when divided"
+  },
+  {
+   "name": "Lumiere (21F)",
+   "note": "Banquet hall on the top floor. Seated buffet: 64. Foyer and anteroom available"
+  },
+  {
+   "name": "Flora (4F)",
+   "note": "Can be divided into 2 (E and W). When divided, each part is 60㎡ with a 2.9 m ceiling: theater 50 / classroom 24 / standing 25 / seated dinner 20"
+  },
+  {
+   "name": "Cosmos / Cyclamen / Cattleya (4F)",
+   "note": "All 3 rooms are the same size (60㎡ each). The capacities in the table are per room"
+  },
+  {
+   "name": "Margaret (4F)",
+   "note": "The official table gives capacities for banquet and party use only (seated dinner 25 / standing 40)"
+  }
+ ],
+ "ops": {
+  "parking": "The hotel's underground parking lot (Times Dai-ichi Hotel Tokyo) has 74 spaces (including contract vehicles). The rate is 2,200 yen per night (tax included), with 2 hours free for restaurant use of 3,000 yen or more. Advance reservations are not accepted; if the lot is full, use a nearby paid parking lot. A parking lot in a neighboring building (Times Shinkobashi Building) is also listed.",
+  "restaurants": "The hotel has restaurants. On B1F: World Buffet L'ETOILE, Yakitori Restaurant ISEHIRO, Unagi Restaurant KANDA KIKUKAWA and ISSEKI SANCHO. On 2F: French Restaurant ENCHANTÉ, Japanese Restaurant AKASHI, Café Bar TRAX and Chinese restaurant BANKODEN. On 21F: Teppan-yaki Restaurant ITTETSU. On 1F: Patisserie RUE DES BRIQUES and the LOBBY LOUNGE."
+ },
+ "documents": [
+  {
+   "title": "Banquet Brochure (digital edition)"
+  },
+  {
+   "title": "Catering Service Guide"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "FamilyMart Fresh Inn Shimbashi",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the location in the official store list (the address location falls in the same city block as the venue)."
+   },
+   {
+    "name": "FamilyMart Urbannet Uchisaiwaicho Building/S",
+    "hours": "7:30-23:00",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "FamilyMart Shimbashi Sotobori-dori",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "Accea Shimbashi Station Ginza Exit",
+    "hours": "Weekdays open 24 hours (non-stop from 8:00 on Monday morning to 19:00 on Saturday evening) / Sat until 19:00, Sun & holidays 10:00-19:00",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Accea Shimbashi Uchisaiwaicho (formerly Shimbashi)",
+    "hours": "Weekdays 9:00-20:00 / Closed Sat, Sun & holidays",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "3COINS OOOPS! Shimbashi Station Shiodome Exit",
+    "hours": "Weekdays 8:00-22:00 / Sat, Sun & holidays 10:00-21:00",
+    "note": "Distance is calculated from the store's official location. \"OOOPS!\" is an in-station store format listed in the official 3COINS store list."
+   },
+   {
+    "name": "Seria Exit Melsa Ginza",
+    "hours": "Daily 11:00-20:00",
+    "note": "Distance is calculated from the store's official location."
+   }
+  ],
+  "donki": [
+   {
+    "name": "Don Quijote Ginza Honkan (Ginza Nine Building 3)",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Picasso Akasaka (Don Quijote)",
+    "hours": "7:00-3:00",
+    "note": "Distance is calculated from the address location. Far. A different Don Quijote store format (the store name on the official site is \"Picasso Akasaka\" (ピカソ赤坂店))."
+   }
+  ]
+ },
+ "photoCredit": "Image of the Hibiya Exit of JR Shimbashi Station, not the venue building. © PRiMENON / CC BY-SA 3.0 · Wikimedia Commons"
+}

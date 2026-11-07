@@ -1,0 +1,146 @@
+{
+ "slug": "minato-libra-hall",
+ "name": "Minato City Gender Equality Center \"Libra\"",
+ "address": "Tokyo 105-0023 Minato Park Shibaura 2F, 1-16-1 Shibaura, Minato-ku",
+ "accessSummary": "JR Tamachi Station East Exit (Shibaura Exit) pedestrian deck: 5 min walk / Toei Asakusa Line & Mita Line Mita Station Exit A6: 6 min walk",
+ "hours": "Open 9:00-21:30 (counter reception 9:00-20:00). Closed Dec 29-Jan 3 (year-end and New Year holidays)",
+ "notice": "Rooms are a Minato City public facility that requires prior registration. Use for profit, for courses or seminars that recruit participants, and for activities involving companies or other for-profit organizations is not permitted.",
+ "rooms": [
+  {
+   "name": "Libra Hall",
+   "note": "Capacity 208 (including 4 wheelchair seats). The area includes the foyer, dressing rooms, storage, etc.; the hall interior alone is about 230㎡. Seating is retractable (two settings: 192 seats and 96 seats; 12 additional seats possible); the normal rental setup is a flat floor. About 90 folding chairs (as of December 2025)"
+  },
+  {
+   "name": "Japanese-style Room 1 (Tea Room)",
+   "note": "Capacity 10. Use is limited to tea ceremony, kimono dressing and etiquette"
+  },
+  {
+   "name": "Japanese-style Room 2 (Large Hall)",
+   "note": "Capacity 30"
+  },
+  {
+   "name": "Japanese-style Rooms 1 & 2",
+   "note": "Capacity 40"
+  },
+  {
+   "name": "Study Room A (sound-absorbing)",
+   "note": "Capacity 46"
+  },
+  {
+   "name": "Study Room B (sound-absorbing)",
+   "note": "Capacity 36"
+  },
+  {
+   "name": "Study Room C",
+   "note": "Capacity 55. Roll-up screen (4:3, about 130 inches)"
+  },
+  {
+   "name": "Study Room D1",
+   "note": "Capacity 15"
+  },
+  {
+   "name": "Study Room D2",
+   "note": "Capacity 12"
+  },
+  {
+   "name": "Study Room E",
+   "note": "Capacity 24"
+  },
+  {
+   "name": "Creative Expression Room (Zokei Hyogen-shitsu)",
+   "note": "Capacity 18"
+  },
+  {
+   "name": "Cooking Room",
+   "note": "Capacity 30"
+  },
+  {
+   "name": "Creative Expression Room + Cooking Room",
+   "note": "Capacity 48"
+  },
+  {
+   "name": "Multipurpose Room 1",
+   "note": "Capacity 20"
+  },
+  {
+   "name": "Multipurpose Room 2",
+   "note": "Capacity 18"
+  },
+  {
+   "name": "Multipurpose Rooms 1 & 2",
+   "note": "Capacity 38"
+  }
+ ],
+ "ops": {
+  "loadingHours": "Advance receipt of packages is not offered. Setup and cleanup for facility use must be done within the approved usage time. If you bring in equipment, consult the staff in advance. Dangerous items and large baggage cannot be brought in.",
+  "parking": "Use the underground parking lot of Minato Park Shibaura. The first 2 hours are free (3 hours for vehicles carrying a person with a disability), and by presenting the parking ticket at the counter you can get it stamped as proof of facility use. Hours are 7:00-23:00, and vehicles cannot enter or exit outside these hours. Charges apply after the free time.",
+  "waitingRooms": "Libra Hall has 2 dressing rooms (a 6-person room and a 4-person room) and 1 sound and lighting control room. The lighting control room is not accessible under normal rental.",
+  "catering": "Catering is not allowed. Rooms where eating and drinking is allowed include the study rooms, multipurpose rooms, Japanese-style rooms, cooking room, creative expression room, and the dressing rooms of Libra Hall. Eating and drinking is not allowed inside Libra Hall, the hall foyer, the work room, etc. Alcohol is not allowed. Group registration or facility use for the purpose of eating and drinking is also not allowed (except the cooking room)."
+ },
+ "documents": [
+  {
+   "title": "Libra Hall Specifications (PDF)"
+  },
+  {
+   "title": "Facility Usage Fees"
+  },
+  {
+   "title": "Floor Guide"
+  },
+  {
+   "title": "Facility Usage Guide (terms of use, registration types, cancellation, precautions)"
+  },
+  {
+   "title": "Document Downloads (registration forms, notification form for presentations, lectures and other events)"
+  },
+  {
+   "title": "FAQ"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "Lawson H Minato Park Shibaura",
+    "hours": "7:00-23:00",
+    "note": "Distance is calculated from the store's official location. On the 1st floor of the same building as the venue (Minato Park Shibaura)"
+   },
+   {
+    "name": "7-Eleven Minato-ku Shibaura 1-chome",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the store's official location."
+   },
+   {
+    "name": "FamilyMart Musubu Tamachi",
+    "hours": "7:00-23:00",
+    "note": "Distance is calculated from the store's official location."
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "Kinko's Tamachi",
+    "hours": "Weekdays 10:00-20:00 / Closed Sat, Sun & holidays",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Accea Tamachi",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Seria Tamachi Center Building",
+    "hours": "Daily 10:00-21:00",
+    "note": "Distance is calculated from the store's official location."
+   }
+  ],
+  "donki": [
+   {
+    "name": "Don Quijote Roppongi",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. Far (about 30 min walk)."
+   }
+  ]
+ },
+ "photoCredit": "Image of the nearest station exit (Tamachi Station, Shibaura Exit), not the venue building. © Moriryota / CC BY-SA 4.0 · Wikimedia Commons"
+}

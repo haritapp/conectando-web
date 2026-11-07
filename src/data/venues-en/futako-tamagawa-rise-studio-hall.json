@@ -1,0 +1,91 @@
+{
+ "slug": "futako-tamagawa-rise-studio-hall",
+ "name": "Futako-Tamagawa Rise Studio & Hall",
+ "address": "Tokyo 158-0094 Futako-Tamagawa Rise 2F, 1-14-1 Tamagawa, Setagaya-ku",
+ "accessSummary": "Futako-Tamagawa Station (Tokyu Den-en-toshi Line / Oimachi Line): 4 min walk",
+ "hours": "Basic use is 12 hours within 8:00-22:00 (including setup, installation, removal and rehearsal time). From the 13th hour, an overtime extension applies (60,000 yen per hour, excluding tax).",
+ "notice": null,
+ "rooms": [
+  {
+   "name": "Studio & Hall",
+   "note": "Effective ceiling height about 5.5 m. Floor load capacity 500 kg/㎡. The sample layout drawings show about 340 seats in theater style and about 240 seats in classroom style."
+  }
+ ],
+ "ops": {
+  "prevDaySetup": "On days used for setup, installation, removal and rehearsal, up to 2 days per event are charged at the setup/removal work day rate (including rehearsal use). The rate is 270,000 yen on weekdays (297,000 yen including tax) and 390,000 yen on Saturdays, Sundays and holidays (429,000 yen including tax), which is 0.6 times the event day rate. From the 3rd day, the event day rate applies. Usage time is 12 hours within 8:00-22:00 and includes setup and removal time. (Price list as of March 2026, Terms of Use April 2026 edition) (Source: Price list PDF)",
+  "loadingHours": "Setup, installation and removal time is included in the usage time (12 hours within 8:00-22:00). If use starts at 7:00 or earlier, or exit is after 23:00, the staff's late-night/early-morning transportation costs or accommodation costs are charged. Load-in and load-out use the designated loading entrance, after consulting the facility manager in advance, and are carried out with a facility representative present. A meeting is held at least 30 days before the first day of use, and documents to be submitted in advance are due at least 2 weeks before. Work by outside contractors is carried out under the direction of a facility representative, and a fee for the attendant's labor applies. The load-in/load-out area and elevator require protective covering, and their use may be adjusted depending on events at other facilities in the building. (Terms of Use April 2026 edition) (Source: Terms of Use PDF)",
+  "vehicleRules": "Roadside parking and illegal parking on the surrounding roads are refused. Use of the parking lot, the load-in/load-out area and the load-in/load-out elevator may be adjusted depending on events at other facilities within Futako-Tamagawa Rise. (Terms of Use April 2026 edition) (Source: Terms of Use PDF)",
+  "parking": "An additional parking service ticket is 545 yen per hour (600 yen including tax). Up to 24 hours (up to 48 hours for consecutive-day use) are free. (Price list as of March 2026) (Source: Price list PDF)",
+  "waitingRooms": "3 dressing rooms (A about 13㎡, B about 12㎡, C about 15㎡) and 1 staff room (about 12㎡). Dressing rooms are 7,500 yen per room per day (8,250 yen including tax); the staff room is free. Dressing rooms have a full-length mirror and a whiteboard permanently installed. (Price list as of March 2026) (Source: Price list PDF)",
+  "catering": "Catering arrangements are a paid option and are quoted according to the event content. The weekday-only party plan for December 2026 to January 2027 is 170,000 yen (excluding tax) for 1 day of use, with catering charged separately, and the caterer is chosen from the operator's designated vendors. (Source: Party plan PDF)"
+ },
+ "documents": [
+  {
+   "title": "Terms of Use (April 2026 edition)"
+  },
+  {
+   "title": "Service Menu (price menu)"
+  },
+  {
+   "title": "Price List (as of March 2026)"
+  },
+  {
+   "title": "Equipment and Fixtures Price List (as of March 2026)"
+  },
+  {
+   "title": "Hall Floor Plan"
+  },
+  {
+   "title": "Hall Cross-Section (long side)"
+  },
+  {
+   "title": "Hall Cross-Section (short side)"
+  },
+  {
+   "title": "Sample Layout Drawing: Theater Style (about 340 seats)"
+  },
+  {
+   "title": "Sample Layout Drawing: Classroom Style (about 240 seats)"
+  },
+  {
+   "title": "Entertainment Event Plan (November 2026 to February 23, 2027)"
+  },
+  {
+   "title": "Party Plan (December 2026 to January 2027, weekdays only)"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "LAWSON+toks Futako-Tamagawa Rise",
+    "hours": "6:30-23:00",
+    "note": "Distance is calculated from the official store location. The store name in Lawson's official notation is \"LAWSON+toks Futako-Tamagawa Rise\""
+   },
+   {
+    "name": "FamilyMart Famima Futako-Tamagawa",
+    "hours": "7:00-24:00",
+    "note": "Distance is calculated from the official store location"
+   },
+   {
+    "name": "7-Eleven Setagaya Tamagawa",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location"
+   }
+  ],
+  "copyshop": [],
+  "hundredYen": [
+   {
+    "name": "DAISO Futako-Tamagawa Rise SC",
+    "hours": "10:00-21:00",
+    "note": "Distance is calculated from the address location. There is also \"3COINS Futako-Tamagawa Rise\" (10:00-20:00, per PAL's official list) in the same Futako-Tamagawa Rise"
+   },
+   {
+    "name": "Standard Products Futako-Tamagawa Rise Shopping Center",
+    "hours": "10:00-20:00",
+    "note": "Distance is calculated from the address location. A DAISO group store"
+   }
+  ],
+  "donki": []
+ },
+ "photoCredit": "© Souka Kinmei / CC0 · Wikimedia Commons"
+}

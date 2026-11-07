@@ -1,0 +1,201 @@
+{
+ "slug": "arcadia-ichigaya",
+ "name": "Arcadia Ichigaya (Shigaku Kaikan)",
+ "address": "Tokyo 102-0073 4-2-25 Kudan-kita, Chiyoda-ku",
+ "accessSummary": "JR Chuo Line / Sobu Line (Local) Ichigaya Station: 2 min walk / Tokyo Metro Yurakucho Line / Namboku Line Ichigaya Station (Exit 1 or A1): 2 min walk / Toei Shinjuku Line Ichigaya Station (Exit A1 or A4): 2 min walk",
+ "hours": null,
+ "notice": null,
+ "rooms": [
+  {
+   "name": "3F Fuji",
+   "note": "Ceiling height exceeds 6 m (venue guide page). With the lobby open: classroom 500, theater 700, standing 500, seated 360, with a 20% room-fee surcharge. For banquets (food from 5,830 yen per person), the room fee is discounted by 50%"
+  },
+  {
+   "name": "3F Fuji (East) / (West)",
+   "note": "The \"(East) / (West)\" row of the table (area is for one room)"
+  },
+  {
+   "name": "3F Amagi / Takao",
+   "note": "U-shape is a face-to-face seating layout"
+  },
+  {
+   "name": "4F Asuka",
+   "note": null
+  },
+  {
+   "name": "4F Asuka (East) / (West)",
+   "note": "U-shape is a face-to-face seating layout (the \"(East) / (West)\" row of the table)"
+  },
+  {
+   "name": "4F Hoo",
+   "note": null
+  },
+  {
+   "name": "4F Hoo (East) / (West)",
+   "note": "The \"(East) / (West)\" row of the table"
+  },
+  {
+   "name": "5F Akagi",
+   "note": null
+  },
+  {
+   "name": "5F Akagi (East) / (West)",
+   "note": "U-shape is a face-to-face seating layout (the \"(East) / (West)\" row of the table)"
+  },
+  {
+   "name": "5F Daisetsu / Hotaka",
+   "note": null
+  },
+  {
+   "name": "5F Daisetsu / Hotaka (East) / (West)",
+   "note": "The \"(East) / (West)\" row of the table"
+  },
+  {
+   "name": "6F Ibuki",
+   "note": null
+  },
+  {
+   "name": "6F Ibuki (East) / (Southwest)",
+   "note": "As written in the row of the table"
+  },
+  {
+   "name": "6F Ibuki (East-West)",
+   "note": "As written in the row of the table"
+  },
+  {
+   "name": "6F Ibuki (West) / (South)",
+   "note": "U-shape is a face-to-face seating layout (as written in the row of the table)"
+  },
+  {
+   "name": "6F Aso / Kirishima",
+   "note": null
+  },
+  {
+   "name": "6F Aso / Kirishima (East) / (West)",
+   "note": "The \"(East) / (West)\" row of the table"
+  },
+  {
+   "name": "6F Kifune",
+   "note": null
+  },
+  {
+   "name": "7F Shirane",
+   "note": null
+  },
+  {
+   "name": "7F Myoko",
+   "note": null
+  },
+  {
+   "name": "7F Hakusan",
+   "note": "U-shape is a face-to-face seating layout"
+  },
+  {
+   "name": "7F Kumotori",
+   "note": null
+  },
+  {
+   "name": "7F Yoshino / Chokai",
+   "note": null
+  },
+  {
+   "name": "7F Kotohira",
+   "note": null
+  }
+ ],
+ "ops": {
+  "loadingHours": "Packages for the venue should be sent to \"Arcadia Ichigaya, Procurement Section\" (4-2-25 Kudan-kita, Chiyoda-ku, Tokyo 102-0073), with the banquet or meeting name and the event date written on them. Cash-on-delivery is not accepted for accommodation-related packages. Use of the venue, from setup to teardown, must be completed within the contracted time, and an extension fee is charged if the set time is exceeded. If load-in and load-out for setup and the like fall outside the time slots in the price list (morning 9:00-12:00 / afternoon 13:00-16:30 / evening 17:30-21:00), a separate usage fee is charged. (Terms revised April 1, 2021)",
+  "vehicleRules": "The road in front of the hall is a no-parking zone. Microbuses and large buses cannot enter the parking lot.",
+  "parking": "Underground parking lot operated by Times24 Co., Ltd. (named \"Times Arcadia Ichigaya Shigaku Kaikan\"). Open 7:00-23:00; the shutter is closed from 23:00 to 7:00 the next day and vehicles cannot enter or leave. Height limit 2.1 m. The fee is 330 yen (tax included) per 15 minutes. The maximum fee and the discount for hall users are given in the official PDF (August 2026 version). There is no parking space for motorcycles.",
+  "catering": "Outside food and drink may not be brought in. Signs, decorations, additional power supply, additional lighting, music, entertainment, companions and the like are in principle arranged by the hall through its designated vendors. If you use a vendor other than the designated ones, you must notify the hall in advance and hold a meeting, and a corkage/bring-in fee may be charged depending on the content.",
+  "restaurants": "The restaurant floor on the 2nd floor has 4 outlets: the French restaurant Fossé, the Chinese restaurant Sui, the Edomae eel restaurant Unasei, and the lounge Cerisaie."
+ },
+ "documents": [
+  {
+   "title": "Rates and Facilities (room fees and equipment fees for meeting and banquet rooms)"
+  },
+  {
+   "title": "Terms for Meetings, Banquets and Events (revised April 1, 2021)"
+  },
+  {
+   "title": "3F Meeting and Banquet Room Floor Plan"
+  },
+  {
+   "title": "4F Meeting and Banquet Room Floor Plan"
+  },
+  {
+   "title": "5F Meeting and Banquet Room Floor Plan"
+  },
+  {
+   "title": "6F Meeting and Banquet Room Floor Plan"
+  },
+  {
+   "title": "7F Meeting and Banquet Room Floor Plan"
+  },
+  {
+   "title": "2F Restaurant Floor Plan (2024 version)"
+  },
+  {
+   "title": "Hall Location Map (July 2025 version)"
+  },
+  {
+   "title": "Parking Rate Table (Times, August 2026 version)"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "FamilyMart Ichigaya",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "FamilyMart Shinjuku Ichigaya Mitsuke",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "FamilyMart Ichigaya Tamachi",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "Accea Ichigaya Hachimancho",
+    "hours": "Weekdays 8:00-22:00 / Closed Sat, Sun & holidays",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Accea Ichigaya",
+    "hours": "Weekdays 8:00-22:00 / Sat 10:00-19:00 / Closed Sun & holidays",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Can Do Iidabashi Lamla",
+    "hours": "Daily 10:00-21:00",
+    "note": "Distance is calculated from the address location. Rather far."
+   },
+   {
+    "name": "3COINS Iidabashi Metropia",
+    "hours": "Weekdays 8:00-21:00 / Sat, Sun & holidays 9:00-21:00",
+    "note": "Distance is calculated from the store's official location. Rather far. Located in front of the ticket gates at Iidabashi Station (small store)."
+   }
+  ],
+  "donki": [
+   {
+    "name": "Picasso Akasaka (Don Quijote)",
+    "hours": "7:00-3:00",
+    "note": "Distance is calculated from the address location. Far. A different Don Quijote store format (the store name on the official website is \"Picasso Akasaka\" (ピカソ赤坂店))."
+   },
+   {
+    "name": "Don Quijote Korakuen",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. Far. The store name on the Don Quijote official website is \"Korakuen\" (後楽園店)."
+   }
+  ]
+ },
+ "photoCredit": "© Abasaa / Public domain · Wikimedia Commons"
+}

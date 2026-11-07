@@ -1,0 +1,368 @@
+{
+ "slug": "hotel-emisia-tokyo-tachikawa",
+ "nameJa": "ホテルエミシア東京立川",
+ "nameEn": "HOTEL emisia TOKYO TACHIKAWA",
+ "type": "hotel",
+ "area": "tama-venues",
+ "address": "〒190-0012 東京都立川市曙町2-14-16",
+ "officialUrl": "https://www.hotel-emisia.com/tokyotachikawa/",
+ "organizerUrl": "https://www.hotel-emisia.com/tokyotachikawa/party_meeting/",
+ "bizintokyoSlug": "hotel-emisia-tokyo-tachikawa",
+ "accessSummary": "JR立川駅北口 徒歩約2分",
+ "notice": null,
+ "hours": "宴会場の営業時間は午前9時〜午後9時。上記以外の早朝・深夜は相談（2026年1月版 会場施設・収容人数・料金表）",
+ "rooms": [
+  {
+   "name": "4F カルログランデ",
+   "areaM2": 540,
+   "ceilingM": 3.6,
+   "theater": 600,
+   "school": 336,
+   "ushape": 126,
+   "standing": 500,
+   "banquet": 420,
+   "note": "着席の立着食（立食と着席の併用）は336名"
+  },
+  {
+   "name": "4F スカーラ",
+   "areaM2": 260,
+   "ceilingM": 3.6,
+   "theater": 270,
+   "school": 120,
+   "ushape": 78,
+   "standing": 150,
+   "banquet": 130,
+   "note": "立着食は100名"
+  },
+  {
+   "name": "4F カルロ",
+   "areaM2": 287,
+   "ceilingM": 3.6,
+   "theater": 330,
+   "school": 180,
+   "ushape": 90,
+   "standing": 200,
+   "banquet": 180,
+   "note": "立着食は140名"
+  },
+  {
+   "name": "4F ルーナ",
+   "areaM2": 43,
+   "ceilingM": 2.7,
+   "theater": 40,
+   "school": 18,
+   "ushape": 18,
+   "standing": 25,
+   "banquet": 20
+  },
+  {
+   "name": "4F ステラ",
+   "areaM2": 43,
+   "ceilingM": 2.7,
+   "theater": 32,
+   "school": 18,
+   "ushape": 18,
+   "standing": 25,
+   "banquet": 20
+  },
+  {
+   "name": "3F サンマルコグランデ",
+   "areaM2": 280,
+   "ceilingM": 2.7,
+   "theater": 330,
+   "school": 180,
+   "ushape": 78,
+   "standing": 200,
+   "banquet": 180,
+   "note": "立着食は140名"
+  },
+  {
+   "name": "3F ベリタ",
+   "areaM2": 147,
+   "ceilingM": 2.7,
+   "theater": 128,
+   "school": 72,
+   "ushape": 48,
+   "standing": 80,
+   "banquet": 80,
+   "note": "立着食は60名"
+  },
+  {
+   "name": "3F サンマルコ",
+   "areaM2": 140,
+   "ceilingM": 2.7,
+   "theater": 128,
+   "school": 72,
+   "ushape": 48,
+   "standing": 80,
+   "banquet": 80,
+   "note": "立着食は60名"
+  },
+  {
+   "name": "3F カトレア／ダーリア／ローザ",
+   "areaM2": 56,
+   "ceilingM": 2.7,
+   "theater": 50,
+   "school": 27,
+   "ushape": 24,
+   "standing": 30,
+   "banquet": 30,
+   "note": "同じ広さの3室。表の数字は1室あたり"
+  },
+  {
+   "name": "3F ソリッソ",
+   "areaM2": 84,
+   "ceilingM": 2.7,
+   "theater": 70,
+   "school": 45,
+   "ushape": 36,
+   "standing": 45,
+   "banquet": 40,
+   "note": "立着食は30名"
+  },
+  {
+   "name": "3F フェリーチェ",
+   "areaM2": 65,
+   "ceilingM": 2.7,
+   "theater": 64,
+   "school": 30,
+   "ushape": 30,
+   "standing": 30,
+   "banquet": 30
+  },
+  {
+   "name": "2F キャンティグランデ",
+   "areaM2": 280,
+   "ceilingM": 2.7,
+   "theater": 330,
+   "school": 180,
+   "ushape": 78,
+   "standing": 200,
+   "banquet": 180,
+   "note": "立着食は140名"
+  },
+  {
+   "name": "2F ソアーベ",
+   "areaM2": 147,
+   "ceilingM": 2.7,
+   "theater": 128,
+   "school": 72,
+   "ushape": 48,
+   "standing": 80,
+   "banquet": 80,
+   "note": "立着食は60名"
+  },
+  {
+   "name": "2F キャンティ",
+   "areaM2": 140,
+   "ceilingM": 2.7,
+   "theater": 128,
+   "school": 72,
+   "ushape": 48,
+   "standing": 80,
+   "banquet": 80,
+   "note": "立着食は60名"
+  },
+  {
+   "name": "2F カサノバグランデ",
+   "areaM2": 168,
+   "ceilingM": 2.7,
+   "theater": 160,
+   "school": 108,
+   "ushape": 60,
+   "standing": 100,
+   "banquet": 100,
+   "note": "立着食は70名"
+  },
+  {
+   "name": "2F 小宴会場2部屋",
+   "areaM2": 112,
+   "ceilingM": 2.7,
+   "theater": 90,
+   "school": 63,
+   "ushape": 42,
+   "standing": 60,
+   "banquet": 60,
+   "note": "立着食は50名"
+  },
+  {
+   "name": "2F カサノバ／カステリーナ／ミシェル",
+   "areaM2": 56,
+   "ceilingM": 2.7,
+   "theater": 50,
+   "school": 27,
+   "ushape": 24,
+   "standing": 30,
+   "banquet": 30,
+   "note": "同じ広さの3室。表の数字は1室あたり"
+  },
+  {
+   "name": "2F アマレット",
+   "areaM2": 84,
+   "ceilingM": 2.7,
+   "theater": 70,
+   "school": 45,
+   "ushape": 36,
+   "standing": 45,
+   "banquet": 40,
+   "note": "立着食は30名"
+  },
+  {
+   "name": "1F ソーレ",
+   "areaM2": 56,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "会議室専用。飲食の提供対象外。レイアウトは担当者に直接問い合わせ"
+  }
+ ],
+ "roomsSource": "https://www.hotel-emisia.com/tokyotachikawa/party_meeting/images/banquet_fact_sheet.pdf",
+ "ops": {
+  "parking": {
+   "text": "ホテル地下の機械式普通車専用駐車場。先着順で予約は受け付けていない。収容規格は高さ1.55m・長さ4.8m・幅1.75mで、規格外の車と満車のときは近隣の有料駐車場を使う。料金は1時間400円、以降30分ごとに200円。営業時間は9:00〜22:00で時間外の入出庫はできない。宴会は3時間サービス（会議利用は対象外）。",
+   "source": "https://www.hotel-emisia.com/tokyotachikawa/access/"
+  },
+  "catering": {
+   "text": "宴会の装飾・飾花・音響・照明・余興などはホテルが手配する。主催者が直接手配する場合は、事前にホテルの了解が必要。ホテルの了解のもとで主催者が依頼した業者の機材・材料の搬入搬出は、ホテルが業者に指示する（宴会場ご利用に関する規約）。",
+   "source": "https://www.hotel-emisia.com/tokyotachikawa/party_meeting/images/clause.pdf"
+  },
+  "restaurants": {
+   "text": "最上階のスカイレストラン ハレアスがある。営業はモーニング6:45〜10:00（L.O. 9:30）とランチ11:00〜15:00で、ディナーは当面の間休業。ランチビュッフェを個室で楽しむ個室プランは20名様〜、15,000円〜（税・サ込18,150円〜）。",
+   "source": "https://www.hotel-emisia.com/tokyotachikawa/restaurant/"
+  }
+ },
+ "documents": [
+  {
+   "title": "会場施設・収容人数・料金表（2026年1月版）",
+   "url": "https://www.hotel-emisia.com/tokyotachikawa/party_meeting/images/banquet_fact_sheet.pdf"
+  },
+  {
+   "title": "宴会場ご利用に関する規約（平成22年9月1日施行）",
+   "url": "https://www.hotel-emisia.com/tokyotachikawa/party_meeting/images/clause.pdf"
+  },
+  {
+   "title": "音楽著作権等に関するご案内",
+   "url": "https://www.hotel-emisia.com/tokyotachikawa/music_copyrights/music_copyrights.pdf"
+  },
+  {
+   "title": "音楽著作権等確認書",
+   "url": "https://www.hotel-emisia.com/tokyotachikawa/music_copyrights/confirmation_letter.pdf"
+  },
+  {
+   "title": "食物アレルギーお伺いシート",
+   "url": "https://www.hotel-emisia.com/tokyotachikawa/party_meeting/allergy_sheet.pdf"
+  }
+ ],
+ "checkedAt": "2026-11-07",
+ "lat": 35.700092,
+ "lng": 139.41568,
+ "nearby": {
+  "convenience": [
+   {
+    "name": "セブン-イレブン ホテルエミシア東京立川店",
+    "brand": "セブン-イレブン",
+    "distanceM": 29,
+    "walkMin": 1,
+    "hours": "24時間営業",
+    "address": "東京都立川市曙町2丁目14-16",
+    "verified": true,
+    "source": "https://seven-eleven.areamarker.com/711map/info/472199",
+    "note": "距離は公式の店舗位置で計算。会場と同じ住所（ホテル内の店舗）"
+   },
+   {
+    "name": "ローソン 立川曙町二丁目店",
+    "brand": "ローソン",
+    "distanceM": 39,
+    "walkMin": 1,
+    "hours": "24時間営業",
+    "address": "東京都立川市曙町2-17-3 明治安田生命立川ビル",
+    "verified": true,
+    "source": "https://www.areamarker.com/lawson/info/137526",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "ローソン 立川曙橋店",
+    "brand": "ローソン",
+    "distanceM": 67,
+    "walkMin": 1,
+    "hours": "24時間営業",
+    "address": "東京都立川市曙町2-10-1",
+    "verified": true,
+    "source": "https://www.areamarker.com/lawson/info/201550",
+    "note": "距離は公式の店舗位置で計算"
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "キンコーズ・立川店",
+    "brand": "キンコーズ",
+    "distanceM": 63,
+    "walkMin": 1,
+    "hours": "平日 9:00-20:00／土・日・祝 10:00-20:00",
+    "address": "東京都立川市曙町2丁目18-17 町田ビル1階",
+    "verified": true,
+    "source": "https://www.kinkos.co.jp/store/tokyo/t044/",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "アクセア 立川フロム中武店",
+    "brand": "アクセア",
+    "distanceM": 103,
+    "walkMin": 2,
+    "hours": "平日10:00〜19:00／土日祝休み",
+    "address": "東京都立川市曙町2-11-2 フロム中武ビル1F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/entry.html",
+    "note": "距離は住所の位置で計算。平日のみ営業（土日祝休み）"
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "DAISO 立川フロム中武店",
+    "brand": "ダイソー",
+    "distanceM": 90,
+    "walkMin": 2,
+    "hours": "10:00-20:00",
+    "address": "東京都立川市曙町2-11-2 フロム中武4階",
+    "verified": true,
+    "source": "https://www.daiso-sangyo.co.jp/shop/detail/002376",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "DAISO MEGAドン・キホーテ立川店",
+    "brand": "ダイソー",
+    "distanceM": 91,
+    "walkMin": 2,
+    "hours": "10:00-21:00",
+    "address": "東京都立川市曙町2-18-18 MEGAドン・キホーテ立川6階",
+    "verified": true,
+    "source": "https://www.daiso-sangyo.co.jp/shop/detail/002344",
+    "note": "距離は公式の店舗位置で計算。ドン・キホーテ店内6階"
+   }
+  ],
+  "donki": [
+   {
+    "name": "MEGAドン・キホーテ立川店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 55,
+    "walkMin": 1,
+    "hours": "8:00〜翌2:00",
+    "address": "東京都立川市曙町2-18-18",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=388",
+    "note": "距離は住所の位置で計算。ドン・キホーテ公式サイトの店舗名は「MEGAドン・キホーテ立川店」"
+   }
+  ]
+ },
+ "drinkDelivery": {
+  "available": false
+ },
+ "photo": {
+  "src": "/images/venues/hotel-emisia-tokyo-tachikawa.jpg",
+  "credit": "最寄りのJR立川駅北口のイメージ写真です（会場の建物ではありません）。© DiKnK8713 / CC BY-SA 4.0 · Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tachikawa_sta_N_20210725.jpg"
+ }
+}

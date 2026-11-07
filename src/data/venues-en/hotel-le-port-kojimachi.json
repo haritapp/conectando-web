@@ -1,0 +1,144 @@
+{
+ "slug": "hotel-le-port-kojimachi",
+ "name": "Hotel Le Port Kojimachi",
+ "address": "Tokyo 102-0093 2-4-3 Hirakawacho, Chiyoda-ku",
+ "accessSummary": "Kojimachi Station (Yurakucho Line) Exit 1: 3 min walk / Hanzomon Station (Hanzomon Line) Exit 6: 6 min walk / Nagatacho Station (Yurakucho and Hanzomon Lines) Exit 5, Nagatacho Station (Namboku Line) Exit 9a: 5 min walk / Akasakamitsuke Station (Marunouchi and Ginza Lines) Exit D: 8 min walk",
+ "hours": "Meeting rooms are open 7:00-22:00. Use before 9:00 incurs an early-morning surcharge that varies by room (Price list PDF, October 2024 [Reiwa 6])",
+ "notice": null,
+ "rooms": [
+  {
+   "name": "Royal Crystal",
+   "note": "Classroom and hollow-square layouts are 3 per desk. Can be divided into Ruby and Sapphire."
+  },
+  {
+   "name": "Ruby / Sapphire (each)",
+   "note": "Each is one half of Royal Crystal when divided. Classroom and hollow-square layouts are 3 per desk."
+  },
+  {
+   "name": "Emerald",
+   "note": "Classroom and hollow-square layouts are 3 per desk. Can be divided into Garnet and Topaz."
+  },
+  {
+   "name": "Garnet",
+   "note": "A room divided from Emerald. Classroom and hollow-square layouts are 3 per desk."
+  },
+  {
+   "name": "Topaz",
+   "note": "A room divided from Emerald. Classroom and hollow-square layouts are 3 per desk."
+  },
+  {
+   "name": "Marble",
+   "note": "Classroom and hollow-square layouts are 3 per desk."
+  },
+  {
+   "name": "Amethyst",
+   "note": "Classroom and hollow-square layouts are 3 per desk."
+  },
+  {
+   "name": "Opal / Aquamarine (each)",
+   "note": "Classroom and hollow-square layouts are 3 per desk. Face-to-face layout is 18 on the venue page. Standing and seated banquet figures are from the price list PDF (October 2024)."
+  },
+  {
+   "name": "Sango (珊瑚)",
+   "note": "Classroom and hollow-square layouts are 3 per desk. Face-to-face layout is 18 on the venue page. Seated banquet figure is from the price list PDF (October 2024)."
+  },
+  {
+   "name": "Shinju (真珠)",
+   "note": "Classroom and hollow-square layouts are 3 per desk. On the venue page, the table-plan figures (classroom 72, hollow square 36, standing 60) conflict with the venue data figures (18 each). The 18 from the venue data and the price list PDF (October 2024) is used."
+  },
+  {
+   "name": "Lescar (B1F)",
+   "note": "Classroom and hollow-square layouts are 3 per desk. Face-to-face layout is 24 on the venue page. Seated banquet figure is from the price list PDF (October 2024)."
+  },
+  {
+   "name": "Shikitei Matsu no Ma (Japanese-style room, chair seating)",
+   "note": "Area 27 tatami mats. Dining capacity 32."
+  },
+  {
+   "name": "Shikitei Take no Ma (Japanese-style room, sunken kotatsu)",
+   "note": "Area 10 tatami mats. Dining capacity 10."
+  },
+  {
+   "name": "Shikitei Ume no Ma (The Plum Room) (Japanese-style room, chair seating)",
+   "note": "Area 14 tatami mats. Dining capacity 12."
+  }
+ ],
+ "ops": {
+  "loadingHours": "The reserved time includes the time needed for setup and removal. For exhibition use, load-in and load-out outside the reserved hours incur a separate charge (Price list PDF, October 2024). For banquets, meetings and similar events, if you ask a vendor other than the hotel's designated ones to handle decorations, signage, sound, lighting and the like directly, notify the hotel in advance and obtain approval. Load-in and load-out of the vendor's equipment and materials, and the size, mounting method and location of signs, are arranged with the hotel's staff under certain rules.",
+  "parking": "Mitsui Repark Hotel Le Port Kojimachi parking lot (40 spaces). Height limit 2.3 m. Open 24 hours, 440 yen per 20 minutes (tax included). Daily maximum is 2,800 yen for 8:00-20:00 and 500 yen for 20:00-8:00 (tax included). Meeting and banquet guests get up to 3 hours free. For large vehicles that do not fit in the lot, separate parking space is provided (listed as 5,300 yen per night, reservation required).",
+  "waitingRooms": "There are waiting rooms on the 2F and 3F. The fee is 10,648 yen for the basic 2 hours and 3,993 yen for each additional hour (tax and service charge included, Price list PDF, October 2024). Sango and Shinju on the 4F are described as rooms that can also be used as waiting rooms for guests of honor and the like.",
+  "catering": "Meeting boxed lunches are available. Kojimachi bento: Sazanka 2,783 yen, Botan 3,388 yen, Kikyo 3,993 yen, Renge 4,840 yen (tax and service charge included, after the revision of October 1, 2026). Sushi bento are not accepted from July to September. Banquet plans include kaiseki, French cuisine and party plans. Breakfast meetings are for 6 to 270 people, with Japanese breakfast bento available.",
+  "restaurants": "The hotel has the Japanese-Western restaurant Piazza, the sushi restaurant Hirakawa and the sake bar Komichi (all on B1F), and Lounge Cascade (1F). For dining and parties in the banquet rooms, alumni and classmate reunion plans and party plans are offered."
+ },
+ "documents": [
+  {
+   "title": "Meeting & Banquet Room Price List (October 2024 [Reiwa 6])"
+  },
+  {
+   "title": "Banquet & Meeting Event Terms"
+  },
+  {
+   "title": "Fixtures & Beverage List"
+  },
+  {
+   "title": "Notice of Meeting Bento Price Revision (effective October 1, 2026)"
+  },
+  {
+   "title": "Notice of Parking Lot Suspension (November 2026)"
+  },
+  {
+   "title": "Access Map"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "FamilyMart Kioicho",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Lawson Hirakawacho 1-chome",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "FamilyMart Kioicho Sanbanchi",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "Kinko's Kojimachi",
+    "hours": "Weekdays 9:00-19:00 / Closed Sat, Sun & holidays",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Accea Kojimachi",
+    "hours": "Weekdays, Sat, Sun & holidays 8:00-20:00",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Can Do Akasaka Hitotsugi-dori",
+    "hours": "Mon-Fri 9:00-21:00 / Sat & Sun 9:00-20:00",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "donki": [
+   {
+    "name": "Picasso Akasaka (Don Quijote)",
+    "hours": "7:00-3:00",
+    "note": "Distance is calculated from the address location. A different Don Quijote store format (the official site lists the store name as \"Picasso Akasaka\")."
+   },
+   {
+    "name": "Don Quijote Roppongi",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. Far. The official Don Quijote site lists the store name as \"Roppongi\"."
+   }
+  ]
+ },
+ "photoCredit": "© Abasaa / Public domain · Wikimedia Commons"
+}

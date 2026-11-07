@@ -1,0 +1,174 @@
+{
+ "slug": "futako-tamagawa-rise-studio-hall",
+ "nameJa": "二子玉川ライズ スタジオ & ホール",
+ "nameEn": "",
+ "type": "hall",
+ "area": "shibuya-ebisu-venues",
+ "address": "〒158-0094 東京都世田谷区玉川1-14-1 二子玉川ライズ 2F",
+ "officialUrl": "https://109cinemas.net/theater_rental/eventspace/rise-hall/",
+ "organizerUrl": "https://109cinemas.net/theater_rental/eventspace/rise-hall/",
+ "bizintokyoSlug": "futako-tamagawa-rise-studio-hall",
+ "accessSummary": "東急田園都市線・大井町線「二子玉川駅」徒歩4分",
+ "notice": null,
+ "hours": "基本使用時間は8:00〜22:00内の12時間（準備・設営・撤去・リハーサルの時間を含む）。13時間目以降は時間外延長（1時間60,000円・税抜）。",
+ "rooms": [
+  {
+   "name": "スタジオ & ホール",
+   "areaM2": 440,
+   "ceilingM": 7.5,
+   "theater": 340,
+   "school": 240,
+   "ushape": null,
+   "standing": 340,
+   "banquet": null,
+   "note": "有効天井高約5.5m。床耐荷重500kg/㎡。レイアウトサンプル図面はシアター形式約340席・スクール形式約240席。"
+  }
+ ],
+ "roomsSource": "https://109cinemas.net/theater_rental/eventspace/rise-hall/（施設概要）",
+ "ops": {
+  "prevDaySetup": {
+   "text": "準備・設営・撤去・リハーサルで使う日は、1開催につき2日まで準備・撤去作業日（リハーサル使用を含む）の料金になる。料金は平日270,000円（税込297,000円）、土日祝390,000円（税込429,000円）で、本番日料金の0.6倍。3日目以降は本番日料金。使用時間は8:00〜22:00内の12時間で、準備・撤去の時間を含む。（使用料金表 2026年3月現在、使用規則 2026年4月版）",
+   "source": "https://109cinemas.net/theater_rental/eventspace/pdf/hall/pdf03.pdf"
+  },
+  "loadingHours": {
+   "text": "使用時間（8:00〜22:00内の12時間）に準備・設営・撤去の時間を含む。使用開始が7時以前、または退出が23時を過ぎる場合は、スタッフの深夜早朝交通費または宿泊費を請求する。搬入出は指定の搬入搬出口を使い、事前に施設管理者と協議のうえ立会のもとで行う。使用開始日の30日前までに打合せ、事前提出書類は2週間前までに提出する。外部業者が作業する場合は施設管理者の立会指示のもとで行い、立会人件費がかかる。搬入出エリアとエレベーターは養生が必要で、館内他施設のイベントにより使用を調整することがある。（使用規則 2026年4月版）",
+   "source": "https://109cinemas.net/theater_rental/eventspace/pdf/hall/pdf01.pdf"
+  },
+  "vehicleRules": {
+   "text": "周辺道路への路上駐車・違法駐車は断られる。駐車場・搬入出エリア・搬入出用エレベーターは、二子玉川ライズ内の他施設のイベントの都合で使用を調整することがある。（使用規則 2026年4月版）",
+   "source": "https://109cinemas.net/theater_rental/eventspace/pdf/hall/pdf01.pdf"
+  },
+  "parking": {
+   "text": "追加駐車サービス券は1時間545円（税込600円）。最大24時間分（連日利用の場合は最大48時間分）は無料。（使用料金表 2026年3月現在）",
+   "source": "https://109cinemas.net/theater_rental/eventspace/pdf/hall/pdf03.pdf"
+  },
+  "waitingRooms": {
+   "text": "楽屋3室（A約13㎡、B約12㎡、C約15㎡）とスタッフ控室1室（約12㎡）。楽屋は1室1日7,500円（税込8,250円）、スタッフ控室は無料。楽屋に姿見・ホワイトボードが常設。（使用料金表 2026年3月現在）",
+   "source": "https://109cinemas.net/theater_rental/eventspace/pdf/hall/pdf03.pdf"
+  },
+  "catering": {
+   "text": "ケータリングの手配は有料オプションで、催事内容に沿って見積もる。2026年12月〜2027年1月の平日限定パーティープランは、1日利用170,000円（税別）にケータリング料金が別で、ケータリングは当社指定業者から選ぶ。",
+   "source": "https://109cinemas.net/theater_rental/eventspace/pdf/hall/261006_party_plan.pdf"
+  }
+ },
+ "documents": [
+  {
+   "title": "使用規則（2026年4月版）",
+   "url": "https://109cinemas.net/theater_rental/eventspace/pdf/hall/pdf01.pdf"
+  },
+  {
+   "title": "ご利用メニュー（料金メニュー）",
+   "url": "https://109cinemas.net/theater_rental/eventspace/pdf/hall/pdf02.pdf"
+  },
+  {
+   "title": "使用料金表（2026年3月現在）",
+   "url": "https://109cinemas.net/theater_rental/eventspace/pdf/hall/pdf03.pdf"
+  },
+  {
+   "title": "付帯設備・備品料金表（2026年3月現在）",
+   "url": "https://109cinemas.net/theater_rental/eventspace/pdf/hall/pdf03.pdf"
+  },
+  {
+   "title": "ホール平面図",
+   "url": "https://109cinemas.net/theater_rental/eventspace/pdf/hall/pdf05.pdf"
+  },
+  {
+   "title": "ホール断面図（長手）",
+   "url": "https://109cinemas.net/theater_rental/eventspace/pdf/hall/pdf06.pdf"
+  },
+  {
+   "title": "ホール断面図（短手）",
+   "url": "https://109cinemas.net/theater_rental/eventspace/pdf/hall/pdf07.pdf"
+  },
+  {
+   "title": "レイアウトサンプル図面 シアター形式（約340席）",
+   "url": "https://109cinemas.net/theater_rental/eventspace/pdf/hall/pdf08.pdf"
+  },
+  {
+   "title": "レイアウトサンプル図面 スクール形式（約240席）",
+   "url": "https://109cinemas.net/theater_rental/eventspace/pdf/hall/pdf09.pdf"
+  },
+  {
+   "title": "エンタメイベント専用プラン（2026年11月〜2027年2月23日）",
+   "url": "https://109cinemas.net/theater_rental/eventspace/pdf/hall/261006_entertainment_event_plan.pdf"
+  },
+  {
+   "title": "パーティープラン（2026年12月〜2027年1月・平日限定）",
+   "url": "https://109cinemas.net/theater_rental/eventspace/pdf/hall/261006_party_plan.pdf"
+  }
+ ],
+ "checkedAt": "2026-11-07",
+ "lat": 35.610046,
+ "lng": 139.63002,
+ "nearby": {
+  "convenience": [
+   {
+    "name": "LAWSON+toks二子玉川ライズ",
+    "brand": "ローソン",
+    "distanceM": 104,
+    "walkMin": 2,
+    "hours": "6:30-23:00",
+    "address": "東京都世田谷区玉川1-14-1",
+    "verified": true,
+    "source": "https://www.areamarker.com/lawson/info/233862",
+    "note": "距離は公式の店舗位置で計算。ローソンの公式表記の店名は「LAWSON+toks二子玉川ライズ」"
+   },
+   {
+    "name": "ファミリーマート ファミマ二子玉川店",
+    "brand": "ファミリーマート",
+    "distanceM": 132,
+    "walkMin": 2,
+    "hours": "7:00-24:00",
+    "address": "東京都世田谷区玉川1丁目5100番1外",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/23232",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "セブン-イレブン 世田谷玉川店",
+    "brand": "セブン-イレブン",
+    "distanceM": 262,
+    "walkMin": 4,
+    "hours": "24時間営業",
+    "address": "東京都世田谷区玉川2-7-1",
+    "verified": true,
+    "source": "https://seven-eleven.areamarker.com/711map/info/071046",
+    "note": "距離は公式の店舗位置で計算"
+   }
+  ],
+  "copyshop": [],
+  "hundredYen": [
+   {
+    "name": "DAISO 二子玉川ライズSC店",
+    "brand": "ダイソー",
+    "distanceM": 200,
+    "walkMin": 3,
+    "hours": "10:00-21:00",
+    "address": "東京都世田谷区玉川2-21-1 二子玉川ライズSC ステーションマーケット1階",
+    "verified": true,
+    "source": "https://www.daiso-sangyo.co.jp/shop/detail/008387",
+    "note": "距離は住所の位置で計算。同じ二子玉川ライズ内に「3COINS 二子玉川ライズ店」（10:00-20:00・PAL公式の一覧）もある"
+   },
+   {
+    "name": "Standard Products 二子玉川ライズ・ショッピングセンター店",
+    "brand": "Standard Products",
+    "distanceM": 200,
+    "walkMin": 3,
+    "hours": "10:00-20:00",
+    "address": "東京都世田谷区玉川2-21-1 二子玉川ライズショッピングセンター1階",
+    "verified": true,
+    "source": "https://www.daiso-sangyo.co.jp/shop/detail/001406",
+    "note": "距離は住所の位置で計算。ダイソー系列の店"
+   }
+  ],
+  "donki": []
+ },
+ "drinkDelivery": {
+  "available": true
+ },
+ "photo": {
+  "src": "/images/venues/futako-tamagawa-rise-studio-hall.jpg",
+  "credit": "© Souka Kinmei / CC0 · Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E4%BA%8C%E5%AD%90%E7%8E%89%E5%B7%9D%E3%83%A9%E3%82%A4%E3%82%BA%E5%85%A8%E6%99%AF(%E4%BA%8C%E5%AD%90%E6%A9%8B%E3%82%88%E3%82%8A%E6%92%AE%E5%BD%B1).jpg"
+ }
+}
