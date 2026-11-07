@@ -1,0 +1,143 @@
+{
+ "slug": "tobu-hotel-levant-tokyo",
+ "name": "Tobu Hotel Levant Tokyo",
+ "address": "Tokyo 130-0013 1-2-2 Kinshi, Sumida-ku",
+ "accessSummary": "Kinshicho Station (JR Sobu Line) North Exit: about 3 min walk / Kinshicho Station (Tokyo Metro Hanzomon Line) Exit 3: about 3 min walk",
+ "hours": null,
+ "notice": null,
+ "rooms": [
+  {
+   "name": "NISHIKI (Entire)",
+   "note": "The official page text gives a ceiling height of 6.7 m, and the spec table gives 6.1-6.7 m. Can be divided into 1/3 or 2/3 for use."
+  },
+  {
+   "name": "NISHIKI (2/3)",
+   "note": null
+  },
+  {
+   "name": "NISHIKI (1/3)",
+   "note": null
+  },
+  {
+   "name": "YOSHINO",
+   "note": null
+  },
+  {
+   "name": "FUYO",
+   "note": null
+  },
+  {
+   "name": "TATSUTA",
+   "note": null
+  },
+  {
+   "name": "HOURAI (Entire)",
+   "note": "The room can be divided for use."
+  },
+  {
+   "name": "HOURAI (1/2)",
+   "note": null
+  },
+  {
+   "name": "FUJI / KIKU (Entire)",
+   "note": "Two rooms, Fuji and Kiku. Each room is half the size."
+  },
+  {
+   "name": "FUJI / KIKU (1/2)",
+   "note": null
+  },
+  {
+   "name": "MATSU / KIRI (Entire)",
+   "note": "Two rooms, Matsu and Kiri. Each room is half the size."
+  },
+  {
+   "name": "MATSU / KIRI (1/2)",
+   "note": null
+  },
+  {
+   "name": "KACHO",
+   "note": "Japanese-style room (tatami floor). Capacity is 20 to 36 people."
+  },
+  {
+   "name": "HAKUUN",
+   "note": "Capacity is 36 to 40 people. 6F, adjacent to the garden."
+  },
+  {
+   "name": "Croix d'Or",
+   "note": "6F, adjacent to the garden."
+  }
+ ],
+ "ops": {
+  "loadingHours": "Load-in and load-out of decorations, entertainment equipment and materials by contractors that the client has arranged directly with the hotel's consent, as well as the size, mounting method, location and installation time of signs and the like, are carried out under certain rules that take the hotel's appearance and traffic flow into account, and the hotel gives instructions to the contractors concerned. If the banquet hall usage time (including setup through removal) is exceeded, an additional fee is charged according to the overtime. (Banquet Hall Terms of Use)",
+  "parking": "The car park is on basement levels 1 and 2 of the hotel, entered from the car porch at the hotel's front entrance. No reservation is required. The height limit is 2.2 m. Overnight guests pay 3,000 yen (tax included) per car per night; restaurant guests get 2 hours free with a spend of 3,000 yen or more. For banquet hall use, show the parking ticket at the banquet hall cloakroom to receive a parking service ticket. Spaces reserved for contract holders cannot be used.",
+  "restaurants": "On the 2F are Super Dining \"Verdure\" and Chinese cuisine \"CHIKUEN\", on the 24F are Japanese cuisine, French cuisine and bar \"REN\", and on the 1F is the Lobby Lounge \"Crystal Movement\"."
+ },
+ "documents": [
+  {
+   "title": "Meeting and Banquet Hall Guide (brochure, marked as updated September 3, 2025)"
+  },
+  {
+   "title": "Banquet Hall Layout Examples (marked as updated September 3, 2025)"
+  },
+  {
+   "title": "Banquet Hall Terms of Use"
+  },
+  {
+   "title": "Floor Guide and Facility Information"
+  },
+  {
+   "title": "FAQ"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "7-Eleven Sumida Kinshi 1-chome",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "FamilyMart Koto-bashi 1-chome",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "FamilyMart Sumida Kamezawa 4-chome",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "Accea Kinshicho",
+    "hours": "Weekdays open 24 hours (open continuously from 9:00 on Monday until 19:00 on Saturday) / Sat until 19:00, Sun & holidays 10:00-19:00 (open continuously on the day before a weekday holiday)",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "DAISO Arkkit Kinshicho",
+    "hours": "10:00-21:00",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Standard Products Arkkit Kinshicho",
+    "hours": "10:00-21:00",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "donki": [
+   {
+    "name": "Don Quijote Kinshicho Kitaguchi",
+    "hours": "9:00-4:00",
+    "note": "Distance is calculated from the address location. The official Don Quijote site lists the store name as \"Kinshicho Kitaguchi\"."
+   },
+   {
+    "name": "Don Quijote Asakusa EKIMISE",
+    "hours": "10:00-20:00",
+    "note": "Distance is calculated from the address location. Far."
+   }
+  ]
+ },
+ "photoCredit": "© Abasaa / Public domain · Wikimedia Commons"
+}

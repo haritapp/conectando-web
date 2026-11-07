@@ -1,0 +1,367 @@
+{
+ "slug": "tokyo-kotsu-kaikan",
+ "nameJa": "東京交通会館",
+ "nameEn": "TOKYO KOTSU KAIKAN",
+ "type": "exhibition",
+ "area": "yurakucho-ginza-venues",
+ "address": "〒100-0006 東京都千代田区有楽町2-10-1",
+ "officialUrl": "https://www.kotsukaikan.co.jp/",
+ "organizerUrl": "https://www.kotsukaikan.co.jp/business/",
+ "bizintokyoSlug": "tokyo-kotsu-kaikan",
+ "accessSummary": "JR有楽町駅 徒歩1分／東京メトロ有楽町線 有楽町駅 徒歩1分／有楽町線 銀座一丁目駅 徒歩1分／丸ノ内線・銀座線・日比谷線 銀座駅 徒歩3分／都営三田線 日比谷駅 徒歩5分／千代田線 日比谷駅 徒歩8分",
+ "notice": "貨物エレベーターの更新工事のため、2027年1月29日〜3月31日は一時使用停止。",
+ "hours": "展示会場は原則9:00〜21:00（準備・撤去時間を含む）の1日単位で貸出。会議室は午前9:00〜12:00、午後13:00〜17:00、夜間18:00〜21:00の枠貸し",
+ "rooms": [
+  {
+   "name": "12F ダイヤモンドホール",
+   "areaM2": 980,
+   "ceilingM": "2.3-2.7",
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "約300坪。使用料1,089,000円（税込）/日。有楽町駅側。東京駅側・イトシア側に間仕切り壁があり、天井が一部低い。柱20本。床荷重300kg/㎡。一部を第一会議室Aとして貸出"
+  },
+  {
+   "name": "12F カトレアサロン全室（A+B）",
+   "areaM2": 980,
+   "ceilingM": "2.16-2.7",
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "約300坪。使用料1,089,000円（税込）/日。A・Bに分割可能"
+  },
+  {
+   "name": "12F カトレアサロンA",
+   "areaM2": 530,
+   "ceilingM": "2.3-2.7",
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "約160坪。使用料660,000円（税込）/日。柱11本"
+  },
+  {
+   "name": "12F カトレアサロンB",
+   "areaM2": 450,
+   "ceilingM": "2.16-2.7",
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "約140坪。使用料605,000円（税込）/日。柱9本。東京駅側に間仕切り壁。室内にシンクあり（重飲食不可）"
+  },
+  {
+   "name": "12F 全室（ダイヤモンドホール＋カトレアサロン）",
+   "areaM2": 1960,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "約600坪。使用料2,145,000円（税込）/日。エレベーターホールまで併せて利用できる"
+  },
+  {
+   "name": "3F グリーンルーム",
+   "areaM2": 200,
+   "ceilingM": 2.5,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "約60坪。使用料264,000円（税込）/日。柱2本。シンクなし（試食・試飲は可）。第一会議室Bとしても貸出"
+  },
+  {
+   "name": "12F 第一会議室A",
+   "areaM2": 251,
+   "ceilingM": "2.3-2.7",
+   "theater": 150,
+   "school": 90,
+   "ushape": 50,
+   "standing": null,
+   "banquet": null,
+   "note": "ダイヤモンドホール・カトレアサロンの一部（76坪）。シアター等150名程度。スクールは公式内で数字が分かれ、会議室ページは76坪利用で70〜80名程度（150坪利用で100〜120名程度）、よくあるご質問は90名程度。コの字50名程度。使用料は午前66,000円・午後88,000円・夜間66,000円・全日176,000円（税込）。980㎡利用は基本の約4倍の料金"
+  },
+  {
+   "name": "3F 第一会議室B",
+   "areaM2": 200,
+   "ceilingM": 2.5,
+   "theater": 60,
+   "school": 50,
+   "ushape": 40,
+   "standing": null,
+   "banquet": null,
+   "note": "グリーンルームを使用（60坪）。シアター等60名。使用料は午前44,000円・午後66,000円・夜間44,000円・全日121,000円（税込）"
+  },
+  {
+   "name": "B2F 第二会議室A",
+   "areaM2": 61,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": 20,
+   "standing": null,
+   "banquet": null,
+   "note": "18坪。定員20名（ロの字、テーブル10台・椅子20脚＋予備5脚）。75インチ備え付けモニター。使用料は午前19,800円・午後22,000円・夜間19,800円・全日61,600円（税込）"
+  },
+  {
+   "name": "B2F 第二会議室B",
+   "areaM2": 33,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "10坪。定員12名（楕円、テーブル6台・椅子12脚＋予備3脚）。65インチ備え付けモニター。使用料は午前13,200円・午後15,400円・夜間13,200円・全日41,800円（税込）"
+  },
+  {
+   "name": "B2F 第二会議室C",
+   "areaM2": 17,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "5坪。定員6名（テーブル3台・椅子6脚＋予備3脚）。使用料は午前6,600円・午後7,700円・夜間6,600円・全日20,900円（税込）"
+  }
+ ],
+ "roomsSource": "https://www.kotsukaikan.co.jp/business/exhibition/ ／ https://www.kotsukaikan.co.jp/business/conference/ ／ https://www.kotsukaikan.co.jp/data/exhibition/tenji_setsubi_shiyo.pdf",
+ "ops": {
+  "prevDaySetup": {
+   "text": "前日搬入は、6時間以内の半日利用なら1日の使用料の50%、半日を超えるなら1日分の料金がかかる。翌日搬出も同じ扱い。基本の利用時間は9:00〜21:00で、早朝・前日搬入、深夜・翌日搬出になる場合は個別の相談。（展示会場利用規約）",
+   "source": "https://www.kotsukaikan.co.jp/data/exhibition/tenji_riyokiyaku.pdf"
+  },
+  "loadingHours": {
+   "text": "搬入出は原則9:00〜21:00。同じ日に複数会場で催事があるため、原則8:00〜21:00の間で事前に打ち合わせた時間内に行い、朝は早くても7:00から。12:00〜13:00は搬入出ができない。土日祝は1階ピロティのマルシェの準備・片づけのため、9:00〜9:30と19:00〜19:30は貨物エレベーターが使えない。貨物エレベーターは重量制限1,950kg、長さ3m以上は不可。会場利用計画書（搬入出の時間・トラック台数・備品数）は1か月前（14営業日前）までに提出。（2026年4月更新の規約、搬入出経路図）",
+   "source": "https://www.kotsukaikan.co.jp/data/exhibition/tenji_riyokiyaku.pdf"
+  },
+  "vehicleRules": {
+   "text": "2t〜4tの車は1階外周から搬入出する。4tを超えるトラックは不可（10t車NG）で、停められるのは2台まで。3台目以降は近くで待機し、先の車が終わってから横づけする。高さ2.1m以下・幅2.5m・長さ6.0m以内の車は、地下3階の貨物エレベーター前の荷捌きスペースを使え、荷捌きが終わりしだい車を移動する。1階の道路使用は会館側が申請し、警備員も会館が手配する（床養生は不要）。開始前に防災センター（03-3216-2028）へ連絡し、搬入出責任者を歩道上に1名置く。搬入業者の駐車は、責任者の捺印があれば1時間無料。",
+   "source": "https://www.kotsukaikan.co.jp/business/faqs-business/"
+  },
+  "parking": {
+   "text": "地下2階・3階に175台（うち障害者用2台）。営業時間7:00〜24:00で、24:00〜7:00は出庫できない。30分ごとに350円（税込）。平日は3時間超から12時間まで2,400円（繰り返し適用なし）。車の制限は高さ2.1m・幅2.5m・長さ6.0m以内で、オートバイは不可。展示会場の利用者は、後払い駐車サービス（主催者負担、通常料金の30%割引）と、来場者向けの割引（30分250円）を使える。",
+   "source": "https://www.kotsukaikan.co.jp/access/parking/"
+  },
+  "waitingRooms": {
+   "text": "展示会場に控室はなく、室内に設けるか、B2Fの第二会議室A〜C（別料金）を控室として使える。展示会場の一部を第一会議室A・Bとして借りることもできる。",
+   "source": "https://www.kotsukaikan.co.jp/business/faqs-business/"
+  },
+  "catering": {
+   "text": "ケータリングの指定業者はなく、取引のある業者を手配できる。室内で飲食を伴う場合は清掃会社の手配が必須（指定会社はなく、会館から紹介も可）。会場内は火気禁止で、ケータリングを手配する場合も同じ。12FのダイヤモンドホールとカトレアサロンBはシンクがあり、衛生区画を設ければ温め・湯煎程度の調理ができる（炒める・焼く・揚げるは不可）。酒類の試飲は可能で、事前に千代田保健所へ確認する。",
+   "source": "https://www.kotsukaikan.co.jp/business/faqs-business/"
+  },
+  "restaurants": {
+   "text": "館内の飲食店でケータリングを受ける店がある。会議室向けには、15階の銀座スカイラウンジと、3階・地下1階の喫茶店でコーヒーのケータリングができる。",
+   "source": "https://www.kotsukaikan.co.jp/business/faqs-business/"
+  }
+ },
+ "documents": [
+  {
+   "title": "展示会場 会場利用規約（2026年4月更新）",
+   "url": "https://www.kotsukaikan.co.jp/data/exhibition/tenji_riyokiyaku.pdf"
+  },
+  {
+   "title": "展示会場 主要設備と仕様について",
+   "url": "https://www.kotsukaikan.co.jp/data/exhibition/tenji_setsubi_shiyo.pdf"
+  },
+  {
+   "title": "料金表",
+   "url": "https://www.kotsukaikan.co.jp/data/other/ryokin.pdf"
+  },
+  {
+   "title": "搬入出経路について",
+   "url": "https://www.kotsukaikan.co.jp/data/other/hannyushutsu.pdf"
+  },
+  {
+   "title": "12階・3階図面",
+   "url": "https://www.kotsukaikan.co.jp/data/exhibition/12f_3f_zumen.pdf"
+  },
+  {
+   "title": "レイアウト事例（参考）",
+   "url": "https://www.kotsukaikan.co.jp/data/exhibition/tenji_reiauto_jirei.pdf"
+  },
+  {
+   "title": "ご利用後の清掃について",
+   "url": "https://www.kotsukaikan.co.jp/data/exhibition/tenji_seiso.pdf"
+  },
+  {
+   "title": "看板・HPバナー・デジタルサイネージデータの規格について",
+   "url": "https://www.kotsukaikan.co.jp/data/other/nyuko_kikaku.pdf"
+  },
+  {
+   "title": "その他書類一式",
+   "url": "https://www.kotsukaikan.co.jp/data/exhibition/tenji_sonota_isshiki.pdf"
+  },
+  {
+   "title": "施設賠償責任保険加入申込書（新規加入の場合）",
+   "url": "https://www.kotsukaikan.co.jp/data/exhibition/shisetsu_jibaiseki.pdf"
+  },
+  {
+   "title": "会場利用申込書（エクセル）",
+   "url": "https://www.kotsukaikan.co.jp/data/exhibition/tenji_moshikomisho.xlsx"
+  },
+  {
+   "title": "会場利用計画書（エクセル）",
+   "url": "https://www.kotsukaikan.co.jp/data/exhibition/tenji_keikakusho.xls"
+  },
+  {
+   "title": "仮予約受付票（エクセル）",
+   "url": "https://www.kotsukaikan.co.jp/data/exhibition/tenji_kariyoyaku.xls"
+  },
+  {
+   "title": "会議室利用規約",
+   "url": "https://www.kotsukaikan.co.jp/data/conference/no2_kaigishitsu_riyokiyaku.pdf"
+  },
+  {
+   "title": "第一会議室A、B図面",
+   "url": "https://www.kotsukaikan.co.jp/data/conference/meeting_room.pdf"
+  },
+  {
+   "title": "第二会議室A、B、C（B2F）フロアマップ",
+   "url": "https://www.kotsukaikan.co.jp/data/conference/meeting_B2f.pdf"
+  },
+  {
+   "title": "第一会議室A、B利用計画書（エクセル）",
+   "url": "https://www.kotsukaikan.co.jp/data/conference/meeting_room_keikakusho.xls"
+  },
+  {
+   "title": "第一会議室A、B申込書（エクセル）",
+   "url": "https://www.kotsukaikan.co.jp/data/conference/meeting_room_moshikomisho.xlsx"
+  },
+  {
+   "title": "第二会議室A、B、C申込書（エクセル）",
+   "url": "https://www.kotsukaikan.co.jp/data/conference/meeting_room2_moshikomisho.xls"
+  },
+  {
+   "title": "サンプリングエリア・イベントスペース 会場利用規約",
+   "url": "https://www.kotsukaikan.co.jp/data/pilotis/pilotis_kiyaku.pdf"
+  },
+  {
+   "title": "サンプリングエリア・イベントスペース図面",
+   "url": "https://www.kotsukaikan.co.jp/data/pilotis/p_pla1.pdf"
+  },
+  {
+   "title": "周辺地図",
+   "url": "https://www.kotsukaikan.co.jp/data/access/map_train.pdf"
+  }
+ ],
+ "checkedAt": "2026-11-07",
+ "lat": 35.674953,
+ "lng": 139.764359,
+ "nearby": {
+  "convenience": [
+   {
+    "name": "セブン-イレブン 有楽町イトシア店",
+    "brand": "セブン-イレブン",
+    "distanceM": 98,
+    "walkMin": 2,
+    "hours": "7:00-23:00（月〜日・祝）",
+    "address": "東京都千代田区有楽町2-7-1",
+    "verified": true,
+    "source": "https://seven-eleven.areamarker.com/711map/info/318571",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "ファミリーマート 東京国際フォーラム店",
+    "brand": "ファミリーマート",
+    "distanceM": 117,
+    "walkMin": 2,
+    "hours": "7:00-23:30",
+    "address": "東京都千代田区丸の内3丁目5-1",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/58164",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "ファミリーマート 銀座二丁目店",
+    "brand": "ファミリーマート",
+    "distanceM": 121,
+    "walkMin": 2,
+    "hours": "24時間営業",
+    "address": "東京都中央区銀座2-2-18",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/58795",
+    "note": "距離は公式の店舗位置で計算"
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "キンコーズ・銀座一丁目店",
+    "brand": "キンコーズ",
+    "distanceM": 376,
+    "walkMin": 5,
+    "hours": "平日 9:00-20:00／土 10:00-19:00／日・祝 休業",
+    "address": "東京都中央区銀座1丁目7-3 京橋三菱ビル1F",
+    "verified": true,
+    "source": "https://www.kinkos.co.jp/store/tokyo/t002/",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "アクセア 銀座ファイブ店",
+    "brand": "アクセア",
+    "distanceM": 377,
+    "walkMin": 5,
+    "hours": "平日 10:00-20:00／土・日・祝 休み",
+    "address": "東京都中央区銀座5-1 銀座ファイブ2F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/entry.html",
+    "note": "距離は住所の位置で計算。アクセアミニ（小型店）。店頭では現金払い不可（クレジットカード・電子マネー・QRコード決済など）"
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "DAISO マロニエゲート銀座店",
+    "brand": "ダイソー",
+    "distanceM": 125,
+    "walkMin": 2,
+    "hours": "11:00-21:00",
+    "address": "東京都中央区銀座3-2-1 マロニエゲート銀座2 6階",
+    "verified": true,
+    "source": "https://www.daiso-sangyo.co.jp/shop/detail/009168",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "3COINS +plus 西銀座デパート店",
+    "brand": "3COINS",
+    "distanceM": 231,
+    "walkMin": 3,
+    "hours": "11:00-20:00",
+    "address": "東京都中央区銀座4-1 西銀座デパート2F",
+    "verified": true,
+    "source": "https://palcloset.storelocator.jp/detail/2263",
+    "note": "距離は公式の店舗位置で計算"
+   }
+  ],
+  "donki": [
+   {
+    "name": "ドン・キホーテ 銀座本館（銀座ナイン3号館）",
+    "brand": "ドン・キホーテ",
+    "distanceM": 818,
+    "walkMin": 11,
+    "hours": "24時間営業",
+    "address": "東京都中央区銀座8-10 銀座ナイン3号館",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=92",
+    "note": "距離は住所の位置で計算"
+   }
+  ]
+ },
+ "drinkDelivery": {
+  "available": true
+ },
+ "photo": {
+  "src": "/images/venues/tokyo-kotsu-kaikan.jpg",
+  "credit": "© MaedaAkihiko / CC BY-SA 4.0 · Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tokyo-Kotsu-Kaikan.jpg"
+ }
+}

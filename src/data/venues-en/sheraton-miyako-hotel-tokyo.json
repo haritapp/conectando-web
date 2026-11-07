@@ -1,0 +1,149 @@
+{
+ "slug": "sheraton-miyako-hotel-tokyo",
+ "name": "Sheraton Miyako Hotel Tokyo",
+ "address": "Tokyo 108-8640 1-1-50 Shirokanedai, Minato-ku",
+ "accessSummary": "Shirokanedai Station (Tokyo Metro Namboku Line / Toei Mita Line) Exit 2: about 4 min walk / Shirokane-Takanawa Station Exit 1: about 5 min walk / Free hotel shuttle bus from JR Meguro Station East Exit (every 15 minutes)",
+ "hours": null,
+ "notice": null,
+ "rooms": [
+  {
+   "name": "Daigo (Entire Room)",
+   "note": "Can be divided into 2 (West and East). Simultaneous interpretation equipment available. Used together with Saga, which faces it, a party for 1,000 guests is possible."
+  },
+  {
+   "name": "Daigo West",
+   "note": "A section of Daigo. Theater capacity is 500 on the official website's banquet room page and 480 in the digital pamphlet (as of May 2026)."
+  },
+  {
+   "name": "Daigo East",
+   "note": "A section of Daigo."
+  },
+  {
+   "name": "Saga (Entire Room)",
+   "note": "Can be divided into 3 (East, Middle, West). The top of the banquet room page gives a maximum capacity of 300, while the theater figure in the table is 360."
+  },
+  {
+   "name": "Saga (East & Middle)",
+   "note": null
+  },
+  {
+   "name": "Saga (West & Middle)",
+   "note": null
+  },
+  {
+   "name": "Saga East",
+   "note": null
+  },
+  {
+   "name": "Saga Middle",
+   "note": "Area is from the digital pamphlet (as of May 2026)."
+  },
+  {
+   "name": "Saga West",
+   "note": null
+  },
+  {
+   "name": "Magnolia",
+   "note": "Has windows, view of the Japanese garden (B1F). Maximum capacity 200."
+  },
+  {
+   "name": "Boardroom",
+   "note": "B1F"
+  },
+  {
+   "name": "Kasuga",
+   "note": null
+  },
+  {
+   "name": "Wakakusa",
+   "note": null
+  },
+  {
+   "name": "Saho",
+   "note": null
+  },
+  {
+   "name": "Mikasa",
+   "note": null
+  },
+  {
+   "name": "Ise",
+   "note": "Same area and capacity as Shima. The banquet room page lists them as \"Ise & Shima\": 31㎡, 12 people."
+  },
+  {
+   "name": "Shima",
+   "note": "Same area and capacity as Ise. From the table in the digital pamphlet (as of May 2026)."
+  }
+ ],
+ "ops": {
+  "parking": "The parking lot has 140 spaces with a height limit of 2.1 m. Large buses can park (the driver is required to stay at the hotel) (as of May 2026).",
+  "restaurants": "The hotel has Café California (1F), Chinese Restaurant Shisen (1F), Lobby Bar & Lounge Bamboo (1F), Sushi Shirokane Saeki (B1F), Teppanyaki Shirokane (B1F), Chef's Room Platinum (B1F) and M Bar (B1F) (as of May 2026)."
+ },
+ "documents": [
+  {
+   "title": "Miyako Hotels & Resorts Digital Pamphlet (as of May 2026)"
+  },
+  {
+   "title": "Banquet Plans (Parties, Conferences, Memorial Services)"
+  },
+  {
+   "title": "Guide to Food Allergy Support"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "7-Eleven Shirokanedai Ekimae",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "FamilyMart Takanawa 1-chome",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Lawson Shirokanedai 2-chome",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "Accea Takanawa Gateway Sengakuji Ekimae",
+    "hours": "Weekdays open 24 hours (non-stop from 8:00 Monday to 19:00 Saturday) / Sat until 19:00, Sun & holidays 10:00-19:00 (open non-stop on weekdays that fall on the day before a holiday)",
+    "note": "Distance is calculated from the address location. Rather far."
+   },
+   {
+    "name": "Accea Meguro Ekimae",
+    "hours": "Weekdays 9:00-20:00 / Sat, Sun & holidays 10:00-19:00",
+    "note": "Distance is calculated from the address location. Rather far."
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Can Do Shirokanedai",
+    "hours": "Daily 10:00-21:00",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Can Do Shirokane",
+    "hours": "Daily 10:00-21:00",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "donki": [
+   {
+    "name": "Platinum Don Quijote Shirokanedai",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. The store name on the Don Quijote official website is \"Platinum Don Quijote Shirokanedai\" (a different Don Quijote format)."
+   },
+   {
+    "name": "Don Quijote Gotanda East Exit",
+    "hours": "8:00-5:00",
+    "note": "Distance is calculated from the address location. Rather far. The store name on the Don Quijote official website is \"Gotanda East Exit\"."
+   }
+  ]
+ },
+ "photoCredit": "© moore / CC BY-SA 3.0 · Wikimedia Commons"
+}

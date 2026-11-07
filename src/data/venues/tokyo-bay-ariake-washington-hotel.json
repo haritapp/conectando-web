@@ -1,0 +1,274 @@
+{
+ "slug": "tokyo-bay-ariake-washington-hotel",
+ "nameJa": "東京ベイ有明ワシントンホテル",
+ "nameEn": "Tokyo Bay Ariake Washington Hotel",
+ "type": "hotel",
+ "area": "odaiba-ariake-venues",
+ "address": "〒135-0063 東京都江東区有明3-7-11",
+ "officialUrl": "https://washington-hotels.jp/ariake/",
+ "organizerUrl": "https://washington-hotels.jp/ariake/page/banquetpromotion/index.html",
+ "bizintokyoSlug": "tokyo-bay-ariake-washington-hotel",
+ "accessSummary": "りんかい線 国際展示場駅 徒歩3分／ゆりかもめ 東京ビッグサイト駅・有明駅 徒歩3分",
+ "notice": null,
+ "hours": "宴会場・会議室は9:00〜21:00（9:00〜21:00を除く深夜・早朝は通常の3割増料金）。会場は予約時間の30分前から使用できる",
+ "rooms": [
+  {
+   "name": "3階 アイリス（全体）",
+   "areaM2": 669,
+   "ceilingM": 5.1,
+   "theater": 500,
+   "school": 324,
+   "standing": 500,
+   "banquet": 256,
+   "note": "3分割できる大型多目的ホール。会議利用は4時間605,000円・8時間715,000円・12時間935,000円、宴会利用は2時間231,000円（サービス料・税込、基本料金にマイク2本を含む）。土・日・祝限定の一日一社独占プランは8時間715,000円・12時間935,000円で、ホワイエと小会議室1室（40㎡）が付く"
+  },
+  {
+   "name": "3階 アイリス（2/3）",
+   "areaM2": 446,
+   "ceilingM": 5.1,
+   "theater": 260,
+   "school": 198,
+   "ushape": 78,
+   "standing": 240,
+   "banquet": 160,
+   "note": "会議利用は4時間484,000円・8時間594,000円・12時間814,000円、宴会利用は2時間154,000円（サービス料・税込）"
+  },
+  {
+   "name": "3階 アイリス（1/3）",
+   "areaM2": 223,
+   "ceilingM": 5.1,
+   "theater": 156,
+   "school": 108,
+   "ushape": 54,
+   "standing": 100,
+   "banquet": 80,
+   "note": "会議利用は4時間352,000円・8時間462,000円・12時間682,000円、宴会利用は2時間88,000円（サービス料・税込）"
+  },
+  {
+   "name": "3階 ユーカリ",
+   "areaM2": 40,
+   "ceilingM": 2.9,
+   "theater": 30,
+   "school": 18,
+   "ushape": 18,
+   "note": "音響設備（マイク）なし。会議利用は4時間55,000円・8時間88,000円・12時間110,000円（サービス料・税込）。控室や事務局の利用向け"
+  },
+  {
+   "name": "3階 リンドウ",
+   "areaM2": 70,
+   "ceilingM": 2.9,
+   "theater": 50,
+   "school": 36,
+   "ushape": 30,
+   "note": "音響設備（マイク）なし。会議利用は4時間77,000円・8時間110,000円・12時間143,000円（サービス料・税込）"
+  },
+  {
+   "name": "3階 カトレア",
+   "areaM2": 67,
+   "ceilingM": 2.9,
+   "theater": 50,
+   "school": 36,
+   "ushape": 30,
+   "note": "音響設備（マイク）なし。会議利用は4時間77,000円・8時間110,000円・12時間143,000円（サービス料・税込）"
+  },
+  {
+   "name": "3階 モクレン",
+   "areaM2": 55,
+   "ceilingM": 2.9,
+   "theater": 40,
+   "school": 18,
+   "ushape": 18,
+   "note": "音響設備（マイク）なし。会議利用は4時間66,000円・8時間99,000円・12時間132,000円（サービス料・税込）"
+  },
+  {
+   "name": "3階 メープル",
+   "areaM2": 87,
+   "ceilingM": 2.9,
+   "theater": 50,
+   "school": 30,
+   "ushape": 30,
+   "note": "音響設備（マイク）なし。会議利用は4時間88,000円・8時間121,000円・12時間154,000円（サービス料・税込）。東京ビッグサイトが望める角部屋"
+  },
+  {
+   "name": "21階 グランブラン（スカイバンケット）",
+   "areaM2": 180,
+   "ceilingM": 2.7,
+   "theater": 80,
+   "school": 42,
+   "standing": 100,
+   "banquet": 72,
+   "note": "会議利用は4時間352,000円・8時間462,000円・12時間682,000円、宴会利用は2時間88,000円（サービス料・税込、基本料金にマイク2本を含む）。専用のインターネット回線の用意なし"
+  }
+ ],
+ "roomsSource": "https://washington-hotels.jp/ariake/banquet/",
+ "ops": {
+  "prevDaySetup": {
+   "text": "会場は予約時間の30分前から使用でき、予約は準備・退去を考慮した時間で申し込む。机・イスなどの基本的なセッティングはホテル側で行い、原状復帰は不要。催事日の前日であれば荷物の受け取り・預かりができる（着払いは受け取り不可）。会場からの荷物発送も可能。",
+   "source": "https://washington-hotels.jp/ariake/page/banquetpromotion/index.html"
+  },
+  "loadingHours": {
+   "text": "利用時間は9:00〜21:00。24時間希望の時間で利用でき、9:00〜21:00を除く深夜・早朝の時間帯は通常の3割増料金。時間帯によっては別途料金が発生する場合がある。",
+   "source": "https://washington-hotels.jp/ariake/page/banquetpromotion/index.html"
+  },
+  "vehicleRules": {
+   "text": "駐車はホテル建物地下1階〜3階の契約駐車場（有明パークビル）を使う。満車の場合は利用できず、玄関前の車寄せスペースなどへの駐車も受け付けない。駐車は先着順で予約は受け付けない。大型バスは駐車できない。",
+   "source": "https://washington-hotels.jp/ariake/access/"
+  },
+  "parking": {
+   "text": "253台収容、車高2m10cm・幅1m90cm・全長5m50cm・重量2.3tまで。会議利用は6時間まで無料、宴会利用は2時間まで無料。宿泊利用は入庫から24時間（1泊）1,000円（税込）。",
+   "source": "https://washington-hotels.jp/ariake/access/"
+  },
+  "waitingRooms": {
+   "text": "3階ユーカリ（40㎡）は控室や事務局の利用向けの部屋。アイリス（全体）を借りる一日一社独占プランでは、小会議室（40㎡、12〜30名収容）1室が控室・事務局・荷物置場用に無償で付く。",
+   "source": "https://washington-hotels.jp/ariake/banquetplan/10280/"
+  },
+  "catering": {
+   "text": "3階の会議室利用者向けに会議室お弁当がある（牛ステーキ重2,420円、うな重2,860円、ポークステーキ重1,980円、いずれもサービス料・税込、提供時間11:30〜13:30、事前予約）。宴会はビュッフェ形式の宴会プランがあり、Season Planはお一人様11,000円・Holiday Plan（土・日・祝）はお一人様8,800円、2時間フリードリンク付き、30〜500名、場所は3階アイリス・21階グランブラン。ホテルが出張して提供するケータリングは100名から、お一人様9,900円〜（サービス料・税込）。",
+   "source": "https://washington-hotels.jp/ariake/banquetplan/"
+  },
+  "restaurants": {
+   "text": "ホテル1階にレストラン「ジョージタウン」、マクドナルド、デイリーヤマザキ、2階に大衆酒場「有頂天」、シーフードレストラン「メヒコ」、中国家庭料理「楽苑」、炭火串焼き＆無国籍居酒屋「まはらに」、和食ダイニング・そば「田久井」、ココス、WASYOKU DINING「がぜん」などがある。連続利用がお得！セミナープランでは、セミナーの後に懇親会を開催する場合、宴会会場費が無料（同一会場を2日連続以上・合計12時間以上利用、2026年7月1日〜2027年3月31日申込分）。",
+   "source": "https://washington-hotels.jp/ariake/facilities/"
+  }
+ },
+ "documents": [
+  {
+   "title": "宴会場・会議室 貸出機材一覧料金表（税込）",
+   "url": "https://washington-hotels.jp/ariake/page/banquetpromotion/img/rentalequipmentslist.pdf"
+  },
+  {
+   "title": "アイリス レイアウト例",
+   "url": "https://washington-hotels.jp/ariake/page/banquetpromotion/img/iris.pdf"
+  },
+  {
+   "title": "グランブラン レイアウト例",
+   "url": "https://washington-hotels.jp/ariake/page/banquetpromotion/img/iris-grand-blanc.pdf"
+  },
+  {
+   "title": "ユーカリ レイアウト例",
+   "url": "https://washington-hotels.jp/ariake/page/banquetpromotion/img/iris-eucalyptus.pdf"
+  },
+  {
+   "title": "リンドウ レイアウト例",
+   "url": "https://washington-hotels.jp/ariake/page/banquetpromotion/img/iris-gentian.pdf"
+  },
+  {
+   "title": "カトレア レイアウト例",
+   "url": "https://washington-hotels.jp/ariake/page/banquetpromotion/img/iris-cattleya.pdf"
+  },
+  {
+   "title": "モクレン レイアウト例",
+   "url": "https://washington-hotels.jp/ariake/page/banquetpromotion/img/iris-magnolia.pdf"
+  },
+  {
+   "title": "メープル レイアウト例",
+   "url": "https://washington-hotels.jp/ariake/page/banquetpromotion/img/iris-maple.pdf"
+  },
+  {
+   "title": "連続利用がお得！セミナープラン リーフレット（2026年7月）",
+   "url": "https://washington-hotels.jp/wp/wp-content/uploads/2026/07/87c6cb94d6b58ca21466fb40536609cf.pdf"
+  },
+  {
+   "title": "アクセス案内図",
+   "url": "https://washington-hotels.jp/wp/wp-content/uploads/2024/09/chartjptokyobayariake.pdf"
+  }
+ ],
+ "checkedAt": "2026-11-07",
+ "lat": 35.632969,
+ "lng": 139.79425,
+ "nearby": {
+  "convenience": [
+   {
+    "name": "ローソン 有明セントラルタワー店",
+    "brand": "ローソン",
+    "distanceM": 108,
+    "walkMin": 2,
+    "hours": "24時間営業",
+    "address": "東京都江東区有明3-7-18",
+    "verified": true,
+    "source": "https://www.areamarker.com/lawson/info/201483",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "ファミリーマート がん研有明病院店",
+    "brand": "ファミリーマート",
+    "distanceM": 119,
+    "walkMin": 2,
+    "hours": "7:00-21:00",
+    "address": "東京都江東区有明3丁目8-31",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/16117",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "セブン-イレブン DR国際展示場駅前店",
+    "brand": "セブン-イレブン",
+    "distanceM": 207,
+    "walkMin": 3,
+    "hours": "24時間営業",
+    "address": "東京都江東区有明3-7-3",
+    "verified": true,
+    "source": "https://seven-eleven.areamarker.com/711map/info/443878",
+    "note": "距離は公式の店舗位置で計算"
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "アクセア 東京ビッグサイト前店",
+    "brand": "アクセア",
+    "distanceM": 311,
+    "walkMin": 4,
+    "hours": "平日8:00〜22:00、土日祝10:00〜19:00",
+    "address": "東京都江東区有明3-7-26 有明フロンティアビル1F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/entry.html",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Can★Do ワンザ有明店",
+    "brand": "キャンドゥ",
+    "distanceM": 409,
+    "walkMin": 6,
+    "hours": "月〜日 10:00-19:30",
+    "address": "東京都江東区有明3-6-11 TFTビル東館2階",
+    "verified": true,
+    "source": "https://shopinfo.cando-web.co.jp/detail/shop-1346/",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "DAISO 有明ガーデン店",
+    "brand": "ダイソー",
+    "distanceM": 636,
+    "walkMin": 8,
+    "hours": "10:00-21:00",
+    "address": "東京都江東区有明2-1-8 有明ガーデン3階",
+    "verified": true,
+    "source": "https://www.daiso-sangyo.co.jp/shop/detail/002129",
+    "note": "距離は公式の店舗位置で計算"
+   }
+  ],
+  "donki": [
+   {
+    "name": "キラキラドンキ ダイバーシティ東京 プラザ店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 2023,
+    "walkMin": 26,
+    "hours": "10:00-21:00",
+    "address": "東京都江東区青海1-1-10 ダイバーシティ東京 プラザ 2階",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=655",
+    "note": "距離は住所の位置で計算。遠い。ドン・キホーテの別業態（公式サイトの店舗名は「キラキラドンキ ダイバーシティ東京 プラザ店」）"
+   }
+  ]
+ },
+ "drinkDelivery": {
+  "available": true
+ },
+ "photo": {
+  "src": "/images/venues/tokyo-bay-ariake-washington-hotel.jpg",
+  "credit": "© Guilhem Vellut / CC BY 2.0 · Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tokyo_Bay_Ariake_Washington_Hotel_@_Ariake_(9651041243).jpg"
+ }
+}

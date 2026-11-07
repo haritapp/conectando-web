@@ -1,0 +1,217 @@
+{
+ "slug": "time24-building",
+ "name": "TIME24 Building",
+ "address": "Tokyo 135-8073 2-4-32 Aomi, Koto-ku, Tokyo",
+ "accessSummary": "Approx. 2 min walk from Telecom Center Station (Yurikamome Line) / approx. 18 min walk from Tokyo Teleport Station (Rinkai Line) / right at the Toei Bus stop \"Tokyo Kowan Godochosha\"",
+ "hours": "Training rooms and meeting rooms 7:00-23:00 (overtime labor costs apply for 7:00-8:00 and 21:00-23:00; the final end time including setup and teardown is 23:00)",
+ "notice": null,
+ "rooms": [
+  {
+   "name": "6F North",
+   "note": null
+  },
+  {
+   "name": "6F East 1",
+   "note": "Basic layout is classroom, 2 per desk."
+  },
+  {
+   "name": "6F East 2",
+   "note": "Basic layout is classroom, 2 per desk."
+  },
+  {
+   "name": "6F East 3",
+   "note": "Basic layout is classroom, 2 per desk."
+  },
+  {
+   "name": "6F East 4",
+   "note": "Basic layout is classroom, 2 per desk."
+  },
+  {
+   "name": "6F East 5",
+   "note": null
+  },
+  {
+   "name": "6F East 6",
+   "note": null
+  },
+  {
+   "name": "Training Room 121",
+   "note": null
+  },
+  {
+   "name": "Training Room 122",
+   "note": "Basic layout is classroom, 2 per desk."
+  },
+  {
+   "name": "Training Room 123",
+   "note": "Basic layout is classroom, 2 per desk."
+  },
+  {
+   "name": "Training Room 124",
+   "note": "Basic layout is classroom, 2 per desk."
+  },
+  {
+   "name": "Training Room 125",
+   "note": "Basic layout is classroom, 2 per desk."
+  },
+  {
+   "name": "Training Room 126",
+   "note": "Basic layout is classroom, 2 per desk."
+  },
+  {
+   "name": "Training Room 127",
+   "note": "Basic layout is classroom, 2 per desk."
+  },
+  {
+   "name": "Training Room 128",
+   "note": "Basic layout is classroom, 2 per desk."
+  },
+  {
+   "name": "Training Room 131",
+   "note": "Classroom layout with added seating: 240 seats."
+  },
+  {
+   "name": "Training Room 132",
+   "note": "Classroom layout with added seating: 96 seats."
+  },
+  {
+   "name": "Training Room 133",
+   "note": "Classroom layout with added seating: 120 seats."
+  },
+  {
+   "name": "Training Room 134",
+   "note": "Classroom layout with added seating: 312 seats."
+  },
+  {
+   "name": "Training Room 141",
+   "note": "Classroom layout with added seating: 168 seats."
+  },
+  {
+   "name": "Training Room 142",
+   "note": "Classroom layout with added seating: 168 seats."
+  },
+  {
+   "name": "Training Room 143",
+   "note": "Classroom layout with added seating: 48 seats."
+  },
+  {
+   "name": "Training Room 144",
+   "note": "Classroom layout with added seating: 48 seats."
+  },
+  {
+   "name": "Training Room 145",
+   "note": "Classroom layout with added seating: 54 seats."
+  },
+  {
+   "name": "Meeting Room A",
+   "note": "Basic layout is a square (hollow) layout."
+  },
+  {
+   "name": "Meeting Room B",
+   "note": "Basic layout is island layout, 8 seats."
+  },
+  {
+   "name": "Meeting Room C",
+   "note": "Basic layout is a square (hollow) layout."
+  },
+  {
+   "name": "Meeting Room D",
+   "note": "Basic layout is island layout, 8 seats."
+  },
+  {
+   "name": "Meeting Room E",
+   "note": "Basic layout is island layout, 8 seats."
+  },
+  {
+   "name": "Meeting Room F",
+   "note": "Basic layout is a square (hollow) layout."
+  }
+ ],
+ "ops": {
+  "loadingHours": "For load-in and load-out of equipment, devices, food and drink, etc., confirm the route and the number of vehicles in a prior meeting and submit a \"Work Notice\". Protective covering (curing) must always be laid during load-in and load-out, and work may be stopped if the prescribed protective covering is not approved. Packages sent in advance should, in principle, be sent to \"TIME24 Building, 2-4-32 Aomi, Koto-ku, Tokyo 135-0064\" with arrival specified for 9:00-17:00 on the weekday before the day, with the usage date, venue and event name written on the slip (they are stored in the designated venue until the day of use; depending on the situation, the user may move them on the day). Meeting materials, etc. are in principle brought in on the day. Return shipping of packages after the event can be arranged at the venue; the only carriers that can be arranged are Yamato Transport and Sagawa Express (the pickup date is in principle the day after the usage date). (Meeting Facility Usage Guide revised September 2025 (Reiwa 7), FAQ)",
+  "parking": "The TIME24 Building parking lot is on B1F, with about 20 spaces for visitors (1 for wheelchair users). Hours are 7:00-21:00 on weekdays (until 19:00 on Sat, Sun and holidays), the fee is 250 yen per 30 minutes, and the height limit is 2.1 m. If you show a disability certificate or similar to the staff, parking for that day is free. The Meeting Facility Usage Guide says whether the parking lot will be used is a matter to be agreed at the time of use.",
+  "catering": "Food and drink are allowed in the venue. When serving food and drink to attendees, consult the Koto City Public Health Center and, if a notification or similar is required, follow the Health Center's instructions. If you want a party or reception (including catering), consult when making the usage inquiry; the venue fee is 50% above the base rate, and a cleaning fee may be charged. When bringing in food and drink from outside, consult in advance; waste disposal is required. Options Tokyo Big Sight can arrange: boxed meals (Maisen from a minimum of 5,000 yen (tax included), Ningyocho Imahan from a minimum of 7,000 yen (excluding tax), Kaiseki Ryori Aoyama from a minimum of 15,000 yen (excluding tax), Nadaman from a minimum of 15,000 yen (tax included), all up to 7 business days before), catering (CB Service from 30 people, food and drink from 5,500 yen (excluding tax); Tokyo Bay Ariake Washington Hotel from 100 people, from 9,000 yen (excluding tax)), and drinks (Restaurant Seagull, minimum 1,200 yen (tax included), up to 7 business days before).",
+  "restaurants": "The Sky Restaurant SEAGULL is on the 11th floor (285 seats). In the evening it is a reservation-only party venue that can be used for receptions after meetings and training, and it can host banquets and parties of up to about 200 people. On Sat, Sun and holidays, it can operate by advance reservation with a minimum guarantee of 300,000 yen or more. There is a 7-Eleven on the 1st floor."
+ },
+ "documents": [
+  {
+   "title": "Meeting Facility Usage Guide (revised September 2025 (Reiwa 7))"
+  },
+  {
+   "title": "Training Room / Meeting Room Price List (revised April 2022)"
+  },
+  {
+   "title": "Equipment Price List"
+  },
+  {
+   "title": "Training Room / Meeting Room Equipment Application Form (XLS)"
+  },
+  {
+   "title": "Work Notice (XLS)"
+  },
+  {
+   "title": "Floor Plan (1F)"
+  },
+  {
+   "title": "Floor Plan (6F)"
+  },
+  {
+   "title": "Floor Plan (12F)"
+  },
+  {
+   "title": "Floor Plan (13F)"
+  },
+  {
+   "title": "Floor Plan (14F)"
+  },
+  {
+   "title": "Surrounding Roads Map"
+  },
+  {
+   "title": "FAQ"
+  },
+  {
+   "title": "Boxed Meal / Catering / Drink Arrangement Guide"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "FamilyMart Tokyo Wangan Keisatsusho-mae",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the store's official location."
+   },
+   {
+    "name": "FamilyMart Aomi Frontier",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the store's official location."
+   },
+   {
+    "name": "FamilyMart Telecom Center",
+    "hours": "7:00-23:00",
+    "note": "Distance is calculated from the store's official location."
+   }
+  ],
+  "copyshop": [],
+  "hundredYen": [
+   {
+    "name": "Seria Aqua City Odaiba",
+    "hours": "Mon-Fri 11:00-20:00 / Sat, Sun 11:00-21:00",
+    "note": "Distance is calculated from the store's official location. Rather far."
+   },
+   {
+    "name": "DAISO DECKS Tokyo Beach",
+    "hours": "11:00-20:00",
+    "note": "Distance is calculated from the store's official location. Rather far."
+   }
+  ],
+  "donki": [
+   {
+    "name": "Kirakira Donki Diver City Tokyo Plaza",
+    "hours": "10:00-21:00",
+    "note": "Distance is calculated from the address location. A different store format of Don Quijote (the store name on the official website is \"Kirakira Donki Diver City Tokyo Plaza\")."
+   }
+  ]
+ },
+ "photoCredit": "Image shows Telecom Center Station (Yurikamome Line), the nearest station, not the venue building. © 東京特許許可局 / CC BY-SA 4.0 · Wikimedia Commons"
+}

@@ -1,0 +1,126 @@
+{
+ "slug": "telecom-center-building",
+ "name": "TELECOM CENTER BUILDING",
+ "address": "Tokyo 135-0064 2-5-10 Aomi, Koto-ku, Tokyo",
+ "accessSummary": "Directly connected to Telecom Center Station (Yurikamome Line) / 3 min by free loop bus from Tokyo Teleport Station (Rinkai Line)",
+ "hours": "Meeting room hours are 9:00-21:00 (early-morning extension 8:00-9:00). The building is open 7:00-23:00, and the regular entrances are locked at 20:00.",
+ "notice": "Available to external Japanese corporations (not to individuals). In the meeting rooms, use involving food and drink such as parties and receptions, photography (including posting on social media), and sales are prohibited. Uses other than meetings, training and exams cost 20% more (Terms of Use).",
+ "rooms": [
+  {
+   "name": "West Building 8F Meeting Room A",
+   "note": "Island layout: 96 seats; T-shaped island layout: 99 seats. Morning 41,470 yen, afternoon 55,330 yen, evening 41,470 yen, full day 138,270 yen (tax included). Uses other than meetings, training and exams cost 20% more."
+  },
+  {
+   "name": "West Building 8F Meeting Room B",
+   "note": "Island layout: 96 seats; T-shaped island layout: 99 seats. Morning 41,470 yen, afternoon 55,330 yen, evening 41,470 yen, full day 138,270 yen (tax included). Uses other than meetings, training and exams cost 20% more."
+  },
+  {
+   "name": "West Building 8F Meeting Room C",
+   "note": "Island layout: 96 seats; T-shaped island layout: 99 seats. Morning 41,470 yen, afternoon 55,330 yen, evening 41,470 yen, full day 138,270 yen (tax included). Uses other than meetings, training and exams cost 20% more."
+  },
+  {
+   "name": "West Building 8F Meeting Room D",
+   "note": "Island layout: 96 seats; T-shaped island layout: 99 seats. Morning 41,470 yen, afternoon 55,330 yen, evening 41,470 yen, full day 138,270 yen (tax included). Uses other than meetings, training and exams cost 20% more."
+  },
+  {
+   "name": "East Building 20F Meeting Room 1",
+   "note": "Island layout: 72 seats; T-shaped island layout: 72 seats. Morning 21,560 yen, afternoon 28,820 yen, evening 21,560 yen, full day 71,940 yen (tax included). Uses other than meetings, training and exams cost 20% more."
+  },
+  {
+   "name": "East Building 20F Meeting Room 2",
+   "note": "Island layout: 60 seats; T-shaped island layout: 54 seats. Morning 17,380 yen, afternoon 23,210 yen, evening 17,380 yen, full day 57,970 yen (tax included). Uses other than meetings, training and exams cost 20% more."
+  },
+  {
+   "name": "East Building 20F Meeting Room 3",
+   "note": "Island layout: 102 seats; T-shaped island layout: 99 seats. Morning 37,950 yen, afternoon 50,050 yen, evening 37,950 yen, full day 125,950 yen (tax included). Uses other than meetings, training and exams cost 20% more."
+  },
+  {
+   "name": "Atrium (1F)",
+   "note": "The area is the central part, and the height is the full atrium void. The space is for filming and events: events are 80,000 yen per hour (excluding tax; 7:00-7:00), and still photography is 50,000 yen per hour from 7:00 to 19:00. Applications made less than 1 week in advance carry a 20% surcharge. In principle, the target is the common areas."
+  }
+ ],
+ "ops": {
+  "prevDaySetup": "Setup and teardown are included in the reserved usage time, and the layout must be restored to its original state. Extensions by the hour are not accepted, and if the check-out procedure runs more than 10 minutes past the reserved time, the full amount for the next time slot is charged. An early-morning extension (8:00-9:00) can be added as a slot: 7,150 yen for East Building Meeting Room 1, 11,770 yen for Meeting Room 3, and 13,750 yen for West Building Meeting Rooms A-D (tax included; price list revised June 1, 2022).",
+  "loadingHours": "To bring in or take out luggage, write it in the remarks field of the usage application form and email a \"Load-out/Load-in Notice\" at least 3 business days before the load-out/load-in; on the day, stop by the disaster prevention center (security room) and follow the guards' instructions. Packages can be sent in advance to the disaster prevention center of each building, to arrive the day before the usage date, up to 4 boxes. Shipping after use is not accepted. (Terms of Use revised September 1, 2024)",
+  "vehicleRules": "To park a vehicle outside the parking lot, a \"Temporary Parking Notice\" must be submitted, and temporary parking is also declared on the Load-out/Load-in Notice (parking for 1 hour or more requires a separate Temporary Parking Notice).",
+  "parking": "The Telecom Center Building parking lot (B1F-B3F) can be used. Capacity is 421 spaces (the parking lot is operated by Times 24). People who get off at 8 stations such as Telecom Center Station using PASMO get a parking fee discount to 500 yen (park & ride). The building introduction page also states \"444 self-propelled spaces\", and the numbers differ, so the 421 spaces on the parking map were adopted.",
+  "waitingRooms": "The West Building has a meeting room (16㎡, 6 people), waiting room 1 (12㎡, 4 people) and waiting room 2 (12㎡, 4 people), which are rented for the same hours only when a West Building meeting room is used (they cannot be rented on their own). The meeting room is 2,420 yen in the morning, 3,190 yen in the afternoon, 2,420 yen in the evening and 8,030 yen for the full day; the waiting rooms are 1,870 yen, 2,420 yen, 1,870 yen and 6,160 yen (tax included, revised June 1, 2022).",
+  "catering": "Bringing food and drink into the meeting rooms is prohibited; the only drinks allowed are water and tea in capped PET bottles. Boxed meals from designated vendors can be ordered only when 2 or more slots among morning, afternoon and evening are booked on the same day. Use involving food and drink such as parties and receptions, and bringing in microphones and speakers, are not allowed. (Terms of Use revised September 1, 2024)",
+  "restaurants": "The building has a cafe (Espresso Americano), boxed meals (Yatai DELi), Chinese cuisine Toen, Japanese food and sake Rokuemon, Kitchen Aomi Coffee, soba (Kyugetsu) and FamilyMart, and the official meeting room guide says \"they can be used for lunch, receptions, etc.\" MAGIC CHEF on the 5th floor is a restaurant for tenants."
+ },
+ "documents": [
+  {
+   "title": "Meeting Room Terms of Use (revised September 1, 2024)"
+  },
+  {
+   "title": "Meeting Room Price List (revised June 1, 2022)"
+  },
+  {
+   "title": "Meeting Room Application Form, East Building (October 2025 edition)"
+  },
+  {
+   "title": "Meeting Room Application Form, West Building (October 2025 edition)"
+  },
+  {
+   "title": "Load-out/Load-in Notice (2022 edition)"
+  },
+  {
+   "title": "Addition/Cancellation Request Form (2022 edition)"
+  },
+  {
+   "title": "8F West Building Network Diagram (2023)"
+  },
+  {
+   "title": "20F East Building Network Diagram (2023)"
+  },
+  {
+   "title": "Floor Guide"
+  },
+  {
+   "title": "Building Brochure (2024)"
+  },
+  {
+   "title": "Filming/Event Declaration Form"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "FamilyMart Telecom Center",
+    "hours": "7:00-23:00",
+    "note": "Distance is calculated from the store's official location."
+   },
+   {
+    "name": "FamilyMart Aomi Frontier",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the store's official location."
+   },
+   {
+    "name": "Lawson Port Store Aomi",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the store's official location."
+   }
+  ],
+  "copyshop": [],
+  "hundredYen": [
+   {
+    "name": "Seria Aqua City Odaiba",
+    "hours": "Mon-Fri 11:00-20:00 / Sat, Sun 11:00-21:00",
+    "note": "Distance is calculated from the store's official location. Rather far."
+   },
+   {
+    "name": "DAISO DECKS Tokyo Beach",
+    "hours": "11:00-20:00",
+    "note": "Distance is calculated from the store's official location. Rather far."
+   }
+  ],
+  "donki": [
+   {
+    "name": "Kirakira Donki Diver City Tokyo Plaza",
+    "hours": "10:00-21:00",
+    "note": "Distance is calculated from the address location. A different store format of Don Quijote (the store name on the official website is \"Kirakira Donki Diver City Tokyo Plaza\")."
+   }
+  ]
+ },
+ "photoCredit": "© Kakidai / CC BY-SA 4.0 · Wikimedia Commons"
+}

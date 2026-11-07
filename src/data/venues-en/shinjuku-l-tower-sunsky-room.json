@@ -1,0 +1,119 @@
+{
+ "slug": "shinjuku-l-tower-sunsky-room",
+ "name": "Shinjuku L Tower Sunsky Room",
+ "address": "Tokyo 163-1530 Shinjuku L Tower 1F and 30F, 1-6-1 Nishi-Shinjuku, Shinjuku-ku, Tokyo",
+ "accessSummary": "Shinjuku Station (JR Lines, Odakyu Line, Keio Line) West Exit: 2 min walk / Shinjuku Station (Tokyo Metro Marunouchi Line): 2 min walk / Shinjuku Station (Toei Shinjuku Line): 5 min walk / Tochomae Station (Toei Oedo Line): 3 min walk / Seibu-Shinjuku Station (Seibu Shinjuku Line): 7 min walk",
+ "hours": "Meetings etc.: 9:00-17:00 (morning 9:00-12:00 / afternoon 13:00-17:00). On the 30F, early extension from 8:00 and late extension until 20:00 (late extension for 1F Room C until 19:00). Exhibitions and events: 9:00-18:00, with early extension from 8:00 and late extension until 19:00. Holidays are charged the same rates as weekdays. Inquiries are accepted on weekdays 9:00-17:00",
+ "notice": null,
+ "rooms": [
+  {
+   "name": "30F Room A",
+   "note": "Classroom: 200 seats at 2 per desk / 300 seats at 3 per desk. Partial use (7/9, 6/9, 5/9 sections, etc.) is also possible. Meetings etc. 9:00-17:00 770,000 yen (morning 330,000 yen / afternoon 440,000 yen), extension 110,000 yen per hour (as of April 1, 2021, tax included)"
+  },
+  {
+   "name": "30F Room B",
+   "note": "Classroom: 150 seats at 2 per desk / 225 seats at 3 per desk. Meetings etc. 9:00-17:00 385,000 yen (morning 165,000 yen / afternoon 220,000 yen), extension 55,000 yen per hour (as of April 1, 2021, tax included)"
+  },
+  {
+   "name": "30F Room B1",
+   "note": "Classroom: 60 seats at 2 per desk / 90 seats at 3 per desk. Meetings etc. 9:00-17:00 154,000 yen (morning 66,000 yen / afternoon 88,000 yen), extension 22,000 yen per hour. Cannot be used on its own for exhibitions and events (as of April 1, 2021, tax included)"
+  },
+  {
+   "name": "30F Room B2",
+   "note": "Classroom: 80 seats at 2 per desk / 120 seats at 3 per desk. Meetings etc. 9:00-17:00 231,000 yen (morning 99,000 yen / afternoon 132,000 yen), extension 33,000 yen per hour (as of April 1, 2021, tax included)"
+  },
+  {
+   "name": "1F Room C",
+   "note": "Classroom: 80 seats at 2 per desk (2 per desk only). Meetings etc. 9:00-17:00 138,600 yen (morning 59,400 yen / afternoon 79,200 yen), extension 19,800 yen per hour. Cannot be used for exhibitions and events (as of April 1, 2021, tax included)"
+  },
+  {
+   "name": "30F Room A + Room B",
+   "note": "Exhibitions and events 9:00-18:00 1,859,000 yen, extension 187,000 yen per hour, load-in day rate 371,800 yen (as of April 1, 2021, tax included). Movable partitions change the space from 162 to 1,089㎡"
+  },
+  {
+   "name": "30F Room A + Room B1",
+   "note": "Exhibitions and events 9:00-18:00 1,524,600 yen, extension 149,600 yen per hour, load-in day rate 304,920 yen (as of April 1, 2021, tax included)"
+  }
+ ],
+ "ops": {
+  "prevDaySetup": "When load-in and load-out of materials is needed, the work is in principle done on the day before, and a \"load-in day rate\" of 20% of the venue usage fee plus a facility usage fee for floor and wall protection (44,000 yen flat) apply. The same rate applies when work for a meeting starts after 18:00 on the previous day. When a meeting room is used on the previous day or earlier to prepare for an exhibition, a \"preparation day rate\" of 50% of the venue usage fee applies. Setup is free of charge as long as it uses only the provided fixtures and equipment, and restoration to original condition is not required. (Source: https://www.sunskyroom.jp/shinjuku/)",
+  "loadingHours": "Loading and unloading goes through the loading bay of the paid parking lot on B3F, using the passenger/freight elevator. The passenger/freight elevator has an entrance 1,200 mm wide x 2,100 mm high, a car 1,800 mm wide x 1,900 mm deep, a ceiling height of 2,280 / 2,450 / 2,620 / 3,000 mm (4 settings), and a load capacity of 1,600 kg. Consult in advance about floor and wall protection for interior construction at the venue and for load-in and load-out. Be mindful of soundproofing for the companies on the floors below. (Source: https://www.sunskyroom.jp/pdf/slt_terms2.pdf)",
+  "vehicleRules": "Freight vehicles entering the underground parking lot are limited to 2.1 m high (when empty) and 6.0 m long. Consult in advance about loading and unloading with large trucks and other vehicles that cannot enter the underground parking lot. (Source: https://www.sunskyroom.jp/pdf/slt_terms2.pdf)",
+  "parking": "There is an hourly parking lot under the building. (Source: https://www.sunskyroom.jp/shinjuku/)",
+  "catering": "Ordering from the caterers and boxed lunch vendors designated by Sunsky Room is announced. Eating and drinking in the rooms is allowed otherwise too, but trash must be taken away. Empty containers such as brought-in boxed lunches and plastic bottles must also be taken away by the user. (Source: https://www.sunskyroom.jp/shinjuku/)",
+  "restaurants": "There is a convenience store on B1F and a restaurant area on B2F. The whole building is non-smoking, and there is no break space. (Source: https://www.sunskyroom.jp/shinjuku/)"
+ },
+ "documents": [
+  {
+   "title": "Terms of Use [for Meetings] (June 1, 2022)"
+  },
+  {
+   "title": "Terms of Use [for Events]"
+  },
+  {
+   "title": "Application Form"
+  },
+  {
+   "title": "Basic Infection Control Measures"
+  },
+  {
+   "title": "Room Types and Price List (venue fees as of April 1, 2021 / equipment fees as of September 25, 2023)"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "FamilyMart Shinjuku Nomura Building",
+    "hours": "7:00-22:00",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "FamilyMart Shinjuku L Tower",
+    "hours": "7:00-23:00",
+    "note": "Distance is calculated from the location in the official store list (the address location is in the same block as the venue)."
+   },
+   {
+    "name": "FamilyMart Shinjuku Sompo Japan",
+    "hours": "6:30-23:00",
+    "note": "Distance is calculated from the location in the official store list (the address location is in the same block as the venue)."
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "Accea Nishi-Shinjuku",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Kinko's Nishi-Shinjuku",
+    "hours": "Weekdays 8:00-20:00 / Sat, Sun & holidays 10:00-20:00",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "DAISO Shinjuku Cocoon Tower",
+    "hours": "8:00-21:00",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Can Do Nishi-Shinjuku",
+    "hours": "Daily 9:00-22:00",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "donki": [
+   {
+    "name": "Don Quijote Shinjuku Kabukicho",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. The store name on the Don Quijote official website is \"Shinjuku Kabukicho\" (新宿歌舞伎町店)."
+   },
+   {
+    "name": "Don Quijote Shinjuku Southeast Exit",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. The store name on the Don Quijote official website is \"Shinjuku Southeast Exit\" (新宿東南口店)."
+   }
+  ]
+ },
+ "photoCredit": "© Rs1421 / CC BY-SA 3.0 · Wikimedia Commons"
+}

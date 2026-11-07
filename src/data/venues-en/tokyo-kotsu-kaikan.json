@@ -1,0 +1,182 @@
+{
+ "slug": "tokyo-kotsu-kaikan",
+ "name": "Tokyo Kotsu Kaikan",
+ "address": "Tokyo 100-0006 2-10-1 Yurakucho, Chiyoda-ku",
+ "accessSummary": "JR Yurakucho Station: 1 min walk / Tokyo Metro Yurakucho Line, Yurakucho Station: 1 min walk / Yurakucho Line, Ginza-itchome Station: 1 min walk / Marunouchi Line, Ginza Line and Hibiya Line, Ginza Station: 3 min walk / Toei Mita Line, Hibiya Station: 5 min walk / Chiyoda Line, Hibiya Station: 8 min walk",
+ "hours": "Exhibition halls are in principle rented by the day, 9:00-21:00 (including setup and teardown time). Meeting rooms are rented by time slot: morning 9:00-12:00, afternoon 13:00-17:00, evening 18:00-21:00",
+ "notice": "The freight elevator is temporarily out of service from January 29 to March 31, 2027 for renewal work.",
+ "rooms": [
+  {
+   "name": "12F Diamond Hall",
+   "note": "About 300 tsubo. Usage fee 1,089,000 yen (tax included) per day. On the Yurakucho Station side. There are partition walls on the Tokyo Station side and the ITOCiA side, and the ceiling is partly low. 20 pillars. Floor load 300 kg/㎡. A part of it can be rented as Meeting Room 1A."
+  },
+  {
+   "name": "12F Cattleya Salon, entire (A+B)",
+   "note": "About 300 tsubo. Usage fee 1,089,000 yen (tax included) per day. Can be divided into A and B."
+  },
+  {
+   "name": "12F Cattleya Salon A",
+   "note": "About 160 tsubo. Usage fee 660,000 yen (tax included) per day. 11 pillars."
+  },
+  {
+   "name": "12F Cattleya Salon B",
+   "note": "About 140 tsubo. Usage fee 605,000 yen (tax included) per day. 9 pillars. Partition wall on the Tokyo Station side. Sink in the room (heavy food and drink not allowed)."
+  },
+  {
+   "name": "12F Entire Floor (Diamond Hall + Cattleya Salon)",
+   "note": "About 600 tsubo. Usage fee 2,145,000 yen (tax included) per day. Can be used together with the elevator hall."
+  },
+  {
+   "name": "3F Green Room",
+   "note": "About 60 tsubo. Usage fee 264,000 yen (tax included) per day. 2 pillars. No sink (tasting and sampling of food and drink is allowed). Also rented as Meeting Room 1B."
+  },
+  {
+   "name": "12F Meeting Room 1A",
+   "note": "Part of the Diamond Hall and Cattleya Salon (76 tsubo). Theater etc. about 150 people. The figures for classroom layout differ within the official site: the meeting room page says about 70-80 people when using 76 tsubo (about 100-120 people when using 150 tsubo), while the FAQ says about 90 people. U-shape about 50 people. Usage fee: morning 66,000 yen, afternoon 88,000 yen, evening 66,000 yen, all day 176,000 yen (tax included). Using 980㎡ costs about 4 times the base fee."
+  },
+  {
+   "name": "3F Meeting Room 1B",
+   "note": "Uses the Green Room (60 tsubo). Theater etc. 60 people. Usage fee: morning 44,000 yen, afternoon 66,000 yen, evening 44,000 yen, all day 121,000 yen (tax included)."
+  },
+  {
+   "name": "B2F Meeting Room 2A",
+   "note": "18 tsubo. Capacity 20 people (square arrangement, 10 tables, 20 chairs + 5 spare). 75-inch built-in monitor. Usage fee: morning 19,800 yen, afternoon 22,000 yen, evening 19,800 yen, all day 61,600 yen (tax included)."
+  },
+  {
+   "name": "B2F Meeting Room 2B",
+   "note": "10 tsubo. Capacity 12 people (oval, 6 tables, 12 chairs + 3 spare). 65-inch built-in monitor. Usage fee: morning 13,200 yen, afternoon 15,400 yen, evening 13,200 yen, all day 41,800 yen (tax included)."
+  },
+  {
+   "name": "B2F Meeting Room 2C",
+   "note": "5 tsubo. Capacity 6 people (3 tables, 6 chairs + 3 spare). Usage fee: morning 6,600 yen, afternoon 7,700 yen, evening 6,600 yen, all day 20,900 yen (tax included)."
+  }
+ ],
+ "ops": {
+  "prevDaySetup": "For load-in the day before, a half-day use of up to 6 hours costs 50% of the one-day usage fee, and use beyond a half day costs a full day's fee. Load-out the next day is treated the same way. The basic usage time is 9:00-21:00; early-morning or day-before load-in and late-night or next-day load-out are handled by individual consultation. (Source: Exhibition Hall Terms of Use)",
+  "loadingHours": "Load-in and load-out are in principle 9:00-21:00. Because events are held at multiple venues on the same day, work is in principle done within a time agreed in advance between 8:00 and 21:00, and in the morning from 7:00 at the earliest. Load-in and load-out is not possible from 12:00 to 13:00. On Saturdays, Sundays and holidays, the freight elevator cannot be used from 9:00 to 9:30 and from 19:00 to 19:30 because of setup and cleanup for the marche on the 1F piloti. The freight elevator has a weight limit of 1,950 kg and does not accept items 3 m or longer. The venue use plan (load-in and load-out times, number of trucks, number of fixtures) must be submitted 1 month (14 business days) in advance. (Source: Terms updated April 2026, load-in and load-out route map)",
+  "vehicleRules": "Vehicles of 2 to 4 tons load in and out from the 1F outer perimeter. Trucks over 4 tons are not allowed (10-ton trucks not allowed), and only up to 2 can be parked. The 3rd and later vehicles wait nearby and pull up after the earlier vehicles finish. Vehicles up to 2.1 m high, 2.5 m wide and 6.0 m long can use the loading space in front of the freight elevator on B3F, and must move as soon as loading is finished. The building applies for road use on the 1F and also arranges security guards (no floor protection needed). Contact the disaster prevention center (03-3216-2028) before starting, and place one load-in/load-out manager on the sidewalk. Parking for delivery contractors is free for 1 hour with the manager's stamp.",
+  "parking": "175 spaces on B2F and B3F (including 2 for people with disabilities). Business hours 7:00-24:00; vehicles cannot exit from 24:00 to 7:00. 350 yen (tax included) per 30 minutes. On weekdays, 2,400 yen for over 3 hours up to 12 hours (the cap is not applied repeatedly). Vehicle limits are 2.1 m high, 2.5 m wide and 6.0 m long; motorcycles are not allowed. Exhibition hall users can use the deferred-payment parking service (paid by the organizer, 30% off the regular rate) and a discount for visitors (250 yen per 30 minutes).",
+  "waitingRooms": "The exhibition halls have no waiting rooms; you can set one up inside the room or use Meeting Rooms 2A to 2C on B2F (separate fee) as waiting rooms. A part of the exhibition hall can also be rented as Meeting Rooms 1A and 1B.",
+  "catering": "There is no designated caterer, and you can arrange a vendor you work with. If food and drink are served in the room, arranging a cleaning company is required (there is no designated company, and the building can introduce one). Open flames are prohibited in the venue, also when catering is arranged. The Diamond Hall and Cattleya Salon B on the 12F have sinks, and if a sanitary area is set up, cooking limited to warming and hot-water bath heating is possible (stir-frying, grilling and deep-frying are not allowed). Alcohol sampling is possible; check in advance with the Chiyoda Public Health Center.",
+  "restaurants": "Some restaurants in the building take catering orders. For meeting rooms, coffee catering is available from the Ginza Sky Lounge on the 15F and from the coffee shops on the 3F and B1F."
+ },
+ "documents": [
+  {
+   "title": "Exhibition Hall Terms of Use (updated April 2026)"
+  },
+  {
+   "title": "Exhibition Hall Main Equipment and Specifications"
+  },
+  {
+   "title": "Price List"
+  },
+  {
+   "title": "Load-in and Load-out Routes"
+  },
+  {
+   "title": "12F and 3F Floor Plans"
+  },
+  {
+   "title": "Layout Examples (reference)"
+  },
+  {
+   "title": "Cleaning After Use"
+  },
+  {
+   "title": "Specifications for Signage, Website Banner and Digital Signage Data"
+  },
+  {
+   "title": "Other Documents Set"
+  },
+  {
+   "title": "Facility Liability Insurance Application Form (for new enrollment)"
+  },
+  {
+   "title": "Venue Use Application Form (Excel)"
+  },
+  {
+   "title": "Venue Use Plan (Excel)"
+  },
+  {
+   "title": "Provisional Reservation Receipt (Excel)"
+  },
+  {
+   "title": "Meeting Room Terms of Use"
+  },
+  {
+   "title": "Meeting Rooms 1A and 1B Floor Plans"
+  },
+  {
+   "title": "Meeting Rooms 2A, 2B and 2C (B2F) Floor Map"
+  },
+  {
+   "title": "Meeting Rooms 1A and 1B Use Plan (Excel)"
+  },
+  {
+   "title": "Meeting Rooms 1A and 1B Application Form (Excel)"
+  },
+  {
+   "title": "Meeting Rooms 2A, 2B and 2C Application Form (Excel)"
+  },
+  {
+   "title": "Sampling Area and Event Space Terms of Use"
+  },
+  {
+   "title": "Sampling Area and Event Space Floor Plans"
+  },
+  {
+   "title": "Area Map"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "7-Eleven Yurakucho Itocia",
+    "hours": "7:00-23:00 (Mon-Sun & holidays)",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "FamilyMart Tokyo International Forum",
+    "hours": "7:00-23:30",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "FamilyMart Ginza 2-chome",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location."
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "Kinko's Ginza-itchome",
+    "hours": "Weekdays 9:00-20:00 / Sat 10:00-19:00 / Sun & holidays closed",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Accea Ginza Five",
+    "hours": "Weekdays 10:00-20:00 / Closed Sat, Sun & holidays",
+    "note": "Distance is calculated from the address location. Accea Mini (small store). In-store payment does not accept cash (credit cards, electronic money, QR code payments, etc.)."
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "DAISO Marronnier Gate Ginza",
+    "hours": "11:00-21:00",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "3COINS +plus Nishi-Ginza Department Store",
+    "hours": "11:00-20:00",
+    "note": "Distance is calculated from the official store location."
+   }
+  ],
+  "donki": [
+   {
+    "name": "Don Quijote Ginza Main Building (Ginza Nine Building No. 3)",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location."
+   }
+  ]
+ },
+ "photoCredit": "© MaedaAkihiko / CC BY-SA 4.0 · Wikimedia Commons"
+}
