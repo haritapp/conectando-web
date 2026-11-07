@@ -1,0 +1,360 @@
+{
+ "slug": "icho-hall-hachioji",
+ "nameJa": "いちょうホール（八王子市芸術文化会館）",
+ "nameEn": "Hachioji City Art & Cultural Hall",
+ "type": "hall",
+ "area": "tama-venues",
+ "address": "〒192-0066 東京都八王子市本町24番1号",
+ "officialUrl": "https://www.hachiojibunka.or.jp/icho/",
+ "organizerUrl": "https://www.hachiojibunka.or.jp/icho/moushikomi/",
+ "bizintokyoSlug": "icho-hall-hachioji",
+ "accessSummary": "JR八王子駅北口から徒歩15分／京王八王子駅から徒歩20分",
+ "notice": "物品販売を目的とした利用は承認されない。",
+ "hours": "9:00～22:00（休館日：毎週月曜日（休日の場合は翌平日）、12月29日～1月3日、その他年間数日）。利用料：大ホール 平日全日153,600円・土日休日全日192,300円、小ホール 平日全日59,800円・土日休日全日74,900円（楽屋利用料を含む。器具利用料は別）。入場料等を徴収する場合は加算利用料あり。",
+ "rooms": [
+  {
+   "name": "大ホール",
+   "areaM2": null,
+   "ceilingM": null,
+   "theater": 800,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "ワンスロープ800席（車椅子席2席含む）。舞台は間口18.00m（14.00m～18.00m）、奥行16.35m、高さ8.00m（8.00m～9.50m）"
+  },
+  {
+   "name": "小ホール",
+   "areaM2": null,
+   "ceilingM": null,
+   "theater": 282,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "282席（プロセニアム形式の場合）。舞台は間口9.91m、奥行7.50m、高さ6.10m。改修後は平土間での利用不可"
+  },
+  {
+   "name": "第1練習室",
+   "areaM2": 154.8,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "B1F。定員60名"
+  },
+  {
+   "name": "第2練習室",
+   "areaM2": 89.6,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "B1F。定員30名"
+  },
+  {
+   "name": "第3練習室",
+   "areaM2": 54.9,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "B1F。定員18名"
+  },
+  {
+   "name": "第1展示室",
+   "areaM2": 123.1,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "1F。可動壁使用可、半面利用可。イス30・机10"
+  },
+  {
+   "name": "第2展示室",
+   "areaM2": 123.1,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "2F。可動壁使用可、半面利用可。イス30・机10"
+  },
+  {
+   "name": "創作室",
+   "areaM2": 91.4,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "4F。定員32名。イス32・机12"
+  },
+  {
+   "name": "第1会議室",
+   "areaM2": 38.0,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "4F。定員20名。机10台"
+  },
+  {
+   "name": "第2会議室",
+   "areaM2": 25.2,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "4F。定員13名。机7台"
+  },
+  {
+   "name": "第3会議室",
+   "areaM2": 25.2,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "4F。定員16名。机8台"
+  },
+  {
+   "name": "第4会議室",
+   "areaM2": 48.5,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "3F。定員25名。机9台、スクリーン（W147×H196cm）"
+  },
+  {
+   "name": "多目的室",
+   "areaM2": 90,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "1F。定員50名。専有利用は区分貸し。発表会後の会食やパーティー等に利用できる"
+  },
+  {
+   "name": "第1茶室",
+   "areaM2": null,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "3F。8.0畳（水屋除く）"
+  },
+  {
+   "name": "第2茶室",
+   "areaM2": null,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "3F。4.5畳（水屋除く）"
+  }
+ ],
+ "roomsSource": "https://www.hachiojibunka.or.jp/icho/facility/",
+ "ops": {
+  "prevDaySetup": {
+   "text": "利用区分は午前9:00～12:00・午後13:00～17:00・夜間18:00～22:00・全日9:00～22:00で、準備から後片付けまでの時間を含む。連続した複数の区分を利用する場合は区分の間も利用できる。連続使用可能期間は大ホール・小ホール・展示室が6日間、練習室・創作室・茶室・会議室が3日間。",
+   "source": "https://www.hachiojibunka.or.jp/icho/moushikomi/"
+  },
+  "loadingHours": {
+   "text": "館内図に搬入口は小ホール搬入口（1階）と地下搬入口（地下1階、地下駐車場内）の2か所が示されている。",
+   "source": "https://www.hachiojibunka.or.jp/icho/assets/doc/floor1.pdf"
+  },
+  "vehicleRules": {
+   "text": "施設予約・本契約・施設利用時の搬入及び搬出・チケット購入のために駐車場を利用した場合、駐車料金が1時間分割引になる。割引は精算前に1階受付で手続きする。",
+   "source": "https://www.hachiojibunka.or.jp/icho/facility/parking/"
+  },
+  "parking": {
+   "text": "地下駐車場23台（高さ3.0m・幅2.0m・長さ5m）、第1駐車場32台（高さ3.0m・幅2.0m・2t車まで）、第2駐車場36台（高さ2.3m・幅1.8m・長さ6.4m）。いずれも8:30～22:30（22:00以降の入庫は制限）、20分100円（1日最大900円）。",
+   "source": "https://www.hachiojibunka.or.jp/icho/facility/parking/"
+  },
+  "waitingRooms": {
+   "text": "大ホール楽屋5室（11.3㎡・6名／11.3㎡・6名／38.0㎡・10名／60.0㎡・22名／70.0㎡・24名）。小ホール楽屋4室（22㎡・5名／53.5㎡・22名／13㎡・5名／11㎡・5名）。ホール利用料に楽屋の利用料を含む。",
+   "source": "https://www.hachiojibunka.or.jp/icho/facility/main_hall/"
+  }
+ },
+ "documents": [
+  {
+   "title": "利用料（大ホール・小ホール・諸室・駐車場）",
+   "url": "https://www.hachiojibunka.or.jp/icho/ryoukin/"
+  },
+  {
+   "title": "器具利用料一覧",
+   "url": "https://www.hachiojibunka.or.jp/icho/assets/doc/kigu.pdf"
+  },
+  {
+   "title": "利用申請及び利用承認並びに利用料金の取扱いに関する規程（平成24年12月27日制定）",
+   "url": "https://www.hachiojibunka.or.jp/icho/assets/doc/icho.pdf"
+  },
+  {
+   "title": "1階平面図",
+   "url": "https://www.hachiojibunka.or.jp/icho/assets/doc/floor1.pdf"
+  },
+  {
+   "title": "地下1階平面図",
+   "url": "https://www.hachiojibunka.or.jp/icho/assets/doc/floorb1.pdf"
+  },
+  {
+   "title": "地下駐車場 配置図",
+   "url": "https://www.hachiojibunka.or.jp/icho/assets/doc/008.pdf"
+  },
+  {
+   "title": "大ホール 舞台設備備品一覧（2025年6月）",
+   "url": "https://www.hachiojibunka.or.jp/icho/wp-content/uploads/2023/04/202506八王子市芸術文化会館大ホール舞台設備備品一覧.pdf"
+  },
+  {
+   "title": "大ホール 音響設備一覧（2026年1月14日）",
+   "url": "https://www.hachiojibunka.or.jp/icho/wp-content/uploads/2023/04/20260114大ホール音響機材リスト.pdf"
+  },
+  {
+   "title": "大ホール 照明設備一覧（2025年6月25日）",
+   "url": "https://www.hachiojibunka.or.jp/icho/wp-content/uploads/2025/06/20250625八王子市芸術文化会館大ホール照明設備一覧.pdf"
+  },
+  {
+   "title": "小ホール 舞台設備備品一覧（2025年6月）",
+   "url": "https://www.hachiojibunka.or.jp/icho/wp-content/uploads/2023/04/202506八王子市芸術文化会館小ホール舞台設備備品一覧.pdf"
+  },
+  {
+   "title": "小ホール 音響設備一覧（2026年1月14日）",
+   "url": "https://www.hachiojibunka.or.jp/icho/wp-content/uploads/2023/04/20260114小ホール音響機材リスト.pdf"
+  },
+  {
+   "title": "施設利用者登録申込書（団体・個人共通）",
+   "url": "https://www.hachiojibunka.or.jp/icho/assets/doc/043.pdf"
+  },
+  {
+   "title": "施設利用変更届（2024年）",
+   "url": "https://www.hachiojibunka.or.jp/icho/wp-content/uploads/2024/07/施設利用変更届2024.pdf"
+  },
+  {
+   "title": "施設利用取消届（2024年）",
+   "url": "https://www.hachiojibunka.or.jp/icho/wp-content/uploads/2024/07/施設利用取消届2024.pdf"
+  }
+ ],
+ "checkedAt": "2026-11-07",
+ "lat": 35.662102,
+ "lng": 139.332779,
+ "nearby": {
+  "convenience": [
+   {
+    "name": "ローソン 八王子八日町店",
+    "brand": "ローソン",
+    "distanceM": 227,
+    "walkMin": 3,
+    "hours": "24時間営業",
+    "address": "東京都八王子市八日町10-1",
+    "verified": true,
+    "source": "https://www.areamarker.com/lawson/info/279870",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "セブン-イレブン 八王子八日町店",
+    "brand": "セブン-イレブン",
+    "distanceM": 260,
+    "walkMin": 4,
+    "hours": "24時間営業",
+    "address": "東京都八王子市八日町1-16",
+    "verified": true,
+    "source": "https://seven-eleven.areamarker.com/711map/info/517358",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "セブン-イレブン 八王子八日町5丁目店",
+    "brand": "セブン-イレブン",
+    "distanceM": 341,
+    "walkMin": 5,
+    "hours": "24時間営業",
+    "address": "東京都八王子市八日町5番15",
+    "verified": true,
+    "source": "https://seven-eleven.areamarker.com/711map/info/425923",
+    "note": "距離は公式の店舗位置で計算"
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "アクセア 京王八王子駅前店",
+    "brand": "アクセア",
+    "distanceM": 981,
+    "walkMin": 13,
+    "hours": "平日9:00〜20:00／土日祝休み",
+    "address": "東京都八王子市明神町3-20-6 八王子ファーストスクエア1F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/entry.html",
+    "note": "距離は住所の位置で計算。平日のみ営業（土日祝休み）"
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "DAISO ドン・キホーテ八王子駅前店",
+    "brand": "ダイソー",
+    "distanceM": 610,
+    "walkMin": 8,
+    "hours": "9:00-21:00",
+    "address": "東京都八王子市中町1-3 ドン・キホーテ八王子駅前店7階",
+    "verified": true,
+    "source": "https://www.daiso-sangyo.co.jp/shop/detail/001638",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "Seria 八王子オクトーレ店",
+    "brand": "セリア",
+    "distanceM": 745,
+    "walkMin": 10,
+    "hours": "月〜日 10:00-20:00",
+    "address": "東京都八王子市旭町9-1八王子オクトーレ 5F",
+    "verified": true,
+    "source": "https://shop.seria-group.com/seria/info/000001710",
+    "note": "距離は公式の店舗位置で計算"
+   }
+  ],
+  "donki": [
+   {
+    "name": "ドン・キホーテ 八王子駅前店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 622,
+    "walkMin": 8,
+    "hours": "24時間営業",
+    "address": "東京都八王子市中町1-3",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=220",
+    "note": "距離は住所の位置で計算。ドン・キホーテ公式サイトの店舗名は「八王子駅前店」"
+   }
+  ]
+ },
+ "drinkDelivery": {
+  "available": false
+ },
+ "photo": {
+  "src": "/images/venues/icho-hall-hachioji.jpg",
+  "credit": "© 散歩 / Public domain · Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82%E8%8A%B8%E8%A1%93%E6%96%87%E5%8C%96%E4%BC%9A%E9%A4%A8_%E3%81%84%E3%81%A1%E3%82%87%E3%81%86%E3%83%9B%E3%83%BC%E3%83%AB%E5%8D%97%E5%81%B4.JPG"
+ }
+}

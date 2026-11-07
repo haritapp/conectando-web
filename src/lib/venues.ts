@@ -112,6 +112,7 @@ export const AREA_LABEL: Record<string, string> = {
   'east-tokyo-venues': '錦糸町・船堀（東京東部）',
   'yokohama-venues': '横浜',
   'chiba-venues': '千葉（幕張・舞浜）',
+  'saitama-venues': '埼玉（大宮）',
 };
 export const areaColumnPath = (area: string) => `/column/${area}/`;
 

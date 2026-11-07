@@ -1,0 +1,291 @@
+{
+ "slug": "minami-osawa-cultural-hall",
+ "nameJa": "八王子市南大沢文化会館",
+ "nameEn": "Hachioji City College Minami Osawa Cultural Hall",
+ "type": "hall",
+ "area": "tama-venues",
+ "address": "〒192-0364 東京都八王子市南大沢2丁目27番地",
+ "officialUrl": "https://www.hachiojibunka.or.jp/minami/",
+ "organizerUrl": "https://www.hachiojibunka.or.jp/minami/moushikomi/",
+ "bizintokyoSlug": "minami-osawa-cultural-hall",
+ "accessSummary": "京王相模原線「南大沢」駅 徒歩3分",
+ "notice": null,
+ "hours": "9:00～22:00（休館日：毎週月曜日（祝日の場合は翌日）、12月29日～1月3日）",
+ "rooms": [
+  {
+   "name": "主ホール",
+   "areaM2": null,
+   "ceilingM": null,
+   "theater": 500,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "客席500席（固定席496席、車椅子席4席）。舞台は間口13.70m、奥行11.00m、高さ7.02m。楽屋は和室1室・洋室3室。基本利用料は平日全日79,000円、土曜全日95,000円、日曜・祝日全日100,000円（午前9:00～12:00／午後13:00～17:00／夜間18:00～22:00の区分あり）"
+  },
+  {
+   "name": "交流ホール",
+   "areaM2": null,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "定員270名（座席数は利用内容により異なる）。フラットな床と可変式の迫り上げ舞台（間口4.50m、奥行2.35m、高さ400・600・800mmの三段階）を備えた円形空間。基本利用料は平日全日44,000円、土曜全日53,000円、日曜・祝日全日56,000円"
+  },
+  {
+   "name": "リハーサル室",
+   "areaM2": 215.8,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "定員76名。床面積は倉庫・前室等を含まない。基本利用料は全日27,800円"
+  },
+  {
+   "name": "第1練習室",
+   "areaM2": 77.8,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "定員21名（第1・第2練習室共通）。床面積は倉庫・前室を含む。基本利用料は全日8,600円"
+  },
+  {
+   "name": "第2練習室",
+   "areaM2": 76.4,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "定員21名（第1・第2練習室共通）。床面積は倉庫・前室を含む。基本利用料は全日8,600円"
+  },
+  {
+   "name": "展示・多目的室（全面）",
+   "areaM2": 165.0,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "定員80名。床面積は控室・倉庫等を含まない。パネル22枚（可動式）、折り畳みテーブル20本、折り畳み椅子80脚。基本利用料は全日15,100円"
+  },
+  {
+   "name": "展示・多目的室（半面）",
+   "areaM2": 80,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "定員40名。床面積は約80㎡。基本利用料は全日7,550円"
+  },
+  {
+   "name": "第1会議室",
+   "areaM2": 68,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "定員36名（机12・椅子36脚）。基本利用料は全日4,200円"
+  },
+  {
+   "name": "第2会議室",
+   "areaM2": 68,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "定員36名（机12・椅子36脚）。基本利用料は全日4,200円"
+  },
+  {
+   "name": "第3会議室",
+   "areaM2": 56,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "定員27名（机9・椅子27脚）。基本利用料は全日3,700円"
+  },
+  {
+   "name": "第4会議室",
+   "areaM2": 42,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "定員18名（机6・椅子18脚）。基本利用料は全日3,100円"
+  },
+  {
+   "name": "第3・4会議室",
+   "areaM2": 98,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "定員63名（机21・椅子63脚）。第3・第4会議室を一室で使う場合は各区分の利用料の合算額（全日6,800円）"
+  }
+ ],
+ "roomsSource": "https://www.hachiojibunka.or.jp/minami/facility/",
+ "ops": {
+  "prevDaySetup": {
+   "text": "各利用区分（午前9:00～12:00、午後13:00～17:00、夜間18:00～22:00、全日9:00～22:00）には準備から後片付けまでの時間が含まれる。連続した複数の区分を利用する場合は、区分の間も利用できる。連続使用できる期間は、主ホール・交流ホール・展示多目的室（展示目的のみ）が6日間、リハーサル室・練習室・会議室・展示多目的室が3日間（ホール・展示室に付随する場合は6日間）。利用時間の超過・繰上げは、管理上支障がない時に限り1時間以内で承認され、加算利用料がかかる。",
+   "source": "https://www.hachiojibunka.or.jp/minami/moushikomi/"
+  },
+  "loadingHours": {
+   "text": "荷物を事前に館へ送る場合は、荷物等宅配届を発送の1週間前までに提出する（休館日は到着・引取とも不可）。物品販売は物品販売申請書兼精算書を利用日の2週間前までに提出する。展示室の利用でも搬入口からの作業になり、当日は職員の指示に従う。",
+   "source": "https://www.hachiojibunka.or.jp/minami/wp-content/uploads/2026/04/★催物計画書★20260917～.pdf"
+  },
+  "parking": {
+   "text": "専用駐車場はなく、隣接するフレスコ南大沢ビル地下の八王子市営南大沢駐車場（100台、8:00～22:30、30分120円、車両制限は高さ2.3m・幅1.8m・長さ5m）か近隣の有料駐車場を使う。市営駐車場からはエレベーターで文化会館に行ける。",
+   "source": "https://www.hachiojibunka.or.jp/minami/facility/parking/"
+  },
+  "waitingRooms": {
+   "text": "主ホールは楽屋（和室1室・洋室3室）と主催者控室が付属する。交流ホールは楽屋、控室、パントリーが付属する。展示・多目的室は控室が付属する。",
+   "source": "https://www.hachiojibunka.or.jp/minami/facility/main_hall/"
+  }
+ },
+ "documents": [
+  {
+   "title": "利用申請及び利用承認並びに利用料金の取扱いに関する規程（平成24年12月27日制定）",
+   "url": "https://www.hachiojibunka.or.jp/assets/documents/minami.pdf"
+  },
+  {
+   "title": "催物計画書（2026年9月17日改訂）",
+   "url": "https://www.hachiojibunka.or.jp/minami/wp-content/uploads/2026/04/★催物計画書★20260917～.pdf"
+  },
+  {
+   "title": "荷物等宅配届（2026年4月17日版）",
+   "url": "https://www.hachiojibunka.or.jp/minami/wp-content/uploads/2026/04/南-荷物宅配届20260417.pdf"
+  },
+  {
+   "title": "施設利用者登録申込書（2026年4月17日版）",
+   "url": "https://www.hachiojibunka.or.jp/minami/wp-content/uploads/2026/04/南-施設利用者登録申込書20260417.pdf"
+  },
+  {
+   "title": "施設利用変更届（2026年4月17日版）",
+   "url": "https://www.hachiojibunka.or.jp/minami/wp-content/uploads/2026/04/南-施設利用変更届20260417.pdf"
+  },
+  {
+   "title": "施設利用取消届（2026年4月17日版）",
+   "url": "https://www.hachiojibunka.or.jp/minami/wp-content/uploads/2026/04/南-施設利用取消届20260417.pdf"
+  },
+  {
+   "title": "諸室抽選会用予約申込書（2026年5月3日～）",
+   "url": "https://www.hachiojibunka.or.jp/minami/wp-content/uploads/2026/04/提出用＿諸室抽選申込書20260503～.pdf"
+  },
+  {
+   "title": "各種資料ダウンロード（フロア平面図・座席表・舞台平面図・バトン割図ほか）",
+   "url": "https://www.hachiojibunka.or.jp/minami/file/"
+  },
+  {
+   "title": "利用料金表（令和9年4月1日改定予告つき）",
+   "url": "https://www.hachiojibunka.or.jp/minami/ryoukin/"
+  }
+ ],
+ "checkedAt": "2026-11-07",
+ "lat": 35.611881,
+ "lng": 139.379471,
+ "nearby": {
+  "convenience": [
+   {
+    "name": "セブン-イレブン 八王子南大沢4丁目店",
+    "brand": "セブン-イレブン",
+    "distanceM": 139,
+    "walkMin": 2,
+    "hours": "24時間営業",
+    "address": "東京都八王子市南大沢4丁目8番2",
+    "verified": true,
+    "source": "https://seven-eleven.areamarker.com/711map/info/546377",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "セブン-イレブン 京王南大沢駅店",
+    "brand": "セブン-イレブン",
+    "distanceM": 254,
+    "walkMin": 4,
+    "hours": "月 6:30-22:00／火 6:30-22:00／水 6:30-22:00／木 6:30-22:00／金 6:30-22:00／土 6:30-21:00／日 7:00-20:00／祝 7:00-20:00",
+    "address": "東京都八王子市南大沢2-1-6",
+    "verified": true,
+    "source": "https://seven-eleven.areamarker.com/711map/info/520225",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "ファミリーマート パオレ南大沢店",
+    "brand": "ファミリーマート",
+    "distanceM": 258,
+    "walkMin": 4,
+    "hours": "24時間営業",
+    "address": "東京都八王子市南大沢二丁目2番",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/57117",
+    "note": "距離は公式の店舗位置で計算"
+   }
+  ],
+  "copyshop": [],
+  "hundredYen": [
+   {
+    "name": "DAISO イトーヨーカドー南大沢店",
+    "brand": "ダイソー",
+    "distanceM": 140,
+    "walkMin": 2,
+    "hours": "10:00-21:00",
+    "address": "東京都八王子市南大沢2-28-1 イトーヨーカドー南大沢店内4階",
+    "verified": true,
+    "source": "https://www.daiso-sangyo.co.jp/shop/detail/001571",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "Standard Products イトーヨーカドー南大沢店",
+    "brand": "Standard Products",
+    "distanceM": 140,
+    "walkMin": 2,
+    "hours": "10:00-21:00",
+    "address": "東京都八王子市南大沢2-28-1 イトーヨーカドー南大沢店内4階",
+    "verified": true,
+    "source": "https://www.daiso-sangyo.co.jp/shop/detail/005091",
+    "note": "距離は公式の店舗位置で計算"
+   }
+  ],
+  "donki": [
+   {
+    "name": "ドン・キホーテ 京王堀之内店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 2183,
+    "walkMin": 28,
+    "hours": "10:00-3:00",
+    "address": "東京都八王子市松木34-11",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=14",
+    "note": "距離は住所の位置で計算。遠い。ドン・キホーテ公式サイトの店舗名は「京王堀之内店」"
+   }
+  ]
+ },
+ "drinkDelivery": {
+  "available": false
+ },
+ "photo": {
+  "src": "/images/venues/minami-osawa-cultural-hall.jpg",
+  "credit": "© ardosa / CC BY 3.0 · Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E5%8D%97%E5%A4%A7%E6%B2%A2%E6%96%87%E5%8C%96%E4%BC%9A%E9%A4%A8_-_panoramio.jpg"
+ }
+}

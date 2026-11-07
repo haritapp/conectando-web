@@ -1,0 +1,156 @@
+{
+ "slug": "kokumin-kyosai-coop-hall-space-zero",
+ "name": "Kokumin Kyosai coop Hall / Space Zero",
+ "address": "Tokyo 151-0053 Kokumin Kyosai coop Kaikan, 2-12-10 Yoyogi, Shibuya-ku",
+ "accessSummary": "JR Shinjuku Station South Exit: 5 min walk / Keio New Line, Toei Oedo Line & Toei Shinjuku Line Shinjuku Station Exit 6: 1 min walk",
+ "hours": "Hall 10:00-22:00 (time slot of the base fee) / Gallery & Exhibition Room 10:00-20:00 (10:00-22:00 when used together with the Hall). Closed for the year-end and New Year holidays (Dec 30 - Jan 3)",
+ "notice": null,
+ "rooms": [
+  {
+   "name": "Hall (1F)",
+   "note": "Basically a flat format; the unit-type movable floor is used to rearrange the seating and stage. Seating is free setting, with a capacity of 575 seats (446 seats for performances on 5 or more days per month). For arts and culture performances (temporary stands), the seat count is 584 without a stage extension and 272 with a 6.5-ken (6間半) extension"
+  },
+  {
+   "name": "Sub Stage",
+   "note": null
+  },
+  {
+   "name": "Foyer",
+   "note": null
+  },
+  {
+   "name": "Gallery (B1 to 1F atrium)",
+   "note": "Ceiling height is 10.14 m in the atrium section and 2.79 m in the ceiling section"
+  },
+  {
+   "name": "Exhibition Room (B1)",
+   "note": null
+  }
+ ],
+ "ops": {
+  "prevDaySetup": "The setup fee applies only to the single day before the main use day. For the Hall, 550,000 yen for regular hours (10:00-22:00) and 770,000 yen for late-night hours (23:00-10:00) (tax included). For the Gallery, 82,500 yen for regular hours, and for the Exhibition Room, 38,500 yen for regular hours (tax included, 10:00-20:00); late-night setup (Gallery 110,000 yen, Exhibition Room 55,000 yen) is available only when used together with the Hall.",
+  "loadingHours": "Usage time includes all preparation, setup, teardown and load-in/out time. Beyond the base usage time (Hall 10:00-22:00), an extension fee applies (per hour: 110,000 yen from 8:00 to 24:00, 154,000 yen before 8:00 and after 24:00, tax included), and if use begins at or before 7:30 or teardown runs to 23:30 or later, an early-morning/late-night special usage fee of 44,000 yen (tax included) is charged. The Hall's loading entrance is 2.8 m wide, and there is a 4 m-high signboard lighting fixture at the loading entrance. Load-in/out for the exhibition facilities (Gallery and Exhibition Room) is through the B1 south entrance, and not through the circular automatic door at the main entrance. A meeting on setup, equipment and fixtures is held up to 2 weeks before Hall use, and the setup drawing and timetable must be emailed no later than 1 week before setup for the meeting with the stage staff.",
+  "vehicleRules": "Prior consultation is required when vehicles are used for load-in/out of the exhibition facilities. Organizers using the Hall can use the registered-vehicle spaces of the building's underground parking lot after advance registration.",
+  "parking": "Organizers using the Hall can use 2 spaces in the building's underground parking lot (the vehicle number, vehicle type, color and driver must be registered in advance). There is no parking lot for visitors.",
+  "waitingRooms": "5 dressing rooms, 108.1㎡ in total, with 51 makeup stations. Dressing Room 1 is 34.7㎡ with 17 stations (with shower room), Dressing Room 2 is 24.0㎡ with 10 (with shower room), Dressing Room 3 is 18.8㎡ with 9, Dressing Room 4 is 10.4㎡ with 5, and Dressing Room 5 is 20.2㎡ with 10.",
+  "catering": "Catering arrangements depend on the situation, so please inquire. Eating and drinking outside designated areas is not allowed. There is no designated contractor for exhibition construction. Trash must in principle be taken home."
+ },
+ "documents": [
+  {
+   "title": "Hall Price List"
+  },
+  {
+   "title": "Hall Application and Procedure Flow (including cancellation fees)"
+  },
+  {
+   "title": "Hall Terms of Use"
+  },
+  {
+   "title": "Hall Detailed Materials (drawings, equipment, fixtures)"
+  },
+  {
+   "title": "Stage Equipment & Fixtures List (updated October 2026)"
+  },
+  {
+   "title": "Lighting Equipment & Fixtures List (updated October 2026)"
+  },
+  {
+   "title": "Sound Equipment & Fixtures List (updated October 2026)"
+  },
+  {
+   "title": "Other Equipment & Fixtures List, Technical Attendance Fee, Operator Fee (revised October 2026)"
+  },
+  {
+   "title": "For Stage Managers Using the Hall (October 2026)"
+  },
+  {
+   "title": "Hall Floor Plan 1 (inside the Hall)"
+  },
+  {
+   "title": "Hall Floor Plan 2 (Hall, Foyer, Entrance)"
+  },
+  {
+   "title": "Hall Cross-section (with dimensions)"
+  },
+  {
+   "title": "Rigging Plan (with dimensions)"
+  },
+  {
+   "title": "About Work at Height"
+  },
+  {
+   "title": "Dressing Room Floor Plan"
+  },
+  {
+   "title": "Exhibition Facilities Price List"
+  },
+  {
+   "title": "Exhibition Facilities Terms of Use"
+  },
+  {
+   "title": "Exhibition Facilities Application and Procedure Flow"
+  },
+  {
+   "title": "Exhibition Facilities Floor Plans & Fixtures List"
+  },
+  {
+   "title": "Floor Map"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "FamilyMart Yoyogi 2-chome Kita",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "7-Eleven Nishi-Shinjuku Koshu Kaido",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "FamilyMart Shinjuku Shintoshin",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location."
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "Accea Shinjuku Minamiguchi",
+    "hours": "Weekdays open 24 hours (open continuously from 8:00 Monday morning until 19:00 Saturday evening) / Sat until 19:00, Sun & holidays 10:00-19:00",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Kinko's Shinjuku Minamiguchi",
+    "hours": "Weekdays 8:00-22:00 / Sat, Sun & holidays 8:00-22:00",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "DAISO Keio Mall Annex",
+    "hours": "8:00-21:00",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "3COINS JR Shinjuku Station South Exit",
+    "hours": "7:45-22:00",
+    "note": "Distance is calculated from the official store location. Inside JR Shinjuku Station (inside the South ticket gate)."
+   }
+  ],
+  "donki": [
+   {
+    "name": "Don Quijote Shinjuku Tonanguchi",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. The store name on the Don Quijote official website is \"Shinjuku Tonanguchi\" (新宿東南口店)."
+   },
+   {
+    "name": "Don Quijote Shinjuku Tonanguchi Annex",
+    "hours": "9:00-2:00",
+    "note": "Distance is calculated from the address location. The store name on the Don Quijote official website is \"Shinjuku Tonanguchi Annex\" (新宿東南口別館)."
+   }
+  ]
+ },
+ "photoCredit": "© nesnad / CC BY 3.0 · Wikimedia Commons"
+}

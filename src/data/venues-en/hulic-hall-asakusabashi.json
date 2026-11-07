@@ -1,0 +1,132 @@
+{
+ "slug": "hulic-hall-asakusabashi",
+ "name": "Asakusabashi Hulic Hall",
+ "address": "Tokyo 111-0053 Hulic Asakusabashi Building 2F (Hall) and 3F (Conference), 1-22-16 Asakusabashi, Taito-ku",
+ "accessSummary": "JR Sobu Line, Asakusabashi Station (West Exit): 1 min walk / Toei Asakusa Line, Asakusabashi Station (Exit A3): 2 min walk / JR Keihin-Tohoku Line and Yamanote Line, Akihabara Station (Showa-dori Exit): 10 min walk / Tokyo Metro, Akihabara Station: 10 min walk",
+ "hours": "The hall can be rented 24 hours (the all-day fee applies only to the 9:00-19:00 slot). The conference rooms are in principle 8:00-22:00. Inquiries are accepted on weekdays 10:00-19:00.",
+ "notice": null,
+ "rooms": [
+  {
+   "name": "2F Hall",
+   "note": "Hall overview page: school 378 seats / theater 483 seats / group work 315 seats / party style 400 people. The usage examples page gives theater up to 500 people and school (3 per desk) up to 399 people (an extra chair fee applies for 380 chairs or more). Wooden flooring. Two waiting rooms, foyer, lobby, control room and storage room are attached, and the hall, foyer and waiting rooms are all rented exclusively."
+  },
+  {
+   "name": "2F Foyer",
+   "note": "Party style 150 people. Carpet flooring. Glass walls. Has a bar counter (refrigerator, ice machine, water supply) and a cloakroom (for 300 people). Can be used for reception, exhibitions, merchandise sales and receptions."
+  },
+  {
+   "name": "3F ROOM 0",
+   "note": "School, O-shape (square) and group (81 people) are 3 per desk. Waiting room attached."
+  },
+  {
+   "name": "3F ROOM 1",
+   "note": "School, O-shape (square) and group (108 people) are 3 per desk."
+  },
+  {
+   "name": "3F ROOM 2",
+   "note": "School, O-shape (square) and group (54 people) are 3 per desk."
+  },
+  {
+   "name": "3F ROOM 3",
+   "note": "School, O-shape (square) and group (54 people) are 3 per desk. In the official table, ROOM 2 to 5 share the same capacity column."
+  },
+  {
+   "name": "3F ROOM 4",
+   "note": "School, O-shape (square) and group (54 people) are 3 per desk. In the official table, ROOM 2 to 5 share the same capacity column."
+  },
+  {
+   "name": "3F ROOM 5",
+   "note": "School, O-shape (square) and group (54 people) are 3 per desk. In the official table, ROOM 2 to 5 share the same capacity column."
+  }
+ ],
+ "ops": {
+  "prevDaySetup": "The hall can be rented 24 hours, and usage time includes setup and cleanup. Bookings start from 6 hours of use. The all-day fee (470,000 yen) applies only to the 10-hour slot from 9:00 to 19:00; other slots are charged at the hourly rate (360,000 yen for 6 hours, time slot of your choice). Use between 22:00 and 8:00 incurs a late-night fee (20,000 yen per person). (Source: Price list, for bookings received on or after September 1, 2026)",
+  "loadingHours": "Load-in and load-out are done at the B1F loading area, and an application form must be submitted at least 1 week in advance. There are 2 dedicated loading bays (2 vehicles). A security card is required for load-in and load-out, and on the day a representative comes to the operations office on the 3F. The elevator for load-in and load-out (Unit 6) has an interior of 1950 mm wide x 2150 mm deep x 2500 mm high, a door opening of 1950 mm wide x 2500 mm high, and a load capacity of 2000 kg. Load-in and load-out by office elevator is prohibited. Protective covering (yojo) of floors and walls is required. During load-in and load-out, monitoring staff are stationed in the underground parking. (Source: Load-in/Load-out Map & Notes PDF)",
+  "vehicleRules": "The vehicle height limit at the loading area is 3,200 mm for trucks under 3 tons and 3,000 mm for trucks of 4 tons or more. Load-in and load-out with a 4-ton truck requires a security guard to be present (separate fee). The loading parking spaces are 3000 x 7700 mm and 4000 x 6000 mm. Vehicles cannot be left parked, and must leave promptly after work is finished. When the loading area is full, wait in the waiting space. Stopping or parking waiting vehicles in front of the building is strictly prohibited, and parking or stopping on the street is also prohibited by the Terms of Use. (Source: Load-in/Load-out Map & Notes PDF)",
+  "parking": "The Hulic Asakusabashi Building has no general parking lot; use a nearby parking lot. (Source: Access page)",
+  "waitingRooms": "The hall has Waiting Room 01 (about 4 people; fixed-camera video and audio from inside the hall can be shown) and Waiting Room 02 (about 4 people; with a reception set). The storage room is air-conditioned and can also be used as a waiting room. The lounge on the foyer side can also be used as a waiting room or for storing luggage. ROOM 0 of the conference rooms has a waiting room attached. (Source: Hall capacity page)",
+  "catering": "Catering for parties (receptions) can be arranged on request, from about 5,000 yen per person as a guide (about 10 food items, 2 hours of free-flow drinks, service included). Boxed lunches start from 800 yen, and a pot of coffee (about 10 cups) is 3,000 yen. An additional fee applies for dirt on floors, walls and so on caused by food and drink. Under the Terms of Use, eating and drinking outside designated places, and the use of fire and cooking, are prohibited. (Source: Conference FAQ)"
+ },
+ "documents": [
+  {
+   "title": "Hulic Hall & Hulic Conference Price List (for bookings received on or after September 1, 2026)"
+  },
+  {
+   "title": "Price Revision Notice (from September 1, 2026)"
+  },
+  {
+   "title": "Load-in/Load-out Map & Notes"
+  },
+  {
+   "title": "Hulic Hall Scale Drawing"
+  },
+  {
+   "title": "Hulic Conference Scale Drawing"
+  },
+  {
+   "title": "Hall Rental Contract"
+  },
+  {
+   "title": "Terms of Use (established April 2012)"
+  },
+  {
+   "title": "Equipment and Fixtures List (Hall, February 2026 edition)"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "Lawson LTF Asakusabashi",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location. The store's official address is the same as the venue (1-22-16 Asakusabashi)."
+   },
+   {
+    "name": "7-Eleven Asakusabashi Station West Exit",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "7-Eleven Asakusabashi Station East Exit",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location."
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "Accea Asakusabashi",
+    "hours": "Weekdays 9:00-20:00 / Closed Sat, Sun & holidays",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Accea Concept Building Higashi-Kanda",
+    "hours": "Open 24 hours on weekdays (open continuously from 9:00 Monday morning to 20:00 Saturday evening) / Sun & holidays 9:00-20:00 (open continuously on weekdays that fall on the day before a holiday)",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "DAISO Yodobashi AKIBA",
+    "hours": "9:30-22:00",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "3COINS Atre Akihabara",
+    "hours": "10:00-21:00",
+    "note": "Distance is calculated from the official store location. Rather far."
+   }
+  ],
+  "donki": [
+   {
+    "name": "Don Quijote Akihabara",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. Rather far. The store name on the Don Quijote official website is \"Akihabara\"."
+   },
+   {
+    "name": "Don Quijote Okachimachi",
+    "hours": "9:00-1:00",
+    "note": "Distance is calculated from the address location. Rather far. The store name on the Don Quijote official website is \"Okachimachi\"."
+   }
+  ]
+ },
+ "photoCredit": "The photo shows the West Exit of JR Asakusabashi Station, not the venue building. © 東京特許許可局 / CC BY-SA 4.0 · Wikimedia Commons"
+}

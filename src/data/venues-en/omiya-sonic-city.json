@@ -1,0 +1,242 @@
+{
+ "slug": "omiya-sonic-city",
+ "name": "Omiya Sonic City",
+ "address": "Sonic City Building 5F, 1-7-5 Sakuragicho, Omiya-ku, Saitama City, Saitama 330-8669",
+ "accessSummary": "Omiya Station: 3 min walk",
+ "hours": "Hours of use: Large Hall, Small Hall and International Conference Room 9:00-22:00 / Exhibition Halls, Civic Hall and Meeting Rooms 9:00-21:30 / Event Square 9:00-21:00 / Reception counter weekdays 9:00-17:00",
+ "notice": null,
+ "rooms": [
+  {
+   "name": "Large Hall",
+   "note": "Includes 10 wheelchair seats. Stage 984m2, proscenium opening 20m wide x 10m high (movable)."
+  },
+  {
+   "name": "Small Hall",
+   "note": "Includes 4 wheelchair seats. Stage 137m2."
+  },
+  {
+   "name": "International Conference Room",
+   "note": "4th floor. Lobby 314m2."
+  },
+  {
+   "name": "Exhibition Hall No.1",
+   "note": "Guide capacity for classroom style (3 per desk)."
+  },
+  {
+   "name": "Exhibition Hall No.2",
+   "note": "Guide capacity for classroom style (3 per desk)."
+  },
+  {
+   "name": "Exhibition Hall No.3",
+   "note": "Guide capacity for classroom style (3 per desk). Exhibition Halls No.3 and No.4 have no loading entrance, and the smallest unit of use is Exhibition Hall No.2 or No.5."
+  },
+  {
+   "name": "Exhibition Hall No.4",
+   "note": "Guide capacity for classroom style (3 per desk). Exhibition Halls No.3 and No.4 have no loading entrance, and the smallest unit of use is Exhibition Hall No.2 or No.5."
+  },
+  {
+   "name": "Exhibition Hall No.5",
+   "note": "Guide capacity for classroom style (3 per desk)."
+  },
+  {
+   "name": "Business Meeting Room",
+   "note": null
+  },
+  {
+   "name": "Event Square",
+   "note": "Usage fee is charged per hour."
+  },
+  {
+   "name": "Civic Hall Meeting Room 1 (401)",
+   "note": null
+  },
+  {
+   "name": "Civic Hall Meeting Room 2 (402)",
+   "note": null
+  },
+  {
+   "name": "Civic Hall Meeting Room 3 (403)",
+   "note": null
+  },
+  {
+   "name": "Civic Hall Meeting Room 4 (404)",
+   "note": "When all 4 rooms are connected: 712m2, ceiling height 3.5m."
+  },
+  {
+   "name": "Meeting Room 501",
+   "note": null
+  },
+  {
+   "name": "Meeting Room 502",
+   "note": "Island layout."
+  },
+  {
+   "name": "Meeting Room 601",
+   "note": null
+  },
+  {
+   "name": "Meeting Rooms 602 and 603 (connected)",
+   "note": null
+  },
+  {
+   "name": "Meeting Room 604",
+   "note": null
+  },
+  {
+   "name": "Meeting Room 701",
+   "note": null
+  },
+  {
+   "name": "Meeting Rooms 702-708",
+   "note": "Area and capacity of each room."
+  },
+  {
+   "name": "Meeting Room 801",
+   "note": "Square-shaped layout (fixed)."
+  },
+  {
+   "name": "Meeting Rooms 802-809",
+   "note": "Area and capacity of each room."
+  },
+  {
+   "name": "Meeting Room 901",
+   "note": null
+  },
+  {
+   "name": "Meeting Rooms 902-904",
+   "note": "Area and capacity of each room."
+  },
+  {
+   "name": "Meeting Room 905",
+   "note": null
+  },
+  {
+   "name": "Meeting Room 906",
+   "note": null
+  },
+  {
+   "name": "Rehearsal Room",
+   "note": null
+  },
+  {
+   "name": "Practice Room 1",
+   "note": null
+  },
+  {
+   "name": "Practice Room 2",
+   "note": null
+  },
+  {
+   "name": "Practice Room 3",
+   "note": null
+  }
+ ],
+ "ops": {
+  "prevDaySetup": "When the Large Hall or Small Hall is used for preparation or practice, the usage fee is 70% of the regular amount (usage fee revised on April 1, 2026). The hours of use include the work time for setting up and dismantling the event. For the Exhibition Halls, if exhibits and packing materials need to be stored before or after the period of use, apply for facility use for that time (there is no storage warehouse).",
+  "loadingHours": "The stage-set loading entrance of the Large Hall accepts 11-ton trucks. The loading entrance for the Small Hall, International Conference Room and Meeting Rooms is on the 1st basement floor. The Exhibition Halls are loaded through the dedicated service yard and the loading entrances: Exhibition Hall No.1 is 5.0m wide x 3.2m high, and Exhibition Halls No.2-5 are 4.0m wide x 3.2m high. The service yard holds up to 4 vehicles for Exhibition Halls No.1 and No.5 and up to 2 vehicles for Exhibition Hall No.2. For hand-cart loading and unloading to the Meeting Rooms, use the shared passenger-and-freight / emergency elevators (at both ends of the building, 2nd basement floor to each floor). Meetings must be held up to 2 weeks before the date of use for the halls, Exhibition Halls and Civic Hall, and up to 3 weeks before for the International Conference Room.",
+  "vehicleRules": "Vehicles for loading to and from the Exhibition Halls must be 3.1m or less in height, 6.8m or less in length and 2.2m or less in width; a \"vehicle entry permit\" is placed on the vehicle and it must arrive at the designated time (vehicles without a permit or outside the designated time cannot enter). A \"service yard entry plan\" is submitted so that loading and unloading are staggered, and vehicles that have finished unloading or loading must leave immediately. Parking in the service yard is not allowed. The vehicle limits for loading to the Small Hall, International Conference Room and Meeting Rooms are height 2.9m, width 2.2m and length 6.8m (2026 Guide to Use). The loading dock on the 2nd basement floor for the Meeting Rooms has a height limit of 2.9m.",
+  "parking": "Paid parking for 140 vehicles (200 yen per 20 minutes, maximum 2,000 yen per 24 hours, height limit 2.3m, 7:00-23:00). There is no parking for mopeds or motorcycles. There is no parking dedicated to organizers, and Exhibition Hall users use the hourly parking (height 2.3m or less). Parking is available for 4 passenger cars for Large Hall users, 2 for the Small Hall and 1 for the International Conference Room.",
+  "waitingRooms": "The Large Hall has 2 organizer waiting rooms, 10 dressing rooms (2nd floor 92m2, 34m2 and 30m2; 1st floor 17m2, 16m2 and 12m2 x 2; 1st basement floor 81m2, 50m2 and 25m2; all private rooms) and shower rooms. The Small Hall has 1 organizer waiting room and 4 dressing rooms (2nd floor 15m2; 1st floor 30m2, 26m2 and 19m2). The International Conference Room has 2 waiting rooms (secretariat waiting room and reception room) and 2 control rooms.",
+  "catering": "Food and drink may not be brought in from outside; order food and drink from the designated providers (Lounge Sonic Hall FV Japan Co., Ltd., Palace Hotel Omiya, and Niku no Mansei). FV Japan delivers from 9:15, and the quantity must be confirmed 2 weeks before for 200 meals or more and 1 week before for 100 meals or more. Palace Hotel Omiya takes orders for boxed meals from 20 boxes, up to 1 week before, and for party food from 30 people, up to 8 days before (limited to public rental facilities inside Sonic City). Niku no Mansei takes orders from 15 boxes, up to 7 days before. (Food and drink service page; Palace Hotel Omiya as of February 10, 2026)"
+ },
+ "documents": [
+  {
+   "title": "Guide to Use: Large Hall, Small Hall, International Conference Room (April 2026 edition)"
+  },
+  {
+   "title": "Guide to Use: Exhibition Halls (April 2025 edition)"
+  },
+  {
+   "title": "Guide to Use: Civic Hall (April 2025 edition)"
+  },
+  {
+   "title": "Guide to Use: Meeting Rooms (April 2025 edition)"
+  },
+  {
+   "title": "Facility Terms of Use"
+  },
+  {
+   "title": "Usage Fee"
+  },
+  {
+   "title": "How to Use Event Square (2025)"
+  },
+  {
+   "title": "Submission Documents Guide for the International Conference Room (revised May 2023)"
+  },
+  {
+   "title": "Loading Route (Exhibition Halls No.1 and No.5)"
+  },
+  {
+   "title": "Loading Route (Exhibition Hall No.2)"
+  },
+  {
+   "title": "Loading Route (Small Hall)"
+  },
+  {
+   "title": "Large Hall Dressing Room Floor Plan"
+  },
+  {
+   "title": "Small Hall Dressing Room Floor Plan"
+  },
+  {
+   "title": "Document Download (Application Forms and Floor Plans)"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "FamilyMart Omiya Sonic City",
+    "hours": "7:00-23:00",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "Lawson Omiya Sakura Square",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "FamilyMart Omiya Sakuragicho 1-chome",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location."
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "Accea Omiya Station West Exit",
+    "hours": "Weekdays 8:00-22:00, Sat, Sun & holidays 10:00-19:00",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Kinko's Omiya Station East Exit",
+    "hours": "Weekdays 10:00-20:00 / Sat 10:00-19:00 / Sun & holidays closed",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Seria Omiya Marui",
+    "hours": "Mon-Sun 10:30-20:00",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "DAISO AEON Style Omiya Nishiguchi Ekimae",
+    "hours": "10:00-21:00",
+    "note": "Distance is calculated from the official store location."
+   }
+  ],
+  "donki": [
+   {
+    "name": "Don Quijote Omiya Higashiguchi",
+    "hours": "9:00-2:00 (next day)",
+    "note": "Distance is calculated from the address location. The store name on the Don Quijote official website is \"Omiya Higashiguchi\" (大宮東口店)."
+   },
+   {
+    "name": "Don Quijote Yono",
+    "hours": "8:00-4:00 (next day)",
+    "note": "Distance is calculated from the address location. Far. The store name on the Don Quijote official website is \"Yono\" (与野店)."
+   }
+  ]
+ },
+ "photoCredit": "© PRiMENON / CC BY-SA 3.0 · Wikimedia Commons"
+}

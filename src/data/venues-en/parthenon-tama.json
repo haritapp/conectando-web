@@ -1,0 +1,162 @@
+{
+ "slug": "parthenon-tama",
+ "name": "Parthenon Tama",
+ "address": "Tokyo 206-0033 2-35 Ochiai, Tama City",
+ "accessSummary": "Tama-Center Station (Keio Sagamihara Line / Odakyu Tama Line / Tama Monorail): 5 min walk",
+ "hours": "Open 9:00-22:00. General reception (booking and payment) 9:00-20:00. Usage periods: morning 9:00-12:00 / afternoon 13:00-17:00 / evening 18:00-22:00 / all day 9:00-22:00. For commercial use, 100% of the resident rate is added; if admission is charged, an admission surcharge applies (50% for 3,001 to 5,000 yen, 100% for 5,001 yen or more).",
+ "notice": "User registration (city resident or non-resident) is required. Even with non-resident registration, you can apply under general booking (first come, first served) for all facilities, including the Grand Hall and Community Hall. For lottery booking, resident registration covers all facilities, while non-resident registration covers the Grand Hall only.",
+ "rooms": [
+  {
+   "name": "The Grand Hall",
+   "note": "1,154 fixed seats (including 25 wheelchair seats). Proscenium type; stage opening about 18 m, depth about 15.8 m, height about 22.95 m (up to the grid); 21 flying battens (electric). 9 dressing rooms."
+  },
+  {
+   "name": "Community Hall",
+   "note": "Fixed seats. 269 seats (including 4 wheelchair seats). The facility guide page also lists \"265 seats (254 fixed seats)\" and 4 wheelchair spaces. Proscenium type; stage opening about 10.5 m, depth about 8.5 m; 11 flying battens (manual). 4 dressing rooms."
+  },
+  {
+   "name": "Open Studio",
+   "note": "2F. Capacity 110 people. If a stage and seating are set up, only half the room can be used, with a capacity of 120 people. There is a 1.2 m square pillar near the center. Loud musical performances are not allowed."
+  },
+  {
+   "name": "Gallery",
+   "note": "No stated capacity. Exclusive use only. Use for selling goods or soliciting is not allowed."
+  },
+  {
+   "name": "Rehearsal Room",
+   "note": "Capacity 110 people."
+  },
+  {
+   "name": "Practice Room 1",
+   "note": "Capacity 40 people."
+  },
+  {
+   "name": "Practice Room 2",
+   "note": "Capacity 40 people."
+  },
+  {
+   "name": "Practice Room 3",
+   "note": "Capacity 40 people."
+  },
+  {
+   "name": "Meeting Room 1",
+   "note": "4F. Capacity 100 people. Food and drink (including alcohol) are allowed."
+  },
+  {
+   "name": "Meeting Room 2",
+   "note": "4F. Capacity 16 people."
+  },
+  {
+   "name": "Meeting Room 3",
+   "note": "4F. Capacity 24 people. Can be connected to Meeting Room 4; food and drink (including alcohol) are allowed only when the two are used together."
+  },
+  {
+   "name": "Meeting Room 4",
+   "note": "4F. Capacity 24 people. Can be connected to Meeting Room 3."
+  },
+  {
+   "name": "Meeting Room 5",
+   "note": "4F. Capacity 16 people."
+  },
+  {
+   "name": "Craft Lab",
+   "note": "4F. Capacity 16 people."
+  },
+  {
+   "name": "Kitchen Lab",
+   "note": "4F. Capacity 16 people. Food and drink (including alcohol) are allowed."
+  },
+  {
+   "name": "Creative Lab 1",
+   "note": "4F. Capacity 12 people. Can be connected to Creative Lab 2; food and drink (including alcohol) are allowed only when the two are used together."
+  },
+  {
+   "name": "Creative Lab 2",
+   "note": "4F. Capacity 12 people. Can be connected to Creative Lab 1."
+  },
+  {
+   "name": "Lobby",
+   "note": "Use for exhibitions and similar events is available for a fee, by consultation."
+  }
+ ],
+ "ops": {
+  "loadingHours": "For the Grand Hall and Community Hall, an early extension (7:00-9:00) and a late extension (22:00-24:00) can be booked in 1-hour units for loading and unloading equipment and for tuning. The application deadline is 1 month before the day of use. Overtime management fees and additional stage technician fees are charged separately. The Grand Hall loading entrance is 3.9 m wide and 3 m high (platform height 1.17 m); the Community Hall loading entrance is 2.9 m wide and 2.35 m high (platform height 0.83 m), and there is a loading lift. About 1 month before the day of use, you meet with the stage technical staff to discuss load-in and load-out, entry and exit, dressing room use and so on. (Source: Venue Rental Guide, posted October 2026)",
+  "vehicleRules": "The hall-dedicated parking spaces are 7 for the Grand Hall (2 for vehicles up to 11 t and 5 for passenger cars; 9 if only passenger cars) and 6 for the Community Hall (2 for vehicles up to 4 t and 4 for passenger cars; 8 if only passenger cars). Park in the designated spaces; if the number of vehicles exceeds them, use a nearby paid parking lot. The Parthenon Tama East and West paid parking lots are limited to ordinary passenger cars within the 2.2 m height limit. The Open Studio has dedicated parking for 2 passenger cars, and the parking permit handed over at the general information desk must be displayed where it can be seen from outside the vehicle. (Source: Venue Rental Guide, posted October 2026)",
+  "parking": "The Parthenon Tama East and West parking lots have 166 spaces. Open 7:30-22:45 (closed December 29 to January 3 and on facility inspection days). Fees are 300 yen for the first hour, then 150 yen per 30 minutes. For 2,000 yen or more spent in the building, a 2-hour discount ticket is available, but rental-hall performances are not eligible. (Source: Access page)",
+  "waitingRooms": "The Grand Hall has 9 dressing rooms (Dressing Rooms 1, 2 and 9: capacity 2, 9㎡; Dressing Rooms 3 and 4: capacity 3, 12㎡; Dressing Room 5: capacity 20, 34㎡; Dressing Rooms 6 and 7: capacity 10, 17㎡; Dressing Room 8: capacity 20, 36㎡), and the Community Hall has 4 dressing rooms (Dressing Room 1: capacity 2, 8㎡; Dressing Rooms 2 and 3: capacity 10, 24㎡; Dressing Room 4: capacity 20, 36㎡). Food and drink are allowed in the dressing rooms. If all of a hall's dressing rooms are used, the Rehearsal Room and Practice Rooms can be used as waiting rooms and the like at half the regular fee, only during the hall's usage hours. (Source: Venue Rental Guide, posted October 2026)",
+  "catering": "Eating and drinking (including alcohol) are prohibited on the stage and in the seating area (capped bottles for hydration and the like are allowed). Meals, catering and alcohol are allowed in Meeting Room 1, Meeting Rooms 3 and 4 used together, Kitchen Lab, Creative Labs 1 and 2 used together, and the Open Studio (no alcohol). Meeting Rooms 2 and 5 do not allow catering, only light snacks. In the Gallery, only capped drinks may be brought in. (Source: Classification Table by Purpose of Use, revised November 1, 2026)",
+  "restaurants": "The café stand \"THE CANTINA\" on the 2F is open 10:00-18:00, offers takeout, and can also be used by room users and park visitors. (Source: Facility page)"
+ },
+ "documents": [
+  {
+   "title": "Parthenon Tama Venue Rental Guide (posted October 2026; Classification Table by Purpose of Use revised November 1, 2026)"
+  },
+  {
+   "title": "Facility Usage Fees"
+  },
+  {
+   "title": "Grand Hall and Community Hall Pamphlet"
+  },
+  {
+   "title": "Open Studio Room Overview"
+  },
+  {
+   "title": "Gallery Room Overview (posted January 2026)"
+  },
+  {
+   "title": "Meeting Rooms 1-5 Room Overview"
+  },
+  {
+   "title": "Kitchen Lab Room Overview"
+  },
+  {
+   "title": "Creative Lab Room Overview"
+  },
+  {
+   "title": "Craft Lab Room Overview (posted July 2025)"
+  },
+  {
+   "title": "Rehearsal Room and Practice Rooms 1-3 Room Overview (posted October 2026)"
+  },
+  {
+   "title": "Facility Use Pledge (posted June 2026)"
+  },
+  {
+   "title": "Facility Reservation System: General Reservation Manual (posted September 2025)"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "Lawson Oka-no-ue Patio",
+    "hours": "Open 24 hours",
+    "note": null
+   },
+   {
+    "name": "FamilyMart Tama Ochiai 2-chome",
+    "hours": "Open 24 hours",
+    "note": null
+   },
+   {
+    "name": "FamilyMart New City Tama Center",
+    "hours": "Open 24 hours",
+    "note": null
+   }
+  ],
+  "copyshop": [],
+  "hundredYen": [
+   {
+    "name": "3COINS +plus Cocoria Tama Center",
+    "hours": "10:00-20:00",
+    "note": null
+   },
+   {
+    "name": "DAISO Cocoria Tama Center",
+    "hours": "10:00-20:00",
+    "note": null
+   }
+  ],
+  "donki": []
+ },
+ "photoCredit": "© Akonnchiroll / CC BY-SA 4.0 · Wikimedia Commons"
+}

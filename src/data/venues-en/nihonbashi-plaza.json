@@ -1,0 +1,133 @@
+{
+ "slug": "nihonbashi-plaza",
+ "name": "Nihonbashi Plaza",
+ "address": "Tokyo 103-0027 2-3-4 Nihonbashi, Chuo-ku",
+ "accessSummary": "JR Tokyo Station Yaesu North Exit: 4 min walk / Tokyo Metro Ginza Line, Tozai Line and Toei Subway Nihonbashi Station Exit B3: 1 min walk",
+ "hours": "Business hours 9:00-17:00. The Exhibition Hall can be used 9:00-21:00",
+ "notice": null,
+ "rooms": [
+  {
+   "name": "Exhibition Hall (3F)",
+   "note": "214 tsubo. The fee is 790,000 yen for 9:00-21:00 (869,000 yen tax included). Setup and teardown days are 50%. Floor load 300 kg/㎡. The fee includes venue facilities, heating/cooling and normal electricity charges. Temporary power (single-phase 3-wire 100V 120KVA, three-phase 3-wire 200V up to 34KVA) is charged separately."
+  },
+  {
+   "name": "Meeting Room 1",
+   "note": "Island layout: 12 seats. Fees: morning 14,000 yen / afternoon 24,000 yen / all day 35,000 yen / evening 18,000 yen (9-12 / 13-17 / 9-17 / 18-21; tax included 15,400 yen / 26,400 yen / 38,500 yen / 19,800 yen)."
+  },
+  {
+   "name": "Meeting Room 2",
+   "note": "Island layout: 12 seats. Fees: morning 15,000 yen / afternoon 26,000 yen / all day 38,000 yen / evening 20,000 yen (tax included 16,500 yen / 28,600 yen / 41,800 yen / 22,000 yen). The official top page lists 6 seats in a hollow-square layout, but the individual page for Meeting Room 2, the price list and the meeting room list say 16. It can be joined to Meeting Room 3 by removing the partition."
+  },
+  {
+   "name": "Meeting Room 3",
+   "note": "Island layout: 26 seats. The individual page states that a 24-seat layout is also possible and that classroom style is possible for up to 30. Fees: morning 22,000 yen / afternoon 37,000 yen / all day 55,000 yen / evening 28,000 yen (9-12 / 13-17 / 9-17 / 18-21; tax included 24,200 yen / 40,700 yen / 60,500 yen / 30,800 yen). It can be joined to Meeting Rooms 2 and 4."
+  },
+  {
+   "name": "Meeting Room 4",
+   "note": "Island layout: 24 seats. The individual page states that a 24-seat layout is also possible and that classroom style is possible for up to 30. Fees: morning 22,000 yen / afternoon 37,000 yen / all day 55,000 yen / evening 28,000 yen (9-12 / 13-17 / 9-17 / 18-21; tax included 24,200 yen / 40,700 yen / 60,500 yen / 30,800 yen)."
+  },
+  {
+   "name": "Meeting Rooms 2+3",
+   "note": "Island layout: 50 seats. Fees: morning 34,000 yen / afternoon 61,000 yen / all day 90,000 yen / evening 46,000 yen (9-12 / 13-17 / 9-17 / 18-21; tax included 37,400 yen / 67,100 yen / 99,000 yen / 50,600 yen). Classroom style is 44 seats on the individual page (the body text of the same page also mentions 48 seats (8 rows)), and 42 seats in the price list and the meeting room list."
+  },
+  {
+   "name": "Meeting Rooms 3+4",
+   "note": "Island layout: 60 seats. The individual page states classroom style is possible up to 60 (10 rows). Fees: morning 39,000 yen / afternoon 68,000 yen / all day 101,000 yen / evening 52,000 yen (9-12 / 13-17 / 9-17 / 18-21; tax included 42,900 yen / 74,800 yen / 111,100 yen / 57,200 yen)."
+  },
+  {
+   "name": "Meeting Rooms 2+3+4",
+   "note": "Island layout: 84 seats. The individual page states classroom style is possible up to a maximum of 96 (15 rows). For 100 or more, inquire. Fees: morning 51,000 yen / afternoon 89,000 yen / all day 133,000 yen / evening 67,000 yen (9-12 / 13-17 / 9-17 / 18-21; tax included 56,100 yen / 97,900 yen / 146,300 yen / 73,700 yen)."
+  }
+ ],
+ "ops": {
+  "prevDaySetup": "If the Exhibition Hall is used for one day for setup and teardown such as load-in/out and construction, the fee is 50% of the one-day fee. If setup/teardown falls on the same day as the event, the one-day fee applies. The usage hours per day are 9:00 to 21:00; use outside those hours requires prior consultation and approval. Tentative reservations for the Exhibition Hall are accepted from one year before the desired date (rules revised August 2019).",
+  "loadingHours": "Load-in and load-out are done from the loading area on the 1F of the building: enter through the door at the back of the loading area (2.1 m high x 1.8 m wide) and go up to the 3F by the dedicated large elevator (2.4 m high x 2.2 m deep x 1.9 m wide, load capacity up to 2,600 kg). The Exhibition Hall entrance door on the 3F is 2.3 m high x 2.0 m wide. The person in charge completes the procedures at the disaster prevention center counter on the right side of the 1F. During load-in/out, the user assigns marshals, and the load-in/out schedule and number of vehicles are arranged in advance.",
+  "vehicleRules": "Vehicles are backed into the loading area on the 1F of the building. Load-in/out is done at the designated place, and details such as the number of vehicles are arranged with the company in advance.",
+  "parking": "Underground self-drive, attended parking lot with 130 spaces. Entry and exit are both 7:30-23:00, and the fee is 280 yen per 30 minutes. Vehicle limits: height 2.1 m, width 2 m, length 5.2 m, weight 4 t (ordinary cars only). A prepaid card is available (5,200 yen worth for 4,200 yen).",
+  "waitingRooms": "The Exhibition Hall has 4 meeting rooms across the lobby space, which can be used for business talks, meetings or as staff rooms. The meeting rooms can also be used as waiting rooms for the Exhibition Hall.",
+  "catering": "Requests for catering services etc. are relayed by the company. Containers and empty cans from boxed lunches and drinks arranged by the user must be taken away, for example by having the vendor collect them. A flyer for boxed lunches and family sets from Gusto Nihonbashi on the 1F (July 2024; reserve at least 3 days before; pick-up 10:30-17:00) is published.",
+  "restaurants": "In the same building, Minatoichiya Nihonbashi (seafood private-room dining) is on the 2F, and Gusto Nihonbashi, Cave de Wine-ken Yamanashi and Oidemase Yamaguchi-kan are on the 1F."
+ },
+ "documents": [
+  {
+   "title": "Exhibition Hall Usage Rules (revised August 2019)"
+  },
+  {
+   "title": "Meeting Room Usage Rules (revised August 2019)"
+  },
+  {
+   "title": "Exhibition Hall Application Form (June 2020 version)"
+  },
+  {
+   "title": "Exhibition Hall Tentative Reservation Form (April 2017 version)"
+  },
+  {
+   "title": "3F Floor Plan (April 2024 version)"
+  },
+  {
+   "title": "Exhibition Hall Booking Status Table (December 2026 - May 2027, updated November 2, 2026)"
+  },
+  {
+   "title": "Gusto Nihonbashi Boxed Lunch Flyer (July 2024)"
+  },
+  {
+   "title": "Price List and Equipment Rental Fees"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "FamilyMart Yaesu Sakura-dori",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the store's official location."
+   },
+   {
+    "name": "FamilyMart Yaesu 1-chome",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the store's official location."
+   },
+   {
+    "name": "Lawson Yaesu 1-chome",
+    "hours": "7:00-22:00",
+    "note": "Distance is calculated from the store's official location."
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "Accea Tokyo Station Yaesu",
+    "hours": "Open 24 hours (café use 22:00 to 6:00 the next day is for ID-verified members only)",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Accea Kyobashi",
+    "hours": "Weekdays 8:00-22:00 / Sat, Sun & holidays 10:00-19:00",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "3COINS Yaechika",
+    "hours": "10:00-21:00",
+    "note": "Distance is calculated from the store's official location."
+   },
+   {
+    "name": "Standard Products Yaechika",
+    "hours": "10:00-20:00",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "donki": [
+   {
+    "name": "Don Quijote Ginza Main Building (Ginza Nine Building No. 3)",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. Rather far."
+   },
+   {
+    "name": "Don Quijote Akihabara",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. The store name on the Don Quijote official site is \"Akihabara store\". Rather far."
+   }
+  ]
+ },
+ "photoCredit": "The photo shows Yaesu North Exit of Tokyo Station, not the venue building. © MaedaAkihiko / CC BY-SA 4.0 · Wikimedia Commons"
+}

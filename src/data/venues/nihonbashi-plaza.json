@@ -1,0 +1,289 @@
+{
+ "slug": "nihonbashi-plaza",
+ "nameJa": "日本橋プラザ",
+ "nameEn": "Nihonbashi Plaza",
+ "type": "exhibition",
+ "area": "marunouchi-nihonbashi-venues",
+ "address": "〒103-0027 東京都中央区日本橋2-3-4",
+ "officialUrl": "http://www.nihonbashiplaza.co.jp/",
+ "organizerUrl": "http://www.nihonbashiplaza.co.jp/exhition_hall",
+ "bizintokyoSlug": "nihonbashi-plaza",
+ "accessSummary": "JR東京駅八重洲北口 徒歩4分／東京メトロ銀座線・東西線・都営地下鉄日本橋駅B3出口 徒歩1分",
+ "notice": null,
+ "hours": "営業時間 9:00～17:00。展示ホールの利用時間は9:00～21:00",
+ "rooms": [
+  {
+   "name": "展示ホール（3階）",
+   "areaM2": 709,
+   "ceilingM": 3,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "214坪。利用料は9時～21時で790,000円（税込869,000円）。準備・撤去日は50％。床荷重300kg/㎡。利用料に会場設備、冷暖房空調費、通常電気利用料を含む。仮設電源（単相3線100V 120KVA、3相3線200V 34KVAまで）は別料金"
+  },
+  {
+   "name": "会議室1",
+   "areaM2": 33,
+   "ceilingM": null,
+   "theater": null,
+   "school": 8,
+   "ushape": 12,
+   "standing": null,
+   "banquet": null,
+   "note": "島型12名。利用料は午前14,000円／午後24,000円／全日35,000円／夜間18,000円（9～12時／13～17時／9～17時／18～21時、税込15,400円／26,400円／38,500円／19,800円）"
+  },
+  {
+   "name": "会議室2",
+   "areaM2": 40,
+   "ceilingM": null,
+   "theater": null,
+   "school": 12,
+   "ushape": 16,
+   "standing": null,
+   "banquet": null,
+   "note": "島型12名。利用料は午前15,000円／午後26,000円／全日38,000円／夜間20,000円（税込16,500円／28,600円／41,800円／22,000円）。公式トップページでは口の字6名と表記されているが、会議室2の個別ページ・料金表・会議室一覧では16名。会議室3と間仕切りを外して繋げられる"
+  },
+  {
+   "name": "会議室3",
+   "areaM2": 52,
+   "ceilingM": null,
+   "theater": null,
+   "school": 24,
+   "ushape": 20,
+   "standing": null,
+   "banquet": null,
+   "note": "島型26名。24名のレイアウトも可能、教室形式は30名まで可と個別ページに記載。利用料は午前22,000円／午後37,000円／全日55,000円／夜間28,000円（税込24,200円／40,700円／60,500円／30,800円）。会議室2・4と繋げられる"
+  },
+  {
+   "name": "会議室4",
+   "areaM2": 52,
+   "ceilingM": null,
+   "theater": null,
+   "school": 24,
+   "ushape": 20,
+   "standing": null,
+   "banquet": null,
+   "note": "島型24名。24名のレイアウトも可能、教室形式は30名まで可と個別ページに記載。利用料は午前22,000円／午後37,000円／全日55,000円／夜間28,000円（税込24,200円／40,700円／60,500円／30,800円）"
+  },
+  {
+   "name": "会議室2+3",
+   "areaM2": 92,
+   "ceilingM": null,
+   "theater": null,
+   "school": 44,
+   "ushape": 36,
+   "standing": null,
+   "banquet": null,
+   "note": "島型50名。利用料は午前34,000円／午後61,000円／全日90,000円／夜間46,000円（税込37,400円／67,100円／99,000円／50,600円）。教室形式は個別ページで44名（同ページ本文に48名（8列）の記載もある）、料金表と会議室一覧では42名"
+  },
+  {
+   "name": "会議室3+4",
+   "areaM2": 105,
+   "ceilingM": null,
+   "theater": null,
+   "school": 54,
+   "ushape": 44,
+   "standing": null,
+   "banquet": null,
+   "note": "島型60名。教室形式は60名（10列）までと個別ページに記載。利用料は午前39,000円／午後68,000円／全日101,000円／夜間52,000円（税込42,900円／74,800円／111,100円／57,200円）"
+  },
+  {
+   "name": "会議室2+3+4",
+   "areaM2": 145,
+   "ceilingM": null,
+   "theater": null,
+   "school": 78,
+   "ushape": 56,
+   "standing": null,
+   "banquet": null,
+   "note": "島型84名。教室形式は最大96名（15列）までと個別ページに記載。100名以上は問い合わせ。利用料は午前51,000円／午後89,000円／全日133,000円／夜間67,000円（税込56,100円／97,900円／146,300円／73,700円）"
+  }
+ ],
+ "roomsSource": "http://www.nihonbashiplaza.co.jp/price",
+ "ops": {
+  "prevDaySetup": {
+   "text": "展示ホールは、搬出入・施工などの準備・撤去のために1日利用する場合、利用料は1日の利用料金の50％。準備・撤去が開催日と同一日になる場合は1日の利用料金が適用される。1日の利用時間は9時から21時まで、それ以外の時間の利用は事前に協議して承認を得る。展示ホールの仮予約は利用希望日の1年前から受け付ける（令和元年8月改訂の規則）。",
+   "source": "http://www.nihonbashiplaza.co.jp/pdf/room_rule.pdf"
+  },
+  "loadingHours": {
+   "text": "搬出入はビル1階の荷捌所から行い、荷捌所奥のドア（高さ2.1m×幅1.8m）から入り、専用大型エレベーター（高さ2.4m×奥行2.2m×幅1.9m、積載2,600kgまで）で3階へ上がる。3階の展示ホール入口ドアは高さ2.3m×幅2.0m。責任者は1階右手の防災センター窓口で手続きをする。搬出入時は利用者が整理員を配置し、搬出入スケジュールと車両台数は事前に打ち合わせる。",
+   "source": "http://www.nihonbashiplaza.co.jp/exhition_hall/backyard.html"
+  },
+  "vehicleRules": {
+   "text": "ビル1階の荷捌所にバックで車両を入れる。搬出入は所定の場所で行い、車両台数などの詳細は事前に会社と打ち合わせる。",
+   "source": "http://www.nihonbashiplaza.co.jp/exhition_hall/backyard.html"
+  },
+  "parking": {
+   "text": "地下の自走式・有人駐車場で130台。入庫・出庫とも7:30～23:00、料金は30分280円。車両制限は高さ2.1m、幅2m、長さ5.2m、重量4t（普通車以外不可）。プリペイドカード（4,200円で5,200円分）あり。",
+   "source": "http://www.nihonbashiplaza.co.jp/parking"
+  },
+  "waitingRooms": {
+   "text": "展示ホールはロビースペースを挟んで会議室が4室あり、商談や会議、スタッフルームとして使える。会議室は展示ホールの控室等にも利用できる。",
+   "source": "http://www.nihonbashiplaza.co.jp/exhition_hall"
+  },
+  "catering": {
+   "text": "ケータリングサービス等の要望は会社が取り次ぐ。利用者が手配した弁当・ドリンクの容器・空き缶は、業者に引き取らせるなどして持ち帰る。1階のガスト日本橋店の弁当・ファミリーセットのチラシ（2024年7月、3日前までに予約、受け取り10:30～17:00）が公開されている。",
+   "source": "http://www.nihonbashiplaza.co.jp/pdf/room_rule.pdf"
+  },
+  "restaurants": {
+   "text": "同じ建物の2階に湊一や 日本橋店（海鮮個室ダイニング）、1階にガスト日本橋店、Cave de ワイン県やまなし、おいでませ 山口館が入っている。",
+   "source": "http://www.nihonbashiplaza.co.jp/company"
+  }
+ },
+ "documents": [
+  {
+   "title": "展示ホール使用規則（令和元年8月改訂）",
+   "url": "http://www.nihonbashiplaza.co.jp/pdf/room_rule.pdf"
+  },
+  {
+   "title": "会議室使用規則（令和元年8月改訂）",
+   "url": "http://www.nihonbashiplaza.co.jp/pdf/use_rule.pdf"
+  },
+  {
+   "title": "展示ホール利用申込書（2020年6月版）",
+   "url": "http://www.nihonbashiplaza.co.jp/pdf/exhibition_202006.pdf"
+  },
+  {
+   "title": "展示ホール仮予約申込書（2017年4月版）",
+   "url": "http://www.nihonbashiplaza.co.jp/pdf/e_tentative_201704.pdf"
+  },
+  {
+   "title": "3階平面図（2024年4月版）",
+   "url": "http://www.nihonbashiplaza.co.jp/pdf/room.pdf"
+  },
+  {
+   "title": "展示ホール予約状況表（2026年12月～2027年5月、2026年11月2日更新）",
+   "url": "http://www.nihonbashiplaza.co.jp/pdf/exhibition_list.pdf"
+  },
+  {
+   "title": "ガスト日本橋店 弁当チラシ（2024年7月）",
+   "url": "http://www.nihonbashiplaza.co.jp/pdf/gusot202407.pdf"
+  },
+  {
+   "title": "料金表・備品貸出料",
+   "url": "http://www.nihonbashiplaza.co.jp/price"
+  }
+ ],
+ "checkedAt": "2026-11-07",
+ "lat": 35.681644,
+ "lng": 139.772278,
+ "nearby": {
+  "convenience": [
+   {
+    "name": "ファミリーマート 八重洲さくら通り店",
+    "brand": "ファミリーマート",
+    "distanceM": 65,
+    "walkMin": 1,
+    "hours": "24時間営業",
+    "address": "東京都中央区日本橋2-3-18",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/26679",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "ファミリーマート 八重洲一丁目店",
+    "brand": "ファミリーマート",
+    "distanceM": 76,
+    "walkMin": 1,
+    "hours": "24時間営業",
+    "address": "東京都中央区八重洲1丁目5-9",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/21435",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "ローソン 八重洲一丁目店",
+    "brand": "ローソン",
+    "distanceM": 143,
+    "walkMin": 2,
+    "hours": "7:00-22:00",
+    "address": "東京都中央区八重洲1-3-7",
+    "verified": true,
+    "source": "https://www.areamarker.com/lawson/info/130790",
+    "note": "距離は公式の店舗位置で計算"
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "アクセア 東京駅八重洲店",
+    "brand": "アクセア",
+    "distanceM": 236,
+    "walkMin": 3,
+    "hours": "24時間営業（22時〜翌6時のカフェ利用は本人確認済みの会員のみ）",
+    "address": "東京都中央区日本橋3-4-15 八重洲通ビルヂング1F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/entry.html",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "アクセア 京橋店",
+    "brand": "アクセア",
+    "distanceM": 662,
+    "walkMin": 9,
+    "hours": "平日 8:00-22:00／土・日・祝 10:00-19:00",
+    "address": "東京都中央区八重洲2-8-8 大星八重洲ビル1F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/entry.html",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "3COINS ヤエチカ店",
+    "brand": "3COINS",
+    "distanceM": 312,
+    "walkMin": 4,
+    "hours": "10:00-21:00",
+    "address": "東京都中央区八重洲2-1 八重洲地下街南1号",
+    "verified": true,
+    "source": "https://palcloset.storelocator.jp/detail/361",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "Standard Products ヤエチカ店",
+    "brand": "Standard Products",
+    "distanceM": 312,
+    "walkMin": 4,
+    "hours": "10:00-20:00",
+    "address": "東京都中央区八重洲2-1 八重洲地下街 地下1階",
+    "verified": true,
+    "source": "https://www.daiso-sangyo.co.jp/shop/detail/001475",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "donki": [
+   {
+    "name": "ドン・キホーテ 銀座本館（銀座ナイン3号館）",
+    "brand": "ドン・キホーテ",
+    "distanceM": 1784,
+    "walkMin": 23,
+    "hours": "24時間営業",
+    "address": "東京都中央区銀座8-10 銀座ナイン3号館",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=92",
+    "note": "距離は住所の位置で計算。遠い"
+   },
+   {
+    "name": "ドン・キホーテ 秋葉原店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 2116,
+    "walkMin": 27,
+    "hours": "24時間営業",
+    "address": "東京都千代田区外神田4丁目3-3",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=98",
+    "note": "距離は住所の位置で計算。ドン・キホーテ公式サイトの店舗名は「秋葉原店」。遠い"
+   }
+  ]
+ },
+ "drinkDelivery": {
+  "available": true
+ },
+ "photo": {
+  "src": "/images/venues/nihonbashi-plaza.jpg",
+  "credit": "写真は東京駅 八重洲北口のイメージで、会場の建物ではありません。© MaedaAkihiko / CC BY-SA 4.0 · Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tokyo-STA_Yaesu-North-Entrance.jpg"
+ }
+}

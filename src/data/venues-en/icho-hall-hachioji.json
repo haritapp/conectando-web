@@ -1,0 +1,167 @@
+{
+ "slug": "icho-hall-hachioji",
+ "name": "Hachioji City Art & Cultural Hall (Icho Hall)",
+ "address": "Tokyo 192-0066 24-1 Honcho, Hachioji",
+ "accessSummary": "JR Hachioji Station North Exit: 15 min walk / Keio-Hachioji Station: 20 min walk",
+ "hours": "9:00-22:00 (closed every Monday (the next weekday if Monday is a holiday), Dec 29 - Jan 3, and a few other days a year). Usage fees: Main Hall, weekdays all day 153,600 yen, Sat, Sun & holidays all day 192,300 yen; Small Hall, weekdays all day 59,800 yen, Sat, Sun & holidays all day 74,900 yen (dressing room fees included; equipment fees are separate). An additional usage fee applies when admission fees are charged.",
+ "notice": "Use for the purpose of selling goods is not approved.",
+ "rooms": [
+  {
+   "name": "Main Hall (Dai Hall)",
+   "note": "800 seats on a single slope (including 2 wheelchair seats). Stage: opening width 18.00 m (14.00 m - 18.00 m), depth 16.35 m, height 8.00 m (8.00 m - 9.50 m)."
+  },
+  {
+   "name": "Small Hall (Sho Hall)",
+   "note": "282 seats (proscenium format). Stage: opening width 9.91 m, depth 7.50 m, height 6.10 m. After the renovation, flat-floor use is not available."
+  },
+  {
+   "name": "Practice Room 1 (Dai-1 Renshushitsu)",
+   "note": "B1F. Capacity 60 people."
+  },
+  {
+   "name": "Practice Room 2 (Dai-2 Renshushitsu)",
+   "note": "B1F. Capacity 30 people."
+  },
+  {
+   "name": "Practice Room 3 (Dai-3 Renshushitsu)",
+   "note": "B1F. Capacity 18 people."
+  },
+  {
+   "name": "Exhibition Room 1 (Dai-1 Tenjishitsu)",
+   "note": "1F. Movable wall available; half of the room can be used. 30 chairs, 10 tables."
+  },
+  {
+   "name": "Exhibition Room 2 (Dai-2 Tenjishitsu)",
+   "note": "2F. Movable wall available; half of the room can be used. 30 chairs, 10 tables."
+  },
+  {
+   "name": "Studio (Sosakushitsu)",
+   "note": "4F. Capacity 32 people. 32 chairs, 12 tables."
+  },
+  {
+   "name": "Meeting Room 1 (Dai-1 Kaigishitsu)",
+   "note": "4F. Capacity 20 people. 10 tables."
+  },
+  {
+   "name": "Meeting Room 2 (Dai-2 Kaigishitsu)",
+   "note": "4F. Capacity 13 people. 7 tables."
+  },
+  {
+   "name": "Meeting Room 3 (Dai-3 Kaigishitsu)",
+   "note": "4F. Capacity 16 people. 8 tables."
+  },
+  {
+   "name": "Meeting Room 4 (Dai-4 Kaigishitsu)",
+   "note": "3F. Capacity 25 people. 9 tables, screen (W147 x H196 cm)."
+  },
+  {
+   "name": "Multipurpose Room (Tamokutekishitsu)",
+   "note": "1F. Capacity 50 people. Exclusive use is rented by section. Can be used for dining or parties after a recital."
+  },
+  {
+   "name": "Tea Room 1 (Dai-1 Chashitsu)",
+   "note": "3F. 8.0 tatami mats (excluding the preparation room)."
+  },
+  {
+   "name": "Tea Room 2 (Dai-2 Chashitsu)",
+   "note": "3F. 4.5 tatami mats (excluding the preparation room)."
+  }
+ ],
+ "ops": {
+  "prevDaySetup": "The usage periods are morning 9:00-12:00, afternoon 13:00-17:00, evening 18:00-22:00 and all day 9:00-22:00, and include the time from preparation to cleanup. When multiple consecutive periods are used, the time between the periods can also be used. The maximum consecutive use is 6 days for the Main Hall, Small Hall and exhibition rooms, and 3 days for the practice rooms, studio, tea rooms and meeting rooms. (Source: Reservation page)",
+  "loadingHours": "The floor plan shows 2 load-in entrances: the Small Hall load-in entrance (1F) and the underground load-in entrance (B1F, inside the underground parking lot). (Source: Floor plan PDF)",
+  "vehicleRules": "If the parking lot is used for facility reservation, contract signing, load-in and load-out during facility use, or ticket purchase, the parking fee is discounted by 1 hour. The discount is processed at the 1F reception before payment. (Source: Parking page)",
+  "parking": "Underground parking lot: 23 spaces (height 3.0 m, width 2.0 m, length 5 m); Parking Lot 1: 32 spaces (height 3.0 m, width 2.0 m, up to 2-ton trucks); Parking Lot 2: 36 spaces (height 2.3 m, width 1.8 m, length 6.4 m). All are open 8:30-22:30 (entry restricted after 22:00), 100 yen per 20 minutes (maximum 900 yen per day). (Source: Parking page)",
+  "waitingRooms": "Main Hall: 5 dressing rooms (11.3㎡, 6 people / 11.3㎡, 6 people / 38.0㎡, 10 people / 60.0㎡, 22 people / 70.0㎡, 24 people). Small Hall: 4 dressing rooms (22㎡, 5 people / 53.5㎡, 22 people / 13㎡, 5 people / 11㎡, 5 people). The hall usage fee includes the dressing room fees. (Source: Main Hall page)"
+ },
+ "documents": [
+  {
+   "title": "Usage Fees (Main Hall, Small Hall, rooms, parking)"
+  },
+  {
+   "title": "Equipment Usage Fee List"
+  },
+  {
+   "title": "Regulations on Usage Applications, Approvals and Handling of Usage Fees (enacted December 27, 2012)"
+  },
+  {
+   "title": "1F Floor Plan"
+  },
+  {
+   "title": "B1F Floor Plan"
+  },
+  {
+   "title": "Underground Parking Layout"
+  },
+  {
+   "title": "Main Hall Stage Equipment List (June 2025)"
+  },
+  {
+   "title": "Main Hall Sound Equipment List (January 14, 2026)"
+  },
+  {
+   "title": "Main Hall Lighting Equipment List (June 25, 2025)"
+  },
+  {
+   "title": "Small Hall Stage Equipment List (June 2025)"
+  },
+  {
+   "title": "Small Hall Sound Equipment List (January 14, 2026)"
+  },
+  {
+   "title": "Facility User Registration Form (groups and individuals)"
+  },
+  {
+   "title": "Facility Use Change Notice (2024)"
+  },
+  {
+   "title": "Facility Use Cancellation Notice (2024)"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "Lawson Hachioji Yokamachi",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "7-Eleven Hachioji Yokamachi",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "7-Eleven Hachioji Yokamachi 5-chome",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location."
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "Accea Keio-Hachioji Ekimae",
+    "hours": "Weekdays 9:00-20:00 / Closed Sat, Sun & holidays",
+    "note": "Distance is calculated from the address location. Open weekdays only (closed Sat, Sun & holidays)."
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "DAISO Don Quijote Hachioji Ekimae",
+    "hours": "9:00-21:00",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "Seria Hachioji Octore",
+    "hours": "Mon-Sun 10:00-20:00",
+    "note": "Distance is calculated from the official store location."
+   }
+  ],
+  "donki": [
+   {
+    "name": "Don Quijote Hachioji Ekimae",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. The store name on the Don Quijote official website is \"Hachioji Ekimae\"."
+   }
+  ]
+ },
+ "photoCredit": "© 散歩 / Public domain · Wikimedia Commons"
+}

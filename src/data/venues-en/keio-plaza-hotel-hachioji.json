@@ -1,0 +1,122 @@
+{
+ "slug": "keio-plaza-hotel-hachioji",
+ "name": "Keio Plaza Hotel Hachioji",
+ "address": "Tokyo 192-0083 14-1 Asahi-cho, Hachioji City",
+ "accessSummary": "Keio Line Keio-Hachioji Station: 3 min walk / JR Hachioji Station North Exit: 1 min walk",
+ "hours": null,
+ "notice": null,
+ "rooms": [
+  {
+   "name": "5F Sho-oh (A+B)",
+   "note": "Can be divided into two rooms, A and B. About 19.0 m long x about 34.0 m wide. Up to 1,000 people when the foyer is also used (guide PDF, June 2024 edition)."
+  },
+  {
+   "name": "5F Sho-oh A or B (each)",
+   "note": null
+  },
+  {
+   "name": "4F Utage (A+B)",
+   "note": "Can be divided into two rooms, A and B. About 15.0 m long x about 22.0 m wide."
+  },
+  {
+   "name": "4F Utage A or B (each)",
+   "note": null
+  },
+  {
+   "name": "4F Nishiki",
+   "note": "About 15.0 m long x about 11.0 m wide."
+  },
+  {
+   "name": "4F Ohgi",
+   "note": "About 15.0 m long x about 8.0 m wide."
+  },
+  {
+   "name": "4F Aoi",
+   "note": "About 6.0 m long x about 8.8 m wide. Dedicated fiber line room (fiber line usage fee 26,400 yen)."
+  },
+  {
+   "name": "4F Natsume",
+   "note": "About 5.3 m long x about 8.8 m wide."
+  },
+  {
+   "name": "4F Mizuki",
+   "note": "About 4.6 m long x about 8.8 m wide."
+  },
+  {
+   "name": "3F Iris",
+   "note": "About 8.7 m long x about 9.2 m wide."
+  },
+  {
+   "name": "3F Cattleya",
+   "note": "About 8.7 m long x about 8.0 m wide."
+  },
+  {
+   "name": "3F Cosmos",
+   "note": "About 8.7 m long x about 8.4 m wide. Dedicated fiber line room (fiber line usage fee 26,400 yen). Standing capacity is the figure for buffet style."
+  }
+ ],
+ "ops": {
+  "loadingHours": "The 1F floor plan in the guide PDF shows the load-in/load-out entrance and route, the underground parking entrance and the outdoor parking entrance (June 2024 edition). (Source: Banquet guide PDF)",
+  "parking": "The parking lot holds 154 vehicles. Hotel parking cannot be reserved; if it is full, guests are directed to nearby public parking lots. General parking is 600 yen for the first hour, then 300 yen per 30 minutes. Banquet use is free for up to 3 hours 30 minutes (up to 6 hours for weddings); exhibition use is charged. Under the parking lot regulations, vehicles up to 5.0 m long, 1.9 m wide, 2.1 m high and 2.5 t in weight can enter (larger vehicles are possible in the outdoor parking lot if notified in advance); it is open from 0:00 to 24:00, 365 days a year (last revised June 28, 2024). (Source: Facilities page)",
+  "waitingRooms": "Shiun and Hakuun on the 5F are VIP waiting rooms with a total floor area of 40㎡ (12 tsubo). (Source: Shiun/Hakuun page)",
+  "catering": "Bringing in food and drinks to serve to attendees is prohibited (unless permitted by the hotel). Decorations, entertainment, costumes, gifts, flowers, photography and the like must use companies designated by the hotel; if a non-designated company is used, preparation and bring-in fees must be discussed with the hotel in advance (Banquet Hall Terms of Use, last revised November 1, 2025). The hotel's catering accepts from 5 to over 1,000 guests: standing plan 7,260 yen per person (from 30 guests; catering fee charged separately), Shokado bento + serving staff 9,680 yen per person (from 10 guests), Western course meal + serving staff 12,100 yen per person (from 10 guests), Makunouchi bento delivery 6,050 yen per person (from 10 guests; delivery fee of 5,500 yen charged separately). All prices include service charge and tax. Excluded dates are December 29, 2026 to January 11, 2027. (Source: Banquet Terms of Use PDF, Catering page)",
+  "restaurants": "The hotel's restaurants are Japanese Cuisine Miyama (日本料理〈みやま〉), Sushi Restaurant Yaichi (鮨処〈八一〉) and Teppan-yaki Yamanami (鉄板焼〈やまなみ〉) on the 15F, and Chinese restaurant Nan-en (中国料理〈南園〉) and Restaurant Le clair (レストラン〈ル クレール〉) on the 2F. The lounges are SOTO BAR on the 2F and the Lobby Lounge on the 1F. (Source: Restaurant page)"
+ },
+ "documents": [
+  {
+   "title": "Banquet Hall Terms of Use (last revised November 1, 2025)"
+  },
+  {
+   "title": "Banquet hall guide (banquet hall layouts, capacities and load-in/load-out routes, June 2024 edition)"
+  },
+  {
+   "title": "Parking Lot Regulations (last revised June 28, 2024)"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "FamilyMart Hachioji I-Road",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "7-Eleven Hachioji Asahicho",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "FamilyMart JR Hachioji Station Front",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location."
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "Accea Keio-Hachioji Ekimae",
+    "hours": "Weekdays 9:00-20:00 / Closed Sat, Sun & holidays",
+    "note": "Distance is calculated from the address location. Open on weekdays only (closed Sat, Sun & holidays)."
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "3COINS +plus Celeo Hachioji",
+    "hours": "10:00-20:00",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "THREEPPY Celeo Hachioji",
+    "hours": "10:00-20:00",
+    "note": "Distance is calculated from the official store location."
+   }
+  ],
+  "donki": [
+   {
+    "name": "Don Quijote Hachioji Ekimae",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. The store name on the official Don Quijote website is \"Hachioji Ekimae\" (八王子駅前店)."
+   }
+  ]
+ },
+ "photoCredit": "© Mu0911 / CC BY-SA 4.0 · Wikimedia Commons"
+}

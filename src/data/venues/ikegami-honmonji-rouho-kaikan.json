@@ -1,0 +1,263 @@
+{
+ "slug": "ikegami-honmonji-rouho-kaikan",
+ "nameJa": "池上本門寺 朗峰会館",
+ "nameEn": "",
+ "type": "conference",
+ "area": "shinagawa-venues",
+ "address": "〒146-0082 東京都大田区池上1-2-1",
+ "officialUrl": "http://honmonji.jp/",
+ "organizerUrl": "http://honmonji.jp/enjoy/rouho.html",
+ "bizintokyoSlug": "ikegami-honmonji-rouho-kaikan",
+ "accessSummary": "東急池上線「池上駅」から徒歩10分／都営浅草線「西馬込駅」南口から徒歩12分／JR京浜東北線「大森駅」から池上駅行きバス20分「本門寺前」下車徒歩5分（池上本門寺のアクセス表記）",
+ "notice": null,
+ "hours": "問い合わせ受付10:00～16:30、年中無休（休館日：8月13～15日、12月29日～1月3日）。会議・研修では会場のレイアウトから設営まで館のスタッフが行う。必要に応じて宿泊も可能（内容により宿泊・研修等を受けられない場合がある）。用途（会食・会議・研修ほか）によって料金が異なる場合がある。部屋表の定員は着席／立食の値。",
+ "rooms": [
+  {
+   "name": "朗全（東・西）",
+   "areaM2": 433,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": 400,
+   "banquet": 300,
+   "note": "4階・洋室。室料44,000円／1時間（税込）"
+  },
+  {
+   "name": "朗峰 東",
+   "areaM2": 236,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": 150,
+   "banquet": 100,
+   "note": "4階・洋室。室料24,200円／1時間（税込）"
+  },
+  {
+   "name": "朗峰 西",
+   "areaM2": 197,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": 120,
+   "banquet": 70,
+   "note": "4階・洋室。室料19,800円／1時間（税込）"
+  },
+  {
+   "name": "孔雀",
+   "areaM2": 133,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": 60,
+   "banquet": 40,
+   "note": "3階・洋室。室料17,600円／1時間（税込）"
+  },
+  {
+   "name": "鳳凰",
+   "areaM2": null,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": 40,
+   "note": "3階・和室45畳。室料15,400円／1時間（税込）"
+  },
+  {
+   "name": "末広/鶴 他",
+   "areaM2": 23,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": 8,
+   "note": "3階・洋1室。室料6,600円／1時間（税込）"
+  },
+  {
+   "name": "末高/鶴亀",
+   "areaM2": 46,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": 12,
+   "note": "3階・洋2室。室料13,200円／1時間（税込）"
+  },
+  {
+   "name": "福禄",
+   "areaM2": null,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": 6,
+   "note": "3階・和室10畳。室料4,400円／1時間（税込）"
+  },
+  {
+   "name": "松 他",
+   "areaM2": null,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": 8,
+   "note": "2階・和1室15畳。室料5,500円／1時間（税込）。2階の和室は構造上14畳の部屋がある"
+  },
+  {
+   "name": "松竹 他",
+   "areaM2": null,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": 24,
+   "note": "2階・和2室30畳。室料11,000円／1時間（税込）"
+  },
+  {
+   "name": "柏・芭蕉",
+   "areaM2": null,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": 6,
+   "note": "2階・和室8・10畳。室料4,400円／1時間（税込）"
+  },
+  {
+   "name": "林棠・水仙",
+   "areaM2": 48,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": 24,
+   "note": "2階・洋2室。室料13,200円／1時間（税込）"
+  }
+ ],
+ "roomsSource": "http://honmonji.jp/enjoy/img/koshitsuryokin.pdf",
+ "ops": {
+  "catering": {
+   "text": "会議・研修ではお弁当やお茶の提供を受け付けている。飲食物の持ち込みは遠慮してもらう。",
+   "source": "http://honmonji.jp/enjoy/rouho.html"
+  },
+  "restaurants": {
+   "text": "1階にレストランがあり、人形町今半「池上本門寺店」と会席料理「味彩」の料理で個室会食ができる。会食は予定日の1週間前までに予約。『人形町今半』の料理は1階レストランとの兼ね合いで提供数に制限がある。",
+   "source": "http://honmonji.jp/enjoy/rouho.html"
+  },
+  "parking": {
+   "text": "目の前に無料駐車場があり、約100台収容。",
+   "source": "http://honmonji.jp/enjoy/rouho.html"
+  }
+ },
+ "documents": [
+  {
+   "title": "個室料金表（2025年1月1日改定）",
+   "url": "http://honmonji.jp/enjoy/img/koshitsuryokin.pdf"
+  },
+  {
+   "title": "朗峰会館 貸出備品一覧",
+   "url": "http://honmonji.jp/enjoy/img/rouho_bihin.pdf"
+  },
+  {
+   "title": "見取り図",
+   "url": "http://honmonji.jp/enjoy/img/mitorizu.pdf"
+  }
+ ],
+ "checkedAt": "2026-11-07",
+ "lat": 35.578838,
+ "lng": 139.705231,
+ "nearby": {
+  "convenience": [
+   {
+    "name": "ファミリーマート 池上文化センター前店",
+    "brand": "ファミリーマート",
+    "distanceM": 443,
+    "walkMin": 6,
+    "hours": "24時間営業",
+    "address": "東京都大田区池上四丁目22番11号",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/26990",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "セブン-イレブン 大田区久が原5丁目店",
+    "brand": "セブン-イレブン",
+    "distanceM": 539,
+    "walkMin": 7,
+    "hours": "24時間営業",
+    "address": "東京都大田区久が原5-15-9",
+    "verified": true,
+    "source": "https://seven-eleven.areamarker.com/711map/info/368645",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "ファミリーマート 大田池上四丁目店",
+    "brand": "ファミリーマート",
+    "distanceM": 603,
+    "walkMin": 8,
+    "hours": "24時間営業",
+    "address": "東京都大田区池上4丁目16-11",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/20953",
+    "note": "距離は公式の店舗位置で計算"
+   }
+  ],
+  "copyshop": [],
+  "hundredYen": [
+   {
+    "name": "DAISO 大田池上店",
+    "brand": "ダイソー",
+    "distanceM": 781,
+    "walkMin": 10,
+    "hours": "9:30-21:00",
+    "address": "東京都大田区池上7-1-1",
+    "verified": true,
+    "source": "https://www.daiso-sangyo.co.jp/shop/detail/001107",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "donki": [
+   {
+    "name": "MEGAドン・キホーテ大森山王店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 1709,
+    "walkMin": 22,
+    "hours": "8:00-3:00",
+    "address": "東京都大田区山王3-6-3",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=407",
+    "note": "距離は住所の位置で計算。遠い"
+   },
+   {
+    "name": "ドン・キホーテ 蒲田駅前店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 1972,
+    "walkMin": 25,
+    "hours": "24時間営業",
+    "address": "東京都大田区西蒲田7丁目3-3",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=216",
+    "note": "距離は住所の位置で計算。遠い。ドン・キホーテ公式サイトの店舗名は「蒲田駅前店」"
+   }
+  ]
+ },
+ "drinkDelivery": {
+  "available": true
+ },
+ "photo": {
+  "src": "/images/venues/ikegami-honmonji-rouho-kaikan.jpg",
+  "credit": "© Asanagi / CC0 · Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Shoto-en_%284%29_2024-05-04.jpg"
+ }
+}

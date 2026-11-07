@@ -1,0 +1,121 @@
+{
+ "slug": "jcom-hall-hachioji",
+ "name": "J:COM Hall Hachioji (Hachioji Civic Hall)",
+ "address": "Tokyo 192-0904 Southern Sky Tower Hachioji 4F, 4-7-1 Koyasu-cho, Hachioji",
+ "accessSummary": "Directly connected to JR Hachioji Station South Exit / 7 min walk from Keio-Hachioji Station",
+ "hours": "9:00-22:00 (closed Dec 29 to Jan 3 and on the building-wide closure days of Southern Sky Tower Hachioji; on equipment maintenance and inspection days only the hall's general reception desk is open)",
+ "notice": null,
+ "rooms": [
+  {
+   "name": "Hall",
+   "note": "Up to 2,021 seats (1,869 fixed seats, 8 parent-and-child seats, 144 standing-room spaces). With the acoustic reflector installed: 1,832 seats (1,680 fixed seats, 8 parent-and-child seats, 144 standing-room spaces). The stage is 18 m wide and 20 m deep (with the acoustic reflector installed, the front stage is raised and the depth becomes 13 m), proscenium height 11 m, ceiling height 26 m (up to the grid)."
+  },
+  {
+   "name": "Rehearsal Room",
+   "note": "14.4 m x 6.9 m. Upright piano provided. Fees are 4,000 yen for morning, 7,000 yen for afternoon, 8,000 yen for evening and 17,000 yen for all day (tax included). The page for those wishing to use it states an area of 110㎡."
+  }
+ ],
+ "ops": {
+  "vehicleRules": "The load-in/load-out entrance for equipment is inside the loading and parking area on the 1F of Southern Sky Tower Hachioji. For cargo handling by trucks with a maximum load capacity of 2 tons or more but under 5 tons, installation of lifting equipment and wearing of helmets are required (in effect from October 1, 2023), and operators of tail-gate lifters must receive special training (4 hours of classroom study and 2 hours of practice; in effect from February 1, 2024).",
+  "parking": "The hall has no dedicated parking lot. Use the pay parking lots in the basement of Southern Sky Tower Hachioji and nearby. Times Southern Sky Parking (open 24 hours) costs 440 yen per hour with a 1,400 yen maximum, and Chutaro (open 24 hours) costs 420 yen per hour with a 1,100 yen maximum. Vehicles designated as exempt from parking prohibition, and vehicles driven by or carrying holders of a disability certificate or similar, can receive the parking service at Times Southern Sky Parking.",
+  "waitingRooms": "There are 10 dressing rooms (4F and 5F; 2 large, 4 medium, 4 small). Dressing Room 1 is 18.7㎡ with a shower and toilet, and the others range from 13.5 to 48.3㎡. Fixtures such as tables and chairs in the organizer's waiting room, the waiting room and the dressing room office are lent free of charge.",
+  "catering": "Eating and drinking is prohibited inside the hall's auditorium. The buffet in the 5F Grand Foyer operates differently depending on the performance.",
+  "restaurants": "There are restaurants and cafes inside Southern Sky Tower Hachioji. The 5F Grand Foyer has a buffet and drink vending machines (buffet operation differs depending on the performance)."
+ },
+ "documents": [
+  {
+   "title": "Usage Guide (April 2021 edition)"
+  },
+  {
+   "title": "Notice of Hall Fee Revision (for use from April 1, 2027)"
+  },
+  {
+   "title": "Notice of Rental Suspension Period (August 1, 2026)"
+  },
+  {
+   "title": "Reception Card"
+  },
+  {
+   "title": "Seating Chart 1 (April 2021 edition)"
+  },
+  {
+   "title": "Seating Chart 2 (April 2021 edition)"
+  },
+  {
+   "title": "Stage Floor Plan"
+  },
+  {
+   "title": "Stage Cross-Section (April 2021 edition)"
+  },
+  {
+   "title": "Equipment Usage Fees: Stage (April 2023 edition)"
+  },
+  {
+   "title": "Equipment Usage Fees: Musical Instruments (April 2023 edition)"
+  },
+  {
+   "title": "Equipment Usage Fees: Sound (April 2023 edition)"
+  },
+  {
+   "title": "Equipment Usage Fees: Lighting (April 2023 edition)"
+  },
+  {
+   "title": "Equipment Usage Fees: Operations (April 2023 edition)"
+  },
+  {
+   "title": "4F Dressing Room Floor Plan"
+  },
+  {
+   "title": "5F Dressing Room Floor Plan"
+  },
+  {
+   "title": "Access Map (January 2026 edition)"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "FamilyMart Sereo Hachioji",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the store's official location."
+   },
+   {
+    "name": "FamilyMart JR Hachioji Minami-guchi",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the store's official location."
+   },
+   {
+    "name": "7-Eleven Hachioji Station South",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the store's official location."
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "Accea Keio-Hachioji Ekimae",
+    "hours": "Weekdays 9:00-20:00 / Closed Sat, Sun & holidays",
+    "note": "Distance is calculated from the address location. Open weekdays only (closed Sat, Sun & holidays)"
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "DAISO Hachioji OPA",
+    "hours": "10:00-21:00",
+    "note": "Distance is calculated from the store's official location."
+   },
+   {
+    "name": "Seria Southern Sky Tower Hachioji",
+    "hours": "Mon-Sun 10:00-21:00",
+    "note": "Distance is calculated from the store's official location."
+   }
+  ],
+  "donki": [
+   {
+    "name": "Don Quijote Hachioji Ekimae",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. The store name on the Don Quijote official site is \"Hachioji Ekimae\"."
+   }
+  ]
+ },
+ "photoCredit": "© 103momo (talk · contribs) / CC BY-SA 3.0 · Wikimedia Commons"
+}

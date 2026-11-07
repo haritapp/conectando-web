@@ -1,0 +1,205 @@
+{
+ "slug": "meiji-kinenkan",
+ "name": "Meiji Kinenkan",
+ "address": "Tokyo 107-8507 2-2-23 Moto-Akasaka, Minato-ku",
+ "accessSummary": "Shinanomachi Station (JR Chuo-Sobu Line): 3 min walk / Aoyama-itchome Station (Ginza, Hanzomon and Oedo Lines) Exit 2: 6 min walk / Kokuritsu-Kyogijo Station (Oedo Line) Exit A1: 6 min walk / Toei Bus (Shina 97) \"Gondawara\": 1 min walk",
+ "hours": "Party & MICE desk (Corporate Sales Section) 9:30-19:00",
+ "notice": null,
+ "rooms": [
+  {
+   "name": "Fuji (Whole)",
+   "note": "2nd floor. Dimensions 41.3 x 19.3 x 6.0-6.6 m. The introduction gives a ceiling height of 6.6 m and 5.15 m from the floor to under the chandelier. Lifting stage, permanent screen and projector."
+  },
+  {
+   "name": "Akebono (Whole)",
+   "note": "1st floor. Dimensions 35.1 x 14.0 x 3.0-3.3 m."
+  },
+  {
+   "name": "Horai",
+   "note": "2nd floor. Garden view. Dimensions 17.7 x 26.9 x 5.2-5.5 m, 4.0 m from the floor to under the chandelier. Permanent screen and projector."
+  },
+  {
+   "name": "Fuji 1",
+   "note": "2nd floor. Dimensions 22.7 x 19.3 x 6.0-6.6 m."
+  },
+  {
+   "name": "Fuji 2",
+   "note": "2nd floor. Dimensions 17.7 x 19.3 x 6.0-6.6 m."
+  },
+  {
+   "name": "Keyaki",
+   "note": "Dimensions 13.5 x 21.7 x 2.9-3.7 m."
+  },
+  {
+   "name": "Hoo",
+   "note": "2nd floor. Garden view. Dimensions 15.9 x 15.8 x 3.3 m."
+  },
+  {
+   "name": "Akebono 1",
+   "note": "1st floor. Dimensions 17.5 x 14.0 x 3.0-3.3 m."
+  },
+  {
+   "name": "Akebono 2",
+   "note": "1st floor. Dimensions 17.5 x 14.0 x 3.0-3.3 m."
+  },
+  {
+   "name": "Suehiro",
+   "note": "1st floor. Garden view. Dimensions 18.9 x 11.8 x 2.7-3.0 m. Permanent screen and projector."
+  },
+  {
+   "name": "Kujaku",
+   "note": "2nd floor. Garden view. Dimensions 18.9 x 11.8 x 2.7-3.0 m."
+  },
+  {
+   "name": "Fuyo",
+   "note": "1st floor. Garden view. Dimensions 15.8 x 13.4 x 2.9-3.2 m. Permanent screen."
+  },
+  {
+   "name": "Kusu",
+   "note": "2nd floor. Dimensions 14.5 x 13.5 x 2.9-3.5 m. Permanent screen and projector."
+  },
+  {
+   "name": "Aioi",
+   "note": "1st floor. Garden view. Dimensions 12.7 x 15.0 x 2.7-3.1 m. Permanent screen and projector."
+  },
+  {
+   "name": "Wakatake",
+   "note": "1st floor. Garden view. Dimensions 9.4 x 18.7 x 2.6-3.1 m."
+  },
+  {
+   "name": "Gallery",
+   "note": "1st floor. Garden view. Dimensions 15.8-20.5 x 10.3-10.8 x 3.0-3.2 m."
+  },
+  {
+   "name": "Chitose",
+   "note": "1st floor. Dimensions 10.1 x 15.8 x 2.7-3.0 m. Permanent screen."
+  },
+  {
+   "name": "Tancho",
+   "note": "2nd floor. Dimensions 10.1 x 15.8 x 2.7-2.9 m."
+  },
+  {
+   "name": "Tsuru-Kame",
+   "note": "1st floor. Dimensions 10.5 x 14.9 x 3.0-2.7 m."
+  },
+  {
+   "name": "Shii",
+   "note": "Dimensions 7.9 x 10.6 x 2.9-3.4 m."
+  },
+  {
+   "name": "Torinso",
+   "note": null
+  },
+  {
+   "name": "Kinkei",
+   "note": "1st floor. Constitution Memorial Hall / Meiji Kinenkan Main Building (Tokyo Metropolitan Designated Tangible Cultural Property). Dimensions 21.6 x 8.4 x 4.3-4.4 m."
+  },
+  {
+   "name": "Emile",
+   "note": "1st floor. Constitution Memorial Hall / Meiji Kinenkan Main Building. Dimensions 12.0 x 8.4 x 4.3-4.4 m."
+  },
+  {
+   "name": "Kashiwa",
+   "note": "1st floor."
+  },
+  {
+   "name": "Ayame",
+   "note": "1st floor."
+  },
+  {
+   "name": "Kikyo",
+   "note": "1st floor."
+  },
+  {
+   "name": "Nadeshiko",
+   "note": "1st floor."
+  },
+  {
+   "name": "Hagi",
+   "note": "1st floor."
+  },
+  {
+   "name": "Sakura",
+   "note": "1st floor."
+  },
+  {
+   "name": "Ran",
+   "note": "1st floor."
+  }
+ ],
+ "ops": {
+  "parking": "There is a free parking lot for users of the facilities. Use the Gaien exit of the Shuto Expressway Route 4 (the exit differs for the inbound and outbound lines). It is very crowded on Saturdays, Sundays and holidays. (Source: https://www.meijikinenkan.gr.jp/info/floor.html)",
+  "restaurants": "On site are Hagoromo (sushi, tempura and teppanyaki), Hanagasumi (kaiseki restaurant; 7 private rooms for 2 to 48 guests) and Kinkei (lounge / dining). The beer terrace Sekirei has ended its operation for fiscal 2026. (Source: https://www.meijikinenkan.gr.jp/restaurant/)"
+ },
+ "documents": [
+  {
+   "title": "Floor Guide (from August 20, 2024)"
+  },
+  {
+   "title": "Reiwa 8 (2026) Party Plan"
+  },
+  {
+   "title": "Meiji Kinenkan Main Building Restoration Completion Commemorative Party Plan (October 25, Reiwa 8 to December 28, Reiwa 9)"
+  },
+  {
+   "title": "Options (Equipment & Rentals)"
+  },
+  {
+   "title": "Planning Process"
+  },
+  {
+   "title": "Shuttle Bus Guide"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "FamilyMart Shinjuku Shinanomachi",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the store's official location."
+   },
+   {
+    "name": "FamilyMart Yotsuya Wakaba",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the store's official location."
+   },
+   {
+    "name": "FamilyMart Kita-Aoyama 1-chome",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the store's official location."
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "Accea Gaienmae",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Accea Yotsuya",
+    "hours": "Weekdays 8:00-21:00 / Sat 10:00-19:00 / Closed Sun & holidays",
+    "note": "Distance is calculated from the address location. Rather far."
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Can Do Atre Shinanomachi",
+    "hours": "Daily 10:00-21:00",
+    "note": "Distance is calculated from the store's official location."
+   }
+  ],
+  "donki": [
+   {
+    "name": "Picasso Akasaka (Don Quijote)",
+    "hours": "7:00-3:00",
+    "note": "Distance is calculated from the address location. Rather far. This is a different Don Quijote format (the store name on the official website is \"Picasso Akasaka\" / ピカソ赤坂店)."
+   },
+   {
+    "name": "Don Quijote Roppongi",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. Far. The store name on the Don Quijote official website is \"Roppongi\" (六本木店)."
+   }
+  ]
+ },
+ "photoCredit": "© 江戸村のとくぞう / CC BY-SA 4.0 · Wikimedia Commons"
+}

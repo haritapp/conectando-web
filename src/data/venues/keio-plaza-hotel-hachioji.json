@@ -1,0 +1,281 @@
+{
+ "slug": "keio-plaza-hotel-hachioji",
+ "nameJa": "京王プラザホテル八王子",
+ "nameEn": "Keio Plaza Hotel Hachioji",
+ "type": "hotel",
+ "area": "tama-venues",
+ "address": "〒192-0083 東京都八王子市旭町14-1",
+ "officialUrl": "https://www.keioplaza.co.jp/hachioji/",
+ "organizerUrl": "https://www.keioplaza.co.jp/hachioji/banquet/",
+ "bizintokyoSlug": "keio-plaza-hotel-hachioji",
+ "accessSummary": "京王線 京王八王子駅から徒歩3分／JR八王子駅 北口から徒歩1分",
+ "notice": null,
+ "hours": null,
+ "rooms": [
+  {
+   "name": "5階 翔王（A+B）",
+   "areaM2": 760,
+   "ceilingM": 6.0,
+   "theater": 900,
+   "school": 550,
+   "ushape": null,
+   "standing": 700,
+   "banquet": 450,
+   "note": "A・Bの2室に分けて使える。縦約19.0m×横約34.0m。ホワイエ併用で1,000名まで（案内PDF 2024年6月版）"
+  },
+  {
+   "name": "5階 翔王 A または B（各）",
+   "areaM2": 380,
+   "ceilingM": 6.0,
+   "theater": 400,
+   "school": 200,
+   "ushape": null,
+   "standing": 300,
+   "banquet": 200
+  },
+  {
+   "name": "4階 宴（A+B）",
+   "areaM2": 380,
+   "ceilingM": 2.75,
+   "theater": 400,
+   "school": 220,
+   "ushape": null,
+   "standing": 300,
+   "banquet": 220,
+   "note": "A・Bの2室に分けて使える。縦約15.0m×横約22.0m"
+  },
+  {
+   "name": "4階 宴 A または B（各）",
+   "areaM2": 190,
+   "ceilingM": 2.75,
+   "theater": 200,
+   "school": 110,
+   "ushape": null,
+   "standing": 120,
+   "banquet": 100
+  },
+  {
+   "name": "4階 錦",
+   "areaM2": 190,
+   "ceilingM": 2.75,
+   "theater": 200,
+   "school": 110,
+   "ushape": null,
+   "standing": 120,
+   "banquet": 100,
+   "note": "縦約15.0m×横約11.0m"
+  },
+  {
+   "name": "4階 扇",
+   "areaM2": 135,
+   "ceilingM": 3.2,
+   "theater": 120,
+   "school": 80,
+   "ushape": null,
+   "standing": 80,
+   "banquet": 60,
+   "note": "縦約15.0m×横約8.0m"
+  },
+  {
+   "name": "4階 あおい",
+   "areaM2": 60,
+   "ceilingM": 2.8,
+   "theater": 50,
+   "school": 36,
+   "ushape": null,
+   "standing": 30,
+   "banquet": 30,
+   "note": "縦約6.0m×横約8.8m。光単独回線会場（光回線利用料26,400円）"
+  },
+  {
+   "name": "4階 なつめ",
+   "areaM2": 50,
+   "ceilingM": 2.8,
+   "theater": 45,
+   "school": 30,
+   "ushape": null,
+   "standing": 30,
+   "banquet": 30,
+   "note": "縦約5.3m×横約8.8m"
+  },
+  {
+   "name": "4階 みずき",
+   "areaM2": 45,
+   "ceilingM": 2.8,
+   "theater": 36,
+   "school": 24,
+   "ushape": null,
+   "standing": 30,
+   "banquet": 20,
+   "note": "縦約4.6m×横約8.8m"
+  },
+  {
+   "name": "3階 アイリス",
+   "areaM2": 80,
+   "ceilingM": 2.6,
+   "theater": 50,
+   "school": 48,
+   "ushape": null,
+   "standing": 40,
+   "banquet": 40,
+   "note": "縦約8.7m×横約9.2m"
+  },
+  {
+   "name": "3階 カトレア",
+   "areaM2": 70,
+   "ceilingM": 2.6,
+   "theater": 40,
+   "school": 30,
+   "ushape": null,
+   "standing": 30,
+   "banquet": 30,
+   "note": "縦約8.7m×横約8.0m"
+  },
+  {
+   "name": "3階 コスモス",
+   "areaM2": 75,
+   "ceilingM": 2.6,
+   "theater": 50,
+   "school": 36,
+   "ushape": null,
+   "standing": 40,
+   "banquet": 40,
+   "note": "縦約8.7m×横約8.4m。光単独回線会場（光回線利用料26,400円）。立食はブッフェスタイルの人数"
+  }
+ ],
+ "roomsSource": "https://www.keioplaza.co.jp/hachioji/banquet/、https://www.keioplaza.co.jp/hachioji/banquet/hall/shouou/、https://www.keioplaza.co.jp/hachioji/banquet/hall/utage/、https://www.keioplaza.co.jp/hachioji/banquet/hall/nishiki/、https://www.keioplaza.co.jp/hachioji/banquet/hall/ohgi/、https://www.keioplaza.co.jp/hachioji/banquet/hall/aoi/、https://www.keioplaza.co.jp/hachioji/banquet/hall/natsume/、https://www.keioplaza.co.jp/hachioji/banquet/hall/mizuki/、https://www.keioplaza.co.jp/hachioji/banquet/hall/iris/、https://www.keioplaza.co.jp/hachioji/banquet/hall/cattleya/、https://www.keioplaza.co.jp/hachioji/banquet/hall/cosmos/、https://www.keioplaza.co.jp/hachioji/banquet/pdf/banquet_guidance_hachioji.pdf",
+ "ops": {
+  "loadingHours": {
+   "text": "案内PDFの1階平面図に、搬入出口と搬入出導線、地下駐車場入口、屋外駐車場入口が示されている（2024年6月版）。",
+   "source": "https://www.keioplaza.co.jp/hachioji/banquet/pdf/banquet_guidance_hachioji.pdf"
+  },
+  "parking": {
+   "text": "駐車場は154台収容。ホテル駐車場の予約はできない。満車の場合は近隣の公共駐車場を案内される。一般駐車は1時間600円、以降30分ごとに300円。宴会利用は3時間30分まで無料（婚礼は6時間まで）、展示会利用は有料。駐車場管理規程では、入れる車両は長さ5.0m・幅1.9m・高さ2.1m・重さ2.5tまで（屋外駐車場は事前に届け出れば超える車両も可）、営業時間は0時〜24時の365日（最終改正2024年6月28日）。",
+   "source": "https://www.keioplaza.co.jp/hachioji/guide/facility/"
+  },
+  "waitingRooms": {
+   "text": "5階の紫雲・白雲はVIP控え室で、総床面積40㎡（12坪）。",
+   "source": "https://www.keioplaza.co.jp/hachioji/banquet/hall/shiunhakuun/"
+  },
+  "catering": {
+   "text": "出席者に提供するための飲食物の持込みは禁止（ホテルが許可した場合を除く）。装飾・余興・衣装・引出物・装花・撮影などはホテル指定の会社を使う決まりで、指定外の会社を使う場合は準備・持込料について事前にホテルと打合せが必要（宴会場ご利用規約 最終改正2025年11月1日）。ホテルのケータリングは5名から1,000名超まで受けており、立食プランは1名7,260円（30名から。別途ケータリングフィー）、松花堂弁当＋配膳付きは1名9,680円（10名から）、西洋コース料理＋配膳付きは1名12,100円（10名から）、幕の内弁当デリバリーは1名6,050円（10名から。別途運搬費5,500円）。いずれもサービス料・税込。除外日は2026年12月29日〜2027年1月11日。",
+   "source": "https://www.keioplaza.co.jp/hachioji/banquet/pdf/banquet_terms_hachioji.pdf、https://www.keioplaza.co.jp/hachioji/banquet/catering/"
+  },
+  "restaurants": {
+   "text": "館内のレストランは、15階の日本料理〈みやま〉・鮨処〈八一〉・鉄板焼〈やまなみ〉、2階の中国料理〈南園〉・レストラン〈ル クレール〉、ラウンジは2階のバー〈SOTO BAR〉と1階のロビーラウンジ。",
+   "source": "https://www.keioplaza.co.jp/hachioji/restaurant/"
+  }
+ },
+ "documents": [
+  {
+   "title": "宴会場ご利用規約（最終改正2025年11月1日）",
+   "url": "https://www.keioplaza.co.jp/hachioji/banquet/pdf/banquet_terms_hachioji.pdf"
+  },
+  {
+   "title": "宴会場のご案内（宴会場レイアウト・収容人数・搬入出導線、2024年6月版）",
+   "url": "https://www.keioplaza.co.jp/hachioji/banquet/pdf/banquet_guidance_hachioji.pdf"
+  },
+  {
+   "title": "駐車場管理規程（最終改正2024年6月28日）",
+   "url": "https://www.keioplaza.co.jp/hachioji/guide/pdf/parking.pdf"
+  }
+ ],
+ "checkedAt": "2026-11-07",
+ "lat": 35.656216,
+ "lng": 139.341202,
+ "nearby": {
+  "convenience": [
+   {
+    "name": "ファミリーマート 八王子アイロード店",
+    "brand": "ファミリーマート",
+    "distanceM": 87,
+    "walkMin": 2,
+    "hours": "24時間営業",
+    "address": "東京都八王子市旭町13番13号",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/23484",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "セブン-イレブン 八王子旭町店",
+    "brand": "セブン-イレブン",
+    "distanceM": 92,
+    "walkMin": 2,
+    "hours": "24時間営業",
+    "address": "東京都八王子市旭町13番2号",
+    "verified": true,
+    "source": "https://seven-eleven.areamarker.com/711map/info/194694",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "ファミリーマート JR八王子駅前店",
+    "brand": "ファミリーマート",
+    "distanceM": 112,
+    "walkMin": 2,
+    "hours": "24時間営業",
+    "address": "東京都八王子市旭町1番4号 八王子交通ビル1階",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/23446",
+    "note": "距離は公式の店舗位置で計算"
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "アクセア 京王八王子駅前店",
+    "brand": "アクセア",
+    "distanceM": 175,
+    "walkMin": 3,
+    "hours": "平日9:00〜20:00／土日祝休み",
+    "address": "東京都八王子市明神町3-20-6 八王子ファーストスクエア1F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/entry.html",
+    "note": "距離は住所の位置で計算。平日のみ営業（土日祝休み）"
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "3COINS +plus セレオ八王子店",
+    "brand": "3COINS",
+    "distanceM": 127,
+    "walkMin": 2,
+    "hours": "10:00-20:00",
+    "address": "東京都八王子市旭町1-1 セレオ八王子 北館3F",
+    "verified": true,
+    "source": "https://palcloset.storelocator.jp/shop/2645",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "THREEPPY セレオ八王子店",
+    "brand": "THREEPPY",
+    "distanceM": 172,
+    "walkMin": 3,
+    "hours": "10:00-20:00",
+    "address": "東京都八王子市旭町1-1 セレオ八王子北館3階",
+    "verified": true,
+    "source": "https://www.daiso-sangyo.co.jp/shop/detail/001188",
+    "note": "距離は公式の店舗位置で計算"
+   }
+  ],
+  "donki": [
+   {
+    "name": "ドン・キホーテ 八王子駅前店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 403,
+    "walkMin": 6,
+    "hours": "24時間営業",
+    "address": "東京都八王子市中町1-3",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=220",
+    "note": "距離は住所の位置で計算。ドン・キホーテ公式サイトの店舗名は「八王子駅前店」"
+   }
+  ]
+ },
+ "drinkDelivery": {
+  "available": false
+ },
+ "photo": {
+  "src": "/images/venues/keio-plaza-hotel-hachioji.jpg",
+  "credit": "© Mu0911 / CC BY-SA 4.0 · Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Keio_plaza_hotel_hachioji_2.jpg"
+ }
+}

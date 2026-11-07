@@ -1,0 +1,161 @@
+{
+ "slug": "keidanren-kaikan-conference",
+ "name": "Keidanren Kaikan Conference",
+ "address": "Tokyo 100-0004 Keidanren Kaikan, 1-3-2 Otemachi, Chiyoda-ku",
+ "accessSummary": "Tokyo Metro Otemachi Station: directly connected to Exit C2b",
+ "hours": "Monday to Saturday 9:00-21:00 (closed on Sundays, public holidays and the year-end/New Year period (December 30 to January 3))",
+ "notice": "Non-members need a letter of introduction from a member (prescribed form), an advance payment, etc. (revised April 1, 2026)",
+ "rooms": [
+  {
+   "name": "Keidanren Hall",
+   "note": "2F. Simultaneous interpretation equipment available. The \"Party\" capacity in the official table is listed as standing."
+  },
+  {
+   "name": "Keidanren Hall (North)",
+   "note": "2F. Simultaneous interpretation equipment available."
+  },
+  {
+   "name": "Keidanren Hall (South)",
+   "note": null
+  },
+  {
+   "name": "International Conference Hall (Golden Room)",
+   "note": "2F. Simultaneous interpretation equipment available. 110 fixed seats on the 2F."
+  },
+  {
+   "name": "Diamond Room",
+   "note": "4F (Rooms 401 and 402). Simultaneous interpretation equipment available."
+  },
+  {
+   "name": "Diamond Room (North)",
+   "note": "Room 401. Simultaneous interpretation equipment available."
+  },
+  {
+   "name": "Diamond Room (South)",
+   "note": "Room 402. Simultaneous interpretation equipment available."
+  },
+  {
+   "name": "Muromachi Room",
+   "note": "Room 403."
+  },
+  {
+   "name": "Momoyama Room",
+   "note": "Room 404."
+  },
+  {
+   "name": "Pearl Room",
+   "note": "5F (Rooms 501 and 502)."
+  },
+  {
+   "name": "Pearl Room (North)",
+   "note": "Room 501."
+  },
+  {
+   "name": "Pearl Room (South)",
+   "note": "Room 502."
+  },
+  {
+   "name": "Ruby Room",
+   "note": "5F (Rooms 503 and 504)."
+  },
+  {
+   "name": "Ruby Room (North)",
+   "note": "Room 503."
+  },
+  {
+   "name": "Ruby Room (South)",
+   "note": "Room 504."
+  },
+  {
+   "name": "Asuka Room",
+   "note": "Room 505."
+  },
+  {
+   "name": "Tenpyo Room",
+   "note": "Room 506."
+  },
+  {
+   "name": "Heian Room",
+   "note": "Room 507."
+  }
+ ],
+ "ops": {
+  "prevDaySetup": "Setup and cleanup time on the day before and the day of the meeting is counted in the usage fee calculation. Luggage for the meeting is accepted from the day before; the organizer contacts the staff in charge in advance and sends it to the Keidanren Kaikan Sales Center, stating the date of use and the organizer's name. When simultaneous interpretation equipment is used, the room is booked from 2 hours before the start; for meetings involving video, the room is booked including the time needed for rehearsals and the like (revised April 1, 2026). (Source: Guide to Use)",
+  "vehicleRules": "When luggage is brought in or out by car, contact the staff in charge in advance. There is a loading area on the B2F, free if the vehicle leaves within 30 minutes (may be crowded). Items that cannot be carried in by the freight elevator will be refused (revised April 1, 2026). (Source: Guide to Use)",
+  "parking": "The shared parking lot on the B2F can be used at 300 yen per 30 minutes per vehicle (tax included), paid in cash at the exit. Large vehicles such as buses and trucks cannot park (revised April 1, 2026). (Source: Guide to Use)",
+  "catering": "Use of the meeting rooms is booked together with food or drinks. Operation is entrusted to Palace Hotel; food and drinks are provided by the venue, and bringing in outside food or drinks is strictly prohibited. During meeting hours, use in principle comes with a reservation for a cake set (cake and coffee or tea). Meal hours are 12:00-14:00 and 18:00-21:00, and use that includes these hours is accepted together with a meal reservation. Sample menus (tax included; prices revised September 1, 2026): party 8,800 yen and 11,000 yen, formal course meal 7,700 yen, 9,900 yen and 14,300 yen, boxed lunch from 6,050 yen (lunch), kaiseki 14,850 yen. The menu must be specified by 5 business days before. (Source: Food and Drink Guide)"
+ },
+ "documents": [
+  {
+   "title": "Guide to Use (revised April 1, 2026)"
+  },
+  {
+   "title": "Price list (conference hall usage fees and equipment fees)"
+  },
+  {
+   "title": "Conference room guide (room table)"
+  },
+  {
+   "title": "Food and drink guide"
+  },
+  {
+   "title": "Access"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "Lawson Kanda-Nishikicho",
+    "hours": "7:00-20:00",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "7-Eleven Kanda-Nishikicho Chiyoda-dori",
+    "hours": "7:00-23:00 (Mon-Sun & holidays)",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "Lawson Otemachi Financial City Grand Cube",
+    "hours": "7:00-23:00",
+    "note": "Distance is calculated from the official store location."
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "Accea Uchikanda",
+    "hours": "Weekdays, Sat, Sun & holidays 8:00-22:00 (Self Accea; during Accea Cafe opening hours)",
+    "note": "Distance is calculated from the address location. Self-service store (full-service orders and pickup are also available)."
+   },
+   {
+    "name": "Accea Otemachi",
+    "hours": "Open 24 hours (open every day of the year)",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "DAISO Kanda-Jimbocho Suzuran-dori",
+    "hours": "10:00-21:00",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Can Do Marunouchi Oazo",
+    "hours": "Mon-Fri 8:00-22:00 / Sat-Sun 9:00-21:00",
+    "note": "Distance is calculated from the official store location."
+   }
+  ],
+  "donki": [
+   {
+    "name": "Don Quijote Akihabara",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. The store name on the official Don Quijote website is \"Akihabara\" (秋葉原店). Rather far."
+   },
+   {
+    "name": "Don Quijote Korakuen",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. The store name on the official Don Quijote website is \"Korakuen\" (後楽園店). Far."
+   }
+  ]
+ },
+ "photoCredit": "© RESPITE / CC0 · Wikimedia Commons"
+}
