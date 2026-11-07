@@ -1,0 +1,267 @@
+{
+ "slug": "telecom-center-building",
+ "nameJa": "テレコムセンタービル",
+ "nameEn": "TELECOM CENTER BUILDING",
+ "type": "conference",
+ "area": "odaiba-ariake-venues",
+ "address": "〒135-0064 東京都江東区青海二丁目5番10号",
+ "officialUrl": "https://www.tokyo-teleport.co.jp/b/tel/",
+ "organizerUrl": "https://www.tokyo-teleport.co.jp/b/tel/meeting_room.php",
+ "bizintokyoSlug": "telecom-center-building",
+ "accessSummary": "ゆりかもめ「テレコムセンター」駅直結／りんかい線「東京テレポート」駅より無料循環バス3分",
+ "notice": "外部の日本法人が借りられる（個人は不可）。会議室では、パーティ・懇親会など飲食を伴う利用、撮影（SNS等への掲載）、販売は禁止。会議・研修・試験以外の利用は料金が2割増（利用規約）。",
+ "hours": "貸会議室の利用時間は9:00～21:00（朝延長8:00～9:00）。建物の営業時間は7:00～23:00で、20:00に通常出入口は施錠する。",
+ "rooms": [
+  {
+   "name": "西棟8F 会議室A",
+   "areaM2": 262,
+   "ceilingM": null,
+   "theater": null,
+   "school": 105,
+   "ushape": 78,
+   "standing": null,
+   "banquet": null,
+   "note": "島型96名・T字島型99名。午前41,470円・午後55,330円・夜間41,470円・全日138,270円（税込）。会議・研修・試験以外の用途は2割増。"
+  },
+  {
+   "name": "西棟8F 会議室B",
+   "areaM2": 262,
+   "ceilingM": null,
+   "theater": null,
+   "school": 105,
+   "ushape": 78,
+   "standing": null,
+   "banquet": null,
+   "note": "島型96名・T字島型99名。午前41,470円・午後55,330円・夜間41,470円・全日138,270円（税込）。会議・研修・試験以外の用途は2割増。"
+  },
+  {
+   "name": "西棟8F 会議室C",
+   "areaM2": 262,
+   "ceilingM": null,
+   "theater": null,
+   "school": 105,
+   "ushape": 78,
+   "standing": null,
+   "banquet": null,
+   "note": "島型96名・T字島型99名。午前41,470円・午後55,330円・夜間41,470円・全日138,270円（税込）。会議・研修・試験以外の用途は2割増。"
+  },
+  {
+   "name": "西棟8F 会議室D",
+   "areaM2": 262,
+   "ceilingM": null,
+   "theater": null,
+   "school": 105,
+   "ushape": 78,
+   "standing": null,
+   "banquet": null,
+   "note": "島型96名・T字島型99名。午前41,470円・午後55,330円・夜間41,470円・全日138,270円（税込）。会議・研修・試験以外の用途は2割増。"
+  },
+  {
+   "name": "東棟20F 会議室1",
+   "areaM2": 135,
+   "ceilingM": null,
+   "theater": null,
+   "school": 81,
+   "ushape": 54,
+   "standing": null,
+   "banquet": null,
+   "note": "島型72名・T字島型72名。午前21,560円・午後28,820円・夜間21,560円・全日71,940円（税込）。会議・研修・試験以外の用途は2割増。"
+  },
+  {
+   "name": "東棟20F 会議室2",
+   "areaM2": 108,
+   "ceilingM": null,
+   "theater": null,
+   "school": 63,
+   "ushape": 48,
+   "standing": null,
+   "banquet": null,
+   "note": "島型60名・T字島型54名。午前17,380円・午後23,210円・夜間17,380円・全日57,970円（税込）。会議・研修・試験以外の用途は2割増。"
+  },
+  {
+   "name": "東棟20F 会議室3",
+   "areaM2": 204,
+   "ceilingM": null,
+   "theater": null,
+   "school": 108,
+   "ushape": 66,
+   "standing": null,
+   "banquet": null,
+   "note": "島型102名・T字島型99名。午前37,950円・午後50,050円・夜間37,950円・全日125,950円（税込）。会議・研修・試験以外の用途は2割増。"
+  },
+  {
+   "name": "アトリウム（1F）",
+   "areaM2": 1300,
+   "ceilingM": 37,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "面積は中心部分、高さは吹き抜け。撮影・催事の空間利用で、イベントは1時間80,000円（税別・7:00～7:00）、スチール撮影は7:00～19:00が1時間50,000円。1週間未満の申込みは20%割増。利用対象は原則として共用部。"
+  }
+ ],
+ "roomsSource": "https://www.tokyo-teleport.co.jp/b/tel/meeting_room.php",
+ "ops": {
+  "prevDaySetup": {
+   "text": "設営・撤去も予約した利用時間に含まれ、レイアウトの原状復帰が必須。時間単位の延長は受け付けておらず、終了手続きが予約時間から10分を過ぎると次の時間枠の全額を請求する。朝延長（8:00～9:00）を枠として追加でき、東棟会議室1は7,150円、会議室3は11,770円、西棟会議室A～Dは13,750円（税込、2022年6月1日改定の料金表）。",
+   "source": "https://www.tokyo-teleport.co.jp/rent/pdf/policy_240901.pdf"
+  },
+  "loadingHours": {
+   "text": "荷物を搬入・搬出する場合は利用申込書の備考欄に記載のうえ「搬出・搬入届」を搬出・搬入の3営業日前までにメールで提出し、当日は防災センター（警備室）に立ち寄って警備員の指示に従う。荷物の事前送付は各ビルの防災センター宛て、利用日の前日着で最大4箱まで。利用後の発送は受け付けていない。（2024年9月1日改定の利用規約）",
+   "source": "https://www.tokyo-teleport.co.jp/rent/pdf/policy_240901.pdf"
+  },
+  "vehicleRules": {
+   "text": "駐車場外に車を停める場合は「臨時駐車届」の提出が必要で、搬出・搬入届でも臨時駐車の有無を申告する（1時間以上の駐車は別途臨時駐車届）。",
+   "source": "https://www.tokyo-teleport.co.jp/rent/pdf/loading_2022.pdf"
+  },
+  "parking": {
+   "text": "テレコムセンタービル駐車場（B1F～B3F）が使える。収容台数は421台（駐車場の運営はタイムズ24）。テレコムセンター駅など8駅からPASMOで降車した人は駐車料金500円の優待（パーク＆ライド）。ビル紹介ページには「自走式444台」の記載もあり台数が食い違うため、パーキングマップの421台を採用した。",
+   "source": "https://www.tokyo-teleport.co.jp/parking/"
+  },
+  "waitingRooms": {
+   "text": "西棟に打合せ室（16㎡・6名）、控室1（12㎡・4名）、控室2（12㎡・4名）があり、西棟会議室を利用する場合に限り同じ時間で貸し出す（単独の貸出は不可）。打合せ室は午前2,420円・午後3,190円・夜間2,420円・全日8,030円、控室は午前1,870円・午後2,420円・夜間1,870円・全日6,160円（税込、2022年6月1日改定）。",
+   "source": "https://www.tokyo-teleport.co.jp/rent/pdf/price_202206.pdf"
+  },
+  "catering": {
+   "text": "会議室内への飲食物の持込は禁止で、飲み物は蓋つきペットボトルの水・お茶のみ可。午前・午後・夜間のうち同じ日に2枠以上を予約した場合に限り、指定業者からのお弁当を注文できる。パーティ・懇親会など飲食を伴う利用、マイク・スピーカーの持込はできない。（2024年9月1日改定の利用規約）",
+   "source": "https://www.tokyo-teleport.co.jp/rent/pdf/policy_240901.pdf"
+  },
+  "restaurants": {
+   "text": "館内にカフェ（エスプレッソ・アメリカーノ）、弁当（屋台DELi）、中華料理 唐苑、和食と日本酒 六右衛門、キッチン青海珈琲、そば（旧月）、ファミリーマートがあり、公式の会議室案内に「昼食、懇親会等にご利用いただけます」とある。5階のMAGIC CHEFはテナント向けレストラン。",
+   "source": "https://www.tokyo-teleport.co.jp/b/restaurant/"
+  }
+ },
+ "documents": [
+  {
+   "title": "貸会議室利用規約（2024年9月1日改定）",
+   "url": "https://www.tokyo-teleport.co.jp/rent/pdf/policy_240901.pdf"
+  },
+  {
+   "title": "貸会議室利用料金表（2022年6月1日改定）",
+   "url": "https://www.tokyo-teleport.co.jp/rent/pdf/price_202206.pdf"
+  },
+  {
+   "title": "貸会議室利用申込書 東棟（2025年10月版）",
+   "url": "https://www.tokyo-teleport.co.jp/rent/pdf/2025/tel_east_2510.pdf"
+  },
+  {
+   "title": "貸会議室利用申込書 西棟（2025年10月版）",
+   "url": "https://www.tokyo-teleport.co.jp/rent/pdf/2025/tel_west_2510.pdf"
+  },
+  {
+   "title": "搬出・搬入届（2022年版）",
+   "url": "https://www.tokyo-teleport.co.jp/rent/pdf/loading_2022.pdf"
+  },
+  {
+   "title": "追加・キャンセル申請書（2022年版）",
+   "url": "https://www.tokyo-teleport.co.jp/rent/pdf/cancel_2022.pdf"
+  },
+  {
+   "title": "西棟8階 ネットワーク図（2023年）",
+   "url": "https://www.tokyo-teleport.co.jp/b/tel/pdf/tele_west_nuro_2023.pdf"
+  },
+  {
+   "title": "東棟20階 ネットワーク図（2023年）",
+   "url": "https://www.tokyo-teleport.co.jp/b/tel/pdf/tele_east_nuro_2023.pdf"
+  },
+  {
+   "title": "フロア案内",
+   "url": "https://www.tokyo-teleport.co.jp/img_data/FMAP1_1.pdf"
+  },
+  {
+   "title": "ビルパンフレット（2024年）",
+   "url": "https://www.tokyo-teleport.co.jp/b/tel/pdf/pamphlet_2024.pdf"
+  },
+  {
+   "title": "撮影催事申告書",
+   "url": "https://www.tokyo-teleport.co.jp/b/tel/pdf/application.pdf"
+  }
+ ],
+ "checkedAt": "2026-11-07",
+ "lat": 35.617535,
+ "lng": 139.77977,
+ "nearby": {
+  "convenience": [
+   {
+    "name": "ファミリーマート テレコムセンター店",
+    "brand": "ファミリーマート",
+    "distanceM": 60,
+    "walkMin": 1,
+    "hours": "7:00-23:00",
+    "address": "東京都江東区青海2丁目5-10",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/58227",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "ファミリーマート 青海フロンティア店",
+    "brand": "ファミリーマート",
+    "distanceM": 115,
+    "walkMin": 2,
+    "hours": "24時間営業",
+    "address": "東京都江東区青海2丁目4-24 青海フロンティアビル",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/58661",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "ローソン ポートストア青海店",
+    "brand": "ローソン",
+    "distanceM": 207,
+    "walkMin": 3,
+    "hours": "24時間営業",
+    "address": "東京都江東区青海4-4-1",
+    "verified": true,
+    "source": "https://www.areamarker.com/lawson/info/268990",
+    "note": "距離は公式の店舗位置で計算"
+   }
+  ],
+  "copyshop": [],
+  "hundredYen": [
+   {
+    "name": "Seria アクアシティお台場店",
+    "brand": "セリア",
+    "distanceM": 1295,
+    "walkMin": 17,
+    "hours": "月〜金 11:00-20:00／土〜日 11:00-21:00",
+    "address": "東京都港区台場1-7-1アクアシティお台場 4F",
+    "verified": true,
+    "source": "https://shop.seria-group.com/seria/info/000003057",
+    "note": "距離は公式の店舗位置で計算。遠め"
+   },
+   {
+    "name": "DAISO デックス東京ビーチ店",
+    "brand": "ダイソー",
+    "distanceM": 1331,
+    "walkMin": 17,
+    "hours": "11:00-20:00",
+    "address": "東京都港区台場一丁目6番1号デックス東京ビーチアイランドモール4階",
+    "verified": true,
+    "source": "https://www.daiso-sangyo.co.jp/shop/detail/002639",
+    "note": "距離は公式の店舗位置で計算。遠め"
+   }
+  ],
+  "donki": [
+   {
+    "name": "キラキラドンキ ダイバーシティ東京 プラザ店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 985,
+    "walkMin": 13,
+    "hours": "10:00-21:00",
+    "address": "東京都江東区青海1-1-10 ダイバーシティ東京 プラザ 2階",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=655",
+    "note": "距離は住所の位置で計算。ドン・キホーテの別業態（公式サイトの店舗名は「キラキラドンキ ダイバーシティ東京 プラザ店」）"
+   }
+  ]
+ },
+ "drinkDelivery": {
+  "available": true
+ },
+ "photo": {
+  "src": "/images/venues/telecom-center-building.jpg",
+  "credit": "© Kakidai / CC BY-SA 4.0 · Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Telecom_Center_Building.jpg"
+ }
+}

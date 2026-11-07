@@ -1,0 +1,99 @@
+{
+ "slug": "square-kojimachi",
+ "name": "Square Kojimachi",
+ "address": "Tokyo 102-0083 6-6 Kojimachi, Chiyoda-ku, Tokyo",
+ "accessSummary": "Yotsuya Station (JR Chuo-Sobu Line) Kojimachi Exit: about 30 sec walk / Yotsuya Station (Tokyo Metro Marunouchi Line) Yotsuya Exit: about 3 min walk / Yotsuya Station (Tokyo Metro Namboku Line) Exit 3: about 1 min walk / Kojimachi Station (Tokyo Metro Yurakucho Line): 6 min walk",
+ "hours": "Business hours 9:00-21:00 (the whole building is non-smoking)",
+ "notice": null,
+ "rooms": [
+  {
+   "name": "Kinka (3F, Kin and Hana used together)",
+   "note": "The fee is 54,450 yen (tax included) for both banquets (2 hours) and meetings (1 hour). For meeting rooms on weekdays after 17:00, the room fee is 100% higher than the listed amount. The official quotation example includes theater style for 300 people (with projector, 2 hours)."
+  },
+  {
+   "name": "Kin (3F)",
+   "note": "The fee is 27,830 yen (tax included) for both banquets (2 hours) and meetings (1 hour). It is separated from Hana by a partition. For meeting rooms on weekdays after 17:00, the room fee is 100% higher than the listed amount."
+  },
+  {
+   "name": "Hana (3F)",
+   "note": "The fee is 27,830 yen (tax included) for both banquets (2 hours) and meetings (1 hour). The official quotation examples include theater style for 140 people (with projector) and hollow square for 54 people (2 hours). For meeting rooms on weekdays after 17:00, the room fee is 100% higher than the listed amount."
+  }
+ ],
+ "ops": {
+  "prevDaySetup": "On the day, you can in principle enter 60 minutes before your reserved time. Depending on bookings, you may not be able to enter until just before the reserved time, and requests for longer setup or for extending the usage time may not be accepted depending on bookings, so reserve a slot with room to spare. (Source: Meeting and Banquet Guide dated August 1, Reiwa 4 [2022])",
+  "loadingHours": "Packages are accepted by mail or delivery from the day before. Refrigerated and frozen items cannot be held, so arrange for them to arrive on the day or bring them yourself. Packages can also be shipped from the venue after the event. (Source: Meeting and Banquet Guide dated August 1, Reiwa 4 [2022])",
+  "parking": "There is no parking lot; if you come by car, use a nearby coin parking lot. (Source: http://www.square.or.jp/access/)",
+  "catering": "Optional menus such as boxed lunches, sandwiches and drinks are available, and meeting orders start from a total of 40,000 yen (boxed lunches from 1,210 yen, coffee or tea 500 yen, 500 ml plastic bottle 310 yen, etc.; October 1, 2019 edition, tax included). For banquets, free-flow drinks (2 hours, from 30 people), dishes served at round tables and standing-style receptions are also available. (Source: http://www.square.or.jp/banquet/)"
+ },
+ "documents": [
+  {
+   "title": "Meeting and Banquet Guide (August 1, Reiwa 4 [2022])"
+  },
+  {
+   "title": "Equipment Price List (October 1, 2019 edition)"
+  },
+  {
+   "title": "Optional Menu for Meetings (October 1, 2019 edition)"
+  },
+  {
+   "title": "Optional Menu for Banquets"
+  },
+  {
+   "title": "Power Supply Plan"
+  },
+  {
+   "title": "Scale Drawing"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "7-Eleven Chiyoda Nibancho",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "7-Eleven Kojimachi 5-chome",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "FamilyMart Yotsuya Ekimae",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location."
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "Accea Yotsuya",
+    "hours": "Weekdays 8:00-21:00 / Sat 10:00-19:00 / Sun & holidays closed",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Accea Yotsuya-sanchome",
+    "hours": "Weekdays 9:00-20:00 / Sat, Sun & holidays closed",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Can Do Atre Shinanomachi",
+    "hours": "Daily 10:00-21:00",
+    "note": "Distance is calculated from the official store location. Rather far."
+   },
+   {
+    "name": "Can Do Akasaka Hitotsugi-dori",
+    "hours": "Mon-Fri 9:00-21:00 / Sat-Sun 9:00-20:00",
+    "note": "Distance is calculated from the official store location. Rather far."
+   }
+  ],
+  "donki": [
+   {
+    "name": "Picasso Akasaka (Don Quijote)",
+    "hours": "7:00-3:00",
+    "note": "Distance is calculated from the address location. The store name on the Don Quijote official website is \"Picasso Akasaka\" (ピカソ赤坂店). This is a separate Don Quijote format. Rather far."
+   }
+  ]
+ },
+ "photoCredit": "© Keiichi Yasu / CC BY-SA 2.0 · Wikimedia Commons"
+}

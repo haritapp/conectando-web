@@ -1,0 +1,149 @@
+{
+ "slug": "rembrandt-hotel-tokyo-machida",
+ "name": "Rembrandt Hotel Tokyo Machida",
+ "address": "Tokyo 194-0013 3-2-9 Haramachida, Machida-shi",
+ "accessSummary": "JR Yokohama Line Machida Station Terminal Exit: 2 min walk / Odakyu Machida Station: 8 min walk / JR Yokohama Line Machida Station Central Ticket Gate: 6 min walk",
+ "hours": "The 1-day venue fee covers 9:00-21:00.",
+ "notice": null,
+ "rooms": [
+  {
+   "name": "Sango (B1F) - Entire Room",
+   "note": "Can be divided for use. The maximum capacity on the banquet hall page is 1,000. The price list PDF has two rows: 691㎡ (buffet 1,000 / dinner 450 / classroom 480 / theater 800) and 597㎡ (the figures above)."
+  },
+  {
+   "name": "Sango East + Center",
+   "note": null
+  },
+  {
+   "name": "Sango West + Center",
+   "note": null
+  },
+  {
+   "name": "Sango East",
+   "note": null
+  },
+  {
+   "name": "Sango Center",
+   "note": null
+  },
+  {
+   "name": "Sango West",
+   "note": null
+  },
+  {
+   "name": "Hisui (B2F) - Entire Room",
+   "note": "Can be divided for use."
+  },
+  {
+   "name": "Hisui East + Center",
+   "note": null
+  },
+  {
+   "name": "Hisui West + Center",
+   "note": null
+  },
+  {
+   "name": "Hisui East",
+   "note": null
+  },
+  {
+   "name": "Hisui Center",
+   "note": null
+  },
+  {
+   "name": "Hisui West",
+   "note": null
+  },
+  {
+   "name": "Fuku (B1F)",
+   "note": "The maximum capacity on the banquet hall page is 30. Examples given for dinner and meeting (square tables)."
+  },
+  {
+   "name": "Roku (B1F)",
+   "note": "The maximum capacity on the banquet hall page is 30. Example given for classroom style."
+  },
+  {
+   "name": "Ju (B1F)",
+   "note": "The maximum capacity on the banquet hall page is 30. Examples given for dinner and meeting (round tables)."
+  },
+  {
+   "name": "Premium Floor (7F)",
+   "note": "Listed in the price list PDF (1-day venue fee 3,000,000 yen)."
+  },
+  {
+   "name": "Amber (7F)",
+   "note": "Maximum capacity 80."
+  },
+  {
+   "name": "SKY TERRACE (7F)",
+   "note": "Maximum capacity 30 (consult if more than 30). All-sliding windows merge the space with the English garden."
+  },
+  {
+   "name": "Lavie (2F)",
+   "note": "40 seats, smoke-free all day, private hire from 20 guests. By reservation only, book at least 5 days in advance."
+  }
+ ],
+ "ops": {
+  "prevDaySetup": "Exhibition load-in is in principle from 9:00 p.m. the day before. On exhibition load-in and load-out days, 20% of the exhibition room fee is added as a load-in/load-out charge. Use of the venue before 9:00 a.m. or after 9:00 p.m. on the day is charged at a surcharge.",
+  "parking": "A tower-type parking lot for 70 cars and a few flat parking spaces (priority for wheelchair users). Vehicle limits are 5.5 m in length, 1.88 m in width and 1.55 m in height. The fee is 200 yen per 30 minutes, and banquet guests get 4 hours free. Parking reservations are not accepted. When the lot is full, or when the flat spaces cannot be used because of banquet use, guests are directed to nearby partner paid parking lots (time beyond the hotel's free period is at the user's expense).",
+  "vehicleRules": "Trucks and buses cannot park. If parking is needed, for example for group use, contact the hotel in advance.",
+  "catering": "Banquet drinks include bottled beer 800 yen, wine (bottle) 4,500 yen and sake barrel (4-to; 2-to of contents) 130,000 yen. Rental equipment starts from projector 20,000 yen, screen 3,000 yen and master of ceremonies 80,000 yen (all prices shown excluding tax, as of November 2026). Bringing in commemorative gifts and bouquets is also accepted, and items other than perishables can be stored from the day before.",
+  "restaurants": "The hotel has the tempura, shabu-shabu and kaiseki restaurant Nakatsugawa, the Chinese restaurant Ronfan (龍皇) (private rooms for 6-26 guests), and the cafe dining Palm Tree (a private party plan from 25 guests on weekday dinners). Year-end and New Year party plans are for 2-16 guests at Nakatsugawa and 6-26 guests at Ronfan."
+ },
+ "documents": [
+  {
+   "title": "Price List TARIFF (banquet hall area, capacity and fees)"
+  },
+  {
+   "title": "Banquet Plans and Meeting Plans"
+  },
+  {
+   "title": "Access Guide and Parking"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "FamilyMart Sands Haramachida 3-chome",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "FamilyMart Mina Machida",
+    "hours": "5:00-24:30",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "FamilyMart Haramachida 4-chome",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "copyshop": [],
+  "hundredYen": [
+   {
+    "name": "DAISO Mina Machida",
+    "hours": "10:00-21:00",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Standard Products Mina Machida",
+    "hours": "10:00-21:00",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "donki": [
+   {
+    "name": "Don Quijote Machida Ekimae",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. The store name on the Don Quijote official website is \"Machida Ekimae\" (町田駅前店)."
+   },
+   {
+    "name": "MEGA Don Quijote Kamitsuruma",
+    "hours": "9:00-3:00",
+    "note": "Distance is calculated from the address location. Far. The store name on the Don Quijote official website is \"MEGA Don Quijote Kamitsuruma\" (MEGAドン・キホーテ上鶴間店)."
+   }
+  ]
+ },
+ "photoCredit": "© Asturio Cantabrio / CC BY-SA 4.0 · Wikimedia Commons"
+}

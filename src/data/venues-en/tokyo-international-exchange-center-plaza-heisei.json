@@ -1,0 +1,127 @@
+{
+ "slug": "tokyo-international-exchange-center-plaza-heisei",
+ "name": "Tokyo International Exchange Center Plaza Heisei",
+ "address": "Tokyo 135-8630 Kokusai Kenkyu Koryu Daigaku Mura (International Research and Exchange University Village), 2-2-1 Aomi, Koto-ku",
+ "accessSummary": "Yurikamome Line, Tokyo International Cruise Terminal Station East Exit: about 3 min walk / Rinkai Line, Tokyo Teleport Station Exit B: about 15 min walk",
+ "hours": "Available 9:00-21:00. Open all year except the year-end and New Year holidays (Dec 29-Jan 3) (may close for inspection, repairs, etc.). Counter visits and phone inquiries 9:00-18:00",
+ "notice": "Use is mainly for meetings and events related to international exchange, education, academia and culture. Political and religious groups, etc. are subject to restrictions on use. Transfer or subletting of rights is prohibited (Terms of Use).",
+ "rooms": [
+  {
+   "name": "International Conference Hall",
+   "note": "479 seats (279 on the 1F are movable, 200 on the 2F are fixed). Theater layout: 418 seats (279 on the 1F, 139 on the 2F). Simultaneous interpretation system supports up to 6 languages (6 booths). Organizer's office, waiting room and grand piano are available."
+  },
+  {
+   "name": "Media Hall",
+   "note": "Simultaneous interpretation system supports up to 3 languages (3 booths). Theater layout is standard; any other layout is set up by the organizer. Waiting room available."
+  },
+  {
+   "name": "Main Foyer",
+   "note": "Can be used freely as a rest area when the International Conference Hall or Media Hall is in use."
+  },
+  {
+   "name": "Conference Room 1",
+   "note": "Equipped with a 100-inch screen, projector, etc."
+  },
+  {
+   "name": "Conference Room 2",
+   "note": null
+  },
+  {
+   "name": "Conference Room 3",
+   "note": null
+  },
+  {
+   "name": "Conference Room 4",
+   "note": "Conference Rooms 4 and 5 can be combined and used as one room."
+  },
+  {
+   "name": "Conference Room 5",
+   "note": "Conference Rooms 4 and 5 can be combined and used as one room."
+  }
+ ],
+ "ops": {
+  "prevDaySetup": "For setup up to the day before the event only, the facility usage fee is half price (utility charges such as electricity and water are added in full). Usage time includes setup and cleanup time.",
+  "loadingHours": "When bringing in equipment, fixtures or food and drink from outside, discuss the route, number of vehicles, etc. with the facility in advance for load-in and load-out. Necessary protective covering must be installed; if the prescribed protection is not accepted, work may be ordered to stop. Bring your own hand trucks. Parcels such as courier deliveries are in principle not accepted.",
+  "parking": "There is a paid parking lot for participants and visitors under Plaza Heisei. The entrance is on the front side of Plaza Heisei (the Miraikan side). It is managed and operated by Times24 Co., Ltd.",
+  "waitingRooms": "The International Conference Hall comes with an organizer's office and a waiting room, and the Media Hall comes with a waiting room.",
+  "catering": "Consult the facility in advance before bringing in equipment, fixtures, or food and drink from outside. If food or drink is brought in, you must clean up afterward. Any trash generated must be taken home (a separate disposal fee applies if the facility handles it)."
+ },
+ "documents": [
+  {
+   "title": "How to Apply for Plaza Heisei (Terms of Use)"
+  },
+  {
+   "title": "Usage Guide, printable PDF (posted April 2, 2021)"
+  },
+  {
+   "title": "Plaza Heisei Facility Guide"
+  },
+  {
+   "title": "Details of Conference Rooms 1-5"
+  },
+  {
+   "title": "Plaza Heisei Usage Fees (payment and cancellation fees)"
+  },
+  {
+   "title": "Regular Fee Table (from April 1, 2021)"
+  },
+  {
+   "title": "Organizer Discount Fee Table (from April 1, 2021)"
+  },
+  {
+   "title": "Discounts (updated March 31, 2021)"
+  },
+  {
+   "title": "International Conference Hall Floor Plan (posted March 19, 2026)"
+  },
+  {
+   "title": "Floor Map"
+  },
+  {
+   "title": "Parking Guide"
+  },
+  {
+   "title": "Access to Tokyo International Exchange Center"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "FamilyMart Tokyo Wangan Police Station-mae",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "FamilyMart Aomi Frontier",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "7-Eleven Daiba Ekimae",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location."
+   }
+  ],
+  "copyshop": [],
+  "hundredYen": [
+   {
+    "name": "Seria Aqua City Odaiba",
+    "hours": "Mon-Fri 11:00-20:00 / Sat-Sun 11:00-21:00",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "DAISO DECKS Tokyo Beach",
+    "hours": "11:00-20:00",
+    "note": "Distance is calculated from the official store location."
+   }
+  ],
+  "donki": [
+   {
+    "name": "Kirakira Donki Diver City Tokyo Plaza",
+    "hours": "10:00-21:00",
+    "note": "Distance is calculated from the address location. A different Don Quijote store format (the store name on the official website is \"Kirakira Donki Diver City Tokyo Plaza\")."
+   }
+  ]
+ },
+ "photoCredit": "© Mike Peel / CC BY-SA 4.0 · Wikimedia Commons"
+}

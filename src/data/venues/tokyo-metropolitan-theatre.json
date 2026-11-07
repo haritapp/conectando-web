@@ -1,0 +1,479 @@
+{
+ "slug": "tokyo-metropolitan-theatre",
+ "nameJa": "東京芸術劇場",
+ "nameEn": "Tokyo Metropolitan Theatre",
+ "type": "hall",
+ "area": "ikebukuro-venues",
+ "address": "〒171-0021 東京都豊島区西池袋1-8-1",
+ "officialUrl": "https://www.geigeki.jp/",
+ "organizerUrl": "https://www.geigeki.jp/rent/",
+ "bizintokyoSlug": "tokyo-metropolitan-theatre",
+ "accessSummary": "JR・東京メトロ・東武東上線・西武池袋線 池袋駅西口 徒歩2分（駅地下通路2b出口と直結）",
+ "notice": null,
+ "hours": "貸出の使用時間区分は午前9:00〜12:00／午後13:00〜17:00／夜間18:00〜22:00（全日9:00〜22:00）。代表電話は9:00〜22:00（休館日を除く）",
+ "rooms": [
+  {
+   "name": "コンサートホール（5F〜7F）",
+   "areaM2": null,
+   "ceilingM": null,
+   "theater": 1999,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "客席数1,999席（1階676席、2階683席、3階640席。別に車いす用スペース8席）。舞台は間口約21m×奥行約13.4m×高さ約20m。施設利用料（平日・全日 9:00〜22:00、芸術文化団体等以外）は入場料の最高額が10,000円以下で1,050,000円、10,000円超30,000円以下で1,080,000円、30,000円超で1,220,000円（休日は1,110,000円／1,150,000円／1,300,000円。平成26年7月1日現在の料金表）"
+  },
+  {
+   "name": "プレイハウス（2F）",
+   "areaM2": null,
+   "ceilingM": null,
+   "theater": 829,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "客席数829席（車いす用スペースあり）＋立見席。1階626席・2階203席。常設照明・音響設備による運営を前提とした施設ではなく、1日利用のライブイベント・コンサート・講演会等には適さない場合がある。施設利用料は全日（9:00〜22:00）754,000円、午前150,000円／午後301,000円／夜間377,000円（令和7年8月現在）"
+  },
+  {
+   "name": "シアターイースト（B1F）",
+   "areaM2": null,
+   "ceilingM": "6.3",
+   "theater": 272,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "客席数166〜272席（舞台形状により変わる）。台組の床で、エンドステージ・スラストステージ・センターステージなどの形式にできる。基本床面から天井まで約6.3m。常設照明・音響設備による運営を前提としていない。施設利用料は全日185,000円、午前37,000円／午後74,000円／夜間92,000円（令和7年8月現在）"
+  },
+  {
+   "name": "シアターウエスト（B1F）",
+   "areaM2": null,
+   "ceilingM": null,
+   "theater": 270,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "客席数222〜270席（舞台形状により変わる）。主舞台は間口約9m×奥行約7m。常設照明・音響設備による運営を前提としていない。施設利用料は全日196,000円、午前39,000円／午後78,000円／夜間98,000円（令和7年8月現在）"
+  },
+  {
+   "name": "ギャラリー1（5F）",
+   "areaM2": 393,
+   "ceilingM": 3.6,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "約393㎡（幅約23m×奥行約17.1m）。展示可能壁面幅約54m（全パネル使用時約216m）。全日（9:00〜22:00）130,000円"
+  },
+  {
+   "name": "ギャラリー2（5F）",
+   "areaM2": 141,
+   "ceilingM": 3.3,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "約141㎡（幅約15.7m×奥行約9m）。展示可能壁面幅約41m（全パネル使用時約113m）。全日（9:00〜22:00）47,000円"
+  },
+  {
+   "name": "アトリエイースト（B1F）",
+   "areaM2": 76.9,
+   "ceilingM": 3.6,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "約76.9㎡（幅14.5m×奥行5.3m）。展示可能壁面幅約33m。全日（9:00〜22:00）19,000円"
+  },
+  {
+   "name": "アトリエウエスト（B1F）",
+   "areaM2": 90.6,
+   "ceilingM": 3.6,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "約90.6㎡（幅17.1m×奥行5.3m）。展示可能壁面幅約38m。全日（9:00〜22:00）20,000円"
+  },
+  {
+   "name": "シンフォニースペース（5F）",
+   "areaM2": 170.8,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "定員100名。グランドピアノ常設。テーブル・椅子は未設置で、設営と原状復帰は使用時間内に行う。団体登録が必要。全日49,000円"
+  },
+  {
+   "name": "ミーティングルーム1（5F）",
+   "areaM2": 39.7,
+   "ceilingM": null,
+   "theater": null,
+   "school": 20,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "二人掛長机10台。全日7,400円"
+  },
+  {
+   "name": "ミーティングルーム2（5F）",
+   "areaM2": 35.4,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": 12,
+   "standing": null,
+   "banquet": null,
+   "note": "二人掛長机6台、ロの字。全日6,500円"
+  },
+  {
+   "name": "ミーティングルーム3（5F）",
+   "areaM2": 41.2,
+   "ceilingM": null,
+   "theater": null,
+   "school": 20,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "二人掛長机10台。全日7,600円"
+  },
+  {
+   "name": "ミーティングルーム4（5F）",
+   "areaM2": 42.3,
+   "ceilingM": null,
+   "theater": null,
+   "school": 20,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "二人掛長机10台。全日7,600円"
+  },
+  {
+   "name": "ミーティングルーム5（6F）",
+   "areaM2": 78.3,
+   "ceilingM": null,
+   "theater": null,
+   "school": 28,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "二人掛長机14台。グランドピアノ常設。広さには前室を含む。全日15,000円"
+  },
+  {
+   "name": "ミーティングルーム6（6F）",
+   "areaM2": 34.8,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": 12,
+   "standing": null,
+   "banquet": null,
+   "note": "二人掛長机6台、ロの字。全日6,500円"
+  },
+  {
+   "name": "ミーティングルーム7（6F）",
+   "areaM2": 79.2,
+   "ceilingM": null,
+   "theater": null,
+   "school": 28,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "二人掛長机14台。広さには前室を含む。全日15,000円"
+  },
+  {
+   "name": "リハーサルルームL（B2F）",
+   "areaM2": null,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "18m×9m、定員100名。グランドピアノ、鏡・バレエバーあり。全日60,000円"
+  },
+  {
+   "name": "リハーサルルームM1（B2F）",
+   "areaM2": null,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "10m×8m、定員40名。グランドピアノ、鏡・バレエバーあり。全日29,000円"
+  },
+  {
+   "name": "リハーサルルームM2（B2F）",
+   "areaM2": null,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "10m×5m、定員30名。グランドピアノ。全日20,000円"
+  },
+  {
+   "name": "リハーサルルームM3（B2F）",
+   "areaM2": null,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "10m×10m、定員50名。グランドピアノ。全日36,000円"
+  },
+  {
+   "name": "リハーサルルームS1（B2F）",
+   "areaM2": null,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "6m×4m、定員10名。アップライトピアノ。全日12,000円"
+  },
+  {
+   "name": "リハーサルルームS2（B2F）",
+   "areaM2": null,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "6m×4m、定員10名。アップライトピアノ。全日12,000円"
+  }
+ ],
+ "roomsSource": "https://www.geigeki.jp/rent/",
+ "ops": {
+  "prevDaySetup": {
+   "text": "使用時間には、出演者・関係者の入館から退館まで、施設使用に要するすべての時間（準備・撤収を含む）が含まれる。観客を入れず、仕込み・リハーサル・ばらし等で舞台のみを使用する場合は、施設利用料に限り通常料金の半額（公開リハーサルなど客席を使用する場合は対象外）。（コンサートホール・プレイハウス・シアターイースト・シアターウエストの利用料金表、令和7年8月現在／コンサートホール施設利用料は平成26年7月1日現在）",
+   "source": "https://www.geigeki.jp/rent/playhouse/price/"
+  },
+  "parking": {
+   "text": "東京芸術劇場地下駐車場（公共有料駐車場）：100台平面式。車両制限は高さ2.1m・車幅1.9m・長さ6.0m。営業時間7:00〜24:00（入場は23:30まで）。30分ごとに310円、当日最大2,500円。池袋駅と地下連絡通路で直結。",
+   "source": "https://www.geigeki.jp/access/"
+  },
+  "waitingRooms": {
+   "text": "コンサートホールの楽屋は指揮者用（応接室含む）1室、ソリスト用6室、中楽屋3室、大楽屋1室。プレイハウスの楽屋は11室（17.4〜84.9㎡）、シアターイーストとシアターウエストは各4室。楽屋は利用料金表に室ごとの料金があり、使用最終日の19:00までに附属設備利用料と合わせて現金またはキャッシュレス決済で支払う。",
+   "source": "https://www.geigeki.jp/rent/concerthall/"
+  },
+  "catering": {
+   "text": "指定場所以外での飲食・飲酒・喫煙はできない。火気、危険物、ホール管理上不適切と認められる物品の持ち込みはできない。",
+   "source": "https://www.geigeki.jp/rent/concerthall/reserve/"
+  },
+  "restaurants": {
+   "text": "館内1階にシアターアートショップ、おにぎり専門店の吾ん田、ベルギービールカフェのベル・オーブ（営業11:30〜23:00）、café de MOMO、郵便局、2階にCafé des Artsがある。営業日・営業時間は変更になる場合がある。",
+   "source": "https://www.geigeki.jp/facilities/shop/"
+  }
+ },
+ "documents": [
+  {
+   "title": "コンサートホール 利用料金表（平成26年7月1日現在）",
+   "url": "https://www.geigeki.jp/rent/concerthall/pdf/price_hall_concert.pdf"
+  },
+  {
+   "title": "コンサートホール 附属設備 利用料金表（令和7年8月現在）",
+   "url": "https://www.geigeki.jp/rent/concerthall/pdf/ch_price.pdf"
+  },
+  {
+   "title": "プレイハウス 利用料金表（令和7年8月現在）",
+   "url": "https://www.geigeki.jp/rent/playhouse/pdf/ph_price.pdf"
+  },
+  {
+   "title": "シアターイースト 利用料金表（令和7年8月現在）",
+   "url": "https://www.geigeki.jp/rent/theater/pdf/te_price.pdf"
+  },
+  {
+   "title": "シアターウエスト 利用料金表（令和7年8月現在）",
+   "url": "https://www.geigeki.jp/rent/theater/pdf/tw_price.pdf"
+  },
+  {
+   "title": "リハーサルルーム・シンフォニースペース・ミーティングルーム 利用料金表（令和4年10月5日現在）",
+   "url": "https://www.geigeki.jp/rent/others/pdf/price_others.pdf"
+  },
+  {
+   "title": "共用附属設備 利用料金表",
+   "url": "https://www.geigeki.jp/rent/pdf/price_equipment.pdf"
+  },
+  {
+   "title": "コンサートホール 備品一覧",
+   "url": "https://www.geigeki.jp/rent/pdf/ch_setsubi.pdf"
+  },
+  {
+   "title": "プレイハウス 備品一覧",
+   "url": "https://www.geigeki.jp/rent/pdf/ph_setsubi.pdf"
+  },
+  {
+   "title": "シアターイースト 備品一覧",
+   "url": "https://www.geigeki.jp/rent/pdf/te_setsubi.pdf"
+  },
+  {
+   "title": "シアターウエスト 備品一覧",
+   "url": "https://www.geigeki.jp/rent/pdf/tw_setsubi.pdf"
+  },
+  {
+   "title": "コンサートホール 舞台図面（天反パターン1・1/100）",
+   "url": "https://www.geigeki.jp/rent/pdf/ch_1_100.pdf"
+  },
+  {
+   "title": "プレイハウス 舞台図面（1/100 断面図ほか）",
+   "url": "https://www.geigeki.jp/rent/pdf/ph-100-3.pdf"
+  },
+  {
+   "title": "シアターイースト 舞台図面（パターンA）",
+   "url": "https://www.geigeki.jp/rent/pdf/te_a.pdf"
+  },
+  {
+   "title": "シアターウエスト 舞台図面（パターンA）",
+   "url": "https://www.geigeki.jp/rent/pdf/tw_a.pdf"
+  },
+  {
+   "title": "ギャラリー1 平面図",
+   "url": "https://www.geigeki.jp/rent/pdf/gallery1_drawing.pdf"
+  },
+  {
+   "title": "ギャラリー2 平面図",
+   "url": "https://www.geigeki.jp/rent/pdf/gallery2_drawing.pdf"
+  },
+  {
+   "title": "コンサートホール 座席表",
+   "url": "https://www.geigeki.jp/facilities/pdf/concert.pdf"
+  },
+  {
+   "title": "申込・提出書式一覧（使用申請書・公演計画書・消防署提出書式ほか）",
+   "url": "https://www.geigeki.jp/rent/application_form/"
+  }
+ ],
+ "checkedAt": "2026-11-07",
+ "lat": 35.728905,
+ "lng": 139.707977,
+ "nearby": {
+  "convenience": [
+   {
+    "name": "ファミリーマート 西池袋三丁目店",
+    "brand": "ファミリーマート",
+    "distanceM": 103,
+    "walkMin": 2,
+    "hours": "24時間営業",
+    "address": "東京都豊島区西池袋3-1-13",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/59016",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "ファミリーマート 池袋駅西店",
+    "brand": "ファミリーマート",
+    "distanceM": 123,
+    "walkMin": 2,
+    "hours": "24時間営業",
+    "address": "東京都豊島区西池袋1-4-10",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/77030",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "ローソン メトロス池袋南西口店",
+    "brand": "ローソン",
+    "distanceM": 189,
+    "walkMin": 3,
+    "hours": "7:00-22:00",
+    "address": "東京都豊島区西池袋1-12-1",
+    "verified": true,
+    "source": "https://www.areamarker.com/lawson/info/269363",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "アクセア 西池袋店",
+    "brand": "アクセア",
+    "distanceM": 73,
+    "walkMin": 1,
+    "hours": "平日8:00〜22:00、土祝10:00〜19:00／日休み",
+    "address": "東京都豊島区西池袋1-7-10 ビルドT9ビル1F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/entry.html",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "キンコーズ・池袋西口店",
+    "brand": "キンコーズ",
+    "distanceM": 229,
+    "walkMin": 3,
+    "hours": "平日 9:00-22:00／土・日・祝 10:00-22:00",
+    "address": "東京都豊島区西池袋3丁目28-1 藤久ビル西2号 館1F",
+    "verified": true,
+    "source": "https://www.kinkos.co.jp/store/tokyo/t018/",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "3COINS +plus ルミネ池袋店",
+    "brand": "3COINS",
+    "distanceM": 169,
+    "walkMin": 3,
+    "hours": "11:00-21:00",
+    "address": "東京都豊島区西池袋1-11-1 ルミネ池袋5F",
+    "verified": true,
+    "source": "https://palcloset.storelocator.jp/map",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "DAISO 池袋東武店",
+    "brand": "ダイソー",
+    "distanceM": 256,
+    "walkMin": 4,
+    "hours": "10:00-20:00",
+    "address": "東京都豊島区西池袋1-1-25 東武百貨店池袋本店6階",
+    "verified": true,
+    "source": "https://www.daiso-sangyo.co.jp/shop/detail/001608",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "donki": [
+   {
+    "name": "ドン・キホーテ 池袋東口駅前店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 402,
+    "walkMin": 6,
+    "hours": "24時間営業",
+    "address": "東京都豊島区南池袋1-22-5",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=255",
+    "note": "距離は住所の位置で計算。ドン・キホーテ公式サイトの店舗名は「池袋東口駅前店」"
+   },
+   {
+    "name": "ドン・キホーテ 池袋駅西口店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 579,
+    "walkMin": 8,
+    "hours": "24時間営業",
+    "address": "東京都豊島区西池袋1-43-12",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=500",
+    "note": "距離は住所の位置で計算。ドン・キホーテ公式サイトの店舗名は「池袋駅西口店」"
+   }
+  ]
+ },
+ "drinkDelivery": {
+  "available": true
+ },
+ "photo": {
+  "src": "/images/venues/tokyo-metropolitan-theatre.jpg",
+  "credit": "© Wei-Te Wong from Taipei City, Taiwan, Republic of China / CC BY-SA 2.0 · Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wongwt_東京藝術劇場_(17076815207).jpg"
+ }
+}

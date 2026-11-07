@@ -1,0 +1,166 @@
+{
+ "slug": "seiryo-kaikan",
+ "name": "Seiryo Kaikan",
+ "address": "Tokyo 100-0014 2-16-2 Nagatacho, Chiyoda-ku",
+ "accessSummary": "Nagatacho Station (Tokyo Metro Yurakucho, Hanzomon and Namboku Lines) Exit 6: 3 min walk / Kokkai-gijidomae Station (Tokyo Metro Chiyoda Line) Exit 5: 5 min walk / Tameike-sanno Station (Tokyo Metro Namboku Line) Exit 5: 5 min walk / Akasaka-mitsuke Station (Tokyo Metro Ginza and Marunouchi Lines) Exit 11: 7 min walk",
+ "hours": "Opens at 8:45. Booking slots are morning 9:00-12:00, afternoon 13:00-17:00 and evening 17:30-21:00 (if consecutive slots are booked, the time between slots can also be used; usage time includes setup and cleanup time). Reservations are accepted 9:00-18:00.",
+ "notice": null,
+ "rooms": [
+  {
+   "name": "Hall",
+   "note": "2F/3F. Capacity 400 (193 fixed seats, 207 movable seats). 364 seats when the lift stage is used. Piano (Steinway B-211), sound and lighting equipment available."
+  },
+  {
+   "name": "Multipurpose Hall (4F Restaurant)",
+   "note": "4F. Capacity 100. 1 wired microphone, 1 wireless microphone and more. Projector and screen available for rent. Can be used for receptions, alumni gatherings, parties, seminars and so on."
+  },
+  {
+   "name": "Conference Room D (1D in the price list)",
+   "note": "1F. Capacity 18 (7 tables, 18 chairs, 1 whiteboard). Because it is directly below the hall stage, sound from the hall may leak in. Has a video monitor for checking the hall stage."
+  },
+  {
+   "name": "Conference Room E",
+   "note": "1F. Capacity 24 (8 tables, 24 chairs, 1 whiteboard, 1 screen, Wi-Fi available)."
+  },
+  {
+   "name": "Conference Room F",
+   "note": "1F. Capacity 30 (10 tables, 30 chairs, 1 whiteboard, 1 screen, Wi-Fi available)."
+  },
+  {
+   "name": "Conference Room 3A",
+   "note": "3F. Capacity 30 (10 tables, 30 chairs, 1 whiteboard, 1 screen, Wi-Fi available)."
+  },
+  {
+   "name": "Conference Room 3B",
+   "note": "3F. Capacity 24 (8 tables, 24 chairs, 1 whiteboard, 1 screen, Wi-Fi available)."
+  },
+  {
+   "name": "Conference Room 3C",
+   "note": "3F. Capacity 8 (2 tables, 8 chairs, 1 whiteboard)."
+  },
+  {
+   "name": "Conference Room 4AB",
+   "note": "4F. Capacity 48 (16 tables, 48 chairs, 2 whiteboards, 1 screen, Wi-Fi available). When Rooms 4A and 4B are used together, 1 wired microphone is lent free of charge."
+  },
+  {
+   "name": "Japanese-style Room (Washitsu)",
+   "note": "3F. 12 tatami mats, capacity 12 (low tables, floor cushions, 1 whiteboard)."
+  },
+  {
+   "name": "Private Room (Koshitsu)",
+   "note": "3F. Capacity 4 (1 round table, 4 chairs). Has a video monitor for checking the hall stage. Suitable as a waiting room for the hall."
+  }
+ ],
+ "ops": {
+  "prevDaySetup": "Only when a performance is held in the hall, the price list has a \"Setup / Rehearsal\" category (general use, tax included. Weekdays: morning 46,970 yen / afternoon 66,990 yen / evening 83,380 yen; Sat, Sun and holidays: morning 54,340 yen / afternoon 83,380 yen / evening 88,660 yen. Revised October 1, 2024). Usage time for conference rooms and the hall also includes setup and cleanup time. (Source: https://www.seiryokai.org/kaikan/price.html)",
+  "loadingHours": "The venue opens at 8:45. When bringing in food, drinks, fresh flowers or luggage from outside, load in and out within the booked time. For hall use, a prior meeting is held, around 1 month in advance. When sending luggage by courier, notify the office in advance of the contents, number of items and delivery time, and write \"c/o Seiryo Kaikan, date of use, group name, contact person's name\" in the recipient field. (Source: https://www.seiryokai.org/kaikan/info.html)",
+  "vehicleRules": "Only when loading in and out hall equipment, up to about 2 medium-sized vehicles can be parked. Always consult in advance. (Source: https://www.seiryokai.org/kaikan/info.html)",
+  "parking": "There is no parking lot, and in principle there is no parking space for users. Hall organizers guide visitors not to come by car. (Source: https://www.seiryokai.org/kaikan/info.html)",
+  "waitingRooms": "The hall facility fee does not include waiting rooms, which must be booked separately. Conference Room D (39m2, 18 people) is directly below the hall stage and has a video monitor, making it suitable as a waiting room or preparation room for the hall. The Private Room (10m2, 4 people, 3F) is also suitable as a hall waiting room. (Source: https://www.seiryokai.org/kaikan/info.html)",
+  "catering": "Food and drink at the 4F Multipurpose Hall is provided by the 4F restaurant \"Collina della Stella\". Private-hire parties are available from 30 people, and food and drink menus can be discussed from about 7,000 yen per person (excluding tax and service charge); depending on the number of guests, a separate serving staff fee applies. Use of the Multipurpose Hall with food and drink costs 12,650 yen per hour (general, tax included, 3 hours or more). When bringing in food and drink from outside, load in and out within the booked time. (Source: https://www.seiryokai.org/kaikan/restaurant.html)",
+  "restaurants": "The 4F has the restaurant \"Collina della Stella\". It serves lunch on weekdays (Mon-Fri) 11:30-14:30 (buffet 2,600 yen tax included, 2-hour limit). Private-hire plans for parties, receptions and alumni gatherings are available, on weekdays from 15:30 (negotiable) to 20:00, and on Sat, Sun and holidays from 10:00 to 20:00. (Source: https://www.seiryokai.org/kaikan/restaurant.html)"
+ },
+ "documents": [
+  {
+   "title": "Price List (revised October 1, 2024)"
+  },
+  {
+   "title": "Hall Availability (as of October 25, 2026)"
+  },
+  {
+   "title": "Conference Room 4AB Layout Example"
+  },
+  {
+   "title": "Hall Stage Plan"
+  },
+  {
+   "title": "Hall Seating Map"
+  },
+  {
+   "title": "Hall 1F Seating Map"
+  },
+  {
+   "title": "Hall 2F Seating Map"
+  },
+  {
+   "title": "Hall Audio-Visual Equipment List"
+  },
+  {
+   "title": "Hall Microphone Outlet Layout"
+  },
+  {
+   "title": "Hall Basic Lighting Plot"
+  },
+  {
+   "title": "Hall Outlet Layout"
+  },
+  {
+   "title": "1F Floor Plan"
+  },
+  {
+   "title": "2F Floor Plan"
+  },
+  {
+   "title": "3F Floor Plan"
+  },
+  {
+   "title": "4F Floor Plan"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "7-Eleven Tokyu Capitol Tower",
+    "hours": "Mon-Fri 7:00-23:00 / Sat, Sun & holidays 7:00-22:00",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "FamilyMart Nagatacho",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "Lawson Nagatacho 1-chome",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location."
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "Accea Akasaka-mitsuke",
+    "hours": "Weekdays open 24 hours (open continuously from Monday 8:00 to Saturday 19:00) / Sat until 19:00 / Sun & holidays 10:00-19:00 (open continuously on the day before a weekday holiday)",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Accea Nagatacho",
+    "hours": "Weekdays 8:00-22:00 / Closed Sat, Sun & holidays",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Can Do Akasaka Hitotsugi-dori",
+    "hours": "Mon-Fri 9:00-21:00 / Sat-Sun 9:00-20:00",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "Can Do Shiroyama Hills",
+    "hours": "Daily 9:00-23:00",
+    "note": "Distance is calculated from the official store location. Rather far."
+   }
+  ],
+  "donki": [
+   {
+    "name": "Picasso Akasaka (Don Quijote)",
+    "hours": "7:00-3:00",
+    "note": "Distance is calculated from the address location. The store name on the Don Quijote official website is \"Picasso Akasaka\" (ピカソ赤坂店). A different Don Quijote store format."
+   },
+   {
+    "name": "Don Quijote Roppongi",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. The store name on the Don Quijote official website is \"Roppongi\" (六本木店). Far."
+   }
+  ]
+ },
+ "photoCredit": "Image shows Exit 6 of Nagatacho Station, the nearest station, not the venue building. © Kansai-good / CC BY-SA 4.0 · Wikimedia Commons"
+}

@@ -1,0 +1,179 @@
+{
+ "slug": "shinagawa-kyurian",
+ "name": "Shinagawa General Civic Hall (Curian)",
+ "address": "Tokyo 140-0011 5-18-1 Higashi-Oi, Shinagawa-ku",
+ "accessSummary": "Oimachi Station (JR Keihin-Tohoku Line / Tokyu Oimachi Line / Rinkai Line): about 2 min walk / Aomonoyokocho Station (Keikyu Line): about 15 min walk / Samezu Station (Keikyu Line): about 10 min walk",
+ "hours": "Open 9:00-21:30 (reception 9:00-20:00). The time slots are morning 9:00-12:00 / afternoon 13:00-17:00 / night 18:00-21:30, and usage time includes setup and cleanup. Closed during the year-end and New Year holidays (December 29 to January 3).",
+ "notice": "Use of the facility mainly for profit-making purposes is not permitted. Use for selling goods, concluding contracts, etc. is not approved (except for collecting admission fees in the Large Hall, Small Hall and Event Hall).",
+ "rooms": [
+  {
+   "name": "Large Hall",
+   "note": "About 1,694㎡. Fixed seating for 1,074 on a single slope. Main stage is 15 m wide x 18.5 m deep x 8 m high. 6 wheelchair spaces, 8 parent-and-child seats, standing capacity 54."
+  },
+  {
+   "name": "Small Hall",
+   "note": "193 to 336 seats (with the proscenium stage: 9 m wide x 7 m deep x 4.5 m high, 285 seats). Variable stage. 4 wheelchair spaces, standing capacity 65."
+  },
+  {
+   "name": "Event Hall",
+   "note": "About 560㎡ (40 m x 14 m). Up to 450 seated in rows, up to 420 at tables, about 500 standing at most. Can be divided into sections AB and CDE."
+  },
+  {
+   "name": "Large Conference Room",
+   "note": "Capacity 96. Usable for meetings, performances and training, as well as ceremonies and various parties."
+  },
+  {
+   "name": "Medium Conference Room",
+   "note": "Capacity 40. Hollow-square layout."
+  },
+  {
+   "name": "Small Conference Room",
+   "note": "Capacity 20. Round-table layout (fixed desks)."
+  },
+  {
+   "name": "Lecture Room 1",
+   "note": "Capacity 36. Classroom layout."
+  },
+  {
+   "name": "Lecture Room 2",
+   "note": "Capacity 69. Classroom layout."
+  },
+  {
+   "name": "Lecture Room 3",
+   "note": "Capacity 51. Classroom layout."
+  },
+  {
+   "name": "Lecture Room 4",
+   "note": "Capacity 54. Classroom layout."
+  },
+  {
+   "name": "Special Lecture Room 1",
+   "note": "Capacity 51. Classroom layout."
+  },
+  {
+   "name": "Special Lecture Room 2",
+   "note": "Capacity 36. Classroom layout."
+  },
+  {
+   "name": "Training Room",
+   "note": "Capacity 36. Classroom layout."
+  },
+  {
+   "name": "Group Activity Room 1",
+   "note": "Capacity 30. Hollow-square layout."
+  },
+  {
+   "name": "Group Activity Room 2",
+   "note": "Capacity 14. Face-to-face layout."
+  },
+  {
+   "name": "Group Activity Room 3",
+   "note": "Capacity 20. Hollow-square layout."
+  },
+  {
+   "name": "Cooking Class Room",
+   "note": "Capacity 36. 7 cooking stations."
+  },
+  {
+   "name": "Rehearsal Room",
+   "note": "Capacity 35. Indoor shoes required. No heels or tap shoes."
+  },
+  {
+   "name": "Music Studio",
+   "note": "Capacity 8 to 10."
+  },
+  {
+   "name": "Tea Room (Japanese-style room)",
+   "note": "A Japanese-style room (18 tatami mats) with a tea room (sanjo-daime) and a Japanese garden. For tea ceremony use only."
+  }
+ ],
+ "ops": {
+  "vehicleRules": "The roads around the hall are narrow and parking or stopping is not allowed because it obstructs the operation of route buses. The waiting line for the parking lot has been obstructing route buses, and visitors are advised to come by train or bus.",
+  "parking": "The B1F parking lot has 203 spaces, with a maximum vehicle height of 2.05 m. It is open 8:30-23:00, and vehicles cannot enter or exit from 23:00 to 8:30. The fee is 220 yen per 30 minutes every day, with a maximum of 1,700 yen per day (until 24:00). It is shared with the commercial facility, so it is especially crowded on Saturdays, Sundays and holidays.",
+  "waitingRooms": "The Large Hall has 5 dressing rooms: Dressing Room 1 (about 62㎡, capacity 20), Dressing Room 2 (about 43㎡, capacity 16), Dressing Room 3 (about 23㎡, a 12-mat tatami Japanese-style room, capacity 4), and Dressing Rooms 4 and 5 on the 8F (about 20㎡ each, capacity 4, with unit bath). Dressing Rooms 1 to 5 for the Small Hall are on B1F. Dressing rooms are charged separately (e.g., Large Hall Dressing Room 1: morning 1,400 yen / afternoon 2,100 yen / night 2,800 yen)."
+ },
+ "documents": [
+  {
+   "title": "Facility Price List (Ward Residents / General)"
+  },
+  {
+   "title": "Usage Guide (Time Slots, Lottery, Usage Restrictions)"
+  },
+  {
+   "title": "About the Facility Reservation System"
+  },
+  {
+   "title": "Notes on Publicizing Events (July 15, 2026)"
+  },
+  {
+   "title": "Miscellaneous Notifications (for Large and Small Halls) (October 2026 edition)"
+  },
+  {
+   "title": "Miscellaneous Notifications (for Event Hall)"
+  },
+  {
+   "title": "Large Hall Stage Layout"
+  },
+  {
+   "title": "Large Hall Equipment List"
+  },
+  {
+   "title": "Small Hall Stage Layout"
+  },
+  {
+   "title": "Small Hall Equipment List"
+  },
+  {
+   "title": "Downloads (Usher Report, Hall Equipment Materials, Seating Charts)"
+  },
+  {
+   "title": "Curian Calendar (2026)"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "Lawson Oimachi Ekimae",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Lawson Oimachi Ginza-dori",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Lawson Higashi-Oi 5-chome",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "Accea Gate City Osaki",
+    "hours": "Weekdays 9:00-20:00 / Sat, Sun & holidays 10:00-19:00",
+    "note": "Distance is calculated from the address location. Rather far."
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "DAISO Ito-Yokado Oimachi",
+    "hours": "10:00-22:00",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Can Do Hankyu Oimachi Garden",
+    "hours": "Daily 10:00-20:00",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "donki": [
+   {
+    "name": "Don Quijote Togoshi Ginza",
+    "hours": "9:00-2:00",
+    "note": "Distance is calculated from the address location. Far."
+   }
+  ]
+ },
+ "photoCredit": "© Abasaa / Public domain · Wikimedia Commons"
+}

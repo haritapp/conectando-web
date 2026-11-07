@@ -1,0 +1,131 @@
+{
+ "slug": "tokyo-marriott-hotel",
+ "name": "Tokyo Marriott Hotel",
+ "address": "Tokyo 140-0001 4-7-36 Kitashinagawa, Shinagawa-ku",
+ "accessSummary": "Kitashinagawa Station (Keikyu Line): about 7 min walk / Shinagawa Station (JR & Keikyu Lines) Takanawa Exit: about 12 min walk / Osaki Station (JR): about 15 min walk / Gotanda Station (JR): about 16 min walk",
+ "hours": null,
+ "notice": null,
+ "rooms": [
+  {
+   "name": "The GOTENYAMA Ballroom (entire)",
+   "note": "B1F. Large banquet hall. Wedding banquet: 400. 22.8 m long x 37.8 m wide."
+  },
+  {
+   "name": "The GOTENYAMA Ballroom 2/3",
+   "note": "Wedding banquet: 300."
+  },
+  {
+   "name": "The GOTENYAMA Ballroom 1/2",
+   "note": "Wedding banquet: 180."
+  },
+  {
+   "name": "The GOTENYAMA Ballroom 1/3",
+   "note": "Wedding banquet: 110."
+  },
+  {
+   "name": "Iris/Camellia (entire)",
+   "note": "B1F. Medium banquet hall. 10.3 m long x 31.0 m wide. Reception capacity is 90 on the other official site (marriott.com)."
+  },
+  {
+   "name": "Iris/Camellia 3/4",
+   "note": "Wedding banquet: 90."
+  },
+  {
+   "name": "Iris/Camellia 1/2",
+   "note": "Wedding banquet: 60."
+  },
+  {
+   "name": "Iris/Camellia 1/4",
+   "note": null
+  },
+  {
+   "name": "The Garden View",
+   "note": "B1F. Medium banquet hall. Wedding banquet: 60. Reception capacity is 60 on marriott.com."
+  },
+  {
+   "name": "Oak",
+   "note": "B1F. Small banquet room. Reception capacity is listed as \"-\" on marriott.com."
+  },
+  {
+   "name": "Maple/Cornus (entire)",
+   "note": "B1F. Small banquet room."
+  },
+  {
+   "name": "Maple/Cornus 1/2",
+   "note": null
+  },
+  {
+   "name": "Cypress/Zelkova (entire)",
+   "note": "B1F. Small banquet room."
+  },
+  {
+   "name": "Cypress/Zelkova 1/2",
+   "note": null
+  },
+  {
+   "name": "Studio",
+   "note": "1F. Can be divided into 3, with a maximum of 49 people per room. Wedding banquet: 110. 17.2 m long x 11.8 m wide. marriott.com lists theater 220, school 100, reception 110 and seated 120."
+  }
+ ],
+ "ops": {
+  "parking": "About 70 spaces on B3F. Height limit 2.1 m. Visitors pay 500 yen per 30 minutes. Banquet and wedding guests park free for up to 4 hours. Hotel guests pay 2,000 yen per night.",
+  "restaurants": "The hotel has Lounge & Dining G (daily 6:30-23:00) and the Pastry & Bakery GGCo. cafe (daily 10:00-20:00). There are also 3 private rooms."
+ },
+ "documents": [],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "FamilyMart Gotenyama Trust Tower",
+    "hours": "7:00-23:00",
+    "note": "Distance is calculated from the position in the official store list (the address position is in the same block as the venue)."
+   },
+   {
+    "name": "FamilyMart Garden Grace Shinagawa Gotenyama",
+    "hours": "7:00-23:00",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "FamilyMart Kitashinagawa",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "Accea Gate City Osaki",
+    "hours": "Weekdays 9:00-20:00 / Sat, Sun & holidays 10:00-19:00",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Accea Shinagawa Prince Hotel",
+    "hours": "Daily 10:00-20:00",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "DAISO Osaki New City",
+    "hours": "9:30-21:00",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Can Do Shinbaba",
+    "hours": "Mon-Sun 10:00-20:00",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "donki": [
+   {
+    "name": "Don Quijote Gotanda East Exit",
+    "hours": "8:00-5:00",
+    "note": "Distance is calculated from the address location. Rather far. The store name on the Don Quijote official website is \"Gotanda Higashiguchi\" (五反田東口店)."
+   },
+   {
+    "name": "Platinum Don Quijote Shirokanedai",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. The store name on the Don Quijote official website is \"Platinum Don Quijote Shirokanedai\" (プラチナ ドン・キホーテ白金台店) (a different Don Quijote store format). Far."
+   }
+  ]
+ },
+ "photoCredit": "© あばさー / Public domain · Wikimedia Commons"
+}

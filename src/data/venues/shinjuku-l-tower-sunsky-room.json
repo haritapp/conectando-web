@@ -1,0 +1,262 @@
+{
+ "slug": "shinjuku-l-tower-sunsky-room",
+ "nameJa": "新宿エルタワーサンスカイルーム",
+ "nameEn": "",
+ "type": "conference",
+ "area": "shinjuku-venues",
+ "address": "〒163-1530 東京都新宿区西新宿1丁目6番1号 新宿エルタワー1階・30階",
+ "officialUrl": "https://www.sunskyroom.jp/shinjuku/",
+ "organizerUrl": "https://www.sunskyroom.jp/shinjuku/",
+ "bizintokyoSlug": "shinjuku-l-tower-sunsky-room",
+ "accessSummary": "JR・小田急線・京王線 新宿駅（西口）徒歩2分／東京メトロ丸ノ内線 新宿駅 徒歩2分／都営地下鉄新宿線 新宿駅 徒歩5分／都営地下鉄大江戸線 都庁前駅 徒歩3分／西武新宿線 西武新宿駅 徒歩7分",
+ "notice": null,
+ "hours": "会議等の利用は 9時～17時（午前 9時～12時／午後 13時～17時）。30階は前延長が8時から、後延長が20時まで（1階C室の後延長は19時まで）。展示会・催事は 9時～18時で、前延長は8時から、後延長は19時まで。祝祭日も平日と同一料金。問い合わせ受付は平日9時～17時",
+ "rooms": [
+  {
+   "name": "30階 A室",
+   "areaM2": 711,
+   "ceilingM": 2.9,
+   "theater": null,
+   "school": 300,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "スクール形式 2人掛け200席／3人掛け300席。区分利用（7/9区画・6/9区画・5/9区画など）も可。会議等 9時～17時 770,000円（午前330,000円／午後440,000円）、延長110,000円／時間（2021年4月1日現在・税込）"
+  },
+  {
+   "name": "30階 B室",
+   "areaM2": 378,
+   "ceilingM": 2.9,
+   "theater": null,
+   "school": 225,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "スクール形式 2人掛け150席／3人掛け225席。会議等 9時～17時 385,000円（午前165,000円／午後220,000円）、延長55,000円／時間（2021年4月1日現在・税込）"
+  },
+  {
+   "name": "30階 B1室",
+   "areaM2": 162,
+   "ceilingM": 2.9,
+   "theater": null,
+   "school": 90,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "スクール形式 2人掛け60席／3人掛け90席。会議等 9時～17時 154,000円（午前66,000円／午後88,000円）、延長22,000円／時間。展示会・催事の単独利用は不可（2021年4月1日現在・税込）"
+  },
+  {
+   "name": "30階 B2室",
+   "areaM2": 216,
+   "ceilingM": 2.9,
+   "theater": null,
+   "school": 120,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "スクール形式 2人掛け80席／3人掛け120席。会議等 9時～17時 231,000円（午前99,000円／午後132,000円）、延長33,000円／時間（2021年4月1日現在・税込）"
+  },
+  {
+   "name": "1階 C室",
+   "areaM2": 171,
+   "ceilingM": 3.0,
+   "theater": null,
+   "school": 80,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "スクール形式 2人掛け80席（2人掛けまで）。会議等 9時～17時 138,600円（午前59,400円／午後79,200円）、延長19,800円／時間。展示会・催事での利用は不可（2021年4月1日現在・税込）"
+  },
+  {
+   "name": "30階 A室＋B室",
+   "areaM2": 1089,
+   "ceilingM": 2.9,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "展示会・催事 9時～18時 1,859,000円、延長187,000円／時間、搬入日料金371,800円（2021年4月1日現在・税込）。可動間仕切りで162～1,089㎡に変えられる"
+  },
+  {
+   "name": "30階 A室＋B1室",
+   "areaM2": 873,
+   "ceilingM": 2.9,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "展示会・催事 9時～18時 1,524,600円、延長149,600円／時間、搬入日料金304,920円（2021年4月1日現在・税込）"
+  }
+ ],
+ "roomsSource": "https://www.sunskyroom.jp/shinjuku/",
+ "ops": {
+  "prevDaySetup": {
+   "text": "資材等の搬入・搬出を行う場合は、作業は原則前日となり、「搬入日料金」として会場利用料金の20％と、養生による施設利用料（一式44,000円）がかかる。会議等で前日18時以降に作業を始める場合も同じ料金。展示会等の準備のため会議室を前日等に使う場合は「準備日料金」として会場利用料金の50％。設営は備え付けの什器・付帯設備に限り無料で、原状回復も不要。",
+   "source": "https://www.sunskyroom.jp/shinjuku/"
+  },
+  "loadingHours": {
+   "text": "荷物の搬出入は地下3階の有料駐車場の荷捌所から人荷用エレベーターを使う。人荷用エレベーターは入口幅1,200mm×入口高2,100mm、カゴ間口1,800mm×奥行1,900mm、天井高2,280／2,450／2,620／3,000mm（4段階）、積載量1,600kg。内装等の会場施工・搬出入時の養生は事前に相談する。階下の企業への防音に留意する。",
+   "source": "https://www.sunskyroom.jp/pdf/slt_terms2.pdf"
+  },
+  "vehicleRules": {
+   "text": "地下駐車場に入れる貨物自動車は高さ2.1m（空車時）・長さ6.0mまで。地下駐車場に入れない大型トラック等での搬出入は事前に相談する。",
+   "source": "https://www.sunskyroom.jp/pdf/slt_terms2.pdf"
+  },
+  "parking": {
+   "text": "ビル地下に時間貸駐車場がある。",
+   "source": "https://www.sunskyroom.jp/shinjuku/"
+  },
+  "catering": {
+   "text": "サンスカイルーム指定のケータリング・弁当業者での注文が案内されている。それ以外でも室内での飲食はできるが、ゴミは持ち帰り。持ち込んだ弁当やペットボトル等の空き容器も利用者が持ち帰る。",
+   "source": "https://www.sunskyroom.jp/shinjuku/"
+  },
+  "restaurants": {
+   "text": "B1Fにコンビニエンスストア、B2Fにレストラン街がある。ビルは全館禁煙で、休憩スペースはない。",
+   "source": "https://www.sunskyroom.jp/shinjuku/"
+  }
+ },
+ "documents": [
+  {
+   "title": "ご利用のしおり（規約）【会議用】（2022年6月1日）",
+   "url": "https://www.sunskyroom.jp/pdf/slt_terms1.pdf"
+  },
+  {
+   "title": "ご利用のしおり（規約）【催事用】",
+   "url": "https://www.sunskyroom.jp/pdf/slt_terms2.pdf"
+  },
+  {
+   "title": "利用申込書",
+   "url": "https://www.sunskyroom.jp/pdf/slt_application.pdf"
+  },
+  {
+   "title": "基本的な感染対策",
+   "url": "https://www.sunskyroom.jp/pdf/slt_infection_room.pdf"
+  },
+  {
+   "title": "部屋タイプ・料金表（会場利用料金 2021年4月1日現在／付帯設備利用料金 2023年9月25日現在）",
+   "url": "https://www.sunskyroom.jp/shinjuku/"
+  }
+ ],
+ "checkedAt": "2026-11-07",
+ "lat": 35.692799,
+ "lng": 139.697296,
+ "nearby": {
+  "convenience": [
+   {
+    "name": "ファミリーマート 新宿野村ビル店",
+    "brand": "ファミリーマート",
+    "distanceM": 51,
+    "walkMin": 1,
+    "hours": "7:00-22:00",
+    "address": "東京都新宿区西新宿1丁目26-2",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/77215",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "ファミリーマート 新宿エルタワー店",
+    "brand": "ファミリーマート",
+    "distanceM": 63,
+    "walkMin": 1,
+    "hours": "7:00-23:00",
+    "address": "東京都新宿区西新宿1丁目6-1",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/77179",
+    "note": "距離は公式店舗一覧の位置で計算（住所の位置では会場と同じ街区のため）"
+   },
+   {
+    "name": "ファミリーマート 新宿損保ジャパン店",
+    "brand": "ファミリーマート",
+    "distanceM": 79,
+    "walkMin": 1,
+    "hours": "6:30-23:00",
+    "address": "東京都新宿区西新宿1丁目26-1",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/77229",
+    "note": "距離は公式店舗一覧の位置で計算（住所の位置では会場と同じ街区のため）"
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "アクセア 西新宿店",
+    "brand": "アクセア",
+    "distanceM": 98,
+    "walkMin": 2,
+    "hours": "24時間営業",
+    "address": "東京都新宿区西新宿7-12-3 西新宿佐藤ビル1F~4F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/entry.html",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "キンコーズ・西新宿店",
+    "brand": "キンコーズ",
+    "distanceM": 332,
+    "walkMin": 5,
+    "hours": "平日 8:00-20:00／土・日・祝 10:00-20:00",
+    "address": "東京都新宿区西新宿8丁目1-1 アゼリアビル1F",
+    "verified": true,
+    "source": "https://www.kinkos.co.jp/store/tokyo/t008/",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "DAISO 新宿コクーンタワー店",
+    "brand": "ダイソー",
+    "distanceM": 154,
+    "walkMin": 2,
+    "hours": "8:00-21:00",
+    "address": "東京都新宿区西新宿1-7-3 地下2階",
+    "verified": true,
+    "source": "https://www.daiso-sangyo.co.jp/shop/detail/001737",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "Can★Do 西新宿店",
+    "brand": "キャンドゥ",
+    "distanceM": 253,
+    "walkMin": 4,
+    "hours": "毎日 9:00-22:00",
+    "address": "東京都新宿区西新宿7-21-1",
+    "verified": true,
+    "source": "https://shopinfo.cando-web.co.jp/detail/shop-5068/",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "donki": [
+   {
+    "name": "ドン・キホーテ 新宿歌舞伎町店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 408,
+    "walkMin": 6,
+    "hours": "24時間営業",
+    "address": "東京都新宿区歌舞伎町1-16-5",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=29",
+    "note": "距離は住所の位置で計算。ドン・キホーテ公式サイトの店舗名は「新宿歌舞伎町店」"
+   },
+   {
+    "name": "ドン・キホーテ 新宿東南口店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 524,
+    "walkMin": 7,
+    "hours": "24時間営業",
+    "address": "東京都新宿区新宿3丁目36-16",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=449",
+    "note": "距離は住所の位置で計算。ドン・キホーテ公式サイトの店舗名は「新宿東南口店」"
+   }
+  ]
+ },
+ "drinkDelivery": {
+  "available": true
+ },
+ "photo": {
+  "src": "/images/venues/shinjuku-l-tower-sunsky-room.jpg",
+  "credit": "© Rs1421 / CC BY-SA 3.0 · Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Shinjuku-Ltower-Building-02.jpg"
+ }
+}

@@ -1,0 +1,149 @@
+{
+ "slug": "rihga-royal-hotel-tokyo",
+ "name": "RIHGA Royal Hotel Tokyo",
+ "address": "Tokyo 169-8613 1-104-19 Totsukamachi, Shinjuku-ku",
+ "accessSummary": "Waseda Station (Tokyo Metro Tozai Line) Exit 3a: about 7 min walk / Edogawabashi Station (Tokyo Metro Yurakucho Line) Exit 1b: about 10 min walk / Waseda Station (Toden Arakawa Line): about 3 min walk",
+ "hours": null,
+ "notice": null,
+ "rooms": [
+  {
+   "name": "Diamond (2F)",
+   "note": "Frontage x depth 13.8×23.1 m. Single-table seating for 120."
+  },
+  {
+   "name": "Emerald (2F)",
+   "note": "Frontage x depth 13.8×15.1 m. Single-table seating for 72."
+  },
+  {
+   "name": "Sapphire (2F)",
+   "note": "Frontage x depth 13.8×15.1 m. Single-table seating for 72."
+  },
+  {
+   "name": "Iris (2F)",
+   "note": "Frontage x depth 6.6×7.6 m. Single-table seating for 12."
+  },
+  {
+   "name": "Azalea (2F)",
+   "note": "Frontage x depth 6.6×7.6 m. Single-table seating for 12."
+  },
+  {
+   "name": "Royal Hall (3F)",
+   "note": "Frontage x depth 21.8×37.9 m. Buffet for 1,000 includes the Garden Terrace. Single-table seating for 360."
+  },
+  {
+   "name": "Royal Hall Divided 1",
+   "note": "Frontage x depth 21.8×22.5 m. Single-table seating for 200."
+  },
+  {
+   "name": "Royal Hall Divided 2",
+   "note": "Frontage x depth 21.8×14.6 m. Single-table seating for 120."
+  },
+  {
+   "name": "Garden Terrace (3F)",
+   "note": "Frontage x depth 10.4×18.0 m. Single-table seating for 30."
+  },
+  {
+   "name": "Crystal (3F)",
+   "note": "Frontage x depth 9.9×21.1 m. Single-table seating for 48."
+  },
+  {
+   "name": "Crystal Divided 1",
+   "note": "Frontage x depth 9.9×13.3 m. Single-table seating for 32."
+  },
+  {
+   "name": "Crystal Divided 2",
+   "note": "Frontage x depth 9.9×7.8 m. Single-table seating for 18."
+  },
+  {
+   "name": "Amethyst (3F)",
+   "note": "Frontage x depth 8.1×7.1 m. Single-table seating for 12."
+  },
+  {
+   "name": "Garnet (3F)",
+   "note": "Frontage x depth 8.1×7.1 m. Single-table seating for 12."
+  },
+  {
+   "name": "Cattleya I (4F)",
+   "note": "Frontage x depth 10.0×6.2 m. Buffet for 50 is for I and II together. Single-table seating for 18."
+  },
+  {
+   "name": "Cattleya II (4F)",
+   "note": "Frontage x depth 10.0×6.8 m. Buffet for 50 is for I and II together. Single-table seating for 18."
+  }
+ ],
+ "ops": {
+  "prevDaySetup": "For sending packages, arrange a delivery company so that they arrive within the reserved time (the hotel holds items from the day before the banquet). The reservation includes preparation time, which is discussed at the planning meeting.",
+  "loadingHours": "Load-in and load-out of decoration and entertainment equipment and materials by vendors the organizer has hired directly, as well as the size, mounting method and location of signs, follow certain rules that take the hotel's appearance and guest flow into account. Contact the hotel staff in advance (Banquet Reservations 03-5285-8962).",
+  "parking": "When cars are used for a banquet, parking fees are charged individually to everyone other than the representative (organizer) (banquet use: free for up to 4 hours, then 800 yen per hour). Guests are advised to use public transportation.",
+  "catering": "Boxed meals for meetings are available. Decoration, music, lighting, entertainment and receptionists are arranged by the hotel through designated vendors, and the hotel's prior approval is required to use anyone other than the designated vendors (Banquet and Event Terms, dated April 1, 2019).",
+  "restaurants": "The hotel has the Chinese restaurant Royal Ryuho (皇家龍鳳), the Kyoto cuisine restaurant Tankuma Kitamise (たん熊北店), the teppanyaki restaurant Miyabi (みや美), the dining restaurant Ferio, Garden Lounge and Cellar Bar. Private rooms (4-36 guests) and private hire are also available at the restaurants, and a banquet hall can be used in succession for a social gathering or after-party following training."
+ },
+ "documents": [
+  {
+   "title": "Banquet Hall Overview (issued March 2024)"
+  },
+  {
+   "title": "Banquet Hall Floor Map"
+  },
+  {
+   "title": "Banquet and Event Terms (April 1, 2019)"
+  },
+  {
+   "title": "Usage Guide"
+  },
+  {
+   "title": "Banquet Options Guide"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "FamilyMart Waseda Tsurumakicho",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "FamilyMart Waseda University South Gate",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "FamilyMart Waseda University",
+    "hours": "8:30-22:00",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "Accea Waseda",
+    "hours": "Weekdays 9:00-20:00 / Sat, Sun & holidays 10:00-19:00",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "DAISO York Foods Waseda",
+    "hours": "10:00-22:00",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "DAISO Kusuri no Fukutaro Ichigaya Yanagicho",
+    "hours": "10:00-22:00",
+    "note": "Distance is calculated from the address location. Rather far."
+   }
+  ],
+  "donki": [
+   {
+    "name": "Don Quijote Shinjuku Meiji-dori",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. Rather far. The store name on the Don Quijote official website is \"Shinjuku Meiji-dori\" (新宿明治通り店)."
+   },
+   {
+    "name": "Don Quijote Takadanobaba Ekimae",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. Rather far. The store name on the Don Quijote official website is \"Takadanobaba Ekimae\" (高田馬場駅前店)."
+   }
+  ]
+ },
+ "photoCredit": "© Syced / CC0 · Wikimedia Commons"
+}

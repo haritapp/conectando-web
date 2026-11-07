@@ -1,0 +1,308 @@
+{
+ "slug": "toc-ariake-convention-hall",
+ "nameJa": "TOC有明Convention Hall",
+ "nameEn": "TOC ARIAKE Convention Hall",
+ "type": "exhibition",
+ "area": "odaiba-ariake-venues",
+ "address": "東京都江東区有明3丁目5番7号",
+ "officialUrl": "https://saiji2.toc.co.jp/ariake/",
+ "organizerUrl": "https://saiji2.toc.co.jp/ariake/guide/",
+ "bizintokyoSlug": "toc-ariake-convention-hall",
+ "accessSummary": "りんかい線 国際展示場駅 徒歩5分／ゆりかもめ 東京ビッグサイト駅・有明駅 徒歩6分",
+ "notice": null,
+ "hours": "年中無休（1月1日を除く）。ホール（展示会場使用）9:00〜17:00、ホール（セミナー使用）9:00〜21:00、会議室9:00〜21:00（いずれも原則）。営業時間外の利用は相談可。準備・撤去を含む入室から退室までが利用時間",
+ "rooms": [
+  {
+   "name": "4F EASTホール E-1",
+   "areaM2": 226,
+   "ceilingM": 3.2,
+   "school": 165,
+   "note": "スクール形式（3名掛け）の定員（165名程度）"
+  },
+  {
+   "name": "4F EASTホール E-2",
+   "areaM2": 113,
+   "ceilingM": 3.2,
+   "school": 60,
+   "note": "スクール形式（3名掛け）の定員（60名程度）"
+  },
+  {
+   "name": "4F EASTホール E-3",
+   "areaM2": 113,
+   "ceilingM": 3.2,
+   "school": 60,
+   "note": "スクール形式（3名掛け）の定員（60名程度）"
+  },
+  {
+   "name": "4F EASTホール E-4",
+   "areaM2": 226,
+   "ceilingM": 3.2,
+   "school": 165,
+   "note": "スクール形式（3名掛け）の定員（165名程度）"
+  },
+  {
+   "name": "4F EASTホール E-5",
+   "areaM2": 170,
+   "ceilingM": 3.2,
+   "school": 132,
+   "note": "スクール形式（3名掛け）の定員（132名程度）"
+  },
+  {
+   "name": "4F EASTホール 全ホール",
+   "areaM2": 848,
+   "ceilingM": 3.2,
+   "school": 612,
+   "note": "E-1〜E-5を連結。スクール形式（3名掛け）612名程度。床荷重500kg/m²"
+  },
+  {
+   "name": "4F WESTホール W-1",
+   "areaM2": 170,
+   "ceilingM": 3.2,
+   "school": 132,
+   "note": "スクール形式（3名掛け）の定員（132名程度）"
+  },
+  {
+   "name": "4F WESTホール W-2",
+   "areaM2": 226,
+   "ceilingM": 3.2,
+   "school": 165,
+   "note": "スクール形式（3名掛け）の定員（165名程度）"
+  },
+  {
+   "name": "4F WESTホール W-3",
+   "areaM2": 113,
+   "ceilingM": 3.2,
+   "school": 60,
+   "note": "スクール形式（3名掛け）の定員（60名程度）"
+  },
+  {
+   "name": "4F WESTホール W-4",
+   "areaM2": 113,
+   "ceilingM": 3.2,
+   "school": 60,
+   "note": "スクール形式（3名掛け）の定員（60名程度）"
+  },
+  {
+   "name": "4F WESTホール W-5",
+   "areaM2": 226,
+   "ceilingM": 3.2,
+   "school": 165,
+   "note": "スクール形式（3名掛け）の定員（165名程度）"
+  },
+  {
+   "name": "4F WESTホール 全ホール",
+   "areaM2": 848,
+   "ceilingM": 3.2,
+   "school": 612,
+   "note": "W-1〜W-5を連結。スクール形式（3名掛け）612名程度。床荷重500kg/m²"
+  },
+  {
+   "name": "20F WEST GOLD 20ホール WG-201",
+   "areaM2": 374,
+   "ceilingM": 3.2,
+   "school": 264,
+   "note": "スクール形式の定員264名程度。床荷重500kg/m²"
+  },
+  {
+   "name": "20F WEST GOLD 20ホール WG-202",
+   "areaM2": 374,
+   "ceilingM": 3.2,
+   "school": 264,
+   "note": "スクール形式の定員264名程度。床荷重500kg/m²"
+  },
+  {
+   "name": "20F WEST GOLD 20ホール WG-203",
+   "areaM2": 261,
+   "ceilingM": 3.2,
+   "school": 165,
+   "note": "スクール形式の定員165名程度。床荷重500kg/m²"
+  },
+  {
+   "name": "20F WEST GOLD 20ホール 全ホール",
+   "areaM2": 1009,
+   "ceilingM": 3.2,
+   "school": 693,
+   "note": "WG-201〜WG-203を連結。スクール形式693名程度。レイアウト例：スクール2名掛け494名（WG-201〜203連結）、シアター264名、コの字2名掛け68名、グループ2名掛け80名。床荷重500kg/m²"
+  },
+  {
+   "name": "4F 会議室1",
+   "areaM2": 70,
+   "ushape": 30,
+   "note": "ロの字30名"
+  },
+  {
+   "name": "4F 会議室2",
+   "areaM2": 24,
+   "note": "対面形式12名。ホワイトボード1枚付"
+  },
+  {
+   "name": "4F 会議室3",
+   "areaM2": 70,
+   "ushape": 30,
+   "note": "ロの字30名"
+  },
+  {
+   "name": "ホワイエ",
+   "note": "20F WEST GOLD 20ホールを同時期に利用する場合に限り利用可"
+  },
+  {
+   "name": "バックスペース",
+   "note": "20F WEST GOLD 20ホールを同時期に利用する場合に限り利用可"
+  }
+ ],
+ "roomsSource": "https://saiji2.toc.co.jp/ariake/overview/",
+ "ops": {
+  "prevDaySetup": {
+   "text": "展示会・販売会として使う場合、設営・準備時間の利用料金は使用料金の半額（2025年4月改定の料金表）。搬出入・設営・撤去も原則として通常の会場使用料が適用される。宅配便は、事前連絡のうえ承認された場合に限りご利用前日のみ受け付け、納品物の管理はしない。",
+   "source": "https://saiji2.toc.co.jp/ariake/price/"
+  },
+  "loadingHours": {
+   "text": "搬入は駐車場棟（1階は高さ3.5mまで、2〜7階は高さ2.3mまで）を使い、荷捌き用駐車スペースから搬出入用エレベーターで運ぶ。混雑緩和のため事前に搬出入計画書を提出する。搬出入用エレベーターは1・22号機（かご内W2,200×D2,100×H3,000mm、扉W1,500×H2,300mm、積載2,300kg）と2・3・23号機（かご内W2,200×D2,100×H2,700mm、扉W1,500×H2,300mm、積載2,300kg）で自動運転。客用エレベーター（4〜21号機）への台車の乗り入れは禁止。4F直結駐車場入口は駐車場5Fとつながり、最大開口W2,387×H2,650mm。車両入口の開閉は7:00〜22:00。台車は各自持参し、建物・設備は十分に養生する。",
+   "source": "https://saiji2.toc.co.jp/ariake/use_policy/"
+  },
+  "vehicleRules": {
+   "text": "荷捌き用駐車スペースでは積み下ろし終了後に速やかに出庫する。搬出入車で混雑する場合は主催者が整理員を配置し、駐車場内では係員の指示に従う。駐車可能車両高は1階3.5mまで、2〜7階2.3mまで。駐車料金の一括後払い精算を希望する場合は、事前に後払い駐車券を受け取れる。",
+   "source": "https://saiji2.toc.co.jp/ariake/use_policy/"
+  },
+  "parking": {
+   "text": "659台。普通車300円／30分、大型車450円／30分。駐車可能車両高は1階3.5mまで、2〜7階2.3mまで。",
+   "source": "https://saiji2.toc.co.jp/ariake/access/"
+  },
+  "catering": {
+   "text": "会場内で飲食する場合は事前に会社の承認が必要。ケータリングは当社指定会社を利用し、外部からの持ち込みは原則お断り。会議室も同様で、TOC提携店舗以外からの飲食の持ち込みは禁止。ガスボンベ（プロパンガス）の持ち込み不可。",
+   "source": "https://saiji2.toc.co.jp/ariake/use_policy/"
+  },
+  "restaurants": {
+   "text": "館内施設として3Fにレストランフロア、2Fにセブンイレブンとドトールコーヒーショップがある。",
+   "source": "https://saiji2.toc.co.jp/ariake/around/"
+  }
+ },
+ "documents": [
+  {
+   "title": "料金一覧（税抜）",
+   "url": "https://saiji2.toc.co.jp/ariake/price/"
+  },
+  {
+   "title": "利用料金改定のお知らせ・料金表（2025年4月1日以降の新規お問い合わせ分から）",
+   "url": "https://saiji2.toc.co.jp/ariake/assets/pdf/price_2025.pdf"
+  },
+  {
+   "title": "利用規程（TOC有明CONVENTION HALL・会議室・設備備品）",
+   "url": "https://saiji2.toc.co.jp/ariake/use_policy/"
+  },
+  {
+   "title": "設備・備品（備品使用料は2024年11月改定、エレベーター寸法）",
+   "url": "https://saiji2.toc.co.jp/ariake/equipment/"
+  },
+  {
+   "title": "ご利用案内（利用の流れ・キャンセル料）",
+   "url": "https://saiji2.toc.co.jp/ariake/guide/"
+  },
+  {
+   "title": "インターネット回線・Wi-Fiのご案内",
+   "url": "https://saiji2.toc.co.jp/ariake/assets/pdf/internet.pdf"
+  },
+  {
+   "title": "周辺施設マップ",
+   "url": "https://saiji2.toc.co.jp/ariake/assets/pdf/around_map_jp.pdf"
+  }
+ ],
+ "checkedAt": "2026-11-07",
+ "lat": 35.632229,
+ "lng": 139.788757,
+ "nearby": {
+  "convenience": [
+   {
+    "name": "ローソン 相鉄グランドフレッサ有明店",
+    "brand": "ローソン",
+    "distanceM": 69,
+    "walkMin": 1,
+    "hours": "24時間営業",
+    "address": "東京都江東区有明3-6-6",
+    "verified": true,
+    "source": "https://www.areamarker.com/lawson/info/178726",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "セブン-イレブン TOC有明店",
+    "brand": "セブン-イレブン",
+    "distanceM": 102,
+    "walkMin": 2,
+    "hours": "24時間営業",
+    "address": "東京都江東区有明3-5-7TOC有明ビル2F",
+    "verified": true,
+    "source": "https://seven-eleven.areamarker.com/711map/info/223929",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "セブン-イレブン TFT有明店",
+    "brand": "セブン-イレブン",
+    "distanceM": 195,
+    "walkMin": 3,
+    "hours": "24時間営業",
+    "address": "東京都江東区有明3-6-11",
+    "verified": true,
+    "source": "https://seven-eleven.areamarker.com/711map/info/385030",
+    "note": "距離は公式の店舗位置で計算"
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "アクセア 東京ビッグサイト前店",
+    "brand": "アクセア",
+    "distanceM": 260,
+    "walkMin": 4,
+    "hours": "平日8:00〜22:00、土日祝10:00〜19:00",
+    "address": "東京都江東区有明3-7-26 有明フロンティアビル1F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/entry.html",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Can★Do ワンザ有明店",
+    "brand": "キャンドゥ",
+    "distanceM": 232,
+    "walkMin": 3,
+    "hours": "月〜日 10:00-19:30",
+    "address": "東京都江東区有明3-6-11 TFTビル東館2階",
+    "verified": true,
+    "source": "https://shopinfo.cando-web.co.jp/detail/shop-1346/",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "DAISO 有明ガーデン店",
+    "brand": "ダイソー",
+    "distanceM": 799,
+    "walkMin": 10,
+    "hours": "10:00-21:00",
+    "address": "東京都江東区有明2-1-8 有明ガーデン3階",
+    "verified": true,
+    "source": "https://www.daiso-sangyo.co.jp/shop/detail/002129",
+    "note": "距離は公式の店舗位置で計算"
+   }
+  ],
+  "donki": [
+   {
+    "name": "キラキラドンキ ダイバーシティ東京 プラザ店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 1546,
+    "walkMin": 20,
+    "hours": "10:00-21:00",
+    "address": "東京都江東区青海1-1-10 ダイバーシティ東京 プラザ 2階",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=655",
+    "note": "距離は住所の位置で計算。遠め。ドン・キホーテの別業態（公式サイトの店舗名は「キラキラドンキ ダイバーシティ東京 プラザ店」）"
+   }
+  ]
+ },
+ "drinkDelivery": {
+  "available": true
+ },
+ "photo": {
+  "src": "/images/venues/toc-ariake-convention-hall.jpg",
+  "credit": "写真は最寄りのりんかい線 国際展示場駅のイメージで、会場の建物ではありません。© MaedaAkihiko / CC0 · Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kokusai-Tenjijo-STA.jpg"
+ }
+}
