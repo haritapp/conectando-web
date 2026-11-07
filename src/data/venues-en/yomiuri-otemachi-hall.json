@@ -1,0 +1,141 @@
+{
+ "slug": "yomiuri-otemachi-hall",
+ "name": "Yomiuri Otemachi Hall",
+ "address": "Tokyo 100-8055 Yomiuri Shimbun Building, 1-7-1 Otemachi, Chiyoda-ku",
+ "accessSummary": "Otemachi Station (Tokyo Metro Chiyoda, Marunouchi, Tozai and Hanzomon Lines / Toei Mita Line) Exit C3: direct connection / JR Tokyo Station Marunouchi North Exit: about 10 min walk",
+ "hours": "Usage hours are 9:00-22:00 (including the time from load-in to complete load-out; extensions are in principle not allowed). Phone reception is weekdays 10:00-17:00 (except the year-end and New Year holidays)",
+ "notice": "The hall is rented out to the extent that it does not interfere with use by the Yomiuri Shimbun Group. First-time users must submit an organization profile and an event outline and pass a review (Terms of Use as of April 1, 2021). Eating and drinking are prohibited and standing is not allowed inside the hall auditorium; the entire building is non-smoking.",
+ "rooms": [
+  {
+   "name": "Yomiuri Otemachi Hall",
+   "note": "501 fixed seats (up to 8 wheelchair spaces possible by removing some seats). The fire-code capacity is 503 people (501 seats + 2 wheelchair spaces), and standing is not possible in the auditorium (Terms of Use as of April 1, 2021). The main stage is 13.0m wide x 7.7m deep (depth measured to the horizon curtain), and the proscenium arch is 13.0m wide x 8.0-5.4m high (variable with movable proscenium panels). The stage area with the acoustic reflector installed is about 88㎡. A Noh stage can be set up by combining shosadai (raised stage platforms) (data as of January 2014). Facility usage fees (tax included, as of April 1, 2026) are, on weekdays: morning 187,000 yen / afternoon 242,000 yen / evening 308,000 yen / morning & afternoon 363,000 yen / afternoon & evening 462,000 yen / all day 572,000 yen; on Sat, Sun & holidays: morning 243,100 yen / afternoon 314,600 yen / evening 400,400 yen / morning & afternoon 471,900 yen / afternoon & evening 600,600 yen / all day 743,600 yen (performance period)"
+  },
+  {
+   "name": "Yomiuri Otemachi Small Hall",
+   "note": "Maximum capacity 397 people. Fully flat at 354㎡ (15.7m x 22.6m); 165㎡ / 185㎡ when the movable partition is used. Ceiling height is the effective height. Standard layouts are classroom with 180, 216 or 294 seats, and theater with 198, 286 or 375 seats. It can also accommodate a party of about 200 people. The elevating stage (electric) is 11m wide x 4.6m deep x 0-0.6m high. The floor is tile carpet. The room is basically rented out flat, without desks and chairs; desks and chairs are set up and removed by a vendor designated by the hall, at 44,000 yen for a standard pattern and 77,000 yen for a non-standard pattern (tax included). Facility usage fees (tax included, as of April 1, 2026) are, on weekdays: morning 165,000 yen / afternoon 214,500 yen / evening 264,000 yen / morning & afternoon 308,000 yen / afternoon & evening 385,000 yen / all day 495,000 yen; on Sat, Sun & holidays: morning 214,500 yen / afternoon 278,850 yen / evening 343,200 yen / morning & afternoon 400,400 yen / afternoon & evening 500,500 yen / all day 643,500 yen (performance period). When used at the same time as the hall, the Small Hall's facility usage fee is half price (data as of October 31, 2014)"
+  }
+ ],
+ "ops": {
+  "prevDaySetup": "Usage time includes the time needed from load-in to complete load-out. The period from \"lobby opening\" to \"completion of guest exit\" is the performance period, and the rest is the setup/teardown period; the facility usage fee for the setup/teardown period is set separately from the performance period. For the hall, setup/teardown fees are, on weekdays: morning 93,500 yen / afternoon 121,000 yen / evening 154,000 yen / all day 286,000 yen; on Sat, Sun & holidays: morning 121,550 yen / afternoon 157,300 yen / evening 200,200 yen / all day 371,800 yen. For the Small Hall, on weekdays: morning 82,500 yen / afternoon 107,250 yen / evening 132,000 yen / all day 247,500 yen (tax included, as of April 1, 2026). You can enter the building to prepare from the start of the starting usage period.",
+  "loadingHours": "The loading entrance is on the 2nd basement floor, on the north side of the building (the KDDI Building side). Large stage sets for the hall are carried in from B2F by elevator (EV28): door opening 1.85m wide x 3m high; car 1.85m wide x 3.2m deep x 3m high, load capacity 3,100kg. EV27 for performers and staff has a door opening 1m wide x 2.3m high and a load capacity of 1,000kg. EV22 for the Small Hall (shared) has a door opening 1.7m wide x 2.5m high and a load capacity of 3,000kg. When sending parcels by courier, contact the hall in advance and specify arrival on the morning of the day before the usage date (cash-on-delivery parcels cannot be received). The event plan is to be submitted about 3 months before the desired usage date, and the advance meeting is held about 1 month before the usage date.",
+  "vehicleRules": "On B2F there is a dressing-room entrance and loading entrance (loading area) exclusively for users arriving by vehicle, and only vehicles that applied in advance can enter. Vehicles that can enter must be within 3.1m high x 7.1m long x 2.2m wide (per the vehicle inspection certificate); for loading in the hall's large stage sets, in principle up to 2-ton trucks. B2F cannot be entered on foot (\"Requests for Using the Facility\", September 2024).",
+  "parking": "There is no parking lot for visitors. The B2F parking area is exclusively for users arriving by vehicle; only vehicles that applied in advance can enter, and it is not available to the general public. It may not be usable depending on how the Hall and Small Hall are being used (\"Requests for Using the Facility\", September 2024).",
+  "waitingRooms": "The hall has 4 dressing rooms on the 5th floor (10, 13, 20 and 22㎡; 2 with shower and toilet, and the 20㎡ room is Japanese-Western style), a 37㎡ room on the 3rd floor (with shower and toilet), a 43㎡ multipurpose room on the 6th floor, 3 simultaneous interpretation rooms and 1 stenography room (as of January 2014). The facility usage fee includes Dressing Rooms 1-4, the organizer's waiting room and the ticket booth; Dressing Room 5 (3rd floor, 37㎡) and the multipurpose room are 4,400 yen each (tax included, as of March 31, 2026). The Small Hall has 2 waiting rooms on the 5th floor (36㎡ and 8㎡), and Waiting Rooms 1 and 2 are included in the facility usage fee.",
+  "catering": "For catering, the hall introduces 3 companies (Ginza Suehiro, Imperial Hotel and The Palace Hotel Tokyo). Places where food and drinks can be served to visitors are limited to the permanent cafe or inside the Small Hall; for a concert with a reception, the Small Hall must also be booked. If the audience is the general public rather than limited to people connected with the event, a notification to the public health center is required. Eating and drinking are prohibited in the hall auditorium (use the lobby or foyer); in the Small Hall it depends on the event, and events involving food and drink must be declared when applying for use. If the 4th-floor lobby cafe is operated, a cafe facility usage fee applies."
+ },
+ "documents": [
+  {
+   "title": "Terms of Use (as of April 1, 2021)"
+  },
+  {
+   "title": "Requests for Using the Facility (September 2024)"
+  },
+  {
+   "title": "Application Form for Use"
+  },
+  {
+   "title": "Facility Usage Fee Table (applies to use from April 1, 2026)"
+  },
+  {
+   "title": "Auxiliary Equipment Fee Table: Stage, Rooms, Video (as of March 31, 2026)"
+  },
+  {
+   "title": "Auxiliary Equipment Fee Table: Sound, Lighting (as of March 31, 2026)"
+  },
+  {
+   "title": "Auxiliary Equipment Fee Table: Other (as of April 1, 2021)"
+  },
+  {
+   "title": "Equipment and Furnishings List"
+  },
+  {
+   "title": "Event Plan Form for the Main Hall (revised June 8, 2018)"
+  },
+  {
+   "title": "Event Plan Form for the Small Hall"
+  },
+  {
+   "title": "Stage Floor Plan, Main Hall"
+  },
+  {
+   "title": "Stage Floor Plan [for drawing creation], Main Hall"
+  },
+  {
+   "title": "Stage Cross-Section, Main Hall"
+  },
+  {
+   "title": "Stage and Auditorium Cross-Section, Main Hall"
+  },
+  {
+   "title": "Hall Floor Plan, Small Hall"
+  },
+  {
+   "title": "Seating Chart, Main Hall"
+  },
+  {
+   "title": "Small Hall Standard Layout: Classroom, 180 seats"
+  },
+  {
+   "title": "Small Hall Standard Layout: Theater, 198 seats"
+  },
+  {
+   "title": "Access Map"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "FamilyMart Otemachi Building",
+    "hours": "Weekdays 8:00-22:00 / Sat 8:00-18:00 / Closed Sun & holidays",
+    "note": "Distance is calculated from the official store location"
+   },
+   {
+    "name": "7-Eleven KDDI Otemachi Building",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location"
+   },
+   {
+    "name": "Natural Lawson S Otemachi Financial City South",
+    "hours": "10:00-21:00",
+    "note": "Distance is calculated from the official store location"
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "Kinko's Otemachi",
+    "hours": "Weekdays 9:00-20:00 / Closed Sat, Sun & holidays",
+    "note": "Distance is calculated from the address location"
+   },
+   {
+    "name": "Accea Otemachi",
+    "hours": "Open 24 hours (open every day of the year)",
+    "note": "Distance is calculated from the address location"
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Can Do Marunouchi Oazo",
+    "hours": "Mon-Fri 8:00-22:00 / Sat-Sun 9:00-21:00",
+    "note": "Distance is calculated from the official store location"
+   },
+   {
+    "name": "3COINS Yaechika",
+    "hours": "10:00-21:00",
+    "note": "Distance is calculated from the official store location"
+   }
+  ],
+  "donki": [
+   {
+    "name": "Don Quijote Akihabara",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. The store name on the Don Quijote official website is \"Akihabara\" (秋葉原店). Far."
+   },
+   {
+    "name": "Don Quijote Ginza Main Building (Ginza Nine Building No. 3)",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. Far."
+   }
+  ]
+ },
+ "photoCredit": "© Kakidai / CC BY-SA 4.0 · Wikimedia Commons"
+}

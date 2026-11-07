@@ -1,0 +1,250 @@
+{
+ "slug": "united-nations-university-headquarters",
+ "nameJa": "国連大学本部ビル",
+ "nameEn": "United Nations University Headquarters",
+ "type": "public",
+ "area": "shibuya-ebisu-venues",
+ "address": "〒150-8925 東京都渋谷区神宮前5-53-70",
+ "officialUrl": "https://jp.unu.edu/",
+ "organizerUrl": "https://jp.unu.edu/about/unu-services/conferences.html",
+ "bizintokyoSlug": "united-nations-university-headquarters",
+ "accessSummary": "東京メトロ表参道駅 B2出口から徒歩／JR・東京メトロ・京王電鉄・東急電鉄 渋谷駅 B2またはB3出口から徒歩",
+ "notice": "貸出先は国連機関や第三者（国際団体、公共団体、大使館、民間企業など）で、商業・政治・宗教活動は認められず、最終判断は国連大学が行う（会議施設ガイドライン2023年6月改訂）。国際会議場ご利用案内ページは学術目的・非営利の団体を対象としている",
+ "hours": "ビルの開館時間は月曜日〜金曜日 9:30〜17:30。開館時間外（9:30以前・17:30以降）と土日・国連大学の祝日の利用は、利用料金総額に40%の割増。",
+ "rooms": [
+  {
+   "name": "ウ・タント国際会議場（3階・4階）",
+   "areaM2": 628,
+   "ceilingM": null,
+   "theater": 364,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "固定机・固定席の劇場型。3階メインホール304席、4階ギャラリー60席の計364席。通訳ブース3つ。レイアウト変更不可。利用料金：一日545,000円／半日363,000円。"
+  },
+  {
+   "name": "エリザベス・ローズ国際会議場（5階）",
+   "areaM2": 388,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "ロの字型の固定机と座席に、正方形の2辺に3列の補助席。収容110〜160名。通訳ブース3つ（6階）。レイアウト変更不可。利用料金：一日242,000円／半日157,000円。ご利用案内ページは110席、ガイドライン（新しい方）は110〜160席"
+  },
+  {
+   "name": "レセプション・ホール（2階）",
+   "areaM2": 240,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": 150,
+   "banquet": null,
+   "note": "立食で最大100〜150名。長テーブル14台、ケータリング用丸テーブル6台、椅子145脚。利用料金：一日206,000円／半日121,000円。ご利用案内ページは120〜150席、ガイドライン（新しい方）は100〜150名"
+  },
+  {
+   "name": "アネックス・スペース（1階）",
+   "areaM2": 235,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "収容100〜120名。専用エントランス。椅子200脚ほか。利用料金：一日240,000円／半日150,000円。"
+  },
+  {
+   "name": "アネックス・テラス（1階）",
+   "areaM2": 116,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "収容25〜40名。小型ミーティング・テーブル9台、椅子60脚。利用料金：終日はアネックス・スペースと併用で50,000円、単独で156,000円。半日は併用で45,000円、単独で105,000円。"
+  },
+  {
+   "name": "Committee Room 1（5階）",
+   "areaM2": null,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "収容20席。ご利用案内ページは各25席、ガイドライン（新しい方）は20席"
+  },
+  {
+   "name": "Committee Room 2・3（5階）",
+   "areaM2": null,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "収容各25席。"
+  }
+ ],
+ "roomsSource": "https://jp.unu.edu/_ext/i.unu.edu/media/jp.unu.edu/page/18958/Guidelines-for-Use-of-Conference-Facilities-at-UNU-HQ_11-2024-JP.pdf",
+ "ops": {
+  "prevDaySetup": {
+   "text": "前日設営・前日搬入を認める記載はなく、準備と撤収は利用時間内に行う形である。イベント前の準備とイベント後の撤収のため、会場利用時間のほかに合計4時間以内を無料で使える。ウ・タント国際会議場など主要会場の半日・一日料金にも、準備と後片付けのための最長4時間が含まれる。（国連大学 会議施設ガイドライン、2023年6月改訂）",
+   "source": "https://jp.unu.edu/_ext/i.unu.edu/media/jp.unu.edu/page/18958/Guidelines-for-Use-of-Conference-Facilities-at-UNU-HQ_11-2024-JP.pdf"
+  },
+  "vehicleRules": {
+   "text": "警備上の制約により駐車場は基本的になく、車両の駐車が必要な場合は近隣の民間駐車場（コスモス青山ビル、オーバルビルなど）を使うよう案内されている。車椅子などの事情で車両利用を希望する場合は、予約時に伝える。タクシーなどでの施設前までの乗り入れは可能。（国連大学 会議施設ガイドライン、2023年6月改訂）",
+   "source": "https://jp.unu.edu/about/unu-services/conferences.html"
+  },
+  "parking": {
+   "text": "来訪者向けの駐車場はない。近隣の民間駐車場（コスモス青山ビル、オーバルビルなど）の利用が案内されている。",
+   "source": "https://jp.unu.edu/_ext/i.unu.edu/media/jp.unu.edu/page/18958/Guidelines-for-Use-of-Conference-Facilities-at-UNU-HQ_11-2024-JP.pdf"
+  },
+  "waitingRooms": {
+   "text": "ウ・タント国際会議場の利用には、Visitor's・ルーム（VIP Room）、Meeting・ルーム、Multi-purpose・ルーム、給湯室、3階ホワイエ、2階受付スペースが含まれる。エリザベス・ローズ国際会議場の利用には、Visitor's・ルーム（VIP Room）、Staff・ルーム、ラウンジ、給湯室（必要に応じて）、5階ホワイエ、インフォメーション・カウンター、2階受付スペースが含まれる。（国連大学 会議施設ガイドライン、2023年6月改訂）",
+   "source": "https://jp.unu.edu/_ext/i.unu.edu/media/jp.unu.edu/page/18958/Guidelines-for-Use-of-Conference-Facilities-at-UNU-HQ_11-2024-JP.pdf"
+  },
+  "catering": {
+   "text": "水以外の飲食物の持ち込み・会場内での飲食は、両者の別段の合意がない限りできない。構内またはその付近で飲食物のケータリングを提供するには事前の承認が必要。ケータリング・サービスの費用は利用者負担。公式FAQでは、水筒の水・お茶の持ち込みは可能で、コーヒーブレークは2階のレセプション・ホールか各会場に付随する部屋を予約して使うよう案内している。レセプション・ホールとアネックス・スペースには、ケータリングの準備に使える給湯室がある。（国連大学 会議施設ガイドライン、2023年6月改訂）",
+   "source": "https://jp.unu.edu/about/unu-services/conferences.html"
+  }
+ },
+ "documents": [
+  {
+   "title": "国連大学 会議施設ガイドライン（2023年6月改訂、PDFファイル名は2024年11月版）",
+   "url": "https://jp.unu.edu/_ext/i.unu.edu/media/jp.unu.edu/page/18958/Guidelines-for-Use-of-Conference-Facilities-at-UNU-HQ_11-2024-JP.pdf"
+  },
+  {
+   "title": "会議場運営部【予約完了までの流れ】（2025年4月版）",
+   "url": "https://jp.unu.edu/_ext/i.unu.edu/media/jp.unu.edu/page/18958/CMU_reservation_process_flowchart_JP_APR2025.pdf"
+  },
+  {
+   "title": "国際会議場ご利用案内（第三者使用の基本条件・FAQ）",
+   "url": "https://jp.unu.edu/about/unu-services/conferences.html"
+  }
+ ],
+ "checkedAt": "2026-11-07",
+ "lat": 35.662224,
+ "lng": 139.708481,
+ "nearby": {
+  "convenience": [
+   {
+    "name": "ファミリーマート 青山オーバルビル店",
+    "brand": "ファミリーマート",
+    "distanceM": 92,
+    "walkMin": 2,
+    "hours": "24時間営業",
+    "address": "東京都渋谷区神宮前5-52-2",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/77517",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "セブン-イレブン 渋谷2丁目店",
+    "brand": "セブン-イレブン",
+    "distanceM": 104,
+    "walkMin": 2,
+    "hours": "24時間営業",
+    "address": "東京都渋谷区渋谷2-1-1",
+    "verified": true,
+    "source": "https://seven-eleven.areamarker.com/711map/info/527813",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "セブン-イレブン 渋谷神宮前5丁目店",
+    "brand": "セブン-イレブン",
+    "distanceM": 218,
+    "walkMin": 3,
+    "hours": "24時間営業",
+    "address": "東京都渋谷区神宮前5-46-3",
+    "verified": true,
+    "source": "https://seven-eleven.areamarker.com/711map/info/495183",
+    "note": "距離は公式の店舗位置で計算"
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "アクセア 渋谷青山通り店",
+    "brand": "アクセア",
+    "distanceM": 129,
+    "walkMin": 2,
+    "hours": "平日8:00〜22:00、土日祝10:00〜19:00",
+    "address": "東京都渋谷区渋谷1-1-3 第35荒井ビル1F・2F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/entry.html",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "アクセア 表参道店",
+    "brand": "アクセア",
+    "distanceM": 542,
+    "walkMin": 7,
+    "hours": "平日9:00〜20:00／土日祝休み",
+    "address": "東京都港区北青山3-5-25 しもじまビル3F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/entry.html",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "DAISO 渋谷マークシティ店",
+    "brand": "ダイソー",
+    "distanceM": 994,
+    "walkMin": 13,
+    "hours": "9:30-21:00",
+    "address": "東京都渋谷区道玄坂1-12-1 渋谷マークシティ1階",
+    "verified": true,
+    "source": "https://www.daiso-sangyo.co.jp/shop/detail/003086",
+    "note": "距離は住所の位置で計算。同じ建物に「Standard Products 渋谷マークシティ店」（9:30-21:00）もある"
+   },
+   {
+    "name": "DAISO 渋谷センター街店",
+    "brand": "ダイソー",
+    "distanceM": 1023,
+    "walkMin": 13,
+    "hours": "10:00-21:30",
+    "address": "東京都渋谷区宇田川町35-2",
+    "verified": true,
+    "source": "https://www.daiso-sangyo.co.jp/shop/detail/008931",
+    "note": "距離は住所の位置で計算。遠め"
+   }
+  ],
+  "donki": [
+   {
+    "name": "MEGAドン・キホーテ渋谷本店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 993,
+    "walkMin": 13,
+    "hours": "24時間営業",
+    "address": "東京都渋谷区宇田川町28-6",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=442",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "MEGAドンキ渋谷別館",
+    "brand": "ドン・キホーテ",
+    "distanceM": 1019,
+    "walkMin": 13,
+    "hours": "24時間営業",
+    "address": "東京都渋谷区道玄坂2-25-12",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=671",
+    "note": "距離は住所の位置で計算。遠め"
+   }
+  ]
+ },
+ "drinkDelivery": {
+  "available": true
+ },
+ "photo": {
+  "src": "/images/venues/united-nations-university-headquarters.jpg",
+  "credit": "© Wiiii / CC BY-SA 3.0 · Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:United_Nations_University,_Tokyo.jpg"
+ }
+}

@@ -1,0 +1,112 @@
+{
+ "slug": "hotel-sunroute-plaza-shinjuku",
+ "name": "Hotel Sunroute Plaza Shinjuku",
+ "address": "Tokyo 151-0053 2-3-1 Yoyogi, Shibuya-ku",
+ "accessSummary": "JR Shinjuku Station South Exit: 3 min walk / JR Shinjuku Station Koshu Kaido Ticket Gate: 3 min walk / Shinjuku Station (Toei Oedo Line) Exit A1 (Mynds Tower Exit): 1 min walk / Busta Shinjuku: 3 min walk",
+ "hours": "Banquet and meeting use is 9:00-21:00 (for meeting reservations, the usage time includes setup and reception. Full-day use is 9:00 to 21:00 including setup and cleanup time. Use outside 9:00-21:00 is by consultation)",
+ "notice": null,
+ "rooms": [
+  {
+   "name": "1F Large Conference Room Fuyo - Entire Room",
+   "note": "Classroom is the maximum with 3 per desk (the capacity chart PDF gives 182 seats in the vertical layout and 150 seats in the horizontal layout; the recommended capacity with 2 per desk is 117 seats vertical and 100 seats horizontal). Island layout: 18 islands of 6. U-shape: 72 seats (52 seats horizontal). The movable sliding walls can divide the room into three. The capacity chart PDF (posted February 2026) gives theater 240 seats, standing 180 people and seated 90 people, which differ from the table on the hotel's web page. Fees (tax and service charge included): 258,500 yen for the basic 3 hours (352,000 yen from 17:00), 77,000 yen per extra hour (121,000 yen from 17:00), 1,016,400 yen for a full day (9:00-21:00)."
+  },
+  {
+   "name": "1F Large Conference Room Fuyo - 2/3 (紅風・舞風)",
+   "note": "Classroom is 3 per desk (the capacity chart PDF gives 112 seats vertical and 110 seats horizontal; the recommended capacity with 2 per desk is 63 seats vertical and 70 seats horizontal). Island layout: 12 islands of 6. U-shape: 48 seats (41 seats horizontal). The capacity chart PDF gives standing 120 people. Fees (tax and service charge included): 176,000 yen for the basic 3 hours (240,900 yen from 17:00), 53,900 yen per extra hour (80,300 yen from 17:00), 686,070 yen for a full day."
+  },
+  {
+   "name": "1F Large Conference Room Fuyo - 1/3 (紅・風・舞)",
+   "note": "Island layout: 6 islands of 6. U-shape: 30 seats. The capacity chart PDF gives standing 50 people. Fees (tax and service charge included): 89,100 yen for the basic 3 hours (126,500 yen from 17:00), 27,500 yen per extra hour (42,000 yen from 17:00), 355,740 yen for a full day."
+  },
+  {
+   "name": "2F Small Conference Room Cattleya",
+   "note": "Island layout: 5 islands of 6. U-shape: 27 seats. Maximum capacity 35. Fees (tax and service charge included): 47,300 yen for the basic 2 hours, 19,800 yen per extra hour, 190,850 yen for a full day."
+  },
+  {
+   "name": "2F Small Conference Room Menuett",
+   "note": "Island layout: 4 islands of 6. U-shape: 19 seats. Fees (tax and service charge included): 38,500 yen for the basic 2 hours, 13,200 yen per extra hour, 138,600 yen for a full day."
+  },
+  {
+   "name": "2F Small Conference Room Freesia",
+   "note": "Island layout: 4 islands of 6. U-shape: 19 seats. Fees (tax and service charge included): 38,500 yen for the basic 2 hours, 13,200 yen per extra hour, 138,600 yen for a full day."
+  }
+ ],
+ "ops": {
+  "parking": "The underground parking lot has 60 spaces (17 flat spaces including 2 for people with disabilities, and 43 mechanical spaces). Vehicle limits: height 1.55 m or less, width 2.05 m or less, length 5.3 m or less, weight 2,300 kg or less. The height limit for flat spaces is 2.3 m at most; for mechanical spaces, 39 spaces are 1.55 m and 4 spaces are 2.0 m. Banquet use is 200 yen for up to 3 hours (other use is at the general rate). The general rate is 440 yen per 30 minutes. The mechanical spaces operate only 7:00-22:00 (fees are charged even outside operating hours); the flat spaces operate 24 hours. It is not the hotel's own dedicated parking lot. (Source: https://sotetsu-hotels.com/sunroute/plazashinjuku/access/)",
+  "catering": "Banquets (standing parties) start from 30 people and are accepted only in Fuyo. Food is provided by partner companies carefully selected by the hotel. Food orders are due 2 weeks before, and setup equipment orders 1 week before. Lunch boxes from 1,850 yen, dinner boxes from 2,750 yen (tax and service charge included; equipment price list posted February 2026). (Source: https://sotetsu-hotels.com/sunroute/plazashinjuku/banquet/)",
+  "restaurants": "On the 1st floor is the Italian restaurant VILLAZZA (breakfast and a cafe & bar are available), and on the 2nd floor is Bar \"Kukon\". For post-training receptions and the like, there are party plans in Fuyo: standing buffet for 30-150 people, seated buffet for 30-80 people, and course meals for 30-40 people. (Source: https://sotetsu-hotels.com/sunroute/plazashinjuku/facilities/)"
+ },
+ "documents": [
+  {
+   "title": "Meeting & Banquet Page (specs and price list, viewed 2026-11-07)"
+  },
+  {
+   "title": "Capacity Chart (posted February 2026)"
+  },
+  {
+   "title": "Equipment Price List (posted February 2026)"
+  },
+  {
+   "title": "2026 Hotel Party Flyer (posted February 2026)"
+  },
+  {
+   "title": "Access Map (posted February 2026)"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "FamilyMart Shinjuku-eki Minami",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Lawson Oedo Line Shinjuku Ekimae",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "7-Eleven Shibuya Yoyogi 2-chome",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "Kinko's Shinjuku Minamiguchi",
+    "hours": "Daily 8:00-22:00",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Accea Shinjuku Minamiguchi",
+    "hours": "Open 24 hours on weekdays (non-stop from Monday 8:00 to Saturday 19:00) / Sat until 19:00, Sun & holidays 10:00-19:00",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "DAISO Keio Mall Annex",
+    "hours": "8:00-21:00",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "DAISO Shinjuku Cocoon Tower",
+    "hours": "8:00-21:00",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "donki": [
+   {
+    "name": "Don Quijote Shinjuku Southeast Exit",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Don Quijote Shinjuku Southeast Exit Annex",
+    "hours": "9:00-2:00",
+    "note": "Distance is calculated from the address location."
+   }
+  ]
+ },
+ "photoCredit": "© Abasaa / Public domain · Wikimedia Commons"
+}
