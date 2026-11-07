@@ -1,0 +1,193 @@
+{
+ "slug": "kfc-hall-rooms",
+ "name": "KFC Hall & Rooms",
+ "address": "Kokusai Fashion Center Building, 1-6-1 Yokoami, Sumida-ku, Tokyo 130-0015",
+ "accessSummary": "Ryogoku Station (Toei Oedo Line) Exit A1: 0 min walk / Ryogoku Station (JR Sobu Line) East and West Exits: about 7 min walk",
+ "hours": "Daily 9:00-21:00 (time slots: morning 9:00-12:00 / afternoon 13:00-17:00 / evening 18:00-21:00). Use that runs into 23:00 to 7:00 the next day incurs an early-morning/late-night attendance fee of 18,000 yen (19,800 yen tax included). 24-hour use is available on request, and a staff attendance fee applies depending on the time of day.",
+ "notice": null,
+ "rooms": [
+  {
+   "name": "3F KFC Hall",
+   "note": "Classroom is 3 per desk; island layout is 30 islands, 180 seats (2 per desk). Comes with a foyer of 266.56㎡ (ceiling height 3.0m) and a waiting room of 22.28㎡. Theater seats range from 355 to 483 depending on the layout (the 483-seat layout also requires booking KFC Hall Annex because the venue does not have enough chairs; with roll-back chairs, 240 seats. KFC Hall Theater Layout, updated November 12, 2025). The venue page also lists 360 and 480 seats. Daily 9:00-21:00: 448,000 yen (492,800 yen tax included)."
+  },
+  {
+   "name": "3F KFC Hall Annex",
+   "note": "Classroom is 3 per desk; island layout is 18 islands, 108 seats (2 per desk); flat layout: 300 seats. Comes with a waiting room of 18.81㎡. Daily 9:00-21:00: 248,000 yen (272,800 yen tax included)."
+  },
+  {
+   "name": "2F KFC Hall 2nd",
+   "note": "Classroom is 3 per desk; island layout is 9 islands, 54 seats (2 per desk). Comes with a waiting room of 16.98㎡. Daily 9:00-21:00: 140,000 yen (154,000 yen tax included)."
+  },
+  {
+   "name": "10F Room 10A",
+   "note": "Island layout: 16 islands, 96 seats. Daily 9:00-21:00 222,000 yen (244,200 yen tax included)."
+  },
+  {
+   "name": "10F Rooms 101-103 (connected)",
+   "note": "Island layout: 16 islands, 96 seats. Daily 9:00-21:00 222,000 yen (244,200 yen tax included)."
+  },
+  {
+   "name": "10F Rooms 101 + 102",
+   "note": "Island layout: 9 islands, 54 seats. Daily 9:00-21:00 168,000 yen (184,800 yen tax included)."
+  },
+  {
+   "name": "10F Room 101 or 103 (each)",
+   "note": "Island layout: 5 islands, 30 seats. Daily 9:00-21:00 85,000 yen (93,500 yen tax included)."
+  },
+  {
+   "name": "10F Room 104",
+   "note": "Island layout: 3 islands, 18 seats. Hourly rental applies. Daily 9:00-21:00 57,000 yen (62,700 yen tax included)."
+  },
+  {
+   "name": "10F Room 105",
+   "note": "Hourly rental applies. Daily 9:00-21:00 24,000 yen (26,400 yen tax included)."
+  },
+  {
+   "name": "10F Room 106",
+   "note": "Island layout: 5 islands, 30 seats. Daily 9:00-21:00 85,000 yen (93,500 yen tax included)."
+  },
+  {
+   "name": "10F Room 107",
+   "note": "Island layout: 5 islands, 30 seats. Daily 9:00-21:00 85,500 yen (94,050 yen tax included)."
+  },
+  {
+   "name": "10F Room 108",
+   "note": "Island layout: 5 islands, 30 seats. Daily 9:00-21:00 85,500 yen (94,050 yen tax included)."
+  },
+  {
+   "name": "10F Room 109",
+   "note": "Island layout: 5 islands, 30 seats. Daily 9:00-21:00 85,500 yen (94,050 yen tax included)."
+  },
+  {
+   "name": "10F Room 100",
+   "note": "Island layout: 4 islands, 24 seats. Daily 9:00-21:00 76,000 yen (83,600 yen tax included)."
+  },
+  {
+   "name": "10F 10F Private",
+   "note": "Hourly rental applies. Daily 9:00-21:00 21,400 yen (23,540 yen tax included)."
+  },
+  {
+   "name": "10F 10F Waiting Room",
+   "note": "Hourly rental applies. Daily 9:00-21:00 10,000 yen (11,000 yen tax included)."
+  },
+  {
+   "name": "11F Room 111",
+   "note": "Island layout: 9 islands, 54 seats. Daily 9:00-21:00 158,000 yen (173,800 yen tax included)."
+  },
+  {
+   "name": "11F Room 112",
+   "note": "Island layout: 5 islands, 30 seats. Daily 9:00-21:00 85,000 yen (93,500 yen tax included)."
+  },
+  {
+   "name": "11F Room 113",
+   "note": "Island layout: 6 islands, 36 seats. Daily 9:00-21:00 111,000 yen (122,100 yen tax included)."
+  },
+  {
+   "name": "11F Room 114",
+   "note": "Island layout: 4 islands, 16 seats. Hourly rental applies. Daily 9:00-21:00 33,500 yen (36,850 yen tax included)."
+  },
+  {
+   "name": "11F Room 115",
+   "note": "Island layout: 9 islands, 54 seats. Daily 9:00-21:00 168,000 yen (184,800 yen tax included)."
+  },
+  {
+   "name": "11F Room 116",
+   "note": "Island layout: 5 islands, 30 seats. Daily 9:00-21:00 81,000 yen (89,100 yen tax included)."
+  },
+  {
+   "name": "6F 6F Private",
+   "note": "Island layout: 4 islands, 16 seats. Hourly rental applies. Daily 9:00-21:00 34,000 yen (37,400 yen tax included)."
+  }
+ ],
+ "ops": {
+  "prevDaySetup": "KFC Hall, KFC Hall Annex and KFC Hall 2nd have a preparation-day fee (for setup, teardown and so on), limited to 1 day per event. Preparation-day fees for 9:00-21:00 are: KFC Hall 318,000 yen (349,800 yen tax included), KFC Hall Annex 188,000 yen (206,800 yen tax included), KFC Hall 2nd 98,000 yen (107,800 yen tax included). On the preparation day, the fees for attached equipment are halved.",
+  "loadingHours": "Equipment, goods, fixtures and the like are loaded in and out through the designated loading entrance (the B1F loading dock) at the user's own responsibility. The loading entrance is a shared space, so cooperate with other users. For events with multiple loading deliveries, such as exhibitions, the organizer must submit a load-in/load-out schedule, arranged so that times do not overlap, at least 3 days in advance (this does not guarantee space). The freight elevators are: for KFC Hall (3F), Elevator E, W 3,600 x D 1,850 x H 2,700mm, capacity 2,600kg, door W 2,700 x H 2,700mm; for the 10F, 11F and 2F (2nd), Elevator D, W 1,730 x D 2,475 x H 2,500mm, capacity 2,200kg, door W 1,300 x H 2,100mm; for the 6F, 2 Elevators C (22-person: W 1,800 x D 1,790 x H 2,350mm, capacity 1,450kg, door 1,000 x 2,100mm / 26-person: W 1,800 x D 2,000 x H 2,350mm, capacity 1,700kg, door 1,000 x 2,100mm) (Load-in Drawing, updated October 29, 2025). Advance shipping of packages must arrive the day before the venue contract date, addressed in care of the 10F Hall Management Office. Packages are accepted 9:00-18:00 including weekends and holidays; cash-on-delivery and chilled shipments are not accepted.",
+  "vehicleRules": "The B1F loading dock (2 spaces) is a shared area for loading and unloading; in principle one vehicle at a time, and stopping is limited to 30 minutes. After the work, move to the adjacent Times parking lot or a nearby lot. Loading and unloading around the building or elsewhere on the premises is in principle prohibited. The entry height limit is 3.4m; vehicles exceeding it and special vehicles are in principle prohibited. If the dock is full, circle the area and wait; do not wait on the slope or in front of the hotel (Loading and Unloading Guidelines, November 2020 edition; Load-in Drawing, updated October 29, 2025).",
+  "parking": "There is a parking lot on B1F with 136 spaces, open 24 hours. There is no motorcycle parking. Rates are 250 yen per 30 minutes (tax included) and a maximum of 1,500 yen per day (tax included) (the access page and the service list also state 300 yen per 30 minutes and a daily maximum of 1,500 yen (one other line says 1,400 yen). The terms of use are as of October 2025. Discounted prices for venue users are 400 yen for 1 hour, 800 yen for 2 hours, 1,200 yen for 3 hours and 1,400 yen for 12 hours). There is 1 parking space for people with physical disabilities in front of the B1F entrance (cannot be reserved).",
+  "waitingRooms": "KFC Hall comes with a 22.28㎡ waiting room and a back space, KFC Hall Annex with an 18.81㎡ waiting room, and KFC Hall 2nd with a 16.98㎡ waiting room. The 10F has a waiting room for rent (10F Waiting Room, 10㎡).",
+  "catering": "Food and drink catering must be ordered from the designated vendors, and for hygiene reasons food and drink prepared by the organizer cannot be brought in. Menus are available for boxed meals (KFC Kaiseki Bento, Kaiseki Cuisine Aoyama, Ningyocho Imahan and others), drinks, and parties (standing and seated); boxed-meal orders are due up to 4 days before, and quantity changes up to 12:00 3 days before. Only KFC Hall, KFC Hall Annex and KFC Hall 2nd can be used as party venues.",
+  "restaurants": "The building has Cafe & Dining Azalea on the 1F, the Chinese restaurant Tohtenkoh on the 2F, and the Japanese restaurant Sakura on the 25F, and restaurant arrangements (for after-parties) are accepted together with the venue booking. Daiichi Hotel Ryogoku is in the same building."
+ },
+ "documents": [
+  {
+   "title": "Terms of Use (as of October 2025)"
+  },
+  {
+   "title": "Price List"
+  },
+  {
+   "title": "Document Downloads (floor plans and equipment materials)"
+  },
+  {
+   "title": "Loading and Unloading Guidelines (November 2020 edition)"
+  },
+  {
+   "title": "Load-in Drawing (updated October 29, 2025)"
+  },
+  {
+   "title": "About Arranging Delivery Companies (2019 edition)"
+  },
+  {
+   "title": "KFC Hall Theater Layout (updated November 12, 2025)"
+  },
+  {
+   "title": "Hall & Annex & 2nd Common Equipment"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "FamilyMart Ryogoku Kamezawa",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the store's official location."
+   },
+   {
+    "name": "7-Eleven Daiichi Hotel Ryogoku",
+    "hours": "6:00-23:00 (Mon-Sun & holidays)",
+    "note": "Distance is calculated from the store's official location. The store's official address is the same as the venue (Yokoami 1-6-1)."
+   },
+   {
+    "name": "Lawson Sumida Kamezawa 1-chome",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the store's official location."
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "Accea Asakusabashi",
+    "hours": "Weekdays 9:00-20:00 / Closed Sat, Sun & holidays",
+    "note": "Distance is calculated from the address location. Rather far."
+   },
+   {
+    "name": "Accea Concept Building Higashi-Kanda",
+    "hours": "Weekdays open 24 hours (non-stop from Monday 9:00 to Saturday 20:00) / Sun & holidays 9:00-20:00 (open non-stop on weekdays that fall on the day before a holiday)",
+    "note": "Distance is calculated from the address location. Rather far."
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "DAISO Ryogoku",
+    "hours": "9:00-21:00",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "DAISO Maruetsu Kinshicho",
+    "hours": "10:00-21:00",
+    "note": "Distance is calculated from the address location. Rather far."
+   }
+  ],
+  "donki": [
+   {
+    "name": "Don Quijote Kinshicho Kitaguchi",
+    "hours": "9:00-4:00",
+    "note": "Distance is calculated from the address location. Rather far. The store name on the Don Quijote official site is \"Kinshicho Kitaguchi\"."
+   },
+   {
+    "name": "Don Quijote Asakusa EKIMISE",
+    "hours": "10:00-20:00",
+    "note": "Distance is calculated from the address location. Rather far."
+   }
+  ]
+ },
+ "photoCredit": "Image shows the ticket gate of Ryogoku Station (Toei Oedo Line), the nearest station, not the venue building. © MaedaAkihiko / CC BY-SA 4.0 · Wikimedia Commons"
+}

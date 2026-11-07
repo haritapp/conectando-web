@@ -1,0 +1,285 @@
+{
+ "slug": "hulic-hall-asakusabashi",
+ "nameJa": "浅草橋ヒューリックホール",
+ "nameEn": "",
+ "type": "hall",
+ "area": "ueno-asakusa-venues",
+ "address": "〒111-0053 東京都台東区浅草橋1-22-16 ヒューリック浅草橋ビル 2階（ホール）・3階（カンファレンス）",
+ "officialUrl": "https://hulic-hall.com/",
+ "organizerUrl": "https://hulic-hall.com/about-hall/flow/",
+ "bizintokyoSlug": "hulic-hall-asakusabashi",
+ "accessSummary": "JR総武線 浅草橋駅（西口）徒歩1分／都営浅草線 浅草橋駅（A3出口）徒歩2分／JR京浜東北線・山手線 秋葉原駅（昭和通り口）徒歩10分／東京メトロ 秋葉原駅 徒歩10分",
+ "notice": null,
+ "hours": "ホールは24時間貸出（終日使用料の枠は9:00〜19:00）。カンファレンスは原則8:00〜22:00。問い合わせ受付は平日10:00〜19:00",
+ "rooms": [
+  {
+   "name": "2F ホール",
+   "areaM2": 465,
+   "ceilingM": 4.37,
+   "theater": 483,
+   "school": 378,
+   "ushape": null,
+   "standing": 400,
+   "banquet": null,
+   "note": "ホール概要ページ：スクール378席／シアター483席／グループワーク315席／パーティ形式400名。使用例ページではシアター最大500名・スクール3名掛け最大399名（380脚以上は椅子の追加費用）。床はフローリング。控室2室・ホワイエ・ロビー・調整室・倉庫を併設し、ホール、ホワイエ、控室はすべて貸切で利用できる"
+  },
+  {
+   "name": "2F ホワイエ",
+   "areaM2": 325,
+   "ceilingM": "3-5",
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": 150,
+   "banquet": null,
+   "note": "パーティ形式150名。床はカーペット。ガラス壁。バーカウンター（冷蔵庫・製氷機・水道）とクローク（300名想定）あり。受付・展示・物販・懇親会に利用できる"
+  },
+  {
+   "name": "3F ROOM 0",
+   "areaM2": 170,
+   "ceilingM": null,
+   "theater": 156,
+   "school": 102,
+   "ushape": 42,
+   "standing": null,
+   "banquet": null,
+   "note": "スクール・ロの字・グループ（81名）は3名掛け。控室付"
+  },
+  {
+   "name": "3F ROOM 1",
+   "areaM2": 191,
+   "ceilingM": null,
+   "theater": 182,
+   "school": 132,
+   "ushape": 66,
+   "standing": null,
+   "banquet": null,
+   "note": "スクール・ロの字・グループ（108名）は3名掛け"
+  },
+  {
+   "name": "3F ROOM 2",
+   "areaM2": 85,
+   "ceilingM": null,
+   "theater": 90,
+   "school": 63,
+   "ushape": 36,
+   "standing": null,
+   "banquet": null,
+   "note": "スクール・ロの字・グループ（54名）は3名掛け"
+  },
+  {
+   "name": "3F ROOM 3",
+   "areaM2": 91,
+   "ceilingM": null,
+   "theater": 90,
+   "school": 63,
+   "ushape": 36,
+   "standing": null,
+   "banquet": null,
+   "note": "スクール・ロの字・グループ（54名）は3名掛け。公式の表ではROOM 2〜5が同じ人数欄"
+  },
+  {
+   "name": "3F ROOM 4",
+   "areaM2": 91,
+   "ceilingM": null,
+   "theater": 90,
+   "school": 63,
+   "ushape": 36,
+   "standing": null,
+   "banquet": null,
+   "note": "スクール・ロの字・グループ（54名）は3名掛け。公式の表ではROOM 2〜5が同じ人数欄"
+  },
+  {
+   "name": "3F ROOM 5",
+   "areaM2": 85,
+   "ceilingM": null,
+   "theater": 90,
+   "school": 63,
+   "ushape": 36,
+   "standing": null,
+   "banquet": null,
+   "note": "スクール・ロの字・グループ（54名）は3名掛け。公式の表ではROOM 2〜5が同じ人数欄"
+  }
+ ],
+ "roomsSource": "https://hulic-hall.com/usage/capacity_room0/",
+ "ops": {
+  "prevDaySetup": {
+   "text": "ホールは24時間貸出で、使用時間には準備・片付けを含む。6時間以上の使用から受け付ける。終日使用料（470,000円）は9:00〜19:00の10時間枠のみに適用され、それ以外の枠は時間使用料（360,000円／6時間、時間枠自由）になる。22時〜8時の利用は深夜手数料（1名20,000円）がかかる。（料金表 2026年9月1日以降受付分）",
+   "source": "https://hulic-hall.com/about-hall/policy/"
+  },
+  "loadingHours": {
+   "text": "搬入出は地下1階の荷捌場で行い、事前に1週間前までに申請書を提出する。専用の荷捌場は2箇所（2台）。搬入出にはセキュリティカードが必要で、当日は代表者が3階運営事務室へ来る。搬入出用EV（6号機）は内寸 幅1950×奥行2150×高さ2500mm、間口 幅1950×高さ2500mm、積載2000kg。オフィスエレベーターでの搬入出は禁止。床・壁の養生が必要。搬入出中は地下駐車場内に監視人員を配置する。",
+   "source": "https://hulic-hall.com/pdf/map/carry_rule.pdf"
+  },
+  "vehicleRules": {
+   "text": "荷捌場の車両高さ制限は3tトラック未満3,200mm、4tトラック以上3,000mm。4tトラックでの搬入出は警備員の立会い（別途費用）が必要。荷捌き駐車スペースは3000×7700mm と 4000×6000mm。留め置きはできず、作業終了後は速やかに退出する。荷捌き場が埋まっているときは待機スペースで待つ。ビルの前に待機車両を停車・駐車するのは厳禁で、路上駐車・路上停車は使用規定でも禁止。",
+   "source": "https://hulic-hall.com/pdf/map/carry_rule.pdf"
+  },
+  "parking": {
+   "text": "ヒューリック浅草橋ビルに一般駐車場はなく、近隣の駐車場を利用する。",
+   "source": "https://hulic-hall.com/access/"
+  },
+  "waitingRooms": {
+   "text": "ホールに控室01（約4名用、ホール内の固定カメラ映像・音声を流せる）と控室02（約4名用、応接セット付）がある。倉庫は空調があり控室としても使える。ホワイエ側のラウンジも控室や荷物置きに使える。カンファレンスのROOM 0は控室付。",
+   "source": "https://hulic-hall.com/usage/capacity_hall/"
+  },
+  "catering": {
+   "text": "パーティー（懇親会）のケータリング手配は依頼でき、目安は1人5,000円程度〜（フード10品程度・2時間フリードリンク・サービス込）。お弁当は800円〜、ポットコーヒー（10杯分程度）は3,000円。飲食による床・壁などの汚れは別途料金がかかる。使用規定で、指定場所以外での飲食と火気の使用・調理は禁止。",
+   "source": "https://hulic-hall.com/about-conference/faq/"
+  }
+ },
+ "documents": [
+  {
+   "title": "ヒューリックホール＆カンファレンス 料金表（2026年9月1日以降受付分）",
+   "url": "https://hulic-hall.com/wordpress/wp-content/uploads/2026/04/New-charge_2609.pdf"
+  },
+  {
+   "title": "料金改定のご案内（2026年9月1日〜）",
+   "url": "https://hulic-hall.com/wordpress/wp-content/uploads/2026/05/Price-Revision-Notice.pdf"
+  },
+  {
+   "title": "搬入出マップ＆注意事項",
+   "url": "https://hulic-hall.com/pdf/map/carry_rule.pdf"
+  },
+  {
+   "title": "ヒューリックホール スケール図",
+   "url": "https://hulic-hall.com/pdf/hall/layout/h_scale.pdf"
+  },
+  {
+   "title": "ヒューリックカンファレンス スケール図",
+   "url": "https://hulic-hall.com/pdf/conference/layout/r_scale.pdf"
+  },
+  {
+   "title": "ホール使用契約書",
+   "url": "https://hulic-hall.com/wordpress/wp-content/uploads/2022/08/h_contract.pdf"
+  },
+  {
+   "title": "使用規定（平成24年4月制定）",
+   "url": "https://hulic-hall.com/about-hall/policy/"
+  },
+  {
+   "title": "機材・備品リスト（ホール、2026年2月版）",
+   "url": "https://hulic-hall.com/wordpress/wp-content/uploads/2026/02/h_equipment_list_2026.02.22.pdf"
+  }
+ ],
+ "checkedAt": "2026-11-07",
+ "lat": 35.697903,
+ "lng": 139.784592,
+ "nearby": {
+  "convenience": [
+   {
+    "name": "ローソン LTF浅草橋店",
+    "brand": "ローソン",
+    "distanceM": 28,
+    "walkMin": 1,
+    "hours": "24時間営業",
+    "address": "東京都台東区浅草橋1-22-16",
+    "verified": true,
+    "source": "https://www.areamarker.com/lawson/info/295580",
+    "note": "距離は公式の店舗位置で計算。公式の店舗住所は会場と同じ（浅草橋1-22-16）"
+   },
+   {
+    "name": "セブン-イレブン 浅草橋駅西口店",
+    "brand": "セブン-イレブン",
+    "distanceM": 104,
+    "walkMin": 2,
+    "hours": "24時間営業",
+    "address": "東京都台東区浅草橋1丁目24-10",
+    "verified": true,
+    "source": "https://seven-eleven.areamarker.com/711map/info/375741",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "セブン-イレブン 浅草橋駅東口店",
+    "brand": "セブン-イレブン",
+    "distanceM": 104,
+    "walkMin": 2,
+    "hours": "24時間営業",
+    "address": "東京都台東区浅草橋1-19-1",
+    "verified": true,
+    "source": "https://seven-eleven.areamarker.com/711map/info/361755",
+    "note": "距離は公式の店舗位置で計算"
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "アクセア 浅草橋店",
+    "brand": "アクセア",
+    "distanceM": 47,
+    "walkMin": 1,
+    "hours": "平日 9:00-20:00／土・日・祝 休み",
+    "address": "東京都台東区浅草橋1-22-2 海原ビル1F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/map/asakusabashi.html",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "アクセア コンセプトビル東神田店",
+    "brand": "アクセア",
+    "distanceM": 367,
+    "walkMin": 5,
+    "hours": "平日 24時間営業（月曜朝9時から土曜夜8時まで休まず営業）／日・祝 9:00-20:00（平日の祝前日は休まず営業）",
+    "address": "東京都千代田区東神田1-15-9 セントピア東神田ビル4F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/map/higashikanda.html",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "DAISO ヨドバシAKIBA店",
+    "brand": "ダイソー",
+    "distanceM": 905,
+    "walkMin": 12,
+    "hours": "9:30-22:00",
+    "address": "東京都千代田区神田花岡町1-1 ヨドバシカメラ マルチメディアAkiba7階",
+    "verified": true,
+    "source": "https://www.daiso-sangyo.co.jp/shop/detail/007127",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "3COINS アトレ秋葉原店",
+    "brand": "3COINS",
+    "distanceM": 1113,
+    "walkMin": 14,
+    "hours": "10:00-21:00",
+    "address": "東京都千代田区外神田1-17-6 アトレ秋葉原1 3F",
+    "verified": true,
+    "source": "https://palcloset.storelocator.jp/detail/1564",
+    "note": "距離は公式の店舗位置で計算。遠め"
+   }
+  ],
+  "donki": [
+   {
+    "name": "ドン・キホーテ 秋葉原店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 1204,
+    "walkMin": 16,
+    "hours": "24時間営業",
+    "address": "東京都千代田区外神田4丁目3-3",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=98",
+    "note": "距離は住所の位置で計算。遠め。ドン・キホーテ公式サイトの店舗名は「秋葉原店」"
+   },
+   {
+    "name": "ドン・キホーテ 御徒町店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 1456,
+    "walkMin": 19,
+    "hours": "9:00-1:00",
+    "address": "東京都台東区上野4丁目1-10",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=639",
+    "note": "距離は住所の位置で計算。遠め。ドン・キホーテ公式サイトの店舗名は「御徒町店」"
+   }
+  ]
+ },
+ "drinkDelivery": {
+  "available": true
+ },
+ "photo": {
+  "src": "/images/venues/hulic-hall-asakusabashi.jpg",
+  "credit": "写真はJR浅草橋駅 西口のイメージで、会場の建物ではありません。© 東京特許許可局 / CC BY-SA 4.0 · Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:JR_Asakusabashi_sta_005.jpg"
+ }
+}

@@ -1,0 +1,365 @@
+{
+ "slug": "parthenon-tama",
+ "nameJa": "パルテノン多摩",
+ "nameEn": "Parthenon Tama",
+ "type": "public",
+ "area": "tama-venues",
+ "address": "〒206-0033 東京都多摩市落合2丁目35番地",
+ "officialUrl": "https://www.parthenon.or.jp/",
+ "organizerUrl": "https://www.parthenon.or.jp/guide/",
+ "bizintokyoSlug": "parthenon-tama",
+ "accessSummary": "京王相模原線・小田急多摩線・多摩モノレール 多摩センター駅から徒歩5分",
+ "notice": "利用者登録（市内・市外）が必要。市外登録でも一般申込（先着）で大ホール・小ホールを含む全施設を申し込める。抽選は市内登録が全施設、市外登録は大ホールのみ。",
+ "hours": "開館時間 9:00～22:00。総合受付（利用申込・支払い）は9:00～20:00。利用区分は午前 9:00～12:00／午後 13:00～17:00／夜間 18:00～22:00／全日 9:00～22:00。営利目的の利用は市内利用料金の100％を加算、入場料を徴収する場合は入場料加算（3,001円以上5,000円以内で50％、5,001円以上で100％）。",
+ "rooms": [
+  {
+   "name": "大ホール",
+   "areaM2": null,
+   "ceilingM": null,
+   "theater": 1154,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "固定席1,154席（車椅子席25席を含む）。プロセニアム型、舞台間口約18m・奥行約15.8m・高さ約22.95m（簀の子まで）、吊物バトン21本（電動）。楽屋9室"
+  },
+  {
+   "name": "小ホール",
+   "areaM2": null,
+   "ceilingM": null,
+   "theater": 269,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "固定席。269席（車椅子席4席を含む）。施設案内ページには「265席（固定席254席）」・車椅子スペース4席の表記もある。プロセニアム型、舞台間口約10.5m・奥行約8.5m、吊物11本（手動）。楽屋4室"
+  },
+  {
+   "name": "オープンスタジオ",
+   "areaM2": 342,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "2階。定員110名。舞台・客席を設置する場合は半面のみの利用で定員120名。中央付近に1.2m四方の柱がある。大音量の演奏は不可"
+  },
+  {
+   "name": "市民ギャラリー",
+   "areaM2": 200,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "定員なし。占有利用のみ。物品販売・勧誘を目的とした利用は不可"
+  },
+  {
+   "name": "リハーサル室",
+   "areaM2": 159,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "定員110名"
+  },
+  {
+   "name": "練習室1",
+   "areaM2": 82,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "定員40名"
+  },
+  {
+   "name": "練習室2",
+   "areaM2": 77,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "定員40名"
+  },
+  {
+   "name": "練習室3",
+   "areaM2": 87,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "定員40名"
+  },
+  {
+   "name": "会議室1",
+   "areaM2": 187,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "4階。定員100名。食事・飲酒が可能"
+  },
+  {
+   "name": "会議室2",
+   "areaM2": 43,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "4階。定員16名"
+  },
+  {
+   "name": "会議室3",
+   "areaM2": 68,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "4階。定員24名。会議室4と連結でき、一体利用時のみ食事・飲酒が可能"
+  },
+  {
+   "name": "会議室4",
+   "areaM2": 74,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "4階。定員24名。会議室3と連結できる"
+  },
+  {
+   "name": "会議室5",
+   "areaM2": 59,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "4階。定員16名"
+  },
+  {
+   "name": "クラフトラボ",
+   "areaM2": 46,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "4階。定員16名"
+  },
+  {
+   "name": "キッチンラボ",
+   "areaM2": 55,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "4階。定員16名。食事・飲酒が可能"
+  },
+  {
+   "name": "クリエイティブラボ1",
+   "areaM2": 44,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "4階。定員12名。クリエイティブラボ2と連結でき、一体利用時のみ食事・飲酒が可能"
+  },
+  {
+   "name": "クリエイティブラボ2",
+   "areaM2": 44,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "4階。定員12名。クリエイティブラボ1と連結できる"
+  },
+  {
+   "name": "ロビー",
+   "areaM2": 786,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "展示会などの利用は相談のうえ有料"
+  }
+ ],
+ "roomsSource": "https://www.parthenon.or.jp/guide/facility/",
+ "ops": {
+  "loadingHours": {
+   "text": "大ホール・小ホールは、機材等の搬入・搬出や調律を目的に、前延長（7:00～9:00）と後延長（22:00～24:00）を1時間単位で申し込める。申込期限は利用日の1か月前まで。別途、時間外管理費や舞台技術者増員費が発生する。大ホールの搬入口は間口3.9m・高さ3m（プラットホーム高さ1.17m）、小ホールの搬入口は間口2.9m・高さ2.35m（プラットフォーム高さ0.83m）で搬入用リフトがある。利用日の1か月前を目安に舞台技術担当者と搬入出・入退館・楽屋利用などを打ち合わせる（2026年10月掲載の貸館利用案内）。",
+   "source": "https://www.parthenon.or.jp/wp-content/uploads/2026/10/a0ab8d709933f0304c957630a560b54f.pdf"
+  },
+  "vehicleRules": {
+   "text": "ホール専用駐車スペースは大ホール7台（11t車までの車種2台・乗用車5台。乗用車のみなら9台）、小ホール6台（4t車までの車種2台・乗用車4台。乗用車のみなら8台）。所定の駐車スペースに駐車し、台数を超える場合は近隣の有料駐車場を利用する。パルテノン多摩東・西有料駐車場は高さ制限2.2mの普通乗用車に限る。オープンスタジオの専用駐車は乗用車2台で、総合案内で渡す駐車証を車外から見える場所に表示する（2026年10月掲載の貸館利用案内）。",
+   "source": "https://www.parthenon.or.jp/wp-content/uploads/2026/10/a0ab8d709933f0304c957630a560b54f.pdf"
+  },
+  "parking": {
+   "text": "パルテノン多摩東西駐車場は166台。開場時間 7:30～22:45（12月29日～1月3日および施設点検日は休場）。料金は最初の1時間300円、以後30分ごとに150円。館内利用2,000円以上で2時間分の割引券があるが、貸館公演は割引対象外。",
+   "source": "https://www.parthenon.or.jp/access/"
+  },
+  "waitingRooms": {
+   "text": "大ホールに楽屋9室（楽屋1・2・9は定員2名9㎡、楽屋3・4は定員3名12㎡、楽屋5は定員20名34㎡、楽屋6・7は定員10名17㎡、楽屋8は定員20名36㎡）、小ホールに楽屋4室（楽屋1は定員2名8㎡、楽屋2・3は定員10名24㎡、楽屋4は定員20名36㎡）がある。楽屋内は飲食可。ホールの楽屋をすべて利用した場合、ホール利用の時間に限りリハーサル室・練習室を控室等として規定料金の半額で利用できる（2026年10月掲載の貸館利用案内）。",
+   "source": "https://www.parthenon.or.jp/wp-content/uploads/2026/10/a0ab8d709933f0304c957630a560b54f.pdf"
+  },
+  "catering": {
+   "text": "舞台および客席内での飲食・飲酒は禁止（水分補給の蓋付きペットボトル等は可）。食事・ケータリング・飲酒ができるのは会議室1、会議室3・4の一体利用、キッチンラボ、クリエイティブラボ1・2の一体利用、オープンスタジオ（飲酒は不可）。会議室2・5はケータリング不可で軽食のみ。市民ギャラリーは蓋付きの飲み物のみ持込可（2026年11月1日改定の利用目的別区分表）。",
+   "source": "https://www.parthenon.or.jp/wp-content/uploads/2026/10/a0ab8d709933f0304c957630a560b54f.pdf"
+  },
+  "restaurants": {
+   "text": "2階のカフェスタンド『THE CANTINA』は10:00～18:00で、テイクアウトでき、貸室や公園の利用者も利用できる。",
+   "source": "https://www.parthenon.or.jp/guide/facility/"
+  }
+ },
+ "documents": [
+  {
+   "title": "パルテノン多摩 貸館利用案内（2026年10月掲載。利用目的別区分表は2026年11月1日改定）",
+   "url": "https://www.parthenon.or.jp/wp-content/uploads/2026/10/a0ab8d709933f0304c957630a560b54f.pdf"
+  },
+  {
+   "title": "施設利用料金",
+   "url": "https://www.parthenon.or.jp/guide/usage-fee/"
+  },
+  {
+   "title": "大ホール・小ホール パンフレット",
+   "url": "https://www.parthenon.or.jp/download/ParthenonTama_Hall_Pamphlet.pdf"
+  },
+  {
+   "title": "オープンスタジオ 諸室概要資料",
+   "url": "https://www.parthenon.or.jp/wp-content/uploads/2024/04/13a74607ab0c37668dfc59d7b27755ee.pdf"
+  },
+  {
+   "title": "市民ギャラリー 諸室概要資料（2026年1月掲載）",
+   "url": "https://www.parthenon.or.jp/wp-content/uploads/2026/01/bf5b8a92f55c014b960fa81916c61e79.pdf"
+  },
+  {
+   "title": "会議室1-5 諸室概要資料",
+   "url": "https://www.parthenon.or.jp/download/Tama_MeetingRoom_01.pdf"
+  },
+  {
+   "title": "キッチンラボ 諸室概要資料",
+   "url": "https://www.parthenon.or.jp/download/Tama_KitchenLab_01.pdf"
+  },
+  {
+   "title": "クリエイティブラボ 諸室概要資料",
+   "url": "https://www.parthenon.or.jp/download/Tama_CreativeLab_01.pdf"
+  },
+  {
+   "title": "クラフトラボ 諸室概要資料（2025年7月掲載）",
+   "url": "https://www.parthenon.or.jp/wp-content/uploads/2025/07/6e6993ae7e33bbcde21f8cf674dc3793.pdf"
+  },
+  {
+   "title": "リハーサル室・練習室1-3 諸室概要資料（2026年10月掲載）",
+   "url": "https://www.parthenon.or.jp/wp-content/uploads/2026/10/679bca923f55684d3b44e2f02e78d871.pdf"
+  },
+  {
+   "title": "施設利用誓約書（2026年6月掲載）",
+   "url": "https://www.parthenon.or.jp/wp-content/uploads/2026/06/fdbee864d4b8fb3675854277eb5bf1b7.pdf"
+  },
+  {
+   "title": "施設予約システム 一般予約マニュアル（2025年9月掲載）",
+   "url": "https://www.parthenon.or.jp/wp-content/uploads/2025/09/c6cebadeacd82378abade9b2fdab5482.pdf"
+  }
+ ],
+ "checkedAt": "2026-11-07",
+ "lat": 35.621365,
+ "lng": 139.425766,
+ "nearby": {
+  "convenience": [
+   {
+    "name": "ローソン 丘の上パティオ店",
+    "brand": "ローソン",
+    "distanceM": 180,
+    "walkMin": 3,
+    "hours": "24時間営業",
+    "address": "東京都多摩市落合1-45-1",
+    "verified": true,
+    "source": "https://www.areamarker.com/lawson/info/198858",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "ファミリーマート 多摩落合二丁目店",
+    "brand": "ファミリーマート",
+    "distanceM": 239,
+    "walkMin": 3,
+    "hours": "24時間営業",
+    "address": "東京都多摩市落合二丁目10番地 3号",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/58578",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "ファミリーマート ニューシティ多摩センター店",
+    "brand": "ファミリーマート",
+    "distanceM": 245,
+    "walkMin": 4,
+    "hours": "24時間営業",
+    "address": "東京都多摩市落合1-47",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/58244",
+    "note": "距離は公式の店舗位置で計算"
+   }
+  ],
+  "copyshop": [],
+  "hundredYen": [
+   {
+    "name": "3COINS +plus ココリア多摩センター店",
+    "brand": "3COINS",
+    "distanceM": 131,
+    "walkMin": 2,
+    "hours": "10:00-20:00",
+    "address": "東京都多摩市落合1丁目46-1",
+    "verified": true,
+    "source": "https://palcloset.storelocator.jp/shop/2757",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "DAISO ココリア多摩センター店",
+    "brand": "ダイソー",
+    "distanceM": 133,
+    "walkMin": 2,
+    "hours": "10:00-20:00",
+    "address": "東京都多摩市落合1-46-1ココリア多摩センター4階",
+    "verified": true,
+    "source": "https://www.daiso-sangyo.co.jp/shop/detail/008410",
+    "note": "距離は公式の店舗位置で計算"
+   }
+  ],
+  "donki": []
+ },
+ "drinkDelivery": {
+  "available": false
+ },
+ "photo": {
+  "src": "/images/venues/parthenon-tama.jpg",
+  "credit": "© Akonnchiroll / CC BY-SA 4.0 · Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:PARTHENON_TAMA.jpg"
+ }
+}

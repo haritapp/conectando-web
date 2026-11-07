@@ -1,0 +1,114 @@
+{
+ "slug": "ikegami-honmonji-rouho-kaikan",
+ "name": "Ikegami Honmonji Rouho Kaikan",
+ "address": "Tokyo 146-0082 1-2-1 Ikegami, Ota-ku",
+ "accessSummary": "Tokyu Ikegami Line, Ikegami Station: 10 min walk / Toei Asakusa Line, Nishi-Magome Station South Exit: 12 min walk / JR Keihin-Tohoku Line, Omori Station: 20 min by bus bound for Ikegami Station, get off at \"Honmonji-mae\" and walk 5 min (access as described by Ikegami Honmonji)",
+ "hours": "Inquiries accepted 10:00-16:30, open all year (closed Aug 13-15 and Dec 29 - Jan 3). For meetings and training, the hall staff handle everything from the room layout to the setup. Overnight stays are also possible if needed (depending on the content, accommodation, training, etc. may not be accepted). Fees may differ depending on the use (dining, meetings, training, etc.). The capacities in the room table are the seated / standing-buffet values.",
+ "notice": null,
+ "rooms": [
+  {
+   "name": "Rozen (East & West)",
+   "note": "4F, Western-style room. Room fee 44,000 yen per hour (tax included)."
+  },
+  {
+   "name": "Rohō East",
+   "note": "4F, Western-style room. Room fee 24,200 yen per hour (tax included)."
+  },
+  {
+   "name": "Rohō West",
+   "note": "4F, Western-style room. Room fee 19,800 yen per hour (tax included)."
+  },
+  {
+   "name": "Kujaku",
+   "note": "3F, Western-style room. Room fee 17,600 yen per hour (tax included)."
+  },
+  {
+   "name": "Hōō",
+   "note": "3F, Japanese-style room, 45 tatami mats. Room fee 15,400 yen per hour (tax included)."
+  },
+  {
+   "name": "Suehiro / Tsuru and others",
+   "note": "3F, 1 Western-style room. Room fee 6,600 yen per hour (tax included)."
+  },
+  {
+   "name": "Suedaka / Tsurukame",
+   "note": "3F, 2 Western-style rooms. Room fee 13,200 yen per hour (tax included)."
+  },
+  {
+   "name": "Fukuroku",
+   "note": "3F, Japanese-style room, 10 tatami mats. Room fee 4,400 yen per hour (tax included)."
+  },
+  {
+   "name": "Matsu and others",
+   "note": "2F, 1 Japanese-style room, 15 tatami mats. Room fee 5,500 yen per hour (tax included). The Japanese-style rooms on the 2F include a room that is structurally 14 tatami mats."
+  },
+  {
+   "name": "Shōchiku and others",
+   "note": "2F, 2 Japanese-style rooms, 30 tatami mats. Room fee 11,000 yen per hour (tax included)."
+  },
+  {
+   "name": "Kashiwa / Bashō",
+   "note": "2F, Japanese-style rooms, 8 and 10 tatami mats. Room fee 4,400 yen per hour (tax included)."
+  },
+  {
+   "name": "Rintō / Suisen",
+   "note": "2F, 2 Western-style rooms. Room fee 13,200 yen per hour (tax included)."
+  }
+ ],
+ "ops": {
+  "catering": "For meetings and training, boxed meals and tea are available. Outside food and drink are not welcome. (Source: http://honmonji.jp/enjoy/rouho.html)",
+  "restaurants": "There is a restaurant on the 1F, where private-room dining is available with dishes from Ningyocho Imahan (Ikegami Honmonji Store) and the kaiseki restaurant 味彩. Reserve dining by 1 week before the planned date. The number of Ningyocho Imahan dishes that can be served is limited because of the arrangement with the 1F restaurant. (Source: http://honmonji.jp/enjoy/rouho.html)",
+  "parking": "There is a free parking lot right in front, holding about 100 vehicles. (Source: http://honmonji.jp/enjoy/rouho.html)"
+ },
+ "documents": [
+  {
+   "title": "Private Room Price List (revised January 1, 2025)"
+  },
+  {
+   "title": "Rouho Kaikan Rental Equipment List"
+  },
+  {
+   "title": "Floor Plan"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "FamilyMart Ikegami Bunka Center Mae",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "7-Eleven Ota-ku Kugahara 5-chome",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "FamilyMart Ota Ikegami 4-chome",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location."
+   }
+  ],
+  "copyshop": [],
+  "hundredYen": [
+   {
+    "name": "DAISO Ota Ikegami",
+    "hours": "9:30-21:00",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "donki": [
+   {
+    "name": "MEGA Don Quijote Omori Sanno",
+    "hours": "8:00-3:00",
+    "note": "Distance is calculated from the address location. Far."
+   },
+   {
+    "name": "Don Quijote Kamata Ekimae",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. Far. The store name on the Don Quijote official website is \"Kamata Ekimae\"."
+   }
+  ]
+ },
+ "photoCredit": "© Asanagi / CC0 · Wikimedia Commons"
+}

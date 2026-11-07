@@ -131,6 +131,7 @@ export const AREA_LABEL_I: Record<Lang, Record<string, string>> = {
     'east-tokyo-venues': '錦糸町・船堀（東京東部）',
     'yokohama-venues': '横浜',
     'chiba-venues': '千葉（幕張・舞浜）',
+    'saitama-venues': '埼玉（大宮）',
   },
   en: {
     'marunouchi-nihonbashi-venues': 'Tokyo Station / Marunouchi / Otemachi / Nihonbashi',
@@ -148,6 +149,7 @@ export const AREA_LABEL_I: Record<Lang, Record<string, string>> = {
     'east-tokyo-venues': 'Kinshicho & Funabori (East Tokyo)',
     'yokohama-venues': 'Yokohama',
     'chiba-venues': 'Chiba (Makuhari / Maihama)',
+    'saitama-venues': 'Saitama (Omiya)',
   },
 };
 

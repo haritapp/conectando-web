@@ -1,0 +1,135 @@
+{
+ "slug": "josui-kaikan",
+ "name": "Josui Kaikan",
+ "address": "Tokyo 101-0003 2-1-1 Hitotsubashi, Chiyoda-ku",
+ "accessSummary": "Tokyo Metro Tozai Line Takebashi Station Exit 1b: 4 min walk, Exit 3b: 5 min walk / Tokyo Metro Hanzomon Line, Toei Mita Line and Toei Shinjuku Line Jimbocho Station Exits A8 and A9: 4 min walk",
+ "hours": "Conference Room: 10:00-21:00 (open year-round except Dec 29 to Jan 3)",
+ "notice": null,
+ "rooms": [
+  {
+   "name": "Star Hall (2F)",
+   "note": "Seated 100-240 / standing 150-400. Room fee is 88,000 yen for banquets and 176,000 yen for meetings and seminars (2 hours, tax included, service charge not included)."
+  },
+  {
+   "name": "Orion Room (2F)",
+   "note": "Seated 60-100 / standing 80-150. Room fee is 44,000 yen for banquets and 88,000 yen for meetings and seminars (2 hours, tax included, service charge not included)."
+  },
+  {
+   "name": "Pegasus (2F)",
+   "note": "Seated 50-90 / standing 70-120. Room fee is 40,700 yen for banquets and 81,400 yen for meetings and seminars (2 hours, tax included, service charge not included)."
+  },
+  {
+   "name": "Shofu-no-Ma (3F)",
+   "note": "Seated 60-100 / standing 80-150. Room fee is 44,000 yen for banquets and 88,000 yen for meetings and seminars (2 hours, tax included, service charge not included)."
+  },
+  {
+   "name": "Fuji-no-Ma (3F)",
+   "note": "Seated 60-80 / standing 70-120. Room fee is 40,700 yen for banquets and 81,400 yen for meetings and seminars (2 hours, tax included, service charge not included)."
+  },
+  {
+   "name": "Sakura-no-Ma (3F)",
+   "note": "Seated 20-40 / standing 20-50. Room fee is 27,500 yen for banquets and 55,000 yen for meetings and seminars (2 hours, tax included, service charge not included)."
+  },
+  {
+   "name": "Keyaki-no-Ma (3F)",
+   "note": "Seated 20-30 / standing 20-40. Room fee is 19,800 yen for banquets and 39,600 yen for meetings and seminars (2 hours, tax included, service charge not included)."
+  },
+  {
+   "name": "Ume, Take, Kiku, Ran (2F)",
+   "note": "Seated 8-12. Room fee is 6,600 yen for banquets and 13,200 yen for meetings and seminars (2 hours, tax included, service charge not included)."
+  },
+  {
+   "name": "Conference Room (1F)",
+   "note": "Classroom layout 50 seats, hollow-square layout 28 seats. Fee is 49,500 yen for 2 hours (overtime 12,100 yen per 30 minutes). LCD video projector 16,500 yen, 120-inch screen 5,500 yen, fiber-optic internet connection 16,500 yen (all tax included). Bookings are accepted from 1 year before the date of use (9:00-18:00)."
+  }
+ ],
+ "ops": {
+  "catering": "The Conference Room asks that food and drink not be brought in. Boxed lunches start at 3,850 yen, and coffee or tea during a meeting is 605 yen each (tax included, plus a separate service charge). For banquet room decoration, flowers, sound, lighting, entertainment, music, receptionists and gifts, vendors designated by Josui Kaikan must be used (other vendors require Josui Kaikan's prior approval). Off-site catering is available from 30 people, with reservations up to 10 days in advance.",
+  "restaurants": "The building has Restaurant Jupiter and Cafe & Pub Mercury on 1F, the Japanese restaurant Kyohantei on 3F, and Hitotsubashi Club (restaurant and bar lounge) on 14F. The banquet rooms offer party plans from 30 people, with 2 hours of free drinks, as standing or seated buffets."
+ },
+ "documents": [
+  {
+   "title": "Banquet Room Usage Regulations (in effect from January 1, 2016)"
+  },
+  {
+   "title": "Star Hall Sample Layout"
+  },
+  {
+   "title": "Orion Room Sample Layout"
+  },
+  {
+   "title": "Pegasus Sample Layout"
+  },
+  {
+   "title": "Shofu-no-Ma Sample Layout"
+  },
+  {
+   "title": "Fuji-no-Ma Sample Layout"
+  },
+  {
+   "title": "Sakura-no-Ma Sample Layout"
+  },
+  {
+   "title": "Keyaki-no-Ma Sample Layout"
+  },
+  {
+   "title": "Access Map for Printing (May 2018 edition)"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "FamilyMart Palaceside Building",
+    "hours": "7:00-23:00",
+    "note": "Distance is calculated from the store's official location."
+   },
+   {
+    "name": "FamilyMart Terrace Square",
+    "hours": "7:00-23:00",
+    "note": "Distance is calculated from the store's official location."
+   },
+   {
+    "name": "7-Eleven Kanda Nishikicho Chiyoda-dori",
+    "hours": "7:00-23:00 (Mon-Sun & holidays)",
+    "note": "Distance is calculated from the store's official location."
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "Accea Jimbocho",
+    "hours": "Open 24 hours (café use 22:00 to 6:00 the next day is for ID-verified members only)",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Kinko's Jimbocho",
+    "hours": "Weekdays 8:00-20:00 / Closed Sat, Sun & holidays",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "DAISO Kanda-Jimbocho Suzuran-dori",
+    "hours": "10:00-21:00",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Can Do Jimbocho",
+    "hours": "Daily 10:00-21:00",
+    "note": "Distance is calculated from the store's official location."
+   }
+  ],
+  "donki": [
+   {
+    "name": "Don Quijote Akihabara",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. The store name on the Don Quijote official site is \"Akihabara\". Rather far."
+   },
+   {
+    "name": "Don Quijote Korakuen",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. The store name on the Don Quijote official site is \"Korakuen\". Rather far."
+   }
+  ]
+ },
+ "photoCredit": "© 運転太郎 / CC BY 3.0 · Wikimedia Commons"
+}

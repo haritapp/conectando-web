@@ -1,0 +1,284 @@
+{
+ "slug": "josui-kaikan",
+ "nameJa": "如水会館",
+ "nameEn": "",
+ "type": "conference",
+ "area": "kanda-suidobashi-venues",
+ "address": "〒101-0003 東京都千代田区一ツ橋2-1-1",
+ "officialUrl": "https://www.kaikan.co.jp/josui/",
+ "organizerUrl": "https://www.kaikan.co.jp/josui/banquet/",
+ "bizintokyoSlug": "josui-kaikan",
+ "accessSummary": "地下鉄東西線 竹橋駅 1b出口から徒歩4分・3b出口から徒歩5分／地下鉄半蔵門線・都営三田線・都営新宿線 神保町駅 A8・A9出口から徒歩4分",
+ "notice": null,
+ "hours": "コンファレンスルーム：10:00〜21:00（年中無休、12月29日〜1月3日を除く）",
+ "rooms": [
+  {
+   "name": "スターホール（2F）",
+   "areaM2": 462,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": 400,
+   "banquet": 240,
+   "note": "着席100〜240名・立食150〜400名。室料は宴会88,000円・会議セミナー176,000円（2時間・税込、サービス料別）。"
+  },
+  {
+   "name": "オリオンルーム（2F）",
+   "areaM2": 214,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": 150,
+   "banquet": 100,
+   "note": "着席60〜100名・立食80〜150名。室料は宴会44,000円・会議セミナー88,000円（2時間・税込、サービス料別）。"
+  },
+  {
+   "name": "ペガサス（2F）",
+   "areaM2": 181,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": 120,
+   "banquet": 90,
+   "note": "着席50〜90名・立食70〜120名。室料は宴会40,700円・会議セミナー81,400円（2時間・税込、サービス料別）。"
+  },
+  {
+   "name": "松風の間（3F）",
+   "areaM2": 214,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": 150,
+   "banquet": 100,
+   "note": "着席60〜100名・立食80〜150名。室料は宴会44,000円・会議セミナー88,000円（2時間・税込、サービス料別）。"
+  },
+  {
+   "name": "富士の間（3F）",
+   "areaM2": 181,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": 120,
+   "banquet": 80,
+   "note": "着席60〜80名・立食70〜120名。室料は宴会40,700円・会議セミナー81,400円（2時間・税込、サービス料別）。"
+  },
+  {
+   "name": "桜の間（3F）",
+   "areaM2": 99,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": 50,
+   "banquet": 40,
+   "note": "着席20〜40名・立食20〜50名。室料は宴会27,500円・会議セミナー55,000円（2時間・税込、サービス料別）。"
+  },
+  {
+   "name": "けやきの間（3F）",
+   "areaM2": 82,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": 40,
+   "banquet": 30,
+   "note": "着席20〜30名・立食20〜40名。室料は宴会19,800円・会議セミナー39,600円（2時間・税込、サービス料別）。"
+  },
+  {
+   "name": "梅・竹・菊・蘭（2F）",
+   "areaM2": 33,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": 12,
+   "note": "着席8〜12名。室料は宴会6,600円・会議セミナー13,200円（2時間・税込、サービス料別）。"
+  },
+  {
+   "name": "コンファレンスルーム（1F）",
+   "areaM2": null,
+   "ceilingM": null,
+   "theater": null,
+   "school": 50,
+   "ushape": 28,
+   "standing": null,
+   "banquet": null,
+   "note": "スクール席型50席・口の字席型28席。料金は2時間49,500円（超過は30分12,100円）。液晶ビデオプロジェクター16,500円、120インチスクリーン5,500円、光インターネット接続16,500円（いずれも税込）。ご利用日の1年前から受付（9:00〜18:00）。"
+  }
+ ],
+ "roomsSource": "https://www.kaikan.co.jp/josui/banquet/spec/index.html",
+ "ops": {
+  "catering": {
+   "text": "コンファレンスルームは料理・飲物のお持ち込みをご遠慮願うとしている。お弁当は3,850円から、会議中のコーヒー・紅茶は各605円（税込、別途サービス料）。宴会場の装飾・装花・音響・照明・余興・音楽・レセプタント・引出物は如水会館指定の業者を利用する（指定業者以外は事前に如水会館の了解が必要）。会場外へのケータリングは30名から、予約は10日前まで。",
+   "source": "https://www.kaikan.co.jp/josui/banquet/conference/index.html"
+  },
+  "restaurants": {
+   "text": "館内に1Fのレストラン ジュピター・カフェ＆パブ マーキュリー、3Fの日本料理 橋畔亭、14Fの一橋クラブ（レストラン・バーラウンジ）がある。宴会場では30名から2時間フリードリンクの立食・着席ブッフェのパーティプランがある。",
+   "source": "https://www.kaikan.co.jp/josui/floor.html"
+  }
+ },
+ "documents": [
+  {
+   "title": "宴会場ご利用規定（2016年1月1日施行）",
+   "url": "http://ap.tokyokaikan.jp/josui/%E5%A6%82%E6%B0%B4%E4%BC%9A%E9%A4%A8%E5%88%A9%E7%94%A8%E8%A6%8F%E5%AE%9A1.pdf"
+  },
+  {
+   "title": "スターホール サンプルレイアウト",
+   "url": "http://ap.tokyokaikan.jp/josui/images/star.pdf"
+  },
+  {
+   "title": "オリオンルーム サンプルレイアウト",
+   "url": "http://ap.tokyokaikan.jp/josui/images/orion.pdf"
+  },
+  {
+   "title": "ペガサス サンプルレイアウト",
+   "url": "http://ap.tokyokaikan.jp/josui/images/pegasus.pdf"
+  },
+  {
+   "title": "松風の間 サンプルレイアウト",
+   "url": "http://ap.tokyokaikan.jp/josui/images/matsukaze.pdf"
+  },
+  {
+   "title": "富士の間 サンプルレイアウト",
+   "url": "http://ap.tokyokaikan.jp/josui/images/fuji.pdf"
+  },
+  {
+   "title": "桜の間 サンプルレイアウト",
+   "url": "http://ap.tokyokaikan.jp/josui/images/sakura.pdf"
+  },
+  {
+   "title": "けやきの間 サンプルレイアウト",
+   "url": "http://ap.tokyokaikan.jp/josui/images/keyaki.pdf"
+  },
+  {
+   "title": "アクセス印刷用マップ（2018年5月版）",
+   "url": "http://ap.tokyokaikan.jp/josui/images/josui_map_1805.pdf"
+  }
+ ],
+ "checkedAt": "2026-11-07",
+ "lat": 35.692333,
+ "lng": 139.758148,
+ "nearby": {
+  "convenience": [
+   {
+    "name": "ファミリーマート パレスサイドビル店",
+    "brand": "ファミリーマート",
+    "distanceM": 194,
+    "walkMin": 3,
+    "hours": "7:00-23:00",
+    "address": "東京都千代田区一ツ橋1丁目1-1 パレスサイドビル",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/23744",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "ファミリーマート テラススクエア店",
+    "brand": "ファミリーマート",
+    "distanceM": 221,
+    "walkMin": 3,
+    "hours": "7:00-23:00",
+    "address": "東京都千代田区神田錦町3丁目 22番地",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/22762",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "セブン-イレブン 神田錦町千代田通り店",
+    "brand": "セブン-イレブン",
+    "distanceM": 242,
+    "walkMin": 4,
+    "hours": "7:00-23:00（月〜日・祝）",
+    "address": "東京都千代田区神田錦町3丁目11番地",
+    "verified": true,
+    "source": "https://seven-eleven.areamarker.com/711map/info/383410",
+    "note": "距離は公式の店舗位置で計算"
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "アクセア 神保町店",
+    "brand": "アクセア",
+    "distanceM": 422,
+    "walkMin": 6,
+    "hours": "24時間営業（22時〜翌6時のカフェ利用は本人確認済みの会員のみ）",
+    "address": "東京都千代田区神田神保町1-10 角谷ビル1・2F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/entry.html",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "キンコーズ・神保町店",
+    "brand": "キンコーズ",
+    "distanceM": 609,
+    "walkMin": 8,
+    "hours": "平日 8:00-20:00／土・日・祝 休業",
+    "address": "東京都千代田区神田神保町3丁目10-4 NABOCUL TOWER 1F",
+    "verified": true,
+    "source": "https://www.kinkos.co.jp/store/tokyo/t038/",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "DAISO 神田神保町すずらん通り店",
+    "brand": "ダイソー",
+    "distanceM": 434,
+    "walkMin": 6,
+    "hours": "10:00-21:00",
+    "address": "東京都千代田区神田神保町1-1-17 東京堂神保町第3ビルディング 1階",
+    "verified": true,
+    "source": "https://www.daiso-sangyo.co.jp/shop/detail/008732",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "Can★Do 神保町店",
+    "brand": "キャンドゥ",
+    "distanceM": 503,
+    "walkMin": 7,
+    "hours": "毎日 10:00-21:00",
+    "address": "東京都千代田区神田神保町2-14",
+    "verified": true,
+    "source": "https://shopinfo.cando-web.co.jp/detail/shop-5053/",
+    "note": "距離は公式の店舗位置で計算"
+   }
+  ],
+  "donki": [
+   {
+    "name": "ドン・キホーテ 秋葉原店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 1535,
+    "walkMin": 20,
+    "hours": "24時間営業",
+    "address": "東京都千代田区外神田4丁目3-3",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=98",
+    "note": "距離は住所の位置で計算。ドン・キホーテ公式サイトの店舗名は「秋葉原店」。遠め"
+   },
+   {
+    "name": "ドン・キホーテ 後楽園店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 1554,
+    "walkMin": 20,
+    "hours": "24時間営業",
+    "address": "東京都文京区本郷1-33-9",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=343",
+    "note": "距離は住所の位置で計算。ドン・キホーテ公式サイトの店舗名は「後楽園店」。遠め"
+   }
+  ]
+ },
+ "drinkDelivery": {
+  "available": true
+ },
+ "photo": {
+  "src": "/images/venues/josui-kaikan.jpg",
+  "credit": "© 運転太郎 / CC BY 3.0 · Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E5%A6%82%E6%B0%B4%E4%BC%9A%E8%88%98_-_panoramio.jpg"
+ }
+}

@@ -1,0 +1,374 @@
+{
+ "slug": "keidanren-kaikan-conference",
+ "nameJa": "経団連会館カンファレンス",
+ "nameEn": "Keidanren Kaikan Conference",
+ "type": "conference",
+ "area": "marunouchi-nihonbashi-venues",
+ "address": "〒100-0004 東京都千代田区大手町1-3-2 経団連会館",
+ "officialUrl": "http://www.keidanren-kaikan.jp/",
+ "organizerUrl": "http://www.keidanren-kaikan.jp/riyou.html",
+ "bizintokyoSlug": "keidanren-kaikan-conference",
+ "accessSummary": "東京メトロ「大手町」駅 C2b出口直結",
+ "notice": "会員以外の利用は、会員の紹介状（所定）・前受金等が必要（2026年4月1日改訂）",
+ "hours": "月曜日～土曜日 9:00～21:00（日曜日、祝祭日、年末年始（12月30日～1月3日）は休館）",
+ "rooms": [
+  {
+   "name": "経団連ホール",
+   "areaM2": 533,
+   "theater": 504,
+   "school": 280,
+   "ushape": null,
+   "standing": 500,
+   "banquet": null,
+   "note": "2階。同時通訳設備あり。公式表の「パーティー」の人数を standing に記載",
+   "ceilingM": null
+  },
+  {
+   "name": "経団連ホール（北）",
+   "areaM2": 254,
+   "theater": 300,
+   "school": 126,
+   "ushape": 68,
+   "standing": 240,
+   "banquet": null,
+   "note": "2階。同時通訳設備あり",
+   "ceilingM": null
+  },
+  {
+   "name": "経団連ホール（南）",
+   "areaM2": 254,
+   "theater": 300,
+   "school": 126,
+   "ushape": 68,
+   "standing": 240,
+   "banquet": null,
+   "ceilingM": null
+  },
+  {
+   "name": "国際会議場（ゴールデンルーム）",
+   "areaM2": 576,
+   "theater": null,
+   "school": 264,
+   "ushape": null,
+   "standing": 600,
+   "banquet": null,
+   "note": "2階。同時通訳設備あり。2階固定席110席",
+   "ceilingM": null
+  },
+  {
+   "name": "ダイアモンドルーム",
+   "areaM2": 470,
+   "theater": null,
+   "school": 270,
+   "ushape": null,
+   "standing": 400,
+   "banquet": null,
+   "note": "4階（401・2号室）。同時通訳設備あり",
+   "ceilingM": null
+  },
+  {
+   "name": "ダイアモンドルーム（北）",
+   "areaM2": 227,
+   "theater": 260,
+   "school": 112,
+   "ushape": 60,
+   "standing": 180,
+   "banquet": null,
+   "note": "401号室。同時通訳設備あり",
+   "ceilingM": null
+  },
+  {
+   "name": "ダイアモンドルーム（南）",
+   "areaM2": 224,
+   "theater": 260,
+   "school": 112,
+   "ushape": 60,
+   "standing": 180,
+   "banquet": null,
+   "note": "402号室。同時通訳設備あり",
+   "ceilingM": null
+  },
+  {
+   "name": "室町の間",
+   "areaM2": 62,
+   "theater": null,
+   "school": null,
+   "ushape": 24,
+   "standing": 40,
+   "banquet": null,
+   "note": "403号室",
+   "ceilingM": null
+  },
+  {
+   "name": "桃山の間",
+   "areaM2": 124,
+   "theater": null,
+   "school": null,
+   "ushape": 36,
+   "standing": 70,
+   "banquet": null,
+   "note": "404号室",
+   "ceilingM": null
+  },
+  {
+   "name": "パールルーム",
+   "areaM2": 238,
+   "theater": 264,
+   "school": 108,
+   "ushape": 60,
+   "standing": 200,
+   "banquet": null,
+   "note": "5階（501・2号室）",
+   "ceilingM": null
+  },
+  {
+   "name": "パールルーム（北）",
+   "areaM2": 105,
+   "theater": 132,
+   "school": 48,
+   "ushape": 36,
+   "standing": 70,
+   "banquet": null,
+   "note": "501号室",
+   "ceilingM": null
+  },
+  {
+   "name": "パールルーム（南）",
+   "areaM2": 127,
+   "theater": 132,
+   "school": 48,
+   "ushape": 40,
+   "standing": 80,
+   "banquet": null,
+   "note": "502号室",
+   "ceilingM": null
+  },
+  {
+   "name": "ルビールーム",
+   "areaM2": 256,
+   "theater": 264,
+   "school": 108,
+   "ushape": 60,
+   "standing": 200,
+   "banquet": null,
+   "note": "5階（503・4号室）",
+   "ceilingM": null
+  },
+  {
+   "name": "ルビールーム（北）",
+   "areaM2": 127,
+   "theater": 132,
+   "school": 48,
+   "ushape": 40,
+   "standing": 80,
+   "banquet": null,
+   "note": "503号室",
+   "ceilingM": null
+  },
+  {
+   "name": "ルビールーム（南）",
+   "areaM2": 125,
+   "theater": 132,
+   "school": 48,
+   "ushape": 40,
+   "standing": 80,
+   "banquet": null,
+   "note": "504号室",
+   "ceilingM": null
+  },
+  {
+   "name": "飛鳥の間",
+   "areaM2": 62,
+   "theater": 60,
+   "school": 32,
+   "ushape": 24,
+   "standing": 40,
+   "banquet": null,
+   "note": "505号室",
+   "ceilingM": null
+  },
+  {
+   "name": "天平の間",
+   "areaM2": 62,
+   "theater": 60,
+   "school": 32,
+   "ushape": 24,
+   "standing": 40,
+   "banquet": null,
+   "note": "506号室",
+   "ceilingM": null
+  },
+  {
+   "name": "平安の間",
+   "areaM2": 62,
+   "theater": 60,
+   "school": 32,
+   "ushape": 24,
+   "standing": 40,
+   "banquet": null,
+   "note": "507号室",
+   "ceilingM": null
+  }
+ ],
+ "roomsSource": "http://www.keidanren-kaikan.jp/room.html",
+ "ops": {
+  "prevDaySetup": {
+   "text": "会合の前日・当日の準備や片付けの時間は、使用料金の算定対象になる。会合に伴う荷物は前日から預かり、主催者が事前に担当スタッフへ連絡のうえ、ご利用日と主催者名を明記して経団連会館営業センター宛に送る。同時通訳設備を使う場合は開始の2時間前から、映像を伴う会合はリハーサル等に必要な時間を含めて会場を押さえる（2026年4月1日改訂）。",
+   "source": "http://www.keidanren-kaikan.jp/riyou.html"
+  },
+  "vehicleRules": {
+   "text": "自動車で荷物を搬出入する場合は、事前に担当スタッフへ連絡する。地下2階に荷捌場があり、30分以内に出庫する場合は無料（混み合う場合あり）。運搬用エレベーターで搬入できない荷物の持込みは断られる（2026年4月1日改訂）。",
+   "source": "http://www.keidanren-kaikan.jp/riyou.html"
+  },
+  "parking": {
+   "text": "地下2階の共用駐車場を1台30分毎300円（税込）で利用でき、支払いは出口での現金精算。バス、トラック等の大型車両は駐車できない（2026年4月1日改訂）。",
+   "source": "http://www.keidanren-kaikan.jp/riyou.html"
+  },
+  "catering": {
+   "text": "会議室の利用は料理または飲物と合わせて予約する。運営はパレスホテルに委託されており、料理・飲物は館側が提供し、持込みは固くお断りとされている。会議時間帯の利用は原則としてケーキセット（ケーキとコーヒーまたは紅茶）の予約を伴う。食事時間帯は12:00～14:00、18:00～21:00で、この時間帯を含む利用は食事の予約とともに受け付ける。パーティー8,800円・11,000円、正餐7,700円・9,900円・14,300円、お弁当6,050円より（ランチ）、会席14,850円などのサンプルメニュー（税込。2026年9月1日改定の価格）。メニューの指定は5営業日前まで。",
+   "source": "http://www.keidanren-kaikan.jp/syokuji.html"
+  }
+ },
+ "documents": [
+  {
+   "title": "ご利用のご案内（2026年4月1日改訂）",
+   "url": "http://www.keidanren-kaikan.jp/riyou.html"
+  },
+  {
+   "title": "料金表（会議場使用料金・付帯設備料金）",
+   "url": "http://www.keidanren-kaikan.jp/ryokin.html"
+  },
+  {
+   "title": "会議室のご案内（部屋表）",
+   "url": "http://www.keidanren-kaikan.jp/room.html"
+  },
+  {
+   "title": "お料理・お飲物のご案内",
+   "url": "http://www.keidanren-kaikan.jp/syokuji.html"
+  },
+  {
+   "title": "アクセス",
+   "url": "http://www.keidanren-kaikan.jp/map.html"
+  }
+ ],
+ "checkedAt": "2026-11-07",
+ "lat": 35.690128,
+ "lng": 139.762375,
+ "nearby": {
+  "convenience": [
+   {
+    "name": "ローソン 神田錦町店",
+    "brand": "ローソン",
+    "distanceM": 167,
+    "walkMin": 3,
+    "hours": "7:00-20:00",
+    "address": "東京都千代田区神田錦町3-15",
+    "verified": true,
+    "source": "https://www.areamarker.com/lawson/info/344001",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "セブン-イレブン 神田錦町千代田通り店",
+    "brand": "セブン-イレブン",
+    "distanceM": 263,
+    "walkMin": 4,
+    "hours": "7:00-23:00（月〜日・祝）",
+    "address": "東京都千代田区神田錦町3丁目11番地",
+    "verified": true,
+    "source": "https://seven-eleven.areamarker.com/711map/info/383410",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "ローソン 大手町フィナンシャルシティグランキューブ店",
+    "brand": "ローソン",
+    "distanceM": 289,
+    "walkMin": 4,
+    "hours": "7:00-23:00",
+    "address": "東京都千代田区大手町1-9-2",
+    "verified": true,
+    "source": "https://www.areamarker.com/lawson/info/243300",
+    "note": "距離は公式の店舗位置で計算"
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "アクセア 内神田店",
+    "brand": "アクセア",
+    "distanceM": 385,
+    "walkMin": 5,
+    "hours": "平日・土日祝 8:00-22:00（セルフアクセア。アクセアカフェの営業時間内）",
+    "address": "東京都千代田区内神田1丁目11-10 コハラビル本館1F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/entry.html",
+    "note": "距離は住所の位置で計算。セルフサービス店舗（フルサービスの注文・受取も可能）"
+   },
+   {
+    "name": "アクセア 大手町店",
+    "brand": "アクセア",
+    "distanceM": 423,
+    "walkMin": 6,
+    "hours": "24時間営業（年中無休）",
+    "address": "東京都千代田区内神田2-2-6 田中ビル1F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/entry.html",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "DAISO 神田神保町すずらん通り店",
+    "brand": "ダイソー",
+    "distanceM": 636,
+    "walkMin": 8,
+    "hours": "10:00-21:00",
+    "address": "東京都千代田区神田神保町1-1-17 東京堂神保町第3ビルディング 1階",
+    "verified": true,
+    "source": "https://www.daiso-sangyo.co.jp/shop/detail/008732",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "Can★Do 丸の内オアゾ店",
+    "brand": "キャンドゥ",
+    "distanceM": 781,
+    "walkMin": 10,
+    "hours": "月〜金 8:00-22:00／土〜日 9:00-21:00",
+    "address": "東京都千代田区丸の内1-6-4 丸の内オアゾ地下1階",
+    "verified": true,
+    "source": "https://shopinfo.cando-web.co.jp/detail/shop-5550/",
+    "note": "距離は公式の店舗位置で計算"
+   }
+  ],
+  "donki": [
+   {
+    "name": "ドン・キホーテ 秋葉原店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 1443,
+    "walkMin": 19,
+    "hours": "24時間営業",
+    "address": "東京都千代田区外神田4丁目3-3",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=98",
+    "note": "距離は住所の位置で計算。ドン・キホーテ公式サイトの店舗名は「秋葉原店」。遠め"
+   },
+   {
+    "name": "ドン・キホーテ 後楽園店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 1901,
+    "walkMin": 24,
+    "hours": "24時間営業",
+    "address": "東京都文京区本郷1-33-9",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=343",
+    "note": "距離は住所の位置で計算。ドン・キホーテ公式サイトの店舗名は「後楽園店」。遠い"
+   }
+  ]
+ },
+ "drinkDelivery": {
+  "available": true
+ },
+ "photo": {
+  "src": "/images/venues/keidanren-kaikan-conference.jpg",
+  "credit": "© RESPITE / CC0 · Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Keidanren_Kaikan.jpg"
+ }
+}

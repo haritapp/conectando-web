@@ -1,0 +1,122 @@
+{
+ "slug": "lutheran-ichigaya-center",
+ "name": "Lutheran Ichigaya Center",
+ "address": "Tokyo 162-0842 1-1 Ichigaya-Sadohara-cho, Shinjuku-ku",
+ "accessSummary": "Tokyo Metro Yurakucho Line & Namboku Line Ichigaya Station Exits 5 and 6: 2 min walk / JR Sobu Line Ichigaya Station ground-level exit: 7 min walk / Toei Shinjuku Line Ichigaya Station Exit A1: 7 min walk",
+ "hours": "Both the Hall and meeting rooms can be used 9:00-21:30 (on Sundays, from 13:00 or 15:00 for the Hall and from 15:00 for meeting rooms). Inquiries for the Hall and Community Rooms 9:00-18:00",
+ "notice": "Religious events and gatherings cannot be held (Hall Rules of Use, August 2026).",
+ "rooms": [
+  {
+   "name": "Lutheran Ichigaya Hall",
+   "note": "200 fixed seats. Stage: 9 m deep x 14 m wide, 24 cm high; seating area: 12 m deep x 14 m wide; lobby: 6 m deep x 14 m wide. Available power up to 5 kW. There is no stage-right wing, and the stage is accessed only from the stage-left wing"
+  },
+  {
+   "name": "Large Meeting Room (Meeting Room 1 + Meeting Room 2)",
+   "note": "2F. The partition between the medium and small meeting rooms is open. Available power 80 A. The area is given as 135㎡ on the price list page and 130 m² on the meeting room introduction page (the price list page value is used)"
+  },
+  {
+   "name": "Medium Meeting Room (Meeting Room 1)",
+   "note": "2F. Available power 40 A"
+  },
+  {
+   "name": "Small Meeting Room (Meeting Room 2)",
+   "note": "2F. Available power 40 A"
+  }
+ ],
+ "ops": {
+  "prevDaySetup": "Rental time includes everything from entering the building, load-in and setup to leaving, restoring the room and load-out, and entry outside the rental time is not permitted (paid arrangement or leave the building). When renting on consecutive days, if you book through the evening and have also booked the next morning, belongings can be left in place, but if the bookings are not consecutive, other bookings may come in, so move items out of the room. For meeting rooms, if you tell them the table layout by the morning of the previous day, it will be prepared in advance, and if the rooms before and after are vacant, you can enter 5 minutes early. (Hall Rules of Use, August 2026; FAQ)",
+  "loadingHours": "The load-in/out entrance is only the main front entrance used by visitors, and a slope is used for heavy items. If sending items in advance, please inquire as handling varies by quantity, and specify receipt for the event day or arrival the day before. Because stairs or the slope are used, confirm before booking whether loading instruments in and out is possible.",
+  "parking": "The parking lot has 4 spaces in total. Organizers of the Hall and meeting rooms can reserve only 1 space (a 2nd and further vehicles can park whenever space is available). Visitors park on a first-come, first-served basis, and it is often full until 21:00. If it is full, use a nearby coin parking lot (the nearest is a 30-second walk).",
+  "waitingRooms": "The Hall has 1 dressing room by the stage wing that can be used by about 4 people, with double doors and a permanently installed upright piano. When there are many performers, a meeting room can be split into 2 rooms, a men's waiting room and a women's waiting room (eating and drinking allowed). For changing clothes or long gaps, a guest room can be used as a waiting room (instruments cannot be played in guest rooms).",
+  "catering": "For meeting rooms, boxed meals from a caterer (including tea and soup) can be arranged freely at no additional charge. When ordering catering for a party or banquet, prior consultation is required and 10% of the meeting room usage fee is added. The designated caterers are Ningyocho Imahan, Kaiseki Ryori Aoyama, Meijiza, Shiki and Ajikobo Suisen, and orders are placed through the Center. In the Hall, eating and drinking is strictly prohibited in the seating area and on the stage, and is allowed only in the lobby and waiting rooms. The corkage fee for drinks for the Hall's drink service is 4,400 yen (soft drinks) and 8,800 yen (including alcoholic drinks) (tax included, 2026 price list).",
+  "restaurants": "There is no restaurant or coffee shop in the building. There are 2 drink vending machines on the 2nd floor, where the meeting rooms are."
+ },
+ "documents": [
+  {
+   "title": "Hall Price List (2026 edition)"
+  },
+  {
+   "title": "Lutheran Ichigaya Center Rules of Use (Hall, August 2026)"
+  },
+  {
+   "title": "Meeting Room Rules of Use (November 2018)"
+  },
+  {
+   "title": "Accommodation Terms (revised July 2026)"
+  },
+  {
+   "title": "Meeting Room Price List & Guide"
+  },
+  {
+   "title": "Hall Guide"
+  },
+  {
+   "title": "Hall Seating & Stage Drawing"
+  },
+  {
+   "title": "Large Meeting Room Classroom-style Layout Drawing"
+  },
+  {
+   "title": "Medium Meeting Room U-shaped Layout Drawing"
+  },
+  {
+   "title": "Small Meeting Room U-shaped Layout Drawing"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "FamilyMart Ichigaya Tamachi",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "FamilyMart Shinjuku Ichigaya Mitsuke",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "FamilyMart Ichigaya",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location."
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "Accea Ichigaya Hachimancho",
+    "hours": "Weekdays 8:00-22:00 / Closed Sat, Sun & holidays",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Accea Ichigaya",
+    "hours": "Weekdays 8:00-22:00 / Sat 10:00-19:00 / Closed Sun & holidays",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "DAISO Kusuri no Fukutaro Ichigaya Yanagicho",
+    "hours": "10:00-22:00",
+    "note": "Distance is calculated from the address location. Rather far."
+   },
+   {
+    "name": "Can Do Iidabashi Lamla",
+    "hours": "Daily 10:00-21:00",
+    "note": "Distance is calculated from the official store location. Rather far."
+   }
+  ],
+  "donki": [
+   {
+    "name": "Don Quijote Korakuen",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. The store name on the Don Quijote official website is \"Korakuen\" (後楽園店). Far."
+   },
+   {
+    "name": "Picasso Akasaka (Don Quijote)",
+    "hours": "7:00-3:00",
+    "note": "Distance is calculated from the address location. The store name on the Don Quijote official website is \"Picasso Akasaka\" (ピカソ赤坂店). A different Don Quijote store format. Far."
+   }
+  ]
+ },
+ "photoCredit": "Image shows an exit of JR Ichigaya Station, the nearest station, not the venue building. © 江戸村のとくぞう / CC BY-SA 4.0 · Wikimedia Commons"
+}

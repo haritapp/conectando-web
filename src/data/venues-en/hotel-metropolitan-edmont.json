@@ -1,0 +1,142 @@
+{
+ "slug": "hotel-metropolitan-edmont",
+ "name": "Hotel Metropolitan Edmont Tokyo",
+ "address": "Tokyo 102-8130 3-10-8 Iidabashi, Chiyoda-ku",
+ "accessSummary": "JR Iidabashi Station East Exit / JR Suidobashi Station West Exit: about 5 min walk / Tokyo Metro Tozai Line, Iidabashi Station Exit A5: about 2 min walk / Tokyo Metro Yurakucho Line and Namboku Line, Iidabashi Station Exit A2: about 5 min walk / Toei Oedo Line, Iidabashi Station: about 7 min walk / Toei Mita Line, Suidobashi Station Exit A2: about 8 min walk",
+ "hours": null,
+ "notice": null,
+ "rooms": [
+  {
+   "name": "Crystal Hall (Main Building 1F)",
+   "note": "Width x depth 11 x 18.5 m. U-shape: 60 people."
+  },
+  {
+   "name": "Yukyu (Main Building 2F)",
+   "note": "Width x depth 22 x 16.5 m. U-shape: 90 people. Equipped with large screens (220 inch/180 inch) and high-luminosity projectors."
+  },
+  {
+   "name": "Banri (Main Building 2F)",
+   "note": "Width x depth 22 x 14.5 m. U-shape: 80 people."
+  },
+  {
+   "name": "Hakoh (Main Building 2F)",
+   "note": "Width x depth 11 x 13 m. U-shape: 45 people."
+  },
+  {
+   "name": "Kunpu (Main Building 2F)",
+   "note": "Width x depth 11 x 13 m. U-shape: 45 people."
+  },
+  {
+   "name": "Kousai (Main Building 3F)",
+   "note": "Width x depth 15.5 x 12.5 m. U-shape: 45 people."
+  },
+  {
+   "name": "Shunkin (Main Building 3F)",
+   "note": "Width x depth 11 x 13.5 m. U-shape: 50 people."
+  },
+  {
+   "name": "Chidori (Main Building 3F)",
+   "note": "Width x depth 11 x 13.5 m. U-shape: 50 people."
+  },
+  {
+   "name": "Bubaria (Main Building 3F)",
+   "note": "Width x depth 6 x 10 m. U-shape: 25 people."
+  },
+  {
+   "name": "Seseragi (Main Building 3F)",
+   "note": "Width x depth 8.5 x 6.5 m. U-shape: 15 people."
+  },
+  {
+   "name": "Matsukaze (Main Building 3F)",
+   "note": "Width x depth 8.5 x 6.5 m. U-shape: 15 people."
+  },
+  {
+   "name": "Hanabusa (Main Building 3F)",
+   "note": "Width x depth 8.5 x 6.5 m. U-shape: 15 people."
+  },
+  {
+   "name": "Fujinami (Main Building 3F)",
+   "note": "Width x depth 6 x 7.5 m."
+  }
+ ],
+ "ops": {
+  "prevDaySetup": "Use of a banquet room, from setup to teardown, must be completed within the contracted time. Setup time and teardown time before and after the banquet are free up to a total of 1 hour; beyond 1 hour, an extension fee is charged according to the excess time. Depending on when the room is next used, an overrun may not be possible. Party use is basically 2 hours, and extensions can be discussed. (Source: Banquet Hall Terms of Use, April 2025 edition; FAQ)",
+  "loadingHours": "Packages for a meeting or event can be sent in advance to the hotel front desk, with the banquet name, date and room name written on them. For decorations and entertainment equipment or materials brought in by vendors other than those designated by the hotel, the hotel decides the load-in, load-out and installation times in consultation with the vendor. If hotel staff must be present, a charge for the attendant's labor applies. (Source: Banquet Hall Terms of Use, April 2025 edition)",
+  "parking": "The hotel has a parking lot. The fee is 700 yen for the first hour and 400 yen per 30 minutes after that. Banquet room users park free for up to 4 hours. Parking cannot be reserved and is served on a first-come basis. If the lot is full, a partner parking lot nearby is offered at the same fee. Mechanical parking [Unit 1]: height 1 m 62 cm, width 2 m 05 cm, length 5 m 75 cm; [Unit 2]: height 2 m 05 cm, width 2 m 05 cm, length 5 m 70 cm; underground parking: height 1 m 90 cm, width 1 m 95 cm, length 5 m 30 cm. Large vehicles (buses, trucks, etc.) are in principle not accepted. (Source: FAQ)",
+  "waitingRooms": "The 5 small banquet rooms on the Main Building 3F (Bubaria, Seseragi, Matsukaze, Hanabusa and Fujinami; 50 to 60㎡) can be used for small meetings and meals, and also as waiting rooms. (Source: Small banquet rooms page)",
+  "restaurants": "The hotel has 8 dining facilities: French restaurant FOURGRAINS (Main Building 1F); Japanese restaurant Hirakawa, teppanyaki Yamahiko, sushi Umihiko, bar Carousel and Chinese restaurant Nangoku Shuka (Main Building B1F); Dining Cafe Beltempo; and Patisserie Edmont. (Source: Facilities page)"
+ },
+ "documents": [
+  {
+   "title": "Banquet Hall Terms of Use (April 2025 edition)"
+  },
+  {
+   "title": "Area and Capacity List"
+  },
+  {
+   "title": "Floor Map (October 2026 edition)"
+  },
+  {
+   "title": "Fact Sheet (September 2026 edition)"
+  },
+  {
+   "title": "Access Map"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "FamilyMart Iidabashi 3-chome",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "FamilyMart Tokyo Kuseikaikan",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "FamilyMart Iidabashi 2-chome",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location."
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "Accea Iidabashi",
+    "hours": "Weekdays 8:00-22:00 / Sat 10:00-19:00 / Closed Sun & holidays",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Accea Iidabashi Ekimae",
+    "hours": "Open 24 hours on weekdays (open continuously from 8:00 Monday morning to 19:00 Saturday evening) / Sat until 19:00, Sun & holidays 10:00-19:00 (open continuously on weekdays that fall on the day before a holiday)",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Can Do Iidabashi Lamla",
+    "hours": "Daily 10:00-21:00",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "3COINS Iidabashi Metropia",
+    "hours": "Weekdays 8:00-21:00 / Sat, Sun & holidays 9:00-21:00",
+    "note": "Distance is calculated from the official store location."
+   }
+  ],
+  "donki": [
+   {
+    "name": "Don Quijote Korakuen",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. The store name on the Don Quijote official website is \"Korakuen\"."
+   },
+   {
+    "name": "Don Quijote Akihabara",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. Far. The store name on the Don Quijote official website is \"Akihabara\"."
+   }
+  ]
+ },
+ "photoCredit": "© Kamemaru2000 / CC BY-SA 3.0 · Wikimedia Commons"
+}

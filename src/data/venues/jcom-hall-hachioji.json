@@ -1,0 +1,225 @@
+{
+ "slug": "jcom-hall-hachioji",
+ "nameJa": "J:COMホール八王子（八王子市民会館）",
+ "nameEn": "",
+ "type": "hall",
+ "area": "tama-venues",
+ "address": "〒192-0904 東京都八王子市子安町4-7-1 サザンスカイタワー八王子 4F",
+ "officialUrl": "https://jcom.hall-info.jp/",
+ "organizerUrl": "https://jcom.hall-info.jp/info/",
+ "bizintokyoSlug": "jcom-hall-hachioji",
+ "accessSummary": "JR八王子駅南口直結／京王八王子駅から徒歩7分",
+ "notice": null,
+ "hours": "9:00〜22:00（休館日：12月29日〜1月3日、サザンスカイタワー八王子の全館休館日。設備保守点検日はホール総合受付のみ営業）",
+ "rooms": [
+  {
+   "name": "ホール",
+   "areaM2": null,
+   "ceilingM": 26,
+   "theater": 2021,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "最大2,021席（固定席1,869席、親子席8席、立見席144席）。音響反射板設置時は1,832席（固定席1,680席、親子席8席、立見席144席）。舞台は間口18m・奥行20m（音響反射板設置時は前舞台をせり上げて奥行13m）、プロセニアム高さ11m、天井高26m（すのこまで）。"
+  },
+  {
+   "name": "リハーサル室",
+   "areaM2": 99,
+   "ceilingM": 3.2,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "14.4m×6.9m。アップライトピアノ付き。利用料金は午前4,000円・午後7,000円・夜間8,000円・全日17,000円（税込）。利用したいページには面積110㎡とある。"
+  }
+ ],
+ "roomsSource": "https://jcom.hall-info.jp/about/rehearsal.html",
+ "ops": {
+  "vehicleRules": {
+   "text": "機材等の搬出入口はサザンスカイタワー八王子1階の荷捌駐車場内にある。貨物自動車の荷役作業は、最大積載量2トン以上5トン未満の車両でも昇降設備の設置と保護帽の着用が必要（2023年10月1日施行）で、テールゲートリフターの操作者には特別教育（学科4時間・実技2時間）が必要（2024年2月1日施行）。",
+   "source": "https://jcom.hall-info.jp/info/info.html"
+  },
+  "parking": {
+   "text": "ホール専用の駐車場はない。サザンスカイタワー八王子地下および近隣の有料駐車場を利用する。タイムズサザンスカイパーキング（24時間営業）は1時間440円・上限1,400円、駐太郎（24時間営業）は1時間420円・上限1,100円。駐車禁止除外指定車や障害者手帳等の交付を受けた方が運転・同乗する車両は、タイムズサザンスカイパーキングの駐車サービスを受けられる。",
+   "source": "https://jcom.hall-info.jp/access/"
+  },
+  "waitingRooms": {
+   "text": "楽屋は10室（4階・5階。大2室、中4室、小4室）で、楽屋1は18.7㎡でシャワー・トイレ付き、ほかは13.5〜48.3㎡。主催者控室、控室、楽屋事務室の備品（テーブル・椅子など）は無料で貸し出される。",
+   "source": "https://jcom.hall-info.jp/about/dressing_room.html"
+  },
+  "catering": {
+   "text": "ホール客席内での飲食は禁止。5階グランドホワイエのビュッフェは営業が公演により異なる。",
+   "source": "https://jcom.hall-info.jp/about/faq.html"
+  },
+  "restaurants": {
+   "text": "サザンスカイタワー八王子内にレストラン・カフェがある。5階グランドホワイエにビュッフェと飲み物の自動販売機がある（ビュッフェの営業は公演により異なる）。",
+   "source": "https://jcom.hall-info.jp/about/faq.html"
+  }
+ },
+ "documents": [
+  {
+   "title": "ご利用案内（2021年4月版）",
+   "url": "https://jcom.hall-info.jp/file/about_use210401.pdf"
+  },
+  {
+   "title": "ホール利用料金 改定のお知らせ（2027年4月1日利用分から）",
+   "url": "https://jcom.hall-info.jp/file/hall_price202704.pdf"
+  },
+  {
+   "title": "貸し出し休止期間のお知らせ（2026年8月1日）",
+   "url": "https://jcom.hall-info.jp/file/hall_construction.pdf"
+  },
+  {
+   "title": "受付カード",
+   "url": "https://jcom.hall-info.jp/file/receptionistcard_0401.pdf"
+  },
+  {
+   "title": "座席表-1（2021年4月版）",
+   "url": "https://jcom.hall-info.jp/file/seat120210401.pdf"
+  },
+  {
+   "title": "座席表-2（2021年4月版）",
+   "url": "https://jcom.hall-info.jp/file/seat220210401.pdf"
+  },
+  {
+   "title": "舞台平面図",
+   "url": "https://jcom.hall-info.jp/file/heimen-0505.pdf"
+  },
+  {
+   "title": "舞台断面図（2021年4月版）",
+   "url": "https://jcom.hall-info.jp/file/danmen-210401.pdf"
+  },
+  {
+   "title": "器具等の利用料金 舞台（2023年4月版）",
+   "url": "https://jcom.hall-info.jp/file/stage230401.pdf"
+  },
+  {
+   "title": "器具等の利用料金 楽器（2023年4月版）",
+   "url": "https://jcom.hall-info.jp/file/instruments230403.pdf"
+  },
+  {
+   "title": "器具等の利用料金 音響（2023年4月版）",
+   "url": "https://jcom.hall-info.jp/file/sound230401.pdf"
+  },
+  {
+   "title": "器具等の利用料金 照明（2023年4月版）",
+   "url": "https://jcom.hall-info.jp/file/light230401.pdf"
+  },
+  {
+   "title": "器具等の利用料金 運用（2023年4月版）",
+   "url": "https://jcom.hall-info.jp/file/management230401.pdf"
+  },
+  {
+   "title": "4階楽屋 見取り図",
+   "url": "https://jcom.hall-info.jp/file/about_d_room4f-n.pdf"
+  },
+  {
+   "title": "5階楽屋 見取り図",
+   "url": "https://jcom.hall-info.jp/file/about_d_room5f.pdf"
+  },
+  {
+   "title": "アクセスマップ（2026年1月版）",
+   "url": "https://jcom.hall-info.jp/file/access260106.pdf"
+  }
+ ],
+ "checkedAt": "2026-11-07",
+ "lat": 35.654045,
+ "lng": 139.338806,
+ "nearby": {
+  "convenience": [
+   {
+    "name": "ファミリーマート セレオ八王子店",
+    "brand": "ファミリーマート",
+    "distanceM": 52,
+    "walkMin": 1,
+    "hours": "24時間営業",
+    "address": "東京都八王子市旭町1-17 セレオ八王子1階",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/20472",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "ファミリーマート JR八王子南口店",
+    "brand": "ファミリーマート",
+    "distanceM": 53,
+    "walkMin": 1,
+    "hours": "24時間営業",
+    "address": "東京都八王子市子安町4丁目9-7森永産業ビル",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/57795",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "セブン-イレブン 八王子駅南店",
+    "brand": "セブン-イレブン",
+    "distanceM": 61,
+    "walkMin": 1,
+    "hours": "24時間営業",
+    "address": "東京都八王子市旭町1-18",
+    "verified": true,
+    "source": "https://seven-eleven.areamarker.com/711map/info/240833",
+    "note": "距離は公式の店舗位置で計算"
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "アクセア 京王八王子駅前店",
+    "brand": "アクセア",
+    "distanceM": 496,
+    "walkMin": 7,
+    "hours": "平日9:00〜20:00／土日祝休み",
+    "address": "東京都八王子市明神町3-20-6 八王子ファーストスクエア1F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/entry.html",
+    "note": "距離は住所の位置で計算。平日のみ営業（土日祝休み）"
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "DAISO 八王子OPA店",
+    "brand": "ダイソー",
+    "distanceM": 129,
+    "walkMin": 2,
+    "hours": "10:00-21:00",
+    "address": "東京都八王子市旭町1-12 八王子OPA3階",
+    "verified": true,
+    "source": "https://www.daiso-sangyo.co.jp/shop/detail/005195",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "Seria サザンスカイタワー八王子店",
+    "brand": "セリア",
+    "distanceM": 130,
+    "walkMin": 2,
+    "hours": "月〜日 10:00-21:00",
+    "address": "東京都八王子市子安町4-7-1サザンスカイタワー八王子 3F",
+    "verified": true,
+    "source": "https://shop.seria-group.com/seria/info/000001278",
+    "note": "距離は公式の店舗位置で計算"
+   }
+  ],
+  "donki": [
+   {
+    "name": "ドン・キホーテ 八王子駅前店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 444,
+    "walkMin": 6,
+    "hours": "24時間営業",
+    "address": "東京都八王子市中町1-3",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=220",
+    "note": "距離は住所の位置で計算。ドン・キホーテ公式サイトの店舗名は「八王子駅前店」"
+   }
+  ]
+ },
+ "drinkDelivery": {
+  "available": false
+ },
+ "photo": {
+  "src": "/images/venues/jcom-hall-hachioji.jpg",
+  "credit": "© 103momo (talk · contribs) / CC BY-SA 3.0 · Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Southern_Sky_Tower_Hachioji_1.jpg"
+ }
+}

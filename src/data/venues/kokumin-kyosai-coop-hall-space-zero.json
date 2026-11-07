@@ -1,0 +1,297 @@
+{
+ "slug": "kokumin-kyosai-coop-hall-space-zero",
+ "nameJa": "こくみん共済 coop ホール／スペース・ゼロ",
+ "nameEn": "",
+ "type": "hall",
+ "area": "shinjuku-venues",
+ "address": "〒151-0053 東京都渋谷区代々木2-12-10 こくみん共済 coop 会館",
+ "officialUrl": "https://www.spacezero.co.jp/",
+ "organizerUrl": "https://www.spacezero.co.jp/hall",
+ "bizintokyoSlug": "kokumin-kyosai-coop-hall-space-zero",
+ "accessSummary": "JR新宿駅南口 徒歩5分／京王新線・都営大江戸線・都営新宿線 新宿駅6番出口 徒歩1分",
+ "notice": null,
+ "hours": "ホール 10:00～22:00（基本料金の時間区分）／ギャラリー・展示室 10:00～20:00（ホールと同時使用の場合は10:00～22:00）。年末年始（12月30日～1月3日）は休館",
+ "rooms": [
+  {
+   "name": "ホール（1F）",
+   "areaM2": 440,
+   "ceilingM": 7.6,
+   "theater": 575,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "フラット形式が基本で、ユニット式可動床で客席・ステージを組み替える。客席はフリーセッティングで、定員は575席（月5日以上の公演の場合は446席）。芸術文化公演（仮設スタンド）の客席数は張り出し無しで584席、6間半の張り出しで272席"
+  },
+  {
+   "name": "サブステージ",
+   "areaM2": 72,
+   "ceilingM": 8.8,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null
+  },
+  {
+   "name": "ホワイエ",
+   "areaM2": 233,
+   "ceilingM": 3.9,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null
+  },
+  {
+   "name": "ギャラリー（B1～1F吹抜け）",
+   "areaM2": 81,
+   "ceilingM": "2.79-10.14",
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "天井高は吹抜け部分10.14m、天井部分2.79m"
+  },
+  {
+   "name": "展示室（B1）",
+   "areaM2": 52,
+   "ceilingM": 2.94,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null
+  }
+ ],
+ "roomsSource": "https://www.spacezero.co.jp/hall/about",
+ "ops": {
+  "prevDaySetup": {
+   "text": "仕込料金は本番使用日の前日1日に限り適用される。ホールは通常（10:00～22:00）550,000円、深夜（23:00～10:00）770,000円（税込）。ギャラリーは通常82,500円、展示室は通常38,500円（税込、10:00～20:00）で、深夜仕込（ギャラリー110,000円、展示室55,000円）はホールとの同時使用に限る。",
+   "source": "https://www.spacezero.co.jp/hall/payment"
+  },
+  "loadingHours": {
+   "text": "使用時間には準備・設営・撤去・搬入出の時間がすべて含まれる。基本使用時間（ホール10:00～22:00）を超えると延長料金（1時間あたり8:00～24:00は110,000円、8:00以前・24:00以降は154,000円、税込）がかかり、使用時間が7:30以前・撤去が23:30以降に及ぶと早朝・深夜特別使用料44,000円（税込）が発生する。ホールの搬入口は幅2.8m、搬入口に高さ4mの看板用照明具がある。展示施設（ギャラリー・展示室）の搬入出はB1南口から行い、正面入口の円形自動ドアからは不可。ホール使用の2週間前までに設営・設備・備品の打合せを行い、舞台担当者との打合せ用に仕込図とタイムテーブルを遅くとも仕込みの1週間前までにメールで送る。",
+   "source": "https://www.spacezero.co.jp/hall/announce"
+  },
+  "vehicleRules": {
+   "text": "展示施設の搬入出で車両を使う場合は事前相談が必要。ホールを使用する主催者は、会館の地下駐車場の登録車用スペースを事前登録のうえ利用できる。",
+   "source": "https://www.spacezero.co.jp/gallery/announce"
+  },
+  "parking": {
+   "text": "ホールを使用する主催者は会館の地下駐車場を2台分利用できる（事前に車両番号・車種・色・運転者の登録が必要）。来場者用の駐車場はない。",
+   "source": "https://www.spacezero.co.jp/hall/announce"
+  },
+  "waitingRooms": {
+   "text": "楽屋5室、計108.1㎡・化粧前51。楽屋1は34.7㎡・17（シャワールーム付）、楽屋2は24.0㎡・10（シャワールーム付）、楽屋3は18.8㎡・9、楽屋4は10.4㎡・5、楽屋5は20.2㎡・10。",
+   "source": "https://www.spacezero.co.jp/hall/about"
+  },
+  "catering": {
+   "text": "ケータリングの手配は状況によるため問い合わせ。所定の場所以外での飲食は不可。展示会の施工業者の指定はない。ゴミは原則持ち帰り。",
+   "source": "https://www.spacezero.co.jp/faq"
+  }
+ },
+ "documents": [
+  {
+   "title": "ホール 料金表",
+   "url": "https://www.spacezero.co.jp/hall/payment"
+  },
+  {
+   "title": "ホール 申込み・手続きの流れ（キャンセル料を含む）",
+   "url": "https://www.spacezero.co.jp/hall/flow"
+  },
+  {
+   "title": "ホール 施設使用にあたって",
+   "url": "https://www.spacezero.co.jp/hall/announce"
+  },
+  {
+   "title": "ホール詳細資料（図面・設備・備品）",
+   "url": "https://www.spacezero.co.jp/hall/data"
+  },
+  {
+   "title": "舞台設備・備品リスト（2026年10月更新）",
+   "url": "https://www.spacezero.co.jp/wp-content/themes/twentyeleven/images/hall/pdf/hall-b-bihin.pdf"
+  },
+  {
+   "title": "照明設備・備品リスト（2026年10月更新）",
+   "url": "https://www.spacezero.co.jp/wp-content/themes/twentyeleven/images/hall/pdf/hall-s-bihin.pdf"
+  },
+  {
+   "title": "音響設備・備品リスト（2026年10月更新）",
+   "url": "https://www.spacezero.co.jp/wp-content/themes/twentyeleven/images/hall/pdf/hall-o-bihin.pdf"
+  },
+  {
+   "title": "その他設備・備品リスト・技術立会料・オペレーター料（2026年10月改定）",
+   "url": "https://www.spacezero.co.jp/wp-content/themes/twentyeleven/images/hall/pdf/hall-e-bihin.pdf"
+  },
+  {
+   "title": "ホールご利用の舞台監督様へ（2026年10月）",
+   "url": "https://www.spacezero.co.jp/wp-content/themes/twentyeleven/images/hall/pdf/hall-b-henkou2.pdf"
+  },
+  {
+   "title": "ホール平面図1（ホール内）",
+   "url": "https://www.spacezero.co.jp/wp-content/themes/twentyeleven/images/hall/pdf/hall-b-heimenzu1.pdf"
+  },
+  {
+   "title": "ホール平面図2（ホール・ホワイエ・エントランス）",
+   "url": "https://www.spacezero.co.jp/wp-content/themes/twentyeleven/images/hall/pdf/hall-b-heimenzu2.pdf"
+  },
+  {
+   "title": "ホール断面図（寸法入り）",
+   "url": "https://www.spacezero.co.jp/wp-content/themes/twentyeleven/images/hall/pdf/hall-b-danmenzu2.pdf"
+  },
+  {
+   "title": "吊物平面図（寸法入り）",
+   "url": "https://www.spacezero.co.jp/wp-content/themes/twentyeleven/images/hall/pdf/hall-b-tsurimonoheimenzu2.pdf"
+  },
+  {
+   "title": "高所作業について",
+   "url": "https://www.spacezero.co.jp/wp-content/themes/twentyeleven/images/hall/pdf/kousyo-A4.pdf"
+  },
+  {
+   "title": "楽屋平面図",
+   "url": "https://www.spacezero.co.jp/wp-content/themes/twentyeleven/images/hall/pdf/hall-e-gakuyazumen.pdf"
+  },
+  {
+   "title": "展示施設 料金表",
+   "url": "https://www.spacezero.co.jp/gallery/payment"
+  },
+  {
+   "title": "展示施設 施設使用にあたって",
+   "url": "https://www.spacezero.co.jp/gallery/announce"
+  },
+  {
+   "title": "展示施設 申込み・手続きの流れ",
+   "url": "https://www.spacezero.co.jp/gallery/flow"
+  },
+  {
+   "title": "展示施設 平面図・備品リスト",
+   "url": "https://www.spacezero.co.jp/gallery/example"
+  },
+  {
+   "title": "フロアマップ",
+   "url": "https://www.spacezero.co.jp/floor"
+  }
+ ],
+ "checkedAt": "2026-11-07",
+ "lat": 35.68718,
+ "lng": 139.697189,
+ "nearby": {
+  "convenience": [
+   {
+    "name": "ファミリーマート 代々木二丁目北店",
+    "brand": "ファミリーマート",
+    "distanceM": 60,
+    "walkMin": 1,
+    "hours": "24時間営業",
+    "address": "東京都渋谷区代々木2丁目 20-17 海南ビル",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/21163",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "セブン-イレブン 西新宿甲州街道店",
+    "brand": "セブン-イレブン",
+    "distanceM": 85,
+    "walkMin": 2,
+    "hours": "24時間営業",
+    "address": "東京都渋谷区代々木2-13-4",
+    "verified": true,
+    "source": "https://seven-eleven.areamarker.com/711map/info/405814",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "ファミリーマート 新宿新都心店",
+    "brand": "ファミリーマート",
+    "distanceM": 112,
+    "walkMin": 2,
+    "hours": "24時間営業",
+    "address": "東京都新宿区西新宿1丁目20-2",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/77204",
+    "note": "距離は公式の店舗位置で計算"
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "アクセア 新宿南口店",
+    "brand": "アクセア",
+    "distanceM": 198,
+    "walkMin": 3,
+    "hours": "平日24時間営業（月曜朝8時から土曜夜19時まで休まず営業）／土〜19:00、日祝10:00〜19:00",
+    "address": "東京都新宿区西新宿3-1-4 第2佐山ビル1F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/entry.html",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "キンコーズ・新宿南口店",
+    "brand": "キンコーズ",
+    "distanceM": 357,
+    "walkMin": 5,
+    "hours": "平日 8:00-22:00／土・日・祝 8:00-22:00",
+    "address": "東京都渋谷区代々木2丁目2-1 新宿サザンテラス内 サザンタワー3F",
+    "verified": true,
+    "source": "https://www.kinkos.co.jp/store/tokyo/t012/",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "DAISO 京王モールアネックス店",
+    "brand": "ダイソー",
+    "distanceM": 136,
+    "walkMin": 2,
+    "hours": "8:00-21:00",
+    "address": "東京都新宿区西新宿1丁目19番地京王モールアネックス内",
+    "verified": true,
+    "source": "https://www.daiso-sangyo.co.jp/shop/detail/002645",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "3COINS JR新宿駅南口店",
+    "brand": "3COINS",
+    "distanceM": 366,
+    "walkMin": 5,
+    "hours": "7:45-22:00",
+    "address": "東京都新宿区新宿3-38-2 JR新宿構内南改札内",
+    "verified": true,
+    "source": "https://palcloset.storelocator.jp/shop/284",
+    "note": "距離は公式の店舗位置で計算。JR新宿駅構内（南改札内）"
+   }
+  ],
+  "donki": [
+   {
+    "name": "ドン・キホーテ 新宿東南口店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 556,
+    "walkMin": 7,
+    "hours": "24時間営業",
+    "address": "東京都新宿区新宿3丁目36-16",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=449",
+    "note": "距離は住所の位置で計算。ドン・キホーテ公式サイトの店舗名は「新宿東南口店」"
+   },
+   {
+    "name": "ドン・キホーテ 新宿東南口別館",
+    "brand": "ドン・キホーテ",
+    "distanceM": 631,
+    "walkMin": 8,
+    "hours": "9:00-2:00",
+    "address": "東京都新宿区新宿3丁目35-16",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=709",
+    "note": "距離は住所の位置で計算。ドン・キホーテ公式サイトの店舗名は「新宿東南口別館」"
+   }
+  ]
+ },
+ "drinkDelivery": {
+  "available": true
+ },
+ "photo": {
+  "src": "/images/venues/kokumin-kyosai-coop-hall-space-zero.jpg",
+  "credit": "© nesnad / CC BY 3.0 · Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Space_zero_-_Shinjuku_-_October_2014.jpg"
+ }
+}

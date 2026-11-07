@@ -1,0 +1,131 @@
+{
+ "slug": "nippori-sunny-hall",
+ "name": "Arakawa-ku Nippori Sunny Hall",
+ "address": "Tokyo 116-0014 Art Hotel Nippori Lungwood 4F, 5-50-5 Higashi-Nippori, Arakawa-ku",
+ "accessSummary": "JR / Keisei Nippori Station South Gate: 1 min walk / Nippori-Toneri Liner Nippori Station: 3 min walk",
+ "hours": "Usage hours: Hall and Concert Salon 9:00-22:00 (no entry before 9:00 and no extension after 22:00) / Meeting rooms 9:00-22:00 / Reception 9:00-20:00 / Closed: year-end and New Year holidays (Dec 29 - Jan 3)",
+ "notice": null,
+ "rooms": [
+  {
+   "name": "Hall",
+   "note": "Basic stage layout: up to 411 seats (varies with the stage size; drawings also exist for Basic Stage (Large) 355 seats and Basic Stage (Small) 439 seats). Flat use: up to 500. The layout, basic stage or flat, is chosen at booking, and setup and teardown is done manually by the venue's technical staff in about 2 hours. 16.5 m wide x 24.3 m deep."
+  },
+  {
+   "name": "Concert Salon",
+   "note": "The capacity of 100 is the maximum number of people in the venue at the same time, including performers. 8 m wide x 14.3 m deep."
+  },
+  {
+   "name": "Meeting Room 1",
+   "note": "24 seats (capacity 30). 5F. The lace curtains cannot be opened."
+  },
+  {
+   "name": "Meeting Room 2",
+   "note": "12 seats (capacity 15). 5F."
+  },
+  {
+   "name": "Meeting Room 3",
+   "note": "12 seats (capacity 15). 5F."
+  },
+  {
+   "name": "Meeting Rooms 2 and 3 (combined)",
+   "note": "24 seats (capacity 30). 5F."
+  }
+ ],
+ "ops": {
+  "prevDaySetup": "When the Hall or Concert Salon is used for preparation or rehearsal for a performance, the fee is half price (limited to the same facility and to within 1 month before). Usage hours include load-in/out, setup, teardown, entry and exit, and piano tuning; preparation and cleanup each take at least 30 minutes, and 1 hour or more depending on the setup work.",
+  "loadingHours": "Load-in and load-out are done from the dedicated Nippori Sunny Hall loading entrance. The loading elevator is shared by the Hall and the Concert Salon, with a load capacity of 2,050 kg, a 1F opening of 1,800 mm wide x 2,500 mm high and a 4F opening of 2,850 mm wide x 2,500 mm high. The elevator is managed by the adjacent 1F disaster prevention center, so stop by before use. A meeting with the venue's management staff is held about 1 month before the usage date. Courier packages are accepted from the day before use up to the time slot before the day of use, and paper items such as programs and flyers are held for up to 2 boxes about the size of a mikan box.",
+  "vehicleRules": "One vehicle each for the Hall and the Concert Salon can park free in the parking lot in front of the loading entrance (up to 2-ton trucks; long-body not allowed; parking space 4,900 mm wide x 6,400 mm deep x 3,000 mm high). Display the parking permit issued by the venue on the windshield and leave the key at the disaster prevention center. Parking is limited to the facility's usage hours. Turn off the engine and car audio during load-in/out.",
+  "parking": "In the paid multi-storey car park of Art Hotel Nippori Lungwood, 2 vehicles for the Hall and 1 for the Concert Salon can park free within the usage hours; show the parking ticket issued by the venue to the guard on entry. Vehicles up to 155 cm high, 550 cm long, 205 cm wide and 2,200 kg in weight can enter.",
+  "waitingRooms": "The Hall has 3 free dressing rooms (Dressing Room 1: lockers for 12 people; Dressing Rooms 2 and 3: lockers for 18 people each) and 1 paid special dressing room (with a shower room, shared with the Concert Salon). The Concert Salon has 1 free dressing room (lockers for 18 people) and the shared paid special dressing room.",
+  "catering": "Eating and drinking are not allowed on the stage, in the audience seats or in the lobby of the Hall and Concert Salon (only hydrating with bottled drinks is allowed). Light snacks and drinks are allowed in the dressing rooms, but bringing in alcohol is not. Bringing in cooking, serving or heat sources is not allowed. In the meeting rooms only light snacks and drinks are allowed; bringing in alcohol and using the room for the purpose of eating or drinking are not allowed, and food and drink cannot be ordered from anywhere other than the hotel."
+ },
+ "documents": [
+  {
+   "title": "About Using the Hall and Concert Salon"
+  },
+  {
+   "title": "For Customers Using the Meeting Rooms"
+  },
+  {
+   "title": "Facility Guide (Pamphlet)"
+  },
+  {
+   "title": "Notes on Use"
+  },
+  {
+   "title": "Facility Use Application Form"
+  },
+  {
+   "title": "Signboard and Loading Elevator Dimensions"
+  },
+  {
+   "title": "Loading Entrance Parking Guide and Map"
+  },
+  {
+   "title": "About Receiving Courier Packages (dated September 5, 2023)"
+  },
+  {
+   "title": "4F Layout"
+  },
+  {
+   "title": "Hall Price List for Stage, Lighting and Audio Equipment"
+  },
+  {
+   "title": "Fee Table for Additional Technical Staff etc."
+  },
+  {
+   "title": "Nippori Sunny Hall Map"
+  },
+  {
+   "title": "Fee Guide"
+  },
+  {
+   "title": "Application Process"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "7-Eleven Arakawa Higashi-Nippori 5-chome",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the store's official location."
+   },
+   {
+    "name": "FamilyMart Kusuri Higuchi Nippori",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the store's official location."
+   },
+   {
+    "name": "FamilyMart Nippori Ekimae",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the store's official location."
+   }
+  ],
+  "copyshop": [],
+  "hundredYen": [
+   {
+    "name": "Seria Inageya Arakawa Higashi-Nippori",
+    "hours": "Daily 10:00-21:00",
+    "note": "Distance is calculated from the store's official location."
+   },
+   {
+    "name": "Can Do Fresspo Higashi-Nippori",
+    "hours": "Daily 10:00-20:00",
+    "note": "Distance is calculated from the store's official location."
+   }
+  ],
+  "donki": [
+   {
+    "name": "Don Quijote Uguisudani",
+    "hours": "8:00-1:00",
+    "note": "Distance is calculated from the address location. The store name on the Don Quijote official site is \"Uguisudani store\"."
+   },
+   {
+    "name": "Don Quijote Okachimachi",
+    "hours": "9:00-1:00",
+    "note": "Distance is calculated from the address location. Rather far. The store name on the Don Quijote official site is \"Okachimachi store\"."
+   }
+  ]
+ },
+ "photoCredit": "Image shows the South Exit of JR Nippori Station, the nearest station, not the venue building. © MaedaAkihiko / CC0 · Wikimedia Commons"
+}

@@ -1,0 +1,133 @@
+{
+ "slug": "minami-osawa-cultural-hall",
+ "name": "Hachioji City College Minami Osawa Cultural Hall",
+ "address": "Tokyo 192-0364 2-27 Minami-Osawa, Hachioji City",
+ "accessSummary": "Minami-Osawa Station (Keio Sagamihara Line): 3 min walk",
+ "hours": "9:00-22:00 (Closed every Monday (the next day if it is a holiday) and Dec 29 - Jan 3)",
+ "notice": null,
+ "rooms": [
+  {
+   "name": "Main Hall",
+   "note": "500 seats (496 fixed seats, 4 wheelchair spaces). Stage is 13.70 m wide, 11.00 m deep and 7.02 m high. Dressing rooms: 1 Japanese-style room and 3 Western-style rooms. Basic fee: 79,000 yen all day on weekdays, 95,000 yen all day on Saturdays, 100,000 yen all day on Sundays and holidays (time slots: morning 9:00-12:00 / afternoon 13:00-17:00 / evening 18:00-22:00)."
+  },
+  {
+   "name": "Exchange Hall",
+   "note": "Capacity 270 (the number of seats varies with the use). A circular space with a flat floor and a variable rising stage (4.50 m wide, 2.35 m deep, three height settings of 400, 600 and 800 mm). Basic fee: 44,000 yen all day on weekdays, 53,000 yen all day on Saturdays, 56,000 yen all day on Sundays and holidays."
+  },
+  {
+   "name": "Rehearsal Room",
+   "note": "Capacity 76. Floor area excludes storage, anteroom, etc. Basic fee: 27,800 yen all day."
+  },
+  {
+   "name": "Practice Room 1",
+   "note": "Capacity 21 (shared by Practice Rooms 1 and 2). Floor area includes storage and anteroom. Basic fee: 8,600 yen all day."
+  },
+  {
+   "name": "Practice Room 2",
+   "note": "Capacity 21 (shared by Practice Rooms 1 and 2). Floor area includes storage and anteroom. Basic fee: 8,600 yen all day."
+  },
+  {
+   "name": "Exhibition / Multipurpose Room (Full)",
+   "note": "Capacity 80. Floor area excludes waiting room, storage, etc. 22 movable panels, 20 folding tables, 80 folding chairs. Basic fee: 15,100 yen all day."
+  },
+  {
+   "name": "Exhibition / Multipurpose Room (Half)",
+   "note": "Capacity 40. Floor area is about 80㎡. Basic fee: 7,550 yen all day."
+  },
+  {
+   "name": "Meeting Room 1",
+   "note": "Capacity 36 (12 desks, 36 chairs). Basic fee: 4,200 yen all day."
+  },
+  {
+   "name": "Meeting Room 2",
+   "note": "Capacity 36 (12 desks, 36 chairs). Basic fee: 4,200 yen all day."
+  },
+  {
+   "name": "Meeting Room 3",
+   "note": "Capacity 27 (9 desks, 27 chairs). Basic fee: 3,700 yen all day."
+  },
+  {
+   "name": "Meeting Room 4",
+   "note": "Capacity 18 (6 desks, 18 chairs). Basic fee: 3,100 yen all day."
+  },
+  {
+   "name": "Meeting Rooms 3 & 4",
+   "note": "Capacity 63 (21 desks, 63 chairs). When Meeting Rooms 3 and 4 are used as one room, the fee is the sum of the fees for each (6,800 yen all day)."
+  }
+ ],
+ "ops": {
+  "prevDaySetup": "Each usage slot (morning 9:00-12:00, afternoon 13:00-17:00, evening 18:00-22:00, all day 9:00-22:00) includes time from preparation to cleanup. When consecutive slots are used, the time between slots can also be used. The period of consecutive use is 6 days for the Main Hall, Exchange Hall and Exhibition / Multipurpose Room (exhibition purposes only), and 3 days for the Rehearsal Room, Practice Rooms, Meeting Rooms and Exhibition / Multipurpose Room (6 days when used in connection with the hall or exhibition room). Extending or advancing the usage time is approved for up to 1 hour only when it causes no problem for management, and an additional usage fee is charged. (Source: https://www.hachiojibunka.or.jp/minami/moushikomi/)",
+  "loadingHours": "To send packages to the venue in advance, submit the Package Delivery Notice 1 week before shipping (neither arrival nor pickup is possible on closed days). For merchandise sales, submit the Merchandise Sales Application / Settlement Form 2 weeks before the usage date. Even for exhibition room use, work is done through the loading entrance, and on the day follow the staff's instructions. (Source: https://www.hachiojibunka.or.jp/minami/wp-content/uploads/2026/04/★催物計画書★20260917～.pdf)",
+  "parking": "There is no dedicated parking lot; use the Hachioji City Minami-Osawa Parking Lot under the adjacent Fresco Minami-Osawa Building (100 spaces, 8:00-22:30, 120 yen per 30 minutes, vehicle limits: height 2.3 m, width 1.8 m, length 5 m) or a nearby paid parking lot. The cultural hall can be reached from the city parking lot by elevator. (Source: https://www.hachiojibunka.or.jp/minami/facility/parking/)",
+  "waitingRooms": "The Main Hall comes with dressing rooms (1 Japanese-style room and 3 Western-style rooms) and an organizer's waiting room. The Exchange Hall comes with a dressing room, a waiting room and a pantry. The Exhibition / Multipurpose Room comes with a waiting room. (Source: https://www.hachiojibunka.or.jp/minami/facility/main_hall/)"
+ },
+ "documents": [
+  {
+   "title": "Regulations on Handling of Usage Applications, Usage Approvals and Usage Fees (enacted December 27, 2012)"
+  },
+  {
+   "title": "Event Plan Form (revised September 17, 2026)"
+  },
+  {
+   "title": "Package Delivery Notice (April 17, 2026 version)"
+  },
+  {
+   "title": "Facility User Registration Application (April 17, 2026 version)"
+  },
+  {
+   "title": "Facility Use Change Notice (April 17, 2026 version)"
+  },
+  {
+   "title": "Facility Use Cancellation Notice (April 17, 2026 version)"
+  },
+  {
+   "title": "Room Lottery Reservation Application (from May 3, 2026)"
+  },
+  {
+   "title": "Document Downloads (floor plans, seating charts, stage plans, batten charts, etc.)"
+  },
+  {
+   "title": "Price List (with notice of revision on April 1, Reiwa 9 [2027])"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "7-Eleven Hachioji Minami-Osawa 4-chome",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the store's official location."
+   },
+   {
+    "name": "7-Eleven Keio Minami-Osawa Station",
+    "hours": "Mon-Fri 6:30-22:00 / Sat 6:30-21:00 / Sun & holidays 7:00-20:00",
+    "note": "Distance is calculated from the store's official location."
+   },
+   {
+    "name": "FamilyMart Paore Minami-Osawa",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the store's official location."
+   }
+  ],
+  "copyshop": [],
+  "hundredYen": [
+   {
+    "name": "DAISO Ito-Yokado Minami-Osawa",
+    "hours": "10:00-21:00",
+    "note": "Distance is calculated from the store's official location."
+   },
+   {
+    "name": "Standard Products Ito-Yokado Minami-Osawa",
+    "hours": "10:00-21:00",
+    "note": "Distance is calculated from the store's official location."
+   }
+  ],
+  "donki": [
+   {
+    "name": "Don Quijote Keio Horinouchi",
+    "hours": "10:00-3:00",
+    "note": "Distance is calculated from the address location. Far. The store name on the Don Quijote official website is \"Keio Horinouchi\" (京王堀之内店)."
+   }
+  ]
+ },
+ "photoCredit": "© ardosa / CC BY 3.0 · Wikimedia Commons"
+}

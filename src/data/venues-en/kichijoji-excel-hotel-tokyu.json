@@ -1,0 +1,102 @@
+{
+ "slug": "kichijoji-excel-hotel-tokyu",
+ "name": "Kichijoji EXCEL HOTEL TOKYU",
+ "address": "2-4-14 Kichijoji Honcho, Musashino-shi, Tokyo 180-0004",
+ "accessSummary": "Kichijoji Station (JR Chuo Line / Keio Inokashira Line) North Exit: 8 min walk",
+ "hours": null,
+ "notice": null,
+ "rooms": [
+  {
+   "name": "Ambassador Room (8F)",
+   "note": null
+  },
+  {
+   "name": "Ambassador Room A/B (8F)",
+   "note": "Ambassador Room divided into two. Classroom is 150 seats in the banquet hall list and 120 seats in the layout example on the individual page."
+  },
+  {
+   "name": "Oak Room (7F)",
+   "note": null
+  },
+  {
+   "name": "Oak Room A/B (7F)",
+   "note": "Oak Room divided into two. The area column of the banquet hall list says 270㎡, while the heading and the individual page say 135㎡."
+  },
+  {
+   "name": "Forest (7F)",
+   "note": null
+  },
+  {
+   "name": "Rose Cattleya (7F)",
+   "note": null
+  },
+  {
+   "name": "Maple (7F)",
+   "note": null
+  }
+ ],
+ "ops": {
+  "parking": "On-site, B2F, 26 standard cars (W 1.9m x L 3.3m to 5.0m x H 2.2m or less). Entry is possible 24 hours, except that entry is not possible from 24:00 to 6:00 the next morning (exit is possible); if you will enter after 24:00, you must contact the hotel. Rates: 3 hours free for banquets, 1 hour free for dining (5,000 yen or more); outside those, 700 yen per 30 minutes on weekdays and 800 yen per 30 minutes on Sat, Sun & holidays (tax included). For hotel guests, a 24-hour ticket is 2,500 yen at the front desk (no in-and-out).",
+  "restaurants": "In the building: Lounge & Dining SORAE (2F), Kisentei-Kichijoji (2F), Sushi-Ichiro (2F), and the bowling alley Dig Bowl Kichijoji (B1F)."
+ },
+ "documents": [
+  {
+   "title": "Weekday Seminar Plan (weekdays only, until March 31, 2027)"
+  },
+  {
+   "title": "Banquet Plan List"
+  },
+  {
+   "title": "Facility Guide (Floor Guide)"
+  },
+  {
+   "title": "Access and Parking Guide"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "FamilyMart Kichijoji Koen-dori",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the store's official location."
+   },
+   {
+    "name": "7-Eleven Kichijoji Taisho-dori",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the store's official location."
+   },
+   {
+    "name": "7-Eleven Kichijoji Renga-kan",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the store's official location."
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "Accea Kichijoji",
+    "hours": "Weekdays 8:00-20:00 / Sat 10:00-19:00 / Closed Sun & holidays",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Seria Tokyu Department Store Kichijoji",
+    "hours": "Mon-Sun 10:00-20:00",
+    "note": "Distance is calculated from the store's official location."
+   },
+   {
+    "name": "Can Do Kichijoji",
+    "hours": "Mon-Sun 9:00-21:00",
+    "note": "Distance is calculated from the store's official location."
+   }
+  ],
+  "donki": [
+   {
+    "name": "Don Quijote Sekimachi",
+    "hours": "10:00-1:00",
+    "note": "Distance is calculated from the address location. Far. The store name on the Don Quijote official site is \"Sekimachi\"."
+   }
+  ]
+ },
+ "photoCredit": "Image shows JR Kichijoji Station (North Exit), the nearest station, not the venue building. © Nesnad / CC BY 4.0 · Wikimedia Commons"
+}
