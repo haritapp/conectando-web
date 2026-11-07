@@ -1,0 +1,349 @@
+{
+ "slug": "rembrandt-hotel-tokyo-machida",
+ "nameJa": "レンブラントホテル東京町田",
+ "nameEn": "Rembrandt Hotel Tokyo Machida",
+ "type": "hotel",
+ "area": "tama-venues",
+ "address": "〒194-0013 東京都町田市原町田3-2-9",
+ "officialUrl": "https://rembrandt-group.com/machida",
+ "organizerUrl": "https://rembrandt-group.com/machida/machida_banquet/banquet_specs_m",
+ "bizintokyoSlug": "rembrandt-hotel-tokyo-machida",
+ "accessSummary": "JR横浜線町田駅ターミナル口から徒歩2分／小田急町田駅から徒歩8分／JR横浜線町田駅中央改札口から徒歩6分",
+ "notice": null,
+ "hours": "1日会場使用料は9:00～21:00",
+ "rooms": [
+  {
+   "name": "珊瑚（B1F）全室",
+   "areaM2": 597,
+   "ceilingM": 5.2,
+   "theater": 800,
+   "school": 480,
+   "ushape": null,
+   "standing": 800,
+   "banquet": 360,
+   "note": "分割してご利用いただけます。ご宴会場ページの最大収容人数は1,000名。料金表PDFには691㎡（ブッフェ1,000名・ディナー450名・スクール480名・シアター800名）と597㎡（上記数値）の2行がある"
+  },
+  {
+   "name": "珊瑚 東・中",
+   "areaM2": 438,
+   "ceilingM": 5.2,
+   "theater": 590,
+   "school": 320,
+   "ushape": null,
+   "standing": 420,
+   "banquet": 250
+  },
+  {
+   "name": "珊瑚 西・中",
+   "areaM2": 370,
+   "ceilingM": 5.2,
+   "theater": 440,
+   "school": 280,
+   "ushape": null,
+   "standing": 360,
+   "banquet": 200
+  },
+  {
+   "name": "珊瑚 東",
+   "areaM2": 227,
+   "ceilingM": 5.2,
+   "theater": 220,
+   "school": 150,
+   "ushape": null,
+   "standing": 160,
+   "banquet": 120
+  },
+  {
+   "name": "珊瑚 中",
+   "areaM2": 211,
+   "ceilingM": 5.2,
+   "theater": 200,
+   "school": 130,
+   "ushape": null,
+   "standing": 140,
+   "banquet": 110
+  },
+  {
+   "name": "珊瑚 西",
+   "areaM2": 159,
+   "ceilingM": 5.2,
+   "theater": 150,
+   "school": 90,
+   "ushape": null,
+   "standing": 100,
+   "banquet": 80
+  },
+  {
+   "name": "翡翠（B2F）全室",
+   "areaM2": 578,
+   "ceilingM": 4.0,
+   "theater": 700,
+   "school": 480,
+   "ushape": null,
+   "standing": 700,
+   "banquet": 320,
+   "note": "分割してご利用いただけます"
+  },
+  {
+   "name": "翡翠 東・中",
+   "areaM2": 370,
+   "ceilingM": 4.0,
+   "theater": 440,
+   "school": 280,
+   "ushape": null,
+   "standing": 360,
+   "banquet": 200
+  },
+  {
+   "name": "翡翠 西・中",
+   "areaM2": 393,
+   "ceilingM": 4.0,
+   "theater": 470,
+   "school": 300,
+   "ushape": null,
+   "standing": 380,
+   "banquet": 240
+  },
+  {
+   "name": "翡翠 東",
+   "areaM2": 185,
+   "ceilingM": 4.0,
+   "theater": 180,
+   "school": 110,
+   "ushape": null,
+   "standing": 120,
+   "banquet": 80
+  },
+  {
+   "name": "翡翠 中",
+   "areaM2": 185,
+   "ceilingM": 4.0,
+   "theater": 180,
+   "school": 110,
+   "ushape": null,
+   "standing": 120,
+   "banquet": 80
+  },
+  {
+   "name": "翡翠 西",
+   "areaM2": 208,
+   "ceilingM": 4.0,
+   "theater": 200,
+   "school": 130,
+   "ushape": null,
+   "standing": 140,
+   "banquet": 110
+  },
+  {
+   "name": "福（B1F）",
+   "areaM2": 53,
+   "ceilingM": 2.6,
+   "theater": 50,
+   "school": 30,
+   "ushape": null,
+   "standing": 30,
+   "banquet": 30,
+   "note": "ご宴会場ページの最大収容人数は30名。ディナー・会議（角卓）の例あり"
+  },
+  {
+   "name": "禄（B1F）",
+   "areaM2": 60,
+   "ceilingM": 2.6,
+   "theater": 50,
+   "school": 30,
+   "ushape": null,
+   "standing": 30,
+   "banquet": 30,
+   "note": "ご宴会場ページの最大収容人数は30名。スクールスタイルの例あり"
+  },
+  {
+   "name": "寿（B1F）",
+   "areaM2": 53,
+   "ceilingM": 2.3,
+   "theater": 50,
+   "school": 30,
+   "ushape": null,
+   "standing": 30,
+   "banquet": 30,
+   "note": "ご宴会場ページの最大収容人数は30名。ディナー・会議（丸卓）の例あり"
+  },
+  {
+   "name": "プレミアムフロア（7F）",
+   "areaM2": 662.78,
+   "ceilingM": 2.8,
+   "theater": 300,
+   "school": 150,
+   "ushape": null,
+   "standing": 80,
+   "banquet": 80,
+   "note": "料金表PDFの掲載（1日会場使用料3,000,000円）"
+  },
+  {
+   "name": "アンバー（7F）",
+   "areaM2": 185,
+   "ceilingM": 2.8,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "最大収容人数80名"
+  },
+  {
+   "name": "SKY TERRACE（7F）",
+   "areaM2": 132.67,
+   "ceilingM": 2.4,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "最大収容人数30名（30名を超える場合は相談）。オールスライドの窓でイングリッシュガーデンと一体化"
+  },
+  {
+   "name": "ラ・ヴィ（2F）",
+   "areaM2": 105,
+   "ceilingM": 2.8,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "40席、終日禁煙、20名より貸切。完全予約制で5日前までに予約"
+  }
+ ],
+ "roomsSource": "https://rembrandt-group.com/machida/machida_banquet/banquet_specs_m",
+ "ops": {
+  "prevDaySetup": {
+   "text": "展示会の搬入は、原則として前日午後9時以降とされている。展示会の搬入出日には、展示会室料の20%が搬入搬出費として加算される。当日の午前9時以前または午後9時以降の会場使用は割増料金となる。",
+   "source": "https://rembrandt-group.com/w/wp-content/uploads/2020/09/banquet_tariff-1.pdf"
+  },
+  "parking": {
+   "text": "タワー型駐車場70台、平地駐車場数台（車椅子の方優先）。車種制限は全長5.5m・車幅1.88m・高さ1.55mまで。料金は30分ごとに200円で、宴会出席者は4時間無料。駐車場の予約は受け付けていない。満車時や平地スペースを宴席の利用状況により使えない場合は、近隣の提携有料駐車場を案内（ホテルの無料時間を超えた分は利用者負担）。",
+   "source": "https://rembrandt-group.com/machida/machida_info/access_m"
+  },
+  "vehicleRules": {
+   "text": "トラックやバスは駐車できない。団体利用などで駐車が必要な場合は事前にホテルへ問い合わせる。",
+   "source": "https://rembrandt-group.com/machida/machida_info/access_m"
+  },
+  "catering": {
+   "text": "宴会用の飲物は瓶ビール800円、ワイン（ボトル）4,500円、樽酒（4斗・中身2斗）130,000円など、貸出備品はプロジェクター20,000円より、スクリーン3,000円より、司会者80,000円より（いずれも税別表示、2026年11月時点）。記念品・花束の持込も受け付けており、生もの以外は前日預かりができる。",
+   "source": "https://rembrandt-group.com/machida/machida_banquet/banquet_specs_m"
+  },
+  "restaurants": {
+   "text": "館内に天麩羅・しゃぶしゃぶ・会席「中津川」、中国料理「龍皇」（個室6～26名）、カフェ・ダイニング「パームツリー」（平日ディナーに25名より貸切パーティープラン）がある。忘年会・新年会プランは中津川が2～16名、龍皇が6～26名。",
+   "source": "https://rembrandt-group.com/machida/machida_restaurant/party_m"
+  }
+ },
+ "documents": [
+  {
+   "title": "料金表 TARIFF（宴会場面積・収容人数・料金）",
+   "url": "https://rembrandt-group.com/w/wp-content/uploads/2020/09/banquet_tariff-1.pdf"
+  },
+  {
+   "title": "ご宴会プラン・会議プラン",
+   "url": "https://rembrandt-group.com/machida/machida_banquet/banquet_m"
+  },
+  {
+   "title": "交通のご案内・駐車場",
+   "url": "https://rembrandt-group.com/machida/machida_info/access_m"
+  }
+ ],
+ "checkedAt": "2026-11-07",
+ "lat": 35.540684,
+ "lng": 139.450302,
+ "nearby": {
+  "convenience": [
+   {
+    "name": "ファミリーマート サンズ原町田三丁目店",
+    "brand": "ファミリーマート",
+    "distanceM": 101,
+    "walkMin": 2,
+    "hours": "24時間営業",
+    "address": "東京都町田市原町田3-4-16",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/21864",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "ファミリーマート ミーナ町田店",
+    "brand": "ファミリーマート",
+    "distanceM": 128,
+    "walkMin": 2,
+    "hours": "5:00-24:30",
+    "address": "東京都町田市原町田4-1-17",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/58245",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "ファミリーマート 原町田四丁目店",
+    "brand": "ファミリーマート",
+    "distanceM": 168,
+    "walkMin": 3,
+    "hours": "24時間営業",
+    "address": "東京都町田市原町田4-10-18",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/57276",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "copyshop": [],
+  "hundredYen": [
+   {
+    "name": "DAISO ミーナ町田店",
+    "brand": "ダイソー",
+    "distanceM": 128,
+    "walkMin": 2,
+    "hours": "10:00-21:00",
+    "address": "東京都町田市原町田4丁目1-17 ミーナ町田7階",
+    "verified": true,
+    "source": "https://www.daiso-sangyo.co.jp/shop/detail/008775",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "Standard Products ミーナ町田店",
+    "brand": "Standard Products",
+    "distanceM": 128,
+    "walkMin": 2,
+    "hours": "10:00-21:00",
+    "address": "東京都町田市原町田4-1-17 ミーナ町田7階",
+    "verified": true,
+    "source": "https://www.daiso-sangyo.co.jp/shop/detail/002587",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "donki": [
+   {
+    "name": "ドン・キホーテ 町田駅前店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 268,
+    "walkMin": 4,
+    "hours": "24時間営業",
+    "address": "東京都町田市原町田4-2-14",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=58",
+    "note": "距離は住所の位置で計算。ドン・キホーテ公式サイトの店舗名は「町田駅前店」"
+   },
+   {
+    "name": "MEGAドン・キホーテ上鶴間店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 2212,
+    "walkMin": 28,
+    "hours": "9:00-3:00",
+    "address": "神奈川県 相模原市南区上鶴間本町9-47-30",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=292",
+    "note": "距離は住所の位置で計算。遠い。ドン・キホーテ公式サイトの店舗名は「MEGAドン・キホーテ上鶴間店」"
+   }
+  ]
+ },
+ "drinkDelivery": {
+  "available": false
+ },
+ "photo": {
+  "src": "/images/venues/rembrandt-hotel-tokyo-machida.jpg",
+  "credit": "© Asturio Cantabrio / CC BY-SA 4.0 · Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Machida_City_Central_Library_ac_(1).jpg"
+ }
+}

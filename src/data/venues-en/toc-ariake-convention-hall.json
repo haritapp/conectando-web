@@ -1,0 +1,171 @@
+{
+ "slug": "toc-ariake-convention-hall",
+ "name": "TOC ARIAKE Convention Hall",
+ "address": "3-5-7 Ariake, Koto-ku, Tokyo",
+ "accessSummary": "Rinkai Line, Kokusai-tenjijo Station: 5 min walk / Yurikamome Line, Tokyo Big Sight Station and Ariake Station: 6 min walk",
+ "hours": "Open every day except January 1. Halls (exhibition use) 9:00-17:00, halls (seminar use) 9:00-21:00, conference rooms 9:00-21:00 (all in principle). Use outside business hours can be discussed. Usage time runs from entry to exit, including setup and removal.",
+ "notice": null,
+ "rooms": [
+  {
+   "name": "4F EAST Hall E-1",
+   "note": "Classroom (3 per desk) capacity: about 165 people."
+  },
+  {
+   "name": "4F EAST Hall E-2",
+   "note": "Classroom (3 per desk) capacity: about 60 people."
+  },
+  {
+   "name": "4F EAST Hall E-3",
+   "note": "Classroom (3 per desk) capacity: about 60 people."
+  },
+  {
+   "name": "4F EAST Hall E-4",
+   "note": "Classroom (3 per desk) capacity: about 165 people."
+  },
+  {
+   "name": "4F EAST Hall E-5",
+   "note": "Classroom (3 per desk) capacity: about 132 people."
+  },
+  {
+   "name": "4F EAST Hall (All halls)",
+   "note": "E-1 to E-5 combined. Classroom (3 per desk): about 612 people. Floor load 500 kg/m²."
+  },
+  {
+   "name": "4F WEST Hall W-1",
+   "note": "Classroom (3 per desk) capacity: about 132 people."
+  },
+  {
+   "name": "4F WEST Hall W-2",
+   "note": "Classroom (3 per desk) capacity: about 165 people."
+  },
+  {
+   "name": "4F WEST Hall W-3",
+   "note": "Classroom (3 per desk) capacity: about 60 people."
+  },
+  {
+   "name": "4F WEST Hall W-4",
+   "note": "Classroom (3 per desk) capacity: about 60 people."
+  },
+  {
+   "name": "4F WEST Hall W-5",
+   "note": "Classroom (3 per desk) capacity: about 165 people."
+  },
+  {
+   "name": "4F WEST Hall (All halls)",
+   "note": "W-1 to W-5 combined. Classroom (3 per desk): about 612 people. Floor load 500 kg/m²."
+  },
+  {
+   "name": "20F WEST GOLD 20 Hall WG-201",
+   "note": "Classroom capacity: about 264 people. Floor load 500 kg/m²."
+  },
+  {
+   "name": "20F WEST GOLD 20 Hall WG-202",
+   "note": "Classroom capacity: about 264 people. Floor load 500 kg/m²."
+  },
+  {
+   "name": "20F WEST GOLD 20 Hall WG-203",
+   "note": "Classroom capacity: about 165 people. Floor load 500 kg/m²."
+  },
+  {
+   "name": "20F WEST GOLD 20 Hall (All halls)",
+   "note": "WG-201 to WG-203 combined. Classroom: about 693 people. Layout examples: classroom, 2 per desk: 494 (WG-201 to 203 combined); theater: 264; U-shape, 2 per desk: 68; group, 2 per desk: 80. Floor load 500 kg/m²."
+  },
+  {
+   "name": "4F Conference Room 1",
+   "note": "Hollow square (square-shaped table layout): 30 people."
+  },
+  {
+   "name": "4F Conference Room 2",
+   "note": "Face-to-face layout for 12 people. Comes with one whiteboard."
+  },
+  {
+   "name": "4F Conference Room 3",
+   "note": "Hollow square (square-shaped table layout): 30 people."
+  },
+  {
+   "name": "Foyer",
+   "note": "Available only when the 20F WEST GOLD 20 Hall is used in the same period."
+  },
+  {
+   "name": "Back space",
+   "note": "Available only when the 20F WEST GOLD 20 Hall is used in the same period."
+  }
+ ],
+ "ops": {
+  "prevDaySetup": "When used as an exhibition or sales event, the fee for setup and preparation time is half of the usage fee (price list revised April 2025). Load-in, load-out, setup and removal are in principle also charged at the normal venue usage fee. Courier deliveries are accepted only on the day before use, only if notified in advance and approved, and the delivered items are not managed by the venue.",
+  "loadingHours": "Load-in uses the car park building (up to 3.5 m high on the 1F, up to 2.3 m high on the 2F-7F), and goods are carried from the loading parking spaces by the load-in/load-out elevators. A load-in/load-out plan must be submitted in advance to ease congestion. The load-in/load-out elevators are No. 1 and No. 22 (car interior W2,200 x D2,100 x H3,000 mm, door W1,500 x H2,300 mm, capacity 2,300 kg) and No. 2, No. 3 and No. 23 (car interior W2,200 x D2,100 x H2,700 mm, door W1,500 x H2,300 mm, capacity 2,300 kg), all automatic. Carts are prohibited in the passenger elevators (No. 4 to 21). The car park entrance directly connected to the 4F joins the 5F of the car park, with a maximum opening of W2,387 x H2,650 mm. The vehicle entrance is open 7:00-22:00. Bring your own carts, and protect the building and equipment thoroughly.",
+  "vehicleRules": "At the loading parking spaces, vehicles must leave promptly after unloading or loading. If congested with load-in/load-out vehicles, the organizer places traffic staff; follow the staff's instructions in the car park. The vehicle height limit is 3.5 m on the 1F and 2.3 m on the 2F-7F. If you want to settle parking fees in one lump sum afterwards, you can receive a deferred-payment parking ticket in advance.",
+  "parking": "659 spaces. Standard cars 300 yen per 30 min, large vehicles 450 yen per 30 min. The vehicle height limit is 3.5 m on the 1F and 2.3 m on the 2F-7F.",
+  "catering": "Eating or drinking inside the venue requires prior approval from the company. For catering, use the company's designated vendors; bringing in food or drink from outside is in principle not accepted. The same applies to the conference rooms: bringing in food or drink from anywhere other than TOC partner shops is prohibited. Gas cylinders (propane gas) cannot be brought in.",
+  "restaurants": "In-building facilities are a restaurant floor on the 3F, and a 7-Eleven and a Doutor Coffee Shop on the 2F."
+ },
+ "documents": [
+  {
+   "title": "Price List (excl. tax)"
+  },
+  {
+   "title": "Notice of Fee Revision and Price List (for new inquiries from April 1, 2025)"
+  },
+  {
+   "title": "Terms of Use (TOC ARIAKE CONVENTION HALL, conference rooms, equipment and fixtures)"
+  },
+  {
+   "title": "Equipment and Fixtures (fixture fees revised November 2024, elevator dimensions)"
+  },
+  {
+   "title": "Usage Guide (booking process and cancellation fees)"
+  },
+  {
+   "title": "Internet Connection and Wi-Fi Guide"
+  },
+  {
+   "title": "Nearby Facilities Map"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "Lawson Sotetsu Grand Fresa Ariake",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "7-Eleven TOC Ariake",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "7-Eleven TFT Ariake",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the official store location."
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "Accea Tokyo Big Sight Mae",
+    "hours": "Weekdays 8:00-22:00, Sat, Sun & holidays 10:00-19:00",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Can Do Wanza Ariake",
+    "hours": "Daily 10:00-19:30",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "DAISO Ariake Garden",
+    "hours": "10:00-21:00",
+    "note": "Distance is calculated from the official store location."
+   }
+  ],
+  "donki": [
+   {
+    "name": "Kirakira Donki Diver City Tokyo Plaza",
+    "hours": "10:00-21:00",
+    "note": "Distance is calculated from the address location. Rather far. A different format within the Don Quijote group (the official Don Quijote site lists the store name as \"Kirakira Donki Diver City Tokyo Plaza\")."
+   }
+  ]
+ },
+ "photoCredit": "The photo shows Kokusai-tenjijo Station (Rinkai Line), the nearest station, not the venue building. © MaedaAkihiko / CC0 · Wikimedia Commons"
+}

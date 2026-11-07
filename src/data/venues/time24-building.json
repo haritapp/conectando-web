@@ -1,0 +1,501 @@
+{
+ "slug": "time24-building",
+ "nameJa": "タイム24ビル",
+ "nameEn": "TIME24 Building",
+ "type": "conference",
+ "area": "odaiba-ariake-venues",
+ "address": "〒135-8073 東京都江東区青海2-4-32",
+ "officialUrl": "https://www.bigsight.jp/organizer/buildings/time/",
+ "organizerUrl": "https://www.bigsight.jp/organizer/buildings/time/facilities/",
+ "bizintokyoSlug": "time24-building",
+ "accessSummary": "ゆりかもめ「テレコムセンター駅」徒歩約2分／りんかい線「東京テレポート駅」徒歩約18分／都営バス「東京港湾合同庁舎」下車すぐ",
+ "notice": null,
+ "hours": "研修室・会議室 7:00〜23:00（7:00〜8:00・21:00〜23:00は時間外人件費あり。準備・撤去を含む最終終了時刻は23時）",
+ "rooms": [
+  {
+   "name": "6階北",
+   "areaM2": 595,
+   "ceilingM": 2.6,
+   "theater": 400,
+   "school": 252,
+   "ushape": null,
+   "standing": null,
+   "banquet": null
+  },
+  {
+   "name": "6階東1",
+   "areaM2": 93,
+   "ceilingM": 2.6,
+   "theater": 80,
+   "school": 24,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "基本レイアウトはスクール2名掛け"
+  },
+  {
+   "name": "6階東2",
+   "areaM2": 93,
+   "ceilingM": 2.6,
+   "theater": 80,
+   "school": 24,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "基本レイアウトはスクール2名掛け"
+  },
+  {
+   "name": "6階東3",
+   "areaM2": 93,
+   "ceilingM": 2.6,
+   "theater": 80,
+   "school": 24,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "基本レイアウトはスクール2名掛け"
+  },
+  {
+   "name": "6階東4",
+   "areaM2": 93,
+   "ceilingM": 2.6,
+   "theater": 80,
+   "school": 24,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "基本レイアウトはスクール2名掛け"
+  },
+  {
+   "name": "6階東5",
+   "areaM2": 186,
+   "ceilingM": 2.6,
+   "theater": 140,
+   "school": 84,
+   "ushape": null,
+   "standing": null,
+   "banquet": null
+  },
+  {
+   "name": "6階東6",
+   "areaM2": 186,
+   "ceilingM": 2.6,
+   "theater": 140,
+   "school": 84,
+   "ushape": null,
+   "standing": null,
+   "banquet": null
+  },
+  {
+   "name": "研修室121",
+   "areaM2": 598,
+   "ceilingM": 2.6,
+   "theater": 400,
+   "school": 252,
+   "ushape": null,
+   "standing": null,
+   "banquet": null
+  },
+  {
+   "name": "研修室122",
+   "areaM2": 93,
+   "ceilingM": 2.6,
+   "theater": 80,
+   "school": 24,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "基本レイアウトはスクール2名掛け"
+  },
+  {
+   "name": "研修室123",
+   "areaM2": 93,
+   "ceilingM": 2.6,
+   "theater": 80,
+   "school": 24,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "基本レイアウトはスクール2名掛け"
+  },
+  {
+   "name": "研修室124",
+   "areaM2": 93,
+   "ceilingM": 2.6,
+   "theater": 80,
+   "school": 24,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "基本レイアウトはスクール2名掛け"
+  },
+  {
+   "name": "研修室125",
+   "areaM2": 93,
+   "ceilingM": 2.6,
+   "theater": 80,
+   "school": 24,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "基本レイアウトはスクール2名掛け"
+  },
+  {
+   "name": "研修室126",
+   "areaM2": 93,
+   "ceilingM": 2.6,
+   "theater": 80,
+   "school": 24,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "基本レイアウトはスクール2名掛け"
+  },
+  {
+   "name": "研修室127",
+   "areaM2": 93,
+   "ceilingM": 2.6,
+   "theater": 80,
+   "school": 24,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "基本レイアウトはスクール2名掛け"
+  },
+  {
+   "name": "研修室128",
+   "areaM2": 101,
+   "ceilingM": 2.6,
+   "theater": 80,
+   "school": 32,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "基本レイアウトはスクール2名掛け"
+  },
+  {
+   "name": "研修室131",
+   "areaM2": 370,
+   "ceilingM": 2.6,
+   "theater": 320,
+   "school": 210,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "増席時スクール240名"
+  },
+  {
+   "name": "研修室132",
+   "areaM2": 157,
+   "ceilingM": 2.6,
+   "theater": 140,
+   "school": 84,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "増席時スクール96名"
+  },
+  {
+   "name": "研修室133",
+   "areaM2": 181,
+   "ceilingM": 2.6,
+   "theater": 140,
+   "school": 84,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "増席時スクール120名"
+  },
+  {
+   "name": "研修室134",
+   "areaM2": 485,
+   "ceilingM": 2.6,
+   "theater": 400,
+   "school": 252,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "増席時スクール312名"
+  },
+  {
+   "name": "研修室141",
+   "areaM2": 278,
+   "ceilingM": 2.6,
+   "theater": 230,
+   "school": 147,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "増席時スクール168名"
+  },
+  {
+   "name": "研修室142",
+   "areaM2": 250,
+   "ceilingM": 2.6,
+   "theater": 230,
+   "school": 147,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "増席時スクール168名"
+  },
+  {
+   "name": "研修室143",
+   "areaM2": 93,
+   "ceilingM": 2.6,
+   "theater": 80,
+   "school": 36,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "増席時スクール48名"
+  },
+  {
+   "name": "研修室144",
+   "areaM2": 93,
+   "ceilingM": 2.6,
+   "theater": 80,
+   "school": 36,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "増席時スクール48名"
+  },
+  {
+   "name": "研修室145",
+   "areaM2": 101,
+   "ceilingM": 2.6,
+   "theater": 80,
+   "school": 48,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "増席時スクール54名"
+  },
+  {
+   "name": "会議室A",
+   "areaM2": 57,
+   "ceilingM": 2.6,
+   "theater": null,
+   "school": null,
+   "ushape": 16,
+   "standing": null,
+   "banquet": null,
+   "note": "基本レイアウトはロの字"
+  },
+  {
+   "name": "会議室B",
+   "areaM2": 36,
+   "ceilingM": 2.6,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "基本レイアウトは島型8名"
+  },
+  {
+   "name": "会議室C",
+   "areaM2": 57,
+   "ceilingM": 2.6,
+   "theater": null,
+   "school": null,
+   "ushape": 16,
+   "standing": null,
+   "banquet": null,
+   "note": "基本レイアウトはロの字"
+  },
+  {
+   "name": "会議室D",
+   "areaM2": 38,
+   "ceilingM": 2.6,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "基本レイアウトは島型8名"
+  },
+  {
+   "name": "会議室E",
+   "areaM2": 36,
+   "ceilingM": 2.6,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "基本レイアウトは島型8名"
+  },
+  {
+   "name": "会議室F",
+   "areaM2": 57,
+   "ceilingM": 2.6,
+   "theater": null,
+   "school": null,
+   "ushape": 16,
+   "standing": null,
+   "banquet": null,
+   "note": "基本レイアウトはロの字"
+  }
+ ],
+ "roomsSource": "https://www.bigsight.jp/organizer/buildings/time/facilities/",
+ "ops": {
+  "loadingHours": {
+   "text": "備品・機器・飲食物などの搬入・搬出は、事前の打合せで経路・車両台数を確認し、「作業届」を提出する。搬入・搬出時は必ず養生を行い、所定の養生が認められない場合は作業を中止することがある。荷物の事前送付は、原則として前日にあたる平日9:00〜17:00着荷指定で「〒135-0064 東京都江東区青海2-4-32 タイム24ビル」へ、利用日・利用会場・催事名を伝票に記載して送る（利用当日まで指定の会場内で保管。状況により当日に利用者が移動する場合あり）。会議資料等は原則として当日に持ち込む。催事後の荷物返送は会場で集荷手配でき、手配可能な配送業者はヤマト運輸と佐川急便のみ（集荷日は原則として利用日の翌日）。（令和7年9月改定の会議施設利用案内、FAQ）",
+   "source": "https://www.bigsight.jp/organizer/buildings/time/faq/"
+  },
+  "parking": {
+   "text": "タイム24ビル駐車場は地下1階、来客用約20台（車椅子用1台）。時間は平日7:00〜21:00（土日祝日は19:00まで）、料金は250円/30分、高さ制限2.1m。障害者手帳等を係員に提示すると当日の駐車料金は無料。会議施設利用案内には、利用時に駐車場使用の有無を打合せ事項とする旨がある。",
+   "source": "https://www.bigsight.jp/organizer/buildings/time/access/"
+  },
+  "catering": {
+   "text": "飲食は会場内で可能で、来場者に飲食を提供する場合は江東区保健所へ相談し、届出等が必要なら保健所の指示に従う。パーティー・懇親会（ケータリングを含む）を希望する場合は利用照会時に相談し、会場費は基本料金の50%増しとなり、清掃費がかかる場合がある。外部から飲食物を持ち込む場合は事前に相談し、ごみの処理が必要。東京ビッグサイトが手配できる弁当（まい泉は最低5,000円（税込）、人形町今半は最低7,000円（税抜）、懐石料理 青山は最低15,000円（税抜）、なだ万は最低15,000円（税込）、いずれも7営業日前まで）、ケータリング（CBサービスは30名〜・料理飲物5,500円（税抜）〜、東京ベイ有明ワシントンホテルは100名〜・9,000円（税抜）〜）、ドリンク（レストランシーガル、最低1,200円（税込）、7営業日前まで）がある。",
+   "source": "https://www.bigsight.jp/organizer/buildings/time/facilities/bento-catering/"
+  },
+  "restaurants": {
+   "text": "11階にスカイレストラン「シーガル」がある（285席）。夜は予約制のパーティー会場で、会議・研修後の懇親会に利用でき、最大約200名の宴会・パーティーに対応する。土日祝は最低保証料金30万円〜で事前予約制の営業が可能。1階にセブン-イレブンがある。",
+   "source": "https://www.bigsight.jp/organizer/buildings/time/shop/seagull.html"
+  }
+ },
+ "documents": [
+  {
+   "title": "会議施設利用案内（令和7年9月改定）",
+   "url": "https://www.bigsight.jp/organizer/buildings/time/facilities/price/pdf/kaigi_annai_time.pdf"
+  },
+  {
+   "title": "研修室・会議室施設料金表（2022年4月改訂）",
+   "url": "https://www.bigsight.jp/organizer/buildings/time/pdf/price_list_time10.pdf"
+  },
+  {
+   "title": "備品料金表",
+   "url": "https://www.bigsight.jp/organizer/buildings/time/facilities/equipment.html"
+  },
+  {
+   "title": "研修室・会議室備品申込書（XLS）",
+   "url": "https://www.bigsight.jp/organizer/buildings/time/pdf/equipment_app_time.xlsx"
+  },
+  {
+   "title": "作業届（XLS）",
+   "url": "https://www.bigsight.jp/organizer/buildings/time/pdf/sagyoutodoke_time.xls"
+  },
+  {
+   "title": "フロア図（1階）",
+   "url": "https://www.bigsight.jp/organizer/buildings/time/pdf/floor-1f.pdf"
+  },
+  {
+   "title": "フロア図（6階）",
+   "url": "https://www.bigsight.jp/organizer/buildings/time/pdf/floor-6f.pdf"
+  },
+  {
+   "title": "フロア図（12階）",
+   "url": "https://www.bigsight.jp/organizer/buildings/time/pdf/floor-12f.pdf"
+  },
+  {
+   "title": "フロア図（13階）",
+   "url": "https://www.bigsight.jp/organizer/buildings/time/pdf/floor-13f.pdf"
+  },
+  {
+   "title": "フロア図（14階）",
+   "url": "https://www.bigsight.jp/organizer/buildings/time/pdf/floor-14f.pdf"
+  },
+  {
+   "title": "周辺道路MAP",
+   "url": "https://www.bigsight.jp/organizer/buildings/time/pdf/accessCar.pdf"
+  },
+  {
+   "title": "よくあるご質問",
+   "url": "https://www.bigsight.jp/organizer/buildings/time/faq/"
+  },
+  {
+   "title": "お弁当・ケータリング・ドリンク手配案内",
+   "url": "https://www.bigsight.jp/organizer/buildings/time/facilities/bento-catering/"
+  }
+ ],
+ "checkedAt": "2026-11-07",
+ "lat": 35.617474,
+ "lng": 139.776535,
+ "nearby": {
+  "convenience": [
+   {
+    "name": "ファミリーマート 東京湾岸警察署前店",
+    "brand": "ファミリーマート",
+    "distanceM": 112,
+    "walkMin": 2,
+    "hours": "24時間営業",
+    "address": "東京都江東区青海2丁目7-4 theSOHO",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/57442",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "ファミリーマート 青海フロンティア店",
+    "brand": "ファミリーマート",
+    "distanceM": 178,
+    "walkMin": 3,
+    "hours": "24時間営業",
+    "address": "東京都江東区青海2丁目4-24 青海フロンティアビル",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/58661",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "ファミリーマート テレコムセンター店",
+    "brand": "ファミリーマート",
+    "distanceM": 254,
+    "walkMin": 4,
+    "hours": "7:00-23:00",
+    "address": "東京都江東区青海2丁目5-10",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/58227",
+    "note": "距離は公式の店舗位置で計算"
+   }
+  ],
+  "copyshop": [],
+  "hundredYen": [
+   {
+    "name": "Seria アクアシティお台場店",
+    "brand": "セリア",
+    "distanceM": 1204,
+    "walkMin": 16,
+    "hours": "月〜金 11:00-20:00／土〜日 11:00-21:00",
+    "address": "東京都港区台場1-7-1アクアシティお台場 4F",
+    "verified": true,
+    "source": "https://shop.seria-group.com/seria/info/000003057",
+    "note": "距離は公式の店舗位置で計算。遠め"
+   },
+   {
+    "name": "DAISO デックス東京ビーチ店",
+    "brand": "ダイソー",
+    "distanceM": 1293,
+    "walkMin": 17,
+    "hours": "11:00-20:00",
+    "address": "東京都港区台場一丁目6番1号デックス東京ビーチアイランドモール4階",
+    "verified": true,
+    "source": "https://www.daiso-sangyo.co.jp/shop/detail/002639",
+    "note": "距離は公式の店舗位置で計算。遠め"
+   }
+  ],
+  "donki": [
+   {
+    "name": "キラキラドンキ ダイバーシティ東京 プラザ店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 875,
+    "walkMin": 11,
+    "hours": "10:00-21:00",
+    "address": "東京都江東区青海1-1-10 ダイバーシティ東京 プラザ 2階",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=655",
+    "note": "距離は住所の位置で計算。ドン・キホーテの別業態（公式サイトの店舗名は「キラキラドンキ ダイバーシティ東京 プラザ店」）"
+   }
+  ]
+ },
+ "drinkDelivery": {
+  "available": true
+ },
+ "photo": {
+  "src": "/images/venues/time24-building.jpg",
+  "credit": "写真は最寄りのゆりかもめ テレコムセンター駅のイメージです（会場の建物ではありません）。© 東京特許許可局 / CC BY-SA 4.0 · Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Yurikamome_Telecom_Center_sta_001.jpg"
+ }
+}

@@ -1,0 +1,220 @@
+{
+ "slug": "tokyo-metropolitan-theatre",
+ "name": "Tokyo Metropolitan Theatre",
+ "address": "Tokyo 171-0021 1-8-1 Nishi-Ikebukuro, Toshima-ku",
+ "accessSummary": "Ikebukuro Station West Exit (JR, Tokyo Metro, Tobu Tojo Line, Seibu Ikebukuro Line): 2 min walk (directly connected to Exit 2b of the underground passage)",
+ "hours": "Rental time slots are morning 9:00-12:00 / afternoon 13:00-17:00 / night 18:00-22:00 (all day 9:00-22:00). The main phone line is open 9:00-22:00 (except closed days)",
+ "notice": null,
+ "rooms": [
+  {
+   "name": "Concert Hall (5F-7F)",
+   "note": "1,999 seats (1F 676, 2F 683, 3F 640; plus 8 wheelchair spaces). Stage about 21 m wide x 13.4 m deep x 20 m high. Facility fee (weekdays, all day 9:00-22:00, for users other than arts and cultural organizations): 1,050,000 yen if the highest ticket price is 10,000 yen or less, 1,080,000 yen if over 10,000 and up to 30,000 yen, 1,220,000 yen if over 30,000 yen (holidays: 1,110,000 / 1,150,000 / 1,300,000 yen; price list as of July 1, 2014 (Heisei 26))."
+  },
+  {
+   "name": "Playhouse (2F)",
+   "note": "829 seats (wheelchair spaces available) plus standing. 1F 626, 2F 203. The venue is not designed for operation with permanent lighting and sound equipment, and may not suit one-day live events, concerts, lectures and the like. Facility fee: all day (9:00-22:00) 754,000 yen; morning 150,000 yen / afternoon 301,000 yen / night 377,000 yen (as of August 2025 (Reiwa 7))."
+  },
+  {
+   "name": "Theatre East (B1F)",
+   "note": "166 to 272 seats (varies with the stage configuration). Platform floor that allows end stage, thrust stage, center stage and other formats. About 6.3 m from the base floor to the ceiling. Not designed for operation with permanent lighting and sound equipment. Facility fee: all day 185,000 yen; morning 37,000 yen / afternoon 74,000 yen / night 92,000 yen (as of August 2025 (Reiwa 7))."
+  },
+  {
+   "name": "Theatre West (B1F)",
+   "note": "222 to 270 seats (varies with the stage configuration). Main stage about 9 m wide x 7 m deep. Not designed for operation with permanent lighting and sound equipment. Facility fee: all day 196,000 yen; morning 39,000 yen / afternoon 78,000 yen / night 98,000 yen (as of August 2025 (Reiwa 7))."
+  },
+  {
+   "name": "Gallery 1 (5F)",
+   "note": "About 393㎡ (about 23 m wide x 17.1 m deep). Usable wall width about 54 m (about 216 m with all panels). All day (9:00-22:00) 130,000 yen."
+  },
+  {
+   "name": "Gallery 2 (5F)",
+   "note": "About 141㎡ (about 15.7 m wide x 9 m deep). Usable wall width about 41 m (about 113 m with all panels). All day (9:00-22:00) 47,000 yen."
+  },
+  {
+   "name": "Atelier East (B1F)",
+   "note": "About 76.9㎡ (14.5 m wide x 5.3 m deep). Usable wall width about 33 m. All day (9:00-22:00) 19,000 yen."
+  },
+  {
+   "name": "Atelier West (B1F)",
+   "note": "About 90.6㎡ (17.1 m wide x 5.3 m deep). Usable wall width about 38 m. All day (9:00-22:00) 20,000 yen."
+  },
+  {
+   "name": "Symphony Space (5F)",
+   "note": "Capacity 100. Grand piano on site. Tables and chairs are not set up; setup and restoration must be done within the usage time. Group registration is required. All day 49,000 yen."
+  },
+  {
+   "name": "Meeting Room 1 (5F)",
+   "note": "10 two-person long desks. All day 7,400 yen."
+  },
+  {
+   "name": "Meeting Room 2 (5F)",
+   "note": "6 two-person long desks, square (hollow) layout. All day 6,500 yen."
+  },
+  {
+   "name": "Meeting Room 3 (5F)",
+   "note": "10 two-person long desks. All day 7,600 yen."
+  },
+  {
+   "name": "Meeting Room 4 (5F)",
+   "note": "10 two-person long desks. All day 7,600 yen."
+  },
+  {
+   "name": "Meeting Room 5 (6F)",
+   "note": "14 two-person long desks. Grand piano on site. The floor area includes the anteroom. All day 15,000 yen."
+  },
+  {
+   "name": "Meeting Room 6 (6F)",
+   "note": "6 two-person long desks, square (hollow) layout. All day 6,500 yen."
+  },
+  {
+   "name": "Meeting Room 7 (6F)",
+   "note": "14 two-person long desks. The floor area includes the anteroom. All day 15,000 yen."
+  },
+  {
+   "name": "Rehearsal Room L (B2F)",
+   "note": "18 m x 9 m, capacity 100. Grand piano, mirrors and ballet barres. All day 60,000 yen."
+  },
+  {
+   "name": "Rehearsal Room M1 (B2F)",
+   "note": "10 m x 8 m, capacity 40. Grand piano, mirrors and ballet barres. All day 29,000 yen."
+  },
+  {
+   "name": "Rehearsal Room M2 (B2F)",
+   "note": "10 m x 5 m, capacity 30. Grand piano. All day 20,000 yen."
+  },
+  {
+   "name": "Rehearsal Room M3 (B2F)",
+   "note": "10 m x 10 m, capacity 50. Grand piano. All day 36,000 yen."
+  },
+  {
+   "name": "Rehearsal Room S1 (B2F)",
+   "note": "6 m x 4 m, capacity 10. Upright piano. All day 12,000 yen."
+  },
+  {
+   "name": "Rehearsal Room S2 (B2F)",
+   "note": "6 m x 4 m, capacity 10. Upright piano. All day 12,000 yen."
+  }
+ ],
+ "ops": {
+  "prevDaySetup": "Usage time includes all the time needed to use the facility, from the arrival of performers and staff to their departure (including setup and teardown). When only the stage is used without an audience, for load-in, rehearsals, teardown and the like, the facility fee alone is half the regular rate (not applicable when the seating area is used, such as for open rehearsals). (Price lists for the Concert Hall, Playhouse, Theatre East and Theatre West, as of August 2025 (Reiwa 7); the Concert Hall facility fee is as of July 1, 2014 (Heisei 26))",
+  "parking": "Tokyo Metropolitan Theatre underground parking (public pay parking): 100 spaces, flat-type. Vehicle limits: height 2.1 m, width 1.9 m, length 6.0 m. Open 7:00-24:00 (entry until 23:30). 310 yen per 30 minutes, maximum 2,500 yen per day. Directly connected to Ikebukuro Station by an underground passage.",
+  "waitingRooms": "The Concert Hall has 1 dressing room for the conductor (including a reception room), 6 for soloists, 3 medium dressing rooms and 1 large dressing room. The Playhouse has 11 dressing rooms (17.4 to 84.9㎡), and Theatre East and Theatre West have 4 each. Each dressing room has its own fee in the price list, payable in cash or by cashless payment by 19:00 on the last day of use, together with the ancillary equipment fee.",
+  "catering": "Eating, drinking and smoking are not allowed outside designated areas. Open flames, hazardous materials and items judged inappropriate for hall management may not be brought in.",
+  "restaurants": "On the 1st floor are Theatre Art Shop, Gonta (onigiri rice ball stand), Belg Aube (Belgian beer cafe, open 11:30-23:00), café de MOMO and a post office; on the 2nd floor is Café des Arts. Opening days and hours may change."
+ },
+ "documents": [
+  {
+   "title": "Concert Hall Price List (as of July 1, 2014 (Heisei 26))"
+  },
+  {
+   "title": "Concert Hall Ancillary Equipment Price List (as of August 2025 (Reiwa 7))"
+  },
+  {
+   "title": "Playhouse Price List (as of August 2025 (Reiwa 7))"
+  },
+  {
+   "title": "Theatre East Price List (as of August 2025 (Reiwa 7))"
+  },
+  {
+   "title": "Theatre West Price List (as of August 2025 (Reiwa 7))"
+  },
+  {
+   "title": "Rehearsal Rooms, Symphony Space and Meeting Rooms Price List (as of October 5, 2022 (Reiwa 4))"
+  },
+  {
+   "title": "Shared Ancillary Equipment Price List"
+  },
+  {
+   "title": "Concert Hall Equipment List"
+  },
+  {
+   "title": "Playhouse Equipment List"
+  },
+  {
+   "title": "Theatre East Equipment List"
+  },
+  {
+   "title": "Theatre West Equipment List"
+  },
+  {
+   "title": "Concert Hall Stage Drawing (flies-up pattern 1, 1/100)"
+  },
+  {
+   "title": "Playhouse Stage Drawing (1/100 section and others)"
+  },
+  {
+   "title": "Theatre East Stage Drawing (Pattern A)"
+  },
+  {
+   "title": "Theatre West Stage Drawing (Pattern A)"
+  },
+  {
+   "title": "Gallery 1 Floor Plan"
+  },
+  {
+   "title": "Gallery 2 Floor Plan"
+  },
+  {
+   "title": "Concert Hall Seating Chart"
+  },
+  {
+   "title": "Application and Submission Forms (usage application, performance plan, fire department forms and others)"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "FamilyMart Nishi-Ikebukuro 3-chome",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "FamilyMart Ikebukuro Eki Nishi",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Lawson Metros Ikebukuro Nanseiguchi",
+    "hours": "7:00-22:00",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "Accea Nishi-Ikebukuro",
+    "hours": "Weekdays 8:00-22:00, Sat & holidays 10:00-19:00 / Closed Sun",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "Kinko's Ikebukuro West Exit",
+    "hours": "Weekdays 9:00-22:00 / Sat, Sun & holidays 10:00-22:00",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "3COINS +plus Lumine Ikebukuro",
+    "hours": "11:00-21:00",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "DAISO Ikebukuro Tobu",
+    "hours": "10:00-20:00",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "donki": [
+   {
+    "name": "Don Quijote Ikebukuro East Exit Ekimae",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. The store name on the Don Quijote official website is \"Ikebukuro Higashiguchi Ekimae\" (池袋東口駅前店)."
+   },
+   {
+    "name": "Don Quijote Ikebukuro Station West Exit",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. The store name on the Don Quijote official website is \"Ikebukuro Eki Nishiguchi\" (池袋駅西口店)."
+   }
+  ]
+ },
+ "photoCredit": "© Wei-Te Wong from Taipei City, Taiwan, Republic of China / CC BY-SA 2.0 · Wikimedia Commons"
+}

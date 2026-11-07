@@ -1,0 +1,300 @@
+{
+ "slug": "tokyo-cci-hall-conference-room",
+ "nameJa": "東京商工会議所 Hall＆Conference Room",
+ "nameEn": "Tokyo Chamber of Commerce and Industry Hall & Conference Room",
+ "type": "conference",
+ "area": "marunouchi-nihonbashi-venues",
+ "address": "〒100-0005 東京都千代田区丸の内3-2-2 丸の内二重橋ビル 5階",
+ "officialUrl": "https://www.tokyo-cci.or.jp/kaigishitsu/",
+ "organizerUrl": "https://www.tokyo-cci.or.jp/kaigishitsu/guide/",
+ "bizintokyoSlug": "tokyo-cci-hall-conference-room",
+ "accessSummary": "東京メトロ千代田線「二重橋前」駅 B5出口直結／東京メトロ有楽町線「有楽町」駅 B5出口直結／都営三田線「日比谷」駅 B5出口直結／JR「有楽町」駅 東京国際フォーラム口 徒歩5分／JR「東京」駅 丸の内南口 徒歩10分",
+ "notice": null,
+ "hours": "利用時間 9:00〜21:00（当所が承認した場合のみ 8:00〜9:00・21:00〜22:00 も利用可）。事務局 平日9:00〜17:00（土・日・祝日、年末年始を除く）",
+ "rooms": [
+  {
+   "name": "東商渋沢ホール",
+   "areaM2": 580,
+   "ceilingM": 6.8,
+   "theater": 500,
+   "school": 240,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "シアター500は椅子230席＋電動式移動観覧席（ロールバックチェア）270席。スクールは2人掛け基準で、3人掛けも可。ステージは幅約13m×奥行約4.5m×高さ最大50cm（高さのみ調整可）。時間指定パックでの貸出し（2022.11.01の使用例図は椅子230席＋ロールバック270席）"
+  },
+  {
+   "name": "Room A1",
+   "areaM2": 195,
+   "ceilingM": 2.8,
+   "theater": 180,
+   "school": 60,
+   "ushape": 36,
+   "standing": 100,
+   "banquet": null,
+   "note": "2人掛け基準の人数（3人掛けも可）。"
+  },
+  {
+   "name": "Room A2／A3／A4／A5（各室）",
+   "areaM2": 85,
+   "ceilingM": 2.8,
+   "theater": 72,
+   "school": 24,
+   "ushape": 20,
+   "standing": 50,
+   "banquet": null,
+   "note": "2人掛け基準の人数（3人掛けも可）。Room A2のシアターは使用例図（2022.11.01）では64席。A4は使用例図でコの字18席"
+  },
+  {
+   "name": "Room A1＋A2（連結）",
+   "areaM2": 280,
+   "ceilingM": 2.8,
+   "theater": 252,
+   "school": 108,
+   "ushape": 52,
+   "standing": 180,
+   "banquet": null,
+   "note": "2人掛け基準の人数（3人掛けも可）。"
+  },
+  {
+   "name": "Room A3＋A4／A4＋A5（連結）",
+   "areaM2": 170,
+   "ceilingM": 2.8,
+   "theater": 144,
+   "school": 60,
+   "ushape": 32,
+   "standing": 100,
+   "banquet": null,
+   "note": "2人掛け基準の人数（3人掛けも可）。"
+  },
+  {
+   "name": "Room A3＋A4＋A5（連結）",
+   "areaM2": 255,
+   "ceilingM": 2.8,
+   "theater": 252,
+   "school": 96,
+   "ushape": 52,
+   "standing": 150,
+   "banquet": null,
+   "note": "2人掛け基準の人数（3人掛けも可）。"
+  },
+  {
+   "name": "Room B1／B2（各室）",
+   "areaM2": 120,
+   "ceilingM": 2.8,
+   "theater": 126,
+   "school": 40,
+   "ushape": 28,
+   "standing": 70,
+   "banquet": null,
+   "note": "2人掛け基準の人数（3人掛けも可）。"
+  },
+  {
+   "name": "Room B1＋B2（連結）",
+   "areaM2": 240,
+   "ceilingM": 2.8,
+   "theater": 234,
+   "school": 80,
+   "ushape": 48,
+   "standing": 140,
+   "banquet": null,
+   "note": "2人掛け基準の人数（3人掛けも可）。"
+  },
+  {
+   "name": "Room B3",
+   "areaM2": 80,
+   "ceilingM": 2.8,
+   "theater": 80,
+   "school": 30,
+   "ushape": 24,
+   "standing": 50,
+   "banquet": null,
+   "note": "2人掛け基準の人数（3人掛けも可）。"
+  }
+ ],
+ "roomsSource": "https://www.tokyo-cci.or.jp/kaigishitsu/room/",
+ "ops": {
+  "prevDaySetup": {
+   "text": "前日準備（リハーサル）のための予約は、空き状況により可能。使用料は全額負担。準備や片付けは使用時間内に行う。レイアウト・什器備品の変更は使用日の1営業日前の正午まで受付。",
+   "source": "https://www.tokyo-cci.or.jp/kaigishitsu/faq/"
+  },
+  "loadingHours": {
+   "text": "台車を使った搬入は、地下2Fから搬入用エレベーターを使う。作業届の提出が必要。搬入用エレベーターのかご内寸は幅1,900×奥行1,800×高さ2,300mm。使用日1営業日前〜当日は、ダンボール3箱（目安：縦約25×横約35×高さ約20cm）まで無償で荷物を預かる（貴重品・壊れ物・食品は不可、事後の配送サービスなし）。",
+   "source": "https://www.tokyo-cci.or.jp/kaigishitsu/faq/"
+  },
+  "vehicleRules": {
+   "text": "搬出入車両の入場可能車高は3.0m。駐車場出入口は丸の内4th通り側。",
+   "source": "https://www.tokyo-cci.or.jp/kaigishitsu/faq/"
+  },
+  "parking": {
+   "text": "ビル地下に機械式駐車場がある（高さ2.0m）。大型車用51台：全高2.0m未満×全長5.3m以下×全幅1.95m以下、重量2.5t以下。中型車用21台：全高2.0m未満×全長5.0m以下×全幅1.95m以下、重量2.5t以下。",
+   "source": "https://www.tokyo-cci.or.jp/kaigishitsu/faq/"
+  },
+  "waitingRooms": {
+   "text": "控室1・2（各約10㎡）。4人掛け会議テーブル・椅子・姿見・収納棚・コートハンガーを備える。控室のみの予約は不可で、渋沢ホールまたは中小会議室と併せて利用する。待ち合わせにはメンバーズラウンジ（平日10:00〜17:00、ドリンクオーダー要）を案内している。",
+   "source": "https://www.tokyo-cci.or.jp/kaigishitsu/price/"
+  },
+  "catering": {
+   "text": "飲食の持ち込みは断っており、提携ケータリング会社（橋膳・フォーシーズ・新吉・コルドンブルー・とんかつまい泉・人形町今半）を紹介する。食事の内容・数量の確定は使用の1週間前まで。ペットボトル・紙パック飲料を持ち込む場合は100本毎に5,500円（追加料金表 2026.9）。利用者手配の什器・機材・物品の持ち込み料は室料の10％。（FAQは飲食持込を断るとあり、追加料金表にはドリンク持込料の定めがあるため、新しい追加料金表の記載も併記）",
+   "source": "https://www.tokyo-cci.or.jp/kaigishitsu/catering/"
+  }
+ },
+ "documents": [
+  {
+   "title": "施設のご案内（ホール・会議室一覧）",
+   "url": "https://www.tokyo-cci.or.jp/kaigishitsu/room/"
+  },
+  {
+   "title": "料金表",
+   "url": "https://www.tokyo-cci.or.jp/kaigishitsu/price/"
+  },
+  {
+   "title": "室料改訂に関するご案内（2026年7月1日、2026年9月1日付改定）",
+   "url": "https://www.tokyo-cci.or.jp/page.jsp?id=1209581"
+  },
+  {
+   "title": "追加料金表（2026.9）",
+   "url": "https://www.tokyo-cci.or.jp/kaigishitsu/room/additionalprice.pdf"
+  },
+  {
+   "title": "貸出備品一覧表（付属設備・備品）（2026.9）",
+   "url": "https://www.tokyo-cci.or.jp/kaigishitsu/room/price_bihin.pdf"
+  },
+  {
+   "title": "レイアウト使用例（2022.11.01）",
+   "url": "https://www.tokyo-cci.or.jp/kaigishitsu/room/space.pdf"
+  },
+  {
+   "title": "利用の流れ・お支払い・キャンセル",
+   "url": "https://www.tokyo-cci.or.jp/kaigishitsu/guide/"
+  },
+  {
+   "title": "ケータリング",
+   "url": "https://www.tokyo-cci.or.jp/kaigishitsu/catering/"
+  },
+  {
+   "title": "よくあるご質問",
+   "url": "https://www.tokyo-cci.or.jp/kaigishitsu/faq/"
+  }
+ ],
+ "checkedAt": "2026-11-07",
+ "lat": 35.677837,
+ "lng": 139.761429,
+ "nearby": {
+  "convenience": [
+   {
+    "name": "ナチュラルローソン 新東京ビル店",
+    "brand": "ナチュラルローソン",
+    "distanceM": 140,
+    "walkMin": 2,
+    "hours": "7:00-23:00",
+    "address": "東京都千代田区丸の内3-3-1",
+    "verified": true,
+    "source": "https://www.areamarker.com/lawson/info/169213",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "ナチュラルローソン 丸の内マイプラザ店",
+    "brand": "ナチュラルローソン",
+    "distanceM": 181,
+    "walkMin": 3,
+    "hours": "7:00-23:00",
+    "address": "東京都千代田区丸の内2-1-1",
+    "verified": true,
+    "source": "https://www.areamarker.com/lawson/info/170593",
+    "note": "距離は公式の店舗位置で計算"
+   },
+   {
+    "name": "ローソン 丸の内パークビル店",
+    "brand": "ローソン",
+    "distanceM": 182,
+    "walkMin": 3,
+    "hours": "7:00-23:00",
+    "address": "東京都千代田区丸の内2-6-1",
+    "verified": true,
+    "source": "https://www.areamarker.com/lawson/info/153011",
+    "note": "距離は公式の店舗位置で計算"
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "アクセア 銀座ファイブ店",
+    "brand": "アクセア",
+    "distanceM": 609,
+    "walkMin": 8,
+    "hours": "平日 10:00-20:00／土・日・祝 休み",
+    "address": "東京都中央区銀座5-1 銀座ファイブ2F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/entry.html",
+    "note": "距離は住所の位置で計算。アクセアミニ（小型店）。店頭では現金払い不可（クレジットカード・電子マネー・QRコード決済など）"
+   },
+   {
+    "name": "アクセア 京橋店",
+    "brand": "アクセア",
+    "distanceM": 631,
+    "walkMin": 8,
+    "hours": "平日 8:00-22:00／土・日・祝 10:00-19:00",
+    "address": "東京都中央区八重洲2-8-8 大星八重洲ビル1F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/entry.html",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "DAISO マロニエゲート銀座店",
+    "brand": "ダイソー",
+    "distanceM": 541,
+    "walkMin": 7,
+    "hours": "11:00-21:00",
+    "address": "東京都中央区銀座3-2-1 マロニエゲート銀座2 6階",
+    "verified": true,
+    "source": "https://www.daiso-sangyo.co.jp/shop/detail/009168",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "3COINS +plus 西銀座デパート店",
+    "brand": "3COINS",
+    "distanceM": 566,
+    "walkMin": 8,
+    "hours": "11:00-20:00",
+    "address": "東京都中央区銀座4-1 西銀座デパート2F",
+    "verified": true,
+    "source": "https://palcloset.storelocator.jp/detail/2263",
+    "note": "距離は公式の店舗位置で計算"
+   }
+  ],
+  "donki": [
+   {
+    "name": "ドン・キホーテ 銀座本館（銀座ナイン3号館）",
+    "brand": "ドン・キホーテ",
+    "distanceM": 1120,
+    "walkMin": 14,
+    "hours": "24時間営業",
+    "address": "東京都中央区銀座8-10 銀座ナイン3号館",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=92",
+    "note": "距離は住所の位置で計算。遠め"
+   },
+   {
+    "name": "ドン・キホーテ ピカソ赤坂店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 2202,
+    "walkMin": 28,
+    "hours": "7:00-3:00",
+    "address": "東京都港区赤坂3-11-14",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=289",
+    "note": "距離は住所の位置で計算。ドン・キホーテ公式サイトの店舗名は「ピカソ赤坂店」。ドン・キホーテの別業態。遠い"
+   }
+  ]
+ },
+ "drinkDelivery": {
+  "available": true
+ },
+ "photo": {
+  "src": "/images/venues/tokyo-cci-hall-conference-room.jpg",
+  "credit": "© Kakidai / CC BY-SA 4.0 · Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Marunouchi_Nijūbashi_Building.jpg"
+ }
+}

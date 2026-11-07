@@ -1,0 +1,139 @@
+{
+ "slug": "tokyo-cci-hall-conference-room",
+ "name": "Tokyo Chamber of Commerce and Industry Hall & Conference Room",
+ "address": "Tokyo 100-0005 Marunouchi Nijubashi Building 5F, 3-2-2 Marunouchi, Chiyoda-ku",
+ "accessSummary": "Tokyo Metro Chiyoda Line, Nijubashimae Station: directly connected to Exit B5 / Tokyo Metro Yurakucho Line, Yurakucho Station: directly connected to Exit B5 / Toei Mita Line, Hibiya Station: directly connected to Exit B5 / JR Yurakucho Station, Tokyo International Forum Exit: 5 min walk / JR Tokyo Station, Marunouchi South Exit: 10 min walk",
+ "hours": "Usage hours 9:00-21:00 (8:00-9:00 and 21:00-22:00 can also be used only when approved by the Chamber). Secretariat: weekdays 9:00-17:00 (excluding Sat, Sun, holidays and the year-end and New Year holidays)",
+ "notice": null,
+ "rooms": [
+  {
+   "name": "Tokyo Chamber of Commerce and Industry Shibusawa Hall",
+   "note": "Theater 500 consists of 230 chairs + 270 seats on electric movable bleachers (roll-back chairs). School is based on 2 people per desk; 3 per desk is also possible. The stage is about 13 m wide x 4.5 m deep x up to 50 cm high (only the height is adjustable). Rented as a time-specified pack (the 2022.11.01 usage example drawing shows 230 chairs + 270 roll-back seats)"
+  },
+  {
+   "name": "Room A1",
+   "note": "Capacity is based on 2 people per desk (3 per desk is also possible)."
+  },
+  {
+   "name": "Room A2 / A3 / A4 / A5 (each)",
+   "note": "Capacity is based on 2 people per desk (3 per desk is also possible). The theater capacity of Room A2 is 64 seats in the usage example drawing (2022.11.01). A4 is 18 seats in U-shape in the usage example drawing"
+  },
+  {
+   "name": "Room A1 + A2 (connected)",
+   "note": "Capacity is based on 2 people per desk (3 per desk is also possible)."
+  },
+  {
+   "name": "Room A3 + A4 / A4 + A5 (connected)",
+   "note": "Capacity is based on 2 people per desk (3 per desk is also possible)."
+  },
+  {
+   "name": "Room A3 + A4 + A5 (connected)",
+   "note": "Capacity is based on 2 people per desk (3 per desk is also possible)."
+  },
+  {
+   "name": "Room B1 / B2 (each)",
+   "note": "Capacity is based on 2 people per desk (3 per desk is also possible)."
+  },
+  {
+   "name": "Room B1 + B2 (connected)",
+   "note": "Capacity is based on 2 people per desk (3 per desk is also possible)."
+  },
+  {
+   "name": "Room B3",
+   "note": "Capacity is based on 2 people per desk (3 per desk is also possible)."
+  }
+ ],
+ "ops": {
+  "prevDaySetup": "A reservation for day-before preparation (rehearsal) is possible depending on availability. The full usage fee is charged. Setup and cleanup must be done within the usage time. Changes to the layout and fixtures and equipment are accepted until noon on the business day before the usage date.",
+  "loadingHours": "For load-in using a hand truck, use the load-in elevator from B2F. A work notification must be submitted. The interior of the load-in elevator car is 1,900 mm wide x 1,800 mm deep x 2,300 mm high. From 1 business day before the usage date through the day itself, up to 3 cardboard boxes (guideline: about 25 x 35 x 20 cm high) are held free of charge (valuables, fragile items and food are not accepted; there is no delivery service afterward).",
+  "vehicleRules": "The maximum vehicle height allowed for load-in and load-out vehicles is 3.0 m. The parking entrance is on the Marunouchi 4th Street side.",
+  "parking": "There is a mechanical parking lot in the building's basement (height 2.0 m). 51 spaces for large vehicles: overall height under 2.0 m x length 5.3 m or less x width 1.95 m or less, weight 2.5 t or less. 21 spaces for medium vehicles: overall height under 2.0 m x length 5.0 m or less x width 1.95 m or less, weight 2.5 t or less.",
+  "waitingRooms": "Waiting rooms 1 and 2 (about 10㎡ each). Each is equipped with a 4-person meeting table, chairs, a full-length mirror, a storage shelf and a coat hanger. Waiting rooms cannot be reserved on their own; they are used together with Shibusawa Hall or the small and medium conference rooms. For meeting up, the Members Lounge (weekdays 10:00-17:00, drink order required) is recommended.",
+  "catering": "Outside food and drink may not be brought in, and partner caterers (Hashizen, Four Seasons, Shinkichi, Cordon Bleu, Tonkatsu Maisen, Ningyocho Imahan) are introduced. The food menu and quantities must be finalized by 1 week before the usage date. If you bring in PET bottle or paper carton drinks, the fee is 5,500 yen per 100 bottles (Additional Fee Schedule 2026.9). The fee for bringing in fixtures, equipment or items arranged by the user is 10% of the room fee. (The FAQ says outside food and drink are not accepted, while the Additional Fee Schedule sets a drink bring-in fee, so the description in the newer Additional Fee Schedule is also given)"
+ },
+ "documents": [
+  {
+   "title": "Facility Guide (List of Halls and Conference Rooms)"
+  },
+  {
+   "title": "Price List"
+  },
+  {
+   "title": "Notice on Room Fee Revisions (revised July 1, 2026 and September 1, 2026)"
+  },
+  {
+   "title": "Additional Fee Schedule (2026.9)"
+  },
+  {
+   "title": "Rental Equipment List (Attached Facilities and Equipment) (2026.9)"
+  },
+  {
+   "title": "Layout Usage Examples (2022.11.01)"
+  },
+  {
+   "title": "Booking Process, Payment and Cancellation"
+  },
+  {
+   "title": "Catering"
+  },
+  {
+   "title": "FAQ"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "Natural Lawson Shin-Tokyo Building",
+    "hours": "7:00-23:00",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "Natural Lawson Marunouchi My Plaza",
+    "hours": "7:00-23:00",
+    "note": "Distance is calculated from the official store location."
+   },
+   {
+    "name": "Lawson Marunouchi Park Building",
+    "hours": "7:00-23:00",
+    "note": "Distance is calculated from the official store location."
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "Accea Ginza Five",
+    "hours": "Weekdays 10:00-20:00 / Closed Sat, Sun & holidays",
+    "note": "Distance is calculated from the address location. Accea Mini (a small-format store). Cash payment is not accepted at the store (credit cards, e-money, QR code payments, etc.)"
+   },
+   {
+    "name": "ACCEA Kyobashi",
+    "hours": "Weekdays 8:00-22:00, Sat, Sun & holidays 10:00-19:00",
+    "note": "Distance is calculated from the address location."
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "DAISO Marronnier Gate Ginza",
+    "hours": "11:00-21:00",
+    "note": "Distance is calculated from the address location."
+   },
+   {
+    "name": "3COINS +plus Nishi-Ginza Department Store",
+    "hours": "11:00-20:00",
+    "note": "Distance is calculated from the official store location."
+   }
+  ],
+  "donki": [
+   {
+    "name": "Don Quijote Ginza Main Building (Ginza Nine Building No. 3)",
+    "hours": "Open 24 hours",
+    "note": "Distance is calculated from the address location. Rather far."
+   },
+   {
+    "name": "Picasso Akasaka (Don Quijote)",
+    "hours": "7:00-3:00",
+    "note": "Distance is calculated from the address location. The store name on the Don Quijote official website is \"Picasso Akasaka\" (ピカソ赤坂店). A different Don Quijote format. Far."
+   }
+  ]
+ },
+ "photoCredit": "© Kakidai / CC BY-SA 4.0 · Wikimedia Commons"
+}

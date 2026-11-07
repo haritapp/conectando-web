@@ -1,0 +1,346 @@
+{
+ "slug": "rihga-royal-hotel-tokyo",
+ "nameJa": "リーガロイヤルホテル東京",
+ "nameEn": "RIHGA Royal Hotel Tokyo",
+ "type": "hotel",
+ "area": "shinjuku-venues",
+ "address": "〒169-8613 東京都新宿区戸塚町1-104-19",
+ "officialUrl": "https://www.rihga.co.jp/tokyo",
+ "organizerUrl": "https://www.rihga.co.jp/tokyo/party/",
+ "bizintokyoSlug": "rihga-royal-hotel-tokyo",
+ "accessSummary": "地下鉄東西線早稲田駅3a出口から徒歩約7分／地下鉄有楽町線江戸川橋駅1b出口から徒歩約10分／都電荒川線早稲田駅から徒歩約3分",
+ "notice": null,
+ "hours": null,
+ "rooms": [
+  {
+   "name": "ダイヤモンド（2F）",
+   "areaM2": 330,
+   "ceilingM": "2.80-4.00",
+   "theater": 360,
+   "school": 180,
+   "ushape": 64,
+   "standing": 180,
+   "banquet": 150,
+   "note": "間口×奥行 13.8×23.1m。一本卓120名"
+  },
+  {
+   "name": "エメラルド（2F）",
+   "areaM2": 205,
+   "ceilingM": "2.95-3.95",
+   "theater": 220,
+   "school": 120,
+   "ushape": 44,
+   "standing": 100,
+   "banquet": 80,
+   "note": "間口×奥行 13.8×15.1m。一本卓72名"
+  },
+  {
+   "name": "サファイア（2F）",
+   "areaM2": 205,
+   "ceilingM": "2.95-3.95",
+   "theater": 220,
+   "school": 120,
+   "ushape": 44,
+   "standing": 100,
+   "banquet": 80,
+   "note": "間口×奥行 13.8×15.1m。一本卓72名"
+  },
+  {
+   "name": "アイリス（2F）",
+   "areaM2": 60,
+   "ceilingM": "2.70-3.00",
+   "theater": 40,
+   "school": 24,
+   "ushape": 16,
+   "standing": 30,
+   "banquet": 20,
+   "note": "間口×奥行 6.6×7.6m。一本卓12名"
+  },
+  {
+   "name": "アゼリア（2F）",
+   "areaM2": 60,
+   "ceilingM": "2.70-3.00",
+   "theater": 40,
+   "school": 24,
+   "ushape": 16,
+   "standing": 30,
+   "banquet": 20,
+   "note": "間口×奥行 6.6×7.6m。一本卓12名"
+  },
+  {
+   "name": "ロイヤルホール（3F）",
+   "areaM2": 840,
+   "ceilingM": "5.80-6.20",
+   "theater": 1000,
+   "school": 624,
+   "ushape": 136,
+   "standing": 1000,
+   "banquet": 400,
+   "note": "間口×奥行 21.8×37.9m。ビュッフェ1,000名はガーデンテラスを含む。一本卓360名"
+  },
+  {
+   "name": "ロイヤルホール 分割①",
+   "areaM2": 520,
+   "ceilingM": "5.80-6.20",
+   "theater": 500,
+   "school": 270,
+   "ushape": 76,
+   "standing": 300,
+   "banquet": 250,
+   "note": "間口×奥行 21.8×22.5m。一本卓200名"
+  },
+  {
+   "name": "ロイヤルホール 分割②",
+   "areaM2": 320,
+   "ceilingM": "5.80-6.20",
+   "theater": 320,
+   "school": 180,
+   "ushape": 60,
+   "standing": 200,
+   "banquet": 150,
+   "note": "間口×奥行 21.8×14.6m。一本卓120名"
+  },
+  {
+   "name": "ガーデンテラス（3F）",
+   "areaM2": 174,
+   "ceilingM": "2.30-3.10",
+   "theater": 70,
+   "school": 50,
+   "ushape": 48,
+   "standing": 80,
+   "banquet": 65,
+   "note": "間口×奥行 10.4×18.0m。一本卓30名"
+  },
+  {
+   "name": "クリスタル（3F）",
+   "areaM2": 208,
+   "ceilingM": "2.75-2.90",
+   "theater": 144,
+   "school": 72,
+   "ushape": 54,
+   "standing": 110,
+   "banquet": 72,
+   "note": "間口×奥行 9.9×21.1m。一本卓48名"
+  },
+  {
+   "name": "クリスタル 分割①",
+   "areaM2": 131,
+   "ceilingM": "2.75-2.90",
+   "theater": 80,
+   "school": 42,
+   "ushape": 32,
+   "standing": 70,
+   "banquet": 48,
+   "note": "間口×奥行 9.9×13.3m。一本卓32名"
+  },
+  {
+   "name": "クリスタル 分割②",
+   "areaM2": 77,
+   "ceilingM": "2.75-2.90",
+   "theater": 50,
+   "school": 45,
+   "ushape": 20,
+   "standing": 40,
+   "banquet": 30,
+   "note": "間口×奥行 9.9×7.8m。一本卓18名"
+  },
+  {
+   "name": "アメジスト（3F）",
+   "areaM2": 70,
+   "ceilingM": "2.70-3.10",
+   "theater": null,
+   "school": null,
+   "ushape": 16,
+   "standing": null,
+   "banquet": null,
+   "note": "間口×奥行 8.1×7.1m。一本卓12名"
+  },
+  {
+   "name": "ガーネット（3F）",
+   "areaM2": 70,
+   "ceilingM": "2.70-3.10",
+   "theater": null,
+   "school": null,
+   "ushape": 16,
+   "standing": null,
+   "banquet": null,
+   "note": "間口×奥行 8.1×7.1m。一本卓12名"
+  },
+  {
+   "name": "カトレアⅠ（4F）",
+   "areaM2": 70,
+   "ceilingM": "2.50-2.80",
+   "theater": 48,
+   "school": 36,
+   "ushape": null,
+   "standing": 50,
+   "banquet": 20,
+   "note": "間口×奥行 10.0×6.2m。ビュッフェ50名はⅠ・Ⅱあわせて。一本卓18名"
+  },
+  {
+   "name": "カトレアⅡ（4F）",
+   "areaM2": 75,
+   "ceilingM": "2.50-2.80",
+   "theater": 72,
+   "school": 45,
+   "ushape": 20,
+   "standing": 50,
+   "banquet": 30,
+   "note": "間口×奥行 10.0×6.8m。ビュッフェ50名はⅠ・Ⅱあわせて。一本卓18名"
+  }
+ ],
+ "roomsSource": "https://www.rihga.co.jp/hubfs/rihga.co.jp-Party/pdf/tokyo/venue.pdf",
+ "ops": {
+  "prevDaySetup": {
+   "text": "お荷物の送付は、予約時間内に到着するように配送会社を手配する（宴席日の前日から預かり）。ご予約内容には準備の時間を含み、準備時間は打ち合わせ時に相談する。",
+   "source": "https://www.rihga.co.jp/tokyo/party/guide/"
+  },
+  "loadingHours": {
+   "text": "主催者が直接依頼した業者が行う装飾・余興等の機器・材料の搬入・搬出や看板のサイズ・取付方法・設置場所は、ホテルの美観・動線を踏まえた一定のルールのもとで実施する。業者には事前にホテル担当へ連絡する（宴会予約課 03-5285-8962）。",
+   "source": "https://www.rihga.co.jp/hubfs/assets/pdf/tokyo/party/rtk-party-Terms-of-Use.pdf"
+  },
+  "parking": {
+   "text": "宴会で車を利用する場合、代表者（幹事）以外は個別に駐車料金が発生する（宴会利用は4時間以内無料、以降1時間ごとに800円）。ゲストには公共交通機関の利用を案内している。",
+   "source": "https://www.rihga.co.jp/tokyo/party/guide/"
+  },
+  "catering": {
+   "text": "会議用弁当を用意している。装飾・音楽・照明・余興・レセプタントはホテルが指定業者に手配し、指定業者以外を使う場合は事前にホテルの了解が必要（宴会・催事規約、2019年4月1日付）。",
+   "source": "https://www.rihga.co.jp/hubfs/assets/pdf/tokyo/party/rtk-party-Terms-of-Use.pdf"
+  },
+  "restaurants": {
+   "text": "館内に中国料理「皇家龍鳳」、京料理「たん熊北店」、鉄板焼「みや美」、ダイニング「フェリオ」、ガーデンラウンジ、セラーバーがある。レストランの個室（4～36名）や貸切の用意もあり、研修後の懇親会・二次会に宴会場を続けて使える。",
+   "source": "https://www.rihga.co.jp/tokyo/restaurant/private_room/"
+  }
+ },
+ "documents": [
+  {
+   "title": "宴会場概要（2024年3月発行）",
+   "url": "https://www.rihga.co.jp/hubfs/rihga.co.jp-Party/pdf/tokyo/venue.pdf"
+  },
+  {
+   "title": "宴会場フロアマップ",
+   "url": "https://www.rihga.co.jp/hubfs/assets/pdf/tokyo/party/rtk-party-floormap.pdf"
+  },
+  {
+   "title": "宴会・催事規約（2019年4月1日）",
+   "url": "https://www.rihga.co.jp/hubfs/assets/pdf/tokyo/party/rtk-party-Terms-of-Use.pdf"
+  },
+  {
+   "title": "ご利用のご案内",
+   "url": "https://www.rihga.co.jp/tokyo/party/guide/"
+  },
+  {
+   "title": "宴会オプションのご案内",
+   "url": "https://www.rihga.co.jp/tokyo/party/service/"
+  }
+ ],
+ "checkedAt": "2026-11-07",
+ "lat": 35.710083,
+ "lng": 139.722244,
+ "nearby": {
+  "convenience": [
+   {
+    "name": "ファミリーマート 早稲田鶴巻町店",
+    "brand": "ファミリーマート",
+    "distanceM": 276,
+    "walkMin": 4,
+    "hours": "24時間営業",
+    "address": "東京都新宿区早稲田鶴巻町519",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/04535",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "ファミリーマート 早稲田大学南門店",
+    "brand": "ファミリーマート",
+    "distanceM": 286,
+    "walkMin": 4,
+    "hours": "24時間営業",
+    "address": "東京都新宿区戸塚町1丁目102",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/77377",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "ファミリーマート 早稲田大学店",
+    "brand": "ファミリーマート",
+    "distanceM": 322,
+    "walkMin": 5,
+    "hours": "8:30-22:00",
+    "address": "東京都新宿区西早稲田1-6-1",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/20340",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "アクセア 早稲田店",
+    "brand": "アクセア",
+    "distanceM": 853,
+    "walkMin": 11,
+    "hours": "平日9:00〜20:00、土日祝10:00〜19:00",
+    "address": "東京都新宿区山吹町291-1",
+    "verified": true,
+    "source": "https://www.accea.co.jp/entry.html",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "DAISO ヨークフーズ早稲田店",
+    "brand": "ダイソー",
+    "distanceM": 469,
+    "walkMin": 6,
+    "hours": "10:00-22:00",
+    "address": "東京都新宿区早稲田町74-10 ヨークフーズ早稲田店3階",
+    "verified": true,
+    "source": "https://www.daiso-sangyo.co.jp/shop/detail/008604",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "DAISO くすりの福太郎市谷柳町店",
+    "brand": "ダイソー",
+    "distanceM": 1274,
+    "walkMin": 16,
+    "hours": "10:00-22:00",
+    "address": "東京都新宿区市谷柳町37マージュ市谷柳町地下1階",
+    "verified": true,
+    "source": "https://www.daiso-sangyo.co.jp/shop/detail/009482",
+    "note": "距離は住所の位置で計算。遠め"
+   }
+  ],
+  "donki": [
+   {
+    "name": "ドン・キホーテ 新宿明治通り店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 1319,
+    "walkMin": 17,
+    "hours": "24時間営業",
+    "address": "東京都新宿区戸山3-16-6",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=378",
+    "note": "距離は住所の位置で計算。遠め。ドン・キホーテ公式サイトの店舗名は「新宿明治通り店」"
+   },
+   {
+    "name": "ドン・キホーテ 高田馬場駅前店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 1600,
+    "walkMin": 20,
+    "hours": "24時間営業",
+    "address": "東京都新宿区高田馬場1-26-5",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=276",
+    "note": "距離は住所の位置で計算。遠め。ドン・キホーテ公式サイトの店舗名は「高田馬場駅前店」"
+   }
+  ]
+ },
+ "drinkDelivery": {
+  "available": true
+ },
+ "photo": {
+  "src": "/images/venues/rihga-royal-hotel-tokyo.jpg",
+  "credit": "© Syced / CC0 · Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rihga_Royal_Hotel_Tokyo.jpg"
+ }
+}

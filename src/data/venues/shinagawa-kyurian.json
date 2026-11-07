@@ -1,0 +1,399 @@
+{
+ "slug": "shinagawa-kyurian",
+ "nameJa": "品川区立総合区民会館（きゅりあん）",
+ "nameEn": "",
+ "type": "public",
+ "area": "shinagawa-venues",
+ "address": "〒140-0011 東京都品川区東大井5-18-1",
+ "officialUrl": "https://www.shinagawa-culture.or.jp/curian/index.html",
+ "organizerUrl": "https://www.shinagawa-culture.or.jp/curian/facility/usage.html",
+ "bizintokyoSlug": "shinagawa-kyurian",
+ "accessSummary": "JR京浜東北線・東急大井町線・りんかい線 大井町駅 徒歩約2分／京浜急行線 青物横丁駅 徒歩約15分／京浜急行線 鮫洲駅 徒歩約10分",
+ "notice": "営利を主目的とした施設利用はできない。物品販売・契約などの目的の利用は承認されない（大・小・イベントホールの入場料徴収を除く）。",
+ "hours": "開館 9時～21時30分（受付 9時～20時）。時間区分は午前 9時～12時／午後 13時～17時／夜間 18時～21時30分で、利用時間には準備・後片付けも含む。休館日は年末年始（12月29日～1月3日）",
+ "rooms": [
+  {
+   "name": "大ホール",
+   "areaM2": 1694,
+   "ceilingM": null,
+   "theater": 1074,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "約1,694㎡。ワンスロープ型の固定椅子席1,074席。主舞台は間口15m・奥行18.5m・高さ8m。車イス用スペース6・母子席8・立見定員54人"
+  },
+  {
+   "name": "小ホール",
+   "areaM2": null,
+   "ceilingM": null,
+   "theater": 336,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "椅子席193～336席（舞台プロセニアム時は間口9m・奥行7m・高さ4.5m・285席）。可変式舞台。車イス用スペース4・立見定員65人"
+  },
+  {
+   "name": "イベントホール",
+   "areaM2": 560,
+   "ceilingM": null,
+   "theater": 450,
+   "school": null,
+   "ushape": null,
+   "standing": 500,
+   "banquet": 420,
+   "note": "約560㎡（40m×14m）。椅子席450人まで・テーブル席420人まで・立食最大500人程度。AB区分・CDE区分に分割使用可"
+  },
+  {
+   "name": "大会議室",
+   "areaM2": 192,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "定員96名。会議・公演研修のほか式典・各種パーティーに利用可"
+  },
+  {
+   "name": "中会議室",
+   "areaM2": 90,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": 40,
+   "standing": null,
+   "banquet": null,
+   "note": "定員40名。「ロ」の字形式"
+  },
+  {
+   "name": "小会議室",
+   "areaM2": 79,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "定員20名。円卓形式（机固定）"
+  },
+  {
+   "name": "第1講習室",
+   "areaM2": 80,
+   "ceilingM": null,
+   "theater": null,
+   "school": 36,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "定員36名。教室形式"
+  },
+  {
+   "name": "第2講習室",
+   "areaM2": 115,
+   "ceilingM": null,
+   "theater": null,
+   "school": 69,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "定員69名。教室形式"
+  },
+  {
+   "name": "第3講習室",
+   "areaM2": 94,
+   "ceilingM": null,
+   "theater": null,
+   "school": 51,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "定員51名。教室形式"
+  },
+  {
+   "name": "第4講習室",
+   "areaM2": 96,
+   "ceilingM": null,
+   "theater": null,
+   "school": 54,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "定員54名。教室形式"
+  },
+  {
+   "name": "第1特別講習室",
+   "areaM2": 99,
+   "ceilingM": null,
+   "theater": null,
+   "school": 51,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "定員51名。教室形式"
+  },
+  {
+   "name": "第2特別講習室",
+   "areaM2": 72,
+   "ceilingM": null,
+   "theater": null,
+   "school": 36,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "定員36名。教室形式"
+  },
+  {
+   "name": "研修室",
+   "areaM2": 82,
+   "ceilingM": null,
+   "theater": null,
+   "school": 36,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "定員36名。教室形式"
+  },
+  {
+   "name": "第1グループ活動室",
+   "areaM2": 71,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": 30,
+   "standing": null,
+   "banquet": null,
+   "note": "定員30名。「ロ」の字形式"
+  },
+  {
+   "name": "第2グループ活動室",
+   "areaM2": 31,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "定員14名。対面形式"
+  },
+  {
+   "name": "第3グループ活動室",
+   "areaM2": 57,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": 20,
+   "standing": null,
+   "banquet": null,
+   "note": "定員20名。「ロ」の字形式"
+  },
+  {
+   "name": "調理講習室",
+   "areaM2": 141,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "定員36名。調理台7台"
+  },
+  {
+   "name": "リハーサル室",
+   "areaM2": 85,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "定員35名。上履き使用。ヒール・タップシューズ不可"
+  },
+  {
+   "name": "音楽スタジオ",
+   "areaM2": 30,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "定員8～10名"
+  },
+  {
+   "name": "茶室（和室）",
+   "areaM2": 84,
+   "ceilingM": null,
+   "theater": null,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "茶室（三畳台目）と日本庭園を設けた和室（18畳）。茶道専用"
+  }
+ ],
+ "roomsSource": "https://www.shinagawa-culture.or.jp/curian/facility/guide/floors.html",
+ "ops": {
+  "vehicleRules": {
+   "text": "会館周辺道路は狭く、路線バスの運行等を妨げるため駐停車ができない。駐車場への待機列が路線バスの運行の妨げとなっており、来館には電車・バスの利用が案内されている。",
+   "source": "https://www.shinagawa-culture.or.jp/curian/access.html"
+  },
+  "parking": {
+   "text": "地下1階の駐車場は203台、全高2.05mまで。利用時間は8時30分～23時で、23時～8時30分は入出庫できない。料金は全日220円／30分、当日1日最大1,700円（24時迄）。商業施設と共用のため、土曜・日曜・祝日は特に混雑する。",
+   "source": "https://www.shinagawa-culture.or.jp/curian/access.html"
+  },
+  "waitingRooms": {
+   "text": "大ホール用の楽屋は5室：第1楽屋（約62㎡・定員20）、第2楽屋（約43㎡・定員16）、第3楽屋（約23㎡・畳敷きの和室12畳・定員4）、8階の第4・第5楽屋（各約20㎡・定員4・ユニットバス付）。小ホール用の第1～5楽屋は地下1階にある。楽屋は別料金（大ホール用 第1楽屋 午前1,400円／午後2,100円／夜間2,800円 など）。",
+   "source": "https://www.shinagawa-culture.or.jp/curian/facility/guide/floors.html"
+  }
+ },
+ "documents": [
+  {
+   "title": "施設料金表（区民・一般）",
+   "url": "https://www.shinagawa-culture.or.jp/curian/facility/price-list/facility.html"
+  },
+  {
+   "title": "利用案内（時間区分・抽選・利用の制限）",
+   "url": "https://www.shinagawa-culture.or.jp/curian/facility/usage.html"
+  },
+  {
+   "title": "施設予約システムについて",
+   "url": "https://www.shinagawa-culture.or.jp/curian/facility/reservation-system.html"
+  },
+  {
+   "title": "催事の広報にあたってのご注意（令和8年7月15日）",
+   "url": "https://www.shinagawa-culture.or.jp/curian/facility/e1hkea00000001xh-att/20260601CUcaution_info.pdf"
+  },
+  {
+   "title": "諸届（大・小ホール用）（2026年10月版）",
+   "url": "https://www.shinagawa-culture.or.jp/curian/facility/jk1h86000000065y-att/syotodoke_dai_syou_hall202610.pdf"
+  },
+  {
+   "title": "諸届（イベントホール用）",
+   "url": "https://www.shinagawa-culture.or.jp/curian/facility/jk1h86000000065y-att/jk1h8600000006sc.pdf"
+  },
+  {
+   "title": "大ホール 舞台レイアウト",
+   "url": "https://www.shinagawa-culture.or.jp/curian/facility/guide/e1hkea000000011o-att/l_layout.pdf"
+  },
+  {
+   "title": "大ホール 機材一覧",
+   "url": "https://www.shinagawa-culture.or.jp/curian/facility/guide/e1hkea000000011o-att/dh_kizai.pdf"
+  },
+  {
+   "title": "小ホール 舞台レイアウト",
+   "url": "https://www.shinagawa-culture.or.jp/curian/facility/guide/e1hkea000000011o-att/sh_layout1.pdf"
+  },
+  {
+   "title": "小ホール 機材一覧",
+   "url": "https://www.shinagawa-culture.or.jp/curian/facility/guide/e1hkea000000011o-att/sh_kizai1.pdf"
+  },
+  {
+   "title": "各種ダウンロード（誘導員報告書・ホール設備資料・座席表）",
+   "url": "https://www.shinagawa-culture.or.jp/curian/facility/download.html"
+  },
+  {
+   "title": "きゅりあんカレンダー（2026年）",
+   "url": "https://www.shinagawa-culture.or.jp/curian/c2hkqm0000000031-att/curiancalender2026.pdf"
+  }
+ ],
+ "checkedAt": "2026-11-07",
+ "lat": 35.606583,
+ "lng": 139.735687,
+ "nearby": {
+  "convenience": [
+   {
+    "name": "ローソン 大井町駅前店",
+    "brand": "ローソン",
+    "distanceM": 55,
+    "walkMin": 1,
+    "hours": "24時間営業",
+    "address": "東京都品川区東大井5-15-16",
+    "verified": true,
+    "source": "https://www.areamarker.com/lawson/info/112970",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "ローソン 大井町銀座通り店",
+    "brand": "ローソン",
+    "distanceM": 87,
+    "walkMin": 2,
+    "hours": "24時間営業",
+    "address": "東京都品川区東大井5-3-7",
+    "verified": true,
+    "source": "https://www.areamarker.com/lawson/info/247172",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "ローソン 東大井五丁目店",
+    "brand": "ローソン",
+    "distanceM": 114,
+    "walkMin": 2,
+    "hours": "24時間営業",
+    "address": "東京都品川区東大井5-14-11",
+    "verified": true,
+    "source": "https://www.areamarker.com/lawson/info/025187",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "アクセア ゲートシティ大崎店",
+    "brand": "アクセア",
+    "distanceM": 1541,
+    "walkMin": 20,
+    "hours": "平日9:00〜20:00／土日祝10:00〜19:00",
+    "address": "東京都品川区大崎1-11-1 ゲートシティ大崎ウエストタワー3階(0306A)",
+    "verified": true,
+    "source": "https://www.accea.co.jp/entry.html",
+    "note": "距離は住所の位置で計算。遠め"
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "DAISO イトーヨーカドー大井町店",
+    "brand": "ダイソー",
+    "distanceM": 152,
+    "walkMin": 2,
+    "hours": "10:00-22:00",
+    "address": "東京都品川区大井1-3-6 IY大井町店7階",
+    "verified": true,
+    "source": "https://www.daiso-sangyo.co.jp/shop/detail/008619",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "Can★Do 阪急大井町ガーデン店",
+    "brand": "キャンドゥ",
+    "distanceM": 161,
+    "walkMin": 3,
+    "hours": "月〜日 10:00-20:00",
+    "address": "東京都品川区大井1-50-5 阪急大井町ガーデン2階",
+    "verified": true,
+    "source": "https://shopinfo.cando-web.co.jp/detail/shop-5044/",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "donki": [
+   {
+    "name": "ドン・キホーテ戸越銀座店",
+    "brand": "ドン・キホーテ",
+    "distanceM": 2020,
+    "walkMin": 26,
+    "hours": "9:00-2:00",
+    "address": "東京都品川区平塚一丁目6番18号",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=731",
+    "note": "距離は住所の位置で計算。遠い"
+   }
+  ]
+ },
+ "drinkDelivery": {
+  "available": true
+ },
+ "photo": {
+  "src": "/images/venues/shinagawa-kyurian.jpg",
+  "credit": "© Abasaa / Public domain · Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:CURIAN_(Shinagawa_General_Civic_Hall).JPG"
+ }
+}
