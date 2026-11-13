@@ -70,8 +70,10 @@ const stackLinks = [
 ];
 
 const mediaLinks = [
-  { label: 'BizinTokyo',  href: isEn ? 'https://bizintokyo.com/en/'  : 'https://bizintokyo.com' },
-  { label: 'BizinKansai', href: isEn ? 'https://bizinkansai.com/en/' : 'https://bizinkansai.com' },
+  { label: 'BizinTokyo',  href: isEn ? 'https://bizintokyo.com/en/'  : 'https://bizintokyo.com' , desc: isEn ? 'Business event venues in Tokyo' : '東京のビジネスイベント会場' },
+  { label: 'BizinKansai', href: isEn ? 'https://bizinkansai.com/en/' : 'https://bizinkansai.com' , desc: isEn ? 'Business event venues in Kansai' : '関西のビジネスイベント会場' },
+  { label: 'MusicinTokyo',  href: isEn ? 'https://musicintokyo.com/en/'  : 'https://musicintokyo.com' , desc: isEn ? 'Live music venues in Tokyo' : '東京のライブ会場' },
+  { label: 'SportsinTokyo', href: isEn ? 'https://sportsintokyo.com/en/' : 'https://sportsintokyo.com' , desc: isEn ? 'Sports venues in Tokyo' : '東京のスポーツ会場' },
 ];
 ---
 
@@ -104,6 +106,7 @@ const mediaLinks = [
               <a href={l.href} class="col-link" target="_blank" rel="noopener noreferrer">
                 {l.label}<span class="ext-icon" aria-hidden="true"> ↗</span>
               </a>
+              <span class="media-desc">{l.desc}</span>
             </li>
           ))}
         </ul>
@@ -188,6 +191,13 @@ const mediaLinks = [
   transition: opacity .15s;
 }
 .col-link:hover { opacity: 1; }
+
+.footer-media .col-links li { display: flex; flex-direction: column; align-items: flex-start; gap: .125rem; }
+.media-desc {
+  font-size: .8125rem;
+  line-height: 1.5;
+  color: rgba(255,255,255,.7);
+}
 
 .ext-icon {
   font-size: .75em;
