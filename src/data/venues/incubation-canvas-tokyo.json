@@ -1,0 +1,190 @@
+{
+ "slug": "incubation-canvas-tokyo",
+ "nameJa": "Incubation CANVAS TOKYO",
+ "nameEn": "Incubation CANVAS TOKYO",
+ "type": "conference",
+ "area": "yurakucho-ginza-venues",
+ "address": "〒104-8377 東京都中央区京橋2丁目2-1 京橋エドグラン 29F",
+ "lat": 35.677818,
+ "lng": 139.769318,
+ "officialUrl": "https://incubation-canvas.tokyo/",
+ "organizerUrl": "https://incubation-canvas.tokyo/contact-rentalspace/",
+ "bizintokyoSlug": "incubation-canvas-tokyo",
+ "accessSummary": "東京メトロ銀座線 京橋駅 8番出口改札から直進（京橋エドグラン3階から入館）／東京駅 八重洲地下街4番出口から徒歩約5分",
+ "notice": "セミナールームの貸出は、平日は「サイエンス・グローバル・イノベーション」に該当するイベントに限る。土日祝は種類を問わない（土日利用は最低4時間から）。申込後に審査があり、開催1か月前までにイベント詳細の提出が必要。（出典：公式サイト、イベント開催のてびき）",
+ "hours": null,
+ "rooms": [
+  {
+   "name": "セミナールーム1",
+   "areaM2": null,
+   "ceilingM": null,
+   "theater": 100,
+   "school": 50,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "160インチLEDビジョン、スクリーン・プロジェクター2台。収容人数は公式サイトでシアター形式の数字。スクール50名は公式サイトの記載。主催者向け資料「イベント開催のてびき」では、1室で約60〜70名程度（テーブルなしで100名程度）。"
+  },
+  {
+   "name": "セミナールーム2",
+   "areaM2": null,
+   "ceilingM": null,
+   "theater": 100,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "85インチモニター2台、スクリーン・プロジェクター2台。収容人数はシアター形式の数字。主催者向け資料「イベント開催のてびき」では、1室で約60〜70名程度（テーブルなしで100名程度）。"
+  },
+  {
+   "name": "セミナールーム1・2連結",
+   "areaM2": null,
+   "ceilingM": null,
+   "theater": 200,
+   "school": null,
+   "ushape": null,
+   "standing": null,
+   "banquet": null,
+   "note": "2室を1面として使える。公式サイトは最大200名収容。主催者向け資料「イベント開催のてびき」では最大230名程度（椅子の追加も可）。"
+  }
+ ],
+ "roomsSource": "https://incubation-canvas.tokyo/facility/",
+ "ops": {
+  "loadingHours": {
+   "text": "台車での搬入出は、地下2階（B2F）から専用エレベーターで29階へ直通。事前申請は不要で、台車の貸出もある。B2Fで受付をしてセキュリティカードを受け取り、18時までに返却する。予約時間は、設営準備から現場復帰・退室までを含めて取る（家具・機材は入室時の状態に戻す）。事前準備品の宅配は前日の10:00〜17:00のみ受け取り可（週末を挟む場合は前週金曜に届ける）。壁への紙の掲示はできない。（出典：イベント開催のてびき）",
+   "source": "https://incubation-canvas.tokyo/contact-rentalspace/"
+  },
+  "vehicleRules": {
+   "text": "敷地内の車両は、車高3.2m・車長7.1m・車幅2.2mまで（重量の規定はない）。B2F駐車場の05番が搬入用エレベーターに最も近い車寄せ。（出典：イベント開催のてびき）",
+   "source": "https://incubation-canvas.tokyo/contact-rentalspace/"
+  },
+  "parking": {
+   "text": "敷地内駐車場にイベントで駐車できる（有料）。荷捌所は地下2階の入場ゲート通過後30分間は無料で、その後は30分につき330円を搬出入の業者が負担する。（出典：イベント開催のてびき）",
+   "source": "https://incubation-canvas.tokyo/contact-rentalspace/"
+  },
+  "waitingRooms": {
+   "text": "会議室を控室に使える。会員以外はゲスト利用として1人1,100円。事前の申請が必要。（出典：イベント開催のてびき）",
+   "source": "https://incubation-canvas.tokyo/contact-rentalspace/"
+  },
+  "catering": {
+   "text": "会場内での飲食は可。火気は使えないが、IHは使える。飲み残しの廃棄や温め用のお湯の処理には、同じフロアの給湯室を使える。ゴミは分別して、同じフロアの給湯室内に置いて帰る（ゴミ袋は施設が用意）。（出典：イベント開催のてびき）",
+   "source": "https://incubation-canvas.tokyo/contact-rentalspace/"
+  }
+ },
+ "documents": [
+  {
+   "title": "Incubation CANVAS TOKYO 施設案内（セミナールーム）",
+   "url": "https://incubation-canvas.tokyo/facility/"
+  },
+  {
+   "title": "レンタルスペース（セミナールーム）お問い合わせ・仮予約",
+   "url": "https://incubation-canvas.tokyo/contact-rentalspace/"
+  },
+  {
+   "title": "アクセス",
+   "url": "https://incubation-canvas.tokyo/access/"
+  }
+ ],
+ "drinkDelivery": {
+  "available": true
+ },
+ "checkedAt": "2026-11-18",
+ "nearby": {
+  "convenience": [
+   {
+    "name": "ローソン 京橋エドグラン店",
+    "brand": "ローソン",
+    "distanceM": 97,
+    "walkMin": 2,
+    "hours": "7:00-22:00",
+    "address": "東京都中央区京橋2-2-1",
+    "verified": true,
+    "source": "https://www.areamarker.com/lawson/info/246480",
+    "note": "距離は公式の店舗位置で計算。会場と同じ番地の店舗"
+   },
+   {
+    "name": "セブン-イレブン 京橋エドグランフロアスリー店",
+    "brand": "セブン-イレブン",
+    "distanceM": 104,
+    "walkMin": 2,
+    "hours": "月〜金 7:00-20:00／土・日・祝 休み",
+    "address": "東京都中央区京橋2-2-1",
+    "verified": true,
+    "source": "https://seven-eleven.areamarker.com/711map/info/402632",
+    "note": "距離は公式の店舗位置で計算。会場と同じ番地の店舗。土日祝は休み（公式の営業時間表示による）"
+   },
+   {
+    "name": "ファミリーマート バスターミナル東京八重洲/S店",
+    "brand": "ファミリーマート",
+    "distanceM": 134,
+    "walkMin": 2,
+    "hours": "6:15-24:15",
+    "address": "東京都中央区八重洲2-2-1",
+    "verified": true,
+    "source": "https://store.family.co.jp/points/69268",
+    "note": "距離は公式の店舗位置で計算"
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "アクセア 京橋店",
+    "brand": "アクセア",
+    "distanceM": 160,
+    "walkMin": 2,
+    "hours": "平日8:00〜22:00、土日祝10:00〜19:00",
+    "address": "東京都中央区八重洲2-8-8 大星八重洲ビル1F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/entry.html",
+    "note": "距離は住所の位置で計算"
+   },
+   {
+    "name": "アクセア 東京駅八重洲店",
+    "brand": "アクセア",
+    "distanceM": 267,
+    "walkMin": 4,
+    "hours": "24時間営業／※カフェのご利用は22〜翌6時は本人確認済みの会員様のみになります。",
+    "address": "東京都中央区日本橋3-4-15 八重洲通ビルヂング1F",
+    "verified": true,
+    "source": "https://www.accea.co.jp/entry.html",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Standard Products ヤエチカ店",
+    "brand": "Standard Products",
+    "distanceM": 228,
+    "walkMin": 3,
+    "hours": "10:00-20:00",
+    "address": "東京都中央区八重洲2-1 八重洲地下街 地下1階",
+    "verified": true,
+    "source": "https://www.daiso-sangyo.co.jp/shop/detail/001475",
+    "note": "距離は住所の位置で計算。同じ建物に「THREEPPY ヤエチカ店」（10:00-20:00）もある"
+   },
+   {
+    "name": "DAISO マロニエゲート銀座店",
+    "brand": "ダイソー",
+    "distanceM": 563,
+    "walkMin": 8,
+    "hours": "11:00-21:00",
+    "address": "東京都中央区銀座3-2-1 マロニエゲート銀座2 6階",
+    "verified": true,
+    "source": "https://www.daiso-sangyo.co.jp/shop/detail/009168",
+    "note": "距離は住所の位置で計算"
+   }
+  ],
+  "donki": [
+   {
+    "name": "ドン・キホーテ 銀座本館",
+    "brand": "ドン・キホーテ",
+    "distanceM": 1282,
+    "walkMin": 17,
+    "hours": "24時間営業",
+    "address": "東京都中央区銀座8-10 銀座ナイン3号館",
+    "verified": true,
+    "source": "https://www.donki.com/store/shop_detail.php?shop_id=92",
+    "note": "距離は住所の位置で計算。遠め。ドン・キホーテ公式サイトの店舗名は「銀座本館」"
+   }
+  ]
+ }
+}
