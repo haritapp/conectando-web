@@ -186,5 +186,10 @@
     "note": "距離は住所の位置で計算"
    }
   ]
+ },
+ "photo": {
+  "src": "/images/venues/sakura-deeptech-shibuya.jpg",
+  "credit": "© Syced / CC0 · Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Shibuya_Sakura_Stage,_before_opening_11.jpg"
  }
 }

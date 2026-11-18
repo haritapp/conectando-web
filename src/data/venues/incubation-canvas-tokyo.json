@@ -45,7 +45,7 @@
    "ushape": null,
    "standing": null,
    "banquet": null,
-   "note": "2室を1面として使える。公式サイトは最大200名収容。主催者向け資料「イベント開催のてびき」では最大230名程度（椅子の追加も可）。"
+   "note": "2室を1面として使える。公式サイトは最大200名収容。"
   }
  ],
  "roomsSource": "https://incubation-canvas.tokyo/facility/",
@@ -69,6 +69,10 @@
   "catering": {
    "text": "会場内での飲食は可。火気は使えないが、IHは使える。飲み残しの廃棄や温め用のお湯の処理には、同じフロアの給湯室を使える。ゴミは分別して、同じフロアの給湯室内に置いて帰る（ゴミ袋は施設が用意）。（出典：イベント開催のてびき）",
    "source": "https://incubation-canvas.tokyo/contact-rentalspace/"
+  },
+  "restaurants": {
+   "text": "同じ京橋エドグラン内に飲食店がある（地下1階・1階・5階などに、寿司・ラーメン・和食・洋食など。京橋エドグラン公式のショップ&レストラン情報）。",
+   "source": "https://www.edogrand.tokyo/shop/"
   }
  },
  "documents": [
@@ -83,6 +87,10 @@
   {
    "title": "アクセス",
    "url": "https://incubation-canvas.tokyo/access/"
+  },
+  {
+   "title": "京橋エドグラン ショップ&レストラン情報",
+   "url": "https://www.edogrand.tokyo/shop/"
   }
  ],
  "drinkDelivery": {
@@ -186,5 +194,10 @@
     "note": "距離は住所の位置で計算。遠め。ドン・キホーテ公式サイトの店舗名は「銀座本館」"
    }
   ]
+ },
+ "photo": {
+  "src": "/images/venues/incubation-canvas-tokyo.jpg",
+  "credit": "© Wpcpey / CC BY 4.0 · Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kyobashi_Edogrand_2019.jpg"
  }
 }

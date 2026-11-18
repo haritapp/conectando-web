@@ -16,7 +16,7 @@
   },
   {
    "name": "Seminar Rooms 1 and 2 combined",
-   "note": "The two rooms can be used as one. The official website gives up to 200 people; the organizer handbook \"Event Handbook\" gives up to about 230 (extra chairs can be added)."
+   "note": "The two rooms can be used as one. The official website gives up to 200 people."
   }
  ],
  "ops": {
@@ -24,7 +24,8 @@
   "vehicleRules": "Vehicles on the premises must be within 3.2 m high, 7.1 m long and 2.2 m wide (there is no weight limit). Space 05 in the B2F parking lot is the drop-off point closest to the loading elevator. (Source: Event Handbook)",
   "parking": "Vehicles may be parked on the premises for events (paid). At the B2F loading area, the first 30 minutes after passing the entrance gate are free, and after that JPY 330 per 30 minutes is paid by the delivery contractor. (Source: Event Handbook)",
   "waitingRooms": "Meeting rooms can be used as waiting rooms. For non-members, the guest fee is JPY 1,100 per person. Advance application is required. (Source: Event Handbook)",
-  "catering": "Eating and drinking in the venue is allowed. Open flames cannot be used, but induction heaters can. The pantry on the same floor can be used to dispose of leftover drinks and used hot water. Sort the trash and leave it in the pantry on the same floor (the facility provides trash bags). (Source: Event Handbook)"
+  "catering": "Eating and drinking in the venue is allowed. Open flames cannot be used, but induction heaters can. The pantry on the same floor can be used to dispose of leftover drinks and used hot water. Sort the trash and leave it in the pantry on the same floor (the facility provides trash bags). (Source: Event Handbook)",
+  "restaurants": "There are restaurants inside Kyobashi Edogrand (on the basement 1st floor, 1st floor, 5th floor and others, including sushi, ramen, Japanese and Western food; per the official Kyobashi Edogrand shops & restaurants page)."
  },
  "documents": [
   {
@@ -35,6 +36,9 @@
   },
   {
    "title": "Access (Japanese)"
+  },
+  {
+   "title": "Kyobashi Edogrand shops & restaurants (Japanese)"
   }
  ],
  "nearby": {
@@ -86,5 +90,6 @@
     "note": null
    }
   ]
- }
+ },
+ "photoCredit": "Photo: Wpcpey / CC BY 4.0 · Wikimedia Commons"
 }
