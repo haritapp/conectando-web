@@ -4,23 +4,24 @@
  "address": "Tokyo 150-0031 Shibuya Sakura Stage Central Building 12F, 1-2 Sakuragaoka-cho, Shibuya-ku, Tokyo",
  "accessSummary": "Immediately outside the New South Gate of JR Shibuya Station",
  "hours": "10:00-21:00 (weekdays)",
- "notice": "The official website lists the facility as open on weekdays only (closed on Saturdays, Sundays and holidays), but the organizer guide \"Event Guide\" (updated September 10, 2026) lists Saturday, Sunday and holiday rates for the Event Space. For events on Saturdays, Sundays and holidays the building entrance is locked, so you must station guide staff to unlock it for guests (same guide).",
+ "notice": "The official website lists opening hours as 10:00-21:00 on weekdays only, closed on Saturdays, Sundays and holidays, but the Event Space pricing page on the same site also lists holiday (weekend) plans. For events on Saturdays, Sundays and holidays the building entrance is locked, so you must station guide staff to unlock it for guests (Event Guide updated September 10, 2026).",
  "rooms": [
   {
    "name": "Event Space - Full",
-   "note": "The official site lists 150 seated for full use. Full use of the facility (including the coworking area) is for about 200 people. Floor load 500 kg/㎡. The base fee includes 10 desks (W1,800 x D600), 150 chairs and 1 lectern. Weekday full-space fee: JPY 330,000 (14:00-21:00, tax included). (Source: official website, Event Guide updated September 10, 2026)"
+   "note": "The official site lists 150 seated for full use. Full use of the facility (including the coworking area) is for about 200 people. Floor load 500 kg/㎡. Official base fee (excl. tax): weekdays JPY 300,000 (14:00-21:00), holidays JPY 450,000 (10:00-14:00 or 14:00-21:00). Includes 10 desks (W1,800 x D600) and 150 chairs. Waiting-room facilities: 1on1 booths A and B (2 people each). (Source: official website, Event Space page)"
   },
   {
    "name": "Event Space - Half",
-   "note": "The official site lists about 75 people for half use. Weekday half-space fee: JPY 220,000 (14:00-21:00, tax included). (Source: official website, Event Guide updated September 10, 2026)"
+   "note": "The official site lists about 75 people for half use. Official base fee (excl. tax): weekdays JPY 200,000 (14:00-21:00), holidays JPY 300,000 (10:00-14:00 or 14:00-21:00). (Source: official website, Event Space page)"
   }
  ],
  "ops": {
   "prevDaySetup": "The Event Space may be used for one day only, and setup and teardown must be finished between 14:00 and 21:00. Setup the day before and multi-day events are not accepted as a rule; if you hold one, a fee based on the number of days applies. (Source: Event Guide updated September 10, 2026)",
-  "loadingHours": "Use of the B2F loading area (application form by 3 business days before) and a temporary building-entry application (form by 3 business days before) are required for moving items in and out. Hand carts can be rented (JPY 100 per 30 minutes, during the logistics center hours of 6:30-22:00; guideline load under 200 kg). Your own hand carts must have corner guards, pneumatic or non-marking tires, and stoppers. Packages may be sent in advance only for arrival on the day before or the day of use (prepaid-by-sender shipping, length + width + height within 200 cm). Corridors are shared areas, so posters, furniture and equipment cannot be placed there. (Source: Event Guide updated September 10, 2026)",
-  "vehicleRules": "Vehicles entering the B2F loading area must be under 3.2 m high, under 2.2 m wide and under 6.8 m long. An application is required by 3 business days before the event, and the facility aims to reduce the number of vehicles entering. (Source: Event Guide updated September 10, 2026)",
-  "catering": "Food and drink to be served must be applied for in advance with the secretariat. Catering is by NSK (Japan Food Research Institute) only as a rule; using another caterer costs an extra JPY 100,000 (excl. tax). Allowed food is individually wrapped and storable at room temperature; allowed drinks are unopened cans, bottles and PET bottles. Alcohol may be served from 18:00 to 21:00. Open flames, cooking and food processing are not allowed in the venue. (Source: Event Guide updated September 10, 2026)",
-  "restaurants": "There are restaurants inside Shibuya Sakura Stage (see the official Shibuya Sakura Stage shop list)."
+  "loadingHours": "Use of the B2F loading area (application form by 3 business days before) and a temporary building-entry application (form by 3 business days before) are required for moving items in and out. Hand carts can be rented (during the logistics center hours of 6:30-22:00; guideline load under 200 kg). Your own hand carts must have corner guards, pneumatic or non-marking tires, and stoppers. Packages may be sent in advance only for arrival on the day before or the day of use (prepaid-by-sender shipping, length + width + height within 200 cm). Corridors are shared areas, so posters, furniture and equipment cannot be placed there. (Source: Event Guide updated September 10, 2026)",
+  "vehicleRules": "Vehicles entering the B2F loading area must be within 3.2 m high, 2.2 m wide and 6.8 m long. An application is required by 3 business days before the event. (Source: official website, Event Space page)",
+  "catering": "Food and drink to be served must be applied for in advance with the secretariat. Catering is by NSK (Japan Food Research Institute) only as a rule. Allowed food is individually wrapped and storable at room temperature; allowed drinks are unopened cans, bottles and PET bottles. Alcohol may be served from 18:00 to 21:00. Open flames, cooking and food processing are not allowed in the venue. (Source: Event Guide updated September 10, 2026)",
+  "restaurants": "There are restaurants inside Shibuya Sakura Stage (see the official Shibuya Sakura Stage shop list).",
+  "waitingRooms": "Waiting-room facilities: 1on1 booths A and B (2 people each). Other waiting-room use is by consultation. (Source: official website, Event Space page)"
  },
  "documents": [
   {
