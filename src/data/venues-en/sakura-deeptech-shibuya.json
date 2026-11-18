@@ -1,0 +1,93 @@
+{
+ "slug": "sakura-deeptech-shibuya",
+ "name": "SAKURA DEEPTECH SHIBUYA",
+ "address": "Tokyo 150-0031 Shibuya Sakura Stage Central Building 12F, 1-2 Sakuragaoka-cho, Shibuya-ku, Tokyo",
+ "accessSummary": "Immediately outside the New South Gate of JR Shibuya Station",
+ "hours": "10:00-21:00 (weekdays)",
+ "notice": "The official website lists opening hours as 10:00-21:00 on weekdays only, closed on Saturdays, Sundays and holidays, but the Event Space pricing page on the same site also lists holiday (weekend) plans. For events on Saturdays, Sundays and holidays the building entrance is locked, so you must station guide staff to unlock it for guests (Event Guide updated September 10, 2026).",
+ "rooms": [
+  {
+   "name": "Event Space - Full",
+   "note": "The official site lists 150 seated for full use. Full use of the facility (including the coworking area) is for about 200 people. Floor load 500 kg/㎡. Official base fee (excl. tax): weekdays JPY 300,000 (14:00-21:00), holidays JPY 450,000 (10:00-14:00 or 14:00-21:00). Includes 10 desks (W1,800 x D600) and 150 chairs. Waiting-room facilities: 1on1 booths A and B (2 people each). (Source: official website, Event Space page)"
+  },
+  {
+   "name": "Event Space - Half",
+   "note": "The official site lists about 75 people for half use. Official base fee (excl. tax): weekdays JPY 200,000 (14:00-21:00), holidays JPY 300,000 (10:00-14:00 or 14:00-21:00). (Source: official website, Event Space page)"
+  }
+ ],
+ "ops": {
+  "prevDaySetup": "The Event Space may be used for one day only, and setup and teardown must be finished between 14:00 and 21:00. Setup the day before and multi-day events are not accepted as a rule; if you hold one, a fee based on the number of days applies. (Source: Event Guide updated September 10, 2026)",
+  "loadingHours": "Use of the B2F loading area (application form by 3 business days before) and a temporary building-entry application (form by 3 business days before) are required for moving items in and out. Hand carts can be rented (during the logistics center hours of 6:30-22:00; guideline load under 200 kg). Your own hand carts must have corner guards, pneumatic or non-marking tires, and stoppers. Packages may be sent in advance only for arrival on the day before or the day of use (prepaid-by-sender shipping, length + width + height within 200 cm). Corridors are shared areas, so posters, furniture and equipment cannot be placed there. (Source: Event Guide updated September 10, 2026)",
+  "vehicleRules": "Vehicles entering the B2F loading area must be within 3.2 m high, 2.2 m wide and 6.8 m long. An application is required by 3 business days before the event. (Source: official website, Event Space page)",
+  "catering": "Food and drink to be served must be applied for in advance with the secretariat. Catering is by NSK (Japan Food Research Institute) only as a rule. Allowed food is individually wrapped and storable at room temperature; allowed drinks are unopened cans, bottles and PET bottles. Alcohol may be served from 18:00 to 21:00. Open flames, cooking and food processing are not allowed in the venue. (Source: Event Guide updated September 10, 2026)",
+  "restaurants": "There are restaurants inside Shibuya Sakura Stage (see the official Shibuya Sakura Stage shop list).",
+  "waitingRooms": "Waiting-room facilities: 1on1 booths A and B (2 people each). Other waiting-room use is by consultation. (Source: official website, Event Space page)"
+ },
+ "documents": [
+  {
+   "title": "SAKURA DEEPTECH SHIBUYA Event Space guide (Japanese)"
+  },
+  {
+   "title": "SAKURA DEEPTECH SHIBUYA Space guide (Japanese)"
+  },
+  {
+   "title": "SAKURA DEEPTECH SHIBUYA Contact (Japanese)"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "Lawson LAWSON+toks Shibuya Sakura Stage",
+    "hours": "7:00-23:00",
+    "note": null
+   },
+   {
+    "name": "7-Eleven Shibuya Sakura Terrace",
+    "hours": "Open 24 hours",
+    "note": null
+   },
+   {
+    "name": "7-Eleven Shibuya Station East Exit",
+    "hours": "Open 24 hours",
+    "note": null
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "Kinko's Shibuya Sakura Stage",
+    "hours": "Daily 9:00-22:00",
+    "note": null
+   },
+   {
+    "name": "ACCEA Shibuya",
+    "hours": "Open 24 hours (open every day)",
+    "note": null
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "DAISO Shibuya Mark City",
+    "hours": "9:30-21:00",
+    "note": null
+   },
+   {
+    "name": "DAISO Shibuya Center-gai",
+    "hours": "10:00-21:30",
+    "note": null
+   }
+  ],
+  "donki": [
+   {
+    "name": "MEGA Don Quijote Shibuya Main Store",
+    "hours": "Open 24 hours",
+    "note": null
+   },
+   {
+    "name": "MEGA Donki Shibuya Annex",
+    "hours": "Open 24 hours",
+    "note": null
+   }
+  ]
+ },
+ "photoCredit": "Photo: Syced / CC0 · Wikimedia Commons"
+}

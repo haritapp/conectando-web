@@ -1,0 +1,98 @@
+{
+ "slug": "incubation-canvas-tokyo",
+ "name": "Incubation CANVAS TOKYO",
+ "address": "Tokyo 104-8377 Kyobashi Edogrand 29F, 2-2-1 Kyobashi, Chuo-ku, Tokyo",
+ "accessSummary": "Go straight from the Exit 8 ticket gate of Kyobashi Station (Tokyo Metro Ginza Line), entering the building on the 3rd floor of Kyobashi Edogrand / about 5 min walk from Exit 4 of the Yaesu Underground Mall (Tokyo Station)",
+ "hours": "9:00-21:00 (excluding building closure days; official website announcement of September 12, 2025)",
+ "notice": "On weekdays the seminar rooms can be rented only for events related to science, global or innovation themes; on Saturdays, Sundays and holidays any type of event is accepted (a minimum of 4 hours on weekends). Applications are screened, and event details must be submitted 1 month before the event. (Source: official website, Event Handbook)",
+ "rooms": [
+  {
+   "name": "Seminar Room 1",
+   "note": "160-inch LED display, 2 screens/projectors. The official capacity is for theater style. The organizer handbook \"Event Handbook\" gives about 60-70 people per room (about 100 without tables). Official fee (announcement of September 12, 2025): seminar room (half) JPY 20,000 per hour (cap JPY 150,000)."
+  },
+  {
+   "name": "Seminar Room 2",
+   "note": "Two 85-inch monitors, 2 screens/projectors. The capacity is for theater style. The organizer handbook \"Event Handbook\" gives about 60-70 people per room (about 100 without tables). Official fee (announcement of September 12, 2025): seminar room (half) JPY 20,000 per hour (cap JPY 150,000)."
+  },
+  {
+   "name": "Seminar Rooms 1 and 2 combined",
+   "note": "The two rooms can be used as one. The official website gives up to 200 people. Official fee (announcement of September 12, 2025): seminar room (full) JPY 40,000 per hour (cap JPY 300,000)."
+  }
+ ],
+ "ops": {
+  "loadingHours": "Carts go in and out from B2F by a dedicated elevator that runs directly to the 29th floor. No advance application is needed, and carts can be borrowed. Check in at B2F, receive a security card and return it by 18:00. Book the room for the whole time, from setup to restoring the room and leaving (furniture and equipment must be returned to their original state). Parcels for advance preparation can be received only on the day before, 10:00-17:00 (if a weekend is in between, deliver on the Friday of the previous week). Paper notices cannot be posted on walls. (Source: Event Handbook)",
+  "vehicleRules": "Vehicles on the premises must be within 3.2 m high, 7.1 m long and 2.2 m wide (there is no weight limit). Space 05 in the B2F parking lot is the drop-off point closest to the loading elevator. (Source: Event Handbook)",
+  "parking": "Vehicles may be parked on the premises for events (paid). (Source: Event Handbook)",
+  "waitingRooms": "Meeting rooms can be used as waiting rooms. Non-members are charged a guest fee. Advance application is required. (Source: Event Handbook)",
+  "catering": "Eating and drinking in the venue is allowed. Open flames cannot be used, but induction heaters can. The pantry on the same floor can be used to dispose of leftover drinks and used hot water. Sort the trash and leave it in the pantry on the same floor (the facility provides trash bags). (Source: Event Handbook)",
+  "restaurants": "There are restaurants inside Kyobashi Edogrand (on the basement 1st floor, 1st floor, 5th floor and others, including sushi, ramen, Japanese and Western food; per the official Kyobashi Edogrand shops & restaurants page)."
+ },
+ "documents": [
+  {
+   "title": "Incubation CANVAS TOKYO Facility guide: Seminar Rooms (Japanese)"
+  },
+  {
+   "title": "Rental space (seminar room) inquiries and tentative booking (Japanese)"
+  },
+  {
+   "title": "Access (Japanese)"
+  },
+  {
+   "title": "Kyobashi Edogrand shops & restaurants (Japanese)"
+  },
+  {
+   "title": "Announcement: rental space service without membership (hours and fees, September 12, 2025) (Japanese)"
+  }
+ ],
+ "nearby": {
+  "convenience": [
+   {
+    "name": "Lawson Kyobashi Edogran",
+    "hours": "7:00-22:00",
+    "note": null
+   },
+   {
+    "name": "7-Eleven Kyobashi Edogran Floor 3",
+    "hours": "Mon-Fri 7:00-20:00; closed Sat, Sun & holidays",
+    "note": null
+   },
+   {
+    "name": "FamilyMart Bus Terminal Tokyo Yaesu / S",
+    "hours": "6:15-24:15",
+    "note": null
+   }
+  ],
+  "copyshop": [
+   {
+    "name": "ACCEA Kyobashi",
+    "hours": "Weekdays 8:00-22:00, Sat, Sun & holidays 10:00-19:00",
+    "note": null
+   },
+   {
+    "name": "ACCEA Tokyo Station Yaesu",
+    "hours": "Open 24 hours (cafe use between 22:00 and 6:00 is for verified members only)",
+    "note": null
+   }
+  ],
+  "hundredYen": [
+   {
+    "name": "Standard Products Yaechika",
+    "hours": "10:00-20:00",
+    "note": null
+   },
+   {
+    "name": "DAISO Marronnier Gate Ginza",
+    "hours": "11:00-21:00",
+    "note": null
+   }
+  ],
+  "donki": [
+   {
+    "name": "Don Quijote Ginza Main Building",
+    "hours": "Open 24 hours",
+    "note": null
+   }
+  ]
+ },
+ "photoCredit": "Photo: Wpcpey / CC BY 4.0 · Wikimedia Commons"
+}
