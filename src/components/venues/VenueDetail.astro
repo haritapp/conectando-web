@@ -145,7 +145,7 @@ const areaName = AREA_LABEL[v.area] ?? '';
       <section id="docs" class="vd-sec">
         <h2>{t.docsH2}</h2>
         <ul class="vd-docs">
-          {v.documents!.map((d) => <li><a href={d.url} target="_blank" rel="noopener">{d.title}</a>{isPdf(d.url) && <span>{t.pdf}</span>}</li>)}
+          {v.documents!.map((d) => <li>{d.url ? <a href={d.url} target="_blank" rel="noopener">{d.title}</a> : d.title}{d.url && isPdf(d.url) && <span>{t.pdf}</span>}</li>)}
         </ul>
       </section>
     )}

@@ -59,7 +59,8 @@ export interface Venue {
   /** 出典まわりのメモ（画面には出さない。元の説明文の控え） */
   roomsSourceMemo?: string | null;
   ops: Partial<Record<OpsKey, OpsItem>>;
-  documents?: { title: string; url: string }[];
+  /** url が無いときは資料名だけを表示する（リンク先が開けない資料） */
+  documents?: { title: string; url?: string | null }[];
   nearby?: {
     convenience?: Shop[];
     copyshop?: Shop[];
