@@ -222,7 +222,11 @@
    "note": "6F"
   }
  ],
- "roomsSource": "https://iconia.co.jp/ja/banquets-hotel-art-hotel-nippori-lungwood-tokyo",
+ "roomsSources": [
+  {
+   "url": "https://iconia.co.jp/ja/banquets-hotel-art-hotel-nippori-lungwood-tokyo"
+  }
+ ],
  "ops": {
   "restaurants": {
    "text": "館内のレストランは洋食ダイニング（03-3803-1234）と和食（03-3803-2310）。",

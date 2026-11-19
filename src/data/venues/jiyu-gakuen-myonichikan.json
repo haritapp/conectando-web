@@ -123,11 +123,15 @@
    "note": "公式の定員は一般的な着席利用の人数。16名。"
   }
  ],
- "roomsSource": "https://jiyu.jp/wp-content/uploads/2026/09/1-1-ご利用にあたって（2026年10月改定）.pdf",
+ "roomsSources": [
+  {
+   "url": "https://jiyu.jp/wp-content/uploads/2026/09/1-1-%E3%81%94%E5%88%A9%E7%94%A8%E3%81%AB%E3%81%82%E3%81%9F%E3%81%A3%E3%81%A6%EF%BC%882026%E5%B9%B410%E6%9C%88%E6%94%B9%E5%AE%9A%EF%BC%89.pdf"
+  }
+ ],
  "ops": {
   "loadingHours": {
    "text": "利用時間は準備・後片付けを含み、入室から退出まで。ロビー・待合室がないため、会合開始の30分以上前から借りる。時間外延長は不可。机・椅子は室内での移動が可能で、利用者が行い、退室前に原状復帰する。（利用規約 2026年10月改定）",
-   "source": "https://jiyu.jp/wp-content/uploads/2026/09/1-1-ご利用にあたって（2026年10月改定）.pdf"
+   "source": "https://jiyu.jp/wp-content/uploads/2026/09/1-1-%E3%81%94%E5%88%A9%E7%94%A8%E3%81%AB%E3%81%82%E3%81%9F%E3%81%A3%E3%81%A6%EF%BC%882026%E5%B9%B410%E6%9C%88%E6%94%B9%E5%AE%9A%EF%BC%89.pdf"
   },
   "vehicleRules": {
    "text": "施設利用で搬入出などの際に車を使う場合は予約制で、主催者から担当スタッフに申し出る。",
@@ -135,7 +139,7 @@
   },
   "parking": {
    "text": "利用規約では、事前に連絡すれば、予約時間内のみ2台まで駐車場を利用できる。アクセスのページには専用駐車場はなく、近隣のコインパーキングを利用するとある。（利用規約 2026年10月改定）",
-   "source": "https://jiyu.jp/wp-content/uploads/2026/09/1-1-ご利用にあたって（2026年10月改定）.pdf"
+   "source": "https://jiyu.jp/wp-content/uploads/2026/09/1-1-%E3%81%94%E5%88%A9%E7%94%A8%E3%81%AB%E3%81%82%E3%81%9F%E3%81%A3%E3%81%A6%EF%BC%882026%E5%B9%B410%E6%9C%88%E6%94%B9%E5%AE%9A%EF%BC%89.pdf"
   },
   "waitingRooms": {
    "text": "明日館には待合いのスペースがない。受付時間に合わせて来館する。",
@@ -143,17 +147,17 @@
   },
   "catering": {
    "text": "飲食物の持込はご遠慮ください、とされている。館のお食事案内として、お弁当（8名〜、注文は利用日の7日前まで）、ビュッフェ（立食・40名〜）、フランス料理のコース（着席・40名〜）、ドリンク、フリードリンクがあり、食堂とホールで懇親会・パーティーができる。（利用規約 2026年10月改定、お食事のご案内 2026年2月改訂）",
-   "source": "https://jiyu.jp/wp-content/uploads/2026/02/1-4-お食事のご案内（2026年2月改訂）.pdf"
+   "source": "https://jiyu.jp/wp-content/uploads/2026/02/1-4-%E3%81%8A%E9%A3%9F%E4%BA%8B%E3%81%AE%E3%81%94%E6%A1%88%E5%86%85%EF%BC%882026%E5%B9%B42%E6%9C%88%E6%94%B9%E8%A8%82%EF%BC%89.pdf"
   }
  },
  "documents": [
   {
    "title": "ご利用にあたって（利用規約・利用料金、2026年10月改定）",
-   "url": "https://jiyu.jp/wp-content/uploads/2026/09/1-1-ご利用にあたって（2026年10月改定）.pdf"
+   "url": "https://jiyu.jp/wp-content/uploads/2026/09/1-1-%E3%81%94%E5%88%A9%E7%94%A8%E3%81%AB%E3%81%82%E3%81%9F%E3%81%A3%E3%81%A6%EF%BC%882026%E5%B9%B410%E6%9C%88%E6%94%B9%E5%AE%9A%EF%BC%89.pdf"
   },
   {
    "title": "お食事のご案内（2026年2月改訂）",
-   "url": "https://jiyu.jp/wp-content/uploads/2026/02/1-4-お食事のご案内（2026年2月改訂）.pdf"
+   "url": "https://jiyu.jp/wp-content/uploads/2026/02/1-4-%E3%81%8A%E9%A3%9F%E4%BA%8B%E3%81%AE%E3%81%94%E6%A1%88%E5%86%85%EF%BC%882026%E5%B9%B42%E6%9C%88%E6%94%B9%E8%A8%82%EF%BC%89.pdf"
   },
   {
    "title": "平面図",
@@ -161,7 +165,7 @@
   },
   {
    "title": "土日祝日の講堂利用申込の応募・抽選について",
-   "url": "https://jiyu.jp/wp-content/uploads/2025/03/講堂抽選概要.pdf"
+   "url": "https://jiyu.jp/wp-content/uploads/2025/03/%E8%AC%9B%E5%A0%82%E6%8A%BD%E9%81%B8%E6%A6%82%E8%A6%81.pdf"
   },
   {
    "title": "施設貸出（料金・貸出施設）",

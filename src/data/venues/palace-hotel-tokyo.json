@@ -255,7 +255,11 @@
    "note": "最大6名。円卓（移動不可）。AV機器なし"
   }
  ],
- "roomsSource": "https://www.palacehoteltokyo.com/meetings-events/",
+ "roomsSources": [
+  {
+   "url": "https://www.palacehoteltokyo.com/meetings-events/"
+  }
+ ],
  "ops": {
   "loadingHours": {
    "text": "大型リフトで車輌や大型展示物を搬入できる（2.2m×2.2m×5.3m、3tまで）。（2026年5月版ファクトシート）",

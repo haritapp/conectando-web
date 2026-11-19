@@ -85,7 +85,11 @@
    "banquet": 14
   }
  ],
- "roomsSource": "https://www.tokyuhotels.co.jp/kichijoji-e/banquet/index.html",
+ "roomsSources": [
+  {
+   "url": "https://www.tokyuhotels.co.jp/kichijoji-e/banquet/index.html"
+  }
+ ],
  "ops": {
   "parking": {
    "text": "敷地内地下2階、普通車26台（幅1.9m×長さ3.3m以上5.0m以下×高さ2.2m以内）。入庫は24時間可能、24:00～翌朝6:00は入庫不可（出庫は可能）で、入庫が24時を過ぎる場合は連絡が必要。料金は、宴会の場合3時間無料、食事（5,000円以上）の場合1時間無料、時間外は平日30分700円・土日祝30分800円（税込）。宿泊の場合はフロントで24時間券2,500円（入出庫不可）。",

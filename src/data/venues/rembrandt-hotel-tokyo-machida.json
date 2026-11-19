@@ -212,7 +212,11 @@
    "note": "40席、終日禁煙、20名より貸切。完全予約制で5日前までに予約"
   }
  ],
- "roomsSource": "https://rembrandt-group.com/machida/machida_banquet/banquet_specs_m",
+ "roomsSources": [
+  {
+   "url": "https://rembrandt-group.com/machida/machida_banquet/banquet_specs_m"
+  }
+ ],
  "ops": {
   "prevDaySetup": {
    "text": "展示会の搬入は、原則として前日午後9時以降とされている。展示会の搬入出日には、展示会室料の20%が搬入搬出費として加算される。当日の午前9時以前または午後9時以降の会場使用は割増料金となる。",

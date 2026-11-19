@@ -338,7 +338,11 @@
    "banquet": null
   }
  ],
- "roomsSource": "https://www.sonic-city.or.jp/organizer/usagefee.html",
+ "roomsSources": [
+  {
+   "url": "https://www.sonic-city.or.jp/organizer/usagefee.html"
+  }
+ ],
  "ops": {
   "prevDaySetup": {
    "text": "大ホール・小ホールを準備または練習のために利用する場合の利用料は通常額の70%（2026年4月1日改定の利用料）。利用時間には催しの準備・撤去の作業時間が含まれる。展示場は利用開始前後に展示品・梱包材の保管が必要な場合、その分の施設利用を申し込む（保管倉庫はない）。",

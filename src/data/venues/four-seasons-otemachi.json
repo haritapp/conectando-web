@@ -112,7 +112,12 @@
    "note": "キッチン付き。80インチのモニターあり。ダイニングテーブル12名"
   }
  ],
- "roomsSource": "https://www.fourseasons.com/jp/otemachi/meetings-and-events/（各部屋ページ：function-rooms/third-floor/grand-ballroom/ ほか）",
+ "roomsSources": [
+  {
+   "url": "https://www.fourseasons.com/jp/otemachi/meetings-and-events/",
+   "note": "各部屋ページ：function-rooms/third-floor/grand-ballroom/ ほか"
+  }
+ ],
  "ops": {
   "parking": {
    "text": "セルフパーキングはOTEMACHI ONE地下駐車場（営業時間7:00〜23:00）で、入庫可能サイズは車長5.3m・車幅2.0m・車高1.5m。料金は30分400円、営業時間外は1時間100円。宿泊客は1泊1台5,000円（24時間）。バレーパーキングは宿泊客6,500円、レストラン利用客1,500円（別途セルフパーキング料金が必要）。出入口は建物の北側。",

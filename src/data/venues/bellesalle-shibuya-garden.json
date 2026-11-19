@@ -156,7 +156,11 @@
    "note": ""
   }
  ],
- "roomsSource": "https://www.bellesalle.co.jp/wp-content/uploads/shibuyag_price.pdf",
+ "roomsSources": [
+  {
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/shibuyag_price.pdf"
+  }
+ ],
  "ops": {
   "prevDaySetup": {
    "text": "使用時間には準備・後片付けの時間も含まれる。8時間・12時間・24時間の料金があり、夜間使用や24時間利用は前後の予約状況で使えない場合があるため事前に相談する。一部会場を除き365日24時間利用できる。荷物の事前搬入は原則、開催日の前日着で手配し、事前搬入届に個数と品名を書いて提出する（貴重品は不可）。事前到着荷物は各ホール5箱まで。（出典：ホール料金表 2026/7/3更新、よくあるご質問、事前搬入届）",

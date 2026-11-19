@@ -79,7 +79,11 @@
    "note": "分割不可"
   }
  ],
- "roomsSource": "https://okura.com/ja/japan/tokyo/hotel-east-21-tokyo/meetings-events/",
+ "roomsSources": [
+  {
+   "url": "https://okura.com/ja/japan/tokyo/hotel-east-21-tokyo/meetings-events/"
+  }
+ ],
  "ops": {
   "parking": {
    "text": "ホテルの基本情報には、駐車場111台、契約駐車場290台（大型バス5台）で、どちらも有料と載っている。",

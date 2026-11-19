@@ -211,7 +211,16 @@
    "note": "客室棟1F。公式は大宴会場でのイベントの事務局やVIP控室向けと案内。"
   }
  ],
- "roomsSource": "https://www.princehotels.co.jp/takanawa-area/banquet/assets/pdf/takanawa_roomspec.pdf（会場仕様一覧、2024年8月版）と各会場ページ https://www.princehotels.co.jp/takanawa-area/banquet/halls/konron.html ほか。同じ高輪エリアの別施設（グランドプリンスホテル高輪、高輪 貴賓館、ザ・プリンス さくらタワー東京）の宴会場は含めていない。",
+ "roomsSources": [
+  {
+   "url": "https://www.princehotels.co.jp/takanawa-area/banquet/assets/pdf/takanawa_roomspec.pdf",
+   "note": "会場仕様一覧、2024年8月版"
+  },
+  {
+   "url": "https://www.princehotels.co.jp/takanawa-area/banquet/halls/konron.html"
+  }
+ ],
+ "roomsSourceMemo": "https://www.princehotels.co.jp/takanawa-area/banquet/assets/pdf/takanawa_roomspec.pdf（会場仕様一覧、2024年8月版）と各会場ページ https://www.princehotels.co.jp/takanawa-area/banquet/halls/konron.html ほか。同じ高輪エリアの別施設（グランドプリンスホテル高輪、高輪 貴賓館、ザ・プリンス さくらタワー東京）の宴会場は含めていない。",
  "ops": {
   "loadingHours": {
    "text": "搬入の経路と寸法が公式の搬入・搬出経路図にある。国際館パミールは搬入エレベーター 幅2.6m・奥行6.7m・高さ2.2m・積載5,400kg。飛天は搬入扉 幅3.6m・高さ3.5m。新高輪の宴会棟は搬入エレベーター扉 幅1.5m・高さ2.2m、かご内 幅1.9m・奥行2.5m・高さ2.5m・積載2,500kg。（宴会場パンフレット 2024年4月版）",

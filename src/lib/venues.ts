@@ -20,7 +20,8 @@ export interface Room {
   rentable?: boolean;
 }
 
-export interface OpsItem { text: string; source: string }
+export interface RoomsSource { url: string; note?: string | null }
+export interface OpsItem { text: string; source: string; /** 出典が複数あるときの2つ目以降（source には1つ目だけ入れる） */ moreSources?: string[] }
 export type OpsKey = 'catering' | 'restaurants' | 'prevDaySetup' | 'waitingRooms' | 'loadingHours' | 'parking' | 'vehicleRules';
 
 export interface Shop {
@@ -53,9 +54,13 @@ export interface Venue {
   notice?: string | { text: string; source?: string } | null;
   hours?: string | null;
   rooms: Room[];
-  roomsSource?: string | null;
+  /** 部屋表の出典。1件ずつ URL だけを入れる（説明文・複数URLの連結は不可。ビルド時に検査する） */
+  roomsSources?: RoomsSource[];
+  /** 出典まわりのメモ（画面には出さない。元の説明文の控え） */
+  roomsSourceMemo?: string | null;
   ops: Partial<Record<OpsKey, OpsItem>>;
-  documents?: { title: string; url: string }[];
+  /** url が無いときは資料名だけを表示する（リンク先が開けない資料） */
+  documents?: { title: string; url?: string | null }[];
   nearby?: {
     convenience?: Shop[];
     copyshop?: Shop[];
@@ -118,6 +123,25 @@ export const areaColumnPath = (area: string) => `/column/${area}/`;
 
 // ---- 読み込み ----
 const modules = import.meta.glob<{ default: Venue }>('../data/venues/*.json', { eager: true });
+
+// ---- データの検査：URL欄に空白・日本語・説明文が混ざっていたらビルドを止める ----
+const CLEAN_URL = /^https?:\/\/[\x21-\x7e]+$/;
+function assertCleanUrls(v: Venue) {
+  const bad = (what: string, u: unknown) => {
+    throw new Error(`[venues] ${v.slug}: ${what} が URL として正しい形ではありません（空白・日本語・説明文を入れず、URL だけにしてください）: ${String(u)}`);
+  };
+  const check = (what: string, u: unknown) => { if (u != null && u !== '' && (typeof u !== 'string' || !CLEAN_URL.test(u))) bad(what, u); };
+  if ('roomsSource' in (v as object)) throw new Error(`[venues] ${v.slug}: roomsSource は廃止しました。roomsSources（URLの配列）を使ってください`);
+  check('officialUrl', v.officialUrl);
+  check('organizerUrl', v.organizerUrl);
+  (v.roomsSources ?? []).forEach((r, i) => check(`roomsSources[${i}].url`, r.url));
+  if (v.notice && typeof v.notice === 'object') check('notice.source', v.notice.source);
+  Object.entries(v.ops ?? {}).forEach(([k, o]) => { check(`ops.${k}.source`, o?.source); (o?.moreSources ?? []).forEach((m, i) => check(`ops.${k}.moreSources[${i}]`, m)); });
+  (v.documents ?? []).forEach((d, i) => check(`documents[${i}].url`, d.url));
+  Object.entries(v.nearby ?? {}).forEach(([g, list]) => (list ?? []).forEach((sh, i) => check(`nearby.${g}[${i}].source`, sh.source)));
+  check('photo.sourceUrl', v.photo?.sourceUrl);
+}
+Object.values(modules).forEach((m) => assertCleanUrls(m.default));
 
 export function getVenues(): Venue[] {
   return Object.values(modules)

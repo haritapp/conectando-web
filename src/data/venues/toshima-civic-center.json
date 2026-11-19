@@ -244,7 +244,14 @@
    "note": "料理利用は定員22人・有効面積77.4㎡、会議利用は定員32人・有効面積55.0㎡。会議利用では調理用具・食器・水道・冷蔵庫などの料理用の備品は使えない。ここで調理した料理や備品は室外に持ち出せない。マイクを使えない"
   }
  ],
- "roomsSource": "https://toshima-civic-center.jp/facilities/ ／ https://toshima-civic-center.jp/download/pamphlet.pdf",
+ "roomsSources": [
+  {
+   "url": "https://toshima-civic-center.jp/facilities/"
+  },
+  {
+   "url": "https://toshima-civic-center.jp/download/pamphlet.pdf"
+  }
+ ],
  "ops": {
   "prevDaySetup": {
    "text": "ホールは最長7日間、会議室・スタジオ・和室・キッチンルームは最長3日間、連続して利用できる。ホールは複数日の利用でも鍵を毎日返却する。エントランスホールを連日使うときは、その日の片付けが終わったら受付に行き、通路に影響がないか留置物の確認を受ける。（出典：多目的ホールご利用の流れ、エントランスホールご利用の流れ、パンフレット）",

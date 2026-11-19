@@ -211,7 +211,23 @@
    "note": "他のRoomから独立した部屋。料金表のシアターは180名、レイアウト一覧では168名。島型90名。"
   }
  ],
- "roomsSource": "https://www.tokyo-midtown.com/jp/facilities/hall/hall-a-b/、https://www.tokyo-midtown.com/jp/facilities/hall/conference/、https://www.tokyo-midtown.com/jp/facilities/hall/pdf/price/tmhc_price.pdf、https://www.tokyo-midtown.com/jp/facilities/hall/hall-a-b/layout.html、https://www.tokyo-midtown.com/jp/facilities/hall/conference/layout.html",
+ "roomsSources": [
+  {
+   "url": "https://www.tokyo-midtown.com/jp/facilities/hall/hall-a-b/"
+  },
+  {
+   "url": "https://www.tokyo-midtown.com/jp/facilities/hall/conference/"
+  },
+  {
+   "url": "https://www.tokyo-midtown.com/jp/facilities/hall/pdf/price/tmhc_price.pdf"
+  },
+  {
+   "url": "https://www.tokyo-midtown.com/jp/facilities/hall/hall-a-b/layout.html"
+  },
+  {
+   "url": "https://www.tokyo-midtown.com/jp/facilities/hall/conference/layout.html"
+  }
+ ],
  "ops": {
   "prevDaySetup": {
    "text": "本番日の前日以前の搬入・準備・設営（リハーサル含む）と、本番日の翌日以降の撤去・撤収は、室料が30％割引になる。前日以前・翌日以降の準備・撤去を5時間から使えるのはホールのみ。基本の営業時間は9:00〜21:00で、延長は前後1時間ずつのみ。開催日以前の準備設営や9時前・21時以降の利用は別途相談で、開錠から施錠までが貸出時間のため準備・撤去の時間も含めて計画する。（出典：ご利用料金表 2024.4.1改定、ご利用の流れ、ご利用に関する注意事項）",

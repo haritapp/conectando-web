@@ -270,11 +270,51 @@
    "note": "多摩・相模は来場者をもてなす控室としても使える。"
   }
  ],
- "roomsSource": "https://www.keioplaza.co.jp/banquet/mice/、https://www.keioplaza.co.jp/banquet/hall/concord/、https://www.keioplaza.co.jp/banquet/hall/eminence/、https://www.keioplaza.co.jp/banquet/hall/hana/、https://www.keioplaza.co.jp/banquet/hall/nishiki/、https://www.keioplaza.co.jp/banquet/hall/ohgi/、https://www.keioplaza.co.jp/banquet/hall/south04/、https://www.keioplaza.co.jp/banquet/hall/kaede/、https://www.keioplaza.co.jp/banquet/hall/graceroom/、https://www.keioplaza.co.jp/banquet/hall/harmony/、https://www.keioplaza.co.jp/banquet/hall/comet/、https://www.keioplaza.co.jp/banquet/hall/takao-fuji/",
+ "roomsSources": [
+  {
+   "url": "https://www.keioplaza.co.jp/banquet/mice/"
+  },
+  {
+   "url": "https://www.keioplaza.co.jp/banquet/hall/concord/"
+  },
+  {
+   "url": "https://www.keioplaza.co.jp/banquet/hall/eminence/"
+  },
+  {
+   "url": "https://www.keioplaza.co.jp/banquet/hall/hana/"
+  },
+  {
+   "url": "https://www.keioplaza.co.jp/banquet/hall/nishiki/"
+  },
+  {
+   "url": "https://www.keioplaza.co.jp/banquet/hall/ohgi/"
+  },
+  {
+   "url": "https://www.keioplaza.co.jp/banquet/hall/south04/"
+  },
+  {
+   "url": "https://www.keioplaza.co.jp/banquet/hall/kaede/"
+  },
+  {
+   "url": "https://www.keioplaza.co.jp/banquet/hall/graceroom/"
+  },
+  {
+   "url": "https://www.keioplaza.co.jp/banquet/hall/harmony/"
+  },
+  {
+   "url": "https://www.keioplaza.co.jp/banquet/hall/comet/"
+  },
+  {
+   "url": "https://www.keioplaza.co.jp/banquet/hall/takao-fuji/"
+  }
+ ],
  "ops": {
   "loadingHours": {
    "text": "コンコードボールルームと花のカーリフトは高さ2.4m・奥行2.46m・幅6.9m、エミネンスホールのカーリフトは高さ2.1m・奥行7.2m・幅2.1m（公式PDFの表記どおり。2025年3月31日版）。",
-   "source": "https://www.keioplaza.co.jp/_media/shinjuku/concord_pamphlet-1.pdf、https://www.keioplaza.co.jp/_media/shinjuku/eminence_pamphlet-1.pdf"
+   "source": "https://www.keioplaza.co.jp/_media/shinjuku/concord_pamphlet-1.pdf",
+   "moreSources": [
+    "https://www.keioplaza.co.jp/_media/shinjuku/eminence_pamphlet-1.pdf"
+   ]
   },
   "parking": {
    "text": "ホテル駐車場は509台（車椅子専用あり）で24時間営業。入れる車両は車高2.1m・車長6m・車幅2.08m・重さ5tまで。都庁側の入口からは車高2.8mまで入庫できるが駐車スペースに限りがあり、入庫の際はベルマンか駐車場係に申し出る。一般は30分ごと400円・24時間まで最大2,000円。宴会利用は3.5時間まで無料（入庫整理券を会場担当者に渡す）、宴会場を使う展示会は2時間まで無料。",

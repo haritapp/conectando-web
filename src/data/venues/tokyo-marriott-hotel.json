@@ -175,7 +175,11 @@
    "note": "1F。3分割可能で、各部屋は最大49名。披露宴110名。縦17.2×横11.8m。marriott.comではシアター220名・スクール100名・立食110名・着席120名"
   }
  ],
- "roomsSource": "https://tokyo-marriott.com/banquet/",
+ "roomsSources": [
+  {
+   "url": "https://tokyo-marriott.com/banquet/"
+  }
+ ],
  "ops": {
   "parking": {
    "text": "地下3階に約70台。高さ制限2.1m。外来は30分につき500円。宴席・婚礼の利用は4時間まで無料。宿泊は1泊2,000円。",

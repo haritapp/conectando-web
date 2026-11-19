@@ -233,7 +233,11 @@
    "note": "茶室（三畳台目）と日本庭園を設けた和室（18畳）。茶道専用"
   }
  ],
- "roomsSource": "https://www.shinagawa-culture.or.jp/curian/facility/guide/floors.html",
+ "roomsSources": [
+  {
+   "url": "https://www.shinagawa-culture.or.jp/curian/facility/guide/floors.html"
+  }
+ ],
  "ops": {
   "vehicleRules": {
    "text": "会館周辺道路は狭く、路線バスの運行等を妨げるため駐停車ができない。駐車場への待機列が路線バスの運行の妨げとなっており、来館には電車・バスの利用が案内されている。",
@@ -270,8 +274,8 @@
    "url": "https://www.shinagawa-culture.or.jp/curian/facility/jk1h86000000065y-att/syotodoke_dai_syou_hall202610.pdf"
   },
   {
-   "title": "諸届（イベントホール用）",
-   "url": "https://www.shinagawa-culture.or.jp/curian/facility/jk1h86000000065y-att/jk1h8600000006sc.pdf"
+   "title": "諸届（イベントホール用）（2026年10月版）",
+   "url": "https://www.shinagawa-culture.or.jp/curian/facility/jk1h86000000065y-att/syotodoke_event_hall202610.pdf"
   },
   {
    "title": "大ホール 舞台レイアウト",
@@ -294,8 +298,8 @@
    "url": "https://www.shinagawa-culture.or.jp/curian/facility/download.html"
   },
   {
-   "title": "きゅりあんカレンダー（2026年）",
-   "url": "https://www.shinagawa-culture.or.jp/curian/c2hkqm0000000031-att/curiancalender2026.pdf"
+   "title": "きゅりあんカレンダー（2026〜2027年）",
+   "url": "https://www.shinagawa-culture.or.jp/curian/c2hkqm0000000031-att/curiancalender2026-2027.pdf"
   }
  ],
  "checkedAt": "2026-11-07",

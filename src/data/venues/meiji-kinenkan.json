@@ -342,7 +342,11 @@
    "note": "1階"
   }
  ],
- "roomsSource": "https://www.meijikinenkan.gr.jp/party/banquet/",
+ "roomsSources": [
+  {
+   "url": "https://www.meijikinenkan.gr.jp/party/banquet/"
+  }
+ ],
  "ops": {
   "parking": {
    "text": "館内施設利用者用の無料駐車場がある。首都高速4号線の外苑出口を利用する（上り線・下り線で出口が異なる）。土日祝日は大変混雑する。",

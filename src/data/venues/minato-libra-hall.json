@@ -189,7 +189,11 @@
    "note": "定員38人"
   }
  ],
- "roomsSource": "https://www.minatolibra.jp/floor/",
+ "roomsSources": [
+  {
+   "url": "https://www.minatolibra.jp/floor/"
+  }
+ ],
  "ops": {
   "loadingHours": {
    "text": "事前の荷物の受け取りは行っていない。施設利用の準備・片付けは利用承認の時間内に行う。機材を持ち込む場合は事前に職員へ相談する。危険物と大きな荷物の持ち込みはできない。",

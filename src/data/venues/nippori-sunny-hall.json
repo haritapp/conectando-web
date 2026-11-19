@@ -79,7 +79,11 @@
    "note": "24席（定員30名）。5階"
   }
  ],
- "roomsSource": "https://www.sunny-move.jp/sunny/facility/index.html",
+ "roomsSources": [
+  {
+   "url": "https://www.sunny-move.jp/sunny/facility/index.html"
+  }
+ ],
  "ops": {
   "prevDaySetup": {
    "text": "ホール・コンサートサロンを公演の準備・練習のために利用する場合の利用料は半額（同施設・前1か月以内に限る）。利用時間には搬入出・設営・撤去・入退館・ピアノ調律が含まれ、準備・片づけにはそれぞれ最低30分、仕込み内容によっては1時間以上かかる。",

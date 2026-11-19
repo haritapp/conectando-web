@@ -123,7 +123,14 @@
    "note": "定員35名。放送設備なし。"
   }
  ],
- "roomsSource": "https://www.sumidasangyoukaikan.jp/organizar/hall/ ／ https://www.sumidasangyoukaikan.jp/organizar/conference_room/",
+ "roomsSources": [
+  {
+   "url": "https://www.sumidasangyoukaikan.jp/organizar/hall/"
+  },
+  {
+   "url": "https://www.sumidasangyoukaikan.jp/organizar/conference_room/"
+  }
+ ],
  "ops": {
   "loadingHours": {
    "text": "車両でB2Fの荷捌場に入れるのは7:30から。台車などで運ぶときは、1Fの防災センターまたはB2Fの荷捌場から貨物用エレベーターを使う（ホールは5号機、会議室は8号機だけ）。5号機は幅2.3m×奥行2.4m×高さ2.55m以内、8号機は幅1.8m×奥行1.85m×高さ2.3m以内。搬出入届は利用日の30日前まで（遅くとも2週間前）に出し、FAXも可。エレベーターを専用にしたいときは、利用日1週間前の搬出入届を出すまでに申し出る（錦糸町マルイと共用のため、希望どおりにならないことがある）。カゴ車20台・手押し台車9台を無料で借りられる。よくある質問のページには、届の期限を「利用日の1週間前まで」とする記載もある。",

@@ -144,7 +144,11 @@
    "note": "2F。小宴会場"
   }
  ],
- "roomsSource": "https://www.seiyoken.co.jp/banquet/hall.html",
+ "roomsSources": [
+  {
+   "url": "https://www.seiyoken.co.jp/banquet/hall.html"
+  }
+ ],
  "ops": {
   "parking": {
    "text": "専用駐車場が39台あり、本店の目の前。満車などで使えない日もある。貸切バスで来る場合は事前に担当者へ連絡する（連絡がないと、当日の状況によって駐車できないことがある）。専用駐車場へは、動物園通りから「五条天神社」脇の道路を進む。",

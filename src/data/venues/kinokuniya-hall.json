@@ -24,11 +24,21 @@
    "note": "固定席427席（座席表の表記「客席数427」）。I・J列の1・2番と19・20番の座席は取り外し可能で、車椅子スペースとしても使える。舞台平面図に「間口9.0m・奥行6.6〜7.1m・高さ6.1m」の記載がある。使用料（税抜、2023年1月1日より）は平日が午前107,000円／午後158,000円／夜201,000円／全日431,000円、土日祝が午前147,000円／午後209,000円／夜209,000円／全日491,000円（連続する区分は、平日の午前＋午後251,000円・午後＋夜332,000円、土日祝の午前＋午後333,000円・午後＋夜408,000円）。"
   }
  ],
- "roomsSource": "https://store.kinokuniya.co.jp/wp-content/uploads/2023/02/2-6ホール単発料金.pdf、https://store.kinokuniya.co.jp/wp-content/uploads/2021/03/新ホール座席表.pdf、https://store.kinokuniya.co.jp/wp-content/uploads/2024/08/ホール舞台平面図-1.pdf",
+ "roomsSources": [
+  {
+   "url": "https://store.kinokuniya.co.jp/wp-content/uploads/2023/02/2-6%E3%83%9B%E3%83%BC%E3%83%AB%E5%8D%98%E7%99%BA%E6%96%99%E9%87%91.pdf"
+  },
+  {
+   "url": "https://store.kinokuniya.co.jp/wp-content/uploads/2021/03/%E6%96%B0%E3%83%9B%E3%83%BC%E3%83%AB%E5%BA%A7%E5%B8%AD%E8%A1%A8.pdf"
+  },
+  {
+   "url": "https://store.kinokuniya.co.jp/wp-content/uploads/2024/08/%E3%83%9B%E3%83%BC%E3%83%AB%E8%88%9E%E5%8F%B0%E5%B9%B3%E9%9D%A2%E5%9B%B3-1.pdf"
+  }
+ ],
  "ops": {
   "waitingRooms": {
    "text": "楽屋は20畳分で、楽屋鏡22面・姿見1面があり、シャワー室と洗面室がある（備品料金表 2024年8月より）。楽屋周りの備品として、パイプ椅子、長机、冷蔵庫（2段式・冷凍庫付）、電子レンジ（1500W）、洗濯機（二層式）、電気ポット（4ℓ）、姿見、シュテンダーがある（ホール制作回り備品リスト）。",
-   "source": "https://store.kinokuniya.co.jp/wp-content/uploads/2024/08/ホール備品一覧1.pdf"
+   "source": "https://store.kinokuniya.co.jp/wp-content/uploads/2024/08/%E3%83%9B%E3%83%BC%E3%83%AB%E5%82%99%E5%93%81%E4%B8%80%E8%A6%A71.pdf"
   }
  },
  "documents": [
@@ -38,39 +48,39 @@
   },
   {
    "title": "紀伊國屋ホールご使用料金（2023年1月1日より）",
-   "url": "https://store.kinokuniya.co.jp/wp-content/uploads/2023/02/2-6ホール単発料金.pdf"
+   "url": "https://store.kinokuniya.co.jp/wp-content/uploads/2023/02/2-6%E3%83%9B%E3%83%BC%E3%83%AB%E5%8D%98%E7%99%BA%E6%96%99%E9%87%91.pdf"
   },
   {
    "title": "備品料金表・その他設備（2024年8月より）",
-   "url": "https://store.kinokuniya.co.jp/wp-content/uploads/2024/08/ホール備品一覧1.pdf"
+   "url": "https://store.kinokuniya.co.jp/wp-content/uploads/2024/08/%E3%83%9B%E3%83%BC%E3%83%AB%E5%82%99%E5%93%81%E4%B8%80%E8%A6%A71.pdf"
   },
   {
    "title": "ホール設備一覧（備品一覧2、2024年8月23日更新）",
-   "url": "https://store.kinokuniya.co.jp/wp-content/uploads/2024/08/ホール備品一覧2.pdf"
+   "url": "https://store.kinokuniya.co.jp/wp-content/uploads/2024/08/%E3%83%9B%E3%83%BC%E3%83%AB%E5%82%99%E5%93%81%E4%B8%80%E8%A6%A72.pdf"
   },
   {
    "title": "ホール制作回り備品（机・椅子の備品リスト）",
-   "url": "https://store.kinokuniya.co.jp/wp-content/uploads/2020/08/ホール制作回り備品.pdf"
+   "url": "https://store.kinokuniya.co.jp/wp-content/uploads/2020/08/%E3%83%9B%E3%83%BC%E3%83%AB%E5%88%B6%E4%BD%9C%E5%9B%9E%E3%82%8A%E5%82%99%E5%93%81.pdf"
   },
   {
    "title": "ホール座席表（客席数427）",
-   "url": "https://store.kinokuniya.co.jp/wp-content/uploads/2021/03/新ホール座席表.pdf"
+   "url": "https://store.kinokuniya.co.jp/wp-content/uploads/2021/03/%E6%96%B0%E3%83%9B%E3%83%BC%E3%83%AB%E5%BA%A7%E5%B8%AD%E8%A1%A8.pdf"
   },
   {
    "title": "ホール舞台平面図（2021年7月改訂）",
-   "url": "https://store.kinokuniya.co.jp/wp-content/uploads/2024/08/ホール舞台平面図-1.pdf"
+   "url": "https://store.kinokuniya.co.jp/wp-content/uploads/2024/08/%E3%83%9B%E3%83%BC%E3%83%AB%E8%88%9E%E5%8F%B0%E5%B9%B3%E9%9D%A2%E5%9B%B3-1.pdf"
   },
   {
    "title": "ホール舞台断面図（2021年7月改訂）",
-   "url": "https://store.kinokuniya.co.jp/wp-content/uploads/2024/08/ホール舞台断面図.pdf"
+   "url": "https://store.kinokuniya.co.jp/wp-content/uploads/2024/08/%E3%83%9B%E3%83%BC%E3%83%AB%E8%88%9E%E5%8F%B0%E6%96%AD%E9%9D%A2%E5%9B%B3.pdf"
   },
   {
    "title": "ホール照明機材リスト（2017年11月2日更新）",
-   "url": "https://store.kinokuniya.co.jp/wp-content/uploads/2020/08/ホール照明機材.pdf"
+   "url": "https://store.kinokuniya.co.jp/wp-content/uploads/2020/08/%E3%83%9B%E3%83%BC%E3%83%AB%E7%85%A7%E6%98%8E%E6%A9%9F%E6%9D%90.pdf"
   },
   {
    "title": "紀伊國屋ホール 案内図（2025年3月1日更新）",
-   "url": "https://store.kinokuniya.co.jp/wp-content/uploads/2025/03/紀伊國屋ホール_マップ.pdf"
+   "url": "https://store.kinokuniya.co.jp/wp-content/uploads/2025/03/%E7%B4%80%E4%BC%8A%E5%9C%8B%E5%B1%8B%E3%83%9B%E3%83%BC%E3%83%AB_%E3%83%9E%E3%83%83%E3%83%97.pdf"
   }
  ],
  "checkedAt": "2026-11-02",

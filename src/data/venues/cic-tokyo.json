@@ -46,7 +46,15 @@
    "note": "着席30名程度。会場スポンサーが占有する会場で、スポンサーの予約がない日時のみ予約可。利用料は9:00-14:00が1時間33,000円、14:00-21:00が1時間50,000円（税別）、平日21時以降・休日は35%増し。階数は公式ページが15階、2023年11月版PDFが16階"
   }
  ],
- "roomsSource": "https://jp.cic.com/event-space-rentals/（面積・利用料は https://jp.cic.com/wp-content/uploads/2024/10/General-CIC-Tokyo-Event-Space-info-2023-Nov.pdf）",
+ "roomsSources": [
+  {
+   "url": "https://jp.cic.com/event-space-rentals/"
+  },
+  {
+   "url": "https://jp.cic.com/wp-content/uploads/2024/10/General-CIC-Tokyo-Event-Space-info-2023-Nov.pdf"
+  }
+ ],
+ "roomsSourceMemo": "https://jp.cic.com/event-space-rentals/（面積・利用料は https://jp.cic.com/wp-content/uploads/2024/10/General-CIC-Tokyo-Event-Space-info-2023-Nov.pdf）",
  "ops": {
   "loadingHours": {
    "text": "ベンチャーカフェの設営は、イベント開始の90分前から可能（設営時間にも会場費がかかる）。どの会場もイベントは21時までに閉会し、22時までに完全撤収する必要があり、撤収時間にも会場費がかかる。平日9時前・18時以降と休日は、スタッフ立会費が1人25,000円（税別）加わるのが原則。（2023年11月版）",

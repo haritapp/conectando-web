@@ -178,7 +178,20 @@
    "note": "縦横6.3×9.85m"
   }
  ],
- "roomsSource": "https://tokyobay.hiltonjapan.co.jp/mice/large、https://tokyobay.hiltonjapan.co.jp/mice/medium、https://tokyobay.hiltonjapan.co.jp/mice/small、https://tokyobay.hiltonjapan.co.jp/mice/other",
+ "roomsSources": [
+  {
+   "url": "https://tokyobay.hiltonjapan.co.jp/mice/large"
+  },
+  {
+   "url": "https://tokyobay.hiltonjapan.co.jp/mice/medium"
+  },
+  {
+   "url": "https://tokyobay.hiltonjapan.co.jp/mice/small"
+  },
+  {
+   "url": "https://tokyobay.hiltonjapan.co.jp/mice/other"
+  }
+ ],
  "ops": {
   "parking": {
    "text": "ホテルに350台収容の駐車場がある。御婚礼・ご宴会は5時間まで無料で、以後60分ごとに1,000円（税込）。宿泊は1泊4,000円（チェックイン日15:00からチェックアウト後30分以内）。FAQには、ホテル敷地内に臨時駐車場もあるとの記載がある。",

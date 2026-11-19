@@ -57,7 +57,20 @@
    "note": "3階。ホール使用料に含まれる。付属の化粧室は別料金。"
   }
  ],
- "roomsSource": "https://zhall.or.jp/introduction_hall ／ https://zhall.or.jp/introduction_croom ／ https://zhall.or.jp/introduction_scroom ／ https://zhall.or.jp/download/files/%E3%83%9B%E3%83%BC%E3%83%AB%E6%8E%A7%E5%AE%A4%E3%83%AC%E3%82%A4%E3%82%A2%E3%82%A6%E3%83%88%EF%BC%883%E9%9A%8E%EF%BC%89.pdf",
+ "roomsSources": [
+  {
+   "url": "https://zhall.or.jp/introduction_hall"
+  },
+  {
+   "url": "https://zhall.or.jp/introduction_croom"
+  },
+  {
+   "url": "https://zhall.or.jp/introduction_scroom"
+  },
+  {
+   "url": "https://zhall.or.jp/download/files/%E3%83%9B%E3%83%BC%E3%83%AB%E6%8E%A7%E5%AE%A4%E3%83%AC%E3%82%A4%E3%82%A2%E3%82%A6%E3%83%88%EF%BC%883%E9%9A%8E%EF%BC%89.pdf"
+  }
+ ],
  "ops": {
   "loadingHours": {
    "text": "使用時間は設営開始から退館までで、舞台設営・客席の増減・受付準備・入退場の時間も契約時間に含まれる。入室は原則、契約の開始時間から。当日使う荷物は利用日前日の午後に着くよう会館へ送り、備考欄に利用日と会社名を書く（大量のときは事前に相談）。荷受けでの数量・破損などのトラブルに会館は責任を負わない。利用後の荷物は翌日午前の集荷を主催者が着払いで手配し、1階の事務室へ持っていく。ホール設営を会館に頼むときは設営指示書を催事1週間前までに送る。（出典：よくあるお問い合わせ、配送について、ホール設営作業指示書）",

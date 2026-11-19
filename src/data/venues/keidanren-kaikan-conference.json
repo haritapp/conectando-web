@@ -210,7 +210,11 @@
    "ceilingM": null
   }
  ],
- "roomsSource": "http://www.keidanren-kaikan.jp/room.html",
+ "roomsSources": [
+  {
+   "url": "http://www.keidanren-kaikan.jp/room.html"
+  }
+ ],
  "ops": {
   "prevDaySetup": {
    "text": "会合の前日・当日の準備や片付けの時間は、使用料金の算定対象になる。会合に伴う荷物は前日から預かり、主催者が事前に担当スタッフへ連絡のうえ、ご利用日と主催者名を明記して経団連会館営業センター宛に送る。同時通訳設備を使う場合は開始の2時間前から、映像を伴う会合はリハーサル等に必要な時間を含めて会場を押さえる（2026年4月1日改訂）。",

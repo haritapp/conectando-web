@@ -156,15 +156,19 @@
    "note": "東京都品川区東品川1-32-8 TERRADA ART COMPLEXⅡ 4F。ホワイトキューブのギャラリー。温度・湿度の管理、保税区域内全域の監視カメラ、大型エレベーター、駐車場直結の広い搬入口がある。保税ギャラリーとして使う場合は追加費用がかかる。比較表の収容人数は「-」。"
   }
  ],
- "roomsSource": "https://event-space.terrada.co.jp/all-spaces/",
+ "roomsSources": [
+  {
+   "url": "https://event-space.terrada.co.jp/all-spaces/"
+  }
+ ],
  "ops": {
   "prevDaySetup": {
    "text": "G1-5F・B&C HALL・D HALL・WHAT CAFE・T-LOTUS M・SONORRA：料金表に「設営・撤去」の区分があり、設営・撤去だけを行う日の基本料金は本番日の半額。基本使用時間は本番日と同じ。（出典：各会場の料金表）",
-   "source": "https://event-space.terrada.co.jp/wp-content/uploads/2026/10/【TERRADA-EVENT-SPACE】BC-HALL料金表_261001.pdf"
+   "source": "https://event-space.terrada.co.jp/wp-content/uploads/2026/10/%E3%80%90TERRADA-EVENT-SPACE%E3%80%91BC-HALL%E6%96%99%E9%87%91%E8%A1%A8_261001.pdf"
   },
   "loadingHours": {
    "text": "全スペース共通：設営・搬入と撤去・搬出は、すべて利用時間内に申込者側のスタッフで行う。基本利用時間の前後は時間外料金で使える。搬出入スペースとエレベーターには時間・場所の利用制限があり、利用前の打合せで利用時間・利用台数・利用車種・ナンバーを書面で伝える。搬出入の導線には養生をする。宅配便での搬入は利用時間内に申込者が受け取り、宛先住所の末尾に「○○（施設名）イベント用」と書く。会場利用前の荷物の受取りと、利用後の発送は受け付けない。（出典：利用規約 第15条、よくあるご質問）",
-   "source": "https://event-space.terrada.co.jp/wp-content/uploads/2026/09/【TERRADA-EVENT-SPACE】利用規約_261001.pdf"
+   "source": "https://event-space.terrada.co.jp/wp-content/uploads/2026/09/%E3%80%90TERRADA-EVENT-SPACE%E3%80%91%E5%88%A9%E7%94%A8%E8%A6%8F%E7%B4%84_261001.pdf"
   },
   "vehicleRules": {
    "text": "B&C HALL・D HALL：車両展示ができる。安全のため、搬入出時と本番時は車両を走行させず、ガソリンなどの燃料は抜いて搬入する（比較表の条件はガソリン抜き・手押し）。G1-5F・WHAT CAFE・T-LOTUS M・SONORRA・TERRADA ACT STUDIO TENNOZ Rim・BONDED GALLERY：比較表の車両展示は×。全スペース共通：寺田倉庫が指定する範囲の外で、車両の通行、駐車、物品の放置、立入りをしてはいけない。（出典：よくあるご質問、施設一覧の比較表、利用規約 第8条）",
@@ -186,39 +190,39 @@
  "documents": [
   {
    "title": "利用規約（2026年10月1日改定）",
-   "url": "https://event-space.terrada.co.jp/wp-content/uploads/2026/09/【TERRADA-EVENT-SPACE】利用規約_261001.pdf"
+   "url": "https://event-space.terrada.co.jp/wp-content/uploads/2026/09/%E3%80%90TERRADA-EVENT-SPACE%E3%80%91%E5%88%A9%E7%94%A8%E8%A6%8F%E7%B4%84_261001.pdf"
   },
   {
    "title": "G1-5F 料金表（2023/11/09更新）",
-   "url": "https://event-space.terrada.co.jp/wp-content/uploads/2026/10/【TERRADA-EVENT-SPACE】G1-5F料金表_261001.pdf"
+   "url": "https://event-space.terrada.co.jp/wp-content/uploads/2026/10/%E3%80%90TERRADA-EVENT-SPACE%E3%80%91G1-5F%E6%96%99%E9%87%91%E8%A1%A8_261001.pdf"
   },
   {
    "title": "B&C HALL 料金表（2023/11/09更新）",
-   "url": "https://event-space.terrada.co.jp/wp-content/uploads/2026/10/【TERRADA-EVENT-SPACE】BC-HALL料金表_261001.pdf"
+   "url": "https://event-space.terrada.co.jp/wp-content/uploads/2026/10/%E3%80%90TERRADA-EVENT-SPACE%E3%80%91BC-HALL%E6%96%99%E9%87%91%E8%A1%A8_261001.pdf"
   },
   {
    "title": "D HALL 料金表（2026/02/04更新）",
-   "url": "https://event-space.terrada.co.jp/wp-content/uploads/2026/10/【TERRADA-EVENT-SPACE】D-HALL料金表_261001.pdf"
+   "url": "https://event-space.terrada.co.jp/wp-content/uploads/2026/10/%E3%80%90TERRADA-EVENT-SPACE%E3%80%91D-HALL%E6%96%99%E9%87%91%E8%A1%A8_261001.pdf"
   },
   {
    "title": "WHAT CAFE 料金表（2025/06/18更新）",
-   "url": "https://event-space.terrada.co.jp/wp-content/uploads/2026/10/【TERRADA-EVENT-SPACE】WHAT-CAFE料金表_261001.pdf"
+   "url": "https://event-space.terrada.co.jp/wp-content/uploads/2026/10/%E3%80%90TERRADA-EVENT-SPACE%E3%80%91WHAT-CAFE%E6%96%99%E9%87%91%E8%A1%A8_261001.pdf"
   },
   {
    "title": "T-LOTUS M 料金表（2026/08/14更新）",
-   "url": "https://event-space.terrada.co.jp/wp-content/uploads/2026/10/【TERRADA-EVENT-SPACE】T-LOTUS-M料金表_261001.pdf"
+   "url": "https://event-space.terrada.co.jp/wp-content/uploads/2026/10/%E3%80%90TERRADA-EVENT-SPACE%E3%80%91T-LOTUS-M%E6%96%99%E9%87%91%E8%A1%A8_261001.pdf"
   },
   {
    "title": "SONORRA 料金表（2026/10/01更新）",
-   "url": "https://event-space.terrada.co.jp/wp-content/uploads/2026/09/【TERRADA-EVENT-SPACE】SONORRA料金表_261001.pdf"
+   "url": "https://event-space.terrada.co.jp/wp-content/uploads/2026/09/%E3%80%90TERRADA-EVENT-SPACE%E3%80%91SONORRA%E6%96%99%E9%87%91%E8%A1%A8_261001.pdf"
   },
   {
    "title": "TERRADA ACT STUDIO TENNOZ Rim 料金表（2026/09/04更新）",
-   "url": "https://event-space.terrada.co.jp/wp-content/uploads/2025/11/【TERRADA-EVENT-SPACE】TERRADA-ACT-STUDIO-TENNOZ-Rim料金表_260904.pdf"
+   "url": "https://event-space.terrada.co.jp/wp-content/uploads/2025/11/%E3%80%90TERRADA-EVENT-SPACE%E3%80%91TERRADA-ACT-STUDIO-TENNOZ-Rim%E6%96%99%E9%87%91%E8%A1%A8_260904.pdf"
   },
   {
    "title": "BONDED GALLERY 料金表（2026/04/10更新）",
-   "url": "https://event-space.terrada.co.jp/wp-content/uploads/2026/04/【TERRADA-EVENT-SPACE】料金表_BONDED-GALLERY_260410.pdf"
+   "url": "https://event-space.terrada.co.jp/wp-content/uploads/2026/04/%E3%80%90TERRADA-EVENT-SPACE%E3%80%91%E6%96%99%E9%87%91%E8%A1%A8_BONDED-GALLERY_260410.pdf"
   },
   {
    "title": "G1-5F 施設図面",
@@ -274,11 +278,11 @@
   },
   {
    "title": "備品リスト（2026年7月14日）",
-   "url": "https://event-space.terrada.co.jp/wp-content/uploads/2026/07/【TERRADA-EVENT-SPACE】備品リスト_20260714.pdf"
+   "url": "https://event-space.terrada.co.jp/wp-content/uploads/2026/07/%E3%80%90TERRADA-EVENT-SPACE%E3%80%91%E5%82%99%E5%93%81%E3%83%AA%E3%82%B9%E3%83%88_20260714.pdf"
   },
   {
    "title": "控室のご案内（最終更新日2025.9.30）",
-   "url": "https://event-space.terrada.co.jp/wp-content/uploads/2026/04/【TERRADA-EVENT-SPACE】控室のご案内_250930.pdf"
+   "url": "https://event-space.terrada.co.jp/wp-content/uploads/2026/04/%E3%80%90TERRADA-EVENT-SPACE%E3%80%91%E6%8E%A7%E5%AE%A4%E3%81%AE%E3%81%94%E6%A1%88%E5%86%85_250930.pdf"
   }
  ],
  "checkedAt": "2026-11-02",

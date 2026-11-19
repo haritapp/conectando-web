@@ -134,7 +134,17 @@
    "note": "5坪。定員6名（テーブル3台・椅子6脚＋予備3脚）。使用料は午前6,600円・午後7,700円・夜間6,600円・全日20,900円（税込）"
   }
  ],
- "roomsSource": "https://www.kotsukaikan.co.jp/business/exhibition/ ／ https://www.kotsukaikan.co.jp/business/conference/ ／ https://www.kotsukaikan.co.jp/data/exhibition/tenji_setsubi_shiyo.pdf",
+ "roomsSources": [
+  {
+   "url": "https://www.kotsukaikan.co.jp/business/exhibition/"
+  },
+  {
+   "url": "https://www.kotsukaikan.co.jp/business/conference/"
+  },
+  {
+   "url": "https://www.kotsukaikan.co.jp/data/exhibition/tenji_setsubi_shiyo.pdf"
+  }
+ ],
  "ops": {
   "prevDaySetup": {
    "text": "前日搬入は、6時間以内の半日利用なら1日の使用料の50%、半日を超えるなら1日分の料金がかかる。翌日搬出も同じ扱い。基本の利用時間は9:00〜21:00で、早朝・前日搬入、深夜・翌日搬出になる場合は個別の相談。（展示会場利用規約）",

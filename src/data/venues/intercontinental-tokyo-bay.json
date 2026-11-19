@@ -30,8 +30,8 @@
    "theater": null,
    "school": null,
    "ushape": null,
-   "standing": null,
-   "banquet": null,
+   "standing": 130,
+   "banquet": 90,
    "note": "家具・ソファ常設。各会場ページの収容人数は65名。会場一覧ページでは正餐約90名・立食約130名"
   },
   {
@@ -156,7 +156,11 @@
    "note": "家具・ソファ常設。流しスタイルは最大16名"
   }
  ],
- "roomsSource": "https://www.interconti-tokyo.com/banquet/",
+ "roomsSources": [
+  {
+   "url": "https://www.interconti-tokyo.com/banquet/"
+  }
+ ],
  "ops": {
   "vehicleRules": {
    "text": "ホテル施設利用規約で、正面玄関での駐車は固くお断りしており、地下駐車場を利用するよう定めている。ホテルの係員が指定した駐車スペース以外に駐車した車は、レッカーで移動され、その費用は利用者の負担になる。",

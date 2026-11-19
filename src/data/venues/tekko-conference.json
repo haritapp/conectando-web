@@ -178,7 +178,11 @@
    "note": "固定レイアウト6名。ROOM1〜6の利用時に併せて使える。8,800円／1時間（税込、2026年10月改訂）"
   }
  ],
- "roomsSource": "https://tekkolounge.com/ja/conference-rooms/list/",
+ "roomsSources": [
+  {
+   "url": "https://tekkolounge.com/ja/conference-rooms/list/"
+  }
+ ],
  "ops": {
   "loadingHours": {
    "text": "物品の搬出入は会社の指示に従って行う。準備・簡易清掃・搬出入は利用時間に含まれ、利用終了時間は厳守。事前の荷物は郵便・宅配で預かってもらえ、3点まで無料、4点目からは1点1,100円（税込）。利用日の1営業日前の午後着で手配する。（出典：利用規約 2026年10月改定、よくある質問）",

@@ -255,7 +255,11 @@
    "note": "公式は正餐70～120名、立食40～150名と表記。宴会場概要PDFには載っておらず、宴会場のご案内ページの会場比較表の値"
   }
  ],
- "roomsSource": "https://www.icyokohama-grand.com/assets/pdf/banquets/outlineofbanquets_jp.pdf",
+ "roomsSources": [
+  {
+   "url": "https://www.icyokohama-grand.com/assets/pdf/banquets/outlineofbanquets_jp.pdf"
+  }
+ ],
  "ops": {
   "parking": {
    "text": "パシフィコ横浜地下1階の「みなとみらい公共駐車場」を利用する。普通車1,154台、電気自動車充電スタンドあり、車高制限2.1m。A〜Dブロックに分かれ、ホテル棟に一番近いのはAブロック。優待があるのはこの駐車場のみ。",

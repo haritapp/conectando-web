@@ -35,19 +35,39 @@
    "note": "地下1階の楽屋階にある。防音のため二重扉。ピアノ・長机・椅子・パーテーションを使える。利用料は1区分10,000円（税別、料金表 2026年1月1日現在）。"
   }
  ],
- "roomsSource": "https://seinenkan-hall.com/hall/、https://seinenkan-hall.com/organizer/stage、https://seinenkan-hall.com/organizer/room",
+ "roomsSources": [
+  {
+   "url": "https://seinenkan-hall.com/hall/"
+  },
+  {
+   "url": "https://seinenkan-hall.com/organizer/stage"
+  },
+  {
+   "url": "https://seinenkan-hall.com/organizer/room"
+  }
+ ],
  "ops": {
   "loadingHours": {
    "text": "都内で11t車を平置きできる搬入口がある（舞台図面に搬入口と搬入用エレベーターの表記）。指定の搬入搬出場所以外からの搬入・搬出は禁止。ホール基本料金の時間区分は9:00〜17:00／13:00〜22:00／9:00〜22:00で、早朝・延長料は30分60,000円（税別）。",
-   "source": "https://seinenkan-hall.com/organizer/stage、https://seinenkan-hall.com/terms、https://seinenkan-hall.com/organizer/document"
+   "source": "https://seinenkan-hall.com/organizer/stage",
+   "moreSources": [
+    "https://seinenkan-hall.com/terms",
+    "https://seinenkan-hall.com/organizer/document"
+   ]
   },
   "vehicleRules": {
    "text": "周辺道路等への路上駐車は禁止。ホール専用の駐車場はなく、同じ建物の地下の有料駐車場はマイクロバス・大型バスの駐車ができず、入庫の高さ制限は2.4m。",
-   "source": "https://seinenkan-hall.com/terms、https://seinenkan-hall.com/faq/"
+   "source": "https://seinenkan-hall.com/terms",
+   "moreSources": [
+    "https://seinenkan-hall.com/faq/"
+   ]
   },
   "parking": {
    "text": "ホール専用の駐車場はない。提携はしていないが、同じ建物の地下1階・2階に有料駐車場がある（日本スポーツ振興センター所有）。7:00〜23:00は30分ごと410円（最大2,460円）、23:00〜翌7:00は60分ごと210円（最大1,050円）で、ホール利用者の割引はない。車両制限は平置きが縦5.3m・幅2.05m・高さ2.4m・重量2.3t、機械式（下段）が縦5.3m・幅1.95m・高さ1.7m・重量2.3t。予約制ではなく先着順。",
-   "source": "https://seinenkan-hall.com/faq/、https://nippon-seinenkan.or.jp/access/"
+   "source": "https://seinenkan-hall.com/faq/",
+   "moreSources": [
+    "https://nippon-seinenkan.or.jp/access/"
+   ]
   },
   "waitingRooms": {
    "text": "地下1階の楽屋階に8部屋。主催者控室〈橅〉14㎡（席4つ・金庫あり）、楽屋1号室〈栗〉14㎡、2号室〈桂〉19㎡、3号室〈桜〉25㎡、4号室〈欅〉25㎡、5号室〈栃〉44㎡（15席分）、6号室〈杉〉31㎡（11席分）、リハーサル室〈楢〉81㎡。各部屋から舞台の様子をモニターで確認できる。ほかにラウンジ、シャワー室（計4つ）、ランドリー室（洗濯機1台・冷蔵庫4台）、給湯室（電子レンジ・冷蔵庫）、コピー機（白黒1枚10円・カラー1枚50円）、WiFiがある。",

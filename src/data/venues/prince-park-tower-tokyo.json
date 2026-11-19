@@ -233,7 +233,19 @@
    "note": "独立型の神殿。ブッフェは庭園を使うと80名。会場仕様一覧は階を1Fと表記、平面図は2F。同じ公式サイトの施設一覧には129㎡・天井高2.9m・56名の表記もある。"
   }
  ],
- "roomsSource": "https://www.princehotels.co.jp/tokyo-mice-city/parktower/document/banquet/parktower00_roomspec-2.pdf（会場仕様一覧、2026年7月作成）と https://www.princehotels.co.jp/tokyo-mice-city/parktower/banquet.html、各会場ページ https://www.princehotels.co.jp/parktower/banquet/ballroom/ ほか",
+ "roomsSources": [
+  {
+   "url": "https://www.princehotels.co.jp/tokyo-mice-city/parktower/document/banquet/parktower00_roomspec-2.pdf",
+   "note": "会場仕様一覧、2026年7月作成"
+  },
+  {
+   "url": "https://www.princehotels.co.jp/tokyo-mice-city/parktower/banquet.html"
+  },
+  {
+   "url": "https://www.princehotels.co.jp/parktower/banquet/ballroom/"
+  }
+ ],
+ "roomsSourceMemo": "https://www.princehotels.co.jp/tokyo-mice-city/parktower/document/banquet/parktower00_roomspec-2.pdf（会場仕様一覧、2026年7月作成）と https://www.princehotels.co.jp/tokyo-mice-city/parktower/banquet.html、各会場ページ https://www.princehotels.co.jp/parktower/banquet/ballroom/ ほか",
  "ops": {
   "parking": {
    "text": "駐車場の事前予約はできない。駐車場は高さ2.1mの平面式で、大型の車は事前にホテルへ問い合わせる（公式FAQ）。一般の料金は8:00A.M.〜8:00P.M.が30分500円、8:00P.M.〜8:00A.M.が60分100円。最大料金は平日が当日12:00MIDまで6,000円、土休日はなし。宴会で使う場合は4時間まで無料で、超過分は駐車料金がかかる。出口に精算機はなく、施設出入口の精算機で車両ナンバー4桁を入力して精算する（2023年11月1日改訂）。",

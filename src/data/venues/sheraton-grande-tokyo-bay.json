@@ -299,7 +299,11 @@
    "note": "華厳の専用ホワイエ"
   }
  ],
- "roomsSource": "https://www.marriott.com/ja/hotels/tyosi-sheraton-grande-tokyo-bay-hotel/events/",
+ "roomsSources": [
+  {
+   "url": "https://www.marriott.com/ja/hotels/tyosi-sheraton-grande-tokyo-bay-hotel/events/"
+  }
+ ],
  "ops": {
   "loadingHours": {
    "text": "THE CLUB Fuji には直結した搬入口があり、車両搬入・展示が可能で、大規模な展示会にも対応する（宴会場パンフレット、会場詳細ページ）。",

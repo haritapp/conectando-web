@@ -222,7 +222,11 @@
    "note": "レイアウト図の寸法は770×1430cm"
   }
  ],
- "roomsSource": "https://www.ghi.gr.jp/conference/fare.html",
+ "roomsSources": [
+  {
+   "url": "https://www.ghi.gr.jp/conference/fare.html"
+  }
+ ],
  "ops": {
   "parking": {
    "text": "駐車場は地下1階・2階に61台で、事前の予約は受け付けていない。車高は2.1mまで。駐車時間は8:00〜22:00で、一般利用は20分330円、最大料金は8:00〜22:00で月〜土2,000円・日曜と休日1,400円（22:00〜8:00は入出庫できない）。宴集会を利用した客は4時間無料。",

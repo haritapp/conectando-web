@@ -167,7 +167,11 @@
    "note": "ボード8名。AまたはBの場合のみ"
   }
  ],
- "roomsSource": "https://www.tokyo.grand.hyatt.co.jp/banquets/meeting-room/",
+ "roomsSources": [
+  {
+   "url": "https://www.tokyo.grand.hyatt.co.jp/banquets/meeting-room/"
+  }
+ ],
  "ops": {
   "catering": {
    "text": "食品（コーヒーを含む）の持ち込みは禁止（宴会催事規約）。装飾・装花・音響・照明・余興などはホテルが指定委託会社に手配する。ほかの会社に頼みたい場合は事前にホテルの了承が必要で、搬入・搬出・設置場所・設置時間はホテルの指示に従い、ホテルスタッフの立会いが必要と判断された場合は別途立会人件費がかかる。",

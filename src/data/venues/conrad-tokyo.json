@@ -189,7 +189,20 @@
    "note": "縦横8.0×29.5m。レセプションは表の値（立食）"
   }
  ],
- "roomsSource": "https://conrad-tokyo.hiltonjapan.co.jp/mice/large ／ https://conrad-tokyo.hiltonjapan.co.jp/mice/medium ／ https://conrad-tokyo.hiltonjapan.co.jp/mice/small ／ https://conrad-tokyo.hiltonjapan.co.jp/mice/other",
+ "roomsSources": [
+  {
+   "url": "https://conrad-tokyo.hiltonjapan.co.jp/mice/large"
+  },
+  {
+   "url": "https://conrad-tokyo.hiltonjapan.co.jp/mice/medium"
+  },
+  {
+   "url": "https://conrad-tokyo.hiltonjapan.co.jp/mice/small"
+  },
+  {
+   "url": "https://conrad-tokyo.hiltonjapan.co.jp/mice/other"
+  }
+ ],
  "ops": {
   "parking": {
    "text": "ホテル施設内に駐車場が250台分ある。駐車スペースの上限は車長5.8m・車幅1.9m・車高2.2m。通常料金は30分300円、宿泊客は24時間3,000円（バレーサービス4,000円）。レストラン利用で割引（3,000円以上5,000円未満で1時間無料、5,000円以上10,000円未満で2時間無料、10,000円以上で4時間無料）。満車の場合はホテル外の駐車場を利用する。お客様用のEV充電設備はない。",

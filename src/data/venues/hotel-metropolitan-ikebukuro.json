@@ -310,7 +310,14 @@
    "note": "収容人数の表記なし"
   }
  ],
- "roomsSource": "https://ikebukuro.metropolitan.jp/banquet/spec/ ／ https://ikebukuro.metropolitan.jp/common/pdf/banquet/en_SPEC_LIST_2026.07.pdf",
+ "roomsSources": [
+  {
+   "url": "https://ikebukuro.metropolitan.jp/banquet/spec/"
+  },
+  {
+   "url": "https://ikebukuro.metropolitan.jp/common/pdf/banquet/en_SPEC_LIST_2026.07.pdf"
+  }
+ ],
  "ops": {
   "parking": {
    "text": "ホテル地下2階の駐車場は143台、高さ制限2.1m。料金は30分ごとに400円で、宴会・婚礼の利用は5時間まで無料。別棟駐車場は566台、高さ制限2.1mで、料金は15分ごとに250円。駐車場の予約は受け付けておらず、土・日・祝は満車の場合がある。",

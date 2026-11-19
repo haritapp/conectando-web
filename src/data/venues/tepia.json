@@ -90,7 +90,11 @@
    "note": "スクール形式は3名掛。"
   }
  ],
- "roomsSource": "https://www.tepia.jp/facilities/price/",
+ "roomsSources": [
+  {
+   "url": "https://www.tepia.jp/facilities/price/"
+  }
+ ],
  "ops": {
   "prevDaySetup": {
    "text": "準備・撤去のために使用する場合の使用料は規定料金の70%（準備・撤去各2日間のみ適用）。準備・撤去が開催日と同じ日の場合は規定料金になる。",

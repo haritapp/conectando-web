@@ -189,7 +189,11 @@
    "note": "プレステージタワー41階。各室の広さ。個別PDFは着席20名（円卓）・10名（楕円）、事務局36名、控室24名"
   }
  ],
- "roomsSource": "https://theokuratokyo.jp/wp-content/uploads/2026/04/meetings-events-202603.pdf",
+ "roomsSources": [
+  {
+   "url": "https://theokuratokyo.jp/wp-content/uploads/2026/04/meetings-events-202603.pdf"
+  }
+ ],
  "ops": {
   "loadingHours": {
    "text": "宴会で使う資材の搬入口の天井高は3.2m。ただし宴会によって搬入口の案内が変わることがあるため、詳細は問い合わせる。宴席用の荷物は、利用する会場名宛に送る。",

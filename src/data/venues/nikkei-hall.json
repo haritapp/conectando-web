@@ -156,7 +156,14 @@
    "note": "土・日・祝日のみ利用可。単独では利用できず、ホール・カンファレンスルーム・セミナールーム1・2と合わせて申し込む"
   }
  ],
- "roomsSource": "https://www.nikkei-hall.com/hall/、https://www.nikkei-hall.com/conference/",
+ "roomsSources": [
+  {
+   "url": "https://www.nikkei-hall.com/hall/"
+  },
+  {
+   "url": "https://www.nikkei-hall.com/conference/"
+  }
+ ],
  "ops": {
   "prevDaySetup": {
    "text": "準備作業・リハーサル（公開ゲネプロを除く）での利用は、利用区分料金の半額。予約金の請求時にはこの半額割引は適用されず、付帯設備利用料などの請求時に精算される。貸会議室は準備作業と本番を同じ部屋で行う場合に限る。早朝作業（8:00〜9:00）は相談できる。利用時間は準備・本番・片付けを含み、入館から退館までの時間（利用案内（規約）2023年9月1日版）。",

@@ -277,7 +277,11 @@
    "note": "23F。会議室。定員10名、レイアウトは流し。"
   }
  ],
- "roomsSource": "https://www.tokyuhotels.co.jp/yokohamabay-h/banquet/floor/index.html",
+ "roomsSources": [
+  {
+   "url": "https://www.tokyuhotels.co.jp/yokohamabay-h/banquet/floor/index.html"
+  }
+ ],
  "ops": {
   "parking": {
    "text": "ホテルの駐車は、クイーンズスクエア横浜の地下駐車場（ホテル専用入口あり）を使う。営業は7:00〜24:00、1,700台で、料金は30分280円。上限は平日1,600円、土日祝2,000円（入庫日の24時までに出庫する場合。1/1〜1/3、12/24、12/25、12/31は除く）。婚礼・宴会の出席者は3時間無料になる。",

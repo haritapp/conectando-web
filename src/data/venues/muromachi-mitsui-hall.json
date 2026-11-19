@@ -90,7 +90,14 @@
    "note": "単独では予約できない。ホールとのセット、またはRoom A+Bとのセットで予約できる。"
   }
  ],
- "roomsSource": "https://www.mitsui-mice.jp/nihonbashi/muromachi/floor、https://www.mitsui-mice.jp/nihonbashi/wp/wp-content/themes/mitsui-mice/assets/pdf/price_table.pdf",
+ "roomsSources": [
+  {
+   "url": "https://www.mitsui-mice.jp/nihonbashi/muromachi/floor"
+  },
+  {
+   "url": "https://www.mitsui-mice.jp/nihonbashi/wp/wp-content/themes/mitsui-mice/assets/pdf/price_table.pdf"
+  }
+ ],
  "ops": {
   "prevDaySetup": {
    "text": "ホールには準備日の特別料金があり、基本会場費から30％オフ（1催事につき1日適用、9:00〜21:00）。ホール・カンファレンスとも、予約は準備・撤収を含む時間で行う。利用時間は9:00〜21:00が原則で、8:00〜9:00と21:00〜22:00は時間外の延長料・技術管理費・人件費がかかる。ホールの基本会場費は1,130,000円（9:00〜21:00、税別）。レイアウトはホール・カンファレンスとも利用日の14日前（土日祝を除く）までに確定する。（出典：ご利用料金表 2025年7月28日版、ご利用案内 2025年5月現在）",

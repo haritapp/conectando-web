@@ -145,7 +145,11 @@
    "note": "2階・洋2室。室料13,200円／1時間（税込）"
   }
  ],
- "roomsSource": "http://honmonji.jp/enjoy/img/koshitsuryokin.pdf",
+ "roomsSources": [
+  {
+   "url": "http://honmonji.jp/enjoy/img/koshitsuryokin.pdf"
+  }
+ ],
  "ops": {
   "catering": {
    "text": "会議・研修ではお弁当やお茶の提供を受け付けている。飲食物の持ち込みは遠慮してもらう。",

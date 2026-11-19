@@ -112,7 +112,11 @@
    "note": "壁面の長さ（外周）27.6m。6日間の基本利用料（税込・2022年6月現在）363,000円"
   }
  ],
- "roomsSource": "https://www.asahi-hall.jp/yurakucho/hall/zaseki.html",
+ "roomsSources": [
+  {
+   "url": "https://www.asahi-hall.jp/yurakucho/hall/zaseki.html"
+  }
+ ],
  "ops": {
   "prevDaySetup": {
    "text": "ホールの夜間区分（17:30〜21:00）は、翌日の催事の仕込みに限って利用できる。基本利用料は平日326,700円・土日祝363,000円（税込、2026年3月）。スクエアの夜間区分も仕込みのみの利用で、A室・C室51,700円、B室61,600円、AB室・BC室113,300円、ABC室137,500円（税込、2024年5月）。ギャラリーの作品の搬入と展示作業は木曜日の午後1時から午後7時（2022年6月現在）。",

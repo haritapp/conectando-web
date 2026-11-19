@@ -211,7 +211,12 @@
    "note": "B1F。会議 2時間以内 101,200円、追加1時間 50,600円、展示会 1日(9:00〜21:00) 455,400円（サービス料・消費税込、2026年4月1日以降の料金。音響照明基本料は別途）"
   }
  ],
- "roomsSource": "https://www.tokyuhotels.co.jp/cerulean-h/banquet/ballroom/index.html ほか（タワーズサロン /banquet/guide/towerssalon/、中宴会場 /banquet/middlebanquet/、小宴会場 /banquet/149906/）",
+ "roomsSources": [
+  {
+   "url": "https://www.tokyuhotels.co.jp/cerulean-h/banquet/ballroom/index.html"
+  }
+ ],
+ "roomsSourceMemo": "https://www.tokyuhotels.co.jp/cerulean-h/banquet/ballroom/index.html ほか（タワーズサロン /banquet/guide/towerssalon/、中宴会場 /banquet/middlebanquet/、小宴会場 /banquet/149906/）",
  "ops": {
   "prevDaySetup": {
    "text": "展示会などで前日から搬入・搬出する場合は、終日料金に対して割合の料金がかかる。前日18:00以前の搬入は80%、前日18:00以降は50%、前日22:00以降は20%。当日22:00以前の搬出は終日料金に含まれ、翌日7:00までの搬出は10%、翌日12:00までの搬出は50%。7:00以前と22:00以降の利用は基準料金の50%増し。（出典：ボールルーム料金表、2026年4月1日以降の料金）",

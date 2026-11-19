@@ -222,7 +222,14 @@
    "note": "基本レイアウトはロの字型"
   }
  ],
- "roomsSource": "https://www.bigsight.jp/organizer/buildings/tft/facilities/tfthall/ ／ https://www.bigsight.jp/organizer/buildings/tft/facilities/ojt-room/",
+ "roomsSources": [
+  {
+   "url": "https://www.bigsight.jp/organizer/buildings/tft/facilities/tfthall/"
+  },
+  {
+   "url": "https://www.bigsight.jp/organizer/buildings/tft/facilities/ojt-room/"
+  }
+ ],
  "ops": {
   "prevDaySetup": {
    "text": "ホールは、準備・設営・リハーサル・撤去のみで使う日は、1開催につき2日まで基本使用料金の50%（区分時間の料金のみ。延長料金や備品・人件費は対象外）。設営・撤去の時間も申込の利用時間に含める（9〜21時で申し込むと設営開始は9時から）。2日以上連続で使うときは連続した区分時間で申し込む必要があり、9〜17時だけを2日続けて申し込むと、1日目の17時にいったん完全撤収して2日目の9時にやり直すことになる。研修室・会議室は、施設にレイアウト変更（有料）を頼めば利用開始時刻までに設営してもらえる（持込機材は対象外）。（出典：ホールよくあるご質問、ホール施設利用案内 令和6年4月改定、会議施設よくあるご質問）",

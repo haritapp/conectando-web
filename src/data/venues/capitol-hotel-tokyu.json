@@ -6,7 +6,7 @@
  "area": "toranomon-roppongi-venues",
  "address": "〒100-0014 東京都千代田区永田町2-10-3",
  "officialUrl": "https://www.tokyuhotels.co.jp/capitol-h/index.html",
- "organizerUrl": "https://www.tokyuhotels.co.jp/capitol-h/banquet/mice/index.html",
+ "organizerUrl": "https://www.tokyuhotels.co.jp/capitol-h/banquet/index.html",
  "bizintokyoSlug": "capitol-hotel-tokyu",
  "accessSummary": "東京メトロ南北線・銀座線「溜池山王駅」6番出口 地下直結／東京メトロ千代田線・丸ノ内線「国会議事堂前駅」6番出口 地下直結",
  "notice": "全館休館 2027年1月30日・31日。電気事業法定期点検に伴う停電・断水 2027年1月12日・13日（2026年10月27日時点のお知らせ）。",
@@ -101,7 +101,11 @@
    "note": "2階。公式ページのレイアウト例では桜・橘で正餐45名"
   }
  ],
- "roomsSource": "https://www.tokyuhotels.co.jp/capitol-h/banquet/index.html",
+ "roomsSources": [
+  {
+   "url": "https://www.tokyuhotels.co.jp/capitol-h/banquet/index.html"
+  }
+ ],
  "ops": {
   "parking": {
    "text": "敷地内に150台（普通車）、24時間入庫可。通常料金は8:00〜24:00が30分ごとに400円、0:00〜8:00が30分ごとに200円（税込）。ヴァレーパーキングはレストラン・宴会などの利用で1回2,000円。",

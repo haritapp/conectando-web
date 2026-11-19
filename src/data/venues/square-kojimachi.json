@@ -46,15 +46,19 @@
    "note": "料金は宴会2時間・会議1時間とも27,830円（税込）。公式の見積例にシアター形式140名（プロジェクター使用）、ロの字54名（2時間）あり。平日17:00以降の会議室の室料は表示金額の100%増。"
   }
  ],
- "roomsSource": "http://www.square.or.jp/meeting/",
+ "roomsSources": [
+  {
+   "url": "http://www.square.or.jp/meeting/"
+  }
+ ],
  "ops": {
   "prevDaySetup": {
    "text": "当日は原則、予約している時間の60分前から入室できる。予約状況によっては予約時間の直前まで入室できない場合があり、準備に時間を要する場合や利用時間を延長する可能性がある場合も、予約状況によっては受けられないことがあるため、余裕をもった枠で予約する。（令和4年8月1日付 会議・宴会ご利用案内）",
-   "source": "https://ssl02.site-one.info/www.square.or.jp/pdf/案内.pdf"
+   "source": "https://ssl02.site-one.info/www.square.or.jp/pdf/%E6%A1%88%E5%86%85.pdf"
   },
   "loadingHours": {
    "text": "荷物は前日からの郵送・持込で預かる。冷蔵品・冷凍品は預かれないため、当日着で手配するか持ち込む。イベント終了後に会場から荷物を発送することもできる。（令和4年8月1日付 会議・宴会ご利用案内）",
-   "source": "https://ssl02.site-one.info/www.square.or.jp/pdf/案内.pdf"
+   "source": "https://ssl02.site-one.info/www.square.or.jp/pdf/%E6%A1%88%E5%86%85.pdf"
   },
   "parking": {
    "text": "駐車場はなく、車で来る場合は近隣のコインパーキングを使う。",
@@ -68,19 +72,19 @@
  "documents": [
   {
    "title": "会議・宴会ご利用案内（令和4年8月1日）",
-   "url": "https://ssl02.site-one.info/www.square.or.jp/pdf/案内.pdf"
+   "url": "https://ssl02.site-one.info/www.square.or.jp/pdf/%E6%A1%88%E5%86%85.pdf"
   },
   {
    "title": "備品料金表（2019年10月1日版）",
-   "url": "http://www.square.or.jp/pdf/新備品料金表.pdf"
+   "url": "http://www.square.or.jp/pdf/%E6%96%B0%E5%82%99%E5%93%81%E6%96%99%E9%87%91%E8%A1%A8.pdf"
   },
   {
    "title": "オプションメニュー 会議用（2019年10月1日版）",
-   "url": "http://www.square.or.jp/pdf/オプションメニュー(会議用).pdf"
+   "url": "http://www.square.or.jp/pdf/%E3%82%AA%E3%83%97%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%A1%E3%83%8B%E3%83%A5%E3%83%BC(%E4%BC%9A%E8%AD%B0%E7%94%A8).pdf"
   },
   {
    "title": "オプションメニュー 宴会用",
-   "url": "http://www.square.or.jp/pdf/オプションメニュー(宴会用）.pdf"
+   "url": "http://www.square.or.jp/pdf/%E3%82%AA%E3%83%97%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%A1%E3%83%8B%E3%83%A5%E3%83%BC(%E5%AE%B4%E4%BC%9A%E7%94%A8%EF%BC%89.pdf"
   },
   {
    "title": "電源図面",
@@ -198,6 +202,6 @@
  "photo": {
   "src": "/images/venues/square-kojimachi.jpg",
   "credit": "© Keiichi Yasu / CC BY-SA 2.0 · Wikimedia Commons",
-  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Square_Kōjimachi,_Yotsuya,_Tokyo_-_Jan_19,_2014.jpg"
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Square_K%C5%8Djimachi,_Yotsuya,_Tokyo_-_Jan_19,_2014.jpg"
  }
 }

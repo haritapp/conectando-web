@@ -244,7 +244,26 @@
    "note": "センタービル3階。定員20名。全日76,000円、3時間32,000円、超過1時間12,000円（税抜）"
   }
  ],
- "roomsSource": "https://www.trc-event.jp/hall/hall01.html ／ https://www.trc-event.jp/hall/hall02.html ／ https://www.trc-event.jp/hall/meeting.html ／ https://www.trc-event.jp/download/pdf/riyou_goannai_2023.pdf ／ https://www.trc-event.jp/download/pdf/kaigi_omote.pdf ／ https://www.trc-event.jp/download/pdf/saisoku.pdf",
+ "roomsSources": [
+  {
+   "url": "https://www.trc-event.jp/hall/hall01.html"
+  },
+  {
+   "url": "https://www.trc-event.jp/hall/hall02.html"
+  },
+  {
+   "url": "https://www.trc-event.jp/hall/meeting.html"
+  },
+  {
+   "url": "https://www.trc-event.jp/download/pdf/riyou_goannai_2023.pdf"
+  },
+  {
+   "url": "https://www.trc-event.jp/download/pdf/kaigi_omote.pdf"
+  },
+  {
+   "url": "https://www.trc-event.jp/download/pdf/saisoku.pdf"
+  }
+ ],
  "ops": {
   "prevDaySetup": {
    "text": "準備日・撤去日の展示場使用料は基準時間使用料の50%。準備・開催・撤去の日程は使用日の1年前から申し込める。準備日・撤去日の基準時間帯は空調を運転していないため、使う場合は1時間ごとの空調料がかかる（Aホールは冷房24,800円・暖房20,870円・換気4,500円、税抜）。",

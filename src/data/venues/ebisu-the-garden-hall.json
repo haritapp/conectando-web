@@ -35,7 +35,11 @@
    "note": "面積・天井高は約。スクールは2名掛け132席、3名掛け198席（2025年8月現在）"
   }
  ],
- "roomsSource": "https://www.sapporo-re.jp/portfolio/ygp/garden-hall-room/",
+ "roomsSources": [
+  {
+   "url": "https://www.sapporo-re.jp/portfolio/ygp/garden-hall-room/"
+  }
+ ],
  "ops": {
   "prevDaySetup": {
    "text": "準備・設営・リハーサル・撤去で基本使用または時間使用を利用する場合、1開催につき2日までは「仕込日・撤去日料金」になる。基本使用は9:00-20:00（11時間）で、準備・後片づけの時間を含む。9:00以前・20:00以降は事前に担当者の承認を得た場合に限り、時間外延長料で使える（2024年3月設定の使用規則）。",

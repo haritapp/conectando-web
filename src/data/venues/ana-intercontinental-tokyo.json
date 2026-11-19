@@ -387,7 +387,11 @@
    "note": "席数16人。55インチモニター。2時間88,000円、3時間132,000円、4時間176,000円、5〜8時間220,000円（税込、別途サービス料）"
   }
  ],
- "roomsSource": "https://anaintercontinental-tokyo.jp/pdf/brochure/banquet_brochure_pc.pdf",
+ "roomsSources": [
+  {
+   "url": "https://anaintercontinental-tokyo.jp/pdf/brochure/banquet_brochure_pc.pdf"
+  }
+ ],
  "ops": {
   "loadingHours": {
    "text": "地下1階のボールルーム「プロミネンス」の脇に搬入リフトが2基あり、図面に4t用と2t用の表記がある。リフト前後の通路には「天井高2.35m」の表記がある。（出典：B1Fフロア図面）",

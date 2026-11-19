@@ -156,7 +156,11 @@
    "note": "幅×奥行 6×7.5m"
   }
  ],
- "roomsSource": "https://edmont.metropolitan.jp/banquet/spec/",
+ "roomsSources": [
+  {
+   "url": "https://edmont.metropolitan.jp/banquet/spec/"
+  }
+ ],
  "ops": {
   "prevDaySetup": {
    "text": "宴会場の使用は準備から撤去までを含めて契約時間内に終了する。宴会時間の前後の準備時間と撤去時間の合計が1時間までは無料で、1時間を超えると超過時間に応じて延長料がかかる。次の会場使用時刻との関係で、超過に応じられない場合もある。パーティーの利用は2時間が基本で、延長は相談できる。（宴会場利用規約 2025年4月版、よくあるご質問）",

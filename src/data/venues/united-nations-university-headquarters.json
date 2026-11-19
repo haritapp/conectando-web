@@ -90,7 +90,11 @@
    "note": "収容各25席。"
   }
  ],
- "roomsSource": "https://jp.unu.edu/_ext/i.unu.edu/media/jp.unu.edu/page/18958/Guidelines-for-Use-of-Conference-Facilities-at-UNU-HQ_11-2024-JP.pdf",
+ "roomsSources": [
+  {
+   "url": "https://jp.unu.edu/_ext/i.unu.edu/media/jp.unu.edu/page/18958/Guidelines-for-Use-of-Conference-Facilities-at-UNU-HQ_11-2024-JP.pdf"
+  }
+ ],
  "ops": {
   "prevDaySetup": {
    "text": "前日設営・前日搬入を認める記載はなく、準備と撤収は利用時間内に行う形である。イベント前の準備とイベント後の撤収のため、会場利用時間のほかに合計4時間以内を無料で使える。ウ・タント国際会議場など主要会場の半日・一日料金にも、準備と後片付けのための最長4時間が含まれる。（国連大学 会議施設ガイドライン、2023年6月改訂）",

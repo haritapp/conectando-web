@@ -35,7 +35,16 @@
    "note": "パーティションで区切り、20坪〜120坪に調整可。各教室にドライヤー用コンセント24口。料金は7階〜10階の教室として1教室単位"
   }
  ],
- "roomsSource": "https://hall.hollywood.ac.jp/index.html（会場の案内）、https://hall.hollywood.ac.jp/zumenpdf/5F_A.pdf（面積）",
+ "roomsSources": [
+  {
+   "url": "https://hall.hollywood.ac.jp/index.html",
+   "note": "会場の案内"
+  },
+  {
+   "url": "https://hall.hollywood.ac.jp/zumenpdf/5F_A.pdf",
+   "note": "面積"
+  }
+ ],
  "ops": {
   "loadingHours": {
    "text": "荷捌所（共用）と搬出入エレベーター（共用）を使って搬出入する。作業がある場合は「作業届」をホール担当者へ提出する。搬出入経路は養生してから開始し、1階エレベーターホールは一般の方も通るため、養生中は係員の立会いが必要。",

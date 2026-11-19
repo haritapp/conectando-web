@@ -68,7 +68,11 @@
    "note": "寸法14.5×19.3m。コンファレンス形式82名"
   }
  ],
- "roomsSource": "https://www.marriott.com/ja/hotels/tyocy-courtyard-tokyo-ginza-hotel/events/",
+ "roomsSources": [
+  {
+   "url": "https://www.marriott.com/ja/hotels/tyocy-courtyard-tokyo-ginza-hotel/events/"
+  }
+ ],
  "ops": {
   "catering": {
    "text": "イベント向けに、ポーションタイプ（個別盛り）の飲食オプションを提供している。",

@@ -79,7 +79,11 @@
    "note": "約180㎡。アトリウム利用が条件、全日使用20,000円（税別）。館内改修工事エリアのため現在利用不可"
   }
  ],
- "roomsSource": "https://www.ozone.co.jp/parktowerhall/space/",
+ "roomsSources": [
+  {
+   "url": "https://www.ozone.co.jp/parktowerhall/space/"
+  }
+ ],
  "ops": {
   "prevDaySetup": {
    "text": "準備・設営・リハーサル・撤去だけで全日使用（9:00～21:00）する場合は、本番日の全日使用があることを条件に、1開催につき1日限り450,000円（税別）で利用できる。使用時間には準備・設営・リハーサル・撤去などすべての時間を含み、使用時間は契約時に確定する。",

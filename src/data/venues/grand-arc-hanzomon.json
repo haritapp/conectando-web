@@ -332,11 +332,19 @@
    "note": "和の宴会場。室料（税込・2時間・別途サービス料10%）：会食 10:00〜21:30 12,000円"
   }
  ],
- "roomsSource": "https://www.grandarc.com/wp-content/uploads/pdf/7201/pdf_load/GAH202504_BQT-room-price_ip%20-新案_20260130.pdf（宴会場のご案内、2026年4月） ／ https://www.grandarc.com/banquet",
+ "roomsSources": [
+  {
+   "url": "https://www.grandarc.com/wp-content/uploads/pdf/7201/pdf_load/GAH202504_BQT-room-price_ip%20-%E6%96%B0%E6%A1%88_20260130.pdf",
+   "note": "宴会場のご案内、2026年4月"
+  },
+  {
+   "url": "https://www.grandarc.com/banquet"
+  }
+ ],
  "ops": {
   "prevDaySetup": {
    "text": "宴会場の利用時間は7:00〜21:30で、設営から撤去までを契約時間内に終える（宴会規約）。21:30〜翌朝7:00に搬出入を伴う設営・リハーサルをする場合は、利用時間に応じて深夜早朝割増料金がかかる。契約時間を超えると追加料金で、会議・食事とも1時間延長ごとに基本料金の50%を加算。次の宴会の予約によっては延長に応じられないことがある。（出典：宴会場のご案内 2026年4月、宴会規約 2021年4月1日改定）",
-   "source": "https://www.grandarc.com/wp-content/uploads/pdf/7201/pdf_load/GAH202504_BQT-room-price_ip%20-新案_20260130.pdf"
+   "source": "https://www.grandarc.com/wp-content/uploads/pdf/7201/pdf_load/GAH202504_BQT-room-price_ip%20-%E6%96%B0%E6%A1%88_20260130.pdf"
   },
   "loadingHours": {
    "text": "宴会の準備のために事前に荷物を送りたいときは、事前に宴会担当へ問い合わせる（よくあるご質問）。宴会場の装飾・余興などで依頼した業者が資器材や看板を搬入・搬出するときは、サイズ・取付け方法・設置場所などをホテルの指示に従う（宴会規約 第7条）。",
@@ -358,7 +366,7 @@
  "documents": [
   {
    "title": "宴会場のご案内（2026年4月）",
-   "url": "https://www.grandarc.com/wp-content/uploads/pdf/7201/pdf_load/GAH202504_BQT-room-price_ip%20-新案_20260130.pdf"
+   "url": "https://www.grandarc.com/wp-content/uploads/pdf/7201/pdf_load/GAH202504_BQT-room-price_ip%20-%E6%96%B0%E6%A1%88_20260130.pdf"
   },
   {
    "title": "宴会規約（2021年4月1日改定）",
@@ -370,7 +378,7 @@
   },
   {
    "title": "ホテル案内地図（2024年6月11日版）",
-   "url": "https://www.grandarc.com/wp-content/uploads/pdf/3610/pdf_load/ホテルグランドアーク半蔵門_ホテル案内地図_20240611_03.pdf"
+   "url": "https://www.grandarc.com/wp-content/uploads/pdf/3610/pdf_load/%E3%83%9B%E3%83%86%E3%83%AB%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%89%E3%82%A2%E3%83%BC%E3%82%AF%E5%8D%8A%E8%94%B5%E9%96%80_%E3%83%9B%E3%83%86%E3%83%AB%E6%A1%88%E5%86%85%E5%9C%B0%E5%9B%B3_20240611_03.pdf"
   },
   {
    "title": "資料ダウンロード（公式一覧）",

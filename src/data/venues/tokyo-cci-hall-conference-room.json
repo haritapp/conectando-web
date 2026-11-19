@@ -112,7 +112,11 @@
    "note": "2人掛け基準の人数（3人掛けも可）。"
   }
  ],
- "roomsSource": "https://www.tokyo-cci.or.jp/kaigishitsu/room/",
+ "roomsSources": [
+  {
+   "url": "https://www.tokyo-cci.or.jp/kaigishitsu/room/"
+  }
+ ],
  "ops": {
   "prevDaySetup": {
    "text": "前日準備（リハーサル）のための予約は、空き状況により可能。使用料は全額負担。準備や片付けは使用時間内に行う。レイアウト・什器備品の変更は使用日の1営業日前の正午まで受付。",
@@ -295,6 +299,6 @@
  "photo": {
   "src": "/images/venues/tokyo-cci-hall-conference-room.jpg",
   "credit": "© Kakidai / CC BY-SA 4.0 · Wikimedia Commons",
-  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Marunouchi_Nijūbashi_Building.jpg"
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Marunouchi_Nij%C5%ABbashi_Building.jpg"
  }
 }

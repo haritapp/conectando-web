@@ -6,6 +6,8 @@ import ContactCTA from '../ContactCTA.astro';
 import { getVenues, maxCapacity, maxArea, capacityByLayout, venueFlags, type Layout } from '../../lib/venues';
 import { localizeVenue, UI, TYPE_LABEL_I, LAYOUT_LABEL_I, AREA_LABEL_I, venuePathI, formatNumberI, type Lang } from '../../lib/venues-i18n';
 
+import VENUE_NAMES from '../../data/venue-names.json';
+
 interface Props { lang: Lang }
 const { lang } = Astro.props;
 
@@ -17,6 +19,12 @@ const fmt = (n: number | string | null | undefined) => formatNumberI(n, lang);
 
 // 人数・広さ・フラグは日本語の元データで計算し、表示の文字だけ言語に合わせる
 const venues = getVenues();
+const NAMES = VENUE_NAMES as Record<string, { kana: string; en: string[] }>;
+function searchNames(slug: string, nameJa: string, nameEn?: string) {
+  const n = NAMES[slug];
+  const enName = localizeVenue(venues.find((x) => x.slug === slug)!, 'en').nameEn;
+  return [...new Set([nameJa, nameEn, enName, ...(n?.en ?? []), n?.kana].filter((x): x is string => Boolean(x)))];
+}
 const rows = venues.map((src) => {
   const cap = maxCapacity(src);
   const byLayout = capacityByLayout(src);
@@ -27,10 +35,15 @@ const rows = venues.map((src) => {
     name: lang === 'en' ? v.nameEn! : v.nameJa,
     data: {
       name: `${v.nameJa} ${v.nameEn ?? ''}`.toLowerCase(),
+      // 検索に使う名前の候補（日本語名・英語名・読みがな）。日本語ページで英語名が空の会場は英語版データの名前を使う
+      names: JSON.stringify(searchNames(src.slug, src.nameJa, src.nameEn)),
       type: v.type,
       area: v.area,
       cap: JSON.stringify(byLayout),
       maxarea: String(maxArea(src) ?? 0),
+      // 公式に人数・㎡の数字が1つも無い会場（人数・㎡で絞ったとき、別の欄に分けて出す）
+      nocap: Object.keys(byLayout).length === 0 ? '1' : '0',
+      noarea: maxArea(src) == null ? '1' : '0',
       flags: Object.entries(flags).filter(([, on]) => on).map(([k]) => k).join(' '),
     },
   };
@@ -94,16 +107,21 @@ const layoutOptions = Object.entries(LAYOUT_LABEL) as [Layout, string][];
     </form>
 
     <p class="vl-count"><span id="vl-count">{rows.length}</span>{t.countSuffix}</p>
+    <p class="vl-sortnote">{t.sortNote}</p>
 
     <ul class="vl-list" id="vl-list">
       {rows.map(({ v, cap, area, name, data }) => (
         <li
           class="vl-item"
           data-name={data.name}
+          data-names={data.names}
+          data-label={name}
           data-type={data.type}
           data-area={data.area}
           data-cap={data.cap}
           data-maxarea={data.maxarea}
+          data-nocap={data.nocap}
+          data-noarea={data.noarea}
           data-flags={data.flags}
         >
           <a href={venuePathI(v.slug, lang)} class="vl-card">
@@ -124,7 +142,17 @@ const layoutOptions = Object.entries(LAYOUT_LABEL) as [Layout, string][];
         </li>
       ))}
     </ul>
-    <p id="vl-empty" class="vl-empty" hidden>{t.empty}</p>
+    <div id="vl-empty" class="vl-empty" hidden>
+      <p>{t.empty}</p>
+      <p id="vl-suggest" class="vl-suggest" hidden>{t.didYouMean}<span id="vl-suggest-list"></span></p>
+      <button type="button" id="vl-empty-reset" class="vl-reset">{t.clear}</button>
+    </div>
+
+    <section id="vl-nodata" class="vl-nodata" hidden data-title={t.nodataTitle} data-kinds={JSON.stringify(t.nodataKinds)}>
+      <h2 id="vl-nodata-title" class="vl-nodata-title"></h2>
+      <p class="vl-nodata-note">{t.nodataNote}</p>
+      <ul class="vl-list" id="vl-list-nodata"></ul>
+    </section>
 
     <p class="vl-note" set:html={t.noteHtml} />
   </div>
@@ -133,38 +161,87 @@ const layoutOptions = Object.entries(LAYOUT_LABEL) as [Layout, string][];
 </BaseLayout>
 
 <script>
+  import { normalize, fuzzy } from '../../lib/finder-normalize';
   const form = document.getElementById('vl-filter') as HTMLFormElement;
   const items = Array.from(document.querySelectorAll<HTMLLIElement>('#vl-list .vl-item'));
   const countEl = document.getElementById('vl-count')!;
   const emptyEl = document.getElementById('vl-empty')!;
   const $ = <T extends HTMLElement>(id: string) => document.getElementById(id) as T;
+  const suggestEl = document.getElementById('vl-suggest')!;
+  const suggestList = document.getElementById('vl-suggest-list')!;
+  // 会場名の候補（日本語名・英語名・読みがな）を、全角半角・大小文字・かな・旧字体・記号をそろえた形で持っておく
+  const entries = items.map((li) => {
+    const names = JSON.parse(li.dataset.names || '[]') as string[];
+    return { li, norm: names.map(normalize), fz: names.map(fuzzy), label: li.dataset.label || '' };
+  });
+
+  const mainList = document.getElementById('vl-list')!;
+  const nodataList = document.getElementById('vl-list-nodata')!;
+  const nodataSec = document.getElementById('vl-nodata')!;
+  const nodataTitle = document.getElementById('vl-nodata-title')!;
+  const nodataKinds = JSON.parse(nodataSec.dataset.kinds || '{}') as Record<string, string>;
+  const nodataTmpl = nodataSec.dataset.title || '';
+  let slots: string[] = items.map(() => 'main');
 
   function apply() {
-    const name = $<HTMLInputElement>('f-name').value.trim().toLowerCase();
+    const nameRaw = $<HTMLInputElement>('f-name').value;
+    const name = normalize(nameRaw);
     const type = $<HTMLSelectElement>('f-type').value;
     const area = $<HTMLSelectElement>('f-area').value;
     const layout = $<HTMLSelectElement>('f-layout').value;
-    const people = Number($<HTMLInputElement>('f-people').value) || 0;
-    const m2 = Number($<HTMLInputElement>('f-m2').value) || 0;
+    const people = Math.max(0, Number($<HTMLInputElement>('f-people').value) || 0);
+    const m2 = Math.max(0, Number($<HTMLInputElement>('f-m2').value) || 0);
     const flags = Array.from(form.querySelectorAll<HTMLInputElement>('input[data-flag]:checked')).map((c) => c.value);
 
     let shown = 0;
-    for (const li of items) {
+    let nodata = 0;
+    let needCap = false;
+    let needArea = false;
+    const next: string[] = [];
+    const others: HTMLLIElement[] = []; // 会場名以外の条件には合う会場（0件のときの「もしかして」候補）
+    entries.forEach(({ li, norm }, i) => {
       const d = li.dataset;
       const cap = JSON.parse(d.cap || '{}') as Record<string, number>;
       const have = (d.flags || '').split(' ');
-      const ok =
-        (!name || (d.name || '').includes(name)) &&
-        (!type || d.type === type) &&
-        (!area || d.area === area) &&
-        (!people || (cap[layout] ?? 0) >= people) &&
-        (!m2 || Number(d.maxarea) >= m2) &&
-        flags.every((f) => have.includes(f));
-      li.hidden = !ok;
-      if (ok) shown++;
+      // 人数・㎡は「合う／合わない／公式に数字が無くて判定できない」の3通り。数字が無い会場は、合う会場とは別の欄に出す
+      const capState = !people ? 'pass' : d.nocap === '1' ? 'unknown' : (cap[layout] ?? 0) >= people ? 'pass' : 'fail';
+      const areaState = !m2 ? 'pass' : d.noarea === '1' ? 'unknown' : Number(d.maxarea) >= m2 ? 'pass' : 'fail';
+      const base =
+        (!type || d.type === type) && (!area || d.area === area) && flags.every((f) => have.includes(f));
+      const numeric = capState !== 'fail' && areaState !== 'fail';
+      const nameOk = !name || norm.some((n) => n.includes(name));
+      let slot = 'hidden';
+      if (base && numeric && nameOk) slot = capState === 'unknown' || areaState === 'unknown' ? 'nodata' : 'main';
+      if (base && numeric && !nameOk) others.push(li);
+      if (slot === 'main') shown++;
+      if (slot === 'nodata') { nodata++; if (capState === 'unknown') needCap = true; if (areaState === 'unknown') needArea = true; }
+      li.hidden = slot === 'hidden';
+      next.push(slot);
+    });
+    // 欄の移し替え（並びは元の並び順のまま）
+    if (next.some((x, i) => (x === 'nodata') !== (slots[i] === 'nodata'))) {
+      entries.forEach(({ li }, i) => (next[i] === 'nodata' ? nodataList : mainList).appendChild(li));
     }
+    slots = next;
     countEl.textContent = String(shown);
+    nodataSec.hidden = nodata === 0;
+    if (nodata) nodataTitle.textContent = nodataTmpl.replace('{kind}', nodataKinds[needCap && needArea ? 'both' : needCap ? 'cap' : 'area']).replace('{n}', String(nodata));
     emptyEl.hidden = shown !== 0;
+    // 0件のときだけ「もしかして」：濁点・小さい字・長音の違いを無視して、近い会場を1〜3件出す
+    suggestList.textContent = '';
+    suggestEl.hidden = true;
+    const fq = fuzzy(nameRaw);
+    if (shown === 0 && fq.length >= 3) {
+      const near = entries.filter((e) => others.includes(e.li) && e.fz.some((f) => f.includes(fq))).slice(0, 3);
+      near.forEach((e, i) => {
+        if (i > 0) suggestList.append(' / ');
+        const b = document.createElement('button');
+        b.type = 'button'; b.className = 'vl-suggest-btn'; b.textContent = e.label;
+        b.addEventListener('click', () => { $<HTMLInputElement>('f-name').value = e.label; apply(); });
+        suggestList.append(b);
+      });
+      suggestEl.hidden = near.length === 0;
+    }
   }
 
   // コラムからのリンク（?area=…／?people=…&layout=…）で条件を入れた状態で開く
@@ -173,9 +250,16 @@ const layoutOptions = Object.entries(LAYOUT_LABEL) as [Layout, string][];
   setIf('f-area', 'area'); setIf('f-type', 'type'); setIf('f-layout', 'layout'); setIf('f-people', 'people'); setIf('f-m2', 'm2');
   if (params.toString()) apply();
 
+  // 人数・㎡にマイナスは入れられない（キー入力を止め、貼り付けなどで入った分は空に戻す）
+  for (const id of ['f-people', 'f-m2']) {
+    const el = $<HTMLInputElement>(id);
+    el.addEventListener('keydown', (e) => { if (['-', '+', 'e', 'E'].includes(e.key)) e.preventDefault(); });
+    el.addEventListener('input', () => { if (el.value !== '' && Number(el.value) < 0) el.value = ''; });
+  }
   form.addEventListener('input', apply);
   form.addEventListener('change', apply);
   form.addEventListener('reset', () => setTimeout(apply, 0));
+  document.getElementById('vl-empty-reset')!.addEventListener('click', () => { form.reset(); });
 </script>
 
 <style>
@@ -228,7 +312,14 @@ const layoutOptions = Object.entries(LAYOUT_LABEL) as [Layout, string][];
 .vl-tags { list-style: none; padding: 0; margin: auto 0 0; display: flex; flex-wrap: wrap; gap: .375rem; }
 .vl-tags li { font-size: .6875rem; padding: .125rem .5rem; border-radius: 999px; background: var(--color-accent); border: 1px solid var(--color-border); color: var(--color-brand); }
 .vl-tags li.t-shop { background: #fff7e6; border-color: #f3dcae; color: #8a5a00; }
+.vl-nodata { margin-top: 2.5rem; padding-top: 1.5rem; border-top: 2px dashed var(--color-border); }
+.vl-nodata[hidden] { display: none; }
+.vl-nodata-title { font-size: 1.125rem; margin: 0 0 .375rem; color: var(--color-heading); }
+.vl-nodata-note { margin: 0 0 1rem; font-size: .8125rem; color: var(--color-text-muted); line-height: 1.7; }
 .vl-empty { padding: 2rem 0; color: var(--color-text-muted); }
+.vl-empty p { margin: 0 0 .75rem; }
+.vl-suggest-btn { font: inherit; background: none; border: 0; padding: 0; color: var(--color-brand); text-decoration: underline; cursor: pointer; }
+.vl-sortnote { margin: -.25rem 0 .75rem; font-size: .8125rem; color: var(--color-text-muted); }
 .vl-note { margin-top: 2rem; font-size: .8125rem; color: var(--color-text-muted); line-height: 1.7; }
 @media (max-width: 480px) {
   .vl-specs { grid-template-columns: repeat(2, auto); }

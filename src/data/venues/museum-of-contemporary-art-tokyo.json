@@ -112,7 +112,11 @@
    "note": "約50席、飲食可。レセプション・懇親会等での貸切利用が可能で、貸切料金は営業事業者へ直接申請する。面積・席数はユニークベニューご利用案内（2019年4月1日現在）の記載"
   }
  ],
- "roomsSource": "https://www.mot-art-museum.jp/guide/rental/discription/",
+ "roomsSources": [
+  {
+   "url": "https://www.mot-art-museum.jp/guide/rental/discription/"
+  }
+ ],
  "ops": {
   "vehicleRules": {
    "text": "ユニークベニュー利用時の車両の駐車は、地下駐車場（高さ2.1m、収容96台）を利用し、駐車には事前申請が必要。（出典：ユニークベニューご利用案内 2019年4月1日現在）",

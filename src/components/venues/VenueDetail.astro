@@ -8,7 +8,7 @@ import VENUE_HOTELS from '../../data/venue-hotels.json';
 import { getVenue, maxCapacity, maxArea, verifiedShops, OPS_ORDER, type Shop } from '../../lib/venues';
 import {
   localizeVenue, UI, TYPE_LABEL_I, LAYOUT_LABEL_I, AREA_LABEL_I, OPS_LABEL_I,
-  areaColumnPathI, formatNumberI, formatDateI, firstSentence, venuesRoot, type Lang,
+  areaColumnPathI, formatNumberI, formatCeilingI, formatDateI, firstSentence, venuesRoot, type Lang,
 } from '../../lib/venues-i18n';
 
 interface Props { slug: string; lang: Lang }
@@ -39,6 +39,19 @@ const shopGroups: { title: string; hint: string; list: Shop[] }[] = [
 const hasShops = shopGroups.some((g) => g.list.length);
 
 const hostOf = (u: string) => { try { return new URL(u).hostname.replace(/^www\./, ''); } catch { return u; } };
+// 部屋表の出典リンク：1件ならサイト名、複数ならサイト名＋パス（長いものは省略）で見分ける
+const roomsSources = (v.roomsSources ?? []).map((r) => {
+  let label = hostOf(r.url);
+  if ((v.roomsSources ?? []).length > 1) {
+    try {
+      const u = new URL(r.url);
+      const segs = u.pathname.split('/').filter(Boolean);
+      const tail = segs.length > 1 ? `/…/${segs[segs.length - 1]}` : segs.length ? `/${segs[0]}` : '';
+      label = (hostOf(r.url) + tail + (u.pathname.endsWith('/') && segs.length ? '/' : '')).replace(/^(.{48}).+$/, '$1…');
+    } catch { /* そのまま */ }
+  }
+  return { url: r.url, label };
+});
 const isPdf = (u: string) => /\.pdf($|\?)/i.test(u);
 const showCol = (k: 'areaM2' | 'ceilingM' | 'theater' | 'school' | 'ushape' | 'standing' | 'banquet') =>
   v.rooms.some((r) => typeof r[k] === 'number' || (typeof r[k] === 'string' && r[k] !== ''));
@@ -116,14 +129,14 @@ const areaName = AREA_LABEL[v.area] ?? '';
               {v.rooms.map((r) => (
                 <tr>
                   <th scope="row">{r.name}{r.note && <small>{r.note}</small>}</th>
-                  {cols.map((c) => <td data-label={colLabel[c]}>{fmt(r[c])}</td>)}
+                  {cols.map((c) => <td data-label={colLabel[c]}>{c === 'ceilingM' ? formatCeilingI(r[c], lang) : fmt(r[c])}</td>)}
                 </tr>
               ))}
             </tbody>
           </table>
         </div>
-        {v.roomsSource && /^https?:/.test(v.roomsSource) && (
-          <p class="vd-small">{t.roomsSource}<a href={v.roomsSource} target="_blank" rel="noopener">{hostOf(v.roomsSource)}</a>{t.roomsSourceTail}</p>
+        {roomsSources.length > 0 && (
+          <p class="vd-small">{t.roomsSource}{roomsSources.map((r, i) => <>{i > 0 && (lang === 'ja' ? '、' : ', ')}<a href={r.url} target="_blank" rel="noopener">{r.label}</a></>)}{t.roomsSourceTail}</p>
         )}
       </section>
     )}
@@ -132,7 +145,7 @@ const areaName = AREA_LABEL[v.area] ?? '';
       <section id="docs" class="vd-sec">
         <h2>{t.docsH2}</h2>
         <ul class="vd-docs">
-          {v.documents!.map((d) => <li><a href={d.url} target="_blank" rel="noopener">{d.title}</a>{isPdf(d.url) && <span>{t.pdf}</span>}</li>)}
+          {v.documents!.map((d) => <li>{d.url ? <a href={d.url} target="_blank" rel="noopener">{d.title}</a> : d.title}{d.url && isPdf(d.url) && <span>{t.pdf}</span>}</li>)}
         </ul>
       </section>
     )}
@@ -146,6 +159,7 @@ const areaName = AREA_LABEL[v.area] ?? '';
               <h3>{o.label}</h3>
               <p>{o.text}</p>
               <a class="vd-src" href={o.source} target="_blank" rel="noopener">{t.source}{hostOf(o.source)}{isPdf(o.source) ? t.pdfMark : ''}</a>
+              {(o.moreSources ?? []).map((m) => <>{' '}<a class="vd-src" href={m} target="_blank" rel="noopener">{hostOf(m)}{isPdf(m) ? t.pdfMark : ''}</a></>)}
             </div>
           ))}
         </div>

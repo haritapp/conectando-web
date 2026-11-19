@@ -189,7 +189,14 @@
    "note": "小ホールと中会議室Ⅱを同時に使うときに利用できる。共用部は原則、受付などに限る。"
   }
  ],
- "roomsSource": "https://www.tokyo.conventionhall.jp/download.html ／ https://www.tokyo.conventionhall.jp/fees.html",
+ "roomsSources": [
+  {
+   "url": "https://www.tokyo.conventionhall.jp/download.html"
+  },
+  {
+   "url": "https://www.tokyo.conventionhall.jp/fees.html"
+  }
+ ],
  "ops": {
   "prevDaySetup": {
    "text": "催事前日の機材・物品などの搬入作業に限り、施設利用料金が半額。映像・照明・音響・配信機材などの起動や、投影・動作確認をする場合は通常の利用料金。本番日以外の設営日・リハーサル日に機材・備品を使う場合も、その料金がかかる。",
@@ -406,7 +413,7 @@
     "hours": "11:00-21:00",
     "address": "東京都中央区銀座3-2-1 マロニエゲート銀座2 6階",
     "verified": true,
-    "source": "https://www.daiso-sangyo.co.jp/shop/result?keyword=銀座",
+    "source": "https://www.daiso-sangyo.co.jp/shop/result?keyword=%E9%8A%80%E5%BA%A7",
     "note": "距離は住所の位置で計算"
    },
    {
@@ -417,7 +424,7 @@
     "hours": "9:00-21:00",
     "address": "東京都中央区日本橋人形町3-7-13 B1階・1階・2階",
     "verified": true,
-    "source": "https://www.daiso-sangyo.co.jp/shop/result?keyword=日本橋",
+    "source": "https://www.daiso-sangyo.co.jp/shop/result?keyword=%E6%97%A5%E6%9C%AC%E6%A9%8B",
     "note": "距離は住所の位置で計算。遠い"
    }
   ],
