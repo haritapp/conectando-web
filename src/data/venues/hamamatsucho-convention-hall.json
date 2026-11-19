@@ -239,7 +239,11 @@
    "banquet": null
   }
  ],
- "roomsSource": "https://www.hmc.conventionhall.jp/facility/",
+ "roomsSources": [
+  {
+   "url": "https://www.hmc.conventionhall.jp/facility/"
+  }
+ ],
  "ops": {
   "prevDaySetup": {
    "text": "宅配便・郵便物での事前納品は、事前連絡のうえ承認した場合に限り、ご利用前日のみ受け付ける。",

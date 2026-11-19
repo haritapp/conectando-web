@@ -145,7 +145,11 @@
    "note": "定員63名（机21・椅子63脚）。第3・第4会議室を一室で使う場合は各区分の利用料の合算額（全日6,800円）"
   }
  ],
- "roomsSource": "https://www.hachiojibunka.or.jp/minami/facility/",
+ "roomsSources": [
+  {
+   "url": "https://www.hachiojibunka.or.jp/minami/facility/"
+  }
+ ],
  "ops": {
   "prevDaySetup": {
    "text": "各利用区分（午前9:00～12:00、午後13:00～17:00、夜間18:00～22:00、全日9:00～22:00）には準備から後片付けまでの時間が含まれる。連続した複数の区分を利用する場合は、区分の間も利用できる。連続使用できる期間は、主ホール・交流ホール・展示多目的室（展示目的のみ）が6日間、リハーサル室・練習室・会議室・展示多目的室が3日間（ホール・展示室に付随する場合は6日間）。利用時間の超過・繰上げは、管理上支障がない時に限り1時間以内で承認され、加算利用料がかかる。",
@@ -153,7 +157,7 @@
   },
   "loadingHours": {
    "text": "荷物を事前に館へ送る場合は、荷物等宅配届を発送の1週間前までに提出する（休館日は到着・引取とも不可）。物品販売は物品販売申請書兼精算書を利用日の2週間前までに提出する。展示室の利用でも搬入口からの作業になり、当日は職員の指示に従う。",
-   "source": "https://www.hachiojibunka.or.jp/minami/wp-content/uploads/2026/04/★催物計画書★20260917～.pdf"
+   "source": "https://www.hachiojibunka.or.jp/minami/wp-content/uploads/2026/04/%E2%98%85%E5%82%AC%E7%89%A9%E8%A8%88%E7%94%BB%E6%9B%B8%E2%98%8520260917%EF%BD%9E.pdf"
   },
   "parking": {
    "text": "専用駐車場はなく、隣接するフレスコ南大沢ビル地下の八王子市営南大沢駐車場（100台、8:00～22:30、30分120円、車両制限は高さ2.3m・幅1.8m・長さ5m）か近隣の有料駐車場を使う。市営駐車場からはエレベーターで文化会館に行ける。",
@@ -171,27 +175,27 @@
   },
   {
    "title": "催物計画書（2026年9月17日改訂）",
-   "url": "https://www.hachiojibunka.or.jp/minami/wp-content/uploads/2026/04/★催物計画書★20260917～.pdf"
+   "url": "https://www.hachiojibunka.or.jp/minami/wp-content/uploads/2026/04/%E2%98%85%E5%82%AC%E7%89%A9%E8%A8%88%E7%94%BB%E6%9B%B8%E2%98%8520260917%EF%BD%9E.pdf"
   },
   {
    "title": "荷物等宅配届（2026年4月17日版）",
-   "url": "https://www.hachiojibunka.or.jp/minami/wp-content/uploads/2026/04/南-荷物宅配届20260417.pdf"
+   "url": "https://www.hachiojibunka.or.jp/minami/wp-content/uploads/2026/04/%E5%8D%97-%E8%8D%B7%E7%89%A9%E5%AE%85%E9%85%8D%E5%B1%8A20260417.pdf"
   },
   {
    "title": "施設利用者登録申込書（2026年4月17日版）",
-   "url": "https://www.hachiojibunka.or.jp/minami/wp-content/uploads/2026/04/南-施設利用者登録申込書20260417.pdf"
+   "url": "https://www.hachiojibunka.or.jp/minami/wp-content/uploads/2026/04/%E5%8D%97-%E6%96%BD%E8%A8%AD%E5%88%A9%E7%94%A8%E8%80%85%E7%99%BB%E9%8C%B2%E7%94%B3%E8%BE%BC%E6%9B%B820260417.pdf"
   },
   {
    "title": "施設利用変更届（2026年4月17日版）",
-   "url": "https://www.hachiojibunka.or.jp/minami/wp-content/uploads/2026/04/南-施設利用変更届20260417.pdf"
+   "url": "https://www.hachiojibunka.or.jp/minami/wp-content/uploads/2026/04/%E5%8D%97-%E6%96%BD%E8%A8%AD%E5%88%A9%E7%94%A8%E5%A4%89%E6%9B%B4%E5%B1%8A20260417.pdf"
   },
   {
    "title": "施設利用取消届（2026年4月17日版）",
-   "url": "https://www.hachiojibunka.or.jp/minami/wp-content/uploads/2026/04/南-施設利用取消届20260417.pdf"
+   "url": "https://www.hachiojibunka.or.jp/minami/wp-content/uploads/2026/04/%E5%8D%97-%E6%96%BD%E8%A8%AD%E5%88%A9%E7%94%A8%E5%8F%96%E6%B6%88%E5%B1%8A20260417.pdf"
   },
   {
    "title": "諸室抽選会用予約申込書（2026年5月3日～）",
-   "url": "https://www.hachiojibunka.or.jp/minami/wp-content/uploads/2026/04/提出用＿諸室抽選申込書20260503～.pdf"
+   "url": "https://www.hachiojibunka.or.jp/minami/wp-content/uploads/2026/04/%E6%8F%90%E5%87%BA%E7%94%A8%EF%BC%BF%E8%AB%B8%E5%AE%A4%E6%8A%BD%E9%81%B8%E7%94%B3%E8%BE%BC%E6%9B%B820260503%EF%BD%9E.pdf"
   },
   {
    "title": "各種資料ダウンロード（フロア平面図・座席表・舞台平面図・バトン割図ほか）",

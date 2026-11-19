@@ -65,7 +65,11 @@
    "banquet": null
   }
  ],
- "roomsSource": "https://www.spacezero.co.jp/hall/about",
+ "roomsSources": [
+  {
+   "url": "https://www.spacezero.co.jp/hall/about"
+  }
+ ],
  "ops": {
   "prevDaySetup": {
    "text": "仕込料金は本番使用日の前日1日に限り適用される。ホールは通常（10:00～22:00）550,000円、深夜（23:00～10:00）770,000円（税込）。ギャラリーは通常82,500円、展示室は通常38,500円（税込、10:00～20:00）で、深夜仕込（ギャラリー110,000円、展示室55,000円）はホールとの同時使用に限る。",

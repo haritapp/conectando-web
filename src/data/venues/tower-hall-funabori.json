@@ -354,7 +354,17 @@
    "note": "4階。20畳。炉・水屋付。"
   }
  ],
- "roomsSource": "https://www.towerhall.jp/facility/ ／ https://www.towerhall.jp/tower/wp-content/uploads/2026/04/fee_01.png ／ https://funabori-matsuya.com/banquet/hall/",
+ "roomsSources": [
+  {
+   "url": "https://www.towerhall.jp/facility/"
+  },
+  {
+   "url": "https://www.towerhall.jp/tower/wp-content/uploads/2026/04/fee_01.png"
+  },
+  {
+   "url": "https://funabori-matsuya.com/banquet/hall/"
+  }
+ ],
  "ops": {
   "loadingHours": {
    "text": "ホール専用サービスヤードは7:00〜23:00。",

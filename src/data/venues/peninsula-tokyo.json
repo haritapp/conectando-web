@@ -79,7 +79,11 @@
    "note": "ボードルーム形式24名。最大40名。テラス併設。公式表に無いスクール35名・コの字22名はファクトシート（2022年5月版）の値で、同版の正餐は24名。公式表の寸法は12.5×4.3mで、面積140㎡と合わない"
   }
  ],
- "roomsSource": "https://www.peninsula.com/ja/tokyo/events/event-meeting-space",
+ "roomsSources": [
+  {
+   "url": "https://www.peninsula.com/ja/tokyo/events/event-meeting-space"
+  }
+ ],
  "ops": {
   "parking": {
    "text": "駐車はバレーパーキングのみ。宿泊客は1泊1台6,000円。レストラン利用客は、6,000円以上の利用で2時間、12,000円以上の利用で4時間まで無料。通常料金はバレーパーキング料1,500円に10分ごと300円を加算。",

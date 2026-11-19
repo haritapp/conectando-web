@@ -123,7 +123,14 @@
    "note": "島型8名"
   }
  ],
- "roomsSource": "https://www.yaesu.tokyo-midtown.com/conference/facility/、https://contents.file-server.net/store/346/post-item-file-data/437050736/cffc0d50-e60e-4050-b83b-0be24ef08297.pdf",
+ "roomsSources": [
+  {
+   "url": "https://www.yaesu.tokyo-midtown.com/conference/facility/"
+  },
+  {
+   "url": "https://contents.file-server.net/store/346/post-item-file-data/437050736/cffc0d50-e60e-4050-b83b-0be24ef08297.pdf"
+  }
+ ],
  "ops": {
   "prevDaySetup": {
    "text": "準備日は室料から20%値引きされる（1催事につき1日、9:00〜21:00）。準備・リハーサル・本番・撤収を含んだ時間で予約する。営業時間は9:00〜21:00。大会議室・パノラマルーム・イベントスペース・スタジオは、希望のレイアウトを事前に無料で設営してもらえる（レイアウトは利用日の2週間前までに連絡、催事中のレイアウト転換は別途費用）。荷物の事前配送は、着日を利用日の3営業日前から前営業日の平日で指定し、かご台車に収まる分は無料で預かってもらえる。（出典：利用案内・利用規約〈Ver. 2026/09/11〜〉）",

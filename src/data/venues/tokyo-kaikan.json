@@ -166,7 +166,20 @@
    "note": "7F。人数の設定なし（公式の表は面積と天井高のみ）"
   }
  ],
- "roomsSource": "https://www.kaikan.co.jp/banquet/room.html?view=all ／ https://www.kaikan.co.jp/banquet/3F.pdf ／ https://www.kaikan.co.jp/banquet/iris.pdf ／ https://www.kaikan.co.jp/banquet/wisteria.pdf",
+ "roomsSources": [
+  {
+   "url": "https://www.kaikan.co.jp/banquet/room.html?view=all"
+  },
+  {
+   "url": "https://www.kaikan.co.jp/banquet/3F.pdf"
+  },
+  {
+   "url": "https://www.kaikan.co.jp/banquet/iris.pdf"
+  },
+  {
+   "url": "https://www.kaikan.co.jp/banquet/wisteria.pdf"
+  }
+ ],
  "ops": {
   "waitingRooms": {
    "text": "3Fの大宴会場（ローズ）には、皇居を望む控え室を用意できる。7Fのアゼリア・アイリスは、控室として使うレイアウト例が図面にある。（出典：宴会場・スペック・フロアマップ、アゼリア・アイリスの図面）",

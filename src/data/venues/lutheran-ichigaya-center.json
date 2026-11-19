@@ -57,7 +57,11 @@
    "note": "2階。使用可能電力量40A"
   }
  ],
- "roomsSource": "https://www.l-i-c.com/community/about/",
+ "roomsSources": [
+  {
+   "url": "https://www.l-i-c.com/community/about/"
+  }
+ ],
  "ops": {
   "prevDaySetup": {
    "text": "貸出時間には入館・搬入・設営から退館・原状復帰・搬出までが含まれ、時間外の入館は認められない（有料対応または退館）。連日で借りる場合、夜まで予約し翌朝も予約しているときは荷物を置いたままにできるが、予約が連続しない場合は他の予約が入る可能性があるため室外に出す。会議室はテーブルレイアウトを前日の午前中までに申し出れば事前に準備してもらえ、前後が空室なら5分前から入室できる。（ホール利用規則 2026年8月、FAQ）",
@@ -91,11 +95,11 @@
   },
   {
    "title": "ルーテル市ヶ谷センター 利用規則（ホール、2026年8月）",
-   "url": "https://www.l-i-c.com/wp-content/uploads/2026/08/ホール利用規則202609.pdf"
+   "url": "https://www.l-i-c.com/wp-content/uploads/2026/08/%E3%83%9B%E3%83%BC%E3%83%AB%E5%88%A9%E7%94%A8%E8%A6%8F%E5%89%87202609.pdf"
   },
   {
    "title": "会議室利用規則（2018年11月）",
-   "url": "https://www.l-i-c.com/wp-content/uploads/2022/01/会議室専用利用規則.pdf"
+   "url": "https://www.l-i-c.com/wp-content/uploads/2022/01/%E4%BC%9A%E8%AD%B0%E5%AE%A4%E5%B0%82%E7%94%A8%E5%88%A9%E7%94%A8%E8%A6%8F%E5%89%87.pdf"
   },
   {
    "title": "宿泊約款（2026年7月改定）",

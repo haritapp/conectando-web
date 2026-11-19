@@ -308,7 +308,11 @@
    "banquet": 20
   }
  ],
- "roomsSource": "https://www.hotel-mariners.co.jp/banquets-meetings/",
+ "roomsSources": [
+  {
+   "url": "https://www.hotel-mariners.co.jp/banquets-meetings/"
+  }
+ ],
  "ops": {
   "prevDaySetup": {
    "text": "展示会の搬入は、前日の午前中から使う場合は展示会室料の全額、前日の正午から使う場合は展示会室料の半額がかかる。宴会・催事の使用時間は設営から撤去までを含み、契約時間を超えると追加室料がかかる（超過に応じられない場合もある）。（料金表 2025年8月現在、ご宴会・催事規約 2025年版）",

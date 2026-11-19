@@ -192,7 +192,11 @@
    "note": "伊勢と同じ面積・人数。デジタルパンフレット（2026年5月現在）の表"
   }
  ],
- "roomsSource": "https://www.miyakohotels.ne.jp/tokyo/banquet/daigo/",
+ "roomsSources": [
+  {
+   "url": "https://www.miyakohotels.ne.jp/tokyo/banquet/daigo/"
+  }
+ ],
  "ops": {
   "parking": {
    "text": "駐車場は140台、高さ制限2.1m。大型バスの駐車は可（ドライバーのホテル宿泊が必須）（2026年5月現在）。",

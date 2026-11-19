@@ -321,7 +321,11 @@
    "note": "4F。ホールB専用の控室として使える（別途会場料金・設営費）。机2台（W2200×D1200mm）・椅子12脚。"
   }
  ],
- "roomsSource": "https://www.toranomonhillsforum.com/fee/pdf/Facility_fee.pdf",
+ "roomsSources": [
+  {
+   "url": "https://www.toranomonhillsforum.com/fee/pdf/Facility_fee.pdf"
+  }
+ ],
  "ops": {
   "prevDaySetup": {
    "text": "連日で借りる場合、21時までの予約なら貴重品以外は会場内に置いたまま退出できる。荷物の事前送付（宅配便）は原則として利用日の前日。（出典：お役立ちQ&A）",

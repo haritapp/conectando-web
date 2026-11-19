@@ -189,7 +189,11 @@
    "note": "間口×奥行 10.0×6.8m。ビュッフェ50名はⅠ・Ⅱあわせて。一本卓18名"
   }
  ],
- "roomsSource": "https://www.rihga.co.jp/hubfs/rihga.co.jp-Party/pdf/tokyo/venue.pdf",
+ "roomsSources": [
+  {
+   "url": "https://www.rihga.co.jp/hubfs/rihga.co.jp-Party/pdf/tokyo/venue.pdf"
+  }
+ ],
  "ops": {
   "prevDaySetup": {
    "text": "お荷物の送付は、予約時間内に到着するように配送会社を手配する（宴席日の前日から預かり）。ご予約内容には準備の時間を含み、準備時間は打ち合わせ時に相談する。",

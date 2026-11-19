@@ -365,7 +365,18 @@
    "note": null
   }
  ],
- "roomsSource": "https://tokyo.hiltonjapan.co.jp/mice/large、https://tokyo.hiltonjapan.co.jp/mice/medium、https://tokyo.hiltonjapan.co.jp/mice/small（フロアマップPDFと照合）",
+ "roomsSources": [
+  {
+   "url": "https://tokyo.hiltonjapan.co.jp/mice/large"
+  },
+  {
+   "url": "https://tokyo.hiltonjapan.co.jp/mice/medium"
+  },
+  {
+   "url": "https://tokyo.hiltonjapan.co.jp/mice/small",
+   "note": "フロアマップPDFと照合"
+  }
+ ],
  "ops": {
   "parking": {
    "text": "ホテル地下2階・3階に280台分の駐車場（車高2.1m）。宴会・会議の利用は3時間30分まで無料、24時間内は最大2,700円。延長は300円／30分。",

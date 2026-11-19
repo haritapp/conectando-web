@@ -211,7 +211,16 @@
    "note": "12畳。最大収容人数12名"
   }
  ],
- "roomsSource": "https://hachiojiellcy.co.jp/company/rooms（部屋名・面積・最大収容人数）／https://hachiojiellcy.co.jp/rental-room（貸会議室の料金・収容人数）",
+ "roomsSources": [
+  {
+   "url": "https://hachiojiellcy.co.jp/company/rooms",
+   "note": "部屋名・面積・最大収容人数"
+  },
+  {
+   "url": "https://hachiojiellcy.co.jp/rental-room",
+   "note": "貸会議室の料金・収容人数"
+  }
+ ],
  "ops": {
   "loadingHours": {
    "text": "搬入・搬出の開始・終了時間は打ち合わせどおりに行う。会場の都合で時刻の変更を依頼されることがある。正面からの搬入は禁止で、順路は会場の指示に従う。搬入・搬出・施工の際は、施工担当者・運送会社・車両台数・設営会社名・設営要員数・作業員氏名を会場所定の用紙で事前に届け出る。会場平面図と電気配線施工図は各2部を施工日の10日前までに提出する。",

@@ -156,7 +156,26 @@
    "note": "収容14名（テーブル2台・イス10脚・2人掛ソファ2組）。事務局・控室などに利用可。利用料は午前6,300円／午後8,400円／夜間8,400円"
   }
  ],
- "roomsSource": "https://www.hit-u.ac.jp/hall/facility.html、https://www.hit-u.ac.jp/hall/facilitymiddle.html、https://www.hit-u.ac.jp/hall/facilityconference.html、https://www.hit-u.ac.jp/hall/facilityspecial.html、https://www.hit-u.ac.jp/hall/facilitynobleguest.html、https://www.hit-u.ac.jp/hall/facilitypreparation.html",
+ "roomsSources": [
+  {
+   "url": "https://www.hit-u.ac.jp/hall/facility.html"
+  },
+  {
+   "url": "https://www.hit-u.ac.jp/hall/facilitymiddle.html"
+  },
+  {
+   "url": "https://www.hit-u.ac.jp/hall/facilityconference.html"
+  },
+  {
+   "url": "https://www.hit-u.ac.jp/hall/facilityspecial.html"
+  },
+  {
+   "url": "https://www.hit-u.ac.jp/hall/facilitynobleguest.html"
+  },
+  {
+   "url": "https://www.hit-u.ac.jp/hall/facilitypreparation.html"
+  }
+ ],
  "ops": {
   "prevDaySetup": {
    "text": "設営だけの時間枠はなく、前日夜間（17:00〜21:00）を別途予約して使う。予約した時間より前に入室して設営を始めることはできない。連日利用で機材や展示パネルを最終日まで置いておく場合は、終日の予約が必要。",

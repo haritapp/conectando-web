@@ -211,7 +211,11 @@
    "note": null
   }
  ],
- "roomsSource": "https://www.ritzcarlton.com/ja/hotels/tyorz-the-ritz-carlton-tokyo/events/",
+ "roomsSources": [
+  {
+   "url": "https://www.ritzcarlton.com/ja/hotels/tyorz-the-ritz-carlton-tokyo/events/"
+  }
+ ],
  "ops": {
   "parking": {
    "text": "ホテル敷地内に駐車場があり、料金は1時間800円、1日8,000円、毎週56,000円。バレーパーキングサービス（1日8,000円）と電気自動車の充電ステーションもある。（公式の施設情報）",

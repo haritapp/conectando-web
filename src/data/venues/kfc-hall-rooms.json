@@ -266,35 +266,54 @@
    "note": "島型4島16席。時間使用が適用される。全日9:00〜21:00 34,000円（税込37,400円）"
   }
  ],
- "roomsSource": "https://www.tokyo-kfc.co.jp/price/、https://www.tokyo-kfc.co.jp/facility/hall/、https://www.tokyo-kfc.co.jp/facility/hallannex/、https://www.tokyo-kfc.co.jp/facility/hall2nd/、https://www.tokyo-kfc.co.jp/facility/rooms/、https://www.tokyo-kfc.co.jp/kfc_wp/wp-content/themes/kfc/assets/img/pdf/download/hall/KFC Hall シアターレイアウト.pdf",
+ "roomsSources": [
+  {
+   "url": "https://www.tokyo-kfc.co.jp/price/"
+  },
+  {
+   "url": "https://www.tokyo-kfc.co.jp/facility/hall/"
+  },
+  {
+   "url": "https://www.tokyo-kfc.co.jp/facility/hallannex/"
+  },
+  {
+   "url": "https://www.tokyo-kfc.co.jp/facility/hall2nd/"
+  },
+  {
+   "url": "https://www.tokyo-kfc.co.jp/facility/rooms/"
+  },
+  {
+   "url": "https://www.tokyo-kfc.co.jp/kfc_wp/wp-content/themes/kfc/assets/img/pdf/download/hall/KFC%20Hall%20%E3%82%B7%E3%82%A2%E3%82%BF%E3%83%BC%E3%83%AC%E3%82%A4%E3%82%A2%E3%82%A6%E3%83%88.pdf"
+  }
+ ],
  "ops": {
   "prevDaySetup": {
    "text": "KFC Hall・KFC Hall Annex・KFC Hall 2ndには準備日（設営・撤去など）の料金があり、1開催につき1日まで。準備日料金は9:00〜21:00でKFC Hall 318,000円（税込349,800円）、KFC Hall Annex 188,000円（税込206,800円）、KFC Hall 2nd 98,000円（税込107,800円）。準備日は付帯設備使用料金が半額になる。",
-   "source": "https://www.tokyo-kfc.co.jp/facility/hall/、https://www.tokyo-kfc.co.jp/facility/hallannex/、https://www.tokyo-kfc.co.jp/facility/hall2nd/"
+   "source": "https://www.tokyo-kfc.co.jp/facility/hall/%E3%80%81https://www.tokyo-kfc.co.jp/facility/hallannex/%E3%80%81https://www.tokyo-kfc.co.jp/facility/hall2nd/"
   },
   "loadingHours": {
    "text": "機材・商品・什器などの搬入出は、指定の搬入搬出口（地下1階の荷捌き場）を使い、利用者の責任で行う。搬入出口は共用スペースで、他の利用者と協力する。展示会など複数台の搬入出がある場合は、主催者が時間が重ならないよう取りまとめた搬入出予定表を3日前までに提出する（スペース確保を約束するものではない）。搬入EVは、KFC Hall（3階）がEエレベーターで幅3,600×奥行1,850×高さ2,700mm・積載2,600kg・扉幅2,700×高さ2,700mm、10階・11階・2階（2nd）はDエレベーターで幅1,730×奥行2,475×高さ2,500mm・積載2,200kg・扉幅1,300×高さ2,100mm、6階はCエレベーター2基（22人乗り：幅1,800×奥行1,790×高さ2,350mm・積載1,450kg・扉1,000×2,100mm／26人乗り：幅1,800×奥行2,000×高さ2,350mm・積載1,700kg・扉1,000×2,100mm）（搬入図面 2025年10月29日更新）。荷物の事前発送は会場契約日の前日着で、宛先は10階ホール管理室気付。9:00〜18:00に休日・祝日を問わず受け取れ、着払い・クール便は不可。",
-   "source": "https://www.tokyo-kfc.co.jp/guide/rule/、https://www.tokyo-kfc.co.jp/kfc_wp/wp-content/themes/kfc/assets/img/pdf/download/hall/unloadguideline.pdf、https://www.tokyo-kfc.co.jp/kfc_wp/wp-content/themes/kfc/assets/img/pdf/download/hall/hall_04_01.pdf、https://www.tokyo-kfc.co.jp/kfc_wp/wp-content/themes/kfc/assets/img/pdf/download/hall/配送業者の手配について.pdf"
+   "source": "https://www.tokyo-kfc.co.jp/guide/rule/%E3%80%81https://www.tokyo-kfc.co.jp/kfc_wp/wp-content/themes/kfc/assets/img/pdf/download/hall/unloadguideline.pdf%E3%80%81https://www.tokyo-kfc.co.jp/kfc_wp/wp-content/themes/kfc/assets/img/pdf/download/hall/hall_04_01.pdf%E3%80%81https://www.tokyo-kfc.co.jp/kfc_wp/wp-content/themes/kfc/assets/img/pdf/download/hall/%E9%85%8D%E9%80%81%E6%A5%AD%E8%80%85%E3%81%AE%E6%89%8B%E9%85%8D%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6.pdf"
   },
   "vehicleRules": {
    "text": "地下1階の荷捌き場（2台分）は搬入出を目的とした共用部で、原則1台ずつ、停車は30分まで。作業後は併設のタイムズか近隣の駐車場へ移動する。周辺やその他の敷地内での積み下ろしは原則禁止。進入高さは3.4mまでで、それを超える車両と特殊車両は原則禁止。満車の場合は付近を周回して待ち、スロープ上やホテル前での待機はしない（搬入出ガイドライン 2020年11月版、搬入図面 2025年10月29日更新）。",
-   "source": "https://www.tokyo-kfc.co.jp/kfc_wp/wp-content/themes/kfc/assets/img/pdf/download/hall/unloadguideline.pdf、https://www.tokyo-kfc.co.jp/kfc_wp/wp-content/themes/kfc/assets/img/pdf/download/hall/hall_04_01.pdf"
+   "source": "https://www.tokyo-kfc.co.jp/kfc_wp/wp-content/themes/kfc/assets/img/pdf/download/hall/unloadguideline.pdf%E3%80%81https://www.tokyo-kfc.co.jp/kfc_wp/wp-content/themes/kfc/assets/img/pdf/download/hall/hall_04_01.pdf"
   },
   "parking": {
    "text": "地下1階に駐車場があり、136台収容・24時間営業。バイクの駐車スペースはない。料金は30分250円（税込）・当日最大1,500円（税込）（アクセスページとサービス一覧には30分300円・当日最大1,500円（もう1行は1,400円）の記載もある。使用規則は2025年10月現在。会場利用者向けの割引販売価格は1時間400円・2時間800円・3時間1,200円・12時間1,400円）。地下1階のエントランス前に身体障害者用の駐車スペースが1台分ある（予約不可）。",
-   "source": "https://www.tokyo-kfc.co.jp/guide/service/others/、https://www.tokyo-kfc.co.jp/faq/、https://www.tokyo-kfc.co.jp/access/"
+   "source": "https://www.tokyo-kfc.co.jp/guide/service/others/%E3%80%81https://www.tokyo-kfc.co.jp/faq/%E3%80%81https://www.tokyo-kfc.co.jp/access/"
   },
   "waitingRooms": {
    "text": "KFC Hallは控室22.28㎡とバックスペース付き、KFC Hall Annexは控室18.81㎡付き、KFC Hall 2ndは控室16.98㎡付き。10階には貸出用の控室（10F 控室、10㎡）がある。",
-   "source": "https://www.tokyo-kfc.co.jp/facility/hall/、https://www.tokyo-kfc.co.jp/facility/hallannex/、https://www.tokyo-kfc.co.jp/facility/hall2nd/、https://www.tokyo-kfc.co.jp/price/"
+   "source": "https://www.tokyo-kfc.co.jp/facility/hall/%E3%80%81https://www.tokyo-kfc.co.jp/facility/hallannex/%E3%80%81https://www.tokyo-kfc.co.jp/facility/hall2nd/%E3%80%81https://www.tokyo-kfc.co.jp/price/"
   },
   "catering": {
    "text": "飲食ケータリングは指定業者に依頼する決まりで、衛生管理上、主催者が用意する飲食物の持込みはできない。お弁当（KFC会席弁当、懐石料理 青山、人形町 今半など）、ドリンク、パーティー（立食・着席）のメニューがあり、お弁当の注文は4日前まで、数量変更は3日前12:00まで。パーティー会場として使えるのはKFC Hall・KFC Hall Annex・KFC Hall 2ndのみ。",
-   "source": "https://www.tokyo-kfc.co.jp/guide/service/catering/、https://www.tokyo-kfc.co.jp/guide/rule/"
+   "source": "https://www.tokyo-kfc.co.jp/guide/service/catering/%E3%80%81https://www.tokyo-kfc.co.jp/guide/rule/"
   },
   "restaurants": {
    "text": "ビル内には、1階にカフェ&ダイニング〈アゼリア〉、2階に中国料理〈東天紅〉、25階に和食レストラン〈さくら〉があり、会場予約と合わせてレストラン手配（アフターパーティー用）を受け付けている。同じビルに第一ホテル両国がある。",
-   "source": "https://www.tokyo-kfc.co.jp/guide/service/others/、https://www.tokyo-kfc.co.jp/company/kfcbldg/"
+   "source": "https://www.tokyo-kfc.co.jp/guide/service/others/%E3%80%81https://www.tokyo-kfc.co.jp/company/kfcbldg/"
   }
  },
  "documents": [
@@ -320,11 +339,11 @@
   },
   {
    "title": "配送業者の手配について（2019年版）",
-   "url": "https://www.tokyo-kfc.co.jp/kfc_wp/wp-content/themes/kfc/assets/img/pdf/download/hall/配送業者の手配について.pdf"
+   "url": "https://www.tokyo-kfc.co.jp/kfc_wp/wp-content/themes/kfc/assets/img/pdf/download/hall/%E9%85%8D%E9%80%81%E6%A5%AD%E8%80%85%E3%81%AE%E6%89%8B%E9%85%8D%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6.pdf"
   },
   {
    "title": "KFC Hall シアターレイアウト（2025年11月12日更新）",
-   "url": "https://www.tokyo-kfc.co.jp/kfc_wp/wp-content/themes/kfc/assets/img/pdf/download/hall/KFC Hall シアターレイアウト.pdf"
+   "url": "https://www.tokyo-kfc.co.jp/kfc_wp/wp-content/themes/kfc/assets/img/pdf/download/hall/KFC%20Hall%20%E3%82%B7%E3%82%A2%E3%82%BF%E3%83%BC%E3%83%AC%E3%82%A4%E3%82%A2%E3%82%A6%E3%83%88.pdf"
   },
   {
    "title": "Hall&Annex&2nd共通備品",

@@ -219,7 +219,11 @@
    "note": "会議室専用。飲食の提供対象外。レイアウトは担当者に直接問い合わせ"
   }
  ],
- "roomsSource": "https://www.hotel-emisia.com/tokyotachikawa/party_meeting/images/banquet_fact_sheet.pdf",
+ "roomsSources": [
+  {
+   "url": "https://www.hotel-emisia.com/tokyotachikawa/party_meeting/images/banquet_fact_sheet.pdf"
+  }
+ ],
  "ops": {
   "parking": {
    "text": "ホテル地下の機械式普通車専用駐車場。先着順で予約は受け付けていない。収容規格は高さ1.55m・長さ4.8m・幅1.75mで、規格外の車と満車のときは近隣の有料駐車場を使う。料金は1時間400円、以降30分ごとに200円。営業時間は9:00〜22:00で時間外の入出庫はできない。宴会は3時間サービス（会議利用は対象外）。",

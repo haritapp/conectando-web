@@ -112,7 +112,11 @@
    "note": "ロの字のみ（3名掛け）。"
   }
  ],
- "roomsSource": "https://sic-hall.com/about-conference/equipment/",
+ "roomsSources": [
+  {
+   "url": "https://sic-hall.com/about-conference/equipment/"
+  }
+ ],
  "ops": {
   "prevDaySetup": {
    "text": "前日に準備・設営する場合は「準備日会場費」を使う（924,000円〈税込〉／1日、9:00〜20:00）。基本会場費の契約に限り、連続2日以上の利用で、仕込み日か撤去日のどちらか1日だけが対象。宅配便の荷物は開催日の前日指定で預かる（荷物の量や内容によっては断られる）。（出典：ホール料金表 2025年12月現在、ホール使用規約 2026年10月改定、よくある質問）",

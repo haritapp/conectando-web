@@ -134,7 +134,17 @@
    "note": "3階。収容人数の上限は27名（換気計画上の上限）。一日15,000円（税込）。部屋一覧ページは面積を約52㎡と書き、個別ページと料金一覧の概要表は約50㎡と書いている。"
   }
  ],
- "roomsSource": "https://www.tamaskc.metro.tokyo.lg.jp/facilities/room/charge/ ／ https://www.tamaskc.metro.tokyo.lg.jp/facilities/room/ ／ https://www.tamaskc.metro.tokyo.lg.jp/facilities/room/floor/",
+ "roomsSources": [
+  {
+   "url": "https://www.tamaskc.metro.tokyo.lg.jp/facilities/room/charge/"
+  },
+  {
+   "url": "https://www.tamaskc.metro.tokyo.lg.jp/facilities/room/"
+  },
+  {
+   "url": "https://www.tamaskc.metro.tokyo.lg.jp/facilities/room/floor/"
+  }
+ ],
  "ops": {
   "loadingHours": {
    "text": "搬入・搬出や設営は、所定の利用時間内に行う。展示室は、利用日ごとに承認した開扉予定時間に、1階防災センター（8:00から受付）へ「開扉証」を出して開錠してもらう。バックヤード側の出入口を開け、来場者の入口はホワイエ側になる。開場前の8:00〜9:00は、展示品の搬入・搬出、設営などのための時間外利用ができる（1/4室3,000円〜全室9,000円、後納。会議室だけの利用は不可）。会期最終日の17:00〜21:00は、原状回復のための夜間搬出利用ができる（搬出・撤去のみ、1時間単位、1/4室3,000円〜全室9,000円、後納）。バックヤードは、利用スペース・時間・車両台数を書いた「バックヤード利用計画書」を利用開始日の30日前までに出し、交付される「入車証」のある車だけが指定時間内に入れる。搬入物・搬出物（宅配便を含む）の事前・事後の預かりと保管はしない。宅配便は2026年5月1日から利用当日着のみで、受取と集荷は利用者本人が立ち会う。会議室だけの利用では、バックヤードは原則使えない。",

@@ -167,7 +167,11 @@
    "note": "面積14帖。会食定員12名"
   }
  ],
- "roomsSource": "https://www.leport.jp/banquet/guide_room/",
+ "roomsSources": [
+  {
+   "url": "https://www.leport.jp/banquet/guide_room/"
+  }
+ ],
  "ops": {
   "loadingHours": {
    "text": "予約時間には準備と搬出などに要する時間も含まれる。展示会として利用する場合、時間外の搬入・搬出は別途料金がかかる（料金表PDF 令和6年10月）。宴会・会議などで装飾・看板・音響・照明などを指定業者以外に直接依頼する場合は、事前にホテルへ連絡して了解を得る。その業者の機器・材料の搬入搬出や看板のサイズ・取り付け方法・場所は、ホテル担当者と打ち合わせて一定のルールのもとで行う。",
@@ -205,11 +209,11 @@
   },
   {
    "title": "会議用弁当価格改定のお知らせ（2026年10月1日改定）",
-   "url": "https://www.leport.jp/cms/wp-content/uploads/2026/09/会議用弁当価格改定のお知らせ.pdf"
+   "url": "https://www.leport.jp/cms/wp-content/uploads/2026/09/%E4%BC%9A%E8%AD%B0%E7%94%A8%E5%BC%81%E5%BD%93%E4%BE%A1%E6%A0%BC%E6%94%B9%E5%AE%9A%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B.pdf"
   },
   {
    "title": "駐車場利用停止のお知らせ（2026年11月）",
-   "url": "https://www.leport.jp/cms/wp-content/uploads/2026/10/駐車場利用不可のお知らせ.pdf"
+   "url": "https://www.leport.jp/cms/wp-content/uploads/2026/10/%E9%A7%90%E8%BB%8A%E5%A0%B4%E5%88%A9%E7%94%A8%E4%B8%8D%E5%8F%AF%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B.pdf"
   },
   {
    "title": "アクセスマップ",

@@ -312,7 +312,11 @@
    "note": "4時間19,800円（税込）"
   }
  ],
- "roomsSource": "https://www.bellesalle.co.jp/wp-content/uploads/shinjukug_price.pdf",
+ "roomsSources": [
+  {
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/shinjukug_price.pdf"
+  }
+ ],
  "ops": {
   "catering": {
    "text": "飲食物の持込は可能。ただし飲食の手配に当社指定業者以外を使う場合は「飲食持込手数料」がかかる（パーティー利用時のみ。飲料のみ・弁当の持込は対象外）。金額は会場面積別で、〜300㎡ 100,000円、〜600㎡ 200,000円、〜900㎡ 300,000円、〜1,200㎡ 400,000円、1,201㎡〜 500,000円（税込 各110,000〜550,000円）。懇親会向けのパーティーメニューは住友不動産グループ泉レストランのサイトで案内されている。（出典：持込料のご案内PDF、よくあるご質問）",

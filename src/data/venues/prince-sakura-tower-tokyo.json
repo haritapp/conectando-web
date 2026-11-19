@@ -123,7 +123,17 @@
    "note": "10スパンはホテルの会場ページの表にあり、会場仕様一覧PDF（2024年8月版）は9スパンまで。"
   }
  ],
- "roomsSource": "https://www.princehotels.co.jp/takanawa-area/banquet/halls/conference_floor.html（コンファレンスフロアの会場仕様）と https://www.princehotels.co.jp/takanawa-area/banquet/assets/pdf/takanawa_roomspec.pdf（会場仕様一覧、2024年8月版）。同じ高輪エリアのグランドプリンスホテル高輪・新高輪・国際館パミールの宴会場は含めていない。",
+ "roomsSources": [
+  {
+   "url": "https://www.princehotels.co.jp/takanawa-area/banquet/halls/conference_floor.html",
+   "note": "コンファレンスフロアの会場仕様"
+  },
+  {
+   "url": "https://www.princehotels.co.jp/takanawa-area/banquet/assets/pdf/takanawa_roomspec.pdf",
+   "note": "会場仕様一覧、2024年8月版"
+  }
+ ],
+ "roomsSourceMemo": "https://www.princehotels.co.jp/takanawa-area/banquet/halls/conference_floor.html（コンファレンスフロアの会場仕様）と https://www.princehotels.co.jp/takanawa-area/banquet/assets/pdf/takanawa_roomspec.pdf（会場仕様一覧、2024年8月版）。同じ高輪エリアのグランドプリンスホテル高輪・新高輪・国際館パミールの宴会場は含めていない。",
  "ops": {
   "loadingHours": {
    "text": "搬入の経路は、公式の搬入・搬出路図（パンフレット54ページ）にある。ザ・プリンス さくらタワー東京は搬入扉が幅1.9m・高さ2.2m、搬入エレベーター扉が幅1.0m・高さ2.1m、搬入エレベーターのかご内が幅1.8m・奥行2.0m・高さ2.3m（宴会場パンフレット 2024年4月版）。",

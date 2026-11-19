@@ -123,7 +123,11 @@
    "note": "定員70名。3時間 平日22,300円、土曜24,700円、日・祝26,900円"
   }
  ],
- "roomsSource": "https://www.gakushuin.ac.jp/houjin/kikaku/map/pdf/2023_100_price.pdf",
+ "roomsSources": [
+  {
+   "url": "https://www.gakushuin.ac.jp/houjin/kikaku/map/pdf/2023_100_price.pdf"
+  }
+ ],
  "ops": {},
  "documents": [
   {

@@ -68,7 +68,11 @@
    "note": "向かい合い型（基本型）36席。立食・着席の人数は目安（アターブル松屋の宴会案内）"
   }
  ],
- "roomsSource": "https://ginza-blossom.jp/banquet",
+ "roomsSources": [
+  {
+   "url": "https://ginza-blossom.jp/banquet"
+  }
+ ],
  "ops": {
   "prevDaySetup": {
    "text": "利用時間には搬入・搬出・準備・片付け・入退室の時間も含まれ、利用時間の前倒し利用と延長利用はできない。当館あての事前・事後の宅配物は預からない。（出典：ホール／宴集会室「ご利用にあたって」2026年6月掲載）",

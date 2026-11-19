@@ -189,7 +189,11 @@
    "note": "三井本館3F。"
   }
  ],
- "roomsSource": "https://media.ffycdn.net/eu/mandarin-oriental-hotel-group/d/sPxVxe5fowPCRvbr",
+ "roomsSources": [
+  {
+   "url": "https://media.ffycdn.net/eu/mandarin-oriental-hotel-group/d/sPxVxe5fowPCRvbr"
+  }
+ ],
  "ops": {
   "parking": {
    "text": "宿泊客向けに、ホテルエントランスでバレーパーキングを利用できる。最新の駐車場の利用状況と料金は事前にホテルに問い合わせる。バリアフリー駐車場もある。",

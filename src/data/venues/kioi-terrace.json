@@ -222,7 +222,14 @@
    "note": "島組12名（常設）。"
   }
  ],
- "roomsSource": "https://conference.tgt-kioicho.jp/overview/、https://conference.tgt-kioicho.jp/guide/assets/img/tgtc_pricelist_rooms.pdf",
+ "roomsSources": [
+  {
+   "url": "https://conference.tgt-kioicho.jp/overview/"
+  },
+  {
+   "url": "https://conference.tgt-kioicho.jp/guide/assets/img/tgtc_pricelist_rooms.pdf"
+  }
+ ],
  "ops": {
   "prevDaySetup": {
    "text": "営業時間は原則9:00〜21:00で、営業時間外の利用は相談できる。準備・撤去を含めた入室から退室までが利用時間。深夜・早朝の設営は可能で、別途立会料がかかる。料金表には「夜間設営 22:00〜7:00」の枠があり、1時間あたりメインルームA〜Dが各22,825円（A+B+C+Dは91,025円）、セミナールームA+Bが44,825円・C+Dが47,025円、サクラルーム・テラスルームが各10,725円、ミーティングルームが6,325円（税別、2026年4月現在）。（出典：ご利用案内、よくあるご質問、料金表 2026年4月現在）",

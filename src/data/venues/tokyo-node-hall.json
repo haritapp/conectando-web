@@ -145,7 +145,23 @@
    "note": "通常34席。貸切は立食〜50名"
   }
  ],
- "roomsSource": "https://www.tokyonode.jp/about/hall/index.html ／ https://www.tokyonode.jp/assets/files/hall/hall_fee_schedule_fortokyonode_2404.pdf ／ https://www.tokyonode.jp/assets/files/hall/230915_floor_46F47Fol23.pdf ／ https://www.tokyonode.jp/about/gallery/ ／ https://www.tokyonode.jp/about/cafe/index.html",
+ "roomsSources": [
+  {
+   "url": "https://www.tokyonode.jp/about/hall/index.html"
+  },
+  {
+   "url": "https://www.tokyonode.jp/assets/files/hall/hall_fee_schedule_fortokyonode_2404.pdf"
+  },
+  {
+   "url": "https://www.tokyonode.jp/assets/files/hall/230915_floor_46F47Fol23.pdf"
+  },
+  {
+   "url": "https://www.tokyonode.jp/about/gallery/"
+  },
+  {
+   "url": "https://www.tokyonode.jp/about/cafe/index.html"
+  }
+ ],
  "ops": {
   "loadingHours": {
    "text": "荷物の搬入は、虎ノ門ヒルズ ステーションタワー物流センター（電話 03-6206-7840）への連絡が案内されている。ホールの46Fには、自動車のような大型の展示物を搬入できるカーリフトがある。（出典：虎ノ門ヒルズ アクセス、46F・47Fフロア見取り図）",

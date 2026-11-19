@@ -119,7 +119,11 @@
    "note": "ミーティングページでは最大面積333㎡、シアター280名・スクール2名掛け120名／3名掛け180名の表記で、宴会場一覧の数字（シアター400名・スクール220名）と食い違う。スクリーン147インチ×2面・プロジェクター・天井スピーカー・インターネット接続（LAN・無線）あり"
   }
  ],
- "roomsSource": "https://happo-en.com/banquet/locations/",
+ "roomsSources": [
+  {
+   "url": "https://happo-en.com/banquet/locations/"
+  }
+ ],
  "ops": {
   "waitingRooms": {
    "text": "本館4階のフロア全体が控室で、大きな会議後の分科会や少人数の会議にも使える。会員専用のCLUB FLOORには専用の控室がある。",

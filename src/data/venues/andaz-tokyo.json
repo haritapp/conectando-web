@@ -90,7 +90,11 @@
    "note": "4室あり、各50㎡。ボードスタイル18名。立食は公式ページが30名"
   }
  ],
- "roomsSource": "https://www.andaztokyo.jp/restaurants/jp/events",
+ "roomsSources": [
+  {
+   "url": "https://www.andaztokyo.jp/restaurants/jp/events"
+  }
+ ],
  "ops": {
   "parking": {
    "text": "駐車場は虎ノ門ヒルズ 森タワー内。宿泊以外の館内利用は15分200円。宴会に出席する場合は4時間まで無料の駐車サービス券が出る。ヴァレーパーキング（受付7:00〜23:00）は1日2,000円で、駐車料金は別。バリアフリー対応の駐車スペースがある。（出典：公式アクセスページ、Hyatt 駐車場・アクセスのページ、Hyatt よくあるご質問）",

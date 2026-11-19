@@ -94,7 +94,7 @@
    "areaM2": 8,
    "ceilingM": 2.6,
    "theater": null,
-   "school": null,
+   "school": 6,
    "ushape": null,
    "standing": null,
    "banquet": null,
@@ -105,7 +105,7 @@
    "areaM2": 11,
    "ceilingM": 2.6,
    "theater": null,
-   "school": null,
+   "school": 6,
    "ushape": null,
    "standing": null,
    "banquet": null,
@@ -160,14 +160,18 @@
    "areaM2": 6,
    "ceilingM": 2.6,
    "theater": null,
-   "school": null,
+   "school": 3,
    "ushape": null,
    "standing": null,
    "banquet": null,
    "note": "有料（通常料金 4時間 税込11,000円）。席数はスクール3名掛けで3席"
   }
  ],
- "roomsSource": "https://www.bellesalle.co.jp/wp-content/uploads/shibakoen_price.pdf",
+ "roomsSources": [
+  {
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/shibakoen_price.pdf"
+  }
+ ],
  "ops": {
   "prevDaySetup": {
    "text": "使用時間には準備・後片付けの時間も含まれ、営業時間外の使用は別途相談になる（料金表）。料金表にあるのは4時間・8時間・12時間の使用料と、当日の前延長・後延長（30分あたり。7時〜22時と22時〜翌7時の2区分）の料金。公式FAQは「一部会場を除き、365日24時間利用できる」と案内している。荷物の事前到着は原則 開催日の前日着の指定で、事前搬入届を作業日の1週間前までに出す（貴重品は不可、荷物の破損の責任は負わない）。事前到着荷物の受取は原則各ルーム2箱まで。事前に申し出のない多量・大きな荷物は、保管場所として会場を有料で借り上げる扱いになる。（出典：会議室料金表 2026/7/3更新、よくあるご質問、事前搬入届、使用規約 2026ver2 第20条）",

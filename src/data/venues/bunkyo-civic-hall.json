@@ -81,7 +81,11 @@
    "note": "定員90人（レイアウトの指定なし）。机30台・椅子90脚。一体利用時のみマイク等の音響機器が使える。大ホール・小ホールの控室としても利用可と公式に記載"
   }
  ],
- "roomsSource": "https://www.b-academy.jp/rental/bc/mainhall.html",
+ "roomsSources": [
+  {
+   "url": "https://www.b-academy.jp/rental/bc/mainhall.html"
+  }
+ ],
  "ops": {
   "catering": {
    "text": "客席内での飲食は禁止。ロビーでの飲食は可能で、スタッフ・出演者の食事場所は楽屋や会議室を利用できる。許可なく飲食物の陳列・販売・提供はできない。楽屋で出たゴミ・弁当箱・生花は主催者が持ち帰る（ホールで引き取る場合は有料）。（出典：大ホール利用の手引き PDF、2026年2月版）",
@@ -151,7 +155,7 @@
     "hours": "24時間営業",
     "address": "東京都文京区小石川1-1-1",
     "verified": true,
-    "source": "https://www.areamarker.com/lawson/map?latlon=35.708336,139.752411（ローソン公式 店舗検索）",
+    "source": "https://www.areamarker.com/lawson/map?latlon=35.708336,139.752411",
     "note": null
    },
    {

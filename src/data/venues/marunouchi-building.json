@@ -101,7 +101,17 @@
    "note": "固定席12名。最低利用時間2時間"
   }
  ],
- "roomsSource": "https://www.marunouchi-h-c.jp/_res/pdf/s1/conference/room/common/detail.pdf、https://www.marunouchi-h-c.jp/_res/pdf/s1/maru_building_all.pdf、https://www.marunouchi-h-c.jp/_res/pdf/s1/hall/room/layout.pdf",
+ "roomsSources": [
+  {
+   "url": "https://www.marunouchi-h-c.jp/_res/pdf/s1/conference/room/common/detail.pdf"
+  },
+  {
+   "url": "https://www.marunouchi-h-c.jp/_res/pdf/s1/maru_building_all.pdf"
+  },
+  {
+   "url": "https://www.marunouchi-h-c.jp/_res/pdf/s1/hall/room/layout.pdf"
+  }
+ ],
  "ops": {
   "prevDaySetup": {
    "text": "丸ビルホールの前日設営は9:00〜22:00に依頼している。その時間帯に他の利用が入っている場合は、特別に深夜設営（23:00〜翌9:00）の希望を受け付けている。営業時間外の貸出時間は7:00〜9:00と22:00〜23:00。設営・撤去日の室料は1日770,000円（計2日間まで・税別）で、一日利用（9:00〜22:00、設営・撤去時間を含む）の室料は990,000円（税別）。コンファレンススクエアの前日設営も9:00〜22:00で、営業時間外の貸出時間は8:00〜9:00と21:00〜23:00。（出典：よくあるご質問、丸ビルホール料金表 2026年10月改定）",

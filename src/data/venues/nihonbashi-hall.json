@@ -46,7 +46,20 @@
    "note": "床は石材。クロークは45㎡"
   }
  ],
- "roomsSource": "https://www.nihonbashi-hall.jp/about/business/、https://www.nihonbashi-hall.jp/usage/ex-party/、https://www.nihonbashi-hall.jp/usage/ex-seminar/、https://www.nihonbashi-hall.jp/pdf/docs/outline2.pdf",
+ "roomsSources": [
+  {
+   "url": "https://www.nihonbashi-hall.jp/about/business/"
+  },
+  {
+   "url": "https://www.nihonbashi-hall.jp/usage/ex-party/"
+  },
+  {
+   "url": "https://www.nihonbashi-hall.jp/usage/ex-seminar/"
+  },
+  {
+   "url": "https://www.nihonbashi-hall.jp/pdf/docs/outline2.pdf"
+  }
+ ],
  "ops": {
   "prevDaySetup": {
    "text": "準備日会場費は1日1,200,000円（9:00〜20:00、税別）で、1開催につき1日まで適用される。利用時間は準備を始める時刻から退出までで、利用時間の開始前に準備を始めてはならない。施設の利用可能時間は全日9:00〜21:00で、時間外は要相談。料金表の基本会場費は9:00〜20:00、エンタメ利用は8:00〜22:00の間で11時間とされ、表記が異なる。（出典：利用料金表〈2026年3月28日以降の契約分〉、使用規約〈2026年4月1日現在〉）",
@@ -92,7 +105,7 @@
   },
   {
    "title": "誘導員の立哨・看板設置場所について",
-   "url": "https://www.nihonbashi-hall.jp/pdf/docs/誘導員・場外サイン資料.pdf"
+   "url": "https://www.nihonbashi-hall.jp/pdf/docs/%E8%AA%98%E5%B0%8E%E5%93%A1%E3%83%BB%E5%A0%B4%E5%A4%96%E3%82%B5%E3%82%A4%E3%83%B3%E8%B3%87%E6%96%99.pdf"
   },
   {
    "title": "施設概要（2021年2月現在）",
@@ -116,7 +129,7 @@
   },
   {
    "title": "施工ルールについて（物置禁止エリア 4F〜6F）",
-   "url": "https://www.nihonbashi-hall.jp/pdf/floor/物置禁止エリア（4F～6F）.pdf"
+   "url": "https://www.nihonbashi-hall.jp/pdf/floor/%E7%89%A9%E7%BD%AE%E7%A6%81%E6%AD%A2%E3%82%A8%E3%83%AA%E3%82%A2%EF%BC%884F%EF%BD%9E6F%EF%BC%89.pdf"
   },
   {
    "title": "備品リスト（2026年3月現在）",

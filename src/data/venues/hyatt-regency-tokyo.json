@@ -211,7 +211,11 @@
    "note": "足柄・仙石・明星は同じ面積・収容人数の表記（3室とも）"
   }
  ],
- "roomsSource": "https://hyattregencytokyo.com/hyatt_wp/wp-content/uploads/2026/07/Medium-sized-Banquet-Room-Floor-Map_%E4%B8%AD%E5%AE%B4%E4%BC%9A%E5%A0%B4%E3%81%AE%E5%B9%B3%E9%9D%A2%E5%9B%B3%E3%83%AA%E3%82%B9%E3%83%88.pdf",
+ "roomsSources": [
+  {
+   "url": "https://hyattregencytokyo.com/hyatt_wp/wp-content/uploads/2026/07/Medium-sized-Banquet-Room-Floor-Map_%E4%B8%AD%E5%AE%B4%E4%BC%9A%E5%A0%B4%E3%81%AE%E5%B9%B3%E9%9D%A2%E5%9B%B3%E3%83%AA%E3%82%B9%E3%83%88.pdf"
+  }
+ ],
  "ops": {
   "parking": {
    "text": "駐車場はB1F〜B3Fで415台。車高制限は正面入口側2.1m、セントラルパーク側2.6m。バイク（オートバイ・原付）は駐車できない。料金は400円/30分で、宴会を利用する客は3時間30分まで無料。車いす対応の駐車スペースがB3Fにある。",

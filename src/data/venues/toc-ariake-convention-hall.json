@@ -150,7 +150,11 @@
    "note": "20F WEST GOLD 20ホールを同時期に利用する場合に限り利用可"
   }
  ],
- "roomsSource": "https://saiji2.toc.co.jp/ariake/overview/",
+ "roomsSources": [
+  {
+   "url": "https://saiji2.toc.co.jp/ariake/overview/"
+  }
+ ],
  "ops": {
   "prevDaySetup": {
    "text": "展示会・販売会として使う場合、設営・準備時間の利用料金は使用料金の半額（2025年4月改定の料金表）。搬出入・設営・撤去も原則として通常の会場使用料が適用される。宅配便は、事前連絡のうえ承認された場合に限りご利用前日のみ受け付け、納品物の管理はしない。",

@@ -183,6 +183,18 @@ export function formatNumberI(n: number | string | null | undefined, lang: Lang)
   return '—';
 }
 
+/** 天井高（文字列のものがある）。英語では日本語の書き方を英語に直し、日本語が残ったらビルドを止める */
+export function formatCeilingI(c: number | string | null | undefined, lang: Lang): string {
+  if (typeof c !== 'string' || lang === 'ja') return formatNumberI(c, lang);
+  const out = c
+    .replace(/本室\s*([\d.]+)／前室\s*([\d.]+)/, 'main room $1 / foyer $2')
+    .replace(/（一部\s*([\d.]+)）/, ' (partly $1)')
+    .replace(/約\s*([\d.]+)/, 'approx. $1')
+    .replace('-', '–');
+  if (/[\u3040-\u30ff\u3400-\u9fff]/.test(out)) throw new Error(`[venues-en] 天井高に日本語が残っています: ${c}`);
+  return out;
+}
+
 const EN_MONTH = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
 export function formatDateI(iso: string, lang: Lang): string {
   return iso.replace(/^(\d{4})-(\d{2})-(\d{2})$/, (_, y, m, d) =>
@@ -245,8 +257,12 @@ export const UI = {
     fName: '会場名', fNamePh: '例：フォーラム、ベルサール', fType: '種類', fArea: 'エリア', all: 'すべて',
     fPeople: '人数（以上）', fLayoutAria: 'レイアウト', fPeoplePh: '例：300', unitPeople: '人',
     fM2: '一番広い部屋（以上）', fM2Ph: '例：500', unitM2: '㎡', clear: '条件をクリア',
+    nodataTitle: '{kind}（{n}件）',
+    nodataKinds: { cap: '人数の公式データが無い会場', area: '広さ（㎡）の公式データが無い会場', both: '人数または広さの公式データが無い会場' },
+    nodataNote: '公式サイトに数字が載っていない（または公式の資料で確認できていない）ため、条件に合うかどうかを判定できません。種類・エリアなどの条件には合っています。',
+    sortNote: '並び順：最大収容人数の多い順', didYouMean: 'もしかして：',
     countSuffix: ' 会場', capLayout: (layout: string) => `（${layout}）`, specMax: '最大', specRoom: '一番広い部屋', specRooms: '部屋数',
-    empty: '条件に合う会場がありません。条件をゆるめてください。',
+    empty: '条件に合う会場がありません。条件をゆるめるか、下のボタンで条件をクリアしてください。',
     noteHtml: '人数・広さは各会場の公式サイトの数字です。運営ルールは公式サイト・公式PDFに書かれているものだけを載せています。会場は順次追加しています。参加者向けのアクセス・ホテル情報は <a href="https://www.bizintokyo.com/" target="_blank" rel="noopener">BizinTokyo</a> にあります。',
   },
   en: {
@@ -294,8 +310,12 @@ export const UI = {
     fName: 'Venue name', fNamePh: 'e.g. Forum, Bellesalle', fType: 'Type', fArea: 'Area', all: 'All',
     fPeople: 'Capacity (at least)', fLayoutAria: 'Layout', fPeoplePh: 'e.g. 300', unitPeople: 'people',
     fM2: 'Largest room (at least)', fM2Ph: 'e.g. 500', unitM2: '㎡', clear: 'Clear filters',
+    nodataTitle: '{kind} ({n})',
+    nodataKinds: { cap: 'Venues without official capacity figures', area: 'Venues without official room-size figures', both: 'Venues without official capacity or size figures' },
+    nodataNote: 'The official website and documents give no figures for these venues, so we cannot tell whether they meet your capacity or size condition. They do match your other conditions (type, area, etc.).',
+    sortNote: 'Sorted by maximum capacity, largest first', didYouMean: 'Did you mean: ',
     countSuffix: ' venues', capLayout: (layout: string) => ` (${layout})`, specMax: 'Max', specRoom: 'Largest room', specRooms: 'Rooms',
-    empty: 'No venues match. Try loosening the filters.',
+    empty: 'No venues match. Try loosening the filters, or clear them with the button below.',
     noteHtml: 'Capacities and sizes are the figures on each venue’s official website. Operating rules are limited to what the official website and official PDFs state. Venues are added over time. For access and hotel information for attendees, see <a href="https://www.bizintokyo.com/en/" target="_blank" rel="noopener">BizinTokyo</a>.',
   },
 } as const;

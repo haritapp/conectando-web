@@ -101,7 +101,11 @@
    "note": "2階。公式ページのレイアウト例では桜・橘で正餐45名"
   }
  ],
- "roomsSource": "https://www.tokyuhotels.co.jp/capitol-h/banquet/index.html",
+ "roomsSources": [
+  {
+   "url": "https://www.tokyuhotels.co.jp/capitol-h/banquet/index.html"
+  }
+ ],
  "ops": {
   "parking": {
    "text": "敷地内に150台（普通車）、24時間入庫可。通常料金は8:00〜24:00が30分ごとに400円、0:00〜8:00が30分ごとに200円（税込）。ヴァレーパーキングはレストラン・宴会などの利用で1回2,000円。",

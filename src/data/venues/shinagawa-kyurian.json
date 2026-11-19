@@ -233,7 +233,11 @@
    "note": "茶室（三畳台目）と日本庭園を設けた和室（18畳）。茶道専用"
   }
  ],
- "roomsSource": "https://www.shinagawa-culture.or.jp/curian/facility/guide/floors.html",
+ "roomsSources": [
+  {
+   "url": "https://www.shinagawa-culture.or.jp/curian/facility/guide/floors.html"
+  }
+ ],
  "ops": {
   "vehicleRules": {
    "text": "会館周辺道路は狭く、路線バスの運行等を妨げるため駐停車ができない。駐車場への待機列が路線バスの運行の妨げとなっており、来館には電車・バスの利用が案内されている。",

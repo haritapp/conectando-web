@@ -332,7 +332,11 @@
    "note": "楠・柏・桂・橘の各室とも同じ数値。"
   }
  ],
- "roomsSource": "https://www.imperialhotel.co.jp/tokyo/banquet",
+ "roomsSources": [
+  {
+   "url": "https://www.imperialhotel.co.jp/tokyo/banquet"
+  }
+ ],
  "ops": {
   "vehicleRules": {
    "text": "宴会ロビー入口に寄る車は、日比谷通りから正面玄関奥の進入路を使う。直接駐車場に入る車は、本館とタワー館の間の車路からの進入が便利。（出典：駐車場ページ）",

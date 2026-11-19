@@ -310,7 +310,11 @@
    "note": "スクール3名掛け 60席。島型（6名掛け）36席（6島）。T字島型（6名掛け）24席（4島）。円卓（8名掛け）32席（4卓）"
   }
  ],
- "roomsSource": "https://www.hvf.jp/conference/hanedaairport/pdf/price_list.pdf",
+ "roomsSources": [
+  {
+   "url": "https://www.hvf.jp/conference/hanedaairport/pdf/price_list.pdf"
+  }
+ ],
  "ops": {
   "prevDaySetup": {
    "text": "使用時間は、準備を始めてから原状回復を終えて退出するまでの時間で、準備・撤去も含まれる。会議室・イベントホールの基準使用時間は8〜21時の枠内（会議室は4・9・12時間、ホールは9・12時間）。荷物の事前受け取りは事前搬入届を出し、到着日時は会場が指定する。（出典：使用マニュアル（兼使用規約）2024年7月30日作成 第6条・第20条）",

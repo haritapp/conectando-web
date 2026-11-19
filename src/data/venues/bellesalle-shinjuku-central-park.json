@@ -68,7 +68,16 @@
    "note": "使用料0円。控室のみの利用は不可"
   }
  ],
- "roomsSource": "https://www.bellesalle.co.jp/shisetsu/shinjuku/bs_shinjuku/（各部屋の詳細ページ）／https://www.bellesalle.co.jp/wp-content/uploads/shinjukucp_price.pdf（2026/7/3更新）",
+ "roomsSources": [
+  {
+   "url": "https://www.bellesalle.co.jp/shisetsu/shinjuku/bs_shinjuku/",
+   "note": "各部屋の詳細ページ"
+  },
+  {
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/shinjukucp_price.pdf",
+   "note": "2026/7/3更新"
+  }
+ ],
  "ops": {
   "loadingHours": {
    "text": "搬出入がある場合は事前搬入届を作業日の1週間前までに提出する。提出がない場合は荷捌き場を利用できない。荷捌き場の利用は荷物の積み下ろしのみ。搬入・搬出車の出入りは使用時間内に行う。現場責任者は作業の前後に住友不動産新宿セントラルパークビル1Fのサービスセンターで入館・退館の手続きをする。使用期間中の荷捌き場には、商品・梱包材・装飾資材・ゴミ等を置けない（2026年版 使用規約）。",

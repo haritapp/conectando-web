@@ -134,7 +134,11 @@
    "note": "3階。最大144名"
   }
  ],
- "roomsSource": "http://www.sabo.or.jp/kaikan-annnai/sabou-fin02/kaikan-annnai3.html",
+ "roomsSources": [
+  {
+   "url": "http://www.sabo.or.jp/kaikan-annnai/sabou-fin02/kaikan-annnai3.html"
+  }
+ ],
  "ops": {
   "prevDaySetup": {
    "text": "1階会議室は、客席・舞台・照明・音響などの設営準備の時間を確保するため、直近前の1区分の予約をお願いしている。使用時間には準備・後片付けの時間を含む。2日以上連続で使う場合は、最終日を除き全日料金となる。",
@@ -278,6 +282,6 @@
  "photo": {
   "src": "/images/venues/sabo-kaikan-annex.jpg",
   "credit": "© Lombroso / CC0 · Wikimedia Commons",
-  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sabō_Kaikan_Annex,_at_2-7-4_Hirakawachō,_Chiyoda-ku,_Tokyo,_Japan_(2024-01-02)_02.jpg"
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sab%C5%8D_Kaikan_Annex,_at_2-7-4_Hirakawach%C5%8D,_Chiyoda-ku,_Tokyo,_Japan_(2024-01-02)_02.jpg"
  }
 }

@@ -79,7 +79,11 @@
    "note": "宴会・パーティ利用の人数のみ公式の表にある（正餐25／立食40）"
   }
  ],
- "roomsSource": "https://www.hankyu-hotel.com/hotel/dh/dhtokyo/banquet_rooms",
+ "roomsSources": [
+  {
+   "url": "https://www.hankyu-hotel.com/hotel/dh/dhtokyo/banquet_rooms"
+  }
+ ],
  "ops": {
   "parking": {
    "text": "ホテル地下駐車場（タイムズ第一ホテル東京）は74台（契約車両を含む）。料金は1泊2,200円（税込）で、3,000円以上のレストラン利用で2時間サービス。事前の予約は受け付けておらず、満車の場合は周辺の有料駐車場を利用する。近隣ビル地下駐車場（タイムズ新幸橋ビルディング）も案内されている。",

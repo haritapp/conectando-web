@@ -138,7 +138,7 @@
    "areaM2": 54,
    "ceilingM": 3.0,
    "theater": null,
-   "school": null,
+   "school": 24,
    "ushape": null,
    "standing": null,
    "banquet": null,
@@ -167,7 +167,11 @@
    "note": "ガラス張りのオープンスペース。"
   }
  ],
- "roomsSource": "https://www.hibiya.tokyo-midtown.com/jp/hall-conference/list/",
+ "roomsSources": [
+  {
+   "url": "https://www.hibiya.tokyo-midtown.com/jp/hall-conference/list/"
+  }
+ ],
  "ops": {
   "prevDaySetup": {
    "text": "本番日の前日以前の搬入・設営・リハーサルと、本番日の翌日以降の撤去は室料の30％割引で、連日利用の割引はない。基本貸出時間は9:00〜21:00で、前後2時間まで延長できる。時間利用の最低利用時間は5時間。予約時間内に退出を確認できないと延長利用料金を請求されることがある。荷物の事前受け取りはご利用日前日の午前着の指定が原則で、土日祝・月曜開催のときは平日着の指定にする。（出典：ご利用案内 2026/7/1版 P.18・P.71・P.75・P.78）",

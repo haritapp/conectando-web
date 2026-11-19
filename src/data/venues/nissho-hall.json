@@ -68,7 +68,17 @@
    "note": "基本レイアウトはスクール24席。ロの字24席のレイアウト例もある。"
   }
  ],
- "roomsSource": "https://nissho-hall.jp/hall.html、https://nissho-hall.jp/kaigishitsu.html、https://nissho-hall.jp/pdf/kaigi-layout_img.pdf",
+ "roomsSources": [
+  {
+   "url": "https://nissho-hall.jp/hall.html"
+  },
+  {
+   "url": "https://nissho-hall.jp/kaigishitsu.html"
+  },
+  {
+   "url": "https://nissho-hall.jp/pdf/kaigi-layout_img.pdf"
+  }
+ ],
  "ops": {
   "loadingHours": {
    "text": "搬入は1階の搬入口から、ホール専用の搬入エレベーターを使う。エレベーターの内寸は奥行約1,600×幅約2,500×高さ約2,350mm、入口は幅約1,800×高さ約2,100mm。搬入・搬出は使用時間内に行い、予約の時間に搬入口を開ける。器具・諸道具の持込みや特殊な設備は、1か月前を目安にするホールとの打合せで相談する。1階の日本消防防災情報センターでは台車の使用が一切禁止。（出典：舞台図面、ホールご利用方法、ホール利用規約 令和7年9月1日）",

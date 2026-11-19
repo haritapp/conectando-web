@@ -19,7 +19,7 @@
    "theater": null,
    "school": null,
    "ushape": null,
-   "standing": null,
+   "standing": 14500,
    "banquet": null,
    "note": "約4,100㎡（長辺約76m×短辺約54m）、高さ約23m。総客席約15,000席（可動観覧席2,928席を含む。1階アリーナ仮設客席利用時が最大）。固定席は2階2,734席・3階4,408席・4階4,090席（計11,232席）、車いす席（随行者席）・付加アメニティー席は2階229席・3階32席・4階8席（利用案内 2024年5月現在）。レイアウト別の想定総観客人数は、センターステージ約15,000人、スタンディング約14,500人（立席約5,400席）、エンドステージ約13,000人、サイドステージ約12,000人、バレーボール約14,500人、バスケットボール約14,500人（レイアウト図PDF）"
   },
@@ -79,7 +79,17 @@
    "note": null
   }
  ],
- "roomsSource": "https://ariake-arena.tokyo/organizer/facilities/ ／ https://ariake-arena.tokyo/wp-content/themes/ariake-arena/assets/images/page/riyoannai.pdf ／ https://ariake-arena.tokyo/wp-content/themes/ariake-arena/assets/images/page/riyoryoukin.pdf",
+ "roomsSources": [
+  {
+   "url": "https://ariake-arena.tokyo/organizer/facilities/"
+  },
+  {
+   "url": "https://ariake-arena.tokyo/wp-content/themes/ariake-arena/assets/images/page/riyoannai.pdf"
+  },
+  {
+   "url": "https://ariake-arena.tokyo/wp-content/themes/ariake-arena/assets/images/page/riyoryoukin.pdf"
+  }
+ ],
  "ops": {
   "prevDaySetup": {
    "text": "利用料金表に「準備」の区分があり、設営・撤去・リハーサル・休演などの日が対象。メインアリーナの準備日（8:00〜23:00の連続12時間が1単位）の料金は、コンサート・ショーと式典・集会・展示会等が平日2,750,000円／土日祝3,300,000円、興行スポーツが平日1,650,000円／土日祝3,300,000円、スポーツ利用（入場料なし・7,000円未満・7,000円以上）が平日275,000円／土日祝550,000円（税込）。準備日の延長は1時間あたり、コンサート・ショーと式典・集会・展示会等が平日231,000円／土日祝297,000円、興行スポーツが平日148,500円／土日祝231,000円、スポーツ利用が平日24,200円／土日祝49,500円。サブアリーナの準備日等は1日あたり式典・集会・展示会等が平日154,000円／土日祝220,000円、スポーツ利用（入場料なし）が平日61,600円／土日祝79,200円。2027年7月1日から料金が改定され、新料金表（Ver.10）ではメインアリーナの準備日がコンサート・ショーと式典・集会・展示会等で平日3,025,000円／土日祝4,290,000円、興行スポーツで平日1,815,000円／土日祝4,290,000円になる。（出典：有明アリーナ 利用料金表 Ver.9.0 2026年7月現在、新料金表 Ver.10 2027年7月〜適用）",

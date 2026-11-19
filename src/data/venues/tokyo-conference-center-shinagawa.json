@@ -147,7 +147,11 @@
    "note": "4F。全日¥97,000"
   }
  ],
- "roomsSource": "https://www.tokyo-cc.co.jp/shinagawa/floor.html",
+ "roomsSources": [
+  {
+   "url": "https://www.tokyo-cc.co.jp/shinagawa/floor.html"
+  }
+ ],
  "ops": {
   "catering": {
    "text": "施設に直営の料飲部門（レストラン部門）があり、料理・ドリンクは施設で提供する。利用規約では「当施設外からの飲食物のお持込はご遠慮下さい」、パーティー利用規約では「飲食物の持ち込み、ご提供飲食物の持ち帰り」を禁止事項としている。パーティーは別途「料飲申込書」で申し込む。（出典：利用規約・パーティー利用規約 PDF、2015年2月9日現在）",

@@ -200,7 +200,11 @@
    "note": "控室"
   }
  ],
- "roomsSource": "https://www.princehotels.co.jp/shinyokohama/banquet/banquet_list.html",
+ "roomsSources": [
+  {
+   "url": "https://www.princehotels.co.jp/shinyokohama/banquet/banquet_list.html"
+  }
+ ],
  "ops": {
   "loadingHours": {
    "text": "主宴会場シンフォニア（5F）には搬入専用入口があり、5Fの駐車場から入る。フロア図面には「5F・6F 駐車場連絡通路」と、宴会場専用エレベーター（3F〜6F）、宴会場・駐車場エレベーター（B1〜7F）が載っている。",

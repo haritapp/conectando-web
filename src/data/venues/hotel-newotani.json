@@ -508,7 +508,11 @@
    "note": "ザ・メイン アーケード階"
   }
  ],
- "roomsSource": "https://www.newotani.co.jp/tokyo/banquet/hall/",
+ "roomsSources": [
+  {
+   "url": "https://www.newotani.co.jp/tokyo/banquet/hall/"
+  }
+ ],
  "ops": {
   "loadingHours": {
    "text": "宴会場に隣接して、大型トラックが乗り入れ可能な搬入口がある。搬入口の寸法は、鶴の間が間口2.80m×高さ2.90m、芙蓉の間が間口2.77m×高さ2.30m（車を横づけにしたまま積み下ろしできる）、鳳凰の間が間口1.96m×高さ2.10m、edo ROOMが間口1.80m×高さ2.28m。",

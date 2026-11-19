@@ -112,7 +112,20 @@
    "note": "定員54人。スクリーンあり。（5階フロア案内 2018年6月17日更新）"
   }
  ],
- "roomsSource": "https://www.city.taito.lg.jp/gakushu/shogaigakushu/shogaigakushusisetsu/syougaigakusyuucente/furoaannai/2kai.html ／ https://www.city.taito.lg.jp/gakushu/shogaigakushu/shogaigakushusisetsu/syougaigakusyuucente/furoaannai/3kai.html ／ https://www.city.taito.lg.jp/gakushu/shogaigakushu/shogaigakushusisetsu/syougaigakusyuucente/furoaannai/4kai.html ／ https://www.city.taito.lg.jp/gakushu/shogaigakushu/shogaigakushusisetsu/syougaigakusyuucente/furoaannai/5kai.html",
+ "roomsSources": [
+  {
+   "url": "https://www.city.taito.lg.jp/gakushu/shogaigakushu/shogaigakushusisetsu/syougaigakusyuucente/furoaannai/2kai.html"
+  },
+  {
+   "url": "https://www.city.taito.lg.jp/gakushu/shogaigakushu/shogaigakushusisetsu/syougaigakusyuucente/furoaannai/3kai.html"
+  },
+  {
+   "url": "https://www.city.taito.lg.jp/gakushu/shogaigakushu/shogaigakushusisetsu/syougaigakusyuucente/furoaannai/4kai.html"
+  },
+  {
+   "url": "https://www.city.taito.lg.jp/gakushu/shogaigakushu/shogaigakushusisetsu/syougaigakusyuucente/furoaannai/5kai.html"
+  }
+ ],
  "ops": {
   "loadingHours": {
    "text": "大道具・照明器具などを持ち込むときは、事前に種類・数量・搬入日時の承認が必要で、持ち込んだものの保管は一切できない。利用日の1か月前までに、舞台装置などについて担当係員と打合せをし、プログラム・進行表・入場券なども出す。使用日時より前の荷物の送付は断られる。利用時間には準備と後片付けの時間を含む。",

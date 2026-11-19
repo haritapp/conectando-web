@@ -86,7 +86,11 @@
    "banquet": null
   }
  ],
- "roomsSource": "https://office-b.sumitomo-rd.co.jp/sankakuhiroba/assets/pdf/facility_list.pdf",
+ "roomsSources": [
+  {
+   "url": "https://office-b.sumitomo-rd.co.jp/sankakuhiroba/assets/pdf/facility_list.pdf"
+  }
+ ],
  "ops": {
   "prevDaySetup": {
    "text": "使用規約に、事前準備日や撤去日を設ける場合の手続きが定められている。準備日がある場合は、準備日に責任者がサービスセンターで使用時間届を記入して入場し、事前確認を受ける。使用時間は原則0時から24時まで。施設への荷物の事前発送は、利用期間内に利用者が荷受けする。（出典：使用規約 2025年10月1日作成）",

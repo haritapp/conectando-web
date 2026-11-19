@@ -170,7 +170,11 @@
    "note": "6階、ガーデンに隣接"
   }
  ],
- "roomsSource": "https://www.tobuhotel.co.jp/levant/banquet/",
+ "roomsSources": [
+  {
+   "url": "https://www.tobuhotel.co.jp/levant/banquet/"
+  }
+ ],
  "ops": {
   "loadingHours": {
    "text": "ホテルの了解を得てお客様が直接依頼した業者が行う装飾・余興等の機器・材料の搬入・搬出、看板等のサイズ・取付方法・設置場所・設置時間は、ホテルの美観・動線をふまえた一定のルールのもとで行い、ホテルが該当業者に指示する。宴会場の利用時間（準備から撤去までを含む）を超過した場合は超過時間に応じて追加料金がかかる。（宴会場利用規約）",

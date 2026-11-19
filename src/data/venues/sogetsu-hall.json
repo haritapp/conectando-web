@@ -24,7 +24,11 @@
    "note": "固定席526席（定員526名）。客席は1階席・2階バルコニー席・3階バルコニー席。舞台に移動式置舞台あり。"
   }
  ],
- "roomsSource": "https://www.sogetsu.or.jp/about/hq-building/hall/",
+ "roomsSources": [
+  {
+   "url": "https://www.sogetsu.or.jp/about/hq-building/hall/"
+  }
+ ],
  "ops": {
   "prevDaySetup": {
    "text": "仕込・リハーサルのためのホール使用は、ホール使用料が50%引きになる。（使用料表 2024年4月）",

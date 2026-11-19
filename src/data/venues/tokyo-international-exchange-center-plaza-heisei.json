@@ -99,7 +99,11 @@
    "note": "会議室4と5は1室として連結利用可"
   }
  ],
- "roomsSource": "https://www.jasso.go.jp/ryugaku/kyoten/tiec/plazaheisei/facility/index.html",
+ "roomsSources": [
+  {
+   "url": "https://www.jasso.go.jp/ryugaku/kyoten/tiec/plazaheisei/facility/index.html"
+  }
+ ],
  "ops": {
   "prevDaySetup": {
    "text": "催物の前日までの設営に限り、施設利用料金は半額（光熱水料等は全額加算）。利用時間には準備・撤去の時間も含む。",

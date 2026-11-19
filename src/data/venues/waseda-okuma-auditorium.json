@@ -35,7 +35,11 @@
    "note": "固定席。ピアノ（KAWAI RX-3）1台。音の出る催物は大講堂・小講堂の両方の予約が必要（設備概要2017年6月現在）"
   }
  ],
- "roomsSource": "https://www.waseda.jp/culture/assets/uploads/2017/06/OkumaAuditoriumMainHall.docx",
+ "roomsSources": [
+  {
+   "url": "https://www.waseda.jp/culture/assets/uploads/2017/06/OkumaAuditoriumMainHall.docx"
+  }
+ ],
  "ops": {
   "prevDaySetup": {
    "text": "使用願に準備・開催・撤収それぞれの日時欄があり、使用日時には準備作業・撤収作業の時間も含める。利用可能時間は9:00〜21:00。会場設営・舞台袖でのAV機器操作・照明操作・片付けは利用者側で行う。",

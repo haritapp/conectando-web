@@ -143,7 +143,44 @@
    "note": "縦約8.7m×横約8.4m。光単独回線会場（光回線利用料26,400円）。立食はブッフェスタイルの人数"
   }
  ],
- "roomsSource": "https://www.keioplaza.co.jp/hachioji/banquet/、https://www.keioplaza.co.jp/hachioji/banquet/hall/shouou/、https://www.keioplaza.co.jp/hachioji/banquet/hall/utage/、https://www.keioplaza.co.jp/hachioji/banquet/hall/nishiki/、https://www.keioplaza.co.jp/hachioji/banquet/hall/ohgi/、https://www.keioplaza.co.jp/hachioji/banquet/hall/aoi/、https://www.keioplaza.co.jp/hachioji/banquet/hall/natsume/、https://www.keioplaza.co.jp/hachioji/banquet/hall/mizuki/、https://www.keioplaza.co.jp/hachioji/banquet/hall/iris/、https://www.keioplaza.co.jp/hachioji/banquet/hall/cattleya/、https://www.keioplaza.co.jp/hachioji/banquet/hall/cosmos/、https://www.keioplaza.co.jp/hachioji/banquet/pdf/banquet_guidance_hachioji.pdf",
+ "roomsSources": [
+  {
+   "url": "https://www.keioplaza.co.jp/hachioji/banquet/"
+  },
+  {
+   "url": "https://www.keioplaza.co.jp/hachioji/banquet/hall/shouou/"
+  },
+  {
+   "url": "https://www.keioplaza.co.jp/hachioji/banquet/hall/utage/"
+  },
+  {
+   "url": "https://www.keioplaza.co.jp/hachioji/banquet/hall/nishiki/"
+  },
+  {
+   "url": "https://www.keioplaza.co.jp/hachioji/banquet/hall/ohgi/"
+  },
+  {
+   "url": "https://www.keioplaza.co.jp/hachioji/banquet/hall/aoi/"
+  },
+  {
+   "url": "https://www.keioplaza.co.jp/hachioji/banquet/hall/natsume/"
+  },
+  {
+   "url": "https://www.keioplaza.co.jp/hachioji/banquet/hall/mizuki/"
+  },
+  {
+   "url": "https://www.keioplaza.co.jp/hachioji/banquet/hall/iris/"
+  },
+  {
+   "url": "https://www.keioplaza.co.jp/hachioji/banquet/hall/cattleya/"
+  },
+  {
+   "url": "https://www.keioplaza.co.jp/hachioji/banquet/hall/cosmos/"
+  },
+  {
+   "url": "https://www.keioplaza.co.jp/hachioji/banquet/pdf/banquet_guidance_hachioji.pdf"
+  }
+ ],
  "ops": {
   "loadingHours": {
    "text": "案内PDFの1階平面図に、搬入出口と搬入出導線、地下駐車場入口、屋外駐車場入口が示されている（2024年6月版）。",
@@ -159,7 +196,7 @@
   },
   "catering": {
    "text": "出席者に提供するための飲食物の持込みは禁止（ホテルが許可した場合を除く）。装飾・余興・衣装・引出物・装花・撮影などはホテル指定の会社を使う決まりで、指定外の会社を使う場合は準備・持込料について事前にホテルと打合せが必要（宴会場ご利用規約 最終改正2025年11月1日）。ホテルのケータリングは5名から1,000名超まで受けており、立食プランは1名7,260円（30名から。別途ケータリングフィー）、松花堂弁当＋配膳付きは1名9,680円（10名から）、西洋コース料理＋配膳付きは1名12,100円（10名から）、幕の内弁当デリバリーは1名6,050円（10名から。別途運搬費5,500円）。いずれもサービス料・税込。除外日は2026年12月29日〜2027年1月11日。",
-   "source": "https://www.keioplaza.co.jp/hachioji/banquet/pdf/banquet_terms_hachioji.pdf、https://www.keioplaza.co.jp/hachioji/banquet/catering/"
+   "source": "https://www.keioplaza.co.jp/hachioji/banquet/pdf/banquet_terms_hachioji.pdf%E3%80%81https://www.keioplaza.co.jp/hachioji/banquet/catering/"
   },
   "restaurants": {
    "text": "館内のレストランは、15階の日本料理〈みやま〉・鮨処〈八一〉・鉄板焼〈やまなみ〉、2階の中国料理〈南園〉・レストラン〈ル クレール〉、ラウンジは2階のバー〈SOTO BAR〉と1階のロビーラウンジ。",

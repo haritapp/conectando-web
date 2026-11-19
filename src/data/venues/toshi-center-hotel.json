@@ -189,7 +189,15 @@
    "note": "櫛テーブル正餐108名。スクール72名は3名掛け（料金表では2名掛け48名）。室料（料金表2025.4、税・サービス料込）：全日（9〜21時）242,000円／1日（9〜17時または13〜21時）181,500円／3時間（使用日の30日前から申込）121,000円／追加1時間（8〜22時）30,250円／宴会（2時間）60,500円"
   }
  ],
- "roomsSource": "https://www.rihga.co.jp/toshicenter/meeting/（室料は https://rihga.meclib.jp/rtc-meeting-charge-202504/book/index.html）",
+ "roomsSources": [
+  {
+   "url": "https://www.rihga.co.jp/toshicenter/meeting/"
+  },
+  {
+   "url": "https://rihga.meclib.jp/rtc-meeting-charge-202504/book/index.html"
+  }
+ ],
+ "roomsSourceMemo": "https://www.rihga.co.jp/toshicenter/meeting/（室料は https://rihga.meclib.jp/rtc-meeting-charge-202504/book/index.html）",
  "ops": {
   "loadingHours": {
    "text": "会場のご予約時間には準備・撤去の時間を含み、当日はご予約時間の30分前に開場する。お荷物の送付は、予約時間内に到着するよう配送会社へ手配し、前日到着から受け付けている。依頼した業者が会場装飾などを行う場合は、事前に電話（03-5216-8819）で連絡する。装飾・機器の搬入・搬出、看板のサイズ・取付方法・設置場所は、ホテルが業者へ説明するルールに従う。",

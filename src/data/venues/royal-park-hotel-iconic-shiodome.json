@@ -79,7 +79,11 @@
    "note": "最大利用人数15名"
   }
  ],
- "roomsSource": "https://www.royalparkhotels.co.jp/ic/tokyoshiodome/banquet/",
+ "roomsSources": [
+  {
+   "url": "https://www.royalparkhotels.co.jp/ic/tokyoshiodome/banquet/"
+  }
+ ],
  "ops": {
   "parking": {
    "text": "ホテル地下（B3〜B4F）の公共駐車場で、192台（ファクトシート2025年1月現在）。事前の予約は受け付けていない。収容できる車は長さ5.3m以下・幅1.95m以下・高さ1.55〜2.1m以下。宴会場の利用者は3時間まで無料、ミーティングルームの利用者は2時間まで無料で、延長は20分につき300円（税込）。駐車場に関する問い合わせは駐車場管理室（080-5781-5994）。",

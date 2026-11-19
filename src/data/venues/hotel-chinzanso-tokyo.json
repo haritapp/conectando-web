@@ -354,7 +354,11 @@
    "note": "会議室"
   }
  ],
- "roomsSource": "https://hotel-chinzanso-tokyo.jp/banquet/hall/",
+ "roomsSources": [
+  {
+   "url": "https://hotel-chinzanso-tokyo.jp/banquet/hall/"
+  }
+ ],
  "ops": {
   "loadingHours": {
    "text": "大型の荷物の搬入はトラックでも可能。グランドホール椿には大型リフトがあり、自動車などの展示会もできる。",

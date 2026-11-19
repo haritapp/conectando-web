@@ -576,7 +576,11 @@
    "note": "連結利用。最大収容者数一覧PDF（2022年版）の値"
   }
  ],
- "roomsSource": "https://www.bigsight.jp/organizer/facilities/east.html",
+ "roomsSources": [
+  {
+   "url": "https://www.bigsight.jp/organizer/facilities/east.html"
+  }
+ ],
  "ops": {
   "catering": {
    "text": "展示ホール内で飲食行為を行う場合は江東区保健所への届出と許可が必要で、「展示会概要」への記載も求められる（出展者が自社小間で茶菓子程度を出す場合は届出不要）。会議棟では場内レストラン（日比谷マツモトロー 50名〜、香港飲茶楼 ル・パルク 50〜1,000名）やホテル等の登録業者によるケータリングなら、登録業者の設営時間は利用時間に含まれず、パントリー利用料・テーブル料金がかからない。外部業者のケータリングも可能だが、設営・撤去時間を含めて申込み、パントリー・丸テーブル・バーカウンターは有料、保健所への営業許可申請が必要。国際会議場は原則飲食禁止（弁当の持込のみ条件付きで相談可）。（出典：会議施設利用の手引き PDF 2025年9月現在、展示施設利用の手引き PDF 2026年10月現在）",
@@ -698,7 +702,7 @@
     "hours": "10:00-19:30（毎日）",
     "address": "東京都江東区有明3-6-11 TFTビル東館2階",
     "verified": true,
-    "source": "https://shopinfo.cando-web.co.jp/東京都/江東区/",
+    "source": "https://shopinfo.cando-web.co.jp/%E6%9D%B1%E4%BA%AC%E9%83%BD/%E6%B1%9F%E6%9D%B1%E5%8C%BA/",
     "note": null
    },
    {

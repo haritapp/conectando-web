@@ -442,7 +442,17 @@
    "note": "地下1階〜3階の4層吹抜けのオープンスペース。会場図にはステージ125㎡・ステージ下104㎡・噴水62㎡・控室14.7㎡。イベント開催可能時間は10:00〜20:00で、基本料金は平日660,000円・土日祝1,100,000円（税込、電気料金・立会管理者1名・基本備品を含む）。628インチの大型ビジョンがある（噴水広場 会場利用規程 2026年7月）"
   }
  ],
- "roomsSource": "https://co.sunshinecity.co.jp/exhibition/facilities/ ／ https://co.sunshinecity.co.jp/conference/guidance.html ／ https://co.sunshinecity.co.jp/fountain/",
+ "roomsSources": [
+  {
+   "url": "https://co.sunshinecity.co.jp/exhibition/facilities/"
+  },
+  {
+   "url": "https://co.sunshinecity.co.jp/conference/guidance.html"
+  },
+  {
+   "url": "https://co.sunshinecity.co.jp/fountain/"
+  }
+ ],
  "ops": {
   "prevDaySetup": {
    "text": "展示ホールは開催日の前後に設営・撤去だけを行う日の使用料が基本使用料金の半額で、この日は冷暖房・換気を運転しない（運転したい場合は時間外空調料金・時間外換気料金が別にかかる）。設営・開催・撤去を1日で行う場合は、開催日の基本使用料金が適用される。会議室のレイアウト変更を施設に頼む場合は、申込時に申告し、2週間前までに希望レイアウトを知らせ、1週間前までに確定する（変更費は別途）。会議室で連日使うときに荷物を部屋に置いたままにできるかは、予約状況による相談になる。（出典：展示ホール料金表 2026年2月現在、会議室 部屋検索ページ、会議室よくあるご質問）",

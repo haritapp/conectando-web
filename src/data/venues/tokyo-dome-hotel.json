@@ -243,7 +243,26 @@
    "note": "42F。各室。7.8m×14.0m。映写スクリーン・プロジェクター・HDMIポートはアリエスのみ常設。会議36名のレイアウト例がある。"
   }
  ],
- "roomsSource": "https://www.tokyodome-hotels.co.jp/banquet/venue-list/tenku/pdf/B1F_tenku2025.pdf ／ https://www.tokyodome-hotels.co.jp/banquet/venue-list/b1smallbanquet/pdf/B1F_small_banquet2025_f.pdf ／ https://www.tokyodome-hotels.co.jp/banquet/venue-list/aurora/pdf/B1F_aurora2025.pdf ／ https://www.tokyodome-hotels.co.jp/banquet/venue-list/cynthia/pdf/B1F_cynthia2025.pdf ／ https://www.tokyodome-hotels.co.jp/banquet/venue-list/5fsmallbanquet/pdf/5F_banquet2025.pdf ／ https://www.tokyodome-hotels.co.jp/banquet/venue-list/skybanquet/pdf/42F_skybanquet2025.pdf",
+ "roomsSources": [
+  {
+   "url": "https://www.tokyodome-hotels.co.jp/banquet/venue-list/tenku/pdf/B1F_tenku2025.pdf"
+  },
+  {
+   "url": "https://www.tokyodome-hotels.co.jp/banquet/venue-list/b1smallbanquet/pdf/B1F_small_banquet2025_f.pdf"
+  },
+  {
+   "url": "https://www.tokyodome-hotels.co.jp/banquet/venue-list/aurora/pdf/B1F_aurora2025.pdf"
+  },
+  {
+   "url": "https://www.tokyodome-hotels.co.jp/banquet/venue-list/cynthia/pdf/B1F_cynthia2025.pdf"
+  },
+  {
+   "url": "https://www.tokyodome-hotels.co.jp/banquet/venue-list/5fsmallbanquet/pdf/5F_banquet2025.pdf"
+  },
+  {
+   "url": "https://www.tokyodome-hotels.co.jp/banquet/venue-list/skybanquet/pdf/42F_skybanquet2025.pdf"
+  }
+ ],
  "ops": {
   "parking": {
    "text": "地下2・3階に駐車場がある。料金は平日30分ごとに400円、土・日・祝日・特定日は30分ごとに500円（税込）で、最大料金はない。車は長さ3.3〜5.0m・幅1.4〜1.9m・高さ2.1m以下・重量2.5t以下に限り、大型バスと高さ2.1mを超える車は入れない。駐車場の予約はできず、東京ドームのイベント開催時など混雑時は入庫を規制することがある。ホテル駐車場は館内施設の利用者に限る。宴会の利用者への駐車料金サービスは宴席ごとに内容が違うため、宴会の担当者に聞く。",

@@ -101,7 +101,11 @@
    "note": "5.5m×8m。スクールは公式の「クラスルーム」、banquetは「正餐」。"
   }
  ],
- "roomsSource": "https://www.shangri-la.com/jp/tokyo/shangrila/meetings-events/event-spaces/",
+ "roomsSources": [
+  {
+   "url": "https://www.shangri-la.com/jp/tokyo/shangrila/meetings-events/event-spaces/"
+  }
+ ],
  "ops": {
   "parking": {
    "text": "ホテル駐車場は地下2階。お車寄せは地下1階。駐車場の高さ制限は、地下2階が2.1m、外堀通り側の入口が2.5m、永代通り側の入口が3.2m。宴会は4時間まで無料（婚礼は終日無料）。一般利用は500円/30分・1,000円/1時間、レストラン利用は3,000円以上で1時間無料・5,000円以上で2時間無料・8,000円以上で4時間無料。バレーパーキングは1日2,000円（駐車料金は別途）。（駐車場案内PDF 2025年6月22日付）",

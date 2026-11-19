@@ -145,7 +145,11 @@
    "note": "使用料0円。控室のみの利用はできない"
   }
  ],
- "roomsSource": "https://www.bellesalle.co.jp/wp-content/uploads/shiodome_price.pdf",
+ "roomsSources": [
+  {
+   "url": "https://www.bellesalle.co.jp/wp-content/uploads/shiodome_price.pdf"
+  }
+ ],
  "ops": {
   "prevDaySetup": {
    "text": "使用時間には準備・後片付けの時間も含まれる（料金表）。ホールは8時間・12時間・24時間の料金があり、夜間利用や24時間利用は前後の予約状況で使えない場合があるため事前相談。荷物の事前受け取りは開催日の前日着が原則で、事前搬入届が必要。（出典：ホール料金表 2026/7/3更新、よくあるご質問）",
