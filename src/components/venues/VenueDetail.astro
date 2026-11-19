@@ -43,7 +43,12 @@ const hostOf = (u: string) => { try { return new URL(u).hostname.replace(/^www\.
 const roomsSources = (v.roomsSources ?? []).map((r) => {
   let label = hostOf(r.url);
   if ((v.roomsSources ?? []).length > 1) {
-    try { const u = new URL(r.url); const path = u.pathname.replace(/\/$/, ''); label = (hostOf(r.url) + path).replace(/^(.{44}).+$/, '$1…'); } catch { /* そのまま */ }
+    try {
+      const u = new URL(r.url);
+      const segs = u.pathname.split('/').filter(Boolean);
+      const tail = segs.length > 1 ? `/…/${segs[segs.length - 1]}` : segs.length ? `/${segs[0]}` : '';
+      label = (hostOf(r.url) + tail + (u.pathname.endsWith('/') && segs.length ? '/' : '')).replace(/^(.{48}).+$/, '$1…');
+    } catch { /* そのまま */ }
   }
   return { url: r.url, label };
 });
@@ -154,6 +159,7 @@ const areaName = AREA_LABEL[v.area] ?? '';
               <h3>{o.label}</h3>
               <p>{o.text}</p>
               <a class="vd-src" href={o.source} target="_blank" rel="noopener">{t.source}{hostOf(o.source)}{isPdf(o.source) ? t.pdfMark : ''}</a>
+              {(o.moreSources ?? []).map((m) => <>{' '}<a class="vd-src" href={m} target="_blank" rel="noopener">{hostOf(m)}{isPdf(m) ? t.pdfMark : ''}</a></>)}
             </div>
           ))}
         </div>

@@ -21,7 +21,7 @@ export interface Room {
 }
 
 export interface RoomsSource { url: string; note?: string | null }
-export interface OpsItem { text: string; source: string }
+export interface OpsItem { text: string; source: string; /** 出典が複数あるときの2つ目以降（source には1つ目だけ入れる） */ moreSources?: string[] }
 export type OpsKey = 'catering' | 'restaurants' | 'prevDaySetup' | 'waitingRooms' | 'loadingHours' | 'parking' | 'vehicleRules';
 
 export interface Shop {
@@ -135,7 +135,7 @@ function assertCleanUrls(v: Venue) {
   check('organizerUrl', v.organizerUrl);
   (v.roomsSources ?? []).forEach((r, i) => check(`roomsSources[${i}].url`, r.url));
   if (v.notice && typeof v.notice === 'object') check('notice.source', v.notice.source);
-  Object.entries(v.ops ?? {}).forEach(([k, o]) => check(`ops.${k}.source`, o?.source));
+  Object.entries(v.ops ?? {}).forEach(([k, o]) => { check(`ops.${k}.source`, o?.source); (o?.moreSources ?? []).forEach((m, i) => check(`ops.${k}.moreSources[${i}]`, m)); });
   (v.documents ?? []).forEach((d, i) => check(`documents[${i}].url`, d.url));
   Object.entries(v.nearby ?? {}).forEach(([g, list]) => (list ?? []).forEach((sh, i) => check(`nearby.${g}[${i}].source`, sh.source)));
   check('photo.sourceUrl', v.photo?.sourceUrl);

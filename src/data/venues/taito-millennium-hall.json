@@ -9,7 +9,7 @@
  "organizerUrl": "https://www.city.taito.lg.jp/gakushu/shogaigakushu/shogaigakushusisetsu/syougaigakusyuucente/riyouannai/riyouannai.html",
  "bizintokyoSlug": "taito-millennium-hall",
  "accessSummary": "東京メトロ日比谷線「入谷駅」1番出口 徒歩約8分／つくばエクスプレス「浅草駅」A2出口 徒歩約8分／JR山手線・京浜東北線「鶯谷駅」南口 徒歩約15分",
- "notice": "改修工事のため休館中。2026年11月15日（日）午前9時にリニューアルオープンし、一般利用が始まる。営利目的の使用と営利目的の物品販売はできない。区外の個人・2人以上の団体も利用者登録をすれば借りられる（ミレニアムホールは区外料金の加算なし）が、全日利用の抽選は区内の登録者だけで、区外は先着順予約から。",
+ "notice": "改修工事のため2025年4月から休館していたが、2026年11月15日（日）にリニューアルオープンした。営利目的の使用と営利目的の物品販売はできない。区外の個人・2人以上の団体も利用者登録をすれば借りられる（ミレニアムホールは区外料金の加算なし）が、全日利用の抽選は区内の登録者だけで、区外は先着順予約から。",
  "hours": "利用時間 9:00〜22:00（使用料の払込は20:00まで）。ミレニアムホールの時間区分は午前9:00〜12:00／午後13:00〜17:00／夜間18:00〜21:00（夜間2は〜22:00）／全日9:00〜21:00（全日2は〜22:00）で、準備と後片付けの時間を含む。休館日は毎月第1・第3・第5月曜日（祝日・休日の場合は翌日）と年末年始（12月29日〜1月3日）。開館時間のページには「9時から20時」の記載もある。",
  "rooms": [
   {
@@ -132,8 +132,8 @@
    "source": "https://www.city.taito.lg.jp/kusei/online/yoyaku/riyosyaguide.files/2.pdf"
   },
   "parking": {
-   "text": "地下駐車場は改修工事のため2025年4月から利用できず、2026年11月中旬頃に再開予定。",
-   "source": "https://www.city.taito.lg.jp/gakushu/shogaigakushu/shogaigakushusisetsu/syougaigakusyuucente/riyouannai/kyuukann.html"
+   "text": "地下駐車場は改修工事のため2025年4月から利用できなかった。リニューアル後の施設概要（2026年11月15日）には地下1階の駐車場が載っている。利用条件や料金は公式ページで確認が必要。",
+   "source": "https://www.city.taito.lg.jp/gakushu/shogaigakushu/shogaigakushusisetsu/syougaigakusyuucente/riyouannai/renewal.html"
   },
   "waitingRooms": {
    "text": "楽屋は4室。楽屋1・2は各定員6名で連結でき、シャワールーム（2口）が付く。楽屋3・4は各定員2名の個室。楽屋事務室もある。楽屋は付帯設備として別途使用料がかかる。",
