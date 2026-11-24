@@ -1,20 +1,20 @@
 ---
-title: "Hold Your First Tokyo Event as a Side Event to a Bigger One"
-description: "Why a side event during a big Tokyo conference is easier to fill than a standalone event, which big events accept side events, and what to watch out for before you apply."
+title: "Hosting a Side Event in Tokyo: Why It's Easier to Fill and What to Check Before You Apply"
+description: "Why hosting a side event during a big Tokyo conference such as SusHi Tech Tokyo, Tokyo Tech Week or Japan Fintech Week is easier to fill than a standalone event, and what to check before you apply."
 date: 2026-11-20
 slug: "side-events-during-big-tokyo-conferences"
 lang: "en"
 category: "planning"
 author: "shintaro"
 altSlug: "side-event"
-lead: "Speakers and attendees are already in Tokyo during a big conference, so a side event is easier to fill than a standalone one. Here are the events to look at and the rules to check first."
+lead: "A side event rides on the crowd a big conference brings to Tokyo, so it is often easier to fill than a standalone event. Each conference has its own rules, so read them before you apply."
 heroImage: "/images/column/side-events-during-big-tokyo-conferences-hero.webp"
 heroCredit: "Photo: Conectando (New York Silicon Alley Meetup #12)"
 featured: false
-keywords: ["side event Tokyo", "SusHi Tech Tokyo side event", "Tokyo Tech Week side event", "Japan Fintech Week partner event", "first event in Tokyo"]
+keywords: ["side event Tokyo", "SusHi Tech Tokyo side event", "Tokyo Tech Week side event", "Japan Fintech Week partner event", "first event in Tokyo", "host a side event Tokyo", "SusHi Tech side event", "Japan Fintech Week side event"]
 ---
 
-If you are holding your first event in Tokyo, it is often easier to attract people by running it as a side event during a big conference than by holding it on its own.
+When you hold an event in Tokyo, one option is to run it as a side event during a big conference. It is often easier to attract people than holding it on its own.
 
 ## Why time it with a big event
 

@@ -1,19 +1,19 @@
 ---
-title: "外資系企業の日本でのイベント｜東京で初めてのイベントは、大きなイベントのサイドイベントとして開く"
-description: "東京で初めてイベントを開くなら、大きなイベントの期間中に開くサイドイベントが集客しやすい理由と、SusHi Tech・Japan Fintech Week・Tokyo Tech Week の例、申し込み前の注意点を説明します。"
+title: "外資系企業の日本でのイベント｜サイドイベントを主催するメリットと注意点（SusHi Tech・Tokyo Tech Week など）"
+description: "SusHi Tech Tokyo・Tokyo Tech Week・Japan Fintech Week など、東京の大きなイベントに合わせてサイドイベントを主催するメリットと、申し込み前に確認したい注意点を説明します。"
 date: 2026-11-20
 slug: "side-event"
 lang: "ja"
 category: "planning"
 author: "shintaro"
 altSlug: "side-events-during-big-tokyo-conferences"
-lead: "大きなイベントの期間中は、登壇者も参加者も東京に集まります。サイドイベントなら単独より人が集まりやすく、事前に確認したいルールもあります。"
+lead: "サイドイベントは、大きなイベントで東京に集まる人たちを呼び込めるため、単独で開くより人が集まりやすい傾向があります。ただし、イベントごとにルールがあるので、申し込み前の確認が必要です。"
 heroImage: "/images/column/side-event-hero.webp"
 heroCredit: "Photo: Conectando（New York Silicon Alley Meetup #12）"
-keywords: ["サイドイベント 東京", "SusHi Tech Tokyo サイドイベント", "Tokyo Tech Week 申し込み", "Japan Fintech Week 連携イベント", "外資系 イベント 初めて"]
+keywords: ["サイドイベント 東京", "SusHi Tech Tokyo サイドイベント", "Tokyo Tech Week 申し込み", "Japan Fintech Week 連携イベント", "外資系 イベント 初めて", "サイドイベント 主催", "SusHi Tech サイドイベント", "Tokyo Tech Week サイドイベント"]
 ---
 
-東京で初めてイベントを開くなら、単独で開くよりも、大きなイベントの期間中に「サイドイベント」として開くと人を集めやすくなります。
+東京でイベントを開くとき、大きなイベントの期間中に「サイドイベント」として開くのも1つの方法です。単独で開くより、人を集めやすいことが多いからです。
 
 ## なぜ、大きなイベントに合わせるのか
 
