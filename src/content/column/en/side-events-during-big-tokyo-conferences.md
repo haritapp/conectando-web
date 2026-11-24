@@ -38,24 +38,30 @@ Dates and conditions are as of November 2026. Always check the official website 
 
 Timing your event with a big conference does not guarantee that people will come.
 
-1. **The big event does not match your theme**
+**1. The big event does not match your theme**
+
 Even a very big event is not much use if its theme does not match yours. For example, holding a startup event during Tokyo Game Show makes little sense, and the reverse is also true. Choose which big event to join with a cool head.
 
-2. **You have no Japanese partner**
+**2. You have no Japanese partner**
+
 Without a Japanese partner, attracting people may be difficult. It helps to run the event together with a Japanese company in the same industry, a local community, or a co-hosting organization. For example, if your event is about AI, it is better to hold it together with a Japanese AI community.
 
 ## What to watch out for
 
-1. **Venues are surprisingly hard to book**
+**1. Venues are surprisingly hard to book**
+
 During a big event, other organizers are also looking for venues nearby.
 
-2. **Read the official listing process carefully**
+**2. Read the official listing process carefully**
+
 For some events, if you do not contact them early, your event will not be featured on the official website.
 
-3. **Apply early. Don't wait until all your speakers are confirmed**
+**3. Apply early. Don't wait until all your speakers are confirmed**
+
 Early applications are more likely to be accepted and promoted. Applying early works better than waiting until every speaker is confirmed.
 
-4. **Check the rules carefully**
+**4. Check the rules carefully**
+
 Each big event has its own rules for side events. Events that are too sales-focused may not be accepted. For example, at Tokyo Tech Week 2026, at least one person responsible for the event must take a training course, and panels with two or more speakers should not be all-male.
 
 ## Venues and planning
