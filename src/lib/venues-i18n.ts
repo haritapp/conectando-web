@@ -209,6 +209,8 @@ export function firstSentence(text: string, lang: Lang): string {
 }
 
 // ---- 画面の文言 ----
+type DetailInfo = { cap: { people: number; room: string; layout: string } | null; hasFee: boolean; hasLoad: boolean };
+
 export const UI = {
   ja: {
     home: 'ホーム', homeHref: '/', crumbAria: 'パンくず', listName: '会場リスト', listHref: '/venues/',
@@ -247,8 +249,16 @@ export const UI = {
     bizintokyo: (n: string) => `参加者向け：${n}への行き方・近くのホテル（BizinTokyo）`,
     bizintokyoBase: 'https://www.bizintokyo.com/venues/',
     back: '← 会場リストに戻る',
-    detailTitle: (n: string) => `${n}｜イベント運営者向け会場情報（搬入・控室・近くの店）`,
-    detailDesc: (n: string) => `${n}でイベントを運営する人向けに、部屋ごとの収容人数・広さ、搬入・前日設営・控室・駐車場の公式ルール、近くの印刷店・コンビニ・100円ショップ・ドン・キホーテをまとめました。`,
+    detailTitle: (n: string, info: DetailInfo) => {
+      const parts = [info.cap ? '収容人数（キャパ）' : null, info.hasFee ? '料金' : null, info.hasLoad ? '搬入' : null].filter(Boolean);
+      return parts.length > 0 ? `${n}の${parts.join('・')}｜イベント運営者向け会場情報` : `${n}｜イベント運営者向け会場情報（搬入・控室・近くの店）`;
+    },
+    detailDesc: (n: string, info: DetailInfo) => {
+      const cap = info.cap;
+      const head = cap ? `${n}の収容人数は最大${cap.people.toLocaleString('ja-JP')}人（${cap.room ? cap.room + '・' : ''}${cap.layout}形式）。` : '';
+      const body = `部屋ごとの人数・広さ、公式の資料（図面・${info.hasFee ? '料金表・' : ''}規約など）、搬入・前日設営・控室・駐車場の公式ルール、近くの印刷店・コンビニ・100円ショップを、イベントを運営する人向けにまとめました。`;
+      return head + body;
+    },
     // 一覧ページ
     listTitle: 'イベント会場リスト（運営者向け）｜東京・横浜 | Conectando',
     listDesc: '東京・横浜のイベント会場を、収容人数・広さ・エリアに加えて、搬入・前日設営・控室・駐車場の公式ルールと、近くの印刷店・100円ショップ・ドン・キホーテで探せる運営者向けリスト。',
@@ -301,8 +311,17 @@ export const UI = {
     bizintokyo: (n: string) => `For attendees: getting to ${n} and nearby hotels (BizinTokyo)`,
     bizintokyoBase: 'https://www.bizintokyo.com/en/venues/',
     back: '← Back to the venue list',
-    detailTitle: (n: string) => `${n} | Venue information for event organizers (load-in, waiting rooms, nearby shops)`,
-    detailDesc: (n: string) => `Information for organizers running an event at ${n}: capacity and size of each room, the venue's official rules on load-in, day-before setup, waiting rooms and parking, and nearby print shops, convenience stores, 100-yen shops and Don Quijote.`,
+    detailTitle: (n: string, info: DetailInfo) => {
+      const parts = [info.cap ? 'Capacity' : null, info.hasFee ? 'Rates' : null, info.hasLoad ? 'Load-in' : null].filter(Boolean) as string[];
+      const joined = parts.length === 3 ? `${parts[0]}, ${parts[1]} & ${parts[2]}` : parts.join(' & ');
+      return parts.length > 0 ? `${n}: ${joined} | Venue Info for Event Organizers` : `${n} | Venue information for event organizers (load-in, waiting rooms, nearby shops)`;
+    },
+    detailDesc: (n: string, info: DetailInfo) => {
+      const cap = info.cap;
+      const head = cap ? `${n} holds up to ${cap.people.toLocaleString('en-US')} people (${cap.room ? cap.room + ', ' : ''}${cap.layout} layout). ` : '';
+      const body = `Room-by-room capacity and size, official documents (floor plans, ${info.hasFee ? 'rate cards, ' : ''}rules), the venue's official rules on load-in, day-before setup, waiting rooms and parking, and nearby print shops, convenience stores and 100-yen shops — for event organizers.`;
+      return head + body;
+    },
     listTitle: 'Event Venue List for Organizers | Tokyo & Yokohama | Conectando',
     listDesc: 'A venue list for event organizers in Tokyo and Yokohama: search by capacity, room size and area, with each venue’s official rules on load-in, day-before setup, waiting rooms and parking, plus nearby print shops, 100-yen shops and Don Quijote.',
     heroTitle: 'Venue List',
