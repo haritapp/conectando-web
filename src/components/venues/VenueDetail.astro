@@ -67,8 +67,17 @@ const hotels = (hotelData?.hotels ?? []).map((h) => ({
   url: lang === 'en' ? h.urlEn : h.urlJa,
 }));
 const hotelsPage = lang === 'en' ? hotelData?.pageEn : hotelData?.pageJa;
-const title = t.detailTitle(name);
-const description = t.detailDesc(name);
+const FEE_RE = /料金|利用料|使用料|価格|rate|fee|price|tariff/i;
+const baseDocs = getVenue(slug)!.documents ?? [];
+const detailInfo = {
+  cap: cap
+    ? { people: cap.people, room: cap.room === name || v.rooms.length <= 1 ? '' : cap.room, layout: LAYOUT_LABEL[cap.layout] }
+    : null,
+  hasFee: [...baseDocs, ...(v.documents ?? [])].some((d) => FEE_RE.test(d.title ?? '')),
+  hasLoad: [v.ops?.loadingHours?.text, v.ops?.vehicleRules?.text].some((x) => typeof x === 'string' && x.trim() !== ''),
+};
+const title = t.detailTitle(name, detailInfo);
+const description = t.detailDesc(name, detailInfo);
 const areaPath = AREA_LABEL[v.area] ? areaColumnPathI(v.area, lang) : null; // コラムが無い地域は null（リンクなし）
 const areaName = AREA_LABEL[v.area] ?? '';
 ---
