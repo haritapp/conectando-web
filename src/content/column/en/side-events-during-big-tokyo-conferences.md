@@ -34,6 +34,16 @@ We did this ourselves. In May 2025, we held "New York Silicon Alley Meetup #12" 
 
 Dates and conditions are as of November 2026. Always check the official website before you apply.
 
+## When a side event is not a good fit
+
+Timing your event with a big conference does not guarantee that people will come.
+
+1. **The big event does not match your theme**
+Even a very big event is not much use if its theme does not match yours. For example, holding a startup event during Tokyo Game Show makes little sense, and the reverse is also true. Choose which big event to join with a cool head.
+
+2. **You have no Japanese partner**
+Without a Japanese partner, attracting people may be difficult. It helps to run the event together with a Japanese company in the same industry, a local community, or a co-hosting organization. For example, if your event is about AI, it is better to hold it together with a Japanese AI community.
+
 ## What to watch out for
 
 1. **Venues are surprisingly hard to book**
