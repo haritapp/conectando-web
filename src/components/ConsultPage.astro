@@ -33,7 +33,7 @@ const T = isEn
       when: 'When', whenPh: 'e.g. June 2027 / not decided',
       size: 'Attendees', sizes: ['Up to 50', '51–100', '101–300', '301–1,000', '1,001 or more', 'Not decided'],
       venue: 'Venue', venues: ['Decided', 'Have candidates', 'Please find one', 'Not decided'],
-      vname: 'Venue name (if any)', vnamePh: 'Filled in automatically when you come from a venue page',
+      vname: 'Venue name (if any)', vnamePh: 'e.g. Tokyo International Forum',
       budget: 'Budget', budgets: ['Under ¥1M', '¥1–3M', '¥3–5M', '¥5–10M', 'Over ¥10M', 'Not decided'],
       scope: 'What you would like us to handle (any number)',
       scopes: ['Everything, planning to event day', 'Venue search and booking', 'On-site operations', 'Speaker and guest handling', 'Not decided yet'],
@@ -73,7 +73,7 @@ const T = isEn
       when: '開催の時期', whenPh: '例：2027年6月ごろ／未定',
       size: '参加人数', sizes: ['50名まで', '51〜100名', '101〜300名', '301〜1,000名', '1,001名以上', '未定'],
       venue: '会場', venues: ['決まっている', '候補がある', '探してほしい', '未定'],
-      vname: '会場名（あれば）', vnamePh: '会場ページから来た場合は自動で入ります',
+      vname: '会場名（あれば）', vnamePh: '例：東京国際フォーラム',
       budget: 'ご予算', budgets: ['100万円未満', '100〜300万円', '300〜500万円', '500〜1,000万円', '1,000万円以上', '未定'],
       scope: 'お任せになりたい範囲（いくつでも）',
       scopes: ['企画から当日まで全部', '会場探し・手配', '当日の運営', '登壇者・ゲストの対応', 'まだ決めていない'],
@@ -432,7 +432,7 @@ const js = {
 
 <style>
 .cs-eyebrow { font-size: .75rem; letter-spacing: .16em; color: var(--color-brand); font-weight: 700; margin: 0 0 .5rem; }
-.cs-h1 { font-size: clamp(1.75rem, 5vw, 2.5rem); line-height: 1.4; font-weight: 700; color: var(--color-heading); margin: 0; }
+.cs-h1 { text-wrap: balance; word-break: auto-phrase; font-size: clamp(1.75rem, 5vw, 2.5rem); line-height: 1.4; font-weight: 700; color: var(--color-heading); margin: 0; }
 .cs-h2 { font-size: clamp(1.375rem, 3.5vw, 1.625rem); line-height: 1.5; font-weight: 700; color: var(--color-heading); margin: 0 0 1.5rem; }
 
 .cs-hero { background: var(--color-accent); padding: 4.5rem 1.5rem 4rem; }
