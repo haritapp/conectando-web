@@ -1,0 +1,540 @@
+---
+// イベント専用の相談ページ（日本語・英語共通）。/consult/ と /en/consult/ から使う。
+// 事例の事実（種類・規模・主催・写真・リンク先）は src/pages/case/index.astro と
+// src/pages/case/detail/[slug].astro（英語は en/ 側）にある値だけを使っている。
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+interface Props { lang: 'ja' | 'en' }
+const { lang } = Astro.props;
+const isEn = lang === 'en';
+
+// ロボット確認（Cloudflare Turnstile）の公開用サイトキー。contact.astro と同じ値
+const TURNSTILE_SITE_KEY = '0x4AAAAAAGVJr0-ri2JJfeFG';
+
+// contact.astro と同じ送り先（Google Apps Script）
+const APPS_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbyGCdFNh_QWh_2LEs2StsQg8EY-2_aJfqxFDgt1vaRMbrE80qF7agSp5bGB4CrNYwMjpw/exec';
+
+const base = isEn ? '/en' : '';
+
+const T = isEn
+  ? {
+      title: 'Event consultation for Tokyo events | Conectando',
+      description: 'Planning an event in Tokyo? Tell us about it. We work with overseas teams directly in English, from venue search to on-site operations. Free to ask, reply within 2–3 business days.',
+      eyebrow: 'EVENT CONSULTATION',
+      h1a: 'Planning an event in Tokyo?', h1b: 'Tell us about it.',
+      lead: 'For overseas teams bringing an event to Tokyo. We work with you directly in English, from the first call to the event day. Need only a venue, or only on-site operations? That is fine too.',
+      chips: ['Free to ask', 'Reply within 2–3 business days', 'English or Japanese'],
+      toForm: 'Tell us about your event ↓',
+      casesLabel: 'CASES', casesH: 'Events we have worked on', viewCase: 'View case →',
+      faqLabel: 'FAQ', faqH: 'Questions we hear most',
+      formLabel: 'FORM', formH: 'Tell us about your event',
+      formLead: 'Only four fields are required. Leave blank anything you have not decided yet.',
+      req: 'Required', opt: 'Optional',
+      name: 'Name', company: 'Company', email: 'Email', body: 'Your message',
+      bodyPh: 'e.g. We are planning a customer event in Tokyo next June for about 150 guests and need help from venue search onward.',
+      optH: 'If you already know',
+      when: 'When', whenPh: 'e.g. June 2027 / not decided',
+      size: 'Attendees', sizes: ['Up to 50', '51–100', '101–300', '301–1,000', '1,001 or more', 'Not decided'],
+      venue: 'Venue', venues: ['Decided', 'Have candidates', 'Please find one', 'Not decided'],
+      vname: 'Venue name (if any)', vnamePh: 'e.g. Tokyo International Forum',
+      budget: 'Budget', budgets: ['Under ¥1M', '¥1–3M', '¥3–5M', '¥5–10M', 'Over ¥10M', 'Not decided'],
+      scope: 'What you would like us to handle (any number)',
+      scopes: ['Everything, planning to event day', 'Venue search and booking', 'On-site operations', 'Speaker and guest handling', 'Not decided yet'],
+      how: 'How did you find us?', hows: ['Referral', 'Web search', 'AI (ChatGPT etc.)', 'SNS', 'BizinTokyo・BizinKansai', 'Other'],
+      select: 'Please select',
+      agreePre: 'I agree to the ', agreeLink: 'privacy policy', agreePost: '',
+      send: 'Send', sending: 'Sending...',
+      note1: 'We reply within 2–3 business days.',
+      note2pre: 'For anything other than events (partnerships, press), use the ', note2link: 'general contact page', note2post: '.',
+      okH: 'Thank you. We received your request',
+      okP: 'A confirmation email has been sent to the address you entered.',
+      okP2: 'We reply within 2–3 business days.',
+      okSpam: 'If you do not see it, please check your spam folder.',
+      okTop: 'Back to top', okAgain: 'Send another request',
+      ngH: 'Sending failed', ngP: 'A network error occurred. Please check your connection and try again.', ngBack: 'Back to form',
+      needFields: 'Please fill in name, company, email and your message, and agree to the privacy policy.',
+      extraH: '— Additional details —', ref: 'Referrer page', from: 'from parameter', none: '(none)',
+      keys: { when: 'When', size: 'Attendees', venue: 'Venue', vname: 'Venue name', budget: 'Budget', scope: 'Scope to hand over', how: 'How they found us' },
+      type: 'Event in Tokyo',
+    }
+  : {
+      title: 'イベントの相談｜東京でのイベント開催',
+      description: '東京でのイベント、まずは1回ご相談ください。海外から東京でイベントを開く企業と、海外ゲストを迎える日本企業のための相談窓口です。会場だけ、当日運営だけの相談も可。相談は無料、2〜3営業日以内に返信します。',
+      eyebrow: 'EVENT CONSULTATION ・ イベントの相談',
+      h1a: '東京でのイベント、', h1b: 'まずは1回ご相談ください。',
+      lead: '海外から東京でイベントを開く企業と、海外ゲストを迎える日本企業のための相談窓口です。会場だけ、当日運営だけといった一部のご相談も受けています。',
+      chips: ['相談は無料', '2〜3営業日以内に返信', '日本語・英語どちらでも'],
+      toForm: '相談内容を書く ↓',
+      casesLabel: 'CASES', casesH: 'これまでに受けたご相談の例', viewCase: '事例を見る →',
+      faqLabel: 'FAQ', faqH: 'よく聞かれること',
+      formLabel: 'FORM', formH: '相談内容を書く',
+      formLead: '必須は4つだけです。まだ決まっていないことは空けたままで構いません。',
+      req: '必須', opt: '任意',
+      name: 'お名前', company: '会社名', email: 'メールアドレス', body: 'ご相談内容',
+      bodyPh: '例：来年6月に、本社から30名ほど来日する社内イベントを東京で開きたい。会場探しから相談したい。',
+      optH: 'わかる範囲で',
+      when: '開催の時期', whenPh: '例：2027年6月ごろ／未定',
+      size: '参加人数', sizes: ['50名まで', '51〜100名', '101〜300名', '301〜1,000名', '1,001名以上', '未定'],
+      venue: '会場', venues: ['決まっている', '候補がある', '探してほしい', '未定'],
+      vname: '会場名（あれば）', vnamePh: '例：東京国際フォーラム',
+      budget: 'ご予算', budgets: ['100万円未満', '100〜300万円', '300〜500万円', '500〜1,000万円', '1,000万円以上', '未定'],
+      scope: 'お任せになりたい範囲（いくつでも）',
+      scopes: ['企画から当日まで全部', '会場探し・手配', '当日の運営', '登壇者・ゲストの対応', 'まだ決めていない'],
+      how: '弊社を知ったきっかけ', hows: ['知人からの紹介', 'WEB検索', 'AI（ChatGPT など）', 'SNS', 'BizinTokyo・BizinKansai', 'その他'],
+      select: '選んでください',
+      agreePre: '', agreeLink: '個人情報の取り扱い', agreePost: 'に同意する',
+      send: '相談を送る', sending: '送信中...',
+      note1: '原則として2〜3営業日以内にご返信します。',
+      note2pre: 'イベント以外のお問い合わせ（協業・取材など）は ', note2link: 'お問い合わせページ', note2post: ' へ。',
+      okH: 'ご相談を受け付けました',
+      okP: 'ご入力いただいたメールアドレスに確認メールをお送りしました。',
+      okP2: '原則として2〜3営業日以内にご返信いたします。',
+      okSpam: 'メールが届かない場合は迷惑メールフォルダもご確認ください。',
+      okTop: 'トップへ戻る', okAgain: 'もう一度送る',
+      ngH: '送信に失敗しました', ngP: '通信エラーが発生しました。インターネット接続を確認し、再度お試しください。', ngBack: 'フォームに戻る',
+      needFields: 'お名前・会社名・メールアドレス・ご相談内容を入力し、個人情報の取り扱いに同意してください。',
+      extraH: '— ご相談の補足情報 —', ref: '直前のページ', from: 'fromパラメータ', none: '（なし）',
+      keys: { when: '開催の時期', size: '参加人数', venue: '会場', vname: '会場名', budget: 'ご予算', scope: 'お任せになりたい範囲', how: '弊社を知ったきっかけ' },
+      type: '東京でのイベント開催',
+    };
+
+// 相談例：種類・規模・主催・写真・リンク先は既存の事例データにある事実のみ
+const cases = isEn
+  ? [
+      { slug: 'gatetoindiaafrica2025', title: 'Gate to India & Africa 2025', meta: 'Conference ・ about 200 attendees', org: 'Organizer: SGgrow Pte Ltd／Uncovered Fund', img: '/images/top/case-gatetoindiaafrica2025.webp' },
+      { slug: 'solanasupertokyo', title: 'Solana Super Tokyo', meta: 'Conference ・ 650+ attendees', org: 'Organizer: Superteam Japan', img: '/images/top/case-solanasupertokyo.webp' },
+      { slug: 'indoafrica2025', title: 'India & Africa Founders and Investors Meetup (Kyoto)', meta: 'Mixer ・ 100 attendees', org: 'Organizer: SGgrow Pte Ltd／Uncovered Fund', img: '/images/top/case-indiaafrica-kyoto.webp' },
+    ]
+  : [
+      { slug: 'gatetoindiaafrica2025', title: 'Gate to India & Africa 2025', meta: 'カンファレンス ・ 約200名', org: '主催：SGgrow Pte Ltd／Uncovered Fund', img: '/images/top/case-gatetoindiaafrica2025.webp' },
+      { slug: 'solanasupertokyo', title: 'Solana Super Tokyo', meta: 'カンファレンス ・ 650名超', org: '主催：Superteam Japan', img: '/images/top/case-solanasupertokyo.webp' },
+      { slug: 'indoafrica2025', title: 'インド・アフリカ 起業家・投資家交流会（京都）', meta: '交流会 ・ 100名', org: '主催：SGgrow Pte Ltd／Uncovered Fund', img: '/images/top/case-indiaafrica-kyoto.webp' },
+    ];
+
+// よく聞かれること。費用の行のコラムリンクは、実在する公開済みコラムだけ（日本語は見積もり比較、英語は費用の記事）
+const faqs = isEn
+  ? [
+      { q: 'Can everything be handled in English?', a: 'Yes. From the first call to the event day, you talk directly with the person running your event, in English. No interpreter in between.' },
+      { q: 'How much does it cost?', a: 'It depends on headcount, venue and how much you hand over to us. Once we know the outline, we send an itemized quote.', link: { href: '/en/column/how-much-does-an-event-in-tokyo-cost/', label: 'How much does an event in Tokyo cost? →' } },
+      { q: 'Which venue should we use?', a: 'Tell us your headcount and dates and we will suggest options. To look first yourself, our venue list can be filtered by capacity.', link: { href: '/en/venues/', label: 'Browse the venue list →' } },
+    ]
+  : [
+      { q: '英語で運営できますか？', a: 'はい。最初の打ち合わせから当日の進行まで、担当者が英語で直接やり取りします。通訳をはさみません。' },
+      { q: '費用はどれくらいですか？', a: '人数・会場・お任せいただく範囲で変わります。内容を伺ったうえで、内訳のわかる見積もりをお出しします。', link: { href: '/column/mitsumori/', label: '見積もりの比べ方についてのコラム →' } },
+      { q: '会場はどこがいいですか？', a: '人数と日程を伺って候補を出します。先にご自分で探したい方は、収容人数で絞り込める会場リストをどうぞ。', link: { href: '/venues/', label: '会場リストを見る →' } },
+    ];
+
+const js = {
+  APPS_SCRIPT_URL,
+  TURNSTILE_SITE_KEY,
+  lang,
+  type: T.type,
+  homeHref: isEn ? '/en/' : '/',
+  L: {
+    select: T.select, sending: T.sending, send: T.send, needFields: T.needFields,
+    extraH: T.extraH, ref: T.ref, from: T.from, none: T.none, keys: T.keys,
+    ngP: T.ngP, venueCandidate: T.venues[1],
+  },
+};
+---
+
+<BaseLayout title={T.title} description={T.description} rawTitle={isEn}>
+
+  <!-- 上の帯 -->
+  <section class="cs-hero">
+    <div class="cs-hero-inner">
+      <p class="cs-eyebrow">{T.eyebrow}</p>
+      <h1 class="cs-h1">{T.h1a}<br />{T.h1b}</h1>
+      <p class="cs-lead">{T.lead}</p>
+      <ul class="cs-chips" role="list">
+        {T.chips.map((c) => <li>{c}</li>)}
+      </ul>
+      <a href="#form" class="cs-btn">{T.toForm}</a>
+    </div>
+  </section>
+
+  <!-- 相談例 -->
+  <section class="cs-sec">
+    <div class="cs-wide">
+      <p class="cs-eyebrow">{T.casesLabel}</p>
+      <h2 class="cs-h2">{T.casesH}</h2>
+      <div class="cs-cases">
+        {cases.map((c) => (
+          <article class="cs-case">
+            <img src={c.img} alt={c.title} width="640" height="360" loading="lazy" />
+            <div class="cs-case-body">
+              <h3>{c.title}</h3>
+              <p>{c.meta}<br />{c.org}</p>
+              <a href={`${base}/case/detail/${c.slug}`}>{T.viewCase}</a>
+            </div>
+          </article>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- よく聞かれること -->
+  <section class="cs-sec cs-sec-tint">
+    <div class="cs-mid">
+      <p class="cs-eyebrow">{T.faqLabel}</p>
+      <h2 class="cs-h2">{T.faqH}</h2>
+      <div class="cs-faqs">
+        {faqs.map((f) => (
+          <div class="cs-faq">
+            <h3>{f.q}</h3>
+            <p>{f.a}{f.link && <a href={f.link.href}>{f.link.label}</a>}</p>
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- フォーム -->
+  <section class="cs-sec" id="form">
+    <div class="cs-form-wrap">
+      <p class="cs-eyebrow">{T.formLabel}</p>
+      <h2 class="cs-h2">{T.formH}</h2>
+      <p class="cs-formlead">{T.formLead}</p>
+
+      <div id="formContainer">
+        <form class="contact-form" id="consultForm" novalidate>
+          <div class="field-group">
+            <label class="field-label" for="name">{T.name} <span class="required">{T.req}</span></label>
+            <input class="field-input" type="text" id="name" name="name" required autocomplete="name" />
+          </div>
+          <div class="field-group">
+            <label class="field-label" for="company">{T.company} <span class="required">{T.req}</span></label>
+            <input class="field-input" type="text" id="company" name="company" required autocomplete="organization" />
+          </div>
+          <div class="field-group">
+            <label class="field-label" for="email">{T.email} <span class="required">{T.req}</span></label>
+            <input class="field-input" type="email" id="email" name="email" required autocomplete="email" />
+          </div>
+          <div class="field-group">
+            <label class="field-label" for="message">{T.body} <span class="required">{T.req}</span></label>
+            <textarea class="field-textarea" id="message" name="message" rows="6" required placeholder={T.bodyPh}></textarea>
+          </div>
+
+          <fieldset class="cs-optional">
+            <legend class="cs-opt-title">{T.optH} <span class="optional">{T.opt}</span></legend>
+            <div class="cs-opt-grid">
+              <div class="field-group">
+                <label class="field-label" for="when">{T.when}</label>
+                <input class="field-input" type="text" id="when" name="when" placeholder={T.whenPh} />
+              </div>
+              <div class="field-group">
+                <label class="field-label" for="size">{T.size}</label>
+                <div class="select-wrap">
+                  <select class="field-select" id="size" name="size">
+                    <option value="">{T.select}</option>
+                    {T.sizes.map((s) => <option value={s}>{s}</option>)}
+                  </select>
+                </div>
+              </div>
+              <div class="field-group">
+                <label class="field-label" for="venue">{T.venue}</label>
+                <div class="select-wrap">
+                  <select class="field-select" id="venue" name="venue">
+                    <option value="">{T.select}</option>
+                    {T.venues.map((s) => <option value={s}>{s}</option>)}
+                  </select>
+                </div>
+              </div>
+              <div class="field-group">
+                <label class="field-label" for="vname">{T.vname}</label>
+                <input class="field-input" type="text" id="vname" name="vname" placeholder={T.vnamePh} />
+              </div>
+              <div class="field-group">
+                <label class="field-label" for="budget">{T.budget}</label>
+                <div class="select-wrap">
+                  <select class="field-select" id="budget" name="budget">
+                    <option value="">{T.select}</option>
+                    {T.budgets.map((s) => <option value={s}>{s}</option>)}
+                  </select>
+                </div>
+              </div>
+            </div>
+
+            <div class="field-group">
+              <span class="field-label">{T.scope}</span>
+              <div class="cs-checks">
+                {T.scopes.map((s) => (
+                  <label class="cs-check"><input type="checkbox" class="checkbox-input" name="scope" value={s} />{s}</label>
+                ))}
+              </div>
+            </div>
+
+            <div class="field-group">
+              <label class="field-label" for="source">{T.how}</label>
+              <div class="select-wrap">
+                <select class="field-select" id="source" name="source">
+                  <option value="">{T.select}</option>
+                  {T.hows.map((s) => <option value={s}>{s}</option>)}
+                </select>
+              </div>
+            </div>
+          </fieldset>
+
+          <!-- ハニーポット（ボット対策、非表示） -->
+          <div class="hp-field" aria-hidden="true">
+            <label for="website">Website</label>
+            <input type="text" id="website" name="website" tabindex="-1" autocomplete="off" />
+          </div>
+
+          <div class="field-group checkbox-group">
+            <label class="checkbox-label">
+              <input type="checkbox" class="checkbox-input" name="_consent" id="consent" required />
+              <span>{T.agreePre}<a href={`${base}/policy`} class="privacy-link" target="_blank" rel="noopener">{T.agreeLink}</a>{T.agreePost}</span>
+            </label>
+          </div>
+
+          <p class="cs-inline-error" id="inlineError" role="alert" style="display:none;"></p>
+
+          <div class="cs-turnstile" id="consultTurnstile" style="margin: 0 0 1rem;"></div>
+
+          <div class="submit-row">
+            <button type="submit" class="submit-btn" id="submitBtn">{T.send}</button>
+          </div>
+
+          <p class="cs-notes">
+            {T.note1}<br />
+            {T.note2pre}<a href={`${base}/contact`}>{T.note2link}</a>{T.note2post}
+          </p>
+        </form>
+      </div>
+
+      <!-- 送信完了 -->
+      <div id="formSuccess" class="form-success" style="display:none;">
+        <div class="form-success-icon" aria-hidden="true">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12" /></svg>
+        </div>
+        <h3>{T.okH}</h3>
+        <p>{T.okP}<br />{T.okP2}</p>
+        <p class="form-note">{T.okSpam}</p>
+        <div class="form-actions">
+          <a href={isEn ? '/en/' : '/'} class="action-btn">{T.okTop}</a>
+          <button type="button" class="action-btn secondary" id="resetFormBtn">{T.okAgain}</button>
+        </div>
+      </div>
+
+      <!-- 送信エラー -->
+      <div id="formError" class="form-error" style="display:none;">
+        <div class="form-error-icon" aria-hidden="true">!</div>
+        <h3>{T.ngH}</h3>
+        <p id="formErrorMessage">{T.ngP}</p>
+        <div class="form-actions">
+          <button type="button" class="action-btn" id="retryFormBtn">{T.ngBack}</button>
+        </div>
+      </div>
+    </div>
+  </section>
+
+</BaseLayout>
+
+{TURNSTILE_SITE_KEY && (
+  <script src="https://challenges.cloudflare.com/turnstile/v0/api.js?onload=onConsultTurnstileLoad" defer></script>
+)}
+
+<script define:vars={{ js }}>
+  function onConsultTurnstileLoad() {
+    if (js.TURNSTILE_SITE_KEY && typeof turnstile !== 'undefined') {
+      turnstile.render('#consultTurnstile', { sitekey: js.TURNSTILE_SITE_KEY, theme: 'light' });
+    }
+  }
+  window.onConsultTurnstileLoad = onConsultTurnstileLoad;
+
+  var form       = document.getElementById('consultForm');
+  var container  = document.getElementById('formContainer');
+  var successDiv = document.getElementById('formSuccess');
+  var errorDiv   = document.getElementById('formError');
+  var errorMsg   = document.getElementById('formErrorMessage');
+  var submitBtn  = document.getElementById('submitBtn');
+  var inlineErr  = document.getElementById('inlineError');
+  var params     = new URLSearchParams(location.search);
+
+  // 会場ページから来た場合：会場名を入れ、会場の選択を「候補がある」にする
+  var venueParam = params.get('venue');
+  if (venueParam) {
+    document.getElementById('vname').value = venueParam;
+    document.getElementById('venue').value = js.L.venueCandidate;
+  }
+
+  function showView(view) {
+    container.style.display  = view === 'form'    ? '' : 'none';
+    successDiv.style.display = view === 'success' ? '' : 'none';
+    errorDiv.style.display   = view === 'error'   ? '' : 'none';
+    var target = view === 'success' ? successDiv : view === 'error' ? errorDiv : container;
+    target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+  }
+  function resetForm() {
+    form.reset();
+    if (typeof turnstile !== 'undefined') { try { turnstile.reset('#consultTurnstile'); } catch (e) {} }
+    if (venueParam) {
+      document.getElementById('vname').value = venueParam;
+      document.getElementById('venue').value = js.L.venueCandidate;
+    }
+    showView('form');
+  }
+  document.getElementById('resetFormBtn').addEventListener('click', resetForm);
+  document.getElementById('retryFormBtn').addEventListener('click', function () { showView('form'); });
+
+  function val(id) { return (document.getElementById(id).value || '').trim(); }
+
+  // 任意項目は受け側が転送しない可能性があるため、ご相談内容の末尾に見出し付きで足して送る
+  function buildMessage() {
+    var k = js.L.keys;
+    var scopes = Array.prototype.map.call(form.querySelectorAll('input[name="scope"]:checked'), function (c) { return c.value; });
+    var rows = [
+      [k.when, val('when')], [k.size, val('size')], [k.venue, val('venue')], [k.vname, val('vname')],
+      [k.budget, val('budget')], [k.scope, scopes.join(' / ')], [k.how, val('source')]
+    ].filter(function (r) { return r[1]; });
+    var extra = rows.map(function (r) { return r[0] + ': ' + r[1]; });
+    extra.push(js.L.ref + ': ' + (document.referrer || js.L.none));
+    extra.push(js.L.from + ': ' + (params.get('from') || js.L.none));
+    return val('message') + '\n\n' + js.L.extraH + '\n' + extra.join('\n');
+  }
+
+  form.addEventListener('submit', async function (e) {
+    e.preventDefault();
+    if (document.getElementById('website').value) return;   // ハニーポット
+
+    inlineErr.style.display = 'none';
+    if (!val('name') || !val('company') || !val('email') || !val('message') || !document.getElementById('consent').checked) {
+      inlineErr.textContent = js.L.needFields;
+      inlineErr.style.display = '';
+      return;
+    }
+
+    submitBtn.disabled = true;
+    submitBtn.textContent = js.L.sending;
+
+    var payload = {
+      lang: js.lang,
+      name: val('name'),
+      company: val('company'),
+      phone: '',
+      email: val('email'),
+      source: val('source'),
+      type: js.type,
+      message: buildMessage(),
+      turnstileToken: (function () { var t = form.querySelector('input[name="cf-turnstile-response"]'); return t ? t.value : ''; })(),
+      website: ''
+    };
+
+    var result = null;
+    try {
+      var res = await fetch(js.APPS_SCRIPT_URL, {
+        method: 'POST',
+        headers: { 'Content-Type': 'text/plain' },
+        body: JSON.stringify(payload)
+      });
+      result = await res.json();
+      if (result.status === 'ok') {
+        if (typeof window.gtag === 'function') {
+          window.gtag('event', 'generate_lead', { lang: js.lang, type: payload.type, form: 'consult' });
+        }
+        showView('success');
+      } else {
+        if (errorMsg) errorMsg.textContent = result.message || js.L.ngP;
+        showView('error');
+      }
+    } catch (err) {
+      if (errorMsg) errorMsg.textContent = js.L.ngP;
+      showView('error');
+    } finally {
+      submitBtn.disabled = false;
+      submitBtn.textContent = js.L.send;
+    }
+  });
+</script>
+
+<style>
+.cs-eyebrow { font-size: .75rem; letter-spacing: .16em; color: var(--color-brand); font-weight: 700; margin: 0 0 .5rem; }
+.cs-h1 { text-wrap: balance; word-break: auto-phrase; font-size: clamp(1.75rem, 5vw, 2.5rem); line-height: 1.4; font-weight: 700; color: var(--color-heading); margin: 0; }
+.cs-h2 { font-size: clamp(1.375rem, 3.5vw, 1.625rem); line-height: 1.5; font-weight: 700; color: var(--color-heading); margin: 0 0 1.5rem; }
+
+.cs-hero { background: var(--color-accent); padding: 4.5rem 1.5rem 4rem; }
+.cs-hero-inner { max-width: 51rem; margin: 0 auto; display: flex; flex-direction: column; align-items: flex-start; gap: 1.25rem; }
+.cs-hero-inner .cs-eyebrow { margin: 0; }
+.cs-lead { margin: 0; font-size: 1.0625rem; line-height: 1.9; color: var(--color-text); }
+.cs-chips { list-style: none; padding: 0; margin: 0; display: flex; flex-wrap: wrap; gap: .75rem; }
+.cs-chips li { background: #fff; border: 1px solid var(--color-border); border-radius: 9999px; padding: .5rem 1rem; font-size: .875rem; font-weight: 600; color: var(--color-brand); }
+.cs-btn { display: inline-block; background: var(--color-brand); color: #fff; font-weight: 700; font-size: 1rem; padding: .875rem 2.5rem; border-radius: 9999px; text-decoration: none; margin-top: .5rem; transition: opacity .2s; }
+.cs-btn:hover { opacity: .85; text-decoration: none; }
+
+.cs-sec { padding: 4rem 1.5rem; }
+.cs-sec-tint { background: var(--color-accent); }
+.cs-wide { max-width: 62.5rem; margin: 0 auto; }
+.cs-mid { max-width: 51rem; margin: 0 auto; }
+
+.cs-cases { display: grid; grid-template-columns: repeat(auto-fit, minmax(16rem, 1fr)); gap: 1.25rem; }
+.cs-case { border: 1px solid var(--color-border); border-radius: var(--radius-md); overflow: hidden; display: flex; flex-direction: column; background: #fff; }
+.cs-case img { width: 100%; height: 10rem; object-fit: cover; display: block; background: var(--color-accent); }
+.cs-case-body { padding: 1.125rem 1.25rem 1.25rem; display: flex; flex-direction: column; gap: .5rem; }
+.cs-case-body h3 { margin: 0; font-size: 1rem; line-height: 1.5; color: var(--color-heading); }
+.cs-case-body p { margin: 0; font-size: .875rem; line-height: 1.8; color: var(--color-text); }
+.cs-case-body a { font-size: .875rem; font-weight: 700; }
+
+.cs-faqs { display: flex; flex-direction: column; gap: .875rem; }
+.cs-faq { background: #fff; border: 1px solid var(--color-border); border-radius: var(--radius-md); padding: 1.375rem 1.5rem; }
+.cs-faq h3 { margin: 0 0 .5rem; font-size: 1.0625rem; color: var(--color-heading); }
+.cs-faq p { margin: 0; font-size: .9375rem; line-height: 1.9; }
+.cs-faq p a { font-weight: 700; margin-left: .25rem; }
+
+.cs-form-wrap { max-width: 42.5rem; margin: 0 auto; }
+.cs-formlead { margin: -.75rem 0 2rem; font-size: .9375rem; line-height: 1.9; color: var(--color-text-muted); }
+.cs-optional { border: 1px solid var(--color-border); border-radius: var(--radius-md); padding: 1.5rem; background: var(--color-accent); display: flex; flex-direction: column; gap: 1.5rem; margin: 0; min-width: 0; }
+.cs-opt-title { font-weight: 700; font-size: 1rem; color: var(--color-heading); padding: 0 .25rem; display: flex; align-items: center; gap: .5rem; }
+.cs-opt-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(14rem, 1fr)); gap: 1.25rem; }
+.cs-checks { display: flex; flex-wrap: wrap; gap: .25rem 1.25rem; }
+.cs-check { display: flex; align-items: center; gap: .5rem; min-height: 2.75rem; font-size: .9375rem; cursor: pointer; }
+.cs-inline-error { margin: 0; color: #b91c1c; font-size: .875rem; line-height: 1.7; }
+.cs-notes { margin: 0; text-align: center; font-size: .875rem; line-height: 1.8; color: var(--color-text-muted); }
+
+/* ── contact.astro と同じフォーム部品 ── */
+.contact-form { display: flex; flex-direction: column; gap: 1.75rem; }
+.field-group { display: flex; flex-direction: column; gap: .5rem; min-width: 0; }
+.field-label { font-size: .9375rem; font-weight: 600; color: var(--color-text); display: flex; align-items: center; gap: .5rem; }
+.required { font-size: .6875rem; font-weight: 700; padding: .1875rem .5rem; background: var(--color-brand); color: #fff; border-radius: 9999px; }
+.optional { font-size: .6875rem; font-weight: 700; padding: .1875rem .5rem; background: #e5e7eb; color: var(--color-text-muted); border-radius: 9999px; }
+.field-input, .field-textarea, .field-select {
+  width: 100%; padding: .75rem 1rem; border: 1px solid #d1d5db; border-radius: .375rem;
+  font-size: .9375rem; color: var(--color-text); background: #fff; font-family: inherit;
+  transition: border-color .15s; appearance: none; box-sizing: border-box;
+}
+.field-input:focus, .field-textarea:focus, .field-select:focus { outline: none; border-color: var(--color-brand); box-shadow: 0 0 0 3px rgba(26,26,180,.12); }
+.field-textarea { resize: vertical; min-height: 10rem; }
+.select-wrap { position: relative; }
+.select-wrap::after { content: '▾'; position: absolute; right: 1rem; top: 50%; transform: translateY(-50%); pointer-events: none; color: var(--color-text-muted); font-size: .875rem; }
+.hp-field { position: absolute; left: -9999px; width: 1px; height: 1px; overflow: hidden; }
+.privacy-link { color: var(--color-brand); text-decoration: underline; }
+.checkbox-label { display: flex; align-items: center; gap: .625rem; font-size: .9375rem; color: var(--color-text); cursor: pointer; }
+.checkbox-input { width: 1.125rem; height: 1.125rem; accent-color: var(--color-brand); flex-shrink: 0; cursor: pointer; }
+.submit-row { display: flex; justify-content: center; padding-top: .25rem; }
+.submit-btn { background: var(--color-brand); color: #fff; border: none; padding: .875rem 3rem; border-radius: 9999px; font-size: 1rem; font-weight: 700; font-family: inherit; cursor: pointer; transition: opacity .2s; }
+.submit-btn:hover { opacity: .85; }
+.submit-btn:disabled { opacity: .6; cursor: not-allowed; }
+
+.form-success { background: #f0fdf4; border: 1px solid #bbf7d0; border-top: 3px solid #16a34a; border-radius: .5rem; padding: 3rem 2rem; text-align: center; }
+.form-success-icon { width: 3.5rem; height: 3.5rem; margin: 0 auto 1.5rem; border-radius: 50%; background: #16a34a; color: #fff; display: flex; align-items: center; justify-content: center; }
+.form-success-icon svg { width: 1.75rem; height: 1.75rem; }
+.form-success h3 { font-size: 1.5rem; font-weight: 700; margin: 0 0 1rem; color: var(--color-text); }
+.form-success p { font-size: .9375rem; line-height: 1.8; color: var(--color-text-muted); margin: 0 auto 1rem; max-width: 34rem; }
+.form-note { font-size: .8125rem !important; color: #6b7280 !important; padding-top: 1rem; border-top: 1px dashed #d1d5db; margin-top: 1rem !important; }
+.form-error { background: #fef2f2; border: 1px solid #fecaca; border-top: 3px solid #dc2626; border-radius: .5rem; padding: 3rem 2rem; text-align: center; }
+.form-error-icon { width: 3.5rem; height: 3.5rem; margin: 0 auto 1.5rem; border-radius: 50%; background: #dc2626; color: #fff; display: flex; align-items: center; justify-content: center; font-size: 1.75rem; font-weight: 700; }
+.form-error h3 { font-size: 1.5rem; font-weight: 700; margin: 0 0 1rem; color: var(--color-text); }
+.form-error p { font-size: .9375rem; line-height: 1.8; color: var(--color-text-muted); max-width: 34rem; margin: 0 auto 2rem; }
+.form-actions { display: flex; gap: .75rem; justify-content: center; flex-wrap: wrap; margin-top: 2rem; }
+.action-btn { display: inline-flex; align-items: center; background: var(--color-brand); color: #fff; font-family: inherit; font-size: .9375rem; font-weight: 600; padding: .75rem 1.75rem; border-radius: 9999px; border: 2px solid transparent; cursor: pointer; text-decoration: none; transition: opacity .2s; }
+.action-btn:hover { opacity: .85; }
+.action-btn.secondary { background: transparent; color: var(--color-text-muted); border-color: #d1d5db; }
+.action-btn.secondary:hover { color: var(--color-brand); border-color: var(--color-brand); opacity: 1; }
+
+@media (max-width: 640px) {
+  .cs-hero { padding: 3rem 1.25rem 2.75rem; }
+  .cs-sec { padding: 3rem 1.25rem; }
+  .cs-optional { padding: 1.125rem; }
+  .cs-btn { width: 100%; text-align: center; box-sizing: border-box; }
+}
+</style>
