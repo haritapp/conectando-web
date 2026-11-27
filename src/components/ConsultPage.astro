@@ -8,6 +8,9 @@ interface Props { lang: 'ja' | 'en' }
 const { lang } = Astro.props;
 const isEn = lang === 'en';
 
+// ロボット確認（Cloudflare Turnstile）の公開用サイトキー。contact.astro と同じ値
+const TURNSTILE_SITE_KEY = '0x4AAAAAAGVJr0-ri2JJfeFG';
+
 // contact.astro と同じ送り先（Google Apps Script）
 const APPS_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbyGCdFNh_QWh_2LEs2StsQg8EY-2_aJfqxFDgt1vaRMbrE80qF7agSp5bGB4CrNYwMjpw/exec';
 
@@ -123,6 +126,7 @@ const faqs = isEn
 
 const js = {
   APPS_SCRIPT_URL,
+  TURNSTILE_SITE_KEY,
   lang,
   type: T.type,
   homeHref: isEn ? '/en/' : '/',
@@ -286,6 +290,8 @@ const js = {
 
           <p class="cs-inline-error" id="inlineError" role="alert" style="display:none;"></p>
 
+          <div class="cs-turnstile" id="consultTurnstile" style="margin: 0 0 1rem;"></div>
+
           <div class="submit-row">
             <button type="submit" class="submit-btn" id="submitBtn">{T.send}</button>
           </div>
@@ -325,7 +331,18 @@ const js = {
 
 </BaseLayout>
 
+{TURNSTILE_SITE_KEY && (
+  <script src="https://challenges.cloudflare.com/turnstile/v0/api.js?onload=onConsultTurnstileLoad" defer></script>
+)}
+
 <script define:vars={{ js }}>
+  function onConsultTurnstileLoad() {
+    if (js.TURNSTILE_SITE_KEY && typeof turnstile !== 'undefined') {
+      turnstile.render('#consultTurnstile', { sitekey: js.TURNSTILE_SITE_KEY, theme: 'light' });
+    }
+  }
+  window.onConsultTurnstileLoad = onConsultTurnstileLoad;
+
   var form       = document.getElementById('consultForm');
   var container  = document.getElementById('formContainer');
   var successDiv = document.getElementById('formSuccess');
@@ -351,6 +368,7 @@ const js = {
   }
   function resetForm() {
     form.reset();
+    if (typeof turnstile !== 'undefined') { try { turnstile.reset('#consultTurnstile'); } catch (e) {} }
     if (venueParam) {
       document.getElementById('vname').value = venueParam;
       document.getElementById('venue').value = js.L.venueCandidate;
@@ -399,7 +417,7 @@ const js = {
       source: val('source'),
       type: js.type,
       message: buildMessage(),
-      turnstileToken: '',
+      turnstileToken: (function () { var t = form.querySelector('input[name="cf-turnstile-response"]'); return t ? t.value : ''; })(),
       website: ''
     };
 
